@@ -1,0 +1,19 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $title := .Get "title" -}}
+{{- $caption := .Get "caption" -}}
+{{- $descPosition := .Get "pos" -}}
+
+{{- $target := .Get "target" -}}
+{{ with $target }}
+{{ else }}
+    {{ $target = $src }}
+{{ end }}
+
+<div class="img-container">
+    <a href="{{$src}}" class="glightbox" data-glightbox="title:{{$title}}; description: {{$caption}}; descPosition: {{$descPosition}}">
+        <i class="fa fa-search-plus fa-2x"></i>
+        <img src="{{$target}}" alt="image">
+        <div class="caption">{{$title}}</div>
+    </a>
+</div>
