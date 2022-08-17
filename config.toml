@@ -1,7 +1,7 @@
 Title =  "brainfck.org"
 defaultContentLanguage = "en"
 languageCode = "en-us"
-BaseUrl = "https://victor-roam.netlify.app/"
+BaseUrl = "https://brainroam.netlify.app/"
 Theme =  "er"
 MetaDataFormat =  "yaml"
 CanonifyUrls =  true
