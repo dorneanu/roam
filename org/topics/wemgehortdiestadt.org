@@ -8,7 +8,7 @@
 #+revision: 0
 #+stream-type: singletiddler
 #+tags: Topics
-#+title: #WemGehörtDieStadt
+#+title: WemGehörtDieStadt
 #+tmap.id: 876d3440-fb47-4096-b137-b68bf76f2e1b
 #+type: text/vnd.tiddlywiki
 

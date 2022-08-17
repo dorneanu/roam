@@ -1,5 +1,5 @@
 +++
-title = "#WemGehörtDieStadt"
+title = "WemGehörtDieStadt"
 draft = false
 +++
 
