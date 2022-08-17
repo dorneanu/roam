@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       4736933f-8c41-435e-b3c0-b5c4e10593d6
+:END:
+#+title: The Plant Paradox
+#+created: 20211108085633253
+#+finished_month: 10
+#+finished_year: 2021
+#+genres: Nutrition
+#+goodreads: https://www.goodreads.com/book/show/33630505-the-plant-paradox
+#+modified: 20211116200033513
+#+revision: 0
+#+filetags: :book:nutrition:
+#+date: 2021-10-01
+
+- "The Hidden Dangers in "Healthy" Foods That Cause Disease and Weight Gain"
+- Critics
+  - [[https://hcfricke.com/2017/09/24/buchkritik-plant-paradox-von-stephen-r-gundry-md/][Buchkritik von hcfricke.com]]
