@@ -2,6 +2,9 @@
 :ID:       080428a6-c6a7-472c-b807-0a172a7bd0a2
 :END:
 #+title: Du bist anders, du bist gut
+#+filetags: :book:parenting:
+#+date: 2022-03-01
+
 * Du bist anders, du bist gut
   :PROPERTIES:
   :FINISHED: 2022-03
