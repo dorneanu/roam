@@ -1,0 +1,569 @@
++++
+title = "Wheels of Life"
+date = 2018-08-01
+tags = ["book"]
+draft = false
++++
+
+## Wheels of Life {#wheels-of-life}
+
+
+### Description {#description}
+
+
+## Quotes {#quotes}
+
+
+### Wheels of Life - Note 1 {#wheels-of-life-note-1}
+
+> I define a Chakra as an organizational center for the reception, assimilation, and transmission of life energy. What we generate determines much of what we receive, and in this way it behooves us to work on our chakras and clean up outdated, dysfunctional, or negative programming that may be getting in our way.
+
+
+### Wheels of Life - Note 2 {#wheels-of-life-note-2}
+
+> There are minor chakras in the knees and feet that transmit sensations from the ground below to our spinal column for information concerning motor activity. These are sub-chakras to the first and second chakras—grounding outlets for the body as a whole.
+
+
+### Wheels of Life - Note 3 {#wheels-of-life-note-3}
+
+> And yet, it is this solid matter that provides the basis of our consensus reality. It is this matter that is our constant, and without its relatively changeless solidity, our lives would be quite difficult. Imagine if every time you came home your house was in a different shape or in a different place; or if your children changed beyond recognition from day to day. How confusing it would be!
+
+
+### Wheels of Life - Note 4 {#wheels-of-life-note-4}
+
+> 1.  J. Jung describes this instinctual base as the realm of the collective unconscious —a vast and powerful realm of inherited instincts and evolutionary trends. When we reclaim these roots, we strengthen who we are, and draw on the vast wisdom of this instinctual realm.
+
+
+### Wheels of Life - Note 5 {#wheels-of-life-note-5}
+
+> Our language and cultural values reflect the superiority of the high at the expense of the low, i.e., to be highly regarded, to hold one thing above another, to get high, to have things look up. Socially and economically, intellectual work is better rewarded than physical labor. Our natural bodily processes such as waste elimination, sexuality, birth, breastfeeding, or nudity are considered dirty, to be done only in private and often with much guilt. Control of our health is put in the hands of an elite class, denying us the sense of our own innate healing potential. Our power structures in business, government, and organized religion flow hierarchically, from the top down, controlling and often trampling that which is below in order to serve the “higher cause” of that which is above.
+
+
+### Wheels of Life - Note 6 {#wheels-of-life-note-6}
+
+> As we become more mechanized and urbanized, our contact with the Earth and nature becomes more tenuous, and with it our health and self-worth. Our power is transferred to the upper body where it, too, is tenuous and must be constantly guarded. Because we see ourselves as separate, power becomes an act of manipulation rather than connection. We lose touch with our animal nature, and with it our sense of instinctual power, grace, and peace. When we have a sense of self that comes from the body, we have less need to affirm ourselves through ego inflation. Ground is home—it’s familiar, safe, and secure. It has a power of its own.
+
+
+### Wheels of Life - Note 7 {#wheels-of-life-note-7}
+
+> Grounding is a simplifying force. We are bringing our consciousness into the body which, for all practical purposes, exists in one space and one time only—the here and now. Our thoughts, by contrast, are much more versatile, extending outside of space and time.
+
+
+### Wheels of Life - Note 8 {#wheels-of-life-note-8}
+
+> Like any stereo receiver, we need to plug it in before we can receive the various frequencies. Grounding is the process of plugging ourselves into the Earth and the world around us, completing the circuit that makes us a channel for the great diversity of life energies around us.
+
+
+### Wheels of Life - Note 9 {#wheels-of-life-note-9}
+
+> Through grounding we send the impact of stressful vibrations into a larger body that can handle them.
+
+
+### Wheels of Life - Note 10 {#wheels-of-life-note-10}
+
+> Measurements have shown that when the human body is standing on the ground, it is electrically grounded as well. There is an electrostatic field surrounding the Earth with a resonant frequency of about 7.5 cycles per second.2 The late Itzhak Bentov discussed a micromotion of the body that consists of the constant vibration of the heart, cells, and bodily fluids. He determined that this micromotion vibrates at a frequency of 6.8 to 7.5 cycles per second. Therefore, the body’s natural frequency resonates with the Earth’s ionosphere. Connecting physically to this great body, as in walking or lying on the Earth, our own bodies enter into this resonance more deeply.
+
+
+### Wheels of Life - Note 11 {#wheels-of-life-note-11}
+
+> Chakras filter energy from the environment. Their spinning pattern vibrates at a certain rate allowing only matching vibrations to enter into the internal core of consciousness. The rest recedes into the background, soon to be completely forgotten by the conscious mind (although the subconscious mind may often remember quite well). When too much abrasive energy is found in our surroundings, the chakras will close down to protect the subtle body from this caustic invasion. Overloaded chakras are difficult to open. Grounding is a way to discharge this excess tension.
+
+
+### Wheels of Life - Note 12 {#wheels-of-life-note-12}
+
+> Grounding brings clarity through stillness.
+
+
+### Wheels of Life - Note 13 {#wheels-of-life-note-13}
+
+> In this state of “groundedness,” decisions are more easily made, worries about the future are more easily assailed, and enjoyment of the present moment takes on a new luster and challenge.
+
+
+### Wheels of Life - Note 14 {#wheels-of-life-note-14}
+
+> This routine, while it may be drudgery at times, can actually be beneficial in its limitations.
+
+
+### Wheels of Life - Note 15 {#wheels-of-life-note-15}
+
+> First chakra consciousness is oriented toward survival. This is the maintenance program that protects the health of our bodies and our day-to-day mundane needs.
+
+
+### Wheels of Life - Note 16 {#wheels-of-life-note-16}
+
+> Currently, the situation is quite different. Now our survival is indirect. Our food comes from a store, our heat from a button on the wall. No longer do we need to lie awake at night guarding our food from a wild and hungry beast (unless it’s a family member!). No longer do we need to keep the fire alive out of ignorance about how to relight it. Instead we need to worry about our car breaking down on the way to work, that we have enough money to pay the utilities, or that our home isn’t burglarized when we go out of town.
+
+
+### Wheels of Life - Note 17 {#wheels-of-life-note-17}
+
+> There is very little we can do to interfere with this process without harming the body once the first chakra takes over. If we don’t take a rest, our illness advances until we have no choice.
+
+
+### Wheels of Life - Note 18 {#wheels-of-life-note-18}
+
+> Some unresolved conflict, whether it be physical, circumstantial, or psychological, is keeping their consciousness trapped at this level. There is usually an insecure, panicky feeling—one which may pervade other areas of life, even when there is no need for it.
+
+
+### Wheels of Life - Note 19 {#wheels-of-life-note-19}
+
+> We don’t allow ourselves luxuries, and if we do, it is often with guilt or worry. This is an inability to “have”—a first chakra programmed on a foundation of scarcity rather than abundance.
+
+
+### Wheels of Life - Note 20 {#wheels-of-life-note-20}
+
+> Our ultimate foundation for our survival is the Earth itself. Unfortunately, the Earth is also in a state of survival at this time. The threat of ecological collapse, nuclear holocaust, and the scarcity of clean air and water—all affect our own feelings of survival, either consciously or unconsciously. To pass into a new era does not mean we leave behind the old, but instead incorporate it. As we ignore the Earth, She pulls us back again to ground, to the here and now, to bring into balance that which is threatened.
+
+
+### Wheels of Life - Note 21 {#wheels-of-life-note-21}
+
+> The body is the hardware through which the information is received, as well as the “hard copy” of all the data and programming within us. Etched in the flesh and posture of the bones are our pains and our joys. Coded within our nerve impulses are our needs and habits, memories and talents. Within our genes is our ancestry, within our cells the chemistry of the food we eat, and as our heart beats out our rhythm, our muscles mirror our daily activities. To understand the body, we have to be the body.
+
+
+### Wheels of Life - Note 22 {#wheels-of-life-note-22}
+
+> Meat takes longer to digest than most other foods and, therefore, stays in the digestive tract longer. For this reason it occupies energy in the lower part of the body, often limiting or dominating energy that might otherwise flow toward the upper chakras.
+
+
+### Wheels of Life - Note 23 {#wheels-of-life-note-23}
+
+> It is not necessary to eat meat to be grounded. It is the protein that is most important for the structural tissue associated with the first chakra. A vegetarian diet with proper protein can provide enough “foundation food” to keep the first chakra happy. It is then important to eat such foods as tofu, beans, nuts, eggs, and dairy products.5
+
+
+### Wheels of Life - Note 24 {#wheels-of-life-note-24}
+
+> The physical realm appears relatively solid and unchanging. In reality, however, the atoms that make up our perception of solidity are almost entirely empty space!
+
+
+### Wheels of Life - Note 25 {#wheels-of-life-note-25}
+
+> Einstein proved that matter is condensed energy. When energy becomes highly concentrated, it warps the structure of space-time, creating what physicists call a gravity well. The larger the mass of an object, the deeper the gravity well, and the stronger it pulls in other objects.
+
+
+### Wheels of Life - Note 26 {#wheels-of-life-note-26}
+
+> We often think that when we have completed our study of one we know all about two because two is one and one. We forget that we still have to make a study of “and.”
+
+
+### Wheels of Life - Note 27 {#wheels-of-life-note-27}
+
+> spleen
+
+
+### Wheels of Life - Note 28 {#wheels-of-life-note-28}
+
+> 5
+
+
+### Wheels of Life - Note 29 {#wheels-of-life-note-29}
+
+> When the plant has deep roots and is well-watered, then the fruit is sweet.
+
+
+### Wheels of Life - Note 30 {#wheels-of-life-note-30}
+
+> Two alternate channels control the yin and yang energies, Ida and Pingala, twisting in figure-eight patterns around each chakra and running alongside the sushumna.
+
+
+### Wheels of Life - Note 31 {#wheels-of-life-note-31}
+
+> Pleasure helps the mind and body establish better communication. Through pleasure, we learn to relax and release tension. Impulses then flow freely throughout the whole organism, without fear of suppression. Gradually these impulses create rhythmic, coherent patterns soothing to the whole nervous system.
+
+
+### Wheels of Life - Note 32 {#wheels-of-life-note-32}
+
+> When we emote, we are moving energy out of the unconsciousness, through the body, and into the
+
+
+### Wheels of Life - Note 33 {#wheels-of-life-note-33}
+
+> conscious mind.
+
+
+### Wheels of Life - Note 34 {#wheels-of-life-note-34}
+
+> Sexuality is a sacred ritual of union through the celebration of difference.
+
+
+### Wheels of Life - Note 35 {#wheels-of-life-note-35}
+
+> Healer of the body, joiner of hearts, movement of life, sexuality is the water wheel of life that moves the earth below and tempers the fire above. We wouldn’t be here without it.
+
+
+### Wheels of Life - Note 36 {#wheels-of-life-note-36}
+
+> Tantra, therefore, symbolizes the weaving of the basic underlying fabric of existence.
+
+
+### Wheels of Life - Note 37 {#wheels-of-life-note-37}
+
+> Many people get psychically bombarded by the unconscious broadcasting of surrounding difficulties. For these people, grounding is of utmost importance for it brings our attention into the central line of our body, helping us sort out “whose energy is whose.”
+
+
+### Wheels of Life - Note 38 {#wheels-of-life-note-38}
+
+> Awareness of the other should be balanced by awareness of the self.
+
+
+### Wheels of Life - Note 39 {#wheels-of-life-note-39}
+
+> As we put together matter and movement, we find that they create a third state: energy.
+
+
+### Wheels of Life - Note 40 {#wheels-of-life-note-40}
+
+> Thus, the initial task of the third chakra is to overcome inertia.
+
+
+### Wheels of Life - Note 41 {#wheels-of-life-note-41}
+
+> The hardest part is getting started. Once we get a fire going, it burns more easily, only needing to be stirred and fed.
+
+
+### Wheels of Life - Note 42 {#wheels-of-life-note-42}
+
+> When we withdraw from life, we become a closed system. Our expression turns in on itself, often in anger and self-criticism, which wears us down further. Fire takes fuel to burn, and in a closed system, the fuel eventually burns up. Only in a dynamic state of interaction with the world can we keep up the movement and contact that feeds our fire and zest for life.
+
+
+### Wheels of Life - Note 43 {#wheels-of-life-note-43}
+
+> How do we develop and maintain this power within a culture and educational system that teaches powerlessness as a way of fostering social cooperation? What happens when creative thinkers are seen as deviants to be ostracized from society while conformity is reinforced?
+
+
+### Wheels of Life - Note 44 {#wheels-of-life-note-44}
+
+> Our dominant world view today is one that emphasizes separateness.
+
+
+### Wheels of Life - Note 45 {#wheels-of-life-note-45}
+
+> Through the lens of the Chakra System, power results from combining and integrating, rather than fighting and dominating.
+
+
+### Wheels of Life - Note 46 {#wheels-of-life-note-46}
+
+> The true strength of any group or organism depends on its solidarity and its ability to combine and coordinate its inner forces. The
+
+
+### Wheels of Life - Note 47 {#wheels-of-life-note-47}
+
+> victimization.
+
+
+### Wheels of Life - Note 48 {#wheels-of-life-note-48}
+
+> With an absence of power within, we may constantly seek stimulation, excitement, and activity, afraid to slow down, to feel the emptiness inside.
+
+
+### Wheels of Life - Note 49 {#wheels-of-life-note-49}
+
+> We engage in activity as a way of getting acknowledged by others, a way of being seen, a way of having our ego strengthened.
+
+
+### Wheels of Life - Note 50 {#wheels-of-life-note-50}
+
+> As electricity must be directed through wires in order for its power to be utilized, so must our life energy be directed by consciousness before we can make use of it with any true sense of power.
+
+
+### Wheels of Life - Note 51 {#wheels-of-life-note-51}
+
+> This evolution will come from within each of us, from our core, our roots, and our guts, as well as our visions, our creativity, and our intelligence.
+
+
+### Wheels of Life - Note 52 {#wheels-of-life-note-52}
+
+> Will is consciously controlled change. As the second chakra opens dualities, we are presented with choices. Making those choices gives birth to the will.
+
+
+### Wheels of Life - Note 53 {#wheels-of-life-note-53}
+
+> Getting to the third chakra, however, requires that we give up seeing ourselves as a victim, and realize that lasting change can only come from our own efforts.
+
+
+### Wheels of Life - Note 54 {#wheels-of-life-note-54}
+
+> if we are free from the ego’s lust for results, the actions of our will take us to our destiny.
+
+
+### Wheels of Life - Note 55 {#wheels-of-life-note-55}
+
+> “What is my service to the world, and how can I best do this?”
+
+
+### Wheels of Life - Note 56 {#wheels-of-life-note-56}
+
+> Power within is an openness to the flow of power around us, and our wills wrap themselves around our purpose gracefully when these powers are aligned.
+
+
+### Wheels of Life - Note 57 {#wheels-of-life-note-57}
+
+> Without agreement between will and desire, we lose our passion and our momentum, and thereby dissipate the power needed to carry out our will.
+
+
+### Wheels of Life - Note 58 {#wheels-of-life-note-58}
+
+> Our power, too, grows with our sense of purpose, for it gives us the direction that transforms mere energy into effective power.
+
+
+### Wheels of Life - Note 59 {#wheels-of-life-note-59}
+
+> This is our spiritual center, our core, the place that unites forces from above and below, within and without. The task of chakra four is to integrate and balance the various aspects of our being.
+
+
+### Wheels of Life - Note 60 {#wheels-of-life-note-60}
+
+> As spirit and matter are combined, Shiva and Shakti are united within the heart.
+
+
+### Wheels of Life - Note 61 {#wheels-of-life-note-61}
+
+> Lastly, air represents breath, the vital process through which our cells are kept alive. The Hindus call it prana (from pra, “first,” and na, “unit”).
+
+
+### Wheels of Life - Note 62 {#wheels-of-life-note-62}
+
+> In yoga philosophy, prana is referred to as a vital energy in and of itself, a basic unit from which all life is made.
+
+
+### Wheels of Life - Note 63 {#wheels-of-life-note-63}
+
+> When all the knots of the heart are unloosened, then even here in this human birth, the mortal becomes immortal. This is the whole teaching of the scriptures.2
+
+
+### Wheels of Life - Note 64 {#wheels-of-life-note-64}
+
+> love becomes the precious essence governing each of our lives.
+
+
+### Wheels of Life - Note 65 {#wheels-of-life-note-65}
+
+> There is no greater way to invite love than to offer it first.
+
+
+### Wheels of Life - Note 66 {#wheels-of-life-note-66}
+
+> The heart chakra perceives the world in its unity, not its separation.
+
+
+### Wheels of Life - Note 67 {#wheels-of-life-note-67}
+
+> The heart chakra is yin, and sometimes the most profound love is that which can simply let things be the way they are.
+
+
+### Wheels of Life - Note 68 {#wheels-of-life-note-68}
+
+> Love is not a matter of getting connected; it is a matter of seeing that we already are connected within an intricate web of relationships that extends throughout life.
+
+
+### Wheels of Life - Note 69 {#wheels-of-life-note-69}
+
+> This mysterious force is full of paradox. It has gravitation as well as radiation. We fall in love, yet are lifted by the experience.
+
+
+### Wheels of Life - Note 70 {#wheels-of-life-note-70}
+
+> Balance within ourselves gives us the best shot at maintaining balance in our relationships with others.
+
+
+### Wheels of Life - Note 71 {#wheels-of-life-note-71}
+
+> When the will has consciously tempered and fulfilled our needs, our mind can better enter into an understanding of relationship, and we find our “proper place.” From this place, all our relationships, as well as their beginnings and endings, are in harmony with a greater pattern.
+
+
+### Wheels of Life - Note 72 {#wheels-of-life-note-72}
+
+> In order to love there must be a certain transcendence of ego and loss of separateness that allows us to experience a greater unity.
+
+
+### Wheels of Life - Note 73 {#wheels-of-life-note-73}
+
+> We give up some of our individuality for this union.
+
+
+### Wheels of Life - Note 74 {#wheels-of-life-note-74}
+
+> Living in balance is living in a state of grace, of delicacy, of gentleness. Love is that which endures, and likewise, what is done with love will endure. That which is out of balance will not endure. Only by being balanced within ourselves can we hope to balance the world.
+
+
+### Wheels of Life - Note 75 {#wheels-of-life-note-75}
+
+> As Anahata is a yin chakra, one of its challenges is to allow “letting” to replace “doing” or “making.” Only then can we truly perceive the pattern for what it is.
+
+
+### Wheels of Life - Note 76 {#wheels-of-life-note-76}
+
+> Love is the natural relationship between healthy living things. We need only to believe that it is around us at all times and in all things to find it within ourselves.
+
+
+### Wheels of Life - Note 77 {#wheels-of-life-note-77}
+
+> The energy we project outward finds a matching energy reaching in.
+
+
+### Wheels of Life - Note 78 {#wheels-of-life-note-78}
+
+> Self-acceptance is our first chance to practice unconditional love. It doesn’t mean that we have to give up striving to be better, but that our self-love is not conditional on some future or imagined change. When this occurs within our heart, it then becomes easier to accept others, faults and all, with the unconditional love of the heart chakra. With acceptance and compassion for ourselves, it then becomes easier to make personal changes.
+
+
+### Wheels of Life - Note 79 {#wheels-of-life-note-79}
+
+> By tuning into our heartbeat, we tune ourselves into the resonance with the core rhythm of our organism and the rhythm of the world around us.
+
+
+### Wheels of Life - Note 80 {#wheels-of-life-note-80}
+
+> The channels of energy moving out from the heart toward the hands I call the healing channels, the means by which healing energy reaches out to others.
+
+
+### Wheels of Life - Note 81 {#wheels-of-life-note-81}
+
+> If your breathing is in any way restricted, to that degree, so is your life.
+
+
+### Wheels of Life - Note 82 {#wheels-of-life-note-82}
+
+> Breath, as related to the element air, is one of the primary keys to opening the heart chakra.
+
+
+### Wheels of Life - Note 83 {#wheels-of-life-note-83}
+
+> The Hindus believe that breath is a gateway between the mind and body.
+
+
+### Wheels of Life - Note 84 {#wheels-of-life-note-84}
+
+> Empathy Exercise This exercise is often a good one for couples who are having problems with each other over a specific issue. To do this, imagine you are the person you are having trouble with. Tell the story from his or her point of view, beginning, middle, and end. Put yourself in the other person’s place as you do. Ask if you got it right, or if you left out anything important. Then switch roles and have the other person tell your story from your point of view.
+
+
+### Wheels of Life - Note 85 {#wheels-of-life-note-85}
+
+> Communication is the connecting principle that makes life possible. From the DNA encoded messages of living cells to the spoken or written word, from the nerve impulses connecting mind and body to the broadcast waves connecting continent to continent, communication is the coordinating principle of all life. It is the means whereby consciousness extends itself from one place to
+
+
+### Wheels of Life - Note 86 {#wheels-of-life-note-86}
+
+> another.
+
+
+### Wheels of Life - Note 87 {#wheels-of-life-note-87}
+
+> Chakra five is the center related to communication through sound, vibration, self-expression, and creativity. It is the realm of consciousness that controls, creates, transmits, and receives communication, both within ourselves and between each other. It is the center of dynamic creativity, of synthesizing old ideas into something new. Its attributes include listening, speaking, writing, chanting, Telepathy, and any of the arts—especially those related to sound and language.
+
+
+### Wheels of Life - Note 88 {#wheels-of-life-note-88}
+
+> the lower chakras are highly individual. Our bodies, for example, are clearly separate, with our edges defined by our skin. As we climb up the chakra column, our boundaries become less defined.
+
+
+### Wheels of Life - Note 89 {#wheels-of-life-note-89}
+
+> Richard Gerber, M.D., in his groundbreaking book, Vibrational Medicine, describes how “in reality, it is the organizing principle of the etheric body which maintains and sustains the growth of the physical body.”3 Diseases tend to show up first in the etheric body, before they manifest in the tissues. Likewise, healing can be brought about by techniques that primarily treat the subtle body, such as acupuncture, homeopathy, and psychic healing.
+
+
+### Wheels of Life - Note 90 {#wheels-of-life-note-90}
+
+> In some cases, it is called “space,” being the non-physical element beyond earth, air, fire, and water. In these systems, the four elements describe the physical world and the spirit is left for the unexplainable non-physical realm.
+
+
+### Wheels of Life - Note 91 {#wheels-of-life-note-91}
+
+> The etheric field is a kind of blueprint for the vibrational patterns of our tissues, organs, emotions, activities, experiences, memories, and thoughts.
+
+
+### Wheels of Life - Note 92 {#wheels-of-life-note-92}
+
+> 7
+
+
+### Wheels of Life - Note 93 {#wheels-of-life-note-93}
+
+> As we climb up the chakra column, each plane is said to vibrate at a higher, faster, and more efficient level than the chakra below it.
+
+
+### Wheels of Life - Note 94 {#wheels-of-life-note-94}
+
+> Subsequent experiments have shown that sound waves, projected into various mediums, such as water, powders, pastes, or oil, produce patterns with remarkable similarity to forms found in nature, such as spiral galaxies, cellular division in an embryo, or the iris and pupil of the human eye. Study of this phenomenon is called Cymatics and was largely developed by a swiss scientist named Hans Jenny.8
+
+
+### Wheels of Life - Note 95 {#wheels-of-life-note-95}
+
+> “In the beginning was the Word, and the Word was with God and the Word was God.”10 Both describe how sound, as an emanation of the divine, creates the manifested world.
+
+
+### Wheels of Life - Note 96 {#wheels-of-life-note-96}
+
+> We are like a symphony orchestra. The various aspects of the system are the strings, the horns, the woodwinds, and the percussion, yet only through the uniting power of rhythm can we make music. The rhythm is the heartbeat of the system! What many of us lack in our lives is this resonant rhythm, the integrating aspect that connects us from the very core of our being to the heartbeat of the universe.
+
+
+### Wheels of Life - Note 97 {#wheels-of-life-note-97}
+
+> We all affect each other, as well as everything around us, by the vibrations we carry within our minds and bodies.
+
+
+### Wheels of Life - Note 98 {#wheels-of-life-note-98}
+
+> At the heart of each of us, whatever our imperfections, there exists a silent pulse of perfect rhythm, a complex of wave forms and resonances, which is absolutely individual and unique and yet which connects us to everything in the universe. The act of getting in touch with this pulse can transform our personal experience and in some way alter the world around us.12 —George Leonard
+
+
+### Wheels of Life - Note 99 {#wheels-of-life-note-99}
+
+> Perhaps communication is really a rhythmic dance rather than a stimulus-response phenomenon, as we usually think of it. For we see that the listener is not reacting to the speaker but is instead resonating with the speaker when communication is truly occurring.
+
+
+### Wheels of Life - Note 100 {#wheels-of-life-note-100}
+
+> “Our ability to have a world depends on our ability to entrain with it"
+
+
+### Wheels of Life - Note 102 {#wheels-of-life-note-102}
+
+> The word comes from “man,” meaning mind, and “tra,” which means protection or instrument.
+
+
+### Wheels of Life - Note 103 {#wheels-of-life-note-103}
+
+> Each chakra has its own associated seed sound which is said to contain the essence, and therefore the secrets, of that chakra.
+
+
+### Wheels of Life - Note 104 {#wheels-of-life-note-104}
+
+> Telepathy could be defined as the art of hearing the whispers of another’s mind.
+
+
+### Wheels of Life - Note 105 {#wheels-of-life-note-105}
+
+> In order to do this, we must be quiet within our own minds.
+
+
+### Wheels of Life - Note 106 {#wheels-of-life-note-106}
+
+> Telepathy may result when two or more minds are rhythm-entrained such that a variation in the pattern of one rhythm results in a similar variation in the other. Entrained rhythms increase the amplitude of the wave. A wave of higher amplitude has more potency, more chance of being heard.
+
+
+### Wheels of Life - Note 107 {#wheels-of-life-note-107}
+
+> The process of creation is a process of inner discovery. In creating a work of art, we open ourselves to the very mysteries of the universe. We become channels for spiritual information, learning a language more universal than human tongues.
+
+
+### Wheels of Life - Note 108 {#wheels-of-life-note-108}
+
+> It is important to demand integrity of those who control the media. If it is the cultural nervous system most influential to the ways we live our collective reality, then it is imperative that we keep our media from being polluted with mindless garbage, sensational gossip, propaganda, and lies. Otherwise we risk being collectively manipulated by those who, in actuality, have more power than most of our elected representatives.
+
+
+### Wheels of Life - Note 109 {#wheels-of-life-note-109}
+
+> If the fifth chakra name Vissudha means purification, then our collective fifth chakras must be purified with the resonance of truth that can enlighten us
+
+
+### Wheels of Life - Note 111 {#wheels-of-life-note-111}
+
+> The neck is the narrowest part of the torso. Much of the time it acts as a filter between the abundant flow of energy between the mind and the body. This causes it to be extremely subject to tension and stiffness. Loosening the neck is an essential beginning for any work on the fifth chakra.
+
+
+### Wheels of Life - Note 112 {#wheels-of-life-note-112}
+
+> The third eye sees beyond the physical world, bringing us added insight, just as reading between the lines of written material brings us deeper understanding.
+
+
+### Wheels of Life - Note 113 {#wheels-of-life-note-113}
+
+> The Sanskrit name of this chakra is ajna, which originally meant “to perceive” and later “to command.” This speaks to the twofold nature of this chakra—to take in images through perception, but also to form inner images from which we command our reality, commonly known as creative visualization. To hold an image in our mind increases the possibility that it will materialize. This image becomes like a stained glass window through which the light of consciousness shines on its way to manifestation.
