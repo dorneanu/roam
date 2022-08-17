@@ -1,0 +1,102 @@
+:PROPERTIES:
+:ID:       99c0a83f-1de0-42b1-9c19-384d93154d14
+:END:
+#+title: The Clean Architecture
+#+created: 20210419075107289
+#+finished_month: 02
+#+finished_year: 2021
+#+genres: IT Architecture
+#+goodreads: https://www.goodreads.com/book/show/18043011-clean-architecture
+#+lang: en
+#+modified: 20220512192542593
+#+revision: 0
+#+type: text/vnd.tiddlywiki
+#+filetags: :book:architecture:
+#+date: 2021-02-01
+
+* The Clean Architecture
+  :PROPERTIES:
+  :FINISHED: 2021-02
+  :END:
+
+
+
+* Quotes
+*** The Clean Architecture - Note 1                  :quote:
+#+begin_quote
+Not only does a good architecture meet the needs of its users, developers, and
+owners at a given point in time, but it also meets them over time
+#+end_quote
+
+*** The Clean Architecture - Note 2                  :quote:
+#+begin_quote
+You think good architecture is expensive, try bad architecture. —Brian Foote and Joseph Yoder
+#+end_quote
+
+*** The Clean Architecture - Note 3                  :quote:
+#+begin_quote
+Architecture is a hypothesis, that needs to be proven by implementation and
+measurement. —Tom Gilb
+#+end_quote
+
+*** The Clean Architecture - Note 4                  :quote:
+#+begin_quote
+When software is done right, it requires a fraction of the human resources to
+create and maintain. Changes are simple and rapid. Defects are few and far
+between. Effort is minimized, and functionality and flexibility are maximized.
+#+end_quote
+
+*** The Clean Architecture - Note 5                  :quote:
+#+begin_quote
+The goal of software architecture is to minimize the human resources required to build and maintain the required system
+#+end_quote
+
+*** The Clean Architecture - Note 6                  :quote:
+#+begin_quote
+If you give me a program that works perfectly but is impossible to change, then
+it won’t work when the requirements change, and I won’t be able to make it work.
+Therefore the program will become useless. If you give me a program that does
+not work but is easy to change, then I can make it work, and keep it working as
+requirements change. Therefore the program will remain continually useful.
+#+end_quote
+
+*** The Clean Architecture - Note 7                  :quote:
+#+begin_quote
+Software—the stuff of computer programs—is composed of sequence, selection,
+iteration, and indirection. Nothing more. Nothing less.
+#+end_quote
+
+*** The Clean Architecture - Note 8                  :quote:
+#+begin_quote
+First of all, a software architect is a programmer; and continues to be a
+programmer. Never fall for the lie that suggests that software architects pull
+back from code to focus on higher-level issues. They do not! Software architects
+are the best programmers, and they continue to take programming tasks, while
+they also guide the rest of the team toward a design that maximizes
+productivity. Software architects may not write as much code as other
+programmers do, but they continue to engage in programming tasks.
+#+end_quote
+
+*** The Clean Architecture - Note 9                  :quote:
+#+begin_quote
+The architecture of a software system is the shape given to that system by those
+who build it. The form of that shape is in the division of that system into
+components, the arrangement of those components, and the ways in which those
+components communicate with each other.
+#+end_quote
+
+*** The Clean Architecture - Note 10                  :quote:
+#+begin_quote
+Think of Main as the dirtiest of all the dirty components
+#+end_quote
+
+*** The Clean Architecture - Note 11                  :quote:
+#+begin_quote
+At first we thought all the computer power would be in server farms, and the
+browsers would be stupid. Then we started putting applets in the browsers. But
+we didn’t like that, so we moved dynamic content back to the servers. But then
+we didn’t like that, so we invented Web 2.0 and moved lots of processing back
+into the browser with Ajax and JavaScript. We went so far as to create whole
+huge applications written to execute in the browsers. And now we’re all excited
+about pulling that JavaScript back into the server with Node.
+#+end_quote
