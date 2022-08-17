@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       be5bebfe-5df9-4db2-af87-7e80e11723c7
+:END:
+#+color: #94ec4b
+#+created: 20180808123846428
+#+creator: boru
+#+icon: $:/fontawesome/glyph/aws
+#+modified: 20210608080515036
+#+modifier: boru
+#+revision: 0
+#+tags: Topics CloudComputing Bibliography
+#+title: AWS
+#+tmap.id: 1bf071de-cec5-4bdd-bb99-c1ba01010683
+#+type: text/vnd.tiddlywiki
+
+Amazon Web Services
+
+* Resources
+:PROPERTIES:
+:CUSTOM_ID: resources
+:END:
+- [[https://github.com/open-guides/og-aws][open-guides/aws]]

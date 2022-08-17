@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       697e267e-d5ff-44ea-a271-3dc23b57c7af
+:END:
+#+created: 20211109065911071
+#+modified: 20211109131905739
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-11-09
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.infoq.com/podcasts/monolith-microservices/][Sam Newman: Monolith to Microservices]]
+  - Talking about [[#Microservices][Microservices]] and what it takes to move there from an organizational perspective
+- [[https://www.infoq.com/podcasts/visualising-microservices/][Michelle Krejci on Moving to Microservices: Visualising Technical Debt, Kubernetes, and GraphQL]]
+  - Quality is also the ability of someone to understand the code
+
+  - technical debt vs. conceptual debt
+
+- [[https://www.heise.de/developer/artikel/Episode-87-Modularisierung-Grundlagen-der-Architektur-6206229.html][Episode 87: Modularisierung -- Grundlagen der Architektur]]
+  - Module als Hilfestellung für Menschen, zusammenhängende Einheiten zu erkennen
+- [[https://dynomight.net/cola/][Two conspiracies about Coca Cola]]
+  - about [[#Fruktose][Fruktose]] and [[#Glukose][Glukose]]

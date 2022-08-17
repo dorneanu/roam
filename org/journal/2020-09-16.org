@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       15854132-26f8-4c85-a648-d87e8ab7f831
+:END:
+#+created: 20200916195005426
+#+modified: 20210518184427742
+#+revision: 0
+#+filetags: Journal
+#+title: 2020-09-16
+#+tmap.id: 72d88e79-5458-4ea6-b141-a78c6d5e3aa0
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.zeit.de/zeit-fuer-unternehmer/2020/02/kreativitaet-unternehmen-ideen-diversity-mittelstand][Lass deine Mitarbeiter experimentieren, verschaffe denen den Freiraum, den sie für die Kreativität brauchen]]
+- [[https://www.zeit.de/2020/38/homoeopathie-wirksamkeit-dzvhae-kbv-andreas-gassen-aerztin-michaela-geiger][Homöopathie: Was uns die Wissenschaft (noch) nicht erklären kann, das kann auch nicht wirken]]

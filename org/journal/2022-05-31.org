@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1fdd01fb-cf3e-4e94-9580-791d9a706765
+:END:
+#+created: 20220531083141336
+#+modified: 20220531083242869
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-05-31
+#+type: text/vnd.tiddlywiki
+
+- [[https://blockmagnates.com/rikkei-finance-hack/]]

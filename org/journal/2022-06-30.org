@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       39ec9108-8323-4b31-891a-4e3fee9a5567
+:END:
+#+created: 20220630081610781
+#+modified: 20220630082624466
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-06-30
+#+type: text/vnd.tiddlywiki
+
+- [[https://jwiegley.github.io/git-from-the-bottom-up/][Git from the bottom up]] ([[#Git][Git]])
+- [[https://news.ycombinator.com/item?id=31919548][What do you do to build authentication]]
+  - interesting comments on [[#IAM][IAM]]

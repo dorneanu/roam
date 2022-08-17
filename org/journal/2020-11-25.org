@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       88d57229-673c-4cac-ab60-b658cfb7c8cf
+:END:
+#+created: 20201125093602127
+#+modified: 20210518184427783
+#+revision: 0
+#+filetags: Journal
+#+title: 2020-11-25
+#+tmap.id: b8db9b5c-61a8-4785-a6c8-0fb0532d170d
+#+type: text/vnd.tiddlywiki
+
+- Good morning
+  - Bangla
+    - Shubho Sokal
+  - Arabic
+    - sabah el khair
+  - Portuguese
+    - Bom dia
+- [[https://mindarchitect.ro/sezonul-3-episodul-10-ce-ne-spunem-cand-nu-vorbim-ci-ascultam/][Sezonul 3, Episodul 10 - Ce ne spunem când nu vorbim, ci ascultăm]]
+  - Carti
+    - [[https://www.goodreads.com/book/show/35522033-i-hear-you][I Hear You: The Surprisingly Simple Skill Behind Extraordinary Relationships]]
+    - [[https://www.goodreads.com/book/show/1865502.Active_Listening][Active Listening: Improve Your Ability to Listen and Lead]]
+- [[https://www.swr.de/swr2/leben-und-gesellschaft/um-13-uhr-ist-feierabend-fuenf-stunden-arbeit-bei-vollem-gehalt-swr2-tandem-2020-11-18-100.html][Um 13 Uhr ist Feierabend! Fünf Stunden Arbeit bei vollem Gehalt]]
+  - Das Buch dazu: [[https://www.goodreads.com/book/show/50721008-die-5-stunden-revolution][Die 5-Stunden-Revolution]]
+  - Notizen
+    - Termine werden nur für den Folgetag gemacht
+    - Wenn man abgelenkt wird (im Büro) braucht man 15 Minuten, um sich wieder konzentrieren zu können
+    - die so genannte TINA-Falle
+      - there is no alternative
+      - man denkt es gibt keine Alternative und gewöhnt sich an Prozessen/Routinen, die eigentlich nicht mehr zeitgemäß sind
+    - in Zukunft werden Unternehmen eh daran gemessen, ob sie den Bedürfnissen der Mitarbeiter nachkommen
+      - wir leisten keine Fließbandarbeit mehr
+      - unsere Kreativität ist gefragt

@@ -1,0 +1,156 @@
+:PROPERTIES:
+:ID:       c665d9c7-eb0f-4942-8807-645cc7d9d39f
+:END:
+#+created: 20150915131238178
+#+creator: boru
+#+modified: 20210518184433894
+#+modifier: boru
+#+revision: 0
+#+tags: 
+#+title: VTP
+#+tmap.id: a5e975c0-c880-46d3-8c04-84299a37d8a6
+#+type: text/vnd.tiddlywiki
+
+- Definition :: [[#VLAN][VLAN]] Trunking Protocol
+- Description :: Has nothing to do with trunks
+  It only works over trunk links or trunked ports
+- Use scenarios :: If you have 50 [[#Switches][switches]] and configure VLAN X-Y on all devices
+  You'll have to login on every device and configure the device
+- Difference between VTP v1 and v2 :: Only difference: V2 supports *token ring* VLANs
+
+VTP has a *client-server* mechanisms. All you'll have to do:
+
+- create a VTP *server*
+- all other hosts are *clients*
+
+VTP has 3 operating *modes*:
+
+- VTP *Server* mode
+  - VLANs are stored on a device in a file called =vlan.dat=
+  - In server mode changes to the file are allowed
+  - These changes/modifications are carried down to the clients as *VTP advertisements*
+- VTP *cliet* mode
+  - Will listen to the changes sent by the server and apply the changes
+  - Is not allowed to modify the file =vlan.dat=
+- VTP *transparent* mode
+  - Will relay/forward VTP advertisemnts to downstream clients
+  - *BUT* will not apply the changes
+  - *IS* allowed to add/delete VLANs
+  - *CAN* modify its =vlan.dat=
+
+** Lab configuration
+:PROPERTIES:
+:CUSTOM_ID: lab-configuration
+:END:
+1. Make SW1 the VTP server.
+2. Make SW2 and SW3 VTP transparent
+3. Make SW4 to VTP client.
+
+\\
+
+*** VTP Server mode
+:PROPERTIES:
+:CUSTOM_ID: vtp-server-mode
+:END:
+- Put in server mode
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+sw1 (config)# vtp mode server
+#+end_example
+
+By default all Cisco switches are in VTP server mode.
+
+- Create VTP domain
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+sw1 (config)# vtp domain ccna
+#+end_example
+
+- Set VTP password
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+sw1 (config)# vtp password cisco
+#+end_example
+
+- Show VTP status
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+sw1 (config)# do show vtp status
+#+end_example
+
+- Use VTP version 2 (by default its version 1)
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+sw1 (config)# vtp version 2
+#+end_example
+
+- Show password
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+sw1 (config)# do show vtp password
+#+end_example
+
+- Configuration revision :: A count of how many changes that have been made to =vlan.dat=
+
+\\
+
+*** VTP transparent mode
+:PROPERTIES:
+:CUSTOM_ID: vtp-transparent-mode
+:END:
+- Put in mode
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+sw2 (config)# vtp mode transparent
+#+end_example
+
+- Set VTP domain
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+sw2 (config)# vtp domain ccna
+#+end_example
+
+\\
+
+*** VTP Client mode
+:PROPERTIES:
+:CUSTOM_ID: vtp-client-mode
+:END:
+#+begin_example
+sw4 (config)# vtp domain cccna
+sw4 (config)# vtp pass cisco
+sw4 (config)# vtp mode client
+sw4 (config)# do show vtp status
+#+end_example

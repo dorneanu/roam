@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d7109f4a-d52f-4b56-a7ce-af2e49217f95
+:END:
+#+title: Hexagonal Architecture
+* Resources
+** 2022-08-16 [[https://dev.to/dyarleniber/hexagonal-architecture-and-clean-architecture-with-examples-48oi][Hexagonal Architecture and Clean Architecture (with examples)]]    :typescript:bookmark:

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       8c4ab1a2-2733-4a77-a0b5-f2a8cbaf7846
+:END:
+#+title: Resonant Breathing
+#+created: 20220521133826556
+#+modified: 20220521133904080
+#+revision: 0
+#+tags: Definition
+#+title: Resonant Breathing
+#+type: text/vnd.tiddlywiki
+
+- 5s inhale
+- 5s exhale
+- especially with prayers like mudras, mantras, religious chants

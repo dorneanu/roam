@@ -1,0 +1,109 @@
+:PROPERTIES:
+:ID:       92c92c9a-f616-4b8f-9ca0-6979b497c4d1
+:END:
+#+created: 20180829151934160
+#+creator: boru
+#+modified: 20210519190225687
+#+modifier: boru
+#+revision: 0
+#+tags: AWS
+#+title: AWS/S3
+#+tmap.id: 76ebc2d1-317b-49b2-983e-0ea1be14251e
+#+type: text/vnd.tiddlywiki
+
+- Simple Storage System :: per default all buckets are private
+  access control by: ACLs / bucket policies
+  (optional): logging to another S3 bucket (in other account)
+
+- universal namespace (due to DNS stuff)
+- URL scheme: s3-/region/.amazonaws.com//bucket-name/
+- object-based
+  - key
+  - value
+  - version id
+  - metadata
+- SLA: 99.9% availability
+
+* Types of storage
+:PROPERTIES:
+:CUSTOM_ID: types-of-storage
+:END:
+- S3 standard
+- S3-IA (infrequently accessed)
+- S3 One Zone-IA
+- Glacier (archiving)
+
+* Pricing
+:PROPERTIES:
+:CUSTOM_ID: pricing
+:END:
+- storage type
+- requests
+- store mgmt pricing (price for tags)
+- data transfer pricing
+- transfer acceleration
+
+* Consistency models
+:PROPERTIES:
+:CUSTOM_ID: consistency-models
+:END:
+- read after write for PUTS of *new* objects
+- eventual consistency for overwrite PUTS/DELETES (for updates)
+
+* Encryption
+:PROPERTIES:
+:CUSTOM_ID: encryption
+:END:
+** Types
+:PROPERTIES:
+:CUSTOM_ID: types
+:END:
+- client-side
+- server-side (SSE)
+  - SSE-S3
+  - SSE-KMS
+  - SSE-C
+
+** Depending on data
+:PROPERTIES:
+:CUSTOM_ID: depending-on-data
+:END:
+- in transit
+  - use SSL/[[#TLS][TLS]]
+- at rest
+  - server-side (see Types of encryption)
+
+* Data versioning
+:PROPERTIES:
+:CUSTOM_ID: data-versioning
+:END:
+- pay attention when activating versioning for large files (costs!)
+- deletion should be done only with MFA
+- delete markers are replicated
+  - but can't delete delete markers
+
+* S3 Transfer acceleration
+:PROPERTIES:
+:CUSTOM_ID: s3-transfer-acceleration
+:END:
+- uses [[#AWS%2FCloudFront][AWS/CloudFront]] to upload
+- =<bucket-name>.s3-accelerate.amazonaws.com=
+
+* S3 Static website hosting
+:PROPERTIES:
+:CUSTOM_ID: s3-static-website-hosting
+:END:
+- =<bucket-name>.s3-website.<region>.amazonaws.com=
+
+* Lifecycle Management
+:PROPERTIES:
+:CUSTOM_ID: lifecycle-management
+:END:
+- applied to current/previous versions
+- only high-level understanding (for the exam)
+
+* Resources
+:PROPERTIES:
+:CUSTOM_ID: resources
+:END:
+- [[https://blog.mindedsecurity.com/2018/09/a-practical-guide-to-testing-security.html]]

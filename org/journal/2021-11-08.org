@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       67fdb9cb-2a2d-4779-acf3-b6103670d0aa
+:END:
+#+created: 20211108121017758
+#+modified: 20211108130903404
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-11-08
+#+type: text/vnd.tiddlywiki
+
+- [[https://betterhumans.pub/better-than-meditation-12532d29f6cd]]
+  - Why writing could help more than [[#Meditation][Meditation]]

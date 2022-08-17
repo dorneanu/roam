@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       a7581c17-c8d8-49c1-ba34-3405dadf6e64
+:END:
+#+created: 20220802082213018
+#+modified: 20220802100940662
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-08-02
+#+type: text/vnd.tiddlywiki
+
+- [[https://github.com/SqrtMinusOne/pomm.el][Yet another implementation of pomodoro timer for Emacs]]
+
+  - Uses transcient menu in [[#Emacs][Emacs]]
+
+- [[https://www.calnewport.com/blog/2008/02/18/monday-master-class-rapid-note-taking-with-the-morse-code-method/][Rapid Note-Taking with the Morse Code Method]]
+
+- [[https://web.hypothes.is/][Annotate the web, with everyone]]
+
+- Enable other notification server in Cinnamon
+
+  #+begin_quote
+  gsettings set org.cinnamon allow-other-notification-handlers true
+
+  #+end_quote

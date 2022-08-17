@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       f0ab53f6-d5f3-4b92-b235-f9437d3c3a30
+:END:
+#+title: Das Café am Rande der Welt
+#+filetags: book
+#+date: 2020-09-01
+
+* Das Café am Rande der Welt
+  :PROPERTIES:
+  :FINISHED: 2020-09
+  :END:
+* Quotes
+** Das Café am Rande der Welt - Note 1                                         :quote:done:
+#+begin_quote
+"Unsere Aufgabe", so sagte er, "besteht darin zu erkennen, dass uns etwas erfüllt, weil wir es selbst nun einmal so empfinden, und nicht, weil jemand anderer uns sagt, dass es erfüllend ist".
+#+end_quote
+
+** Das Café am Rande der Welt - Note 2                                         :quote:done:
+#+begin_quote
+Wir haben darüber gesprochen, dass manche Menschen nach mehr Geld streben, damit sie mehr kaufen können. Sie hoffen, dass das Gekaufte sie erfüllen wird, da sie nicht das tun, was ihnen entspricht. Aber je mehr sie kaufen, desto mehr müssen sie arbeiten, um alles zu bezahlen. Wenn sie nicht aufpassen, entsteht ein Teufelskreis, der sich ständig verschlimmert.
+#+end_quote
+
+** Das Café am Rande der Welt - Note 3                                         :quote:done:
+#+begin_quote
+Wenn ich für mich herausfinden würde, warum ich hier bin, und die Dinge täte, die dem Sinn und Zweck meines Daseins entsprechen, dann würde ich mir wahrscheinlich weniger Sorgen ums Geld machen.
+#+end_quote
+
+** Das Café am Rande der Welt - Note 4                                         :quote:done:
+#+begin_quote
+Diejenigen, die ihren ZDE kennen und die tun, was sie möchten, um ihn zu erfüllen, scheinen sehr glücklich zu sein. Sie erleben unerwartete, scheinbar zufällige Dinge, genau dann, wenn sie es am dringendsten brauchen.
+#+end_quote
+
+** Das Café am Rande der Welt - Note 5                                         :quote:done:
+#+begin_quote
+#+begin_quote
+Trotz allem, was uns beigebracht wird und was wir glauben sollen, trotz allem, was wir in der Werbung hören oder was wir empfinden, wenn wir in der Arbeit gestresst sind - wir alle kontrollieren jeden Moment unseres Lebens selbst. [...] Lassen Sie niemals zu, dass andere Dinge oder Menschen Sie an einen Punkt bringen, an dem Sie das Gefühl haben, Ihr eigenes Schicksal nicht länger bestimmen zu können. Ergreifen Sie die Initiative und wählen sie Ihren Weg selbst, sonst tu andere es für Sie.
+#+end_quote
+#+end_quote

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       56e902f9-0272-4a0d-8e1c-65ee6e62e85f
+:END:
+#+filetags: :book:
+#+title: Agile Application Security

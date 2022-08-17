@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       286657de-d840-40ed-bcd6-c2e990f9387d
+:END:
+#+created: 20210707112259439
+#+modified: 20210707112434813
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-07-07
+#+type: text/vnd.tiddlywiki
+
+- [[https://chaosradio.de/cr269-blockchain-die]["Blockchain, die" von chaosradio]]
+  - about [[#NFT][NFT]]s
+  - why [[#Blockchain][Blockchain]]s won't solve all humanity's problems
+  - and why [[#Bitcoin][Bitcoin]] is a speculative bubble like all other blockchain based products (?)

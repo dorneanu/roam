@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       23dce041-3286-4251-9eb0-399ab8f93c2e
+:END:
+#+title: Wiedersehen im Café am Rande der Welt
+#+filetags: book
+#+date: 2020-09-01
+
+* Wiedersehen im Café am Rande der Welt
+:PROPERTIES:
+:FINISHED: 2020-09
+:END:
+** Description
+* Quotes
+** Wiedersehen im Café am Rande der Welt - Note 1                              :quote:done:
+#+begin_quote
+Viele Menschen glauben, die Meinung oder die Gedanken eines Kindes seien nicht so wichtig wie die eines Erwachsenen. Aber das stimmt keineswegs. Wenn wir zulassen, dass wir dem Kind auf einer Ebene, von Mensch zu Mensch, begegnen - oder noch besser, von Seele zu Seele -, dann können wir wirklich viel miteinander teilen und voneinander lernen. (S.195)
+#+end_quote
+
+** Wiedersehen im Café am Rande der Welt - Note 2                              :quote:done:
+#+begin_quote
+Kinder zu haben ist nicht jedermanns Sache. Wenn es dein Ding ist, hast du eine Menge Spaß und trägst große Verantwortung. Ist es nicht dein Ding, hast du eine Menge Arbeit und trägst große Verantwortung. (S.111)
+#+end_quote
+
+** Wiedersehen im Café am Rande der Welt - Note 3                              :quote:done:
+Als Mutter oder Vater geht es cor allem ums Geben - besonders wenn die Kinder
+klein sind. [...] Viele Menschen haben ein Kind, weil sie etwas bekommen wollen.
+Sie sind nach einer Weile desillusioniert. (S.112)
+
+** Wiedersehen im Café am Rande der Welt - Note 5                              :quote:done:
+#+begin_quote
+Jede Wut ist eine Manifestation von Angst (S.197)
+#+end_quote
+
+** Wiedersehen im Café am Rande der Welt - Note 6                              :quote:done:
+#+begin_quote
+In jedem Moment, an jedem Tag können wir uns für den rechten Weg entscheiden, eine Verbindung zu dem anderen Menschen herstellen und die Dinge aus seiner Perspektive betrachten. Oder wir lassen zu, dass sich die Angst in Wut verwandelt, und versuchen unser Ziel mit Gewalt durchzusetzen. (S. 198-199)
+#+end_quote

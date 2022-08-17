@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5d80a36d-b497-4db9-a0f8-77b3b95de166
+:END:
+#+created: 20210226184608961
+#+modified: 20210518184428187
+#+origin: [[<<. bibliography "Das Experiment sind wir">>]] 
+#+revision: 0
+#+tags: 
+#+title: Anthropozän
+#+type: text/vnd.tiddlywiki
+
+- Begriff erfunden von Paul Crutzen in 1995
+  - veröffentlichte 2002 einen Arktike in /Nature/ mit der Überschrift "Die Geologie der Menschheit"
+
+    #+begin_quote
+    Wenn es keine globale Katastrophe gibt - einen Meteoriteneinschlag, einen Weltkrieg oder eine Pandemie - wird die Menschheit viele Jahrtausende lang einen großen Veränderungseinfluss auf die Umwelt ausüben
+
+    #+end_quote
+
+- an sich definiert der Begriff den Zeitpunkt in der Geschichte, an dem die Menschheit dazu überging, die CO2-Emissionen zu steigern, den Säuregehalt der Meeren zu verändern etc.
+  - und genau dieser Eingriff ist auch in /Eisbohrkernen/ nachweisbar

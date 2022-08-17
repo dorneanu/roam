@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       99c0a83f-1de0-42b1-9c19-384d93154d14
+:END:
+#+title: The Clean Architecture

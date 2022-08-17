@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9cde39d6-d8f8-4b96-a7b8-bdf343d5b2d2
+:END:
+#+created: 20180926142237516
+#+creator: boru
+#+modified: 20210518184428550
+#+modifier: boru
+#+revision: 0
+#+tags: AWS
+#+title: AWS Storage
+#+tmap.id: 76a5bf70-3593-4e15-88ce-19c4c7b4c0a2
+#+type: text/vnd.tiddlywiki
+
+

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       57a4ec91-8347-4e89-a4a0-1cf506960b61
+:END:
+#+title: Protein
+#+created: 20200727100946183
+#+lang: de
+#+modified: 20220523145443779
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Proteine
+#+tmap.id: cc32b1b6-df3d-4036-9acc-ba4844ee69f0
+#+type: text/vnd.tiddlywiki
+
+- Pflanzliche
+  - Warum sind die besser? Womöglich weil sie mehr nicht essentielle Aminosäuren enthalten (z.B.Arginin)
+- Tierische
+  - Gute Auswahl
+    - Joghurt
+      - Milchsäurebakterien wirken entzündungshemmend
+    - Fisch
+      - Empfohlen: ca. 60g täglich
+- Bestehen aus Aminosäuren(ca. 20 Arten)
+  - Essentielle
+  - Nicht essentielle
+- Siehe auch [[#Proteinverd%C3%BCnnung][Proteinverdünnung]]

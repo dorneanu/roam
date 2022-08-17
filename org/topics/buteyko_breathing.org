@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9c915d81-d847-4ece-ae99-08d2f321c15b
+:END:
+#+title: Buteyko Breathing
+#+created: 20220521134243909
+#+modified: 20220521134430254
+#+revision: 0
+#+tags: Definition
+#+type: text/vnd.tiddlywiki
+
+- by Konstanting Pavlovich Buteyko
+- limit *inhales*
+- extend exhales for past the point of what feels comfortable (or even safe)
+- also check out the [[https://buteykoclinic.com/][Voluntary elimination of Deep Breathing]]

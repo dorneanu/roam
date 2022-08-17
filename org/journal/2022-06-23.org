@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5844a12d-a512-446c-9e1d-04592a4fd231
+:END:
+#+created: 20220623074444318
+#+modified: 20220623130809759
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-06-23
+#+type: text/vnd.tiddlywiki
+
+- Kill multiple buffers in [[#Emacs][Emacs]]
+  - ~kill-matching-buffers~ ([[https://stackoverflow.com/questions/23156426/in-emacs-how-can-i-kill-multiple-buffers-without-opening-each-individually]])
+  - using ~ibuffer~ followed by ~% f~
+- [[https://tailscale.com/blog/tailscale-ssh/][Tailscale and SSH]]
+- Rename HTML tags in web-mode: ~, e r~ ([[#Emacs][Emacs]])

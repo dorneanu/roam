@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       b331244a-19e4-4f88-ba9f-e8b6d70c2871
+:END:
+#+created: 20200727110317304
+#+modified: 20210519071407093
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]] https://www.jedes-essen-zaehlt.de/
+#+revision: 0
+#+tags: Vitamine Stub
+#+title: Vitamin D
+#+tmap.id: 74220d60-3bbf-4d36-aafe-36336112114a
+#+type: text/vnd.tiddlywiki
+
+- Präparate in 2 Varianten
+  - D2
+    - Haut bildet diese Form
+      - zwischen Oktober und März wird das nötige UV-B-Licht der Sonne aufgrund des flacheren Einfallwinkels weitgehend herausgefiltert
+      - in dieser Zeit ist eine Supplementierung sinnvoll
+    - Auch in Fisch enthalten
+  - D3
+    - wird normalerweise aus Lanolin (Wollfett) gewonnen
+- Funktion
+  - [[id:6eb4fa8e-09e0-464c-b337-3d59adaaa441][Kalzium]] in den Körper schleusen
+  - wichtig also für die Knochengesundheit
+  - Vitamin D beeinflusst
+    - das Immunsystem
+    - die [[id:dea0d08e-45ba-47ae-9e20-d62450b269ad][Insulin]]-Freigabe aus der Bauchspeicheldrüse
+    - die Muskelkontraktion
+    - die Zellteilung
+- Dosierung
+  - Täglich 1k-2k IE
+  - Maximal 4k IE

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0f916f09-5787-4576-8f90-03a3be317524
+:END:
+#+created: 20220419121917283
+#+modified: 20220419122034217
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-04-19
+#+type: text/vnd.tiddlywiki
+
+- Straight to the point [[https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id][instructions]] regarding localStorage and Cookies as storage method for [[#JWT][JWT]]
+
+#+begin_quote
+Option 1: Store your access token in localStorage : prone to XSS.
+
+Option 2: Store your access token in httpOnly cookie: prone to CSRF but can be mitigated, a bit better in terms of exposure to XSS.
+
+Option 3: Store the refresh token in httpOnly cookie: safe from CSRF, a bit better in terms of exposure to XSS. We'll go over how Option 3 works as it is the best out of the 3 options.
+
+#+end_quote

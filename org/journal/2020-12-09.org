@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       76fbecc4-4e6b-4894-b7c4-7c66a62e3a9f
+:END:
+#+created: 20201209184149605
+#+modified: 20210518184427867
+#+revision: 0
+#+filetags: Journal
+#+title: 2020-12-09
+#+type: text/vnd.tiddlywiki
+
+- On "unit tests vs integration tests"
+  - Uni tetss
+    - Unit Test: A test written by a programmer for the purpose of ensuring that the production code does what the programmer expects it to do. (For the moment we will ignore the notion that unit tests also aid the design, etc.) ([[https://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.html][Source]]) > A unit is the smallest testable part of any software. Unit testing is performed to validate that each unit of an application performs as expected. If an external dependency(a method or a function) is called in the unit being tested, such function/method must be mocked, so as to test only the unit of interest. ([[https://medium.com/@victorsteven/understanding-unit-and-integrationtesting-in-golang-ba60becb778d][Source]])
+  - Integration tests
+    - Integration Test: A test written by architects and/or technical leads for the purpose of ensuring that a sub-assembly of system components operates correctly. These are plumbing tests. They are not business rule tests. Their purpose is to confirm that the sub-assembly has been integrated and configured correctly. ([[https://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.html][Source]]) > Integration tests verify that different modules or services used by your application work well together. For example, it can be testing the interaction with the database or making sure that microservices work together as expected ([[https://medium.com/@victorsteven/understanding-unit-and-integrationtesting-in-golang-ba60becb778d][Source]])

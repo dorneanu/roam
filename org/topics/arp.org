@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       65402ba0-f59d-4c26-95be-81968217bcb2
+:END:
+#+created: 20150917140124166
+#+creator: boru
+#+list: 
+#+modified: 20210518184428235
+#+modifier: boru
+#+revision: 0
+#+tags: [[Layer 3]]
+#+title: ARP
+#+tmap.id: f1135cdd-cf34-42a8-8459-04259439b403
+#+type: text/vnd.tiddlywiki
+
+- Definition :: Address Resolution Protocol
+- PDU :: Packet
+
+Packet:
+
+| Dst IP | Src. IP | Data | FCS |
+
+** Example
+:PROPERTIES:
+:CUSTOM_ID: example
+:END:
+We have 2 hosts: 10.10.10.1 (Host 1) and 10.10.10.2 (Host 2) with network mask 10.10.10.0/24. Both hosts are connected through a Layer 2 Switch.
+
+| Host | MAC addr |
+| 1    | AAAA     |
+| 2    | BBBB     |
+
+Host 1 generates an *ARP request* (broadcast) for the address 10.10.10.2 which means "How ever has this IP address please send me your MAC addr".
+
+Host 2 receives the broadcast and find out its own IP is 10.10.10.2. So it generates an *ARP Reply*' (Unicast) where it sends its MAC address to Host 1.
+
+This process will happen only once (at the beginning).
+
+** Encapsulation vs Decapsulation
+:PROPERTIES:
+:CUSTOM_ID: encapsulation-vs-decapsulation
+:END:
+tbd

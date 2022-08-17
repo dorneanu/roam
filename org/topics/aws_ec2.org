@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       ed6795cf-f4a2-4fa4-b5f8-6088d2f5272b
+:END:
+#+created: 20180905144826319
+#+creator: boru
+#+list: 
+#+modified: 20210518184428404
+#+modifier: boru
+#+revision: 0
+#+tags: [[AWS Compute]]
+#+title: AWS EC2
+#+tmap.id: b480c9a8-3ce7-4dd4-8320-df29994e6cc1
+#+type: text/vnd.tiddlywiki
+
+- Elastic Compute Cloud :: still "only" a web service
+
+* Pricing models
+:PROPERTIES:
+:CUSTOM_ID: pricing-models
+:END:
+- on-demand
+  - fixed by rate hour/seconds
+  - *low cost and flexible*
+- reserved
+  - capacity reservation
+  - discount on the hourly charge
+  - used for *web servers*
+  - ready state or *predictable* usage
+  - *up-front payments*
+- spot
+  - enables you to bid whatever price you want
+  - apps feasible at low compute prices
+  - urgent need for large amounts of extra capacity
+- dedicated hosts
+  - like dedicated servers
+  - helps you w/ licensing
+  - for regulatory requirements (e.g. multi-tenant virtualization)
+  - purchased on-demand (hourly)
+
+* Instance types
+:PROPERTIES:
+:CUSTOM_ID: instance-types
+:END:
+Remember the letters: *DR MC GIFTPX* or *FIGHT DR MCPX*
+
+- D: density
+- R: RAM
+- M: main choice
+- C: compute
+- G: graphics
+- I: IOPS
+- F: FPGA
+- T: cheap/general purpose
+- P: graphics (think of pics)
+- X: xtreme memory
+
+* Automation
+:PROPERTIES:
+:CUSTOM_ID: automation
+:END:
+Use of bash scripts (after booting)
+
+* Retrieve metadata
+:PROPERTIES:
+:CUSTOM_ID: retrieve-metadata
+:END:
+=$ curl http://169.254.169.254/latest/meta-data=
+
+* Placement groups
+:PROPERTIES:
+:CUSTOM_ID: placement-groups
+:END:
+** Clustered
+:PROPERTIES:
+:CUSTOM_ID: clustered
+:END:
+- grouping of instances within a single AZ
+- recommended for apps that need low latency, high net throughput
+- only certain instances can be launched
+- for big data
+- can't span multiple AZ
+
+** Spread
+:PROPERTIES:
+:CUSTOM_ID: spread
+:END:
+- group of instances that are each placed on distinct underlying hardware
+- recommended for applications that small number of critical instances that should be kept separate from each other

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7c8335b9-6a7b-4d57-a62b-b5b4af0c1b6a
+:END:
+#+created: 20151008162211990
+#+creator: boru
+#+modified: 20210518184433771
+#+modifier: boru
+#+revision: 0
+#+tags: [[Layer 4]]
+#+title: UDP
+#+tmap.id: deffa051-9c19-4444-ad91-a3112ca7739e
+#+type: text/vnd.tiddlywiki
+
+- Definition :: User Datagram Protocol
+
+** Header
+:PROPERTIES:
+:CUSTOM_ID: header
+:END:

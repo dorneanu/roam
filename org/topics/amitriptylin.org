@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       6d559623-4e88-46bb-b6e5-908ead6cdf46
+:END:
+#+created: 20201015123211051
+#+modified: 20210518184428146
+#+origin: https://www.gelbe-liste.de/wirkstoffe/Amitriptylin_21901
+#+revision: 0
+#+tags: 
+#+title: Amitriptylin
+#+tmap.id: 2f368373-35a4-44ec-be10-c56c143c6633
+#+type: text/vnd.tiddlywiki
+
+- gehört zu den [[id:da370dfb-9ed3-45d1-9b04-7121bf7d8284][Antidepressiva]]
+- hemmt die neuronale Aufnahme der Neurotransmitter [[#Noradrenalin][Noradrenalin]] und [[#Serotonin][Serotonin]]

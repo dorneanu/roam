@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       475b2a04-3dce-4081-89ae-72dd0ae2fb40
+:END:
+#+created: 20200727110345103
+#+lang: de
+#+modified: 20220203123530994
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]] https://www.jedes-essen-zaehlt.de/
+#+revision: 0
+#+tags: Vitamine
+#+title: Vitamin B12
+#+tmap.id: b0d04fed-9751-4e85-b483-464b476bb24a
+#+type: text/vnd.tiddlywiki
+
+- [[#Vitamin%20B][B-Vitamine]] werden von Pflanzen gebildet
+- Funktion
+  - wichtig für
+    - [[#DNA][DNA]]-Synthese
+    - Zellteilung
+    - Blutbildung
+    - Nervensystem
+- *Unterversorgung* kann führen zu
+  - Störungen der Blutbildung
+  - schweren, bleibenden, neurologischen Schäden
+  - psychiatrischen Symptomen
+  - erhöhtem Risiko für Herz-Kreislauf-Erkrankungen
+- Mit Ausnahme von B12: Wird von Bakterien gebildet
+- Dosierung
+  - 250 mcg Cyanocobalamin täglich

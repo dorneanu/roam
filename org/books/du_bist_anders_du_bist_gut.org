@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       080428a6-c6a7-472c-b807-0a172a7bd0a2
+:END:
+#+title: Du bist anders, du bist gut
+* Du bist anders, du bist gut
+  :PROPERTIES:
+  :FINISHED: 2022-03
+  :END:
+* Description
+- [[#Bed%C3%BCrfnisse%20nach%20Marshall%20Rosenberg][Bedürfnisse nach Marshall Rosenberg]]
+  - Der Begriff "Bedürfnis" nicht zu inflationär nutzen
+  - wir Menschen haben alle dieselben Bedürfnisse, aber Tausend Strategien um diese zu erfüllen
+  - [[#Gef%C3%BChlsstarke%20Kinder][Gefühlsstarke Kinder]] sind in ihren Strategien fest eingefahren
+    - deswegen wirkt es so als wäre Strategie = Bedürfnis
+  - [[#Gef%C3%BChlsstarke%20Kinder][Gefühlsstarke Kinder]] (auch im späten Alter) brauchen eine starke Co-Regulation, um ihre Bedürfnisse zu erkennen und zu berücksichtigen
+    - Rahmen schaffen (Struktur!)
+    - aber trotzdem den Kindern Autonomie schenken
+- [[#Aktives%20Zuh%C3%B6ren%20nach%20Gordon][Aktives Zuhören nach Gordon]]
+- Schätzen und Schubsen
+  - einerseits das Kind schützen (Löweneltern sein)
+    - Vorsicht dass aus einem [[#Bed%C3%BCrfnisse%20nach%20Marshall%20Rosenberg][Bedürfnis]] keine Gewohnheit wird
+    - vor Erwartung Anderer schützen
+  - andererseits das Kind fördern
+    - Vogeleltern sein
+      - zum Fliegen animieren
+    - Impulse von außen geben (Richtung [[#Selbstregulation][Selbstregulation]])
+    - die Erfahrung machen lassen, dass die Kinder selber klar kommen
+- wie [[#Gef%C3%BChlsstarke%20Kinder][Gefühlsstarke Kinder]] [[#Selbstregulation][Selbstregulation]] erfahren
+  - je älter das Kind wird, so wird die die Co-Regulation schwieriger
+    - weil es die Nähe meidet zum Beispiel
+  - Lösungen
+    - zulassen, dass das Kind die Co-Regulation nicht mehr braucht
+    - die Autonomie(-versuche) erkennen und nicht negativ bewerten
+    - ruhig, freundlich bleiben
+      - [[#Gef%C3%BChlsstarke%20Kinder][Gefühlsstarke Kinder]] reagieren extrem auf negative Emotionen / auf Widerstand
+    - Selbstregulation ist sehr wichtig für einen sozial verträglichen Umgang mit Emotionen
+    - [[#Selbstregulation%2FZutaten][Selbstregulation/Zutaten]]

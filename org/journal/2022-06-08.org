@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       4dd529a8-a041-4139-b0c5-c8fdc2550cff
+:END:
+#+created: 20220608073707885
+#+modified: 20220608094119332
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-06-08
+#+type: text/vnd.tiddlywiki
+
+- [[https://typesanitizer.com/blog/go-experience-report.html][6 months of Go]] ([[#Golang][Golang]])
+- [[https://regula.dev/][regula.dev]]
+  - tool that evaluates infrastructure as code files for potential [[#AWS][AWS]], Azure, Google Cloud, and Kubernetes security and compliance violations prior to deployment

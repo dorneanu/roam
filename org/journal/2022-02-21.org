@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4787939f-fd82-4b3d-a2db-fd10ccac74ae
+:END:
+#+created: 20220221090552485
+#+modified: 20220221113134151
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-02-21
+#+type: text/vnd.tiddlywiki
+
+- How to open a file by using current date as its file name
+  - [[https://stackoverflow.com/questions/5019581/emacs-function-to-open-file-current-date-tex]]
+  - [[https://emacs.stackexchange.com/questions/14673/emacs-function-to-make-a-file-with-date-time-as-filename-and-a-shortcut-for-it/]]
+- Created [[https://github.com/iakovmarkov/prometheus-vuls-exporter/pull/4][PR]] to fix prometheus-vuls-exporter severity issue
+- [[https://www.jetbrains.com/help/youtrack/standalone/run-docker-container-as-service.html][Run Docker container as systemd service]]

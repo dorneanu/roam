@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       927fa05a-524a-4737-8484-72494e84a37f
+:END:
+#+created: 20220616085444738
+#+modified: 20220616085451980
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-06-16
+#+type: text/vnd.tiddlywiki
+
+- [[https://daily.dev/blog/alpine-js-the-ultimate-guide][AlpineJS - The Ultimate Guide]]

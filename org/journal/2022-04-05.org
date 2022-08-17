@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       17edcea6-7838-44bd-b84c-c25061156aa9
+:END:
+#+created: 20220405103423636
+#+modified: 20220405105037000
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-04-05
+#+type: text/vnd.tiddlywiki
+
+- On the Security of [[#JWT][JWT]]
+  - [[https://datatracker.ietf.org/doc/html/draft-ietf-oauth-jwt-bcp-07]]
+  - [[https://curity.io/resources/learn/jwt-best-practices/]]
+  - [[http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/]]
+  - [[http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/]]
+  - [[https://evertpot.com/jwt-is-a-bad-default/]]
+  - [[https://www.youtube.com/watch?v=GdJ0wFi1Jyo][Why JWTs Are Bad for Authentication -- Randall Degges (Head of Dev Relations, Okta)]]

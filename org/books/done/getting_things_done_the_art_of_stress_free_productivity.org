@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       3ee54643-65c2-482a-8c60-fa099449a62d
+:END:
+#+title: Getting Things Done - The Art of Stress-Free Productivity
+#+filetags: book
+#+created: 20200727193005954
+#+finished_month: 06
+#+finished_year: 2020
+#+genres: Productivity Business
+#+goodreads: https://www.goodreads.com/book/show/1633.Getting_Things_Done?ac=1&from_search=true&qid=NRWbRjzFS5&rank=1
+#+modified: 20210518194234203
+#+revision: 0
+#+filetags: book
+#+type: text/vnd.tiddlywiki
+#+date: 2020-06-01
+
+* Getting Things Done - The Art of Stress-Free Productivity
+:PROPERTIES:
+:FINISHED: 2020-06
+:END:
+
+Although I'm using GTD for a couple of years now, I didn't have the time to read David Allen's "Gettings Things Done". Most of the diagrams and workflows you find online are scratching only at the surface of Allen's methodology.\\
+\\
+
+I'm pretty happy to have read the book entirely and extract additional concepts and tipps how to manage your life even better. For me it's definitely a strong book recommendation and I recommend it to everyone who has multiple projects to manage across different life areas. It's not only about some TODO, NEXT or DONE lists.It might take years to fully understand *and* adapt GTD to your own needs and your own life style.
+
+\\
+
+This is a list of further interesting material mentioned in the book:
+
+- [[https://www.sciencedirect.com/science/article/abs/pii/S0024630108000848]["Getting things done: The science behind stress-free productivity"]]
+  - Your brain is for having ideas, not for holding them
+- [[https://www.goodreads.com/book/show/18693669-the-organized-mind]["The organized Mind" (Daniel Levitim)]]
+  - Describes the necessity of building and utilizing an "external brain"
+- [[https://www.goodreads.com/book/show/11104933-willpower]["Willpower" (Dr. Roy Baumeister)]]
+- [[https://en.wikipedia.org/wiki/Positive_psychological_capital][PsyCap]]
+
+* Quotes
+** Note 1                                                                      :quote:
+#+begin_quote
+In order to create productive alignment in your life, you could quite reasonably start with a clarification from the top-down. Decide why you're on the planet" - David Allen
+#+end_quote
+** Note 2
+#+begin_quote
+Your brain is for having ideas, not storing them -- David Allen
+#+end_quote
+
+** Note 3
+#+begin_quote
+"You don't manage priorities - you have them" - David Allen
+#+end_quote
+
+** Note 4
+#+begin_quote
+The energy of your attention
+
+A task left undone remains undone in two places---at the actual location of the task, and inside your head. Incomplete tasks in your head consume the energy of your attention as they gnaw at your conscience.
+
+---Brahma Kumaris
+#+end_quote
+** Note 5
+#+begin_quote
+"Unproductive preoccupation with all the things we have to do is the single largest consumer of time and energy" - Kerry Glees
+#+end_quote
+** Note 6
+#+begin_quote
+Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior.
+
+---Dee Hock
+#+end_quote

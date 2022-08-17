@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       dfee3a38-6960-4d47-832e-43659a801a17
+:END:
+#+created: 20210827072246778
+#+modified: 20210830123608608
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-08-27
+#+type: text/vnd.tiddlywiki
+
+- [[https://news.ycombinator.com/item?id=28320346#28322876][Show HN: With a 9-5 job and 2 kids I have finally finished my first MVP]]
+  - check comments by eric4smith
+- [[https://changelog.com/gotime/189][Do devs need a product manager?]]

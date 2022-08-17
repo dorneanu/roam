@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       d125d340-1871-4998-b651-210a55ba1bff
+:END:
+#+created: 20180926142231227
+#+creator: boru
+#+modified: 20210518184428412
+#+modifier: boru
+#+revision: 0
+#+tags: [[AWS Storage]]
+#+title: AWS EFS
+#+tmap.id: a351fa22-620e-46ab-a299-8a89a29e2da4
+#+type: text/vnd.tiddlywiki
+
+The storage service for [[#AWS%20EC2][AWS EC2]]
+
+- storage capacity is elastic
+  - growing/shrinking as you add/remove files
+- support for NFSv4
+- only pay for the sorage
+- data shared across multiple AZ's within a region
+- Read After Write Consistency
+- Name: =<name>.efs.<region>.amazonaws.com=
+
+Uses cases:
+
+- fileserver
+  - across multiple EC2 instances
+- restrict access based on perms on files/folders

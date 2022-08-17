@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       4512aaa0-17ce-409c-9edc-836472bb849a
+:END:
+#+created: 20220401041936020
+#+modified: 20220401042746274
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-04-01
+#+type: text/vnd.tiddlywiki
+
+- next.js + [[#Golang][Golang]]
+  - [[https://v0x.nl/articles/portable-apps-go-nextjs]]
+  - [[https://github.com/dstotijn/golang-nextjs-portable]]
+  - [[https://github.com/sirbully/golang-nextjs-docker]]
+  - [[https://jasonraimondi.com/posts/create-a-secured-rest-api-for-a-next-js-application-using-jwt-and-golang/]]
+    - series of posts
+    - uses [[https://echo.labstack.com/][echo]] , next.js and [[#TypeScript][TypeScript]]

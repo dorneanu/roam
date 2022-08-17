@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ffb29bb9-17ce-4aec-8fdb-771bf5b7505e
+:END:
+#+created: 20220711124302604
+#+modified: 20220711124447464
+#+origin: [[<<. bibliography "The Oxygen Advantage" >> ]]
+#+revision: 0
+#+tags: Definition
+#+title: V̇O2 Max
+#+type: text/vnd.tiddlywiki
+
+- maximal oxygen uptake
+- maximum capacity of your body to transport and utilize oxygen in 1 minute during maximal or exhaustive exercise
+- can determine an athlete's capacity to sustain physical exercise and is considered to be the best indicator of cardiorespiratory endurance and aerobic fitness.
+- the goal of most endurance programs (cycling,rowing, swimming, and running) is to increase V02 max.

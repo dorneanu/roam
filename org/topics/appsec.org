@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       995424a0-9681-4cfd-a722-b127aba93b37
+:END:
+#+bibliography: Application Security
+#+created: 20191108132531229
+#+modified: 20210601084846052
+#+note: Application Security
+#+revision: 0
+#+tags: AppSec Security Bibliography
+#+title: AppSec
+#+tmap.id: bba76733-1be9-4293-8d37-c338a1aa3e14
+#+type: text/vnd.tiddlywiki
+
+

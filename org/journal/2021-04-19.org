@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5bc8dde2-c1a9-40c4-84d1-45b43e7d6ac8
+:END:
+#+created: 20210419112200627
+#+modified: 20210518184428064
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-04-19
+#+type: text/vnd.tiddlywiki
+
+- [[https://podcasts.apple.com/us/podcast/504-vitalik-buterin-creator-ethereum-on-understanding/id863897795?i=1000512237199]]
+  - #504: Vitalik Buterin, Creator of [[#Ethereum][Ethereum]], on Understanding Ethereum, ETH vs. BTC, ETH2, Scaling Plans and Timelines, NFTs, Future Considerations, Life Extension, and More (Featuring Naval Ravikant)

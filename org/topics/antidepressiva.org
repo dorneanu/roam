@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       da370dfb-9ed3-45d1-9b04-7121bf7d8284
+:END:
+#+created: 20201015123136197
+#+modified: 20210518184428195
+#+revision: 0
+#+tags: TODO
+#+title: Antidepressiva
+#+tmap.id: f3e31865-568b-4568-8187-89d5cc778b63
+#+type: text/vnd.tiddlywiki
+
+

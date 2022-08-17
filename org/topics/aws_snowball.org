@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       20bf3fc9-1758-49ca-a8af-b6bf16e38626
+:END:
+#+created: 20180905142941851
+#+creator: boru
+#+modified: 20210518184428542
+#+modifier: boru
+#+revision: 0
+#+tags: AWS
+#+title: AWS Snowball
+#+tmap.id: 7270eb64-2bad-4b09-9fa2-30d1eedae0fd
+#+type: text/vnd.tiddlywiki
+
+Import/Export of large amounts of data
+
+* Snowball
+:PROPERTIES:
+:CUSTOM_ID: snowball
+:END:
+- 80 TB in all regions
+- 256-bit encryption
+- use of TPM
+- software erasure (after use)
+- [!] on-board storage
+
+* Snowball Edge
+:PROPERTIES:
+:CUSTOM_ID: snowball-edge
+:END:
+- 100 TB data transfer
+- compiute capabilities
+- connects to existing apps
+  - using storage interfaces
+
+* Snowmobile
+:PROPERTIES:
+:CUSTOM_ID: snowmobile
+:END:
+- sea container on back of a truck
+- large amounts of data (Petabytes/Exabytes)

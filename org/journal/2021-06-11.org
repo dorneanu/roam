@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2be66cec-15ef-45ee-86ad-6407645252a8
+:END:
+#+created: 20210611071018354
+#+modified: 20210611074137660
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-06-11
+#+type: text/vnd.tiddlywiki
+
+- [[https://changelog.com/gotime/181][Go Time 181]]: Build for [[#Ethereum][Ethereum]] in [[#Golang][Golang]]
+  - about the benefits of Golang in the Ethereum world
+  - talks about [[https://ethereum.org/en/eth2/][ETH 2.0]]
+  - how to engineer software in the world of blockchain
+    - DAPPS
+    - every node has to agree to the "contract"
+  - what to pay attention to
+    - tests
+    - distributed system
+    - a permissionless system
+    - a trustless world
+  - [[https://prysmaticlabs.com/]]

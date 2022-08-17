@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3e7dd2c6-9119-455c-8dbb-96f983568ac2
+:END:
+#+created: 20210615084444122
+#+modified: 20210615084519236
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-06-15
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.twobirds.com/de/news/articles/2020/germany/insolvency-of-wallet-providers-and-crypto-depositories-in-germany][Insolvenz von Wallet-Anbietern und Kryptoverwahrern in Deutschland]]
+  - [[#Blockchain][Blockchain]]

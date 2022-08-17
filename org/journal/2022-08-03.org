@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       af58baa4-901b-4a64-96d5-afefd8ac8efa
+:END:
+#+created: 20220803085032279
+#+modified: 20220803105430929
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-08-03
+#+type: text/vnd.tiddlywiki
+
+- [[#Microservices][Microservices]]
+  - [[https://dev.to/mstryoda/application-architecture-for-microservices-sidecar-pattern-34m6][Sidecar pattern in Microservices]]
+  - [[https://dev.to/semaphore/when-microservices-are-a-bad-idea-2p7h][When microservices are a bad idea]]
+- [[https://www.reddit.com/r/softwarearchitecture/comments/otzxdq/books_to_get_better_at_software_designarchitecture/][Books to get better at software design architecture]]

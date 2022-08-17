@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       149f8e1e-6a26-4cd2-bcd0-86c4689a7748
+:END:
+#+title: Holotropic Breathwork
+#+created: 20220524063635187
+#+modified: 20220524064528871
+#+revision: 0
+#+tags:
+#+type: text/vnd.tiddlywiki
+
+- from the Greek *holos* (whole) and *trepein* (progressing toward something)
+- the technique broke the mind down and moved it toward wholeness
+- created by Czech psychiatrist named [[https://en.wikipedia.org/wiki/Stanislav_Grof][Stanislav Grof]]
+  - initially he experimented with LSD
+  - but he and his wife looked for a therapy with the same hallucinatory and healing effects that wouldn't get them thrown into jail
+    - they've discovered *heavy breathing*
+      - essentially [[id:d885541a-d887-45f4-b814-34f84d1659eb][Tummo]] cranked up

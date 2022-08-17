@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a9855310-f6d5-49ad-a812-a52cf8d40ab8
+:END:
+#+created: 20210629103301309
+#+modified: 20210629103331467
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-06-29
+#+type: text/vnd.tiddlywiki
+
+- [[https://lagedernation.org/podcast/ldn246-spezial-karl-lauterbach-spd-gesundheitsexperte/][LdN246]]
+  - mit Karl Lauterbach

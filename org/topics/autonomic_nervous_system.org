@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       0738a23c-8607-465f-be46-c945920917e1
+:END:
+#+title: Autonomic Nervous System
+#+created: 20220522063747168
+#+modified: 20220523074723837
+#+revision: 0
+#+tags: Definition Anatomy
+#+type: text/vnd.tiddlywiki
+
+- consists of 2 systems (serving opposite functions)
+  - [[id:1745774b-70f5-465d-954b-aa426296cb8b][Parasympathetic Nervous System]]
+  - [[id:073c93c5-bd4c-46da-af90-8eae1cec8275][Sympathetic Nervous System]]

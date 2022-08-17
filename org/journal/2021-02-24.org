@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       663b7fed-a593-486d-8f0d-358b6c8bee51
+:END:
+#+created: 20210224130220050
+#+modified: 20210518184428039
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-02-24
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.devseccon.com/ep-67-security-chaos-engineering-what-is-it-and-why-should-you-care/][Ep. #67, Security Chaos Engineering - What is it and why should you care? with Aaron Rinehart from Verica]]

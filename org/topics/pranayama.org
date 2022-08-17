@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9d963942-8e28-4754-926c-ed9fbe08feb7
+:END:
+#+title: Pranayama
+#+created: 20201019085650973
+#+modified: 20210518184432254
+#+revision: 0
+#+tmap.id: 899599fa-e230-45ed-984b-5340d09b74ba
+#+type: text/vnd.tiddlywiki
+
+- Lehre des bewussten Atmens
+- setzt sich aus den Wörtern [[id:af4d345a-6158-4d4f-9144-85ad1e9a1cdb][Prana]] (Lebensenergie) und Yama (Lehre) zusammen

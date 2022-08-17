@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       68d8bcb0-e791-486b-95fb-3ddfff61b0b8
+:END:
+#+title: The Clean Code
+#+filetags: book
+#+date: 2021-02-01
+
+* The Clean Code
+:PROPERTIES:
+:FINISHED: 2021-02
+:END:
+** Description
+
+* Notes
+** [[id:603eff0a-cc2c-4e44-a4a2-044d31a48ef2][Clean Code]]
+* Quotes
+** The Clean Code - Note 1                                                     :quote:done:
+#+begin_quote
+Code is anti-evil and clean code is perhaps divine
+#+end_quote
+
+** The Clean Code - Note 2                                                     :quote:done:
+#+begin_quote
+Remember that code is really the language in which we ultimately express the requirements. We may create languages that are closer to the requirements. We may create tools that help us parse and assemble those requirements into formal structures. But we will never eliminate necessary precision—so there will always be code
+#+end_quote
+
+** The Clean Code - Note 3                                                     :quote:done:
+#+begin_quote
+Every system is built from a domain-specific language designed by the programmers to describe that system. Functions are the verbs of that language, and classes are the nouns. This is not some throwback to the hideous old notion that the nouns and verbs in a require- ments document are the first guess of the classes and functions of a system. Rather, this is a much older truth. The art of programming is, and has always been, the art of language design.
+#+end_quote
+
+** The Clean Code - Note 4                                                     :quote:done:
+#+begin_quote
+We often forget that it is also best to postpone decisions until the last possible moment. This isn’t lazy or irresponsible; it lets us make informed choices with the best possible information. A premature decision is a decision made with suboptimal knowledge. We will have that much less customer feedback, mental reflection on the project, and experience with our implementation choices if we decide too soon
+#+end_quote
+
+** The Clean Code - Note 5                                                     :quote:done:
+#+begin_quote
+Instead of shirking from estimates or letting someone else do the planning (then complaining about it), the technical team actually self-organizes and makes real commitments
+#+end_quote
+
+** The Clean Code - Note 6                                                     :quote:done:
+#+begin_quote
+This philosophy is sometimes called merciless refactoring. I call it “the Boy Scout rule”: Always check in a module cleaner than when you checked it out. Always make some random act of kindness to the code whenever you see it.
+#+end_quote
+
+** The Clean Code - Note 7                                                     :quote:done:
+#+begin_quote
+Your career is your responsibility. It is not your employer’s responsibility to make sure you are marketable. It is not your employer’s responsibility to train you, or to send you to conferences, or to buy you books. These things are your responsibility. Woe to the software developer who entrusts his career to his employer.
+#+end_quote
+
+** The Clean Code - Note 8                                                     :quote:done:
+#+begin_quote
+How can you know your code works? That’s easy. Test it. Test it again. Test it up. Test it down. Test it seven ways to Sunday
+#+end_quote
+
+** The Clean Code - Note 9                                                     :quote:done:
+#+begin_quote
+If you let the tests rot, then your code will rot too. Keep your tests clean
+#+end_quote
+
+** The Clean Code - Note 10                                                    :quote:done:
+#+begin_quote
+Good software requires focus and presence of the mind.
+#+end_quote

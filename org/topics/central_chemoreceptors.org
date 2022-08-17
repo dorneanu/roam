@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a6bd2c3a-52df-4051-83f5-39d1c739b11c
+:END:
+#+title: Central Chemoreceptors
+#+created: 20220523064909026
+#+modified: 20220523070352319
+#+revision: 0
+#+tags: Definition Anatonmy
+#+type: text/vnd.tiddlywiki
+
+- located at the base of the brain stem
+- monitor changes of [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] levels and send alarm signals to the brain, telling the lungs to breathe faster and more deeply
+- when we're breathing too quickly, the receptors tell the body to breathe more slowly to increase [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] levels
+- *Chemoreception* is one the most fundamental functions of life
+  - first aerobic life forms had to sense carbon dioxide to avoid it
+  - as humans evolved chemoreception became more plastic
+    - humans could adapt to changing environments
+    - it it the ability to adapt to different levels of [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] and oxygen that helped humans colonize at different (and high) altitudes

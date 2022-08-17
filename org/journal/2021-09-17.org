@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       78d228e7-5a58-4481-99ac-71f6269bf862
+:END:
+#+created: 20210917141936097
+#+modified: 20210917142723542
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-09-17
+#+type: text/vnd.tiddlywiki
+
+- [[https://noteflakes.com/articles/2021-09-02-how-i-write-code-pen-paper][How I write Code]]
+  - I always thought this is a great idea
+- [[https://medium.com/@ekasetyanugraha/how-i-lost-my-passion-as-a-software-developer-284cf1db1f5c][How I lost my passion as a Software developer]]
+- [[https://towardsdatascience.com/how-to-implement-domain-driven-design-ddd-in-golang-2e2139beb09d?gi=7cef91ea179e][How to Implement DDD in Golang]]
+  - [[#DDD][DDD]] in [[#Golang][Golang]]
+  - practical introduction

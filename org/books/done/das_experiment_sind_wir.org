@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       59d9aa39-0ba4-4996-93e8-ed6310e85f2c
+:END:
+#+title: Das Experiment sind wir
+#+filetags: book
+#+date: 2021-01-01
+
+* Das Experiment sind wir
+:PROPERTIES:
+:FINISHED: 2021-01
+:END:
+* Description
+** Interessante Bücher
+*** Life 3.0: Being Human in the Age of Artificial Intelligence
+*** Eingriff in die Evolution: Die Macht der CRISPR-Technologie und die Frage, wie wir sie nutzen wollen
+*** Thinking, Fast and Slow
+*** Persuasive Technology: Using Computers to Change What We Think and Do
+*** Realitätsschock
+*** Der Wohlstand der Nationen: Vollständige deutsche Ausgabe
+* Quotes
+** Das Experiment sind wir - Note 1                                            :quote:
+#+begin_quote
+Die letzten Klimawandelleugner stehen längst auf verlorenem Posten, denn
+diejenigen, die das Geld verteilen, haben schon verstanden, dass die ökologische
+Katastrophe auch ihre Geschäftsmodelle existenziell bedroht. Auch wenn diese
+Einsicht reichlich spät kommt.
+#+end_quote

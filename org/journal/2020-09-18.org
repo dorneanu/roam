@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       fb6d5f4f-0f8e-40b0-a07f-a171bc890dac
+:END:
+#+created: 20200918195904031
+#+modified: 20210518184427753
+#+revision: 0
+#+filetags: Journal
+#+title: 2020-09-18
+#+tmap.id: 7dbfde23-80b3-41d7-8923-6196bb58232f
+#+type: text/vnd.tiddlywiki
+
+- [[https://youtu.be/XRqN9E9boCY][Traurige Wahrheit über Moria]]
+- [[http://www.bbc.com/news/magazine-34856379][Frank Hurleys expedition in Antarctica]]

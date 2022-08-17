@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       3ae3428d-c708-4e1b-8a42-065e941c5d33
+:END:
+#+created: 20210816070241657
+#+modified: 20210816122132302
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-08-16
+#+type: text/vnd.tiddlywiki
+
+- [[https://www1.wdr.de/mediathek/audio/wdr3/wdr3-kulturfeature/audio-wie-edward-bernays-massen-manipulierte---der-vater-der-propaganda-102.html][Wie Edward Bernays Massen manipulierte - Der Vater der Propaganda]]
+  - wurde auch in [[#Cui%20Bono%3A%20WTF%20happened%20to%20Ken%20Jebsen%3F][Cui Bono: WTF happened to Ken Jebsen?]] erwähnt
+- [[https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Snippets.html][Elisp Snippets]]
+  - great examples for [[#Lisp][Lisp]]

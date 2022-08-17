@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       edbe44d9-fa55-4db8-9181-e5062d6e55db
+:END:
+#+created: 20200914192326686
+#+modified: 20210518184427723
+#+revision: 0
+#+filetags: Journal
+#+title: 2020-09-14
+#+tmap.id: 2193aad2-4921-4104-9926-01e0140d0624
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.swr.de/swr2/programm/broadcastcontrib-swr-13438.html][Wie funktioniert Selbstregulierung?]]
+  - auch in der [[https://www.ardaudiothek.de/wissen/wie-funktioniert-selbstregulierung/80172244][ARD audiothek]]
+- Un podcast interesant despre [[https://www.stareanatiei.ro/podcasts/][starea natiei]]
+  - este si [[https://www.youtube.com/channel/UCtK5Oe8sHjp6WPcwWuHUVpQ][canal youtube]]
+- [[https://stackoverflow.com/questions/42531643/amazon-s3-static-web-hosting-caching][how to use caching with S3 static site hosting]]

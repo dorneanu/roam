@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       e8fc9b18-1674-4358-ad10-10ba8e675469
+:END:
+#+created: 20181106082845163
+#+creator: boru
+#+modified: 20210525073019635
+#+modifier: boru
+#+revision: 0
+#+tags: AWS Stub
+#+title: AWS/KMS
+#+tmap.id: 302e0d19-317d-4861-8266-306e129b555f
+#+type: text/vnd.tiddlywiki
+
+- [[https://github.com/awsdocs/aws-doc-sdk-examples/blob/master/python/example_code/kms/kms-python-example-encrypt-data.py][AWS Example in Python]]

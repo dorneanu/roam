@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       272ecac5-0dd2-412c-9bfd-fd85ea6830bd
+:END:
+#+created: 20210126105739988
+#+modified: 20210518184428012
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-01-26
+#+type: text/vnd.tiddlywiki
+
+- [[http://blog.pi3.com.pl/?p=850][Windows 7 TCP/IP Hijacking]]
+  - Hijacking [[#TCP][TCP]]/IP sessions
+- [[https://threedots.tech/post/ddd-lite-in-go-introduction/][DDD Lite]] with [[#Golang][Golang]]
+  - Coding is a war, to win you need a strategy
+
+  - I like to say that :
+    #+begin_quote
+    “5 days of coding can save 15 minutes of planning"
+    #+end_quote
+
+  - The only public API of the object should be methods describing behaviors. No dumb getters and setters!
+
+  - On unit tests
+
+    #+begin_quote
+    You will be slow down in the long term because of sacrificing quality for quick performance boost at the beginning.
+
+    #+end_quote
+
+- [[https://life-with-lapavoni.tumblr.com/][My Life with La Pavoni]]
+  - Interesting micro blog on the real settings with "[[#La%20Pavoni][La Pavoni]]"

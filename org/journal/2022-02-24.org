@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1997c76e-2a1b-43a7-a049-db8f36fdf932
+:END:
+#+created: 20220224072134973
+#+modified: 20220224130528584
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-02-24
+#+type: text/vnd.tiddlywiki
+
+- Currated list of [[#Emacs][Emacs]] resources
+  - [[https://emacs.zeef.com/ehartc]]
+- Die 3 besten Investment-Strategien
+  - Alles in den US-Markt stecken
+    - US-Aktienmarkt ist der größte ([[https://en.wikipedia.org/wiki/S%26P_500][S&P 500]])
+    - 90 % sollten hier rein investiert werden
+    - 10% in US-Staatsanleihen (Treasury Bonds)
+      - haben aber eher wenig Rendite
+  - mit geringem Zeitaufwand verbinden
+  - Nachteile
+    - Kapital "rotiert" zwischen einzelnen (Welt-)Regionen
+    - Fokus auf ein Land (US) birgt das Risiko, Entwicklungen in anderen Ländern zu verpassen

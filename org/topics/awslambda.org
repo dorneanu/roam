@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       871392b8-355f-486b-badd-2a2458363ade
+:END:
+#+created: 20180822113523333
+#+creator: boru
+#+modified: 20210520102142440
+#+modifier: boru
+#+revision: 0
+#+tags: [[AWS Compute]]
+#+title: AWS/Lambda
+#+tmap.id: 66c7a07b-f615-49f1-90e0-a638f46fe0db
+#+type: text/vnd.tiddlywiki
+
+* Triggers
+:PROPERTIES:
+:CUSTOM_ID: triggers
+:END:
+Types:
+
+- API Gateway
+- AWS [[#IoT][IoT]]
+- Alexa Skills Kit
+- Alexa Smart Home
+- [[#AWS%20CloudFront][AWS CloudFront]]
+- [[#AWS%20CloudWatch][AWS CloudWatch]]
+  - events
+  - logs
+- [[#CodeCommit][CodeCommit]]
+- Cognito Sync Trigger
+- [[#DynamoDB][DynamoDB]]
+- Kinesis
+- [[#AWS%2FS3][AWS/S3]]
+- SNS
+- SQS
+
+* Pricing
+:PROPERTIES:
+:CUSTOM_ID: pricing
+:END:
+- per *requests*
+  - first 1 million are *free*
+  - $0.2 per 1M requests
+- per *duration*
+  - max 5 min
+
+* Misc
+:PROPERTIES:
+:CUSTOM_ID: misc
+:END:
+- Lambda scales out (not up) automatically
+- 1 event = 1 function call
+- Use AWS X-Ray for debugging
+
+* Serverless frameworks
+:PROPERTIES:
+:CUSTOM_ID: serverless-frameworks
+:END:
+- [[https://github.com/serverless/examples][serverless.com]]

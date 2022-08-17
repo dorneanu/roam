@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a7d8d7fc-3212-434d-94df-4a841ee8e6bc
+:END:
+#+created: 20220407120403254
+#+modified: 20220407120537293
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-04-07
+#+type: text/vnd.tiddlywiki
+
+- [[https://medium.com/@lakshminp/publishing-a-book-using-org-mode-9e817a56d144][Publishin a book using org mode]]
+  - how to use [[#LeanPub][LeanPub]] (especially the API to create previews)
+  - how deal with log drawer

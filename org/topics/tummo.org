@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d885541a-d887-45f4-b814-34f84d1659eb
+:END:
+#+title: Tummo
+#+created: 20210117191859225
+#+modified: 20220524064627427
+#+origin: [[<<. bibliography "\The Wim Hof Method\">>]]
+#+revision: 0
+#+tags: Stub
+#+type: text/vnd.tiddlywiki
+
+- ancient Tibetan practice of /inner heat/
+- Tummo = Tibetan word for "inner fire"
+- also practiced in the [[#TheWimHofMethod][TheWimHofMethod]]
+- Inner Fire Meditation
+  - practiced by Tibetan Buddhists and their students for the past thousand years

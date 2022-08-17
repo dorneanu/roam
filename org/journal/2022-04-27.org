@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       eca052f9-07af-4f78-84d0-77f5b6093bbd
+:END:
+#+created: 20220427082657042
+#+modified: 20220428081905092
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-04-27
+#+type: text/vnd.tiddlywiki
+
+- [[https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749][Ready for changes with hexagonal architecture]]
+  - The idea of Hexagonal Architecture is to put inputs and outputs at the edges of our design. Business logic should not depend on whether we expose a REST or a [[#GraphQL][GraphQL]] API, and it should not depend on where we get data from --- a database, a microservice API exposed via gRPC or REST, or just a simple CSV file.
+
+  - Nice explanations of [[#Hexagonal%20Architecture][Hexagonal Architecture]]

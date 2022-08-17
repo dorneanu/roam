@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       61b1e794-8d3a-45f1-b414-612b6ad4dad4
+:END:
+#+title: CDK
+* Resources
+** Articles
+- 2022-08-16 ◦ [[https://faun.pub/create-a-bastion-with-aws-cdk-d5ebfb91aef9][Create a bastion with AWS CDK]]

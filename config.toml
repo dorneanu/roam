@@ -1,0 +1,145 @@
+Title =  "brainfck.org"
+defaultContentLanguage = "en"
+languageCode = "en-us"
+BaseUrl = "https://brainfck.org"
+Theme =  "er"
+MetaDataFormat =  "yaml"
+CanonifyUrls =  true
+BuildDrafts =  true
+PaginatePath =  "p"
+Paginate = 8
+DisablePathToLower =  false
+HasCJKLanguage = true
+PreserveTaxonomyNames = false
+UglyUrls = false
+PygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodefences = true
+# pygmentsCodefencesGuessSyntax = true
+DefaultContentLanguage = "en"
+disqusShortname = "dorneanu"
+# publishDir = "docs"
+
+copyright="2009-2022 Victor Dorneanu - All rights reserved"
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+    noHl = false
+    style = 'emacs'
+    tabWidth = 4
+
+# Make sure we use Goldmark
+# https://ox-hugo.scripter.co/doc/goldmark/
+[markup.goldmark.renderer]
+  unsafe = true
+
+
+[author]
+  name="Victor Dorneanu"
+
+[permalinks]
+# posts = "/:year/:month/:day/:title"
+posts = "/posts/:title"
+notes = "/notes/:title"
+gists = "/gists/:title"
+
+[Params]
+  Introduce = "brainfck.org"
+  Description = "Personal Zettelkasten"
+  Keywords =  ""
+  Subtitle = ""
+  Imglogo = "/img/logo.png"
+  AuthorImg = "/img/author.jpg"
+  DateFormat = "2006-01-02"
+  YearFormat = "2006"
+  MonthFormat = "01-02"
+  #BaiduStatsId = "0b07433b4ab8d587dae7d34e71973839"
+  #QQStatsId = "58416275"
+  #RevolverMapId = "5b4f2ucxar6"
+  Fancybox = true
+  # showTagCloud = true
+  # showtoc = true
+
+  # For hermit theme
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  # description = ""
+  # images = [""]
+  themeColor = "#1d1d1d"
+
+  homeSubtitle = "braindumps about almost everything"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  # bgImg = ""  # Homepage background-image URL
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = "https://github.com/username/repository/commit/"
+
+  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+  relatedPosts = true  # Add a related content section to all single posts page
+  code_copy_button = false # Turn on/off the code-copy-button for code-fields
+  customCSS = ["css/custom.css", "css/syntax.css"]
+
+
+[Author]
+  Name = "blog.dornea.nu"
+
+[[Menu.Main]]
+  Name = "Tags"
+  Pre = "book"
+  URL = "/tags"
+  Weight = 6
+# [[Menu.Main]]
+#   Name = "Bookmarks"
+#   Pre = "book"
+#   URL = "/bookmarks"
+#   Weight = 7
+# [[Menu.Main]]
+#   Name = "Bookmarks"
+#   Pre = "code"
+#   URL = "https://brainfck.org/bookmarks.html"
+#   Weight = 10
+[[Menu.Main]]
+  Name = "Books"
+  Pre = "book"
+  URL = "/books"
+  Weight = 15
+# [[Menu.Main]]
+#   Name = "Notes"
+#   Pre = "sticky-note"
+#   URL = "/notes"
+#   Weight = 20
+
+
+[deployment]
+order = [".jpg$", ".gif$"]
+
+# [[deployment.targets]]
+# name = "brainfck"
+# URL="s3://brainfck.org?region=eu-central-1"
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
+
+[outputs]
+home = [ "HTML", "RSS"]
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       87f03c1e-144e-4364-8b3d-d8ebf2edb5e0
+:END:
+#+created: 20210127081616445
+#+modified: 20210518184428021
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-01-27
+#+type: text/vnd.tiddlywiki
+
+- [[https://github.com/dreddsa5dies/goHackTools][Hacker tools]] in [[#Golang][Golang]]
+- "[[https://github.com/berty/berty][Berty]] is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network"

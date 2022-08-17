@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       2dee22ae-e954-4053-8923-5d5556332e2e
+:END:
+#+created: 20210829111134180
+#+modified: 20210829111053795
+#+origin: https://www.jedes-essen-zaehlt.de/
+#+revision: 0
+#+title: Zink
+#+type: text/vnd.tiddlywiki
+
+- Funktion / beteiligt an
+  - Proteinstoffwechsel
+  - Vorgängen des Immunsystems
+  - Wundheilung
+  - Vorgängen des Säure-Basen-Haushalts
+  - Vorgängen des Sehvorgangs
+- Bio-Verfügbarkeit aus pflanzlichen Quellen ist schlechter als aus tierischen Quellen
+- Quellen
+  - Pflanzlich
+    - Vollkorngetreide
+      - Weizen
+      - Roggen
+      - Hafer
+    - Hülsenfrüchte
+      - Erdnüsse
+      - Sojabohnen
+      - Linsen
+    - Samen

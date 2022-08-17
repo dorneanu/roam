@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       34b71580-7745-47a9-a33e-3926efdb113a
+:END:
+#+created: 20201130185954534
+#+modified: 20210518184427803
+#+revision: 0
+#+filetags: Journal
+#+title: 2020-11-30
+#+tmap.id: 031fb1e1-37b4-44a9-9e31-b694d042cdb4
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.youtube.com/watch?v=4Lb5L-VEm34&feature=youtu.be][Breathe to Heal]]
+  - Max Strom
+  - 4-7-8 technique
+- [[https://changelog.com/gotime/153][GitHub's Go-powered CLI]]
+  - How github did a rewrite of some of its CLI tools (from Ruby to [[#Golang][Golang]])
+- [[#Python][Python]] Integration in Spacemacs
+  - In order to use [[https://pypi.org/project/pipenv/][pipenv]]
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+  ;; pipenv related stuff
+  (use-package pipenv
+    :hook (python-mode . pipenv-mode)
+    :init
+    (setq
+     pipenv-projectile-after-switch-function
+     #'pipenv-projectile-after-switch-extended))
+#+end_example
+
+- Integration with [[https://github.com/psf/black][black]]
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+  (use-package blacken
+    :hook (python-mode . blacken-mode)
+    :config
+    (setq blacken-line-length '120))
+#+end_example
+
+- [[https://github.com/corona-warn-app/cwa-documentation][CWA (Corona Warn App) documentation]]

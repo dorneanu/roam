@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a1bc6830-e8b8-4a19-9293-c346a20ca35d
+:END:
+#+created: 20210125140222055
+#+modified: 20210518184428000
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-01-25
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.npr.org/2020/12/18/948108821/author-and-podcaster-tim-ferriss?t=1611583356461][How I built this with Tim Ferris]]
+  - Author of

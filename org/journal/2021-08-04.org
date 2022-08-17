@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       3c5c62c3-2a5d-4350-ac6a-56cd89aa18ad
+:END:
+#+created: 20210804122646494
+#+modified: 20210810173817603
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-08-04
+#+type: text/vnd.tiddlywiki
+
+- [[https://changelog.com/gotime/185][Giving TDD a Go]]
+  - [[#TDD][TDD]] is a process and not only about testing
+  - it helps you to better design your software
+    - not only by making your code more testable
+    - but also from a "client" perspective
+      - you write and test your as if you were your first customer/client
+  - [[#Golang][Golang]] was built with [[#Software%20Testing][testing]] in mind

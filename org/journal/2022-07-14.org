@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2cd17b2c-dd5a-4da9-9a7f-d3fe8aaa988f
+:END:
+#+created: 20220714120032607
+#+modified: 20220714125116034
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-07-14
+#+type: text/vnd.tiddlywiki
+
+- [[https://danluu.com/simple-architectures/][In defense of simple architecture]] ([[#Architecture][Architecture]])
+
+- [[https://psyche.co/amp/ideas/slow-down-its-what-your-brain-has-been-begging-for][Slow down, is what your brain has begging for]]
+
+  #+begin_quote
+  On 11 March 2020, the world's frenetic rhythm stopped. Soon, the COVID-19 pandemic placed the world in lockdown and, for some, afforded a much-needed mental slowdown. In what has been termed the Great Resignation in the United States, millions quit their jobs. Many realised that 'Productivity is a trap. Becoming more efficient just makes you more rushed, and trying to clear the decks simply makes them fill up again faster,' as Oliver Burkeman writes in his [[https://www.penguin.co.uk/books/111/1111522/four-thousand-weeks/9781784704001.html][book]] /Four Thousand Weeks: Time Management for Mortals/ (2021). Slowing down during the pandemic allowed the DMN to illuminate the harsh reality of our unbalanced daily routines.
+
+  #+end_quote
+
+- [[https://www.scotthyoung.com/blog/2022/06/28/best-productivity-books/][The 10 best books on productivity]]

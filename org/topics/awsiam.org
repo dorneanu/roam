@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       4378e550-6488-4106-84e4-d5b1adb3d890
+:END:
+#+created: 20180813073952451
+#+creator: boru
+#+modified: 20210919152223170
+#+modifier: boru
+#+revision: 0
+#+tags: AWS
+#+title: AWS/IAM
+#+tmap.id: 993e3cf5-9801-4511-a102-d490aea81408
+#+type: text/vnd.tiddlywiki
+
+- Identity and Access Management :: It is global (regardless region)
+
+* Components
+:PROPERTIES:
+:CUSTOM_ID: components
+:END:
+- users
+- groups
+- policies
+
+** Roles
+:PROPERTIES:
+:CUSTOM_ID: roles
+:END:
+Used for access policies between AWS resources (e.g. EC2 -> S3)

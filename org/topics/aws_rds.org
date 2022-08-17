@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       16d68d71-2c3a-42a0-b0cd-ab944b8142fd
+:END:
+#+created: 20180926151127248
+#+creator: boru
+#+modified: 20210518184428497
+#+modifier: boru
+#+revision: 0
+#+tags: [[AWS Databases]]
+#+title: AWS RDS
+#+tmap.id: 68f73fc6-92f6-4ecd-923e-6ca9e9b705e2
+#+type: text/vnd.tiddlywiki
+
+* Multi-AZ RDS
+:PROPERTIES:
+:CUSTOM_ID: multi-az-rds
+:END:
+have an exact copy of your production DB
+
+- in another AZ
+- AWS handles the replication
+- is case of failver -> standby instance
+- *only for disaster recovery*
+
+* Read Replica
+:PROPERTIES:
+:CUSTOM_ID: read-replica
+:END:
+have an exact copy (read-only) of your production DB
+
+- async replication from primary RDS to read replica
+- only for read-heavy DB workloads
+- *used for scaling, not for disaster recovery*
+- up to 5 read replica copies for any DB
+- each replica has its own DNS endpoint
+- you can have read replicas that have Multi-AZ
+- you can create read replicas of Multi-AZ source DBs
+- you can have a read replica in a 2nd region

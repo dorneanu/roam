@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       a9778233-e67f-44bf-8225-8a4aa4b37504
+:END:
+#+created: 20220614075755394
+#+modified: 20220614132420318
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-06-14
+#+type: text/vnd.tiddlywiki
+
+- [[https://protesilaos.com/emacs/denote][denote]]
+  - Note taking system for [[#Emacs][Emacs]]
+- [[https://vxlabs.com/2022/06/12/typescript-development-with-emacs-tree-sitter-and-lsp-in-2022/][TypeScript development with Emacs, tree-sitter and LSP in 2022]]
+  - use of tree-sitter in [[#Emacs][Emacs]] for [[#TypeScript][TypeScript]] (and React)
+  - also [[https://github.com/radian-software/apheleia][apheleia]] might be of interest
+  - [[https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages][structural editing]]
+- [[https://www.fugue.co/blog/an-introduction-to-cloud-security-for-infosec-professionals][Introduction to Cloud Security for InfoSec Professionals]]
+  - "The cloud is software-defined everything."
+  - "IAM is the new network."
+  - "IAM allows users to /assume/ other roles temporarily. Think "sudo" for the cloud."
+- [[https://www.youtube.com/watch?v=KZldaP-S66E&ab_channel=CalNewport][Deep Questions #169]]
+  - Time management
+    - Capture
+      - Storage of information that is used to take decisions
+      - David Allen ([[#GTD][GTD]])
+      - Don't waste mental energy to remember things
+    - Configure
+      - Take care about how your organizez your information
+      - Roles? Categories?
+      - Information is available at one central place
+    - Control
+      - Don't be reactive
+      - Be proactive instead
+        - Schedule your time in advance
+        - Multiscale planing
+          - Querterly
+            - Projects
+          - Weekly
+          - Daily

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5160be4d-dde4-4997-87bd-55644f97d90f
+:END:
+#+created: 20220622083946108
+#+modified: 20220622084023212
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-06-22
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge/amp][The surreal case of a CIAs hackers revenge]]

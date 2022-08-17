@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       75dad6d0-2f17-4a5d-b0fe-0dcded6f4e40
+:END:
+#+created: 20220629080844658
+#+modified: 20220629081821197
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-06-29
+#+type: text/vnd.tiddlywiki
+
+- [[https://blog.christophetd.fr/abusing-cloudflare-workers/][How to abuse Cloudflare workers]]
+- [[https://news.ycombinator.com/item?id=31907374][I DDoSed myself using #cloudfront and #lambda edge and got a 4.5k bill]] ([[#AWS%2FLambda][AWS/Lambda]])

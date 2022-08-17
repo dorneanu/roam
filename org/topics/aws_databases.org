@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       1a8217a9-1a83-4e8d-8a7e-f9e8ab42e375
+:END:
+#+created: 20180926150333131
+#+creator: boru
+#+modified: 20210518184428387
+#+modifier: boru
+#+revision: 0
+#+tags: TODO AWS
+#+title: AWS Databases
+#+tmap.id: 036a1fea-98a7-4430-9a2c-76f84257f178
+#+type: text/vnd.tiddlywiki
+
+* Relational ([[#AWS%20RDS][AWS RDS]])
+:PROPERTIES:
+:CUSTOM_ID: relational-aws-rds
+:END:
+OLTP based
+
+- SQL server
+- [[#MariaDB][MariaDB]]
+- Oracle
+- [[#MySQL][MySQL]]
+- [[#PostgreSQL][PostgreSQL]]
+- Aurora
+
+* Non-relational
+:PROPERTIES:
+:CUSTOM_ID: non-relational
+:END:
+Consist of:
+
+- collection (=table)
+- document (=row)
+- key value pairs (=fields)
+
+* OLTP
+:PROPERTIES:
+:CUSTOM_ID: oltp
+:END:
+Online Transaction Processing
+
+- pull in specific records (e.g. by id)
+
+* OLAP
+:PROPERTIES:
+:CUSTOM_ID: olap
+:END:
+Online Analytics Processing
+
+- pulls in large numbers of records
+- uses different type of architecture
+  - from a DB/infra perspective
+- examples: AWS [[#RedShift][RedShift]]
+
+* Misc
+:PROPERTIES:
+:CUSTOM_ID: misc
+:END:
+*Important*: Pay attention when client and server in different [[#AWS%20Security%20Group][AWS Security Group]]s:
+
+- server must allow =INBOUND= connections for clients security group
+
+* Backups
+:PROPERTIES:
+:CUSTOM_ID: backups
+:END:
+- automated backups (by default)
+  - saved on S3
+- DB snapshots
+  - always user initiated
+  - stored even after you delete the RDS instance
+
+When restoring backups, a new DNS name is needed.

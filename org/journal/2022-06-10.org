@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       cb487455-3c28-4f03-9524-5c79a8cef3ad
+:END:
+#+created: 20220610151753323
+#+modified: 20220610152949003
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-06-10
+#+type: text/vnd.tiddlywiki
+
+- Vocea Natiei #147 ([[#Vocea%20Natiei][Vocea Natiei]])
+  - Progresul în tehnică nu ne-a făcut și mai înțelepți
+  - Trebuie sa lăsăm nu numai o lume mai bună dar ci și copii mai buni
+  - Comparația lui Sie Ken Robinson cum sistemul școlar poate fi comparat cu o fermă de porci.
+  - Robinson propune ca elevii la școală sa învețe 8 competențe
+    - Creativitate
+    - Curiozitate
+    - Simț critic
+    - Abilitate de comunicare
+    - Compasiunea
+    - Colaborare
+    - Calmitate
+    - Simț civic
+  - Teoria dansului pe margine stânci (economie)
+- On Authentication via SSH certicates
+  - [[https://cottonlinux.com/ssh-certificates/][How to configure SSH certificates and user principles]]
+  - [[https://ruimarinho.gitbooks.io/yubikey-handbook/content/ssh/authenticating-ssh-via-user-certificates-server/][Authenticating SSH via user certificates (user) - Yubikey Handbook]]

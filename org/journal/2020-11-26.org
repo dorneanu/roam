@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       cce84a98-5d33-454b-b914-54ff4709e9ff
+:END:
+#+created: 20201126100308046
+#+modified: 20210518184427793
+#+revision: 0
+#+filetags: Journal
+#+title: 2020-11-26
+#+tmap.id: 2d1b68be-226c-42b8-a632-2e74d3276e3d
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.thepioneer.de/originals/steingarts-morning-briefing/podcasts/ich-bin-ehrlicher-als-ein-gruener][Ich bin ehrlicher als die Grünen]]
+  - Dirk Rossmann veröffentlicht [[https://www.rossmann.de/unternehmen/presse/pressemeldungen/200914-Roman-Dirk-Rossmann.html][sein erstes Buch]]

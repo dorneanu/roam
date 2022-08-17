@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       347876f1-dc80-45e7-b3b1-ab840d7c9442
+:END:
+#+created: 20210929072130587
+#+creator: 
+#+modified: 20210929081021527
+#+modifier: 
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-09-29
+#+type: text/vnd.tiddlywiki
+
+- Check what information your browser is leaking
+  - [[https://dnsleaktest.com/]]
+  - [[https://ipleak.net/]]

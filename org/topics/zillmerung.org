@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d41b3796-3949-4eff-8fd8-648ea555409b
+:END:
+#+created: 20220317084238767
+#+modified: 20220317084300432
+#+origin: https://www.aba-online.de/infothek/glossar/begriffe/zillmerung
+#+revision: 0
+#+tags: 
+#+title: Zillmerung
+#+type: text/vnd.tiddlywiki
+
+#+begin_quote
+Zillmerung ist ein Begriff aus der Versicherungsmathematik und bedeutet, dass - bei Abschluss einer Lebensversicherung - das Konto des Arbeitnehmers sofort mit den beim Zustandekommen des Versicherungsvertrages anfallenden einmaligen Abschluss- und Vertriebskosten belastet wird.
+
+#+end_quote

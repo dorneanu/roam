@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1d52a0e1-7684-4991-8785-9d042e1929c0
+:END:
+#+created: 20210104120157433
+#+modified: 20210628111540228
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-01-04
+#+type: text/vnd.tiddlywiki
+
+- On /Architecture Decision Records/
+  - [[https://andreigosman.ro/adr-architecture-decision-record/]]
+  - [[https://github.com/alphagov/govuk-aws/tree/master/docs/architecture/decisions]]
+    - good examples of ADRs
+  - [[https://engineering.atspotify.com/2020/04/14/when-should-i-write-an-architecture-decision-record][Also Spotify uses ADRs]]
+- [[https://daveasprey.com/brian-rose-776/][Bullet Proof Radio - 776]] (with [[#Dave%20Asprey][Dave Asprey]])
+  - Brian Rose ([[https://londonreal.tv][londonreal.tv]]) talks about censorships and his plans for being London's mayor
+- [[https://evrone.com/rob-pike-interview][Interview with Rob Pike]], co-creator of [[#Golang][Golang]]
+  - Rob: The biggest surprise was when we learned that Go was being used to write malware. You can't control who will use your work or what they will do with it. > Rob: Go is a general-purpose programming language. Write whatever you want in it and don't worry about pinning the language, or any other technology for that matter, to a single problem domain.

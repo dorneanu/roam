@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       9f63173d-5eff-42e6-8aa6-7914ce65fecb
+:END:
+#+created: 20200920084209614
+#+lang: de
+#+modified: 20210811125049318
+#+origin: https://correctiv.org/aktuelles/wem-gehoert-die-stadt/2020/07/15/intransparenz-geldwaesche-steuern-gesetz-oase-muenchen-immobilien-wem-gehoert
+#+revision: 0
+#+stream-type: singletiddler
+#+tags: Topics
+#+title: #WemGehörtDieStadt
+#+tmap.id: 876d3440-fb47-4096-b137-b68bf76f2e1b
+#+type: text/vnd.tiddlywiki
+
+- 100.000.000.000 EUR werden jährlich in Deutschland gewaschen
+- Das Geld stammt meistens aus dem Ausland und wird in Deutschland mittels [[#Geschlossener%20Immo-Fonds][Geschlossener Immo-Fonds]] gewaschen
+  - Aber auch (legale) [[#Immobilienfonds][Immobilienfonds]] sind beliebt
+- [[#Inhaberaktien][Inhaberaktien]] ermöglichen Anonymität und erlauben Investitionen in Immobiliengeschäfte, ohne dass die Mieter je erfahren, wer eigentlich der Besitzer ist.
+  - ein Eigentümerwechsel dieser Aktien wird nicht erfasst oder sonst wo registriert
+  - die deutschen Behörden können vergebens auf ein zentrales Register warten, das Auskunft darüber gibt, welche Immobilie wem gehört ([[https://www.zeit.de/2019/47/geldwaesche-kriminalitaet-drogen-menschenhandel-bargeld-ermittlungen][Deutschland ist ein Geldwäsche-Paradies]])
+- [[https://fsi.taxjustice.net/en/][Der Financial Secrecy Index]] führt die USA als Schattenfinanzplatz No. 2 (nach den Cayman Inseln und der Schweiz)
+  - Nur als Vergleich: In Deutschland sind ca. 3,3 Milionen Firmen registriert
+  - Im Steuerparadies Delaware (USA) sind 1,1 Milionen Firmen registriert (und das bei ca. 1 Milion Einwohnern)
+- Meistens wird auch keine Grunderwerbssteuer gezahlt (über so genannte [[#Share%20Deals][Share Deals]])
+- sadkjhasd
+- Artikel
+  - [[https://interaktiv.tagesspiegel.de/wem-gehoert-berlin/][Wem gehört Berlin]]
+  - [[https://correctiv.org/aktuelles/wem-gehoert-die-stadt/2021/02/03/die-rendite-krieger/][Die Rendite-Kriger]]
+  - [[https://cities4rent.journalismarena.media/][Cities for Rent - Investigating Corporate Landlords Across Europe]]

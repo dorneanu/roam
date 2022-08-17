@@ -1,0 +1,6 @@
+[submodule "themes/hugo-theme-tokiwa"]
+	path = themes/hugo-theme-tokiwa
+	url = https://github.com/heyeshuang/hugo-theme-tokiwa.git
+[submodule "themes/er"]
+	path = themes/er
+	url = https://github.com/lingxz/er

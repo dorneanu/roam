@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1666c84f-1e8c-42b0-9a2d-4dbd86b0e63e
+:END:
+#+created: 20201207121256779
+#+modified: 20210628111453436
+#+revision: 0
+#+filetags: Journal
+#+title: 2020-12-07
+#+type: text/vnd.tiddlywiki
+
+- [[https://daveasprey.com/hal-elrod-765/][Your Morning Makes Your Day: 6 Practices To Get You Going -- Hal Elrod with Dave Asprey]] (from [[#Dave%20Asprey][Dave Asprey]])
+  - [[https://shop.miraclemorning.com/products/the-miracle-morning-movie-experience][Miracle Morning - The movie]]

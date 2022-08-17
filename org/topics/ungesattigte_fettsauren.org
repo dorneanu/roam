@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       fbbabc2a-4716-4c97-bc8b-2d7db3e6f063
+:END:
+#+created: 20200921080848437
+#+lang: de
+#+modified: 20210518184433804
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]] https://www.jedes-essen-zaehlt.de/
+#+revision: 0
+#+tags: 
+#+title: Ungesättigte Fettsäuren
+#+tmap.id: 738eadc5-5798-4961-9ee5-3a7caf472a92
+#+type: text/vnd.tiddlywiki
+
+- Einfach
+  - Beispiele
+    - [[#Oliven%C3%B6l][Olivenöl]] (10% aus gesättigten und 70% aus einfach ungesättigten Fettsäuren)
+    - Avocado's
+    - Geflügelfleisch
+    - Nüsse
+  - Sehen aus wie angeknackste Zahnstocher
+    - Sind also somit luftiger
+- Mehrfach
+  - essentielle Fettsäuren und müssen mit Nahrung aufgenommen werden
+  - Beispiele
+    - [[#Omega-3][Omega-3]]
+      - Fettiger Fisch
+    - [[#Omega-6][Omega-6]]
+      - Nüsse
+      - Samenkerne
+      - Sonnenblumenöl
+  - Sind mehrfach geknickt

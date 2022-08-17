@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       4a29b151-470e-4288-aeb8-34f01d6c4112
+:END:
+#+created: 20211115080335835
+#+modified: 20211115081214892
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-11-15
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.heise.de/developer/artikel/Episode-64-Domain-Driven-Design-DDD-Episode-3-4491758.html][Episode 64: Domain-Driven Design (DDD), Episode 3]]
+  - Ubiquituous Language
+  - [[https://leanpub.com/introducing_eventstorming][event storming]] wird benutzt für die Anforderungsanalyse
+    - domain crunching

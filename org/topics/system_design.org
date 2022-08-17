@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d92ad31f-756a-450d-986a-66b081162572
+:END:
+#+title: System Design
+
+* Resources
+** Articles
+- 2022-08-17 ◦ [[https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo][System Design: The complete course - DEV Community]]

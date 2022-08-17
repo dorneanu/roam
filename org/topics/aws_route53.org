@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       f994baed-a358-4ffe-a8a7-49a25ad47d0a
+:END:
+#+created: 20180926143207040
+#+creator: boru
+#+modified: 20210519101256176
+#+modifier: boru
+#+revision: 0
+#+tags: [[AWS Network & Content Delivery]]
+#+title: AWS Route53
+#+tmap.id: b7ac7c03-817a-4116-b2cd-dbcb2cc9738d
+#+type: text/vnd.tiddlywiki
+
+- SOA records
+  - name of the server that supplied data for the zone
+  - zone admin
+  - version of data file
+  - # of seconds for the TTL file on resource files
+- Amazon is a domain register
+- =ALIAS= records
+  - map resource record sets to [[#AWS%20ELB][AWS ELB]], [[#AWS%20CloudFront][AWS CloudFront]] or [[#AWS%2FS3][AWS/S3]] buckets
+  - difference to =CNAME=
+    - can't be used for naked domain names (without =A=-record, also zone as zone apex record)
+  - map one DNS name to another DNS name
+  - Route53 will automatically change response [[#IP][IP]]v4 for alias records
+  - requests for =CNAME= will be charged
+    - use =ALIAS= instead
+
+* Routing policies
+:PROPERTIES:
+:CUSTOM_ID: routing-policies
+:END:
+** Simple
+:PROPERTIES:
+:CUSTOM_ID: simple
+:END:
+- single resource that performs a given function for the domain
+- round robbin
+
+** Weighted
+:PROPERTIES:
+:CUSTOM_ID: weighted
+:END:
+- example:
+  - send 20% of traffic to one region
+  - send 80% of traffic to another region
+- split traffic based on assigned weights
+
+** Latency
+:PROPERTIES:
+:CUSTOM_ID: latency
+:END:
+- route traffic based on the lowest network latency for the end user
+- have to define region
+
+** Failover
+:PROPERTIES:
+:CUSTOM_ID: failover
+:END:
+- when you want to create an active/passive setup
+
+** Geolocation
+:PROPERTIES:
+:CUSTOM_ID: geolocation
+:END:
+- routing based on the geographic location of the client
+
+** Multivalue answer
+:PROPERTIES:
+:CUSTOM_ID: multivalue-answer
+:END:
+- route traffic randomly to multiple resources
+- example
+  - web-servers get DNS responses containing list of available IP addresses for the web servers

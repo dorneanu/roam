@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       5bfb7288-356d-4d69-b58a-7ca9acd06544
+:END:
+#+title: Die kompetente Familie
+#+filetags: book
+#+date: 2020-11-01
+
+* Die kompetente Familie
+:PROPERTIES:
+:FINISHED: 2020-11
+:END:
+** Description
+
+* Quotes
+** Die kompetente Familie - Note 1                                             :quote:done:
+#+begin_quote
+Die Gesellschaft im Ganzen war autoritär, was sich in den meisten Familien, in der Schule und am Arbeitsplatz widerspiegelte. Sozial bewährte man sich am besten, wenn man gelernt hatte, sich Autoriäten nicht zu widersetzen. Der Nutzen einer solchen Haltung in psychologischer und existenzieller Hinsicht darf jedoch bezweifelt werden.
+#+end_quote
+
+** Die kompetente Familie - Note 2                                             :quote:done:
+#+begin_quote
+Aussichtsreich ist eine Erziehung, in der die Eltern Autoritäten sind, ohne
+autoritär zu sein.
+#+end_quote
+
+** Die kompetente Familie - Note 3                                             :quote:done:
+#+begin_quote
+Kinder brauchen keine perfekten Eltern, die über jeden Zweifel erhaben sind, sondern authentische Menschen aus Fleisch und Blut, die nicht alles wissen, doch stets bereit sind, sich weiterzuentwickeln.
+#+end_quote
+
+** Die kompetente Familie - Note 4                                             :quote:done:
+#+begin_quote
+Kinder, die angeblich ihre Grenzen austesten, suchen gewissermaßen nach der wahren Persönlichkeit ihrer Eltern. Sie wollen wissen, wer ihre Eltern eigentlich sind und wofür sie stehen
+#+end_quote
+
+** Die kompetente Familie - Note 5                                             :quote:done:
+#+begin_quote
+Indem die Integrität der Kinder gekränkt wird, lernen sie, dass es in Ordnung ist, die Grenzen anderer Menschen zu missachten. Und das äußert sich darin, dass sie die Grenzen ihrer Eltern missachten.
+#+end_quote
+
+** Die kompetente Familie - Note 6                                             :quote:done:
+#+begin_quote
+Die Eltern von heute dürfen nicht erwarten, dass ihnen der Staat oder der Arbeitgeber genügend Zeit zur Verfügung stellt, um zu lieben, zu schlafen, zu essen und zu spielen. Sie müssen sich die Zeit selbst nehmen, denn ohne diese Dinge verliert die Familie ihren Sinn.
+#+end_quote
+
+** Die kompetente Familie - Note 7                                             :quote:done:
+#+begin_quote
+Wenn wir uns ständig Sorgen machen, fallen wir einzig und allein unseren Fantasien zum Opfer und sind unfähig zu handeln, weil es eben Fantasien und nicht Tatsachen sind, die uns bedrohen.
+#+end_quote
+
+** Die kompetente Familie - Note 8                                             :quote:done:
+#+begin_quote
+Jedes Liebesverhältnis zu einem anderen Menschen prägt wesentlich unsere Existenz und formt unsere Persönlichkeit aus - ein Leben lang.
+#+end_quote
+
+** Die kompetente Familie - Note 9                                             :quote:done:
+#+begin_quote
+Liebe macht blind, sagen wir, meinen damit aber den Zustand der Verliebtheit, der uns daran hindert, den anderen nüchtern zu betrachten. Da ist viel Wahres dran, doch die schwerwiegende Blindheit ist unsere mangelnde Fähigkeit, uns selbst zu beurteilen und die Unterschiede zwischen uns und unserem Partner zu sehen. Wir verkennen unsere eigenen Bedürfnisse und gehen unentwegt Kompromisse ein, weil uns die Zusammengehörigkeit über alles geht. Doch verleugnen wir unsere Individualität, wenn wir zu viele Zugeständnisse machen.
+#+end_quote
+
+** Die kompetente Familie - Note 10                                            :quote:done:
+#+begin_quote
+Doch man verpflichtet sich gewissermassen, das Leben des Partners genauso ernst zu nehmen wie sein eigenes, seinen Wertvorstellungen, Bedürfnissen und Zielen dieselbe Bedeutung beizumessen wie den eigenen und sich seinen Zielen so wenig wie möglich in den Weg zu stellen.
+#+end_quote
+
+** Die kompetente Familie - Note 11                                            :quote:done:
+#+begin_quote
+Anlässlich der Scheidung seiner Eltern hat es ein 18-jähriger mal so formuliert: "Es sollte Eltern gesetzlich verboten werden, sich scheiden zu lassen, ehe die Kinder 30 Jahre alt sind."
+#+end_quote

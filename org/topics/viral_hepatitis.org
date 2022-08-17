@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       831db17b-90e3-4928-9227-2abe4ab8f299
+:END:
+#+created: 20200913202651106
+#+modified: 20210518184433835
+#+origin: [[<<. bibliography "How not to die" "How not to die">>]]
+#+revision: 0
+#+stream-type: singletiddler
+#+tags: TODO
+#+title: Viral hepatitis
+#+tmap.id: 271f46cb-0e98-4456-87f9-1a64915c2fad
+#+type: text/vnd.tiddlywiki
+
+Usually triggered by hepatitis viruses
+
+** Type A
+:PROPERTIES:
+:CUSTOM_ID: type-a
+:END:
+- mainly spread through contaminated food/water
+
+** Type B
+:PROPERTIES:
+:CUSTOM_ID: type-b
+:END:
+- blood bassed (?) and transmitted sexually
+
+** Type C
+:PROPERTIES:
+:CUSTOM_ID: type-c
+:END:
+- leads to chronic infection (cirhosis)
+- no vaccine
+- usually transmitted via blood through shared needles
+
+** Type D
+:PROPERTIES:
+:CUSTOM_ID: type-d
+:END:
+- can only occur in someone with hepatitis B
+
+** Type E
+:PROPERTIES:
+:CUSTOM_ID: type-e
+:END:
+- able to spread from animals to humans
+- mainly from pork

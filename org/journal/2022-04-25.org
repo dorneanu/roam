@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f1ad8303-7924-46db-92ee-3a9a563666b3
+:END:
+#+created: 20220425100343719
+#+modified: 20220425100403758
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-04-25
+#+type: text/vnd.tiddlywiki
+
+- [[https://cushychicken.github.io/why-you-cant-hire-engineers/][This is why you cannot hire engineers]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f32012fe-a19d-4ea1-87c9-2351d18920b9
+:END:
+#+created: 20220704110325605
+#+modified: 20220704111704932
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-07-04
+#+type: text/vnd.tiddlywiki
+
+- [[http://sawers.com/blog/aws-session-manager-a-better-way-to-ssh/][AWS Session Manager - A better way to SSH]]
+- [[https://github.com/ali2210/faunadb_client_demo][faunadb client demo]] ([[#Golang][Golang]])

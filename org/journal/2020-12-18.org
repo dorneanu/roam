@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       16e21386-3e60-49fd-bb99-09c86a2f7fb0
+:END:
+#+created: 20201218085727100
+#+modified: 20210518184427943
+#+revision: 0
+#+filetags: Journal
+#+title: 2020-12-18
+#+type: text/vnd.tiddlywiki
+
+- [[https://mybinder.org/][Turn a GIT repo into a collection of interactive Jupyter notebooks]]

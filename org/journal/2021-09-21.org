@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1166101f-165b-42c9-b298-a761769e9f77
+:END:
+#+created: 20210921042608904
+#+modified: 20210921042641519
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-09-21
+#+type: text/vnd.tiddlywiki
+
+- [[https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0]]
+  - 40,000 [[#HackerNews][HackerNews]] book recommendations identified using NLP and deep learning

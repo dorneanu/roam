@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       fb69d503-44e7-4d82-af9f-2da1779417c8
+:END:
+#+created: 20220331094832200
+#+modified: 20220331095619808
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-03-31
+#+type: text/vnd.tiddlywiki
+
+- [[https://lakefs.io/building-rich-cli-applications-with-gos-built-in-templating/][Build rich CLI application using Golang's templating system]]
+  - Nice examples how to format data tables, JSON for CLI applications in [[#Golang][Golang]]
+- Some posts regarding [[#Productivity][Productivity]] found on calnewport.com
+  - [[https://www.newyorker.com/magazine/2013/04/29/draft-no-4]]
+  - [[https://www.youtube.com/watch?v=zZwPyB20lxg&ab_channel=CalNewport]]

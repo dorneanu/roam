@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       d3b0e1ec-e508-4701-8252-0bbcee64c894
+:END:
+#+created: 20200727100215598
+#+lang: de
+#+modified: 20210518184433986
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Zucker
+#+tmap.id: c268554d-9122-4728-88e0-0549ec026010
+#+type: text/vnd.tiddlywiki
+
+- Auch Saccharose
+- Gehört zur Familie der Saccharide
+- Formen
+  - Einfachzucker
+    - [[#Glukose][Glukose]]
+    - [[#Fruktose][Fruktose]]
+  - Mehrfachzucker
+    - Stärke
+- Haushaltszucker
+  - Dissacharid
+  - Besteht aus 2 Monosacchariden
+    - Glukose (Traubenzucker)
+    - Fruktose (Fruchtzucker)
+- [[#S%C3%BC%C3%9Fstoffe][Süßstoffe]]

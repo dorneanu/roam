@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       89dcd904-813f-4dcb-b51c-d7169d4549f1
+:END:
+#+created: 20220324075848894
+#+modified: 20220324080318869
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-03-24
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.unaufschiebbar.de/ortsunabhaengig-arbeiten/digitale-nomaden-familie/][10 Learning als digitale Nomadenfamilie]]
+- [[https://tech.buzzfeed.com/unleashing-the-a6a1a5da39d6][Unleashing the SSO]]
+  - [[#SSO][SSO]] and [[#Golang][Golang]]

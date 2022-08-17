@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       673bccd5-2c2b-46a8-a05c-22ed28a69cbb
+:END:
+#+title: The Perfect Breath
+#+created: 20220521135046855
+#+modified: 20220521135046855
+#+revision: 0
+#+tags: Definition
+#+title: Perfect Breath
+#+type: text/vnd.tiddlywiki
+
+- 5,5 breaths per minute
+- 5,5s inhales
+- 5,5s exhales

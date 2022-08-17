@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f22fb91d-9bfe-4294-ab47-3906ea6c6f19
+:END:
+#+created: 20220317132501178
+#+modified: 20220317132504487
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-03-17
+#+type: text/vnd.tiddlywiki
+
+- [[https://changelog.com/gotime/216][Building and using APIs using Go]]
+  - about [[https://apitoolkit.io/][apitoolkit.io]]

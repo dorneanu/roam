@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c5d1061c-64aa-42ef-a091-45388f7f7469
+:END:
+#+created: 20220525084117950
+#+modified: 20220525084419370
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-05-25
+#+type: text/vnd.tiddlywiki
+
+- [[https://emacs.stackexchange.com/questions/56287/org-mode-tag-column-setting-is-ignored%20][Realign tag columns via org-tag-column]]
+  - SPC-u C-c C-c

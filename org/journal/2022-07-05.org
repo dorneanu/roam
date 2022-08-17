@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       647db4ae-d7e6-4fbe-911b-7ebfa96e0d79
+:END:
+#+created: 20220705142608113
+#+modified: 20220705142900398
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-07-05
+#+type: text/vnd.tiddlywiki
+
+- [[https://news.ycombinator.com/item?id=31976407][Should I learn Rust or Go?]] ([[#Golang][Golang]], [[#Rust][Rust]])
+- Ledger Budgeting
+  - [[https://www.petekeen.net/program-your-finances-envelope-budgeting][Program Your Finances: Envelope Budgeting]]
+  - [[https://emacs.cafe/ledger/emacs/ynab/budgeting/2018/06/12/elbank-ynab.html][Using Ledger for YNAB-like envelope budgeting]]
+  - [[https://frdmtoplay.com/envelope-budgeting-with-ledger/amp/][Envelope Budgeting with ledger]]

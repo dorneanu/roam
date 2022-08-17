@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       2aa7434c-b87e-4585-87c9-39b821009f24
+:END:
+#+created: 20220502083303146
+#+modified: 20220502092634837
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-05-02
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.youtube.com/watch?v=dOQpZlZuySE&list=PL8xK8kBHHUX43VVxO3b7so_HXS72rf6eg&ab_channel=CalNewport][Cal Newport - Core ideas on Youtube]]
+- Added [[#Four%20Thousand%20Weeks%3A%20Time%20Management%20for%20Mortals][Four Thousand Weeks: Time Management for Mortals]]
+- Added [[#Geld%20oder%20Leben][Geld oder Leben]]

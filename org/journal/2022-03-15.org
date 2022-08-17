@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1da0425a-87d5-4db1-b8d4-4908a5c8731c
+:END:
+#+created: 20220315084003524
+#+modified: 20220315135744077
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-03-15
+#+type: text/vnd.tiddlywiki
+
+- Added brainfck.org to [[https://github.com/MaggieAppleton/digital-gardeners/pull/89][Maggie Appleton's digital gardeners collection]]
+- Switched from [[#LastPass][LastPass]] to [[https://twitter.com/victordorneanu/status/1503710254760173577][KeePassXC]]

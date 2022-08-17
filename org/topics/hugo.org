@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3500cc48-9c3a-4fc5-8bbc-9a82e14c0485
+:END:
+#+title: hugo
+#+filetags: hugo
+* TODO Favourite themes

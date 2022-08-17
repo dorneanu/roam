@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       449673d2-6b4a-40f1-b3b0-12dd4321c1c3
+:END:
+#+created: 20201208125622635
+#+modified: 20210518184427850
+#+revision: 0
+#+filetags: Journal
+#+title: 2020-12-08
+#+type: text/vnd.tiddlywiki
+
+- [[https://docs.pytest.org/en/latest/example/markers.html#mark-examples][Integration Tests with pytest]]
+
+Use custom markers:
+
+#+begin_example
+import pytest
+
+
+@pytest.mark.webtest
+def test_send_http():
+    pass  # perform some webtest test for your app
+
+
+def test_something_quick():
+    pass
+
+
+def test_another():
+    pass
+
+
+class TestClass:
+    def test_method(self):
+        pass
+#+end_example

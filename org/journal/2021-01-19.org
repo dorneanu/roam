@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       31c96eef-edde-40e7-b14f-8f49cfea1ca3
+:END:
+#+created: 20210119094100203
+#+modified: 20210518184427986
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-01-19
+#+type: text/vnd.tiddlywiki
+
+- [[https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride][I want off Mr. Golang's Wild Ride]] ([[#Golang][Golang]])

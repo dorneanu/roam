@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d887d19a-f2fd-4a27-9f17-0bd3ad14f2db
+:END:
+#+created: 20210519185221926
+#+modified: 20210519185310131
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-05-19
+#+type: text/vnd.tiddlywiki
+
+- [[https://changelog.com/gotime/177][Building startups with]] [[#Golang][Golang]]

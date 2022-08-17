@@ -1,0 +1,76 @@
+:PROPERTIES:
+:ID:       31d01489-32a8-4e48-8140-1c7ae3b370af
+:END:
+#+created: 20201201203803165
+#+finished_month: 11
+#+finished_year: 2020
+#+genres: Spirituality Religion
+#+goodreads: https://www.goodreads.com/book/show/18812864-conversations-with-god---book-2
+#+lang: de
+#+modified: 20210518194234138
+#+revision: 0
+#+filetags: book
+#+title: Gespräche mit Gott Band 2
+#+type: text/vnd.tiddlywiki
+#+date: 2020-11-01
+
+* Gespräche mit Gott Band 2
+:PROPERTIES:
+:FINISHED: 2020-11
+:END:
+** Description
+
+* Quotes
+** Gespräche mit Gott Band 2 - Note 1                                          :quote:
+#+begin_quote
+Gefühle sind weder negativ noch zerstörerisch. Sie sind einfach Wahrheiten. Was zählt, ist, wie du deiner Wahrheit Ausdruck verleihst.
+#+end_quote
+
+** Gespräche mit Gott Band 2 - Note 2                                          :quote:
+#+begin_quote
+Es gibt keinen Tod. Das Leben geht immer und ewig weiter. Das Leben ist. Ihr ändert nur einfach die Form.
+#+end_quote
+
+** Gespräche mit Gott Band 2 - Note 3                                          :quote:
+#+begin_quote
+Eine in Striktem Nationalismus verwurzelte, kollektiv getragene Anschauung und Absicht ignoriert das Los anderer, macht jedoch jeden anderen für dein Los verantwortlich und rechtfertigt so Vergeltung, "Berichtigung" und Krieg.
+#+end_quote
+
+** Gespräche mit Gott Band 2 - Note 4                                          :quote:
+#+begin_quote
+Wenn du dich an erste Stelle setzt, heisst das nicht, dass du selbstsüchtig bist - es bedeutet, dass du dir deiner selbst bewusst bist.
+#+end_quote
+
+** Gespräche mit Gott Band 2 - Note 5                                          :quote:
+#+begin_quote
+Der Geist wird nicht ernährt. Er wird nicht erweckt. Er wird eingelullt, betäubt. Ihr tut alles, was ihr könnt, um ihn abzuschalten. Fernsehen, Filme, Schundromane. Was immer ihr tut, euer Motto ist: Denk nicht, denk nicht, denk nicht!
+#+end_quote
+
+** Gespräche mit Gott Band 2 - Note 6                                          :quote:
+#+begin_quote
+Weisheit ist angewandtes WIssen. (siehe auch Guido Schmidt)
+#+end_quote
+
+** Gespräche mit Gott Band 2 - Note 7                                          :quote:
+#+begin_quote
+Wenn aber eure Interessen bedroht sind, wenn eure Investitionen, eure Sicherheit, eure Lebensqualität davon betroffen werden, dann trommelt ihr die Nation zusammen und versucht, euch der Rückendeckung euerer Welt zu versichern, und stürmt dort hinein, wo selbst Engel ihren Fuß kaum hinzusetzen wagen.
+
+Dann erzählt ihr die große Lüge - behauptet, dass ihr das, was ihr tut, aus humanitären Gründen unternehmt, um den unterdrückten Völkern auf der Welt zu helfen, wo ihr doch in Wahrheit nur ganz einfach eure eigenen Interessen schützt.
+#+end_quote
+
+** Gespräche mit Gott Band 2 - Note 8                                          :quote:
+#+begin_quote
+Kriege werden auf eurem Planeten geführt, weil jemand etwas hat, was ein anderer haben will. Das bringt jemanden dazu, etwas zu tun, was jemand anders ihn nicht tun lassen möchte.
+#+end_quote
+
+Jeder Konflikt entsteht aus fehlgeleitetem Verlangen.
+
+** Gespräche mit Gott Band 2 - Note 9                                          :quote:
+#+begin_quote
+Entwickelt ein internationales monetäres System, das weltweit offen, total einsichtig, sofort nachvollziehbar und völlig durchschaubar ist. Errichtet ein Weltweites Abrechnungsystem (WAS) [...] Alles würde in diesem System verzeichnet werden. Erträge aus Investitionen, Erbschaften, Gewinne aus Wetten, Gehälter und Löhne, Trinkgelder und Gratifikationen, alles.
+#+end_quote
+
+** Gespräche mit Gott Band 2 - Note 10                                         :quote:
+#+begin_quote
+Du musst verstehen, dass die organisierte oder institutionalisierte Religion, wenn sie Erfolg haben will, die Leute glauben machen muss, dass sie sie brauchen. Wenn die Leute an etwas anderes glauben sollen, dann müssen sie erst den Glauben an sich selbst verlieren.
+#+end_quote

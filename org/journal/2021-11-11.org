@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3862e73a-b9c4-4f74-9ea0-58d78d9d0e93
+:END:
+#+created: 20211111124227551
+#+modified: 20211111124302814
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-11-11
+#+type: text/vnd.tiddlywiki
+
+- [[https://github.com/daviwil/emacs-from-scratch]]
+  - ORG mode files for System Crafters Videos

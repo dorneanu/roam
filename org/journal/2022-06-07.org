@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       89f5c3c0-c966-423c-ad7f-a7bb8bdb941f
+:END:
+#+created: 20220607074821962
+#+modified: 20220607133435416
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-06-07
+#+type: text/vnd.tiddlywiki
+
+- [[https://blog.fefe.de/?ts=9c6597d1][Immer wieder gut]] ([[#Bitcoin][Bitcoin]])
+- [[https://mazinahmed.net/blog/indepth-analysis-twitch-security-tools/][Twitch Internal Security Tools: In-depth Analysis of the Leaked Twitch Security Tools]]
+  - List of security tools built at Twitch to secure their infrastructure
+- [[https://aws.amazon.com/blogs/security/how-to-set-up-federated-single-sign-on-to-aws-using-google-workspace/][How to setup IAM federation using Google Workspace and AWS]]
+- Scaling [[#AppSec][AppSec]] at Netflix
+  - [[https://netflixtechblog.medium.com/scaling-appsec-at-netflix-6a13d7ab6043][Part 1]]
+  - [[https://netflixtechblog.com/scaling-appsec-at-netflix-part-2-c9e0f1488bc5][Part 2]]
+- [[https://smallstep.com/blog/diy-single-sign-on-for-ssh/][DIY Single Sign-On for SSH]]

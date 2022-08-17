@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a18f4071-73d7-410b-ad8f-20b0f5611cf3
+:END:
+#+created: 20201216183517892
+#+modified: 20210518184427909
+#+revision: 0
+#+filetags: Journal
+#+title: 2020-12-16
+#+type: text/vnd.tiddlywiki
+
+- [[https://threedots.tech/post/introducing-clean-architecture/][Introducing Clean Architecture by refactoring a Go project]]
+  - really good explanation about [[#Clean%20Architecture][Clean Architecture]]
+  - explains what *ports* and *adapters* are
+  - also checkout the [[https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example][github repo]]
+  - there are also other interesting [[https://threedots.tech/tags/building-business-applications/][articles]]

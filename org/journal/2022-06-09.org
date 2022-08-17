@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6fc8df3a-b1db-4c59-8099-5569e717a9aa
+:END:
+#+created: 20220609082449466
+#+modified: 20220609082604751
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-06-09
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.calnewport.com/blog/2021/08/17/on-the-pandemic-and-career-downsizing/][Why so many knowledge workers quit their job during pandemic?]] ([[#Digital%20Minimalism][Digital Minimalism]])

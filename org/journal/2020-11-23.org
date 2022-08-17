@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       06123942-5d2b-4dea-946d-4eeeb63976e0
+:END:
+#+created: 20201123092257490
+#+modified: 20210518184427763
+#+revision: 0
+#+filetags: Journal
+#+title: 2020-11-23
+#+tmap.id: cf4f82a8-2fb7-4112-a8c9-590a380cb7bf
+#+type: text/vnd.tiddlywiki
+
+- [[https://player.fm/series/the-goop-podcast/how-to-maximize-the-power-of-your-breath][How to Maximize the Power of Your Breath]]
+  - by James Nestor, journalist and author of Breath: The New Science of a Lost Art
+- [[https://reidgould.github.io/tiddlywiki-dropboard/][Kanban Style Tiddlywiki]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       640c31b6-e714-4b82-8986-966c8319ec30
+:END:
+#+title: The Wonderful Wild
+#+created: 20210405192216269
+#+finished_month: 03
+#+finished_year: 2021
+#+genres: Traveling
+#+goodreads: https://www.goodreads.com/book/show/45710159-the-wonderful-wild
+#+lang: de
+#+modified: 20220502124226367
+#+revision: 0
+#+filetags: book
+#+type: text/vnd.tiddlywiki
+#+date: 2021-03
+
+* The Wonderful Wild
+  :PROPERTIES:
+  :FINISHED: 2021-03
+  :END:

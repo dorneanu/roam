@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       1ebc6c23-fd98-44a4-a9db-0ba23c941ecf
+:END:
+#+title: DevSecOps

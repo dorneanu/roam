@@ -1,0 +1,333 @@
+:PROPERTIES:
+:ID:       5a459235-7678-4a40-9861-c63bf018dbda
+:END:
+#+title: Cashkurs - So machen Sie das Beste aus Ihrem Geld
+#+filetags: book
+#+date: 2017-03-01
+
+* Cashkurs - So machen Sie das Beste aus Ihrem Geld
+:PROPERTIES:
+:FINISHED: -
+:END:
+
+* Quotes
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 1                  :quote:done:
+Geld entsteht in unserem System, indem jemand einen Kredit aufnimmt. Jeder Euro, jeder Dollar, der in Umlauf ist, steht irgendwo als Kredit in den Büchern der Finanzwelt.
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 2                  :quote:done:
+#+begin_quote
+Spanien war in den letzten 300 Jahren 13-mal pleite. Frankreich achtmal und Deutschland immerhin sechsmal. Im Schnitt also alle 50 Jahre. Der letzte Bankrott ist jetzt etwa 65 Jahre her.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 3                  :quote:done:
+Da bekommen Sie natürlich nichts geschenkt, weil Hersteller und Händler die Kosten für die Zinssubvention elegant im Kaufpreis versteckt haben. Und der Finanzierungskunde wundert sich, dass er im Gegensatz zum Barzahler den Kaufpreis nicht mehr herunterhandeln kann …
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 4                  :quote:done:
+#+begin_quote
+Viel billiger als Dispokredite sind übrigens die sogenannten Rahmenkredite, die genauso funktionieren – nur mit dem Unterschied, dass Sie dafür kein neues Girokonto eröffnen müssen. Meistens werden Rahmenkredite von Direktbanken angeboten. Das Ganze funktioniert recht einfach: Sie beantragen den Rahmenkredit und bekommen je nach Einkommen und Bonität von der Bank ein bestimmtes Limit eingeräumt. Innerhalb dieses Limits können Sie jederzeit Kredit aufnehmen, wobei der Kreditbetrag auf Ihr normales Girokonto überwiesen wird. Mit einer einfachen Rücküberweisung können Sie dann beliebige Beträge tilgen.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 5                  :quote:done:
+#+begin_quote
+Ein Beispiel: Wenn Sie 10000 Euro zu 6,3 Prozent Effektivzins über drei Jahre abstottern, zahlen Sie insgesamt 971 Euro an Zinsen. Strecken Sie den Ratenkredit über sieben Jahre, summieren sich die Zinskosten auf 2319 Euro – der Zinseszins lässt grüßen.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 6                  :quote:done:
+#+begin_quote
+Zur Höhe der eisernen Reserve gibt es zwar eine Faustregel, nach der etwa drei Netto-Monatsgehälter eingeplant werden sollten.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 7                  :quote:done:
+#+begin_quote
+Dieses Spannungsfeld zwischen Renditechance, Sicherheit und Verfügbarkeit bezeichnen Fachleute übrigens als »magisches Dreieck«.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 8                  :quote:done:
+#+begin_quote
+Und natürlich: Wie hoch ist die Rendite?
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 9                  :quote:done:
+#+begin_quote
+Dagegen hilft nur eines: Verlangen Sie bei der Abgabe des Angebots von der Bank, dass entweder der »Effektivzins« oder die »jährliche Rendite« ausgewiesen werden.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 10                 :quote:done:
+#+begin_quote
+Wer sofort mehr Geld braucht, muss als Strafgebühr den sogenannten Vorschusszins an die Bank zahlen.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 11                 :quote:done:
+#+begin_quote
+Das Sparbuch ist eines der miesesten Produkte, das Ihnen Ihre Bank anbieten kann.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 12                 :quote:done:
+#+begin_quote
+Je länger Sie auf Ihr Guthaben verzichten, umso höhere Zinsen zahlt die Bank im Vergleich zum jederzeit verfügbaren Tagesgeldkonto.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 13                 :quote:done:
+#+begin_quote
+Der Trick dabei ist, dass mit der Prämie nur die Grundverzinsung im jeweiligen Jahr erhöht wird. Steigt der Zins von 1,0 Prozent um 30 Prozent an, ergibt das nicht 31 Prozent, sondern 1,3 Prozent. Merke: Wenn sich Prozente auf Prozente beziehen, kommen dabei meistens nur Promille heraus. Prost!
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 14                 :quote:done:
+#+begin_quote
+das Sparen mit vermögenswirksamen Leistungen (vL).
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 15                 :quote:done:
+#+begin_quote
+Am besten schauen Sie mal, welchen Betrag das Finanzamt im letzten Steuerbescheid als »zu versteuerndes Einkommen unter Berücksichtigung der Kinderfreibeträge« ausgewiesen hat –
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 16                 :quote:done:
+#+begin_quote
+Abgeltungsteuer
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 17                 :quote:done:
+#+begin_quote
+Freistellungsauftrag
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 18                 :quote:done:
+#+begin_quote
+Ausnahmen:
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 19                 :quote:done:
+#+begin_quote
+Tipp
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 20                 :quote:done:
+#+begin_quote
+Aus Angst, Kunden zu verlieren, stufen jedoch viele Versicherungen Bestandskunden wieder in Neukundentarife um – allerdings nicht automatisch, sondern nur auf Anfrage.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 21                 :quote:done:
+#+begin_quote
+»abstrakte Verweisung« 
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 22                 :quote:done:
+#+begin_quote
+Wenn immer mehr Ausbildungs- und Studienabsolventen erst mit knapp 30 Jahren voll ins Erwerbsleben einsteigen und die Lebenserwartung in Richtung 90 Jahre geht, lassen sich die Alternativen auch ohne Taschenrechner ermitteln: Wer mit 60 Jahren in Rente gehen will, muss entweder zuvor hohe Summen auf die Seite gelegt haben oder sich als Rentner vorwiegend von den Früchten seines Schrebergartens ernähren.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 23                 :quote:done:
+#+begin_quote
+Neben dem Sparen auf konkrete Investitionen ist es deshalb absolut sinnvoll, an später zu denken und auf lange Sicht Vermögen aufzubauen. Wie man das anfängt? Da gibt es gleich mehrere, unterschiedliche Möglichkeiten: Die
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 24                 :quote:done:
+#+begin_quote
+Die zulässigen Anlageformen
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 25                 :quote:done:
+#+begin_quote
+Die andere Form der Finanzierung nennt sich Gehaltsumwandlung und funktioniert genau so, wie Sie es jetzt wahrscheinlich vermuten.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 26                 :quote:done:
+#+begin_quote
+Da kann es durchaus vorkommen, dass Sie bei einer Vertragsauflösung nach zwei oder drei Jahren zwar ein paar tausend Euro eingezahlt haben, aber nur ein paar hundert Euro herausbekommen.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 27                 :quote:done:
+#+begin_quote
+Dann gilt noch die abgedroschene, aber goldene Regel, dass man gerade bei der Aktienanlage nicht alle Eier in einen Korb legen soll.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 28                 :quote:done:
+#+begin_quote
+Es macht also durchaus Sinn, in der Gemeinschaft der Anleger ein Fondsmanagement zu bezahlen, um genau zwölf Stunden am Tag und jeden Tag im Jahr die wirtschaftliche Entwicklung meiner Investitionen zu überwachen.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 29                 :quote:done:
+#+begin_quote
+Rentenfonds haben nichts mit der gesetzlichen oder privaten Rentenversicherung zu tun – woher kommt also der Begriff? Der Inhalt dieser Fonds, nämlich festverzinsliche Anleihen, wird am Kapitalmarkt auch als »Rentenpapiere« bezeichnet.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 30                 :quote:done:
+#+begin_quote
+Beginnen wir beim Ausgabeaufschlag, den Sie – wie schon erwähnt – teilweise und manchmal sogar ganz einsparen können, indem Sie die Fondsanteile über eine Direktbank oder einen Fondsshop zeichnen.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 31                 :quote:done:
+#+begin_quote
+den Kauf und Verkauf von Fondsanteilen über die Börse.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 32                 :quote:done:
+#+begin_quote
+Die Vorsorgelücke ist übrigens oft weiblich, verursacht durch die Job-Pausen in der Kindererziehungszeit.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 33                 :quote:done:
+#+begin_quote
+Erste Ausnahme: Wenn ein Fonds dauerhaft schlecht läuft, dann sollten Sie irgendwann einmal eine aussichtsreichere Alternative suchen. Allerdings ist auch der beste Fondsmanager nicht davor gefeit, auch mal ein schlechtes Jahr hinzulegen. Also: Lieber locker durch die Hose atmen, denn in der Ruhe liegt die Kraft!
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 34                 :quote:done:
+#+begin_quote
+Online-Rechner zum Riester-Sparen
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 35                 :quote:done:
+#+begin_quote
+Der Wertzuwachs bezieht sich fast ausschließlich auf den Grundstückspreis und nicht auf die Bausubstanz –
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 36                 :quote:done:
+#+begin_quote
+Man geht allgemein davon aus, dass ein Häuslebauer im Lauf eines Immobilienlebens den kompletten Kaufpreis noch einmal in Renovierungs- und Instandhaltungskosten investiert.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 37                 :quote:done:
+#+begin_quote
+Eine eigene Immobilie ist ein Fass ohne Boden, in das Sie ständig Geld hineinwerfen werden, solange Sie dazu in der Lage sind.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 38                 :quote:done:
+#+begin_quote
+Sehen Sie ein Eigenheim niemals als Kapitalanlage oder gar Altersvorsorge. Sehen Sie es als ein Luxusgut – wie ein schönes Auto oder einen besonderen Urlaub. Das darf und sollte man sich gönnen, wenn es nicht zu finanziellen Klimmzügen führt.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 39                 :quote:done:
+#+begin_quote
+Wer als Mieter ein gewisses Vermögen angespart hat und keinen Wohnungskauf plant, investiert das Geld womöglich lieber in ein schickes Auto als in die private Altersvorsorge. Der mit Schulden belastete Eigenheimbesitzer hat dagegen zum braven Abstottern seiner Raten keine Alternative – ihn zwingen die Schulden praktisch indirekt zum Vermögensaufbau.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 40                 :quote:done:
+#+begin_quote
+Die wichtigste Eigenschaft eines Bausparvertrags ist, dass sowohl die Guthaben- als auch die Kreditzinsen schon beim Abschluss des Vertrags verbindlich fixiert werden. Sie wissen damit vom ersten Tag an, welchen Zins Sie bis zur letzten Tilgungsrate zahlen.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 41                 :quote:done:
+#+begin_quote
+Deshalb ist es klüger, in Zeiten niedriger Zinsen lieber die Tilgung zu erhöhen, als die scheinbare Gunst der Stunde zu nutzen und mehr Schulden zu machen.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 42                 :quote:done:
+#+begin_quote
+Das Bankdarlehen verkörpert die klassische und am häufigsten praktizierte Form der Baufinanzierung, und in den meisten Fällen ist das für Sie als Immobilienkäufer oder Bauherr auch die beste Lösung.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 43                 :quote:done:
+#+begin_quote
+Je höher Ihre anfängliche Tilgung ist, desto schneller haben Sie Ihr Darlehen zurückgezahlt.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 44                 :quote:done:
+#+begin_quote
+Wenn Sie dieses Kasperltheater nicht mitmachen wollen, müssen Sie gleich zu Beginn eine klare Ansage machen: Sie legen die Rahmenbedingungen fest, und die Bank hat dazu ihr Zinsangebot abzugeben. Damit das funktioniert, müssen Sie jedoch wissen, was Sie wollen und brauchen.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 45                 :quote:done:
+#+begin_quote
+Auch wenn Sie die Bank eigentlich nicht wechseln wollen (was Sie Ihrem Kreditberater tunlichst verschweigen), können Sie Ihre Hausbank mit günstigen Angeboten von Wettbewerbern unter Druck setzen. Gerade bei einer Anschlussfinanzierung sind viele Banken zu Zugeständnissen beim Zins bereit. Dafür gibt es zwei Gründe:
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 46                 :quote:done:
+#+begin_quote
+Die Kosten halten sich in Grenzen: Für die Abtretung der Grundschuld im Grundbuch fallen je nach Finanzierungsvolumen 200 bis 500 Euro Gebühren an.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 47                 :quote:done:
+#+begin_quote
+Erst nach mehr als zehn Jahren Zinsbindung sind Sie in einer besseren Position. Ab dem Ablauf des zehnten Jahres kann der Darlehensvertrag nämlich einseitig vom Kunden gekündigt werden, auch wenn eine längere Zinsbindung vereinbart ist – so steht es im Bürgerlichen Gesetzbuch (BGB).
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 48                 :quote:done:
+#+begin_quote
+»Stora Kopparbergs bergslag«?
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 49                 :quote:done:
+#+begin_quote
+Die Börse ist der Ort, an dem Leute mit tollen Ideen, aber wenig Geld (Erfinder/Firmengründer) zusammengebracht werden mit Leuten, die zwar Geld, aber keine Ideen haben (Investoren).
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 50                 :quote:done:
+#+begin_quote
+Viele Familienunternehmen firmieren als AG, ohne an der Börse notiert zu sein, weil bei ihnen über privaten Verkauf, Schenkung oder Vererbung die Übertragung von Anteilen innerhalb der Familie am einfachsten durchführbar ist.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 51                 :quote:done:
+#+begin_quote
+Bei einer GmbH müssen nämlich Veränderungen in der Gesellschafterstruktur stets notariell beglaubigt und in das Handelsregister eingetragen werden, was mit einem hohen finanziellen und zeitlichen Aufwand verbunden ist.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 52                 :quote:done:
+#+begin_quote
+Da die meisten Anleger aber gar keine Aktien direkt kaufen, sondern Fonds, liegen die meisten Aktien also bei den Fondsgesellschaften. Wer selbst Aktien besitzt, geht meist nicht auf eine Hauptversammlung. Die Banken schreiben die Aktieninhaber dann regelmäßig an und bitten ganz nebenbei darum, die Stimmrechte im Namen der Kunden ausüben zu dürfen. Und siehe da, auf diese Weise haben bei den meisten Aktiengesellschaften am Ende die Banken und Fondsgesellschaften (was oft das Gleiche ist) die Macht über die Vorstände und die Unternehmensentscheidungen. Das erklärt doch vieles, finden Sie nicht?
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 53                 :quote:done:
+#+begin_quote
+Für Entscheidungen, die das Unternehmen tiefgreifend verändern, kann eine 75-Prozent-Mehrheit notwendig werden.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 54                 :quote:done:
+#+begin_quote
+Im Jahr 2010 strichen die Aufsichtsratsmitglieder der Dax-Unternehmen im Schnitt 262000 Euro pro Jahr ein – für die Teilnahme an ein paar Sitzungen in gepflegter Atmosphäre ist das ein ordentliches Salär.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 55                 :quote:done:
+#+begin_quote
+niederländischen Patrizierfamilie »van der Beurse«
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 56                 :quote:done:
+#+begin_quote
+dem die Kursentwicklung von mehreren Dutzend Unternehmen zusammengefasst wird,
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 57                 :quote:done:
+#+begin_quote
+Dax, sondern auch noch M-Dax, S-Dax, Tec-Dax
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 58                 :quote:done:
+#+begin_quote
+Ein häufig anzutreffendes Beispiel ist die Bilanzpolitik nach dem Abgang eines Vorstandsvorsitzenden. Im Jahr des Chefwechsels werden gerne die Abschreibungen (Abschreibungen: Verluste, die entstehen, weil irgendetwas im Besitz des Unternehmens an Wert verloren hat. Das können zum Beispiel Immobilien, Anteile an anderen Unternehmen oder einfach nur der in die Jahre gekommene PC der Vorstandssekretärin sein …) vorgezogen, um mit einem drastischen Gewinneinbruch zu verdeutlichen, welche Altlasten der scheidende Boss hinterlassen hat. Das hat für den neuen Vorstandschef den Vorteil, dass durch die vorweggenommenen Abschreibungen der Gewinn in den Folgejahren stärker ansteigt, was natürlich als unfehlbares Zeichen seiner Führungskompetenz zu interpretieren ist …
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 59                 :quote:done:
+#+begin_quote
+Deshalb aufgepasst: Es kommt darauf an, was in die Gewinnermittlung einbezogen wird und was nicht. Nachfolgend die gängigsten Gewinnvarianten im Überblick:
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 60                 :quote:done:
+#+begin_quote
+EBIT
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 61                 :quote:done:
+#+begin_quote
+EBITDA.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 62                 :quote:done:
+#+begin_quote
+Kurs-Gewinn-Verhältnis
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 63                 :quote:done:
+#+begin_quote
+Statistiken zeigen, dass Investitionen in dividendenstarke Unternehmen langfristig wesentlich erfolgreicher sind als in Unternehmen ohne Dividendenzahlung.
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 64                 :quote:done:
+#+begin_quote
+www.bankundkapitalmarkt.de
+#+end_quote
+
+** Cashkurs - So machen Sie das Beste aus Ihrem Geld - Note 65                 :quote:done:
+#+begin_quote
+Bankenvergleich Geldanlage und Finanzierung
+#+end_quote

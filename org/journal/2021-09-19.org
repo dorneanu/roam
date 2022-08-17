@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       5e5d43f4-020d-4fc5-a5bc-e4f7fe8671e6
+:END:
+#+created: 20210919151756686
+#+modified: 20210919201139829
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-09-19
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.bbc.com/future/article/20190218-are-we-on-the-road-to-civilisation-collapse][Are we on the road to civilisation collapse? - BBC Future]]
+  - factors why civilisations collapse
+- [[https://sra.io/blog/aws-iam-exploitation/][AWS IAM Exploitation - Security Risk Advisors]]
+  - security attacks regarding [[#AWS%2FIAM][AWS/IAM]] and how to add security counter-measurements

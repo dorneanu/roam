@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       895aa723-5033-49d7-83ba-26dcdba1c106
+:END:
+#+color: #94ec4b
+#+created: 20210422103900207
+#+modified: 20210518195647042
+#+revision: 0
+#+tags: 
+#+title: Umweltschutz
+#+type: text/vnd.tiddlywiki
+
+- 2021
+  - [[https://correctiv.org/aktuelles/artikel-aktuelles/2021/03/12/der-gruene-punkt-gegen-den-umweltschutz/][Alles außer Grün: Wie der Grüne Punkt gegen den Umweltschutz der EU kämpft]]

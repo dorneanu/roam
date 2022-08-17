@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       0d50e187-af8f-4522-8b4d-93def5c97ac1
+:END:
+#+created: 20180830090159304
+#+creator: boru
+#+modified: 20210519101256206
+#+modifier: boru
+#+revision: 0
+#+tags: AWS
+#+title: AWS Storage Gateway
+#+tmap.id: ec14988c-c6ce-483d-bcc8-34888e56f889
+#+type: text/vnd.tiddlywiki
+
+Virtual Instance to replicate to [[#AWS%2FS3][AWS/S3]]
+
+Supports VMWare ESXi / Microsoft Hyper-V
+
+* Types
+:PROPERTIES:
+:CUSTOM_ID: types
+:END:
+** File gateway (NFS)
+:PROPERTIES:
+:CUSTOM_ID: file-gateway-nfs
+:END:
+- files are stored as objects (in S3)
+
+** Volumes gateway
+:PROPERTIES:
+:CUSTOM_ID: volumes-gateway
+:END:
+- basically a virtual hdd
+- presents applications with disk volumes using iSCSI block protocol
+- stored in the cloud as Amazon EBS snapshots (in S3)
+- snapshots are incremental
+
+*** Stored volumes
+:PROPERTIES:
+:CUSTOM_ID: stored-volumes
+:END:
+- mount storage volumes as iSCI devices
+- data is asynchronously backed up to S3 as EBS (Elastic Block Storage)
+- 1GB - 16TB in size
+- [!] entire data is stored on-site
+
+*** Cached volumes
+:PROPERTIES:
+:CUSTOM_ID: cached-volumes
+:END:
+- [!] S3 as primary storage
+- frequently accessed data locally in the storage gateway
+- entire data is stored on S3
+- 1GB - 32TB for cached volumes
+
+** Tape gateway (VTL)
+:PROPERTIES:
+:CUSTOM_ID: tape-gateway-vtl
+:END:
+- let's you leverage existing tape-based to virtual tap on storage GW

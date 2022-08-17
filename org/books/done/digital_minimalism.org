@@ -1,0 +1,127 @@
+:PROPERTIES:
+:ID:       920da487-1f1a-42b9-b8df-be8ccf1795ac
+:END:
+#+title: Digital Minimalism
+#+filetags: :book:
+#+date: 2022-03-01
+
+* Digital Minimalism
+  :PROPERTIES:
+  :FINISHED: 2022-03
+  :END:
+* Description
+- Part 1
+  - Chapter 1
+    - [[* Digital Minimalism - Note 1][extract values from technology]]
+    - [[* Digital Minimalism - Note 2][tech giants are selling tobacco products]]
+    - problem with social media
+      - loosing autonomy
+        - you cannot control your urge anymore to check for new Facebook content
+      - we were pushed into this direction by companies which invested lots of money to control our (social) [[#Behavioural%20Addiction][behaviour]]
+  - Chapter 2
+    - on the [[* Philosophy][principles]] of digital minimalism
+- Part 2
+  - on [[id:6a11cfd7-b44a-4c45-94d7-e779865fb2ea][Solitude]]
+  - Chapter 5
+    - on [[id:d0ac1661-b81c-453d-9b49-4a08c58beafa][Default Network]]
+      - [[* Digital Minimalism - Note 5][why we're social beings]]
+    - on [[id:88bb9daf-d2bb-4398-8844-e04cb1047968][Conversation-Centric Communication]]
+      - [[* Digital Minimalism - Note 6][Why no digital invention cannot ever replace our sociality]]
+      - [[* Digital Minimalism - Note 7][What it means to stay in touch]]
+    - [[https://www.attentiveman.com/blog-1/2019/3/1/cal-newport-on-avoiding-the-like-button][Don't click the Like button]]
+  - Chapter 6
+    - How does one live a good life?
+    - on [[id:87286381-b18d-42f0-a524-68f2f84d18bf][High-Quality Leisure]] and [[id:847b7b23-3c9b-4d7f-8d07-13d600cdce0a][Leisure Plans]]
+  - Chapter 7
+    - on the [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]]
+* Notes
+** Philosophy
+#+begin_quote
+A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities to strongly support things you value and then happily miss out everything else
+
+#+end_quote
+- digital minimalists transform innovations from a source of distraction into tools to support their lives well lived
+- Principles
+  - *Clutter is costly*
+    - also check [[id:801b7abb-3cf2-4745-9128-f5d8802e077f][Thoreau's Economy]]
+  - *Optimization is important*
+    - deciding which technology to use is only the first step
+    - how to use it to fully extract its potential is even more important
+  - *Intentionality is satisfying*
+    - satisfaction from general engagement how they deal with technology
+    - intention trumps convenience
+      - profit from benefits from technology chosen intentionally vs. technology chosen "not" to use
+
+* Quotes
+** Digital Minimalism - Note 1                                                 :quote:done:
+#+begin_quote
+We cannot passively allow the wild tangle of tools, entertainments and distractions provided by the Internet age to dictate how we spend our time or how we feel. We must instead take steps to extract the good from these technologies while side-stepping what's bad. We require a plan (?) that puts our aspirations and values once again in charge of our daily experience.
+#+end_quote
+
+** Digital Minimalism - Note 2                                                 :quote:done:
+#+begin_quote
+The tycons of social media have to stop pretending that their friendly nerd gods are building a better world and admit they're just tobacco farmers in t-shirts selling tobacco products to children. Because let's face it: Checking your like is the new smoking.
+#+end_quote
+
+** Digital Minimalism - Note 3                                                 :quote:done:
+#+begin_quote
+Our sociality is simply to complex to be outsourced to a Social Media network or reduced to instant messages or emojis.
+#+end_quote
+
+** Digital Minimalism - Note 4                                                 :quote:done:
+#+begin_quote
+He now believes "we are interested in the social world because we are built to
+turn on the Default Network during our free time. Put another way, our brains
+adapted to automatically practice social thinking during any moments of
+cognitive downtime and it's this practice that helps us become really interested
+in our social world.
+#+end_quote
+
+** Digital Minimalism - Note 5                                                 :quote:done:
+#+begin_quote
+This finding underscores the fundamental importance of social connections to
+human well-being. As Lieberman summarizes: "The brain did not evolve over
+millions of years to spend its free time practicing something irrelevant to our
+lives." Additional studies by Lieberman and his collaborators unconvered other
+examples where evolution placed "big bets" on the importance of sociality by
+adapting other expensive systems to serve its needs.
+#+end_quote
+
+** Digital Minimalism - Note 6                                                 :quote:done:
+#+begin_quote
+You cannot expect an app dreamed up in a dorm room, or among the ping-pong
+tables of a Silicon Valley incubator, to successfully replace the types of rich
+interactions to which we've painstakingly adapted over millenia. Our society is
+simply too complex to be outsourced to a social network or reduced to instant
+messages and emojis.
+#+end_quote
+
+** Digital Minimalism - Note 7                                                 :quote:done:
+#+begin_quote
+Humans have maintained rich and fulfilling social lives for our entire history without needing the ability to send a few bits of information each month to people we knew briefly during high school. Nothing about your life will notably diminish when you return to this steady state. As an academic who studies and teaches social media explained to me: "I don't think we're meant to keep in touch with so many people."
+#+end_quote
+
+** Digital Minimalism - Note 8                                                 :quote:done:
+#+begin_quote
+We need Solitude to thrive as human beings, and in recent years, without even realizing it, we've been systematically reducing this curcial ingredient from our lives. Simply put, humans are not wired to be constantly wired.
+#+end_quote
+
+** Digital Minimalism - Note 9                                                 :quote:done:
+#+begin_quote
+It's exactly this alternation between regular time alone with your thoughts and regular connection that I propose as the key to avoiding Solitude/Deprivation in a culture that also demands connection. As Thoreau example emphasizes, there's nothing wrong with connectivity, but if you don't balance it with regular doeses of Solitude, it's benefits will diminish.
+#+end_quote
+
+** Digital Minimalism - Note 10                                                :quote:done:
+#+begin_quote
+The best and most pleasant life is the life of the intellects. This life will also be the happiest. Life filled with deep thinking is happy because contemplation (dt. Besinnlichkeit/Reflexion) is an activity that is appreciated for its own sake. Nothing is gained from it except the act of contemplation. - Aristoteles
+#+end_quote
+
+** Digital Minimalism - Note 11                                                :quote:done:
+#+begin_quote
+A life well lived requires activities that serve no other purpose than the satisfaction that the activity itself generates. - Aristoteles
+#+end_quote
+
+** Digital Minimalism - Note 12                                                :quote:done:
+#+begin_quote
+I want to underscore the foundational argument delivered throughout this chapter: ""doing nothing is overrated"". In the middle of a busy workday, or after a particularly trying morning of childcare, it's tempting to crave the release of having /nothing/ to do - while blocks of time with no schedule, no expectations, and no activity beyond whatever seems to catch your attention in the moment. These decompression sessions have their place, but their rewards are muted, as they tend to devolve toward low-quality activities like mindless phone swiping and half-hearted binge-watching.
+#+end_quote

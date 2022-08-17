@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       70fedd84-c706-41d9-a5bc-2d6ad79365d3
+:END:
+#+created: 20180829153545159
+#+creator: boru
+#+modified: 20210519101256121
+#+modifier: boru
+#+revision: 0
+#+tags: [[AWS Network & Content Delivery]] AWS
+#+title: AWS CloudFront
+#+tmap.id: 9a8ba0f5-f897-45db-b2d5-1907ddce0cb2
+#+type: text/vnd.tiddlywiki
+
+Amazons CDN
+
+* Components
+:PROPERTIES:
+:CUSTOM_ID: components
+:END:
+- edge locations
+  - where content is cached
+- origin (source of files)
+  - [[#AWS%2FS3][AWS/S3]]
+  - [[#AWS%20EC2][AWS EC2]]
+  - ELB
+  - Route53
+- distribution
+  - Web Distribution
+  - RTMP (for media streaming)

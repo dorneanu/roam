@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       141af227-c84a-470d-ba59-f8cbc4cea49c
+:END:
+#+created: 20180906120758396
+#+creator: boru
+#+modified: 20210518184428525
+#+modifier: boru
+#+revision: 0
+#+tags: 
+#+title: AWS Security Group
+#+tmap.id: bf61b3d5-c015-4193-a9f1-ea55f500d291
+#+type: text/vnd.tiddlywiki
+
+- AWS's firewall :: stateful
+  changes occur immediately
+
+- everything that you allow *in* will be (default) allowed *out*
+  - all *out-bound* traffic is allowed by default
+- everything blocked by default
+  - you can only *allow* not deny
+- you can multiple security groups
+
+* Sec groups vs. ACLs
+:PROPERTIES:
+:CUSTOM_ID: sec-groups-vs.-acls
+:END:
+- sec groups are stateful
+- ACLs are stateless
+- can't block IP addresses using sec groups
+  - use ACLs instead

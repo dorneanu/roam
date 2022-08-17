@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       73226fcb-1702-4d6b-a4ba-b66bbae65c2a
+:END:
+#+title: Carbon Dioxide
+#+created: 20220521132422503
+#+modified: 20220711123937337
+#+origin: [[<<. bibliography "The Oxygen Advantage" >> ]]
+#+revision: 0
+#+tags: Definition
+#+type: text/vnd.tiddlywiki
+
+- Vital functions
+  - Offloading of oxygen from the blood to be used by the cells
+  - The dilation of the smooth muscle in the walls of the airways and blood vessels
+  - The regulation of blood pH.

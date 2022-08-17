@@ -1,0 +1,287 @@
+:PROPERTIES:
+:ID:       96cafb5b-c080-45b1-97d7-738f00c535c7
+:END:
+#+title: Breath - The New Science of a Lost Art
+#+filetags: book
+#+date: 2022-05-01
+
+* Breath - The New Science of a Lost Art
+  :PROPERTIES:
+  :FINISHED: 2022-05
+  :END:
+* Description
+- Part 1 - The Experiment
+  - Worst Breathers in the animal kingdom
+    - Oxygen
+      - Oxygen produces 16 times more energy than carbon dioxide
+        - That's why [[id:756361a3-a8ea-4f1b-814c-8cc8b031d530][aerobic]] life flourished
+      - also [[id:b1e8d890-e854-4785-88db-279de102b3e7][Anaerobic respiration]]
+    - Talks about evolution but also [[https://www.goodreads.com/en/book/show/17736859-the-story-of-the-human-body][dysevolution]]
+      - [[* Breath - The New Science of a Lost Art - Note 2][Breath - The New Science of a Lost Art - Note 2]]
+      - [[* Breath - The New Science of a Lost Art - Note 3][how our life style affects the way we breath]]
+  - Mouth breathing
+    - [[* Breath - The New Science of a Lost Art - Note 4][On the effects]]
+    - [[* Breath - The New Science of a Lost Art - Note 5][Some statistics]]
+- Part 2 - The Lost Art and Science of Breathing
+  - Nose
+    - [[* Breath - The New Science of a Lost Art - Note 7][The silent warrior]] inside our bodies
+    - Functionalities
+      - clears, heats and moistures air for easier absorption
+      - helps with erectily disfunction
+      - lowers blood pressure
+      - eases digestion
+      - regulates heart rate
+      - opens vessels in our toes (?)
+      - stores memories
+    - nasal cycles
+      - nostrils have their own pulse
+      - discovered by Richard Kayser (in 1895)
+      - About Shiva Swarodaya
+    - George Catlin's advice: [[* Breath - The New Science of a Lost Art - Note 8][Shout your mouth!]]
+  - Exhale
+    - [[https://en.wikipedia.org/wiki/Five_Tibetan_Rites][Five Tibetan Rites]]
+    - [[https://www.goodreads.com/book/show/1992347.Dr_Breath][Dr. Breath]] (Stough) focused more on exhalation
+      - on inhalation: negative pressure pumps blood into the heart
+      - on exhalation: blood shoots into body and lungs
+        - blood recirculates
+      - at the power of the thoracic pump is the [[id:44c42914-2c5e-42b8-b1ae-de8beceed00c][Diaphragm]]
+        - typical adult engages it less than 10%
+        - refered to as "2nd heart" because affects rate and strength of heart rate
+      - Also check out his [[https://optimalbreathing.com/blogs/breathing-methods-and-breathing-work/breathing-coordination][breathing coordination exercise]]
+  - How breathing works
+    - analogy with rivers and passangers willing to take a ride
+    - the river is the blood
+    - oxygen is transported by a [[id:57a4ec91-8347-4e89-a4a0-1cf506960b61][protein]] called [[id:4f337eb2-4eaf-41c6-a1ad-82dec1da6e9e][Hemoglobin]]
+      - each hemoglobin was room for 4 oxygen molecules
+    - oxygen is delivered to the hungry cells and leaves "room" empty for [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] to embark
+    - about the color/appereance of the blood
+      - blood cells in the veins carry more [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] -> blue color
+      - arterial blood will carry more oxygen -> red color
+    - [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]]
+      - has an important role when it comes to weight loss
+      - is, in fact, a more fundamental component of livin matter than oxygen
+    - Oxygen levels rise with slow breathing
+      - only 1/4 of oxygen is returned to the body
+      - the rest ix exhaled out
+    - on the [[id:1e8e0c61-97ae-4d59-9c14-76ab08b49d8f][The Bohr Effect]]
+    - [[* Breath - The New Science of a Lost Art - Note 9][why inhaling more oxygen has almost no effect]]
+    - on [[id:8c4ab1a2-2733-4a77-a0b5-f2a8cbaf7846][Resonant Breathing]]
+  - Less
+    - we've become not only *overeaters* but also *overbreathers*
+      - we need to breathe *less*
+    - [[id:9c915d81-d847-4ece-ae99-08d2f321c15b][Buteyko Breathing]]
+    - but also *Emil Zapotek* who invented [[https://www.hypoventilation-training.com/historical.html][hypoventilation]]
+    - What happens when we breath to *much*
+      - to much [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] leaves the body
+        - blood pH become more alkaline
+      - when we breathe *slower* and hold in more carbon dioxide, pH lowers and blood becomes more acidic
+    - how [[id:673bccd5-2c2b-46a8-a05c-22ed28a69cbb][The Perfect Breath]] looks like
+  - Chew
+    - [[* Breath - The New Science of a Lost Art - Note 11][Why our diets affect our mouths]]
+    - [[* Breath - The New Science of a Lost Art - Note 12][Our ancestors had fewer respiratory diseases]]
+    - Weston Price (1930)
+      - did research how nutrition affects airways and mouths ("Nutrition and Physical Degeneration")
+      - cause of shriking mouths and obstructed airways was not just of [[id:b331244a-19e4-4f88-ba9f-e8b6d70c2871][Vitamin D]] or [[id:9387fcda-83c7-45aa-bbcd-87361a49cb49][Vitamin C]] deficiency but all essential vitamins
+      - but Price was half right
+        - if our ancestors consumed a full spectrum of vitamins and minerals every day, their mouths would still grow too small, airways would become obstructed
+          - *chewing* was the problem
+            - the constant stress of the chewing was lacking
+    - 95% of the modern, processed diet is *soft* (smoothies, nut butters, oat meal, avocados, while weat bread, vegetable soaps)
+      - our ancient ancestors chewed for hours a day, every day
+    - also important for [[* Breath - The New Science of a Lost Art - Note 13][stem cell growth]]
+      - and also for [[* Breath - The New Science of a Lost Art - Note 14][infants]]
+- Part 3 - Breathing+
+  - More, On Occasion
+    - Breathing is not only a biochemicsal or physical art
+      - breathing influences nearly every internal organ, telling them what to turn on and off
+      - molecules (through inhalation) affect
+        - heart rate
+        - attitudes
+        - digestions
+        - moods
+      - Breathing is like a power switch to the [[id:0738a23c-8607-465f-be46-c945920917e1][Autonomic Nervous System]]
+        - Lungs are connected with nerves that connect to both systems
+          - nerves connected to the [[id:1745774b-70f5-465d-954b-aa426296cb8b][Parasympathetic Nervous System]] are in the lower lobes
+          - nerves connect to the [[id:073c93c5-bd4c-46da-af90-8eae1cec8275][Sympathetic Nervous System]] are the top region of the lungs
+            - causes sympathetic stress
+    - on [[id:d885541a-d887-45f4-b814-34f84d1659eb][Tummo]]
+      - it was Naropa who made it popular
+      - essential part of [[id:2965cd54-8ffb-48a1-9b88-07ca58f97469][The Wim Hof Method]]
+      - [[http://www.mauricedaubard.com/][Maurice Daubard]] was to practice ice baths long before Wim Hof
+        - he read books, trained in Yoga and taught himself [[id:d885541a-d887-45f4-b814-34f84d1659eb][Tummo]]
+        - [[* Breath - The New Science of a Lost Art - Note 17][the human body as a mind]]
+      - [[https://www.goodreads.com/author/show/617033.Alexandra_David_N_el][Alexandra David-Néel]] also used this breathing technique during her adventures
+        - She is most known for her visit to the forbidden (to foreigners) city of Lhasa, capital of Tibet (1924)
+      - professional surfers, mixed martial arts fighters and Navy SEALs use Tummo-style breathing to get into the *zone*
+      - sometimes the body needs a [[* Breath - The New Science of a Lost Art - Note 16][violent shove]]
+    - on [[id:149f8e1e-6a26-4cd2-bcd0-86c4689a7748][Holotropic Breathwork]]
+      - [[https://www.drjameseyerman.com/][Dr James Eyerman]] used the same technique (had a different name: *Holistic Integrative Psychiatry*) for 30 years and had more than 11000 patients
+  - Hold it
+    - the amygdale is not the only alarm circuit of fear
+      - there is another deeper circuit in our bodies (but in animals, even insects and bacteria) that is generating a more powerful sense of danger
+      - it is the deep fear and crushing anxiety from the feeling of not being able to take another breath
+    - the need to breathe is activated by a cluster of neurons called [[id:a6bd2c3a-52df-4051-83f5-39d1c739b11c][Central Chemoreceptors]]
+      - they tell the body how to breathe, not by the amount of oxygen but by the level of [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] in our body
+      - the goal is to make the chemoreceptors wide so they get "used" to high amount of [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]]
+      - *breathholding* has to be [[* Breath - The New Science of a Lost Art - Note 15][conscious]]
+    - chemoreceptors *flexibility* is what distinguishes good athletes from great ones
+      - why mountain climbers can summit Mount Everest without supplemental oxygen
+      - why freedivers can hold their breath underwater for 10 minutes
+      - chemoreceptors *flexibility* is what distinguishes good athletes from great ones
+        - why mountain climbers can summit Mount Everest without supplemental oxygen
+        - why freedivers can hold their breath underwater for 10 minutes
+        - they have *trained* their chemoreceptors to adapt to extreme fluctuations in [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] without panic
+  - Fast, Slow and not at all
+    - [[https://derosemethod.org/][Luiz Sergio Alvarez DeRose]] also wrote about breathing
+    - on the concepts of [[id:af4d345a-6158-4d4f-9144-85ad1e9a1cdb][Prana]]
+      - [[https://www.goodreads.com/author/show/81372.Swami_Rama][Swami Rama]] brought [[id:9d963942-8e28-4754-926c-ed9fbe08feb7][Pranayama]] to Western cultures
+        - a so called Superstar of Breathing
+        - basics of his technique
+          - lie down, inhale and exhale
+          - remove pause between inhalations and exhalations
+          - constantly increase exhale time (up tp 30s)
+    - [[https://en.wikipedia.org/wiki/Albert_Szent-Gy%C3%B6rgyi][Albert Szent-Györgyi]]
+      - wanted to research breathing at molecular level
+      - how [[* Breath - The New Science of a Lost Art - Note 18][breath interacts]] with tissues, organs and muscles
+      - [[* Breath - The New Science of a Lost Art - Note 19][We cannot separate life from living matter]]
+      - difference between inanimate objects like rocks and birds/bees/humans is the level of energy
+        - or the "excitability" of electrons within those atoms that make up the molecules in matter
+        - the more easily electrons can be transfered between molecules, the more *desaturated* matter becomes
+          - *It is more alive*
+      - studied earliest life forms on Earth
+        - they were made up of "weak electron acceptors"
+          - they couldn't take in or release electrons
+        - they had low levels of energy, so it was hard for them to evolve
+        - eventually it just stayed there, mucking around without ever doing much (for millions and millions of years)
+      - oxygen was a byproduct of that muck (accumulated in the atmosphere)
+        - it was a stron electron acceptor
+        - new muck evolved to consume oxygen, and therefore attracted and exchanged many more electrons than [[id:b1e8d890-e854-4785-88db-279de102b3e7][anaerobic life]]
+        - with this surplus of energy, early life evolved into plants, insects and everything else
+      - "the more oxygen life can consume, the more electron excitability it gains, the more animated it becomes"
+        - health is all about absorbing and transfering electrons in a controlled way
+          - cells are breaking down, when electron excitability is lost
+            - they begin to *rust* (same way as metal or leaves when they turn brown)
+            - but in humans we call it [[* Breath - The New Science of a Lost Art - Note 21][cancer]]
+      - breathing slow, less and through the nose will send the maximum amount of oxygen to the tissues so our cells don't lose the electron excitability
+    - [[id:ed77eeaa-5166-498d-969c-f97301f244c8][The Yoga Sutras of Patanjali]]
+    - [[* Breath - The New Science of a Lost Art - Note 23][So many breathing techniques]]
+- Researchers
+  - [[https://www.consciousbreathing.com/meet-anders-olsson/][Anders Olsson]]
+  - Author did some analysis of noses in the [[https://www.penn.museum/sites/morton/craniology.php][Morton collection]]
+  - Dr. Justin Feinstein
+    - increase of [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] levels has effect on health improvements
+    - experimented with low doses of carbon dioxide given to his patients
+- Books
+  - [[https://www.goodreads.com/book/show/42090716-the-breath-of-life-or-mal-respiration][The Breath of Life Or Mal-respiration: And Its Effects Upon the Enjoyments & Life of Man]]
+* Quotes
+** Breath - The New Science of a Lost Art - Note 1                             :quote:done:
+#+begin_quote
+When the nasal cavity gets congested, airflow decreases and bacteria flourish. These bacteria replicate and can lead to infections and colds and more congestion. Congestion leads to more congestion which gives us no other option but to habitually breathe from the mouth.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 2                             :quote:done:
+#+begin_quote
+Evolution doesn't always mean progress. It means change. And life can change for better or worse. Today the human
+body is changing in ways that have nothing to do with the survival of the "fittest". Instead we're adopting
+and passing down traits that are dentrimental for our health.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 3                             :quote:done:
+#+begin_quote
+The more we cooked, the more soft, calorie-rich food we consumed, the larger our brains grew and the tighter our airways became.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 4                             :quote:done:
+#+begin_quote
+Mounthbreathing, it turns out, changes the physical body and transforms airways, all for the worse. Inhaling air through the mouth decreases pressure, which causes the soft tissues in the back of the mouth to become loose and flex inward, creating less overall space and making breathing more difficult. Mouthbreathing begets more mouthbreathing.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 5                             :quote:done:
+#+begin_quote
+Ninety percent of children have acquired some degree of deformity in their mouths and noses. 45% of adults snore occasionally and 1/4 of the population snores constantly. 25% of American adults over 30 choke on themselves because of sleep apnea; and an estimated 80% of moderate or severe cases are undiagnosed. Meanwhile, the majority of the population suffers from some form of breathing difficulty or resistance.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 6                             :quote:done:
+#+begin_quote
+To breathe is to absorb ourselves in what surrounds us, to take in little bits of life, understand them, and give pieces of ourselves back out. Respiration is, at its core, reciprocation.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 7                             :quote:done:
+#+begin_quote
+Working together, the different areas of the turbinates will heat, clean, slow and pressurize air so that the lungs can extract more oxygen with each breath. This is why nasal breathing is far more healthy and efficient than breathing through the mouth. As Nayak explained when I first met him, the nose is the silent warrior: the gatekeeper of our bodies, pharmacist to our minds, and weather vane to our emotions.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 8                             :quote:done:
+#+begin_quote
+And if I were to endeavor to bequeath to posteriy the most imporant Motto which human language can convey, it should be in three words - SHUT-YOUR-MOUTH...Where I would paint and engrave it, in every Nursery, and on every Bed-post in the Universe, its meaning could not be mistaken. And if obeyed it's importance would soon be realized.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 9                             :quote:done:
+#+begin_quote
+If a fire is supplied with pure oxygen instead of air, it burns with enormously augmented intensity. But when a man or animal breathes oxygen, or air enriched with oxygen, no more of that gas is consumed, no more heat is produced and no more Carbon Dioxide is exhaled than when air alone is breathed – Yandell Henderson
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 10                            :quote:done:
+#+begin_quote
+The yogi's lifwe is not measured by the number of his day, but the number of his breaths. – B.K.S. Iyengar
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 11                            :quote:done:
+#+begin_quote
+Societies that replaced their traditional diet with modern, processed foods suffered up to ten tims more cavities, severely crooked teeth, obstructed airways and overall poorer health. The modern diets were the same: white flour, white rice, jams, sweetened juices, canned vegetables and processed meats. The traditional diets were all different.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 12                            :quote:done:
+#+begin_quote
+Some cultues ate nothing but meat, while others were mostly vegetarian. Some relied primarily on homemade cheese; others consumed no dairy at all. Their teeth were almost always perfect; their mouths were exceptionally wide, nasal apertures broad. They suffered few, if any, cavities and little dental disease. Respiratory diseases such as asthma or even tuberculosis, were practically nonexistent.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 13                            :quote:done:
+#+begin_quote
+Chewing. The more we gnaw, the more stem cells release, the more bone density and growth we'll trigger, the younger we'll look and the better we'll breathe.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 14                            :quote:done:
+#+begin_quote
+It starts at infancy. The chewing and sucking stress required for breastfeeding exercises the masseter and other facial muscles and stimulates more stem cell growth, stronger bones, and more pronounced airways. [...] The more time infants spent chewing and sucking, the more developed their faces and airways would become, and the better they'd breathe later in life.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 15                            :quote:done:
+#+begin_quote
+The breathholding that occurs in sleep and constant partial attention is unconscious - it's something that happens to our bodies, something that's out of our control. The breathholding practiced by the ancients and revivalists in conscious.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 16                            :quote:done:
+#+begin_quote
+Sometimes the body needs more than a soft nuedge to get realigned. Sometimes it needs a violent shove. That's what Tummo does.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 17                            :quote:done:
+#+begin_quote
+The human ist not only an organism... it is also a mind whose strength used wisely can allow us to repair our body when it bobbles. – Maurice Daubard
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 18                            :quote:done:
+#+begin_quote
+All living organisms are but leaves on the same tree of life. The various functions of plants and animals and their specialized organs are manifestations of the same living matter. – Albert Szent-Györgyi
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 19                            :quote:done:
+#+begin_quote
+Everything around us is composed of molecules, which are composed of atoms, which are composed of subatomic bits called protons (which have a positive charge), neutrons (no charge) and electrons (negative charge). All matter is, at its most basic level, energy. "We can not separate life from living matter", Albert Szent-Györgyi wrote. "Inevitably, studying living matter and its reactions, we study life itself."
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 20                            :quote:done:
+#+begin_quote
+The living state is such an electronically desatured state. Nature is simple but subtle. – Albert Szent-Györgyi
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 21                            :quote:done:
+#+begin_quote
+Humans rust as well. As the cells in our bodies lose the ability to attract oxygen, electrons within them will slow and stop freely interchanging with other cells, resulting in unregulated and abnormal growth. Tissues will begin rusting in much the same way as other materials. But we don't call this "tissue rust". We call it cancer. And this helps why cancers develop and thrive in environments of low oxygen.
+#+end_quote
+
+** Breath - The New Science of a Lost Art - Note 23                            :quote:done:
+#+begin_quote
+As I breathe a little faster, go a little deeper, the names of all the techniques I've explored over the past 10 years all come back in a rush: Pranayama. Buteyko. Coherent Breathing. Hypoventilation. Breathing Coordination. Holotropic Breathwork. Adhama. Madhyama. Uttama. Kevala. Embryonic Breath. Harmonizing Breath. The Breath by the Master Great Nothing. Tummo. Sudarshan Kriya.
+#+end_quote

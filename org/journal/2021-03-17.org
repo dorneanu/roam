@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1d59ca46-6b29-40e9-a69c-fa9306a07fa2
+:END:
+#+created: 20210317114710736
+#+modified: 20210518184428047
+#+revision: 0
+#+filetags: Journal
+#+title: 2021-03-17
+#+type: text/vnd.tiddlywiki
+
+- How to mock [[https://github.com/google/go-github/issues/1181][go-github's client]]

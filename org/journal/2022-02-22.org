@@ -1,0 +1,78 @@
+:PROPERTIES:
+:ID:       9552598b-44da-4d03-a1b7-7006a0659e80
+:END:
+#+created: 20220222074946226
+#+modified: 20220223091633410
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-02-22
+#+type: text/vnd.tiddlywiki
+
+- [[https://www.money-masters.de/podcast][Money Masters]]
+  - Top 20-Strategien
+    - [[#Finance][Finance]]
+    - Man muss sich selbst um sein Geld kümmern
+    - Der Faktor Zeit ist wichtig
+      - früh genug anfangen
+      - Zinsenzins ist wichtig
+    - Einfach Strategien funktionieren am besten
+      - weniger fehleranfällig
+      - funktionieren langfristig
+    - Strategien anwenden, die wenig Zeit kosten
+      - Geld soll für einen arbeiten (nicht umgekehrt)
+    - Auf Risikominimierung fokussieren
+      - "Kümmer dich um deine Verluste, die Gewinne werden sich um dich kümmern"
+    - Aktien sind die beste Anlageklasse
+      - vielleicht zu allgemein
+      - aber es gibt angeblich Studien
+      - Diversifizierung soll einfach sein
+    - Immobilien
+      - Klumpenrisiko
+        - man steck viel Geld in ein Objekt
+        - man muss sich drum kümmern
+    - Es gibt ein paar wenige Möglichkeiten, den Markt zu schlagen
+      - man schaut sich den Index an und versucht diesen zu schlagen (besser zu sein)
+      - Strategien
+        - Marktanomalien
+          - Value
+            - Aktien, die unterbewertet sind (im Long-Run werden sie besser performen)
+          - Momentum
+            - genau das Gegenteil
+              - nimm Aktien, die schon vorher stark performt haben
+    - Ich will nicht der nächste Warren Buffet sein
+      - macht eher "Value-Investment"
+      - sehr zeitaufwendig
+    - Technische Analyse funktioniert (doch)
+      - Chart anschauen und Indikatoren anlegen fürs Einsteigen/Aussteigen
+    - Dual-Momentum ist die beste Investment-Strategie(?)
+      - mit konservativen Investment-Strategien anfangen
+    - Stillhaltergeschäfte
+      - Optionshandel
+        - vgl. mit Versicherungen
+    - Aktives Trading macht Sinn wenn man es richtig macht
+      - Technische Analysen seien wichtig
+      - nicht zu regelmäßig
+      - Money-Management ist wichtig
+    - Edelmetalle spielen eine eher untergeordnete Rolle
+      - nicht wirklich eine Wertschöpfung
+      - man speichert eher das Vermögen ab
+    - Der Markt hat immer Recht
+      - Meinung des Markts antizipieren
+      - es geht nicht um unsere Meinung, sondern die des Marktes
+    - Klare Regeln, an die man sich mechanisch hält
+    - Mindset ist wichtig
+      - Disziplin
+      - Emotionen unter Kontrolle halten
+      - am Plan festhalten und selber schauen wie man reagiert wenn's brenzlig wird
+    - Die wirklich wichtigen Dinge im Leben nicht vergessen
+    - Das beste Investment ist das Investment in sich selbst
+      - Wissen/Kompetenzen aufbauen
+      - Geld für Beratung ausgeben
+    - Auf das Angefangene kommt es an
+      - "Die eine unmögliche Reise, ist die, die man nie beginnt"
+      - [[https://www.money-masters.de/fallstudie]]
+- Replace in multiple files using counsel-rg and ivy :emacs:
+  - [[https://emacsbliss.com/2019-02-17-search-replace-with-emacs.html]]
+- rg is awesome!
+  - [[https://github.com/BurntSushi/ripgrep]]
+  - And for [[#Emacs][Emacs]]: [[https://github.com/dajva/rg.el][rg.el]]

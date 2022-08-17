@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       56830372-ca7d-48d8-931b-33a180c682bb
+:END:
+#+created: 20191204143445236
+#+modified: 20210518184433885
+#+revision: 0
+#+tags: [[AWS Network & Content Delivery]] Network TODO
+#+title: VPN
+#+tmap.id: 0cac771f-22ff-42e7-8844-dab3b1bd3c78
+#+type: text/vnd.tiddlywiki
+
+** Types
+:PROPERTIES:
+:CUSTOM_ID: types
+:END:
+*** Site-to-Site
+:PROPERTIES:
+:CUSTOM_ID: site-to-site
+:END:
+*** AWS Client VPN
+:PROPERTIES:
+:CUSTOM_ID: aws-client-vpn
+:END:
+*** AWS Site-to-Site VPN
+:PROPERTIES:
+:CUSTOM_ID: aws-site-to-site-vpn
+:END:
+- single connection

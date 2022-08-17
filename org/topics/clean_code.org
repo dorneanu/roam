@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       603eff0a-cc2c-4e44-a4a2-044d31a48ef2
+:END:
+#+filetags: TODO
+#+title: Clean Code

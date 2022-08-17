@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       cd0e235d-a103-4968-bd42-7f625c82cb84
+:END:
+#+created: 20190507071048098
+#+creator: boru
+#+modified: 20210520102129455
+#+modifier: boru
+#+revision: 0
+#+tags: AWS
+#+title: AWS/CLI
+#+tmap.id: 24a8b26c-fae3-46dc-8d4a-195272005a49
+#+type: text/vnd.tiddlywiki
+
+Some currated list of useful [[https://aws.amazon.com/cli/][aws CLI]] commands.
+
+** API Gateway
+:PROPERTIES:
+:CUSTOM_ID: api-gateway
+:END:
+| desc             | command                               |
+|------------------+---------------------------------------|
+| get-domain-names | =$ aws apigatewayv2 get-domain-names= |
+
+** SSM
+:PROPERTIES:
+:CUSTOM_ID: ssm
+:END:
+| desc          | command                                                                                           |
+|---------------+---------------------------------------------------------------------------------------------------|
+| get parameter | =$ aws --profile default ssm get-parameter --with-decryption --name "<ssm path>"=                 |
+| put parameter | =$ aws ssm put-parameter --name <path> --value <value> --type SecureString --key-id <KMS key ID>= |
+
+** Cloudformation
+:PROPERTIES:
+:CUSTOM_ID: cloudformation
+:END:
+| desc               | command                                                              |
+|--------------------+----------------------------------------------------------------------|
+| tail for CF events | =$tail-stack-events -f --die -n 5 --region <region> -s <stack name>= |
+
+** SQS
+:PROPERTIES:
+:CUSTOM_ID: sqs
+:END:
+| desc                    | command                                                                                          |
+|-------------------------+--------------------------------------------------------------------------------------------------|
+| receive one message     | =$ aws sqs receive-message --queue-url <queue url> --region <region>=                            |
+| get attributes of queue | =$ aws sqs get-queue-attributes --queue-url <queue url> --region <region> --attribute-names All= |
+
+** [[#DynamoDB][DynamoDB]]
+:PROPERTIES:
+:CUSTOM_ID: dynamodb
+:END:
+| desc        | command                                                                                                 |
+|-------------+---------------------------------------------------------------------------------------------------------|
+| put item    | =aws dynamodb put-item --table-name tiddlers --item file://items.json --endpoint http://127.0.0.1:8000= |
+| list tables | =aws dynamodb list-tables --endpoint-url http://localhost:8000=                                         |
+| scan        | =aws dynamodb scan --table-name tiddlers --endpoint http://127.0.0.1:8000=                              |

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       4a3b3c6a-bb87-4e35-9660-28ef9cc7142c
+:END:
+#+created: 20220601084836066
+#+modified: 20220601101411847
+#+revision: 0
+#+filetags: Journal
+#+title: 2022-06-01
+#+type: text/vnd.tiddlywiki
+
+- [[https://news.ycombinator.com/item?id=31569646][Ask HN: Visualizing software designs, especially of large systems (if at all)?]]
+- [[https://tier.engineering/TIER-Infrastructure-Landscape-Part-1]]
+  - How to setup IAM using Okta, Google and [[#HasiCorp][HasiCorp]] Vault
