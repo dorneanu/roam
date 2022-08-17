@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       5f99a575-a728-4966-bd7d-ca9ca4a4024d
+:END:
+#+title: Continuous Delivery

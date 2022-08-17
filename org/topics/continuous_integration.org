@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       79534868-0525-490d-9a5e-aace3525b32e
+:END:
+#+title: Continuous Integration
+
+- The combination of [[id:92250527-2f19-44ca-b84d-7b77b3f91af8][Continuous Deployment]] and automated testing
+- State of the code repository is constantly monitored and if there is a change, the artifact will be automatically be built and tested
+- The artifact will be then released to your environment

@@ -14,7 +14,7 @@ draft = false
 ## What is Security {#what-is-security}
 
 -   Is the intersection between tech and people
--   Security is about risk
+-   [Security]({{< relref "security.md" >}}) is about risk
     -   Vulnerability = Likelihood + Impact
         -   Likelihood
             -   Factors which lead to the calculation
@@ -51,22 +51,7 @@ draft = false
 -   People
 
 
-#### CIA {#cia}
-
--   Confidentiality
-    -   Keep it secret
-    -   Authentication
-    -   Authorization
-    -   Data access
--   Integrity
-    -   All about data
-        -   Who can change it
-        -   When can it be changed
-        -   And in which ways
-    -   Understand and keep the current state of data
--   Availability
-    -   Keep the systems running
-    -   Also find the right balance between the security controls (restrictions) and the features we expose to the outside world and our customers
+#### [CIA]({{< relref "cia.md" >}}) {#cia--cia-dot-md}
 
 
 ### Other activities {#other-activities}
@@ -104,11 +89,7 @@ draft = false
     -   Ensure core functions/features work correctly from end-to-end
 
 
-### Continuous Integration {#continuous-integration}
-
--   The combination of continuous deployment and automated testing
--   State of the code repository is constantly monitored and if there is a change, the artifact will be automatically be built and tested
--   The artifact will be then released to your environment
+### [Continuous Integration]({{< relref "continuous_integration.md" >}}) {#continuous-integration--continuous-integration-dot-md}
 
 
 ### Infrastructure as a Code {#infrastructure-as-a-code}
@@ -126,27 +107,18 @@ draft = false
 
 ### Continuous Delivery VS Continuous Deployment {#continuous-delivery-vs-continuous-deployment}
 
--   Continuous Delivery
+-   [Continuous Delivery]({{< relref "continuous_delivery.md" >}})
     -   Changes are always ready to be deployed to production by automation, building, testing, packaging and deployment steps so that they are executed for every change
--   Continuous Deployment
+-   [Continuous Deployment]({{< relref "continuous_deployment.md" >}})
     -   Changes automatically run through the same build and test stages and are immediately sent to production if all steps pass
 
 
 ## Welcome to the Agile Revolution {#welcome-to-the-agile-revolution}
 
--   The Agile Manifesto
+-   [The Agile Manifesto]({{< relref "the_agile_manifesto.md" >}})
     -   The Agile principles
 -   Scrum
--   Extreme Programming
-    -   Core concepts
-        -   Team has the customer accessible to it all the times
-        -   It delivers in regular, small increments
-        -   Team uses TDD, pair programming, refactoring and continuous integration to build high-quality software
-        -   The whole team shares the work to be done through code ownership, common coding standards and shared design metaphor
-            -   Design Metaphor
-                -   Single common language to refer to to the system
-                    -   See DDD
-        -   People take care team members don't burn out
+-   [Extreme Programming]({{< relref "extreme_programming.md" >}})
 -   Lean
     -   Came out of Kanban and Toyota Production system
     -   Methodology
@@ -173,7 +145,7 @@ draft = false
         -   Security Professionals
             -   Have a to learn to accepts change, to work faster and more iteratively
             -   Be able to think about security risks, how to manage them in incremental terms
-            -   And most important: Security needs to become an enabler not a blocker!
+            -   And most important: **Security needs to become an enabler not a blocker**!
 
 
 ## Working with your existing Agile Life Cycle {#working-with-your-existing-agile-life-cycle}
@@ -188,7 +160,7 @@ draft = false
         -   Because the earlier a defect is detected, the cheaper it is to fix it
         -   However the solution is not the attempt to catch all defects earlier, but to focus on reducing the cost of fixing defects by making change safer and cheaper
 -   Agile approach
-    -   Security Testing in the SDLC
+    -   Security Testing in the [SDLC]({{< relref "sdlc.md" >}})
         -   Security team needs to to own the tools
             -   Responsible for deciding which features the tool should have, that'll is easy to embed in the pipeline and covers the areas that the team is concerned about
         -   Development team owns the implementation of the tools in the pipeline
@@ -255,12 +227,12 @@ draft = false
         -   Infosec
             -   Informations for attack monitoring and forensic analysis
         -   Ops
-            -   System monitlrin
+            -   System monitoring
             -   Operational metrics
         -   Development
             -   Application's logs
             -   Debug information
-    -   Mapped to CIA
+    -   Mapped to [CIA]({{< relref "cia.md" >}})
         -   Packaging and deployment
         -   Monitoring
         -   Secret management
@@ -282,7 +254,7 @@ draft = false
 
 ## Agile Vulnerability Management {#agile-vulnerability-management}
 
--   Tools l
+-   Tools
     -   UpGuard
         -   Continuous Vulnerability Assessment
 -   What is to track
@@ -302,7 +274,7 @@ draft = false
 -   Secure Software Supply Chain
     -   Tools
         -   Sonatype free supply chain costs and risks calculator
--   Test--Driven Security
+-   [Test-Driven Security]({{< relref "test_driven_security.md" >}})
     -   Write test (unit test acceptance test) that checks if a vulnerability has been closed
     -   The test will fail until the vulnerability gets fixed
     -   Tools
@@ -311,11 +283,12 @@ draft = false
 
 ## Risk for Agile Teams {#risk-for-agile-teams}
 
--   "Instead of saying no, Security should say" yes, but" or even better "yes, and" and providing guidance and help to carry out the actions in the safest and most secure way possible
+> "Instead of saying no, Security should say" yes, but" or even better "yes, and" and providing guidance and help to carry out the actions in the safest and most secure way possible
+
 -   Threat
     -   What and who you have to protect your assets from
     -   What is could go wrong
-    -   What could harm your assets (with disrespectful to CIA)
+    -   What could harm your assets (with disrespectful to [CIA]({{< relref "cia.md" >}}))
     -   Threats are specific
 -   Risk
     -   The exposure of assets to threats (probability and costs)
@@ -355,7 +328,9 @@ draft = false
             -   Use feedback from failure/incident to examine underlying risks and come up with solutions
 -   Quotes
 
-    > -   "Security is another quality of software, in the same way that performance, quality, efficiency and usability are qualities of the software (in the context of risks and non-functional requirements)
+    > "Security is another quality of software, in the same way that performance,
+    > quality, efficiency and usability are qualities of the software (in the
+    > context of risks and non-functional requirements)
 
 
 ## Threat Assessments and understanding Attacks {#threat-assessments-and-understanding-attacks}
@@ -406,7 +381,7 @@ draft = false
         -   Because to much depends on trust boundaries or a few perimeters
         -   Instead systems should be built so that they not assume other points (outside their trust boundaries) are trustworthy
             -   Zero Trust Network
-                -   BeyondCorp
+                -   [BeyondCorp]({{< relref "beyondcorp.md" >}})
                 -   Book: Zero Trust Networks - Building Trusted Systems in Untrusted Networks
         -   Everything on the network has to be protected against outside attackers or insiders
             -   Reassess and audit-identity at every point
@@ -428,7 +403,8 @@ draft = false
             -   Use containers to manage and protect services
             -   Use a secure key management for storing private keys and other secrets
     -   Complexity and Security
-        -   "You can't secure what you don't understand" - Bruce Schneier
+
+        > "You can't secure what you don't understand" - Bruce Schneier
 
 
 ## Code Reviews and Security {#code-reviews-and-security}
@@ -440,15 +416,16 @@ draft = false
     -   Oracle's Java SE coding guidelines
     -   OWASP Sécure Coding Practices
     -   Mozilla's Web Application Secure Coding Guidelines
--   Alternative to SCA
+-   Alternative to [SCA]({{< relref "sca.md" >}})
     -   IAST (Interactive or Instrumented Application Security Testing)
     -   RASP (Runtime Application Self-Protection)
 -   More about refactoring
     -   Books
-        -   Clean Code by Bob Martin
+        -   [The Clean Code]({{< relref "the_clean_code.md" >}}) by Bob Martin
         -   Refactoring: Improving the Design of Existing Code (Kent Beck and Martin Fowler)
         -   Working Effectively with Legacy Code
--   "All Input is Evil"
+
+> "All Input is Evil"
 
 
 ## Agile Security Testing {#agile-security-testing}
@@ -461,7 +438,7 @@ draft = false
 -   BDD
     -   Integration tests l
     -   Service level tests against the APIs
-    -   Tools l
+    -   Tools
         -   GauntIt
         -   BDD-Security
 -   Where Security Testing fits into your Pipeline

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8d9e7c2b-135a-4bc3-a31c-659dc8f0799f
+:END:
+#+title: CIA
+#+filetags: :security:
+
+* Confidentiality
+- Keep it secret
+- Authentication
+- Authorization
+- Data access
+* Integrity
+- All about data
+  - Who can change it
+  - When can it be changed
+  - And in which ways
+- Understand and keep the current state of data
+* Availability
+- Keep the systems running
+- Also find the right balance between the security controls (restrictions) and the features we expose to the outside world and our customers
