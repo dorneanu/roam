@@ -12,14 +12,16 @@
   (replace-regexp-in-string (regexp-quote what) with in nil 'literal))
 
 (defun zeeros/fix-doc-path (path)
-  (replace-in-string "../../topics/" "" (replace-in-string "../../topics/" "" path)))
+  (replace-in-string "../../topics/" "" (replace-in-string "../../topics/" "" path))
+  )
+
 
 (advice-add 'org-export-resolve-id-link :filter-return #'zeeros/fix-doc-path)
 
 (defun brainfck/publish (file)
   (with-current-buffer (find-file-noselect file)
     (setq-local org-hugo-base-dir "/cs/priv/repos/roam")
-    (setq-local org-hugo-section "posts")
+    ;; (setq-local org-hugo-section "posts")
     (setq-local org-export-with-tags nil)
     (setq-local org-export-with-broken-links t)
     (setq-local org-agenda-files nil)

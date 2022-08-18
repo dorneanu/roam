@@ -2,3 +2,4 @@
 :ID:       767c7a72-171e-4986-aa25-b0c3a704ac9c
 :END:
 #+title: Gespräche mit Gott, Band 3
+#+filetags: book

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       c3b9a590-0b83-4b39-a831-bb5cd5c1d939
+:END:
+#+title: 2022-08-18
+- [[https://airwalkreply.com/tech-blog-sshuttle-and-aws-systems-manager-session-manager][Making SSH with transparent Session Manager region-aware]]
+  In ~.ssh/config~:
+  #+begin_example
+  host i-*.* mi-*.*
+      ProxyCommand bash -c "aws ssm start-session --target $(echo %h|cut -d'.' -f1) --region $(echo %h|/usr/bin/cut -d'.' -f2) --document-name AWS-StartSSHSession --parameters 'portNumber=%p'"host i-* mi-*
+      ProxyCommand bash -c "aws ssm start-session --target %h --document-name AWS-StartSSHSession --parameters 'portNumber=%p'"
+  #+end_example
+
+  and then use:
+  #+begin_example
+    ssh ec2-user@i-0456ac191f9f975ec.eu-west-1
+  #+end_example
+- [[https://superuser.com/questions/247564/is-there-a-way-for-one-ssh-config-file-to-include-another-one][Is there a way for one SSH config file to include another one?]]
+  #+begin_example
+  Include config.d/home
+
+  Host github.com
+      HostName github.com
+      User git
+  #+end_example
+- [[https://engineering.fb.com/2016/09/12/security/scalable-and-secure-access-with-ssh/][Scalable and secure access with SSH]]

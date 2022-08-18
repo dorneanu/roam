@@ -103,11 +103,10 @@ gists = "/gists/:title"
   Pre = "book"
   URL = "/tags"
   Weight = 6
-# [[Menu.Main]]
-#   Name = "Bookmarks"
-#   Pre = "book"
-#   URL = "/bookmarks"
-#   Weight = 7
+[[Menu.Main]]
+  Name = "Journal"
+  URL = "/tags/journal"
+  Weight = 7
 # [[Menu.Main]]
 #   Name = "Bookmarks"
 #   Pre = "code"

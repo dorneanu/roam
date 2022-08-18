@@ -2,3 +2,4 @@
 :ID:       4a9c1fc8-66ef-49dc-a68c-8bff494874f8
 :END:
 #+title: Mission Economy
+#+filetags: book

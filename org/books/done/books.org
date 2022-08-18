@@ -2,7 +2,12 @@
 :ID:       26a3adf8-a482-4d5c-8f5a-cdef615856ed
 :END:
 #+title: Books
-* TODO 2022
+#+filetags: :page:index:
+#+hugo_section: books
+#+export_file_name: _index.md
+
+This is my list.
+* 2022
 - 01
   - [[id:a51180bc-619e-4d89-b5e9-b63ce0b9355d][Thinking, Fast and Slow]]
 - 02
@@ -20,7 +25,7 @@
   - [[id:4a9c1fc8-66ef-49dc-a68c-8bff494874f8][Mission Economy]]
 - 08
 - 09
-* TODO 2021
+* 2021
 - 01
   - [[id:59d9aa39-0ba4-4996-93e8-ed6310e85f2c][Das Experiment sind wir]]
   - [[id:767c7a72-171e-4986-aa25-b0c3a704ac9c][Gespräche mit Gott, Band 3]]
@@ -45,7 +50,7 @@
 - 11
   - [[id:4b083c1c-0f15-428d-8dcd-71cdeaa5ee79][Go with the Domain]]
   - [[id:112ebd20-5574-4a2f-bf89-298abf97d411][Learning GNU Emacs]]
-* TODO 2020
+* 2020
 - 02
   - [[id:67080028-4f04-4174-a2ae-60022d293cc3][Artgerecht]]
   - [[id:b31d2bdd-9c82-4e0d-aaa3-c694f10eaec8][Hands-On Software Architecture with Golang]]
@@ -73,10 +78,10 @@
 - 12
   - [[id:31953769-76a0-4099-8a75-c85b7569b668][Range]]
   - [[id:2965cd54-8ffb-48a1-9b88-07ca58f97469][The Wim Hof Method]]
-* TODO 2019
+* 2019
 - 12
   - [[id:857722e5-dda8-4479-9396-ffa71ae78218][How to read a book]]
-* TODO 2018
+* 2018
 - 06
   - [[id:6461d804-a9a4-4595-a744-a5a51706dac8][Marching Powder]]
 - 07
@@ -90,7 +95,7 @@
   - [[id:3749ac25-5a66-4d81-a4ad-456d146e273b][Conscious Breathing]]
 - 11
   - [[id:f79b86f3-4fb0-4368-b80b-d72fcb562beb][The Scientific American Day in the Life of Your Brain]]
-* TODO 2017
+* 2017
 - 03
   - [[id:c91ba586-6360-4171-a7fa-fea516bcd1b0][Boarderlines]]
   - [[id:31f900f1-2cd3-4a0f-ae64-59a53328928c][Start with Why - How Great Leaders Inspire Everyone To Take Action]]
@@ -105,12 +110,11 @@
   - [[id:742d5cb7-cf9b-4fae-981f-1ea6efada208][Buddha und die Wissenschaft vom Glück]]
 - 10
   - [[id:10db442f-bb4a-4811-bf58-a1f0d7af0eb6][What Every Body Is Saying]]
-* TODO 2016
+* 2016
 - 03
   - [[id:719c0dec-bba6-4cac-b4c5-9b63601ed1cc][Reich werden und bleiben: Ihr Wegweiser zur finanziellen Freiheit]]
 - 09
   - [[id:ecd1437b-c604-4ba4-bc15-180bf71786a0][Rich Dad Poor Dad - Was die Reichen ihren Kindern über Geld beibringen]]
-* DONE 2011
-CLOSED: [2022-08-14 Sun 23:46]
+* 2011
 - 10
   - [[id:4eb41e5b-7ef3-41e0-86ea-bd072eda69ac][Ich bin dann mal weg - Meine Reise auf dem Jakobsweg]]

@@ -2,3 +2,4 @@
 :ID:       91a476be-effe-4b5e-94aa-b6af48e6d920
 :END:
 #+title: Europa im Erdölrausch
+#+filetags: book
