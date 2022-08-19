@@ -1,4 +1,0 @@
-+++
-title = "Solitude"
-draft = false
-+++

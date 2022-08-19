@@ -1,4 +1,0 @@
-+++
-title = "SDLC"
-draft = false
-+++

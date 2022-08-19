@@ -1,4 +1,0 @@
-+++
-title = "Diaphragm"
-draft = false
-+++

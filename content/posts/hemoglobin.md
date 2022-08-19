@@ -1,4 +1,0 @@
-+++
-title = "Hemoglobin"
-draft = false
-+++

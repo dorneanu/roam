@@ -1,4 +1,0 @@
-+++
-title = "DevSecOps"
-draft = false
-+++
