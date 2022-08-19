@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-01-28
+#+date: 2021-01-28
 #+type: text/vnd.tiddlywiki
 
 - [[#Golang][Golang]] and [[#DRY][DRY]] ([[https://threedots.tech/post/things-to-know-about-dry/][post]])

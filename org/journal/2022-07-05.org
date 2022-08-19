@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-07-05
+#+date: 2022-07-05
 #+type: text/vnd.tiddlywiki
 
 - [[https://news.ycombinator.com/item?id=31976407][Should I learn Rust or Go?]] ([[#Golang][Golang]], [[#Rust][Rust]])

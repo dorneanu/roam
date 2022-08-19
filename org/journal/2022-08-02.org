@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-08-02
+#+date: 2022-08-02
 #+type: text/vnd.tiddlywiki
 
 - [[https://github.com/SqrtMinusOne/pomm.el][Yet another implementation of pomodoro timer for Emacs]]

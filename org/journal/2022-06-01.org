@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-06-01
+#+date: 2022-06-01
 #+type: text/vnd.tiddlywiki
 
 - [[https://news.ycombinator.com/item?id=31569646][Ask HN: Visualizing software designs, especially of large systems (if at all)?]]

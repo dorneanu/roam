@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-06-30
+#+date: 2022-06-30
 #+type: text/vnd.tiddlywiki
 
 - [[https://jwiegley.github.io/git-from-the-bottom-up/][Git from the bottom up]] ([[#Git][Git]])

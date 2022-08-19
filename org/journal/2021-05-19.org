@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-05-19
+#+date: 2021-05-19
 #+type: text/vnd.tiddlywiki
 
 - [[https://changelog.com/gotime/177][Building startups with]] [[#Golang][Golang]]

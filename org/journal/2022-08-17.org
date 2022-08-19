@@ -2,6 +2,7 @@
 :ID:       18817a5b-2569-4e40-9d68-dce464fb7f51
 :END:
 #+title: 2022-08-17
+#+date: 2022-08-17
 - 2022-08-17 ◦ [[https://github.com/sevlyar/go-daemon][GitHub - sevlyar/go-daemon: A library for writing system daemons in golang.]]
 - 2022-08-17 ◦ [[https://dev.to/educative/im-new-to-system-design-where-do-i-start-1kie][I'm new to System Design, where do I start? - DEV Community]]
 - [[https://stackoverflow.com/questions/60041500/create-associate-ssh-keypair-to-an-ec2-instance-with-the-cdk][Add SSH key to Bastion host using CDK]]

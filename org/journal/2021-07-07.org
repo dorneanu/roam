@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-07-07
+#+date: 2021-07-07
 #+type: text/vnd.tiddlywiki
 
 - [[https://chaosradio.de/cr269-blockchain-die]["Blockchain, die" von chaosradio]]

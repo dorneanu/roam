@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-06-15
+#+date: 2021-06-15
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.twobirds.com/de/news/articles/2020/germany/insolvency-of-wallet-providers-and-crypto-depositories-in-germany][Insolvenz von Wallet-Anbietern und Kryptoverwahrern in Deutschland]]

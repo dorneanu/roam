@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-06-13
+#+date: 2022-06-13
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.intezer.com/blog/research/new-linux-threat-symbiote/][Symbiote]]

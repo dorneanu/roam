@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-06-28
+#+date: 2022-06-28
 #+type: text/vnd.tiddlywiki
 
 - [[#Vocea%20Natiei][Vocea Natiei]] #150

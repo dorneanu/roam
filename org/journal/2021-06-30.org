@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-06-30
+#+date: 2021-06-30
 #+type: text/vnd.tiddlywiki
 
 - [[https://changelog.com/gotime/179][Go Time -- Episode #179 - Event-Driven System]]

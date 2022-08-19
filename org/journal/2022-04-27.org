@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-04-27
+#+date: 2022-04-27
 #+type: text/vnd.tiddlywiki
 
 - [[https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749][Ready for changes with hexagonal architecture]]

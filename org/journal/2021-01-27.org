@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-01-27
+#+date: 2021-01-27
 #+type: text/vnd.tiddlywiki
 
 - [[https://github.com/dreddsa5dies/goHackTools][Hacker tools]] in [[#Golang][Golang]]

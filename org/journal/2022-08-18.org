@@ -2,6 +2,7 @@
 :ID:       c3b9a590-0b83-4b39-a831-bb5cd5c1d939
 :END:
 #+title: 2022-08-18
+#+date: 2022-08-18
 - [[https://airwalkreply.com/tech-blog-sshuttle-and-aws-systems-manager-session-manager][Making SSH with transparent Session Manager region-aware]]
   In ~.ssh/config~:
   #+begin_example

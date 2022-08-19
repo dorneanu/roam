@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-01-04
+#+date: 2021-01-04
 #+type: text/vnd.tiddlywiki
 
 - On /Architecture Decision Records/

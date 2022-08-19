@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-06-10
+#+date: 2022-06-10
 #+type: text/vnd.tiddlywiki
 
 - Vocea Natiei #147 ([[#Vocea%20Natiei][Vocea Natiei]])

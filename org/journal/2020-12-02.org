@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2020-12-02
+#+date: 2020-12-02
 #+type: text/vnd.tiddlywiki
 
 - [[https://hypothesis.readthedocs.io/en/latest/][Property Based Testing]]

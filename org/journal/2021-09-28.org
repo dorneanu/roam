@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-09-28
+#+date: 2021-09-28
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html][A CEO's guid to Emacs]]

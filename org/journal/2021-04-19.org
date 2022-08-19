@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-04-19
+#+date: 2021-04-19
 #+type: text/vnd.tiddlywiki
 
 - [[https://podcasts.apple.com/us/podcast/504-vitalik-buterin-creator-ethereum-on-understanding/id863897795?i=1000512237199]]

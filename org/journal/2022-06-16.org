@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-06-16
+#+date: 2022-06-16
 #+type: text/vnd.tiddlywiki
 
 - [[https://daily.dev/blog/alpine-js-the-ultimate-guide][AlpineJS - The Ultimate Guide]]

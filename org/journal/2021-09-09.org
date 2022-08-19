@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-09-09
+#+date: 2021-09-09
 #+type: text/vnd.tiddlywiki
 
 - [[https://blog.tjcx.me/p/consume-less-create-more]]

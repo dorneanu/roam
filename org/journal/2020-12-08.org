@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2020-12-08
+#+date: 2020-12-08
 #+type: text/vnd.tiddlywiki
 
 - [[https://docs.pytest.org/en/latest/example/markers.html#mark-examples][Integration Tests with pytest]]

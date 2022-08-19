@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2020-12-16
+#+date: 2020-12-16
 #+type: text/vnd.tiddlywiki
 
 - [[https://threedots.tech/post/introducing-clean-architecture/][Introducing Clean Architecture by refactoring a Go project]]

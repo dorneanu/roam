@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-08-04
+#+date: 2021-08-04
 #+type: text/vnd.tiddlywiki
 
 - [[https://changelog.com/gotime/185][Giving TDD a Go]]

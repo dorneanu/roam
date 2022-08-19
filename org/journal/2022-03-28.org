@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-03-28
+#+date: 2022-03-28
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.theverge.com/2022/1/24/22898712/crypto-hardware-wallet-hacking-lost-bitcoin-ethereum-nft][Cracking a $2 million crypto wallet]]

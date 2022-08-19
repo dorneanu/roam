@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-03-29
+#+date: 2022-03-29
 #+type: text/vnd.tiddlywiki
 
 - [[https://chathura-ekanayake.medium.com/applying-event-driven-architecture-in-digital-transformation-projects-acbcb27440af][Applying Event-Driven Architecture in Digital Transformation Projects]]

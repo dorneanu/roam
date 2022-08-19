@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-09-19
+#+date: 2021-09-19
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.bbc.com/future/article/20190218-are-we-on-the-road-to-civilisation-collapse][Are we on the road to civilisation collapse? - BBC Future]]

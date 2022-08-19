@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-02-21
+#+date: 2022-02-21
 #+type: text/vnd.tiddlywiki
 
 - How to open a file by using current date as its file name

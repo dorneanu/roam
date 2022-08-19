@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-03-17
+#+date: 2022-03-17
 #+type: text/vnd.tiddlywiki
 
 - [[https://changelog.com/gotime/216][Building and using APIs using Go]]

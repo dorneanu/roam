@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-06-20
+#+date: 2022-06-20
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.akamai.com/blog/security/new-p2p-botnet-panchan][P2P botnet in Golang using SSH for lateral movement]] ([[#Golang][Golang]], [[#P2P][P2P]], [[#Malware][Malware]])

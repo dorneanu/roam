@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2020-11-23
+#+date: 2020-11-23
 #+tmap.id: cf4f82a8-2fb7-4112-a8c9-590a380cb7bf
 #+type: text/vnd.tiddlywiki
 

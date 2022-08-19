@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-01-25
+#+date: 2021-01-25
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.npr.org/2020/12/18/948108821/author-and-podcaster-tim-ferriss?t=1611583356461][How I built this with Tim Ferris]]

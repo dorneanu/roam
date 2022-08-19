@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-02-22
+#+date: 2022-02-22
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.money-masters.de/podcast][Money Masters]]

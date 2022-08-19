@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-04-01
+#+date: 2022-04-01
 #+type: text/vnd.tiddlywiki
 
 - next.js + [[#Golang][Golang]]

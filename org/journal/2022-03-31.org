@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-03-31
+#+date: 2022-03-31
 #+type: text/vnd.tiddlywiki
 
 - [[https://lakefs.io/building-rich-cli-applications-with-gos-built-in-templating/][Build rich CLI application using Golang's templating system]]

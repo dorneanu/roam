@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-03-18
+#+date: 2021-03-18
 #+type: text/vnd.tiddlywiki
 
 - [[https://groups.google.com/g/tiddlywiki/c/f23Eof4TTHI/m/LIIttSJHCAAJ][My favourite TW plugins]]

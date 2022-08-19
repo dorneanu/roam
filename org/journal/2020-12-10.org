@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2020-12-10
+#+date: 2020-12-10
 #+type: text/vnd.tiddlywiki
 
 - Wim Hof method

@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-04-28
+#+date: 2022-04-28
 #+type: text/vnd.tiddlywiki
 
 - [[https://changelog.com/podcast/484][Wisdom from 50+ years in software]]

@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-08-12
+#+date: 2021-08-12
 #+type: text/vnd.tiddlywiki
 
 - [[https://daveasprey.com/dr-steven-gundry-803/][How to Identify Your Energy Blockers and Beat Fatigue -- Dr. Steven Gundry with Dave Asprey -- #803]]

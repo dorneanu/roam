@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-11-09
+#+date: 2021-11-09
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.infoq.com/podcasts/monolith-microservices/][Sam Newman: Monolith to Microservices]]

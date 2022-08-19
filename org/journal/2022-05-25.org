@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-05-25
+#+date: 2022-05-25
 #+type: text/vnd.tiddlywiki
 
 - [[https://emacs.stackexchange.com/questions/56287/org-mode-tag-column-setting-is-ignored%20][Realign tag columns via org-tag-column]]

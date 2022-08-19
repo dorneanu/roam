@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-01-26
+#+date: 2021-01-26
 #+type: text/vnd.tiddlywiki
 
 - [[http://blog.pi3.com.pl/?p=850][Windows 7 TCP/IP Hijacking]]

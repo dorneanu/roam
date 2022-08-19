@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-11-03
+#+date: 2021-11-03
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.kuechenstud.io/medienradio/podcast/di104-der-konflikt-zwischen-israel-und-den-palaestinensern-muriel-asseburg-swp/][DI104 Der Konflikt zwischen Israel und den Palästinensern (Muriel Asseburg, SWP)]]

@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2020-12-07
+#+date: 2020-12-07
 #+type: text/vnd.tiddlywiki
 
 - [[https://daveasprey.com/hal-elrod-765/][Your Morning Makes Your Day: 6 Practices To Get You Going -- Hal Elrod with Dave Asprey]] (from [[#Dave%20Asprey][Dave Asprey]])

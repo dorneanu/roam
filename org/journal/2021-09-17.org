@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-09-17
+#+date: 2021-09-17
 #+type: text/vnd.tiddlywiki
 
 - [[https://noteflakes.com/articles/2021-09-02-how-i-write-code-pen-paper][How I write Code]]

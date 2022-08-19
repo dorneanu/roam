@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-07-04
+#+date: 2022-07-04
 #+type: text/vnd.tiddlywiki
 
 - [[http://sawers.com/blog/aws-session-manager-a-better-way-to-ssh/][AWS Session Manager - A better way to SSH]]

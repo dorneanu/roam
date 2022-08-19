@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-06-29
+#+date: 2022-06-29
 #+type: text/vnd.tiddlywiki
 
 - [[https://blog.christophetd.fr/abusing-cloudflare-workers/][How to abuse Cloudflare workers]]

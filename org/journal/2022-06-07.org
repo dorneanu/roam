@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-06-07
+#+date: 2022-06-07
 #+type: text/vnd.tiddlywiki
 
 - [[https://blog.fefe.de/?ts=9c6597d1][Immer wieder gut]] ([[#Bitcoin][Bitcoin]])

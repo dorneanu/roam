@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-04-25
+#+date: 2022-04-25
 #+type: text/vnd.tiddlywiki
 
 - [[https://cushychicken.github.io/why-you-cant-hire-engineers/][This is why you cannot hire engineers]]

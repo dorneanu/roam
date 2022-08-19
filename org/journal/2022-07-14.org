@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-07-14
+#+date: 2022-07-14
 #+type: text/vnd.tiddlywiki
 
 - [[https://danluu.com/simple-architectures/][In defense of simple architecture]] ([[#Architecture][Architecture]])

@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-03-24
+#+date: 2022-03-24
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.unaufschiebbar.de/ortsunabhaengig-arbeiten/digitale-nomaden-familie/][10 Learning als digitale Nomadenfamilie]]

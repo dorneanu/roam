@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-06-08
+#+date: 2022-06-08
 #+type: text/vnd.tiddlywiki
 
 - [[https://typesanitizer.com/blog/go-experience-report.html][6 months of Go]] ([[#Golang][Golang]])

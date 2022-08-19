@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-11-11
+#+date: 2021-11-11
 #+type: text/vnd.tiddlywiki
 
 - [[https://github.com/daviwil/emacs-from-scratch]]

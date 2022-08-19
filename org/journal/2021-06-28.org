@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-06-28
+#+date: 2021-06-28
 #+type: text/vnd.tiddlywiki
 
 - [[https://daveasprey.com/levels-health-797/][How to Control Your Blood Sugar & Spike Your Energy]]

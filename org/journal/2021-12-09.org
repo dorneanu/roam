@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-12-09
+#+date: 2021-12-09
 #+type: text/vnd.tiddlywiki
 
 - Load content in a lightbox

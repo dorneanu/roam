@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-06-15
+#+date: 2022-06-15
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.nytimes.com/2022/06/01/well/eat/coffee-study-lower-dying-risk.amp.html][Some new research on coffee]] ([[#Kaffee][Kaffee]])

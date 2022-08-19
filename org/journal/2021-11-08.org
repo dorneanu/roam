@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-11-08
+#+date: 2021-11-08
 #+type: text/vnd.tiddlywiki
 
 - [[https://betterhumans.pub/better-than-meditation-12532d29f6cd]]

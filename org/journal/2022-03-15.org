@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-03-15
+#+date: 2022-03-15
 #+type: text/vnd.tiddlywiki
 
 - Added brainfck.org to [[https://github.com/MaggieAppleton/digital-gardeners/pull/89][Maggie Appleton's digital gardeners collection]]

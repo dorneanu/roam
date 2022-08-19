@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-02-23
+#+date: 2022-02-23
 #+type: text/vnd.tiddlywiki
 
 - [[https://github.com/nyyManni/ejira][ejira]]

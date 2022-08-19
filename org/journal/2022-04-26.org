@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-04-26
+#+date: 2022-04-26
 #+type: text/vnd.tiddlywiki
 
 - [[https://github.com/hlissner/doom-emacs/issues/3127%20in%20%5B%5BEmacs][Different ways to paste/yank things in insert mode]]

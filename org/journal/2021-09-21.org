@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2021-09-21
+#+date: 2021-09-21
 #+type: text/vnd.tiddlywiki
 
 - [[https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0]]

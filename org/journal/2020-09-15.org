@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2020-09-15
+#+date: 2020-09-15
 #+tmap.id: d9c788e3-f6ba-461b-8d2e-002fda8182c9
 #+type: text/vnd.tiddlywiki
 

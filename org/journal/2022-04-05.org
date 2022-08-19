@@ -6,6 +6,7 @@
 #+revision: 0
 #+filetags: Journal
 #+title: 2022-04-05
+#+date: 2022-04-05
 #+type: text/vnd.tiddlywiki
 
 - On the Security of [[#JWT][JWT]]
