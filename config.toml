@@ -111,11 +111,11 @@ books = "/book/:title"
   Name = "Journal"
   URL = "/tags/journal"
   Weight = 7
-# [[Menu.Main]]
-#   Name = "Bookmarks"
-#   Pre = "code"
-#   URL = "https://brainfck.org/bookmarks.html"
-#   Weight = 10
+[[Menu.Main]]
+  Name = "Topics"
+  Pre = "code"
+  URL = "/topics"
+  Weight = 10
 [[Menu.Main]]
   Name = "Books"
   Pre = "book"

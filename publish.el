@@ -16,7 +16,7 @@
   )
 
 
-(advice-add 'org-export-resolve-id-link :filter-return #'zeeros/fix-doc-path)
+;; (advice-add 'org-export-resolve-id-link :filter-return #'zeeros/fix-doc-path)
 
 (defun brainfck/publish (file)
   (with-current-buffer (find-file-noselect file)
