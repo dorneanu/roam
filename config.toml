@@ -52,6 +52,10 @@ copyright="2009-2022 Victor Dorneanu - All rights reserved"
 posts = "/posts/:title"
 notes = "/notes/:title"
 gists = "/gists/:title"
+topics = "/t/:title"
+journal = "/j/:title"
+books = "/book/:title"
+
 
 [Params]
   Introduce = "brainfck.org"
