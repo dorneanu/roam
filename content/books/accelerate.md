@@ -30,7 +30,7 @@ draft = false
 -   also check [my latest blog post for a full summary](https://blog.dornea.nu/2021/11/24/book-review-accelerate-the-science-of-lean-software-and-devops/)
 -   Mindmap
 
-{{< figure src="/ox-hugo/plantuml-sEj9J9.png" >}}
+{{< figure src="/ox-hugo/plantuml-z10acu.png" >}}
 
 
 ## Notes {#notes}

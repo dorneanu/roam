@@ -14,7 +14,7 @@ draft = false
 ## What is Security {#what-is-security}
 
 -   Is the intersection between tech and people
--   [Security]({{< relref "../../topics/security.md" >}}) is about risk
+-   [Security]({{< relref "../topics/security.md" >}}) is about risk
     -   Vulnerability = Likelihood + Impact
         -   Likelihood
             -   Factors which lead to the calculation
@@ -51,7 +51,7 @@ draft = false
 -   People
 
 
-#### [CIA]({{< relref "../../topics/cia.md" >}}) {#cia--dot-dot-dot-dot-topics-cia-dot-md}
+#### [CIA]({{< relref "../topics/cia.md" >}}) {#cia--dot-dot-topics-cia-dot-md}
 
 
 ### Other activities {#other-activities}
@@ -89,7 +89,7 @@ draft = false
     -   Ensure core functions/features work correctly from end-to-end
 
 
-### [Continuous Integration]({{< relref "../../topics/continuous_integration.md" >}}) {#continuous-integration--dot-dot-dot-dot-topics-continuous-integration-dot-md}
+### [Continuous Integration]({{< relref "../topics/continuous_integration.md" >}}) {#continuous-integration--dot-dot-topics-continuous-integration-dot-md}
 
 
 ### Infrastructure as a Code {#infrastructure-as-a-code}
@@ -107,18 +107,18 @@ draft = false
 
 ### Continuous Delivery VS Continuous Deployment {#continuous-delivery-vs-continuous-deployment}
 
--   [Continuous Delivery]({{< relref "../../topics/continuous_delivery.md" >}})
+-   [Continuous Delivery]({{< relref "../topics/continuous_delivery.md" >}})
     -   Changes are always ready to be deployed to production by automation, building, testing, packaging and deployment steps so that they are executed for every change
--   [Continuous Deployment]({{< relref "../../topics/continuous_deployment.md" >}})
+-   [Continuous Deployment]({{< relref "../topics/continuous_deployment.md" >}})
     -   Changes automatically run through the same build and test stages and are immediately sent to production if all steps pass
 
 
 ## Welcome to the Agile Revolution {#welcome-to-the-agile-revolution}
 
--   [The Agile Manifesto]({{< relref "../../topics/the_agile_manifesto.md" >}})
+-   [The Agile Manifesto]({{< relref "../topics/the_agile_manifesto.md" >}})
     -   The Agile principles
 -   Scrum
--   [Extreme Programming]({{< relref "../../topics/extreme_programming.md" >}})
+-   [Extreme Programming]({{< relref "../topics/extreme_programming.md" >}})
 -   Lean
     -   Came out of Kanban and Toyota Production system
     -   Methodology
@@ -160,7 +160,7 @@ draft = false
         -   Because the earlier a defect is detected, the cheaper it is to fix it
         -   However the solution is not the attempt to catch all defects earlier, but to focus on reducing the cost of fixing defects by making change safer and cheaper
 -   Agile approach
-    -   Security Testing in the [SDLC]({{< relref "../../topics/sdlc.md" >}})
+    -   Security Testing in the [SDLC]({{< relref "../topics/sdlc.md" >}})
         -   Security team needs to to own the tools
             -   Responsible for deciding which features the tool should have, that'll is easy to embed in the pipeline and covers the areas that the team is concerned about
         -   Development team owns the implementation of the tools in the pipeline
@@ -232,7 +232,7 @@ draft = false
         -   Development
             -   Application's logs
             -   Debug information
-    -   Mapped to [CIA]({{< relref "../../topics/cia.md" >}})
+    -   Mapped to [CIA]({{< relref "../topics/cia.md" >}})
         -   Packaging and deployment
         -   Monitoring
         -   Secret management
@@ -274,7 +274,7 @@ draft = false
 -   Secure Software Supply Chain
     -   Tools
         -   Sonatype free supply chain costs and risks calculator
--   [Test-Driven Security]({{< relref "../../topics/test_driven_security.md" >}})
+-   [Test-Driven Security]({{< relref "../topics/test_driven_security.md" >}})
     -   Write test (unit test acceptance test) that checks if a vulnerability has been closed
     -   The test will fail until the vulnerability gets fixed
     -   Tools
@@ -288,7 +288,7 @@ draft = false
 -   Threat
     -   What and who you have to protect your assets from
     -   What is could go wrong
-    -   What could harm your assets (with disrespectful to [CIA]({{< relref "../../topics/cia.md" >}}))
+    -   What could harm your assets (with disrespectful to [CIA]({{< relref "../topics/cia.md" >}}))
     -   Threats are specific
 -   Risk
     -   The exposure of assets to threats (probability and costs)
@@ -381,7 +381,7 @@ draft = false
         -   Because to much depends on trust boundaries or a few perimeters
         -   Instead systems should be built so that they not assume other points (outside their trust boundaries) are trustworthy
             -   Zero Trust Network
-                -   [BeyondCorp]({{< relref "../../topics/beyondcorp.md" >}})
+                -   [BeyondCorp]({{< relref "../topics/beyondcorp.md" >}})
                 -   Book: Zero Trust Networks - Building Trusted Systems in Untrusted Networks
         -   Everything on the network has to be protected against outside attackers or insiders
             -   Reassess and audit-identity at every point
@@ -416,7 +416,7 @@ draft = false
     -   Oracle's Java SE coding guidelines
     -   OWASP Sécure Coding Practices
     -   Mozilla's Web Application Secure Coding Guidelines
--   Alternative to [SCA]({{< relref "../../topics/sca.md" >}})
+-   Alternative to [SCA]({{< relref "../topics/sca.md" >}})
     -   IAST (Interactive or Instrumented Application Security Testing)
     -   RASP (Runtime Application Self-Protection)
 -   More about refactoring
@@ -435,7 +435,7 @@ draft = false
 -   Get off the happy path
     -   But attackers don't stay on the happy path l
     -   That's why a Hacker mindset is important
--   [BDD]({{< relref "../../topics/bdd.md" >}})
+-   [BDD]({{< relref "../topics/bdd.md" >}})
     -   Integration tests l
     -   Service level tests against the APIs
     -   Tools

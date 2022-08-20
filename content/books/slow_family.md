@@ -12,7 +12,7 @@ draft = false
     -   Natur
     -   Achtsamkeit
     -   Menschen
-        -   der [Mere-Exposure Effect]({{< relref "../../topics/mere_exposure_effect.md" >}}) ist auch bei Menschen zu beobachten
+        -   der [Mere-Exposure Effect]({{< relref "../topics/mere_exposure_effect.md" >}}) ist auch bei Menschen zu beobachten
     -   Resourcen
     -   Wissen
     -   Zauber

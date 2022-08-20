@@ -3,6 +3,7 @@
 :END:
 #+title: 2022-08-16
 #+date: 2022-08-16
+
 * [[https://aws.plainenglish.io/provisioning-aws-sso-permissions-with-cdk-5ab492ef73d2][Provision AWS SSO permission sets using CDK (typescript)]]
 #+begin_quote
 In CDK there are no Level 2 constructs, but we can use the L1 CloudFormation constructs for Permission Sets to:
