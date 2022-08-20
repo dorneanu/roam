@@ -12,11 +12,12 @@
   (replace-regexp-in-string (regexp-quote what) with in nil 'literal))
 
 (defun zeeros/fix-doc-path (path)
-  (replace-in-string "../../topics/" "" (replace-in-string "../../topics/" "" path))
+  ;; (replace-in-string "../../topics/" "" (replace-in-string "../../topics/" "" path)
+  (replace-in-string "../../topics/" "../topics/" path)
   )
 
 
-;; (advice-add 'org-export-resolve-id-link :filter-return #'zeeros/fix-doc-path)
+(advice-add 'org-export-resolve-id-link :filter-return #'zeeros/fix-doc-path)
 
 (defun brainfck/publish (file)
   (with-current-buffer (find-file-noselect file)
