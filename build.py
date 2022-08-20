@@ -39,5 +39,15 @@ build {output_file}: org2md {path}
 build {output_file}: org2md {path}
 """)
 
+    # Pages
+    files = glob.glob("org/*.org")
+    for f in files:
+        path = Path(f)
+        output_file = f"content/pages/{path.with_suffix('.md').name}"
+        ninja_file.write(f"""
+build {output_file}: org2md {path}
+""")
+
+
 import subprocess
 subprocess.call(["ninja"])
