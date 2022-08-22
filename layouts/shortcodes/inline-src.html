@@ -1,0 +1,6 @@
+{{- transform.Highlight .Inner (.Get 0) (.Get 1 | default "")
+    | replaceRE `^<div class="highlight"><pre [^>]+>((.|\n)+)</pre></div>$`
+                `<span class="inline-src chroma">${1}</span>`
+    | replaceRE `<span class="line">((.|\n)+)</span>[ \n]*</code>`
+                `${1}</code>`
+    | safeHTML -}}

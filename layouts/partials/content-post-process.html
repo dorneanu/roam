@@ -1,0 +1,6 @@
+{{ $content := .Content }}
+<!-- Replace "<p></div></p>" with "</div>" -->
+{{ $content = $content | replaceRE "<p>(</div>)</p>" "${1}" }}
+<!-- Inject non-breaking space before sidenote numbers so that they never show up on the next line by themselves. -->
+{{ $content = $content | replaceRE `[[:space:]]*(<span class="?sidenote-number)` "&nbsp;${1}" }}
+{{ $content | safeHTML }}

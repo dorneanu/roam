@@ -1,0 +1,15 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $title := .Get "title" -}}
+{{- $caption := .Get "caption" -}}
+{{- $descPosition := .Get "pos" -}}
+
+{{- $target := .Get "target" -}}
+{{ with $target }}
+{{ else }}
+    {{ $target = $src }}
+{{ end }}
+
+<a href="{{$src}}" class="glightbox" data-gallery="title:{{$title}}; description: {{$caption}}; descPosition: {{$descPosition}}">
+    <img src="{{$target}}" alt="image">
+</a>

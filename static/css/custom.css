@@ -1,0 +1,606 @@
+/* div.notices { */
+/*     margin: 2rem 0; */
+/*     position: relative; */
+/* } */
+/* div.notices p { */
+/*     padding: 15px; */
+/*     display: block; */
+/*     font-size: 1rem; */
+/*     margin-top: 0rem; */
+/*     margin-bottom: 0rem; */
+/*     color: #666; */
+/* } */
+/* div.notices p:first-child:before { */
+/*     position: absolute; */
+/*     top: 2px; */
+/*     color: #fff; */
+/*     font-family: "Font Awesome 5 Free"; */
+/*     font-weight: 900; */
+/*     content: "\f06a"; */
+/*     left: 10px; */
+/* } */
+/* div.notices p:first-child:after { */
+/*     position: absolute; */
+/*     top: 2px; */
+/*     color: #fff; */
+/*     left: 2rem; */
+/* } */
+/* div.notices.info p { */
+/*     border-top: 30px solid #F0B37E; */
+/*     background: #FFF2DB; */
+/* } */
+/* div.notices.info p:first-child:after { */
+/*     content: 'Info'; */
+/* } */
+/* div.notices.warning p { */
+/*     border-top: 30px solid rgba(217, 83, 79, 0.8); */
+/*     background: #FAE2E2; */
+/* } */
+/* div.notices.warning p:first-child:after { */
+/*     content: 'Warning'; */
+/* } */
+/* div.notices.note p { */
+/*     border-top: 30px solid #6AB0DE; */
+/*     background: #E7F2FA; */
+/* } */
+/* div.notices.note p:first-child:after { */
+/*     content: 'Note'; */
+/* } */
+/* div.notices.tip p { */
+/*     border-top: 30px solid rgba(92, 184, 92, 0.8); */
+/*     background: #E6F9E6; */
+/* } */
+/* div.notices.tip p:first-child:after { */
+/*     content: 'Tip'; */
+/* } */
+
+img {
+  box-shadow: none;
+}
+
+.img-container {
+  position: relative;
+}
+
+.img-container .glightbox img {
+  box-shadow: none;
+  opacity: 0.4;
+}
+
+.img-container .glightbox img:hover {
+  opacity: 0.5;
+}
+
+.img-container .glightbox .caption {
+  text-align: center;
+  font-size: 0.8em;
+  padding: 6px;
+}
+
+.glightbox i {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+.notice.info {
+  border-color: #6bf;
+  background-color: rgba(102, 187, 255, 0.1);
+}
+
+.notice.warning {
+  border-color: #fd6;
+  background-color: rgba(255, 221, 102, 0.1);
+}
+
+.notice.danger {
+  border-color: #f66;
+  background-color: rgba(255, 102, 102, 0.1);
+}
+
+/* Center captions */
+figcaption,
+.figure-caption,
+.src-block-caption,
+.table-caption {
+  text-align: center;
+  text-indent: 0;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.5em;
+  font-style: italic;
+}
+
+/**** SIDENOTES  *****/
+/* * Margin notes/sidenotes */
+.sidenote {
+  font-family: sans-serif;
+  font-size: 80%; /* slightly smaller font for sidenote content */
+  font-weight: normal;
+  color: var(--theme-hl1-color);
+  position: relative; /* forces note to be relative its the normal position */
+}
+/* Wide viewport */
+@media (min-width: 1400px) {
+  .sidenote {
+    float: left;
+    clear: left; /* prevent overlapping of sidenotes */
+    text-align: right;
+
+    /* https://kennethfriedman.org/thoughts/2019/marginal-notes/ */
+    /* display: inline; */ /* not sure if this is required */
+    top: -0.8rem; /* start the sidenote display a bit higher than its reference in body */
+    width: 20vw; /* limits the width of the marginal note */
+    margin-left: -23vw; /* sets the distance of sidenote's left margin from the HTML element on right */
+    margin-top: 1rem; /* keep some space between adjacent sidenotes if they get too close */
+  }
+}
+/* Narrow viewport */
+/* Interleave the "sidenotes" with the body text on narrow screen */
+@media (max-width: 1400px) {
+  .sidenote {
+    /* As the sidenotes are in the body in narrow viewport, they need to
+           be floated to the left. */
+    float: left;
+    text-align: left;
+
+    display: block;
+    width: 90%; /* Width is set to 100% so that the sidenote when inlined takes up the entire row. */
+    margin: 1rem 0;
+    padding-left: 5%; /* Indentation of the sidenotes inside the body. */
+  }
+}
+
+/* Sidenote counter */
+/* https://codepen.io/dredmorbius/details/OVmBaZ */
+body {
+  counter-reset: sidenote-counter;
+}
+.sidenote-number {
+  counter-increment: sidenote-counter;
+}
+/* Counter before the sidenote in the margin. */
+.sidenote::before {
+  content: counter(sidenote-counter) ".";
+  position: relative;
+  vertical-align: baseline;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+/* Counter in the main body. */
+.sidenote-number::after {
+  content: counter(sidenote-counter);
+  vertical-align: super;
+  font-family: sans-serif;
+  font-size: 0.7em;
+  font-weight: bold;
+  color: var(--theme-body-color);
+  display: inline;
+  margin-right: 0.2rem;
+}
+
+@media (min-width: 1400px) {
+  /* Highlight the sidenote when mouse hovers on the sidenote number in body. */
+  .sidenote-number:hover .sidenote {
+    background-color: #ffe496;
+  }
+}
+
+/* * Code Blocks: pre,.. */
+div.highlight {
+  /* font-family: var(--mono); */
+  overflow-x: auto;
+  max-width: 640px;
+}
+
+code {
+  /* Make the monospace code blend in better with the rest of the text */
+  padding: 0em 0.1em;
+}
+
+/* Remove background color if a 'code' text is in a highlighted footnote or a
+   table */
+.footnotes :target code,
+tr code {
+  background-color: inherit;
+}
+
+/* Differentiate a hyperlinked 'code' text from non-hyperlinked */
+a code {
+  background-color: inherit; /* No background color for hyperlinked <code> */
+}
+
+pre {
+  display: block;
+
+  line-height: 1.4;
+
+  /* Below padding-top value is adjusted to match the padding in
+       the "[data-lang]::before" rule.
+       -> 1 + 0.25 + 0.25 + 0.2(extra) */
+  padding-top: 1.7em;
+  padding-bottom: 1em;
+  padding-left: 0;
+  padding-right: 0;
+
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+
+  /* border-top: 1px solid var(--theme-color); */
+  /* border-bottom: 1px solid var(--theme-color-light); */
+
+  color: #433a33;
+  background: #fafafa;
+  /* https://www.w3schools.com/cssref/pr_text_white-space.asp */
+  /* Preserve whitespace. Wrap text only at line breaks. */
+  /* So do NOT auto-wrap the code lines. */
+  white-space: pre;
+  overflow-x: auto; /* Enable horizontal scroll bars (only for overflowing code) */
+}
+.highlight .chroma .lntable {
+  /* border-top: 1px solid var(--theme-color); */
+  /* border-bottom: 1px solid var(--theme-color-light); */
+}
+.highlight .chroma .lntable pre {
+  border-top: 0px;
+  border-bottom: 0px;
+}
+
+.chroma table {
+  border-collapse: unset;
+}
+
+pre code {
+  /* line numbers in code blocks */
+  padding: 0;
+}
+
+pre::-webkit-scrollbar {
+  -webkit-appearance: none;
+  background-color: transparent;
+  width: 8px;
+  height: 8px;
+}
+
+pre::-webkit-scrollbar-thumb {
+  border-radius: 0;
+  background-color: #d3d2d0;
+}
+
+/* Tue Oct 25 09:24:11 EDT 2016 - kmodi */
+/* FIXME Below needs to be baked in correctly */
+/* https://css-tricks.com/transitions-only-after-page-load/ */
+/* .preload * { */
+/*     -webkit-transition: none !important; */
+/*     -moz-transition: none !important; */
+/*     -o-transition: none !important; */
+/*     transition: none !important */
+/* } */
+
+/* ** Show code block language on top-right/Language Overlay */
+/* Thanks to Regis Philibert on the tip for how to make the lang identifier */
+/* stay stuck (and not scroll) on top-right. */
+/* https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/#comment-3711468901 */
+pre:not(.chroma), /* Apply to pre blocks where Chroma doesn't recognize the lang identifier */
+div.highlight {
+  /* .. For lang identifiers recognized by Chroma, apply to the wrapping <div class=highlight ..> block */
+  position: relative;
+  clear: both; /* Make a code block appear *below* its previous element if that element is set to float. */
+}
+
+/* The Hugo generate HTML will get the below language-* class annotation only
+   if "pygmentsUseClasses = true" is set in the site config.toml. In addition
+   the pygmentize generated CSS file also needs to be generated;
+   see static/css/pygmentize.css.
+*/
+[data-lang]::before {
+  color: white;
+  background: #8c6056;
+  /* When changing the below padding, adjust the padding-top in the "pre" rule */
+  padding: 0.25em 0.5em; /* top/bottom left/right */
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  /* content: attr(data-lang); */
+  /* Above is a short hand for the below explicit content specification,
+       though you lose the control on letter casing. */
+}
+
+/* https://gohugo.io/content-management/syntax-highlighting/#list-of-chroma-highlighting-languages */
+/* Below, the 'pre' qualifier is needed because we want the lang
+   identifier only for code blocks, not inline src blocks. */
+pre .language-C::before {
+  content: "C";
+}
+pre .language-D::before {
+  content: "D";
+}
+pre .language-J::before {
+  content: "J";
+}
+pre .language-R::before {
+  content: "R";
+}
+pre .language-abc::before {
+  content: "ABC";
+}
+pre .language-ada::before {
+  content: "Ada";
+}
+pre .language-ash::before {
+  content: "ash";
+}
+pre .language-asm::before {
+  content: "Assembler";
+}
+pre .language-asymptote::before {
+  content: "Asymptote";
+}
+pre .language-awk::before {
+  content: "Awk";
+}
+pre .language-bash::before {
+  content: "bash";
+}
+pre .language-calc::before {
+  content: "Emacs Calc";
+}
+pre .language-caml::before {
+  content: "Caml";
+}
+pre .language-clojure::before {
+  content: "Clojure";
+}
+pre .language-cfg::before {
+  content: "Conf";
+}
+pre .language-coq::before {
+  content: "Coq";
+}
+pre .language-cpp::before {
+  content: "C++";
+}
+pre .language-csh::before {
+  content: "csh";
+}
+pre .language-css::before {
+  content: "CSS";
+}
+pre .language-dash::before {
+  content: "dash";
+}
+pre .language-delphi::before {
+  content: "Delphi";
+}
+pre .language-ditaa::before {
+  content: "ditaa";
+}
+pre .language-docker::before {
+  content: "Docker";
+}
+pre .language-dot::before {
+  content: "Graphviz";
+}
+pre .language-ebnf2ps::before {
+  content: "ebfn2ps";
+}
+pre .language-el::before {
+  content: "Emacs Lisp";
+}
+pre .language-elisp::before {
+  content: "Emacs Lisp";
+}
+pre .language-emacs-lisp::before {
+  content: "Emacs Lisp";
+}
+pre .language-emacs::before {
+  content: "Emacs Lisp";
+}
+pre .language-forth::before {
+  content: "Forth";
+}
+pre .language-fortran::before {
+  content: "Fortran";
+}
+pre .language-gnuplot::before {
+  content: "gnuplot";
+}
+pre .language-go::before {
+  content: "Go";
+}
+pre .language-go-html-template::before {
+  content: "Go Template";
+}
+pre .language-go-text-template::before {
+  content: "Go Template";
+}
+pre .language-groovy::before {
+  content: "Groovy";
+}
+pre .language-haskell::before {
+  content: "Haskell";
+}
+pre .language-hledger::before {
+  content: "hledger";
+}
+pre .language-html::before {
+  content: "HTML";
+}
+pre .language-http::before {
+  content: "HTTP";
+}
+pre .language-idl::before {
+  content: "IDL";
+}
+pre .language-io::before {
+  content: "IO";
+}
+pre .language-java::before {
+  content: "Java";
+}
+pre .language-js::before {
+  content: "Javascript";
+}
+pre .language-json::before {
+  content: "JSON";
+}
+pre .language-ksh::before {
+  content: "ksh";
+}
+pre .language-latex::before {
+  content: "LaTeX";
+}
+pre .language-ledger::before {
+  content: "Ledger";
+}
+pre .language-lilypond::before {
+  content: "Lilypond";
+}
+pre .language-lisp::before {
+  content: "Lisp";
+}
+pre .language-lua::before {
+  content: "Lua";
+}
+pre .language-makefile::before {
+  content: "Makefile";
+}
+pre .language-markdown::before {
+  content: "Markdown";
+}
+pre .language-matlab::before {
+  content: "MATLAB";
+}
+pre .language-maxima::before {
+  content: "Maxima";
+}
+pre .language-md::before {
+  content: "Markdown";
+}
+pre .language-mercury::before {
+  content: "Mercury";
+}
+pre .language-metapost::before {
+  content: "MetaPost";
+}
+pre .language-mksh::before {
+  content: "mksh";
+}
+pre .language-modula-2::before {
+  content: "Modula-2";
+}
+pre .language-mscgen::before {
+  content: "Mscgen";
+}
+pre .language-nxml::before {
+  content: "XML";
+}
+pre .language-nim::before {
+  content: "Nim";
+}
+pre .language-ocaml::before {
+  content: "Objective Caml";
+}
+pre .language-octave::before {
+  content: "Octave";
+}
+pre .language-org::before {
+  content: "Org";
+}
+pre .language-oz::before {
+  content: "OZ";
+}
+pre .language-pascal::before {
+  content: "Pascal";
+}
+pre .language-perl::before {
+  content: "Perl";
+}
+pre .language-picolisp::before {
+  content: "Pico Lisp";
+}
+pre .language-plain-tex::before {
+  content: "Plain TeX";
+}
+pre .language-plantuml::before {
+  content: "PlantUML";
+}
+pre .language-posh::before {
+  content: "posh";
+}
+pre .language-processing::before {
+  content: "Processing.js";
+}
+pre .language-prolog::before {
+  content: "Prolog";
+}
+pre .language-ps::before {
+  content: "PostScript";
+}
+pre .language-python::before {
+  content: "Python";
+}
+pre .language-ruby::before {
+  content: "Ruby";
+}
+pre .language-sass::before {
+  content: "Sass";
+}
+pre .language-scala::before {
+  content: "Scala";
+}
+pre .language-scheme::before {
+  content: "Scheme";
+}
+pre .language-screen::before {
+  content: "Gnu Screen";
+}
+pre .language-sed::before {
+  content: "Sed";
+}
+pre .language-sh::before {
+  content: "bash";
+}
+pre .language-shell::before {
+  content: "Shell";
+}
+pre .language-simula::before {
+  content: "Simula";
+}
+pre .language-sql::before {
+  content: "SQL";
+}
+pre .language-sqlite::before {
+  content: "SQLite";
+}
+pre .language-sv::before {
+  content: "SystemVerilog";
+}
+pre .language-systemverilog::before {
+  content: "SystemVerilog";
+}
+pre .language-tcl::before {
+  content: "tcl";
+}
+pre .language-tcsh::before {
+  content: "tcsh";
+}
+pre .language-tex::before {
+  content: "TeX";
+}
+pre .language-toml::before {
+  content: "TOML";
+}
+pre .language-verilog::before {
+  content: "Verilog";
+}
+pre .language-vhdl::before {
+  content: "VHDL";
+}
+pre .language-xml::before {
+  content: "XML";
+}
+pre .language-yaml::before {
+  content: "YAML";
+}

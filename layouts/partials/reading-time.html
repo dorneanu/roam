@@ -1,0 +1,6 @@
+{{ if gt .ReadingTime 1 }}
+  {{ .Scratch.Set "timeUnit" "mins" }}
+{{ else }}
+  {{ .Scratch.Set "timeUnit" "min" }}
+{{ end }}
+{{.ReadingTime}} {{ .Scratch.Get "timeUnit" }}
