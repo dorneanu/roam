@@ -103,15 +103,6 @@ books = "/book/:title"
   Name = "blog.dornea.nu"
 
 [[Menu.Main]]
-  Name = "Tags"
-  Pre = "book"
-  URL = "/tags"
-  Weight = 6
-[[Menu.Main]]
-  Name = "Journal"
-  URL = "/tags/journal"
-  Weight = 7
-[[Menu.Main]]
   Name = "Topics"
   Pre = "code"
   URL = "/topics"
@@ -120,7 +111,16 @@ books = "/book/:title"
   Name = "Books"
   Pre = "book"
   URL = "/books"
-  Weight = 15
+  Weight = 20
+[[Menu.Main]]
+  Name = "Journal"
+  URL = "/tags/journal"
+  Weight = 30
+[[Menu.Main]]
+  Name = "Tags"
+  Pre = "book"
+  URL = "/tags"
+  Weight = 40
 # [[Menu.Main]]
 #   Name = "Notes"
 #   Pre = "sticky-note"
