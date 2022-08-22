@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       49894c35-be2f-4c56-8f3a-8ca1e6b12a96
+:END:
+#+title: Circuit Breaker
+* Articles
+- 2022-08-22 ◦ [[https://slack.engineering/circuit-breakers/][Slowing Down to Speed Up - Circuit Breakers for Slack's CI/CD - Slack Engineering]]

@@ -16,4 +16,4 @@
 - Scaling [[#AppSec][AppSec]] at Netflix
   - [[https://netflixtechblog.medium.com/scaling-appsec-at-netflix-6a13d7ab6043][Part 1]]
   - [[https://netflixtechblog.com/scaling-appsec-at-netflix-part-2-c9e0f1488bc5][Part 2]]
-- [[https://smallstep.com/blog/diy-single-sign-on-for-ssh/][DIY Single Sign-On for SSH]]
+- [[https://smallstep.com/blog/diy-single-sign-on-for-ssh/][DIY Single Sign-On for SSH]] ([[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]])

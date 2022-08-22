@@ -9,7 +9,7 @@
 #+date: 2022-06-10
 #+type: text/vnd.tiddlywiki
 
-- Vocea Natiei #147 ([[#Vocea%20Natiei][Vocea Natiei]])
+- Vocea Natiei #147 ([[id:9a7b9ce3-a734-4242-9b67-57c1925bc1f2][Vocea Natiei]])
   - Progresul în tehnică nu ne-a făcut și mai înțelepți
   - Trebuie sa lăsăm nu numai o lume mai bună dar ci și copii mai buni
   - Comparația lui Sie Ken Robinson cum sistemul școlar poate fi comparat cu o fermă de porci.
@@ -23,6 +23,6 @@
     - Calmitate
     - Simț civic
   - Teoria dansului pe margine stânci (economie)
-- On Authentication via SSH certicates
+- On Authentication via [[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]] certicates
   - [[https://cottonlinux.com/ssh-certificates/][How to configure SSH certificates and user principles]]
   - [[https://ruimarinho.gitbooks.io/yubikey-handbook/content/ssh/authenticating-ssh-via-user-certificates-server/][Authenticating SSH via user certificates (user) - Yubikey Handbook]]

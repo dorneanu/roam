@@ -5,3 +5,5 @@
 #+filetags: org
 * Functions
 - Create ID for current buffer: ~org-id-get-create~
+* Articles
+- 2022-08-22 ◦ [[https://systemcrafters.net/build-a-second-brain-in-emacs/5-org-roam-hacks/][5 Org Roam Hacks for Better Productivity in Emacs - System Crafters]]

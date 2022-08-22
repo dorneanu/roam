@@ -1,5 +1,6 @@
 +++
 title = "The 4Hour Work Week"
+date = 2018-07-01
 tags = ["book"]
 draft = false
 +++

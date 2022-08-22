@@ -14,7 +14,7 @@
 - [[https://www.chinahandys.net/hi-res-audio-android-aptx-lossless/][Wie das mit Loseless, DAC und Android passt]]
 - [[https://brutalist.report/][The Brutalist Report]]
   - The day's headlines delivered to you without bullshit
-- [[#Vocea%20Natiei][Vocea Natiei]] #137
+- [[id:9a7b9ce3-a734-4242-9b67-57c1925bc1f2][Vocea Natiei]] #137
   - carti
     - [[https://carturesti.ro/carte/secolul-singuratatii-1355204951][Secolul singuratatii]] :book:
       - mult inainte de termenul de distantare sociala, am fost mai degraba distantati

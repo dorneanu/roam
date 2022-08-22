@@ -8,7 +8,7 @@
 #+genres: Health
 #+goodreads: https://www.goodreads.com/book/show/50403522-the-wim-hof-method
 #+filetags: book
-#+type: text/vnd.tiddlywiki
+#+date: 2020-12-01
 
 * Description
 - breathing

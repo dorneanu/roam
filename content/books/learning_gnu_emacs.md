@@ -1,5 +1,6 @@
 +++
 title = "Learning GNU Emacs"
-tags = ["book"]
+date = 2021-11-01
+tags = ["book", "todo"]
 draft = false
 +++

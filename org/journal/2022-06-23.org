@@ -12,5 +12,5 @@
 - Kill multiple buffers in [[#Emacs][Emacs]]
   - ~kill-matching-buffers~ ([[https://stackoverflow.com/questions/23156426/in-emacs-how-can-i-kill-multiple-buffers-without-opening-each-individually]])
   - using ~ibuffer~ followed by ~% f~
-- [[https://tailscale.com/blog/tailscale-ssh/][Tailscale and SSH]]
+- [[https://tailscale.com/blog/tailscale-ssh/][Tailscale and SSH]] ([[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]])
 - Rename HTML tags in web-mode: ~, e r~ ([[#Emacs][Emacs]])

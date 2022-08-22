@@ -9,5 +9,5 @@
 #+date: 2022-06-20
 #+type: text/vnd.tiddlywiki
 
-- [[https://www.akamai.com/blog/security/new-p2p-botnet-panchan][P2P botnet in Golang using SSH for lateral movement]] ([[#Golang][Golang]], [[#P2P][P2P]], [[#Malware][Malware]])
+- [[https://www.akamai.com/blog/security/new-p2p-botnet-panchan][P2P botnet in Golang using SSH for lateral movement]] ([[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]], [[id:b2831721-165d-4943-a41a-da770d96be41][Golang]], [[id:3aa87ef7-ad3b-406b-88c1-e1216e73ac22][P2P]], Malware)
 - [[https://segment.com/blog/infrastructure-access/][Bye bye bastion hosts.. Hello AWS IAM]] ([[#AWS%2FIAM][AWS/IAM]])

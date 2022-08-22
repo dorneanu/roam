@@ -4,4 +4,5 @@
 #+title: CDK
 * Resources
 ** Articles
+- 2022-08-22 ◦ [[https://stackoverflow.com/questions/61955381/how-to-create-elastic-ip-association-with-an-ec2-instance-using-aws-cdk][amazon web services - How to create Elastic IP association with an EC2 instance using AWS CDK? - Stack Overflow]]
 - 2022-08-16 ◦ [[https://faun.pub/create-a-bastion-with-aws-cdk-d5ebfb91aef9][Create a bastion with AWS CDK]]

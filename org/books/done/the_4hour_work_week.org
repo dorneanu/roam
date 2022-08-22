@@ -3,7 +3,7 @@
 :END:
 #+title: The 4Hour Work Week
 #+filetags: book
-#+date: 2018-07
+#+date: 2018-07-01
 
 * The 4Hour Work Week
 :PROPERTIES:

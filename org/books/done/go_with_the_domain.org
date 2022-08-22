@@ -2,4 +2,5 @@
 :ID:       4b083c1c-0f15-428d-8dcd-71cdeaa5ee79
 :END:
 #+title: Go with the Domain
-#+filetags: book
+#+filetags: :book:todo:
+#+date: 2021-11-01

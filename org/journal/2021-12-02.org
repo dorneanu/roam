@@ -9,7 +9,7 @@
 #+date: 2021-12-02
 #+type: text/vnd.tiddlywiki
 
-- [[https://www.stareanatiei.ro/podcasts/][Vocea natiei #127]] ([[#Vocea%20Natiei][Vocea Natiei]])
+- [[https://www.stareanatiei.ro/podcasts/][Vocea natiei #127]] ([[id:9a7b9ce3-a734-4242-9b67-57c1925bc1f2][Vocea Natiei]])
   - Cercetasii vs soldati
   - [[https://www.publica.ro/julia-galef-mentalitatea-de-cercetas.html][Mentalitatea de cercetas]]
 - [[https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong][TED Talk: Why you think you're right - even if you're wrong]]

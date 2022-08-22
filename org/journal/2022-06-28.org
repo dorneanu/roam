@@ -9,7 +9,7 @@
 #+date: 2022-06-28
 #+type: text/vnd.tiddlywiki
 
-- [[#Vocea%20Natiei][Vocea Natiei]] #150
+- [[id:9a7b9ce3-a734-4242-9b67-57c1925bc1f2][Vocea Natiei]] #150
   - [[#So%20good%20they%20can't%20ignore%20you][So good they can't ignore you]]
 - [[https://grep.app][grep.app]]
   - Search across a half million git repos (in [[#GitHub][GitHub]])

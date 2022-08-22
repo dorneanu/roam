@@ -2,4 +2,10 @@
 :ID:       767c7a72-171e-4986-aa25-b0c3a704ac9c
 :END:
 #+title: Gespräche mit Gott, Band 3
-#+filetags: book
+#+filetags: :book:todo:
+#+date: 2021-01-01
+
+* Gespräche mit Gott Band 3
+:PROPERTIES:
+:FINISHED: 2021-01
+:END:

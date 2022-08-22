@@ -1,5 +1,8 @@
 +++
 title = "Black Hat Go"
-tags = ["book"]
+date = 2021-02-01
+tags = ["book", "todo"]
 draft = false
 +++
+
+## Black Hat Go {#black-hat-go}

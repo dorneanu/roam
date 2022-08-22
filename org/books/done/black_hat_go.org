@@ -3,3 +3,10 @@
 :END:
 #+filetags: :book:
 #+title: Black Hat Go
+#+filetags: :book:todo:
+#+date: 2021-02-01
+
+* Black Hat Go
+  :PROPERTIES:
+  :FINISHED: 2021-02
+  :END:

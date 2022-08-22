@@ -3,7 +3,8 @@
 :END:
 #+title: Start with Why - How Great Leaders Inspire Everyone To Take Action
 #+filetags: book
-#+date: 2017-03-ß1
+#+date: 2017-03-01
+
 * Start with Why - How Great Leaders Inspire Everyone To Take Action
   :PROPERTIES:
   :FINISHED: 2017-03

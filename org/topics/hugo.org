@@ -3,4 +3,16 @@
 :END:
 #+title: hugo
 #+filetags: hugo
-* TODO Favourite themes
+
+* Themes I like
+- 2022-08-22 ◦ [[https://github.dsrkafuu.net/hugo-theme-fuji/][Hugo Theme Fuji - A minimal Hugo theme.]]
+* Customizations
+** Posts
+- 2022-08-22 ◦ [[https://digitalnotions.net/divide-post-list-by-year-in-hugo/][Divide post list by year in Hugo · DigitalNotions]]
+** Backlinks
+- 2022-08-22 ◦ [[https://scripter.co/parsing-backlinks-in-hugo/][Parsing Backlinks in Hugo ❚ A Scripter's Notes]]
+* Integrations
+** getpocket
+- 2022-08-22 ◦ [[https://github.com/craftsmandigital/hugo-get-pocket][github.com/craftsmandigital/hugo-get-pocket]]
+
+  This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
