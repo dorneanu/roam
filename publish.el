@@ -14,6 +14,9 @@
 (defun zeeros/fix-doc-path (path)
   ;; (replace-in-string "../../topics/" "" (replace-in-string "../../topics/" "" path)
   (replace-in-string "../../topics/" "../topics/" path)
+  (replace-in-string "../books/done/" "../books/" path)
+  (replace-in-string "books/done/" "books/" path)
+
   )
 
 
