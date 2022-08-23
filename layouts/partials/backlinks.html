@@ -1,22 +1,26 @@
+{{ $re := printf `["/(](?i)%s["/)]` .page.File.ContentBaseName }}
 {{ $backlinks := slice }}
-{{ $path_base := .page.File.ContentBaseName }}
-{{ $path_base_re := printf `["/(]%s["/)]` $path_base }}
 
 {{ range where site.RegularPages "RelPermalink" "ne" .page.RelPermalink }}
-    {{ if (findRE $path_base_re .RawContent 1) }}
+    {{ if (findRE $re .RawContent 1) }}
         {{ $backlinks = $backlinks | append . }}
     {{ end }}
 {{ end }}
-{{ with $backlinks }}
-    <section class="backlinks">
-        {{ printf "%s" ($.heading | default "<h3>Backlinks</h3>") | safeHTML }}
-        <nav>
-            <ul>
-                {{ range . }}
-                    <li class="lh-copy"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-                    <p> {{ .Content }} </p>
-                {{ end }}
-            </ul>
-        </nav>
-    </section>
+
+<hr>
+{{ if gt (len $backlinks) 0 }}
+  <div class="bl-section">
+    <h4>Links to this note</h4>
+    <div class="backlinks">
+      <ul>
+       {{ range $backlinks }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+       {{ end }}
+     </ul>
+    </div>
+  </div>
+{{ else  }}
+  <div class="bl-section">
+    <h4>No notes link to this note</h4>
+  </div>
 {{ end }}

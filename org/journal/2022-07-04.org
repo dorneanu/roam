@@ -9,5 +9,5 @@
 #+date: 2022-07-04
 #+type: text/vnd.tiddlywiki
 
-- [[http://sawers.com/blog/aws-session-manager-a-better-way-to-ssh/][AWS Session Manager - A better way to SSH]]
+- [[http://sawers.com/blog/aws-session-manager-a-better-way-to-ssh/][AWS Session Manager - A better way to SSH]] ([[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]])
 - [[https://github.com/ali2210/faunadb_client_demo][faunadb client demo]] ([[#Golang][Golang]])

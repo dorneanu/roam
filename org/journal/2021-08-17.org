@@ -10,5 +10,5 @@
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.cyberciti.biz/faq/apple-osx-mountain-lion-mavericks-install-xquartz-server/][How to install X Window System XQuartz on macOS for ssh X11 forwarding]]
-  - run GUI apps on a remote server (ssh) on Mac OS
+  - run GUI apps on a remote server ([[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]]) on Mac OS
 - [[https://superuser.com/questions/645036/how-can-i-trigger-a-notification-from-a-remote-terminal-in-os-x][How to send notifications over SSH to Mac OS]] ([[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]])
