@@ -1,6 +1,6 @@
 +++
 title = "Accelerate"
-date = 2022-08-04
+date = 2021-10-01
 tags = ["book"]
 draft = false
 +++
@@ -30,7 +30,7 @@ draft = false
 -   also check [my latest blog post for a full summary](https://blog.dornea.nu/2021/11/24/book-review-accelerate-the-science-of-lean-software-and-devops/)
 -   Mindmap
 
-{{< figure src="/ox-hugo/plantuml-z10acu.png" >}}
+{{< figure src="/ox-hugo/plantuml-34NyQd.png" >}}
 
 
 ## Notes {#notes}
@@ -99,10 +99,10 @@ draft = false
 
 -   have security part of software building process
 -   high-performers were spending 50% less time remediating issues than low performers
--   DevOps should be extended to cover security concerns
+-   [DevOps]({{< relref "../../topics/devops.md" >}}) should be extended to cover security concerns
     -   DevSecOps
-    -   Rugged DevOps
-        -   Combination of DevOps and Rugged Manifesto
+    -   Rugged [DevOps]({{< relref "../../topics/devops.md" >}})
+        -   Combination of [DevOps]({{< relref "../../topics/devops.md" >}}) and Rugged Manifesto
 
 
 ### Lean product development practices {#lean-product-development-practices}

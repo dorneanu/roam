@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2fa3e022-b1cd-4ea5-a2ff-473e10489fc7
+:END:
+#+title: Autophagie
+#+created: 20200727110738466
+#+modified: 20211102092603524
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: Definition
+#+tmap.id: be48b743-8750-422d-ac46-f5be15e208f7
+#+type: text/vnd.tiddlywiki
+
+- von [[id:51db3d24-8278-485f-ae2b-9765c41ef25c][Der Ernährungskompass]]
+- Selbstverzehrung der Zellen
+- bezeichnet einen Prozess in den Zellen, bei dem eigene Bestandteile abgebaut oder verwertet werden
+- Videos
+  - Siehe auch [[https://www.youtube.com/watch?v=mGLtvt47C1A][NMN, NAD, Autophagy - Dr Elena Seranova]]

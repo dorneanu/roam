@@ -13,5 +13,5 @@
   - I always thought this is a great idea
 - [[https://medium.com/@ekasetyanugraha/how-i-lost-my-passion-as-a-software-developer-284cf1db1f5c][How I lost my passion as a Software developer]]
 - [[https://towardsdatascience.com/how-to-implement-domain-driven-design-ddd-in-golang-2e2139beb09d?gi=7cef91ea179e][How to Implement DDD in Golang]]
-  - [[#DDD][DDD]] in [[#Golang][Golang]]
+  - [[#DDD][DDD]] in ([[id:b2831721-165d-4943-a41a-da770d96be41][Golang]])
   - practical introduction

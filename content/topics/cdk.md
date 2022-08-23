@@ -3,6 +3,19 @@ title = "CDK"
 draft = false
 +++
 
+## Tips {#tips}
+
+-   Describe instances ([source](https://faun.pub/create-a-bastion-with-aws-cdk-d5ebfb91aef9))
+
+    ```sh
+      export BASTION_INSTANCE_ID=$(aws ec2 describe-instances \
+                              --region=$AWS_REGION \
+                              --filter "Name=tag:Name,Values=my-bastion" \
+                              --query "Reservations[].Instances[?State.Name == 'running'].InstanceId[]" \
+                              --output text)
+    ```
+
+
 ## Resources {#resources}
 
 

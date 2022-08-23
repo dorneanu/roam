@@ -10,6 +10,6 @@
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.nytimes.com/2022/06/01/well/eat/coffee-study-lower-dying-risk.amp.html][Some new research on coffee]] ([[#Kaffee][Kaffee]])
-- [[https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day][How we deploy 100 times a day]] ([[#DevOps][DevOps]])
+- [[https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day][How we deploy 100 times a day]] ([[id:8e892b1e-9536-422f-b5f9-23032a785f43][DevOps]])
 - [[https://blog.carlmjohnson.net/post/2020/how-to-host-golang-on-netlify-for-free/https://blog.carlmjohnson.net/post/2020/how-to-host-golang-on-netlify-for-free/][How to Use Netlify to Deploy a Free Go Web ApplicationHow to Use Netlify to Deploy a Free Go Web Application]]
   - [[https://github.com/carlmjohnson/netlify-go-function-demo]]

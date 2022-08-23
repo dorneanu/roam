@@ -249,7 +249,7 @@ draft = false
     -   Regulatory compliance
     -   Encryption
         -   At rest
-        -   In transport (SSL /TLS)
+        -   In transport (SSL /[TLS]({{< relref "../../topics/tls.md" >}}))
 
 
 ## Agile Vulnerability Management {#agile-vulnerability-management}
@@ -338,7 +338,7 @@ draft = false
 -   Threat actors
 -   Threat and attack targets
 -   Threat intelligence
-    -   To be incorporated into Agile and DevOps feedback loops
+    -   To be incorporated into Agile and [DevOps]({{< relref "../../topics/devops.md" >}})feedback loops
 -   Threat assessment
     -   Attack-driven defense
         -   Use information from attacks that are underway in production to drive security priorities
@@ -389,7 +389,7 @@ draft = false
                     -   Time-sensitiv Tokens
                     -   Use of authentication server
                     -   Use of Crypto safe keys
-            -   Use TLS for network communication
+            -   Use [TLS]({{< relref "../../topics/tls.md" >}}) for network communication
             -   Revalidate and check inputs from core services and other services
                 -   Validate all headers
                 -   And every field of every request

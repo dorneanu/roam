@@ -10,7 +10,7 @@
 #+type: text/vnd.tiddlywiki
 
 - [[https://blog.golang.org/why-generics][Why generics]]
-  - Good explanation how /generics/ should be implemented in [[#Golang][Golang]]
+  - Good explanation how /generics/ should be implemented in ([[id:b2831721-165d-4943-a41a-da770d96be41][Golang]])
 
     #+begin_quote
     generic programming enables the representation of functions and data structures in a generic form, with types factored out. in go interface types are a form of generic programming Go has two general purpose generic data structures built into the language: slices and maps
@@ -18,7 +18,7 @@
     #+end_quote
 
 - [[https://aws.amazon.com/de/blogs/opensource/the-versatility-of-grpc-an-open-source-high-performance-rpc-framework/][The versatility of gRPC, an open source high-performance RPC framework]]
-  - Combine [[#Python][Python]] and [[#Golang][Golang]] using gRPC
+  - Combine [[id:e4dd5a6c-5c20-48d4-9d9a-408893dc8ce6][Python]] and ([[id:b2831721-165d-4943-a41a-da770d96be41][Golang]]) using gRPC
   - Example [[https://github.com/aws-samples/grpc-examples][code]]
 - [[https://blog.coinbase.com/grpc-to-aws-lambda-is-it-possible-4b29a9171d7f][Make a gRPC client send to a Lambda]]
 - [[https://daveasprey.com/get-base-761/][Base's at-home bio-marker testing paired with an app for tracking offers science-based results and recommendations personalized just for you]] (interviews by [[#Dave%20Asprey][Dave Asprey]])

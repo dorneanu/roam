@@ -9,8 +9,8 @@
 #+date: 2022-06-23
 #+type: text/vnd.tiddlywiki
 
-- Kill multiple buffers in [[#Emacs][Emacs]]
+- Kill multiple buffers in [[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]]
   - ~kill-matching-buffers~ ([[https://stackoverflow.com/questions/23156426/in-emacs-how-can-i-kill-multiple-buffers-without-opening-each-individually]])
   - using ~ibuffer~ followed by ~% f~
 - [[https://tailscale.com/blog/tailscale-ssh/][Tailscale and SSH]] ([[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]])
-- Rename HTML tags in web-mode: ~, e r~ ([[#Emacs][Emacs]])
+- Rename HTML tags in web-mode: ~, e r~ ([[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]])

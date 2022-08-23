@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       df1667f3-74ec-4709-b81f-353232b7b235
+:END:
+#+created: 20210103180604919
+#+modified: 20210518184430248
+#+origin: [[<<. bibliography "Range">>]] 
+#+revision: 0
+#+tags: 
+#+title: Generation effect
+#+type: text/vnd.tiddlywiki
+
+- Learning is the sequence of generating answers on your own (even false ones)
+- This (intentionally) sacrifices performance (and speed) for future benefit
+- You're basically forced to generate answers (to a problem)
+- This also leads to a "hypercorrection effect"
+  - the more confident one is that the answer is wrong, the better the information sticks when they /subsequently/ learn the right answer
+- Children should therefor be motivated to do mistakes ([[#Das%20kompetente%20Kind][Das kompetente Kind]])

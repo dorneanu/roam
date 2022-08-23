@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       fbc2ed96-ca53-4255-8066-e04ecd84c293
+:END:
+#+created: 20210105190529536
+#+modified: 20210518184429922
+#+origin: [[<<. bibliography "Range">>]] 
+#+revision: 0
+#+tags: 
+#+title: Disease quiz
+#+type: text/vnd.tiddlywiki
+
+- Question
+
+  #+begin_quote
+  "If a test to detect a disease whose prevalence is 1 out of 1,000 has a false positive rate of 5 percent, what is the chance that a person found to have a positive result actually has the disease?
+
+  #+end_quote

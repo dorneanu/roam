@@ -10,21 +10,20 @@
 :FINISHED: 2020-07
 :END:
 * Description
-** in Afrika reden die Rangers und Safarileiter immer von den afrikanischen Big Five (5 Tierarten, die jeder sehen möchte)
-** Menschen messen den Erfolg der Safari je nachdem wieviele Tiere sie gesehen haben
-** im übertragenen Sinne: Jeder kann Erfolg selber definieren
-*** die Big Five sind die 5 Dinge, die vorm Tod gemacht oder erlebt werden sollen
-** Das Museum als Ort der Erinnerung an das Leben, das wir nicht erträumt haben, sondern tatsächlich gelebt haben
-*> Ist heute ein guter Museumstag?
-** Die meisten Entscheidungen im Leben basieren auf einfacher Mathematik:
-*> K + A < O (Engl.: C + E < O)
-*** K sind die Kosten
-*** A ist der Aufwand
-*** O ist der Output
-*** Linksseititis
-**** die meisten schauen nur auf die linke Seite
-**** das O wird vergessen
-
+- in Afrika reden die Rangers und Safarileiter immer von den afrikanischen Big Five (5 Tierarten, die jeder sehen möchte)
+- Menschen messen den Erfolg der Safari je nachdem wieviele Tiere sie gesehen haben
+- im übertragenen Sinne: Jeder kann Erfolg selber definieren
+  - die Big Five sind die 5 Dinge, die vorm Tod gemacht oder erlebt werden sollen
+- Das Museum als Ort der Erinnerung an das Leben, das wir nicht erträumt haben, sondern tatsächlich gelebt haben
+  *> Ist heute ein guter Museumstag?
+- Die meisten Entscheidungen im Leben basieren auf einfacher Mathematik:
+  *> K + A < O (Engl.: C + E < O)
+  - K sind die Kosten
+  - A ist der Aufwand
+  - O ist der Output
+  - Linksseititis
+    - die meisten schauen nur auf die linke Seite
+    - das O wird vergessen
 
 * Quotes
 ** The Big Five for Life - Note 1                                              :quote:done:

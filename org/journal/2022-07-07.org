@@ -10,7 +10,7 @@
 #+type: text/vnd.tiddlywiki
 
 - [[https://github.com/imankulov/linguee-api][linguee-api]]
-  - Proxy to convert HTML responses from linguee.com to JSON format in [[#Python][Python]]
+  - Proxy to convert HTML responses from linguee.com to JSON format in [[id:e4dd5a6c-5c20-48d4-9d9a-408893dc8ce6][Python]]
 - [[https://www.listennotes.com/podcasts/deep-questions/ep-169-how-do-i-manage-my-time-gTNFVbZvLQA/][Ep. 169: How Do I Manage My Time?]]
   - On time management
     - Capture

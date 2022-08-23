@@ -2,6 +2,15 @@
 :ID:       61b1e794-8d3a-45f1-b414-612b6ad4dad4
 :END:
 #+title: CDK
+* Tips
+- Describe instances ([[https://faun.pub/create-a-bastion-with-aws-cdk-d5ebfb91aef9][source]])
+  #+begin_src sh
+  export BASTION_INSTANCE_ID=$(aws ec2 describe-instances \
+                          --region=$AWS_REGION \
+                          --filter "Name=tag:Name,Values=my-bastion" \
+                          --query "Reservations[].Instances[?State.Name == 'running'].InstanceId[]" \
+                          --output text)
+  #+end_src
 * Resources
 ** Articles
 - 2022-08-22 ◦ [[https://stackoverflow.com/questions/61955381/how-to-create-elastic-ip-association-with-an-ec2-instance-using-aws-cdk][amazon web services - How to create Elastic IP association with an EC2 instance using AWS CDK? - Stack Overflow]]

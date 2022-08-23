@@ -1,0 +1,109 @@
+:PROPERTIES:
+:ID:       cf5f68a0-d550-414f-8a29-dcfc4a1d82f5
+:END:
+#+title: XSS
+#+created: 20191119111206698
+#+modified: 20220330100519508
+#+origin: https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html https://blog.larapulse.com/security/prevent-xss-csrf-attacks https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html https://portswigger.net/web-security/cross-site-scripting/reflected
+#+revision: 0
+#+tags: AppSec
+#+tmap.id: 8a599de4-3a97-4917-9057-3f0902524302
+#+type: text/vnd.tiddlywiki
+
+- Cross-Site-Scripting (XSS) :: In case of XSS, the attacker makes the victim's browser execute a script (mostly [[#JavaScript][JavaScript]]) that has been injected by the attacker while visiting a trusted web site. The attacker has several ways of injecting the [[#JavaScript][JavaScript]] into a web site that the victim trusts. Also check [[#CSRF][CSRF]]
+
+* Impact
+:PROPERTIES:
+:CUSTOM_ID: impact
+:END:
+- used to steal *hijack user session*
+- steal sensitive information
+  - cookies
+  - PII data
+- conduct *phishing* attacks
+- install a keylogger on the site affected by XSS
+
+* Advanced attacks
+:PROPERTIES:
+:CUSTOM_ID: advanced-attacks
+:END:
+- [[https://medium.com/redteam/stealing-jwts-in-localstorage-via-xss-6048d91378a0][Reading JWTs from localStorage]]
+  - don't store [[#JWT][JWT]] in the local storage
+
+* XFS
+:PROPERTIES:
+:CUSTOM_ID: xfs
+:END:
+- Cross Frame Scripting :: Cross-Frame Scripting (XFS) is an attack that combines malicious [[#JavaScript][JavaScript]] with an iframe that loads a legitimate page in an effort to steal data from an unsuspecting user
+
+** Mitigations
+:PROPERTIES:
+:CUSTOM_ID: mitigations
+:END:
+The =X-Frame-Options= HTTP response header can be used to indicate whether or not a browser should be allowed to render a page in a =<frame>=, =<iframe>=, =<embed>= or =<object>=.
+
+Examples:
+
+#+begin_example
+X-Frame-Options: deny
+X-Frame-Options: sameorigin
+X-Frame-Options: allow-from https://example.com/
+#+end_example
+
+* Mitigations
+:PROPERTIES:
+:CUSTOM_ID: mitigations-1
+:END:
+** Special characters
+:PROPERTIES:
+:CUSTOM_ID: special-characters
+:END:
+- validate input
+  - process of ensuring an application is rendering the correct data and preventing malicious data from doing harm to the site, database, and users
+- sanitize data
+- escape data
+
+** Cookies
+:PROPERTIES:
+:CUSTOM_ID: cookies
+:END:
+- =httpOnly=
+  - The purpose of the [[#HttpOnly][HttpOnly]] flag is to make the value of the cookie unavailable from [[#JavaScript][JavaScript]], so that it can not be stolen if there is a XSS vulnerability.
+
+** Security headers
+:PROPERTIES:
+:CUSTOM_ID: security-headers
+:END:
+*** =Content-Security-Policy=
+:PROPERTIES:
+:CUSTOM_ID: content-security-policy
+:END:
+The HTTP Content-Security-Policy response header allows web site administrators to control resources the user agent is allowed to load for a given page. With a few exceptions, policies mostly involve specifying server origins and script endpoints
+
+Example:
+
+#+begin_example
+Content-Security-Policy: default-src 'none'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self';
+#+end_example
+
+This policy allows images, scripts, AJAX, and CSS from the same origin, and does not allow any other resources to load (eg. object, frame, media, etc).
+
+*** =X-XSS-Protection=
+:PROPERTIES:
+:CUSTOM_ID: x-xss-protection
+:END:
+The X-XSS-Protection header is designed to enable the cross-site scripting (XSS) filter built into modern web browsers. This is usually enabled by default, but using it will enforce it.
+
+Example:
+
+#+begin_example
+X-XSS-Protection: 1; mode=block
+#+end_example
+
+=1; mode=block= value also enables the XSS Filter and rather than sanitize the page, when an XSS attack is detected, the browser will prevent rendering of the page
+
+* Payloads
+:PROPERTIES:
+:CUSTOM_ID: payloads
+:END:
+- [[https://github.com/payloadbox/xss-payload-list]]

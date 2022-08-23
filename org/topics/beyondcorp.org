@@ -26,7 +26,7 @@ location without the need for a traditional VPN. -- [[https://cloud.google.com/b
 
 - Google implemented a centralized policy enforcement front-end Access Proxy (AP) to handle coarse-grained company policies.
 - implemented for HTTP and [[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]]
-  - wrap [[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]] traffic in HTTP over TLS (by using ProxyCommand)
+  - wrap [[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]] traffic in HTTP over [[id:4a08aa51-44d3-46e1-a2c3-14f51a97220b][TLS]] (by using ProxyCommand)
   - they developed a local proxy, similar to Corkscrew
 - The main components of Google’s front-end infrastructure are a f leet of HTTP/HTTPS reverse proxies called Google Front Ends
 - authentication:

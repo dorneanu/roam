@@ -7,7 +7,7 @@
 
 - 2022-08-17 ◦ [[https://github.com/sevlyar/go-daemon][GitHub - sevlyar/go-daemon: A library for writing system daemons in golang.]]
 - 2022-08-17 ◦ [[https://dev.to/educative/im-new-to-system-design-where-do-i-start-1kie][I'm new to System Design, where do I start? - DEV Community]]
-- [[https://stackoverflow.com/questions/60041500/create-associate-ssh-keypair-to-an-ec2-instance-with-the-cdk][Add SSH key to Bastion host using CDK]]
+- [[https://stackoverflow.com/questions/60041500/create-associate-ssh-keypair-to-an-ec2-instance-with-the-cdk][Add SSH key to Bastion host using CDK]] ([[id:61b1e794-8d3a-45f1-b414-612b6ad4dad4][CDK]], [[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]])
   #+begin_src typescript
     const bastionSecurityGroup = new ec2.SecurityGroup(this, 'BastionSecurityGroup', {
         vpc,

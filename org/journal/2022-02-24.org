@@ -9,7 +9,7 @@
 #+date: 2022-02-24
 #+type: text/vnd.tiddlywiki
 
-- Currated list of [[#Emacs][Emacs]] resources
+- Currated list of [[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]] resources
   - [[https://emacs.zeef.com/ehartc]]
 - Die 3 besten Investment-Strategien
   - Alles in den US-Markt stecken

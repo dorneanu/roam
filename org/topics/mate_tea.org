@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       efcfcfe7-2303-4025-b41c-ff1f2c476171
+:END:
+#+title: Mate Tea
+#+created: 20201006073029959
+#+modified: 20210518184431031
+#+origin: https://www.maranamate.com/magazin/mate-tee-oder-kaffee-wachmacher-vergleich/ https://mate-tee.org/mate-tee-zubereitung/ https://utopia.de/ratgeber/mate-tee-zubereitung-und-wirkung-des-wachmachers-aus-suedamerika/
+#+revision: 0
+#+tmap.id: b122deb0-cd15-4b9f-bc33-3ed382e36f8b
+#+type: text/vnd.tiddlywiki
+
+* Q&A
+:PROPERTIES:
+:CUSTOM_ID: qa
+:END:
+- Wieviel [[id:994d97cb-9da7-4e02-b2f0-5939701b25bd][Kaffee]] wird getrunken?
+  - 165 Liter Kaffee trinkt der durchschnittliche Deutsche pro Jahr -- das ist mehr als ein halber Liter pro Tag > Besonders in Uruguay mit einem Verbrauch von knapp 9 kg und in Argentinien mit 6,5 kg pro Kopf ist Mate die No.1! In 98% aller argentinischen Haushalte wird Mate getrunken! > Kaffee liegt beim reinen Koffein-Gehalt vorne. Eine Tasse enthält etwa 120-150 mg Koffein
+- Wieviel Koffein hat Mate Tee?
+  - Mate Tee liegt bei 80 mg pro Tasse (das entspricht ca. 35mg pro 100ml), je nach Art und Weise der Zubereitung und der Ziehzeit. Wie das Koffein wirkt, ist allerdings sehr verschieden. Es ist in sogenannten Gerbstoffen gebunden, was die Wirkung von Mate Tee langsamer und sanfter einsetzen lässt. Die im Mate enthaltenen Wirkstoffe Theobromin und Theophyllin verstärken die Wirkung vom Koffein zusätzlich. Je nach Ziehzeit und Menge kannst du bei Mate Tee von einem Effekt ausgehen, der sich wie 100-200mg Koffein anfühlt. > Der größte Kritikpunkt an Mate Tee ist, dass die Produkte einiger Marken Stoffe enthält, die als krebserregend gelten. Tatsächlich sind in vielen Mate Sorten die Stoffe Anthrachinon und PAK zu finden, was die Zeitschrift Öko-Test auch in diesem Artikel festgestellt hat
+
+* Zubereitung
+:PROPERTIES:
+:CUSTOM_ID: zubereitung
+:END:
+** Traditionell
+:PROPERTIES:
+:CUSTOM_ID: traditionell
+:END:
+- Füllen Sie den Matebecher zu 3/4 mit Mate Tee.
+- Nun legen Sie Ihre Handfläche fest auf den Matebecher und schütteln diesen kräftig, damit sich der Staubgehalt reduziert.
+- Als nächstes halten Sie den Matebecher schräg und gießen an der tiefsten Stelle eine kleine Menge kaltes Wasser hinein
+- Warten Sie nun 2 Minuten und stellen Sie dann die Bombilla in den Becher
+- Anschließend füllen Sie den Becher mit ca. 80 Grad heißem Wasser auf.
+- Jetzt können Sie an dem Trinkhalm so lange ziehen, bis der Becher leer ist.
+
+Der Aufguss kann beliebig oft erfolgen.
+
+** In der Kanne
+:PROPERTIES:
+:CUSTOM_ID: in-der-kanne
+:END:
+- 5 TL Mate-Tee im Teesieb mit 1L kochendem Wasser aufgiessen
+  - für eine Tasse braucht man 1 gehäuften TL Tee
+- 3-5 Minuten ziehen lassen
+- bis zu 3 Mal neu aufgiessen
+
+* Shops
+:PROPERTIES:
+:CUSTOM_ID: shops
+:END:
+- [[https://metamate.cc/]]
+- [[https://www.mate-tee.de/]]
+- [[https://metamate.cc/metamatebar/]]
+
+* Weitere Links
+:PROPERTIES:
+:CUSTOM_ID: weitere-links
+:END:
+- [[https://www.maranamate.com/magazin/der-ultimative-einsteiger-guide-fuer-mate-tee/][Mate Tee: Der ultimative Einsteiger-Guide]]
+- [[https://www.taragui.com/aprender/como/cebar-buen-mate][Cómo cebar un buen mate? (Taragui)]]
+- [[https://www.maranamate.com/magazin/warum-ich-heute-mehr-mate-tee-als-kaffee-trinke/][Warum ich heute mehr Mate Tee als Kaffee trinke]]

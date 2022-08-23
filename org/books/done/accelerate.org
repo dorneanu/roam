@@ -7,11 +7,10 @@
 #+finished_year: 2021
 #+genres: IT DevOps Architecture
 #+goodreads: https://www.goodreads.com/en/book/show/35747076-accelerate
-#+date: 2022-08-04
+#+date: 2021-10-01
 #+revision: 0
-#+tags: Book 2021 TODO
+#+filetags: :book:
 #+title: Accelerate
-#+type: text/vnd.tiddlywiki
 
 * Accelerate
 :PROPERTIES:
@@ -145,10 +144,10 @@ component lean_prod_dev [ **Lean Product Development** --- Work in small batches
 :END:
 - have security part of software building process
 - high-performers were spending 50% less time remediating issues than low performers
-- DevOps should be extended to cover security concerns
+- [[id:8e892b1e-9536-422f-b5f9-23032a785f43][DevOps]] should be extended to cover security concerns
   - DevSecOps
-  - Rugged DevOps
-    - Combination of DevOps and Rugged Manifesto
+  - Rugged [[id:8e892b1e-9536-422f-b5f9-23032a785f43][DevOps]] 
+    - Combination of [[id:8e892b1e-9536-422f-b5f9-23032a785f43][DevOps]] and Rugged Manifesto
 
 ** Lean product development practices                               :note:
 :PROPERTIES:

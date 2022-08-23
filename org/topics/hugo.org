@@ -8,6 +8,7 @@
 - 2022-08-22 ◦ [[https://github.dsrkafuu.net/hugo-theme-fuji/][Hugo Theme Fuji - A minimal Hugo theme.]]
 * Customizations
 ** Posts
+- 2022-08-23 ◦ [[https://discourse.gohugo.io/t/lists-of-content-divided-by-posts-first-letter/8534/10][Lists of content divided by posts' first letter - #10 by khabaroff - support - HUGO]]
 - 2022-08-22 ◦ [[https://digitalnotions.net/divide-post-list-by-year-in-hugo/][Divide post list by year in Hugo · DigitalNotions]]
 ** Backlinks
 - 2022-08-22 ◦ [[https://scripter.co/parsing-backlinks-in-hugo/][Parsing Backlinks in Hugo ❚ A Scripter's Notes]]

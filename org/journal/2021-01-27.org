@@ -9,5 +9,5 @@
 #+date: 2021-01-27
 #+type: text/vnd.tiddlywiki
 
-- [[https://github.com/dreddsa5dies/goHackTools][Hacker tools]] in [[#Golang][Golang]]
+- [[https://github.com/dreddsa5dies/goHackTools][Hacker tools]] in ([[id:b2831721-165d-4943-a41a-da770d96be41][Golang]])
 - "[[https://github.com/berty/berty][Berty]] is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network"

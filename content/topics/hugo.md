@@ -14,6 +14,7 @@ draft = false
 
 ### Posts {#posts}
 
+-   2022-08-23 ◦ [Lists of content divided by posts' first letter - #10 by khabaroff - support - HUGO](https://discourse.gohugo.io/t/lists-of-content-divided-by-posts-first-letter/8534/10)
 -   2022-08-22 ◦ [Divide post list by year in Hugo · DigitalNotions](https://digitalnotions.net/divide-post-list-by-year-in-hugo/)
 
 

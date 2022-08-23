@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       aaa3a273-c782-432c-a830-7092ea905be2
+:END:
+#+created: 20210103180010738
+#+modified: 20210518184430205
+#+origin: [[<<. bibliography "Range">>]] 
+#+revision: 0
+#+tags: 
+#+title: Fermi problems
+#+type: text/vnd.tiddlywiki
+
+- [[https://en.wikipedia.org/wiki/Fermi_problem][Definition at Wikipedia]]
+- Examples
+  - [[https://www.teachertoolkit.co.uk/2017/04/28/fermi-questions/][Fermi questions]]

@@ -76,4 +76,4 @@
   - [[https://emacsbliss.com/2019-02-17-search-replace-with-emacs.html]]
 - rg is awesome!
   - [[https://github.com/BurntSushi/ripgrep]]
-  - And for [[#Emacs][Emacs]]: [[https://github.com/dajva/rg.el][rg.el]]
+  - And for [[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]]: [[https://github.com/dajva/rg.el][rg.el]]

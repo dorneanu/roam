@@ -205,7 +205,7 @@
   - Regulatory compliance
   - Encryption
     - At rest
-    - In transport (SSL /TLS)
+    - In transport (SSL /[[id:4a08aa51-44d3-46e1-a2c3-14f51a97220b][TLS]])
 * Agile Vulnerability Management
 - Tools
   - UpGuard
@@ -287,7 +287,7 @@
 - Threat actors
 - Threat and attack targets
 - Threat intelligence
-  - To be incorporated into Agile and DevOps feedback loops
+  - To be incorporated into Agile and [[id:8e892b1e-9536-422f-b5f9-23032a785f43][DevOps]]feedback loops
 - Threat assessment
   - Attack-driven defense
     - Use information from attacks that are underway in production to drive security priorities
@@ -335,7 +335,7 @@
           - Time-sensitiv Tokens
           - Use of authentication server
           - Use of Crypto safe keys
-      - Use TLS for network communication
+      - Use [[id:4a08aa51-44d3-46e1-a2c3-14f51a97220b][TLS]] for network communication
       - Revalidate and check inputs from core services and other services
         - Validate all headers
         - And every field of every request

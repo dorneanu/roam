@@ -9,6 +9,6 @@
 #+date: 2021-01-03
 #+type: text/vnd.tiddlywiki
 
-- [[https://changelog.com/gotime/129][Black Hat Go]] ([[#Golang][Golang]])
+- [[https://chagelog.com/gotime/129][Black Hat Go]] ([[id:b2831721-165d-4943-a41a-da770d96be41][Golang]])
   - Devs are potentially good Security engineers > [[#DoS][DoS]] is worse than RCE coz if your customers cannot use your application, then you'll loose money
   - [[https://golang.org/doc/articles/race_detector.html][Golang Data Race Detector]]

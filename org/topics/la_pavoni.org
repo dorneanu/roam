@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       eaddc422-30a4-4da5-a91b-4a667b934cdd
+:END:
+#+title: La Pavoni
+#+created: 20210130120131472
+#+modified: 20220326133914948
+#+revision: 0
+#+type: text/vnd.tiddlywiki
+
+- Tipps
+  - Milchaufschäumen
+    - [[https://www.kaffee-netz.de/threads/la-pavoni-und-der-milchschaum.66817/]]
+  - Sammlung von Praxistipps
+    - [[https://www.kaffee-netz.de/threads/praxistippsammlung-la-pavoni-handhebel.25411/]]
+- Espressmühlen
+  - [[https://www.kaffee-netz.de/threads/la-pavoni-europiccola-mahlgrad-immer-zu-grob-eureka.130364/][Mahlgrad noch zu grob mit der Eureka]]
+- Wartung
+  - [[https://www.kaffeemaschinendoctor.de/La-Pavoni-Ersatzteile:::134.html][La Pavoni Ersatzteile]]
+  - [[https://www.kaffeemaschinendoctor.de/download/dichtungswechsel_lapavoni.pdf][Anleitung Dichtungswechsel La Pavoni]]

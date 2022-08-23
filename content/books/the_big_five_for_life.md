@@ -10,47 +10,20 @@ draft = false
 
 ## Description {#description}
 
-
-### in Afrika reden die Rangers und Safarileiter immer von den afrikanischen Big Five (5 Tierarten, die jeder sehen möchte) {#in-afrika-reden-die-rangers-und-safarileiter-immer-von-den-afrikanischen-big-five--5-tierarten-die-jeder-sehen-möchte}
-
-
-### Menschen messen den Erfolg der Safari je nachdem wieviele Tiere sie gesehen haben {#menschen-messen-den-erfolg-der-safari-je-nachdem-wieviele-tiere-sie-gesehen-haben}
-
-
-### im übertragenen Sinne: Jeder kann Erfolg selber definieren {#im-übertragenen-sinne-jeder-kann-erfolg-selber-definieren}
-
-
-#### die Big Five sind die 5 Dinge, die vorm Tod gemacht oder erlebt werden sollen {#die-big-five-sind-die-5-dinge-die-vorm-tod-gemacht-oder-erlebt-werden-sollen}
-
-
-### Das Museum als Ort der Erinnerung an das Leben, das wir nicht erträumt haben, sondern tatsächlich gelebt haben {#das-museum-als-ort-der-erinnerung-an-das-leben-das-wir-nicht-erträumt-haben-sondern-tatsächlich-gelebt-haben}
-
-\*&gt; Ist heute ein guter Museumstag?
-
-
-### Die meisten Entscheidungen im Leben basieren auf einfacher Mathematik: {#die-meisten-entscheidungen-im-leben-basieren-auf-einfacher-mathematik}
-
-\*&gt; K + A &lt; O (Engl.: C + E &lt; O)
-
-
-#### K sind die Kosten {#k-sind-die-kosten}
-
-
-#### A ist der Aufwand {#a-ist-der-aufwand}
-
-
-#### O ist der Output {#o-ist-der-output}
-
-
-#### Linksseititis {#linksseititis}
-
-<!--list-separator-->
-
--  die meisten schauen nur auf die linke Seite
-
-<!--list-separator-->
-
--  das O wird vergessen
+-   in Afrika reden die Rangers und Safarileiter immer von den afrikanischen Big Five (5 Tierarten, die jeder sehen möchte)
+-   Menschen messen den Erfolg der Safari je nachdem wieviele Tiere sie gesehen haben
+-   im übertragenen Sinne: Jeder kann Erfolg selber definieren
+    -   die Big Five sind die 5 Dinge, die vorm Tod gemacht oder erlebt werden sollen
+-   Das Museum als Ort der Erinnerung an das Leben, das wir nicht erträumt haben, sondern tatsächlich gelebt haben
+    \*&gt; Ist heute ein guter Museumstag?
+-   Die meisten Entscheidungen im Leben basieren auf einfacher Mathematik:
+    \*&gt; K + A &lt; O (Engl.: C + E &lt; O)
+    -   K sind die Kosten
+    -   A ist der Aufwand
+    -   O ist der Output
+    -   Linksseititis
+        -   die meisten schauen nur auf die linke Seite
+        -   das O wird vergessen
 
 
 ## Quotes {#quotes}

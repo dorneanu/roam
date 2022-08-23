@@ -10,7 +10,7 @@
 #+type: text/vnd.tiddlywiki
 
 - [[https://github.com/nyyManni/ejira][ejira]]
-  - [[#Emacs][Emacs]] and Jira integration
+  - [[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]] and Jira integration
 - [[https://www.chinahandys.net/hi-res-audio-android-aptx-lossless/][Wie das mit Loseless, DAC und Android passt]]
 - [[https://brutalist.report/][The Brutalist Report]]
   - The day's headlines delivered to you without bullshit

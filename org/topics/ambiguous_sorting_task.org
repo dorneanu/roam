@@ -1,0 +1,19 @@
+#+created: 20210103182132512
+#+modified: 20210518184428138
+#+origin: [[<<. bibliography "Range">>]] 
+#+revision: 0
+#+tags: 
+#+title: Ambiguous Sorting Task
+#+type: text/vnd.tiddlywiki
+
+- You have 25 cards
+  - each one describes a real world phenomenon
+    - how the Internet works
+    - what are economic bubbles
+  - each card falls into 2 categories
+    - its domain (economy, IT etc.)
+    - its deep structure
+- The problem is that most people are not able to put the cards into the categories based on causality
+- Only if you have a /range/ (broad) of domain knowledge, you'll be able to find good /deep structures/
+- This ability [[#Analogical%20thinking][Analogical thinking]] helps with categorizing the type of problem being faced
+  - the best problem solvers begin with the typing of the problem

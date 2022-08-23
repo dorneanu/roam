@@ -1,0 +1,11 @@
+#+created: 20210103181538009
+#+modified: 20210518184430067
+#+origin: http://cognitivepsychology.wikidot.com/problem-solving:analogy [[<<. bibliography "Range">>]] 
+#+revision: 0
+#+tags: 
+#+title: Duncker's radiation problem
+#+type: text/vnd.tiddlywiki
+
+- This problems belongs to the [[#Analogical%20thinking][Analogical thinking]] where information in one domain is used to solve a problem in another one
+- The problem itself:
+  - In this problem, a doctor has a patient with a malignant tumour. The patient cannot be operated upon, but the doctor can use a particular type of ray to destroy the tumour. However, the ray will also destroy healthy tissue. At a lower intensity the rays would not damage the healthy tissue but would also not destroy the tumour. What can be done to destroy the tumour?

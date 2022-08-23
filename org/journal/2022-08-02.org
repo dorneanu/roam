@@ -11,7 +11,7 @@
 
 - [[https://github.com/SqrtMinusOne/pomm.el][Yet another implementation of pomodoro timer for Emacs]]
 
-  - Uses transcient menu in [[#Emacs][Emacs]]
+  - Uses transcient menu in [[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]]
 
 - [[https://www.calnewport.com/blog/2008/02/18/monday-master-class-rapid-note-taking-with-the-morse-code-method/][Rapid Note-Taking with the Morse Code Method]]
 
