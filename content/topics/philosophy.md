@@ -1,0 +1,4 @@
++++
+title = "Philosophy"
+draft = false
++++

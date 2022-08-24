@@ -1,0 +1,4 @@
++++
+title = "Kapitalismus"
+draft = false
++++
