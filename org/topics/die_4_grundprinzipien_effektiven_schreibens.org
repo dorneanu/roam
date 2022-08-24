@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       94c304d0-6abc-4c16-8599-4f476d5445c1
+:END:
+#+created: 20200912142535026
+#+lang: de
+#+modified: 20210518184429791
+#+revision: 0
+#+stream-type: singletiddler
+#+title: Die 4 Grundprinzipien effektiven Schreibens
+#+tmap.id: 690ebce9-7ce9-4182-8c94-01c802a40d8e
+#+type: text/vnd.tiddlywiki
+
+- *1) vom Schreiben her denken*
+  - Notizen sammeln stets mit dem Ziel etwas zu publizieren
+  - Auseinandersetzung mit fremden Ideen ist ertragreicher, wenn man diese in eigenen Worten aufschreibt
+- *2) Vereinfachen und Vereinheitlichen*
+  - Notizen werden an unterschiedlichen Stellen angefertigt
+  - Zitate werden unterstrichen oder nicht zentral gespeichert
+  - Art von Notizen
+    - *Flüchtige Notizen*
+      - Dienen als Gedächtnisstütze
+      - Werden normalerweise nicht aufbewahrt
+      - Können auf jede beliebige Art und Weise erstellt werden
+      - Dienen dazu den Lesefluss nicht zu unterbrechen
+    - *Dauerhafte Notizen*
+      - Verständlich ausformuliert und durchdacht verfasst
+      - Werden für immer aufbewahrt
+      - Werden auf die gleiche, standardisierte Art am selben Ort aufbewahrt
+      - Im Hinterkopf behalten, dass die Notizen einen für immer begleiten, mit einem lernen und wachsen
+      - Es ist also wichtig Notizen mit dem richtigen Kontext und dem ursprünglichen Gedanken anzufertigen
+    - *Projektbezogene Notizen*
+      - Dienen als Gedächtnisstütze für Projektfragen
+      - Werden für die Dauer des Projekts aufbewahrt
+      - Werden im jeweiligen Projektordner aufbewahrt
+- *3) Man ist immer mittendrin*
+  - Das Verfassen wissenschaftlicher Texte besteht meistens aus 5 Phasen
+    - Themenfindung
+    - Literaturrecherche
+    - Lesen
+    - Schreiben
+      - Kann nicht linear ablaufen
+- *4) Positive Dynamiken entfachen*
+  - Motivation vor dem Schreiben ist wichtig (und nicht nur nach getaner Arbeit)
+  - Es geht darum sich mit den eigenen Grenzen zu konfrontieren (Hemmschwelle fürs Schreiben überwinden)

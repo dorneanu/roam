@@ -1,5 +1,4 @@
 {{ define "main" }}
-{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 <main class="center mv4 content-width ph3">
     {{ range .Data.Pages }}
     {{if eq .Type "index" }}
@@ -21,5 +20,4 @@
     {{ end }}
 </main>
 {{ partial "tag_cloud.html" . }}
-<!-- {{ partial "pagination.html" . }} -->
 {{ end }}
