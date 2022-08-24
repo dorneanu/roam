@@ -30,7 +30,7 @@ draft = false
 -   also check [my latest blog post for a full summary](https://blog.dornea.nu/2021/11/24/book-review-accelerate-the-science-of-lean-software-and-devops/)
 -   Mindmap
 
-{{< figure src="/ox-hugo/plantuml-34NyQd.png" >}}
+{{< figure src="/ox-hugo/plantuml-kClKbO.png" >}}
 
 
 ## Notes {#notes}
@@ -41,7 +41,7 @@ draft = false
 -   High-performers focus on deployability and testability
 -   those who agreed with these statements were more likely to be in the high-performing group
     -   We can do most of our testing without requiring an integrated environment &gt; We can and do deploy or release our application independently of other applications/services it depends on
--   to achieve this systems have to be , use , have a
+-   to achieve this systems have to be , use [bounded contexts]({{< relref "../../topics/ddd.md#bounded-context" >}}), have a
     -   this enables scaling
 
 

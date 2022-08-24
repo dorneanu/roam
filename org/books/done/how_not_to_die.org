@@ -9,7 +9,7 @@
 #+goodreads: https://www.goodreads.com/book/show/25663961-how-not-to-die?ac=1&from_search=true&qid=faaI5ID82h&rank=1
 #+modified: 20210519131612637
 #+revision: 0
-#+filetags: book
+#+filetags: :book:todo:
 #+date:2020-05-01
 
 * Summary

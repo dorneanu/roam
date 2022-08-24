@@ -1,4 +1,20 @@
-:PROPERTIES:
-:ID:       a119386c-9c4c-4b6e-85ac-d5925abf808e
-:END:
+#+created: 20200727095851280
+#+lang: de
+#+modified: 20220523145337926
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
 #+title: mTOR
+#+tmap.id: ac4d6a0e-eb39-4fde-94ff-87d585d029f4
+#+type: text/vnd.tiddlywiki
+
+- *mechanistic target of rapamycin*
+- Ist ein Steuermolekül im Zellinneren und sorgt für Wachstum
+- Wird von Proteinen aktiviert
+- Sorgt aber auch für unkontrollierten Wachstum
+  - Hauptgrund für Krebs
+- Hauptaktivator: [[#Proteine][Proteine]]
+  - Desweiteren: Kohlenhydrate mit hohem Glykämischen Index
+  - [[#Fette][Fette]] lassen mTOR eher in Ruhe
+- *Forscher*
+  - Lewis Cantley

@@ -2,7 +2,7 @@
 :ID:       f07e6c89-5ec9-4e7a-aab4-87dfbaa0cc01
 :END:
 #+title: The Big Five for Life
-#+filetags: book
+#+filetags: :book:
 #+date: 2020-07-01
 
 * The Big Five for Life

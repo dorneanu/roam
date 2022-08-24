@@ -6,7 +6,7 @@
 #+modified: 20210929081021527
 #+modifier: 
 #+revision: 0
-#+filetags: Journal
+#+filetags: :Journal:
 #+title: 2021-09-29
 #+date: 2021-09-29
 #+type: text/vnd.tiddlywiki

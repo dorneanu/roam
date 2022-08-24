@@ -1,4 +1,11 @@
-:PROPERTIES:
-:ID:       073c93c5-bd4c-46da-af90-8eae1cec8275
-:END:
+#+created: 20220522064121807
+#+modified: 20220523071441774
+#+revision: 0
+#+tags: 
 #+title: Sympathetic Nervous System
+#+type: text/vnd.tiddlywiki
+
+- send stimulating signals to our organs, telling them to get ready for action
+- nerves of this system are spread out at the top of the lungs
+  - when we take short, hasty breaths, the molecules of air activate the sympathetic nerves
+- sympathetic stress takes just seconds to activate, turning it off and becoming again calm can take a hour or more

@@ -1,4 +1,12 @@
 :PROPERTIES:
 :ID:       ba41119d-e928-40e8-b5dd-b077e2b0ac7d
 :END:
-#+title: Diderots Effect
+#+created: 20201214175321864
+#+modified: 20210518184433569
+#+origin: [[<<. bibliography "Atomic Habits">>]]
+#+revision: 0
+#+tags:
+#+title: The Diderot Effect
+#+type: text/vnd.tiddlywiki
+
+- The Diderot Effect states that obtaining a new possession often creates a spiral of consumption that leads to additional purchases

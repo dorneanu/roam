@@ -23,7 +23,7 @@ draft = false
 -
 -   Videos
     -   [How to breathe during physical exercise](https://www.youtube.com/watch?v=0gtlAAQzENw&ab_channel=OxygenAdvantage)
-        -   [The Bohr Effect]({{< relref "../topics/the_bohr_effect.md" >}})
+        -   [The Bohr Effect]({{< relref "../../topics/the_bohr_effect.md" >}})
 
 
 ## Quotes {#quotes}

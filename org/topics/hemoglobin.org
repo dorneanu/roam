@@ -1,4 +1,8 @@
-:PROPERTIES:
-:ID:       4f337eb2-4eaf-41c6-a1ad-82dec1da6e9e
-:END:
+#+created: 20220521132229806
+#+modified: 20220521132229806
+#+revision: 0
+#+tags: Definition
 #+title: Hemoglobin
+#+type: text/vnd.tiddlywiki
+
+

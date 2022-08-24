@@ -2,7 +2,7 @@
 :ID:       25164e94-c574-43f2-9a89-461f27827df2
 :END:
 #+title: The 4Hour Work Week
-#+filetags: book
+#+filetags: :book:
 #+date: 2018-07-01
 
 * The 4Hour Work Week

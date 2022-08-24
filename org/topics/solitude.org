@@ -1,4 +1,15 @@
-:PROPERTIES:
-:ID:       6a11cfd7-b44a-4c45-94d7-e779865fb2ea
-:END:
+#+created: 20220419090027046
+#+modified: 20220502182641806
+#+origin: [[<<. bibliography "Digital Minimalism" >>]]
+#+revision: 0
+#+tags: Definition
 #+title: Solitude
+#+type: text/vnd.tiddlywiki
+
+- What's about?
+  - Is about what's happening in the brain, not the environment around you
+    - is a subjective state in which your mind is free from input from other minds ([[https://www.goodreads.com/book/show/31451193-lead-yourself-first][Lead yourself first: Inspiring Leadership Through Solitude]])
+- Books
+  - Michael Urban / Raymond (Definition of solitude)
+  - [[https://www.goodreads.com/book/show/43582733-stillness-is-the-key][Stillness is the key]]
+  - [[https://www.goodreads.com/book/show/31451193-lead-yourself-first][Lead yourself first]]

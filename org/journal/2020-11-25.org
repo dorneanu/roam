@@ -4,7 +4,7 @@
 #+created: 20201125093602127
 #+modified: 20210518184427783
 #+revision: 0
-#+filetags: Journal
+#+filetags: :Journal:
 #+title: 2020-11-25
 #+date: 2020-11-25
 #+tmap.id: b8db9b5c-61a8-4785-a6c8-0fb0532d170d

@@ -81,7 +81,7 @@ component lean_prod_dev [ **Lean Product Development** --- Work in small batches
 - High-performers focus on deployability and testability
 - those who agreed with these statements were more likely to be in the high-performing group
   - We can do most of our testing without requiring an integrated environment > We can and do deploy or release our application independently of other applications/services it depends on
-- to achieve this systems have to be [[#Component%20Cohesion][loosely coupled]], use [[#DDD][bounded contexts]], have a [[#SOA][SOA]]
+- to achieve this systems have to be [[#Component%20Cohesion][loosely coupled]], use [[id:143d2ed2-443e-467f-94c7-3ff5326b9979][bounded contexts]], have a [[#SOA][SOA]]
   - this enables scaling
 
 ** Capabilities vs Maturity                                         :note:

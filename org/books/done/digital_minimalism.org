@@ -6,9 +6,9 @@
 #+date: 2022-03-01
 
 * Digital Minimalism
-  :PROPERTIES:
-  :FINISHED: 2022-03
-  :END:
+:PROPERTIES:
+:FINISHED: 2022-03
+:END:
 * Description
 - Part 1
   - Chapter 1
@@ -34,8 +34,10 @@
     - on [[id:87286381-b18d-42f0-a524-68f2f84d18bf][High-Quality Leisure]] and [[id:847b7b23-3c9b-4d7f-8d07-13d600cdce0a][Leisure Plans]]
   - Chapter 7
     - on the [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]]
-* Notes
-** Philosophy
+* Philosophy
+:PROPERTIES:
+:ID:       96cdafb4-5e20-4243-99ab-d53084b93afd
+:END:
 #+begin_quote
 A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities to strongly support things you value and then happily miss out everything else
 

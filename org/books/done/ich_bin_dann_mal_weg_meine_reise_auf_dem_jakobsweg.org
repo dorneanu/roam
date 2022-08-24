@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4eb41e5b-7ef3-41e0-86ea-bd072eda69ac
 :END:
-#+filetags: book
+#+filetags: :book:
 #+date: 2011-10-01
 #+title: Ich bin dann mal weg - Meine Reise auf dem Jakobsweg
 

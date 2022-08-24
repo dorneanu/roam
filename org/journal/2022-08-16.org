@@ -3,7 +3,7 @@
 :END:
 #+title: 2022-08-16
 #+date: 2022-08-16
-#+filetags: journal
+#+filetags: :journal:
 
   - [[https://aws.plainenglish.io/provisioning-aws-sso-permissions-with-cdk-5ab492ef73d2][Provision AWS SSO permission sets using CDK (typescript)]] ([[id:61b1e794-8d3a-45f1-b414-612b6ad4dad4][CDK]])
    - 2022-08-23 ◦ [[https://github.com/markilott/aws-cdk-sso-permission-sets][GitHub - markilott/aws-cdk-sso-permission-sets: AWS SSO Permission Sets with CDK]]

@@ -2,7 +2,7 @@
 :ID:       10db442f-bb4a-4811-bf58-a1f0d7af0eb6
 :END:
 #+title: What Every Body Is Saying
-#+filetags: book
+#+filetags: :book:
 #+date: 2017-10-01
 
 * What Every Body Is Saying

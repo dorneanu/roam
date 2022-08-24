@@ -1,4 +1,14 @@
-:PROPERTIES:
-:ID:       7e028eb7-acd6-473d-9aad-8d74c63b7dac
-:END:
-#+title: The Premacks Principle
+#+created: 20201214180552715
+#+modified: 20210518184433594
+#+origin: [[<<. bibliography "Atomic Habits">>]]
+#+revision: 0
+#+tags: 
+#+title: The Premack's Principle
+#+type: text/vnd.tiddlywiki
+
+- the principle states that "more probable behaviors will reinforce less probable behaviors."
+
+  #+begin_quote
+  In other words, even if you don't really want to process overdue work emails, you'll become conditioned to do it if it means you get to do something you really want to do along the way
+
+  #+end_quote

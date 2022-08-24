@@ -1,4 +1,8 @@
-:PROPERTIES:
-:ID:       18f60fef-0abb-4f79-9a17-66182ac7b4bc
-:END:
+#+created: 20200908112114494
+#+modified: 20210518184432912
+#+revision: 0
 #+title: Serverless
+#+tmap.id: 68bcde7b-0863-4c96-bb99-8e212a09618f
+#+type: text/vnd.tiddlywiki
+
+

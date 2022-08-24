@@ -1,4 +1,23 @@
-:PROPERTIES:
-:ID:       6eb4fa8e-09e0-464c-b337-3d59adaaa441
-:END:
+#+created: 20201109080319316
+#+modified: 20210518184430717
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]] https://www.jedes-essen-zaehlt.de/
+#+revision: 0
 #+title: Kalzium
+#+tmap.id: 1dd8a4d9-bf46-408d-a47a-00ca725ac048
+#+type: text/vnd.tiddlywiki
+
+- um Kalzium aus der Nahrung aufnehmen zu können ist die Versorgung mit [[#Vitamin%20D][Vitamin D]] sehr notwendig
+- wenig Salzzufuhr verringert die Kalziumausscheidung über den Urin
+- Quellen
+  - Pflanzlich
+    - Dunkelgrünes Gemüse
+      - Pak Choi
+      - Grünkohl
+      - Rucola
+      - Brokkoli
+    - Nüsse
+      - besonders Mandeln
+      - Mandelmus
+      - Sesam (und Tahin)
+    - getrocknete Feigen
+    - Aprikosen

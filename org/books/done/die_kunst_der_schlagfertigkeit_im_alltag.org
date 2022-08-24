@@ -2,7 +2,7 @@
 :ID:       9b735d66-ae5c-48eb-b535-49cd38e53262
 :END:
 #+title: Die Kunst der Schlagfertigkeit im Alltag
-#+filetags: book
+#+filetags: :book:
 #+date: 2017-04-01
 
 * Die Kunst der Schlagfertigkeit im Alltag

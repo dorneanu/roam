@@ -1,4 +1,17 @@
-:PROPERTIES:
-:ID:       dea0d08e-45ba-47ae-9e20-d62450b269ad
-:END:
+#+created: 20200727100335271
+#+lang: de
+#+modified: 20210518184430631
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
 #+title: Insulin
+#+tmap.id: f329934e-a9a7-4b4c-bca1-e996404caef4
+#+type: text/vnd.tiddlywiki
+
+- Feuert über [[#mTOR][mTOR]] die Zellen zu Baumaßnahmen an - Aber auch Krebszellen reagieren darauf
+- Reguliert den Glukosespiegel im Blut
+  - Zu viel [[#Glukose][Glukose]] führt zu Verklebungen mit [[#Proteine][Eiweiß]]
+- Auch Fettspeicherungshormon
+  - Wenn Insulin--und Glukosespiegel hoch sind, dann ist die Energieversorgung gewährleistet
+    - Fet muss also nicht als Energiequelle benutzt werden
+    - Insulin blockiert dann die Fettverbrennung

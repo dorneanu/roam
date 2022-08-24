@@ -38,13 +38,13 @@ Introduced by David Parnas in /Information Distribution Aspects of Design Method
   #+begin_quote
   "A microservice should be as big as my head" - James Lewis
   #+end_quote
-    - keep it to the size at which it can be easily understood
+  - keep it to the size at which it can be easily understood
 - *Flexibility*
   #+begin_quote
   "Microservices buy you options" - James Lewis
   #+end_quote
-    - they have a cost and you must decide whether the cost is worth the options you want
-      to take up
+  - they have a cost and you must decide whether the cost is worth the options you want
+    to take up
 - *Alignment of architecture and organization*
   #+begin_quote
   "Organizations which design systems are constrained to produce designs which are copies

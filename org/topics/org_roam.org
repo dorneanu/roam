@@ -2,7 +2,7 @@
 :ID:       5329cb10-9f3e-4311-bc69-542775991244
 :END:
 #+title: org-roam
-#+filetags: org
+#+filetags: :org:
 * Functions
 - Create ID for current buffer: ~org-id-get-create~
 * Articles

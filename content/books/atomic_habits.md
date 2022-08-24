@@ -17,7 +17,7 @@ draft = false
 -   there are no good or bad habits
     -   there are only **effective** habits
     -   habits solve problems (even the bad ones)
-    -   "good habits" lead to good habits (similar to [Diderots Effect]({{< relref "../topics/diderots_effect.md" >}})))
+    -   "good habits" lead to good habits (similar to [Diderots Effect]({{< relref "../../topics/diderots_effect.md" >}})))
 -   challenges with changing habits
     -   you try to change the wrong thing
     -   you try to change your habits in the wrong way
@@ -44,7 +44,7 @@ draft = false
         -   Make it obvious
         -   The _inversion_: Make it invisible
             -   reduce exposure to the cue that causes the bad habit
-        -   also see [The Premacks Principle]({{< relref "../topics/the_premacks_principle.md" >}}) for temptation bundling
+        -   also see for temptation bundling
         -   [Implementation intention](https://jamesclear.com/implementation-intentions) still works quite well
         -   also make sure you [architecture your environment](https://jamesclear.com/choice-architecture) wisely in order to form new habits
     -   Craving

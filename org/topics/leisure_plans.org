@@ -1,5 +1,18 @@
-:PROPERTIES:
-:ID:       847b7b23-3c9b-4d7f-8d07-13d600cdce0a
-:END:
+#+created: 20220502121453812
+#+modified: 20220502182702890
+#+origin: [[<<. bibliography "Digital Minimalism" >>]]
+#+revision: 0
+#+tags: 
 #+title: Leisure Plans
-- Leisure Plans
+#+type: text/vnd.tiddlywiki
+
+- plan high-quality leisure
+  - then [[#Digital%20Minimalism%20-%20Note%2012][doing nothing is overrated]]
+- "*seasonal*" leisure plan
+  - contains
+    - objectives
+    - [[#Atomic%20Habits][habits]]
+    - example
+      - Objective: Learn on the guitar every song from the A-side of Meet the Beatles > Strategies > - Restring and retune my guitar, find the chord charts for the songs, print them, and put them in nice plastic protector sheets > - Return to my old habit of regularly practicing my guitar > - As incentive, schedule Beatles party in November. Perform songs
+- "*weekly*" leisure plan
+  - do [[#GTD%2FInput][weekly reviews]]

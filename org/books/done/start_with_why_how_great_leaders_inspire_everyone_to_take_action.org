@@ -2,7 +2,7 @@
 :ID:       31f900f1-2cd3-4a0f-ae64-59a53328928c
 :END:
 #+title: Start with Why - How Great Leaders Inspire Everyone To Take Action
-#+filetags: book
+#+filetags: :book:
 #+date: 2017-03-01
 
 * Start with Why - How Great Leaders Inspire Everyone To Take Action

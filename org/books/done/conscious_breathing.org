@@ -2,7 +2,7 @@
 :ID:       3749ac25-5a66-4d81-a4ad-456d146e273b
 :END:
 #+title: Conscious Breathing
-#+filetags: book
+#+filetags: :book:
 #+date: 2018-10-01
 
 * Conscious Breathing

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       6d1e80f3-580d-4c13-b8de-0a93b8125e59
+:END:
 #+created: 20210103182132512
 #+modified: 20210518184428138
 #+origin: [[<<. bibliography "Range">>]] 
@@ -15,5 +18,5 @@
     - its deep structure
 - The problem is that most people are not able to put the cards into the categories based on causality
 - Only if you have a /range/ (broad) of domain knowledge, you'll be able to find good /deep structures/
-- This ability [[#Analogical%20thinking][Analogical thinking]] helps with categorizing the type of problem being faced
+- This ability [[id:7edf3e3e-42c0-4ec6-b8dc-a3e71210d116][Analogical thinking]] helps with categorizing the type of problem being faced
   - the best problem solvers begin with the typing of the problem

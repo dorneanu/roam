@@ -4,7 +4,7 @@
 #+created: 20220525084117950
 #+modified: 20220525084419370
 #+revision: 0
-#+filetags: Journal
+#+filetags: :Journal:
 #+title: 2022-05-25
 #+date: 2022-05-25
 #+type: text/vnd.tiddlywiki

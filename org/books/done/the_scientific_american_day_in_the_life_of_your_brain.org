@@ -2,7 +2,7 @@
 :ID:       f79b86f3-4fb0-4368-b80b-d72fcb562beb
 :END:
 #+title: The Scientific American Day in the Life of Your Brain
-#+filetags: book
+#+filetags: :book:
 #+date: 2018-11-01
 
 * The Scientific American Day in the Life of Your Brain

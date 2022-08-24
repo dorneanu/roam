@@ -2,4 +2,7 @@
 :ID:       3614b072-a1e1-4da1-8d60-1a2880d52d66
 :END:
 #+title: org-mode
-tbd
+
+* Links
+** Articles
+- 2022-08-24 ◦ [[https://zzamboni.org/post/how-to-easily-create-and-use-human-readable-ids-in-org-mode-and-doom-emacs/][zzamboni.org | How to easily create and use human-readable IDs in Org mode and Doom Emacs]]

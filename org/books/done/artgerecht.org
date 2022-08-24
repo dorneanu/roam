@@ -15,7 +15,7 @@
 #+revision: 0
 #+slider: hide
 #+status: todo
-#+filetags: book
+#+filetags: :book:
 #+title: Artgerecht
 #+tmap.id: 5c8aac50-40ee-482d-83b6-444d8411759b
 #+type: text/vnd.tiddlywiki

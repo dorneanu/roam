@@ -1,4 +1,8 @@
-:PROPERTIES:
-:ID:       2ed249d7-cb50-423a-be6e-cde00f156138
-:END:
+#+created: 20201005072622592
+#+modified: 20210518184433015
+#+revision: 0
 #+title: SSH
+#+tmap.id: 12f154b5-3886-47aa-8e92-5b6fd5c46a88
+#+type: text/vnd.tiddlywiki
+
+

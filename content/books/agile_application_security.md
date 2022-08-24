@@ -160,7 +160,7 @@ draft = false
         -   Because the earlier a defect is detected, the cheaper it is to fix it
         -   However the solution is not the attempt to catch all defects earlier, but to focus on reducing the cost of fixing defects by making change safer and cheaper
 -   Agile approach
-    -   Security Testing in the [SDLC]({{< relref "../../topics/sdlc.md" >}})
+    -   Security Testing in the
         -   Security team needs to to own the tools
             -   Responsible for deciding which features the tool should have, that'll is easy to embed in the pipeline and covers the areas that the team is concerned about
         -   Development team owns the implementation of the tools in the pipeline

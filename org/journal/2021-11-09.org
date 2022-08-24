@@ -4,13 +4,13 @@
 #+created: 20211109065911071
 #+modified: 20211109131905739
 #+revision: 0
-#+filetags: Journal
+#+filetags: :Journal:
 #+title: 2021-11-09
 #+date: 2021-11-09
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.infoq.com/podcasts/monolith-microservices/][Sam Newman: Monolith to Microservices]]
-  - Talking about [[#Microservices][Microservices]] and what it takes to move there from an organizational perspective
+  - Talking about [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]] and what it takes to move there from an organizational perspective
 - [[https://www.infoq.com/podcasts/visualising-microservices/][Michelle Krejci on Moving to Microservices: Visualising Technical Debt, Kubernetes, and GraphQL]]
   - Quality is also the ability of someone to understand the code
 

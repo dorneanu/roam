@@ -2,7 +2,7 @@
 :ID:       2b147d1b-e3c4-4498-8925-f8f4be301d0b
 :END:
 #+title: The Oxygen Advantage
-#+filetags: book
+#+filetags: :book:
 #+date: 2022-05-01
 
 * The Oxygen Advantage

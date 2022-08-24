@@ -1,7 +1,7 @@
 +++
 title = "How not to die"
 date = 2020-05-01
-tags = ["book"]
+tags = ["book", "todo"]
 draft = false
 +++
 
