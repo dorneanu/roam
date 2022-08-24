@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ea3192d3-7186-4e4a-8c98-454d318d532b
+:END:
+#+created: 20200913070805480
+#+modified: 20210519130626203
+#+revision: 0
+#+filetags: :todo:
+#+title: Zettelkasten
+#+tmap.id: f1665aec-3091-4174-b84a-060f100df27c
+#+type: text/vnd.tiddlywiki
+
+tbd
+
+- siehe [[id:dfdf5744-7a98-44f8-9dc8-acb56e114527][Das Zettelkasten-Prinzip]]

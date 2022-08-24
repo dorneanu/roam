@@ -1,0 +1,12 @@
+#+created: 20200727105548431
+#+modified: 20210519131705425
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: Stub Definition
+#+title: Rapamycin
+#+tmap.id: b0770750-37a8-4348-be71-73b316ceb20d
+#+type: text/x-markdown
+
+- Bakterium, das den Alterungsprozess stoppt
+- Deaktiviert [[#mTOR][mTOR]] und führt zur Autophagie (Selbstverzehrung)
+  - Zelle fängt an, ihren Zellschrott (so genannte Organelle: verklumpte [[#Proteine][Eiweißmoleküle]]) zu verdauen

@@ -1,0 +1,12 @@
+#+created: 20210202183350825
+#+modified: 20210518184432762
+#+origin: [[<<. bibliography "Das Experiment sind wir">>]] 
+#+revision: 0
+#+tags: 
+#+title: Retrosynthese
+#+type: text/vnd.tiddlywiki
+
+- es geht darum neuartige Moleküle aus kommerziell oder anderweitig verfügbaren Bausteinen zusammenzusetzen
+- Erfinder: /Elias Corey/
+  - bekam 1990 den Nobelpreis für Chemie
+- man nutzt dieses Verfahren, um z.B. neue Medikamente zu entwickeln

@@ -1,0 +1,21 @@
+#+created: 20201111083642650
+#+lang: de
+#+modified: 20210518184429480
+#+origin: [[<<. bibliography "Dein kompetentes Kind">>]]
+#+revision: 0
+#+tags: 
+#+title: Das kompetente Kind
+#+tmap.id: 2c94701f-d4bf-4ae4-b2a2-d3263b584a72
+#+type: text/vnd.tiddlywiki
+
+- Kind besitzen [[#Angeborene%20Kompetenzen%20von%20Kindern][Kompetenzen]] von Geburt an
+- die /traditionelle/ Kindererziehung hat ausgedient
+  - in der /klassischen/ Familie geht es um den Machterhalt
+    - zwischen Eltern
+    - aber auch zwischen Eltern und Kindern
+  - Der [[#Status%20von%20Kindern%20in%20der%20Familie][Status von Kindern in der Familie]] wird grundlegend neu definiert
+- vorgeschlagen wird die [[#Gleichw%C3%BCrdige%20Familie][Gleichwürdige Familie]]
+  - auch in der Familie sollten Kinder [[#Pflichten%20von%20Kindern][Pflichten]] übernehmen
+  - Eltern sollen auf gar keinen Fall als [[#Eltern%20als%20Servicestation][Servicestation]] dienen
+- zu den Kompetenzen von Kindern gehört auch die [[#Kooperation%20nach%20Juul][Kooperationsbereitschaft]]
+- Erziehung bedeutet auch [[#Grenzen%20nach%20Juul][klaren Grenzen]] zu haben

@@ -1,0 +1,94 @@
+#+created: 20151006113348077
+#+creator: boru
+#+modified: 20210518193939484
+#+modifier: boru
+#+revision: 0
+#+tags: [[Layer 1]] Definition
+#+title: WAN
+#+tmap.id: e273f8bf-085a-4266-a443-4c55734958ae
+#+type: text/vnd.tiddlywiki
+
+From a basic point of view, a leased line WAN works a lot like an Ethernet crossover cable connecting two routers, but with few distance limitations. Each router can send at any time (full-duplex) over the leased line, for tens, hundreds, or even thousands of miles.
+
+- leased line :: Nowadays the term /service provider/ is rather used
+
+** Naming
+:PROPERTIES:
+:CUSTOM_ID: naming
+:END:
+** Examples
+:PROPERTIES:
+:CUSTOM_ID: examples
+:END:
+*** Leased Line Service
+:PROPERTIES:
+:CUSTOM_ID: leased-line-service
+:END:
+Used 2 pairs of wires (full-duplex)
+
+- sending
+- receiving
+
+** Components
+:PROPERTIES:
+:CUSTOM_ID: components
+:END:
+- CSU/DSU :: Channel Service Unit / Data Service Unit
+  Can be integrated into the router (serial interface)
+  Or external
+- CPE :: Customer Premises Equipment
+
+Connected using [[#Serial%20Connections][Serial Connections]].
+
+** Data Link Details
+:PROPERTIES:
+:CUSTOM_ID: data-link-details
+:END:
+A leased line provides a [[#Layer%201][Layer 1]] service. The most popular data link protocols for leased lines between 2 routers are:
+
+- [[#HDLC][HDLC]]
+- Point-to-Point Protocol (PPP)
+
+*** HDLC Encapsulation
+:PROPERTIES:
+:CUSTOM_ID: hdlc-encapsulation
+:END:
+** Service Provider
+:PROPERTIES:
+:CUSTOM_ID: service-provider
+:END:
+Inside the SP's network , the SP uses any technology that it wants to create the specific Ethernet WAN service.
+
+** Ethernet WAN Service
+:PROPERTIES:
+:CUSTOM_ID: ethernet-wan-service
+:END:
+Goes by 2 names
+
+- Ethernet emulation
+- Ethernet over MPLS
+
+- Ethernet emulation service :: service acts like one Ethernet link
+- MPLS :: Multi Protocol Label Switching
+  [[#PoP][PoP]]
+  Point of Presence
+
+*[[#EoMPLS][EoMPLS]]* provides:
+
+- a point-to-point connection between 2 customer devices
+- behaviour as if a fiber Ethernet link existed between the 2 devices
+
+2 routers =R1= and =R2= connect with an [[#EoMPLS][EoMPLS]] service instead of a serial link. The routers use Ethernet interfaces, and they can send data in both directions at the same time. Physically, each router connects to some SP *[[#PoP][PoP]]* but logically the 2 routers cand send Ethernet frames to each other over the link.
+
+*** Packet routing
+:PROPERTIES:
+:CUSTOM_ID: packet-routing
+:END:
+*Atention*: Although each router is using 802.3 encapsulation, each router discards the old data link header/trailer and add its own ones
+
+** Internet Access Links
+:PROPERTIES:
+:CUSTOM_ID: internet-access-links
+:END:
+- [[#DSL][DSL]]
+- [[#Cable%20Internet][Cable Internet]]

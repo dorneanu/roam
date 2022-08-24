@@ -1,0 +1,14 @@
+#+created: 20200913203146676
+#+lang: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+modified: 20210518184430318
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Glykämischer Index
+#+tmap.id: 8af46435-3cbf-471a-a505-19de4fa6add1
+#+type: text/vnd.tiddlywiki
+
+- Gibt an wie schnell [[#Kohlenhydrate][Kohlenhydrate]] vom Körper verdaut werden
+- Je niedriger, desto besser
+  - [[#Glukose][Glukose]] hat Wert 100
+  - Kartoffeln haben Wert 85

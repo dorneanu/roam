@@ -1,0 +1,9 @@
+#+created: 20201109084633217
+#+lang: de
+#+modified: 20210518184430735
+#+revision: 0
+#+title: Ketone
+#+tmap.id: b59bd7cb-d73c-4b14-a56c-e1b7cb6f3259
+#+type: text/vnd.tiddlywiki
+
+- versorgen das Gehrin mit Energie

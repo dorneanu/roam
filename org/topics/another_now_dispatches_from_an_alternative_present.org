@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a80b8ad5-2e29-4b11-a5b2-cfcbbdcf8a42
+:END:
+#+created: 20220614132137507
+#+goodreads: https://www.goodreads.com/book/show/49098225-another-now
+#+modified: 20220614112203526
+#+revision: 0
+#+tags: 2022 Book 2read
+#+title: Another Now: Dispatches from an Alternative Present
+#+type: text/vnd.tiddlywiki
+
+from [[id:9a7b9ce3-a734-4242-9b67-57c1925bc1f2][Vocea Natiei]]

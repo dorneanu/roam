@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       608971c1-5499-440b-b911-9c6cddd31665
+:END:
+#+title: grep
+- Find file that don't contain a certain string ([[https://stackoverflow.com/questions/1748129/how-do-i-find-files-that-do-not-contain-a-given-string-pattern][source]])
+  #+begin_src sh
+  $ grep -L "foo" *
+  #+end_src

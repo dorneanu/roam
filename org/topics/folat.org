@@ -1,0 +1,33 @@
+#+created: 20210829110544996
+#+modified: 20210829110512191
+#+origin: https://www.jedes-essen-zaehlt.de/
+#+revision: 0
+#+tags: 
+#+title: Folat
+#+type: text/vnd.tiddlywiki
+
+- auch Folsäure genannt
+- zählt zu der Gruppe der [[#Vitamin%20B][B-Vitamine]]
+- an der [[#DNA][DNA]]-Synthese beteiligt
+- Quellen
+  - Pflanzlich
+    - Erdnüsse
+    - Grünes Gemüse
+      - Grünkohl
+      - Rosenkohl
+      - Feldsalat
+      - Endivien
+      - Erbsen
+      - grüne Bohnen
+    - Spinat
+    - Hefe
+    - Vollkorngetreide
+    - Nüsse
+      - Walnüsse
+      - Haselnüsse
+      - Mandeln
+    - Erdbeeren
+    - Sauerkirschen
+    - Weintrauben
+    - Avocados
+    - Orangen

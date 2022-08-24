@@ -1,0 +1,9 @@
+#+created: 20220614132035677
+#+goodreads: https://www.goodreads.com/book/show/36490332-talking-to-my-daughter-about-the-economy
+#+modified: 20220614112224716
+#+revision: 0
+#+tags: 2022 Book 2read
+#+title: Talking to My Daughter About the Economy: How Capitalism Works—and How It Fails
+#+type: text/vnd.tiddlywiki
+
+from [[#Vocea%20Natiei][Vocea Natiei]]

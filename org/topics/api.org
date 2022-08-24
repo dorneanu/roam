@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       54bec2ff-12ea-444a-9c79-e33dbdb75d48
+:END:
+#+created: 20210421190700201
+#+modified: 20210518184428214
+#+revision: 0
+#+tags: 
+#+title: API
+#+type: text/vnd.tiddlywiki
+
+- REST
+  - [[id:9ebb968f-d7e4-4874-bda6-c9e82fa1f1a6][Richardson Maturity Level]]

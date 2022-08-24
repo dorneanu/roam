@@ -1,0 +1,13 @@
+#+created: 20220714124011116
+#+modified: 20220714124011116
+#+revision: 0
+#+tags: 2022 Book 2read
+#+title: The Power of Full Engagement
+#+type: text/vnd.tiddlywiki
+
+#+begin_quote
+We should treat our work the way athletes treat their training:
+
+#+end_quote
+
+cycles of focused engagement, followed by rest and recovery. Energy, not time, is our most limiting resource and needs to be optimized if we can be both productive and fulfilled

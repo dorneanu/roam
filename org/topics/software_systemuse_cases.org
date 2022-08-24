@@ -1,0 +1,9 @@
+#+created: 20210826085713987
+#+modified: 20210826090110251
+#+origin: [[<<. bibliography "The Clean Architecture">>]]
+#+revision: 0
+#+tags: Definition
+#+title: Software System/Use Cases
+#+type: text/vnd.tiddlywiki
+
+- The software in the use cases layer contains application-specific business rules. It encapsulates and implements all of the use cases of the system. These use cases orchestrate the flow of data to and from the [[#Software%20System%2FEntities][entities]], and direct those entities to use their Critical Business Rules to achieve the goals of the use case.

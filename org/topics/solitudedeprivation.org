@@ -1,0 +1,30 @@
+#+created: 20220424185917070
+#+modified: 20220502182621304
+#+origin: [[<<. bibliography "Digital Minimalism" >>]]
+#+revision: 0
+#+tags: 
+#+title: Solitude/Deprivation
+#+type: text/vnd.tiddlywiki
+
+- A state in which you spend close to zero time alone with your own thoughts and free from input from other minds.
+
+- people banish [[#Solitude][Solitude]] from their daily experience by being exposed to others thoughts through
+
+  - social media
+  - music
+  - audiobooks
+  - pocasts
+
+- when you avoid [[#Solitude][Solitude]], you miss out on the positive things it brings you
+
+  - clarify hard problems
+  - emotion regulation
+  - strenghten relationships
+  - build moral courage
+
+- Countermeasures
+
+  - put away your smartphone
+  - take long walks
+  - write letters to yourself
+    - journals / diaries

@@ -1,0 +1,8 @@
+#+created: 20201116182729598
+#+modified: 20210518184430414
+#+revision: 0
+#+title: Glykogen
+#+tmap.id: e1b31b63-a788-4711-bde2-1243729fd6be
+#+type: text/vnd.tiddlywiki
+
+

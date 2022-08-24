@@ -1,0 +1,21 @@
+#+created: 20220203121813256
+#+modified: 20220404184135040
+#+origin: [[<<. bibliography "Thinking, Fast and Slow">>]] 
+#+revision: 0
+#+tags: Definition
+#+title: WYSIATI
+#+type: text/vnd.tiddlywiki
+
+- *What You See Is All There Is*
+- is a phenomenon that causes us to focus on existing evidence and ignore absent evidence
+  - [[#Thinking%2C%20Fast%20and%20Slow%20%2F%20System%201][Thinking, Fast and Slow / System 1]] will create a coherent story based on limited evidence
+  - these impressions/intuitions can be endorsed by [[#Thinking%2C%20Fast%20and%20Slow%20%2F%20System%202][Thinking, Fast and Slow / System 2]]
+    - they will become values and beliefs
+  - that's why people jump to conclusions, assume bad intentions, are "victims" of biases and buy into conspirational theories
+- Problems
+  - [[#Factfulness%2FGeneralization%20instinct][Factfulness/Generalization instinct]]
+    - people don't really understand statistics
+    - they take small numbers and conclude that's representative for the whole population
+    - if one personally observes "one" incident, he/she is more likely to think the same incident might apply to the whole population
+      - Racism
+      - Terrorism especially in combination with [[#Start%20with%20Why%20-%20How%20Great%20Leaders%20Inspire%20Everyone%20To%20Take%20Action%20-%20Note%204][fear]]

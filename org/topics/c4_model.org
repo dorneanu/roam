@@ -1,0 +1,8 @@
+#+created: 20211118071201837
+#+modified: 20211118071212081
+#+revision: 0
+#+tags: 
+#+title: C4 Model
+#+type: text/vnd.tiddlywiki
+
+

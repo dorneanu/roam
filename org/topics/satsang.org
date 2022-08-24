@@ -1,0 +1,10 @@
+#+created: 20201018191032162
+#+modified: 20210518184432819
+#+origin: [[<<. bibliography "Ganesha macht die Türe zu">>]]
+#+revision: 0
+#+tags: 
+#+title: Satsang
+#+tmap.id: 9e17af75-50e8-41d6-a0dd-a8c1bbd22cd1
+#+type: text/vnd.tiddlywiki
+
+- Satsang bedeutet »Gemeinsame Wahrheit« und ist eine Form der Meditation. Anhänger des S. versuchen, durch Hören, Reden, Nachdenken und Versenkung in die Lehre nach der höchsten Einsicht zu streben. Gesprochenes spielt eine untergeordnete Rolle, dennoch gibt es einen [[#Guru][Guru]], der als erleuchtet gilt und Antworten auf die Fragen der Schüler gibt. Im Mittelpunkt steht nicht die Vermittlung von Wissen, sondern das unmittelbare Erleben von Präsenz.

@@ -1,0 +1,12 @@
+#+created: 20211229071704670
+#+modified: 20211229071753727
+#+origin: https://www.britannica.com/science/Dunning-Kruger-effect
+#+revision: 0
+#+tags: Stub Definition
+#+title: Dunniger-Kruger Effect
+#+type: text/vnd.tiddlywiki
+
+#+begin_quote
+Dunning-Kruger effect, in psychology, a cognitive bias whereby people with limited knowledge or competence in a given intellectual or social domain greatly overestimate their own knowledge or competence in that domain relative to objective criteria or to the performance of their peers or of people in general.
+
+#+end_quote

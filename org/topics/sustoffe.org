@@ -1,0 +1,11 @@
+#+created: 20200727125525271
+#+lang: de
+#+modified: 20210518184433425
+#+revision: 0
+#+tags: 
+#+title: Süßstoffe
+#+tmap.id: 2cc7e05c-259a-4cab-bafe-a6975bd8421a
+#+type: text/vnd.tiddlywiki
+
+- Sie können nicht verstoffwechselt werden
+- Aber sie schaden dem Mikrobiom ([Suez et al. 2014]([[https://pubmed.ncbi.nlm.nih.gov/25231862/]]))

@@ -1,0 +1,23 @@
+#+created: 20200913201844250
+#+modified: 20220711125846276
+#+origin: [[<<. bibliography "How not to die" "How not to die">>]] [[<<. bibliography "The Oxygen Advantage" >> ]]
+#+revision: 0
+#+tags: 
+#+title: Nitric oxide
+#+tmap.id: 215fc83b-6bba-4ee4-ab3c-a33ccf7d6f7c
+#+type: text/vnd.tiddlywiki
+
+Nitric oxide is a compound in the body that causes blood vessels to widen and stimulates the release of certain hormones, such as [[#Insulin][Insulin]] and human growth hormone. (Wikipedia)
+
+- biological messenger within the body
+- signals the muscles within the walls of arterias to relax
+- that's how nitroglycerin pills work (also same effects for Viagra)
+- plays an important role in homeostasis
+- effect on neurotransmission
+- immune defense
+- respiration
+
+#+begin_quote
+In 1992, nitric oxide was proclaimed Molecule of the Year by the journal Science and was described as a startlingly simple molecule that unites neuroscience, physiology, and immunology and revises scientists' understanding of how cells communicate and defend themselves. In 1998, Robert F.Furchgott, Louis J.Ignarro, and Ferid Murad were awarded the Nobel Prize for their discovery that the gas nitric oxide is an important signaling molecule in the cardiovascular system. -- [[#The%20Oxygen%20Advantage][The Oxygen Advantage]]
+
+#+end_quote

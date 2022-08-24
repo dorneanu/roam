@@ -1,0 +1,10 @@
+#+created: 20201216182628906
+#+modified: 20210518184433576
+#+origin: [[<<. bibliography "Atomic Habits">>]]
+#+revision: 0
+#+tags: 
+#+title: The Goldilocks Rule
+#+type: text/vnd.tiddlywiki
+
+- people experience peak motivation when working on tasks not to easy but also not to hard
+  - those that are right on the edge of their current capabilities

@@ -1,0 +1,8 @@
+#+created: 20210525123418939
+#+modified: 20210525123508426
+#+revision: 0
+#+tags: Stub
+#+title: GitHub/Dependabot
+#+type: text/vnd.tiddlywiki
+
+- [[https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-security-and-analysis-settings-for-your-organization#enabling-or-disabling-a-feature-for-all-existing-repositories]]

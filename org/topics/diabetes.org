@@ -1,0 +1,20 @@
+#+created: 20200913181833001
+#+modified: 20210831064111163
+#+origin: [[<<. bibliography "How not to die" "How not to die">>]]
+#+revision: 0
+#+tags: 
+#+title: Diabetes
+#+tmap.id: 6c487291-32b1-4c45-9003-c585dd80f736
+#+type: text/vnd.tiddlywiki
+
+- from Greek diabetes mellitus:
+- diabetes: to pass through or siphon
+- mellitus: honey, sweet
+- Types of diabetes
+  - Type 1
+    - insulin-deficiency
+    - immune system destroys [[#Insulin][Insulin]] producing cells in the pancreas
+  - Type 2
+    - [[#Insulinresistenz][Insulin-resistance]]
+    - [[#Glukose][Glucose]] cannot enter muscle cells
+    - fat seems to block the insulin-signaling process

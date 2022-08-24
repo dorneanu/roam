@@ -1,0 +1,24 @@
+#+created: 20220321192908294
+#+modified: 20220321194027475
+#+origin: [[<<. bibliography "Du bist anders, du bist gut" >>]]
+#+revision: 0
+#+title: Selbstregulation/Zutaten
+#+type: text/vnd.tiddlywiki
+
+- Liebe und Anerkennung
+- Entspannung und Erholung
+- Begleitung und Beruhigung
+  - Kind nicht allein lassen
+- Verständnis statt Vorwürfe
+  - Gefühlsausbrüche nicht negativ bewerten sondern zeigen, dass der Umgang damit ein anderer sein soll
+- Ver (???) und Nachahmen
+- Strategien und Routinen
+- Herausforderung und Frust
+  - auch negativen Erfahrungen/Emotionen aussetzen
+  - nicht unter einer Käseglocke aufwachsen lassen
+- Halt und ein klarer Rahmen
+  - durch berechenbare Abläufe (Erwartbarkeit) vor Gefühl der chronischen Überforderung schützen ([[#Aussenregulation][Aussenregulation]])
+- Reflexion und Be ???
+- Wertschätzung und Vertrauen
+- Werte und Normen
+- Zeit und Geduld

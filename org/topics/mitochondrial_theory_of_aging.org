@@ -1,0 +1,13 @@
+#+created: 20200913201728388
+#+modified: 20210518184431131
+#+origin: [[<<. bibliography "How not to die" "How not to die">>]]
+#+revision: 0
+#+tags: 
+#+title: Mitochondrial theory of aging
+#+tmap.id: db2d0bd4-117e-4c08-897d-54816daba6ff
+#+type: text/vnd.tiddlywiki
+
+- from 1972
+- free radical damage to mitochondria leads to a loss of cellular energy and function over time
+- energy comes from plant sucking up solar energy
+- plants turns low-energy electrons into high-energy ones using solar energy (also check [[#Antioxidants][Antioxidants]])

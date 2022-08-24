@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       0296d1a2-0d00-4520-8a66-19605763f882
+:END:
+#+created: 20201205191401239
+#+lang: de
+#+modified: 20210518184428081
+#+origin: [[<<. bibliography "Slow Family">>]]
+#+revision: 0
+#+tags: 
+#+title: 4 Dimensionen der Nachhaltigkeit
+#+type: text/vnd.tiddlywiki
+
+- Ökologische Kernprobleme
+  - Klimawandel
+  - Verlust von Biodiversität
+  - Süsswasserverknappung
+- Soziale Kernprobleme
+  - Verstädterung
+  - Welternährung
+  - Gesundheit
+- Ökonomische Kernprobleme
+  - Globalisierung
+- Kulturelle Kernprobleme
+  - Dominanz der westlichen Kulturen
+  - Verlust kultureller Vielfalt

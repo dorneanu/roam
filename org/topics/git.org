@@ -1,0 +1,9 @@
+#+created: 20210518193246617
+#+modified: 20210526100425952
+#+revision: 0
+#+tags: Software Stub
+#+title: Git
+#+type: text/vnd.tiddlywiki
+
+- Tipps
+  - Undo last commit: =git reset --soft HEAD~1=

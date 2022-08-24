@@ -1,0 +1,13 @@
+#+created: 20200727104947793
+#+modified: 20220523150516193
+#+revision: 0
+#+tags: Stub Definition
+#+title: Low-Fat
+#+tmap.id: 4bcf7ada-e020-41db-8d5e-1ce10aee9611
+#+type: text/vnd.tiddlywiki
+
+- Problem
+  - Gesättigte Säuren führt zu
+    - Cholesterinspiegel führt zu
+      - Infarkt
+  - Lösung: Low-Fat

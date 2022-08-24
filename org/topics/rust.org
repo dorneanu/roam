@@ -1,0 +1,8 @@
+#+created: 20210701081436859
+#+modified: 20210701081437222
+#+revision: 0
+#+tags: ProgrammingLanguage
+#+title: Rust
+#+type: text/vnd.tiddlywiki
+
+

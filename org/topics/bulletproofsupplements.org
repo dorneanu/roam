@@ -1,0 +1,99 @@
+#+created: 20210814185024689
+#+modified: 20210829111112982
+#+origin: https://www.bulletproof.com/supplements/dietary-supplements/optimize-your-supplements/
+#+revision: 0
+#+tags: Stub
+#+title: Bulletproof/Supplements
+#+type: text/vnd.tiddlywiki
+
+- Overview
+
+| What             | Dose                                              | Form                                                               | When                                                                                                          |
+|------------------+---------------------------------------------------+--------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------|
+| Vitamin D        | 1000 units / 25 pounds (11,3 Kg)                  | Vitamin D3 + Vitamin K                                             | in the morning                                                                                                |
+| Vitamin K2       | 2000 mcg / day (100 mcg MK-7)                     | MK-4 / MK-7                                                        | Once daily with food and [[#Vitamin%20D][Vitamin D]] supplement                                               |
+| Vitamin A        | 3000-10000 IU / day                               | Retinol                                                            | With meals                                                                                                    |
+| Vitamin C        | 500-1000 mg / day                                 | Ascorbic acid or liposomal vitamin c                               | in the morning and evening                                                                                    |
+| [[#Jod][Iodine]] | 150 mcg - 1000 mcg (1mg) / day                    | Kelp powder sourced from clean waters or potassium iodide capsules | once daily with food                                                                                          |
+| Omega-3          | at least 2000 mg / day                            | Krill and fish oil                                                 | With meals                                                                                                    |
+| Magnesium        | 200-800mg / day                                   | Citrate, malate, glycinate, threonate or orotate                   | Before bedtime                                                                                                |
+| L-Tyrosin        | 500-2000mg / day                                  | Pure L-Tyrosine                                                    | Whenever you want                                                                                             |
+| Zinc/Copper      | 15mg zinc orotate + 1-2 mg copper orotate per day | Capsule                                                            | Outside the meals or supplements containing iron, calcium and phytates, which can decrease absorbtion of zinc |
+| Vitamin B12      | 1 Methyl B-12 + 800 mcg of [[#Folat][folate]]     | Capsule or lozenge                                                 | Daily with food                                                                                               |
+
+- [[#Vitamin%20D][Vitamin D]]
+
+| Dose                             | Form                   | When           |
+|----------------------------------+------------------------+----------------|
+| 1000 units / 25 pounds (11,3 Kg) | Vitamin D3 + Vitamin K | in the morning |
+
+- [[#Vitamin%20K2][Vitamin K2]]
+  - for bone health and heart health
+  - prevents calcification
+  - Types
+    - MK-4
+      - produces the most benefit
+    - MK-7
+      - is still important
+
+| Dose                          | Form        | When                                                            |
+|-------------------------------+-------------+-----------------------------------------------------------------|
+| 2000 mcg / day (100 mcg MK-7) | MK-4 / MK-7 | Once daily with food and [[#Vitamin%20D][Vitamin D]] supplement |
+
+- [[#Vitamin%20A][Vitamin A]]
+  - for immunity, vision and reproductive health
+
+| Dose                | Form    | When       |
+| 3000-10000 IU / day | Retinol | With meals |
+
+- [[#Vitamin%20C][Vitamin C]]
+
+| Dose              | Form                                 | When                       |
+|-------------------+--------------------------------------+----------------------------|
+| 500-1000 mg / day | Ascorbic acid or liposomal vitamin c | in the morning and evening |
+
+- [[#Iod][Iodine]]
+  - for thyroid, brain and immune system
+
+| Dose                           | Form                                                               | When                 |
+|--------------------------------+--------------------------------------------------------------------+----------------------|
+| 150 mcg - 1000 mcg (1mg) / day | Kelp powder sourced from clean waters or potassium iodide capsules | once daily with food |
+
+- [[#Omega-3][Omega-3]]
+  - krill oil
+
+| Dose                   | Form               | When       |
+|------------------------+--------------------+------------|
+| at least 2000 mg / day | Krill and fish oil | With meals |
+
+- [[#Magnesium][Magnesium]]
+  - This is almost as important as vitamin D, and almost as underappreciated. Magnesium is used in over 300 enzymatic processes, including all of those involved in ATP (energy) production. It's also vital for proper transcription of DNA and RNA.
+
+| Dose            | Form                                             | When           |
+|-----------------+--------------------------------------------------+----------------|
+| 200-800mg / day | Citrate, malate, glycinate, threonate or orotate | Before bedtime |
+
+- [[#L-Tyrosin][L-Tyrosin]]
+  - This amino acid boosts mood, cognition, physical and mental stress response and healthy glandular function. L-tyrosine quickly crosses the blood-brain barrier to increase the neurotransmitters dopamine, epinephrine and norepinephrine. It's also a building block for thyroid hormone.
+
+| Dose             | Form            | When              |
+|------------------+-----------------+-------------------|
+| 500-2000mg / day | Pure L-Tyrosine | Whenever you want |
+
+- [[#Zink][Zinc]] and [[#Kupfer][Cupper]]
+  - for immunity and energy
+  - should be taken together because
+    - Too much zinc can decrease copper levels in your body
+    - Together, zinc and copper form the antioxidant copper-zinc superoxide dismutase ([[#CuZnSOD][CuZnSOD]]), one of your body's most critical natural defense mechanisms
+
+| Dose                                              | Form    | When                                                                                                          |
+|---------------------------------------------------+---------+---------------------------------------------------------------------------------------------------------------|
+| 15mg zinc orotate + 1-2 mg copper orotate per day | Capsule | Outside the meals or supplements containing iron, calcium and phytates, which can decrease absorbtion of zinc |
+
+- [[#Vitamin%20B12][Vitamin B12]]
+  - Methyl B-12 is methylcobalamin, a form of vitamin B-12 that's easier for your body to use
+  - take it with folate, a form of [[#Vitamin%20B9][Vitamin B9]]
+
+| Dose                              | Form               | When            |
+|-----------------------------------+--------------------+-----------------|
+| 1 Methyl B-12 + 800 mcg of folate | Capsule or lozenge | Daily with food |

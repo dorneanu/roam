@@ -1,0 +1,7 @@
+#+created: 20201216183725455
+#+modified: 20210518184428780
+#+revision: 0
+#+title: Clean Architecture
+#+type: text/vnd.tiddlywiki
+
+

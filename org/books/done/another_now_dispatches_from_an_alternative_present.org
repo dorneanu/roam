@@ -1,0 +1,9 @@
+#+created: 20220614132137507
+#+goodreads: https://www.goodreads.com/book/show/49098225-another-now
+#+modified: 20220614112203526
+#+revision: 0
+#+tags: 2022 Book 2read
+#+title: Another Now: Dispatches from an Alternative Present
+#+type: text/vnd.tiddlywiki
+
+from [[#Vocea%20Natiei][Vocea Natiei]]

@@ -1,0 +1,9 @@
+#+created: 20220328182151703
+#+modified: 20220328182339790
+#+revision: 0
+#+tags: Person
+#+title: JeromeKagan
+#+type: text/vnd.tiddlywiki
+
+- Persönlichkeitsforscher
+- Wie prägt unser angeborenes Temperament unsere weitere Entwicklung

@@ -1,0 +1,9 @@
+#+created: 20210701094809744
+#+modified: 20210701095120110
+#+revision: 0
+#+title: Event Sourcing
+#+type: text/vnd.tiddlywiki
+
+- Event sourcing is a strategy wherein we store the transactions, but not the state. When state is required, we simply apply all the transactions from the beginning of time ()
+
+- 

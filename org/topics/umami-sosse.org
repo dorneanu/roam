@@ -1,0 +1,20 @@
+#+created: 20200726100921279
+#+modified: 20210518184433783
+#+origin: [[How not to die cookbook]] 
+#+revision: 0
+#+tags: recipe
+#+title: Umami-Sosse
+#+tmap.id: 272670ba-7b50-4831-af38-7ee52ecf0906
+#+type: text/vnd.tiddlywiki
+
+Zutaten:
+
+- 250ml Gemüsebrühe
+- Knoblauch
+- Ingwer
+- Melasse
+- Dattelsirup
+- Tomatenmark
+- Schwarzer Pfeffer
+- geschälte Zitrone
+- (Reis-) Essig

@@ -1,0 +1,11 @@
+#+created: 20201117113714112
+#+lang: de
+#+modified: 20210518184432963
+#+revision: 0
+#+tags: 
+#+title: Sophisten
+#+tmap.id: 52d6c8c1-df0f-40f4-a354-b1d232e14a1d
+#+type: text/vnd.tiddlywiki
+
+- Weltanschauung
+  - Die Realität ist nict nur objektiv (siehe [[#Platon][Platon]]), es gibt durchaus auch subjektive Wahrheiten

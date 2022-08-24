@@ -1,0 +1,34 @@
+#+created: 20150914173205108
+#+modified: 20210518184430994
+#+revision: 0
+#+tags: [[Layer 2]]
+#+title: MAC
+#+tmap.edges: {"f5010f96-5d29-44e1-979c-c3beed4c9cab":{"to":"3fca438f-1ebe-426b-afec-7e57c72030a2","type":"tmap:unknown"}}
+#+tmap.id: 086946b1-22f3-4318-8888-9e4058d20bff
+#+type: text/vnd.tiddlywiki
+
+- Definition :: Media Access Control
+  Used on [[#Layer%202][Layer 2]] devices like [[#Switches][Switches]]
+
+** MAC
+:PROPERTIES:
+:CUSTOM_ID: mac
+:END:
+- 48 bits length
+- First 24 bits are *OUI* (Organisational Unique Identifier) field
+- The 7th most significant bit is called *UL* (Universal Local) bit --> this MAC addr is universally unique
+
+** Structure
+:PROPERTIES:
+:CUSTOM_ID: structure
+:END:
+[[http://4.bp.blogspot.com/-4r4TR4Y0tfo/UeqCdtUrGCI/AAAAAAAAAMw/elXA0K4hS7E/s1600/MAC-48_Address.svg.png]]
+
+** Broadcast
+:PROPERTIES:
+:CUSTOM_ID: broadcast
+:END:
+- Has DST MAC = FFFFFFF...
+- != "Flood" (Unicast: 1:1)
+- 1:n
+- Sent to everybody on purpose

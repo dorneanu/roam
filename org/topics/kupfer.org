@@ -1,0 +1,7 @@
+#+created: 20210829111134181
+#+modified: 20210829111053830
+#+revision: 0
+#+title: Kupfer
+#+type: text/vnd.tiddlywiki
+
+

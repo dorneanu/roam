@@ -1,0 +1,8 @@
+#+created: 20210419180054599
+#+modified: 20210525185600328
+#+revision: 0
+#+tags: 
+#+title: Law of Demeter
+#+type: text/vnd.tiddlywiki
+
+- a module should not know about the innards of the objects it manipulates ([[#OOP%2FEncapsulation][OOP/Encapsulation]])

@@ -1,0 +1,20 @@
+#+created: 20200727105315855
+#+modified: 20210518184428693
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Brot
+#+tmap.id: 026b570a-2066-408e-9a2c-80864e6f337b
+#+type: text/x-markdown
+
+- Mögliche Körner
+  - Weizen
+  - Roggen
+  - Dinkel
+- Körner werden gemahlen (ausgepresst)
+  - Je mehr gemahlen wird, umso mehr Nährstoffe gehen verloren
+  - Es bleibt Stärke übrig
+- Typen von Mehl
+  - Zahl dahinter gibt an wie nährstoffreich Mehl ist
+    - Type 405: 405mg Mineralstoffe / 100g Mehl
+  - Beim Vollkornmehl wird der ganze Korn verwendet

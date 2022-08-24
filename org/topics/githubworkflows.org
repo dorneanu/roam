@@ -1,0 +1,8 @@
+#+created: 20210527094043251
+#+modified: 20210527094057623
+#+revision: 0
+#+tags: 
+#+title: GitHub/Workflows
+#+type: text/vnd.tiddlywiki
+
+- run locally using [[https://github.com/nektos/act]]

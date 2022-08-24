@@ -1,0 +1,11 @@
+#+created: 20180829154503732
+#+creator: boru
+#+modified: 20210518184430565
+#+modifier: boru
+#+revision: 0
+#+tags: TODO Cryptography
+#+title: HMAC
+#+tmap.id: 8bb2e76f-bb0e-4a5a-8398-83ca6cb4caf1
+#+type: text/vnd.tiddlywiki
+
+tbd

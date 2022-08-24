@@ -1,0 +1,10 @@
+#+created: 20220502070817868
+#+genres: 
+#+goodreads: 
+#+modified: 20220502070845072
+#+revision: 0
+#+tags: Book 2022 2read
+#+title: Geld oder Leben
+#+type: text/vnd.tiddlywiki
+
+[[https://www.piper.de/buecher/geld-oder-leben-isbn-978-3-8270-1456-6]]

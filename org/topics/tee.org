@@ -1,0 +1,15 @@
+#+created: 20200727105527662
+#+modified: 20210519131641619
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: Stub
+#+title: Tee
+#+tmap.id: 4ff49c0b-aba0-4f35-a06f-bcdba9e49b29
+#+type: text/x-markdown
+
+- Grüner Tee
+  - Enthält Polyphenole
+    - Pflanzen schützen sich damit gegen UV-Strahlung
+    - EGCG (Epigallocatechin-Gallat)
+      - Krebshemmend
+      - wachstumsfördernd

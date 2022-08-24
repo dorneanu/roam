@@ -1,0 +1,9 @@
+#+created: 20210623070142725
+#+modified: 20210623071016146
+#+revision: 0
+#+tags: 
+#+title: Doom Emacs
+#+type: text/vnd.tiddlywiki
+
+- [[https://github.com/hlissner/doom-emacs/blob/develop/docs/getting_started.org#testing-in-dooms-sandbox][Sandbox]]
+  - =SPC h E=

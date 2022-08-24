@@ -1,0 +1,159 @@
+#+created: 20150921163952633
+#+creator: boru
+#+modified: 20210518184428771
+#+modifier: boru
+#+revision: 0
+#+tags: [[Cisco IOS]]
+#+title: Cisco IOS Inter-VLAN Routing
+#+tmap.id: 18c090ea-b325-4ec7-997a-810b37e3f1c9
+#+type: text/vnd.tiddlywiki
+
+[[https://www.cybrary.it/video/layer3-ip-routing-lab/]]
+
+Doing some *inter-VLAN* routing between SW8 and R2.
+
+| PC  | Network    | Netmask       | VLAN    |
+| PC1 | 10.10.10.1 | 255.255.255.0 | VLAN 10 |
+| PC2 | 10.10.10.2 | 255.255.255.0 | VLAN 10 |
+| PC3 | 20.20.20.3 | 255.255.255.0 | VLAN 20 |
+| PC4 | 20.20.20.4 | 255.255.255.0 | VLAN 20 |
+
+** Configure SW8
+:PROPERTIES:
+:CUSTOM_ID: configure-sw8
+:END:
+Create VLANs:
+
+#+begin_example
+# VLAN 10
+sw8 (config)# vlan 10
+sw8 (config-vlan)# vlan acct.
+
+# VLAN 20
+sw8 (config)# vlan 20
+sw8 (config-vlan)# vlan sales
+sw (config-vlan)# exit
+
+# Check
+sw8 (config)# do show vlan brief
+#+end_example
+
+Put PCs into VLANs:
+
+#+begin_example
+# Configure port 1 and 2
+sw8 (config)# interface range fastEthernet 0/1-2
+sw8 (config-if-range)# switchport mode access
+sw8 (config-if-range)# switchport access vlan 10
+
+# Configure port 3 and 4
+sw8 (config)# interface range fastEthernet 0/3-4
+sw8 (config-if-range)# switchport mode access
+sw8 (config-if-range)# switchport access vlan 20
+sw8 (config-if-range)# exit
+sw8 (config)# do show vlan brief
+#+end_example
+
+Make ports go up
+
+#+begin_example
+sw8 (config)# interface fastEthernet 0/1-4
+
+# Ports go directly to forwarding
+sw8 (config-if-range)# spanning-tree portfast
+
+# Save work
+sw8 (config-if-range)# exit
+sw8 (config)# wr
+#+end_example
+
+At this moment PC1 is not able to ping PC3 (due to different broadcast domains). The link between the switch (SW1) and the router (R2) will be a trunk link, since it allows to carry more than one VLAN.
+
+Configure *trunk port* on the switch:
+
+#+begin_example
+sw8 (config)# interface fastEthernet 0/24
+sw8 (config-if)# switchport trunk encapsulation dot1q
+sw8 (config-if)# switchport mode trunk
+
+# Turn off DTP (no negotiate), Routers don't understand DTP anyway
+sw8 (config-if)# no negotiate
+sw8 (config-if)# do show interface fastEthernet switchport
+#+end_example
+
+Now the switch side is alsmost done. We'll have to specify which VLANs should be allowed on a port:
+
+#+begin_example
+sw8 (config)# interface fastEthernet 0/24
+
+# Allow only VLAN 10 and VLAN 20
+sw8 (config-if)# switchport trunk allowed vlan 10,20
+
+# Check that
+sw8 (config-if)# do show interface f0/24 switchport 
+#+end_example
+
+** Configure R2
+:PROPERTIES:
+:CUSTOM_ID: configure-r2
+:END:
+#+begin_example
+r2# conf t
+r2 (config)# interface fastEthernet 0/1
+r2 (config-if)# no shutdown
+r2 (config-if)# no ip address
+r2 (config-if)# description TRUNK_TO_SW8
+r2 (config-if)# exit
+#+end_example
+
+No IP address since we are going to create *sub-interfaces*.
+
+#+begin_example
+### Sub-interface to carry VLAN 10
+r2 (config)# interface fastEthernet 0/1.10
+r2 (config)# do show ip interface brief
+
+# Assign last IP address (will generate error)
+r2 (config)# ip address 10.10.10.254 255.255.255.0
+% Configuring IP routing on a LAN subinterface is only allowed if that  subinterface is already configured as part of an IEEE 802.10, IEEE 802.1q or  ISL VLAN.
+
+# Set encapsulation to dot1q and assign again the IP address
+r2 (config)# encapsulation dot1q 10
+r2 (config)# ip address 10.10.10.254 255.255.255.0
+
+
+### Sub-interface to carry VLAN 20 
+r2 (config)# interface fastEthernet 0/1.20
+r2 (config-subif)# encapsulation dot1q 20
+r2 (config-subif)# ip address 20.20.20.254 255.255.255.0
+#+end_example
+
+Check settings:
+
+#+begin_example
+r2 (config)# show ip interface brief
+#+end_example
+
+** Set default gateway
+:PROPERTIES:
+:CUSTOM_ID: set-default-gateway
+:END:
+We'll still have to setup the *default gateway* (GW) for the PCs.
+
+| PC  | Default gateway |
+| PC1 | 10.10.10.254    |
+| PC2 | 10.10.10.254    |
+| PC3 | 20.20.20.254    |
+| PC4 | 20.20.20.254    |
+
+Now PC1 should be able to ping PC3. First check if R2 has both networks in its *IP routing table*:
+
+#+begin_example
+r2# show ip route
+#+end_example
+
+Show [[#MAC][MAC]] of sub-interface:
+
+#+begin_example
+r2# show interfaces f0/1.1
+#+end_example

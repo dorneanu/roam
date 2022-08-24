@@ -1,0 +1,15 @@
+#+created: 20210223193256820
+#+modified: 20210525064218274
+#+origin: [[<<. bibliography "Das Experiment sind wir">>]] 
+#+revision: 0
+#+tags: Stub
+#+title: PCR
+#+type: text/vnd.tiddlywiki
+
+- Polymerase-Kettenreaktion
+- entdeckt von Kary Mullis im Jahre 1993
+- dient dazu, eine exakte Kopie eines genau definierten [[#DNA][DNA]]-Stranges anzufertigen
+- Anwendungsbereiche
+  - der genetische Fingerabdruck
+  - der Vaterschaftstest
+  - PCR-Tests für [[#Covid-19][Covid-19]]

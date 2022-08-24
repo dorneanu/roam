@@ -1,0 +1,107 @@
+#+created: 20191125162549979
+#+modified: 20210518200455538
+#+origin: https://gist.github.com/dorneanu/cce1cd6711969d581873a88e0257e312 https://stackoverflow.com/questions/5189232/how-to-auto-register-a-class-when-its-defined/50099920#50099920 https://desc0n0cid0.blogspot.com/2017/06/writing-plugins-in-python.html
+#+revision: 0
+#+tags: HowTo Python
+#+title: Implement a plugin architecture in Python
+#+tmap.id: ab16180d-c47c-410e-9057-b524fc97030b
+#+type: text/vnd.tiddlywiki
+
+Implementing a basic plugin architecture shouldn't be a complicated task. The solution described [[https://stackoverflow.com/questions/5189232/how-to-auto-register-a-class-when-its-defined/50099920#50099920][here]] is working but you still have to =import= every plugin (inheriting from the base class). This is my solution:
+
+- basic project structure
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+$ tree
+.
+├── main.py
+└── plugins
+    ├── __init__.py
+    ├── plugin_a.py
+    ├── plugin_b.py
+#+end_example
+
+- the base plugin
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+$ cat plugins/__init__.py
+
+import os
+import traceback
+from importlib import util
+
+
+class Base:
+    """Basic resource class. Concrete resources will inherit from this one
+    """
+    plugins = []
+
+    # For every class that inherits from the current,
+    # the class name will be added to plugins
+    def __init_subclass__(cls, **kwargs):
+        super().__init_subclass__(**kwargs)
+        cls.plugins.append(cls)
+
+
+# Small utility to automatically load modules
+def load_module(path):
+    name = os.path.split(path)[-1]
+    spec = util.spec_from_file_location(name, path)
+    module = util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module
+
+
+# Get current path
+path = os.path.abspath(__file__)
+dirpath = os.path.dirname(path)
+
+for fname in os.listdir(dirpath):
+    # Load only "real modules"
+    if not fname.startswith('.') and \
+       not fname.startswith('__') and fname.endswith('.py'):
+        try:
+            load_module(os.path.join(dirpath, fname))
+        except Exception:
+            traceback.print_exc()
+#+end_example
+
+- a sample plugin
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+$ cat plugins/plugin_a.py
+import plugins
+
+
+class PluginA(plugins.Base):
+
+    def __init__(self):
+        pass
+
+    def start(self):
+        print("Plugin A")
+#+end_example
+
+And now the =main.py=:
+
+#+begin_example
+$ cat main.py
+from plugins import Base
+
+if __name__ == '__main__':
+    for p in Base.plugins:
+        inst = p()
+        inst.start()
+#+end_example

@@ -1,0 +1,29 @@
+#+created: 20201127191711763
+#+modified: 20210518184428816
+#+origin: https://noknow.info/it/go/how_to_convert_between_map_string_interface_and_json_string?lang=en
+#+revision: 0
+#+tags: Golang
+#+title: Convert JSON string to map[string]interface{}
+#+tmap.id: 7c7911a1-b898-47c9-b94d-d69453719e90
+#+type: text/vnd.tiddlywiki
+
+#+begin_example
+      // json string
+    jsonStr := `{
+        "Name": "noknow",
+        "Age": 2,
+        "Admin": true,
+        "Hobbies": ["IT","Travel"],
+        "Address": {
+            "PostalCode": 1111,
+            "Country": "Japan"
+        },
+        "Null": null
+    }`
+
+    // Convert json string to map[string]interface{}
+    var mapData map[string]interface{}
+    if err := json.Unmarshal([]byte(jsonStr), &mapData); err != nil {
+        fmt.Println(err)
+    }
+#+end_example

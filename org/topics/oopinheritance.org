@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d67a97d6-a1be-4b23-bd7b-c99f52c4e2a8
+:END:
+#+created: 20210622082840510
+#+modified: 20210622082852233
+#+origin: [[<<. bibliography "The Clean Architecture">>]]
+#+revision: 0
+#+title: OOP/Inheritance
+#+type: text/vnd.tiddlywiki
+
+- Inheritance is simply the redeclaration of a group of variables
+- and functions within an enclosing scope

@@ -1,0 +1,12 @@
+#+created: 20200918185454708
+#+modified: 20210518185635985
+#+origin: https://www.zeit.de/2020/23/impfpflicht-coronavirus-masern-immunisierung-kinder/komplettansicht
+#+revision: 0
+#+tags: quote
+#+title: Pflege und Erziehung der Kinder
+#+type: text/vnd.tiddlywiki
+
+#+begin_quote
+Artikel 6 des Grundgesetzes besagt: "Pflege und Erziehung der Kinder sind das natürliche Recht der Eltern und die zuvörderst ihnen obliegende Pflicht. Über ihre Betätigung wacht die staatliche Gemeinschaft."
+
+#+end_quote

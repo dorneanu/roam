@@ -1,0 +1,13 @@
+#+created: 20200913202411841
+#+modified: 20210518184432810
+#+origin: [[<<. bibliography "How not to die" "How not to die">>]]
+#+revision: 0
+#+tags: 
+#+title: Salt
+#+tmap.id: 6b80084d-f385-476a-8a75-78d1c92a3309
+#+type: text/vnd.tiddlywiki
+
+- 40% sodium
+- 60% chloride
+- recommendation: 1500 mg sodium /day
+- used in processed food to add more weight

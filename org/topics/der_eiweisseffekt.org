@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       faea91f8-19f0-4bdf-9556-3947e09bf27f
+:END:
+#+created: 20200727110551670
+#+modified: 20210518184429676
+#+origin: [[<<. bibliography "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Der Eiweisseffekt
+#+tmap.id: 43bef751-e7b4-4317-8bb4-9d76d7730ddd
+#+type: text/x-markdown
+
+- Tiere sind auf [[id:57a4ec91-8347-4e89-a4a0-1cf506960b61][Protein]]suche bis sie ihren Proteinbedarf gedeckt haben
+- Zu viele Proteine sind auch nicht gut, da sie den Alterungsprozess begünstigen
+- Insektenforscher
+  - Stephen Simpson
+  - David Raubenheimer
+  - Forschung
+    - Haben herausgefunden, dass Mormonengrille sich gegenseitig fressen wg Proteinbedarf
+- Experiment mit Menschen
+  - Von Rachel Batley
+  - Proteinhunger sorgt dafür, dass weniger Kohlenhydrate/Fette zugeführt werden
+  - Fehlende Proteine werden durch [[id:0451fcb1-0e94-4d32-8dd3-36cb2cf4ac67][Kohlenhydrate]]/[[id:edb2c853-5d35-47fc-8e8e-183b462aec44][Fette]] kompensiert

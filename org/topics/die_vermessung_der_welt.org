@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       c4508848-b51d-43dd-9cb8-5f8b9ced4805
+:END:
+#+author: 
+#+authors: [[Daniel Kehlmann]]
+#+created: 20191203162600586
+#+creator: boru
+#+finished_month: 12
+#+finished_year: 2019
+#+genre: 
+#+goodreads: https://www.goodreads.com/book/show/1526595.Die_Vermessung_der_Welt?from_search=true&from_srp=true&qid=CNWfR3X32q&rank=1
+#+isbn: 9783499332708
+#+item_type: Ebook
+#+location: 
+#+modified: 20210518194234050
+#+modifier: boru
+#+owner: 
+#+publication_title: Die Vermessung der Welt
+#+revision: 0
+#+series: 
+#+status: todo
+#+tags: done 2019 Book Source
+#+title: Die Vermessung der Welt
+#+tmap.id: 4d81719d-957a-4066-b62d-871f4f65709e
+#+type: text/vnd.tiddlywiki
+#+year: 2018
+
+#+begin_quote
+„Eine Satire auf die deutsche Klassik, ein Abenteuerroman, ein Abbild des Bürgertums im beginnenden 19. Jahrhundert, eine Studie über Opfer und Moral der Wissenschaft, das Portrait zweier alternder Männer, jeder auf seine Weise einsam; und ein wunderbar lesbarer Text voller gebildeter Anspielungen und Zitate und versteckter Kleinode.” (Die Zeit)
+
+(Quelle: [[https://www.lovelybooks.de/autor/Daniel-Kehlmann/Die-Vermessung-der-Welt-41788273-w/]])
+
+#+end_quote

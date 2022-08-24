@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ae5f16be-5554-42bc-b363-46704d72b6e0
+:END:
+#+created: 20210525190024475
+#+modified: 20210701095342570
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]] [[<<. bibliography "The Clean Architecture">>]] 
+#+revision: 0
+#+tags: Definition
+#+title: OOP/Class
+#+type: text/vnd.tiddlywiki
+
+- a grouping of functions and data
+  - every system has these groupings whether they are called classes or not
+- A class is a blueprint, or a template for objects that share the same behavior and properties. Being a template, it can be used as a specification to create objects.

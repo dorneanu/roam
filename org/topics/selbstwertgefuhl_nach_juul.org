@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7974eaa4-d596-454a-860a-8565c0a72fe7
+:END:
+#+created: 20201110082728977
+#+modified: 20210518184432887
+#+origin: [[<<. bibliography "Dein kompetentes Kind">>]]
+#+revision: 0
+#+tags: 
+#+title: Selbstwertgefühl nach Juul
+#+tmap.id: cb06492c-8d73-49c1-be46-3a8604f23a49
+#+type: text/vnd.tiddlywiki
+
+- unser Wissen und Erleben, wer wir sind
+- wie gut kennen wir uns selbst und gehen damit um
+- für die Stärkung des Selbstwertgefühls ist Kommunikation sehr wichtig
+  - auf das Kind eingehen
+  - in der Aussprache der Eltern nicht die eigenen Emotionen einfliessen lassen
+    - sorgt für Verunsicherung und Angst
+    - Kind wird nicht Ernst genommen
+  - Rückmeldung auf die Existenz, nicht auf das Verhalten
+    - Beispiel: "Schau mal, Mama!"

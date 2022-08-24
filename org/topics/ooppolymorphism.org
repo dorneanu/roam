@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       362bf16d-9208-4375-8dd1-ac178b157a26
+:END:
+#+created: 20210525190135199
+#+modified: 20210525185903269
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]]
+#+revision: 0
+#+tags: Definition
+#+title: OOP/Polymorphism
+#+type: text/vnd.tiddlywiki
+
+- This ability of an interface method to behave differently based on the actual object is called polymorphism and is key to many design patterns

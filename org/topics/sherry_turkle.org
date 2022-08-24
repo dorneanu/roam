@@ -1,0 +1,9 @@
+#+created: 20220424175301471
+#+modified: 20220424175322357
+#+revision: 0
+#+tags: Person TODO
+#+title: Sherry Turkle
+#+type: text/vnd.tiddlywiki
+
+- 
+  - [[https://www.nytimes.com/2015/10/04/books/review/jonathan-franzen-reviews-sherry-turkle-reclaiming-conversation.html][Reclaiming Conversation]]

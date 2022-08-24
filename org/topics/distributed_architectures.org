@@ -1,0 +1,20 @@
+#+created: 20210427060037121
+#+modified: 20210525190932185
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]] 
+#+revision: 0
+#+tags: Definition
+#+title: Distributed Architectures
+#+type: text/vnd.tiddlywiki
+
+- Object-based
+  - RPCs
+  - RMIs
+- Layered
+  - This architectural style can be thought of as an inverted pyramid of reuse, where each layer aggregates the responsibilities and abstractions of the layer directly beneath it. When the layers are on different machines, they are called tiers. The most common example of strict layering is where components in one layer can interact only with components in the same layer or with components from the layer directly below it.
+- [[#P2P][P2P]]
+  - Hybrid
+  - Structured
+    - [[#DHT][DHT]] (Distributed Hash Tables)
+- [[#Event-Driven%20Architecture][Event-Driven Architecture]]
+- Distributed computations
+  - [[#MapReduce][MapReduce]]

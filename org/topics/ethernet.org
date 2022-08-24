@@ -1,0 +1,76 @@
+#+created: 20150914172807863
+#+creator: boru
+#+modified: 20210518184430114
+#+modifier: boru
+#+revision: 0
+#+tags: [[Layer 1]]
+#+title: Ethernet
+#+tmap.id: 7a7612f8-c74a-4ac8-be90-80d41339fcf6
+#+type: text/vnd.tiddlywiki
+
+Additions:
+
+- 1000Base-LX
+  - fiber cabling
+  - 5km cable length
+- 1000Base-ZX
+  - support 70km cable length
+
+** Cabling
+:PROPERTIES:
+:CUSTOM_ID: cabling
+:END:
+** Types
+:PROPERTIES:
+:CUSTOM_ID: types
+:END:
+- *half-duplex*
+  - a port cannot send and receive data at the same time
+  - only one device is allowed to send data
+  - Use [[#CSMA%2FCD][CSMA/CD]] for collisions
+- *full-duplex*
+  - multiple devices are allowed to send data
+- *simplex*
+  - only one direction
+
+*Collisions*:
+
+- there are collision domains
+- each switch has its own collision domain
+- each hub has its own collision domain
+
+** Cabling
+:PROPERTIES:
+:CUSTOM_ID: cabling-1
+:END:
+*** Straight-through Cable
+:PROPERTIES:
+:CUSTOM_ID: straight-through-cable
+:END:
+*** Crossover Cable
+:PROPERTIES:
+:CUSTOM_ID: crossover-cable
+:END:
+** How to choose the right cable
+:PROPERTIES:
+:CUSTOM_ID: how-to-choose-the-right-cable
+:END:
+- Crossover cable :: The endpoints transmit on the same pin pair
+- Straight-through cable :: The endpoints transmit on different pin pairs
+
+| Transmits on Pins 1,2       | Transmits on Pins 3,6 |
+| PC NICs                     | Hubs                  |
+| Routers                     | Switches              |
+| WLANs ( Ethernet interface) |                       |
+
+** Frame
+:PROPERTIES:
+:CUSTOM_ID: frame
+:END:
+*** Type field
+:PROPERTIES:
+:CUSTOM_ID: type-field
+:END:
+Used to describe the data type inside the frame.
+
+- FCS :: Frame Check Sequence

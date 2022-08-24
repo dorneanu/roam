@@ -1,0 +1,33 @@
+#+created: 20210829110040156
+#+modified: 20210829130422011
+#+origin: https://www.jedes-essen-zaehlt.de/
+#+revision: 0
+#+tags: 
+#+title: Eisen
+#+type: text/vnd.tiddlywiki
+
+- als Bestandteil der roten Blutkörperchen
+- Funktion
+  - zuständig für den Sauerstofftransport
+  - Speicherung von Sauerstoff in den Muskeln
+  - Aktivator von Enzymen
+  - beteiligt an der Energiegewinnung
+  - sorgt für Immunabwehr
+  - beteiligt an der Hormonsynthese
+- sollte gleichzeitig mit [[#Vitamin%20C][Vitamin C]] zugeführt werden
+- Quellen
+  - Pflanzlich
+    - Vollkorngetreide
+      - Haferflocken
+      - Hirse
+    - Hülsenfrüchte
+      - Linsen
+    - Sojagranulat
+    - Nüsse
+      - Pistazien
+      - Pinienkerne
+    - Samen
+      - Kürbiskerne
+      - Sesam
+      - Leinsamen
+    - getrocknete Aprikosen

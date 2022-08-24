@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       24faf59c-5287-42bd-b64c-ce43c0ce37e8
+:END:
+#+created: 20200727123817418
+#+lang: de
+#+modified: 20210518184428246
+#+revision: 0
+#+tags: 
+#+title: Atkins-Diät
+#+tmap.id: 992ee8f4-4e98-4aaf-be26-d7e0a095bb98
+#+type: text/vnd.tiddlywiki
+
+- Von ihm stammt die [[https://de.wikipedia.org/wiki/Atkins-Di%C3%A4t][Atkins-Diät]]
+- [[id:5eac5bf9-cae6-4155-bdb1-d1978dc583e5][Low-Carb]]
+- So viel essen wie man möchte
+- Proteinanteil: ca. 30%

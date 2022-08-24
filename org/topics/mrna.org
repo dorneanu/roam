@@ -1,0 +1,9 @@
+#+created: 20210223192833861
+#+modified: 20211122075335047
+#+origin: [[<<. bibliography "Das Experiment sind wir">>]] 
+#+revision: 0
+#+title: mRNA
+#+type: text/vnd.tiddlywiki
+
+- kurzlebige Kopie eines DNA-Abschnitts, die die Basen in dem Abschnitt transportabel macht
+- [[https://youtu.be/v-NEr3KCug8][How the COVID-19 vaccines were created so quickly - Kaitlyn Sadtler and Elizabeth Wayne]]

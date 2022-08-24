@@ -1,0 +1,9 @@
+#+created: 20191119142508720
+#+modified: 20210518200529509
+#+revision: 0
+#+tags: Security
+#+title: Vulnerabilities
+#+tmap.id: 5a90553f-bfac-47e2-9b4a-740a2a0f76ae
+#+type: text/vnd.tiddlywiki
+
+List of interesting vulnerabilities

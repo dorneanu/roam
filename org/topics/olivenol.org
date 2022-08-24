@@ -1,0 +1,24 @@
+#+created: 20200727105831359
+#+modified: 20210518184431321
+#+revision: 0
+#+tags: Fette
+#+title: Olivenöl
+#+tmap.id: 84171bcf-44b7-483a-a7d9-619f6447e1cf
+#+type: text/vnd.tiddlywiki
+
+- gehört zu den [[#Fette][Fettsäuren]]
+- Oliven haben Schutzstoffe (Phytochemikalien)
+  - Diese fallen in die Kategorie der [[#Polyphenole][Polyphenole]]
+    - Oleuropein
+      - Schmeckt bitter
+      - Hemmt [[#mTOR][mTOR]]
+    - Oleocanthal
+      - Sorgt für das Kratzen in der Kehle
+      - Dämpft das hochgefahrene Immunsystem auf sanfte Weise
+      - Hemmt [[#mTOR][mTOR]]
+- Ist auch bei hohen Temperaturen ein stabiles Öl
+  - Zum Frittieren doch geeignet
+  - Gerade die [[#Polyphenole][Polyphenole]] helfen beim Braten dabei, die Entstehung Krebserregender Substanzen zu verhindern
+- Siehe auch Forschung von
+  - Casal et al. 2010
+  - Persson et al. 2003

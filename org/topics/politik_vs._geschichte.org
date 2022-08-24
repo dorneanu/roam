@@ -1,0 +1,14 @@
+#+created: 20201202203533404
+#+lang: de
+#+modified: 20210518184432209
+#+origin: [[<<. bibliography "Gespräche mit Gott Band 2">>]]
+#+revision: 0
+#+tags: 
+#+title: Politik vs. Geschichte
+#+type: text/vnd.tiddlywiki
+
+| Politik                                          | Geschichte               |
+|--------------------------------------------------+--------------------------|
+| rechtfertigt                                     | enthüllt                 |
+| deckt zu, spricht nur von einer Seite            | deckt auf, erzählt alles |
+| Politiker hassen ehrlich geschriebene Geschichte |                          |

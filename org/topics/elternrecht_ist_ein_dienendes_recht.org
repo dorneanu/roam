@@ -1,0 +1,12 @@
+#+created: 20200918185805732
+#+modified: 20210518185631563
+#+origin: https://www.zeit.de/2020/23/impfpflicht-coronavirus-masern-immunisierung-kinder/komplettansicht
+#+revision: 0
+#+tags: quote
+#+title: Elternrecht ist ein dienendes Recht
+#+type: text/vnd.tiddlywiki
+
+#+begin_quote
+Hilgers: Das Verfassungsgericht hat immer wieder dargelegt, dass Kinder nicht Eigentum der Eltern sind. Deshalb ist das Elternrecht ein dienendes Recht. Es dient dem Kind und dem Kindeswohl. Und es gehört nicht zum Freiheitsbereich der Eltern, die Masernimpfung abzulehnen. Erst recht nicht, wenn das Kind gemeinsam mit gefährdeten Kindern in Einrichtungen betreut wird.
+
+#+end_quote

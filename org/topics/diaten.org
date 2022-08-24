@@ -1,0 +1,18 @@
+#+created: 20200727104908246
+#+lang: de
+#+modified: 20210518184429780
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Diäten
+#+tmap.id: e202b83d-52fe-47d0-9cd4-3c9068fc94d5
+#+type: text/vnd.tiddlywiki
+
+- [[#Low-Carb][Low-Carb]]
+- [[#Low-Fat][Low-Fat]]
+- [[#Atkins-Di%C3%A4t][Atkins-Diät]]
+- [[#Anmerkungen][Anmerkungen]]
+  - Es gibt keine universelle Losung
+  - Es kommt immer auf die Kohlenhydrate und Fette an
+  - Empfohlen wird die Mittelmeerkost
+  - [spanische Studie dazu von Estruch et al. Im New England Journal of Medicine](#(https%3A%2F%2Fwww.nejm.org%2Fdoi%2Ffull%2F10.1056%2FNEJMoa1800389){.tc-tiddlylink .tc-tiddlylink-missing}

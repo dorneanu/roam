@@ -1,0 +1,15 @@
+#+created: 20200727101020464
+#+lang: de
+#+modified: 20210518184432289
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: Proteine
+#+title: Proteinverdünnung
+#+tmap.id: ddef8d22-33d3-47e2-8b5d-c2219eb03de4
+#+type: text/vnd.tiddlywiki
+
+- Gerade in der Lebensmittelindustrie
+- "fettarm heisst nicht Kalorienarm"
+- [[#Fette][Fett]] wird durch Kohlenhydrate/[[#Zucker][Zucker]] ersetzt
+- Nicht Fett ist das Problem
+- siehe auch

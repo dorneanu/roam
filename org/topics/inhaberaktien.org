@@ -1,0 +1,9 @@
+#+created: 20200919142922725
+#+modified: 20210519130614373
+#+revision: 0
+#+tags: Stub
+#+title: Inhaberaktien
+#+tmap.id: 86a8bd31-651a-4cf1-9e1e-b2f49e01bcea
+#+type: text/vnd.tiddlywiki
+
+

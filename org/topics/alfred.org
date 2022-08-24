@@ -1,0 +1,7 @@
+#+created: 20201202135743435
+#+modified: 20210518184428116
+#+revision: 0
+#+title: Alfred
+#+type: text/vnd.tiddlywiki
+
+

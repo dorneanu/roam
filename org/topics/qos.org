@@ -1,0 +1,25 @@
+#+created: 20151008162530564
+#+modified: 20210518184432661
+#+revision: 0
+#+tags: 
+#+title: QoS
+#+tmap.id: ddbe3887-1133-4669-9bb5-7acf79986857
+#+type: text/vnd.tiddlywiki
+
+- Definition :: Qualitiy of Service
+
+Characteristics
+
+- bandwidth
+- delay
+- jitter
+  - variation in delay
+- loss
+  - percentage of packets discarded by the network interface before they read the destination
+  - when using [[#TCP][TCP]], it requires /retransmission/
+
+** Examples
+:PROPERTIES:
+:CUSTOM_ID: examples
+:END:
+- [[#VoIP][VoIP]]

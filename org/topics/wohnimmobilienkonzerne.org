@@ -1,0 +1,15 @@
+#+created: 20200920094016556
+#+modified: 20210518184433936
+#+revision: 0
+#+tags: 
+#+title: Wohnimmobilienkonzerne
+#+tmap.id: aed7825a-cb59-4124-9150-9ef3c0cda79e
+#+type: text/vnd.tiddlywiki
+
+- Deutsche Wohnen
+- Vonovia
+- ADO Properties
+- Covivio
+- Akelius
+- TAG Immobilien
+- Grand City Properties

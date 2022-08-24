@@ -1,0 +1,15 @@
+#+created: 20210701100142020
+#+modified: 20210701100320642
+#+origin: [[<<. bibliography "The Clean Architecture">>]] 
+#+revision: 0
+#+title: Component Cohesion/CCP
+#+type: text/vnd.tiddlywiki
+
+- is the component form of the [[id:b21b1eb2-f0a5-4465-abb7-f7ec25a843f9][Single Responsability Principle]]
+
+- separate classes into different components if they change for different reasons
+
+  #+begin_quote
+  Gather together those things that change at the same times and for the same reasons. Separate those things that change at different times or for different reasons.
+
+  #+end_quote

@@ -1,0 +1,12 @@
+#+created: 20210824182729641
+#+modified: 20210824183002820
+#+origin: 1984
+#+revision: 0
+#+tags: 
+#+title: Theorie und Praxis des oligarchischen Kollektivismus
+#+type: text/vnd.tiddlywiki
+
+- von Emmanuel Goldstein
+  - [[#1984%2F3%20Arten%20von%20Menschen][1984/3 Arten von Menschen]]
+  - [[#1984%2FKrieg][1984/Krieg]]
+  - [[#1984%2FAufteilung%20der%20Welt][1984/Aufteilung der Welt]]

@@ -1,0 +1,12 @@
+#+created: 20201019084505771
+#+modified: 20210518184431228
+#+origin: [[<<. bibliography "Ganesha macht die Türe zu">>]]
+#+revision: 0
+#+tags: 
+#+title: Nirwana
+#+tmap.id: d655569f-2df3-48fb-b972-63c868c98d0b
+#+type: text/vnd.tiddlywiki
+
+- Begriff aus dem [[#Buddhismus][Buddhismus]]
+- bezeichnet den Austritt aus dem Kreislauf des Leidens und der Wiedergeburten durch Erwachen
+- bedeutet so viel wie *Erlöschen* und bezieht sich auf das Loslassen des Ich's, der Gier sowie des Festhaltens an materiellen Dingen

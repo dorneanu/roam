@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       5030aa8c-a8df-443c-9180-61532daae311
+:END:
+#+created: 20210419181200095
+#+modified: 20210518184430169
+#+origin: [[<<. bibliography "The Clean Code">>]] 
+#+revision: 0
+#+tags: 
+#+title: F.I.R.S.T.
+#+type: text/vnd.tiddlywiki
+
+- fast: tests should be fast
+- independent: tests should not depenend on each other
+  - one test should not set up the conditions for the next test
+  - test should be run independently and in any order you like
+- repeatable: tests should be runnable in any environment
+  - if your tests aren't repeatable in any environment they you always have an excuse why the fail
+- self-validating: the tests should have a boolean output
+  - test either pass or fail
+- timely: test need to be written in a timely fashion
+  - unit tests should be written just before the production code that makes them pass
+  - if you write tests after production, then you may find the production code to be hard to test
+  - you may even decide that production code is not testable

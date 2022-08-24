@@ -1,0 +1,17 @@
+#+created: 20200913181609501
+#+modified: 20210518184428654
+#+origin: [[<<. bibliography "How not to die" "How not to die">>]]
+#+revision: 0
+#+tags: 
+#+title: Blood pressure
+#+tmap.id: 3619d718-2f3d-4ea1-a6ff-08f2d28be92e
+#+type: text/vnd.tiddlywiki
+
+- 1st number (systolic): represents the pressure in the arteries
+- 2nd number (diastolic): pressure in arteries when heart is resting between beats
+- normal values: 120/80
+- hypertension > 140/90
+- Against hypertension
+  - flax seeds
+  - hibiscus tea
+  - nitrate-rich vegetables

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2111c278-527b-408f-b810-7d43e5d8cd53
+:END:
+#+created: 20210525190058732
+#+modified: 20210525185825770
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]]
+#+revision: 0
+#+tags: Definition
+#+title: OOP/Contracts
+#+type: text/vnd.tiddlywiki
+
+- The individual constructs (or functions) by which you can invoke behavior on the object are called methods.

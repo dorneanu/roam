@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       56b05690-4b0c-42e5-b877-2a208217197d
+:END:
+#+created: 20201205192048823
+#+modified: 20210518184428585
+#+origin: [[<<. bibliography "Slow Family">>]]
+#+revision: 0
+#+tags: 
+#+title: Babys und das kollektive Bewusstsein
+#+type: text/vnd.tiddlywiki
+
+- Baby bringen jeden Tag ihre Eltern dazu, ihre Grenzen auszuloten
+  - Eltern kämpfen jeden Tag mit ihrem inneren Schweinehund
+  - sie gründen Waldkindergärten, freie Schulen und Familienbüros
+  - sie tragen dazu bei, dass das [[id:d7a87d6d-e9e0-4a11-bf64-555d8317a751][Kollektivbewusstsein]] für (Kinder-)Erziehung sich ändert/verbessert

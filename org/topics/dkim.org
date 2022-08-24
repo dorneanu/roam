@@ -1,0 +1,10 @@
+#+created: 20191210120151848
+#+modified: 20210518184429972
+#+origin: https://www.dmarcanalyzer.com/dkim/
+#+revision: 0
+#+tags: E-Mail
+#+title: DKIM
+#+tmap.id: d9a7bf0e-3a4c-4e61-b523-5d0e974f4893
+#+type: text/vnd.tiddlywiki
+
+- Domain Keys Identified Mail :: an email authentication technique that allows the receiver to check that an email was indeed send and authorized by the owner of that domain. This is done by giving the email a digital signature. This DKIM signature is a header that is added to the message and is secured with encryption.

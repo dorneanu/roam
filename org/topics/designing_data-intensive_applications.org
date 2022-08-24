@@ -1,0 +1,10 @@
+#+created: 20220512192129970
+#+genres: IT
+#+goodreads: https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications
+#+modified: 20220512192148524
+#+revision: 0
+#+tags: Book 2022 2read
+#+title: Designing Data-Intensive Applications
+#+type: text/vnd.tiddlywiki
+
+

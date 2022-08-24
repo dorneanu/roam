@@ -1,0 +1,26 @@
+#+created: 20151008155539937
+#+creator: boru
+#+modified: 20210518184433456
+#+modifier: boru
+#+revision: 0
+#+tags: [[Layer 4]]
+#+title: TCP
+#+tmap.id: 60a310df-fb99-4958-aa4c-1cf29fe0c425
+#+type: text/vnd.tiddlywiki
+
+- Definition :: Transmision Control Protocol
+
+** Features
+:PROPERTIES:
+:CUSTOM_ID: features
+:END:
+- Uses [[#Multiplexing][Multiplexing]]
+
+** Header
+:PROPERTIES:
+:CUSTOM_ID: header
+:END:
+** Three-way handshake
+:PROPERTIES:
+:CUSTOM_ID: three-way-handshake
+:END:

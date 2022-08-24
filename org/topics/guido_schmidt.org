@@ -1,0 +1,39 @@
+#+created: 20201117113447852
+#+lang: de
+#+modified: 20210525104443000
+#+origin: https://www.guido-schmidt.de/
+#+revision: 0
+#+tags: Person
+#+title: Guido Schmidt
+#+tmap.id: 9042cf02-70ef-4253-a0bf-3285ff4167d7
+#+type: text/vnd.tiddlywiki
+
+- "erfahrener Sanierer"
+
+- ist Autor und Philosoph
+
+  #+begin_quote
+  "Wissen ist unbegrent, Verständnis ist wenig"
+
+  #+end_quote
+
+- Im Podcat [[https://www.thepioneer.de/originals/der-achte-tag/podcasts/80-guido-schmidt-die-mckinsey-gesellschaft-ist-vorbei][#80 Guido Schmidt: „Die McKinsey-Gesellschaft ist vorbei”]] spricht er über
+
+  - Analyse
+
+    - ein griechisches Wort
+    - bedeutet das Zerteilen in alle möglichen Komponenten
+    - führt eher zur Unübersichtlichkeit
+    - führt immer in die Tiefe
+    - genau dieser Trend hat vor 200 Jahren zur [[#Romantik][Romantik]] geführt
+
+    #+begin_quote
+    Wenn wir verloren sind, sehen wir nicht mehr das Ganze, sondern laufen manisch der Analyse hinterher"
+
+    #+end_quote
+
+  - [[#Die%20McKinsey-Gesellschaft][Die McKinsey-Gesellschaft]]
+
+    - wieso [[#F%C3%BChrung%20vs%20Management][Führung nicht gleich Management]] ist
+
+- hat selber [[https://www.guido-schmidt.de/podcasts/][eine Reihe von Podcasts zu dem Thema]]

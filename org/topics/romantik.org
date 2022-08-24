@@ -1,0 +1,11 @@
+#+created: 20201117114101008
+#+lang: de
+#+modified: 20210608103937385
+#+revision: 0
+#+tags: Stub
+#+title: Romantik
+#+tmap.id: df68b6ea-2cc0-4237-b723-9eddf71b0941
+#+type: text/vnd.tiddlywiki
+
+- es geht darum das Ganze zu verstehen
+- es geht nicht mehr um die *Analyse*, sondern um die *Synthese* (von Hegel vorgeschlagen)

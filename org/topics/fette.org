@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       edb2c853-5d35-47fc-8e8e-183b462aec44
+:END:
+#+created: 20200727103427846
+#+lang: de
+#+modified: 20210518184430213
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]] https://www.jedes-essen-zaehlt.de/
+#+revision: 0
+#+tags: 
+#+title: Fette
+#+tmap.id: 6acc4fb1-5fa4-419b-8e20-1c3830a9fd70
+#+type: text/vnd.tiddlywiki
+
+- Funktion
+  - mechanischer Schutz der Organe
+  - Kälteschutz
+  - Energiespeicher
+  - Ausgangsstffe für die Synthese von
+    - Steroidhormonen
+    - Gallensäuren
+    - [[#Vitamin%20D][Vitamin D]]
+  - Außerdem
+    - Lösungsmittel für folgende Vitamine
+      - [[#Vitamin%20A][Vitamin A]]
+      - [[#Vitamin%20D][Vitamin D]]
+      - [[#Vitamin%20E][Vitamin E]]
+      - [[#Vitamin%20K][Vitamin K]]
+- Bestehen aus einer Kette von 2-30 Kohlenstoffatomen und je 2 Wasserstoffatome
+- Man sagt auch: Die Fettsäure ist mit Wasserstoffatomen gesättigt
+- Arten
+  - [[#Ges%C3%A4ttigte%20Fetts%C3%A4uren][Gesättigte Fettsäuren]]
+  - [[#Unges%C3%A4ttigte%20Fetts%C3%A4uren][Ungesättigte Fettsäuren]]

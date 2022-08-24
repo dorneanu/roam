@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3d7d44e3-8ad6-4c21-8481-f42ed94c143b
+:END:
+#+created: 20200727125909515
+#+lang: de
+#+modified: 20210518184428108
+#+revision: 0
+#+tags: 
+#+title: Alaska-Seelachs
+#+tmap.id: 1febbf1b-139d-47a8-adac-2f2474151b91
+#+type: text/vnd.tiddlywiki
+
+- Gar kein Lachs
+- Eher mit Kabeljau verwandt
+- Enthält eher wenig [[id:a0eaa6ba-8a7d-4bc0-95a2-7a0bdf1a37ef][Omega-3]]

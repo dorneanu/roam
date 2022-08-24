@@ -1,0 +1,8 @@
+#+created: 20210816122213694
+#+modified: 20210903085709816
+#+revision: 0
+#+tags: ProgrammingLanguage
+#+title: Lisp
+#+type: text/vnd.tiddlywiki
+
+

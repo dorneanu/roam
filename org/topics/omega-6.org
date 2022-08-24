@@ -1,0 +1,10 @@
+#+created: 20200921080949255
+#+modified: 20210518184431737
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]] https://www.jedes-essen-zaehlt.de/
+#+revision: 0
+#+title: Omega-6
+#+tmap.id: 7efbfbd2-698b-4649-a056-40d89ff8c570
+#+type: text/vnd.tiddlywiki
+
+- Auch als Linolsäure
+- Veganer nehmen zu viel Omega-6 zu sich auf

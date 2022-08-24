@@ -1,0 +1,9 @@
+#+created: 20210419175942694
+#+modified: 20210518184433603
+#+revision: 0
+#+tags: 
+#+title: The Step-Down Rule
+#+type: text/vnd.tiddlywiki
+
+- you want to read your code as a top-down narrative
+- every function should be followed by those at the next level of abstraction

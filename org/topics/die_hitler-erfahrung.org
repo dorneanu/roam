@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       99fa50fc-36a1-414f-9e37-08749d620da3
+:END:
+#+created: 20201201205407201
+#+lang: de
+#+modified: 20210518184429850
+#+origin: [[<<. bibliography "Gespräche mit Gott Band 2">>]]
+#+revision: 0
+#+tags: 
+#+title: Die Hitler-Erfahrung
+#+type: text/vnd.tiddlywiki
+
+- Hitler wurde in [[#Kollektivbewusstsein][kollektivem Bewusstsein]] erschaffen
+  - die Person hätte es ohne dieses Bewusstsein nicht existieren können
+  - seine Taten haben Millionen unterstützt
+  - erst nach dieser Erfahrung hat die Menschheit erfahren was falsch war und sich neu definiert
+- im Gegensatz zur [[#Die%20Christus-Erfahrung][Christus-Erfahrug]] wurde das Bewusstsein gestärt von
+  - Trennung
+  - Absonderung
+  - Spaltung
+  - Überlegenheit
+  - /wir/ gegen /sie/

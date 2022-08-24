@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       785db760-bdef-410f-af84-7b18961e6e63
+:END:
+#+created: 20201117114219599
+#+modified: 20210525104614171
+#+origin: https://www.heise.de/tp/features/Die-McKinsey-Gesellschaft-3428873.html 
+#+revision: 0
+#+tags: Definition
+#+title: Die McKinsey-Gesellschaft
+#+tmap.id: c32e24ef-c14a-4de3-8e2f-fbe647200db3
+#+type: text/vnd.tiddlywiki
+
+- ist eine effizienzgetriebene Gesellschaft
+- alles wird gemanaged
+- es dreht sich alles um die Analyse
+- Das Management soll rational, objektiv und emotionslos sein
+- nach [[#McKinsey][McKinsey]] ist die Strategieberatung demnach eigentlich eine Effizienzsteigerung

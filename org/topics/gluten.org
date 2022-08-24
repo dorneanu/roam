@@ -1,0 +1,16 @@
+#+created: 20200727105345049
+#+modified: 20220523151548049
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: Definition
+#+title: Gluten
+#+tmap.id: 7e668b85-d48d-46cf-b374-bc7bcbe47e11
+#+type: text/vnd.tiddlywiki
+
+- Ist ein [[#Proteine][Eiweiss]]
+- Glutenunverträglichkeit: Zöliakie
+  - Immunsystem greift Eiweiß an
+  - Es kommt zu Entzündungen
+    - Darmzellen werden zerstört
+    - Bauchkrämpfe
+    - Durchfall

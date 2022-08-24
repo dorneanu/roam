@@ -1,0 +1,14 @@
+#+created: 20210525190314326
+#+modified: 20210525191019234
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]]
+#+revision: 0
+#+tags: Definition
+#+title: Golang/Composition
+#+type: text/vnd.tiddlywiki
+
+- similar to [[#OOP%2FComposition][OOP/Composition]]
+
+  #+begin_quote
+  Classes implement an interface---which is the contract the base class offers. Functionality reuse happens through having references to objects, rather than deriving from classes. This is why many people, including people who code in Go, have the Composition Over Inheritance principle
+
+  #+end_quote

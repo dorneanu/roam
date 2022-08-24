@@ -1,0 +1,8 @@
+#+created: 20211115050851749
+#+modified: 20211115050920197
+#+revision: 0
+#+tags: Definition Stub Architecture
+#+title: SOA
+#+type: text/vnd.tiddlywiki
+
+- Service oriented Architecture

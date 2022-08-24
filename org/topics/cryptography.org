@@ -1,0 +1,70 @@
+#+created: 20180814085448790
+#+creator: boru
+#+modified: 20210518200528654
+#+modifier: boru
+#+revision: 0
+#+tags: Topics Security
+#+title: Cryptography
+#+tmap.id: 3f51bdb5-4d89-469c-bf06-4b7533afa89d
+#+type: text/vnd.tiddlywiki
+
+* Key Exchange
+:PROPERTIES:
+:CUSTOM_ID: key-exchange
+:END:
+- Encrypted Key Exchange (EKE)
+  - [[#Diffie-Hellmann%20Key%20Exchange%20(DH)][Diffie-Hellmann Key Exchange (DH)]]
+- Secure Shell ([[#SSH][SSH]])
+  - The SSH, based on Diffie-Hellman, uses aspects of symmetric and asymmetric cryptography to solve the problem of client-server authentication
+- Transport Layer Security ([[#TLS][TLS]])
+
+* Authentication
+:PROPERTIES:
+:CUSTOM_ID: authentication
+:END:
+tbd (certificate type)
+
+* Confidentiality
+:PROPERTIES:
+:CUSTOM_ID: confidentiality
+:END:
+** Ciphers
+:PROPERTIES:
+:CUSTOM_ID: ciphers
+:END:
+- [[#Symmetric-key%20cryptography][Symmetric-key cryptography]]
+
+** PRNG
+:PROPERTIES:
+:CUSTOM_ID: prng
+:END:
+- [[https://blog.cloudflare.com/why-randomness-matters/][Why randomness is important]]
+
+* Integrity
+:PROPERTIES:
+:CUSTOM_ID: integrity
+:END:
+- [[#Mac%20Authentication%20Code][MAC]]
+- HASH
+
+* Resources
+:PROPERTIES:
+:CUSTOM_ID: resources
+:END:
+- [[http://toc.cryptobook.us]]
+- [[https://blog.cloudflare.com/why-are-some-keys-small/][Importance of key lenghts]]
+  - [[https://www.keylength.com/en/][Cryptographic Key Length Recommendations]]
+- [[https://www.coursera.org/courses?query=cryptography][Coursera]]
+
+** Courses
+:PROPERTIES:
+:CUSTOM_ID: courses
+:END:
+- [[https://www.cs.virginia.edu/~evans/courses/crypto-notes.pdf][Applied Cryptography - Notes by David Evans]]
+  - local copy: cryptography/crypto-notes.pdf"
+
+** Challanges
+:PROPERTIES:
+:CUSTOM_ID: challanges
+:END:
+- [[https://cryptopals.com]]

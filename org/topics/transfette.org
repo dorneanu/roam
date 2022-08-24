@@ -1,0 +1,16 @@
+#+created: 20200727105723821
+#+modified: 20210518184433719
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Transfette
+#+tmap.id: ff442594-e47f-4c51-9086-734861828235
+#+type: text/vnd.tiddlywiki
+
+- Industrieprodukt
+- Versuch aus ungesättigten [[#Fette][Fetten]] auf künstliche Weise zu härten
+- Sorgt für Verstopfung von Zellhüllen
+- Erhöht das böse LDL-Cholesterin und Triglyceride
+- Senkt das gute HDL-Cholesterin
+- Führt zu Entzündungen
+- Führt zur [[#Insulinresistenz][Insulinresistenz]]

@@ -1,0 +1,8 @@
+#+created: 20210817093502199
+#+modified: 20210817093502587
+#+revision: 0
+#+tags: ProgrammingLanguage
+#+title: LUA
+#+type: text/vnd.tiddlywiki
+
+

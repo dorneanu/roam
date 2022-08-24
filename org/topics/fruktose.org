@@ -1,0 +1,23 @@
+#+created: 20200727100301911
+#+lang: de
+#+modified: 20210518184430231
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Fruktose
+#+tmap.id: f25da6b2-c76c-41c8-a902-d1e6e37ab53f
+#+type: text/vnd.tiddlywiki
+
+- Schlimm für die Leber
+- In erster Linie Fettmacher
+- Enthalten in
+  - Obst
+  - Industriell verarbeitete Mitteln
+    - Maissirup
+    - Isoglukose
+- Wird von der Leber regelrecht wie ein Schwamm aufgesaugt
+  - Führt zur Fettansammlung in der Leber
+  - Fett in den Zellen führt zur [[#Insulinresistenz][Insulinresistenz]]
+  - Mehr [[#Insulin][Insulin]] wird ausgeschüttet
+  - Das führt wiederum zu Krebs, Diabetes etc.
+- Signalisiert dem Körper eine Art Winterschlaf (das hat evolutionäre Hintergründe). Ergebnis: Fruktose wird im Form von Fett als Energie gespeichert.

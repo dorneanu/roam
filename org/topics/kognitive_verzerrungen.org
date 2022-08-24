@@ -1,0 +1,30 @@
+#+created: 20210224190237560
+#+modified: 20210518184430783
+#+origin: [[<<. bibliography "Das Experiment sind wir">>]] 
+#+revision: 0
+#+tags: 
+#+title: Kognitive Verzerrungen
+#+type: text/vnd.tiddlywiki
+
+- *Verfügbarkeitsheuristik*
+  - wenn etwas leicht in Erinnerung gerufen werden kann, dann halten wir es auch für wahrscheinlicher
+  - Hängt mit der Medienberichterstattung zusammen
+    - je öfter über eine Sache berichtet wird, erscheint diese den Menschen umso wahrscheinlicher
+- *Repräsentativitätsheuristik*
+  - auch *base rate neglect* genannt
+  - Menschen ordnen Personen einer bestimmten Kategorie zu, weil sie der Meinung sind, die Merkmale der Person würden ganz gut zu dieser Person passen (Stereotype)
+- *kognitive Dissonanz*
+  - auch [[#Confirmation%20bias][Confirmation bias]] genannt
+  - Tendenz, Informationen zu suchen, höher zu /bewerten/, zu /bevorzugen/, die mit den eigenen Einstellungen/Überzeugungen übereinstimmen
+- *Ankereffekt*
+  - Tendenz, sich /übermäßig/ vom Kontext beeinflussen zu lassen, bei Einschätzungen oder Bewertungen
+    - Schlussverkaufspreise/durchgestrichene Preise
+- *negativity bias*
+  - Schlechte Nachrichten haben in der Regel Vorfahrt
+
+    - Hat zum Teil evolutionäre Gründe
+
+    #+begin_quote
+    Eine einzelne Küchenschabe kann den Anblick einer ganzen Schüssel voll Kirschen ruinieren, während eine einzelne Kirsche in einer Schüssel voller Schaben keinerlei Unterschied macht (Paul Rozin)
+
+    #+end_quote

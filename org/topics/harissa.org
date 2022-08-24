@@ -1,0 +1,17 @@
+#+created: 20200726101046476
+#+modified: 20210518184430531
+#+origin: [[How not to die cookbook]] 
+#+revision: 0
+#+tags: recipe
+#+title: Harissa
+#+tmap.id: 534db46a-c43a-4186-925f-4bf744339702
+#+type: text/vnd.tiddlywiki
+
+Zutaten:
+
+- getrocknete scharfe rote Chilischoten
+- Koriandersamen
+- Kümmel
+- Kreuzkümmel
+- geröstete rote Paprika
+- Knoblauchzehen

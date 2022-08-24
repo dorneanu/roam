@@ -1,0 +1,8 @@
+#+created: 20210519064017691
+#+modified: 20210519064000975
+#+revision: 0
+#+tags: Person
+#+title: SorenBjornstad
+#+type: text/vnd.tiddlywiki
+
+- Author of [[https://www.sorenbjornstad.com/]]

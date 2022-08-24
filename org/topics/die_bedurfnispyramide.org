@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       60f9cba5-833f-4c8c-ad84-e3b6561be632
+:END:
+#+created: 20201205192821076
+#+lang: de
+#+modified: 20210518184429810
+#+origin: [[<<. bibliography "Slow Family">>]]
+#+revision: 0
+#+tags: 
+#+title: Die Bedürfnispyramide
+#+type: text/vnd.tiddlywiki
+
+Nach Abraham Maslow (Gründer der humanistichen Psychologie):
+
+- Existentielle Grundbedürfnisse
+- Sicherheit und Schutz
+- Soziale Bedürfnisse
+- Anerkennung
+- Selbstverwirklichung

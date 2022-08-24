@@ -1,0 +1,31 @@
+#+created: 20210419180917466
+#+modified: 20210830181401645
+#+origin: [[<<. bibliography "The Clean Code">>]] 
+#+revision: 0
+#+tags: 
+#+title: Software Testing
+#+type: text/vnd.tiddlywiki
+
+- Benefits
+  - unit tests keep code flexible, maintainable and reusable
+
+  - without tests every change feels like a possible bug
+
+  - no matter how flexible your architecture/design is, without tests it's hard to make changes because of the fear that bugs will be introduced into the code
+
+    #+begin_quote
+    The problem with testing code is that you have to isolate that code. It is often difficult to test a function if that function calls other functions. To write that test you've got to figure out some way to decouple the function from all the others. In other words, the need to test first forces you to think about good design.
+    #+end_quote
+
+- tests follow [[id:1f9dad4f-076a-4d66-a3d2-3ccd3b485c46][Dependency Inversion Principle]]
+  - they are detailed and concrete
+  - and always depend inward toward the code being tested
+  - in fact it is the outermost circle in the [[#Software%20Architecture][architecture]]
+- Rules how to write tests
+  - [[id:5030aa8c-a8df-443c-9180-61532daae311][F.I.R.S.T.]]
+- Types
+  - [[#Unit%20Tests][Unit Tests]]
+  - [[#Integration%20Tests][Integration Tests]]
+  - [[#A%2FB%20Tests][A/B Tests]]
+- [[#TDD][TDD]]
+- [[#Build%20Operate%20Check%20Pattern][Build Operate Check Pattern]]

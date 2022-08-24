@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       b125eb1d-d029-4672-bb6d-b1be01362ef5
+:END:
+#+created: 20200922185224635
+#+lang: de
+#+modified: 20210518184430813
+#+origin: [[<<. bibliography "Das Café am Rande der Welt">>]]
+#+revision: 0
+#+tags: 
+#+title: Konsum und Aufmerksamkeit
+#+tmap.id: 6ffd92a6-3dda-41f5-bf2c-7d03836469b2
+#+type: text/vnd.tiddlywiki
+
+- Die Werbeindustrie will uns vorschwindeln, dass bestimmte Produkte/Dienstleistungen unser Leben glücklicher machen würden
+- Also konsumieren wir und gehen Arbeiten, damit wir uns das leisten können
+- Dabei wird uns ständig die Zeit und die Aufmerksamkeit ([[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]]) geraubt, so dass wir gar nicht mehr darüber nachdenken, ob die "Konsumgüter" sinnvoll sind oder nicht
+
+#+begin_quote
+Wenn ich für mich herausfinden würde, warum ich hier bin, und die Dinge täte, die dem Sinn und Zweck meines Daseins entsprechen, dann würde ich mir wahrscheinlich weniger Sorgen ums Geld machen.
+
+#+end_quote
+
+- Wir werden enttäuscht und hoffen, dass ein anderes Produkt unser Leben glücklicher machen könnte
+- Es entsteht also ein *Teufelskreis*
+
+#+begin_quote
+Wir haben darüber gesprochen, dass manche Menschen nach mehr Geld streben, damit sie mehr kaufen können. Sie hoffen, dass das Gekaufte sie erfüllen wird, da sie nicht das tun, was ihnen entspricht. Aber je mehr sie kaufen, desto mehr müssen sie arbeiten, um alles zu bezahlen. Wenn sie nicht aufpassen, entsteht ein Teufelskreis, der sich ständig verschlimmert.
+
+#+end_quote
+
+#+begin_quote
+"Unsere Aufgabe", so sagte er, "besteht darin zu erkennen, dass uns etwas erfüllt, weil wir es selbst nun einmal so empfinden, und nicht, weil jemand anderer uns sagt, dass es erfüllend ist".
+#+end_quote

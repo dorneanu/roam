@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       adce7f16-ab79-4935-b73e-71f3740a071f
+:END:
+#+created: 20201007122855765
+#+modified: 20220804105118503
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]] [[<<. bibliography "Building Microservices (2nd edition)">>]]
+#+revision: 0
+#+tags: Definition
+#+title: Microservices
+#+tmap.id: f40b974f-f3a8-48b2-bf85-3efdbb7e77e0
+#+type: text/vnd.tiddlywiki
+
+Definition
+
+#+begin_quote
+The basic concept of a microservice is simple---it's a simple, standalone application that does one thing only and does that one thing well. The objective is to retain the simplicity, isolation, and productivity of the early app. A microservice cannot live alone; no microservice is an island---it is part of a larger system, running and working alongside other microservices to accomplish what would normally be handled by one large standalone application.
+-- [[id:b31d2bdd-9c82-4e0d-aaa3-c694f10eaec8][Hands-On Software Architecture with Golang]]
+#+end_quote
+
+
+* Definition
+- Each microservice is:
+  - autonomous
+  - independent
+  - self-contained
+  - and individually deployable
+  - and scalable.
+* Concepts
+- Independent deployability
+  - criteria for this: make sure microservices are loosely coupled
+    - be able to change one service without having to change anything else
+- Modeled around a business domain
+  - definition of service boundaries (see [[id:7c4e66f6-ce2d-441b-8c33-51ba6aec412c][DDD]])
+- Owning their own state
+  - hide internal state (same as encapsulation in [[id:67ed9b34-5527-4d13-ba77-6dacc5d47df3][OOP]])
+  - clean delineation between internal implementation details and external contract
+    - be backward-compatible
+  - hide database that backs the service
+    - avoid DB showing
+- Size
+  #+begin_quote
+  "A microservice should be as big as my head" - James Lewis
+  #+end_quote
+    - keep it to the size at which it can be easily understood
+- Flexibility
+  #+begin_quote
+  "Microservices buy you options" - James Lewis
+  #+end_quote
+    - they have a cost and you must decide whether the cost is worth the options you want to take up
+- Alignment of architecture and organization
+  #+begin_quote
+  - "Organizations which design systems are constrained to produce designs which are copies of the communication structures of the organization" - Melvin Conway
+  #+end_quote
+  - have team vertically organized
+    - same team owns front-end, business logic, data, back-end, security
+      - a so called stream-aligned team
+* Advantages
+  - use the componentization strategy
+    - divide and rule more effectively
+    - with clear boundaries between components.
+  - create the right tool for each job in a microservice
+  - testability
+  - improved developer productivity and feature velocity.
+* Resources
+- from [[id:1e4babae-fcb3-42a4-ab95-9384e1c7ee27][Building Microservices (2nd edition)]]

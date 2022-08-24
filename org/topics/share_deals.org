@@ -1,0 +1,9 @@
+#+created: 20210802113925160
+#+modified: 20210802120613569
+#+revision: 0
+#+tags: Stub
+#+title: Share Deals
+#+type: text/vnd.tiddlywiki
+
+- Artikel
+  - [[https://correctiv.org/aktuelles/wem-gehoert-die-stadt/2021/04/14/neues-gesetz-immobilienkonzerne-sollen-kuenftig-beim-kauf-steuern-zahlen/][Immobilienkonzerne sollen künftig Steuern zahlen]]

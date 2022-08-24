@@ -1,0 +1,10 @@
+#+created: 20220322084556469
+#+modified: 20220322084631057
+#+revision: 0
+#+tags: AppSec
+#+title: HTTP Request smuggling
+#+type: text/vnd.tiddlywiki
+
+- Resources
+  - [[https://snyk.io/blog/demystifying-http-request-smuggling/]]
+  - [[https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn]]

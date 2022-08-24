@@ -1,0 +1,14 @@
+#+created: 20201201190409114
+#+modified: 20210520135240407
+#+revision: 0
+#+tags: Tiddlywiki
+#+title: EmergencyExports
+#+type: text/vnd.tiddlywiki
+
+Some filter to easily export tiddlers when something went wrong:
+
+- 
+  - All kind of customizations
+
+- Tiddlers
+  - =[tag[$:/brainfck]][!is[system]]=

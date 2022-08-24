@@ -1,0 +1,22 @@
+#+created: 20210421185951581
+#+modified: 20210525191006272
+#+revision: 0
+#+tags: Definition
+#+title: Design Patterns/Structural
+#+type: text/vnd.tiddlywiki
+
+- In Software Engineering, Structural Design Patterns are Design Patterns that ease the design by identifying a simple way to realize relationships between entities -- [[https://sourcemaking.com/design_patterns/structural_patterns][Source]]
+
+- Adapter
+
+- Bridge
+
+- Composite
+
+- Decorator
+
+- Facade
+
+- Flyweight
+
+- Proxy

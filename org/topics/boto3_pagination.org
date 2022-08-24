@@ -1,0 +1,40 @@
+#+created: 20191209134534741
+#+modified: 20210518200455312
+#+origin: https://operatingops.org/2019/07/29/how-to-paginate-in-boto3-use-collections-instead/ https://boto3.amazonaws.com/v1/documentation/api/latest/guide/collections.html
+#+revision: 0
+#+tags: Python
+#+title: Boto3 Pagination
+#+tmap.id: 5b21418f-1077-41b5-bae2-47b8b69203b5
+#+type: text/vnd.tiddlywiki
+
+** Using paginator
+:PROPERTIES:
+:CUSTOM_ID: using-paginator
+:END:
+#+begin_example
+import boto3
+ 
+s3 = boto3.client('s3')
+ 
+paginator = s3.get_paginator('list_objects_v2')
+pages = paginator.paginate(Bucket='my-bucket')
+ 
+for page in pages:
+    for object in page['Contents']:
+        print(object['Key'])
+#+end_example
+
+** Using collections
+:PROPERTIES:
+:CUSTOM_ID: using-collections
+:END:
+#+begin_example
+import boto3
+ 
+s3 = boto3.resource('s3')
+bucket = s3.Bucket('my-buycket')
+objects = bucket.objects.all()
+ 
+for object in objects:
+    print(object.key)
+#+end_example

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c3ef65fd-c557-4ae9-8c8f-44aff34a3ecd
+:END:
+#+created: 20201204194825187
+#+lang: de
+#+modified: 20210518184429871
+#+origin: [[<<. bibliography "Gespräche mit Gott Band 2">>]]
+#+revision: 0
+#+tags: 
+#+title: Die universelle Lösung
+#+type: text/vnd.tiddlywiki
+
+Die Antwort auf die Probleme der [[#Die%20Gesellschaft%20heute][Gesellschaft von heute]] ist auch universell:
+
+#+begin_quote
+Ihr müsst aufhören, Gott als von euch und euch selbst als voneinander getrennt zu betrachten. Die /einzige/ Lösung ist diese höchste Wahrheit: Es existiert im Universum nichts, das von irgend etwas anderem getrennt ist. /Alles/ ist zutiefst miteinander verbunden, unwiderruflich wechselseitig voneinander abhängig, interaktiv, eingewoben in den Stoff allen Lebens.
+
+#+end_quote

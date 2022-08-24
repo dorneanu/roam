@@ -1,0 +1,9 @@
+#+created: 20201209083944304
+#+modified: 20210518184430594
+#+revision: 0
+#+tags: TODO
+#+title: Hybrid Mind
+#+type: text/vnd.tiddlywiki
+
+- Definiert von Richard Louv
+  - siehe [[https://npjscilearncommunity.nature.com/posts/back-to-the-school-of-the-future][Back to the school of future]]

@@ -1,0 +1,15 @@
+#+created: 20210608091946166
+#+modified: 20210608092041636
+#+revision: 0
+#+tags: 
+#+title: Führungskräfte und Motivation
+#+type: text/vnd.tiddlywiki
+
+- Wie können Führungskräfte ihre Mitarbeiter motivieren?
+  - Führungskräfte sollen vermitteln welche Ziele erreicht werden sollen und [[#Start%20with%20Why%20-%20How%20Great%20Leaders%20Inspire%20Everyone%20To%20Take%20Action][warum]]
+  - Mitarbeiter bei der Problemlösung mit einbeziehen
+  - Den Mitarbeitern die "Regeln des Spiels" erläutern
+    - Erwartungshaltungen
+    - Konkrete Ziele/Aufgaben
+  - Ziele der Leute mit den Zielen des Unternehmens verbinden ([[#Zweck%20der%20Existenz][Zweck der Existenz]] + [[#The%20Big%20Five%20for%20Life][The Big Five for Life]])
+  - Wenn jemand nicht in ein Team passt, sollte man sie/ihn umgehend aus dem Team herausnehmen (sehr radikal!)

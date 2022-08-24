@@ -1,0 +1,8 @@
+#+created: 20201019085650966
+#+modified: 20210518184433957
+#+revision: 0
+#+title: Yama
+#+tmap.id: acc93f9c-f014-4523-b13e-8bb44f572bc2
+#+type: text/vnd.tiddlywiki
+
+

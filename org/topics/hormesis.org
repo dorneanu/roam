@@ -1,0 +1,11 @@
+#+created: 20210117185356130
+#+modified: 20210518184430575
+#+origin: [[<<. bibliography "The Wim Hof Method">>]] 
+#+revision: 0
+#+tags: 
+#+title: Hormesis
+#+type: text/vnd.tiddlywiki
+
+- also known as *hormetic stress*
+- used to boost resilience
+- defines an effect where expose to a low level of stress results in a beneficial result

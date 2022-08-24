@@ -1,0 +1,9 @@
+#+created: 20220429124751116
+#+modified: 20220429125121461
+#+revision: 0
+#+tags: 
+#+title: Books/2read
+#+type: text/vnd.tiddlywiki
+#+xlist: 2022
+
+This list is not complete yet. I'd like to move anything from [[#Books%2FTODO][Books/TODO]] into own tiddlers.

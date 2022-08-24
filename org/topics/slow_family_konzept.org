@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aa54f260-99c5-4640-9bb0-ca4bffef03f9
+:END:
+#+title: Slow Family (Konzept)
+#+created: 20201209084538693
+#+modified: 20210518184432922
+#+origin: [[<<. bibliography "Slow Family">>]]
+#+revision: 0
+#+tags:
+#+type: text/vnd.tiddlywiki
+
+- 7 Zutaten für eine glückliche Familie
+  - Liebe
+  - Natur
+  - Achtsamkeit
+  - Menschen
+    - der [[id:6e77b22e-eee8-44fc-9d8c-7e70a165b09d][Mere-Exposure Effect]] ist auch bei Menschen zu beobachten
+  - Resourcen
+  - Wissen
+  - Zauber
+- Auch die Umgebung der Familie ist wichtig
+  - /Slow Village/ als Pendant zu dem Dorf in [[id:67080028-4f04-4174-a2ae-60022d293cc3][Artgerecht]]

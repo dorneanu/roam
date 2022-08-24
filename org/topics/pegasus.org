@@ -1,0 +1,8 @@
+#+created: 20210802113318860
+#+modified: 20210802113406784
+#+revision: 0
+#+tags: 
+#+title: Pegasus
+#+type: text/vnd.tiddlywiki
+
+- [[https://s3.documentcloud.org/documents/4599753/NSO-Pegasus.pdf]]

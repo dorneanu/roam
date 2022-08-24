@@ -1,0 +1,17 @@
+#+created: 20200920093759689
+#+modified: 20210518184430930
+#+revision: 0
+#+stream-type: singletiddler
+#+tags: 
+#+title: Lebensversicherung
+#+tmap.id: c71287e4-75bb-4039-b796-f3f05e06d094
+#+type: text/vnd.tiddlywiki
+
+- Akteure
+  - Allianz
+    - investiert indirekt über Fonds in [[#Wohnimmobilienkonzerne][Wohnimmobilienkonzerne]]
+    - über Rentenfonds Anteile an Vonovia
+  - Die Sparkassen
+    - über Deka Investment Fonds Anteile an Vonovia
+  - Generali
+    - hält Anteile an Vonovia

@@ -1,0 +1,11 @@
+#+created: 20210117190835652
+#+modified: 20210518184429994
+#+origin: [[<<. bibliography "The Wim Hof Method">>]] 
+#+revision: 0
+#+tags: 
+#+title: DMT
+#+type: text/vnd.tiddlywiki
+
+- /dimethyltryptamine/
+- a psychoactive chemical
+- usually released during the REM cycle

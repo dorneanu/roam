@@ -1,0 +1,10 @@
+#+created: 20191210120502429
+#+modified: 20210518184429985
+#+origin: https://www.dmarcanalyzer.com/dmarc/
+#+revision: 0
+#+tags: E-Mail
+#+title: DMARC
+#+tmap.id: 3750baab-9c7c-4a83-97c4-ad73165517b0
+#+type: text/vnd.tiddlywiki
+
+- Domain-based Message Authentication Reporting and Conformance :: an email validation system designed to protect your company's email domain from being used for email spoofing, phishing scams and other cybercrimes. DMARC leverages the existing email authentication techniques [[#SPF][SPF]] (Sender Policy Framework) [[#DKIM][DKIM]] (Domain Keys Identified Mail). DMARC adds an important function, reporting. When a domain owner publishes a DMARC record into their [[#DNS][DNS]] record, they will gain insight in who is sending email on behalf of their domain. This information can be used to get detailed information about the email channel. With this information a domain owner can get control over the email sent on his behalf. You can use DMARC to protect your domains against abuse in phishing or spoofing attacks.

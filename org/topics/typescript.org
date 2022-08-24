@@ -1,0 +1,8 @@
+#+created: 20220401042702336
+#+modified: 20220401042721493
+#+revision: 0
+#+tags: ProgrammingLanguage
+#+title: TypeScript
+#+type: text/vnd.tiddlywiki
+
+

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       9ee53569-8cad-4ac7-92f8-e9600431320d
+:END:
+#+created: 20210121191807358
+#+modified: 20210518184428703
+#+origin: [[<<. bibliography "The Wim Hof Method">>]] 
+#+revision: 0
+#+title: Brown fat
+#+type: text/vnd.tiddlywiki
+
+- plays a key role (for babies) in /thermoregulation/ and /thermogenesis/
+  - heat is created when babies become cold because they're not able to move around as adults can
+- white fat stores energy
+  - but /brown/ fat is capable of energy combustion
+- as we grow the amount of brown fat decreases because of climate-controller lifestyle

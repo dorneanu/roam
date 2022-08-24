@@ -1,0 +1,13 @@
+#+created: 20150914181311238
+#+modified: 20210518184431005
+#+revision: 0
+#+tags: [[Layer 2]]
+#+title: MAC Address Table
+#+tmap.id: 3fca438f-1ebe-426b-afec-7e57c72030a2
+#+type: text/vnd.tiddlywiki
+
+*Description*:
+
+- Listing of all ports on the switch and the MACs of the devices that are connected on the other end of ther port
+- Switches learn about the MACs by looking at the "src" addr field
+- If destination is unknown, all the connected devices get the frame

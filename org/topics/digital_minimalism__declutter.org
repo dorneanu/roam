@@ -1,0 +1,12 @@
+#+created: 20220419085129997
+#+modified: 20220502182951200
+#+origin: [[<<. bibliography "Digital Minimalism" >>]]
+#+revision: 0
+#+tags: 
+#+title: Digital Minimalism / Declutter
+#+type: text/vnd.tiddlywiki
+
+- put aside a 30-day period where you take a break from optional technologies in your life
+- during this period explore and re-discover activities that you find meaningful and satisfying
+- at the end of the break period reintroduce optional technologies into your life starting from a blank state
+  - evaluate how each techonology adds value to your life and how you'll use it to maximize its use

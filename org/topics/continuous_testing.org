@@ -1,0 +1,9 @@
+#+created: 20211112053854359
+#+modified: 20211112054046455
+#+revision: 0
+#+title: Continuous Testing
+#+type: text/vnd.tiddlywiki
+
+- tests should run as vital part of the development process
+- automated unit tests and acceptance tests should run against every commit to the VC in order to give developers feedback on their changes
+- also see [[#Software%20Testing][Software Testing]]

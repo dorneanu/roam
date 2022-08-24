@@ -1,0 +1,22 @@
+#+created: 20201110082543573
+#+modified: 20220328190433613
+#+origin: [[<<. bibliography "Dein kompetentes Kind">>]] [[<<. bibliography "Die kompetente Familie">>]] [[<<. bibliography "So viel Freude, so viel Wut" >>]]
+#+revision: 0
+#+tags: Definition
+#+title: Gleichwürdige Familie
+#+tmap.id: 71f315f2-d9cd-46aa-a0d4-2b1147791a05
+#+type: text/vnd.tiddlywiki
+
+- /gleichwürdig/ heisst, dass die Rollen in einer Beziehung (Eltern - Eltern, Eltern - Kind) immer wieder aufs Neue beschrieben werden (unabhängig von der Rollenverteilung)
+  - und nicht wie in Südeuropa:
+- beide Elternteile sind gleichermaßen /entscheidungskompetent/
+- in der Famile haben alle das gleich Recht and /Würde/
+  - aber nicht das gleiche Entscheidungsrecht
+- Entscheidungen werden gemeinsam getroffen oder von der Person, die kompetent ist
+- im Gegensatz zur /demokratischen/ Familie werden Entscheidungen auch dann akzeptiert, wenn nicht beide Elternteile damit einverstanden sind
+- ein /demokratisches/ Modell sollte es trotzdem *nicht* sein
+  - Beschlüsse werden gemeinschaftlich diskutiert oder in Übereinstimmung gefasst
+  - dennoch sollten Konflikte auch wirklich ausgetragen werden und sich nicht in Analysen und Unterlagen vertiefen, "statt mit der Fernbedienung zu werfen" ([[#Guido%20Schmidt][Mehr Synthese, weniger Analyse]])
+- Eltern betrachten die Lebensäußerungen, Ansichten, Bedürfnisse und Wünsche des Kindes mit derselben Priorität wie ihrer eigenen
+- Kinder müssen (und wollen!) sich an Eltern orientieren
+  - Kinder sollen angstfrei zu den Eltern aufschauen und /Entscheidungen/ respektieren

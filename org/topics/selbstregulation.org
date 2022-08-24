@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cbfafa4f-4893-431a-bb11-7379e443fc29
+:END:
+#+created: 20220321193510516
+#+modified: 20220321193522104
+#+revision: 0
+#+tags: Definition
+#+title: Selbstregulation
+#+type: text/vnd.tiddlywiki
+
+

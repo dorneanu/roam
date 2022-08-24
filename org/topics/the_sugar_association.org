@@ -1,0 +1,18 @@
+#+created: 20201005071631485
+#+lang: de
+#+modified: 20210518184433613
+#+revision: 0
+#+tags: 
+#+title: The Sugar Association
+#+tmap.id: 2d325d2e-0017-4a66-88e2-b9e3a9a1b086
+#+type: text/vnd.tiddlywiki
+
+- J.W. Tatem Jr.
+  - "Widersprecht und ihr werdet um eure Existenz gebracht" -- J.W.Tatem Jr.
+- [[#%5Bhttps%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFredrick_J._Stare][Frederick J. Stare]]
+  - Direktor einer Fakultät an der Harvard
+  - Fakultät hatte sich durch Gelder aus der Industrie finanziert
+  - Immer wieder trat Stare an die Öffentlichkeit und hat behauptet Zucker sei unschädlich
+- Argumente
+  - Das : "[[#Zucker][Zucker]] hat nur x Kalorien"
+  - Schuld an der Fettleibigkeit sei [[#Fette][Fett]]

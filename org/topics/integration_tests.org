@@ -1,0 +1,9 @@
+#+created: 20210419181446378
+#+modified: 20210518184710373
+#+origin: [[<<. bibliography "The Clean Code">>]] 
+#+revision: 0
+#+title: Integration Tests
+#+type: text/vnd.tiddlywiki
+
+- > Integration tests are choreography tests. They do not test business rules. Rather, they test how well the assembly of components dances together. They are plumbing tests that make sure that the components are properly connected and can clearly communicate with each
+- typically written by system architects, lead designers

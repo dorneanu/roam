@@ -1,0 +1,30 @@
+#+created: 20201005080911419
+#+modified: 20210615082305380
+#+origin: https://leanpub.com/golang-tdd/read [[<<. bibliography "The Clean Code">>]] 
+#+revision: 0
+#+tags: [[Software Engineering]] Topics
+#+title: TDD
+#+tmap.id: 808d788e-0ccf-432d-afd4-c7f433accc2d
+#+type: text/vnd.tiddlywiki
+
+#+begin_quote
+Test-driven development is a strict discipline for creating modular, well-designed and testable code without doing any upfront design. It achieves this by making you work in extremely short cycles: create an automated test, write the minimum amount of code to satisfy that test, and refactor your code to improve the quality.
+
+#+end_quote
+
+- Cycles
+  - There are *3 cycles*
+    - Red
+      - you may not write production code until you have written a failling unit testjk
+
+      - The cycle starts by writing a test that captures the new requirement; this test is expected to fail. Many tools display test failures in red, hence the name.
+
+    - Green
+      - you may not write more of a unit test than is sufficient to fail
+
+      - The cycle continues by writing the minimal amount of code necessary to satify the tests. This name too is derived from the fact that many tools display test success in green. When you start practicing test-driven development, it is a common pitfall to write more than the minimal amount of code. Be aware of this, and keep asking yourself if you are doing more than the minimum required.
+
+    - Refactor
+      - you should not write more production code than is needed to satisfy the unit test
+
+      - The latest step in the cycle is what makes test-driven development a viable process: it forces you to step back, to look at your code, and to improve its structure without adding any functionality. The refactor step is not an optional step6 -- without this step your code will quickly degenerate into a well-tested but incomprehensible mess.

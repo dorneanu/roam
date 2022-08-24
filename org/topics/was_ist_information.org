@@ -1,0 +1,10 @@
+#+created: 20210202183704926
+#+modified: 20210518184856261
+#+origin: [[<<. bibliography "Das Experiment sind wir">>]] 
+#+revision: 0
+#+tags: Stub
+#+title: Was ist Information
+#+type: text/vnd.tiddlywiki
+
+- Nach Shannon
+  - Definition veröffentlicht zum ersten Mal in [[https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication][A mathematical theory of communication]]

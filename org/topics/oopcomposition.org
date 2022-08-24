@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       485f4f0e-946f-4a8c-8b02-f2b73d101531
+:END:
+#+created: 20210525190217285
+#+modified: 20210622082827032
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]]
+#+revision: 0
+#+tags: Definition
+#+title: OOP/Composition
+#+type: text/vnd.tiddlywiki
+
+- An alternative to [[id:d67a97d6-a1be-4b23-bd7b-c99f52c4e2a8][OOP/Inheritance]] is to delegate behavior, also called
+  composition. Instead of an is a, this is a has a relationship. It refers to
+  combining simple types to make more complex ones.

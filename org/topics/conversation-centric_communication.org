@@ -1,0 +1,14 @@
+#+created: 20220419091835474
+#+modified: 20220502182604558
+#+origin: [[<<. bibliography "Digital Minimalism" >>]]
+#+revision: 0
+#+tags: Definition
+#+title: Conversation-Centric Communication
+#+type: text/vnd.tiddlywiki
+
+- conversation is the only form of interaction that in some sense counts toward maintaining a relationship
+  - conversation has to match [[#Sherry%20Turkle][Sherry Turkle]]'s criteria of involving nuanced analog cues
+    - tone of your voice
+    - facial expression
+  - anything textual or non-interactive (social media, email, text instant messaging) counts more as a *"mere connection"*
+  - digital tools can help to arrange conversations

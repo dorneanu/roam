@@ -1,0 +1,10 @@
+#+created: 20200920094624604
+#+modified: 20210518184430774
+#+revision: 0
+#+stream-type: singletiddler
+#+tags: Topics TODO
+#+title: Klimakrise
+#+tmap.id: b71634cd-bf12-4df0-91ae-383cfba369f3
+#+type: text/vnd.tiddlywiki
+
+- Die Öl-Nachfrage auf der ganzen Welt sinkt. [[#ExxonMobil][ExxonMobil]] wird aus dem Dow Jones rausgeschmissen und dabei wird klar, dass die nächste Abhängigkeit bevorsteht. China hat schon heute ein starkes Monopol auf viele Ressourcen, die für Windräder, Batterien oder andere Stoffe benötigt werden. ()

@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       4a1f1ff3-31f8-4791-a854-b3a71fbd887e
+:END:
+#+created: 20180808120332439
+#+creator: boru
+#+modified: 20210919152223128
+#+modifier: boru
+#+revision: 0
+#+filetags: :security:
+#+title: Cloud Security
+#+tmap.id: 3f2a5e47-18bd-4a4c-b491-272b4f26166a
+#+type: text/vnd.tiddlywiki
+
+* Network Security
+- physical env security
+- logical network security
+  - security of link, protocol and application layer services
+* Cryptography
+- encryption
+  - data in transit
+  - data at rest
+  - key management
+** Key management
+- remote key management service (also see [[id:e8fc9b18-1674-4358-ad10-10ba8e675469][AWS/KMS]])
+- client-side key management
+* Access control
+- IAM :: includes people, processes and systems that are used to manage access to enterprise resources (also see [[#AWS%2FIAM][AWS/IAM]])
+* Data and Media Sanitization
+- Vendor lock-in :: highlights where a customer may be unable to leave, migrate, or transfer to an alternate provider due to technical or nontechnical constraints
+* Virtualization Security
+- Hypervisors
+
+- Type 1 hypervisors :: running directly on the hardware with VMs resources provided by the hypervisor. "Bare metal" hypervisors (examples: VMWare ESXi, Citrix [[#XenServer][XenServer]])
+- Type 2 hypervisors :: run on a operating system to provide virtualization services (examples: VMWare Workstation, [[#VirtualBox][VirtualBox]])
+
+* Common Threats
+- Data Breaches
+- Data Loss
+- Account or Service Traffic Hijacking
+- Insecure Interfaces and APIs
+- Denial of Service
+- Malicious Insiders
+- Abuse of Cloud Services
+- Insufficient Due Diligence
+  - not understanding the risks
+- Shared Technology Vulnerabilites

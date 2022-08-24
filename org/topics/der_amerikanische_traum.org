@@ -1,0 +1,20 @@
+#+created: 20201204201726363
+#+lang: de
+#+modified: 20210518184429657
+#+origin: [[<<. bibliography "Gespräche mit Gott Band 2">>]]
+#+revision: 0
+#+tags: 
+#+title: Der Amerikanische Traum
+#+type: text/vnd.tiddlywiki
+
+- Amerikaner würden sich über Status definieren
+  - es geht dabei um individuelles Bemühen und Streben
+  - "manche haben es geschafft"
+  - also nehmen die meisten an, dass /jeder/ es schaffen kann
+- Die Betrachtungsweise ist aber naiv
+  - weil davon ausgegangen wird, dass jede(r) dieselben Chance hat
+  - diejenigen, die die Macht eh besitzen,
+    - elimieren systematisch *Wettbewerbschancen*
+    - minimieren *Aufstiegschancen*
+    - kontrollieren die Vermehrung ihres *eigenen Reichtums*
+  - die "Armen" bekommen also keine /faire/ Chance

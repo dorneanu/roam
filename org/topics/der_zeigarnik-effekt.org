@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5eada444-229f-422a-bead-1dbf57fb97ea
+:END:
+#+created: 20200912142851387
+#+lang: de
+#+modified: 20210518184429711
+#+origin: [[<<. bibliography "Das Zetteklkasten-Prinzip">>]]
+#+revision: 0
+#+title: Der Zeigarnik-Effekt
+#+tmap.id: d2941170-e0fe-47af-9422-24b88bd85003
+#+type: text/vnd.tiddlywiki
+
+- Unerledigte Aufgaben rauben dem Hirn neutrale Kapazitäten bis sie erledigt werden oder durch neue ersetzt werden
+- Unerledigte Aufgabe kann schriftlich festgehalten werden; das Gehirn behandelt diese als wäre sie erledigt
+- Umgekehrt heisst das: Den Effekt nutzen, um dem Kopf dir Gelegenheit zu geben ohne gezielte Aufmerksamkeit, auf die Lösung zu kommen
+- siehe auch [[https://de.wikipedia.org/wiki/Zeigarnik-Effekt][Artikel auf Wikipedia]]

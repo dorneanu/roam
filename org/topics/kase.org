@@ -1,0 +1,17 @@
+#+created: 20200727110027031
+#+modified: 20210519071313741
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Käse
+#+tmap.id: 1bf48ed6-dbc7-471f-bc0f-c5e9f3a8f236
+#+type: text/vnd.tiddlywiki
+
+- Enthält [[#Kalzium][Kalzium]]
+  - Bindet sich im Darm an Fettmolekülen an
+  - Darm nimmt weniger [Fett](#Fette) auf
+- Enthält [[#Vitamin%20K][Vitamin K]]
+  - Wichtig für Bluttgerinnun
+  - Schützt Arterien vor Verkalkung
+  - Kann aber Gefäße auch entkalken
+- Enthält [[#Spermidin][Spermidin]]

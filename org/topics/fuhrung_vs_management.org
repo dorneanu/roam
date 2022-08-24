@@ -1,0 +1,15 @@
+#+created: 20201117114721022
+#+modified: 20210518184430240
+#+origin: [[Guido Schmidt]]
+#+revision: 0
+#+title: Führung vs Management
+#+tmap.id: 31015c59-6a14-40a6-aa97-acc85fbf6932
+#+type: text/vnd.tiddlywiki
+
+- Die Führung unterscheidet sich vom Management
+  - Das Management ist quasi das Zombie des [[https://www.economist.com/science-and-technology/2005/04/07/homo-economicus][homo economicus]]
+- Bei Führung geht es
+  - um ein emotionales Verstehen
+  - große Dinge tun
+  - Visionen haben
+  - emotionale Intelligenz an den Tag legen

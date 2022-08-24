@@ -1,0 +1,16 @@
+#+created: 20200913202124300
+#+modified: 20210518184431778
+#+origin: [[<<. bibliography "How not to die" "How not to die">>]]
+#+revision: 0
+#+tags: 
+#+title: Oxidative phosphorylation
+#+tmap.id: d7fefbbe-cb8a-4c39-b87e-591ce0eb98b2
+#+type: text/vnd.tiddlywiki
+
+- cells take high-energy electrons and release their energy in a controlled manner
+- the body passes electrons to oxygen
+- but oxygen is impatient and wants the high-energy electrons
+- ca. 1-2% of the high-energy electrons are grabbed by oxygen
+- oxygen turns into hulk: superoxid type of free radical
+- superoxid is out of control, smashes around the cell, is damaging the [[#DNA][DNA]]: [[#Mitochondrial%20theory%20of%20aging][cell aging]]
+- this process is also called *oxidative stress*

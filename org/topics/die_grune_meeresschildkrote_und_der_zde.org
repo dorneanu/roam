@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c01e4708-7297-487d-8acb-b373cbbfd8d4
+:END:
+#+created: 20200922183627468
+#+lang: de
+#+modified: 20210518203314191
+#+origin: [[<<. bibliography "Das Café am Rande der Welt">>]]
+#+revision: 0
+#+stream-type: singletiddler
+#+tags: 
+#+title: Die grüne Meeresschildkröte und der ZDE
+#+tmap.id: 3e4bdfcf-c2da-4126-90cd-59a9dbdb42bd
+#+type: text/vnd.tiddlywiki
+
+- aus der Erzählung im ob man sein Leben an die Umgebung/Umstände anpasst
+- man kann seine Energie mit einer Menge anderer Dige "verschwenden"
+- wenn sich die Gelegenheit bietet, das zu tun, was man möchte, ist keine Kraft/Zeit mehr da
+- der *Sinn* dabei:
+  - Wir werden alltäglich Reizen ausgesetzt, die unsere Aufmerksamkeit berauben (siehe auch [[id:d51b22f5-25fa-4cfa-b9e3-2b72259db821][GTD]]/Managing attention)
+  - Wir sollten deswegen gut überlegen wem/was wir die Aufmerksamkeit schenken (den [[id:d51b22f5-25fa-4cfa-b9e3-2b72259db821][GTD]]/Input quasi regeln)

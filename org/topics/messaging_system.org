@@ -1,0 +1,38 @@
+#+created: 20210427060639769
+#+modified: 20210518184431091
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]] 
+#+revision: 0
+#+tags: 
+#+title: Messaging System
+#+type: text/vnd.tiddlywiki
+
+- A messaging system can be judged on its performance in four aspects---scalability, availability, latency, and throughput.
+  - Scalability
+
+    #+begin_quote
+    This is how the system is able to handle increases in load without noticeable degradation of the other two factors, latency or availability. Here, load can mean things such as the number of topics, consumers, producers, messages/sec, or average message size
+
+    #+end_quote
+
+  - Availability
+
+    #+begin_quote
+    In a distributed system, a variety of problems can occur at a unit level (servers, disks, network, and so on). The system's availability is a measure of how resilient the system is to these failures so that it is available to end users
+
+    #+end_quote
+
+  - Latency
+
+    #+begin_quote
+    This is how much time it takes for a message to get to a consumer from a producer
+
+    #+end_quote
+
+  - Throughput
+
+    #+begin_quote
+    This is how many messages can be processed per second by the messaging system
+
+    #+end_quote
+
+- [[#Broker-based%20Messaging][Broker-based Messaging]]

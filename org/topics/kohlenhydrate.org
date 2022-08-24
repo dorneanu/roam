@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0451fcb1-0e94-4d32-8dd3-36cb2cf4ac67
+:END:
+#+created: 20200913203031684
+#+modified: 20210518184430794
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Kohlenhydrate
+#+tmap.id: 471b77e5-a56e-476d-b914-f580b907912b
+#+type: text/vnd.tiddlywiki
+
+- Gütekriterien für Kohlenhydrate
+  - Fest aber flüssig
+    - Bei Obst eher fest, da das Obst so langsamer mit den Ballaststoffen ins Blut gelangt
+  - Grad der Verarbeitung
+    - Je natürlicher, desto besser
+  - Ballaststoffe
+    - Verhältnis verdauliche Kohlenhydrate zu Ballaststoffen: 10 zu 1

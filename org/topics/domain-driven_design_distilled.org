@@ -1,0 +1,10 @@
+#+created: 20220512192407933
+#+genres: IT
+#+goodreads: https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled
+#+modified: 20220512192418372
+#+revision: 0
+#+tags: Book 2022 2read
+#+title: Domain-Driven Design Distilled
+#+type: text/vnd.tiddlywiki
+
+

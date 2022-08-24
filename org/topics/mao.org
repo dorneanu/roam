@@ -1,0 +1,13 @@
+#+created: 20200913201217872
+#+modified: 20210518184431022
+#+origin: [[<<. bibliography "How not to die" "How not to die">>]]
+#+revision: 0
+#+tags: TODO
+#+title: MAO
+#+tmap.id: f8291184-9159-44da-96f4-f2b83b116514
+#+type: text/vnd.tiddlywiki
+
+monoamine oxydase
+
+- food to inhibit MAO: apples, berries, grapes, onions and green tea (contain phytonutrients)
+- also spices: cloves, oregano, cinnamon and nutmag

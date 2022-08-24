@@ -1,0 +1,58 @@
+#+created: 20200918184135289
+#+modified: 20220424180131801
+#+revision: 0
+#+tags: TODO
+#+title: Books/TODO
+#+type: text/vnd.tiddlywiki
+
+- TODO Ölbebebn: Wie die USA unsere Existenz gefährden
+- TODO Undercover: Ein Mann packt aus (Spiegel)
+- TODO Über Nationalismus von George Orwell
+- TODO Das Zeitalter des Zorns: Eine Geschichte der Gegenwart
+- TODO Die Gesellschaft der Singularitäten
+- TODO Killing the Host: How Financial Parasites and Debt Bondage Destroy the Global Economy :
+- TODO Super Immunity: The Essential Nutrition Guide for Boosting Your Body's Defenses to Live Longer, Stronger, and Disease Free
+- TODO Building Secure and Reliable Systems
+- TODO The Art of Learning: A Journey in the Pursuit of Excellence by Josh Waitzkin
+- TODO Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
+- TODO Ultralearning
+- TODO Digitale Demenz
+- TODO Der alte König in seinem Exil
+- TODO Die Klimaschmutzlobby
+- TODO Nichts ist wie es scheint
+- how demcrocacies die
+  - [[https://www.goodreads.com/book/show/35356384-how-democracies-die]]
+- [[https://www.goodreads.com/book/show/6667514-the-checklist-manifesto][The Checklist Manifesto: How to Get Things Right]]
+- [[https://www.amazon.com/Sursa-Romanian-Tara-Swart/dp/6067223929][Sursa]]
+- [[https://www.goodreads.com/book/show/7015635-food-rules][Food Rules]]
+- [[https://www.goodreads.com/book/show/11737840-millionaire-teacher][Millionaire Teacher]]
+- [[https://www.goodreads.com/book/show/26312997-peak][Peak: Secrets from the New Science of Expertise]]
+- [[https://www.goodreads.com/book/show/29502354-rest][Rest: Why You Get More Done When You Work Less]]
+- [[https://www.goodreads.com/book/show/66354.Flow?ac=1&from_search=true&qid=fw16WFcGP9&rank=1][Flow: The Psychology of Optimal Experience]]
+- [[https://www.goodreads.com/book/show/51845311-unsere-welt-neu-denken][Unsere Welt neu denken]]
+- [[https://www.goodreads.com/book/show/32670670-the-complete-guide-to-fasting][The Complete Guide to Fasting: Heal Your Body Through Intermittent, Alternate-Day, and Extended Fasting]]
+- [[https://www.goodreads.com/book/show/74183.Gantenbein][Gantenbein von Max Frisch]]
+- [[https://www.goodreads.com/en/book/show/48930275][How I Built This: The Unexpected Paths to Success from the World's Most Inspiring Entrepreneurs]]
+- [[https://www.goodreads.com/book/show/35839667-done][Done: The Secret Deals that are Changing Our World]]
+- [[https://www.goodreads.com/book/show/48890486-breath][Breath: The New Science of a Lost Art]]
+- [[https://www.goodreads.com/book/show/12158480-why-nations-fail][Why Nations Fail: The Origins of Power, Prosperity, and Poverty]]
+  - pe Romana (De ce esueaza natiunile)
+- [[https://www.goodreads.com/book/show/7721946-building-social-business][Building Social Business: The New Kind of Capitalism That Serves Humanity's Most Pressing Needs]]
+- [[https://www.goodreads.com/book/show/25205421-the-wisest-one-in-the-room][The Wisest One in the Room: How You Can Benefit from Social Psychology's Most Powerful Insights]]
+- [[https://www.goodreads.com/book/show/21413975-act-like-a-leader-think-like-a-leader][Act Like a Leader, Think Like a Leader]]
+- [[https://www.goodreads.com/book/show/995029.The_Challenger_Launch_Decision][The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA]]
+- [[https://www.goodreads.com/book/show/28596619-civilized-to-death][Civilized to Death: What Was Lost on the Way to Modernity]]
+- [[https://www.goodreads.com/en/book/show/52754076-keep-sharp][Keep Sharp: Build a Better Brain at Any Age]]
+- [[https://www.goodreads.com/work/best_book/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software][Domain-Driven Design: Tackling Complexity in the Heart of Software]]
+- Company of one - Paul Jarvis
+- [[https://www.goodreads.com/work/best_book/59198162-thirst-a-story-of-redemption-compassion-and-a-mission-to-bring-clean][Thirst]]
+- [[https://www.goodreads.com/book/show/20518872-the-three-body-problem][The Three-Body Problem]]
+- [[https://www.goodreads.com/book/show/4191136-business-adventures][Business Adventures]] (recommened by Bill Gates)
+- [[https://www.goodreads.com/ro/book/show/85697.The_Art_of_Possibility][The Art of possibility]]
+- [[https://www.goodreads.com/book/show/22107280-blueprint-for-revolution][Blueprint for Revolution, Popovic]]
+- [[https://dataintensive.net/][Designing Data-Intensive Applications]]
+- [[https://abseil.io/resources/swe-book][Software Engineering at Google]]
+- [[https://www.goodreads.com/book/show/12715691-the-spinoza-problem][The Spinoza Problem]]
+- [[https://www.goodreads.com/book/show/18770267-make-it-stick][Make it sick]]
+- [[https://www.goodreads.com/book/show/76865.Good_to_Great][Good to great]]
+- [[https://www.goodreads.com/book/show/24612127-reclaiming-conversation][Reclaiming conversations]]

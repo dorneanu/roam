@@ -1,0 +1,8 @@
+#+created: 20210322185909963
+#+modified: 20210518184431795
+#+revision: 0
+#+tags: TODO
+#+title: Pareto principle
+#+type: text/vnd.tiddlywiki
+
+80/20

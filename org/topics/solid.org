@@ -1,0 +1,108 @@
+:PROPERTIES:
+:ID:       41c6818e-50b1-44a9-8396-e56894cc3777
+:END:
+#+created: 20210419181731538
+#+modified: 20210701095233198
+#+origin: [[<<. bibliography "The Clean Code">>]]  [[<<. bibliography "The Clean Architecture">>]] 
+#+revision: 0
+#+tags: Definition
+#+title: SOLID
+#+type: text/vnd.tiddlywiki
+
+- S: [[* Single Responsability Principle][Single Responsability Principle]]
+- O: [[* Open-Close Principle][Open-Close Principle]]
+- L: [[*Liskov Substitution Principle][Liskov Substitution Principle]]
+- I: [[* Interface Segregation Principle][Interface Segregation Principle]]
+- D: [[* Dependency Inversion Principle][Dependency Inversion Principle]]
+-  tells us basically how to arrange /functions/ and /data structures/ into [[id:ae5f16be-5554-42bc-b363-46704d72b6e0][OOP/Class]]es
+  - the word "class" doesn't mean that these principles are only applicable to [[id:67ed9b34-5527-4d13-ba77-6dacc5d47df3][OOP]] software
+* Single Responsability Principle
+:PROPERTIES:
+:ID:       b21b1eb2-f0a5-4465-abb7-f7ec25a843f9
+:END:
+- a class or module should have one and only one reason to change
+- systems should be composed of many small classes, not a few larger ones
+  - use UNIX philosophy
+    - combine sharp tools to solve larger tasks
+- each small class encapsulates a single responsability, has a single reason to change, and collaborates with a few others to achive the desired system behaviours
+- structure functions, types, methods into packages that have "natural" cohesion
+- functions serve a single purpose
+* Open-Close Principle
+:PROPERTIES:
+:ID:       91ad1a5b-7a03-42e3-83b2-468e5d0eedd7
+:END:
+- Open-Closed Principle
+- defined by Bertrand Meyer in 1988
+- compose simple types into more complex ones using embedding
+- classes should be open for extension but closed for modification
+- the goal is minimize coupling
+  - loosely coupled
+    - change to one service should not require a change to another
+  - a loosely coupled services knows as little as it needs about the services it communicates with
+    - limitation of number of different types of calls is important
+  - make the system easy to extend without having a high impact of change
+  - this done by partitioning the system into 'components' and aranging these into a dependency hiearchy that protects the higher-level components in lower-level components
+  #+begin_quote
+  This essentially means that classes should be open for extension but closed
+  for modification, so it should be possible to extend or override class
+  behavior without having to modify code. Behavior change should be pluggable
+  into the class, either through overriding some methods or injecting some
+  configuration. One excellent example of a framework exhibiting this principle
+  is the Spring Framework ( )
+  #+end_quote
+- also leads to SOLID/Dependency Inversion Principle
+* Liskov Substitution Principle
+:PROPERTIES:
+:ID:       89657837-9721-4ee5-8fae-89b740edb22f
+:END:
+- express dependencies between packages in terms of interfaces and not concrete types
+- This is a slight variation of the SOLID/Open-Close Principle, and states it as follows:
+  - "Derived types must be substitutable for their base types."
+- This principle is called Liskov because it was first written by [[https://en.wikipedia.org/wiki/Barbara_Liskov][Barbara Liskov]]:
+  #+begin_quote
+  "What is wanted here is something like the following substitution property: If
+  for each object o1 of type S there is an object o2 of type T such that for all
+  programs P defined in terms of T, the behavior of P is unchanged when o1 is
+  substituted for o2---then S is a subtype of T.
+  #+end_quote
+  - basically a specification for an abstract base class with various concrete subtypes
+- Examples
+  - Golang's Reader interface
+    #+begin_quote
+    Because io.Reader's deal with anything that can be expressed as a stream of bytes, we can construct readers over just about anything; a constant string, a byte array, standard in, a network stream, a gzip'd tar file, the standard out of a command being executed remotely via ssh. And all of these implementations are substitutable for one another because they fulfil the same simple contract. -- [[https://dave.cheney.net/2016/08/20/solid-go-design][Source]]
+    #+end_quote
+* Interface Segregation Principle
+:PROPERTIES:
+:ID:       7e0ec8da-bfa1-4b68-9927-d60d2db2124f
+:END:
+- define functions/methods that depend only on the behaviour that they need
+  #+begin_quote
+  Clients should not be forced to depend on methods they do not use. -- Robert C. Martin
+  #+end_quote
+  - Many client-specific interfaces are better than one general-purpose interface
+- Examples
+  #+begin_src go
+    // Save writes the contents of doc to the supplied Writer
+
+
+    func Save(w io.Writer, doc *Document) error
+  #+end_src
+
+  #+begin_quote
+  By applying the interface segregation principle to our Save function, the results has simultaneously been a function which is the most specific in terms of its requirements–it only needs a thing that is writable–and the most general in its function, we can now use Save to save our data to anything which implements io.Writer. -- [[|https://dave.cheney.net/2016/08/20/solid-go-design][Source]]
+  #+end_quote
+
+* Dependency Inversion Principle
+:PROPERTIES:
+:ID:       1f9dad4f-076a-4d66-a3d2-3ccd3b485c46
+:END:
+- classes should depend upon abstractions and not concrete details
+  #+begin_quote
+  High-level modules should not depend on low-level modules. Both should depend
+  on abstractions. Abstractions should not depend on details. Details should
+  depend on abstractions. --Robert C. Martin
+  #+end_quote
+- every package should have interfaces that describe functionality without the implementation
+- when a package needs a depedency, it should take that depedency as a parameter (use interfaces not concrete implementations)
+- high-level concepts (such as [[#Software%20System%2FEntities][entities]]) know nothing of lower-level concepts (such as [[#Software%20System%2FUse%20Cases][use cases]])
+  - instead the lower-level uses cases know about the high-level entities

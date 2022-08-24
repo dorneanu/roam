@@ -1,0 +1,10 @@
+#+created: 20201117114554230
+#+modified: 20210518184432859
+#+origin: https://en.wikipedia.org/wiki/Scientific_management
+#+revision: 0
+#+tags: TODO
+#+title: Scientific Management
+#+tmap.id: 282717d4-126f-487c-848c-864513c39274
+#+type: text/vnd.tiddlywiki
+
+- das Management ist somit eine Wissenschaft und entspricht dem [[#Platon][platonischen]] Weltbild

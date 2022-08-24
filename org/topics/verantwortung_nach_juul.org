@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6e1345eb-dcda-4a93-823d-1f429830367c
+:END:
+#+created: 20201111083209617
+#+modified: 20210518184433813
+#+origin: [[<<. bibliography "Dein kompetentes Kind">>]]
+#+revision: 0
+#+tags: 
+#+title: Verantwortung nach Juul
+#+tmap.id: eae5dcf6-3850-475a-aa39-1940e0dcd4a4
+#+type: text/vnd.tiddlywiki
+
+- Kinder besitzen [[id:4d4c2d60-9387-451b-9c62-32f553bd90f5][Angeborene Kompetenzen von Kindern]] und sind durchaus in der Lage Verantwortung für sich selbst zu übernehmen
+- die Eltern sollen ihnen diese Verantwortung aber auch nicht abnehmen
+  - Beispiele: Aufstehen, Hausaufgaben
+  - die Kinder sollen die Verantwortung aber als auch die daraus resultierenden Konsequenzen (im Falle der Misachtung) kennenlernen

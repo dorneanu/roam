@@ -1,0 +1,25 @@
+#+created: 20151005172912156
+#+creator: boru
+#+modified: 20210518184429411
+#+modifier: boru
+#+revision: 0
+#+tags: [[Layer 2]]
+#+title: CSMA/CD
+#+tmap.id: 0ea02d32-6a21-482d-91ab-579d2d753d04
+#+type: text/vnd.tiddlywiki
+
+- CSMA/CD :: Carrier Sense Multiple Access / Collision Detection
+
+Following steps:
+
+- A device with a frame to send listens until the Ethernet is not busy
+- When the Ethernet is not busy, the sender begins sending the frame
+- The sender listens if a collision occurs, If this is the case, all currently sending nodes do the following:
+  - they send a jamming signal that tells that a collision happened
+  - they independently chose a random time to wait before trying again
+- the next steps start again at Step 1
+
+** Recommended use
+:PROPERTIES:
+:CUSTOM_ID: recommended-use
+:END:

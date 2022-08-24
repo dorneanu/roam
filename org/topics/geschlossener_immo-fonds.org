@@ -1,0 +1,9 @@
+#+created: 20200919142849011
+#+modified: 20210519130645801
+#+revision: 0
+#+tags: Stub
+#+title: Geschlossener Immo-Fonds
+#+tmap.id: 6c47f46a-bd4c-4a62-85e3-ef26b667f664
+#+type: text/vnd.tiddlywiki
+
+

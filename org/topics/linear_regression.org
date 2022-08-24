@@ -1,0 +1,9 @@
+#+created: 20190821145148453
+#+modified: 20210518184430949
+#+revision: 0
+#+tags: [[Machine Learning]]
+#+title: Linear Regression
+#+tmap.id: 4018824a-0793-4403-a750-ff8d30e1d912
+#+type: text/vnd.tiddlywiki
+
+todo

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       95fb0be9-bf32-4dd2-a772-50cc7b5ccc1b
+:END:
+#+created: 20210419180117332
+#+modified: 20210622082705252
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]] [[<<. bibliography "The Clean Architecture">>]]
+#+revision: 0
+#+tags: Definition
+#+title: OOP/Encapsulation
+#+type: text/vnd.tiddlywiki
+
+- provides an easy way to distinguish between data and function
+  - example: private data members vs public member functions of a class
+- Encapsulation is the key guiding principle for class design. It implies exposing a contract for the behavior of objects and hiding volatile implementation details. The private attributes and methods are hidden inside a capsule according to a need-to-know basis
+
+#+begin_quote
+Encapsulation is defined as the wrapping up of data under a single unit. It is
+the mechanism that binds together code and the data it manipulates. In a
+different way, encapsulation is a protective shield that prevents the data from
+being accessed by the code outside this shield. -- [[https://www.geeksforgeeks.org/encapsulation-in-golang/][Encapsulation in Golang]]
+#+end_quote

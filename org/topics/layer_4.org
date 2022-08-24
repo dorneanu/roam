@@ -1,0 +1,12 @@
+#+created: 20180810142330303
+#+creator: boru
+#+modified: 20210518184430903
+#+modifier: boru
+#+revision: 0
+#+tags: Network OSI
+#+title: Layer 4
+#+tmap.id: ed1a0658-6793-4a2a-b45a-f1646e3ed5a1
+#+type: text/vnd.tiddlywiki
+
+- [[#TCP][TCP]]
+- [[#UDP][UDP]]

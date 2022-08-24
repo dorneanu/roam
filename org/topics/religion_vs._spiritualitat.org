@@ -1,0 +1,13 @@
+#+created: 20201201210154705
+#+lang: de
+#+modified: 20210518184432753
+#+origin: [[<<. bibliography "Gespräche mit Gott Band 2">>]]
+#+revision: 0
+#+tags: 
+#+title: Religion vs. Spiritualität
+#+type: text/vnd.tiddlywiki
+
+| Religion                                                                              | Spiritualität                                                                |
+|---------------------------------------------------------------------------------------+------------------------------------------------------------------------------|
+| - aus den Erfahrungen Anderer lernen                                                  | - nach /eigenen/ Erfahrungen streben                                         |
+| - fordert auf, Gedanken Anderer zu erforschen und sie als deine eigene zu akzeptieren | - lädt ein Gedanken anderer beiseite zu schieben und mit eigenen aufzuwarten |

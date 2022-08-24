@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       78b37a95-9d35-458e-8799-14f274f6e1a7
+:END:
+#+created: 20220321191804873
+#+modified: 20220321192102325
+#+origin: https://www.gewuenschtestes-wunschkind.de/2017/04/aktives-zuhoeren-nach-thomas-gordon-familienkonferenz-mit-kindern-erfolgreich-kommunizieren.html
+#+revision: 0
+#+title: Aktives Zuhören nach Gordon
+#+type: text/vnd.tiddlywiki
+
+- Aktiv zuhören
+  - bewusstere Atmosphäre schaffen, um zu hören, was der Gesprächspartner zu sagen hat
+  - den Kindern das Reden so spaßig wie möglich gestalten
+  - Türöffner einsetzen (statt Widerstand zu leisten)
+  - nicht bewerten, nicht beurteilen, einfach zuhören
+  - hinter den Botschaften (teilweise versteckt und nicht sofort zu erkennen) stecken auch ([[id:2114312c-7018-4a34-8936-7808173598d1][Bedürfnisse nach Marshall Rosenberg]])

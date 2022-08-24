@@ -1,0 +1,24 @@
+#+created: 20200920092229847
+#+lang: de
+#+modified: 20210518184428612
+#+origin: https://interaktiv.tagesspiegel.de/lab/mieten-und-renditen/
+#+revision: 0
+#+stream-list: 
+#+stream-type: singletiddler
+#+tags: 
+#+title: Berliner Mietmarkt
+#+tmap.id: ea3fe214-e77f-4e92-b0d0-90eb08dcedb0
+#+type: text/vnd.tiddlywiki
+
+- Den Berliner Wohnungsmarkt teilen sich börsennotierte Konzerne
+  - 230.000 Wohnung sind in ihrem Besitz (15% des gesamten Mietwohnraums)
+  - Die Mächtigsten der [[#Wohnimmobilienkonzerne][Wohnimmobilienkonzerne]]
+    - Deutsche Wohnen
+      - [[#Blackrock][Blackrock]] hat Anteile an DW von 10,2% (umgerechnet 11.800 Wohnungen)
+    - Vonovia
+    - ADO Properties
+    - Covivio
+    - Akelius
+    - TAG Immobilien
+    - Grand City Properties
+  - Viele der Wohnungen gehören der Londoner Firma [[#Pears-Gruppe][Pears]] an

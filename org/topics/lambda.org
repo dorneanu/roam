@@ -1,0 +1,9 @@
+#+created: 20191127220112422
+#+modified: 20210520101426230
+#+revision: 0
+#+tags: Lambda Topics
+#+title: Lambda
+#+tmap.id: ecef33b1-92b3-494b-b7e0-5bcdd15e2a43
+#+type: text/vnd.tiddlywiki
+
+

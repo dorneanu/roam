@@ -1,0 +1,13 @@
+#+created: 20200727105427513
+#+modified: 20210518184431111
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Milch
+#+tmap.id: f1231704-3424-4664-8215-9379beae9985
+#+type: text/x-markdown
+
+- Besteht aus [[#Glukose][Glukose]] und Galaktose
+- Galaktose führt zur Verklumpung: Das Sterblichkeitsrisiko steigt
+- Die meisten Studien zur Milch sind von der Industrie finanziert
+- Fermentierte Milch ([[#K%C3%A4se][Käse]], Joghurt etc.) hat genau den gegenteiligen Effekt

@@ -1,0 +1,13 @@
+#+created: 20201109084457092
+#+lang: de
+#+modified: 20210518184430745
+#+origin: https://www.brain-effect.com/magazin/ketone-fuer-sportler
+#+revision: 0
+#+tags: 
+#+title: Ketose
+#+tmap.id: 7a07292b-111f-49df-adbc-88773663aac5
+#+type: text/vnd.tiddlywiki
+
+- ein Stoffwechselprozess im Körper, bei dem Energie aus [[#Fette][Fetten]] gewonnen wird
+  - daraus entstehen die so genannten [[#Ketone][Ketone]]
+- meist ist eher der Glukosestoffwechsel bekannt, bei dem aus [[#Kohlenhydrate][Kohlenhydraten]] Energie gewonnen wird

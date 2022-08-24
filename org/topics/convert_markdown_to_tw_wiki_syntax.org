@@ -1,0 +1,9 @@
+#+created: 20200921075742355
+#+modified: 20210518184428834
+#+revision: 0
+#+tags: HowTo
+#+title: Convert Markdown to TW wiki syntax
+#+tmap.id: 6ba45246-5fef-4474-93c3-f2a0ce36c43f
+#+type: text/vnd.tiddlywiki
+
+In order to convert text in =Markdown=syntax to [[https://tiddlywiki.com/static/WikiText.html][WikiText]] you can use the [[https://pandoc.org/try][online pandoc converter]]

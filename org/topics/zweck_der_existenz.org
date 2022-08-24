@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       0b424436-b0b7-4bd6-af7f-66eab1505fea
+:END:
+#+created: 20200907184218643
+#+lang: de
+#+modified: 20210518184434000
+#+origin: [[<<. bibliography "The Big Five for Life" "The Big Five for Life">>]] [[<<. bibliography "Das Café am Rande der Welt">>]] 
+#+revision: 0
+#+tags: 
+#+title: Zweck der Existenz
+#+tmap.id: c917fcee-d7b2-4e6d-b9f4-258cefb6cfd8
+#+type: text/vnd.tiddlywiki
+
+- viele Menschen sind mit der Suche nach dem Sinn des Lebens (*ZDE*) beschäftigt
+  - man kann aber die ganze Zeit mit anderen Aktivitäten beschäftigt sein, die nicht dem ZDE dienen
+  - statt gegen die Welle zu kämpfen, sollte man wie eine Meeresschildkröte ([[id:c01e4708-7297-487d-8acb-b373cbbfd8d4][Die grüne Meeresschildkröte und der ZDE]]) schwimmen
+- viele warten auf den Tag X in der Zukunft, an dem sie dann endlich das tun können, was sie möchten
+  - dabei ist der *Ruhestand auch eine Zeit X in der Zukunft*
+  - aber jeden Tag gibt's die Möglichkeit, das zu tun, was man möchte, ohne auf den Ruhestand zu warten
+- [[id:b125eb1d-d029-4672-bb6d-b1be01362ef5][Konsum und Aufmerksamkeit]] halten uns davon ab, unser Leben nach dem ZDE zu gestalten
+  - trotzdem können wir unser eigenes Schicksal selbst bestimmen, Initiative ergreifen und unseren Weg bestimmen
+  - sonst tun das andere für uns
+- ein Vorbild für Andere sind und somit für die [[id:ab2d6327-3b24-4106-953e-e69f8e86ecd0][Theorie der exponentiellen Steigerung]] unserer Werte/Ideen sorgen
+- Die [[id:f07e6c89-5ec9-4e7a-aab4-87dfbaa0cc01][The Big Five for Life]]  sind die Ergänzung zum ZDE
+- Im beruflichen Kontext
+  - Mitarbeiter sind keine Angestellten, sondern Reisegefährten
+
+#+begin_quote
+Anstatt also am Wochenende und in meiner übrigen Freizeit zu versuchen, meinen persönlichen Zweck der Existenz zu erfüllen, und während der langen Arbeitswoche einen völlig anderen ZDE zu verfolgen, könnte ich doch ein Unternehmen gründen und leiten, bei dem der Firmen-ZDE und mein persönlicher ZDE aufeinander abgestimmt wären.
+#+end_quote

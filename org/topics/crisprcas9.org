@@ -1,0 +1,22 @@
+#+created: 20210223193636236
+#+modified: 20210518184429322
+#+origin: [[<<. bibliography "Das Experiment sind wir">>]] 
+#+revision: 0
+#+tags: 
+#+title: CRISPR/Cas9
+#+type: text/vnd.tiddlywiki
+
+- steht für /Clustered Regularly Interspaced Short Palindromic Repeats/
+- Cas9 steht für "CRISPR-assoziiertes" Protein Nummer 9
+- bisher das mächtigste Werkzeug um in Gensequenzen einzugreifen
+  - man kann also [[#DNA][genetischen Buchstabensequenzen]] hinzufügen oder addieren
+- Funktionsweise
+  - die *CRISPR-RNA* haftet an dem Ort der Gensequenz an
+  - das *CAS9-Enzym* (das in der RNA enthalten ist) schneidet den [[#DNA][DNA]]-Strang an der Stelle durch
+    - deswegen wird dieses Verfahren auch *Gen-Schere* genannt
+  - nach dem Schnitt repariert sich die DNA selbst
+    - dabei können kleine Fehler passieren
+      - das Gen wird z.B. deaktiviert (durchaus wünschenswert)
+- Probleme
+  - Cas9 macht Schnitte an den falschen Stellen
+  - Cas9 löst Immunreaktionen aus

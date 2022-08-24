@@ -1,0 +1,10 @@
+#+created: 20200921081122116
+#+modified: 20210518184430098
+#+revision: 0
+#+title: EPA
+#+tmap.id: 4213a75e-e7f2-4e86-9368-a8dc53c25ffb
+#+type: text/vnd.tiddlywiki
+
+- *Eicosapentaensäure*
+- kommt in Fischölen vor
+- wichtig fürs Gehirn und das Nervensystem

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e1c41649-3a85-4b2b-9088-53bde6712856
+:END:
+#+created: 20210117192039178
+#+modified: 20210518193844493
+#+origin: [[<<. bibliography "The Wim Hof Method">>]] 
+#+revision: 0
+#+tags: Definition
+#+title: ATP
+#+type: text/vnd.tiddlywiki
+
+- *adenosine triphosphate*
+- delivers energy for different biological processes including muscle contraction
+- exists in cells that are in an /anaerobic/ state ([[id:b1e8d890-e854-4785-88db-279de102b3e7][Anaerobic respiration]]) (w/o presence of oxygen)
+  - but they multiply exponentially in cells in /aerobic/ state (with presence of oxygen)
+- /aerobic dissimilation/ influences mitochondrial process and 30 x more ATP molecules are created when there is no oxygen
+- by applying [[id:2965cd54-8ffb-48a1-9b88-07ca58f97469][The Wim Hof Method]] you can increase the amount of ATP in your cells

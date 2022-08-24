@@ -1,0 +1,170 @@
+#+created: 20150923130955996
+#+creator: boru
+#+modified: 20210518184432781
+#+modifier: boru
+#+revision: 0
+#+tags: [[Layer 3]]
+#+title: RIP
+#+tmap.edges: {}
+#+tmap.id: a6446770-968a-4b17-a334-271a0f281eaf
+#+type: text/vnd.tiddlywiki
+
+- Definition :: Router Information Protocol
+  A Distance Vector Router Protocol (see below)
+  V1 is *classful* (messages sent to 255.255.255.255)
+  V2 is *classless* (messages sent to 224.0.0.9)
+
+** Dynamic Routing
+:PROPERTIES:
+:CUSTOM_ID: dynamic-routing
+:END:
+Is the process when 2 routers share:
+
+- networks
+- remote networks
+- remote routes
+- routes to remote destinations
+
+/automatically/.
+
+There are 2 types of *dynamic routing protocols*.
+
+- [[#Distance%20Vector%20Router%20Protocols][Distance Vector Router Protocols]]
+- [[#Link%20State%20Routing%20Protocols][Link State Routing Protocols]]
+
+*** RIP Versions
+:PROPERTIES:
+:CUSTOM_ID: rip-versions
+:END:
+- Version 1
+  - is only *classful*
+  - subnet mask information is not carryed within the update process
+
+** Lab
+:PROPERTIES:
+:CUSTOM_ID: lab
+:END:
+Exchange routing information between =R201=, =R1= and =R2=.
+
+*** r201
+:PROPERTIES:
+:CUSTOM_ID: r201
+:END:
+Previously erased static routes (because AD = 1).
+
+- Network statement :: Defines a list/range of address
+  If an IP address is within that address, then the interface to which the IP belongs is included into RIP
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+r201(config)# router rip 
+
+# Do a network statement
+r201(config-router)# network 200.200.200.0
+
+# Since Serial0/1/0 has 200.200.200.2 it will start sending
+# RIP information on that interface.
+r201(config-router)# write memory
+#+end_example
+
+Show routes:
+
+#+begin_example
+r201# show ip route
+...
+#+end_example
+
+or
+
+#+begin_example
+r201# show ip route rip
+#+end_example
+
+*[120/2]*:
+
+- 120: Administrative Distance (AD)
+- 2: Metric (only 2 hops away from =R1=
+
+Show protocols:
+
+#+begin_example
+r201# show ip protocols
+#+end_example
+
+*** r1
+:PROPERTIES:
+:CUSTOM_ID: r1
+:END:
+Has 2 interfaces:
+
+- serial link
+- fast ethernet
+
+#+begin_html
+  <!-- -->
+#+end_html
+
+#+begin_example
+r1 (config)# router rip
+
+# 200.200.200.0 is a class C IP address
+r1 (config-router)# network 200.200.200.0
+
+# Since 150 is a class B (meaning /16) and RIP is classful 
+# we should type 150.101.0.0
+r1 (config-router)# network 150.101.0.0
+#+end_example
+
+*Debug* RIP:
+
+#+begin_example
+r1# debug ip rip
+r1# debug ip rip events
+#+end_example
+
+*** r2
+:PROPERTIES:
+:CUSTOM_ID: r2
+:END:
+#+begin_example
+r2 (config)# router rip
+r2 (config-router)# network 150.101.0.0
+
+# 10.x and 20.x are class A (/8)
+r2 (config-router)# network 10.0.0.0
+r2 (config-router)# network 20.0.0.0
+r2 (config-router)# write memory
+#+end_example
+
+** Switch to RIP v2
+:PROPERTIES:
+:CUSTOM_ID: switch-to-rip-v2
+:END:
+#+begin_example
+r201(config)# router rip
+r201(config-router)# version 2
+#+end_example
+
+Now you should not be able to see any classes of IP address but the right classes (/24 etc.)
+
+Eventhough v2 has been enabled, v2 shows the bigger network class (auto-summary by default).
+
+*** Turn of auto-summary
+:PROPERTIES:
+:CUSTOM_ID: turn-of-auto-summary
+:END:
+#+begin_example
+r201(config-router)# no auto-summary
+r201(config-router)#do wr
+#+end_example
+
+** Remove RIP
+:PROPERTIES:
+:CUSTOM_ID: remove-rip
+:END:
+#+begin_example
+r1(config)# no router rip
+#+end_example

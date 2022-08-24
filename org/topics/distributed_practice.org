@@ -1,0 +1,13 @@
+#+created: 20210103181309816
+#+modified: 20210601084937908
+#+origin: https://en.wikipedia.org/wiki/Distributed_practice
+#+revision: 0
+#+tags: TODO Definition
+#+title: Distributed practice
+#+type: text/vnd.tiddlywiki
+
+- Also known as
+  - /spaced repetition/
+- is a learning strategy
+  - practice is splitted into short sessions
+  - over a period of time

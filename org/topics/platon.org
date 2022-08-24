@@ -1,0 +1,11 @@
+#+created: 20201117113609245
+#+lang: de
+#+modified: 20210518184432200
+#+revision: 0
+#+tags: TODO
+#+title: Platon
+#+tmap.id: ab79e0c6-e20b-47f2-bc6b-b4de7198a1c6
+#+type: text/vnd.tiddlywiki
+
+- Weltanschauung
+  - Die Realität ist nur das, was *objektiv* ist

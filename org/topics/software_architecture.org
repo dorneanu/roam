@@ -1,0 +1,28 @@
+#+created: 20210525185508434
+#+modified: 20210826085916927
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]] [[<<. bibliography "The Clean Architecture">>]] 
+#+revision: 0
+#+tags: Definition
+#+title: Software Architecture
+#+type: text/vnd.tiddlywiki
+
+- Definition
+  - The architecture of a software system is the shape given to that system by those who build it. The form of that shape is in the division of that system into components, the arrangement of those components, and the ways in which those components communicate with each other.
+- Goals
+  - leave as many options open as possible, for as long as possible
+  - minimize lifetime cost of the system and maximize programmer productivity
+  - support life cycle of the system ([[#SDLC][SDLC]])
+  - makes the system easy to understand, easy to develop, easy to maintain and easy to deploy
+  - low-level components depend on high-level components ([[id:1f9dad4f-076a-4d66-a3d2-3ccd3b485c46][Dependency Inversion Principle]])
+    - reduces impact of change
+      - trivial but urgent changes at the lowest levels of the system have little to no impact on the higher, more important, levels
+  - centered on [[#Software%20System%2FUse%20Cases][use cases]] so that [[#Software%20Architect][architects]] can describe the structures supporting those use cases without committing to frameworks/tools/environments
+- Consists of
+  - policies
+    - business rules and procedures
+    - where the true value of the system lives
+  - details
+- Roles
+  - [[#Software%20Architect][Role of the Software Architect]]
+- Additional literature
+  - [[https://www.goodreads.com/book/show/296981.Object_Oriented_Software_Engineering][Object-Oriented Software Engineering by Ivar Jacobson]]

@@ -1,0 +1,15 @@
+#+created: 20200921080623445
+#+lang: de
+#+modified: 20210518184431050
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+title: MCT
+#+tmap.id: c3b562b6-1721-48b2-a90a-21d23c4f3350
+#+type: text/vnd.tiddlywiki
+
+medium-chain triglycerides
+
+- 6-10 Kohlenstoffatome
+- Sind eher gesund
+- Beispiele: Kokosöl, Käse, Milch, Joghurt
+- gehören zu den [[#Ges%C3%A4ttigte%20Fetts%C3%A4uren][Gesättigte Fettsäuren]]

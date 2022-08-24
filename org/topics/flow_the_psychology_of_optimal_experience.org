@@ -1,0 +1,8 @@
+#+created: 20220714124117663
+#+modified: 20220714124117663
+#+revision: 0
+#+tags: 2022 Book 2read
+#+title: Flow: The Psychology of Optimal Experience
+#+type: text/vnd.tiddlywiki
+
+[[https://www.goodreads.com/book/show/66354.Flow]]

@@ -1,0 +1,9 @@
+#+created: 20210415071751164
+#+modified: 20210518184433479
+#+revision: 0
+#+tags: 
+#+title: Techniques of Science Denial
+#+type: text/vnd.tiddlywiki
+
+- [[https://skepticalscience.com/history-FLICC-5-techniques-science-denial.html]]
+- [[https://skepticalscience.com/PLURV-Taxonomie-und-Definitionen.shtml][PLURV]]

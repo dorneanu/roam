@@ -1,0 +1,10 @@
+#+created: 20201015122508083
+#+modified: 20210518184428604
+#+origin: https://www.pharmawiki.ch/wiki/index.php?wiki=benzodiazepine
+#+revision: 0
+#+tags: 
+#+title: Benzodiazepine
+#+tmap.id: fbfb940c-c0a4-40b6-b424-8c7a06430256
+#+type: text/vnd.tiddlywiki
+
+- Benzodiazepine sind pharmazeutische Wirkstoffe mit angstlösenden, krampflösenden, beruhigenden und schlaffördernden Eigenschaften. Sie werden unter anderem gegen Angst-, Erregungs- und Spannungszustände, Schlafstörungen und Epilepsie eingesetzt und gehören zu den am häufigsten verschriebenen Psychopharmaka. Die Effekte beruhen auf der Verstärkung der Wirkungen des hemmenden Neurotransmitters GABA. Benzodiazepine können zahlreiche unerwünschte Wirkungen verursachen, abhängig machen und missbraucht werden. Sie sollten deshalb nur zurückhaltend und kurzfristig eingenommen werden.

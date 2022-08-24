@@ -1,0 +1,22 @@
+#+created: 20201109080416092
+#+modified: 20210519071453281
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]] https://www.youtube.com/watch?app=desktop&v=N-dsHgOl00M
+#+revision: 0
+#+tags: Definition
+#+title: Spermidin
+#+tmap.id: b40ab215-1485-4a3c-9122-cd3b58da355d
+#+type: text/vnd.tiddlywiki
+
+- Wurde zuerst in Samenzellen isoliert
+- Führt zur [[#Autophagie][Autophagie]]
+- Quellen
+  - Sojabohnen
+  - Pilze
+  - Erbsen
+  - Brokkoli
+  - Blumenkohl
+  - Äpfel
+  - Birnen
+  - Salat
+  - Vollkornprodukte
+  - Weizenkeime

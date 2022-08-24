@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ab2d6327-3b24-4106-953e-e69f8e86ecd0
+:END:
+#+created: 20200930182823513
+#+lang: de
+#+modified: 20210518184433642
+#+origin: [[<<. bibliography "Das Café am Rande der Welt">>]] 
+#+revision: 0
+#+tags: 
+#+title: Theorie der exponentiellen Steigerung
+#+tmap.id: a6637ce1-b7e9-4007-a730-1cceaf5ed752
+#+type: text/vnd.tiddlywiki
+
+- je mehr man seinem [[id:0b424436-b0b7-4bd6-af7f-66eab1505fea][Zweck der Existenz]] dient und sein Leben *täglich*.danach richtet, umso mehr Menschen fühlen sich zu einem hingezogen
+- die eigene Lebensweise, die Begeisterung motivieren andere Menschen aus dem eigenen Umfeld
+- diese wiederrum geben dies weiter

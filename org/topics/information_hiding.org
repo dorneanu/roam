@@ -1,0 +1,14 @@
+#+created: 20220805231103084
+#+modified: 20220805231706890
+#+revision: 0
+#+tags: Definition
+#+title: Information hiding
+#+type: text/vnd.tiddlywiki
+
+- Introduced by David Parnas in "Information Distribution Aspects of Design Methodology"
+- hide as many details as possible behind a module / microservice boundary
+- Parnas identified following benefits:
+  - improved development time
+  - comprehensibility
+    - each module is isolated and therefore better to understand
+  - flexibility

@@ -1,0 +1,13 @@
+#+created: 20220711124544206
+#+modified: 20220711124828339
+#+origin: [[<<. bibliography "The Oxygen Advantage" >> ]]
+#+revision: 0
+#+tags: Definition
+#+title: BOLT
+#+type: text/vnd.tiddlywiki
+
+- Body Oxygen Level Test
+  - length of time of a comfortable breath hold used as test to determine relative breathing volume during rest and breathlessness (during physical exercise)
+  - ideal score is 40 seconds
+- [[https://www.goodreads.com/book/show/25031577-exercise-physiology][Exercise Physiology: Nutrition, Energy, and Human Performance]]
+  - If a person breath holds after a normal exhalation, it takes approximately 40 seconds before the urge to breathe increases enough to initiate inspiration

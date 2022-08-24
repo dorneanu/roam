@@ -1,0 +1,15 @@
+#+created: 20200913202447981
+#+modified: 20210518184433418
+#+origin: [[<<. bibliography "How not to die" "How not to die">>]]
+#+revision: 0
+#+tags: 
+#+title: Sulforaphane
+#+tmap.id: f4802ddf-78b5-40b3-8bff-a1697953eb5c
+#+type: text/vnd.tiddlywiki
+
+- has many positive effects on your health
+- Formation
+  - requires mixing a precursor compound with an enzyme called myrosinase (which is inactivated by cooking)
+  - when raw broccoli is chopped/chewed, the sulforaphane mixes with the myrosinase enzyme (???)
+  - Tipp: chop the vegetables and then wait for 40 minutes before cooking (or you add powdered mustard seeds)
+- also check [[https://www.sulforaphan.org/sulforaphan-wirkungen-einsatzgebiete/]]

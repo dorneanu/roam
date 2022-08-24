@@ -1,0 +1,30 @@
+#+created: 20160108190136315
+#+modified: 20210518184433656
+#+revision: 0
+#+tags: 
+#+tiddler: TestSchool
+#+title: Tiddler Bundles
+#+tmap.id: 855b4aa0-3e63-4fe5-8723-7d9acebb8fa6
+#+type: text/vnd.tiddlywiki
+
+Filter:
+
+Bundle tiddler name:
+
+Show Tiddler List
+
+Create Bundle
+
+After creating the bundle, [[#][use this link to import it into your wiki]]
+
+or
+
+Import a bundle:
+
+Select Bundle: --
+
+Show Tiddler Import List
+
+Overwrite Existing Tiddlers
+
+Select a bundle to import

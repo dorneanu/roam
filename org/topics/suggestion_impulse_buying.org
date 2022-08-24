@@ -1,0 +1,12 @@
+#+created: 20201214175842716
+#+modified: 20210518184433409
+#+origin: [[<<. bibliography "Atomic Habits">>]]
+#+revision: 0
+#+tags: 
+#+title: Suggestion Impulse Buying
+#+type: text/vnd.tiddlywiki
+
+- defined by the economist Hawkins Stern in 1952
+- he described the phenomen which means
+  - customers will eventually buys products not because they want them but because how they are presented to them
+  - customers visualize a need for the products

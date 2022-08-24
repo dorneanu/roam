@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       4789eb41-9d72-4fb0-bd5b-80c87cb2918c
+:END:
+#+created: 20220321191424789
+#+modified: 20220328185047582
+#+origin: [[<<. bibliography "So viel Freude, so viel Wut" >>]] [[<<. bibliography "Du bist anders, du bist gut" >>]]
+#+revision: 0
+#+tags: Definition
+#+title: Gefühlsstarke Kinder
+#+type: text/vnd.tiddlywiki
+
+- in den USA auch [[https://www.purewow.com/family/signs-of-a-spirited-child][spirited children]] genannt
+- Allgemein
+  - erleben Emotionen überdurchschnittlich intensiv
+  - extrem ausdauernd und hartnäckig
+  - überdurchschnittlich sensibel
+  - außergewöhnlich offen für alle Eindrücke
+  - sie brauchen Routinen
+    - für die Geborgenheit ([[id:2114312c-7018-4a34-8936-7808173598d1][Bedürfnisse nach Marshall Rosenberg]])
+    - haben aber Probleme mit Fremdbestimmung
+      - sie lieben die Freiheit
+  - motorisch fit / haben immer Energiereserven
+  - tun sich schwer mit Veränderung / Übergängen
+  - nachdenklich
+    - "Glas is halb leer" ?
+- Körperliche Merkmale
+  - [[#Amygdala][Amygdala]] ist leicht vergrößert
+    - besonders empfindlich
+      - Kinder reagieren extrem(er) auf Reize
+    - laut [[#JeromeKagan][JeromeKagan]] gibt es eine ausgeprägte Verbindung zur rechten Gehirnhälfte
+      - verantwortlich für Furcht / Stress / Panik
+  - haben leicht erhöhten [[#Cortizol][Cortizol]]-Level
+    - Stresslevel kann leichter erreicht werden (im Vgl. zu den anderen Kindern)
+  - [[id:4bc93a99-ea0f-4566-9d08-0bb12f288ebe][Vagusnerv]] ist schwächer ausgeprägt
+    - Entspannung dauert länger
+    - aber Nerv reagiert auf Stimmulation von außen
+      - wichtig: Kind beim Stressgefühl begleiten
+      - kann durch regelmäßiges Training gestärkt werden
+    - Kinder brauchen körperliche Signale (weniger verbale), die den Nerv stimuliern
+      - das Kind nicht alleine mit den Gefühlen lassen
+        - kann sich nicht selbst regulieren ([[id:cbfafa4f-4893-431a-bb11-7379e443fc29][Selbstregulation]])

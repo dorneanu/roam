@@ -1,0 +1,15 @@
+#+created: 20201109082934254
+#+lang: de
+#+modified: 20210518184430658
+#+revision: 0
+#+tags: TODO
+#+title: Intermittent fasting
+#+tmap.id: 5948b2d2-0225-443b-8b4e-99b41dfbc6a5
+#+type: text/vnd.tiddlywiki
+
+- Arten
+  - 5:2
+    - an 2 Tagen isst man nur kalorisch im Wert von 500 kcal und an den restlichen Tagen normal
+  - 16:8
+    - an *allen Tagen* darf man in 8 Stunden essen, in den restlichen 16 Stunden darf nichts gegessen werden
+  - es gibt aber mehr Methoden ([[https://www.healthline.com/nutrition/6-ways-to-do-intermittent-fasting][6 Popular Ways to Do Intermittent Fasting]])

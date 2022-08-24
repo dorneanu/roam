@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       67ed9b34-5527-4d13-ba77-6dacc5d47df3
+:END:
+#+created: 20210525191355663
+#+modified: 20210622083210827
+#+origin: [[<<. bibliography "The Clean Architecture">>]]
+#+revision: 0
+#+tags: IT Stub Topics
+#+title: OOP
+#+type: text/vnd.tiddlywiki
+
+- Key principles
+  - [[id:362bf16d-9208-4375-8dd1-ac178b157a26][OOP/Polymorphism]] is one of the key principles
+  - What is a [[id:ae5f16be-5554-42bc-b363-46704d72b6e0][OOP/Class]]
+  - Why you should use [[id:485f4f0e-946f-4a8c-8b02-f2b73d101531][OOP/Composition]] instead of inheritance
+  - Always encapsulate ([[id:95fb0be9-bf32-4dd2-a772-50cc7b5ccc1b][OOP/Encapsulation]]) your business logic
+  - Methods/functions are contracts ([[id:2111c278-527b-408f-b810-7d43e5d8cd53][OOP/Contracts]])
+- Quotes
+  #+begin_quote
+  OO is the ability, through the use of polymorphism, to gain absolute control
+  over every source code dependency in the system. It allows the architect to
+  create a plugin architecture, in which modules that contain high-level
+  policies are independent of modules that contain low-level details. The
+  low-level details are relegated to plugin modules that can be deployed and
+  developed independently from the modules that contain high-level policies.
+  (-- )
+  #+end_quote

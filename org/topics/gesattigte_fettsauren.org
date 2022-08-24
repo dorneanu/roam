@@ -1,0 +1,16 @@
+#+created: 20200921080521864
+#+lang: de
+#+modified: 20210518184430257
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+title: Gesättigte Fettsäuren
+#+tmap.id: 3505cea5-a0e9-45e5-b5cf-a9ccd1a183d5
+#+type: text/vnd.tiddlywiki
+
+- Lebensmittel
+  - Butter
+  - Vollmilch
+  - Rotes Fleisch
+  - [[#K%C3%A4se][Käse]]
+- Merkmale
+  - Erhöhen das ungünstige LDL-Cholesterin

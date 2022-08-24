@@ -1,0 +1,12 @@
+#+created: 20200913202313852
+#+modified: 20210518184432190
+#+origin: [[<<. bibliography "How not to die" "How not to die">>]]
+#+revision: 0
+#+tags: 
+#+title: Phytates
+#+tmap.id: d64c1f80-1135-44b2-aeed-11c92c1ceffc
+#+type: text/vnd.tiddlywiki
+
+- found in the seeds of plants(grains, beans, nuts, seeds)
+- detoxifies excess iron in the body which can generate a free radical called *hydroxil radicals*
+- inhibit growth of cancer cells

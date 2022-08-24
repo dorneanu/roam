@@ -1,0 +1,16 @@
+#+created: 20210701095828826
+#+modified: 20220805211823769
+#+origin: [[<<. bibliography "The Clean Architecture">>]] [[<<. bibliography "Building Microservices (2nd Edition)">>]] 
+#+revision: 0
+#+tags: 
+#+title: Component Cohesion
+#+type: text/vnd.tiddlywiki
+
+- code that changes together, stays together
+- strong cohesion
+  - ensure related behavior is at one place
+- weak cohesion
+  - related functionality is spread across the system
+- * [[#Component%20Cohesion%2FREP][REP]]: The Reuse/Release Equivalence Principle
+- [[#Component%20Cohesion%2FCCP][CCP]]: The Common Closure Principle
+- [[#Component%20Cohesion%2FCRP][CRP]]: The Common Reuse Principle

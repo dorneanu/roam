@@ -1,0 +1,8 @@
+#+created: 20200921080351214
+#+modified: 20210518184432224
+#+revision: 0
+#+title: Polyphenole
+#+tmap.id: c4fe900f-a0cb-44f2-8bb2-7a711827e1ea
+#+type: text/vnd.tiddlywiki
+
+

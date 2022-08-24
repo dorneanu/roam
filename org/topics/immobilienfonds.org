@@ -1,0 +1,15 @@
+#+created: 20200920092958333
+#+modified: 20210519101215235
+#+origin: https://interaktiv.tagesspiegel.de/lab/mieten-und-renditen/
+#+revision: 0
+#+tags: Definition
+#+title: Immobilienfonds
+#+tmap.id: 40c5239a-d885-43f8-83e3-7b4167cf7d73
+#+type: text/vnd.tiddlywiki
+
+- viele Versicherungen und Rentenfonds investieren direkt in Immobilien, aber auch im Finanzmarkt
+  - In Form von Aktien oder Investmentfonds
+  - aber eben auch als Lebensversicherung
+- Beispiele
+  - [[https://www.finanzen.net/etf/ishares-stoxx-europe-600-etf-de0002635307][iShares STOXX Europe 600]]
+    - Im Portfolio: Deutsche Wohnen, Covivio, Grand City Properties, TAG Immobilien und -- mit dem höchsten Anteil -- Vonovia

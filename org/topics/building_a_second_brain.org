@@ -1,0 +1,8 @@
+#+created: 20220620101909851
+#+modified: 20220620101909851
+#+revision: 0
+#+tags: 2022 Book 2read
+#+title: Building a Second Brain
+#+type: text/vnd.tiddlywiki
+
+[[https://www.goodreads.com/book/show/59616977-building-a-second-brain]]

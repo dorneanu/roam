@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e7816e2c-03d0-4c4a-b6df-12819277d5ff
+:END:
+#+created: 20201018200310578
+#+modified: 20210518184432802
+#+origin: [[<<. bibliography "Ganesha macht die Türe zu">>]]
+#+revision: 0
+#+tags: 
+#+title: Sadhu
+#+tmap.id: 5b57f8ee-157e-45db-a2fd-f989b868286c
+#+type: text/vnd.tiddlywiki
+
+- Person, die ein asketisches Leben führt nach den Regeln des [[id:4cfb06e8-308f-4c9e-9019-e1beafd94c16][Hinduismus]]

@@ -1,0 +1,33 @@
+#+created: 20200725181524608
+#+modified: 20220518063649851
+#+revision: 0
+#+stream-list: 
+#+stream-type: default
+#+tags: 
+#+title: Welcome
+#+tmap.id: 85bd5be4-35f2-425a-87f6-8654fe235a49
+#+type: text/vnd.tiddlywiki
+
+Welcome, bine ai venit, willkommen! My name is [[#VictorDorneanu][Victor Dorneanu]] and this is the place where I store my so called *external brain*. This project is aimed at collecting almost everything I know or try to remember. What you see right now is basically my personal knowledge base built with [[#Tiddlywiki][Tiddlywiki]].
+
+Although I still haven't figured out how to perfectly structure my notes, quotes and these are some areas you can read about:
+
+- [[#ProgrammingLanguage][Coding]]
+  - At the moment I mainly develop in [[#Golang][Golang]] and [[#Python][Python]]
+  - I like to run my code in a [[#Serverless][Serverless]] environment
+  - I like solutions which [[#CloudComputing][scale up]] especially in an [[#AWS][AWS]] context
+  - You can check my code at [[https://github.com/dorneanu][github.com/dorneanu]] or [[https://gitlab.com/vdorneanu][gitlab.com/vdorneanu]]
+- [[#Security][Security]]
+  - This is such a huge area so I specialized in [[#AppSec][Application Security]]
+  - I try to understand the mathematical concepts behing [[#Cryptography][Cryptography]]
+  - [[#Network][Networking]] knowledge is still crucial
+- [[#Books][Books]]
+  - I like to read a lot and about different topics
+  - I like to collect [[#Quotes][quotes]] and thoughts from materials I read
+- [[#Productivity][Productivity]]
+  - I'm obsessed with optimizing workflows
+  - Reading and making notes seems to be a huge science
+  - I use [[#Bullet%20Journal][Bullet Journaling]] for making notes and keeping track of my projects
+  - [[#Tiddlywiki][Tiddlywiki]] helped me digitize what's important
+- [[#Topics][Topics]]
+  - general topics I'm currently interested about

@@ -1,0 +1,11 @@
+#+created: 20210525190738704
+#+modified: 20210525190515724
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]]
+#+revision: 0
+#+tags: Definition
+#+title: MapReduce
+#+type: text/vnd.tiddlywiki
+
+- from Google
+- *Map* (C) -> [(kx, vy)]: This extracts information from a record and generates key-value tuples.
+- *Reduce* (k, [vx,vy...[]) -> (k,vagg): The reducer takes the key-value tuples generated in the map phase, grouped by the key, and generates an aggregate result.

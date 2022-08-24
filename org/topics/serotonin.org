@@ -1,0 +1,12 @@
+#+created: 20200913201341737
+#+modified: 20210518184432904
+#+revision: 0
+#+tags: 
+#+title: Serotonin
+#+tmap.id: 9c3865c9-859a-4f54-ae7e-5069b66fc092
+#+type: text/vnd.tiddlywiki
+
+- so called happiness hormone
+- can't pass the blood-brain barrier (that is means you cannot influence it by dietary sources)
+  - but tryptophan (building block of serotonin??) can do so
+- turns out [[#Kohlenhydrate][carbohydrates]] ingestion shunts non-trytophan amino acids out from the blood and into the muscles (and that allows tryptophan greater access into the brain)

@@ -1,0 +1,11 @@
+#+created: 20200921074437932
+#+modified: 20210518184433509
+#+origin: [[<<. bibliography "Getting Things Done - The Art of Stress-Free Productivity">>]]
+#+revision: 0
+#+tags: TODO
+#+title: The 3-fold model for evaluating daily work
+#+tmap.id: 491f69f3-1e49-4369-8e78-c273b3345236
+#+type: text/vnd.tiddlywiki
+
+- Don't do urgent tasks
+- There are no interruptions, there are mismanaged occurrences

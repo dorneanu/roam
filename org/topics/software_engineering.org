@@ -1,0 +1,47 @@
+#+created: 20201005081209082
+#+modified: 20210622082008964
+#+origin: [[<<. bibliography "The Clean Architecture">>]]
+#+revision: 0
+#+tags: Topics
+#+title: Software Engineering
+#+tmap.id: 9718439e-0cae-48e4-a3bc-d01c7b2b0856
+#+type: text/vnd.tiddlywiki
+
+* Engineering principles
+:PROPERTIES:
+:CUSTOM_ID: engineering-principles
+:END:
+- High-level design
+
+#+begin_quote
+This is the decomposition of the system into high-level components. This serves as the blueprint that the product and code need to follow at every stage of the product development life cycle. For example, once we have a layered architecture (see the following section), then we can easily identify for any new requirement to which layer each new component should
+
+#+end_quote
+
+- Quality attributes
+
+#+begin_quote
+We want high quality code, and this means no code checking would be allowed without unit tests and 90% code coverage
+
+#+end_quote
+
+- Prodct velocity
+
+#+begin_quote
+The product has a bounded value in time and, to ensure that there is high developer productivity, the team should build Continuous Integration / Continuous Deployment (CICD) pipelines from the start.
+
+#+end_quote
+
+- A/B testing
+
+#+begin_quote
+Every feature should have a flag, so that it can be shown only to an x percentage of users
+
+#+end_quote
+
+* Other requirements
+:PROPERTIES:
+:CUSTOM_ID: other-requirements
+:END:
+- 
+  - To fulfill its purpose, software must be soft---that is, it must be easy to change. When the stakeholders change their minds about a feature, that change should be simple and easy to make

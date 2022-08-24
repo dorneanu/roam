@@ -1,0 +1,21 @@
+#+created: 20210202184146486
+#+modified: 20210518184430006
+#+origin: [[<<. bibliography "Das Experiment sind wir">>]] 
+#+revision: 0
+#+title: DNA
+#+type: text/vnd.tiddlywiki
+
+- steht für Desoyribonukleinsäure
+- langes Kettenmolekül bestehend aus 4 Grundbausteinen (so genannte *Nukleotiden*)
+  - diese wiederrum bestehen aus einem winzigen bisschen [[#Zucker][Zucker]], etwas Phosphorsäure und je einer von 4 *Basen*
+    - Adenin
+    - Guanin
+    - Thymin
+    - Cytosin
+- die Nukleotide sind in einem *DNA-Strang* zu einer *Doppelhelix* verwoben
+  - entdeckt in 1953 durch James Watson und Francis Crick
+- neue Proteine werden in der zelleigenen Maschine namens Ribosom herstellt (auf Basis der Konstruktionspläne für die jeweiligen Proteine, auch *Gene* genannt)
+  - dazu werden "Wegwerf-Kopien" hergestellt, in Form von Boten-RNA oder [[#mRNA][mRNA]] (m für /messenger/)
+  - die Herstellung dieser Kopie nennt man /Transkription/
+    - die Kopie wird ins Ribosom geliefert und dort dann dekodiert (in Proteinbaupläne übersetzt)
+    - dabei kommt eine weitere Form von RNA namens [[#tRNA][tRNA]] zum Einsatz

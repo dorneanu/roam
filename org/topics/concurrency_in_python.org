@@ -1,0 +1,24 @@
+#+created: 20191209084416113
+#+modified: 20210518200455462
+#+revision: 0
+#+tags: TODO Python
+#+title: Concurrency in Python
+#+tmap.id: 797ce350-5618-4e57-a5a0-6e05c6ff9546
+#+type: text/vnd.tiddlywiki
+
+- [[https://pymotw.com/2/threading/]]
+- [[https://www.pythonforthelab.com/blog/starting-and-synchronizing-threads/]]
+
+** Shared resources
+:PROPERTIES:
+:CUSTOM_ID: shared-resources
+:END:
+
+#+begin_quote
+Python's built-in data structures (lists, dictionaries, etc.) are thread-safe as a side-effect of having atomic byte-codes for manipulating them (the GIL is not released in the middle of an update). Other data structures implemented in Python, or simpler types like integers and floats, don't have that protection. To guard against simultaneous access to an object, use a Lock object. ([[https://pymotw.com/2/threading/][source]]
+
+#+end_quote
+
+otherwise:
+
+- use =Locks=

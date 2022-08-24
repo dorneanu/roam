@@ -1,0 +1,9 @@
+#+created: 20210826085508695
+#+modified: 20210826085751110
+#+origin: [[<<. bibliography "The Clean Architecture">>]]
+#+revision: 0
+#+tags: Definition
+#+title: Software System/Entities
+#+type: text/vnd.tiddlywiki
+
+- Entities encapsulate enterprise-wide Critical Business Rules. An entity can be an object with methods, or it can be a set of data structures and functions. It doesn't matter so long as the entities can be used by many different applications in the enterprise.

@@ -1,0 +1,14 @@
+#+created: 20201217200641664
+#+modified: 20210518184433587
+#+revision: 0
+#+tags: 
+#+title: The Kindergarden Model of Organization
+#+type: text/vnd.tiddlywiki
+
+- by Julie Morgenstern
+- applies to how kindergarten rooms should look like
+  - there should be activity zones
+  - focus on one activity at a time
+  - items are stored at their point of use
+  - everything has a home
+  - visualizations (and colors) are important

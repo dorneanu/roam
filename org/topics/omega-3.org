@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       a0eaa6ba-8a7d-4bc0-95a2-7a0bdf1a37ef
+:END:
+#+created: 20200727110131596
+#+lang: de
+#+modified: 20210518184431720
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]] https://www.jedes-essen-zaehlt.de/
+#+revision: 0
+#+tags: Fette
+#+title: Omega-3
+#+tmap.id: e352d9e9-5809-4435-a274-9ffd9a431af1
+#+type: text/vnd.tiddlywiki
+
+- auch als Alpha-Linolensäure
+- Gute Quellen
+  - *Leinöl*
+  - Lachs
+  - Hering
+  - Thunfisch
+  - Forelle
+  - Sardine
+  - Makrele
+- Mehrere Unterkategorien
+  - [[#EPA][EPA]]
+  - [[#DPA][DPA]]
+  - [[#DHA][DHA]]
+- Wichtig fürs Auge
+- Wichtig für diverse Funktionen im Gehirn
+- Wirkt entzündungshemmend
+- Veganer nehmen zu wenig Omega-3 zu sich auf

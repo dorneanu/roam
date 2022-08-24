@@ -1,0 +1,14 @@
+#+created: 20201019085537255
+#+modified: 20210518184433967
+#+revision: 0
+#+tags: TODO Topics
+#+title: Yoga
+#+tmap.id: cedab622-bc6b-40bf-80e0-cd5b4a929380
+#+type: text/vnd.tiddlywiki
+
+- [[#Yama][Yama]]
+- [[#Niyama][Niyama]]
+- [[#Pranayama][Pranayama]]
+- [[#Pratyahara][Pratyahara]]
+- [[#Kryas][Kryas]]
+- [[#Meditation][Meditation]]

@@ -1,0 +1,30 @@
+#+created: 20201015121849680
+#+modified: 20210519071505208
+#+origin: https://www.arte.tv/de/videos/083968-000-A/schlafen-um-jeden-preis/
+#+revision: 0
+#+tags: Topics Definition
+#+title: Schlafmangel
+#+tmap.id: 3f8ec84c-91a2-44e8-bbfc-dddfe67e4f73
+#+type: text/vnd.tiddlywiki
+
+- in den letzten 50 Jahren haben 1.5 Stunden Schlaf verloren
+- Das Blaulicht im Alltag ist das Problem dafür
+  - der Lichtkonsum ist 10 Mal höher
+  - wir baden regelrecht im Licht
+  - überall sind LEDs, die uns mit Licht fluten
+    - der Blauanteil überwiegt
+  - es dauert 5min bis das Gehirn von dem Licht aktiviert wird (das wiederrum sorgt für [[#Melatonin][Melatonin]]-Ausschuss)
+- Ernährung spielt natürlich eine Rolle
+  - ein hoher [[#Glukose][Glukose]]-Spiegel signalisiert dem Gehirn, dass wir wach sind (das führt wiederrum zu einem ständigen Wachzustand)
+- häufig werden [[#Benzodiazepine][Benzodiazepine]] verschrieben
+- der Schlafentzug führt dazu, dass Müll aus den Zellen nicht entsorgt wird ([[#Autophagie][Autophagie]] kann nicht stattfinden)
+  - das führt zu [[#DNA][DNA]]-Veränderungen
+- Synapsen schrumpfen nach dem Schlaf
+  - Gehirn entscheidet welches Infors bleiben und welche "vergessen" werden
+  - die "Abfallprodukte" werden im Schlaf entsorgt ([[#Autophagie][Autophagie]])
+  - diese gelangen in die Leber wo sie dann abgespült werden
+- Zitate
+  - "Wir sind die einzigen Säugetiere, die bewusst Schlafentzug betreiben"
+- Weitere Literatur
+  - [[https://www.goodreads.com/book/show/26322.Take_a_Nap_Change_Your_Life_][Take a nap. Change your Life]]
+  - [[https://www.youtube.com/watch?v=kubnf5ZH18g][Take a Nap. Change Your Life - Sara Mednick - Talks at Google]]

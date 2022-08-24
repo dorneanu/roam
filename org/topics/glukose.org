@@ -1,0 +1,19 @@
+#+created: 20200727095231552
+#+modified: 20220523150906972
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Glukose
+#+tmap.id: 1665813d-1b93-431b-82d8-4890820a2355
+#+type: text/x-markdown
+
+- Vorkommen
+- Früchte
+- Gemüse
+- Brot
+- Nudeln
+- Reis
+- Kartoffeln
+- Wird von den Zellen als Energielieferant genutzt
+- Leber versorgt das Gehirn mit Glukose
+- Wird auch in der Leber zwecks Energiegewinnung abgefangen

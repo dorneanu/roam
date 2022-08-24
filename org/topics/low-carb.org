@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       5eac5bf9-cae6-4155-bdb1-d1978dc583e5
+:END:
+#+created: 20200727100050310
+#+lang: de
+#+modified: 20220523145601884
+#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
+#+revision: 0
+#+tags: 
+#+title: Low-Carb
+#+tmap.id: 339e137f-e995-42c3-ad6b-babebe0d4cfc
+#+type: text/vnd.tiddlywiki
+
+- LCHF
+  - *Low Carb High Fat*
+  - Natürliche [[id:edb2c853-5d35-47fc-8e8e-183b462aec44][Fette]] sind ok
+  - Industriell verarbeitete nicht
+  - [[id:0451fcb1-0e94-4d32-8dd3-36cb2cf4ac67][Kohlenhydrate]] sind Bösewichte
+  - Alles was unter der Erde wächst, ist schlecht
+- dominiert die Welt der Diäten
+- Problem
+  - [[id:0451fcb1-0e94-4d32-8dd3-36cb2cf4ac67][Kohlenhydrate]] führen zu
+    - Blutzucker und Insulinspitzen führen zu
+      - Fettspeicherung

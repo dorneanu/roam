@@ -1,0 +1,16 @@
+#+created: 20200913201145693
+#+modified: 20210518184429628
+#+origin: [[<<. bibliography "How not to die" "How not to die">>]]
+#+revision: 0
+#+tags: 
+#+title: Depression
+#+tmap.id: 9cba3cae-b85b-4dfd-9dd9-439cf331c187
+#+type: text/vnd.tiddlywiki
+
+- nerves communicate with each other using neurotransmitters
+- monoamines
+  - class of neurotransmitters
+  - includes serotonin, [[#Dopamine][Dopamine]]
+  - level is controlled by [[#MAO][MAO]]
+  - you cannot entirely block [[#MAO][MAO]] (would lead to brain hemorrhaging)
+- [[#Serotonin][Serotonin]]

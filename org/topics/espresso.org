@@ -1,0 +1,16 @@
+#+created: 20201015073925147
+#+modified: 20210518184430106
+#+revision: 0
+#+tags: 
+#+title: Espresso
+#+tmap.id: 6bf80e60-f359-4aa0-8c61-4cd416174217
+#+type: text/vnd.tiddlywiki
+
+* Verhältnis Wasser zu Kaffee
+:PROPERTIES:
+:CUSTOM_ID: verhältnis-wasser-zu-kaffee
+:END:
+| Bezeichnung | Verhältnis    |
+| Ristretto   | 1:1 - 1:1.5   |
+| Espresso    | 1:1.5 - 1:2.5 |
+| Lungo       | 1:2.5 - 1:4+  |
