@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7315aeb7-8e69-4c52-a996-3e8b9545938e
+:END:
+#+title: Shallow Work
+
+- work that doesn't put high-cognitive load on the brain
+- performed while distracted
+- logistic-style tasks
+- this kind of work doesn't create much new value in the worl and is easy to replicate
+
+* Resources
+- [[id:abd6a1c6-fad0-4396-94f8-edc87fe19a0d][Deep Work: Rules for Focused Success in a Distracted World]]

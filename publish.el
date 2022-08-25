@@ -28,6 +28,6 @@
     ;; (setq-local org-hugo-section "posts")
     (setq-local org-export-with-tags nil)
     (setq-local org-export-with-broken-links t)
-    (setq-local org-agenda-files nil)
+    (setq org-agenda-files nil)
     (let ((org-id-extra-files (directory-files-recursively org-roam-directory "\.org$")))
       (org-hugo-export-wim-to-md))))

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       5d2bfc38-fdfa-45e5-9e66-8c7fb3533fef
+:END:
+#+title: Deliberate Practice
+
+* Deliberate Practice
+- Part of performance psychology
+- In the early 1990s, K. Anders Ericsson, a professor at Florida State University
+- Key components
+  - (1) your attention is focused tightly on a specific skill you're trying to improve or
+    an idea you're trying to master;
+  - (2) you receive feedback so you can correct your approach to keep your attention
+    exactly where it's most productive
+** Neurological aspects
+#+begin_quote
+As the journalist Daniel Coyle surveys in his 2009 book, /The Talent Code/, these scientists
+increasingly believe the answer includes [[id:c2bbb018-15e5-4a0d-a071-aee390d0a6fe][myelin]] --- a layer of fatty tissue that grows
+around neurons, acting like an insulator that allows the cells to fire faster andcleaner.
+To understand the role of myelin in improvement, keep in mindthat skills, be they
+intellectual or physical, eventually reduce down tobrain circuits. This new science of
+performance argues that you getbetter at a skill as you develop more myelin around the
+relevantneurons, allowing the corresponding circuit to fire more effortlessly and
+effectively. To be great at something is to be well myelinated.
+#+end_quote
+* Resources
+- [[id:abd6a1c6-fad0-4396-94f8-edc87fe19a0d][Deep Work: Rules for Focused Success in a Distracted World]]

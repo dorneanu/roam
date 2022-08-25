@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3c7f407e-38f4-4a55-bfca-89e2e09f65a9
+:END:
+#+title: Deep Work
+
+- work performed in a distraction-free state
+- pushes your cognitive capabilities to their limit
+- these efforts create new value, improve your skills and are hard to replicate
+
+* Resources
+- [[id:abd6a1c6-fad0-4396-94f8-edc87fe19a0d][Deep Work: Rules for Focused Success in a Distracted World]]
