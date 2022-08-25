@@ -21,7 +21,7 @@ draft = false
     -   Chapter 2
         -   on the [principles](#philosophy) of digital minimalism
 -   Part 2
-    -   on
+    -   on [Solitude]({{< relref "../../topics/solitude.md" >}})
     -   Chapter 5
         -   on [Default Network]({{< relref "../../topics/default_network.md" >}})
             -   [why we're social beings](#digital-minimalism-note-5)

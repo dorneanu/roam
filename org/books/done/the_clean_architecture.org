@@ -20,6 +20,8 @@
   :END:
 
 
+* Resources
+- 2022-08-25 ◦ [[https://dev.to/educative/clean-architecture-tutorial-design-for-enterprise-scale-apps-3ad2][Clean architecture tutorial: Design for enterprise-scale apps - DEV Community]]
 
 * Quotes
 *** The Clean Architecture - Note 1                  :quote:

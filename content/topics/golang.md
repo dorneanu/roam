@@ -16,3 +16,10 @@ draft = false
 #### Botnets {#botnets}
 
 -   2022-08-22 ◦ [GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR](https://github.com/ThrillQuks/Pitraix)
+
+
+#### Microservices {#microservices}
+
+-   2022-08-25 ◦ [go-zero](https://github.com/zeromicro/go-zero)
+
+    A cloud-native Go [Microservices]({{< relref "microservices.md" >}}) framework with cli tool for productivity.

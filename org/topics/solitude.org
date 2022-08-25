@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       72c05f50-33e7-4f9a-91f1-526bd031702a
+:END:
 #+created: 20220419090027046
 #+modified: 20220502182641806
 #+origin: [[<<. bibliography "Digital Minimalism" >>]]

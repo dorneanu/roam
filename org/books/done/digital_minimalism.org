@@ -21,7 +21,7 @@
   - Chapter 2
     - on the [[* Philosophy][principles]] of digital minimalism
 - Part 2
-  - on [[id:6a11cfd7-b44a-4c45-94d7-e779865fb2ea][Solitude]]
+  - on [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]]
   - Chapter 5
     - on [[id:d0ac1661-b81c-453d-9b49-4a08c58beafa][Default Network]]
       - [[* Digital Minimalism - Note 5][why we're social beings]]

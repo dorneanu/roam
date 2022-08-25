@@ -8,6 +8,11 @@ draft = false
 ## The Clean Architecture {#the-clean-architecture}
 
 
+## Resources {#resources}
+
+-   2022-08-25 ◦ [Clean architecture tutorial: Design for enterprise-scale apps - DEV Community](https://dev.to/educative/clean-architecture-tutorial-design-for-enterprise-scale-apps-3ad2)
+
+
 ## Quotes {#quotes}
 
 

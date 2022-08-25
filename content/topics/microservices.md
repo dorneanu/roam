@@ -64,3 +64,8 @@ Definition
 ## Resources {#resources}
 
 -   from [Building Microservices (2nd edition)]({{< relref "../books/building_microservices_2nd_edition.md" >}})
+
+
+### Articles {#articles}
+
+-   2022-08-25 ◦ [Design patterns for microservices - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns)

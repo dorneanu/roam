@@ -9,3 +9,7 @@
  - 2022-08-16 ◦ [[https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2][Service Discovery with Go and mDNS]]
 *** Botnets
 - 2022-08-22 ◦ [[https://github.com/ThrillQuks/Pitraix][GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR]]
+*** Microservices
+- 2022-08-25 ◦ [[https://github.com/zeromicro/go-zero][go-zero]]
+
+  A cloud-native Go [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]] framework with cli tool for productivity.
