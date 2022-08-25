@@ -1,7 +1,7 @@
 Title =  "brainfck.org"
 defaultContentLanguage = "en"
 languageCode = "en-us"
-BaseUrl = "http://brainfck.org"
+BaseUrl = "https://brainfck.org"
 Theme =  "er"
 MetaDataFormat =  "yaml"
 CanonifyUrls =  true
