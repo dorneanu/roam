@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       abd6a1c6-fad0-4396-94f8-edc87fe19a0d
 :END:
-#+title: Deep Work: Rules for Focused Success in a Distracted World
+#+title: Deep Work
 #+filetags: :book:todo:
 #+date: 2022-07-01
 

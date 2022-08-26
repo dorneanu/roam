@@ -1,5 +1,5 @@
 +++
-title = "Deep Work: Rules for Focused Success in a Distracted World"
+title = "Deep Work"
 date = 2022-07-01
 tags = ["book", "todo"]
 draft = false
