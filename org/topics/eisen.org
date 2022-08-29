@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       d02f07cd-442d-4c68-8d9e-fc02b792d7c3
+:END:
 #+created: 20210829110040156
 #+modified: 20210829130422011
 #+origin: https://www.jedes-essen-zaehlt.de/
 #+revision: 0
-#+tags: 
+#+filetags: :nutrition:
 #+title: Eisen
 #+type: text/vnd.tiddlywiki
 
@@ -14,7 +17,7 @@
   - beteiligt an der Energiegewinnung
   - sorgt für Immunabwehr
   - beteiligt an der Hormonsynthese
-- sollte gleichzeitig mit [[#Vitamin%20C][Vitamin C]] zugeführt werden
+- sollte gleichzeitig mit [[id:9387fcda-83c7-45aa-bbcd-87361a49cb49][Vitamin C]] zugeführt werden
 - Quellen
   - Pflanzlich
     - Vollkorngetreide

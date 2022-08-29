@@ -8,6 +8,19 @@ draft = false
 
 ### Articles {#articles}
 
+-   2022-08-29 ◦ [How to use Go as a glue language](https://appliedgo.com/blog/go-as-a-glue-language)
+    \#+begincquote
+    Happiness comes from within: <span class="underline">self-conained binaries</span>
+
+    Go is <span class="underline">verb-oriented</span>. Put a pot on the stove. Boil water. Pour the water over some tea leaves. Wait. Drink. This is the way humans think. When planning a task, you think about the necessary actions before you think about the array of objects needed for executing these actions.
+
+Go's “\*do something\*” approach gets your **stuff done.**
+
+The `net/http` package allows building a basic **HTTP server** with a **few lines of code**.
+
+Go has quite a unique approach of **abstracting away data sources and sinks as uniform data streams**. An `io.Reader` stream, for example, can represent input from a file, a network connection, an in-memory buffer, or even a simple string. Unit-test your code with a byte buffer, then use it in production with real files.
+\#+end_quote
+
 -   2022-08-17 ◦ [Preferred resource for 'advanced' Go? : golang](https://www.reddit.com/r/golang/comments/wlw5bj/preferred_resource_for_advanced_go/)
     -   Some good recommendation for advanced Go learning resources
 -   2022-08-16 ◦ [Service Discovery with Go and mDNS](https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2)

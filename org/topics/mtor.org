@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       d81022ce-7eea-4dbc-bbfc-0fa2c9a8b9c3
+:END:
 #+created: 20200727095851280
 #+lang: de
 #+modified: 20220523145337926
@@ -13,8 +16,8 @@
 - Wird von Proteinen aktiviert
 - Sorgt aber auch für unkontrollierten Wachstum
   - Hauptgrund für Krebs
-- Hauptaktivator: [[#Proteine][Proteine]]
+- Hauptaktivator: [[id:57a4ec91-8347-4e89-a4a0-1cf506960b61][Proteine]]
   - Desweiteren: Kohlenhydrate mit hohem Glykämischen Index
-  - [[#Fette][Fette]] lassen mTOR eher in Ruhe
+  - [[id:edb2c853-5d35-47fc-8e8e-183b462aec44][Fette]] lassen mTOR eher in Ruhe
 - *Forscher*
   - Lewis Cantley

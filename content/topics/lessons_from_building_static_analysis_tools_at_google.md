@@ -1,5 +1,6 @@
 +++
 title = "Lessons from building static analysis tools at Google"
+tags = ["appsec", "sca"]
 draft = false
 +++
 

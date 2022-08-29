@@ -1,8 +1,9 @@
+:PROPERTIES:
+:ID:       092b8fa4-0199-438f-9f4a-56bde0302ff1
+:END:
 #+created: 20201005072622598
 #+modified: 20210518184431291
 #+revision: 0
 #+title: OAUTH
 #+tmap.id: cfd0897f-8432-48b9-99a6-45f9fea4122a
 #+type: text/vnd.tiddlywiki
-
-

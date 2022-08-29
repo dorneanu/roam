@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       49e5f89c-edc4-4f2c-ad46-7229188c3d9f
+:END:
 #+created: 20200727100335271
 #+lang: de
 #+modified: 20210518184430631
@@ -8,10 +11,13 @@
 #+tmap.id: f329934e-a9a7-4b4c-bca1-e996404caef4
 #+type: text/vnd.tiddlywiki
 
-- Feuert über [[#mTOR][mTOR]] die Zellen zu Baumaßnahmen an - Aber auch Krebszellen reagieren darauf
+
+- Feuert über [[id:d81022ce-7eea-4dbc-bbfc-0fa2c9a8b9c3][mTOR]] die Zellen zu Baumaßnahmen an - Aber auch Krebszellen reagieren darauf
 - Reguliert den Glukosespiegel im Blut
-  - Zu viel [[#Glukose][Glukose]] führt zu Verklebungen mit [[#Proteine][Eiweiß]]
+  - Zu viel [[id:584c7d4c-2d0d-43c0-8283-11c74bbf1a52][Glukose]] führt zu Verklebungen mit [[id:57a4ec91-8347-4e89-a4a0-1cf506960b61][Eiweiß]]
 - Auch Fettspeicherungshormon
   - Wenn Insulin--und Glukosespiegel hoch sind, dann ist die Energieversorgung gewährleistet
     - Fet muss also nicht als Energiequelle benutzt werden
     - Insulin blockiert dann die Fettverbrennung
+
+- source :: [[id:51db3d24-8278-485f-ae2b-9765c41ef25c][Der Ernährungskompass]]

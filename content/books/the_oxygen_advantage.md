@@ -31,27 +31,27 @@ draft = false
 
 #### BOLT score {#bolt-score}
 
-{{< figure src="/ox-hugo/oxygen advantage 08-26-2022 06.32_1.jpg" >}}
+{{< figure src="/img/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_1.jpg" >}}
 
 
 #### Nose unblocking exercise {#nose-unblocking-exercise}
 
-{{< figure src="/ox-hugo/oxygen advantage 08-26-2022 06.32_2.jpg" >}}
+{{< figure src="/img/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_2.jpg" >}}
 
 
 #### Breathe Light to Breathe Right {#breathe-light-to-breathe-right}
 
-{{< figure src="/ox-hugo/oxygen advantage 08-26-2022 06.32_3.jpg" >}}
+{{< figure src="/img/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_3.jpg" >}}
 
 
 #### Breathing recovery / Improved concentration {#breathing-recovery-improved-concentration}
 
-{{< figure src="/ox-hugo/oxygen advantage 08-26-2022 06.32_4.jpg" >}}
+{{< figure src="/img/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_4.jpg" >}}
 
 
 #### Simulate High-Altitude Training {#simulate-high-altitude-training}
 
-{{< figure src="/ox-hugo/oxygen advantage 08-26-2022 06.32_5.jpg" >}}
+{{< figure src="/img/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_5.jpg" >}}
 
 
 ## Quotes {#quotes}
@@ -59,10 +59,10 @@ draft = false
 
 ### The Oxygen Advantage - Note 1 {#the-oxygen-advantage-note-1}
 
-We also recognize the importance of breathing good-quality air, but what about
-the quantity? How much air should we breathe for optimum health? Wouldn'tit be
-fair to surmise that air, even more important than food or water for human
-survival, must also meet basic requirements?
+> We also recognize the importance of breathing good-quality air, but what about
+> the quantity? How much air should we breathe for optimum health? Wouldn'tit be
+> fair to surmise that air, even more important than food or water for human
+> survival, must also meet basic requirements?
 
 
 ### The Oxygen Advantage - Note 2 {#the-oxygen-advantage-note-2}

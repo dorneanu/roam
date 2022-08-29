@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       579ad026-25aa-4089-a4b5-c01eede8cab9
+:END:
 #+created: 20201005074539388
 #+modified: 20210601084915850
 #+origin: https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext
 #+revision: 0
-#+tags: AppSec
+#+filetags: :appsec:sca:
 #+title: Lessons from building static analysis tools at Google
 #+tmap.id: 9dc9dd3d-462c-4ebd-b547-b6d104a7cc75
 #+type: text/vnd.tiddlywiki
@@ -28,7 +31,6 @@
   - ricorder analyzers report results for more than 30 languages, support simple syntactic analyses like style checkers, leverage compiler information for Java, [[#JavaScript][JavaScript]], and C++, and are straightforward to integrate with production data (such as about jobs that are currently running).
 
   - Scaling
-
     - As of January 2018, Tricorder had analyzed approximately 50,000 code review changes per day
     - Reviewers clicked "Please Fix" more than 5,000 times per day
     - Tricorder analyzers received "Not useful" clicks 250 times per day.

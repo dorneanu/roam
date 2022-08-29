@@ -13,20 +13,14 @@ draft = false
 
 #### Definition {#definition}
 
-> [Microservices](https://brainfck.org/#Microservices) are independently releasable services that are modeled around a business
+> [Microservices]({{< relref "../../topics/microservices.md" >}}) are independently releasable services that are modeled around a business
 > domain. A service encapsulates functionality and makes it accessible to other services via
 > networks.
 
--   [Microservices](https://brainfck.org/#Microservices) are a type of [SOA](https://brainfck.org/#SOA) architecture
+-   Microservices are a type of SOA architecture
     -   service boundaries are important
     -   independent deployability is key
--   [Microservices](https://brainfck.org/#Microservices) embrace the concept of [Information hiding](https://brainfck.org/#Information%20hiding)
-
-<div class="sidenote">
-
-Introduced by David Parnas in _Information Distribution Aspects of Design Methodology_
-
-</div>
+-   Microservices embrace the concept of [Information hiding]({{< relref "../../topics/information_hiding.md" >}})
 
 
 #### Key Concepts {#key-concepts}
@@ -37,7 +31,7 @@ Introduced by David Parnas in _Information Distribution Aspects of Design Method
 -   **Modeled around a business domain**
     -   definition of service boundaries (see [DDD](#ddd))
 -   **Owning their own state**
-    -   hide internal state (same as encapsulation in [OOP](https://brainfck.org/#OOP))
+    -   hide internal state (same as encapsulation in [OOP](https://tw5.brainfck.org/#OOP))
     -   clean delineation between internal implementation details and external contract
         -   be backward-compatible
     -   hide database that backs the service
@@ -67,18 +61,15 @@ Introduced by David Parnas in _Information Distribution Aspects of Design Method
 
 -   **Technology Heterogeneity**
 
-{{< gbox src="/posts/img/2022/building-microservices-2nd-edition/microservices_07-02-2022_12.35_4.jpg" title="Technology heterogenity" caption="You can use different technologies/programming languages for building multiple microservices." pos="left" >}}
+{{< gbox src="/img/building-microservices-2nd-edition/microservices_07-02-2022_12.35_4.jpg" title="Technology heterogenity" caption="You can use different technologies/programming languages for building multiple microservices." pos="left" >}}
 
 -   **Robustness**
     -   a component in a system can fail but as long as the problem doesn't cascade, the rest
         of the system still works
 -   **Scaling**
-
-    <div class="sidenote">
-
+{{% sidenote %}}
     Book recommendation: [The art of scalability](https://www.goodreads.com/de/book/show/7282390-the-art-of-scalability)
-
-    </div>
+    {{% /sidenote %}}
 -   **Ease of Deployment**
     -   fast delivery of features
     -   decreases fear of deployment (see [Accelerate]({{< relref "accelerate.md" >}}))
@@ -108,28 +99,15 @@ Introduced by David Parnas in _Information Distribution Aspects of Design Method
 -   **Reporting**
     -   data and logs are scattered across multiple components
 -   **Monitoring and troubleshooting**
-
-    <div class="sidenote">
-
+{{% sidenote %}}
     Book recommendation: [Distributed Systems Observability](https://www.oreilly.com/library/view/distributed-systems-observability/9781492033431/)
-
-    </div>
+    {{% /sidenote %}}
 -   **Security**
 -   **Latency**
 -   **Data consistency**
 
 
 ### Ch. 2: How to model microservices {#ch-dot-2-how-to-model-microservices}
-
-
-#### [Information hiding](https://brainfck.org/#Information%20hiding) {#information-hiding}
-
--   hide as many details as possible behind a module / microservice boundary
--   Parnas identified following benefits:
-    -   improved development time
-    -   comprehensibility
-        -   each module is isolated and therefore better to understand
-    -   flexibility
 
 
 #### Cohesion {#cohesion}
@@ -158,7 +136,7 @@ Introduced by David Parnas in _Information Distribution Aspects of Design Method
 -   still: there is no best way how to organize code
 
 
-#### [Types of coupling](https://brainfck.org/#Types%20of%20coupling) {#types-of-coupling}
+#### [Types of coupling](https://tw5.brainfck.org/#Types%20of%20coupling) {#types-of-coupling}
 
 <!--list-separator-->
 
@@ -167,10 +145,10 @@ Introduced by David Parnas in _Information Distribution Aspects of Design Method
     -   one microservice interacts with another microservice because it needs the functionality
         the other microservice provides
 
-    {{< gbox src="/posts/img/2022/building-microservices-2nd-edition/microservices_07-02-2022_12.35_5.jpg" title="Domain coupling" caption="Each microservice has a different functionality" pos="left" >}}
+    {{< gbox src="/img/building-microservices-2nd-edition/microservices_07-02-2022_12.35_5.jpg" title="Domain coupling" caption="Each microservice has a different functionality" pos="left" >}}
 
     -   considered as a _loose_ form of coupling
-    -   again, information hiding: Share only what you absolutely have to, and send only the
+    -   again, [information hiding]({{< relref "../../topics/information_hiding.md" >}}): Share only what you absolutely have to, and send only the
         absolute minimum amount of data that you need
 
 <!--list-separator-->
@@ -179,7 +157,7 @@ Introduced by David Parnas in _Information Distribution Aspects of Design Method
 
     -   one microservice passes data to some other microservice because data is needed by another microservice
 
-    {{< gbox src="/posts/img/2022/building-microservices-2nd-edition/microservices_07-02-2022_12.35_6.jpg" title="Pass-through coupling" caption="Some information is passed from one microservice to another" pos="left" >}}
+    {{< gbox src="/img/building-microservices-2nd-edition/microservices_07-02-2022_12.35_6.jpg" title="Pass-through coupling" caption="Some information is passed from one microservice to another" pos="left" >}}
 
 <!--list-separator-->
 
@@ -189,14 +167,14 @@ Introduced by David Parnas in _Information Distribution Aspects of Design Method
         -   use of shared DB
         -   use of shared memory/filesystem
     -   problem: changes to data can impact multiple microservices at once
-    -   better solution would be to implement [CRUD](https://brainfck.org/#CRUD) operations and let only 1
+    -   better solution would be to implement [CRUD](https://tw5.brainfck.org/#CRUD) operations and let only 1
         microservice handle shared DB operations
 
 <!--list-separator-->
 
 -  Content coupling
 
-    {{< gbox src="/posts/img/2022/building-microservices-2nd-edition/microservices_07-02-2022_12.35_7.jpg" title="Content coupling" caption="" pos="left" >}}
+    {{< gbox src="/img/building-microservices-2nd-edition/microservices_07-02-2022_12.35_7.jpg" title="Content coupling" caption="" pos="left" >}}
 
     -   when an upstream service reaches into internals of a downstream service anc changes its
         internal state
@@ -204,7 +182,7 @@ Introduced by David Parnas in _Information Distribution Aspects of Design Method
 
 #### DDD {#ddd}
 
-[DDD](https://brainfck.org/#DDD) stands for Domain-Driven Design.
+[DDD](https://tw5.brainfck.org/#DDD) stands for Domain-Driven Design.
 
 <!--list-separator-->
 
@@ -237,7 +215,7 @@ Introduced by David Parnas in _Information Distribution Aspects of Design Method
                 that will be managed as part of the system
         -   aggregates can have **relationships** to other aggregates
 
-            {{< gbox src="/posts/img/2022/building-microservices-2nd-edition/microservices_07-02-2022_12.35_8.jpg" title="Relationship between aggregates" caption="If relationships exist inside scope of the same microservices, we could use foreign keys to store relationship" pos="left" >}}
+            {{< gbox src="/img/building-microservices-2nd-edition/microservices_07-02-2022_12.35_8.jpg" title="Relationship between aggregates" caption="If relationships exist inside scope of the same microservices, we could use foreign keys to store relationship" pos="left" >}}
 
     <!--list-separator-->
 
@@ -245,7 +223,7 @@ Introduced by David Parnas in _Information Distribution Aspects of Design Method
 
         -   a larger organizational boundary
             -   within it explicit responsibilities need to be carried out
-        -   bounded contexts hide implementation details ([Information hiding](https://brainfck.org/#Information%20hiding))
+        -   bounded contexts hide implementation details ([Information hiding]({{< relref "../../topics/information_hiding.md" >}}))
         -   bounded contexts contain `1-n` aggregates
             -   some aggregates may be exposed outside the bounded context
             -   others may be hidden internally
@@ -273,9 +251,9 @@ Introduced by David Parnas in _Information Distribution Aspects of Design Method
 
 ### Ch. 3: Split the monolith {#ch-dot-3-split-the-monolith}
 
-{{< gbox src="/posts/img/2022/building-microservices-2nd-edition/microservices_07-02-2022_12.35_2.jpg" title="Monolith types" caption="Types of monoliths" pos="left" >}}
+{{< gbox src="/img/building-microservices-2nd-edition/microservices_07-02-2022_12.35_2.jpg" title="Monolith types" caption="Types of monoliths" pos="left" >}}
 
-{{< gbox src="/posts/img/2022/building-microservices-2nd-edition/microservices_07-02-2022_12.35_3.jpg" title="Monolith types" caption="Distributed monolith: A system that consists of multiple services but for whatever reason the entire system must be deployed together. " pos="left" >}}
+{{< gbox src="/img/building-microservices-2nd-edition/microservices_07-02-2022_12.35_3.jpg" title="Monolith types" caption="Distributed monolith: A system that consists of multiple services but for whatever reason the entire system must be deployed together. " pos="left" >}}
 
 -   you need to have a **goal** before moving to microservices
     -   should be a conscious decision
@@ -288,14 +266,9 @@ Introduced by David Parnas in _Information Distribution Aspects of Design Method
 #### Decomposition patterns {#decomposition-patterns}
 
 -   Strangler fig pattern
-
-<div class="sidenote">
-
+{{% sidenote %}}
 By [Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
-
-</div>
-
-{{< gbox src="/posts/img/2022/building-microservices-2nd-edition/microservices_07-02-2022_12.35_9.jpg" title="Strangler fig pattern" caption="An interception layer could catch calls and distribute them between a monolith and microservices." pos="left" >}}
+{{% /sidenote %}} {{< gbox src="/img/building-microservices-2nd-edition/microservices_07-02-2022_12.35_9.jpg" title="Strangler fig pattern" caption="An interception layer could catch calls and distribute them between a monolith and microservices." pos="left" >}}
 
 -   Parallel run
 -   Feature toggles
@@ -312,13 +285,13 @@ By [Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
 
 ### Ch. 4: Communication styles {#ch-dot-4-communication-styles}
 
-{{< gbox src="/posts/img/2022/building-microservices-2nd-edition/microservices_07-02-2022_12.35_10.jpg" title="Communication styles" caption="In-process vs. inter-process communication (IPC)" pos="left" >}}
+{{< gbox src="/img/building-microservices-2nd-edition/microservices_07-02-2022_12.35_10.jpg" title="Communication styles" caption="In-process vs. inter-process communication (IPC)" pos="left" >}}
 
 -   styles for IPC communications
     -   **synchronous blocking**
     -   **asynchronous blocking**
     -   **request-response**
-    -   [Event-Driven Architecture](https://brainfck.org/#Event-Driven%20Architecture)
+    -   [Event-Driven Architecture](https://tw5.brainfck.org/#Event-Driven%20Architecture)
     -   **Common data**
 
 
@@ -338,12 +311,9 @@ By [Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
 -   backward compatibility
 -   make your interface(s) explicit
     -   use of explicit schemas
-
-        <div class="sidenote">
-
+{{% sidenote %}}
         Like [OpenAPI](https://swagger.io/specification/)
-
-        </div>
+        {{% /sidenote %}}
 -   keep your APIs technology-agnostic
 -   make your service simple for the consumers
 -   hide internal implementation details
@@ -351,26 +321,18 @@ By [Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
 
 #### Technology choices {#technology-choices}
 
--   [RPC](https://brainfck.org/#RPC)
+-   [RPC](https://tw5.brainfck.org/#RPC)
     -   SOAP
-    -   [gRPC](https://brainfck.org/#gRPC)
+    -   [gRPC](https://tw5.brainfck.org/#gRPC)
 -   REST
-
-    <div class="sidenote">
-
+{{% sidenote %}}
     Book recommendation: [REST in Practice: Hypermedia and Systems Architecture](https://www.goodreads.com/en/book/show/8266727-rest-in-practice) (by Jim Webber, Savas Parastatidis, Ian Robinson)
-
-    </div>
+    {{% /sidenote %}}
 -   GraphQL
-    -   alternative: [BFF](https://brainfck.org/#BFF) (Backend-For Frontend) pattern
-
-        <div class="sidenote">
-
+    -   alternative: [BFF](https://tw5.brainfck.org/#BFF) (Backend-For Frontend) pattern
+{{% sidenote %}}
         This [article](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf) provides a quite good introduction.
-
-        </div>
-
-        {{< gbox src="/posts/img/2022/building-microservices-2nd-edition/microservices_07-02-2022_12.35_13.jpg" title="Backend for Frontend (BFF)" caption="Define different services for web, mobile, native clients and return only the amount of data needed. " pos="left" >}}
+        {{% /sidenote %}} {{< gbox src="/img/building-microservices-2nd-edition/microservices_07-02-2022_12.35_13.jpg" title="Backend for Frontend (BFF)" caption="Define different services for web, mobile, native clients and return only the amount of data needed. " pos="left" >}}
 
 -   Message brokers
     -   use queues/topics
@@ -385,7 +347,7 @@ By [Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
     -   [AWS API Gateway](https://aws.amazon.com/api-gateway/)
     -   [GCP API Gateway](https://cloud.google.com/api-gateway)
 
-{{< gbox src="/posts/img/2022/building-microservices-2nd-edition/microservices_07-02-2022_12.35_11.jpg" title="API Gateway" caption="North-south traffic is handled by an API GW (Gateway), east-west traffic via a service mesh. " pos="left" >}}
+{{< gbox src="/img/building-microservices-2nd-edition/microservices_07-02-2022_12.35_11.jpg" title="API Gateway" caption="North-south traffic is handled by an API GW (Gateway), east-west traffic via a service mesh. " pos="left" >}}
 
 
 ### Ch. 6: Workflow {#ch-dot-6-workflow}
@@ -421,7 +383,7 @@ By [Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
 
 ### Ch. 7: Build {#ch-dot-7-build}
 
--   on [Continuous Integration (CI)](https://brainfck.org/#Continuous%20Integration%20(CI))
+-   on [Continuous Integration (CI)](https://tw5.brainfck.org/#Continuous%20Integration%20(CI))
 -   how to organize artifacts
     -   monorepo
     -   multirepo
@@ -430,7 +392,7 @@ By [Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
 ### Ch. 8: Deployment {#ch-dot-8-deployment}
 
 
-#### [Principles of Microservices Deployment](https://brainfck.org/#Microservices/Deployment) {#principles-of-microservices-deployment}
+#### [Principles of Microservices Deployment](https://tw5.brainfck.org/#Microservices/Deployment) {#principles-of-microservices-deployment}
 
 -   **isolated execution**
     -   own computing resources
@@ -438,12 +400,9 @@ By [Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
 -   **focus on automation**
     -   adopt automation as core part of your culture
 -   **Infrastructure as a Code**
-
-    <div class="sidenote">
-
+{{% sidenote %}}
     Book: [Infrastructure as Code: Managing Servers in the Cloud](https://www.goodreads.com/en/book/show/26544394-infrastructure-as-code)
-
-    </div>
+    {{% /sidenote %}}
 -   **zero-downtime deployment**
     -   independent deployability
         -   new deployment of microservices can be done without downtime to users/clients of microservices
@@ -481,7 +440,7 @@ By [Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
     -   events
     -   traces
 
-    {{< gbox src="/posts/img/2022/building-microservices-2nd-edition/microservices_07-02-2022_12.35_12.jpg" title="Correlation IDs in logs" caption="In order to correlate different logs (from different sources) a request ID could be used (and set in the API Gateway) and passed through to different microservices. " pos="left" >}}
+    {{< gbox src="/img/building-microservices-2nd-edition/microservices_07-02-2022_12.35_12.jpg" title="Correlation IDs in logs" caption="In order to correlate different logs (from different sources) a request ID could be used (and set in the API Gateway) and passed through to different microservices. " pos="left" >}}
 
 
 #### Alert fatigue {#alert-fatigue}
@@ -489,12 +448,9 @@ By [Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
 > Alert fatigue—also known as alarm fatigue—is when an overwhelming number of
 > alerts desensitizes the people tasked with responding to them, leading to missed
 > or ignored alerts or delayed responses -- [Source](https://www.atlassian.com/incident-management/on-call/alert-fatigue)
-
-<div class="sidenote">
-
+{{% sidenote %}}
 Also a good reading: [Alarm design: From nuclear power to WebOps](https://humanisticsystems.com/2015/10/16/fit-for-purpose-questions-about-alarm-system-design-from-theory-and-practice/).
-
-</div>
+{{% /sidenote %}}
 
 <!--list-separator-->
 
@@ -531,7 +487,7 @@ Also a good reading: [Alarm design: From nuclear power to WebOps](https://humani
 -   other options
     -   A/B testing
     -   canary releases
-    -   [Chaos engineering](https://brainfck.org/#Chaos%20engineering)
+    -   [Chaos engineering](https://tw5.brainfck.org/#Chaos%20engineering)
     -   parallel runs
     -   smoke tests
 
@@ -564,12 +520,9 @@ Also a good reading: [Alarm design: From nuclear power to WebOps](https://humani
 #### Resiliency {#resiliency}
 
 -   defined by David D. Woods
-
-    <div class="sidenote">
-
+{{% sidenote %}}
     Book: [Resilience Engineering: Concepts and Precepts](https://www.goodreads.com/book/show/910055.Resilience_Engineering)
-
-    </div>
+    {{% /sidenote %}}
 -   aspects
     -   **robustness**
         -   ability to absorb perturbation
@@ -587,13 +540,9 @@ Also a good reading: [Alarm design: From nuclear power to WebOps](https://humani
 #### Stream-aligned teams {#stream-aligned-teams}
 
 -   topologies how to build organizations, teams
-
-<div class="sidenote">
-
+{{% sidenote %}}
 Book recommendation: [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/en/book/show/44135420-team-topologies)
-
-</div>
-
+{{% /sidenote %}}
 -   aka "full-stack teams"
 -   a team aligned to a single, valuable stream of work
 -   the team is empowered to build and deliver customer or user value as quickly
@@ -605,12 +554,9 @@ Book recommendation: [Team Topologies: Organizing Business and Technology Teams 
 
 -   architectural style where independently deliverable frontend applications are
     composed into a greater whole
-
-    <div class="sidenote">
-
+{{% sidenote %}}
     Check out Martin Fowler's [article](https://martinfowler.com/articles/micro-frontends.html).
-
-    </div>
+    {{% /sidenote %}}
 -   possible implementations
     -   widget-based decomposition
     -   page-based decomposition
@@ -619,12 +565,9 @@ Book recommendation: [Team Topologies: Organizing Business and Technology Teams 
 #### SCS {#scs}
 
 -   stands for Self-Contained Systems
-
-    <div class="sidenote">
-
+{{% sidenote %}}
     Read more on the [official site](https://scs-architecture.org/)
-
-    </div>
+    {{% /sidenote %}}
 -   highlights
     -   each SCS is an autonomous web application with no shared UI
     -   each SCS is owned by one team
@@ -648,12 +591,9 @@ Book recommendation: [Team Topologies: Organizing Business and Technology Teams 
 
 > "Whatever industry you operate in, it is all about your people, and catching them doing things right, and providing them with the
 > confidence, the motivation, the freedom and desire to achieve their true potential" - John Timpson
-
-<div class="sidenote">
-
+{{% sidenote %}}
 Also interesting is the concept of paved roads, where best-practices are available but deviations are also allowed.
-
-</div>
+{{% /sidenote %}}
 
 
 ### Ch. 16: The evolutionary architect {#ch-dot-16-the-evolutionary-architect}
@@ -662,12 +602,9 @@ Also interesting is the concept of paved roads, where best-practices are availab
 #### Role of architects {#role-of-architects}
 
 -   We should think of the role of IT architects more as **town planners** than architects for the built environment
-
-    <div class="sidenote">
-
+{{% sidenote %}}
     Sam uses the [Seagram Building](https://en.wikipedia.org/wiki/Seagram_Building) (designed by Mies van der Rohe) as an universal place to visualize the role of an (IT) architect.
-
-    </div>
+    {{% /sidenote %}}
 
 
 #### Buildings and software {#buildings-and-software}

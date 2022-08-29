@@ -26,11 +26,11 @@ draft = false
 ## [Beyond Corp: The Access proxy](https://research.google/pubs/pub45728/) {#beyond-corp-the-access-proxy}
 
 -   Google implemented a centralized policy enforcement front-end Access Proxy (AP) to handle coarse-grained company policies.
--   implemented for HTTP and [SSH]({{< relref "ssh.md" >}})
-    -   wrap [SSH]({{< relref "ssh.md" >}}) traffic in HTTP over [TLS]({{< relref "tls.md" >}}) (by using ProxyCommand)
+-   implemented for HTTP and
+    -   wrap traffic in HTTP over [TLS]({{< relref "tls.md" >}}) (by using ProxyCommand)
     -   they developed a local proxy, similar to Corkscrew
 -   The main components of Google’s front-end infrastructure are a f leet of HTTP/HTTPS reverse proxies called Google Front Ends
 -   authentication:
-    -   support OAUTH, OpenID connect and custom protocols
+    -   support [OAUTH]({{< relref "oauth.md" >}}), [OpenID]({{< relref "openid.md" >}}) connect and custom protocols
 -   authorization:
     -   ACL engine queryable via RPCs

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       584c7d4c-2d0d-43c0-8283-11c74bbf1a52
+:END:
 #+created: 20200727095231552
 #+modified: 20220523150906972
 #+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]

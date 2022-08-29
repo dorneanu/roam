@@ -27,30 +27,32 @@
 * Exercises
 *** BOLT score
 
-[[./images/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_1.jpg]]
+[[/img/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_1.jpg]]
 
 *** Nose unblocking exercise
 
-[[./images/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_2.jpg]]
+[[/img/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_2.jpg]]
 
 *** Breathe Light to Breathe Right
 
-[[./images/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_3.jpg]]
+[[/img/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_3.jpg]]
 
 *** Breathing recovery / Improved concentration
 
-[[./images/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_4.jpg]]
+[[/img/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_4.jpg]]
 
 *** Simulate High-Altitude Training
 
-[[./images/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_5.jpg]]
+[[/img/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_5.jpg]]
 
 * Quotes
 ** The Oxygen Advantage - Note 1                                               :quote:done:
+#+begin_quote
 We also recognize the importance of breathing good-quality air, but what about
 the quantity? How much air should we breathe for optimum health? Wouldn'tit be
 fair to surmise that air, even more important than food or water for human
 survival, must also meet basic requirements?
+#+end_quote
 
 ** The Oxygen Advantage - Note 2                                               :quote:done:
 #+begin_quote

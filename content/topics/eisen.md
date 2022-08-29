@@ -1,5 +1,6 @@
 +++
 title = "Eisen"
+tags = ["nutrition"]
 draft = false
 +++
 
@@ -11,7 +12,7 @@ draft = false
     -   beteiligt an der Energiegewinnung
     -   sorgt für Immunabwehr
     -   beteiligt an der Hormonsynthese
--   sollte gleichzeitig mit zugeführt werden
+-   sollte gleichzeitig mit [Vitamin C]({{< relref "vitamin_c.md" >}}) zugeführt werden
 -   Quellen
     -   Pflanzlich
         -   Vollkorngetreide

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       84d5610c-181f-4d60-b7fe-e2320b94f8b5
+:END:
 #+created: 20220805231103084
 #+modified: 20220805231706890
 #+revision: 0

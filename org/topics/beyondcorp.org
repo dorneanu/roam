@@ -13,23 +13,18 @@ location without the need for a traditional VPN. -- [[https://cloud.google.com/b
 #+end_quote
 
 * [[https://research.google/pubs/pub43231/][Beyond Corp: A new approach to enterprise security]]
-
 - The perimeter security model is often compared to a medieval castle
 - access depends solely on device and user credentials, regard-less of a user’s network location—be it an enterprise location, a home network, or a hotel or coffee shop
-
 * [[https://research.google/pubs/pub44860/][Beyond Corp: Design to Deployment at Google]]
-
 - access policies are based on information about a device, its state, and its associated user
 - use of X.509 certificates as a persistent device identifier
-
 * [[https://research.google/pubs/pub45728/][Beyond Corp: The Access proxy]]
-
 - Google implemented a centralized policy enforcement front-end Access Proxy (AP) to handle coarse-grained company policies.
 - implemented for HTTP and [[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]]
   - wrap [[id:2ed249d7-cb50-423a-be6e-cde00f156138][SSH]] traffic in HTTP over [[id:4a08aa51-44d3-46e1-a2c3-14f51a97220b][TLS]] (by using ProxyCommand)
   - they developed a local proxy, similar to Corkscrew
 - The main components of Google’s front-end infrastructure are a f leet of HTTP/HTTPS reverse proxies called Google Front Ends
 - authentication:
-  - support OAUTH, OpenID connect and custom protocols
+  - support [[id:092b8fa4-0199-438f-9f4a-56bde0302ff1][OAUTH]], [[id:a22ff8d7-3a64-4725-afce-597573aa98d3][OpenID]] connect and custom protocols
 - authorization:
   - ACL engine queryable via RPCs
