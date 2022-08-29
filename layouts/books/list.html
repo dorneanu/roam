@@ -8,7 +8,8 @@
     <ul class="list-pages">
         {{ range .Pages.ByDate }}
         <li class="lh-copy">
-            <span class="date">{{ .Date.Format (.Site.Params.dateFormat | default "2006-02" ) }}</span>
+            {{ $curDate := .Date.Format (.Site.Params.dateFormat | default "2006-02" ) }}
+            <span class="date">{{ printf "%s " (slicestr $curDate 0 7 ) }}</span>
             <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
         </li>
         {{- end -}}
