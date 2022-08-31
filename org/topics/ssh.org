@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       6d97d3ff-6de7-4505-8f6c-99e674f4addb
+:END:
 #+created: 20201005072622592
 #+modified: 20210518184433015
 #+revision: 0
@@ -5,4 +8,28 @@
 #+tmap.id: 12f154b5-3886-47aa-8e92-5b6fd5c46a88
 #+type: text/vnd.tiddlywiki
 
+* Config
+** Use of bastion hosts
+Configure your hosts to use another host as a jump host
 
+#+begin_src sh
+host my-machine
+  user <username>
+  hostname <hostname>
+  ProxyCommand ssh -q -W %h:%p <bastion-host>
+#+end_src
+** Use AWS SSM
+Using AWS SSM configure SSH:
+#+begin_src sh
+Host bastion
+    HostName <host name>
+    User ec2-user
+    IdentityFile <identity file>
+    ProxyCommand sh -c "aws ssm start-session --target %h --document-name AWS-StartSSHSession --parameters 'portNumber=%p'"
+#+end_src
+
+Then you can use:
+
+#+begin_src sh
+$ ssh bastion
+#+end_src

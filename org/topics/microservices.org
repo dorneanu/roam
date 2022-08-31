@@ -17,7 +17,6 @@ The basic concept of a microservice is simple---it's a simple, standalone applic
 -- [[id:b31d2bdd-9c82-4e0d-aaa3-c694f10eaec8][Hands-On Software Architecture with Golang]]
 #+end_quote
 
-
 * Definition
 - Each microservice is:
   - autonomous
@@ -41,16 +40,14 @@ The basic concept of a microservice is simple---it's a simple, standalone applic
   #+begin_quote
   "A microservice should be as big as my head" - James Lewis
   #+end_quote
-    - keep it to the size at which it can be easily understood
+  - keep it to the size at which it can be easily understood
 - Flexibility
   #+begin_quote
   "Microservices buy you options" - James Lewis
   #+end_quote
-    - they have a cost and you must decide whether the cost is worth the options you want to take up
+  - they have a cost and you must decide whether the cost is worth the options you want to take up
 - Alignment of architecture and organization
-  #+begin_quote
-  - "Organizations which design systems are constrained to produce designs which are copies of the communication structures of the organization" - Melvin Conway
-  #+end_quote
+  - [[id:63fda29f-26cb-4518-9336-10e7c24807cb][Conway's Law]]
   - have team vertically organized
     - same team owns front-end, business logic, data, back-end, security
       - a so called stream-aligned team

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       63fda29f-26cb-4518-9336-10e7c24807cb
+:END:
+#+title: Conway's Law
+
+  #+begin_quote
+  "Organizations which design systems are constrained to produce designs which are copies of the communication structures of the organization" - Melvin Conway
+  #+end_quote
+
+* Articles
+- [[https://www.innoq.com/de/articles/2022/08/conway-hat-immer-recht/][Conway hat immer Recht]] (german)

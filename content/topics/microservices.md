@@ -43,9 +43,7 @@ Definition
 
     -   they have a cost and you must decide whether the cost is worth the options you want to take up
 -   Alignment of architecture and organization
-
-    > -   "Organizations which design systems are constrained to produce designs which are copies of the communication structures of the organization" - Melvin Conway
-
+    -   [Conway's Law]({{< relref "conway_s_law.md" >}})
     -   have team vertically organized
         -   same team owns front-end, business logic, data, back-end, security
             -   a so called stream-aligned team

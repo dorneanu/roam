@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       39da7dcf-cf57-44d3-813e-40d72ef73aeb
+:END:
+#+filetags: :journal:
+#+title: 2022-08-31
+#+date: 2022-08-31
+
+- [[https://wojtekmandrysz.com/blog/systems-architect/][Becoming a Systems Architect]]
+- [[https://dronexl.co/2022/08/22/dji-mavic-3-flies-over-mount-everest/][DJI Mavic 3 Flies Over The Top Of Mount Everest At 30,292 Ft]]

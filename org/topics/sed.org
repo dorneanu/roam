@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       fe077b99-6422-46cb-a5c4-72c857945af3
+:END:
+#+title: sed
+
+* Recipes
+** Append after match
+#+begin_src sh
+for i in *.org; do sed '/^#+title.*/a #+date=`basename $i .org`' $i; done
+#+end_src
+
+This will append the ~basename~ after each line containing ~#+title~.
