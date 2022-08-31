@@ -3,7 +3,7 @@
 :END:
 #+title: CDK
 * Tips
-- Describe instances ([[https://faun.pub/create-a-bastion-with-aws-cdk-d5ebfb91aef9][source]])
+** Describe instances ([[https://faun.pub/create-a-bastion-with-aws-cdk-d5ebfb91aef9][source]])
   #+begin_src sh
   export BASTION_INSTANCE_ID=$(aws ec2 describe-instances \
                           --region=$AWS_REGION \
@@ -11,7 +11,67 @@
                           --query "Reservations[].Instances[?State.Name == 'running'].InstanceId[]" \
                           --output text)
   #+end_src
+** tail-stack-events
+Watch [[id:62c66ae1-ef64-4d03-8703-06f3df43dad7][AWS/CloudFormation]] events on the CLI using [[https://www.npmjs.com/package/tail-stack-events][tail-stack-events]].
+#+begin_src sh
+tail-stack-events -f -s <stack name>
+#+end_src
+* Snippets
+** Load environment based configuration file
+In ~app.py:~
+#+begin_src python
+# Load configuration file
+env = app.node.try_get_context("env")
+with open(f"config.{env}.yaml", "r") as cfg:
+    try:
+        config = yaml.safe_load(cfg)
+    except yaml.YAMLError as exc:
+        print(exc)
+
+# Create stack
+Stack(
+    app,
+    "stack-name",
+    cdk.Environment(account=config["aws"]["account"], region=config["aws"]["region"]),
+    config=config
+)
+#+end_src
+
+Then on the CLI you can use:
+
+#+begin_src sh
+$ cdk deploy -c env=prod
+#+end_src
+
+And this will load config from ~config.prod.yaml~.
+
+The stack itself can be defined as:
+
+#+begin_src python
+class CDKStack(Stack):
+    def __init__(self, scope: Construct, construct_id: str, env, **kwargs) -> None:
+        # Save config
+        self.config = kwargs.pop("config")
+
+        super().__init__(scope, construct_id, **kwargs)
+
+        ...
+#+end_src
+** Override logical IDs
+- 2022-08-30 ◦ [[https://bobbyhadz.com/blog/override-logical-id-aws-cdk][How to Override Logical IDs of Resources in AWS CDK | bobbyhadz]]
+
+#+begin_src python
+cfn_assignment = sso.CfnAssignment(...)
+cfn_assignment.override_logical_id(unique_id)
+#+end_src
+
 * Resources
 ** Articles
 - 2022-08-22 ◦ [[https://stackoverflow.com/questions/61955381/how-to-create-elastic-ip-association-with-an-ec2-instance-using-aws-cdk][amazon web services - How to create Elastic IP association with an EC2 instance using AWS CDK? - Stack Overflow]]
 - 2022-08-16 ◦ [[https://faun.pub/create-a-bastion-with-aws-cdk-d5ebfb91aef9][Create a bastion with AWS CDK]]
+** Docs
+- 2022-08-30 ◦ [[https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.NestedStack.html][class NestedStack (construct) · AWS CDK]]
+  - might help us to get rid of
+  #+begin_quote
+  [Info at /xxx] Number of resources: xxx is approaching allowed maximum of 500
+  #+end_quote

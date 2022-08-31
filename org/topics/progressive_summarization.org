@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6d52e12b-7572-46b4-a017-b4596e9f13ff
+:END:
+#+title: Progressive Summarization
+
+* Different Layers of Highlighting
+- Layer 1: When you encounter something interesting, capture it
+- Layer 2: Bold the most interesting parts
+- Layer 3: Highlight the most interesting bolded sections
+- Layer 4: Summarize the bolded portions and the note in your own words
+- Layer 5: Turn your notes into something new: a tweet, a blog post, even a book
+* Resources
+- 2022-08-30 ◦ [[https://tasshin.com/blog/implementing-a-second-brain-in-emacs-and-org-mode/][Implementing A Second Brain in Emacs and Org-Mode - Tasshin]]

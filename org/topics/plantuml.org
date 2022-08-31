@@ -1,7 +1,12 @@
+:PROPERTIES:
+:ID:       ecaa327d-ead3-4e0c-80e4-af9343f68e66
+:END:
 #+created: 20211118071118064
 #+modified: 20211118071119169
 #+revision: 0
+#+filetags: :visualization:
 #+title: PlantUML
 #+type: text/vnd.tiddlywiki
 
-
+* Resources
+- 2022-08-30 ◦ [[https://florat.net/architecture-as-code-with-c4-and-plantuml/][Architecture as Code with C4 and Plantuml]]

@@ -60,7 +60,7 @@ draft = false
 -   manage complexity
 -   [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-    {{< figure src="../static/notes/software-engineering-golang/clean-architecture.jpg" caption="<span class=\"figure-number\">Figure 1: </span>The Clean Architecture / (c) Robert C. Martin" >}}
+    {{< figure src="/img/software-engineering-golang/clean-architecture.jpg" caption="<span class=\"figure-number\">Figure 1: </span>The Clean Architecture / (c) Robert C. Martin" >}}
 
     -   by Rober Cecil Martin (more commonly known as Uncle Bob)
     -   the dependency rule is important
@@ -449,11 +449,11 @@ Idea:
 
 ### The Art of Scalability (Book) {#the-art-of-scalability--book}
 
-{{< figure src="../static/notes/software-engineering-golang/art-of-scalability.png" caption="<span class=\"figure-number\">Figure 2: </span>3D scalability model / (c) The scalability Book" >}}
+{{< figure src="/img/software-engineering-golang/art-of-scalability.png" caption="<span class=\"figure-number\">Figure 2: </span>3D scalability model / (c) The scalability Book" >}}
 
 -   X-axis scaling
 
-    {{< figure src="../static/notes/software-engineering-golang/scalability-x.png" caption="<span class=\"figure-number\">Figure 3: </span>(c) Jyotiswarup Raiturkar" >}}
+    {{< figure src="/img/software-engineering-golang/scalability-x.png" caption="<span class=\"figure-number\">Figure 3: </span>(c) Jyotiswarup Raiturkar" >}}
 
     > Scaling along the x-axis means running multiple copies (instances) of the
     > application behind a load balancer. If there are n instances, then each
@@ -461,7 +461,7 @@ Idea:
     > by throwing hardware at the problem
 -   Y-axis scaling
 
-    {{< figure src="../static/notes/software-engineering-golang/scalability-y.png" caption="<span class=\"figure-number\">Figure 4: </span>(c) Jyotiswarup Raiturkar" >}}
+    {{< figure src="/img/software-engineering-golang/scalability-y.png" caption="<span class=\"figure-number\">Figure 4: </span>(c) Jyotiswarup Raiturkar" >}}
 
     > The objective of scaling along the y-axis is splitting the application into
     > multiple, different services. Each service is responsible for one or more
@@ -474,7 +474,7 @@ Idea:
     > communication between services to get the clients what they need
 -   Z-axis scaling
 
-    {{< figure src="../static/notes/software-engineering-golang/scalability-z.png" caption="<span class=\"figure-number\">Figure 5: </span>(c) Jyotiswarup Raiturkar" >}}
+    {{< figure src="/img/software-engineering-golang/scalability-z.png" caption="<span class=\"figure-number\">Figure 5: </span>(c) Jyotiswarup Raiturkar" >}}
 
     > z-axis scaling mode, each instance runs the same code, but with a different
     > set of data. That is, each server is responsible for only a subset of the
@@ -552,7 +552,7 @@ In 1994, Peter Deutsch, who worked at Sun Microsystems, wrote about common wrong
 
 ### EDA (Event-driven Architecture) {#eda--event-driven-architecture}
 
-{{< figure src="../static/notes/software-engineering-golang/eda-messaging.png" caption="<span class=\"figure-number\">Figure 6: </span>(c) Jyotiswarup Raiturkar" >}}
+{{< figure src="/img/software-engineering-golang/eda-messaging.png" caption="<span class=\"figure-number\">Figure 6: </span>(c) Jyotiswarup Raiturkar" >}}
 
 -   promotes an architectural paradigm where behavior is composed by reacting to
     events.

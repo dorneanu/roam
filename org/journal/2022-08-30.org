@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       3420ee05-1bfd-492a-8947-6be5ed39639e
+:END:
+#+filetags: :journal:
+#+title: 2022-08-30
+
+- [[https://xn--ubhnchen-1za.vercel.app/en][Ubähnchen]]
+  - animted underground map of Berlin
+- [[https://dev.to/aws-builders/best-practices-for-building-serverless-microservices-on0][Best practices for building Serverless Microservices]]
+
+  #+begin_quote
+  One of the *AWS serverless design principles* is to *share nothing*, and
+  separating your microservices to individual repositories makes it easy to not
+  accidentally do something you shouldn't.
+
+  Build *self-containing services. Don't build stacks that require resources from other
+  services in order to deploy*. However, you can (and should!) build microservices that
+  depend on others to satisfy business processes through loose coupling via API calls
+  or events.
+
+  If you're looking to get started with *microservices*, don't forget they are *driven by
+  domain*. When looking to "break up the monolith" start by identifying the discrete
+  pieces of your application. Find the *areas of the application that have enough
+  business logic* to be on their own and iterated separately from everything else.
+  #+end_quote
+
+  Also check out [[https://github.com/allenheltondev/gopher-holes-unlimited][gopher-holes-unlimited]].
+
+- [[https://gist.github.com/pvik/8eb5755cc34da0226e3fc23a320a3c95][smartparens cheatsheet with animations]]

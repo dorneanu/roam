@@ -64,7 +64,7 @@ percentage of users
 - [[https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html][The Clean Architecture]]
 
   #+CAPTION: The Clean Architecture / (c) Robert C. Martin
-  [[file:../static/notes/software-engineering-golang/clean-architecture.jpg]]
+  [[/img/software-engineering-golang/clean-architecture.jpg]]
   - by Rober Cecil Martin (more commonly known as Uncle Bob)
   - the dependency rule is important
 
@@ -447,10 +447,10 @@ entities -- [[https://sourcemaking.com/design_patterns/structural_patterns][Sour
 ** The Art of Scalability (Book)
 
 #+CAPTION: 3D scalability model / (c) The scalability Book
-[[file:../static/notes/software-engineering-golang/art-of-scalability.png]]
+[[/img/software-engineering-golang/art-of-scalability.png]]
 - X-axis scaling
   #+CAPTION: (c) Jyotiswarup Raiturkar
-  [[file:../static/notes/software-engineering-golang/scalability-x.png]]
+  [[/img/software-engineering-golang/scalability-x.png]]
   #+begin_quote
   Scaling along the x-axis means running multiple copies (instances) of the
   application behind a load balancer. If there are n instances, then each
@@ -459,7 +459,7 @@ entities -- [[https://sourcemaking.com/design_patterns/structural_patterns][Sour
   #+end_quote
 - Y-axis scaling
   #+CAPTION: (c) Jyotiswarup Raiturkar
-  [[file:../static/notes/software-engineering-golang/scalability-y.png]]
+  [[/img/software-engineering-golang/scalability-y.png]]
   #+begin_quote
   The objective of scaling along the y-axis is splitting the application into
   multiple, different services. Each service is responsible for one or more
@@ -473,7 +473,7 @@ entities -- [[https://sourcemaking.com/design_patterns/structural_patterns][Sour
   #+end_quote
 - Z-axis scaling
   #+CAPTION: (c) Jyotiswarup Raiturkar
-  [[file:../static/notes/software-engineering-golang/scalability-z.png]]
+  [[/img/software-engineering-golang/scalability-z.png]]
   #+begin_quote
   z-axis scaling mode, each instance runs the same code, but with a different
   set of data. That is, each server is responsible for only a subset of the
@@ -543,7 +543,7 @@ components from the layer directly below it.
 ** EDA (Event-driven Architecture)
 
 #+CAPTION: (c) Jyotiswarup Raiturkar
-[[file:../static/notes/software-engineering-golang/eda-messaging.png]]
+[[/img/software-engineering-golang/eda-messaging.png]]
 
 - promotes an architectural paradigm where behavior is composed by reacting to
   events.

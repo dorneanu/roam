@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c421c2e2-0e47-4cbd-9c7a-4dc9dcfe8545
+:END:
+#+title: SCIM
+
+* System for Cross-domain Identity Management
+* Implementations
+** [[id:be5bebfe-5df9-4db2-af87-7e80e11723c7][AWS]] <-> Google
+- 2022-08-30 ◦ [[https://github.com/slashdevops/idp-scim-sync][idp-scim-sync]]
+  - idpscim is a program for keeping AWS Single Sign-On (SSO) groups and users synced with Google Workspace directory service using the AWS SSO SCIM API.
+  - as replacement for [[https://github.com/awslabs/ssosync][ssosync]]

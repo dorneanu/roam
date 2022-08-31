@@ -1,9 +1,14 @@
+:PROPERTIES:
+:ID:       8e702808-9c1b-4770-9a88-fa2e24bdcd14
+:END:
 #+created: 20210518193246617
 #+modified: 20210526100425952
 #+revision: 0
-#+tags: Software Stub
+#+filetags: :software:
 #+title: Git
 #+type: text/vnd.tiddlywiki
 
-- Tipps
-  - Undo last commit: =git reset --soft HEAD~1=
+* Tipps
+ - Undo last commit: =git reset --soft HEAD~1=
+* Articles
+- 2022-08-30 ◦ [[https://dev.to/andreasaugustin/git-how-and-why-to-sign-commits-35dn][GIT - how and why to sign commits]]
