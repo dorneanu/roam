@@ -4,5 +4,52 @@
 #+title: org-mode
 
 * Links
+** General Config
+- [[https://dotdoom.rgoswami.me/config.html][Literate doom-emacs config]]
+- [[https://tecosaur.github.io/emacs-config/config.html][Doom Emacs Configuration]]
+- [[https://pages.sachachua.com/.emacs.d/Sacha.html][Sacha Chua's Emacs configuration]]
+- [[https://zzamboni.org/post/my-doom-emacs-configuration-with-commentary/][zzamboni.org | My Doom Emacs configuration, with commentary]]
+- [[https://dotdoom.rgoswami.me/config.html][Literate doom-emacs config]]
+- [[https://hugocisneros.com/org-config/][Org config for Emacs - Hugo Cisneros - Personal page]]
+- [[https://github.com/rschmukler/doom.d][GitHub - rschmukler/doom.d: My Emacs Doom Config]]
+- [[https://zzamboni.org/post/my-emacs-configuration-with-commentary/][zzamboni.org | My Emacs Configuration, With Commentary]]
+** Finances
+- [[https://randomgeekery.org/post/2017/07/logging-money-in-org-mode/][Logging Money In Org Mode | Post | Random Geekery]]
+- [[http://alan.petitepomme.net/tips/ledger_and_org.html][Using Org for Ledger Reports and Budget]]
+- [[https://c-tan.com/post/ledger-org-babel-example/][Cheng Tan | A Short Example of Using Ledger with Emacs Org-mode]]
+- [[https://www.reddit.com/r/emacs/comments/8x4xtt/tip_how_i_use_ledger_to_track_my_money/][TIP: How I use ledger to track my money : emacs]]
+- [[https://daryl.wakatara.com/tracking-your-finances-with-reckon-and-ledger/][Daryl Manning | Tracking your finances with Reckon and Ledger]]
+** Clocking
+*** [[https://writequit.org/denver-emacs/presentations/2017-04-11-time-clocking-with-org.html][Clocking time with Org-mode]]
+** Themes
+- [[https://github.com/fniessen/org-html-themes][org-html-themes]]
+  - How to export Org mode files into awesome HTML in 2 minute
+- [[https://github.com/gongzhitaao/orgcss][GitHub - gongzhitaao/orgcss: Simple and clean CSS for Org-exported HTML]]
+- [[https://github.com/DogLooksGood/org-html-themify][GitHub - DogLooksGood/org-html-themify: Themify org-mode HTML export with installed color theme.]]
+- [[https://github.com/thi-ng/org-spec][GitHub - thi-ng/org-spec: Org-mode skeleton for technical specifications & HTML theme]]
+- [[https://github.com/vascoferreira25/ox-tailwind][GitHub - vascoferreira25/ox-tailwind: Org-Mode HTML export back-end with Tailwind.css classes. Check the theme:]]
+- [[https://github.com/hjst/org-mode.css][GitHub - hjst/org-mode.css: A stylesheet for Org mode HTML exports… to make them look like an Emacs buffer…]]
+- [[http://clubctrl.com/org/prog/ox-twbs.html][Example]]
+- [[https://jessekelly881-rethink.surge.sh/][Rethink]]
+- [[https://olmon.gitlab.io/org-themes/][Org Themes collection]]
+- [[https://sambatriste.github.io/org-mode-theme-gallery/][org-modeテーマ一覧]]
+- [[http://taopeng.me/org-notes-style/][org-notes-style]]
+** Literate Programming
+- [[https://www.hhyu.org/posts/literate_config/][Writing the Emacs configuration script in org-mode: a simple example of literate programming]]
+** Interesting Articles
+- [[https://www.philnewton.net/blog/how-i-get-work-done-with-emacs/][How I get work done with Emacs and org-mode - philnewton.net]]
+- [[https://bzg.fr/en/some-emacs-org-mode-features-you-may-not-know.html/][Org-mode features You May Not Know - Bastien Guerry]]
+- [[https://www.kpkaiser.com/programming/writing-a-technical-book-in-emacs-and-org-mode/][Writing a Technical Book in Emacs and Org Mode | kpkaiser.com]]
+- [[https://avdi.codes/my-authoring-tools/][My authoring tools – avdi.codes]]
+  - gives some tips how to write books using Emacs and ORG mode
+- [[https://github.com/jkitchin/jmax/blob/master/examples/technical-documents-in-org.org][jmax/technical-documents-in-org.org at master · jkitchin/jmax · GitHub]]
+  - technical documents in ORG mode
+- [[https://avdi.codes/my-authoring-tools/][My authoring tools – avdi.codes]]
+- [[https://dev.to/viglioni/installing-latex-themes-on-your-machine-emacs-org-mode-1k9e][Installing LaTeX themes on your machine/Emacs org-mode - DEV Community]]
+- how to use org-mode and beamer themes
+- [[https://www.draketo.de/light/english/politics-and-free-software/recipes-presentations-beamer-latex-using-emacs-org-mode][Recipes for presentations with beamer latex using emacs org-mode | Zwillingssterns Weltenwald | 1w6]]
+** Braindump
+- [[https://www.badykov.com/emacs/generating-site-from-org-mode-files/][Generating a site from org-mode files - Kraken of Thought]]
+- [[https://sidhartharya.me/exporting-org-roam-notes-to-hugo/][Exporting Org Roam notes to hugo - Sidharth Arya]]
 ** Articles
 - 2022-08-24 ◦ [[https://zzamboni.org/post/how-to-easily-create-and-use-human-readable-ids-in-org-mode-and-doom-emacs/][zzamboni.org | How to easily create and use human-readable IDs in Org mode and Doom Emacs]]
