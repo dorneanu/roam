@@ -12,7 +12,6 @@ draft = false
 -   TODO Super Immunity: The Essential Nutrition Guide for Boosting Your Body's Defenses to Live Longer, Stronger, and Disease Free
 -   TODO Building Secure and Reliable Systems
 -   TODO The Art of Learning: A Journey in the Pursuit of Excellence by Josh Waitzkin
--   TODO Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
 -   TODO Ultralearning
 -   TODO Digitale Demenz
 -   TODO Der alte König in seinem Exil

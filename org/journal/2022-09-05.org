@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       7a157ad0-afbb-4d68-aed9-f2e56f733bc2
+:END:
+#+filetags: journal
+#+title: 2022-09-05
+#+date: 2022-09-05
+
+- [[https://player.fm/1BRJfYU][Cal Newport - EP 206 - Striving to do less]]
+- *auto-pilot schedules*
+  - for regular work that has to be *done* (either in a professional or or private context) chose specific parameters when to actually do thats work
+  - e.g. Time of the day, location
+- [[id:834efb26-9f0d-4788-a708-20a4202c0da2][4 Thousand Weeks - Time Management for Mortals]]
+  - we as =humanity= beings have a deep instinct (built within us) to strive
+  - doing more things and getting better at it, feels good, is an instinct and is an evolutionary thing
+  - we cannot completely ignore that instinct
+    - we need to redirect that to force to a small amount of goals/activities([[id:905d88d7-def8-48b6-a038-a016b7d4b9a9][Deep Life Buckets]])
+- Define custom faces for org-emphasis-list
+  - https://protesilaos.com/codelog/2022-01-05-custom-face-org-emphasis-alist/
+  - https://mullikine.github.io/posts/org-mode-bold/
+  - https://emacs.stackexchange.com/questions/44081/how-to-tweak-org-emphasis-alist-to-put-e-g-neon-yellow-over-bold-or-italic
+- [[https://github.blog/2022-09-02-gits-database-internals-v-scalability/][git's database internals]]
+- 2022-09-05 ◦ [[https://ruimarinho.gitbooks.io/yubikey-handbook/content/ssh/authenticating-ssh-via-user-certificates-server/][Authenticating SSH via User Certificates (server) · Yubikey Handbook]]  ([[id:6d97d3ff-6de7-4505-8f6c-99e674f4addb][SSH]])
+  - as part of the [[https://ruimarinho.gitbooks.io/yubikey-handbook/content/][yubikey-handbook]]
+  - use of (multiple) principals: ~root~, ~user~
+  - certification expiration

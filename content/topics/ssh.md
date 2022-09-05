@@ -35,3 +35,10 @@ Then you can use:
 ```sh
 $ ssh bastion
 ```
+
+
+## Security {#security}
+
+-   2022-09-05 ◦ [14 Best Practices to Secure SSH Bastion Host](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
+-   2022-09-05 ◦ [SSH Security Best Practices using Certificates, 2FA and Bastions](https://goteleport.com/blog/how-to-ssh-properly/)
+    -   setup `CA` for authenticating users to hosts and hosts to users

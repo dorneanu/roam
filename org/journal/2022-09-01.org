@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       48f4160a-83f1-4d4f-8916-0965dc69af87
+:END:
+#+title: 2022-09-01
+#+filetags: journal
+#+date: 2022-09-01
+
+- 2022-09-01 ◦ [[https://levels.fyi][Levels.fyi | Salaries & Tools to Level Up Your Career]]

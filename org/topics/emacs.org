@@ -2,3 +2,14 @@
 :ID:       f9f5fffd-d536-45c5-95ee-532d0b756766
 :END:
 #+title: Emacs
+
+* Resources
+** Keyboard shortcuts
+- 2022-09-05 ◦ [[https://github.com/VernonGrant/emacs-keyboard-shortcuts][GitHub - VernonGrant/emacs-keyboard-shortcuts: A list of Emacs keyboard shortcuts that I use on a regular basis.]]
+** Evil
+- 2022-09-01 ◦ [[https://github.com/edkolev/evil-goggles][GitHub - edkolev/evil-goggles: Display visual hint on evil edit operations]]
+** Collection of awesome packages
+- 2022-09-01 ◦ [[https://github.com/emacs-tw/awesome-emacs][GitHub - emacs-tw/awesome-emacs: A community driven list of useful Emacs packages, libraries and other items.]]
+- 2022-09-01 ◦ [[https://emacs.zeef.com/ehartc][Emacs by Ernst de Hart (ehartc) | ZEEF]]
+- 2022-09-01 ◦ [[https://www.reddit.com/r/emacs/comments/wcupae/lets_share_your_top_3_packages_that_you_cant_live/][Let's share your top 3 packages that you can't live without. : emacs]]
+- 2022-09-01 ◦ [[https://www.reddit.com/r/emacs/comments/w4gxoa/what_are_some_musthave_packages_for_emacs/][What are some must-have packages for emacs? : emacs]]

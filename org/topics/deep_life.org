@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d720570a-1c06-45e7-bad5-8887d819d01d
+:END:
+#+title: Deep Life
+
+- by Cal Newport
+* Buckets
+:PROPERTIES:
+:ID:       905d88d7-def8-48b6-a038-a016b7d4b9a9
+:END:
+tbd

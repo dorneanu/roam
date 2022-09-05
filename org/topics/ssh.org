@@ -33,3 +33,7 @@ Then you can use:
 #+begin_src sh
 $ ssh bastion
 #+end_src
+* Security
+- 2022-09-05 ◦ [[https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/][14 Best Practices to Secure SSH Bastion Host]]
+- 2022-09-05 ◦ [[https://goteleport.com/blog/how-to-ssh-properly/][SSH Security Best Practices using Certificates, 2FA and Bastions]]
+  - setup ~CA~ for authenticating users to hosts and hosts to users

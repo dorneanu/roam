@@ -5,7 +5,7 @@
 * Resources
 ** Articles
 - 2022-08-29 ◦ [[https://appliedgo.com/blog/go-as-a-glue-language][How to use Go as a glue language]]
-  #+begincquote
+  #+begin_quote
   Happiness comes from within: _self-conained binaries_
 
   Go is _verb-oriented_. Put a pot on the stove. Boil water. Pour the water over some tea leaves. Wait. Drink. This is the way humans think. When planning a task, you think about the necessary actions before you think about the array of objects needed for executing these actions.
@@ -24,6 +24,8 @@
 - 2022-08-16 ◦ [[https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2][Service Discovery with Go and mDNS]]
 *** Botnets
 - 2022-08-22 ◦ [[https://github.com/ThrillQuks/Pitraix][GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR]]
+*** Design Patterns
+- 2022-09-05 ◦ [[https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5][GoF Design patterns that still make sense in Go]]
 *** Microservices
 - 2022-08-25 ◦ [[https://github.com/zeromicro/go-zero][go-zero]]
 

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2f0c5963-2353-455e-b39f-0cad2c0b9008
+:END:
+#+title: SCS
+
+* Articles
+- 2022-09-05 ◦ [[https://www.heise.de/news/softwarearchitektur-tv-SCS-der-Architekturansatz-Self-contained-Systems-7249377.html][softwarearchitektur.tv: SCS – der Architekturansatz Self-contained Systems | heise online]]
