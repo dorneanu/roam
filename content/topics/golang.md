@@ -40,3 +40,10 @@ draft = false
 -   2022-08-25 ◦ [go-zero](https://github.com/zeromicro/go-zero)
 
     A cloud-native Go [Microservices]({{< relref "microservices.md" >}}) framework with cli tool for productivity.
+
+
+#### AWS {#aws}
+
+2022-09-06 ◦ [[<https://www.go-on-aws.com/>][GO ON AWS
+: Learn to code go on AWS]]
+    -   Using Golang for writing [CDK]({{< relref "cdk.md" >}}) stacks for [AWS]({{< relref "aws.md" >}})

@@ -30,3 +30,6 @@
 - 2022-08-25 ◦ [[https://github.com/zeromicro/go-zero][go-zero]]
 
   A cloud-native Go [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]] framework with cli tool for productivity.
+*** AWS
+- 2022-09-06 ◦ [[https://www.go-on-aws.com/][GO ON AWS :: Learn to code go on AWS]]
+  - Using Golang for writing [[id:61b1e794-8d3a-45f1-b414-612b6ad4dad4][CDK]] stacks for [[id:be5bebfe-5df9-4db2-af87-7e80e11723c7][AWS]]

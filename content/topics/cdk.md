@@ -85,13 +85,50 @@ cfn_assignment.override_logical_id(unique_id)
 ```
 
 
+### Add conditions {#add-conditions}
+
+In this example add [conditions](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_iam/PolicyStatement.html#aws_cdk.aws_iam.PolicyStatement.add_condition) to S3 bucket policies:
+
+```python
+listBucketPolicy = aws_iam.PolicyStatement(
+    actions=[
+        "s3:ListBucket",
+    ],
+    resources=["arn:aws:s3:::my-bucket"],
+)
+listBucketPolicy.add_condition("StringEquals", {"s3:prefix": ["prod"], "s3:delimiter": ["/"]})
+bucket.policy.document.add_statements(listBucketPolicy)
+```
+
+Also check:
+
+-   2022-09-06 ◦ [Amazon S3 condition key examples - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/amazon-s3-policy-keys.html#bucket-keys-in-amazon-s3-policies)
+-   2022-09-06 ◦ [aws cdk - create aws user with s3 permissions with aws cdk - Stack Overflow](https://stackoverflow.com/questions/62880797/create-aws-user-with-s3-permissions-with-aws-cdk)
+-   2022-09-06 ◦ [List all Files in an S3 Bucket with AWS CLI | bobbyhadz](https://bobbyhadz.com/blog/aws-cli-list-all-files-in-bucket)
+    -   for using `s3api` and `list-objects`
+
+
 ## Resources {#resources}
 
 
 ### Articles {#articles}
 
--   2022-08-22 ◦ [amazon web services - How to create Elastic IP association with an EC2 instance using AWS CDK? - Stack Overflow](https://stackoverflow.com/questions/61955381/how-to-create-elastic-ip-association-with-an-ec2-instance-using-aws-cdk)
+-   2022-09-06 ◦ [Linux EC2 Bastion Host with AWS CDK](https://dev.to/airmonitor/linux-ec2-bastion-host-with-aws-cdk-55ie)
+    -   initialize EC2 bastion hosts by specific sets of commands
+    -   create Route53 record for bastion host
+    -   pre-populate `.ssh/authorized_keys` with keys using ansible
+    -   upload `ansible` runbook to [AWS/S3]({{< relref "awss3.md" >}})
+-   2022-08-22 ◦ [amazon web services - How to create Elastic IP association with an EC2 instance using AWS CDK?](https://stackoverflow.com/questions/61955381/how-to-create-elastic-ip-association-with-an-ec2-instance-using-aws-cdk)
 -   2022-08-16 ◦ [Create a bastion with AWS CDK](https://faun.pub/create-a-bastion-with-aws-cdk-d5ebfb91aef9)
+
+
+#### Testing {#testing}
+
+-   2022-09-06 ◦ [Testing CDK Applications in Any Language | AWS Developer Tools Blog](https://aws.amazon.com/blogs/developer/testing-cdk-applications-in-any-language/)
+-   2022-09-06 ◦ [CDK Integration Testing | Ben's Blog](https://thebenforce.com/post/cdk-integration-testing)
+-   2022-09-06 ◦ [Infrastructure Tests with CDK | kreuzwerker](https://kreuzwerker.de/en/post/infrastructure-tests-with-cdk)
+    2022-09-06 ◦ [AWS CDK: Running Integration Tests in real AWS cloud environment using Github Actions](https://lucasfsantos.com/aws-cdk-integration-tests)
+    -   [Github Repository](https://github.com/lucashfreitas/aws-cognito-auth)
 
 
 ### Docs {#docs}

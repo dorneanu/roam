@@ -138,10 +138,10 @@ Based on [[id:3ee54643-65c2-482a-8c60-fa099449a62d][Getting Things Done - The Ar
 ... in the context of deciding actions
 - The 4-criteria model for choosing actions in the moment
   - You make actions based on
-  - Context
-  - Time available
-  - Energy available
-  - Priority
+    - Context
+    - Time available
+    - Energy available
+    - Priority
 - The 3-fold model for evaluating daily work
   - Don't do urgent tasks
   - There are no interruptions, there are mismanaged occurrences

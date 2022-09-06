@@ -10,13 +10,9 @@ by Tiago Forte
 Content to be added
 
 
-## Notes {#notes}
+## Raw Notes {#raw-notes}
 
 The rule of thumb to follow is that every time you “touch” a note, you should make it a little more discoverable for your future selfVII—by adding a highlight, a heading, some bullets, or commentary. This is the “campsite rule” applied to information—leave it better than you found it. This ensures that the notes you interact with most often will naturally become the most discoverable in a virtuous cycle
-
----
-
-That system is your Second Brain, and the small pieces of work-in-process it contains I call “Intermediate Packets.” Intermediate Packets are the concrete, individual building blocks that make up your work
 
 ---
 
@@ -30,28 +26,11 @@ Information becomes knowledge—personal, embodied, verified—only when we put 
 
 ---
 
-They are:
-Multimedia: Just like a paper notebook might contain drawings and sketches, quotes and ideas, and even a pasted photo or Post-it, a notes app can store a wide variety of different kinds of content in one place, so you never need to wonder where to put something.
-Informal: Notes are inherently messy, so there’s no need for perfect spelling or polished presentation. This makes it as easy and frictionless as possible to jot things down as soon as they occur to you, which is essential to allow nascent ideas to grow.
-Open-ended: Taking notes is a continuous process that never really ends, and you don’t always know where it might lead. Unlike more specialized kinds of software that are designed to produce a specific kind of output (such as slide decks, spreadsheets, graphics, or videos), notes are ideal for free-form exploration before you have a goal in mind.
-Action-oriented: Unlike a library or research database, personal notes don’t need to be comprehensive or precise. They are designed to help you quickly capture stray thoughts so you can remain focused on the task at hand.
-
 ---
 
 Think of yourself not just as a taker of notes, but as a giver of notes—you are giving your future self the gift of knowledge that is easy to find and understand
 
 ---
-
-There are five kinds of Intermediate Packets you can create and reuse in your work:
-Distilled notes: Books or articles you’ve read and distilled so it’s easy to get the gist of what they contain (using the Progressive Summarization technique you learned in the previous chapter, for example).
-Outtakes: The material or ideas that didn’t make it into a past project but could be used in future ones.
-Work-in-process: The documents, graphics, agendas, or plans you produced during past projects.
-Final deliverables: Concrete pieces of work you’ve delivered as part of past projects, which could become components of something new.
-Documents created by others: Knowledge assets created by people on your team, contractors or consultants, or even clients or customers, that you can reference and incorporate into your work.
-
----
-
-Intermediate Packets: The Power of Thinking Small
 
 ---
 
@@ -66,12 +45,6 @@ If none: Which resource does this belong to?
 If none: Place in archives.
 
 ---
-
-PARA can handle it all, regardless of your profession or field, for one reason: it organizes information based on how actionable it is, not what kind of information it is. The project becomes the main unit of organization for your digital files
-
----
-
-This practice continues among creatives today. Songwriters are known for compiling “hook books” full of lyrics and musical riffs they may want to use in future songs. Software engineers build “code libraries” so useful bits of code are easy to access. Lawyers keep “case files” with details from past cases they might want to refer to in the future. Marketers and advertisers maintain “swipe files” with examples of compelling ads they might want to draw from
 
 ---
 
@@ -88,29 +61,9 @@ The best sign that a fourth layer is needed is when I find myself visiting a not
 
 ---
 
-. The Archipelago of Ideas: Give Yourself Stepping-Stones
-
----
-
 Popularized in a previous period of information overload, the Industrial Revolution of the eighteenth and early nineteenth centuries, the commonplace book was more than a diary or journal of personal reflections. It was a learning tool that the educated class used to understand a rapidly changing world and their place in
 
 ---
-
-With the PARA system, every piece of information you want to save can be placed into one of just four categories:
-Projects: Short-term efforts in your work or life that you’re working on now.
-Areas: Long-term responsibilities you want to manage over time.
-Resources: Topics or interests that may be useful in the future.
-Archives: Inactive items from the other three categories
-
----
-
-Divergence and Convergence: A Creative Balancing Act
-
-If you look at the process of creating anything, it follows the same simple pattern, alternating back and forth between divergence and convergence.
-
----
-
-The first two steps of CODE, Capture and Organize, make up divergence. They are about gathering seeds of imagination carried on the wind and storing them in a secure place. This is where you research, explore, and add ideas. The final two steps, Distill and Express, are about convergence. They help us shut the door to new ideas and begin constructing something new
 
 ---
 
@@ -245,8 +198,6 @@ This tendency is known as recency bias.4 We tend to favor the ideas, solutions, 
 
 ---
 
-An archipelago is a chain of islands in the ocean, usually formed by volcanic activity over long spans of time. The Hawaiian Islands, for example, are an archipelago of eight major islands
-
 ---
 
 Any one of these subjects could become its own resource folder. You can also think of them as “research” or “reference materials.” They are trends you are keeping track of, ideas related to your job or industry, hobbies and side interests, and things you’re merely curious about. These folders are like the class notebooks you probably kept in school: one for biology, another for history, another for math
@@ -273,8 +224,6 @@ You are what you consume, and that applies just as much to information as to nut
 More than half the workforce today can be considered “knowledge workers”—professionals for whom knowledge is their most valuable asset, and who spend a majority of their time managing large amounts of information
 
 ---
-
-An Archipelago of Ideas separates the two activities your brain has the most difficulty performing at the same time: choosing ideas (known as selection) and arranging them into a logical flow (known as sequencing)
 
 ---
 
@@ -323,8 +272,126 @@ You have to always assume that, until proven otherwise, any given note won’t n
 
 ---
 
-To create an Archipelago of Ideas, you divergently gather a group of ideas, sources, or points that will form the backbone of your essay, presentation, or deliverable. Once you have a critical mass of ideas to work with, you switch decisively into convergence mode and link them together in an order that makes sense
+
+## Quotes {#quotes}
+
+
+### Struggling with information {#struggling-with-information}
+
+> Everyone is in desperate need of a system to manage the ever-increasing volume of
+> information pouring into their brains. I’ve heard the plea from students and executives,
+> entrepreneurs and managers, engineers and writers, and so many others seeking a more
+> productive and empowered relationship with the information they consume
+
+
+## Archipelago of Ideas {#archipelago-of-ideas}
+
+-   when creating new content (especially when writing) don't start with a blank page
+-   gather a group of ideas, sources or main points that will form the very first structure of your content (essay, blog post, presentation, deliverable)
+-   once a critical mass is reached, you switch into **convergence mode** (from **divergence mode**) and link your notes in a way that makes sense
+
+> An Archipelago of Ideas separates the two activities your brain has the most difficulty
+> performing at the same time: choosing ideas (known as selection) and arranging them into a
+> logical flow (known as sequencing)
+
+<!--quoteend-->
+
+> An **archipelago** is a chain of islands in the ocean, usually formed by volcanic activity
+> over long spans of time. The Hawaiian Islands, for example, are an archipelago of eight
+> major islands
+
+
+## CODE {#code}
+
+
+### Intermediate Packets {#intermediate-packets}
+
+The power of **thinking small**. These are the _intermediate_ steps that will help you to actually finish your project. These can be _reusable_ so you can use them for different projects. These are basically the **next actionable steps** in [GTD]({{< relref "../../topics/gtd.md" >}})
+
+There are 5 types:
+
+-   **distilled notes**
+    -   distilled content (from books, articles) you can easily understand and use (after using [Progressive Summarization]({{< relref "../../topics/progressive_summarization.md" >}}))
+-   **outtakes**
+    -   material you didn't use in one project but that might be useful in another
+-   **work-in-progress**
+    -   documents, presentations, graphics, diagrams, plans produced during _past_ projects
+-   **finale deliverables**
+    -   _concrete_ pieces of work delivered within past projects which could become part of something new
+-   **documents created by others**
+    -   content/assets created by others (people on your team, clients, contractors, consultants) that can be referenced
+        and used in your projects
+
+
+### Capture {#capture}
+
+
+#### Notes {#notes}
+
+Characteristics every digital notes app **should** have:
+
+-   **Multimedia**
+
+    > Just like a paper notebook might contain drawings and sketches, quotes and ideas, and
+    > even a pasted photo or Post-it, a notes app can store a <span class="underline">wide variety of different kinds
+    > of content</span> in one place, so you never need to wonder where to put something.
+-   **Informal**
+
+    > Notes are inherently messy, so there’s no need for perfect spelling or polished
+    > presentation. This makes it as <span class="underline">easy</span> and <span class="underline">frictionless</span> as possible to jot things down as
+    > soon as they occur to you, which is essential to allow nascent ideas to grow.
+-   **Open-ended**
+
+    > Taking notes is a <span class="underline">continuous process</span> that never really ends, and you don’t always know
+    > where it might lead. Unlike more specialized kinds of software that are designed to
+    > produce a specific kind of output (such as slide decks, spreadsheets, graphics, or
+    > videos), notes are ideal for <span class="underline">free-form exploration</span> before you have a goal in mind.
+-   **Action-oriented**
+
+    > Unlike a library or research database, personal notes **don’t need to be comprehensive or
+    > precise**. They are designed to help you <span class="underline">quickly capture</span> stray thoughts so you can remain
+    > focused on the task at hand.
+
+
+### Organize {#organize}
+
+
+### Express {#express}
+
+
+## Commonplace books {#commonplace-books}
+
+> This practice continues among creatives today. Songwriters are known for compiling “hook
+> books” full of lyrics and musical riffs they may want to use in future songs. Software
+> engineers build “code libraries” so useful bits of code are easy to access. Lawyers keep
+> “case files” with details from past cases they might want to refer to in the future.
+> Marketers and advertisers maintain “swipe files” with examples of compelling ads they
+> might want to draw from
+
+
+## PARA {#para}
+
+Every piece of information can be put into one of following categories:
+
+-   **Projects**
+    -   current tasks you're actually working on (short-term efforts)
+-   **Areas**
+    -   Reponsibilities you want to manage over time (long-term efforts)
+-   **Resources**
+    -   Topics/Interests that might be useful in the future
+-   **Archives**
+    -   _Inactive_ items from the categories above
+
+Information is organized based on how _actionable_ it is and not on its _type_ or _kind_. That's why it's so universal
+and applicable for almost every profession or field.
+
+
+## Divergence vs Convergence {#divergence-vs-convergence}
+
+If you look at the process of creating anything, it follows the same simple pattern, alternating back and forth between divergence and convergence.
 
 ---
 
-Everyone is in desperate need of a system to manage the ever-increasing volume of information pouring into their brains. I’ve heard the plea from students and executives, entrepreneurs and managers, engineers and writers, and so many others seeking a more productive and empowered relationship with the information they consume
+The first two steps of CODE, Capture and Organize, make up divergence. They are about gathering seeds of imagination carried on the wind and storing them in a secure place. This is where you research, explore, and add ideas. The final two steps, Distill and Express, are about convergence. They help us shut the door to new ideas and begin constructing something new
+
+---

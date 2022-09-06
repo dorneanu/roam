@@ -23,3 +23,5 @@
   - as part of the [[https://ruimarinho.gitbooks.io/yubikey-handbook/content/][yubikey-handbook]]
   - use of (multiple) principals: ~root~, ~user~
   - certification expiration
+- [[https://github.com/google/zx][zx]]
+  - A tool for writing better scripts

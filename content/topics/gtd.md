@@ -153,10 +153,10 @@ Based on [Getting Things Done - The Art of Stress-Free Productivity]({{< relref 
 
 -   The 4-criteria model for choosing actions in the moment
     -   You make actions based on
-    -   Context
-    -   Time available
-    -   Energy available
-    -   Priority
+        -   Context
+        -   Time available
+        -   Energy available
+        -   Priority
 -   The 3-fold model for evaluating daily work
     -   Don't do urgent tasks
     -   There are no interruptions, there are mismanaged occurrences

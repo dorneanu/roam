@@ -66,4 +66,5 @@ Definition
 
 ### Articles {#articles}
 
+-   2022-09-06 ◦ [Common mistakes when splitting the monolith](https://dev.to/kanekotic/common-mistakes-when-splitting-the-monolith-j1)
 -   2022-08-25 ◦ [Design patterns for microservices - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns)
