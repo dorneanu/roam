@@ -11,7 +11,10 @@ draft = false
 -   Layer 4: Summarize the bolded portions and the note in your own words
 -   Layer 5: Turn your notes into something new: a tweet, a blog post, even a book
 
+Each layer should include **no more than 10-20% of the previous layer**.
+
 
 ## Resources {#resources}
 
+-   [Building a Second Brain]({{< relref "../books/building_a_second_brain.md" >}})
 -   2022-08-30 ◦ [Implementing A Second Brain in Emacs and Org-Mode - Tasshin](https://tasshin.com/blog/implementing-a-second-brain-in-emacs-and-org-mode/)

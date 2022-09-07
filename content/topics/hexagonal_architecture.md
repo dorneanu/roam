@@ -1,9 +1,10 @@
 +++
 title = "Hexagonal Architecture"
+tags = ["architecture"]
 draft = false
 +++
 
-## Resources {#resources}
-
-
-### 2022-08-16 [Hexagonal Architecture and Clean Architecture (with examples)](https://dev.to/dyarleniber/hexagonal-architecture-and-clean-architecture-with-examples-48oi) {#2022-08-16-hexagonal-architecture-and-clean-architecture--with-examples}
+-   is a
+-   also known as **ports and adapters**
+-   developed by Alistair Cockburn
+    -   adopted by Steve Freeman and Nat Pryce in [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/en/book/show/4268826-growing-object-oriented-software-guided-by-tests)

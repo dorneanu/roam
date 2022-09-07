@@ -54,13 +54,18 @@ draft = false
 -   [Writing the Emacs configuration script in org-mode: a simple example of literate programming](https://www.hhyu.org/posts/literate_config/)
 
 
+### Writing {#writing}
+
+-   [Writing a Technical Book in Emacs and Org Mode](https://www.kpkaiser.com/programming/writing-a-technical-book-in-emacs-and-org-mode/)
+-   [My authoring tools](https://avdi.codes/my-authoring-tools/)
+    -   gives some tips how to write books using Emacs and ORG mode
+-   2022-09-06 ◦ [ox-leanpub](https://github.com/zzamboni/ox-leanpub)
+
+
 ### Interesting Articles {#interesting-articles}
 
 -   [How I get work done with Emacs and org-mode - philnewton.net](https://www.philnewton.net/blog/how-i-get-work-done-with-emacs/)
 -   [Org-mode features You May Not Know - Bastien Guerry](https://bzg.fr/en/some-emacs-org-mode-features-you-may-not-know.html/)
--   [Writing a Technical Book in Emacs and Org Mode | kpkaiser.com](https://www.kpkaiser.com/programming/writing-a-technical-book-in-emacs-and-org-mode/)
--   [My authoring tools – avdi.codes](https://avdi.codes/my-authoring-tools/)
-    -   gives some tips how to write books using Emacs and ORG mode
 -   [jmax/technical-documents-in-org.org at master · jkitchin/jmax · GitHub](https://github.com/jkitchin/jmax/blob/master/examples/technical-documents-in-org.org)
     -   technical documents in ORG mode
 -   [My authoring tools – avdi.codes](https://avdi.codes/my-authoring-tools/)

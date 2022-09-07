@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       80e941ee-afde-4aa9-b431-2df4e58a8cec
+:END:
 #+created: 20210826085136682
 #+modified: 20210826085321340
 #+revision: 0
-#+tags: 
+#+filetags: architecture
 #+title: Hexagonal Architecture
 #+type: text/vnd.tiddlywiki
 

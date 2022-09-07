@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4422e4b5-06ef-475e-81f7-a699cb26e0d1
+:END:
+#+title: ledger
+
+* Articles
+- 2022-09-06 ◦ [[https://blog.leonardotamiano.xyz/posts/ledger-intro/][How I Track my Expenses with Ledger :: Leonardo Tamiano's Cyberspace]]

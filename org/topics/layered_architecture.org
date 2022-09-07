@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       76d25ba9-9b76-43dc-b4aa-f9798664eb8a
+:END:
+#+title: Layered Architecture
+
+* closely related to
+** [[id:80e941ee-afde-4aa9-b431-2df4e58a8cec][Hexagonal Architecture]]
+** and Uncle Bob's [[id:99c0a83f-1de0-42b1-9c19-384d93154d14][Clean Architecture]]
+* defines an application composed of *horizontal layers*

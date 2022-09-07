@@ -12,70 +12,7 @@ Content to be added
 
 ## Raw Notes {#raw-notes}
 
-The rule of thumb to follow is that every time you “touch” a note, you should make it a little more discoverable for your future selfVII—by adding a highlight, a heading, some bullets, or commentary. This is the “campsite rule” applied to information—leave it better than you found it. This ensures that the notes you interact with most often will naturally become the most discoverable in a virtuous cycle
-
----
-
-This fundamental tension—between quality and quantity—is a tension we share as knowledge workers. We also must produce work to an extremely high standard, and we must do it fast, continuously, all year long. We are like sprinters who are also trying to run a marathon.
-Chefs have a particular system for accomplishing this daunting feat. It’s called mise en place, a culinary philosophy used in restaurants around the world. Developed in France starting in the late 1800s, mise en place is a step-by-step process for producing high-quality food efficiently. Chefs can never afford to stop the whole kitchen just so they can clean up. They learn to keep their workspace clean and organized in the flow of the meals they are preparing.
-In the kitchen, this means small habits like always putting the mixing spoon in the same place so they know where to find it next time; immediately wiping a knife clean after using it so it’s ready for the next cut; or laying out the ingredients in the order they’ll be used so that they serve as placeholders
-
----
-
-Information becomes knowledge—personal, embodied, verified—only when we put it to use. You gain confidence in what you know only when you know that it works. Until you do, it’s just a theory.
-
----
-
----
-
-Think of yourself not just as a taker of notes, but as a giver of notes—you are giving your future self the gift of knowledge that is easy to find and understand
-
----
-
----
-
-If we consider the focused application of our attention to be our greatest asset as knowledge workers, we can no longer afford to let that intermediate work disappear. If we consider how precious little time we have to produce something extraordinary in our careers, it becomes imperative that we recycle that knowledge back into a system where it can become useful again.
-
----
-
-This order gives us a convenient checklist for deciding where to put a note, starting at the top of the list and moving down:
-In which project will this be most useful?
-If none: In which area will this be most useful?
-If none: Which resource does this belong to?
-If none: Place in archives.
-
----
-
----
-
-. The Hemingway Bridge: Use Yesterday’s Momentum Today
-
----
-
-We’ve been taught that it’s important to work “with the end in mind.” We are told that it is our responsibility to deliver results, whether that is a finished product on store shelves, a speech delivered at an event, or a published technical document.
-This is generally good advice, but there is a flaw in focusing only on the final results: all the intermediate work—the notes, the drafts, the outlines, the feedback—tends to be underappreciated and undervalued
-
----
-
-The best sign that a fourth layer is needed is when I find myself visiting a note again and again, clearly indicating that it is one of the cornerstones of my thinking. Looking only at the points I’ve previously bolded and highlighted in layers two and three makes it far easier to write this summary than if I was trying to summarize the entire article all at once
-
----
-
 Popularized in a previous period of information overload, the Industrial Revolution of the eighteenth and early nineteenth centuries, the commonplace book was more than a diary or journal of personal reflections. It was a learning tool that the educated class used to understand a rapidly changing world and their place in
-
----
-
----
-
-The best way to organize your notes is to organize for action, according to the active projects you are working on right now. Consider new information in terms of its utility, asking, “How is this going to help me move forward one of my current projects?
-
----
-
-Instead of confronting a terrifying blank page, I’m looking at a document filled with quotes: from letters, from primary sources, from scholarly papers, sometimes even my own notes. It’s a great technique for warding off the siren song of procrastination. Before I hit on this approach, I used to lose weeks stalling before each new chapter, because it was just a big empty sea of nothingness. Now each chapter starts life as a kind of archipelago of inspiring quotes, which makes it seem far less daunting. All I have to do is build bridges between the islands
-
----
-
-Here’s what most people miss: it’s not enough to simply divide tasks into smaller pieces—you then need a system for managing those pieces. Otherwise, you’re just creating a lot of extra work for yourself trying to keep track of them
 
 ---
 
@@ -95,42 +32,10 @@ Serendipity
 
 ---
 
-As people set out on their Second Brain journey, there are three stages of progress I often observe—and even encourage. Those stages are remembering, connecting, and creating
-
----
-
-I eventually named this organizing system PARA,I which stands for the four main categories of information in our lives: Projects, Areas, Resources, and Archives. These four categories are universal, encompassing any kind of information, from any source, in any format, for any purpose.II
-
----
-
-helpful rule of thumb is that each layer of highlighting should include no more than 10–20 percent of the previous layer. If you save a series of excerpts from a book amounting to five hundred words, the bolded second layer should include no more than one hundred words, and highlighted third layer no more than twenty. This isn’t an exact science, but if you find yourself highlighting everything, this rule should give you pause
-
----
-
-Essence
-
----
-
-Every idea has an “essence”: the heart and soul of what it is trying to communicate
-
----
-
-In this sense, notetaking is like time travel—you are sending packets of knowledge through time to your future self.
-You
-
 ---
 
 What is the point of knowledge if it doesn’t help anyone or produce anything?IV Whether your goal is to lose weight, get a promotion at work, start a side business, or strengthen your local community, personal knowledge management exists to support taking action—anything else is a distraction.
 A common challenge for
-
----
-
-The third category of information that we want to keep is resources. This is basically a catchall for anything that doesn’t belong to a project or an area and could include any topic you’re interested in gathering information about.
-For example:
-What topics are you interested in? Architecture; Interior design; English literature; Beer brewing.
-What subjects are you researching? Habit formation; Notetaking; Project management; Nutrition.
-What useful information do you want to be able to reference? Vacation itineraries; Life goals; Stock photos; Product testimonials.
-Which hobbies or passions do
 
 ---
 
@@ -288,7 +193,8 @@ You have to always assume that, until proven otherwise, any given note won’t n
 
 -   when creating new content (especially when writing) don't start with a blank page
 -   gather a group of ideas, sources or main points that will form the very first structure of your content (essay, blog post, presentation, deliverable)
--   once a critical mass is reached, you switch into **convergence mode** (from **divergence mode**) and link your notes in a way that makes sense
+-   once a critical mass is reached, you switch into **convergence mode (from \*divergence mode**) and link your notes in a way that makes sense
+    -   basically building bridges _between the islands_
 
 > An Archipelago of Ideas separates the two activities your brain has the most difficulty
 > performing at the same time: choosing ideas (known as selection) and arranging them into a
@@ -322,6 +228,14 @@ There are 5 types:
     -   content/assets created by others (people on your team, clients, contractors, consultants) that can be referenced
         and used in your projects
 
+To work "with the end in mind" and always focus on the final results has some flaws. All the work you have done (till reaching the final end) are way underappreciated and undervalued.
+That's why it's important to _recycle_ all the notes, drafts, outlines (in general: intermediate steps) into a system where it might become useful again (for other projects/ideas).
+As you start your _Second Brain journey_ there are 3 stages of progress:
+
+-   remembering
+-   connecting
+-   connecting
+
 
 ### Capture {#capture}
 
@@ -352,11 +266,29 @@ Characteristics every digital notes app **should** have:
     > precise**. They are designed to help you <span class="underline">quickly capture</span> stray thoughts so you can remain
     > focused on the task at hand.
 
+    Notes should be organized for action, according to the active _projects_ you're currently
+    working on. Before putting a new now into your _second brain_ ask yourself how that particular information/note will help you move forward your project(s).
+
+
+#### Where to put a note {#where-to-put-a-note}
+
+If you don't know where to put a note, ask yourself these questions:
+
+-   In which project will this be most useful?
+-   If none: In which area will this be most useful?
+-   If none: Which resource does this belong to?
+-   If none: Place in archives.
+
 
 ### Organize {#organize}
 
 
 ### Express {#express}
+
+-   **The Hemingway Bridge**
+    -   Use Yesterday’s Momentum Today
+    -   as you write leave some cognitive capacity and time to make notes what you'll write _tomorrow_
+    -   the next day you can start immediately without having to think about where to start and what to write about
 
 
 ## Commonplace books {#commonplace-books}
@@ -379,6 +311,15 @@ Every piece of information can be put into one of following categories:
     -   Reponsibilities you want to manage over time (long-term efforts)
 -   **Resources**
     -   Topics/Interests that might be useful in the future
+    -   What topics are you interested in?
+        -   Architecture; Interior design; English literature; Beer brewing.
+    -   What subjects are you researching?
+        -   Habit formation; Notetaking; Project management; Nutrition.
+    -   What useful information do you want to be able to reference?
+        -   Vacation itineraries; Life goals; Stock photos; Product testimonials.
+    -   Hobbies
+    -   Passions
+
 -   **Archives**
     -   _Inactive_ items from the categories above
 
@@ -388,10 +329,19 @@ and applicable for almost every profession or field.
 
 ## Divergence vs Convergence {#divergence-vs-convergence}
 
-If you look at the process of creating anything, it follows the same simple pattern, alternating back and forth between divergence and convergence.
+When you create content you alternate back and forth between **divergence** and **convergence**.
+As you capture (and organize) your information (the first 2 steps in CODE) you "get off the track" and spread your focus horizontally. You do a lot of research, explore and add new ideas.
+The last 2 steps in CODE (_Distill_ and _Express_) are more about **convergence**. They force you to
+straighten your focus, go more deep-dive and "shut the door to new ideas and begin constructing something new".
 
----
 
-The first two steps of CODE, Capture and Organize, make up divergence. They are about gathering seeds of imagination carried on the wind and storing them in a secure place. This is where you research, explore, and add ideas. The final two steps, Distill and Express, are about convergence. They help us shut the door to new ideas and begin constructing something new
+## Campsite rule {#campsite-rule}
 
----
+Leave a place on a campsite better than you found it. This can be applied to information/notes as well. Everytime you touch a note, you should make it more _discoverable_ by adding more information to, put it in another place, adding a highlight etc.
+
+
+## <span class="org-todo todo TODO">TODO</span> Mise en place {#mise-en-place}
+
+> This fundamental tension—between quality and quantity—is a tension we share as knowledge workers. We also must produce work to an extremely high standard, and we must do it fast, continuously, all year long. We are like sprinters who are also trying to run a marathon.
+> Chefs have a particular system for accomplishing this daunting feat. It’s called mise en place, a culinary philosophy used in restaurants around the world. Developed in France starting in the late 1800s, mise en place is a step-by-step process for producing high-quality food efficiently. Chefs can never afford to stop the whole kitchen just so they can clean up. They learn to keep their workspace clean and organized in the flow of the meals they are preparing.
+> In the kitchen, this means small habits like always putting the mixing spoon in the same place so they know where to find it next time; immediately wiping a knife clean after using it so it’s ready for the next cut; or laying out the ingredients in the order they’ll be used so that they serve as placeholders

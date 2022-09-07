@@ -53,3 +53,4 @@ draft = false
 -   [Make it sick](https://www.goodreads.com/book/show/18770267-make-it-stick)
 -   [Good to great](https://www.goodreads.com/book/show/76865.Good_to_Great)
 -   [Reclaiming conversations](https://www.goodreads.com/book/show/24612127-reclaiming-conversation)
+-   2022-09-07 ◦ [Peak: Secrets from the New Science of Expertise by K. Anders Ericsson](https://www.goodreads.com/book/show/26312997-peak)
