@@ -3,5 +3,22 @@
 :END:
 #+title: ledger
 
+* Tipps
+** Change commodity display style
+[[https://hledger.org/1.27/hledger.html#commodity-styles][Documentation]] (hledger):
+
+#+begin_src sh
+hledger print -c '1.000,0 EUR'
+#+end_src
+
+will print sth like:
+
+#+begin_example
+2000-09-xx * Something
+    Assets:Bank                     -17,9 EUR
+    Expenses:Unknown                 17,9 EUR
+#+end_example
+
 * Articles
 - 2022-09-06 ◦ [[https://blog.leonardotamiano.xyz/posts/ledger-intro/][How I Track my Expenses with Ledger :: Leonardo Tamiano's Cyberspace]]
+- 2022-09-07 ◦ [[https://devhints.io/hledger][Hledger cheatsheet]]

@@ -43,96 +43,15 @@ This is why I recommend you shift as much of your time and effort as possible fr
 
 ---
 
-How do you create a Hemingway Bridge? Instead of burning through every last ounce of energy at the end of a work session, reserve the last few minutes to write down some of the following kinds of things in your digital notes:
-Write down ideas for next steps: At the end of a work session, write down what you think the next steps could be for the next one.
-Write down the current status: This could include your current biggest challenge, most important open question, or future roadblocks you expect.
-Write down any details you have in mind that are likely to be forgotten once you step away: Such as details about the characters in your story, the pitfalls of the event you’re planning, or the subtle considerations of the product you’re designing.
-Write out your intention for the next work session: Set an intention for what you plan on tackling next, the problem you intend to solve, or a certain milestone you want to reach
-
----
-
-“CODE”—Capture; Organize; Distill; Express
-
----
-
-Instead of organizing ideas according to where they come from, I recommend organizing them according to where they are going—specifically, the outcomes that they can help you realize
-
----
-
-The most common question I hear about Progressive Summarization is “When should I be doing this highlighting?” The answer is that you should do it when you’re getting ready to create something
-
----
-
-PARA isn’t a filing system; it’s a production system. It’s no use trying to find the “perfect place” where a note or file belongs. There isn’t one. The whole system is constantly shifting and changing in sync with your constantly changing life.
-
----
-
-Capture: Keep What Resonates
-
----
-
-This is why it’s so important to take on a Curator’s Perspective—that we are the judges, editors, and interpreters of the information we choose to let into our lives. Thinking like a curator means taking charge of your own information stream, instead of just letting it wash over you. The more economical you can be with the material you capture in the first place, the less time and effort your future self will have to spend organizing, distilling, and expressing it.II
-Here are four criteria I suggest to help you decide exactly which nuggets of knowledge are worth keeping
-
----
-
-If you want to write a book, you could dial down the scope and write a series of online articles outlining your main ideas. If you don’t have time for that, you could dial it down even further and start with a social media post explaining the essence of your message
-
----
-
-When you make your digital notes a working environment, not just a storage environment, you end up spending a lot more time there. When you spend more time there, you’ll inevitably notice many more small opportunities for change than you expect. Over time, this will gradually produce an environment far more suited to your real needs than anything you could have planned up front. Just like professional chefs keep their environment organized with small nudges and adjustments, you can use noticing habits to “organize as you go.”
-
----
-
-I call it “Twelve Favorite Problems,” inspired by Nobel Prize–winning physicist Richard Feynman
-
----
-
-External knowledge could include:
-Highlights: Insightful passages from books or articles you read.
-Quotes: Memorable passages from podcasts or audiobooks you listen to.
-Bookmarks and favorites: Links to interesting content you find on the web or favorited social media posts.
-Voice memos: Clips recorded on your mobile device as “notes to self.”
-Meeting notes: Notes you take about what was discussed during meetings or phone calls.
-Images: Photos or other images that you find inspiring or interesting.
-Takeaways: Lessons from courses, conferences, or presentations you’ve attended
-
----
-
-This tendency is known as recency bias.4 We tend to favor the ideas, solutions, and influences that occurred to us most recently, regardless of whether they are the best ones. Now imagine if you were able to unshackle yourself from the limits of the present moment, and draw on weeks, months, or even years of accumulated imagination
-
----
-
 ---
 
 Any one of these subjects could become its own resource folder. You can also think of them as “research” or “reference materials.” They are trends you are keeping track of, ideas related to your job or industry, hobbies and side interests, and things you’re merely curious about. These folders are like the class notebooks you probably kept in school: one for biology, another for history, another for math
 
 ---
 
-Don’t save entire chapters of a book—save only select passages. Don’t save complete transcripts of interviews—save a few of the best quotes. Don’t save entire websites—save a few screenshots of the sections that are most interesting. The best curators are picky about what they allow into their collections, and you should be too. With a notes app, you can always save links back to the original content if you need to review your sources or want to dive deeper into the details in the future.
-The biggest
-
----
-
-Express: Show Your Work
-
 ---
 
 First, you are much more likely to remember information you’ve written down in your own words. Known as the “Generation Effect,”10 researchers have found that when people actively generate a series of words, such as by speaking or writing, more parts of their brain are activated when compared to simply reading the same words. Writing things down is a way of “rehearsing” those ideas, like practicing a dance routine or shooting hoops, which makes them far more likely to stick.
-
----
-
-You are what you consume, and that applies just as much to information as to nutrition
-
----
-
-More than half the workforce today can be considered “knowledge workers”—professionals for whom knowledge is their most valuable asset, and who spend a majority of their time managing large amounts of information
-
----
-
----
-
-Everything in a kitchen is designed and organized to support an outcome—preparing a meal as efficiently as possible. The archives are like the freezer—items are in cold storage until they are needed, which could be far into the future. Resources are like the pantry—available for use in any meal you make, but neatly tucked away out of sight in the meantime. Areas are like the fridge—items that you plan on using relatively soon, and that you want to check on more frequently. Projects are like the pots and pans cooking on the stove—the items you are actively preparing right now. Each kind of food is organized according to how accessible it needs to be for you to make the meals you want to eat
 
 ---
 
@@ -189,6 +108,16 @@ You have to always assume that, until proven otherwise, any given note won’t n
 > productive and empowered relationship with the information they consume
 
 
+### You are what you consume {#you-are-what-you-consume}
+
+> You are what you consume, and that applies just as much to information as to nutrition
+
+
+### Notetaking and deliberate practice {#notetaking-and-deliberate-practice}
+
+> Notetaking gives you a way to [deliberately practice]({{< relref "../../topics/deliberate_practice.md" >}}) the skill of distilling every day
+
+
 ## Archipelago of Ideas {#archipelago-of-ideas}
 
 -   when creating new content (especially when writing) don't start with a blank page
@@ -205,6 +134,46 @@ You have to always assume that, until proven otherwise, any given note won’t n
 > An **archipelago** is a chain of islands in the ocean, usually formed by volcanic activity
 > over long spans of time. The Hawaiian Islands, for example, are an archipelago of eight
 > major islands
+
+
+## Knowledge Work {#knowledge-work}
+
+Knowledge workers are supposed to work at high standards, fast, continuously. This generates some tention between _quality_ and _quantity_. Culinary chefs have adopted a particular system for
+dealing with these high-load working environments: [mise en place](#mise-en-place).
+
+Knowledge is the most valuable asset for "knowledge workers" professionals. They spend a huge
+amount of time _managing_ huge amount of information, _searching_ for the right piece of information.
+
+On the importance of having a _working_ environment instead of just a _storage_ environment:
+
+> When you make your [digital notes](#notes) a working environment, not just a storage environment, you end up spending a lot more time there. When you spend more time there, you’ll inevitably notice many more small opportunities for change than you expect. Over time, this will gradually produce an environment far more suited to your real needs than anything you could have planned up front. Just like professional chefs keep their [environment organized](#mise-en-place) with small nudges and adjustments, you can use noticing habits to “organize as you go.”
+
+
+## Twelve Favorite Problems {#twelve-favorite-problems}
+
+-   inspired by Richard Feynman
+
+> “You have to keep a dozen of your favorite problems constantly present in your
+> mind,” Feynman told one interviewer. “Every time you hear or read a new trick or
+> a new result, test it against each of your twelve problems to see whether it
+> helps.”
+
+-   How can we make society fairer and more equitable?
+-   How can I make it a habit to exercise every day?
+-   How can I have closer relationships with the people I love?
+-   How can I spend more of my time doing high-value work?
+-   How do I live less in the past and more in the present?
+-   How do I build an investment strategy that is aligned with my mid-term and long-term goals and commitments?
+-   What does it look like to move from mindless consumption to mindful creation?
+-   How can I go to bed early instead of watching shows after the kids go to bed?
+-   How can my industry become more ecologically sustainable while remaining profitable?
+-   How can I work through the fear I have of taking on more responsibility?
+-   How can my school provide more resources for students with special needs?
+-   How do I start reading all the books I already have instead of buying more?
+-   How can I speed up and relax at the same time?
+-   How can we make the healthcare system more responsive to people’s needs?
+-   What can I do to make eating healthily easier?
+-   How can I make decisions with more confidence?
 
 
 ## CODE {#code}
@@ -230,6 +199,7 @@ There are 5 types:
 
 To work "with the end in mind" and always focus on the final results has some flaws. All the work you have done (till reaching the final end) are way underappreciated and undervalued.
 That's why it's important to _recycle_ all the notes, drafts, outlines (in general: intermediate steps) into a system where it might become useful again (for other projects/ideas).
+
 As you start your _Second Brain journey_ there are 3 stages of progress:
 
 -   remembering
@@ -238,6 +208,8 @@ As you start your _Second Brain journey_ there are 3 stages of progress:
 
 
 ### Capture {#capture}
+
+**Keep what resonates**
 
 
 #### Notes {#notes}
@@ -280,15 +252,54 @@ If you don't know where to put a note, ask yourself these questions:
 -   If none: Place in archives.
 
 
+#### Types of notes {#types-of-notes}
+
+-   Highlights
+    -   from books/articles
+-   Quotes
+    -   also from podcasts, audiobokos
+-   Bookmarks and favorites
+    -   links to interesting content
+-   Voice memos
+-   Meeting notes
+-   Images
+-   Takeaways
+    -   lessons from courses, conferences, or presentations you’ve attended
+
+Also be very _conservative_ when you want to save something to your external knowledge:
+
+> Don’t save entire chapters of a book—save only select passages. Don’t save
+> complete transcripts of interviews—save a few of the best quotes. Don’t save
+> entire websites—save a few screenshots of the sections that are most
+> interesting. The best curators are picky about what they allow into their
+> collections, and you should be too. With a notes app, you can always save links
+> back to the original content if you need to review your sources or want to dive
+> deeper into the details in the future.
+
+
 ### Organize {#organize}
+
+**Save for Actionability**
 
 
 ### Express {#express}
+
+**Show your work**
 
 -   **The Hemingway Bridge**
     -   Use Yesterday’s Momentum Today
     -   as you write leave some cognitive capacity and time to make notes what you'll write _tomorrow_
     -   the next day you can start immediately without having to think about where to start and what to write about
+
+        > How do you create a Hemingway Bridge? Instead of burning through every last ounce of energy at the end of a work session, reserve the last few minutes to write down some of the following kinds of things in your digital notes:
+        >
+        > Write down **ideas** for **next steps**: At the end of a work session, write down what you think the next steps could be for the next one.
+        >
+        > Write down the **current status**: This could include your current biggest challenge, most important open question, or future roadblocks you expect.
+        >
+        > Write down any **details** you **have in mind** that are **likely to be forgotten** once you step away: Such as details about the characters in your story, the pitfalls of the event you’re planning, or the subtle considerations of the product you’re designing.
+        >
+        > Write out your **intention** for the **next work session**: Set an intention for what you plan on tackling next, the problem you intend to solve, or a certain milestone you want to reach
 
 
 ## Commonplace books {#commonplace-books}
@@ -303,35 +314,48 @@ If you don't know where to put a note, ask yourself these questions:
 
 ## PARA {#para}
 
+Information is organized based on how _actionable_ it is and not on its _type_ or _kind_. That's why it's so universal and applicable for almost every profession or field.
+
+PARA is more like a _production_ system. You won't be able to always find the _right_ place
+where a note belongs to. The category you initially put a note to, might change depending
+on your current projects and however your thoughts change in _life_.
+
 Every piece of information can be put into one of following categories:
 
--   **Projects**
-    -   current tasks you're actually working on (short-term efforts)
--   **Areas**
-    -   Reponsibilities you want to manage over time (long-term efforts)
--   **Resources**
-    -   Topics/Interests that might be useful in the future
-    -   What topics are you interested in?
-        -   Architecture; Interior design; English literature; Beer brewing.
-    -   What subjects are you researching?
-        -   Habit formation; Notetaking; Project management; Nutrition.
-    -   What useful information do you want to be able to reference?
-        -   Vacation itineraries; Life goals; Stock photos; Product testimonials.
-    -   Hobbies
-    -   Passions
 
--   **Archives**
-    -   _Inactive_ items from the categories above
+### **Projects** {#projects}
 
-Information is organized based on how _actionable_ it is and not on its _type_ or _kind_. That's why it's so universal
-and applicable for almost every profession or field.
+-   current tasks you're actually working on (short-term efforts)
+
+
+### **Areas** {#areas}
+
+-   Reponsibilities you want to manage over time (long-term efforts)
+
+
+### **Resources** {#resources}
+
+-   Topics/Interests that might be useful in the future
+-   What topics are you interested in?
+    -   Architecture; Interior design; English literature; Beer brewing.
+-   What subjects are you researching?
+    -   Habit formation; Notetaking; Project management; Nutrition.
+-   What useful information do you want to be able to reference?
+    -   Vacation itineraries; Life goals; Stock photos; Product testimonials.
+-   Hobbies
+-   Passions
+
+
+### **Archives** {#archives}
+
+-   _Inactive_ items from the categories above
 
 
 ## Divergence vs Convergence {#divergence-vs-convergence}
 
 When you create content you alternate back and forth between **divergence** and **convergence**.
-As you capture (and organize) your information (the first 2 steps in CODE) you "get off the track" and spread your focus horizontally. You do a lot of research, explore and add new ideas.
-The last 2 steps in CODE (_Distill_ and _Express_) are more about **convergence**. They force you to
+As you capture (and organize) your information (the first 2 steps in [CODE](#code)) you "get off the track" and spread your focus horizontally. You do a lot of research, explore and add new ideas.
+The last 2 steps in [CODE](#code) (_Distill_ and _Express_) are more about **convergence**. They force you to
 straighten your focus, go more deep-dive and "shut the door to new ideas and begin constructing something new".
 
 
@@ -340,8 +364,25 @@ straighten your focus, go more deep-dive and "shut the door to new ideas and beg
 Leave a place on a campsite better than you found it. This can be applied to information/notes as well. Everytime you touch a note, you should make it more _discoverable_ by adding more information to, put it in another place, adding a highlight etc.
 
 
-## <span class="org-todo todo TODO">TODO</span> Mise en place {#mise-en-place}
+## Mise en place {#mise-en-place}
 
-> This fundamental tension—between quality and quantity—is a tension we share as knowledge workers. We also must produce work to an extremely high standard, and we must do it fast, continuously, all year long. We are like sprinters who are also trying to run a marathon.
-> Chefs have a particular system for accomplishing this daunting feat. It’s called mise en place, a culinary philosophy used in restaurants around the world. Developed in France starting in the late 1800s, mise en place is a step-by-step process for producing high-quality food efficiently. Chefs can never afford to stop the whole kitchen just so they can clean up. They learn to keep their workspace clean and organized in the flow of the meals they are preparing.
-> In the kitchen, this means small habits like always putting the mixing spoon in the same place so they know where to find it next time; immediately wiping a knife clean after using it so it’s ready for the next cut; or laying out the ingredients in the order they’ll be used so that they serve as placeholders
+-   A culinary philosophy used around the world
+-   a step-by-step process for producing high-quality food
+-   chefs have developed efficient habbits in order to
+    -   keep the workspace clean
+    -   and at the same time prepare other/next meals
+
+> Everything in a kitchen is designed and organized to support an
+> outcome—preparing a meal as efficiently as possible.
+>
+> The [archives](#archives) are like the freezer—items are in cold storage until they are needed, which could be far into the future.
+>
+> [Resources](#resources) are like the pantry—available for use in any meal you
+> make, but neatly tucked away out of sight in the meantime.
+>
+> [Areas](#areas) are like the fridge—items that you plan on using relatively soon, and that you want to check on more frequently.
+>
+> [Projects](#projects) are like the pots and pans cooking on the stove—the
+> items you are actively preparing right now. Each kind of food is organized
+> according to how accessible it needs to be for you to make the meals you want to
+> eat
