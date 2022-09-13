@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       be675f54-ec6a-472e-b914-bbad89069d7f
+:END:
+#+title: 2022-09-12
+#+filetags: journal
+#+date: 2022-09-12
+
+- 2022-09-12 ◦ [[https://www.redhat.com/architect/book-enterprise-architect-skills][8 books to boost your enterprise architecture career | Enable Architect]]
+  - [[id:85ce0ca6-ed6b-432f-a35b-5a5f51ea6bee][Accelerate]]
+  - 2022-09-12 ◦ [[https://hookpoint.com/the-book/][The Book | HOOKPOINT]]
+  - 2022-09-12 ◦ [[https://www.oreilly.com/library/view/software-architecture-metrics/9781098112226/][Software Architecture Metrics [Book]]]
+  - 2022-09-12 ◦ [[https://teamtopologies.com/][Team Topologies]]
+  - 2022-09-12 ◦ [[https://www.thisisservicedesigndoing.com/][This is Service Design Doing — Book / School / Methods]]
+  - 2022-09-12 ◦ [[https://itrevolution.com/the-unicorn-project/][The Unicorn Project | by Gene Kim (author of The Phoenix Project)]]
+- 2022-09-12 ◦ [[https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/][Learning Domain-Driven Design [Book]]] ([[id:7c4e66f6-ce2d-441b-8c33-51ba6aec412c][DDD]])
+- 2022-09-12 ◦ [[https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications][Designing Data-Intensive Applications by Martin Kleppmann]]j
+- 2022-09-12 ◦ [[https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture][Fundamentals of Software Architecture: An Engineering Approach by Mark Richards]]
+- 2022-09-12 ◦ [[https://faun.pub/read-your-s3-access-logs-in-aws-athena-d4d0ea8c308e][Read your S3 access logs in AWS Athena | by Johanes Glenn | FAUN Publication]]

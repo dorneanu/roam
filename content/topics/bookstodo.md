@@ -40,7 +40,7 @@ draft = false
 -   [The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA](https://www.goodreads.com/book/show/995029.The_Challenger_Launch_Decision)
 -   [Civilized to Death: What Was Lost on the Way to Modernity](https://www.goodreads.com/book/show/28596619-civilized-to-death)
 -   [Keep Sharp: Build a Better Brain at Any Age](https://www.goodreads.com/en/book/show/52754076-keep-sharp)
--   [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/work/best_book/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software)
+-   [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/work/best_book/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software) ([DDD]({{< relref "ddd.md" >}}))
 -   Company of one - Paul Jarvis
 -   [Thirst](https://www.goodreads.com/work/best_book/59198162-thirst-a-story-of-redemption-compassion-and-a-mission-to-bring-clean)
 -   [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
@@ -54,3 +54,9 @@ draft = false
 -   [Good to great](https://www.goodreads.com/book/show/76865.Good_to_Great)
 -   [Reclaiming conversations](https://www.goodreads.com/book/show/24612127-reclaiming-conversation)
 -   2022-09-07 ◦ [Peak: Secrets from the New Science of Expertise by K. Anders Ericsson](https://www.goodreads.com/book/show/26312997-peak)
+-   2022-09-12 ◦ [Learning Domain-Driven Design [Book](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)] ([DDD]({{< relref "ddd.md" >}}))
+-   2022-09-12 ◦ [Fundamentals of Software Architecture: An Engineering Approach by Mark Richards](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture)
+-   2022-09-12 ◦ [Team Topologies](https://teamtopologies.com/)
+-   2022-09-12 ◦ [This is Service Design Doing — Book / School / Methods](https://www.thisisservicedesigndoing.com/)
+-   2022-09-12 ◦ [The Unicorn Project | by Gene Kim (author of The Phoenix Project)](https://itrevolution.com/the-unicorn-project/)
+-   2022-09-12 ◦ [The Book | HOOKPOINT](https://hookpoint.com/the-book/)
