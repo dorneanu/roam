@@ -8,5 +8,7 @@
 #+title: API
 #+type: text/vnd.tiddlywiki
 
-- REST
+* REST
   - [[id:9ebb968f-d7e4-4874-bda6-c9e82fa1f1a6][Richardson Maturity Level]]
+* Gateways
+** 2022-09-14 ◦ [[https://blog.frankel.ch/secure-webapps-api-gateway/][Secure your web apps with an API Gateway]]

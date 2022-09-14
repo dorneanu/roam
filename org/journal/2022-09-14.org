@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2f08d1f0-ee0d-4570-a33a-33651fc71865
+:END:
+#+title: 2022-09-14
+#+filetags: journal
+#+date: 2022-09-14
+
+- 2022-09-14 ◦ [[https://monzo.com/blog/2021/09/15/how-we-measure-software-excellence][How we've started to measure 'software excellence']]
