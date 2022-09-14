@@ -61,5 +61,6 @@ The basic concept of a microservice is simple---it's a simple, standalone applic
 * Resources
 - from [[id:1e4babae-fcb3-42a4-ab95-9384e1c7ee27][Building Microservices (2nd edition)]]
 ** Articles
+- 2022-09-13 ◦ [[https://dev.to/kanekotic/event-storming-to-split-monolith-into-microservices-17eo][Event Storming to split Monolith into Microservices]]
 - 2022-09-06 ◦ [[https://dev.to/kanekotic/common-mistakes-when-splitting-the-monolith-j1][Common mistakes when splitting the monolith]]
 - 2022-08-25 ◦ [[https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns][Design patterns for microservices - Azure Architecture Center | Microsoft Docs]]

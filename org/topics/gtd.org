@@ -6,6 +6,9 @@
 Based on [[id:3ee54643-65c2-482a-8c60-fa099449a62d][Getting Things Done - The Art of Stress-Free Productivity]]
 
 * Input
+:PROPERTIES:
+:ID:       87855d6c-1b90-449f-963b-ee80ff08ae85
+:END:
 ** Capture what has our attention
 :PROPERTIES:
 :CUSTOM_ID: capture-what-has-our-attention

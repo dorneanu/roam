@@ -66,5 +66,6 @@ Definition
 
 ### Articles {#articles}
 
+-   2022-09-13 ◦ [Event Storming to split Monolith into Microservices](https://dev.to/kanekotic/event-storming-to-split-monolith-into-microservices-17eo)
 -   2022-09-06 ◦ [Common mistakes when splitting the monolith](https://dev.to/kanekotic/common-mistakes-when-splitting-the-monolith-j1)
 -   2022-08-25 ◦ [Design patterns for microservices - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns)

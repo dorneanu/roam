@@ -5,96 +5,11 @@ tags = ["book"]
 draft = false
 +++
 
-<https://www.goodreads.com/book/show/59616977-building-a-second-brain>
-by Tiago Forte
-Content to be added
+goodreads
+: <https://www.goodreads.com/book/show/59616977-building-a-second-brain>
 
-
-## Raw Notes {#raw-notes}
-
-Popularized in a previous period of information overload, the Industrial Revolution of the eighteenth and early nineteenth centuries, the commonplace book was more than a diary or journal of personal reflections. It was a learning tool that the educated class used to understand a rapidly changing world and their place in
-
----
-
-There are four essential capabilities that we can rely on a Second Brain to perform for us:
-Making our ideas concrete.
-Revealing new associations between ideas.
-Incubating our ideas over time.
-Sharpening our unique perspectives.
-
----
-
-Those four retrieval methods are:
-Search
-Browsing
-Tags
-Serendipity
-
----
-
----
-
-What is the point of knowledge if it doesn’t help anyone or produce anything?IV Whether your goal is to lose weight, get a promotion at work, start a side business, or strengthen your local community, personal knowledge management exists to support taking action—anything else is a distraction.
-A common challenge for
-
----
-
-This is why I recommend you shift as much of your time and effort as possible from consuming to creating.V We all naturally have a desire to create—to bring to life something good, true, or beautiful.9 It’s a part of our essential nature. Creating new things is not only one of the most deeply fulfilling things we can do, it can also have a positive impact on others—by inspiring, entertaining, or educating them
-
----
-
----
-
-Any one of these subjects could become its own resource folder. You can also think of them as “research” or “reference materials.” They are trends you are keeping track of, ideas related to your job or industry, hobbies and side interests, and things you’re merely curious about. These folders are like the class notebooks you probably kept in school: one for biology, another for history, another for math
-
----
-
----
-
-First, you are much more likely to remember information you’ve written down in your own words. Known as the “Generation Effect,”10 researchers have found that when people actively generate a series of words, such as by speaking or writing, more parts of their brain are activated when compared to simply reading the same words. Writing things down is a way of “rehearsing” those ideas, like practicing a dance routine or shooting hoops, which makes them far more likely to stick.
-
----
-
-Notetaking gives you a way to deliberately practice the skill of distilling every day
-
----
-
-“Hemingway Bridge.” He would always end a writing session only when he knew what came next in the story. Instead of exhausting every last idea and bit of energy, he would stop when the next plot point became clear. This meant that the next time he sat down to work on his story, he knew exactly where to start. He built himself a bridge to the next day, using today’s energy and momentum to fuel tomorrow’s writing.IV
-
----
-
-This digital commonplace book is what I call a Second Brain. Think of it as the combination of a study notebook, a personal journal, and a sketchbook for new ideas. It is a multipurpose tool that can adapt to your changing needs over time. In school or courses you take, it can be used to take notes for studying. At work, it can help you organize your projects. At home, it can help you manage your household.
-
----
-
-Organize: Save for Actionability
-
----
-
-These are clearly identifiable, discrete chunks of work. This project-centric approach is increasingly finding its way into all knowledge work, a trend named the “Hollywood model” after the way films are made
-
----
-
-The practice of keeping personal notes also arose in other countries, such as biji in China (roughly translated as “notebook”), which could contain anecdotes, quotations, random musings, literary criticism, short fictional stories, and anything else that a person thought worth recording. In Japan, zuihitsu (known as “pillow books”) were collections of notebooks used to document a person’s life.
-
----
-
-1.  Dial Down the Scope: Ship Something Small and Concrete
-
----
-
-I’ll add an “executive summary” at the top of the note with a few bullet points summarizing the article in my own words
-
----
-
-This is why it’s so important to separate capture and organize into two distinct steps: “keeping what resonates” in the moment is a separate decision from deciding to save something for the long term. Most notes apps have an “inbox” or “daily notes” section where new notes you’ve captured are saved until you can revisit them and decide where they belong. Think of it as a waiting area where new ideas live until you are ready to digest them into your Second Brain. Separating the capturing and organizing of ideas helps you stay present, notice what resonates, and leave the decision of what to do with them to a separate time (such as a “weekly review,” which I will cover in Chapter 9).
-Once you’ve captured
-
----
-
-You have to always assume that, until proven otherwise, any given note won’t necessarily ever be useful. You have no idea what your future self will need, want, or be working on. This assumption forces you to be conservative in the time you spend summarizing notes, doing so only when it’s virtually guaranteed that it will be worth it
-
----
+author
+: Tiago Forte
 
 
 ## Quotes {#quotes}
@@ -122,7 +37,7 @@ You have to always assume that, until proven otherwise, any given note won’t n
 
 -   when creating new content (especially when writing) don't start with a blank page
 -   gather a group of ideas, sources or main points that will form the very first structure of your content (essay, blog post, presentation, deliverable)
--   once a critical mass is reached, you switch into **convergence mode (from \*divergence mode**) and link your notes in a way that makes sense
+-   once a critical mass is reached, you switch into [convergence mode](#divergence-vs-convergence) (from [divergence mode](#divergence-vs-convergence)) and link your notes in a way that makes sense
     -   basically building bridges _between the islands_
 
 > An Archipelago of Ideas separates the two activities your brain has the most difficulty
@@ -147,6 +62,18 @@ amount of time _managing_ huge amount of information, _searching_ for the right 
 On the importance of having a _working_ environment instead of just a _storage_ environment:
 
 > When you make your [digital notes](#notes) a working environment, not just a storage environment, you end up spending a lot more time there. When you spend more time there, you’ll inevitably notice many more small opportunities for change than you expect. Over time, this will gradually produce an environment far more suited to your real needs than anything you could have planned up front. Just like professional chefs keep their [environment organized](#mise-en-place) with small nudges and adjustments, you can use noticing habits to “organize as you go.”
+
+Organizing knowledge and relying on your Second Brain is essential. It should allow you to:
+
+-   make your ideas concrete
+-   reveal new associations between ideas
+-   incubate ideas over time
+-   sharpen unique perspectives
+
+Knowledge should help you find solution for your own problems (or bigger ones) and produce
+something meaningful. Personal knowledge management is there to support you _taking_ action - anything else should be considered as a distraction.
+
+That's why you should _produce_ more than you _consume_. Creating new things can have a positive impact on your well-being, it can inspire/entertain/educate others.
 
 
 ## Twelve Favorite Problems {#twelve-favorite-problems}
@@ -281,6 +208,17 @@ Also be very _conservative_ when you want to save something to your external kno
 
 **Save for Actionability**
 
+It's always good to separate [capture](#capture) and organize into different steps. Use an [inbox]({{< relref "../../topics/gtd.md#input" >}}) where new
+notes/thoughts are stored first before you get to revisit them and decide where they belong to. For example I use [getpocket](https://getpocket.com) to organize the web articles I want to read (I wrote about my workflow [here](https://blog.dornea.nu/2021/09/01/inbox-zero-using-getpocket/)).
+
+You can do _daily_ or _weekly_ review and decide where to put your notes. Eventually you might also discard notes since they're not valuable for you:
+
+> You have to always assume that, until proven otherwise, any given note won’t
+> necessarily ever be useful. You have no idea what your future self will need,
+> want, or be working on. This assumption forces you to be conservative in the
+> time you spend summarizing notes, doing so only when it’s virtually guaranteed
+> that it will be worth it
+
 
 ### Express {#express}
 
@@ -304,12 +242,32 @@ Also be very _conservative_ when you want to save something to your external kno
 
 ## Commonplace books {#commonplace-books}
 
+Before we had _information overload_, the commonplace book was a diary or a journal of _personal_
+reflections. It become popular in the _Industrial Revolution_ during the 18th and 19th century. It was used by people (from the educated class) to understand a "rapidly changing world and their place in society".
+
 > This practice continues among creatives today. Songwriters are known for compiling “hook
 > books” full of lyrics and musical riffs they may want to use in future songs. Software
 > engineers build “code libraries” so useful bits of code are easy to access. Lawyers keep
 > “case files” with details from past cases they might want to refer to in the future.
 > Marketers and advertisers maintain “swipe files” with examples of compelling ads they
 > might want to draw from
+
+The _digital_ commonplace book is the _Second Brain_. It's a combination of
+
+-   a study notebook
+-   personal journal
+-   sketchbook (for new ideas)
+-   collection of bookmarks
+-   etc.
+
+You can use it in different contexts like _work_, _school_, _home_.
+
+> The practice of keeping personal notes also arose in other countries, such as
+> **biji** in China (roughly translated as “notebook”), which could contain anecdotes,
+> quotations, random musings, literary criticism, short fictional stories, and
+> anything else that a person thought worth recording. In Japan, **zuihitsu** (known
+> as “pillow books”) were collections of notebooks used to document a person’s
+> life.
 
 
 ## PARA {#para}

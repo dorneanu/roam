@@ -51,15 +51,16 @@
     week, but all *insist* that the same amount of *work—at a minimum—must get done*.
     #+end_quote
 
-   #+begin_quote
-   Last summer, US Representative Mark
-    Takano (D-California) introduced legislation to shrink the workweek to 32 hours without
-sacrificing pay, ahead of a trial of the four-day week in the US and Canada in April. In
-Europe, an Irish trial of the four-day week kicked off this week, to be followed by one in
-the UK in June. Eighty-six percent of Icelanders have already moved to shorter hours, or
-gained the right to negotiate for them, after a large study found that a shorter workweek
-improved well-being, stress, and burnout without sacrificing productivity.
-   #+end_quote
+    #+begin_quote
+    Last summer, US Representative Mark Takano (D-California) introduced
+    legislation to shrink the workweek to 32 hours without sacrificing pay,
+    ahead of a trial of the four-day week in the US and Canada in April. In
+    Europe, an Irish trial of the four-day week kicked off this week, to be
+    followed by one in the UK in June. Eighty-six percent of Icelanders have
+    already moved to shorter hours, or gained the right to negotiate for them,
+    after a large study found that a shorter workweek improved well-being,
+    stress, and burnout without sacrificing productivity.
+    #+end_quote
 
     #+begin_quote
     Andrew Barnes, cofounder of the nonprofit *4 Day Week Global*, says the measure is “not about

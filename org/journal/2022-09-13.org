@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       67efa8d7-b7ba-41b2-b1ac-6259d0dd08e7
+:END:
+#+title: 2022-09-13
+#+filetags: journal
+#+date: 2022-09-13
+
+- 2022-09-13 ◦ [[https://dev.to/sahan/serverless-go-with-azure-functions-and-github-actions-4j9k][Serverless Go with Azure Functions and GitHub Actions]]
+  - Deploying [[id:794fe4d2-6c9b-4f95-9d27-9aba13a3c0b2][Serverless]] applications using [[id:0ccd7270-8853-4e98-89d2-737a3af3d31f][Azure]]

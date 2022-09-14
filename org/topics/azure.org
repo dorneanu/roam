@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       0ccd7270-8853-4e98-89d2-737a3af3d31f
+:END:
+#+title: Azure
