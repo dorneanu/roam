@@ -3,8 +3,8 @@ title = "BeyondCorp"
 draft = false
 +++
 
-> BeyondCorp is Google's implementation of the zero trust security model that
-> builds upon eight years of building zero trust networks at Google, combined with
+> BeyondCorp is Google's implementation of the [zero trust]({{< relref "zero_trust.md" >}}) security model that
+> builds upon eight years of building [zero trust]({{< relref "zero_trust.md" >}}) networks at Google, combined with
 > ideas and best practices from the community. By shifting access controls from
 > the network perimeter to individual users and devices, BeyondCorp allows
 > employees, contractors, and other users to work more securely from virtually any

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f90a5094-f8d5-4e86-a7ec-346a591d2e96
+:END:
+#+title: rss
+
+* Resources
+- 2022-09-19 ◦ [[https://datorss.com/][dato.rss - RSS search engine]]

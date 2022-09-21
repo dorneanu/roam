@@ -22,3 +22,8 @@ draft = false
 -   2022-09-01 ◦ [Emacs by Ernst de Hart (ehartc) | ZEEF](https://emacs.zeef.com/ehartc)
 -   2022-09-01 ◦ [Let's share your top 3 packages that you can't live without. : emacs](https://www.reddit.com/r/emacs/comments/wcupae/lets_share_your_top_3_packages_that_you_cant_live/)
 -   2022-09-01 ◦ [What are some must-have packages for emacs? : emacs](https://www.reddit.com/r/emacs/comments/w4gxoa/what_are_some_musthave_packages_for_emacs/)
+
+
+### Writing {#writing}
+
+-   2022-09-20 ◦ [Creative writing with Emacs – Jacmoe's Cyber Soapbox](https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/)

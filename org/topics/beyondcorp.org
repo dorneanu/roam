@@ -4,8 +4,8 @@
 #+title: BeyondCorp
 
 #+begin_quote
-BeyondCorp is Google's implementation of the zero trust security model that
-builds upon eight years of building zero trust networks at Google, combined with
+BeyondCorp is Google's implementation of the [[id:41423943-a291-4118-84e2-c18141afce41][zero trust]] security model that
+builds upon eight years of building [[id:41423943-a291-4118-84e2-c18141afce41][zero trust]] networks at Google, combined with
 ideas and best practices from the community. By shifting access controls from
 the network perimeter to individual users and devices, BeyondCorp allows
 employees, contractors, and other users to work more securely from virtually any

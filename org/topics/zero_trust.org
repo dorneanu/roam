@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       41423943-a291-4118-84e2-c18141afce41
+:END:
+#+title: Zero Trust
+
+* Articles
+- 2022-09-21 ◦ [[https://www.redhat.com/architect/what-is-zero-trust][Zero-trust security: What architects need to know | Enable Architect]]
