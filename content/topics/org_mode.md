@@ -56,6 +56,7 @@ draft = false
 
 ### Writing {#writing}
 
+-   2022-09-21 ◦ [Creating short stylish cover letters using Org-mode | Jonghyun Yun](https://jyun.rbind.io/post/cover_letter/)
 -   [Writing a Technical Book in Emacs and Org Mode](https://www.kpkaiser.com/programming/writing-a-technical-book-in-emacs-and-org-mode/)
 -   [My authoring tools](https://avdi.codes/my-authoring-tools/)
     -   gives some tips how to write books using Emacs and ORG mode

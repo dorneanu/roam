@@ -37,6 +37,7 @@
 ** Literate Programming
 - [[https://www.hhyu.org/posts/literate_config/][Writing the Emacs configuration script in org-mode: a simple example of literate programming]]
 ** Writing
+- 2022-09-21 ◦ [[https://jyun.rbind.io/post/cover_letter/][Creating short stylish cover letters using Org-mode | Jonghyun Yun]]
 - [[https://www.kpkaiser.com/programming/writing-a-technical-book-in-emacs-and-org-mode/][Writing a Technical Book in Emacs and Org Mode]]
 - [[https://avdi.codes/my-authoring-tools/][My authoring tools]]
   - gives some tips how to write books using Emacs and ORG mode

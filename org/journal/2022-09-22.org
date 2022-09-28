@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       35456eea-43e0-4164-bf4a-8a1916051788
+:END:
+#+title: 2022-09-22
+#+filetags: journal
+#+date: 2022-09-22
+
+- 2022-09-22 ◦ [[https://dev.to/passage/how-does-webauthn-work-25p3][How Does WebAuthn Work?]]
