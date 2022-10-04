@@ -5,6 +5,7 @@ draft = false
 
 -   Definition: [Four Day Workweek](https://en.wikipedia.org/wiki/Four-day_workweek)
 -   Articles
+    -   2022-10-04 ◦ [Is the Four-Day Workweek Finally Within Our Grasp? - The New York Times](https://www.nytimes.com/2021/11/23/business/dealbook/four-day-workweek.amp.html)
     -   [4-Day Workweek Boosted Workers' Productivity By 40%, Microsoft Japan Says](https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40)
     -   [Japan gov't backs 4-day workweek, but experts split](https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c)
     -   [4 day week jobs](https://4dayweek.io/)

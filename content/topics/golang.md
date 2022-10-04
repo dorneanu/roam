@@ -25,6 +25,11 @@ draft = false
 -   2022-08-16 ◦ [Service Discovery with Go and mDNS](https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2)
 
 
+#### Architecture {#architecture}
+
+-   2022-10-04 ◦ [Auto-generated C4 Architecture Diagrams in Go](https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/) ([PlantUML]({{< relref "plantuml.md" >}}))
+
+
 #### Botnets {#botnets}
 
 -   2022-08-22 ◦ [GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR](https://github.com/ThrillQuks/Pitraix)
@@ -37,9 +42,10 @@ draft = false
 
 #### Microservices {#microservices}
 
+-   2022-10-04 ◦ [Encore Docs — Encore Flow](https://encore.dev/docs/develop/encore-flow)
+    -   Visualize cloud microservices architecture
 -   2022-08-25 ◦ [go-zero](https://github.com/zeromicro/go-zero)
-
-    A cloud-native Go [Microservices]({{< relref "microservices.md" >}}) framework with cli tool for productivity.
+    -   A cloud-native Go [Microservices]({{< relref "microservices.md" >}}) framework with cli tool for productivity.
 
 
 #### AWS {#aws}
@@ -47,3 +53,13 @@ draft = false
 2022-09-06 ◦ [[<https://www.go-on-aws.com/>][GO ON AWS
 : Learn to code go on AWS]]
     -   Using Golang for writing [CDK]({{< relref "cdk.md" >}}) stacks for [AWS]({{< relref "aws.md" >}})
+
+
+#### Serverless {#serverless}
+
+-   2022-10-04 ◦ [gRPC and gRPC Web on Google Cloud Run (serverless) - GenDocu Blog](https://blog.gendocu.com/posts/grpc-on-google-cloud/)
+
+
+#### Security {#security}
+
+-   2022-10-04 ◦ [Simple JWT Authentication for Golang (Part 1)](https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo) ([JWT]({{< relref "jwt.md" >}}))

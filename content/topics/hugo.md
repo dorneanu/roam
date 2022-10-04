@@ -39,6 +39,11 @@ draft = false
 ## Integrations {#integrations}
 
 
+### asciidoc {#asciidoc}
+
+-   2022-10-04 ◦ [Tackling Hugo Integration of Asciidoctor • Brice Dutheil](https://blog.arkey.fr/2020/04/23/tackling-hugo-integration-of-asciidoctor/)
+
+
 ### getpocket {#getpocket}
 
 -   2022-08-22 ◦ [github.com/craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket)

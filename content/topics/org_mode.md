@@ -56,6 +56,8 @@ draft = false
 
 ### Writing {#writing}
 
+-   2022-10-04 ◦ [Book Writing inside of Emacs](https://christopherfin.com/writing/emacs-writing.html)
+-   2022-10-04 ◦ [Yasnippet and Emacs for Writing](https://arnesonium.com/2022/09/yasnippet-emacs-writing)
 -   2022-09-21 ◦ [Creating short stylish cover letters using Org-mode | Jonghyun Yun](https://jyun.rbind.io/post/cover_letter/)
 -   [Writing a Technical Book in Emacs and Org Mode](https://www.kpkaiser.com/programming/writing-a-technical-book-in-emacs-and-org-mode/)
 -   [My authoring tools](https://avdi.codes/my-authoring-tools/)

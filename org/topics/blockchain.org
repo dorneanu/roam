@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       78473bbe-c9e0-4033-9292-04e875dbb89f
+:END:
 #+color: #94ec4b
 #+created: 20210518200031410
 #+modified: 20210611071843358
@@ -6,4 +9,9 @@
 #+title: Blockchain
 #+type: text/vnd.tiddlywiki
 
-
+* Articles
+- 2022-10-04 ◦ [[https://www.forbes.com/advisor/investing/what-is-ripple-xrp/][What Is Ripple? What Is XRP? – Forbes Advisor]]
+- 2022-10-04 ◦ [[https://www.theverge.com/22654785/blockchain-explained-cryptocurrency-what-is-stake-nft][Blockchain, explained: what’s a block, what’s a chain, and the tech behind crypto]]
+** Bugs
+- 2022-10-04 ◦ [[https://www.schneier.com/blog/archives/2021/12/smart-contract-bug-results-in-31-million-loss.html][Smart Contract Bug Results in $31 Million Loss - Schneier on Security]]
+- 2022-10-04 ◦ [[https://arstechnica.com/information-technology/2021/12/hackers-drain-31-million-from-cryptocurrency-service-monox-finance/][Really stupid “smart contract” bug let hackers steal $31 million in digital coin]]

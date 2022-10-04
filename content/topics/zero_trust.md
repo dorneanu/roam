@@ -7,9 +7,10 @@ draft = false
 
 -   2022-09-21 ◦ [Zero-trust security: What architects need to know | Enable Architect](https://www.redhat.com/architect/what-is-zero-trust)
 -   2022-09-28 ◦ [From Zero to One Hundred - ACM Queue](https://queue.acm.org/detail.cfm?id=3561799)
+    -   also found [here](https://www.reddit.com/r/netsec/comments/xn53z7/zero_trust_from_zero_to_one_hundred/)
 
 
-## [From Zero To One Hundred](https://queue.acm.org/detail.cfm?id=3561799) {#from-zero-to-one-hundred}
+### [From Zero To One Hundred](https://queue.acm.org/detail.cfm?id=3561799) {#from-zero-to-one-hundred}
 
 > Firewalls were applied to create a strong **perimeter around enterprise networks**;
 > however, once inside the perimeter, an attacker can easily move through a

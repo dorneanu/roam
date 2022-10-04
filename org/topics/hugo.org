@@ -20,6 +20,8 @@
 - 2022-08-30 ◦ [[https://digitaldrummerj.me/hugo-post-series/][Hugo - Create a Post Series | Justin James]]
 - 2022-08-30 ◦ [[https://onebite.dev/series-of-article-in-hugo-website/][Series of article in Hugo website]]
 * Integrations
+** asciidoc
+- 2022-10-04 ◦ [[https://blog.arkey.fr/2020/04/23/tackling-hugo-integration-of-asciidoctor/][Tackling Hugo Integration of Asciidoctor • Brice Dutheil]]
 ** getpocket
 - 2022-08-22 ◦ [[https://github.com/craftsmandigital/hugo-get-pocket][github.com/craftsmandigital/hugo-get-pocket]]
 

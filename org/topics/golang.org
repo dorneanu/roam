@@ -22,14 +22,21 @@
 - 2022-08-17 ◦ [[https://www.reddit.com/r/golang/comments/wlw5bj/preferred_resource_for_advanced_go/][Preferred resource for 'advanced' Go? : golang]]
   - Some good recommendation for advanced Go learning resources
 - 2022-08-16 ◦ [[https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2][Service Discovery with Go and mDNS]]
+*** Architecture
+- 2022-10-04 ◦ [[https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/][Auto-generated C4 Architecture Diagrams in Go]] ([[id:ecaa327d-ead3-4e0c-80e4-af9343f68e66][PlantUML]])
 *** Botnets
 - 2022-08-22 ◦ [[https://github.com/ThrillQuks/Pitraix][GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR]]
 *** Design Patterns
 - 2022-09-05 ◦ [[https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5][GoF Design patterns that still make sense in Go]]
 *** Microservices
+- 2022-10-04 ◦ [[https://encore.dev/docs/develop/encore-flow][Encore Docs — Encore Flow]]
+  - Visualize cloud microservices architecture
 - 2022-08-25 ◦ [[https://github.com/zeromicro/go-zero][go-zero]]
-
-  A cloud-native Go [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]] framework with cli tool for productivity.
+  - A cloud-native Go [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]] framework with cli tool for productivity.
 *** AWS
 - 2022-09-06 ◦ [[https://www.go-on-aws.com/][GO ON AWS :: Learn to code go on AWS]]
   - Using Golang for writing [[id:61b1e794-8d3a-45f1-b414-612b6ad4dad4][CDK]] stacks for [[id:be5bebfe-5df9-4db2-af87-7e80e11723c7][AWS]]
+*** Serverless
+- 2022-10-04 ◦ [[https://blog.gendocu.com/posts/grpc-on-google-cloud/][gRPC and gRPC Web on Google Cloud Run (serverless) - GenDocu Blog]]
+*** Security
+- 2022-10-04 ◦ [[https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo][Simple JWT Authentication for Golang (Part 1)]] ([[id:8b4bec8f-ec46-4edf-b236-2d295089f94d][JWT]])

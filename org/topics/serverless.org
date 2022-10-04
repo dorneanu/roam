@@ -7,3 +7,6 @@
 #+title: Serverless
 #+tmap.id: 68bcde7b-0863-4c96-bb99-8e212a09618f
 #+type: text/vnd.tiddlywiki
+
+* Articles
+- 2022-10-04 ◦ [[https://www.thisdot.co/blog/build-your-backend-with-netlify-functions-in-20-minutes][Build your Backend with Netlify Functions in 20 Minutes]]j

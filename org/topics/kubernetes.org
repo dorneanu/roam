@@ -2,3 +2,6 @@
 :ID:       e59fa8c3-554b-47fd-adb9-a85807038a9a
 :END:
 #+title: Kubernetes
+
+* Articles
+- 2022-09-30 ◦ [[https://dev.to/castai/kubernetes-security-10-best-practices-from-the-industry-and-community-1bp6][Kubernetes Security: 10 Best Practices from the Industry and Community]]
