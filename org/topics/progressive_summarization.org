@@ -14,4 +14,12 @@ Each layer should include *no more than 10-20% of the previous layer*.
 
 * Resources
 - [[id:a4a146e8-291a-4f79-92e4-b74f5d7204e2][Building a Second Brain]]
+- 2022-10-05 ◦ [[https://dev.to/dendron/cache-all-the-things-a-pkm-workflow-to-incrementally-retain-and-find-everything-ne3][Cache All the Things - A PKM workflow to incrementally retain (and find) everything]]
+  #+begin_quote
+  There are some highly desirable *characteristics* of progressive summarization:
+
+  - *just in time vs ahead of time*: you only do the work when you need to
+  - *incremental work*: you only do minimal work at each layer which can then be leveraged in later layers
+  - *active vs passive*: you actively read the text instead of skimming it
+  #+end_quote
 - 2022-08-30 ◦ [[https://tasshin.com/blog/implementing-a-second-brain-in-emacs-and-org-mode/][Implementing A Second Brain in Emacs and Org-Mode - Tasshin]]

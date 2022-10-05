@@ -50,8 +50,7 @@ draft = false
 
 #### AWS {#aws}
 
-2022-09-06 ◦ [[<https://www.go-on-aws.com/>][GO ON AWS
-: Learn to code go on AWS]]
+-   2022-09-96 ◦ [GO ON AWS](https://www.go-on-aws.com/)
     -   Using Golang for writing [CDK]({{< relref "cdk.md" >}}) stacks for [AWS]({{< relref "aws.md" >}})
 
 

@@ -83,6 +83,11 @@ draft = false
 -   [Exporting Org Roam notes to hugo - Sidharth Arya](https://sidhartharya.me/exporting-org-roam-notes-to-hugo/)
 
 
+### Publishing {#publishing}
+
+-   2022-10-05 ◦ [Org Reveal and gridded layouts](https://www.gibiris.org/eo-blog/posts/2022/09/28_org-reveal-and-gridded-layouts.html)
+
+
 ### Articles {#articles}
 
 -   2022-08-24 ◦ [zzamboni.org | How to easily create and use human-readable IDs in Org mode and Doom Emacs](https://zzamboni.org/post/how-to-easily-create-and-use-human-readable-ids-in-org-mode-and-doom-emacs/)

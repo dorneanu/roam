@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       8c713807-89e7-42cb-bdf4-cb3f53d620f2
+:END:
 #+created: 20210622071008278
 #+modified: 20210623104835151
 #+revision: 0
@@ -6,3 +9,6 @@
 #+type: text/vnd.tiddlywiki
 
 About building a braindump, second brain, digital garden...
+
+* Resources
+- 2022-10-04 ◦ [[https://yoan-thirion.gitbook.io/knowledge-base/][Home - Knowledge-base]]

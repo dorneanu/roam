@@ -56,5 +56,7 @@
 ** Braindump
 - [[https://www.badykov.com/emacs/generating-site-from-org-mode-files/][Generating a site from org-mode files - Kraken of Thought]]
 - [[https://sidhartharya.me/exporting-org-roam-notes-to-hugo/][Exporting Org Roam notes to hugo - Sidharth Arya]]
+** Publishing
+- 2022-10-05 ◦ [[https://www.gibiris.org/eo-blog/posts/2022/09/28_org-reveal-and-gridded-layouts.html][Org Reveal and gridded layouts]]
 ** Articles
 - 2022-08-24 ◦ [[https://zzamboni.org/post/how-to-easily-create-and-use-human-readable-ids-in-org-mode-and-doom-emacs/][zzamboni.org | How to easily create and use human-readable IDs in Org mode and Doom Emacs]]
