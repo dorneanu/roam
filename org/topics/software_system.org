@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       5d1db4fd-d8b7-4660-a706-8254efd6249d
+:END:
 #+created: 20210622081606663
 #+modified: 20210826085840399
 #+origin: [[<<. bibliography "The Clean Architecture">>]]
@@ -14,6 +17,21 @@
 - What programmers are
   - Programmers are hired to make machines behave in a way that makes or saves money for the stakeholders. We do this by helping the stakeholders develop a functional specification, or requirements document. Then we write the code that causes the stakeholder's machines to satisfy those requirements
 - must be developed by an organization with many teams
-  - they have many concerns that require a [[#Software%20Architecture][Software Architecture]] that facilitates independent actions by those teams
+  - they have many concerns that require a [[id:5a26ed6a-80d8-4fe8-b9db-0c1956ec8c2e][Software Architecture]] that facilitates independent actions by those teams
     - this is done by seggregating the system into well-isolated, independently developable components
-  - this way you can continue to add new [[#Software System/Use Cases][use cases]] w/o interfering with old ones ([[id:91ad1a5b-7a03-42e3-83b2-468e5d0eedd7][Open-Close Principle]])
+  - this way you can continue to add new [[*Use cases][use cases]] w/o interfering with old ones ([[id:91ad1a5b-7a03-42e3-83b2-468e5d0eedd7][Open-Close Principle]])
+
+* Use cases
+:PROPERTIES:
+:ID:       654eb028-e630-4995-b855-1f1ef8f9942e
+:END:
+- The software in the use cases layer contains application-specific business
+  rules. It encapsulates and implements all of the use cases of the system.
+  These use cases orchestrate the flow of data to and from the [[*Entities][entities]], and
+  direct those entities to use their Critical Business Rules to achieve the
+  goals of the use case.
+* Entities
+- Entities encapsulate enterprise-wide Critical Business Rules. An entity can be
+  an object with methods, or it can be a set of data structures and functions.
+  It doesn't matter so long as the entities can be used by many different
+  applications in the enterprise.

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ef58fefe-68ae-4e56-8996-202139c6d27d
+:END:
 #+created: 20210525185605839
 #+modified: 20210826082200080
 #+origin: [[<<. bibliography "The Clean Code">>]]  [[<<. bibliography "The Clean Architecture">>]] 
@@ -8,26 +11,21 @@
 
 - Role
   - define a blueprint for what needs to be built
-
   - ensure the team has enough details to get the job done
-
   - guides the rest of the team toward this design during execution
-
   - talks to stakeholders
-
   - it's possible to do the architect's job w/o coding:
-
     - one must understand the low-level details, constraints and complexity
-
     #+begin_quote
-    First of all, a software architect is a programmer; and continues to be a programmer. Never fall for the lie that suggests that software architects pull back from code to focus on higher-level issues. They do not! Software architects are the best programmers, and they continue to take programming tasks, while they also guide the rest of the team toward a design that maximizes productivity. Software architects may not write as much code as other programmers do, but they continue to engage in programming tasks.
-
+    First of all, a software architect is a programmer; and continues to be a
+    programmer. Never fall for the lie that suggests that software architects
+    pull back from code to focus on higher-level issues. They do not! Software
+    architects are the best programmers, and they continue to take programming
+    tasks, while they also guide the rest of the team toward a design that
+    maximizes productivity. Software architects may not write as much code as
+    other programmers do, but they continue to engage in programming tasks.
     #+end_quote
-
-  - create a shape for the system that recognizes [[#Software%20Architecture][policy]] as the most essential element while making the details irrelevant
-
+  - create a shape for the system that recognizes policy as the most essential element while making the details irrelevant
     - this also allows decisions about the details to be delayed and deferred
-
-  - takes late decisions and shapes the [[#Software%20System][Software System]] in a way that decisions can still be deferred or changed for as long as possible
-
+  - takes late decisions and shapes the [[id:5d1db4fd-d8b7-4660-a706-8254efd6249d][Software System]] in a way that decisions can still be deferred or changed for as long as possible
     - also maximizes number of decisions not made

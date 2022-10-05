@@ -257,7 +257,8 @@ life.
 :PROPERTIES:
 :ID:       1b92b3d4-c9a2-4d9b-869a-a27a9847bd70
 :END:
-Information is organized based on how /actionable/ it is and not on its /type/ or /kind/. That's why it's so universal and applicable for almost every profession or field.
+Information is organized based on how /actionable/ it is and not on its /type/ or /kind/. That's
+why it's so universal and applicable for almost every profession or field.
 
 PARA is more like a /production/ system. You won't be able to always find the /right/ place
 where a note belongs to. The category you initially put a note to, might change depending

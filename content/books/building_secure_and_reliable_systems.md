@@ -1,5 +1,6 @@
 +++
 title = "Building Secure and Reliable Systems"
+date = 2022-09-01
 tags = ["book"]
 draft = false
 +++

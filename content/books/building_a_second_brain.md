@@ -272,7 +272,8 @@ You can use it in different contexts like _work_, _school_, _home_.
 
 ## PARA {#para}
 
-Information is organized based on how _actionable_ it is and not on its _type_ or _kind_. That's why it's so universal and applicable for almost every profession or field.
+Information is organized based on how _actionable_ it is and not on its _type_ or _kind_. That's
+why it's so universal and applicable for almost every profession or field.
 
 PARA is more like a _production_ system. You won't be able to always find the _right_ place
 where a note belongs to. The category you initially put a note to, might change depending

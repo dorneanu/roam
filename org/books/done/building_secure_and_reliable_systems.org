@@ -2,6 +2,7 @@
 :ID:       b2f4a959-a91f-4744-974a-56d4ce37c960
 :END:
 #+title: Building Secure and Reliable Systems
+#+date: 2022-09-01
 #+filetags: book
 
 * Intersection of Security and Reliability
