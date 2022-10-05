@@ -9,5 +9,5 @@
 #+title: The Bohr Effect
 #+type: text/vnd.tiddlywiki
 
-- Christian Bohr (Denmark) discovered that blood with the most [[#Carbon%20Dioxide][Carbon Dioxide]] in it, attracted more oxygen from [[#Hemoglobin][Hemoglobin]] (a so called divorce lawyer to separate oxygen)
+- Christian Bohr (Denmark) discovered that blood with the most [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] in it, attracted more oxygen from [[id:cd57e6ce-ba1b-4d7c-a559-b8ade35532ad][Hemoglobin]] (a so called divorce lawyer to separate oxygen)
   - breathing less allowed animals to produce more energy, more efficiently

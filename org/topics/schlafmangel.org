@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       20970244-5863-4c4c-bc9c-d658efc87a1f
+:END:
 #+created: 20201015121849680
 #+modified: 20210519071505208
 #+origin: https://www.arte.tv/de/videos/083968-000-A/schlafen-um-jeden-preis/
@@ -15,13 +18,13 @@
     - der Blauanteil überwiegt
   - es dauert 5min bis das Gehirn von dem Licht aktiviert wird (das wiederrum sorgt für [[#Melatonin][Melatonin]]-Ausschuss)
 - Ernährung spielt natürlich eine Rolle
-  - ein hoher [[#Glukose][Glukose]]-Spiegel signalisiert dem Gehirn, dass wir wach sind (das führt wiederrum zu einem ständigen Wachzustand)
-- häufig werden [[#Benzodiazepine][Benzodiazepine]] verschrieben
-- der Schlafentzug führt dazu, dass Müll aus den Zellen nicht entsorgt wird ([[#Autophagie][Autophagie]] kann nicht stattfinden)
-  - das führt zu [[#DNA][DNA]]-Veränderungen
+  - ein hoher [[id:584c7d4c-2d0d-43c0-8283-11c74bbf1a52][Glukose]]-Spiegel signalisiert dem Gehirn, dass wir wach sind (das führt wiederrum zu einem ständigen Wachzustand)
+- häufig werden [[id:347fd940-29a2-43c9-9a9a-5a44cfe5b533][Benzodiazepine]] verschrieben
+- der Schlafentzug führt dazu, dass Müll aus den Zellen nicht entsorgt wird ([[id:2fa3e022-b1cd-4ea5-a2ff-473e10489fc7][Autophagie]] kann nicht stattfinden)
+  - das führt zu [[id:653fd663-e09d-49fa-95bc-98eb4a3d7504][DNA]]-Veränderungen
 - Synapsen schrumpfen nach dem Schlaf
   - Gehirn entscheidet welches Infors bleiben und welche "vergessen" werden
-  - die "Abfallprodukte" werden im Schlaf entsorgt ([[#Autophagie][Autophagie]])
+  - die "Abfallprodukte" werden im Schlaf entsorgt ([[id:2fa3e022-b1cd-4ea5-a2ff-473e10489fc7][Autophagie]])
   - diese gelangen in die Leber wo sie dann abgespült werden
 - Zitate
   - "Wir sind die einzigen Säugetiere, die bewusst Schlafentzug betreiben"

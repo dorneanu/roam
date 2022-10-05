@@ -1,5 +1,7 @@
+:PROPERTIES:
+:ID:       e0884731-eeba-4ebd-9d00-4e6fc576e118
+:END:
 #+created: 20200727101020464
-#+lang: de
 #+modified: 20210518184432289
 #+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
 #+revision: 0
@@ -10,6 +12,6 @@
 
 - Gerade in der Lebensmittelindustrie
 - "fettarm heisst nicht Kalorienarm"
-- [[#Fette][Fett]] wird durch Kohlenhydrate/[[#Zucker][Zucker]] ersetzt
+- [[id:edb2c853-5d35-47fc-8e8e-183b462aec44][Fett]] wird durch Kohlenhydrate/[[id:d3b0e1ec-e508-4701-8252-0bbcee64c894][Zucker]] ersetzt
 - Nicht Fett ist das Problem
 - siehe auch

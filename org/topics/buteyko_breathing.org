@@ -8,7 +8,7 @@
 #+tags: Definition
 #+type: text/vnd.tiddlywiki
 
-- by Konstanting Pavlovich Buteyko
+- by *Konstantin Pavlovich Buteyko*
 - limit *inhales*
 - extend exhales for past the point of what feels comfortable (or even safe)
 - also check out the [[https://buteykoclinic.com/][Voluntary elimination of Deep Breathing]]

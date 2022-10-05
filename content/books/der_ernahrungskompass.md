@@ -130,7 +130,7 @@ draft = false
 ### Blutzucker {#blutzucker}
 
 -   Hoher Blutzuckerspiegel ist nicht gut, da der Zucker im Blut dazu
-    neigt, sich mit dem Eiweiß (z. B. Hemoglobin) im Körper zu verkleben
+    neigt, sich mit dem Eiweiß (z. B. [Hemoglobin]({{< relref "../../topics/hemoglobin.md" >}})) im Körper zu verkleben
 
 
 ### Insulinresistenz {#insulinresistenz}
@@ -319,7 +319,7 @@ reviews]]
     -   Diese fallen in die Kategorie der Polyphenole
         -   Oleuropein
             -   Schmeckt bitter
-            -   Hemmt [mTOR]({{< relref "../topics/mtor.md" >}})
+            -   Hemmt
 
         -   Oleocanthal
             -   Sorgt für das Kratzen in der Kehle
@@ -437,7 +437,7 @@ reviews]]
     -   Abends: fettreiche Lebensmittel (Avocados, Nüsse, Olivenöl, Käse)
 -   Die Sache mit dem Naschen
     -   Zellen werden ununterbrochen mit Nahrung und Energie überschüttet
-    -   Angefeuert von [Insulin]({{< relref "../topics/insulin.md" >}}), [IGF-1]({{< relref "../topics/igf_1.md" >}}) und [mTOR]({{< relref "../topics/mtor.md" >}}) führt das zu Wachstumsmodus
+    -   Angefeuert von , [IGF-1]({{< relref "../../topics/igf_1.md" >}}) und führt das zu Wachstumsmodus
         in der Zelle: die Zelle altert
 -   Fasten
     -   Tipp: Tage vorm Fasten mit einer kohlenhydratarmen, fettreichen Kost

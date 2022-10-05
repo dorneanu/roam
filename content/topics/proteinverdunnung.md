@@ -5,6 +5,6 @@ draft = false
 
 -   Gerade in der Lebensmittelindustrie
 -   "fettarm heisst nicht Kalorienarm"
--   wird durch Kohlenhydrate/ersetzt
+-   [Fett]({{< relref "fette.md" >}}) wird durch Kohlenhydrate/[Zucker]({{< relref "zucker.md" >}}) ersetzt
 -   Nicht Fett ist das Problem
 -   siehe auch

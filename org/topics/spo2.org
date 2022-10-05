@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       d33ac54c-67ac-43be-891b-1dc2ea4731d9
+:END:
 #+created: 20220708193826424
 #+modified: 20220711123932746
 #+origin: [[<<. bibliography "The Oxygen Advantage" >> ]]
@@ -6,4 +9,4 @@
 #+title: SpO2
 #+type: text/vnd.tiddlywiki
 
-Oxygen saturation (Sp02) is the percentage of oxygen-cárrying red blood cells ([[#Hemoglobin][hemoglobin]] molecules) containing oxygen within the blood. During periods of rest the standard breathing volume for a healthy person is between 4 and 6 liters of air per minute, which results in almost complete oxygen saturation of 95 to 99 percent
+Oxygen saturation (Sp02) is the percentage of oxygen-cárrying red blood cells ([[id:cd57e6ce-ba1b-4d7c-a559-b8ade35532ad][hemoglobin]] molecules) containing oxygen within the blood. During periods of rest the standard breathing volume for a healthy person is between 4 and 6 liters of air per minute, which results in almost complete oxygen saturation of 95 to 99 percent

@@ -85,7 +85,7 @@
 * Kapitel 5
 ** Blutzucker
 - Hoher Blutzuckerspiegel ist nicht gut, da der Zucker im Blut dazu
-  neigt, sich mit dem Eiweiß (z. B. Hemoglobin) im Körper zu verkleben
+  neigt, sich mit dem Eiweiß (z. B. [[id:cd57e6ce-ba1b-4d7c-a559-b8ade35532ad][Hemoglobin]]) im Körper zu verkleben
 ** Insulinresistenz
 ** Insulin
 * Kapitel 6

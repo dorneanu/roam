@@ -11,13 +11,13 @@ draft = false
         -   der Blauanteil überwiegt
     -   es dauert 5min bis das Gehirn von dem Licht aktiviert wird (das wiederrum sorgt für -Ausschuss)
 -   Ernährung spielt natürlich eine Rolle
-    -   ein hoher -Spiegel signalisiert dem Gehirn, dass wir wach sind (das führt wiederrum zu einem ständigen Wachzustand)
--   häufig werden verschrieben
--   der Schlafentzug führt dazu, dass Müll aus den Zellen nicht entsorgt wird (kann nicht stattfinden)
-    -   das führt zu -Veränderungen
+    -   ein hoher [Glukose]({{< relref "glukose.md" >}})-Spiegel signalisiert dem Gehirn, dass wir wach sind (das führt wiederrum zu einem ständigen Wachzustand)
+-   häufig werden [Benzodiazepine]({{< relref "benzodiazepine.md" >}}) verschrieben
+-   der Schlafentzug führt dazu, dass Müll aus den Zellen nicht entsorgt wird ([Autophagie]({{< relref "autophagie.md" >}}) kann nicht stattfinden)
+    -   das führt zu [DNA]({{< relref "dna.md" >}})-Veränderungen
 -   Synapsen schrumpfen nach dem Schlaf
     -   Gehirn entscheidet welches Infors bleiben und welche "vergessen" werden
-    -   die "Abfallprodukte" werden im Schlaf entsorgt ()
+    -   die "Abfallprodukte" werden im Schlaf entsorgt ([Autophagie]({{< relref "autophagie.md" >}}))
     -   diese gelangen in die Leber wo sie dann abgespült werden
 -   Zitate
     -   "Wir sind die einzigen Säugetiere, die bewusst Schlafentzug betreiben"
