@@ -8,7 +8,10 @@
 #+title: Hexagonal Architecture
 #+type: text/vnd.tiddlywiki
 
-- is a [[#Software%20Architecture][Software Architecture]]
+* Definition
+- is a [[id:5a26ed6a-80d8-4fe8-b9db-0c1956ec8c2e][Software Architecture]]
 - also known as *ports and adapters*
 - developed by Alistair Cockburn
   - adopted by Steve Freeman and Nat Pryce in [[https://www.goodreads.com/en/book/show/4268826-growing-object-oriented-software-guided-by-tests][Growing Object-Oriented Software, Guided by Tests]]
+* Resources
+- 2022-10-06 ◦ [[https://beyondxscratch.com/2017/08/19/hexagonal-architecture-the-practical-guide-for-a-clean-architecture/][Hexagonal Architecture: the practical guide for a clean architecture]]

@@ -40,6 +40,40 @@ draft = false
 -   2022-09-05 ◦ [GoF Design patterns that still make sense in Go](https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5)
 
 
+#### Malware {#malware}
+
+-   2022-10-06 ◦ [GopherCon Europe 2021: Joakim Kennedy - The Dark Side of Go: A 2020 Go Malware Round Up](https://www.youtube.com/watch?v=rcsWz-gT0sI)
+
+    > -   Government based
+    >     -   APT28 - Zebrocy
+    >     -   APT29 - WellMess and WellMail
+    >     -   NOBELIUM aka UNC2452
+    >         -   SolarWinds
+    >     -   Holy Water/Storm Cloud APT
+    >         -   used Google Drive as C2
+    > -   Criminal background
+    >     -   Loaders/Crypters
+    >         -   _Ezuri_
+    >     -   RATs
+    >         -   _Glupteba_
+    >     -   Stealers
+    >         -   _CryptoStealer.Go_
+    >             -   steals cryptocurrency wallets and data stored in browsers
+    >         -   Clipper
+    >             -   _Clipboard Stealer_
+    >     -   Ransomware
+    >         -   _Robbin Hood_
+    >         -   _NEPHILIM Ransomware_
+    >         -   _EKANS_
+    >     -   Bots
+    >         -   Cross-Platform Mining Bots (for Linux and Windows)
+    >             -   _XMRig Miner Dropper_
+    >         -   P2P Bots
+    >             -   _FritzFrog_
+    >             -   _InterPlanetary Storm_
+    >                 -   Uses IPFS
+
+
 #### Microservices {#microservices}
 
 -   2022-10-04 ◦ [Encore Docs — Encore Flow](https://encore.dev/docs/develop/encore-flow)

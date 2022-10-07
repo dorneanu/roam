@@ -2,7 +2,7 @@
 :ID:       b2831721-165d-4943-a41a-da770d96be41
 :END:
 #+title: Golang
-* Resources
+* Resources                                                                     :golang:
 ** Articles
 - 2022-08-29 ◦ [[https://appliedgo.com/blog/go-as-a-glue-language][How to use Go as a glue language]]
   #+begin_quote
@@ -28,6 +28,38 @@
 - 2022-08-22 ◦ [[https://github.com/ThrillQuks/Pitraix][GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR]]
 *** Design Patterns
 - 2022-09-05 ◦ [[https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5][GoF Design patterns that still make sense in Go]]
+*** Malware
+- 2022-10-06 ◦ [[https://www.youtube.com/watch?v=rcsWz-gT0sI][GopherCon Europe 2021: Joakim Kennedy - The Dark Side of Go: A 2020 Go Malware Round Up]]
+  #+begin_quote
+  - Government based
+    - APT28 - Zebrocy
+    - APT29 - WellMess and WellMail
+    - NOBELIUM aka UNC2452
+      - SolarWinds
+    - Holy Water/Storm Cloud APT
+      - used Google Drive as C2
+  - Criminal background
+    - Loaders/Crypters
+      - /Ezuri/
+    - RATs
+      - /Glupteba/
+    - Stealers
+      - /CryptoStealer.Go/
+        - steals cryptocurrency wallets and data stored in browsers
+      - Clipper
+        - /Clipboard Stealer/
+    - Ransomware
+      - /Robbin Hood/
+      - /NEPHILIM Ransomware/
+      - /EKANS/
+    - Bots
+      - Cross-Platform Mining Bots (for Linux and Windows)
+        - /XMRig Miner Dropper/
+      - P2P Bots
+        - /FritzFrog/
+        - /InterPlanetary Storm/
+          - Uses IPFS
+  #+end_quote
 *** Microservices
 - 2022-10-04 ◦ [[https://encore.dev/docs/develop/encore-flow][Encore Docs — Encore Flow]]
   - Visualize cloud microservices architecture
