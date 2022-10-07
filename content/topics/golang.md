@@ -53,7 +53,7 @@ draft = false
     >         -   used Google Drive as C2
     > -   Criminal background
     >     -   Loaders/Crypters
-    >         -   _Ezuri_
+    >         -   [Ezuri](https://github.com/guitmz/ezuri) ([description on guitmz.com](https://www.guitmz.com/linux-elf-runtime-crypter/))
     >     -   RATs
     >         -   _Glupteba_
     >     -   Stealers
