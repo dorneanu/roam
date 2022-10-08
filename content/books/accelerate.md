@@ -14,7 +14,7 @@ draft = false
 -   organizations should focus on [capabilities, rather than maturity](#capabilities-vs-maturity)
 -   Research has found 24 key capabilities that drive improvement in [software delivery performance](#software-delivery-performance)
     -   The capabilities were classified into these categories
-        -   Continuous Delivery (CD)
+        -   [Continuous Delivery]({{< relref "../../topics/continuous_delivery.md" >}}) (CD)
         -   Architecture / [Architectural characteristics](#architectural-characteristics)
             -   architectural decissions and effective architecture enable teams to easily test and deploy individual components/services also when the organization grows or the amount of services changes
             -   architectural characteristics rather than implementation details were more important
@@ -28,9 +28,11 @@ draft = false
         -   were more likely to work on mainframe systems
     -   in the rest of the cases there was no correlation between [system type](#types-of-systems) and [delivery performance](#software-delivery-performance)
 -   also check [my latest blog post for a full summary](https://blog.dornea.nu/2021/11/24/book-review-accelerate-the-science-of-lean-software-and-devops/)
--   Mindmap
 
-{{< figure src="/ox-hugo/plantuml-kClKbO.png" >}}
+
+## Mindmap {#mindmap}
+
+{{< gbox src="/img/accelerate/accelerate-big-picture.png" title="Accelerate Big Picture" caption="Which factors lead to software deliver improvement? There are different factors that are somehow inter-dependent" pos="left" >}}
 
 
 ## Notes {#notes}
@@ -67,7 +69,9 @@ draft = false
             -   they don't take into account the ever-changing nature of technology and business
             -   what is good enough and high-performing today is no longer good enough in the next year
     -   orgs should focus on capabilities in order to continuously drive improvement
-        -   they also focus on the right capabilities (outcomes based) and thus allowing them to develop and deliver software with improved speed and stability
+        -   they also focus on the right capabilities (outcomes based) and thus
+            allowing them to develop and deliver software with improved speed and
+            stability
 
 
 ### Culture by Westrum {#culture-by-westrum}
@@ -134,18 +138,18 @@ draft = false
 -   leadership is about inspiring and motivating those around you
 -   a good leader affects a team's ability to
     -   deliver code
-    -   architect good systems
+    -   [architect]({{< relref "../../topics/software_architecture.md" >}}) good systems
     -   apply [Lean product development practices](#lean-product-development-practices)
--   characteristics of a transformational leader (Rafferty and Griffin 2004)
-    -   vision
+-   characteristics of a transformational leader (_Rafferty and Griffin 2004_)
+    -   **vision**
         -   has clear understanding where the currently the org is and where it should be in the next 5 years
-    -   inspirational communication
+    -   **inspirational communication**
         -   inspires and motivates, even in an uncertain or changing environment
-    -   intellectual stimulation
+    -   **intellectual stimulation**
         -   challenges followers to think about problems in new ways
-    -   Supportive leadership
+    -   **Supportive leadership**
         -   demonstrates care and consideration
-    -   Personal recognition
+    -   **Personal recognition**
         -   praises and acknowledges achievement of goals/improvements in work quality
 
 
@@ -189,11 +193,22 @@ draft = false
 
 ### Accelerate - Note 1 {#accelerate-note-1}
 
-> Business as usual is no longer enough to remain competitive. Organizations in all industries, from finance and banking to retail, telecommunications, and even government, are turning away from delivering new products and services using big projects with long lead times. Instead, they are using small teams that work in short cycles and measure feedback from users to build products and services that delight their customers and rapidly deliver value to their organizations. These high performers are working incessantly to get better at what they do, letting no obstacles stand in their path, even in the face of high levels of risk and uncertainty about how they may achieve their goals.
+> Business as usual is no longer enough to remain competitive. Organizations in
+> all industries, from finance and banking to retail, telecommunications, and even
+> government, are turning away from delivering new products and services using big
+> projects with long lead times. Instead, they are using small teams that work in
+> short cycles and measure feedback from users to build products and services that
+> delight their customers and rapidly deliver value to their organizations. These
+> high performers are working incessantly to get better at what they do, letting
+> no obstacles stand in their path, even in the face of high levels of risk and
+> uncertainty about how they may achieve their goals.
 >
 > At the heart of this acceleration is software.
 
 
 ### Accelerate - Note 2 {#accelerate-note-2}
 
-> Technology leaders need to deliver software quickly and reliably to win in the market. For many companies, this requires significant changes to the way we deliver software. The key to successful change is measuring and understanding the right things with a focus on capabilities—not on maturity.
+> Technology leaders need to deliver software quickly and reliably to win in the
+> market. For many companies, this requires significant changes to the way we
+> deliver software. The key to successful change is measuring and understanding
+> the right things with a focus on capabilities—not on maturity.

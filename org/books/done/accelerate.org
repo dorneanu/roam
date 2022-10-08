@@ -21,8 +21,8 @@
 - organizations should focus on [[* Capabilities vs Maturity][capabilities, rather than maturity]]
 - Research has found 24 key capabilities that drive improvement in [[* Software Delivery Performance][software delivery performance]]
   - The capabilities were classified into these categories
-    - Continuous Delivery (CD)
-    - Architecture / [[Architectural characteristics][Architectural characteristics]]
+    - [[id:5f99a575-a728-4966-bd7d-ca9ca4a4024d][Continuous Delivery]] (CD)
+    - Architecture / [[*Architectural characteristics][Architectural characteristics]]
       - architectural decissions and effective architecture enable teams to easily test and deploy individual components/services also when the organization grows or the amount of services changes
       - architectural characteristics rather than implementation details were more important
     - Product and process
@@ -35,56 +35,131 @@
     - were more likely to work on mainframe systems
   - in the rest of the cases there was no correlation between [[* Types of systems][system type]] and [[* Software Delivery Performance][delivery performance]]
 - also check [[https://blog.dornea.nu/2021/11/24/book-review-accelerate-the-science-of-lean-software-and-devops/][my latest blog post for a full summary]]
-- Mindmap
+* Mindmap
+#+begin_src plantuml :file ../../../static/img/accelerate/accelerate-big-picture.png  :results file replace :cmdline -charset UTF-8 :exports none
+@startuml
+'left to right direction
+skinparam backgroundColor #FFFFFF
+top to bottom direction
+''!theme hacker
 
-#+begin_src plantuml
-[[plantuml[ @startuml 'left to right direction top to bottom direction !theme hacker
 
-component trans_leadership [ **Transformational Leadership** --- Vision Inspirational communication Intellectual stimulation Supportive Leadership Personal recognition ]
+component trans_leadership [
+    ,**Transformational Leadership**
+    ---
+    Vision
+    Inspirational communication
+    Intellectual stimulation
+    Supportive Leadership
+    Personal recognition
+]
 
-component lm [ **Lean Management** --- Limit work in progress Visual Management Feedback from production Lightweight change approvals ]
+component lm [
+    ,**Lean Management**
+    ---
+    Limit work in progress
+    Visual Management
+    Feedback from production
+    Lightweight change approvals
+]
 
-component cd_drivers [ **Continous Deployment Drivers** --- Version Control Deployment Automation Continuous Integration Trunk-Based Development Continuous Testing Test Data Management Shift Left on Security Loosely Coopled Architecture ]
+component cd_drivers [
+    ,**Continous Deployment Drivers**
+    ---
+    Version Control
+    Deployment Automation
+    Continuous Integration
+    Trunk-Based Development
+    Continuous Testing
+    Test Data Management
+    Shift Left on Security
+    Loosely Coopled Architecture
+]
 
-component lean_prod_dev [ **Lean Product Development** --- Work in small batches Make flow of work visible Collect/Implement customer Feedback Team experimentation ]
+component lean_prod_dev [
+    ,**Lean Product Development**
+    ---
+    Work in small batches
+    Make flow of work visible
+    Collect/Implement customer Feedback
+    Team experimentation
+]
 
-[Identity] as id [Job Satisfaction] as js [Less Rework] as lr [Less Burnout] as lb [Less Deployment Pain] as ldp
+[Identity] as id
+[Job Satisfaction] as js
+[Less Rework] as lr
+[Less Burnout] as lb
+[Less Deployment Pain] as ldp
+
 
 [**Software Delivery Performance**] as sdp
 
-[**Continuous Delivery**] as cd cd_drivers --> cd
+[**Continuous Delivery**] as cd
+cd_drivers --> cd
 
-' Tranformational leadership trans_leadership --> cd_drivers trans_leadership --> lm trans_leadership --> lean_prod_dev
+' Tranformational leadership
+trans_leadership --> cd_drivers
+trans_leadership --> lm
+trans_leadership --> lean_prod_dev
 
-' Continuous Delivery impact cd --> lr cd --> ldp cd --> id cd --> lb cd --> js cd --> sdp
+' Continuous Delivery impact
+cd --> lr
+cd --> ldp
+cd --> id
+cd --> lb
+cd --> js
+cd --> sdp
 
-' Organizational culture [**Organizational Culture**\nWestrum] as oc oc <-u- cd oc <-u- lm oc --> sdp oc --> js
+' Organizational culture
+[**Organizational Culture**\nWestrum] as oc
+oc <-u- cd
+oc <-u- lm
+oc --> sdp
+oc --> js
 
-' Organization performance [**Organizational Performance**] as op op <-u- id op <-u- js op <-u- sdp op <-u- oc
+' Organization performance
+[**Organizational Performance**] as op
+op <-u- id
+op <-u- js
+op <-u- sdp
+op <-u- oc
 
-' Lean Product development lean_prod_dev <--> sdp lean_prod_dev --> id lean_prod_dev --> lb lean_prod_dev --> op
+' Lean Product development
+lean_prod_dev <--> sdp
+lean_prod_dev --> id
+lean_prod_dev --> lb
+lean_prod_dev --> op
 
-' Non-commercial performance [Non-commercial Performance] as np np <-u- sdp
 
-' Lean Management impacts lm --> js lm --> sdp lm --> lb
+' Non-commercial performance
+[Non-commercial Performance] as np
+np <-u- sdp
 
-' Alignment ldp <--[hidden] op @enduml ]]]
+' Lean Management impacts
+lm --> js
+lm --> sdp
+lm --> lb
+
+' Alignment
+ldp <--[hidden] op
+@enduml
 #+end_src
 
-* Notes
-** Architectural characteristics                                    :note:
-      :PROPERTIES:
-      :CREATED: Mon Nov 15 2021 06:03:15 GMT+0100 (Central European Standard Time)
-      :TAGS:
-      :END:
+#+html: {{< gbox src="/img/accelerate/accelerate-big-picture.png" title="Accelerate Big Picture" caption="Which factors lead to software deliver improvement? There are different factors that are somehow inter-dependent" pos="left" >}}
 
+
+* Notes
+** Architectural characteristics                                               :note:
+:PROPERTIES:
+:CREATED:  Mon Nov 15 2021 06:03:15 GMT+0100 (Central European Standard Time)
+:TAGS:
+:END:
 - High-performers focus on deployability and testability
 - those who agreed with these statements were more likely to be in the high-performing group
   - We can do most of our testing without requiring an integrated environment > We can and do deploy or release our application independently of other applications/services it depends on
 - to achieve this systems have to be [[#Component%20Cohesion][loosely coupled]], use [[id:143d2ed2-443e-467f-94c7-3ff5326b9979][bounded contexts]], have a [[#SOA][SOA]]
   - this enables scaling
-
-** Capabilities vs Maturity                                         :note:
+** Capabilities vs Maturity                                                    :note:
 :PROPERTIES:
 :CREATED:  Wed Nov 10 2021 09:30:57 GMT+0100 (Central European Standard Time)
 :TAGS:
@@ -109,9 +184,10 @@ component lean_prod_dev [ **Lean Product Development** --- Work in small batches
       - they don't take into account the ever-changing nature of technology and business
       - what is good enough and high-performing today is no longer good enough in the next year
   - orgs should focus on capabilities in order to continuously drive improvement
-    - they also focus on the right capabilities (outcomes based) and thus allowing them to develop and deliver software with improved speed and stability
-
-** Culture by Westrum                                               :note:
+    - they also focus on the right capabilities (outcomes based) and thus
+      allowing them to develop and deliver software with improved speed and
+      stability
+** Culture by Westrum                                                          :note:
 :PROPERTIES:
 :CREATED:  Fri Nov 12 2021 05:58:46 GMT+0100 (Central European Standard Time)
 :TAGS:
@@ -137,7 +213,7 @@ component lean_prod_dev [ **Lean Product Development** --- Work in small batches
   - it is timely
   - presented in such a way that it can be effectively used by the receiver
 - also check [[https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture][Google's DevOps Guide]]
-** Infosec                                                          :note:
+** Infosec                                                                     :note:
 :PROPERTIES:
 :CREATED:  Mon Nov 15 2021 06:10:51 GMT+0100 (Central European Standard Time)
 :TAGS:
@@ -148,8 +224,7 @@ component lean_prod_dev [ **Lean Product Development** --- Work in small batches
   - DevSecOps
   - Rugged [[id:8e892b1e-9536-422f-b5f9-23032a785f43][DevOps]] 
     - Combination of [[id:8e892b1e-9536-422f-b5f9-23032a785f43][DevOps]] and Rugged Manifesto
-
-** Lean product development practices                               :note:
+** Lean product development practices                                          :note:
 :PROPERTIES:
 :CREATED:  Mon Nov 15 2021 06:34:59 GMT+0100 (Central European Standard Time)
 :TAGS:
@@ -166,8 +241,7 @@ component lean_prod_dev [ **Lean Product Development** --- Work in small batches
   - incorporate feedback into design of products
 - Team experimentation
   - create and change specifications as part of the development process without requiring approval
-
-** Software Delivery Performance                                    :note:
+** Software Delivery Performance                                               :note:
 :PROPERTIES:
 :CREATED:  Wed Nov 10 2021 09:27:39 GMT+0100 (Central European Standard Time)
 :TAGS:
@@ -176,8 +250,7 @@ component lean_prod_dev [ **Lean Product Development** --- Work in small batches
 - Deployment Frequency
 - Mean Time to Restore (MTTR)
 - Change Fail Percentage
-
-** Transformational Leadership                                      :note:
+** Transformational Leadership                                                 :note:
 :PROPERTIES:
 :CREATED:  Tue Nov 16 2021 20:34:49 GMT+0100 (Central European Standard Time)
 :TAGS:
@@ -185,21 +258,20 @@ component lean_prod_dev [ **Lean Product Development** --- Work in small batches
 - leadership is about inspiring and motivating those around you
 - a good leader affects a team's ability to
   - deliver code
-  - architect good systems
+  - [[id:5a26ed6a-80d8-4fe8-b9db-0c1956ec8c2e][architect]] good systems
   - apply [[* Lean product development practices][Lean product development practices]]
-- characteristics of a transformational leader (Rafferty and Griffin 2004)
-  - vision
+- characteristics of a transformational leader (/Rafferty and Griffin 2004/)
+  - *vision*
     - has clear understanding where the currently the org is and where it should be in the next 5 years
-  - inspirational communication
+  - *inspirational communication*
     - inspires and motivates, even in an uncertain or changing environment
-  - intellectual stimulation
+  - *intellectual stimulation*
     - challenges followers to think about problems in new ways
-  - Supportive leadership
+  - *Supportive leadership*
     - demonstrates care and consideration
-  - Personal recognition
+  - *Personal recognition*
     - praises and acknowledges achievement of goals/improvements in work quality
-
-** Types of culture                                                 :note:
+** Types of culture                                                            :note:
 :PROPERTIES:
 :CREATED:  Fri Nov 12 2021 05:54:31 GMT+0100 (Central European Standard Time)
 :TAGS:
@@ -220,8 +292,7 @@ component lean_prod_dev [ **Lean Product Development** --- Work in small batches
     - technology
     - formal procedures
     - heroes, rituals
-
-** Types of systems                                                 :note:
+** Types of systems                                                            :note:
 :PROPERTIES:
 :CREATED:  Mon Nov 15 2021 05:51:09 GMT+0100 (Central European Standard Time)
 :TAGS:
@@ -240,12 +311,23 @@ component lean_prod_dev [ **Lean Product Development** --- Work in small batches
 * Quotes
 ** Accelerate - Note 1                                                         :quote:done:
 #+begin_quote
-Business as usual is no longer enough to remain competitive. Organizations in all industries, from finance and banking to retail, telecommunications, and even government, are turning away from delivering new products and services using big projects with long lead times. Instead, they are using small teams that work in short cycles and measure feedback from users to build products and services that delight their customers and rapidly deliver value to their organizations. These high performers are working incessantly to get better at what they do, letting no obstacles stand in their path, even in the face of high levels of risk and uncertainty about how they may achieve their goals.
+Business as usual is no longer enough to remain competitive. Organizations in
+all industries, from finance and banking to retail, telecommunications, and even
+government, are turning away from delivering new products and services using big
+projects with long lead times. Instead, they are using small teams that work in
+short cycles and measure feedback from users to build products and services that
+delight their customers and rapidly deliver value to their organizations. These
+high performers are working incessantly to get better at what they do, letting
+no obstacles stand in their path, even in the face of high levels of risk and
+uncertainty about how they may achieve their goals.
 
 At the heart of this acceleration is software.
 #+end_quote
 
 ** Accelerate - Note 2                                                         :quote:done:
 #+begin_quote
-Technology leaders need to deliver software quickly and reliably to win in the market. For many companies, this requires significant changes to the way we deliver software. The key to successful change is measuring and understanding the right things with a focus on capabilities—not on maturity.
+Technology leaders need to deliver software quickly and reliably to win in the
+market. For many companies, this requires significant changes to the way we
+deliver software. The key to successful change is measuring and understanding
+the right things with a focus on capabilities—not on maturity.
 #+end_quote
