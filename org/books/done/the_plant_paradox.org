@@ -15,3 +15,6 @@
 - "The Hidden Dangers in "Healthy" Foods That Cause Disease and Weight Gain"
 - Critics
   - [[https://hcfricke.com/2017/09/24/buchkritik-plant-paradox-von-stephen-r-gundry-md/][Buchkritik von hcfricke.com]]
+  - 2022-10-10 ◦ [[https://www.lavita-magazin.de/lektine][Lektine: Warum jetzt alle Angst vor Tomaten und Vollkorn haben]]
+  - 2022-10-10 ◦ [[https://nutritionfacts.org/2021/03/11/are-lectins-in-food-good-or-bad-for-you/][Are Lectins in Food Good or Bad for You? | NutritionFacts.org]]
+  - 2022-10-10 ◦ [[https://www.zentrum-der-gesundheit.de/ernaehrung/lebensmittel/inhaltsstoffe/lektine][Darum sind Lektine nicht gefährlich]]

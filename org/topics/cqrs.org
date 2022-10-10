@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a93d95f8-eeb0-498e-a9b7-e0fff534bb8f
+:END:
+#+title: CQRS
+#+filetags: todo

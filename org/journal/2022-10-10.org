@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1288c7a8-c6f3-4c00-a64a-54117227c7fa
+:END:
+#+title: 2022-10-10
+#+date: 2022-10-10
+#+filetags: journal
+
+- [[https://dev.to/apisix/building-event-driven-api-services-using-cqrs-api-gateway-and-serverless-af4][Building event-driven API services using CQRS, API Gateway and Serverless]] ([[id:a93d95f8-eeb0-498e-a9b7-e0fff534bb8f][CQRS]], [[id:794fe4d2-6c9b-4f95-9d27-9aba13a3c0b2][Serverless]])

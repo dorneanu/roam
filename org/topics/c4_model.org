@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       7343a446-d609-4b59-9620-7e9616b86067
+:END:
 #+created: 20211118071201837
 #+modified: 20211118071212081
 #+revision: 0
@@ -5,4 +8,6 @@
 #+title: C4 Model
 #+type: text/vnd.tiddlywiki
 
-
+* Resources
+- [[https://c4model.com/][c4model.com]]
+- 2022-10-10 ◦ [[https://dev.to/indrive_tech/c4-models-architecture-from-simple-to-complex-38fk][C4 Models: Architecture From Simple To Complex]]
