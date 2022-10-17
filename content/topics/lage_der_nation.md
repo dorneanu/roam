@@ -3,6 +3,11 @@ title = "Lage der Nation"
 draft = false
 +++
 
+## LdN 306 {#ldn-306}
+
+-   2022-10-11 ◦ [LdN306 Putins Eskalation, Gas-Pipelines explodiert, Proteste im Iran (Interview Gilda Sahebi, taz), 200 Mrd. für Energiehilfen, Energiemarkt der Zukunft (Interview Lion Hirth, Hertie School), Umgang mit Bad News – Lage der Nation](https://lagedernation.org/podcast/ldn306-putins-eskalation-gas-pipelines-explodiert-proteste-im-iran-interview-gilda-sahebi-taz-200-mrd-fuer-energiehilfen-energiemarkt-der-zukunft-interview-lion-hirth-hertie-school-umgang/)
+
+
 ## LdN 301 {#ldn-301}
 
 -   2022-09-08 ◦ [LdN301 „Keine weiteren Fragen“ – Digitalisierung der deutschen Verwaltung, Teil 1 – Lage der Nation](https://lagedernation.org/podcast/ldn301-keine-weiteren-fragen-digitalisierung-der-deutschen-verwaltung-teil-1/)

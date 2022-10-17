@@ -5,6 +5,7 @@ draft = false
 
 ## REST {#rest}
 
+-   2022-10-12 ◦ [Did you know you could use OpenAPI for security?](https://dev.to/nathan20/did-you-know-you-could-use-openapi-for-security-1hke)
 -   [Richardson Maturity Level]({{< relref "richardson_maturity_level.md" >}})
 
 

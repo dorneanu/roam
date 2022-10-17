@@ -6,12 +6,27 @@
 * Resources
 ** Keyboard shortcuts
 - 2022-09-05 ◦ [[https://github.com/VernonGrant/emacs-keyboard-shortcuts][GitHub - VernonGrant/emacs-keyboard-shortcuts: A list of Emacs keyboard shortcuts that I use on a regular basis.]]
+** Bookmarks
+- 2022-10-11 ◦ [[https://www.emacswiki.org/emacs/BookMarks][EmacsWiki: Book Marks]]
+  #+begin_quote
+  Some keys in *Bookmark List*:
+
+  ‘a’ – show annotation for the current bookmark
+  ‘A’ – show all annotations for your bookmarks
+  ‘d’ – mark various entries for deletion (‘x’ – to delete them)
+  ‘e’ – edit the annotation for the current bookmark
+  ‘m’ – mark various entries for display and other operations, (‘v’ – to visit)
+  ‘o’ – visit the current bookmark in another window, keeping the bookmark list open
+  ‘C-o’ – switch to the current bookmark in another window
+  ‘r’ – rename the current bookmark
+  #+end_quote
+
 ** Evil
 - 2022-09-01 ◦ [[https://github.com/edkolev/evil-goggles][GitHub - edkolev/evil-goggles: Display visual hint on evil edit operations]]
 ** Collection of awesome packages
 - 2022-09-01 ◦ [[https://github.com/emacs-tw/awesome-emacs][GitHub - emacs-tw/awesome-emacs: A community driven list of useful Emacs packages, libraries and other items.]]
 - 2022-09-01 ◦ [[https://emacs.zeef.com/ehartc][Emacs by Ernst de Hart (ehartc) | ZEEF]]
-- 2022-09-01 ◦ [[https://www.reddit.com/r/emacs/comments/wcupae/lets_share_your_top_3_packages_that_you_cant_live/][Let's share your top 3 packages that you can't live without. : emacs]]
+- 2022-09-01 ◦ [[https://www.reddit.com/r/emacs/comments/wcupae/lets_share_your_top_3_packages_that_you_cant_live/][Lets share your top 3 packages that you cant live without. : emacs]]
 - 2022-09-01 ◦ [[https://www.reddit.com/r/emacs/comments/w4gxoa/what_are_some_musthave_packages_for_emacs/][What are some must-have packages for emacs? : emacs]]
 ** Writing
 - 2022-09-20 ◦ [[https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/][Creative writing with Emacs – Jacmoe's Cyber Soapbox]]

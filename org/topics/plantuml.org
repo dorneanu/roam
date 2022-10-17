@@ -9,4 +9,6 @@
 #+type: text/vnd.tiddlywiki
 
 * Resources
+- 2022-10-11 ◦ [[https://github.com/shubhamgrg04/awesome-diagramming][GitHub - shubhamgrg04/awesome-diagramming: A curated collection of diagramming tools used by leading software engineering teams]]
+  Awesome collection!
 - 2022-08-30 ◦ [[https://florat.net/architecture-as-code-with-c4-and-plantuml/][Architecture as Code with C4 and Plantuml]]

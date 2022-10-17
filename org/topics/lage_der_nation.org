@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       c2cc5b91-a4be-44d5-8ff9-f506123df440
+:END:
 #+created: 20210602095359832
 #+modified: 20210602095551862
 #+origin: https://lagedernation.org/
@@ -6,6 +9,8 @@
 #+title: Lage der Nation
 #+type: text/vnd.tiddlywiki
 
+* LdN 306
+- 2022-10-11 ◦ [[https://lagedernation.org/podcast/ldn306-putins-eskalation-gas-pipelines-explodiert-proteste-im-iran-interview-gilda-sahebi-taz-200-mrd-fuer-energiehilfen-energiemarkt-der-zukunft-interview-lion-hirth-hertie-school-umgang/][LdN306 Putins Eskalation, Gas-Pipelines explodiert, Proteste im Iran (Interview Gilda Sahebi, taz), 200 Mrd. für Energiehilfen, Energiemarkt der Zukunft (Interview Lion Hirth, Hertie School), Umgang mit Bad News – Lage der Nation]]
 * LdN 301
 - 2022-09-08 ◦ [[https://lagedernation.org/podcast/ldn301-keine-weiteren-fragen-digitalisierung-der-deutschen-verwaltung-teil-1/][LdN301 „Keine weiteren Fragen“ – Digitalisierung der deutschen Verwaltung, Teil 1 – Lage der Nation]]
 
