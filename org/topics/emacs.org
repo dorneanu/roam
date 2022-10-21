@@ -3,6 +3,43 @@
 :END:
 #+title: Emacs
 
+* elfeed
+- 2022-10-19 ◦ [[https://github.com/iocanel/emacs.d/blob/master/%2Belfeed.el][github.com/iocanel/emacs.d/+elfeed.el]]
+- 2022-10-19 ◦ [[https://github.com/skeeto/.emacs.d/blob/master/etc/feed-setup.el][github.com/skeeto/.emacs.d/feed-setup.el]]
+- 2022-10-19 ◦ [[https://karthinks.com/software/lazy-elfeed/][Lazy Elfeed | Karthinks]]
+- 2022-10-19 ◦ [[https://emacs.stackexchange.com/questions/59786/elfeed-olivetti-modes][hooks - elfeed + olivetti modes - Emacs Stack Exchange]]
+- 2022-10-19 ◦ [[https://github.com/SqrtMinusOne/dotfiles/blob/master/Emacs.org#elfeed][github.com/SqrtMinusOne/dotfiles/Emacs.org]]
+** Functions
+#+CAPTION: Source: http://heikkil.github.io/blog/2015/05/09/notes-from-elfeed-entries/
+#+begin_src emacs-lisp
+(defun elfeed-link-title (entry)
+   "Copy the entry title and URL as org link to the clipboard."
+   (interactive)
+   (let* ((link (elfeed-entry-link entry))
+          (title (elfeed-entry-title entry))
+          (titlelink (org-make-link-string link title))))
+   (when titlelink
+     (kill-new titlelink)
+     (x-set-selection 'PRIMARY titlelink)
+     (message "Yanked: %s" titlelink)))
+#+end_src
+
+#+CAPTION: Source: https://sqrtminusone.xyz/posts/2021-09-07-emms/
+#+begin_src emacs-lisp
+(defun my/elfeed-search-filter-source (entry)
+  "Filter elfeed search buffer by the feed under cursor."
+  (interactive (list (elfeed-search-selected :ignore-region)))
+  (when (elfeed-entry-p entry)
+    (elfeed-search-set-filter
+     (concat
+      "@6-months-ago "
+      "+unread "
+      "="
+      (replace-regexp-in-string
+       (rx "?" (* not-newline) eos)
+       ""
+       (elfeed-feed-url (elfeed-entry-feed entry)))))))
+#+end_src
 * Resources
 ** Keyboard shortcuts
 - 2022-09-05 ◦ [[https://github.com/VernonGrant/emacs-keyboard-shortcuts][GitHub - VernonGrant/emacs-keyboard-shortcuts: A list of Emacs keyboard shortcuts that I use on a regular basis.]]
@@ -20,6 +57,8 @@
   ‘C-o’ – switch to the current bookmark in another window
   ‘r’ – rename the current bookmark
   #+end_quote
+** Configuration
+- 2022-10-18 ◦ [[https://alhassy.github.io/emacs.d/][A Life Configuring Emacs]]
 
 ** Evil
 - 2022-09-01 ◦ [[https://github.com/edkolev/evil-goggles][GitHub - edkolev/evil-goggles: Display visual hint on evil edit operations]]

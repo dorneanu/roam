@@ -3,6 +3,57 @@ title = "Emacs"
 draft = false
 +++
 
+## elfeed {#elfeed}
+
+-   2022-10-19 ◦ [github.com/iocanel/emacs.d/+elfeed.el](https://github.com/iocanel/emacs.d/blob/master/%2Belfeed.el)
+-   2022-10-19 ◦ [github.com/skeeto/.emacs.d/feed-setup.el](https://github.com/skeeto/.emacs.d/blob/master/etc/feed-setup.el)
+-   2022-10-19 ◦ [Lazy Elfeed | Karthinks](https://karthinks.com/software/lazy-elfeed/)
+-   2022-10-19 ◦ [hooks - elfeed + olivetti modes - Emacs Stack Exchange](https://emacs.stackexchange.com/questions/59786/elfeed-olivetti-modes)
+-   2022-10-19 ◦ [github.com/SqrtMinusOne/dotfiles/Emacs.org](https://github.com/SqrtMinusOne/dotfiles/blob/master/Emacs.org#elfeed)
+
+
+### Functions {#functions}
+
+```emacs-lisp
+(defun elfeed-link-title (entry)
+   "Copy the entry title and URL as org link to the clipboard."
+   (interactive)
+   (let* ((link (elfeed-entry-link entry))
+          (title (elfeed-entry-title entry))
+          (titlelink (org-make-link-string link title))))
+   (when titlelink
+     (kill-new titlelink)
+     (x-set-selection 'PRIMARY titlelink)
+     (message "Yanked: %s" titlelink)))
+```
+
+<div class="src-block-caption">
+  <span class="src-block-number">Code Snippet 1:</span>
+  Source: <a href="http://heikkil.github.io/blog/2015/05/09/notes-from-elfeed-entries/">http://heikkil.github.io/blog/2015/05/09/notes-from-elfeed-entries/</a>
+</div>
+
+```emacs-lisp
+(defun my/elfeed-search-filter-source (entry)
+  "Filter elfeed search buffer by the feed under cursor."
+  (interactive (list (elfeed-search-selected :ignore-region)))
+  (when (elfeed-entry-p entry)
+    (elfeed-search-set-filter
+     (concat
+      "@6-months-ago "
+      "+unread "
+      "="
+      (replace-regexp-in-string
+       (rx "?" (* not-newline) eos)
+       ""
+       (elfeed-feed-url (elfeed-entry-feed entry)))))))
+```
+
+<div class="src-block-caption">
+  <span class="src-block-number">Code Snippet 2:</span>
+  Source: <a href="https://sqrtminusone.xyz/posts/2021-09-07-emms/">https://sqrtminusone.xyz/posts/2021-09-07-emms/</a>
+</div>
+
+
 ## Resources {#resources}
 
 
@@ -25,6 +76,11 @@ draft = false
     > ‘o’ – visit the current bookmark in another window, keeping the bookmark list open
     > ‘C-o’ – switch to the current bookmark in another window
     > ‘r’ – rename the current bookmark
+
+
+### Configuration {#configuration}
+
+-   2022-10-18 ◦ [A Life Configuring Emacs](https://alhassy.github.io/emacs.d/)
 
 
 ### Evil {#evil}

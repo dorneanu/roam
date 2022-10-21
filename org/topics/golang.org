@@ -74,3 +74,5 @@
 - 2022-10-04 ◦ [[https://blog.gendocu.com/posts/grpc-on-google-cloud/][gRPC and gRPC Web on Google Cloud Run (serverless) - GenDocu Blog]]
 *** Security
 - 2022-10-04 ◦ [[https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo][Simple JWT Authentication for Golang (Part 1)]] ([[id:8b4bec8f-ec46-4edf-b236-2d295089f94d][JWT]])
+*** Success stories
+- 2022-10-19 ◦ [[https://www.reddit.com/r/golang/comments/y6hg08/have_you_moved_from_java_to_go_or_another_popular/][Have you moved from Java to Go (or another popular language)]]

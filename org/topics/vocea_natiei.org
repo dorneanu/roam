@@ -2,3 +2,22 @@
 :ID:       9a7b9ce3-a734-4242-9b67-57c1925bc1f2
 :END:
 #+title: Vocea Natiei
+
+* #158                                                                          :book:
+- Creșterea economică, o amăgire. Bogăția, sărăcia și bunăstarea națiunilor - David Pilling (book)
+- https://happyplanetindex.org/
+* #151                                                                          :book:
+- https://www.goodreads.com/author/show/321601.Johann_Hari
+- [ ] Ian Varoufakis
+* #150                                                                          :book:
+- [[id:9a5fc738-0ba0-42ce-8271-99eccc5c2abb][How to be good they can't ignore you]]
+* #148                                                                          :book:
+- Tim Harford în cartea [[https://www.goodreads.com/book/show/54564213-how-to-make-the-world-add-up][How To Make The World Add Up]]
+* #136                                                                          :book:
+- Amurgul Democrației. Seducătoarea atracție a autoritarismului” - Anne Applebaum”
+- Economie utilă pentru vremuri dificile” - Abhijit Banerjee
+* #134                                                                          :book:
+- „The Entrepreneurial State”, scrisă tot de economista Mariana Mazzucato
+  - există și un TED talk
+* #131                                                                          :book:
+ „Alegerea. Acceptă cu bucurie posibilul” scrisă de Edith Eva Eger

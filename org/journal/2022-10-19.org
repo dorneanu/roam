@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       b99333a4-2384-4db9-a4c7-014be792bf8c
+:END:
+#+title: 2022-10-19
+#+filetags: journal
+#+date: 2022-10-19
+
+- 2022-10-19 ◦ [[https://news.ycombinator.com/item?id=33258925][Tell HN: The regret of parenting and how to handle it]]

@@ -3,6 +3,7 @@
 :END:
 #+title: docker
 
+
 * Resources
 - 2022-09-21 ◦ [[https://containerjournal.com/editorial-calendar/best-of-2021/whats-the-difference-between-docker-and-kubernetes/#:~:text=The%20difference%20between%20the%20two,Kubernetes%20can%20be%20used%20independently.][Best of 2021 - What's the Difference Between Docker and Kubernetes? - Container Journal]]
   - difference between Docker and [[id:e59fa8c3-554b-47fd-adb9-a85807038a9a][Kubernetes]]

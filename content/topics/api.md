@@ -11,5 +11,9 @@ draft = false
 
 ## Gateways {#gateways}
 
+-   2022-09-14 ◦ [Secure your web apps with an API Gateway](https://blog.frankel.ch/secure-webapps-api-gateway/)
 
-### 2022-09-14 ◦ [Secure your web apps with an API Gateway](https://blog.frankel.ch/secure-webapps-api-gateway/) {#2022-09-14-secure-your-web-apps-with-an-api-gateway}
+
+## Security {#security}
+
+-   2022-10-21 ◦ [Shift Left Approach for API Standardization](https://www.infoq.com/articles/shift-left-api-standardization/)

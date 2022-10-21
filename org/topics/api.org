@@ -12,4 +12,6 @@
   - 2022-10-12 ◦ [[https://dev.to/nathan20/did-you-know-you-could-use-openapi-for-security-1hke][Did you know you could use OpenAPI for security?]]
   - [[id:9ebb968f-d7e4-4874-bda6-c9e82fa1f1a6][Richardson Maturity Level]]
 * Gateways
-** 2022-09-14 ◦ [[https://blog.frankel.ch/secure-webapps-api-gateway/][Secure your web apps with an API Gateway]]
+- 2022-09-14 ◦ [[https://blog.frankel.ch/secure-webapps-api-gateway/][Secure your web apps with an API Gateway]]
+* Security
+- 2022-10-21 ◦ [[https://www.infoq.com/articles/shift-left-api-standardization/][Shift Left Approach for API Standardization]]
