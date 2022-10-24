@@ -12,3 +12,8 @@ draft = false
 ### Deployment {#deployment}
 
 -   2022-10-19 ◦ [Helm und Helmfile — Dynamisches Duo für automatisierte Kubernetes-Deployments](https://www.innoq.com/de/articles/2022/10/helm-und-helmfile/)
+
+
+### Golang {#golang}
+
+-   2022-10-24 ◦ [Dockerize a GoLang HTTP server and deploy it on Kubernetes](https://dev.to/aksrao1998/dockerize-a-golang-http-server-and-deploy-it-on-kubernetes-592j)

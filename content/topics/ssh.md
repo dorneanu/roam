@@ -37,6 +37,12 @@ $ ssh bastion
 ```
 
 
+## Ansible {#ansible}
+
+-   2022-10-24 ◦ [SSH Bastion/Jumphost + Ansible configuration.](https://blog.keyboardinterrupt.com/ansible-jumphost/)
+-   2022-10-24 ◦ [Using Ansible with a jump host – LeftAsExercise](https://leftasexercise.com/2019/12/23/using-ansible-with-a-jump-host/)
+
+
 ## Security {#security}
 
 -   2022-09-05 ◦ [14 Best Practices to Secure SSH Bastion Host](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)

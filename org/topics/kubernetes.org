@@ -8,3 +8,5 @@
 - 2022-09-30 ◦ [[https://dev.to/castai/kubernetes-security-10-best-practices-from-the-industry-and-community-1bp6][Kubernetes Security: 10 Best Practices from the Industry and Community]]
 ** Deployment
 - 2022-10-19 ◦ [[https://www.innoq.com/de/articles/2022/10/helm-und-helmfile/][Helm und Helmfile — Dynamisches Duo für automatisierte Kubernetes-Deployments]]
+** Golang
+- 2022-10-24 ◦ [[https://dev.to/aksrao1998/dockerize-a-golang-http-server-and-deploy-it-on-kubernetes-592j][Dockerize a GoLang HTTP server and deploy it on Kubernetes]]

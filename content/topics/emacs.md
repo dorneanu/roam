@@ -5,6 +5,30 @@ draft = false
 
 ## elfeed {#elfeed}
 
+-   2022-10-24 ◦ [A workflow for reading, managing and discovering ML research papers with Emacs | Koustuv Sinha](https://koustuvsinha.com/post/emacs_research_workflow/)
+-   2022-10-24 ◦ [Add org-store-link Entry for elfeed - Yiming Chen](https://yiming.dev/blog/2016/01/28/add-org-store-link-entry-for-elfeed/)
+
+    ```emacs-lisp
+      ;; ---------------------
+      ;; org capture in elfeed
+      ;; ---------------------
+      (defun private/org-elfeed-entry-store-link ()
+        (when elfeed-show-entry
+          (let* ((link (elfeed-entry-link elfeed-show-entry))
+                 (title (elfeed-entry-title elfeed-show-entry)))
+            (org-store-link-props
+             :link link
+             :description title)
+            )))
+
+      (add-hook 'org-store-link-functions
+                'private/org-elfeed-entry-store-link)
+    ```
+
+    <div class="src-block-caption">
+      <span class="src-block-number">Code Snippet 1:</span>
+      <a href="https://yiming.dev/blog/2016/01/28/add-org-store-link-entry-for-elfeed/">https://yiming.dev/blog/2016/01/28/add-org-store-link-entry-for-elfeed/</a>
+    </div>
 -   2022-10-19 ◦ [github.com/iocanel/emacs.d/+elfeed.el](https://github.com/iocanel/emacs.d/blob/master/%2Belfeed.el)
 -   2022-10-19 ◦ [github.com/skeeto/.emacs.d/feed-setup.el](https://github.com/skeeto/.emacs.d/blob/master/etc/feed-setup.el)
 -   2022-10-19 ◦ [Lazy Elfeed | Karthinks](https://karthinks.com/software/lazy-elfeed/)
@@ -28,7 +52,7 @@ draft = false
 ```
 
 <div class="src-block-caption">
-  <span class="src-block-number">Code Snippet 1:</span>
+  <span class="src-block-number">Code Snippet 2:</span>
   Source: <a href="http://heikkil.github.io/blog/2015/05/09/notes-from-elfeed-entries/">http://heikkil.github.io/blog/2015/05/09/notes-from-elfeed-entries/</a>
 </div>
 
@@ -49,9 +73,24 @@ draft = false
 ```
 
 <div class="src-block-caption">
-  <span class="src-block-number">Code Snippet 2:</span>
+  <span class="src-block-number">Code Snippet 3:</span>
   Source: <a href="https://sqrtminusone.xyz/posts/2021-09-07-emms/">https://sqrtminusone.xyz/posts/2021-09-07-emms/</a>
 </div>
+
+
+## Registers {#registers}
+
+
+### Append text to registers {#append-text-to-registers}
+
+When you are collecting text using append-to-register and prepend-to-register, you may want to separate individual collected pieces using a separator. In that case, configure a register-separator and store the separator text in to that register. For example, to get double newlines as text separator during the collection process, you can use the following setting.
+
+```emacs-lisp
+(setq register-separator ?+)
+(set-register register-separator "\n\n")
+```
+
+[Source](https://www.gnu.org/software/emacs/manual/html_node/emacs/Text-Registers.html)
 
 
 ## Resources {#resources}
