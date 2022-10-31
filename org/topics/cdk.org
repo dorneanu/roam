@@ -84,6 +84,10 @@ Also check:
   - for using ~s3api~ and ~list-objects~
 * Resources
 ** Articles
+- 2022-10-26 ◦ [[https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk/NestedStack.html][NestedStack — AWS Cloud Development Kit 2.47.0 documentation]]
+- 2022-10-26 ◦ [[https://github.com/bobbyhadz/aws-cdk-nested-stack][GitHub - bobbyhadz/aws-cdk-nested-stack]]
+  - how to provision nested stacks using AWS CDK
+- 2022-10-26 ◦ [[https://medium.com/devops-techable/how-i-prefer-to-organize-my-aws-cdk-stack-and-nestedstack-code-infrastructure-as-code-iac-3d4e3c519949][How I prefer to organize my AWS CDK and NestedStack code]]
 - 2022-09-06 ◦ [[https://dev.to/airmonitor/linux-ec2-bastion-host-with-aws-cdk-55ie][Linux EC2 Bastion Host with AWS CDK]]
   - initialize EC2 bastion hosts by specific sets of commands
   - create Route53 record for bastion host

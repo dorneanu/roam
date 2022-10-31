@@ -127,6 +127,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
 -   2022-09-01 ◦ [GitHub - edkolev/evil-goggles: Display visual hint on evil edit operations](https://github.com/edkolev/evil-goggles)
 
 
+### Emojis {#emojis}
+
+-   2022-10-25 ◦ [Native Emojis in Emacs | Ian Y.E. Pan](https://ianyepan.github.io/posts/emacs-emojis/)
+
+
 ### Collection of awesome packages {#collection-of-awesome-packages}
 
 -   2022-09-01 ◦ [GitHub - emacs-tw/awesome-emacs: A community driven list of useful Emacs packages, libraries and other items.](https://github.com/emacs-tw/awesome-emacs)

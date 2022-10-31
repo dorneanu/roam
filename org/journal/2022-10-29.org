@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f95466de-d5d0-4127-a1b4-273e33d9ffb3
+:END:
+#+TITLE: 2022-10-29
+#+DATE: 2022-10-29
+#+FILETAGS: journal
+
+- 2022-10-29 ◦ [[https://news.ycombinator.com/item?id=33381791][Ask HN: What are some of the best books you have read in 2022? | Hacker News]]

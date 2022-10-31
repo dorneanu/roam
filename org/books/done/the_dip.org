@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9313ea4b-398c-4933-a55c-67e07c05e68d
+:END:
+#+title: The Dip
+#+filetags: book todo
+#+date: 2022-10-29

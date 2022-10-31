@@ -65,6 +65,8 @@
   - Visualize cloud microservices architecture
 - 2022-08-25 ◦ [[https://github.com/zeromicro/go-zero][go-zero]]
   - A cloud-native Go [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]] framework with cli tool for productivity.
+*** HTTP
+- 2022-10-25 ◦ [[https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/][Go and Proxy Servers: Part 1 - HTTP Proxies - Eli Bendersky's website]]
 *** AWS
 - 2022-10-10 ◦ [[http://www.inanzzz.com/index.php/post/i5re/a-simple-aws-sns-example-with-golang-suing-localstack][inanzzz | A simple AWS SNS example with Golang using Localstack]]
 - 2022-10-10 ◦ [[https://stackoverflow.com/questions/54204855/how-does-one-programmatically-subscribe-an-sqs-queue-to-an-sns-topic-in-go][aws sdk go - How does one programmatically subscribe an SQS queue to an SNS topic in Go? - Stack Overflow]]
