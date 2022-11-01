@@ -29,6 +29,7 @@
 *** Design Patterns
 - 2022-09-05 ◦ [[https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5][GoF Design patterns that still make sense in Go]]
 *** Malware
+- 2022-11-01 ◦ [[https://changelog.com/gotime/251][Hacking with Go: Part 2 with Ivan Kwiatkowski (Go Time #251)]]
 - 2022-10-06 ◦ [[https://www.youtube.com/watch?v=rcsWz-gT0sI][GopherCon Europe 2021: Joakim Kennedy - The Dark Side of Go: A 2020 Go Malware Round Up]]
   #+begin_quote
   - Government based

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bf5484bd-92ad-47ca-bd5f-46e7c7a0a627
+:END:
+#+TITLE: 2022-11-01
+#+DATE: 2022-11-01
+#+FILETAGS: journal
+
+- 2022-11-01 ◦ [[https://www.infoq.com/podcasts/ddd-wardley-mapping-team-topologies/][Susanne Kaiser on DDD, Wardley Mapping, & Team Topologies]] ([[id:7c4e66f6-ce2d-441b-8c33-51ba6aec412c][DDD]])
+- 2022-11-01 ◦ [[https://changelog.com/gotime/251][Hacking with Go: Part 2 with Ivan Kwiatkowski (Go Time #251)]]

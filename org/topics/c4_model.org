@@ -10,5 +10,7 @@
 
 * Resources
 - [[https://c4model.com/][c4model.com]]
+- 2022-10-31 ◦ [[https://dev.to/icepanel/c4-model-for-system-architecture-design-16dh][C4 model for system architecture design]]
+  - nice cheat sheet info graphic
 - 2022-10-27 ◦ [[https://structurizr.com/dsl][Structurizr - DSL]]
 - 2022-10-10 ◦ [[https://dev.to/indrive_tech/c4-models-architecture-from-simple-to-complex-38fk][C4 Models: Architecture From Simple To Complex]]
