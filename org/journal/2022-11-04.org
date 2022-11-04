@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       513da517-c8d7-4a61-9bdf-4cedf8232fe7
+:END:
+#+TITLE: 2022-11-04
+#+DATE: 2022-11-04
+#+FILETAGS: journal
+
+- 2022-11-04 ◦ [[https://book.hacktricks.xyz/linux-hardening/privilege-escalation/docker-breakout][Docker Basics & Breakout - HackTricks]]

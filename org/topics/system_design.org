@@ -5,6 +5,7 @@
 
 * Resources
 ** Articles
+- 2022-11-03 ◦ [[https://leetdesign.com/][System Design Practice Problems | LeetDesign]]
 - 2022-10-04 ◦ [[https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5_LUeFj65lI/edit?usp=embed_facebook&usp=embed_facebook&usp=embed_facebook&usp=embed_facebook][SystemDesign.org - Textbook for System Design Interviews]]
 - 2022-08-17 ◦ [[https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo][System Design: The complete course - DEV Community]]
   - https://www.karanpratapsingh.com/courses/system-design
