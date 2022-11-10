@@ -103,4 +103,5 @@ When you are collecting text using append-to-register and prepend-to-register, y
 - 2022-09-01 ◦ [[https://www.reddit.com/r/emacs/comments/wcupae/lets_share_your_top_3_packages_that_you_cant_live/][Lets share your top 3 packages that you cant live without. : emacs]]
 - 2022-09-01 ◦ [[https://www.reddit.com/r/emacs/comments/w4gxoa/what_are_some_musthave_packages_for_emacs/][What are some must-have packages for emacs? : emacs]]
 ** Writing
+- 2022-11-07 ◦ [[https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/][blakewatson.com – Almost monospaced: the perfect fonts for writing]]
 - 2022-09-20 ◦ [[https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/][Creative writing with Emacs – Jacmoe's Cyber Soapbox]]

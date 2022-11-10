@@ -29,3 +29,6 @@
 - [[id:ef58fefe-68ae-4e56-8996-202139c6d27d][Role of the Software Architect]]
 * Additional literature
 - [[https://www.goodreads.com/book/show/296981.Object_Oriented_Software_Engineering][Object-Oriented Software Engineering by Ivar Jacobson]]
+* Resource
+- 2022-11-07 ◦ [[https://github.com/mehdihadeli/awesome-software-architecture][GitHub - mehdihadeli/awesome-software-architecture: A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.]]
+- 2022-11-07 [[https://speakerdeck.com/ufried/road-movie-architectures][Road Movie Architecture]]
