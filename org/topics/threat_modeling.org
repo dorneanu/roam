@@ -8,4 +8,5 @@
 #+title: Threat Modeling
 #+type: text/vnd.tiddlywiki
 
-
+* Resources
+- 2022-11-10 ◦ [[https://github.com/TalEliyahu/Threat_Model_Examples][GitHub - TalEliyahu/Threat_Model_Examples: Collection of Threat Models]]

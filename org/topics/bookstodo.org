@@ -33,7 +33,6 @@
 - [[https://www.goodreads.com/book/show/74183.Gantenbein][Gantenbein von Max Frisch]]
 - [[https://www.goodreads.com/en/book/show/48930275][How I Built This: The Unexpected Paths to Success from the World's Most Inspiring Entrepreneurs]]
 - [[https://www.goodreads.com/book/show/35839667-done][Done: The Secret Deals that are Changing Our World]]
-- [[https://www.goodreads.com/book/show/48890486-breath][Breath: The New Science of a Lost Art]]
 - [[https://www.goodreads.com/book/show/12158480-why-nations-fail][Why Nations Fail: The Origins of Power, Prosperity, and Poverty]]
   - pe Romana (De ce esueaza natiunile)
 - [[https://www.goodreads.com/book/show/7721946-building-social-business][Building Social Business: The New Kind of Capitalism That Serves Humanity's Most Pressing Needs]]
@@ -51,7 +50,6 @@
 - [[https://www.goodreads.com/book/show/22107280-blueprint-for-revolution][Blueprint for Revolution, Popovic]]
 - [[https://dataintensive.net/][Designing Data-Intensive Applications]]
 - [[https://abseil.io/resources/swe-book][Software Engineering at Google]]
-- [[https://www.goodreads.com/book/show/12715691-the-spinoza-problem][The Spinoza Problem]]
 - [[https://www.goodreads.com/book/show/18770267-make-it-stick][Make it sick]]
 - [[https://www.goodreads.com/book/show/76865.Good_to_Great][Good to great]]
 - [[https://www.goodreads.com/book/show/24612127-reclaiming-conversation][Reclaiming conversations]]
