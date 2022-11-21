@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       49894e56-ac1e-4e2a-ba3e-e5d022540a9d
+:END:
+#+TITLE: 2022-11-15
+#+DATE: 2022-11-15
+#+FILETAGS: journal
+
+- 2022-11-15 ◦ [[https://tim.blog/2022/10/07/brian-armstrong/][Brian Armstrong, CEO of Coinbase — The Art of Relentless Focus, Preparing for Full-Contact Entrepreneurship, Critical Forks in the Path, Handling Haters, The Wisdom of Paul Graham, Epigenetic Reprogramming, and Much More (#627) - The Blog of Author Tim Ferriss]]
+  #+begin_quote
+  The greatest risk is not taking one -- Brian Armstrong
+  #+end_quote
+  - [[https://medium.com/feed/@barmstrong][blog of brian armstrong]]
+  - [[https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_][Surely, You're joking by Richard Feynman]]
+  - [[http://www.paulgraham.com/articles.html][Paul Grahams essays]]

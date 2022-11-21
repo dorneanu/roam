@@ -61,3 +61,4 @@
 - 2022-09-12 ◦ [[https://itrevolution.com/the-unicorn-project/][The Unicorn Project | by Gene Kim (author of The Phoenix Project)]]
 - 2022-09-12 ◦ [[https://hookpoint.com/the-book/][The Book | HOOKPOINT]]
 - 2022-11-03 ◦ [[https://www.goodreads.com/book/show/36613747-how-to-change-your-mind][How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence by Michael Pollan]]
+- 2022-11-21 ◦ [[https://www.goodreads.com/book/show/56155261-exercised][Exercised: The Science of Physical Activity, Rest and Health by Daniel E. Lieberman]]

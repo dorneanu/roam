@@ -28,6 +28,8 @@
 - 2022-08-22 ◦ [[https://github.com/ThrillQuks/Pitraix][GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR]]
 *** Design Patterns
 - 2022-09-05 ◦ [[https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5][GoF Design patterns that still make sense in Go]]
+*** Learning
+- 2022-11-16 ◦ [[https://github.com/mauricioabreu/golings/][github.com/mauricioabreu/golings: rustlings but for golang this time]]
 *** Malware
 - 2022-11-01 ◦ [[https://changelog.com/gotime/251][Hacking with Go: Part 2 with Ivan Kwiatkowski (Go Time #251)]]
 - 2022-10-06 ◦ [[https://www.youtube.com/watch?v=rcsWz-gT0sI][GopherCon Europe 2021: Joakim Kennedy - The Dark Side of Go: A 2020 Go Malware Round Up]]
@@ -77,5 +79,7 @@
 - 2022-10-04 ◦ [[https://blog.gendocu.com/posts/grpc-on-google-cloud/][gRPC and gRPC Web on Google Cloud Run (serverless) - GenDocu Blog]]
 *** Security
 - 2022-10-04 ◦ [[https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo][Simple JWT Authentication for Golang (Part 1)]] ([[id:8b4bec8f-ec46-4edf-b236-2d295089f94d][JWT]])
+*** SSH
+- 2022-11-21 ◦ [[https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/][SSH port forwarding with Go - Eli Bendersky's website]]
 *** Success stories
 - 2022-10-19 ◦ [[https://www.reddit.com/r/golang/comments/y6hg08/have_you_moved_from_java_to_go_or_another_popular/][Have you moved from Java to Go (or another popular language)]]

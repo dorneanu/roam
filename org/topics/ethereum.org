@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       450697de-6496-41b6-9c3c-2dba6c42c429
+:END:
 #+color: #94ec4b
 #+created: 20210518200145451
 #+modified: 20210611071832403
@@ -6,4 +9,6 @@
 #+title: Ethereum
 #+type: text/vnd.tiddlywiki
 
-
+* Wallet
+** HDWallet
+** ERC20

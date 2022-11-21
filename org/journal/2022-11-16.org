@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ca646636-771b-458e-98b9-139ba7d54fba
+:END:
+#+TITLE: 2022-11-16
+#+DATE: 2022-11-16
+#+FILETAGS: journal
+
+- 2022-11-16 ◦ [[https://drew-sec.github.io/][Phishing with Google Calendar]]

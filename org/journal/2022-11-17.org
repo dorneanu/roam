@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2774f402-0c83-4e34-86d8-e187ea9c8beb
+:END:
+#+TITLE: 2022-11-17
+#+DATE: 2022-11-17
+#+FILETAGS: journal
+
+- 2022-11-17 ◦ [[https://www.infoq.com/podcasts/managing-tech-debt/][Managing Tech Debt with Glenn Engstrand]]
+  - [[https://www.youtube.com/watch?v=szPO4cE_O6U&ab_channel=InfoQ][Managing tech debt in a Microservice architecture]] (video, [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]])

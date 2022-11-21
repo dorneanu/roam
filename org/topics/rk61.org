@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       49bbb782-7e8b-4c68-9b13-e011190119d5
+:END:
+#+title: RK61
+
+* Resources
+- 2022-11-15 ◦ [[https://ts-cubed.github.io/roam/20210525184028-keyboard_mapping.html#orgf4c6895][Keyboard Mapping]]
+- 2022-11-15 ◦ [[https://github.com/elifoglu/rk61][GitHub - elifoglu/rk61: Customizations for Royal Kludge RK61 keyboard]]
+- 2022-11-15 ◦ [[https://github.com/fazreil/RK61-cheatsheet][GitHub - fazreil/RK61-cheatsheet: Cheat Sheet for RK61]]
+- 2022-11-15 ◦ [[https://betterprogramming.pub/a-60-keyboard-is-good-for-you-a7d65194f0ce][Why a 60% keyboard is good for you]]
