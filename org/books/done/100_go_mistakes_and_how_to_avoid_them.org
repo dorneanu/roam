@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       76028904-9a38-4aad-ad9c-9f4f990e92b3
+:END:
+#+title: 100 Go Mistakes and how to avoid them
+#+filetags: book, todo, golang
+
+- 2022-11-25 ◦ [[https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them][100 Go Mistakes and How to Avoid Them]]

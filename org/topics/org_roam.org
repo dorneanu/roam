@@ -3,6 +3,8 @@
 :END:
 #+title: org-roam
 #+filetags: :org:
+* Capturing
+- 2022-11-22 ◦ [[https://gist.github.com/nickanderson/00005b5b03e323a65ada98c5fa5ebb11][An example workflow with Org-roam https://www.reddit.com/r/emacs/comments/ysfcmx/comment/iw3cl4u · GitHub]]
 * Functions
 - Create ID for current buffer: ~org-id-get-create~
 * Articles

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       2038de0f-9e30-40b8-b065-4658ac26a6a4
+:END:
+#+TITLE: 2022-11-28
+#+DATE: 2022-11-28
+#+FILETAGS: journal
+
+- 2022-11-28 ◦ [[https://changelog.com/podcast/222][Ethereum and Cryptocurrency with Gavin Wood (The Changelog #222) |> Changelog]] ([[id:450697de-6496-41b6-9c3c-2dba6c42c429][Ethereum]])
+- 2022-11-28 ◦ [[https://www.redhat.com/architect/top-15-architect-articles-2022][Top 15 articles enterprise architects are thankful for in 2022 | Enable Architect]]
+  - 2022-11-28 ◦ [[https://www.redhat.com/architect/12-factor-app][An illustrated guide to 12 Factor Apps | Enable Architect]]
+  - 2022-11-28 ◦ [[https://www.redhat.com/architect/5-essential-patterns-software-architecture][5 essential patterns of software architecture | Enable Architect]]
+  - 2022-11-28 ◦ [[https://www.redhat.com/architect/14-software-architecture-patterns][14 software architecture design patterns to know | Enable Architect]]
+  - 2022-11-28 ◦ [[https://www.redhat.com/architect/what-is-software-architect][Software architects: 12 hard and soft skills needed to become a leader | Enable Architect]]
