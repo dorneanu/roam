@@ -98,6 +98,8 @@ When you are collecting text using append-to-register and prepend-to-register, y
 - 2022-09-01 ◦ [[https://github.com/edkolev/evil-goggles][GitHub - edkolev/evil-goggles: Display visual hint on evil edit operations]]
 ** Emojis
 - 2022-10-25 ◦ [[https://ianyepan.github.io/posts/emacs-emojis/][Native Emojis in Emacs | Ian Y.E. Pan]]
+** GTD
+- 2022-12-01 ◦ [[https://members.optusnet.com.au/~charles57/GTD/gtd_workflow.html][How I use Emacs and Org-mode to implement GTD]]
 ** Collection of awesome packages
 - 2022-09-01 ◦ [[https://github.com/emacs-tw/awesome-emacs][GitHub - emacs-tw/awesome-emacs: A community driven list of useful Emacs packages, libraries and other items.]]
 - 2022-09-01 ◦ [[https://emacs.zeef.com/ehartc][Emacs by Ernst de Hart (ehartc) | ZEEF]]
@@ -106,3 +108,5 @@ When you are collecting text using append-to-register and prepend-to-register, y
 ** Writing
 - 2022-11-07 ◦ [[https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/][blakewatson.com – Almost monospaced: the perfect fonts for writing]]
 - 2022-09-20 ◦ [[https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/][Creative writing with Emacs – Jacmoe's Cyber Soapbox]]
+** UI
+- 2022-12-05 ◦ [[https://codeberg.org/gopiandcode/emacs-viewer][gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org]]

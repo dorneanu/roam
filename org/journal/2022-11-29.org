@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3e1754c3-9825-4a57-a36a-066cb4096232
+:END:
+#+TITLE: 2022-11-29
+#+DATE: 2022-11-29
+#+FILETAGS: journal
+
+- 2022-11-29 ◦ [[https://codeit.us/blog/benefits-of-microservices][Benefits of Microservices, Statistics, and Real-World Examples - CodeIT]] ([[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]])
+- 2022-11-29 ◦ [[https://dev.to/nimbusenv/guide-to-aws-web-application-architecture-7ml][Guide to AWS Web Application Architecture]] ([[id:be5bebfe-5df9-4db2-af87-7e80e11723c7][AWS]])
+- 2022-11-29 ◦ [[https://lcamtuf.coredump.cx/photo_basics/][Photography for geeks]]
+- 2022-11-29 ◦ [[https://scalesec.com/blog/why-your-yubikey-wont-work-with-aws-cli/][Cloud. Security. Compliance. Automation | ScaleSec]]
+ - how to use AWS CLI and Yubikey
