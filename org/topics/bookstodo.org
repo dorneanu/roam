@@ -64,3 +64,4 @@
 - 2022-11-21 ◦ [[https://www.goodreads.com/book/show/56155261-exercised][Exercised: The Science of Physical Activity, Rest and Health by Daniel E. Lieberman]]
 - 2022-11-29 ◦ [[https://www.goodreads.com/book/show/60568520-the-future-is-analog][The Future Is Analog: How to Create a More Human World by David Sax]]
 - 2022-11-29 ◦ [[https://www.goodreads.com/en/book/show/60018575-discipline-is-destiny][Discipline Is Destiny: The Power of Self-Control by Ryan Holiday]]
+- 2022-12-08 ◦ [[https://www.goodreads.com/book/show/55853540-nu-tot-ei][Nu tot ei! : România în ghearele imposturii by Valeriu Nicolae]]
