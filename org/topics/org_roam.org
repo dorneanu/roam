@@ -14,4 +14,5 @@
 - 2022-08-30 ◦ [[https://www.eigenbahn.com/2021/09/15/org-roam][Graphing my External Brain with Org-Roam | Eigenbahn blog]]
 - 2022-08-22 ◦ [[https://systemcrafters.net/build-a-second-brain-in-emacs/5-org-roam-hacks/][5 Org Roam Hacks for Better Productivity in Emacs - System Crafters]]
 * Examples
+- 2022-12-12 ◦ [[https://github.com/bphenriques/knowledge-base][github.com/bphenriques/knowledge-base: Personal Wiki]]
 - 2022-08-30 ◦ [[https://notes.alexkehayias.com/][Alex's Notes]]

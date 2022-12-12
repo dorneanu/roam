@@ -36,3 +36,9 @@ draft = false
 ## Additional literature {#additional-literature}
 
 -   [Object-Oriented Software Engineering by Ivar Jacobson](https://www.goodreads.com/book/show/296981.Object_Oriented_Software_Engineering)
+
+
+## Resource {#resource}
+
+-   2022-11-07 ◦ [GitHub - mehdihadeli/awesome-software-architecture: A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.](https://github.com/mehdihadeli/awesome-software-architecture)
+-   2022-11-07 [Road Movie Architecture](https://speakerdeck.com/ufried/road-movie-architectures)

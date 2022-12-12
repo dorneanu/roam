@@ -113,6 +113,10 @@ Also check:
 
 ### Articles {#articles}
 
+-   2022-10-26 ◦ [NestedStack — AWS Cloud Development Kit 2.47.0 documentation](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk/NestedStack.html)
+-   2022-10-26 ◦ [GitHub - bobbyhadz/aws-cdk-nested-stack](https://github.com/bobbyhadz/aws-cdk-nested-stack)
+    -   how to provision nested stacks using AWS CDK
+-   2022-10-26 ◦ [How I prefer to organize my AWS CDK and NestedStack code](https://medium.com/devops-techable/how-i-prefer-to-organize-my-aws-cdk-stack-and-nestedstack-code-infrastructure-as-code-iac-3d4e3c519949)
 -   2022-09-06 ◦ [Linux EC2 Bastion Host with AWS CDK](https://dev.to/airmonitor/linux-ec2-bastion-host-with-aws-cdk-55ie)
     -   initialize EC2 bastion hosts by specific sets of commands
     -   create Route53 record for bastion host

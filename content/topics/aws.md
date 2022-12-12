@@ -14,7 +14,7 @@ Amazon Web Services
 ## SNS {#sns}
 
 -   2022-10-10 ◦ [Messaging: Einrichtung Publish/Subscribe mit AWS SQS und AWS SNS](https://lion5.io/blog/aws-sqs-sns-publish-subscribe/)
-    Use docker to create
+    Use docker to create [SQS](#sqs) queue and subscribe it to SNS.
 
 
 ## SQS {#sqs}

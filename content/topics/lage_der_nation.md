@@ -29,3 +29,8 @@ Jede(r) hat schon Mal die Erfahrung gemacht wie langsam die deutschen Behörden 
     -   (eigener Kommentar) wenn der Staat tatsächlich wirtschaftlich handeln würde, dann hätte man auch deutschlandweit Standards und einheitliche Regelungen
         -   dass der Staat nicht "kommerzielle Absichten verfolgen soll" verstehe ich nicht so ganz
         -   ob die Behörden funktionieren und in welcher Geschwindigkeit Aufträge erledigt werden, kostet auch
+
+
+### Resources {#resources}
+
+-   2022-12-01 ◦ [Estonia saved its citizens 820 years by moving public services online](https://www.karlsnotes.com/estonia-saved-its-citizens-820-years-by-moving-public-services-online/)

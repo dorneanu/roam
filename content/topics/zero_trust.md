@@ -5,6 +5,7 @@ draft = false
 
 ## Articles {#articles}
 
+-   2022-12-06 ◦ [Zero-trust architecture: Why trusting no one is a smart way to protect your IT infrastructure | Enable Architect](https://www.redhat.com/architect/zero-trust-architecture)
 -   2022-09-21 ◦ [Zero-trust security: What architects need to know | Enable Architect](https://www.redhat.com/architect/what-is-zero-trust)
 -   2022-09-28 ◦ [From Zero to One Hundred - ACM Queue](https://queue.acm.org/detail.cfm?id=3561799)
     -   also found [here](https://www.reddit.com/r/netsec/comments/xn53z7/zero_trust_from_zero_to_one_hundred/)

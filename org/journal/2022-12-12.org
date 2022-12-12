@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       497691f8-19d1-4eee-95af-79f65c1288c7
+:END:
+#+TITLE: 2022-12-12
+#+DATE: 2022-12-12
+#+FILETAGS: journal
+
+- 2022-12-12 ◦ [[https://www.reddit.com/r/emacs/comments/xb6qdm/super_fast_emacs_start_up/][Super fast Emacs start up : emacs]]

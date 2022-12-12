@@ -4,6 +4,11 @@ tags = ["org"]
 draft = false
 +++
 
+## Capturing {#capturing}
+
+-   2022-11-22 ◦ [An example workflow with Org-roam https://www.reddit.com/r/emacs/comments/ysfcmx/comment/iw3cl4u · GitHub](https://gist.github.com/nickanderson/00005b5b03e323a65ada98c5fa5ebb11)
+
+
 ## Functions {#functions}
 
 -   Create ID for current buffer: `org-id-get-create`
@@ -20,4 +25,5 @@ draft = false
 
 ## Examples {#examples}
 
+-   2022-12-12 ◦ [github.com/bphenriques/knowledge-base: Personal Wiki](https://github.com/bphenriques/knowledge-base)
 -   2022-08-30 ◦ [Alex's Notes](https://notes.alexkehayias.com/)

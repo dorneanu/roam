@@ -7,7 +7,6 @@ draft = false
 
 -   2022-10-24 ◦ [A workflow for reading, managing and discovering ML research papers with Emacs | Koustuv Sinha](https://koustuvsinha.com/post/emacs_research_workflow/)
 -   2022-10-24 ◦ [Add org-store-link Entry for elfeed - Yiming Chen](https://yiming.dev/blog/2016/01/28/add-org-store-link-entry-for-elfeed/)
-
     ```emacs-lisp
       ;; ---------------------
       ;; org capture in elfeed
@@ -24,7 +23,6 @@ draft = false
       (add-hook 'org-store-link-functions
                 'private/org-elfeed-entry-store-link)
     ```
-
     <div class="src-block-caption">
       <span class="src-block-number">Code Snippet 1:</span>
       <a href="https://yiming.dev/blog/2016/01/28/add-org-store-link-entry-for-elfeed/">https://yiming.dev/blog/2016/01/28/add-org-store-link-entry-for-elfeed/</a>
@@ -50,7 +48,6 @@ draft = false
      (x-set-selection 'PRIMARY titlelink)
      (message "Yanked: %s" titlelink)))
 ```
-
 <div class="src-block-caption">
   <span class="src-block-number">Code Snippet 2:</span>
   Source: <a href="http://heikkil.github.io/blog/2015/05/09/notes-from-elfeed-entries/">http://heikkil.github.io/blog/2015/05/09/notes-from-elfeed-entries/</a>
@@ -71,9 +68,8 @@ draft = false
        ""
        (elfeed-feed-url (elfeed-entry-feed entry)))))))
 ```
-
 <div class="src-block-caption">
-  <span class="src-block-number">Code Snippet 3:</span>
+  <span class="src-block-number">Code Snippet 1:</span>
   Source: <a href="https://sqrtminusone.xyz/posts/2021-09-07-emms/">https://sqrtminusone.xyz/posts/2021-09-07-emms/</a>
 </div>
 
@@ -119,6 +115,9 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 ### Configuration {#configuration}
 
+-   2022-11-14 ◦ [GitHub - caisah/emacs.dz: Awesome emacs config files](https://github.com/caisah/emacs.dz)
+-   2022-10-26 ◦ [Doom Emacs Configuration](https://abdelhakbougouffa.pro/posts/config/)
+-   2022-10-25 ◦ [极简Emacs开发环境配置](https://huadeyu.tech/tools/emacs-setup-notes.html)
 -   2022-10-18 ◦ [A Life Configuring Emacs](https://alhassy.github.io/emacs.d/)
 
 
@@ -132,6 +131,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
 -   2022-10-25 ◦ [Native Emojis in Emacs | Ian Y.E. Pan](https://ianyepan.github.io/posts/emacs-emojis/)
 
 
+### GTD {#gtd}
+
+-   2022-12-01 ◦ [How I use Emacs and Org-mode to implement GTD](https://members.optusnet.com.au/~charles57/GTD/gtd_workflow.html)
+
+
 ### Collection of awesome packages {#collection-of-awesome-packages}
 
 -   2022-09-01 ◦ [GitHub - emacs-tw/awesome-emacs: A community driven list of useful Emacs packages, libraries and other items.](https://github.com/emacs-tw/awesome-emacs)
@@ -142,4 +146,16 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 ### Writing {#writing}
 
+-   2022-11-07 ◦ [blakewatson.com – Almost monospaced: the perfect fonts for writing](https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/)
 -   2022-09-20 ◦ [Creative writing with Emacs – Jacmoe's Cyber Soapbox](https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/)
+
+
+### org-babel {#org-babel}
+
+-   2022-12-06 ◦ [github.com/dfeich/org-babel-examples](https://github.com/dfeich/org-babel-examples)
+    -   Examples using emacs org mode babel inline source code with different backend languages
+
+
+### UI {#ui}
+
+-   2022-12-05 ◦ [gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org](https://codeberg.org/gopiandcode/emacs-viewer)

@@ -92,4 +92,5 @@ SLA: 99.9% availability
 
 ## Resources {#resources}
 
+-   2022-11-10 ◦ [Securing S3 uploads and downloads with Origin Access Control](https://dev.to/aws-builders/securing-s3-uploads-and-downloads-with-origin-access-control-3fl0)
 -   <https://blog.mindedsecurity.com/2018/09/a-practical-guide-to-testing-security.html>

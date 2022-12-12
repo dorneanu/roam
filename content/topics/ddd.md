@@ -54,3 +54,10 @@ draft = false
     -   technology
     -   organizational
         -   Layering Inside vs Layering Outside
+
+
+## Resources {#resources}
+
+-   2022-12-01 ◦ [Michael Plöd (@mploed) on Speaker Deck](https://speakerdeck.com/mploed)
+    -   [Hands-on Domain-driven Design - by Example](https://leanpub.com/ddd-by-example) (on leanpub)
+    -   writes about DDD in general

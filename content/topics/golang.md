@@ -40,8 +40,14 @@ draft = false
 -   2022-09-05 ◦ [GoF Design patterns that still make sense in Go](https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5)
 
 
+#### Learning {#learning}
+
+-   2022-11-16 ◦ [github.com/mauricioabreu/golings: rustlings but for golang this time](https://github.com/mauricioabreu/golings/)
+
+
 #### Malware {#malware}
 
+-   2022-11-01 ◦ [Hacking with Go: Part 2 with Ivan Kwiatkowski (Go Time #251)](https://changelog.com/gotime/251)
 -   2022-10-06 ◦ [GopherCon Europe 2021: Joakim Kennedy - The Dark Side of Go: A 2020 Go Malware Round Up](https://www.youtube.com/watch?v=rcsWz-gT0sI)
 
     > -   Government based
@@ -103,6 +109,11 @@ draft = false
 #### Security {#security}
 
 -   2022-10-04 ◦ [Simple JWT Authentication for Golang (Part 1)](https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo) ([JWT]({{< relref "jwt.md" >}}))
+
+
+#### SSH {#ssh}
+
+-   2022-11-21 ◦ [SSH port forwarding with Go - Eli Bendersky's website](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
 
 
 #### Success stories {#success-stories}
