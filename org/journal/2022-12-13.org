@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2b362d66-2222-4363-be23-a67078a0e0db
+:END:
+#+TITLE: 2022-12-13
+#+DATE: 2022-12-13
+#+FILETAGS: journal
+
+- 2022-12-13 ◦ [[https://tex.stackexchange.com/questions/3695/smileys-in-latex][packages - Smileys in LaTeX - TeX - LaTeX Stack Exchange]]
+- 2022-12-13 ◦ [[https://twitter.com/AvidHalaby/status/1602127460677844993][On Twitters whistleblower disclosure]]
+- 2022-12-13 ◦ [[https://news.ycombinator.com/item?id=33954547][Tell HN: Your Android carrier can remotely turn settings on | Hacker News]]

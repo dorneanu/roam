@@ -4,6 +4,7 @@
 #+title: rss
 
 * Resources
+- 2022-12-14 ◦ [[https://tfos.co/p/rebuild-social-media/][How to rebuild social media on top of RSS]]
 - 2022-11-21 ◦ [[https://github.com/jafarlihi/rssnix][github.com/jafarlihi/rssnix: Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader]]
 - 2022-10-04 ◦ [[https://www.fivefilters.org/2021/twitter-rss/][Twitter RSS]]
 - 2022-09-19 ◦ [[https://datorss.com/][dato.rss - RSS search engine]]

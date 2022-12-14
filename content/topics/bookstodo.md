@@ -63,3 +63,5 @@ draft = false
 -   2022-11-29 ◦ [The Future Is Analog: How to Create a More Human World by David Sax](https://www.goodreads.com/book/show/60568520-the-future-is-analog)
 -   2022-11-29 ◦ [Discipline Is Destiny: The Power of Self-Control by Ryan Holiday](https://www.goodreads.com/en/book/show/60018575-discipline-is-destiny)
 -   2022-12-08 ◦ [Nu tot ei! : România în ghearele imposturii by Valeriu Nicolae](https://www.goodreads.com/book/show/55853540-nu-tot-ei)
+-   2022-12-14 ◦ [Imagine If . . .: A Manifesto on the Creative Revolution in Education and Beyond by Ken Sir Robinson](https://www.goodreads.com/en/book/show/58536094-imagine-if)
+-   2022-12-14 ◦ [Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions)
