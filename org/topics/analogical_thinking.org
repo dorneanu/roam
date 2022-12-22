@@ -7,3 +7,4 @@
 #+title: Analogical thinking
 #+type: text/vnd.tiddlywiki
 
+TBD

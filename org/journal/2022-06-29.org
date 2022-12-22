@@ -10,4 +10,4 @@
 #+type: text/vnd.tiddlywiki
 
 - [[https://blog.christophetd.fr/abusing-cloudflare-workers/][How to abuse Cloudflare workers]]
-- [[https://news.ycombinator.com/item?id=31907374][I DDoSed myself using #cloudfront and #lambda edge and got a 4.5k bill]] ([[#AWS%2FLambda][AWS/Lambda]])
+- [[https://news.ycombinator.com/item?id=31907374][I DDoSed myself using #cloudfront and #lambda edge and got a 4.5k bill]] ([[#AWS%2FLambda][AWS/Lambda]]) ([[id:91f33643-b126-4383-9ffb-af8c379a28d9][HackerNews]])

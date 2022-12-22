@@ -24,6 +24,8 @@
 - 2022-08-16 ◦ [[https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2][Service Discovery with Go and mDNS]]
 *** Architecture
 - 2022-10-04 ◦ [[https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/][Auto-generated C4 Architecture Diagrams in Go]] ([[id:ecaa327d-ead3-4e0c-80e4-af9343f68e66][PlantUML]])
+*** Error handling
+- 2022-12-22 ◦ [[https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/][New in Go 1.20: wrapping multiple errors]]
 *** Botnets
 - 2022-08-22 ◦ [[https://github.com/ThrillQuks/Pitraix][GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR]]
 *** Design Patterns

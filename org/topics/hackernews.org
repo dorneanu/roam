@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       91f33643-b126-4383-9ffb-af8c379a28d9
+:END:
+#+title: HackerNews
+
+* in-official mirrors
+- [[http://hckrnews.com]]
+- [[http://www.fullhn.com]]
+- everything on 1 page
+  - [[https://www.hakaran.com/]]
+* Search engines
+- [[http://hnapp.com]]
+- [[http://hnpaper.forge.partlab.io]]
+* Aggregated News
+- [[http://serializer.io]]
+- [[https://www.daemonology.net/hn-daily/]]
+- [[https://hckrnews.com/]]
+* Readings
+- https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0
+  - [[/books][books recommendations]]

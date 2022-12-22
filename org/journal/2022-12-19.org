@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       1b9d3b0e-49a4-4153-a2cc-bce059e76019
+:END:
+#+TITLE: 2022-12-19
+#+DATE: 2022-12-19
+#+FILETAGS: journal
+
+- 2022-12-19 ◦ [[https://www.redhat.com/architect/containers-books][5 great books about containers for busy architects | Enable Architect]]
+  - Podman in Action
+  - Podman for DevOps
+  - Full Stack Quarkus and React
+  - Container Security
+  - OpenShift for Developers

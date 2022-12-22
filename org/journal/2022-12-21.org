@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f316ebdd-49f8-4f27-bf1b-acb8f6f87aab
+:END:
+#+TITLE: 2022-12-21
+#+DATE: 2022-12-21
+#+FILETAGS: journal
+
+- 2022-12-21 ◦ [[https://news.ycombinator.com/item?id=34069106][Ask HN: Programs that saved you 100 hours? (2022 edition) | Hacker News]]

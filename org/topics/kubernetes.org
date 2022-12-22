@@ -7,7 +7,15 @@
 - 2022-11-14 ◦ [[https://github.com/javiramos1/CKAD-exercises][GitHub - javiramos1/CKAD-exercises: A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation]]
 - 2022-10-06 ◦ [[https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF][Kubernetes Hardening Guidance]]
 - 2022-09-30 ◦ [[https://dev.to/castai/kubernetes-security-10-best-practices-from-the-industry-and-community-1bp6][Kubernetes Security: 10 Best Practices from the Industry and Community]]
+** Benefits
+- 2022-12-20 ◦ [[https://www.ibm.com/cloud/blog/top-7-benefits-of-kubernetes][Top 7 Benefits of Kubernetes | IBM]]
+  #+begin_quote
+  In fact, Kubernetes is the fastest growing project in the history of open-source software, after Linux. According to a 2021 study by the Cloud Native Computing Foundation (CNCF), from 2020 to 2021, the number of Kubernetes engineers grew by 67% to 3.9 million. That’s 31% of all backend developers, an increase of 4 percentage points in a year.
+  #+end_quote
 ** Deployment
 - 2022-10-19 ◦ [[https://www.innoq.com/de/articles/2022/10/helm-und-helmfile/][Helm und Helmfile — Dynamisches Duo für automatisierte Kubernetes-Deployments]]
 ** Golang
 - 2022-10-24 ◦ [[https://dev.to/aksrao1998/dockerize-a-golang-http-server-and-deploy-it-on-kubernetes-592j][Dockerize a GoLang HTTP server and deploy it on Kubernetes]]
+** Security
+- 2022-12-20 ◦ [[https://snyk.io/blog/security-implications-of-kubernetes-operators/][Security implications of Kubernetes operators | Snyk]]
+- 2022-12-20 ◦ [[https://bridgecrew.io/blog/advantages-of-kubernetes-infrastructure-security/][Infrastructure security advantages of leveraging Kubernetes - Bridgecrew Blog]]

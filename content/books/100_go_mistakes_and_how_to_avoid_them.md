@@ -1,6 +1,7 @@
 +++
 title = "100 Go Mistakes and how to avoid them"
-tags = ["book,", "todo,", "golang"]
+date = 2022-11-01
+tags = ["book", "todo", "golang"]
 draft = false
 +++
 

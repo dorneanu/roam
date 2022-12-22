@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4ffeeec7-52f7-454b-9785-5fc5a7683e2b
+:END:
 #+created: 20200913181719595
 #+modified: 20210518184428843
 #+origin: [[<<. bibliography "How not to die" "How not to die">>]]
@@ -7,5 +10,8 @@
 #+tmap.id: a82f34bf-67dc-473f-a13a-85f4f87be0d0
 #+type: text/vnd.tiddlywiki
 
+
 - also known as ubiquinol
-- is an [[#Antioxidants][antioxidant]]
+- is an [[id:cdd45bc1-438b-43e1-9f69-e10bf519f7be][Antioxidants]]
+* Origin
+- [[id:05d009e7-9902-4047-8632-1590841db8ba][How not to die]]

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       2c55f618-cfb9-45d5-bfe8-ac05c582e231
+:END:
+#+TITLE: 2022-12-20
+#+DATE: 2022-12-20
+#+FILETAGS: journal
+
+- 2022-12-20 ◦ [[https://aws.github.io/aws-eks-best-practices/security/docs/multitenancy/][Multi-tenancy - EKS Best Practices Guides]]
+  #+begin_quote
+  Namespaces and Role-based access controls (RBAC) can be implemented to logically isolate tenants from each other.
+  #+end_quote
+  #+begin_quote
+  an attacker that manages to gain access to a host within the cluster can retrieve *all* Secrets, ConfigMaps, and Volumes, mounted on that host
+  #+end_quote
+  #+begin_quote
+  With soft multi-tenancy, you use native Kubernetes constructs, e.g. namespaces, roles and role bindings, and network policies, to create logical separation between tenants
+  #+end_quote
+  #+begin_quote
+  Namespaces are fundamental to implementing soft multi-tenancy. They allow you to divide the cluster into logical partitions. Quotas, network policies, service accounts, and other objects needed to implement multi-tenancy are scoped to a namespace.
+  #+end_quote
+- 2022-12-20 ◦ [[https://news.ycombinator.com/item?id=34056715][Ask HN: What is the best podcast you listened to in 2022? | Hacker News]] ([[id:91f33643-b126-4383-9ffb-af8c379a28d9][HackerNews]])
+- 2022-12-20 ◦ [[https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability-0][Google & Apache Found Vulnerable to GitHub Environment Injection]]
+- 2022-12-20 ◦ [[https://news.ycombinator.com/item?id=34055123][Ask HN: What is the best thing you read in 2022? | Hacker News]] ([[id:91f33643-b126-4383-9ffb-af8c379a28d9][HackerNews]])
+- 2022-12-20 ◦ [[https://literal.club/][Literal.club | Track your reading and discover new books]]
+  - successor of goodreads?

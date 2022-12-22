@@ -1,4 +1,0 @@
-+++
-title = "Anmerkungen"
-draft = false
-+++
