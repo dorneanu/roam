@@ -3,33 +3,33 @@
 {{ $backlinks := slice }}
 
 {{ range where site.RegularPages "RelPermalink" "ne" .page.RelPermalink }}
-    {{ if (findRE $re .RawContent 1) }}
-        {{ $backlinks = $backlinks | append . }}
-    {{ end }}
+	{{ if (findRE $re .RawContent 1) }}
+		{{ $backlinks = $backlinks | append . }}
+	{{ end }}
 {{ end }}
 
 <hr>
 {{ if gt (len $backlinks) 0 }}
-<div class="bl-section">
-    <h3>Links to this note</h3>
-    <div class="backlinks">
-        <ul>
-            {{ range $backlinks }}
-                {{ $matches := findRE $content_re .RawContent}}
-                    <li class="lh-copy"><a class="link f5" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-                    {{ if $matches }}
-                        <blockquote>
-                            {{ range $matches }}
-                            {{ . | markdownify }}
-                            {{ end }}
-                        </blockquote>
-                {{ end }}
-            {{ end }}
-        </ul>
-    </div>
-</div>
+	<div class="bl-section">
+		<h3>Links to this note</h3>
+		<div class="backlinks">
+		<ul>
+		{{ range $backlinks }}
+			{{ $matches := findRE $content_re .RawContent}}
+			<li class="lh-copy"><a class="link f5" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+			{{ if $matches }}
+				<blockquote>
+					{{ range $backlink := $matches }}
+						{{ $.page.RenderString (dict "markup" "goldmark" "display" "inline") $backlink }}
+					{{ end }}
+				</blockquote>
+			{{ end }}
+		{{ end }}
+		</ul>
+		</div>
+	</div>
 {{ else }}
-<div class="bl-section">
-    <h4>No notes link to this note</h4>
-</div>
+	<div class="bl-section">
+		<h4>No notes link to this note</h4>
+	</div>
 {{ end }}

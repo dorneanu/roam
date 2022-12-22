@@ -1,43 +1,43 @@
 {{ define "main" }}
 <main class="center mv4 content-width ph3">
-    <h1 class="f2 fw6 heading-font">{{ .Title }}</h1>
-    <div class="post-content">
-    {{ .Content }}
+	<h1 class="f2 fw6 heading-font">{{ .Title }}</h1>
+	<div class="post-content">
+		{{ .Content }}
 
-    <!-- create a list with all uppercase letters -->
-    {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+		<!-- create a list with all uppercase letters -->
+		{{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
 
-    <!-- range all pages sorted by their title -->
-    {{ range .Data.Pages.ByTitle }}
-        <!-- get the first character of each title. Assumes that the title is never empty! -->
-        {{ $firstChar := substr .Title 0 1 | upper }}
+		<!-- range all pages sorted by their title -->
+		{{ range .Data.Pages.ByTitle }}
+		<!-- get the first character of each title. Assumes that the title is never empty! -->
+		{{ $firstChar := substr .Title 0 1 | upper }}
 
-        <!-- in case $firstChar is a letter -->
-        {{ if $firstChar | in $letters }}
+		<!-- in case $firstChar is a letter -->
+		{{ if $firstChar | in $letters }}
 
-            <!-- get the current letter -->
-            {{ $curLetter := $.Scratch.Get "curLetter" }}
+		<!-- get the current letter -->
+		{{ $curLetter := $.Scratch.Get "curLetter" }}
 
-            <!-- if $curLetter isn't set or the letter has changed -->
-            {{ if ne $firstChar $curLetter }}
-                <!-- update the current letter and print it -->
-                <!-- https://gohugohq.com/howto/hugo-create-first-letter-indexed-list/ -->
+		<!-- if $curLetter isn't set or the letter has changed -->
+		{{ if ne $firstChar $curLetter }}
+		<!-- update the current letter and print it -->
+		<!-- https://gohugohq.com/howto/hugo-create-first-letter-indexed-list/ -->
 
-                </ul>
-                {{ $.Scratch.Set "curLetter" $firstChar }}
-                <h1>{{ $firstChar }}</h2>
-                <ul class="list-pages">
-            {{ end }}
-                <li class="">
-                    <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
-                </li>
-        {{ end }}
-    {{ end }}
-    </div>
+		</ul>
+		{{ $.Scratch.Set "curLetter" $firstChar }}
+		<h1>{{ $firstChar }}</h2>
+			<ul class="list-pages">
+				{{ end }}
+				<li class="">
+					<a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+				</li>
+				{{ end }}
+				{{ end }}
+	</div>
 </main>
 {{ partial "table-of-contents" . }}
 
 <div class="pagination tc db fixed-l bottom-2-l right-2-l mb3 mb0-l">
-    {{ partial "back-to-top.html" . }}
+	{{ partial "back-to-top.html" . }}
 </div>
 {{ end }}
