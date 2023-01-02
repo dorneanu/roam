@@ -65,3 +65,6 @@ draft = false
 -   2022-12-08 ◦ [Nu tot ei! : România în ghearele imposturii by Valeriu Nicolae](https://www.goodreads.com/book/show/55853540-nu-tot-ei)
 -   2022-12-14 ◦ [Imagine If . . .: A Manifesto on the Creative Revolution in Education and Beyond by Ken Sir Robinson](https://www.goodreads.com/en/book/show/58536094-imagine-if)
 -   2022-12-14 ◦ [Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions)
+-   2023-01-02 ◦ [Why We Sleep: Unlocking the Power of Sleep and Dreams by Matthew Walker](https://www.goodreads.com/book/show/34466963-why-we-sleep)
+-   2023-01-02 ◦ [Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling by Matthew Dicks](https://www.goodreads.com/en/book/show/37786022-storyworthy)
+-   2023-01-02 ◦ [The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia](https://www.goodreads.com/en/book/show/56913172-the-minimalist-entrepreneur)

@@ -12,6 +12,8 @@
 - [[http://hnapp.com]]
 - [[http://hnpaper.forge.partlab.io]]
 * Aggregated News
+- 2023-01-02 ◦ [[https://handlr.sapico.me/][HandlR]]
+- 2023-01-02 ◦ [[https://www.distilhn.com/][DistilHN]]
 - [[http://serializer.io]]
 - [[https://www.daemonology.net/hn-daily/]]
 - [[https://hckrnews.com/]]

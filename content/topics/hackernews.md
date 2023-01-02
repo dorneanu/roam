@@ -19,6 +19,8 @@ draft = false
 
 ## Aggregated News {#aggregated-news}
 
+-   2023-01-02 ◦ [HandlR](https://handlr.sapico.me/)
+-   2023-01-02 ◦ [DistilHN](https://www.distilhn.com/)
 -   <http://serializer.io>
 -   <https://www.daemonology.net/hn-daily/>
 -   <https://hckrnews.com/>
