@@ -10,6 +10,7 @@
 
 * Resources
 ** General
+- 2023-01-04 ◦ [[https://owasp.org/www-community/OWASP_Risk_Rating_Methodology][OWASP Risk Rating Methodology | OWASP Foundation]]
 - 2022-12-13 ◦ [[https://owasp.org/www-community/Threat_Modeling_Process][Threat Modeling Process | OWASP Foundation]]
 - 2022-12-13 ◦ [[https://aws.amazon.com/blogs/security/how-to-approach-threat-modeling/][How to approach threat modeling | AWS Security Blog]]
 - 2022-11-30 ◦ [[https://www.youtube.com/watch?v=7jB5OS6mepU&ab_channel=DevSecCon-][THREAT MODELING IN 2021 with Adam Shostack]]

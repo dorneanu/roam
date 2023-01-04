@@ -8,6 +8,7 @@ draft = false
 
 ### General {#general}
 
+-   2023-01-04 ◦ [OWASP Risk Rating Methodology | OWASP Foundation](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology)
 -   2022-12-13 ◦ [Threat Modeling Process | OWASP Foundation](https://owasp.org/www-community/Threat_Modeling_Process)
 -   2022-12-13 ◦ [How to approach threat modeling | AWS Security Blog](https://aws.amazon.com/blogs/security/how-to-approach-threat-modeling/)
 -   2022-11-30 ◦ [THREAT MODELING IN 2021 with Adam Shostack](https://www.youtube.com/watch?v=7jB5OS6mepU&ab_channel=DevSecCon-)

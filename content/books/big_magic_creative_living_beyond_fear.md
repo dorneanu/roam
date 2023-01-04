@@ -6,3 +6,85 @@ draft = false
 +++
 
 -   <https://www.goodreads.com/book/show/24453082-big-magic>
+
+
+## About Big Magic {#about-big-magic}
+
+> The universe buries **strange jewels deep within us all**, and then stands back to see **if we can find them**. The hunt to uncover those jewels-that's creative living The courage to go on that hunt in the first place that's what separates a mundane existence from a more enchanted one. The often surprising results of that hunt-that's what I call Big Magic.
+
+
+## Fear and creativity {#fear-and-creativity}
+
+> I decided that I would need to build an expansive enough interior life that my fear and my creativity could peacefully coexist, since it appeared that they would always be together. In fact, it seems to me that my **fear and my creativity are basically conjoined** twins-as evidenced by the fact that creativity cannot take a single step forward fear marching right alongside it. Fear cre ativity shared a womb, they were born at the same time, and they still some vital organs. This is why we have to be careful of how we handle our fear-because I've noticed that when people try to **kill off their fear**, they often end up inadvertently **murdering their creativity** in the process.
+
+
+## Eudaimonia {#eudaimonia}
+
+-   highest degree of human happiness ("well daemoned")
+-   greeks and romans believed that _creativity_ was some sort of external daemon which lived in your house (as a house elf)
+-   romans had a special term for it: they called it **genius**
+    -   they didn't believe people _were_ a genius; they believed people _had_ a genius (inside them)
+    -   this way artists are taken away the burden of taking either full credit or full blame for the outcome of their work
+
+> In ancient Gek, the word for the highest **degree of human happiness is dammonia**, which basically means "**well daemoned**" that is, nicely taken care of by some external divine creative sarit guide (Modern commentators, perhaps uncomfort able with this sense of divine mystery, simply call it **"flow" "being in the zone."**)
+>
+> But the Greeks and the Romans both believed in the idea of an external daemon of creativity as a sort of house elf, if you will, who lived within the walls of your home and who sometimes aided you in your labors. **The Romans had a specific term** for that helpful house elf. They **called it your genius** your guardian deity, the conduit of your in spiration. Which is to say, the Romans didn't believe that an exceptionally gifted person was a genius; they believed that an **exceptionally gifted person had a genius**.
+>
+> It's a subtle but important distinction (being vs. having) and, I think, it's a wise psychological construct. The idea of an **external genius helps to keep the artist's ego in check**, distancing him somewhat from the burden of taking either full credit or full blame for the outcome of his work. If your work is successful, in other words, you are obliged to thank your external genius for the help, thus holding you back from total narcissism.
+
+
+## Perfectionism {#perfectionism}
+
+> **Perfectionism stops people from completing their work** yes but even worse, it often **stops people from beginning their work**, Perfectionists often decide in advance that the end product is never going to be satisfactory, so they **don't even bother trying to be creative** in the first place.
+>
+> The most **evil trick about perfectionism**, though, is that it **disguises itself as a virtue**. In job interviews, for instance, people will sometimes advertise their perfectionism as if it's their greatest selling point taking pride in the very thing that is holding them back from enjoying their fullest possible engagement with creative living. They **wear their perfectionism like a badge of honor**, as if it **signals high tastes and exquisite standards**.
+>
+> But I see it differently. I think perfectionism is **just a high end, haute couture version of fear**. I think perfectionism is just fear in fancy shoes and a mink coat, pretending to be elegant when actually it's just terrified. Because underneath that shiny veneer, **perfectionism is nothing more than a deep existential angst that says, again and again, "I am not good enough and I will never be good enough."**
+>
+> Perfectionism is a particularly evil lure for women, who, I believe, hold themselves to an even higher standard of performance than do men. There are many reasons why women's voices and visions are not more widely represented today in creative fields
+
+
+## Nature {#nature}
+
+> Nature provides the seed; man provides the garden; each is grateful for the other's help.
+
+
+## Martyr vs Trickster {#martyr-vs-trickster}
+
+> Trickster says: "Perhaps not... but it can be gamed." Martyr says: "Through my torment, the truth shall be revealed."
+>
+> Trickster says: "I didn't come here to suffer, pal."
+>
+> Martyr says: "Death before dishonor!"
+>
+> Trickster says: "Let's make a deal."
+>
+> Martyr always ends up dead in a heap of broken glory, while Trickster trots off to enjoy another day.
+>
+> Martyr Sir Thomas More.
+>
+> Trickster = Bugs Bunny.
+
+
+## Project as a baby {#project-as-a-baby}
+
+> **Your creative work is not your baby**, if anything, **you are its baby**. Everything I have ever written has brought me into being. Every project has matured me in a different way. I am who I am today precisely because of what I have made and what it has made me into. Creativity has hand-raised me and forged me into an adult-starting with my experience with that short story "Pilgrims," which taught me how not to act like a baby.
+
+
+## Passion vs Curiosity {#passion-vs-curiosity}
+
+-   don't blindly follow your passion
+    -   as Cal Newport says in [So good they can't ignore you]({{< relref "so_good_they_can_t_ignore_you.md" >}})
+
+> Perhaps you are surprised to hear this from me, but I am somewhat against passion. Or at least, I am against the preaching of passion. I don't believe in telling people, "All you need to do is to follow your passion, and thing will be fine." I think this can be an unhelpful and even cruel suggestion at times.
+>
+> First of all, it can be an unnecessary piece of advice because if someone has a clear passion, odds are they're already following it and they don't need anyone to tell them to pursue it. (That's kind of the definition of a passion, after all: an interest that you chase obsessively, almost because you have no choice.) But a lot of people don't know exactly what their passion is, or they may have multiple passions, or they may be going through a midlife change of passion- all of which can leave them feeling confused and blocked and insecure.
+>
+> If you don't have a clear passion and somebody blithely tells you to go follow your passion, I think you have the right to give that person the middle finger. Because that's like somebody telling you that all you need in order to lose weight is to be thin, or all you need in order to have a great sex life is to be multiorgasmic: That doesn't help!
+
+
+## Combinatory play {#combinatory-play}
+
+> Einstein called this tactic "combinatory play" **the act of opening up one mental channel by dabbling in another**. This is why **he would often play the violin when he was having difficulty solving a mathematical puzzle**; after a few hours of sonatas, he could usually find the answer he needed.
+>
+> Part of the trick of combinatory play, I think, is that it **quiets your ego and your fears by lowering the stakes**.

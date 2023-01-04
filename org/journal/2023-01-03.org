@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       db347bf2-faf0-4737-bbb8-876daa6059c7
+:END:
+#+TITLE: 2023-01-03
+#+DATE: 2023-01-03
+#+FILETAGS: journal
+
+- 2023-01-03 ◦ [[https://dev.to/c4r4x35/top-5-featured-dev-tagsecurity-posts-from-the-year-2022-8jh][Top 5 Featured DEV Tag(#security) Posts from the year 2022]]
+- 2023-01-03 ◦ [[https://news.ycombinator.com/item?id=34218240][Ask HN: How do you work on your mental health? | Hacker News]] ([[id:91f33643-b126-4383-9ffb-af8c379a28d9][HackerNews]])

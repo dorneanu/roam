@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e1ce47eb-be2d-469f-bf06-66376b711981
+:END:
+#+TITLE: 2023-01-02
+#+DATE: 2023-01-02
+#+FILETAGS: journal
+
+- 2023-01-02 ◦ [[https://www.youtube.com/watch?v=Zm0XjD1sA_Q&ab_channel=TonyAldon][Learn two ways to perform a string replacement with visual feedback - YouTube]] ([[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]])
+- 2023-01-02 ◦ [[https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html][Turning Google smart speakers into wiretaps for $100k]]
