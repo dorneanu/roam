@@ -5,6 +5,8 @@
 #+filetags: :hugo:
 
 * Themes I like
+- 2023-01-04 ◦ [[https://github.com/bphenriques/explorer-hugo-theme][Github - bphenriques/explorer-hugo-theme]]
+  - Explorer Digital Garden Hugo theme with tag exploration
 - 2022-08-30 ◦ [[https://github.com/y1zhou/hugo-northeast][GitHub - y1zhou/hugo-northeast: A Hugo theme using Tailwind CSS.]]
 - 2022-08-22 ◦ [[https://github.dsrkafuu.net/hugo-theme-fuji/][Hugo Theme Fuji - A minimal Hugo theme.]]
 * Customizations
@@ -19,6 +21,13 @@
 ** Series
 - 2022-08-30 ◦ [[https://digitaldrummerj.me/hugo-post-series/][Hugo - Create a Post Series | Justin James]]
 - 2022-08-30 ◦ [[https://onebite.dev/series-of-article-in-hugo-website/][Series of article in Hugo website]]
+** Searching
+A regularly updated "langing page" is [[https://gohugo.io/tools/search/][here]].
+- 2023-01-04 ◦ [[https://github.com/zwbetz-gh/hugo-client-side-search-template][GitHub - zwbetz-gh/hugo-client-side-search-template: A lightweight, fuzzy, client-side search template for Hugo]]
+- 2023-01-04 ◦ [[https://github.com/kaushalmodi/hugo-search-fuse-js][GitHub - kaushalmodi/hugo-search-fuse-js: Hugo theme component for implementing static site search using Fuse.js]]
+- 2023-01-04 ◦ [[https://gist.github.com/cmod/5410eae147e4318164258742dd053993][Fast, instant client side search for Hugo static site generator]]
+- 2023-01-04 ◦ [[https://ruddra.com/add-search-functionality-hugo/][Add Search Functionality in Hugo]]
+- 2023-01-04 ◦ [[https://victoria.dev/blog/add-search-to-hugo-static-sites-with-lunr/][Add search to Hugo static sites with Lunr | victoria.dev]]
 * Integrations
 ** asciidoc
 - 2022-10-04 ◦ [[https://blog.arkey.fr/2020/04/23/tackling-hugo-integration-of-asciidoctor/][Tackling Hugo Integration of Asciidoctor • Brice Dutheil]]

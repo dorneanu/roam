@@ -44,6 +44,71 @@
 *** Simulate High-Altitude Training
 
 [[/img/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_5.jpg]]
+* Comparison to Wim Hof
+Mostly from https://oxygenadvantage.com/wim-hof/
+
+#+begin_quote
+"The Wim Hof method can optimize athletic performance and endurance, improve mental and physical health, reduce symptoms of chronic illness and boost immunity. Patrick McKeown’s Oxygen Advantage® does the same thing. While Patrick’s 2015 book, The Oxygen Advantage was for sports and fitness, his latest book, The Breathing Cure, covers an extensive list of health conditions, offering a detailed examination of the scientific research into the relationship between breath and health."
+#+end_quote
+
+** What happens when you breath
+#+begin_quote
+During respiration, you take in oxygen and release [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][carbon dioxide]] from your blood. Normal *levels of blood oxygen are around 99%, so breathing more air does not improve oxygen levels or increase blood oxygen saturation* (SAO2). A strong breath out, however, will expel a large amount of carbon dioxide (CO2). Carbon dioxide plays an important role in body oxygenation (the [[id:1e8e0c61-97ae-4d59-9c14-76ab08b49d8f][The Bohr Effect]]). Because of this, the brain stem is sensitive to changes in CO2 in the lungs and blood. When the *level of carbon dioxide is low, the urge to breathe lessens, meaning you can hold your breath for longer*."
+#+end_quote
+** Hypoxia
+#+begin_quote
+"[[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][CO2]] is the *catalyst* that causes [[id:cd57e6ce-ba1b-4d7c-a559-b8ade35532ad][hemoglobin]] in red blood cells to *release oxygen* to the cells. When levels of carbon dioxide are low, the red blood cells can’t release oxygen. *The result is [[id:0a497f60-b7f9-44ad-9b90-8f21c07abe9e][hypoxia]]— a shortage of oxygen in the cells and tissues of the body.*"
+#+end_quote
+** Hyperventilation
+#+begin_quote
+"During deliberate hyperventilation, the *pH-value of the blood increases*. Normally, blood pH levels are around 7.4, but the drop in CO2 makes the blood significantly more alkaline — up to 7.75. This temporary *alkalosis* triggers physiological changes. You may feel lightheaded as your *arteries and blood vessels constrict in response to the disruption in homeostasis and reduction in CO2* (a powerful vasodilator). For the same reasons, you may *experience tingling in your muscles and limbs*."
+#+end_quote
+** What happens when you hold your breath?
+#+begin_quote
+"What happens to blood pH when you hold your breath? [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] is unable to leave the blood via the lungs, and it *dissociates into carbonic acid*. As CO2 builds up in the body, *blood becomes more acidic*, reversing the alkalinity caused by deliberate hyperventilation. *As carbon dioxide levels rise, the oxygen held in red blood cells floods to the tissues*."
+#+end_quote
+** On hormesis
+#+begin_quote
+"Short-term [[id:0a497f60-b7f9-44ad-9b90-8f21c07abe9e][hypoxia]] stresses the body at a cellular level. This type of stress is called [[id:65823402-b5ec-452c-a562-2f7f489ee1db][hormesis]] — “good” stress that causes the body to adapt, strengthen and build resilience. The sympathetic response (your fight, flight or freeze stress mechanism) is activated. According to [[id:2965cd54-8ffb-48a1-9b88-07ca58f97469][Hof]], concentration of red blood cells increases (boosting your blood’s oxygen carrying capacity). Lung capacity and circulation improve, and your metabolism becomes more efficient."
+#+end_quote
+** On adrenaline
+#+begin_quote
+"The [[id:2965cd54-8ffb-48a1-9b88-07ca58f97469][breathing method]] also has physical effects in terms of the level of adrenaline in the blood. The 2014 Kox et al. study reported marked increases in adrenaline. Adrenaline can have many positive “side effects,” including better pain resistance, increased [[id:cdd45bc1-438b-43e1-9f69-e10bf519f7be][antioxidant]] levels, better circulation, more oxygen to cells, and sharper mental function."
+#+end_quote
+** Brain over Body research
+#+begin_quote
+"Another more recent study, from 2018, is relevant to the commitment/meditation/concentration pillar of the [[id:2965cd54-8ffb-48a1-9b88-07ca58f97469][Wim Hof method]]. Known as the *“Brain Over Body”* study this research aimed to uncover the brain function that allows Hof to withstand extremes of cold temperature exposure."
+#+end_quote
+** Advantages of the Wim Hof method
+*** Physical health
+- Boost immune function,
+- Lessen inflammation,
+- Get deeper, more restful sleep,
+- Have more energy during the day,
+- Experience relief from symptoms of autoimmune disorders, arthritis, fibromyalgia and migraine,
+- Manage airway disorders like asthma and COPD,
+- Control blood pressure,
+- Alleviate symptoms of chronic illness such as
+- post-treatment Lyme disease syndrome and MS,
+- Boost your metabolism,
+- Enhance sports performance and recovery,
+- And improve your tolerance to cold."
+*** Mental health
+- Reduce and regulate stress levels by learning to control the [[id:0738a23c-8607-465f-be46-c945920917e1][autonomic nervous system]],
+- Prevent or recover from burnout,
+- Relieve depression,
+- Increase concentration and willpower,
+- Enhance the mind/body connection,
+- And feel happier and more creative"
+** On Cold Shower
+#+begin_quote
+"Scientific research has found that cold showers *increase the concentration of white blood cells* in the body. These cells protect the body against disease. It is thought the *immune response is stimulated by an increased metabolic rate*."
+#+end_quote
+
+#+begin_quote
+"When you take a cold shower, it imposes *controlled stress on your body*. This prompts your *nervous system to adapt* and causes you to *become more resilient*. This resilience carries through to stressful situations in your everyday life."
+#+end_quote
+
 
 * Quotes
 ** The Oxygen Advantage - Note 1                                               :quote:done:
@@ -102,7 +167,6 @@ athletes as it is for anyone interested in basic fitness or in weight
 management.
 #+end_quote
 
-
 ** The Oxygen Advantage - Note 10                                              :quote:done:
 #+begin_quote
 Breathing too much for short periods of time is not a significant problem, as no
@@ -119,7 +183,6 @@ washed from the lungs, blood,tissues,and cells. This condition is called
 hypocapnia, causing the hemoglobin to hold on to oxygen resulting in reduced
 oxygen release and therefore reduced oxygen delivery to tissues and organs.
 #+end_quote
-
 
 ** The Oxygen Advantage - Note 13                                              :quote:done:
 #+begin_quote

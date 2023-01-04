@@ -11,12 +11,12 @@
 :END:
 * Description
 ** Interessante Bücher
-*** Life 3.0: Being Human in the Age of Artificial Intelligence
-*** Eingriff in die Evolution: Die Macht der CRISPR-Technologie und die Frage, wie wir sie nutzen wollen
-*** Thinking, Fast and Slow
-*** Persuasive Technology: Using Computers to Change What We Think and Do
-*** Realitätsschock
-*** Der Wohlstand der Nationen: Vollständige deutsche Ausgabe
+- Life 3.0: Being Human in the Age of Artificial Intelligence
+- Eingriff in die Evolution: Die Macht der CRISPR-Technologie und die Frage, wie wir sie nutzen wollen
+- Thinking, Fast and Slow
+- Persuasive Technology: Using Computers to Change What We Think and Do
+- Realitätsschock
+- Der Wohlstand der Nationen: Vollständige deutsche Ausgabe
 * Quotes
 ** Das Experiment sind wir - Note 1                                            :quote:
 #+begin_quote

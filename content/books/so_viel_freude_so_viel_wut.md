@@ -10,11 +10,11 @@ draft = false
 
 ## Description {#description}
 
--   über
--   über
-    -   in Bezug auf kann es nicht Aufgabe der Eltern sein, den "inneren" Konflikt zu lösen
+-   über [Gefühlsstarke Kinder]({{< relref "../../topics/gefuhlsstarke_kinder.md" >}})
+-   über [Bedürfnisse nach Marshall Rosenberg]({{< relref "../../topics/bedurfnisse_nach_marshall_rosenberg.md" >}})
+    -   in Bezug auf [Gefühlsstarke Kinder]({{< relref "../../topics/gefuhlsstarke_kinder.md" >}}) kann es nicht Aufgabe der Eltern sein, den "inneren" Konflikt zu lösen
         -   Nähebedürfnis vs Freiheitsdrang
-        -   Sehnsucht nach Struktur vs. Rebellion
+        -   Sehnsucht nach Struktur vs. Rebellion
     -   Eltern können aus den Impulsen Kraftstoff "tanken", der die Kinder in der Entwicklung weiterwachsen lässt
 -   Kapitel 2
     -   über das unterschiedliche von Babys
@@ -26,7 +26,7 @@ draft = false
                 -   führt zu Überforderung (Analogie mit den roten Flitzern auf der Strasse)
             -   die wirkungsvollste Strategie: In den Armen der Eltern sich ausweinen dürfen und Liebe/Zuneigung empfangen
                 -   Job der Eltern ist es nicht, mit dem Weinen aufzuhören sondern für das Kind da zu sein
-    -   verfügen über eine innere Resilienz
+    -   [Gefühlsstarke Kinder]({{< relref "../../topics/gefuhlsstarke_kinder.md" >}}) verfügen über eine innere Resilienz
         -   sie zerbrechen nicht an sub-optimierten
             -   auch wenn sie nicht von Anfang an gesehen werden
             -   es ist nie zu spät für die Bindung / auf das Bedürfnis einzugehen
@@ -45,12 +45,10 @@ draft = false
     -   wenn das Kind nicht zuhört, können folgende angewandt werden, damit die Botschaft das Kind auch erreicht
 -   Was angeblich "altersgerecht" sein soll
     -   Durchschlafen ist aus evolutionärer Sicht im späten Kleinkindalter dran
-    -   durchschnittliches Alter zum Abstillen weltweit: 2 Jahre
+    -   durchschnittliches Alter zum Abstillen weltweit - 2 Jahre
     -   in vielen Kulturen ist es undenkbar, dass ein Kind die Nacht ohne seine Eltern verbringt
-        -
-        -
-        -   -   Es gibt nicht den Menschenschlaf. Das Konzept, 8 Stunden durchzuschlafen und den Rest des Tages zu arbeiten, ist weder natürlich noch normal. Diese Klare Trennung zwischen Tag und Nacht ist etwas, was wir uns ausgedachr haben,weil es gut in unsere Industriegesellschaft passt.
-        -   -   **Aufgeweckt werden** und gut **gut schlafen** sind Konstrukte. Kulturübergreifende Beobachtungen zeigen: In westlichen Kulturen ist die Idee vom **Durchschlafen** weiter verbreitet als in allen anderen. Hier wird auch das Wecken durch das Kind am dramatischsten empfunden. In anderen Kulturen ist das schon deshalb nicht so schlimm, weil man Schlaf ja jederzeit nachholen kann.
+        -   Es gibt nicht den Menschenschlaf. Das Konzept, 8 Stunden durchzuschlafen und den Rest des Tages zu arbeiten, ist weder natürlich noch normal. Diese Klare Trennung zwischen Tag und Nacht ist etwas, was wir uns ausgedachr haben,weil es gut in unsere Industriegesellschaft passt.
+    -   **Aufgeweckt werden** und gut **gut schlafen** sind Konstrukte. Kulturübergreifende Beobachtungen zeigen: In westlichen Kulturen ist die Idee vom **Durchschlafen** weiter verbreitet als in allen anderen. Hier wird auch das Wecken durch das Kind am dramatischsten empfunden. In anderen Kulturen ist das schon deshalb nicht so schlimm, weil man Schlaf ja jederzeit nachholen kann.
 
 
 ## Quotes {#quotes}

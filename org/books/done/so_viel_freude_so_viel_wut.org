@@ -10,11 +10,11 @@
 :FINISHED: 2022-02
 :END:
 * Description
-- über [[#Gef%C3%BChlsstarke%20Kinder][Gefühlsstarke Kinder]]
-- über [[#Bed%C3%BCrfnisse%20nach%20Marshall%20Rosenberg][Bedürfnisse nach Marshall Rosenberg]]
-  - in Bezug auf [[#Gef%C3%BChlsstarke%20Kinder][Gefühlsstarke Kinder]] kann es nicht Aufgabe der Eltern sein, den "inneren" Konflikt zu lösen
+- über [[id:4789eb41-9d72-4fb0-bd5b-80c87cb2918c][Gefühlsstarke Kinder]]
+- über [[id:2114312c-7018-4a34-8936-7808173598d1][Bedürfnisse nach Marshall Rosenberg]]
+  - in Bezug auf [[id:4789eb41-9d72-4fb0-bd5b-80c87cb2918c][Gefühlsstarke Kinder]] kann es nicht Aufgabe der Eltern sein, den "inneren" Konflikt zu lösen
     - Nähebedürfnis vs Freiheitsdrang
-    - Sehnsucht nach Struktur vs. Rebellion
+    - Sehnsucht nach Struktur vs. Rebellion
   - Eltern können aus den Impulsen Kraftstoff "tanken", der die Kinder in der Entwicklung weiterwachsen lässt
 - Kapitel 2
   - über das unterschiedliche [[#JeromeKagan%2FTemperament][Temperament]] von Babys
@@ -26,7 +26,7 @@
         - führt zu Überforderung (Analogie mit den roten Flitzern auf der Strasse)
       - die wirkungsvollste Strategie: In den Armen der Eltern sich ausweinen dürfen und Liebe/Zuneigung empfangen
         - Job der Eltern ist es nicht, mit dem Weinen aufzuhören sondern für das Kind da zu sein
-  - [[#Gef%C3%BChlsstarke%20Kinder][Gefühlsstarke Kinder]] verfügen über eine innere Resilienz
+  - [[id:4789eb41-9d72-4fb0-bd5b-80c87cb2918c][Gefühlsstarke Kinder]] verfügen über eine innere Resilienz
     - sie zerbrechen nicht an sub-optimierten [[#Bed%C3%BCrfnisse%20nach%20Marshall%20Rosenberg][Bedürfnissen]]
       - auch wenn sie nicht von Anfang an gesehen werden
       - es ist nie zu spät für die Bindung / auf das Bedürfnis einzugehen
@@ -45,14 +45,10 @@
   - wenn das Kind nicht zuhört, können folgende [[#Strategien%20bei%20Stressbew%C3%A4ltigung][Strategien]] angewandt werden, damit die Botschaft das Kind auch erreicht
 - Was angeblich "altersgerecht" sein soll
   - Durchschlafen ist aus evolutionärer Sicht im späten Kleinkindalter dran
-  - durchschnittliches Alter zum Abstillen weltweit: 2 Jahre
+  - durchschnittliches Alter zum Abstillen weltweit - 2 Jahre
   - in vielen Kulturen ist es undenkbar, dass ein Kind die Nacht ohne seine Eltern verbringt
-    - [[#Artgerecht%20-%20Note%202][Artgerecht - Note 2]]
-    - [[#Artgerecht%20-%20Note%201][Artgerecht - Note 1]]
-    - [[#Artgerecht%20-%20Note%208][Artgerecht - Note 8]]
-      - Es gibt nicht den Menschenschlaf. Das Konzept, 8 Stunden durchzuschlafen und den Rest des Tages zu arbeiten, ist weder natürlich noch normal. Diese Klare Trennung zwischen Tag und Nacht ist etwas, was wir uns ausgedachr haben,weil es gut in unsere Industriegesellschaft passt.
-    - [[#Artgerecht%20-%20Note%209][Artgerecht - Note 9]]
-      - *Aufgeweckt werden* und gut *gut schlafen* sind Konstrukte. Kulturübergreifende Beobachtungen zeigen: In westlichen Kulturen ist die Idee vom *Durchschlafen* weiter verbreitet als in allen anderen. Hier wird auch das Wecken durch das Kind am dramatischsten empfunden. In anderen Kulturen ist das schon deshalb nicht so schlimm, weil man Schlaf ja jederzeit nachholen kann.
+    - Es gibt nicht den Menschenschlaf. Das Konzept, 8 Stunden durchzuschlafen und den Rest des Tages zu arbeiten, ist weder natürlich noch normal. Diese Klare Trennung zwischen Tag und Nacht ist etwas, was wir uns ausgedachr haben,weil es gut in unsere Industriegesellschaft passt.
+  - *Aufgeweckt werden* und gut *gut schlafen* sind Konstrukte. Kulturübergreifende Beobachtungen zeigen: In westlichen Kulturen ist die Idee vom *Durchschlafen* weiter verbreitet als in allen anderen. Hier wird auch das Wecken durch das Kind am dramatischsten empfunden. In anderen Kulturen ist das schon deshalb nicht so schlimm, weil man Schlaf ja jederzeit nachholen kann.
 
 * Quotes
 ** So viel Freude, so viel Wut - Note 1                                        :quote:done:

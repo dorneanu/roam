@@ -178,7 +178,7 @@ the deadline-driven nature of their profession
 - Lead measures, on the other hand, “measure the new behaviors that will drive success on the lag measures.
 - For an individual focused on [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][deep work]], it's easy to identify the relevant lead measure: time spent in a state of [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][deep work]] dedicated toward your wildly important goal
   - Don't track how many books, articles you've read
-  - Measure instead how many hours of [[id:32bf2a39-ed76-4f18-bac4-75dc54a417a9][deep work]] you've mastered
+  - Measure instead how many hours of deep work you've mastered
 ****** #3 Keep the a compelling scoreboard
 #+begin_quote
 "People play differently when they're keeping score," the 4DX authors explain. They then elaborate that when attempting

@@ -54,6 +54,86 @@ draft = false
 {{< figure src="/img/the-oxygen-advantage/oxygen advantage 08-26-2022 06.32_5.jpg" >}}
 
 
+## Comparison to Wim Hof {#comparison-to-wim-hof}
+
+Mostly from <https://oxygenadvantage.com/wim-hof/>
+
+> "The Wim Hof method can optimize athletic performance and endurance, improve mental and physical health, reduce symptoms of chronic illness and boost immunity. Patrick McKeown’s Oxygen Advantage® does the same thing. While Patrick’s 2015 book, The Oxygen Advantage was for sports and fitness, his latest book, The Breathing Cure, covers an extensive list of health conditions, offering a detailed examination of the scientific research into the relationship between breath and health."
+
+
+### What happens when you breath {#what-happens-when-you-breath}
+
+> During respiration, you take in oxygen and release [carbon dioxide]({{< relref "../../topics/carbon_dioxide.md" >}}) from your blood. Normal **levels of blood oxygen are around 99%, so breathing more air does not improve oxygen levels or increase blood oxygen saturation** (SAO2). A strong breath out, however, will expel a large amount of carbon dioxide (CO2). Carbon dioxide plays an important role in body oxygenation (the [The Bohr Effect]({{< relref "../../topics/the_bohr_effect.md" >}})). Because of this, the brain stem is sensitive to changes in CO2 in the lungs and blood. When the **level of carbon dioxide is low, the urge to breathe lessens, meaning you can hold your breath for longer**."
+
+
+### Hypoxia {#hypoxia}
+
+> "[CO2]({{< relref "../../topics/carbon_dioxide.md" >}}) is the **catalyst** that causes [hemoglobin]({{< relref "../../topics/hemoglobin.md" >}}) in red blood cells to **release oxygen** to the cells. When levels of carbon dioxide are low, the red blood cells can’t release oxygen. **The result is [hypoxia]({{< relref "../../topics/hypoxia.md" >}})— a shortage of oxygen in the cells and tissues of the body.**"
+
+
+### Hyperventilation {#hyperventilation}
+
+> "During deliberate hyperventilation, the **pH-value of the blood increases**. Normally, blood pH levels are around 7.4, but the drop in CO2 makes the blood significantly more alkaline — up to 7.75. This temporary **alkalosis** triggers physiological changes. You may feel lightheaded as your **arteries and blood vessels constrict in response to the disruption in homeostasis and reduction in CO2** (a powerful vasodilator). For the same reasons, you may **experience tingling in your muscles and limbs**."
+
+
+### What happens when you hold your breath? {#what-happens-when-you-hold-your-breath}
+
+> "What happens to blood pH when you hold your breath? [Carbon Dioxide]({{< relref "../../topics/carbon_dioxide.md" >}}) is unable to leave the blood via the lungs, and it **dissociates into carbonic acid**. As CO2 builds up in the body, **blood becomes more acidic**, reversing the alkalinity caused by deliberate hyperventilation. **As carbon dioxide levels rise, the oxygen held in red blood cells floods to the tissues**."
+
+
+### On hormesis {#on-hormesis}
+
+> "Short-term [hypoxia]({{< relref "../../topics/hypoxia.md" >}}) stresses the body at a cellular level. This type of stress is called [hormesis]({{< relref "../../topics/hormesis.md" >}}) — “good” stress that causes the body to adapt, strengthen and build resilience. The sympathetic response (your fight, flight or freeze stress mechanism) is activated. According to [Hof]({{< relref "the_wim_hof_method.md" >}}), concentration of red blood cells increases (boosting your blood’s oxygen carrying capacity). Lung capacity and circulation improve, and your metabolism becomes more efficient."
+
+
+### On adrenaline {#on-adrenaline}
+
+> "The [breathing method]({{< relref "the_wim_hof_method.md" >}}) also has physical effects in terms of the level of adrenaline in the blood. The 2014 Kox et al. study reported marked increases in adrenaline. Adrenaline can have many positive “side effects,” including better pain resistance, increased [antioxidant]({{< relref "../../topics/antioxidants.md" >}}) levels, better circulation, more oxygen to cells, and sharper mental function."
+
+
+### Brain over Body research {#brain-over-body-research}
+
+> "Another more recent study, from 2018, is relevant to the commitment/meditation/concentration pillar of the [Wim Hof method]({{< relref "the_wim_hof_method.md" >}}). Known as the **“Brain Over Body”** study this research aimed to uncover the brain function that allows Hof to withstand extremes of cold temperature exposure."
+
+
+### Advantages of the Wim Hof method {#advantages-of-the-wim-hof-method}
+
+
+#### Physical health {#physical-health}
+
+-   Boost immune function,
+-   Lessen inflammation,
+-   Get deeper, more restful sleep,
+-   Have more energy during the day,
+-   Experience relief from symptoms of autoimmune disorders, arthritis, fibromyalgia and migraine,
+-   Manage airway disorders like asthma and COPD,
+-   Control blood pressure,
+-   Alleviate symptoms of chronic illness such as
+-   post-treatment Lyme disease syndrome and MS,
+-   Boost your metabolism,
+-   Enhance sports performance and recovery,
+-   And improve your tolerance to cold."
+
+
+#### Mental health {#mental-health}
+
+-   Reduce and regulate stress levels by learning to control the [autonomic nervous system]({{< relref "../../topics/autonomic_nervous_system.md" >}}),
+-   Prevent or recover from burnout,
+-   Relieve depression,
+-   Increase concentration and willpower,
+-   Enhance the mind/body connection,
+-   And feel happier and more creative"
+
+
+### On Cold Shower {#on-cold-shower}
+
+> "Scientific research has found that cold showers **increase the concentration of white blood cells** in the body. These cells protect the body against disease. It is thought the **immune response is stimulated by an increased metabolic rate**."
+
+<!--quoteend-->
+
+> "When you take a cold shower, it imposes **controlled stress on your body**. This prompts your **nervous system to adapt** and causes you to **become more resilient**. This resilience carries through to stressful situations in your everyday life."
+
+
 ## Quotes {#quotes}
 
 

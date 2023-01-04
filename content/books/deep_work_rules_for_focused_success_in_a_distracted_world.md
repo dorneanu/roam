@@ -232,7 +232,7 @@ Taking action.
                 -   Lead measures, on the other hand, “measure the new behaviors that will drive success on the lag measures.
                 -   For an individual focused on [deep work]({{< relref "../../topics/deep_work.md" >}}), it's easy to identify the relevant lead measure: time spent in a state of [deep work]({{< relref "../../topics/deep_work.md" >}}) dedicated toward your wildly important goal
                     -   Don't track how many books, articles you've read
-                    -   Measure instead how many hours of you've mastered
+                    -   Measure instead how many hours of deep work you've mastered
 
         <!--list-separator-->
 
