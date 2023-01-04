@@ -1,5 +1,5 @@
 {{ define "main" }}
-<main class="center mv4 content-width ph3">
+<main class="center mv4 content-width ph3 post-content">
 	<h1 class="f2 fw6 heading-font">{{ .Title }}</h1>
 	<div class="post-content">
 		{{ .Content }}
@@ -25,7 +25,7 @@
 
 		</ul>
 		{{ $.Scratch.Set "curLetter" $firstChar }}
-		<h1>{{ $firstChar }}</h2>
+		<h2 id="{{ $firstChar | lower }}">{{ $firstChar }}</h2>
 			<ul class="list-pages">
 				{{ end }}
 				<li class="">
@@ -35,8 +35,8 @@
 				{{ end }}
 	</div>
 </main>
-{{ partial "table-of-contents" . }}
-
+<div class="tl fixed list-pages lh-copy" id="contents-list">
+</div>
 <div class="pagination tc db fixed-l bottom-2-l right-2-l mb3 mb0-l">
 	{{ partial "back-to-top.html" . }}
 </div>

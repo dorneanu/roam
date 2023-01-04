@@ -20,7 +20,7 @@ DefaultContentLanguage = "en"
 disqusShortname = "dorneanu"
 # publishDir = "docs"
 
-copyright="2009-2022 Victor Dorneanu - All rights reserved"
+copyright="2009-2023 Victor Dorneanu - All rights reserved"
 
 [markup]
   [markup.highlight]
@@ -72,7 +72,7 @@ books = "/book/:title"
   #RevolverMapId = "5b4f2ucxar6"
   Fancybox = true
   # showTagCloud = true
-  # showtoc = true
+  showtoc = true
 
   # For hermit theme
   dateform        = "Jan 2, 2006"
@@ -140,7 +140,7 @@ pattern = "^.+\\.(html|xml|json)$"
 gzip = true
 
 [outputs]
-home = [ "HTML", "RSS"]
+home = [ "HTML", "RSS", "JSON"]
 
 [outputFormats]
 [outputFormats.RSS]

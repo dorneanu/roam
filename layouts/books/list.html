@@ -1,22 +1,25 @@
 {{ define "main" }}
-<main class="center mv4 content-width ph3">
-    <h1 class="f2 fw6 heading-font">{{ .Title }}</h1>
-    {{ .Content }}
+<main class="center mv4 content-width ph3 post-content">
+	<h1 class="f2 fw6 heading-font">{{ .Title }}</h1>
+	{{ .Content }}
 
-    {{ range (where .Site.RegularPages "Type" "in" (slice "books")).GroupByDate "2006" }}
-    <h2>{{ .Key }}</h2>
-    <ul class="list-pages">
-        {{ range .Pages.ByDate }}
-        <li class="lh-copy">
-            {{ $curDate := .Date.Format (.Site.Params.dateFormat | default "2006-02" ) }}
-            <span class="date">{{ printf "%s " (slicestr $curDate 0 7 ) }}</span>
-            <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
-        </li>
-        {{- end -}}
-    </ul>
-    {{ end }}
+	{{ range (where .Site.RegularPages "Type" "in" (slice "books")).GroupByDate "2006" }}
+	<h2 id="{{ .Key | lower }}">{{ .Key }}</h2>
+	<ul class="list-pages">
+		{{ range .Pages.ByDate }}
+		<li class="lh-copy">
+			{{ $curDate := .Date.Format (.Site.Params.dateFormat | default "2006-02" ) }}
+			<span class="date">{{ printf "%s " (slicestr $curDate 0 7 ) }}</span>
+			<a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+		</li>
+		{{- end -}}
+	</ul>
+	{{ end }}
 </main>
+<div class="tl fixed list-pages lh-copy" id="contents-list">
+</div>
+
 <div class="pagination tc db fixed-l bottom-2-l right-2-l mb3 mb0-l">
-    {{ partial "back-to-top.html" . }}
+	{{ partial "back-to-top.html" . }}
 </div>
 {{ end }}

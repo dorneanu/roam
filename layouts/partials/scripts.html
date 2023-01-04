@@ -1,11 +1,9 @@
 {{ if .Site.Params.showtoc | default true }}
 {{ $headers := findRE "<h[1-6].*?>(.|\n])+?</h[1-6]>" .Content }}
 {{ $has_headers := ge (len $headers) 1 }}
-{{ if and $has_headers (ne .Params.toc false) }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
 <style>.is-active-link::before { background-color: var(--secondary-color); }</style>
-{{ end }}
 {{ end }}
 
 {{ if or (.Site.Params.showTagCloud | default true) (.Site.Params.showtoc | default true) (.Site.Params.showScrollToTop | default true) }}
@@ -49,8 +47,7 @@ function topFunction() {
 {{ if .Site.Params.showtoc | default true }}
 {{ $headers := findRE "<h[1-6].*?>(.|\n])+?</h[1-6]>" .Content }}
 {{ $has_headers := ge (len $headers) 1 }}
-{{ if and $has_headers (ne .Params.toc false) }}
-if (document.getElementById("contents-list") !== null && document.getElementsByClassName("post-content").length !== 0) { 
+if (document.getElementById("contents-list") !== null && document.getElementsByClassName("post-content").length !== 0) {
   tocbot.init({
     // Where to render the table of contents.
     tocSelector: '#contents-list',
@@ -60,7 +57,6 @@ if (document.getElementById("contents-list") !== null && document.getElementsByC
     headingSelector: 'h1, h2, h3',
   });
 }
-{{ end }}
 {{ end }}
 </script>
 {{ end }}
