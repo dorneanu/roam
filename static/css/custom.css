@@ -548,3 +548,22 @@ pre .language-xml::before {
 pre .language-yaml::before {
   content: "YAML";
 }
+
+@media (min-width: 1200px) {
+  #sidebar {
+    max-width: 250px;
+    display: block;
+    top: 100px;
+  }
+
+  #contents-list > .toc-list,
+  #tag-cloud {
+    display: block;
+  }
+
+  #contents-list > .toc-list {
+  }
+}
+
+#contents-list > .toc-list {
+}

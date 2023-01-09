@@ -26,7 +26,7 @@ if (typeof variable !== "undefined") {
 	The main keyboard event listener running the show
 	--------------------------------------------------------------*/
     document.addEventListener("keydown", function (e) {
-      // console.log(event); // DEBUG
+      // console.log(event);
       // Ctrl + / to show or hide Search
       // if (event.metaKey && event.which === 191) {
       if (event.ctrlKey && event.which === 32) {
@@ -127,17 +127,17 @@ if (typeof variable !== "undefined") {
     function search_toggle_focus(e) {
       // console.log(e); // DEBUG
       // order of operations is very important to keep focus where it should stay
-      if (!search__focus) {
-        search_submit.value = "⨯";
-        search_form.setAttribute("data-focus", true);
-        search_input.focus(); // move focus to search box
-        search__focus = true;
-      } else {
-        search_submit.value = "🔍";
-        search_form.setAttribute("data-focus", false);
-        document.activeElement.blur(); // remove focus from search box
-        search__focus = false;
-      }
+      // if (!search__focus) {
+      //   search_submit.value = "⨯";
+      //   search_form.setAttribute("data-focus", true);
+      //   search_input.focus(); // move focus to search box
+      //   search__focus = true;
+      // } else {
+      //   search_submit.value = "🔍";
+      //   search_form.setAttribute("data-focus", false);
+      //   document.activeElement.blur(); // remove focus from search box
+      //   search__focus = false;
+      // }
     }
 
     /*--------------------------------------------------------------
@@ -188,6 +188,7 @@ if (typeof variable !== "undefined") {
           .then(() => {
             search_input.value = ""; // reset default value
             first_run = false; // let's never do this again
+            // console.log("boru");
             fetch_JSON(
               search_form.getAttribute("data-language-prefix") + "/index.json",
               function (data) {
@@ -199,7 +200,7 @@ if (typeof variable !== "undefined") {
                   threshold: 0.5,
                   findAllMatches: true,
                   ignoreLocation: true,
-                  useExtendedSearch: false,
+                  useExtendedSearch: true,
                   minMatchCharLength: 3,
                   keys: [
                     "content",
@@ -248,12 +249,14 @@ if (typeof variable !== "undefined") {
           // only show first 10 results
           search_items =
             search_items +
-            `<li><a href="${results[item].item.permalink}" tabindex="0">
+            `<li><a class="silver no-underline" href="${
+              results[item].item.permalink
+            }" tabindex="0">
 			<span class="title">${results[item].item.title}</span>
 			<!--  <span class="date">${results[item].item.date}</span> -->
 			<span class="summary">${results[item].item.summary}</span>
 			<span class="section">${results[item].item.section}</span>
-			<span class="content">${results[item].item.content}</span>
+			<!--  <span class="content">${results[item].item.content}</span> -->
 			<span class="categories">${results[item].item.categories.join(", ")}</span>
 			<span class="tags">${results[item].item.tags.join(", ")}</span>
 			</a></li>`;
