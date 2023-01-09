@@ -10,11 +10,11 @@ Although I still haven't figured out how to perfectly structure my notes, quotes
 
 -   Coding
     -   At the moment I mainly develop in [Golang]({{< relref "topics/golang.md" >}}) and [Python]({{< relref "topics/python.md" >}})
-    -   I like to run my code in a [Serverless]({{< relref "topics/serverless.md" >}}) environment
+    -   I like to run my code in a environment
     -   I like solutions which scale up especially in an [AWS]({{< relref "topics/aws.md" >}}) context
     -   You can check my code at [github.com/dorneanu](https://github.com/dorneanu) or [gitlab.com/vdorneanu](https://gitlab.com/vdorneanu)
 -   [Security]({{< relref "topics/security.md" >}})
-    -   This is such a huge area so I specialized in [Agile Application Security]({{< relref "books/agile_application_security.md" >}})
+    -   This is such a huge area so I specialized in [Application Security]({{< relref "books/agile_application_security.md" >}})
     -   I try to understand the mathematical concepts behing Cryptography
     -   Networking knowledge is still crucial
 -   [Books](/books)

@@ -111,5 +111,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 ** org-babel
 - 2022-12-06 ◦ [[https://github.com/dfeich/org-babel-examples][github.com/dfeich/org-babel-examples]]
   - Examples using emacs org mode babel inline source code with different backend languages
+** Reports
+- 2023-01-05 ◦ [[https://www.adventuresinwhy.com/post/org-mode-timekeeping/][Timekeeping with Emacs and Org-Mode | Adventures in Why]]
 ** UI
 - 2022-12-05 ◦ [[https://codeberg.org/gopiandcode/emacs-viewer][gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org]]

@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       f41458e6-cbb2-4076-a0ff-816450ce8ae2
+:END:
+#+TITLE: 2023-01-05
+#+DATE: 2023-01-05
+#+FILETAGS: journal
+
+- 2023-01-05 ◦ [[https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/][Why the Past 10 Years of American Life Have Been Uniquely Stupid - The Atlantic]]
+- 2023-01-05 ◦ [[https://news.ycombinator.com/item?id=34254377][Tell HN: Crypto/web3 grifters are Now AI/ML grifters | Hacker News]]
+- 2023-01-05 ◦ [[https://www.theatlantic.com/magazine/archive/2022/03/why-we-are-never-satisfied-happiness/621304/][How Wanting Less Leads to Satisfaction - The Atlantic]]
+  #+begin_quote
+  As we wind our way through life, I explained, satisfaction—*the joy from fulfillment of our wishes or expectations*—is evanescent. No matter what we achieve, see, acquire, or do, it seems to slip from our grasp.
+  #+end_quote
+
+  #+begin_quote
+  The unending race against the headwinds of homeostasis has a name: the *“hedonic treadmill.”* *No matter how fast we run, we never arrive*.
+  #+end_quote
+
+  #+begin_quote
+  As the great 19th-century philosopher Arthur Schopenhauer said, *“Wealth is like sea-water; the more we drink, the thirstier we become; and the same is true of fame.”*
+  #+end_quote
+
+  #+begin_quote
+  It makes no sense in modern life to use our energies to have five cars, five bathrooms, or even five pairs of sneakers, but we just … want them.
+  #+end_quote
+
+  #+begin_quote
+  The satisfaction problem, then, is our natural attachment to these inadequate things. If this sounds a bit Buddhist to you, it should. It is very similar to the Buddha’s first “Noble Truth”: that life is suffering—duhkha in Sanskrit, also translated as “dissatisfaction”—and that the cause of this suffering is craving, desire, and attachment to worldly things.
+  #+end_quote
+
+  #+begin_quote
+  As we grow older in the West, we generally think we should have a lot to show for our lives—a lot of trophies. *According to numerous Eastern philosophies, this is backwards*. As we age, we shouldn’t accumulate more to represent ourselves, but *rather strip things away to find our true selves*—and thus, to find happiness and peace. The Tao Te Ching, a Chinese text compiled around the fourth century B.C. that is the foundation of Taoism, makes this point with elegance: *People would be content with their simple, everyday lives, in harmony, and free of desire. When there is no desire, all things are at peace*.
+  #+end_quote
+
+  #+begin_quote
+  In truth, our formula, Satisfaction = getting what you want, leaves out one key component. To be more accurate, *it should be: Satisfaction = what you have ÷ what you want*
+  #+end_quote
+
+  #+begin_quote
+  The secret to satisfaction is not to increase our haves—that will never work (or at least, it will never last). That is the treadmill formula, not the satisfaction formula. The secret is to manage our wants. By managing what we want instead of what we have, we give ourselves a chance to lead more satisfied lives.
+  #+end_quote
+
+  #+begin_quote
+  But ask yourself whether the attraction of your bucket-list items, be they professional or experiential, derives mostly from how much they will make others admire or envy you. These motivations will never lead to deep satisfaction.
+  #+end_quote
+
+  #+begin_quote
+  The Buddhist master Thich Nhat Hanh explains this in his book *The Miracle of Mindfulness: “While washing the dishes one should only be washing the dishes, which means that while washing the dishes one should be completely aware of the fact that one is washing the dishes.”*
+
+  Why? If we are thinking about the past or future, “we are not alive during the time we are washing the dishes.”
+  #+end_quote

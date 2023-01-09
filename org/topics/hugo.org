@@ -5,6 +5,9 @@
 #+filetags: :hugo:
 
 * Themes I like
+- 2023-01-05 ◦ [[https://prose.yihui.org/about/][About Hugo Prose | Hugo Prose]]
+- 2023-01-05 ◦ [[https://github.com/rebolyte/hugo-minimal][GitHub - rebolyte/hugo-minimal]]
+  - Starter template for Hugo with TailwindCSS, Vue, and NetlifyCMS with block-level page-building
 - 2023-01-04 ◦ [[https://github.com/bphenriques/explorer-hugo-theme][Github - bphenriques/explorer-hugo-theme]]
   - Explorer Digital Garden Hugo theme with tag exploration
 - 2022-08-30 ◦ [[https://github.com/y1zhou/hugo-northeast][GitHub - y1zhou/hugo-northeast: A Hugo theme using Tailwind CSS.]]
@@ -23,6 +26,9 @@
 - 2022-08-30 ◦ [[https://onebite.dev/series-of-article-in-hugo-website/][Series of article in Hugo website]]
 ** Searching
 A regularly updated "langing page" is [[https://gohugo.io/tools/search/][here]].
+- 2023-01-05 ◦ [[https://decovar.dev/blog/2020/01/05/hugo-search/][Adding search capability to a Hugo-based blog | Declaration of VAR]]
+- 2023-01-05 ◦ [[https://til.unessa.net/hugo/adding-simple-search/][Adding Simple Search to Hugo by unessa]]
+- 2023-01-05 ◦ [[https://vuejsexamples.com/headless-search-component-for-vue-and-static-sites-based-on-fuse-js/][Headless search component for Vue and static sites based on Fuse.js]]
 - 2023-01-04 ◦ [[https://github.com/zwbetz-gh/hugo-client-side-search-template][GitHub - zwbetz-gh/hugo-client-side-search-template: A lightweight, fuzzy, client-side search template for Hugo]]
 - 2023-01-04 ◦ [[https://github.com/kaushalmodi/hugo-search-fuse-js][GitHub - kaushalmodi/hugo-search-fuse-js: Hugo theme component for implementing static site search using Fuse.js]]
 - 2023-01-04 ◦ [[https://gist.github.com/cmod/5410eae147e4318164258742dd053993][Fast, instant client side search for Hugo static site generator]]

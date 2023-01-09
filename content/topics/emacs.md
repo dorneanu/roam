@@ -156,6 +156,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
     -   Examples using emacs org mode babel inline source code with different backend languages
 
 
+### Reports {#reports}
+
+-   2023-01-05 ◦ [Timekeeping with Emacs and Org-Mode | Adventures in Why](https://www.adventuresinwhy.com/post/org-mode-timekeeping/)
+
+
 ### UI {#ui}
 
 -   2022-12-05 ◦ [gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org](https://codeberg.org/gopiandcode/emacs-viewer)
