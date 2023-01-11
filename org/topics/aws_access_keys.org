@@ -11,10 +11,10 @@
 #+tmap.id: b1d43175-b7e6-4a1f-ae22-9070a36bba79
 #+type: text/vnd.tiddlywiki
 
-- use access keys to access [[#AWS][AWS]] APIs
+- use access keys to access [[id:be5bebfe-5df9-4db2-af87-7e80e11723c7][AWS]] APIs
 - together with [[#AWS%20Secret%20Access%20Keys][AWS Secret Access Keys]]
 
 2 types:
 
 - root based (not recommended)
-- [[#AWS%2FIAM][IAM based]] (users/groups)
+- [[id:4378e550-6488-4106-84e4-d5b1adb3d890][IAM based]] (users/groups)

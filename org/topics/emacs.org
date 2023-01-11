@@ -2,6 +2,7 @@
 :ID:       f9f5fffd-d536-45c5-95ee-532d0b756766
 :END:
 #+title: Emacs
+#+filetags: :emacs:ide:
 
 * elfeed
 - 2022-10-24 ◦ [[https://koustuvsinha.com/post/emacs_research_workflow/][A workflow for reading, managing and discovering ML research papers with Emacs | Koustuv Sinha]]

@@ -1,5 +1,6 @@
 +++
 title = "Vitamin D"
+tags = ["nutrition"]
 draft = false
 +++
 
@@ -12,11 +13,11 @@ draft = false
     -   D3
         -   wird normalerweise aus Lanolin (Wollfett) gewonnen
 -   Funktion
-    -   [Kalzium]({{< relref "kalzium.md" >}}) in den Körper schleusen
+    -   in den Körper schleusen
     -   wichtig also für die Knochengesundheit
     -   Vitamin D beeinflusst
         -   das Immunsystem
-        -   die [Insulin]({{< relref "insulin.md" >}})-Freigabe aus der Bauchspeicheldrüse
+        -   die -Freigabe aus der Bauchspeicheldrüse
         -   die Muskelkontraktion
         -   die Zellteilung
 -   Dosierung

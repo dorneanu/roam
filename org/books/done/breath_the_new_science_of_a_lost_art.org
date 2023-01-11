@@ -2,13 +2,9 @@
 :ID:       96cafb5b-c080-45b1-97d7-738f00c535c7
 :END:
 #+title: Breath - The New Science of a Lost Art
-#+filetags: book
+#+filetags: :breathing:book:
 #+date: 2022-05-01
 
-* Breath - The New Science of a Lost Art
-  :PROPERTIES:
-  :FINISHED: 2022-05
-  :END:
 * Description
 - Part 1 - The Experiment
   - Worst Breathers in the animal kingdom

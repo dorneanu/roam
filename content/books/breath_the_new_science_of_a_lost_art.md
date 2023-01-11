@@ -1,12 +1,9 @@
 +++
 title = "Breath - The New Science of a Lost Art"
 date = 2022-05-01
-tags = ["book"]
+tags = ["breathing", "book"]
 draft = false
 +++
-
-## Breath - The New Science of a Lost Art {#breath-the-new-science-of-a-lost-art}
-
 
 ## Description {#description}
 
@@ -14,8 +11,8 @@ draft = false
     -   Worst Breathers in the animal kingdom
         -   Oxygen
             -   Oxygen produces 16 times more energy than carbon dioxide
-                -   That's why [aerobic]({{< relref "../topics/aerobic_respiration.md" >}}) life flourished
-            -   also [Anaerobic respiration]({{< relref "../topics/anaerobic_respiration.md" >}})
+                -   That's why [aerobic]({{< relref "../../topics/aerobic_respiration.md" >}}) life flourished
+            -   also [Anaerobic respiration]({{< relref "../../topics/anaerobic_respiration.md" >}})
         -   Talks about evolution but also [dysevolution](https://www.goodreads.com/en/book/show/17736859-the-story-of-the-human-body)
             -   [Breath - The New Science of a Lost Art - Note 2](#breath-the-new-science-of-a-lost-art-note-2)
             -   [how our life style affects the way we breath](#breath-the-new-science-of-a-lost-art-note-3)
@@ -44,44 +41,44 @@ draft = false
             -   on inhalation: negative pressure pumps blood into the heart
             -   on exhalation: blood shoots into body and lungs
                 -   blood recirculates
-            -   at the power of the thoracic pump is the [Diaphragm]({{< relref "../topics/diaphragm.md" >}})
+            -   at the power of the thoracic pump is the [Diaphragm]({{< relref "../../topics/diaphragm.md" >}})
                 -   typical adult engages it less than 10%
                 -   refered to as "2nd heart" because affects rate and strength of heart rate
             -   Also check out his [breathing coordination exercise](https://optimalbreathing.com/blogs/breathing-methods-and-breathing-work/breathing-coordination)
     -   How breathing works
         -   analogy with rivers and passangers willing to take a ride
         -   the river is the blood
-        -   oxygen is transported by a [protein]({{< relref "../topics/protein.md" >}}) called [Hemoglobin]({{< relref "../topics/hemoglobin.md" >}})
+        -   oxygen is transported by a [protein]({{< relref "../../topics/protein.md" >}}) called
             -   each hemoglobin was room for 4 oxygen molecules
-        -   oxygen is delivered to the hungry cells and leaves "room" empty for [Carbon Dioxide]({{< relref "../topics/carbon_dioxide.md" >}}) to embark
+        -   oxygen is delivered to the hungry cells and leaves "room" empty for [Carbon Dioxide]({{< relref "../../topics/carbon_dioxide.md" >}}) to embark
         -   about the color/appereance of the blood
-            -   blood cells in the veins carry more [Carbon Dioxide]({{< relref "../topics/carbon_dioxide.md" >}}) -&gt; blue color
+            -   blood cells in the veins carry more [Carbon Dioxide]({{< relref "../../topics/carbon_dioxide.md" >}}) -&gt; blue color
             -   arterial blood will carry more oxygen -&gt; red color
-        -   [Carbon Dioxide]({{< relref "../topics/carbon_dioxide.md" >}})
+        -   [Carbon Dioxide]({{< relref "../../topics/carbon_dioxide.md" >}})
             -   has an important role when it comes to weight loss
             -   is, in fact, a more fundamental component of livin matter than oxygen
         -   Oxygen levels rise with slow breathing
             -   only 1/4 of oxygen is returned to the body
             -   the rest ix exhaled out
-        -   on the [The Bohr Effect]({{< relref "../topics/the_bohr_effect.md" >}})
+        -   on the [The Bohr Effect]({{< relref "../../topics/the_bohr_effect.md" >}})
         -   [why inhaling more oxygen has almost no effect](#breath-the-new-science-of-a-lost-art-note-9)
-        -   on [Resonant Breathing]({{< relref "../topics/resonant_breathing.md" >}})
+        -   on [Resonant Breathing]({{< relref "../../topics/resonant_breathing.md" >}})
     -   Less
         -   we've become not only **overeaters** but also **overbreathers**
             -   we need to breathe **less**
-        -   [Buteyko Breathing]({{< relref "../topics/buteyko_breathing.md" >}})
+        -   [Buteyko Breathing]({{< relref "../../topics/buteyko_breathing.md" >}})
         -   but also **Emil Zapotek** who invented [hypoventilation](https://www.hypoventilation-training.com/historical.html)
         -   What happens when we breath to **much**
-            -   to much [Carbon Dioxide]({{< relref "../topics/carbon_dioxide.md" >}}) leaves the body
+            -   to much [Carbon Dioxide]({{< relref "../../topics/carbon_dioxide.md" >}}) leaves the body
                 -   blood pH become more alkaline
             -   when we breathe **slower** and hold in more carbon dioxide, pH lowers and blood becomes more acidic
-        -   how [The Perfect Breath]({{< relref "../topics/the_perfect_breath.md" >}}) looks like
+        -   how [The Perfect Breath]({{< relref "../../topics/the_perfect_breath.md" >}}) looks like
     -   Chew
         -   [Why our diets affect our mouths](#breath-the-new-science-of-a-lost-art-note-11)
         -   [Our ancestors had fewer respiratory diseases](#breath-the-new-science-of-a-lost-art-note-12)
         -   Weston Price (1930)
             -   did research how nutrition affects airways and mouths ("Nutrition and Physical Degeneration")
-            -   cause of shriking mouths and obstructed airways was not just of [Vitamin D]({{< relref "../topics/vitamin_d.md" >}}) or [Vitamin C]({{< relref "../topics/vitamin_c.md" >}}) deficiency but all essential vitamins
+            -   cause of shriking mouths and obstructed airways was not just of [Vitamin D]({{< relref "../../topics/vitamin_d.md" >}}) or [Vitamin C]({{< relref "../../topics/vitamin_c.md" >}}) deficiency but all essential vitamins
             -   but Price was half right
                 -   if our ancestors consumed a full spectrum of vitamins and minerals every day, their mouths would still grow too small, airways would become obstructed
                     -   **chewing** was the problem
@@ -99,30 +96,30 @@ draft = false
                 -   attitudes
                 -   digestions
                 -   moods
-            -   Breathing is like a power switch to the [Autonomic Nervous System]({{< relref "../topics/autonomic_nervous_system.md" >}})
+            -   Breathing is like a power switch to the [Autonomic Nervous System]({{< relref "../../topics/autonomic_nervous_system.md" >}})
                 -   Lungs are connected with nerves that connect to both systems
-                    -   nerves connected to the [Parasympathetic Nervous System]({{< relref "../topics/parasympathetic_nervous_system.md" >}}) are in the lower lobes
-                    -   nerves connect to the [Sympathetic Nervous System]({{< relref "../topics/sympathetic_nervous_system.md" >}}) are the top region of the lungs
+                    -   nerves connected to the [Parasympathetic Nervous System]({{< relref "../../topics/parasympathetic_nervous_system.md" >}}) are in the lower lobes
+                    -   nerves connect to the are the top region of the lungs
                         -   causes sympathetic stress
-        -   on [Tummo]({{< relref "../topics/tummo.md" >}})
+        -   on [Tummo]({{< relref "../../topics/tummo.md" >}})
             -   it was Naropa who made it popular
             -   essential part of [The Wim Hof Method]({{< relref "the_wim_hof_method.md" >}})
             -   [Maurice Daubard](http://www.mauricedaubard.com/) was to practice ice baths long before Wim Hof
-                -   he read books, trained in Yoga and taught himself [Tummo]({{< relref "../topics/tummo.md" >}})
+                -   he read books, trained in Yoga and taught himself [Tummo]({{< relref "../../topics/tummo.md" >}})
                 -   [the human body as a mind](#breath-the-new-science-of-a-lost-art-note-17)
             -   [Alexandra David-Néel](https://www.goodreads.com/author/show/617033.Alexandra_David_N_el) also used this breathing technique during her adventures
                 -   She is most known for her visit to the forbidden (to foreigners) city of Lhasa, capital of Tibet (1924)
             -   professional surfers, mixed martial arts fighters and Navy SEALs use Tummo-style breathing to get into the **zone**
             -   sometimes the body needs a [violent shove](#breath-the-new-science-of-a-lost-art-note-16)
-        -   on [Holotropic Breathwork]({{< relref "../topics/holotropic_breathwork.md" >}})
+        -   on [Holotropic Breathwork]({{< relref "../../topics/holotropic_breathwork.md" >}})
             -   [Dr James Eyerman](https://www.drjameseyerman.com/) used the same technique (had a different name: **Holistic Integrative Psychiatry**) for 30 years and had more than 11000 patients
     -   Hold it
         -   the amygdale is not the only alarm circuit of fear
             -   there is another deeper circuit in our bodies (but in animals, even insects and bacteria) that is generating a more powerful sense of danger
             -   it is the deep fear and crushing anxiety from the feeling of not being able to take another breath
-        -   the need to breathe is activated by a cluster of neurons called [Central Chemoreceptors]({{< relref "../topics/central_chemoreceptors.md" >}})
-            -   they tell the body how to breathe, not by the amount of oxygen but by the level of [Carbon Dioxide]({{< relref "../topics/carbon_dioxide.md" >}}) in our body
-            -   the goal is to make the chemoreceptors wide so they get "used" to high amount of [Carbon Dioxide]({{< relref "../topics/carbon_dioxide.md" >}})
+        -   the need to breathe is activated by a cluster of neurons called [Central Chemoreceptors]({{< relref "../../topics/central_chemoreceptors.md" >}})
+            -   they tell the body how to breathe, not by the amount of oxygen but by the level of [Carbon Dioxide]({{< relref "../../topics/carbon_dioxide.md" >}}) in our body
+            -   the goal is to make the chemoreceptors wide so they get "used" to high amount of [Carbon Dioxide]({{< relref "../../topics/carbon_dioxide.md" >}})
             -   **breathholding** has to be [conscious](#breath-the-new-science-of-a-lost-art-note-15)
         -   chemoreceptors **flexibility** is what distinguishes good athletes from great ones
             -   why mountain climbers can summit Mount Everest without supplemental oxygen
@@ -130,11 +127,11 @@ draft = false
             -   chemoreceptors **flexibility** is what distinguishes good athletes from great ones
                 -   why mountain climbers can summit Mount Everest without supplemental oxygen
                 -   why freedivers can hold their breath underwater for 10 minutes
-                -   they have **trained** their chemoreceptors to adapt to extreme fluctuations in [Carbon Dioxide]({{< relref "../topics/carbon_dioxide.md" >}}) without panic
+                -   they have **trained** their chemoreceptors to adapt to extreme fluctuations in [Carbon Dioxide]({{< relref "../../topics/carbon_dioxide.md" >}}) without panic
     -   Fast, Slow and not at all
         -   [Luiz Sergio Alvarez DeRose](https://derosemethod.org/) also wrote about breathing
-        -   on the concepts of [Prana]({{< relref "../topics/prana.md" >}})
-            -   [Swami Rama](https://www.goodreads.com/author/show/81372.Swami_Rama) brought [Pranayama]({{< relref "../topics/pranayama.md" >}}) to Western cultures
+        -   on the concepts of [Prana]({{< relref "../../topics/prana.md" >}})
+            -   [Swami Rama](https://www.goodreads.com/author/show/81372.Swami_Rama) brought [Pranayama]({{< relref "../../topics/pranayama.md" >}}) to Western cultures
                 -   a so called Superstar of Breathing
                 -   basics of his technique
                     -   lie down, inhale and exhale
@@ -155,7 +152,7 @@ draft = false
                 -   eventually it just stayed there, mucking around without ever doing much (for millions and millions of years)
             -   oxygen was a byproduct of that muck (accumulated in the atmosphere)
                 -   it was a stron electron acceptor
-                -   new muck evolved to consume oxygen, and therefore attracted and exchanged many more electrons than [anaerobic life]({{< relref "../topics/anaerobic_respiration.md" >}})
+                -   new muck evolved to consume oxygen, and therefore attracted and exchanged many more electrons than [anaerobic life]({{< relref "../../topics/anaerobic_respiration.md" >}})
                 -   with this surplus of energy, early life evolved into plants, insects and everything else
             -   "the more oxygen life can consume, the more electron excitability it gains, the more animated it becomes"
                 -   health is all about absorbing and transfering electrons in a controlled way
@@ -163,13 +160,13 @@ draft = false
                         -   they begin to **rust** (same way as metal or leaves when they turn brown)
                         -   but in humans we call it [cancer](#breath-the-new-science-of-a-lost-art-note-21)
             -   breathing slow, less and through the nose will send the maximum amount of oxygen to the tissues so our cells don't lose the electron excitability
-        -   [The Yoga Sutras of Patanjali]({{< relref "../topics/the_yoga_sutras_of_patanjali.md" >}})
+        -   [The Yoga Sutras of Patanjali]({{< relref "../../topics/the_yoga_sutras_of_patanjali.md" >}})
         -   [So many breathing techniques](#breath-the-new-science-of-a-lost-art-note-23)
 -   Researchers
     -   [Anders Olsson](https://www.consciousbreathing.com/meet-anders-olsson/)
     -   Author did some analysis of noses in the [Morton collection](https://www.penn.museum/sites/morton/craniology.php)
     -   Dr. Justin Feinstein
-        -   increase of [Carbon Dioxide]({{< relref "../topics/carbon_dioxide.md" >}}) levels has effect on health improvements
+        -   increase of [Carbon Dioxide]({{< relref "../../topics/carbon_dioxide.md" >}}) levels has effect on health improvements
         -   experimented with low doses of carbon dioxide given to his patients
 -   Books
     -   [The Breath of Life Or Mal-respiration: And Its Effects Upon the Enjoyments &amp; Life of Man](https://www.goodreads.com/book/show/42090716-the-breath-of-life-or-mal-respiration)

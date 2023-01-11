@@ -2,7 +2,7 @@
 :ID:       eaf4614b-8147-4992-a171-3daf87f4ba56
 :END:
 #+title: Wheels of Life
-#+filetags: book
+#+filetags: :breathing:book:
 #+date: 2018-08-01
 
 * Wheels of Life

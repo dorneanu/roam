@@ -155,7 +155,7 @@
     - Each persona has a biography, background, experienced, technical skills, goals and preferences
     - Anti-Personas are the ones who don't follow the normal rules
     - Write attacker stories
-      - These can be tested using TDD
+      - These can be tested using [[id:0a6cd6e0-438f-4e8e-9671-99346b8b534c][TDD]]
 - Tools
   - Owasp ASVS
     - Define acceptance criteria a
@@ -272,7 +272,7 @@
     - Refactoring.guru
       - Reduce technical complexity in code and design through refactoring
     - Design
-      - Apply threat modeling when high-risk changes are made to to the systems attack surface
+      - Apply [[id:2ab5c3e1-1e44-40c8-bac4-687631b1ec7c][Threat Modeling]] when high-risk changes are made to to the systems attack surface
     - Retrospectives
       - When the team looks for improvement, consider security risks
     - Post-mortem reviews
@@ -287,7 +287,7 @@
 - Threat actors
 - Threat and attack targets
 - Threat intelligence
-  - To be incorporated into Agile and [[id:8e892b1e-9536-422f-b5f9-23032a785f43][DevOps]]feedback loops
+  - To be incorporated into Agile and [[id:8e892b1e-9536-422f-b5f9-23032a785f43][DevOps]] feedback loops
 - Threat assessment
   - Attack-driven defense
     - Use information from attacks that are underway in production to drive security priorities
@@ -295,14 +295,15 @@
     - Network
     - Application
     - Human
-- Threat modeling
+- [[id:2ab5c3e1-1e44-40c8-bac4-687631b1ec7c][Threat Modeling]]
+  Threat modeling
   - Identify trust boundaries between components and
     - Read more at page 157
   - Think like a Hacker
-    - STRIDE
+    - [[id:3f94ddfd-0b9c-4a0a-af48-7d99d313a0b3][STRIDE]]
       - Tabelle Seite 159
   - Has to be done in a lightweight, incremental and iterative way since the in the Agile world the attack surface is constantly changing
-* Building Sécure and Usable Systems
+* Building Secure and Usable Systems
 - Different controls can be implementers in order to secure the system
   - Technical controls
     - They mostly address low-hanging fruits or specific edge cases
@@ -326,7 +327,7 @@
   - Perimeterless Security
     - Because to much depends on trust boundaries or a few perimeters
     - Instead systems should be built so that they not assume other points (outside their trust boundaries) are trustworthy
-      - Zero Trust Network
+      - [[id:41423943-a291-4118-84e2-c18141afce41][Zero Trust]] Network
         - [[id:cee85162-b104-4d82-89b3-66c4276190c3][BeyondCorp]]
         - Book: Zero Trust Networks - Building Trusted Systems in Untrusted Networks
     - Everything on the network has to be protected against outside attackers or insiders
@@ -353,7 +354,7 @@
     "You can't secure what you don't understand" - Bruce Schneier
     #+end_quote
 * Code Reviews and Security
-- Resources for coding guidelines
+- Resources for [[/tags/coding][coding]] guidelines
   - Google's coding guidelines for differentiate languages
   - CERT coding standards
   - Microsoft's secure  .NET coding guidelines
@@ -379,7 +380,7 @@
   - That's why a Hacker mindset is important
 - [[id:4f80c135-2897-4ba6-bb22-6d5b5702c5e3][BDD]]
   - Integration tests l
-  - Service level tests against the APIs
+  - Service level tests against the [[id:54bec2ff-12ea-444a-9c79-e33dbdb75d48][API]]s
   - Tools
     - GauntIt
     - BDD-Security

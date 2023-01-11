@@ -1,7 +1,7 @@
 +++
 title = "Buddha und die Wissenschaft vom Glück"
 date = 2017-09-01
-tags = ["book"]
+tags = ["philosophy", "book"]
 draft = false
 +++
 

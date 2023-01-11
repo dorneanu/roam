@@ -6,4 +6,4 @@
 #+title: Another Now: Dispatches from an Alternative Present
 #+type: text/vnd.tiddlywiki
 
-from [[#Vocea%20Natiei][Vocea Natiei]]
+from [[id:9a7b9ce3-a734-4242-9b67-57c1925bc1f2][Vocea Natiei]]

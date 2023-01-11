@@ -2,7 +2,7 @@
 :ID:       85ce0ca6-ed6b-432f-a35b-5a5f51ea6bee
 :END:
 #+created: 20211108090155129
-#+filetags: :book:
+#+filetags: :swe:book:
 #+finished_month: 10
 #+finished_year: 2021
 #+genres: IT DevOps Architecture

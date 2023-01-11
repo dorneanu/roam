@@ -2,7 +2,7 @@
 :ID:       375feca3-2b41-4516-8c34-ae45246c8af7
 :END:
 #+title: Tigan tandari
-#+filetags: book,todo
+#+filetags: :biography:book,todo:
 #+date: 2022-12-01
 
 Read in romanian: https://www.goodreads.com/book/show/60644406-igan-nd-ri

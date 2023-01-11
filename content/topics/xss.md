@@ -20,7 +20,7 @@ Cross-Site-Scripting (XSS)
 ## Advanced attacks {#advanced-attacks}
 
 -   [Reading JWTs from localStorage](https://medium.com/redteam/stealing-jwts-in-localstorage-via-xss-6048d91378a0)
-    -   don't store in the local storage
+    -   don't store [JWT]({{< relref "jwt.md" >}}) in the `local storage`
 
 
 ## XFS {#xfs}
@@ -35,7 +35,7 @@ The `X-Frame-Options` HTTP response header can be used to indicate whether or no
 
 Examples:
 
-```text
+```html
 X-Frame-Options: deny
 X-Frame-Options: sameorigin
 X-Frame-Options: allow-from https://example.com/
@@ -68,7 +68,7 @@ The HTTP Content-Security-Policy response header allows web site administrators 
 
 Example:
 
-```text
+```html
 Content-Security-Policy: default-src 'none'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self';
 ```
 
@@ -81,7 +81,7 @@ The X-XSS-Protection header is designed to enable the cross-site scripting (XSS)
 
 Example:
 
-```text
+```html
 X-XSS-Protection: 1; mode=block
 ```
 

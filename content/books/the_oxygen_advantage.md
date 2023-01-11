@@ -1,7 +1,7 @@
 +++
 title = "The Oxygen Advantage"
 date = 2022-05-01
-tags = ["book"]
+tags = ["breathing", "book"]
 draft = false
 +++
 
@@ -17,7 +17,7 @@ draft = false
     -   [Note 17](#the-oxygen-advantage-note-17)
 -   Effects of CO2
     -   [Note 2](#the-oxygen-advantage-note-2)
--   Oxygen Saturation ()
+-   Oxygen Saturation ([SpO2]({{< relref "../../topics/spo2.md" >}}))
 -   [V̇O2 Max]({{< relref "../../topics/vo2_max.md" >}})
 -
 -

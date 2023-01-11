@@ -11,4 +11,4 @@
 
 - [[https://jwiegley.github.io/git-from-the-bottom-up/][Git from the bottom up]] ([[#Git][Git]])
 - [[https://news.ycombinator.com/item?id=31919548][What do you do to build authentication]]
-  - interesting comments on [[#IAM][IAM]]
+  - interesting comments on [[id:4378e550-6488-4106-84e4-d5b1adb3d890][AWS/IAM]]

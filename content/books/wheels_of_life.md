@@ -1,7 +1,7 @@
 +++
 title = "Wheels of Life"
 date = 2018-08-01
-tags = ["book"]
+tags = ["breathing", "book"]
 draft = false
 +++
 

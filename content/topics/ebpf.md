@@ -4,7 +4,7 @@ draft = false
 +++
 
 -   Kernel side
-    -   either in C or Rust
+    -   either in C or [Rust]({{< relref "rust.md" >}})
 -   userland (more programming languages)
 -   applications loaded directly into the kernel
 -   more secure than kernel modules since there is a verifier which does basic checks against the eBPF bytecode

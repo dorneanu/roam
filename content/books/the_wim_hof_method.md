@@ -1,14 +1,14 @@
 +++
 title = "The Wim Hof Method"
 date = 2020-12-01
-tags = ["book"]
+tags = ["breathing", "book"]
 draft = false
 +++
 
 ## Description {#description}
 
 -   breathing
-    -   through breathe exercises you can control the ratio of and oxygen in your blood
+    -   through breathe exercises you can control the ratio of [Carbon Dioxide]({{< relref "../../topics/carbon_dioxide.md" >}}) and oxygen in your blood
     -   breathing reflex is correlated to the amount of CO2 in your blood
         -   while exhaling more C02 breathe retention time increases
     -   causes **ph** level to increase because CO2 is an **acid** and once exhaled, it brings body to a temporary **alkaline** level

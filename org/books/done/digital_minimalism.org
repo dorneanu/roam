@@ -2,7 +2,7 @@
 :ID:       920da487-1f1a-42b9-b8df-be8ccf1795ac
 :END:
 #+title: Digital Minimalism
-#+filetags: :book:
+#+filetags: :productivity:book:
 #+date: 2022-03-01
 
 * Digital Minimalism

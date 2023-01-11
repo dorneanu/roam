@@ -1,5 +1,6 @@
 +++
 title = "Slow Family (Konzept)"
+tags = ["parenting"]
 draft = false
 +++
 

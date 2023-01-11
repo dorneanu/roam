@@ -27,3 +27,8 @@ draft = false
 
 -   2022-11-21 ◦ [[1903.03422] ABC: A Cryptocurrency-Focused Threat Modeling Framework](https://arxiv.org/abs/1903.03422)
 -   2022-11-21 ◦ [Threat Modeling for the Blockchain — Howard Poston](https://www.howardposton.com/blog/threat-modeling-for-the-blockchain)
+
+
+### Docker {#docker}
+
+-   2023-01-11 ◦ [Docker Threat Model - CloudSecDocs](https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/)

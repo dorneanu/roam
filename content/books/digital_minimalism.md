@@ -1,7 +1,7 @@
 +++
 title = "Digital Minimalism"
 date = 2022-03-01
-tags = ["book"]
+tags = ["productivity", "book"]
 draft = false
 +++
 

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       9328f879-c343-4d0b-a1bd-d22821946279
+:END:
 #+created: 20200727105345049
 #+modified: 20220523151548049
 #+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
@@ -7,7 +10,7 @@
 #+tmap.id: 7e668b85-d48d-46cf-b374-bc7bcbe47e11
 #+type: text/vnd.tiddlywiki
 
-- Ist ein [[#Proteine][Eiweiss]]
+- Ist ein [[id:57a4ec91-8347-4e89-a4a0-1cf506960b61][Eiweiss]]
 - Glutenunverträglichkeit: Zöliakie
   - Immunsystem greift Eiweiß an
   - Es kommt zu Entzündungen

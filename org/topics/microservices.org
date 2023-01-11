@@ -2,6 +2,7 @@
 :ID:       adce7f16-ab79-4935-b73e-71f3740a071f
 :END:
 #+created: 20201007122855765
+#+filetags: :microservices:
 #+modified: 20220804105118503
 #+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]] [[<<. bibliography "Building Microservices (2nd edition)">>]]
 #+revision: 0

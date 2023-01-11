@@ -1,7 +1,7 @@
 +++
 title = "Die kompetente Familie"
 date = 2020-11-01
-tags = ["book"]
+tags = ["parenting", "book"]
 draft = false
 +++
 

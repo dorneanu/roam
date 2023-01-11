@@ -3,7 +3,7 @@
 :END:
 #+title: Building Secure and Reliable Systems
 #+date: 2022-09-01
-#+filetags: book
+#+filetags: :sre:security:book:
 
 * Intersection of Security and Reliability
 

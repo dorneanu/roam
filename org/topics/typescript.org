@@ -1,8 +1,10 @@
+:PROPERTIES:
+:ID:       edcca2c0-c9c2-4a9e-99fc-2673a624893f
+:END:
 #+created: 20220401042702336
+#+filetags: :coding:todo:
 #+modified: 20220401042721493
 #+revision: 0
 #+tags: ProgrammingLanguage
 #+title: TypeScript
 #+type: text/vnd.tiddlywiki
-
-

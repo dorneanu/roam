@@ -1,7 +1,7 @@
 +++
 title = "Tigan tandari"
 date = 2022-12-01
-tags = ["book,todo"]
+tags = ["biography", "book,todo"]
 draft = false
 +++
 

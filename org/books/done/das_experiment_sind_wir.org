@@ -2,7 +2,7 @@
 :ID:       59d9aa39-0ba4-4996-93e8-ed6310e85f2c
 :END:
 #+title: Das Experiment sind wir
-#+filetags: book
+#+filetags: :society:scifi:book:
 #+date: 2021-01-01
 
 * Das Experiment sind wir

@@ -2,7 +2,7 @@
 :ID:       1e4babae-fcb3-42a4-ab95-9384e1c7ee27
 :END:
 #+title: Building Microservices (2nd edition)
-#+filetags: :book:
+#+filetags: :microservices:book:
 #+date: 2022-06-01
 #+macro: zk [[https://tw5.brainfck.org/#$1][$2]]
 

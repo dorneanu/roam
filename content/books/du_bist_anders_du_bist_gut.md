@@ -1,7 +1,7 @@
 +++
 title = "Du bist anders, du bist gut"
 date = 2022-03-01
-tags = ["book", "parenting"]
+tags = ["parenting", "book"]
 draft = false
 +++
 
@@ -37,4 +37,4 @@ draft = false
         -   ruhig, freundlich bleiben
             -   [Gefühlsstarke Kinder]({{< relref "../../topics/gefuhlsstarke_kinder.md" >}}) reagieren extrem auf negative Emotionen / auf Widerstand
         -   Selbstregulation ist sehr wichtig für einen sozial verträglichen Umgang mit Emotionen
-        -
+        -   [Selbstregulation]({{< relref "../../topics/selbstregulation.md" >}})

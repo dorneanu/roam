@@ -10,19 +10,19 @@ Welcome, bine ai venit, willkommen! My name is [[https://dornea.nu][Victor Dorne
 
 Although I still haven't figured out how to perfectly structure my notes, quotes and these are some areas you can read about:
 
-- Coding
+- 🧰 Coding
   - At the moment I mainly develop in [[id:b2831721-165d-4943-a41a-da770d96be41][Golang]] and [[id:e4dd5a6c-5c20-48d4-9d9a-408893dc8ce6][Python]]
   - I like to run my code in a [[id:18f60fef-0abb-4f79-9a17-66182ac7b4bc][Serverless]] environment
   - I like solutions which scale up especially in an [[id:be5bebfe-5df9-4db2-af87-7e80e11723c7][AWS]] context
   - You can check my code at [[https://github.com/dorneanu][github.com/dorneanu]] or [[https://gitlab.com/vdorneanu][gitlab.com/vdorneanu]]
-- [[id:ae2685a1-07d0-4396-8c1c-493596f709dc][Security]]
+- 🔒 [[id:ae2685a1-07d0-4396-8c1c-493596f709dc][Security]]
   - This is such a huge area so I specialized in [[id:56e902f9-0272-4a0d-8e1c-65ee6e62e85f][Application Security]]
   - I try to understand the mathematical concepts behing Cryptography
   - Networking knowledge is still crucial
-- [[/books][Books]]
-  - I like to read a lot and about different topics
+- 📖 [[/books][Books]]
+  - I like to read a lot and about different [[/topics][topics]]
   - I like to collect quotes and thoughts from materials I read
-- Productivity
+- 🏭 [[/tags/productivity][Productivity]]
   - I'm obsessed with optimizing workflows
   - Reading and making notes seems to be a huge science
   - I use Bullet Journaling for making notes and keeping track of my projects

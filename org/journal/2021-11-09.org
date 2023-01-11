@@ -19,4 +19,4 @@
 - [[https://www.heise.de/developer/artikel/Episode-87-Modularisierung-Grundlagen-der-Architektur-6206229.html][Episode 87: Modularisierung -- Grundlagen der Architektur]]
   - Module als Hilfestellung für Menschen, zusammenhängende Einheiten zu erkennen
 - [[https://dynomight.net/cola/][Two conspiracies about Coca Cola]]
-  - about [[#Fruktose][Fruktose]] and [[#Glukose][Glukose]]
+  - about [[#Fruktose][Fruktose]] and [[id:584c7d4c-2d0d-43c0-8283-11c74bbf1a52][Glukose]]

@@ -3,7 +3,7 @@ title = "Nitric oxide"
 draft = false
 +++
 
-Nitric oxide is a compound in the body that causes blood vessels to widen and stimulates the release of certain hormones, such as and human growth hormone. (Wikipedia)
+Nitric oxide is a compound in the body that causes blood vessels to widen and stimulates the release of certain hormones, such as [Insulin]({{< relref "insulin.md" >}}) and human growth hormone. (Wikipedia)
 
 -   biological messenger within the body
 -   signals the muscles within the walls of arterias to relax

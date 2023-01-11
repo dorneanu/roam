@@ -10,7 +10,7 @@
 #+type: text/vnd.tiddlywiki
 
 - [[https://changelog.com/gotime/185][Giving TDD a Go]]
-  - [[#TDD][TDD]] is a process and not only about testing
+  - [[id:0a6cd6e0-438f-4e8e-9671-99346b8b534c][TDD]] is a process and not only about testing
   - it helps you to better design your software
     - not only by making your code more testable
     - but also from a "client" perspective

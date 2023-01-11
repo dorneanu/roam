@@ -96,7 +96,7 @@ There are *links* between switches. There are *2* types of links:
 
 --------------
 
-Belong to only one [[#VLAN][VLAN]] at a time
+Belong to only one [[id:a1cd1632-5d2e-42d9-8603-4c493abb2d32][VLAN]] at a time
 
 ** Commands
 :PROPERTIES:

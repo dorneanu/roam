@@ -1,5 +1,6 @@
 +++
 title = "Buteyko Breathing"
+tags = ["breathing"]
 draft = false
 +++
 

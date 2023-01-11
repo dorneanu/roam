@@ -2,6 +2,7 @@
 :ID:       3614b072-a1e1-4da1-8d60-1a2880d52d66
 :END:
 #+title: org-mode
+#+filetags: :emacs:
 
 * Links
 ** General Config

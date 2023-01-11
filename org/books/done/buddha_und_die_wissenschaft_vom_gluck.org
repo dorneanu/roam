@@ -2,7 +2,7 @@
 :ID:       742d5cb7-cf9b-4fae-981f-1ea6efada208
 :END:
 #+title: Buddha und die Wissenschaft vom Glück
-#+filetags: book
+#+filetags: :philosophy:book:
 #+date: 2017-09-01
 
 * Buddha und die Wissenschaft vom Glück

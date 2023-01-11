@@ -11,10 +11,10 @@
 
 - [[https://octoverse.github.com/][The 2020 State of the Octoverse]]
   - Especially the [[https://octoverse.github.com/static/2020-security-report.pdf][Security Report]]
-- [[https://changelog.com/gotime/151][Introducing your team to Go]]
+- [[https://changelog.com/gotime/151][Introducing your team to Go]] ([[id:b2831721-165d-4943-a41a-da770d96be41][Golang]])
   - Start with a small project
   - Lots of devs write code, but writing good software is hard
-  - ([[id:b2831721-165d-4943-a41a-da770d96be41][Golang]]) is backwards compatible
+  - [[id:b2831721-165d-4943-a41a-da770d96be41][Golang]] is backwards compatible
   - doesn't do to much magic (like Ruby)
     - is also an advantage
   - It might be a good start for a CLI tool
@@ -22,7 +22,7 @@
     - a motivated dev might easily learn it
     - managers are not aware about that (also lots of non-gophers search jobs with Go because they want to learn the language)
   - be clear about expectations (if Go code can do better than others)
-- [[https://ep2020.europython.eu/media/conference/slides/9kugWub-clean-architectures-in-python.pdf][Clean Architectures in Python]]
+- [[https://ep2020.europython.eu/media/conference/slides/9kugWub-clean-architectures-in-python.pdf][Clean Architectures in Python]] ([[id:e4dd5a6c-5c20-48d4-9d9a-408893dc8ce6][Python]])
   - A practical approach to better software design using clean architecture
-- [[https://dev.to/l04db4l4nc3r/clean-architecture-the-right-way-1dfk][Clean Architecture, the right way]]
+- [[https://dev.to/l04db4l4nc3r/clean-architecture-the-right-way-1dfk][Clean Architecture, the right way]] ([[id:b2831721-165d-4943-a41a-da770d96be41][Golang]])
   - this is the Golang way

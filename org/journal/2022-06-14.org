@@ -12,7 +12,7 @@
 - [[https://protesilaos.com/emacs/denote][denote]]
   - Note taking system for [[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]]
 - [[https://vxlabs.com/2022/06/12/typescript-development-with-emacs-tree-sitter-and-lsp-in-2022/][TypeScript development with Emacs, tree-sitter and LSP in 2022]]
-  - use of tree-sitter in [[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]] for [[#TypeScript][TypeScript]] (and React)
+  - use of tree-sitter in [[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]] for [[id:edcca2c0-c9c2-4a9e-99fc-2673a624893f][TypeScript]] (and React)
   - also [[https://github.com/radian-software/apheleia][apheleia]] might be of interest
   - [[https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages][structural editing]]
 - [[https://www.fugue.co/blog/an-introduction-to-cloud-security-for-infosec-professionals][Introduction to Cloud Security for InfoSec Professionals]]
@@ -23,7 +23,7 @@
   - Time management
     - Capture
       - Storage of information that is used to take decisions
-      - David Allen ([[#GTD][GTD]])
+      - David Allen ([[id:d51b22f5-25fa-4cfa-b9e3-2b72259db821][GTD]])
       - Don't waste mental energy to remember things
     - Configure
       - Take care about how your organizez your information

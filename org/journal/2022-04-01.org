@@ -15,4 +15,4 @@
   - [[https://github.com/sirbully/golang-nextjs-docker]]
   - [[https://jasonraimondi.com/posts/create-a-secured-rest-api-for-a-next-js-application-using-jwt-and-golang/]]
     - series of posts
-    - uses [[https://echo.labstack.com/][echo]] , next.js and [[#TypeScript][TypeScript]]
+    - uses [[https://echo.labstack.com/][echo]] , next.js and [[id:edcca2c0-c9c2-4a9e-99fc-2673a624893f][TypeScript]]

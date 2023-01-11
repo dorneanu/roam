@@ -1,5 +1,6 @@
 +++
 title = "Prometheus"
+tags = ["monitoring"]
 draft = false
 +++
 

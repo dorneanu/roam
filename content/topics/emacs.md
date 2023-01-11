@@ -1,5 +1,6 @@
 +++
 title = "Emacs"
+tags = ["emacs", "ide"]
 draft = false
 +++
 

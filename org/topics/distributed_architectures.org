@@ -15,6 +15,6 @@
   - Hybrid
   - Structured
     - [[#DHT][DHT]] (Distributed Hash Tables)
-- [[#Event-Driven%20Architecture][Event-Driven Architecture]]
+- [[id:35842e92-c5a3-4784-9480-3baeed2633e6][Event-Driven Architecture]]
 - Distributed computations
   - [[#MapReduce][MapReduce]]

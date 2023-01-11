@@ -2,7 +2,7 @@
 :ID:       080428a6-c6a7-472c-b807-0a172a7bd0a2
 :END:
 #+title: Du bist anders, du bist gut
-#+filetags: :book:parenting:
+#+filetags: :parenting:book:
 #+date: 2022-03-01
 
 * Du bist anders, du bist gut
@@ -37,4 +37,4 @@
     - ruhig, freundlich bleiben
       - [[id:4789eb41-9d72-4fb0-bd5b-80c87cb2918c][Gefühlsstarke Kinder]] reagieren extrem auf negative Emotionen / auf Widerstand
     - Selbstregulation ist sehr wichtig für einen sozial verträglichen Umgang mit Emotionen
-    - [[#Selbstregulation%2FZutaten][Selbstregulation/Zutaten]]
+    - [[id:cbfafa4f-4893-431a-bb11-7379e443fc29][Selbstregulation]]

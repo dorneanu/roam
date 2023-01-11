@@ -1,5 +1,6 @@
 +++
 title = "Fruktose"
+tags = ["nutrition"]
 draft = false
 +++
 

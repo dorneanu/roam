@@ -2,7 +2,7 @@
 :ID:       9e09fbac-65ad-4d7e-9bdc-4c75cfd230d6
 :END:
 #+created: 20210510172839454
-#+filetags: :book:
+#+filetags: :scifi:book:
 #+finished_month: 05
 #+finished_year: 2021
 #+genres: Sci-Fi 

@@ -1,7 +1,7 @@
 +++
 title = "Accelerate"
 date = 2021-10-01
-tags = ["book"]
+tags = ["swe", "book"]
 draft = false
 +++
 

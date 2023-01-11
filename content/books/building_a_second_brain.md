@@ -1,7 +1,7 @@
 +++
 title = "Building a Second Brain"
 date = 2022-08-31
-tags = ["book"]
+tags = ["basb", "productivity", "book"]
 draft = false
 +++
 

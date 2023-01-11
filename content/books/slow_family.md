@@ -1,7 +1,7 @@
 +++
 title = "Slow Family"
 date = 2020-11-01
-tags = ["book"]
+tags = ["parenting", "book"]
 draft = false
 +++
 
@@ -12,7 +12,7 @@ draft = false
     -   Natur
     -   Achtsamkeit
     -   Menschen
-        -   der [Mere-Exposure Effect]({{< relref "../topics/mere_exposure_effect.md" >}}) ist auch bei Menschen zu beobachten
+        -   der [Mere-Exposure Effect]({{< relref "../../topics/mere_exposure_effect.md" >}}) ist auch bei Menschen zu beobachten
     -   Resourcen
     -   Wissen
     -   Zauber

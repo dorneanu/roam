@@ -9,7 +9,7 @@
 #+date: 2022-04-05
 #+type: text/vnd.tiddlywiki
 
-- On the Security of [[#JWT][JWT]]
+- On the Security of [[id:8b4bec8f-ec46-4edf-b236-2d295089f94d][JWT]]
   - [[https://datatracker.ietf.org/doc/html/draft-ietf-oauth-jwt-bcp-07]]
   - [[https://curity.io/resources/learn/jwt-best-practices/]]
   - [[http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/]]

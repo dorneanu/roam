@@ -11,5 +11,5 @@
 
 - [[https://www1.wdr.de/mediathek/audio/wdr3/wdr3-kulturfeature/audio-wie-edward-bernays-massen-manipulierte---der-vater-der-propaganda-102.html][Wie Edward Bernays Massen manipulierte - Der Vater der Propaganda]]
   - wurde auch in [[#Cui%20Bono%3A%20WTF%20happened%20to%20Ken%20Jebsen%3F][Cui Bono: WTF happened to Ken Jebsen?]] erwähnt
-- [[https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Snippets.html][Elisp Snippets]]
-  - great examples for [[#Lisp][Lisp]]
+- [[https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Snippets.html][Elisp Snippets]] ([[id:8bad9d0e-35a7-430e-aa21-2300690443b2][Lisp]])
+  - great examples for [[id:8bad9d0e-35a7-430e-aa21-2300690443b2][Lisp]]

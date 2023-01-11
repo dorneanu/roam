@@ -2,7 +2,7 @@
 :ID:       a4a146e8-291a-4f79-92e4-b74f5d7204e2
 :END:
 #+title: Building a Second Brain
-#+filetags: book
+#+filetags: :basb:productivity:book:
 #+date: 2022-08-31
 
 - goodreads :: [[https://www.goodreads.com/book/show/59616977-building-a-second-brain]]

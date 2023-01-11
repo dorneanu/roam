@@ -2,7 +2,7 @@
 :ID:       7a0a99bf-b194-4540-a5ea-7fda082f48f2
 :END:
 #+title: Dein kompetentes Kind
-#+filetags: book
+#+filetags: :parenting:book:
 #+date: 2020-11-01
 
 * Dein kompetentes Kind

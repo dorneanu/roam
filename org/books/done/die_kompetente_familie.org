@@ -2,7 +2,7 @@
 :ID:       5bfb7288-356d-4d69-b58a-7ca9acd06544
 :END:
 #+title: Die kompetente Familie
-#+filetags: book
+#+filetags: :parenting:book:
 #+date: 2020-11-01
 
 * Die kompetente Familie

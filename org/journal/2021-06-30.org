@@ -10,12 +10,12 @@
 #+type: text/vnd.tiddlywiki
 
 - [[https://changelog.com/gotime/179][Go Time -- Episode #179 - Event-Driven System]]
-  - talk about [[#Event-Driven%20Architecture][Event-Driven Architecture]]
+  - talk about [[id:35842e92-c5a3-4784-9480-3baeed2633e6][Event-Driven Architecture]]
   - a messaging bus is mostly more efficient (and faster) for sending messages than HTTP requests
   - apply /item-potency/
     - assume a message won't be delivered only 'once'
     - asseme a state change beging delivered to late won't have any impact
-  - EDA is not [[#Event%20Sourcing][Event Sourcing]]
+  - [[id:35842e92-c5a3-4784-9480-3baeed2633e6][EDA]] is not [[#Event%20Sourcing][Event Sourcing]]
   - Protobuf is recommened to use
     - don't use JSON since it'll cause lots of problems
     - along with [[https://www.rabbitmq.com/][rabbitmq]]

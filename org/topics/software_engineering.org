@@ -1,4 +1,8 @@
+:PROPERTIES:
+:ID:       9d08f7e9-61d1-454d-9e0f-79a5f2b94a11
+:END:
 #+created: 20201005081209082
+#+filetags: :swe:
 #+modified: 20210622082008964
 #+origin: [[<<. bibliography "The Clean Architecture">>]]
 #+revision: 0
@@ -13,35 +17,30 @@
 :END:
 - High-level design
 
-#+begin_quote
-This is the decomposition of the system into high-level components. This serves as the blueprint that the product and code need to follow at every stage of the product development life cycle. For example, once we have a layered architecture (see the following section), then we can easily identify for any new requirement to which layer each new component should
-
-#+end_quote
+  #+begin_quote
+  This is the decomposition of the system into high-level components. This serves as the blueprint that the product and code need to follow at every stage of the product development life cycle. For example, once we have a layered architecture (see the following section), then we can easily identify for any new requirement to which layer each new component should
+  #+end_quote
 
 - Quality attributes
 
-#+begin_quote
-We want high quality code, and this means no code checking would be allowed without unit tests and 90% code coverage
+  #+begin_quote
+  We want high quality code, and this means no code checking would be allowed without unit tests and 90% code coverage
+  #+end_quote
 
-#+end_quote
+- Product velocity
 
-- Prodct velocity
-
-#+begin_quote
-The product has a bounded value in time and, to ensure that there is high developer productivity, the team should build Continuous Integration / Continuous Deployment (CICD) pipelines from the start.
-
-#+end_quote
+  #+begin_quote
+  The product has a bounded value in time and, to ensure that there is high developer productivity, the team should build Continuous Integration / Continuous Deployment (CICD) pipelines from the start.
+  #+end_quote
 
 - A/B testing
 
-#+begin_quote
-Every feature should have a flag, so that it can be shown only to an x percentage of users
-
-#+end_quote
+  #+begin_quote
+  Every feature should have a flag, so that it can be shown only to an x percentage of users
+  #+end_quote
 
 * Other requirements
 :PROPERTIES:
 :CUSTOM_ID: other-requirements
 :END:
-- 
-  - To fulfill its purpose, software must be soft---that is, it must be easy to change. When the stakeholders change their minds about a feature, that change should be simple and easy to make
+ - To fulfill its purpose, software must be soft---that is, it must be easy to change. When the stakeholders change their minds about a feature, that change should be simple and easy to make

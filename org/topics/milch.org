@@ -7,7 +7,7 @@
 #+tmap.id: f1231704-3424-4664-8215-9379beae9985
 #+type: text/x-markdown
 
-- Besteht aus [[#Glukose][Glukose]] und Galaktose
+- Besteht aus [[id:584c7d4c-2d0d-43c0-8283-11c74bbf1a52][Glukose]] und Galaktose
 - Galaktose führt zur Verklumpung: Das Sterblichkeitsrisiko steigt
 - Die meisten Studien zur Milch sind von der Industrie finanziert
 - Fermentierte Milch ([[#K%C3%A4se][Käse]], Joghurt etc.) hat genau den gegenteiligen Effekt

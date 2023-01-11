@@ -10,7 +10,7 @@ draft = false
 
 ## Title options {#title-options}
 
--   Build Security software using Golang
+-   Build Security software using [Golang]({{< relref "golang.md" >}})
 -   Go, build some Security products!
 -   Building Security like a Gopher
 -   Clean, Cleaner, Gopher: Build enterprise Security products using Golang

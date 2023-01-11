@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       6a6d683a-af49-4d44-a9a5-1df56d20c829
+:END:
 #+created: 20151008155539937
 #+creator: boru
 #+modified: 20210518184433456

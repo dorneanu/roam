@@ -2,6 +2,7 @@
 :ID:       b331244a-19e4-4f88-ba9f-e8b6d70c2871
 :END:
 #+created: 20200727110317304
+#+filetags: :nutrition:
 #+modified: 20210519071407093
 #+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]] https://www.jedes-essen-zaehlt.de/
 #+revision: 0

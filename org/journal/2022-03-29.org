@@ -10,4 +10,4 @@
 #+type: text/vnd.tiddlywiki
 
 - [[https://chathura-ekanayake.medium.com/applying-event-driven-architecture-in-digital-transformation-projects-acbcb27440af][Applying Event-Driven Architecture in Digital Transformation Projects]]
-  - how to apply [[#Event-Driven%20Architecture][Event-Driven Architecture]] to [[#IoT][IoT]]
+  - how to apply [[id:35842e92-c5a3-4784-9480-3baeed2633e6][Event-Driven Architecture]] to [[#IoT][IoT]]

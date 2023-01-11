@@ -11,5 +11,5 @@
 
 - [[https://chaosradio.de/cr269-blockchain-die]["Blockchain, die" von chaosradio]]
   - about [[#NFT][NFT]]s
-  - why [[#Blockchain][Blockchain]]s won't solve all humanity's problems
+  - why [[id:78473bbe-c9e0-4033-9292-04e875dbb89f][Blockchain]]s won't solve all humanity's problems
   - and why [[#Bitcoin][Bitcoin]] is a speculative bubble like all other blockchain based products (?)

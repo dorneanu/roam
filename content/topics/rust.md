@@ -1,5 +1,6 @@
 +++
 title = "Rust"
+tags = ["coding"]
 draft = false
 +++
 

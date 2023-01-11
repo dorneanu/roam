@@ -199,7 +199,7 @@ draft = false
         -   Each persona has a biography, background, experienced, technical skills, goals and preferences
         -   Anti-Personas are the ones who don't follow the normal rules
         -   Write attacker stories
-            -   These can be tested using TDD
+            -   These can be tested using [TDD]({{< relref "../../topics/tdd.md" >}})
 -   Tools
     -   Owasp ASVS
         -   Define acceptance criteria a
@@ -321,7 +321,7 @@ draft = false
         -   Refactoring.guru
             -   Reduce technical complexity in code and design through refactoring
         -   Design
-            -   Apply threat modeling when high-risk changes are made to to the systems attack surface
+            -   Apply [Threat Modeling]({{< relref "../../topics/threat_modeling.md" >}}) when high-risk changes are made to to the systems attack surface
         -   Retrospectives
             -   When the team looks for improvement, consider security risks
         -   Post-mortem reviews
@@ -338,7 +338,7 @@ draft = false
 -   Threat actors
 -   Threat and attack targets
 -   Threat intelligence
-    -   To be incorporated into Agile and [DevOps]({{< relref "../../topics/devops.md" >}})feedback loops
+    -   To be incorporated into Agile and [DevOps]({{< relref "../../topics/devops.md" >}}) feedback loops
 -   Threat assessment
     -   Attack-driven defense
         -   Use information from attacks that are underway in production to drive security priorities
@@ -346,16 +346,17 @@ draft = false
         -   Network
         -   Application
         -   Human
--   Threat modeling
+-   [Threat Modeling]({{< relref "../../topics/threat_modeling.md" >}})
+    Threat modeling
     -   Identify trust boundaries between components and
         -   Read more at page 157
     -   Think like a Hacker
-        -   STRIDE
+        -   [STRIDE]({{< relref "../../topics/threat_modeling.md#stride" >}})
             -   Tabelle Seite 159
     -   Has to be done in a lightweight, incremental and iterative way since the in the Agile world the attack surface is constantly changing
 
 
-## Building Sécure and Usable Systems {#building-sécure-and-usable-systems}
+## Building Secure and Usable Systems {#building-secure-and-usable-systems}
 
 -   Different controls can be implementers in order to secure the system
     -   Technical controls
@@ -380,7 +381,7 @@ draft = false
     -   Perimeterless Security
         -   Because to much depends on trust boundaries or a few perimeters
         -   Instead systems should be built so that they not assume other points (outside their trust boundaries) are trustworthy
-            -   Zero Trust Network
+            -   [Zero Trust]({{< relref "../../topics/zero_trust.md" >}}) Network
                 -   [BeyondCorp]({{< relref "../../topics/beyondcorp.md" >}})
                 -   Book: Zero Trust Networks - Building Trusted Systems in Untrusted Networks
         -   Everything on the network has to be protected against outside attackers or insiders
@@ -409,7 +410,7 @@ draft = false
 
 ## Code Reviews and Security {#code-reviews-and-security}
 
--   Resources for coding guidelines
+-   Resources for [coding](/tags/coding) guidelines
     -   Google's coding guidelines for differentiate languages
     -   CERT coding standards
     -   Microsoft's secure  .NET coding guidelines
@@ -437,7 +438,7 @@ draft = false
     -   That's why a Hacker mindset is important
 -   [BDD]({{< relref "../../topics/bdd.md" >}})
     -   Integration tests l
-    -   Service level tests against the APIs
+    -   Service level tests against the [API]({{< relref "../../topics/api.md" >}})s
     -   Tools
         -   GauntIt
         -   BDD-Security

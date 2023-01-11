@@ -1,5 +1,6 @@
 +++
 title = "org-mode"
+tags = ["emacs"]
 draft = false
 +++
 

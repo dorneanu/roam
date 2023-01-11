@@ -1,7 +1,7 @@
 +++
 title = "Das Zettelkasten-Prinzip"
 date = 2020-09-01
-tags = ["book"]
+tags = ["basb", "book"]
 draft = false
 +++
 

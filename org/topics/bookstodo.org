@@ -70,3 +70,4 @@
 - 2023-01-02 ◦ [[https://www.goodreads.com/book/show/34466963-why-we-sleep][Why We Sleep: Unlocking the Power of Sleep and Dreams by Matthew Walker]]
 - 2023-01-02 ◦ [[https://www.goodreads.com/en/book/show/37786022-storyworthy][Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling by Matthew Dicks]]
 - 2023-01-02 ◦ [[https://www.goodreads.com/en/book/show/56913172-the-minimalist-entrepreneur][The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia]]
+- 2023-01-10 ◦ [[https://www.goodreads.com/en/book/show/49828197-the-software-architect-elevator][The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture by Gregor Hohpe]]

@@ -2,7 +2,7 @@
 :ID:       5329cb10-9f3e-4311-bc69-542775991244
 :END:
 #+title: org-roam
-#+filetags: :org:
+#+filetags: :emacs:org:
 * Capturing
 - 2022-11-22 ◦ [[https://gist.github.com/nickanderson/00005b5b03e323a65ada98c5fa5ebb11][An example workflow with Org-roam https://www.reddit.com/r/emacs/comments/ysfcmx/comment/iw3cl4u · GitHub]]
 * Functions
@@ -10,7 +10,7 @@
 * Articles
 - 2022-08-30 ◦ [[https://renatgalimov.github.io/org-basb-code/][Emacs CODE implementation]]
   - some workflows
-  - implements ~CODE~ as proposed by Tiago Forte
+  - implements ~CODE~ as proposed by [[id:a4a146e8-291a-4f79-92e4-b74f5d7204e2][Tiago Forte]]
 - 2022-08-30 ◦ [[https://www.eigenbahn.com/2021/09/15/org-roam][Graphing my External Brain with Org-Roam | Eigenbahn blog]]
 - 2022-08-22 ◦ [[https://systemcrafters.net/build-a-second-brain-in-emacs/5-org-roam-hacks/][5 Org Roam Hacks for Better Productivity in Emacs - System Crafters]]
 * Examples

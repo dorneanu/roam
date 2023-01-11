@@ -11,6 +11,6 @@ draft = false
 -   -   Hybrid
     -   Structured
         -   (Distributed Hash Tables)
--
+-   [Event-Driven Architecture]({{< relref "event-driven_architecture.md" >}})
 -   Distributed computations
     -

@@ -2,6 +2,7 @@
 :ID:       aa54f260-99c5-4640-9bb0-ca4bffef03f9
 :END:
 #+title: Slow Family (Konzept)
+#+filetags: :parenting:
 #+created: 20201209084538693
 #+modified: 20210518184432922
 #+origin: [[<<. bibliography "Slow Family">>]]

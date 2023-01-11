@@ -9,4 +9,4 @@
 
 - Bakterium, das den Alterungsprozess stoppt
 - Deaktiviert [[#mTOR][mTOR]] und führt zur Autophagie (Selbstverzehrung)
-  - Zelle fängt an, ihren Zellschrott (so genannte Organelle: verklumpte [[#Proteine][Eiweißmoleküle]]) zu verdauen
+  - Zelle fängt an, ihren Zellschrott (so genannte Organelle: verklumpte [[id:57a4ec91-8347-4e89-a4a0-1cf506960b61][Proteine]]) zu verdauen

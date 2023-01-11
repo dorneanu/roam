@@ -10,4 +10,4 @@
 #+type: text/vnd.tiddlywiki
 
 - [[https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0]]
-  - 40,000 [[#HackerNews][HackerNews]] book recommendations identified using NLP and deep learning
+  - 40,000 [[id:91f33643-b126-4383-9ffb-af8c379a28d9][HackerNews]] book recommendations identified using NLP and deep learning

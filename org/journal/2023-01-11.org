@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       df4e4096-93b9-477b-979b-bae21ec12df6
+:END:
+#+TITLE: 2023-01-11
+#+DATE: 2023-01-11
+#+FILETAGS: journal
+
+- 2023-01-11 ◦ [[https://time.com/charter/6211250/hybrid-work-nicholas-bloom/][What We Know Now About the Business Impact of Hybrid Work | Time]]
+  - by Nicolas Bloom
+  - first time read in [[id:05a8e9a4-872a-45af-a7eb-52827db9a360][The Lonely Century]]
+- 2023-01-11 ◦ [[https://musclewiki.com/][MuscleWiki]]
+- 2023-01-11 ◦ [[https://www.scotthyoung.com/blog/2023/01/10/recommended-books-2022/][The Ten Books that Influenced Me the Most in 2022 - Scott H Young]]

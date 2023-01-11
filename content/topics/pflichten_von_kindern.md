@@ -6,7 +6,7 @@ draft = false
 -   Forschung sagt, dass Kinder im Alter von bis zu 8 Jahren spielerisch lernen sollten
 -   Pflichten haben nichts mit Liebe zu tun
     -   Beispiel: "Wenn du das nicht machst, ist Mama böse!"
--   es geht vielmehr darum, ein Gefühl von an die Kinder zu übermitteln, aus sich selbst heraus zu entscheiden, statt es aufgezwungen zu bekommen
+-   es geht vielmehr darum, ein Gefühl von [Verantwortung]({{< relref "verantwortung_nach_juul.md" >}}) an die Kinder zu übermitteln, aus sich selbst heraus zu entscheiden, statt es aufgezwungen zu bekommen
 -   Leitfragen/-gedanken für die Eltern
     -   Welches Interesse wird bedient, wenn Kinder Pflichten haben?
     -   Sind es Pflichten oder eher Aufgaben?

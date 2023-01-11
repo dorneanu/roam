@@ -1,8 +1,13 @@
+:PROPERTIES:
+:ID:       8bad9d0e-35a7-430e-aa21-2300690443b2
+:END:
 #+created: 20210816122213694
+#+filetags: :coding:
 #+modified: 20210903085709816
 #+revision: 0
 #+tags: ProgrammingLanguage
 #+title: Lisp
 #+type: text/vnd.tiddlywiki
 
-
+- 2023-01-11 ◦ [[https://www.reddit.com/r/emacs/comments/1051bfu/what_packages_do_i_need_to_for_the_best_elisp/][What packages do I need to for the best elisp editing environment? : emacs]]
+- 2023-01-11 ◦ [[https://llthw.common-lisp.dev/][Second Draft (in-progress) · Learn Lisp The Hard Way]]

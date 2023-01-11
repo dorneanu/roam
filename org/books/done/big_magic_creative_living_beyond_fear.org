@@ -2,7 +2,7 @@
 :ID:       d7bf67da-2591-4299-bb9c-498bd6a3478e
 :END:
 #+title: Big Magic: Creative Living Beyond Fear
-#+filetags: book,todo
+#+filetags: :creativity:book,todo:
 #+date: 2022-12-07
 
 - https://www.goodreads.com/book/show/24453082-big-magic

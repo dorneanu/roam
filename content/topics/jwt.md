@@ -3,6 +3,8 @@ title = "JWT"
 draft = false
 +++
 
+## General {#general}
+
 -   defined in [RFC 7519](https://tools.ietf.org/html/rfc7519)
     -   also contains security recommendations
 -   used as bearer access token
@@ -16,3 +18,8 @@ draft = false
 -   always check the audience
 -   Structure
     -   A JWT token looks like this: ~ ..~ \* Security **\* cookies vs. JWT \*\*** cookies are a storage mechanism **\*** JWT are cryptographically signed tokens \* resources **\* <https://curity.io/resources/learn/jwt-best-practices/> \*** <https://datatracker.ietf.org/doc/html/draft-ietf-oauth-jwt-bcp-07> **\* <http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/> \*** <http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/> **\* <https://evertpot.com/jwt-is-a-bad-default/> \*** [Why JWTs Are Bad for Authentication -- Randall Degges (Head of Dev Relations, Okta)](https://www.youtube.com/watch?v=GdJ0wFi1Jyo)
+
+
+## Vulnerabilities {#vulnerabilities}
+
+-   2023-01-11 ◦ [Disclosing a New Vulnerability in JWT Secret Poisoning (CVE-2022-23529)](https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/)

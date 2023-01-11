@@ -17,9 +17,14 @@
 - 2022-11-29 ◦ [[https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html][Threat Modeling - OWASP Cheat Sheet Series]]
 - 2022-11-10 ◦ [[https://github.com/TalEliyahu/Threat_Model_Examples][Threat Model Examples]]
 ** STRIDE
+:PROPERTIES:
+:ID:       3f94ddfd-0b9c-4a0a-af48-7d99d313a0b3
+:END:
 - 2022-12-14 ◦ [[https://owasp.org/www-pdf-archive/STRIDE_Reference_Sheets.pdf][OWASP STRIDE reference sheets]]
 - 2022-11-30 ◦ [[https://dr-knz.net/stride-threat-model-with-examples.html][The STRIDE threat model with examples]]
 - 2022-11-29 ◦ [[https://haiderm.com/stride-threat-modelling-vs-dread-threat-modelling/][STRIDE Threat Modelling vs DREAD Threat Modelling]]
 ** Blockchains
 - 2022-11-21 ◦ [[https://arxiv.org/abs/1903.03422][[1903.03422] ABC: A Cryptocurrency-Focused Threat Modeling Framework]]
 - 2022-11-21 ◦ [[https://www.howardposton.com/blog/threat-modeling-for-the-blockchain][Threat Modeling for the Blockchain — Howard Poston]]
+** Docker
+- 2023-01-11 ◦ [[https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/][Docker Threat Model - CloudSecDocs]]

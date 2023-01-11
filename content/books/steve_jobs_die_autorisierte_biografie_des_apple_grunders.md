@@ -1,7 +1,7 @@
 +++
 title = "Steve Jobs: Die autorisierte Biografie des Apple-Gründers"
 date = 2018-07-01
-tags = ["book"]
+tags = ["biography", "book"]
 draft = false
 +++
 

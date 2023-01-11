@@ -2,7 +2,7 @@
 :ID:       9313ea4b-398c-4933-a55c-67e07c05e68d
 :END:
 #+title: The Dip
-#+filetags: book todo
+#+filetags: :productivity:book todo:
 #+date: 2022-10-29
 
 Goodreads: https://www.goodreads.com/en/book/show/324748.The_Dip

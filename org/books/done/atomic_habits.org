@@ -2,7 +2,7 @@
 :ID:       8d4b1325-b284-45d6-a99d-bed176a67a6e
 :END:
 #+title: Atomic Habits
-#+filetags: :book:
+#+filetags: :productivity:book:
 #+date: 2020-11-01
 
 * Atomic Habits

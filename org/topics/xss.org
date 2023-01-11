@@ -28,7 +28,7 @@
 :CUSTOM_ID: advanced-attacks
 :END:
 - [[https://medium.com/redteam/stealing-jwts-in-localstorage-via-xss-6048d91378a0][Reading JWTs from localStorage]]
-  - don't store [[#JWT][JWT]] in the local storage
+  - don't store [[id:8b4bec8f-ec46-4edf-b236-2d295089f94d][JWT]] in the ~local storage~
 
 * XFS
 :PROPERTIES:
@@ -44,11 +44,11 @@ The =X-Frame-Options= HTTP response header can be used to indicate whether or no
 
 Examples:
 
-#+begin_example
+#+begin_src html
 X-Frame-Options: deny
 X-Frame-Options: sameorigin
 X-Frame-Options: allow-from https://example.com/
-#+end_example
+#+end_src
 
 * Mitigations
 :PROPERTIES:
@@ -82,9 +82,9 @@ The HTTP Content-Security-Policy response header allows web site administrators 
 
 Example:
 
-#+begin_example
+#+begin_src html
 Content-Security-Policy: default-src 'none'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self';
-#+end_example
+#+end_src
 
 This policy allows images, scripts, AJAX, and CSS from the same origin, and does not allow any other resources to load (eg. object, frame, media, etc).
 
@@ -96,9 +96,9 @@ The X-XSS-Protection header is designed to enable the cross-site scripting (XSS)
 
 Example:
 
-#+begin_example
+#+begin_src html
 X-XSS-Protection: 1; mode=block
-#+end_example
+#+end_src
 
 =1; mode=block= value also enables the XSS Filter and rather than sanitize the page, when an XSS attack is detected, the browser will prevent rendering of the page
 

@@ -1,7 +1,7 @@
 +++
 title = "Der Ernährungskompass"
 date = 2020-03-01
-tags = ["book"]
+tags = ["nutrition", "book"]
 draft = false
 +++
 
@@ -30,11 +30,8 @@ draft = false
 
 ### Der Eiweisseffekt {#der-eiweisseffekt}
 
-
-#### Tiere sind auf Proteinsuche bis sie ihren Proteinbedarf gedeckt haben {#tiere-sind-auf-proteinsuche-bis-sie-ihren-proteinbedarf-gedeckt-haben}
-
-
-#### Zu viele Proteine sind auch nicht gut, da sie den Alterungsprozess begünstigen {#zu-viele-proteine-sind-auch-nicht-gut-da-sie-den-alterungsprozess-begünstigen}
+-   Tiere sind auf Proteinsuche bis sie ihren Proteinbedarf gedeckt haben
+-   Zu viele [Proteine]({{< relref "../../topics/protein.md" >}}) sind auch nicht gut, da sie den Alterungsprozess begünstigen
 
 
 ### Insektenforscher {#insektenforscher}
@@ -50,14 +47,14 @@ draft = false
 -   Von Rachel Batley
 -   Proteinhunger sorgt dafür, dass weniger Kohlenhydrate/Fette
     zugeführt werden
--   Fehlende Proteine werden durch Kohlenhydrate/Fette kompensiert
+-   Fehlende [Proteine]({{< relref "../../topics/protein.md" >}}) werden durch [Kohlenhydrate]({{< relref "../../topics/kohlenhydrate.md" >}})/[Fette]({{< relref "../../topics/fette.md" >}}) kompensiert
 
 
 ### Proteinverdünnung {#proteinverdünnung}
 
 -   Gerade in der Lebensmittelindustrie
 -   "fettarm heisst nicht Kalorienarm"
--   Fett wird durch Kohlenhydrate/Zucker ersetzt
+-   Fett wird durch Kohlenhydrate/[Zucker]({{< relref "../../topics/zucker.md" >}}) ersetzt
 -   Nicht Fett ist das Problem
 
 
@@ -66,10 +63,10 @@ draft = false
 -   Forscher
     -   Atkins
         -   Von ihm stammt die Atkins-Diät
-        -   Low-Carb
+        -   [Low-Carb]({{< relref "../../topics/low-carb.md" >}})
         -   So viel essen wie man möchte
         -   Proteinanteil: ca. 30%
-    -   Valter Longo
+    -   **Valter Longo**
         -   Altersforschung
         -   Hat nachgewiesen, dass proteinreiche Ernährung den
             Alterungsprozess beschleunigt
@@ -77,21 +74,14 @@ draft = false
             werden
     -   Larsson et al.
         -   Fleischkonsum erhöht Sterblichkeitsrisiko
-
-
-### mTOR {#mtor}
-
-
-### Proteine {#proteine}
+-   [mTOR]({{< relref "../../topics/mtor.md" >}})
+-   [Proteine]({{< relref "../../topics/protein.md" >}})
 
 
 ## Kapitel 3 {#kapitel-3}
 
-
-### Low-Carb {#low-carb}
-
-
-### Low-Fat {#low-fat}
+-   [Low-Carb]({{< relref "../../topics/low-carb.md" >}})
+-   [Low-Fat]({{< relref "../../topics/low-fat.md" >}})
 
 
 ### Anmerkungen {#anmerkungen}
@@ -105,38 +95,25 @@ draft = false
 
 ## Kapitel 4 {#kapitel-4}
 
-
-### Zucker {#zucker}
-
-
-### Glukose {#glukose}
-
-
-### Fruktose {#fruktose}
-
-
-### Süßstoffe {#süßstoffe}
+-   [Zucker]({{< relref "../../topics/zucker.md" >}})
+-   [Glukose]({{< relref "../../topics/glukose.md" >}})
+-   [Fruktose]({{< relref "../../topics/fruktose.md" >}})
+-   [Süßstoffe]({{< relref "../../topics/sustoffe.md" >}})
 
 
 ### Forscher {#forscher}
 
 -   Lewis Cantley
-    -   Hat zum Thema Fruktose (mTOR auch) geforscht
+    -   Hat zum Thema [Fruktose]({{< relref "../../topics/fruktose.md" >}}) ([mTOR]({{< relref "../../topics/mtor.md" >}}) auch) geforscht
 
 
 ## Kapitel 5 {#kapitel-5}
 
-
-### Blutzucker {#blutzucker}
-
--   Hoher Blutzuckerspiegel ist nicht gut, da der Zucker im Blut dazu
-    neigt, sich mit dem Eiweiß (z. B. [Hemoglobin]({{< relref "../../topics/hemoglobin.md" >}})) im Körper zu verkleben
-
-
-### Insulinresistenz {#insulinresistenz}
-
-
-### Insulin {#insulin}
+-   Blutzucker
+    -   Hoher Blutzuckerspiegel ist nicht gut, da der Zucker im Blut dazu
+        neigt, sich mit dem Eiweiß (z. B. [Hemoglobin]({{< relref "../../topics/hemoglobin.md" >}})) im Körper zu verkleben
+-   [Insulinresistenz]({{< relref "../../topics/insulinresistenz.md" >}})
+-   [Insulin]({{< relref "../../topics/insulin.md" >}})
 
 
 ## Kapitel 6 {#kapitel-6}
@@ -176,53 +153,25 @@ draft = false
 
 :CUSTOM_ID: grafik-von-fardet-and-boirie-2014
 
--   [[<https://blogit.ts.fi/wp-content/uploads/2015/03/Fardet-et-al-Nutr-Reviews-20141.pdf>][Associations
-
-between food and beverage groups and majordiet-related chronic
-diseases: an exhaustive review of pooled/meta-analyses and systematic
-reviews]]
+-   [Associations between food and beverage groups and majordiet-related chronic diseases: an exhaustive review of pooled/meta-analyses and systematic reviews](https://blogit.ts.fi/wp-content/uploads/2015/03/Fardet-et-al-Nutr-Reviews-20141.pdf)
 
 
 ## Kapitel 7 {#kapitel-7}
 
-\\\*\\\* Milch
-
-:CUSTOM_ID: milch
-
--   Besteht aus Glukose und Galaktose
--   Galaktose führt zur Verklumpung: Das Sterblichkeitsrisiko steigt
--   Die meisten Studien zur Milch sind von der Industrie finanziert
--   Fermentierte Milch (Käse, Joghurt etc.) hat genau den gegenteiligen
-    Effekt
-
-\\\*\\\* Kaffee
-
-:CUSTOM_ID: kaffee
-
--   Insgesamt gut fürs Herz
-    -   Crippa et. al 2014
-    -   Je. &amp; Giovannucci 2014
-    -   Gunter et al. 2014
-
--   Wirkung basierend auf 2 Substanzen
-    -   Erhöht das LDL -Cholesterin
-    -   Erhöhen Bluttfett
-    -   Stoffe
-        -   Cafestol
-        -   Kahweol
-
--   Positive Wirkung bei Filterkaffee (da die 2 Stoffe gefiltert werden)
-
-\\\*\\\* Tee
-
-:CUSTOM_ID: tee
-
--   Grüner Tee
-    -   Enthält Polyphenole
-        -   Pflanzen schützen sich damit gegen UV-Strahlung
-        -   EGCG (Epigallocatechin-Gallat)
-            -   Krebshemmend
-            -   wachstumsfördernd
+-   Milch
+    -   Besteht aus [Glukose]({{< relref "../../topics/glukose.md" >}}) und Galaktose
+    -   Galaktose führt zur Verklumpung: Das Sterblichkeitsrisiko steigt
+    -   Die meisten Studien zur Milch sind von der Industrie finanziert
+    -   Fermentierte Milch (Käse, Joghurt etc.) hat genau den gegenteiligen
+        Effekt
+-   [Kaffee]({{< relref "../../topics/kaffee.md" >}})
+-   Tee
+    -   Grüner Tee
+        -   Enthält [Polyphenole]({{< relref "../../topics/polyphenole.md" >}})
+            -   Pflanzen schützen sich damit gegen UV-Strahlung
+            -   EGCG (Epigallocatechin-Gallat)
+                -   Krebshemmend
+                -   wachstumsfördernd
 
 
 ## Kapitel 8 {#kapitel-8}
@@ -452,12 +401,13 @@ reviews]]
 -   Insulinempfindlichkeit ist morgens am höchsten
     -   Bester Zeitpunkt um Kohlenhydrate "wegzustecken"
 -   Idealerweise
-    -   in der ersten Tageshälfte
-    -   Nachmittags: , Salat, Gemüse
+    -   [Kohlenhydrate]({{< relref "../../topics/kohlenhydrate.md" >}}) in der ersten Tageshälfte
+    -   Nachmittags: [Proteine]({{< relref "../../topics/protein.md" >}}), Salat, Gemüse
     -   Abends: fettreiche Lebensmittel (Avocados, Nüsse, Olivenöl, Käse)
 -   Die Sache mit dem Naschen
     -   Zellen werden ununterbrochen mit Nahrung und Energie überschüttet
-    -   Angefeuert von , und führt das zu Wachstumsmodus in der Zelle: die Zelle altert
--   -   Tipp: Tage vorm Fasten mit einer kohlenhydratarmen, fettreichen Kost umstellen
+    -   Angefeuert von [Insulin]({{< relref "../../topics/insulin.md" >}}),und [mTOR]({{< relref "../../topics/mtor.md" >}}) führt das zu Wachstumsmodus in der Zelle: die Zelle altert
+-   k
+    -   Tipp: Tage vorm Fasten mit einer kohlenhydratarmen, fettreichen Kost umstellen
     -   Beim Fasten sind die Glykogenspeicher leer
         -   Fett muss verbrannt werden

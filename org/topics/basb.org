@@ -2,6 +2,7 @@
 :ID:       17f8c1ea-52d7-445f-8e72-71e17cd59e0e
 :END:
 #+title: BASB
+#+filetags: :basb:
 
 * Resources
-- 2022-09-05 ◦ [[https://tasshin.com/blog/implementing-a-second-brain-in-emacs-and-org-mode/][Implementing A Second Brain in Emacs and Org-Mode - Tasshin]]
+- 2022-09-05 ◦ [[https://tasshin.com/blog/implementing-a-second-brain-in-emacs-and-org-mode/][Implementing A Second Brain in Emacs and Org-Mode - Tasshin]] ([[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]])

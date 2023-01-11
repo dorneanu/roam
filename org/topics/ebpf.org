@@ -4,7 +4,7 @@
 #+title: eBPF
 
 - Kernel side
-  - either in C or Rust
+  - either in C or [[id:cdf2a03e-f080-4e6f-8636-7c0f582d91fc][Rust]]
 - userland (more programming languages)
 - applications loaded directly into the kernel
 - more secure than kernel modules since there is a verifier which does basic checks against the eBPF bytecode

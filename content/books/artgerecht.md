@@ -1,7 +1,7 @@
 +++
 title = "Artgerecht"
 date = 2021-05-18
-tags = ["book"]
+tags = ["parenting", "book"]
 draft = false
 +++
 

@@ -2,7 +2,7 @@
 :ID:       f822574d-bf98-42ec-a482-e23deddd83e0
 :END:
 #+title: Steve Jobs: Die autorisierte Biografie des Apple-Gründers
-#+filetags: book
+#+filetags: :biography:book:
 #+date: 2018-07-01
 
 * Steve Jobs: Die autorisierte Biografie des Apple-Gründers

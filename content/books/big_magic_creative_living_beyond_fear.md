@@ -1,7 +1,7 @@
 +++
 title = "Big Magic: Creative Living Beyond Fear"
 date = 2022-12-07
-tags = ["book,todo"]
+tags = ["creativity", "book,todo"]
 draft = false
 +++
 

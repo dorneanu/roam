@@ -3,10 +3,10 @@ title = "AWS Access Keys"
 draft = false
 +++
 
--   use access keys to access APIs
+-   use access keys to access [AWS]({{< relref "aws.md" >}}) APIs
 -   together with
 
 2 types:
 
 -   root based (not recommended)
--   (users/groups)
+-   [IAM based]({{< relref "awsiam.md" >}}) (users/groups)

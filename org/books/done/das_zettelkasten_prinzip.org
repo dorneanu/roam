@@ -10,7 +10,7 @@
 #+lang: de
 #+modified: 20210622091928954
 #+revision: 0
-#+filetags: book
+#+filetags: :basb:book:
 #+type: text/vnd.tiddlywiki
 #+date: 2020-09-01
 

@@ -24,4 +24,4 @@
     - that's why no fuctose before a training, because your body already has the right energy levels
     - in case of a training your blood is for your muscles, not for digestion
 
-  - suggests [[#CoQ10][CoQ10]] has some benefits
+  - suggests [[id:4ffeeec7-52f7-454b-9785-5fc5a7683e2b][CoQ10]] has some benefits

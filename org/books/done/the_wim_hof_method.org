@@ -7,12 +7,12 @@
 #+finished_year: 2020
 #+genres: Health
 #+goodreads: https://www.goodreads.com/book/show/50403522-the-wim-hof-method
-#+filetags: :book:
+#+filetags: :breathing:book:
 #+date: 2020-12-01
 
 * Description
 - breathing
-  - through breathe exercises you can control the ratio of [[#Carbon%20Dioxide][CO2]] and oxygen in your blood
+  - through breathe exercises you can control the ratio of [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] and oxygen in your blood
   - breathing reflex is correlated to the amount of CO2 in your blood
     - while exhaling more C02 breathe retention time increases
   - causes *ph* level to increase because CO2 is an *acid* and once exhaled, it brings body to a temporary *alkaline* level

@@ -79,7 +79,7 @@ There are **links** between switches. There are **2** types of links:
 
 ---
 
-Belong to only one at a time
+Belong to only one [VLAN]({{< relref "vlan.md" >}}) at a time
 
 
 ### Commands {#commands}

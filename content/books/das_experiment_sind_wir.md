@@ -1,7 +1,7 @@
 +++
 title = "Das Experiment sind wir"
 date = 2021-01-01
-tags = ["book"]
+tags = ["society", "scifi", "book"]
 draft = false
 +++
 

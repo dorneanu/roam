@@ -1,13 +1,49 @@
 +++
 title = "Golang"
+tags = ["coding", "golang"]
 draft = false
 +++
 
-## Resources {#resources}
+## Articles {#articles}
 
 
-### Articles {#articles}
+### Architecture {#architecture}
 
+-   2022-10-04 ◦ [Auto-generated C4 Architecture Diagrams in Go](https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/) ([PlantUML]({{< relref "plantuml.md" >}}))
+-   2022-08-16 ◦ [Service Discovery with Go and mDNS](https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2)
+
+
+### AWS {#aws}
+
+-   2022-10-10 ◦ [inanzzz | A simple AWS SNS example with Golang using Localstack](http://www.inanzzz.com/index.php/post/i5re/a-simple-aws-sns-example-with-golang-suing-localstack)
+-   2022-10-10 ◦ [aws sdk go - How does one programmatically subscribe an SQS queue to an SNS topic in Go? - Stack Overflow](https://stackoverflow.com/questions/54204855/how-does-one-programmatically-subscribe-an-sqs-queue-to-an-sns-topic-in-go)
+-   2022-09-96 ◦ [GO ON AWS](https://www.go-on-aws.com/)
+    -   Using Golang for writing [CDK]({{< relref "cdk.md" >}}) stacks for [AWS]({{< relref "aws.md" >}})
+
+
+### Botnets {#botnets}
+
+-   2022-08-22 ◦ [GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR](https://github.com/ThrillQuks/Pitraix)
+
+
+### Design Patterns {#design-patterns}
+
+-   2022-09-05 ◦ [GoF Design patterns that still make sense in Go](https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5)
+
+
+### Error handling {#error-handling}
+
+-   2022-12-22 ◦ [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
+
+
+### HTTP {#http}
+
+-   2022-10-25 ◦ [Go and Proxy Servers: Part 1 - HTTP Proxies - Eli Bendersky's website](https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/)
+
+
+### Learning {#learning}
+
+-   2022-11-16 ◦ [github.com/mauricioabreu/golings: rustlings but for golang this time](https://github.com/mauricioabreu/golings/)
 -   2022-08-29 ◦ [How to use Go as a glue language](https://appliedgo.com/blog/go-as-a-glue-language)
 
     > Happiness comes from within: <span class="underline">self-conained binaries</span>
@@ -19,38 +55,11 @@ draft = false
     > The `net/http` package allows building a basic **HTTP server** with a **few lines of code**.
     >
     > Go has quite a unique approach of **abstracting away data sources and sinks as uniform data streams**. An `io.Reader` stream, for example, can represent input from a file, a network connection, an in-memory buffer, or even a simple string. Unit-test your code with a byte buffer, then use it in production with real files.
-
 -   2022-08-17 ◦ [Preferred resource for 'advanced' Go? : golang](https://www.reddit.com/r/golang/comments/wlw5bj/preferred_resource_for_advanced_go/)
     -   Some good recommendation for advanced Go learning resources
--   2022-08-16 ◦ [Service Discovery with Go and mDNS](https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2)
 
 
-#### Architecture {#architecture}
-
--   2022-10-04 ◦ [Auto-generated C4 Architecture Diagrams in Go](https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/) ([PlantUML]({{< relref "plantuml.md" >}}))
-
-
-#### Error handling {#error-handling}
-
--   2022-12-22 ◦ [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
-
-
-#### Botnets {#botnets}
-
--   2022-08-22 ◦ [GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR](https://github.com/ThrillQuks/Pitraix)
-
-
-#### Design Patterns {#design-patterns}
-
--   2022-09-05 ◦ [GoF Design patterns that still make sense in Go](https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5)
-
-
-#### Learning {#learning}
-
--   2022-11-16 ◦ [github.com/mauricioabreu/golings: rustlings but for golang this time](https://github.com/mauricioabreu/golings/)
-
-
-#### Malware {#malware}
+### Malware {#malware}
 
 -   2022-11-01 ◦ [Hacking with Go: Part 2 with Ivan Kwiatkowski (Go Time #251)](https://changelog.com/gotime/251)
 -   2022-10-06 ◦ [GopherCon Europe 2021: Joakim Kennedy - The Dark Side of Go: A 2020 Go Malware Round Up](https://www.youtube.com/watch?v=rcsWz-gT0sI)
@@ -85,7 +94,7 @@ draft = false
     >                 -   Uses IPFS
 
 
-#### Microservices {#microservices}
+### Microservices {#microservices}
 
 -   2022-10-04 ◦ [Encore Docs — Encore Flow](https://encore.dev/docs/develop/encore-flow)
     -   Visualize cloud microservices architecture
@@ -93,34 +102,21 @@ draft = false
     -   A cloud-native Go [Microservices]({{< relref "microservices.md" >}}) framework with cli tool for productivity.
 
 
-#### HTTP {#http}
-
--   2022-10-25 ◦ [Go and Proxy Servers: Part 1 - HTTP Proxies - Eli Bendersky's website](https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/)
-
-
-#### AWS {#aws}
-
--   2022-10-10 ◦ [inanzzz | A simple AWS SNS example with Golang using Localstack](http://www.inanzzz.com/index.php/post/i5re/a-simple-aws-sns-example-with-golang-suing-localstack)
--   2022-10-10 ◦ [aws sdk go - How does one programmatically subscribe an SQS queue to an SNS topic in Go? - Stack Overflow](https://stackoverflow.com/questions/54204855/how-does-one-programmatically-subscribe-an-sqs-queue-to-an-sns-topic-in-go)
--   2022-09-96 ◦ [GO ON AWS](https://www.go-on-aws.com/)
-    -   Using Golang for writing [CDK]({{< relref "cdk.md" >}}) stacks for [AWS]({{< relref "aws.md" >}})
-
-
-#### Serverless {#serverless}
-
--   2022-10-04 ◦ [gRPC and gRPC Web on Google Cloud Run (serverless) - GenDocu Blog](https://blog.gendocu.com/posts/grpc-on-google-cloud/)
-
-
-#### Security {#security}
+### Security {#security}
 
 -   2022-10-04 ◦ [Simple JWT Authentication for Golang (Part 1)](https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo) ([JWT]({{< relref "jwt.md" >}}))
 
 
-#### SSH {#ssh}
+### Serverless {#serverless}
+
+-   2022-10-04 ◦ [gRPC and gRPC Web on Google Cloud Run (serverless) - GenDocu Blog](https://blog.gendocu.com/posts/grpc-on-google-cloud/)
+
+
+### SSH {#ssh}
 
 -   2022-11-21 ◦ [SSH port forwarding with Go - Eli Bendersky's website](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
 
 
-#### Success stories {#success-stories}
+### Success stories {#success-stories}
 
 -   2022-10-19 ◦ [Have you moved from Java to Go (or another popular language)](https://www.reddit.com/r/golang/comments/y6hg08/have_you_moved_from_java_to_go_or_another_popular/)

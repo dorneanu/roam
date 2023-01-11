@@ -21,13 +21,13 @@
   - das weinende Baby
     - Weinen als Stressabbau
       - all die Eindrücke des Tages verarbeiten
-      - sich selbst [[#Selbstregulation][regulieren]]
+      - sich selbst [[id:cbfafa4f-4893-431a-bb11-7379e443fc29][regulieren]]
       - all die Versuche das Baby zu beruhigen führen zu noch mehr Reizen
         - führt zu Überforderung (Analogie mit den roten Flitzern auf der Strasse)
       - die wirkungsvollste Strategie: In den Armen der Eltern sich ausweinen dürfen und Liebe/Zuneigung empfangen
         - Job der Eltern ist es nicht, mit dem Weinen aufzuhören sondern für das Kind da zu sein
   - [[id:4789eb41-9d72-4fb0-bd5b-80c87cb2918c][Gefühlsstarke Kinder]] verfügen über eine innere Resilienz
-    - sie zerbrechen nicht an sub-optimierten [[#Bed%C3%BCrfnisse%20nach%20Marshall%20Rosenberg][Bedürfnissen]]
+    - sie zerbrechen nicht an sub-optimierten [[id:2114312c-7018-4a34-8936-7808173598d1][Bedürfnissen]]
       - auch wenn sie nicht von Anfang an gesehen werden
       - es ist nie zu spät für die Bindung / auf das Bedürfnis einzugehen
 - [[#Elterntypen][Was sind die Aufgaben der Eltern]] ?

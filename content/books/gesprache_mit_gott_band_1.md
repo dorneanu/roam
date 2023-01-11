@@ -41,7 +41,7 @@ draft = false
 
             > Eure Seele (Unterbewusstsein, Es, reiner Geist, Vergangenheit usw.) ist die Gesamtsumme jedes Gefühls, das ihr jemals hattet (erschaffen habt).
 
-            -   vergleichbar mit dem
+            -   vergleichbar mit dem [Ich bin dann mal weg - Meine Reise auf dem Jakobsweg]({{< relref "ich_bin_dann_mal_weg_meine_reise_auf_dem_jakobsweg.md" >}})
         -   man kann nicht sein, was man nicht erfahren hat
     -   seiend (Gott der Heilige Geist)
         -   die Entkörperung dessen, was der Sohn erfahren hat

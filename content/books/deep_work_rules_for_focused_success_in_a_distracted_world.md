@@ -1,7 +1,7 @@
 +++
 title = "Deep Work"
 date = 2022-07-01
-tags = ["book", "todo"]
+tags = ["productivity", "book", "todo"]
 draft = false
 +++
 

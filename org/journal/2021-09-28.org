@@ -9,7 +9,7 @@
 #+date: 2021-09-28
 #+type: text/vnd.tiddlywiki
 
-- [[https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html][A CEO's guid to Emacs]]
+- [[https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html][A CEO's guid to Emacs]] ([[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]])
   - why one should use [[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]] (from a productivity point of view)
 
   - also see follow-up: [[https://www.fugue.co/blog/2018-08-09-two-years-with-emacs-as-a-cto.html][2 years with Emacs as a CEO]]

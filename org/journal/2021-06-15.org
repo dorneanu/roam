@@ -10,4 +10,4 @@
 #+type: text/vnd.tiddlywiki
 
 - [[https://www.twobirds.com/de/news/articles/2020/germany/insolvency-of-wallet-providers-and-crypto-depositories-in-germany][Insolvenz von Wallet-Anbietern und Kryptoverwahrern in Deutschland]]
-  - [[#Blockchain][Blockchain]]
+  - [[id:78473bbe-c9e0-4033-9292-04e875dbb89f][Blockchain]]

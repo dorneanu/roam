@@ -1,7 +1,7 @@
 +++
 title = "Building Microservices (2nd edition)"
 date = 2022-06-01
-tags = ["book"]
+tags = ["microservices", "book"]
 draft = false
 +++
 

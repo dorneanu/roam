@@ -1,5 +1,6 @@
 +++
 title = "Software Architecture"
+tags = ["architecture"]
 draft = false
 +++
 

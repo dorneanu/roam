@@ -2,7 +2,7 @@
 :ID:       2b147d1b-e3c4-4498-8925-f8f4be301d0b
 :END:
 #+title: The Oxygen Advantage
-#+filetags: :book:
+#+filetags: :breathing:book:
 #+date: 2022-05-01
 
 * The Oxygen Advantage
@@ -17,7 +17,7 @@
   - [[*The Oxygen Advantage - Note 17][Note 17]]
 - Effects of CO2
   - [[*The Oxygen Advantage - Note 2][Note 2]]
-- Oxygen Saturation ([[#SpO2][SpO2]])
+- Oxygen Saturation ([[id:d33ac54c-67ac-43be-891b-1dc2ea4731d9][SpO2]])
 - [[id:ffb29bb9-17ce-4aec-8fdb-771bf5b7505e][V̇O2 Max]]
 - [[#BOLT][BOLT]]
 - [[#Mouth%20Breathing%20vs%20Nasal%20Breathing][Mouth Breathing vs Nasal Breathing]]

@@ -10,7 +10,7 @@
 #+type: text/vnd.tiddlywiki
 
 - [[https://threedots.tech/post/introducing-clean-architecture/][Introducing Clean Architecture by refactoring a Go project]]
-  - really good explanation about [[#Clean%20Architecture][Clean Architecture]]
+  - really good explanation about [[id:99c0a83f-1de0-42b1-9c19-384d93154d14][The Clean Architecture]]
   - explains what *ports* and *adapters* are
   - also checkout the [[https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example][github repo]]
   - there are also other interesting [[https://threedots.tech/tags/building-business-applications/][articles]]

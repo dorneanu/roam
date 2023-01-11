@@ -2,6 +2,7 @@
 :ID:       5a26ed6a-80d8-4fe8-b9db-0c1956ec8c2e
 :END:
 #+created: 20210525185508434
+#+filetags: :architecture:
 #+modified: 20210826085916927
 #+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]] [[<<. bibliography "The Clean Architecture">>]] 
 #+revision: 0

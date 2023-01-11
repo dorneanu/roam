@@ -3,7 +3,7 @@ title = "Gluten"
 draft = false
 +++
 
--   Ist ein
+-   Ist ein [Eiweiss]({{< relref "protein.md" >}})
 -   Glutenunverträglichkeit: Zöliakie
     -   Immunsystem greift Eiweiß an
     -   Es kommt zu Entzündungen

@@ -1,14 +1,15 @@
+:PROPERTIES:
+:ID:       4449491d-e3f7-43d3-8b5f-f61b0a867b63
+:END:
 #+created: 20201214181421625
+#+filetags: :todo:
 #+modified: 20210518184430547
 #+origin: [[<<. bibliography "Atomic Habits">>]]
 #+revision: 0
-#+tags: 
 #+title: Hebb's Law
 #+type: text/vnd.tiddlywiki
 
 - "Neurons that fire together wire together."
-
 - in neuroscience this is called *long-term potentiation*
-
   - you streghten the connections between neurons based on recent patterns of activity
   - with repetition cell-to-cell signaling gets better and neuronal connections tighten

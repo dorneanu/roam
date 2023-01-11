@@ -1,4 +1,8 @@
+:PROPERTIES:
+:ID:       740c88cc-a5e0-4826-8233-a72a7c6086f9
+:END:
 #+created: 20200727100301911
+#+filetags: :nutrition:
 #+lang: de
 #+modified: 20210518184430231
 #+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]]
