@@ -549,9 +549,13 @@ pre .language-yaml::before {
   content: "YAML";
 }
 
+#sidebar {
+  display: none;
+  max-width: 250px;
+}
+
 @media (min-width: 1200px) {
   #sidebar {
-    max-width: 250px;
     display: block;
     top: 100px;
   }
