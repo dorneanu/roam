@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       fde276f8-4cd2-459f-8bfb-568e2b31cdd6
+:END:
+#+TITLE: 2023-01-12
+#+DATE: 2023-01-12
+#+FILETAGS: journal
+
+- 2023-01-12 ◦ [[https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls][What happens when you open a terminal and enter ‘ls’ | Warp]]
