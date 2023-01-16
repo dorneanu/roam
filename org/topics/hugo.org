@@ -20,6 +20,9 @@
 ** Backlinks
 - 2022-08-22 ◦ [[https://scripter.co/parsing-backlinks-in-hugo/][Parsing Backlinks in Hugo ❚ A Scripter's Notes]]
 ** API
+- 2023-01-12 ◦ [[https://gist.github.com/Rarst/da20cdb3936fc5dcf349b4a5cab06f2f][Remote API example in Hugo static site build. · GitHub]]
+  - related: 2023-01-12 ◦ [[https://cloudcannon.com/community/learn/hugo-and-remote-data-files/][Hugo and Remote Data Files | CloudCannon]]
+- 2023-01-12 ◦ [[https://forestry.io/blog/hugo-json-api-part-2/][Enhance Your Hugo JSON API Using Custom Output Formats and Netlify Redirects | Forestry.io]]
 - 2022-08-30 ◦ [[https://forestry.io/blog/build-a-json-api-with-hugo/][Build a JSON API With Hugo's Custom Output Formats | Forestry.io]]
 ** Series
 - 2022-08-30 ◦ [[https://digitaldrummerj.me/hugo-post-series/][Hugo - Create a Post Series | Justin James]]

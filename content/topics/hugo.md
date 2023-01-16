@@ -32,6 +32,9 @@ draft = false
 
 ### API {#api}
 
+-   2023-01-12 ◦ [Remote API example in Hugo static site build. · GitHub](https://gist.github.com/Rarst/da20cdb3936fc5dcf349b4a5cab06f2f)
+    -   related: 2023-01-12 ◦ [Hugo and Remote Data Files | CloudCannon](https://cloudcannon.com/community/learn/hugo-and-remote-data-files/)
+-   2023-01-12 ◦ [Enhance Your Hugo JSON API Using Custom Output Formats and Netlify Redirects | Forestry.io](https://forestry.io/blog/hugo-json-api-part-2/)
 -   2022-08-30 ◦ [Build a JSON API With Hugo's Custom Output Formats | Forestry.io](https://forestry.io/blog/build-a-json-api-with-hugo/)
 
 
