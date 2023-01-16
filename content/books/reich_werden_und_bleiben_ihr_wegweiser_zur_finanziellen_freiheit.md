@@ -1,7 +1,7 @@
 +++
 title = "Reich werden und bleiben: Ihr Wegweiser zur finanziellen Freiheit"
 date = 2016-03-01
-tags = ["book"]
+tags = ["finance", "book"]
 draft = false
 +++
 

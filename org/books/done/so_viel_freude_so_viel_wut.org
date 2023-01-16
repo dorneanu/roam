@@ -2,7 +2,7 @@
 :ID:       f052f625-35e3-44ea-b605-39a370a11731
 :END:
 #+title: So viel Freude, so viel Wut
-#+filetags: book
+#+filetags: :parenting:book:
 #+date: 2022-02-01
 
 * So viel Freude, so viel Wut

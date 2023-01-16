@@ -97,6 +97,8 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 ** Evil
 - 2022-09-01 ◦ [[https://github.com/edkolev/evil-goggles][GitHub - edkolev/evil-goggles: Display visual hint on evil edit operations]]
+** Comparisons
+- 2023-01-16 ◦ [[https://www.reddit.com/r/emacs/comments/zwcdfh/what_does_emacs_and_elisp_has_as_an_advantage/][What does emacs and elisp has as an advantage over nvim and lua?]]
 ** Emojis
 - 2022-10-25 ◦ [[https://ianyepan.github.io/posts/emacs-emojis/][Native Emojis in Emacs | Ian Y.E. Pan]]
 ** GTD

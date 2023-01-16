@@ -9,7 +9,7 @@
 #+lang: de
 #+modified: 20210518194234123
 #+revision: 0
-#+filetags: :book:
+#+filetags: :spirituality:book:
 #+title: Gespräche mit Gott Band 1
 #+type: text/vnd.tiddlywiki
 #+date: 2020-10-01

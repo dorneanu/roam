@@ -1,7 +1,7 @@
 +++
 title = "So viel Freude, so viel Wut"
 date = 2022-02-01
-tags = ["book"]
+tags = ["parenting", "book"]
 draft = false
 +++
 

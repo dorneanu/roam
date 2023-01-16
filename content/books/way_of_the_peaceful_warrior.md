@@ -1,7 +1,7 @@
 +++
 title = "Way of the Peaceful Warrior"
 date = 2018-07-01
-tags = ["book"]
+tags = ["philosophy", "biography", "spirituality", "book"]
 draft = false
 +++
 

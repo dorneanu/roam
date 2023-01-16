@@ -1,7 +1,7 @@
 +++
 title = "Gespräche mit Gott Band 1"
 date = 2020-10-01
-tags = ["book"]
+tags = ["spirituality", "book"]
 draft = false
 +++
 

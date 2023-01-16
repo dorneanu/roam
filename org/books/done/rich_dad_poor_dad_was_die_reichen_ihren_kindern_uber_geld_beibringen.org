@@ -2,7 +2,7 @@
 :ID:       ecd1437b-c604-4ba4-bc15-180bf71786a0
 :END:
 #+title: Rich Dad Poor Dad - Was die Reichen ihren Kindern über Geld beibringen
-#+filetags: book
+#+filetags: :finance:book:
 #+date: 2016-09-01
 
 * Rich Dad Poor Dad - Was die Reichen ihren Kindern über Geld beibringen

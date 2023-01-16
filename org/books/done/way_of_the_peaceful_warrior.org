@@ -2,7 +2,7 @@
 :ID:       acff7704-6f4f-4d58-b8b9-dfa06e0e7d33
 :END:
 #+title: Way of the Peaceful Warrior
-#+filetags: book
+#+filetags: :philosophy:biography:spirituality:book:
 #+date: 2018-07-01
 
 * Way of the Peaceful Warrior

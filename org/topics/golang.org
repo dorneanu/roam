@@ -16,6 +16,9 @@
   - Using Golang for writing [[id:61b1e794-8d3a-45f1-b414-612b6ad4dad4][CDK]] stacks for [[id:be5bebfe-5df9-4db2-af87-7e80e11723c7][AWS]]
 ** Botnets
 - 2022-08-22 ◦ [[https://github.com/ThrillQuks/Pitraix][GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR]]
+** Comparisons
+- 2023-01-16 ◦ [[https://news.ycombinator.com/item?id=31976407][Ask HN: Should I learn Rust or Go? | Hacker News]] ([[id:cdf2a03e-f080-4e6f-8636-7c0f582d91fc][Rust]])
+- 2023-01-16 ◦ [[https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/][Go devs that learned Rust, what are your thoughts on it?]] ([[id:cdf2a03e-f080-4e6f-8636-7c0f582d91fc][Rust]])
 ** Design Patterns
 - 2022-09-05 ◦ [[https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5][GoF Design patterns that still make sense in Go]]
 ** Error handling

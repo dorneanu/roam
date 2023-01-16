@@ -1,7 +1,7 @@
 +++
 title = "Rich Dad Poor Dad - Was die Reichen ihren Kindern über Geld beibringen"
 date = 2016-09-01
-tags = ["book"]
+tags = ["finance", "book"]
 draft = false
 +++
 

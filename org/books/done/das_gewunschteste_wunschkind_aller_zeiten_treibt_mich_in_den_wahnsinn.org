@@ -9,6 +9,6 @@
 #+goodreads: https://www.goodreads.com/book/show/32889241-das-gew-nschteste-wunschkind-aller-zeiten-treibt-mich-in-den-wahnsinn
 #+modified: 20211116200052507
 #+revision: 0
-#+filetags: book
+#+filetags: :parenting:book:
 #+type: text/vnd.tiddlywiki
 #+date: 2021-08-01

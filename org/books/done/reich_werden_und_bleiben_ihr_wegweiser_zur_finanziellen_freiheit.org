@@ -2,7 +2,7 @@
 :ID:       719c0dec-bba6-4cac-b4c5-9b63601ed1cc
 :END:
 #+title: Reich werden und bleiben: Ihr Wegweiser zur finanziellen Freiheit
-#+filetags: book
+#+filetags: :finance:book:
 #+date: 2016-03-01
 
 * Reich werden und bleiben: Ihr Wegweiser zur finanziellen Freiheit

@@ -1,7 +1,7 @@
 +++
 title = "Cashkurs - So machen Sie das Beste aus Ihrem Geld"
 date = 2017-03-01
-tags = ["book"]
+tags = ["finance", "book"]
 draft = false
 +++
 

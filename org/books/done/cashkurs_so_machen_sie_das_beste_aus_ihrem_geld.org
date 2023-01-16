@@ -2,7 +2,7 @@
 :ID:       5a459235-7678-4a40-9861-c63bf018dbda
 :END:
 #+title: Cashkurs - So machen Sie das Beste aus Ihrem Geld
-#+filetags: :book:
+#+filetags: :finance:book:
 #+date: 2017-03-01
 
 * Cashkurs - So machen Sie das Beste aus Ihrem Geld
