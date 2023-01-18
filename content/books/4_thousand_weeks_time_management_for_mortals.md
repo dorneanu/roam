@@ -1,6 +1,7 @@
 +++
 title = "4 Thousand Weeks - Time Management for Mortals"
-tags = ["book"]
+date = 2023-01-10
+tags = ["todo", "book"]
 draft = false
 +++
 

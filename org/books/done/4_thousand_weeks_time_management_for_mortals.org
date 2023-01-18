@@ -2,6 +2,7 @@
 :ID:       834efb26-9f0d-4788-a708-20a4202c0da2
 :END:
 #+title: 4 Thousand Weeks - Time Management for Mortals
-#+filetags: book
+#+filetags: :todo:book:
+#+date: 2023-01-10
 
 - https://www.goodreads.com/book/show/54785515-four-thousand-weeks
