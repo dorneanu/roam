@@ -137,6 +137,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
 -   2022-10-25 ◦ [Native Emojis in Emacs | Ian Y.E. Pan](https://ianyepan.github.io/posts/emacs-emojis/)
 
 
+### EmacsConf {#emacsconf}
+
+-   2023-01-18 ◦ [EmacsConf 2022: What I'd like to see in Emacs - Richard M. Stallman](https://youtu.be/vEpk2ZTqJu4)
+
+
 ### GTD {#gtd}
 
 -   2022-12-01 ◦ [How I use Emacs and Org-mode to implement GTD](https://members.optusnet.com.au/~charles57/GTD/gtd_workflow.html)

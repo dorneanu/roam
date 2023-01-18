@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7587fd42-c482-43b9-b836-172335be6f97
+:END:
+#+TITLE: 2023-01-18
+#+DATE: 2023-01-18
+#+FILETAGS: journal
+
+[*alles*]  *qR*
+_alle klar_
+- 2023-01-18 ◦ [[https://emacs.stackexchange.com/questions/10029/org-mode-how-to-create-an-org-mode-markup-keybinding][key bindings - Org-Mode: How to create an "org mode markup" keybinding? - Emacs Stack Exchange]] ([[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]])

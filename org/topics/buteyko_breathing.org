@@ -9,7 +9,15 @@
 #+tags: Definition
 #+type: text/vnd.tiddlywiki
 
+* General
 - by *Konstantin Pavlovich Buteyko*
+  - 2023-01-18 ◦ [[https://buteykoclinic.com/wp-content/uploads/2019/04/Dr-Buteykos-Book.pdf][Dr Buteykos Book]]
 - limit *inhales*
 - extend exhales for past the point of what feels comfortable (or even safe)
 - also check out the [[https://buteykoclinic.com/][Voluntary elimination of Deep Breathing]]
+* Practitioners
+** Germany
+- 2023-01-18 ◦ [[https://buteykoclinic.com/germany/][Buteyko Germany - Certified Buteyko Practitioners & Clinic]]
+- 2023-01-18 ◦ [[https://atemflow.de/][Atemflow online Atemübungen & Atemkurse]]
+  - [[https://www.youtube.com/channel/UCWyi7MValGXLVmz5dKq6egg][Youtube Channel]]
+- 2023-01-18 ◦ [[https://www.atemtrainer.org/][Atemtraining mit Stefan Völker - Mit der richtigen Atmung zu mehr Leistung, körperliches und geistiges Wohlbefinden]]

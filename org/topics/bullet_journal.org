@@ -1,10 +1,16 @@
+:PROPERTIES:
+:ID:       e7915a68-2f4f-45f9-9c32-701113c3d539
+:END:
 #+created: 20200908112114502
+#+filetags: :productivity:
 #+modified: 20210518184428731
 #+revision: 0
 #+title: Bullet Journal
 #+tmap.id: 86f6da3a-45ea-4a9d-b770-048bfafe2da3
 #+type: text/vnd.tiddlywiki
 
-- Methods
+* Methods
   - [[https://bulletjournal.com/blogs/bulletjournalist/to-do-the-alastair-method][The Alastair Method]]
   - [[https://frankenlog.com/][Frankenlog]]
+* Time Blocking
+- 2023-01-17 ◦ [[https://medium.com/better-advice/the-life-changing-magic-of-time-blocking-7c8c18613d3e][The Life-Changing Magic of Time Blocking | by Dianne Sullivan | Better Advice | Medium]]
