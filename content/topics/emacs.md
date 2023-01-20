@@ -175,3 +175,8 @@ When you are collecting text using append-to-register and prepend-to-register, y
 ### UI {#ui}
 
 -   2022-12-05 ◦ [gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org](https://codeberg.org/gopiandcode/emacs-viewer)
+
+
+### Yaml {#yaml}
+
+-   2023-01-19 ◦ [GitHub - zkry/yaml-pro: Edit YAML in Emacs like a pro](https://github.com/zkry/yaml-pro)

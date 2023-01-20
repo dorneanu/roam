@@ -9,6 +9,7 @@ draft = false
 
 ### Architecture {#architecture}
 
+-   2023-01-19 ◦ [Go project written in clean code architecture : golang](https://www.reddit.com/r/golang/comments/zskzgu/go_project_written_in_clean_code_architecture/)
 -   2022-10-04 ◦ [Auto-generated C4 Architecture Diagrams in Go](https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/) ([PlantUML]({{< relref "plantuml.md" >}}))
 -   2022-08-16 ◦ [Service Discovery with Go and mDNS](https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2)
 
@@ -19,6 +20,12 @@ draft = false
 -   2022-10-10 ◦ [aws sdk go - How does one programmatically subscribe an SQS queue to an SNS topic in Go? - Stack Overflow](https://stackoverflow.com/questions/54204855/how-does-one-programmatically-subscribe-an-sqs-queue-to-an-sns-topic-in-go)
 -   2022-09-96 ◦ [GO ON AWS](https://www.go-on-aws.com/)
     -   Using Golang for writing [CDK]({{< relref "cdk.md" >}}) stacks for [AWS]({{< relref "aws.md" >}})
+
+
+#### Custom resources {#custom-resources}
+
+-   2023-01-20 ◦ [GitHub - masgari/aws-custom-resources: A Lambda for creating custom resources in CloudFormation.](https://github.com/masgari/aws-custom-resources)
+-   2023-01-20 ◦ [GitHub - lifadev/archive_aws-cloudformation-go-customres: Author your AWS CloudFormation Custom Resources in Go.](https://github.com/lifadev/archive_aws-cloudformation-go-customres)
 
 
 ### Botnets {#botnets}

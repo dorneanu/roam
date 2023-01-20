@@ -17,5 +17,6 @@
 ** Golang
 - 2022-10-24 ◦ [[https://dev.to/aksrao1998/dockerize-a-golang-http-server-and-deploy-it-on-kubernetes-592j][Dockerize a GoLang HTTP server and deploy it on Kubernetes]]
 ** Security
+- 2023-01-19 ◦ [[https://dev.to/pavanbelagatti/kubernetes-security-best-practices-for-developers-2b92][Kubernetes Security Best Practices For Developers]]
 - 2022-12-20 ◦ [[https://snyk.io/blog/security-implications-of-kubernetes-operators/][Security implications of Kubernetes operators | Snyk]]
 - 2022-12-20 ◦ [[https://bridgecrew.io/blog/advantages-of-kubernetes-infrastructure-security/][Infrastructure security advantages of leveraging Kubernetes - Bridgecrew Blog]]

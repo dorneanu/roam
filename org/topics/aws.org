@@ -30,3 +30,8 @@ Amazon Web Services
 :PROPERTIES:
 :ID:       45a2f0a9-f32d-4592-afac-fd9500b06f3a
 :END:
+* Custom Resources
+- 2023-01-20 ◦ [[https://nikhil-zadoo.com/custom-resources-with-aws-cdk][Custom Resources AWS CDK with CustomResource Provider custom-resource]] /([[id:61b1e794-8d3a-45f1-b414-612b6ad4dad4][CDK]])/
+- 2023-01-20 ◦ [[https://medium.com/@mo.asgari/creating-aws-custom-resources-in-go-2e128cacb964][Create AWS Custom Resources in Go | by Mo Asgari | Medium]]
+- 2023-01-20 ◦ [[https://medium.com/cyberark-engineering/advanced-custom-resources-with-aws-cdk-1e024d4fb2fa][Advanced AWS Custom Resources with AWS CDK | CyberArk Engineering]] (in [[id:e4dd5a6c-5c20-48d4-9d9a-408893dc8ce6][Python]])
+- 2023-01-20 ◦ [[https://github.com/aws-samples/aws-cdk-examples/tree/master/typescript/custom-resource][github.com/aws-cdk-examples/typescript/custom-resource]] ([[id:edcca2c0-c9c2-4a9e-99fc-2673a624893f][TypeScript]])

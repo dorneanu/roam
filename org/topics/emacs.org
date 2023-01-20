@@ -120,3 +120,5 @@ When you are collecting text using append-to-register and prepend-to-register, y
 - 2023-01-05 ◦ [[https://www.adventuresinwhy.com/post/org-mode-timekeeping/][Timekeeping with Emacs and Org-Mode | Adventures in Why]]
 ** UI
 - 2022-12-05 ◦ [[https://codeberg.org/gopiandcode/emacs-viewer][gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org]]
+** Yaml
+- 2023-01-19 ◦ [[https://github.com/zkry/yaml-pro][GitHub - zkry/yaml-pro: Edit YAML in Emacs like a pro]]

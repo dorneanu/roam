@@ -29,5 +29,6 @@ draft = false
 
 ### Security {#security}
 
+-   2023-01-19 ◦ [Kubernetes Security Best Practices For Developers](https://dev.to/pavanbelagatti/kubernetes-security-best-practices-for-developers-2b92)
 -   2022-12-20 ◦ [Security implications of Kubernetes operators | Snyk](https://snyk.io/blog/security-implications-of-kubernetes-operators/)
 -   2022-12-20 ◦ [Infrastructure security advantages of leveraging Kubernetes - Bridgecrew Blog](https://bridgecrew.io/blog/advantages-of-kubernetes-infrastructure-security/)

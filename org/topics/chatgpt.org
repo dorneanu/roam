@@ -7,4 +7,5 @@
 ** Clients
 - 2023-01-18 ◦ [[https://github.com/joshcho/ChatGPT.el][GitHub - joshcho/ChatGPT.el: ChatGPT in Emacs]] ([[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]])
 ** Use cases
+- 2023-01-19 ◦ [[https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used][GPT-3 Is the Best Journal I've Ever Used]]
 - 2023-01-18 ◦ [[https://www.innoq.com/en/blog/how-ai-will-replace-my-job/][How AI will replace my job – INNOQ]]
