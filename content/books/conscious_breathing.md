@@ -90,47 +90,47 @@ As I have said, people hold their breath when they are hurt; this is a normal hu
 
 ### Conscious Breathing - Note 16 {#conscious-breathing-note-16}
 
-physiology. At the top of your lungs, up near your collarbones, the rate of blood flow is less than a tenth of a liter per minute. In other words, only a half-teacup or so of blood moves through the upper part of your lungs every minute. By contrast, the blood flow at the bottom of your lungs, down toward the bottom of your rib cage, is well over a liter per minute. Most of the blood circulation is in the bottom third of the lungs. If your belly muscles are tense, preventing you from breathing deeply into your abdomen, you are not getting the oxygen down to where all the blood is.
+> physiology. At the top of your lungs, up near your collarbones, the rate of blood flow is less than a tenth of a liter per minute. In other words, only a half-teacup or so of blood moves through the upper part of your lungs every minute. By contrast, the blood flow at the bottom of your lungs, down toward the bottom of your rib cage, is well over a liter per minute. Most of the blood circulation is in the bottom third of the lungs. If your belly muscles are tense, preventing you from breathing deeply into your abdomen, you are not getting the oxygen down to where all the blood is.
 
 
 ### Conscious Breathing - Note 17 {#conscious-breathing-note-17}
 
-Your lungs are relatively small at the top and very large at the bottom. That is why in our lessons we will focus a great deal on learning to breathe deeply into the belly, so that we take advantage of how nature has designed us.
+> Your lungs are relatively small at the top and very large at the bottom. That is why in our lessons we will focus a great deal on learning to breathe deeply into the belly, so that we take advantage of how nature has designed us.
 
 
 ### Conscious Breathing - Note 18 {#conscious-breathing-note-18}
 
-When I ask new clients to take a deep breath, nine times out of ten they will take a big, exaggerated breath up into their chests, sucking in their bellies by tightening their abdominal muscles. This is upside-down breathing at work.
+> When I ask new clients to take a deep breath, nine times out of ten they will take a big, exaggerated breath up into their chests, sucking in their bellies by tightening their abdominal muscles. This is upside-down breathing at work.
 
 
 ### Conscious Breathing - Note 19 {#conscious-breathing-note-19}
 
-The left side of the nose is connected to the right side of the brain, and vice versa. Breathing alternately through each nostril causes a shift from one hemisphere of the brain to the other. In this lesson we will draw on this phenomenon of physiology. My sense is that shifting hemispheres is what gives the practice its power. Switching from one brain hemisphere to another a number of times, while breathing slowly and deeply, seems to bring about a balance. My personal experience has shown me that it improves mood, refreshes the body, and sharpens the mind.
+> The left side of the nose is connected to the right side of the brain, and vice versa. Breathing alternately through each nostril causes a shift from one hemisphere of the brain to the other. In this lesson we will draw on this phenomenon of physiology. My sense is that shifting hemispheres is what gives the practice its power. Switching from one brain hemisphere to another a number of times, while breathing slowly and deeply, seems to bring about a balance. My personal experience has shown me that it improves mood, refreshes the body, and sharpens the mind.
 
 
 ### Conscious Breathing - Note 20 {#conscious-breathing-note-20}
 
-IN MANY ANCIENT CULTURES BREATH WAS SYNONYMOUS WITH SPIRIT. To the Greeks, spirit was pneuma, the feeling of the breath moving in the body. To the Romans it was spiritus and to the Hindus atman, the very feeling of God in the body. The enlivening feeling of the moving breath occupies a special place in the human experience.
+> IN MANY ANCIENT CULTURES BREATH WAS SYNONYMOUS WITH SPIRIT. To the Greeks, spirit was pneuma, the feeling of the breath moving in the body. To the Romans it was spiritus and to the Hindus atman, the very feeling of God in the body. The enlivening feeling of the moving breath occupies a special place in the human experience.
 
 
 ### Conscious Breathing - Note 21 {#conscious-breathing-note-21}
 
-Prana is the breath of life of all beings in the universe. They are born through it and live by it, and when they die their individual breath dissolves into the cosmic breath. —B.K.S. JYENGAR
+> Prana is the breath of life of all beings in the universe. They are born through it and live by it, and when they die their individual breath dissolves into the cosmic breath. —B.K.S. JYENGAR
 
 
 ### Conscious Breathing - Note 22 {#conscious-breathing-note-22}
 
-Many of these lessons are informed and inspired by Wilhelm Reich and Moshe Feldenkrais, two geniuses of our century. It was through Feldenkrais in particular that I learned the power of using creative, conscious movements—done very slowly—to open the breath.
+> Many of these lessons are informed and inspired by Wilhelm Reich and Moshe Feldenkrais, two geniuses of our century. It was through Feldenkrais in particular that I learned the power of using creative, conscious movements—done very slowly—to open the breath.
 
 
 ### Conscious Breathing - Note 23 {#conscious-breathing-note-23}
 
-Beginning Position
+> Beginning Position
 
 
 ### Conscious Breathing - Note 24 {#conscious-breathing-note-24}
 
-On the In-Breath, Roll Your Arms Up the Floor, Opening Your Chest as You Fill Your Belly
+> On the In-Breath, Roll Your Arms Up the Floor, Opening Your Chest as You Fill Your Belly
 
 
 ### Conscious Breathing - Note 25 {#conscious-breathing-note-25}

@@ -69,3 +69,6 @@ draft = false
 -   2023-01-02 ◦ [Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling by Matthew Dicks](https://www.goodreads.com/en/book/show/37786022-storyworthy)
 -   2023-01-02 ◦ [The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia](https://www.goodreads.com/en/book/show/56913172-the-minimalist-entrepreneur)
 -   2023-01-10 ◦ [The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture by Gregor Hohpe](https://www.goodreads.com/en/book/show/49828197-the-software-architect-elevator)
+-   2023-01-23 ◦ [The Breathing Cure: Exercises to Develop New Breathing Habits for a Healthier, Happier and Longer Life by Patrick McKeown](https://www.goodreads.com/book/show/57213922-the-breathing-cure)
+-   2023-01-23 ◦ [Anxiety Free: Stop Worrying and Quieten Your Mind - Featuring the Buteyko Breathing Method and Mindfulness by Patrick McKeown](https://www.goodreads.com/book/show/7815904-anxiety-free)
+-   2023-01-24 ◦ [The Origins of Totalitarianism by Hannah Arendt](https://www.goodreads.com/book/show/396931.The_Origins_of_Totalitarianism)

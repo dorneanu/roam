@@ -16,6 +16,35 @@ draft = false
     -   [Das Handbuch der Atem-Therapie](https://www.lovelybooks.de/autor/Wilfried-Ehrmann/Handbuch-der-Atem-Therapie-917154250-w/)
 
 
+## Advantages {#advantages}
+
+
+### Physical health {#physical-health}
+
+-   Boost immune function,
+-   Lessen inflammation,
+-   Get deeper, more restful sleep,
+-   Have more energy during the day,
+-   Experience relief from symptoms of autoimmune disorders, arthritis, fibromyalgia and migraine,
+-   Manage airway disorders like asthma and COPD,
+-   Control blood pressure,
+-   Alleviate symptoms of chronic illness such as
+-   post-treatment Lyme disease syndrome and MS,
+-   Boost your metabolism,
+-   Enhance sports performance and recovery,
+-   And improve your tolerance to cold."
+
+
+### Mental health {#mental-health}
+
+-   Reduce and regulate stress levels by learning to control the [autonomic nervous system]({{< relref "../../topics/autonomic_nervous_system.md" >}}),
+-   Prevent or recover from burnout,
+-   Relieve depression,
+-   Increase concentration and willpower,
+-   Enhance the mind/body connection,
+-   And feel happier and more creative"
+
+
 ## Quotes {#quotes}
 
 

@@ -24,6 +24,18 @@
 - Videos
   - [[https://www.youtube.com/watch?v=0gtlAAQzENw&ab_channel=OxygenAdvantage][How to breathe during physical exercise]]
     - [[id:1e8e0c61-97ae-4d59-9c14-76ab08b49d8f][The Bohr Effect]]
+* Method
+** Functional breathing training
+#+begin_quote
+Functional breathing training. This is a 24/7 practice. It’s about retraining your breathing, unlearning the bad breathing habits that hold you back. You’ll restore breathing to its healthiest state, day and night. Exercises focus on reducing the volume of the breath, slowing the breathing and engaging/strengthening the diaphragm.
+-- [[https://oxygenadvantage.com/wim-hof/]]
+#+end_quote
+** Breathing exercises to simulate high altitude training
+#+begin_quote
+Breathing exercises to simulate high altitude training (intermittent hypoxic/hypercapnic training). These breath-hold techniques involve temporarily increasing levels of arterial carbon dioxide from the normal concentration of 40mmHg to 50mmHg or more (hypercapnia) and reducing SPO2 to around 85% ([[id:0a497f60-b7f9-44ad-9b90-8f21c07abe9e][hypoxia]])."
+-- [[https://oxygenadvantage.com/wim-hof/]]
+#+end_quote
+
 * Exercises
 *** BOLT score
 
@@ -51,6 +63,9 @@ Mostly from https://oxygenadvantage.com/wim-hof/
 "The Wim Hof method can optimize athletic performance and endurance, improve mental and physical health, reduce symptoms of chronic illness and boost immunity. Patrick McKeown’s Oxygen Advantage® does the same thing. While Patrick’s 2015 book, The Oxygen Advantage was for sports and fitness, his latest book, The Breathing Cure, covers an extensive list of health conditions, offering a detailed examination of the scientific research into the relationship between breath and health."
 #+end_quote
 
+| Wim Hof                                                                                                                                | Oxygen Advantage                                                                                                                       |
+| /"The Wim Hof breathing method embraces the role of the breath in the mind/body/spirit connection. There is an element of the kind of spiritual journey that yoga practitioners travel. Hof will tell you he has seen the chakras (the body’s energy centers) and Wim Hof enthusiasts talk about using the breath to get to know themselves better./ | /Patrick’s method deals in plain, scientific terms, teaching the biomechanics, biochemistry and cadence of breathing. He stresses the importance of full-time nasal breathing and the dangers of chronic hyperventilation (over-breathing). Hof will say it doesn’t matter if you breathe through your nose or mouth. The goal during his breathing exercise is to deliberately hyperventilate, taking in as much air as possible. This may be confusing — but there are reasons for these differences between breathing techniques"/ |
+
 ** What happens when you breath
 #+begin_quote
 During respiration, you take in oxygen and release [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][carbon dioxide]] from your blood. Normal *levels of blood oxygen are around 99%, so breathing more air does not improve oxygen levels or increase blood oxygen saturation* (SAO2). A strong breath out, however, will expel a large amount of carbon dioxide (CO2). Carbon dioxide plays an important role in body oxygenation (the [[id:1e8e0c61-97ae-4d59-9c14-76ab08b49d8f][The Bohr Effect]]). Because of this, the brain stem is sensitive to changes in CO2 in the lungs and blood. When the *level of carbon dioxide is low, the urge to breathe lessens, meaning you can hold your breath for longer*."
@@ -61,15 +76,15 @@ During respiration, you take in oxygen and release [[id:73226fcb-1702-4d6b-a4ba-
 #+end_quote
 ** Hyperventilation
 #+begin_quote
-"During deliberate hyperventilation, the *pH-value of the blood increases*. Normally, blood pH levels are around 7.4, but the drop in CO2 makes the blood significantly more alkaline — up to 7.75. This temporary *alkalosis* triggers physiological changes. You may feel lightheaded as your *arteries and blood vessels constrict in response to the disruption in homeostasis and reduction in CO2* (a powerful vasodilator). For the same reasons, you may *experience tingling in your muscles and limbs*."
+"During deliberate hyperventilation, the *pH-value of the blood increases*. Normally, blood pH levels are around 7.4, but the drop in CO2 makes the blood significantly more alkaline — up to 7.75. This temporary *alkalosis* triggers physiological changes. You may feel _lightheaded_ as your *arteries and blood vessels constrict in response to the disruption in homeostasis and reduction in CO2* (a powerful vasodilator). For the same reasons, you may *experience tingling in your muscles and limbs*."
 #+end_quote
 ** What happens when you hold your breath?
 #+begin_quote
-"What happens to blood pH when you hold your breath? [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] is unable to leave the blood via the lungs, and it *dissociates into carbonic acid*. As CO2 builds up in the body, *blood becomes more acidic*, reversing the alkalinity caused by deliberate hyperventilation. *As carbon dioxide levels rise, the oxygen held in red blood cells floods to the tissues*."
+"What happens to blood pH when you hold your breath? [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][Carbon Dioxide]] is unable to leave the blood via the lungs, and it *dissociates into carbonic acid*. As *CO2 builds up in the body*, *blood becomes more acidic*, reversing the alkalinity caused by deliberate hyperventilation. *As carbon dioxide levels rise, the oxygen held in red blood cells floods to the tissues*."
 #+end_quote
 ** On hormesis
 #+begin_quote
-"Short-term [[id:0a497f60-b7f9-44ad-9b90-8f21c07abe9e][hypoxia]] stresses the body at a cellular level. This type of stress is called [[id:65823402-b5ec-452c-a562-2f7f489ee1db][hormesis]] — “good” stress that causes the body to adapt, strengthen and build resilience. The sympathetic response (your fight, flight or freeze stress mechanism) is activated. According to [[id:2965cd54-8ffb-48a1-9b88-07ca58f97469][Hof]], concentration of red blood cells increases (boosting your blood’s oxygen carrying capacity). Lung capacity and circulation improve, and your metabolism becomes more efficient."
+"Short-term [[id:0a497f60-b7f9-44ad-9b90-8f21c07abe9e][hypoxia]] stresses the body at a cellular level. This type of stress is called [[id:65823402-b5ec-452c-a562-2f7f489ee1db][hormesis]] — *“good” stress that causes the body to adapt, strengthen and build resilience*. The [[id:1745774b-70f5-465d-954b-aa426296cb8b][sympathetic]] response (your fight, flight or freeze stress mechanism) is activated. According to [[id:2965cd54-8ffb-48a1-9b88-07ca58f97469][Hof]], concentration of red blood cells increases (boosting your blood’s oxygen carrying capacity). Lung capacity and circulation improve, and your metabolism becomes more efficient."
 #+end_quote
 ** On adrenaline
 #+begin_quote
@@ -80,26 +95,7 @@ During respiration, you take in oxygen and release [[id:73226fcb-1702-4d6b-a4ba-
 "Another more recent study, from 2018, is relevant to the commitment/meditation/concentration pillar of the [[id:2965cd54-8ffb-48a1-9b88-07ca58f97469][Wim Hof method]]. Known as the *“Brain Over Body”* study this research aimed to uncover the brain function that allows Hof to withstand extremes of cold temperature exposure."
 #+end_quote
 ** Advantages of the Wim Hof method
-*** Physical health
-- Boost immune function,
-- Lessen inflammation,
-- Get deeper, more restful sleep,
-- Have more energy during the day,
-- Experience relief from symptoms of autoimmune disorders, arthritis, fibromyalgia and migraine,
-- Manage airway disorders like asthma and COPD,
-- Control blood pressure,
-- Alleviate symptoms of chronic illness such as
-- post-treatment Lyme disease syndrome and MS,
-- Boost your metabolism,
-- Enhance sports performance and recovery,
-- And improve your tolerance to cold."
-*** Mental health
-- Reduce and regulate stress levels by learning to control the [[id:0738a23c-8607-465f-be46-c945920917e1][autonomic nervous system]],
-- Prevent or recover from burnout,
-- Relieve depression,
-- Increase concentration and willpower,
-- Enhance the mind/body connection,
-- And feel happier and more creative"
+- [[id:f03b2ca4-0a74-418d-8e55-a5760c9791a2][Advantages]]
 ** On Cold Shower
 #+begin_quote
 "Scientific research has found that cold showers *increase the concentration of white blood cells* in the body. These cells protect the body against disease. It is thought the *immune response is stimulated by an increased metabolic rate*."
@@ -108,7 +104,6 @@ During respiration, you take in oxygen and release [[id:73226fcb-1702-4d6b-a4ba-
 #+begin_quote
 "When you take a cold shower, it imposes *controlled stress on your body*. This prompts your *nervous system to adapt* and causes you to *become more resilient*. This resilience carries through to stressful situations in your everyday life."
 #+end_quote
-
 
 * Quotes
 ** The Oxygen Advantage - Note 1                                               :quote:done:

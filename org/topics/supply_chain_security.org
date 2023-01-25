@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6214f4d9-7390-4b09-888f-63c0aa4a366b
+:END:
+#+title: Supply Chain Security
+#+filetags: :security:
+
+* Resources
+- 2023-01-23 ◦ [[https://www.redhat.com/en/topics/security/what-is-software-supply-chain-security][What is software supply chain security?]]
+  #+begin_quote
+  The supply chain includes networks of information about the software, like the components (e.g. *infrastructure*, *hardware*, *operating systems (OS)*, *cloud services*, etc.), the people who wrote them, and the sources they come from, like registries, GitHub repositories, codebases, or other open source projects. It also includes any vulnerabilities that may negatively impact software security – and that’s where software supply chain security comes in
+  #+end_quote
+- 2023-01-23 ◦ [[https://github.com/bureado/awesome-software-supply-chain-security][github.com/bureado/awesome-software-supply-chain-security]]
+  - A compilation of resources in the software supply chain security domain, with emphasis on open source

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       732a8883-e687-40fc-916f-d885d606b0d3
+:END:
+#+TITLE: 2023-01-24
+#+DATE: 2023-01-24
+#+FILETAGS: journal
+
+- 2023-01-24 ◦ [[https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00474-8][Brief structured respiration practices enhance mood and reduce physiological arousal: Cell Reports Medicine]] ([[id:3749ac25-5a66-4d81-a4ad-456d146e273b][Conscious Breathing]])

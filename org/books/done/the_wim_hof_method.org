@@ -18,6 +18,30 @@
   - causes *ph* level to increase because CO2 is an *acid* and once exhaled, it brings body to a temporary *alkaline* level
 - books
   - [[https://www.lovelybooks.de/autor/Wilfried-Ehrmann/Handbuch-der-Atem-Therapie-917154250-w/][Das Handbuch der Atem-Therapie]]
+* Advantages
+:PROPERTIES:
+:ID:       f03b2ca4-0a74-418d-8e55-a5760c9791a2
+:END:
+** Physical health
+- Boost immune function,
+- Lessen inflammation,
+- Get deeper, more restful sleep,
+- Have more energy during the day,
+- Experience relief from symptoms of autoimmune disorders, arthritis, fibromyalgia and migraine,
+- Manage airway disorders like asthma and COPD,
+- Control blood pressure,
+- Alleviate symptoms of chronic illness such as
+- post-treatment Lyme disease syndrome and MS,
+- Boost your metabolism,
+- Enhance sports performance and recovery,
+- And improve your tolerance to cold."
+** Mental health
+- Reduce and regulate stress levels by learning to control the [[id:0738a23c-8607-465f-be46-c945920917e1][autonomic nervous system]],
+- Prevent or recover from burnout,
+- Relieve depression,
+- Increase concentration and willpower,
+- Enhance the mind/body connection,
+- And feel happier and more creative"
 * Quotes
 ** The Wim Hof Method - Note 1                                                 :quote:done:
 #+begin_quote

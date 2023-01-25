@@ -34,6 +34,12 @@ draft = false
 #### [Clocking time with Org-mode](https://writequit.org/denver-emacs/presentations/2017-04-11-time-clocking-with-org.html) {#clocking-time-with-org-mode}
 
 
+### Citations {#citations}
+
+-   2023-01-24 ◦ [tecosaur - Introducing citations](https://blog.tecosaur.com/tmio/2021-07-31-citations.html)
+-   2023-01-24 ◦ [Citations in org-mode: Org-cite and Citar | Kristoffer Balintona](https://kristofferbalintona.me/posts/202206141852/)
+
+
 ### Themes {#themes}
 
 -   [org-html-themes](https://github.com/fniessen/org-html-themes)

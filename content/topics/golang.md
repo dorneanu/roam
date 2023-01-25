@@ -24,6 +24,7 @@ draft = false
 
 #### Custom resources {#custom-resources}
 
+-   2023-01-24 ◦ [Cloud Ninja: Building CloudFormation Custom Resources in Go](https://cloudninja.cloud/post/building-cloudformation-custom-resources-in-go/)
 -   2023-01-20 ◦ [GitHub - masgari/aws-custom-resources: A Lambda for creating custom resources in CloudFormation.](https://github.com/masgari/aws-custom-resources)
 -   2023-01-20 ◦ [GitHub - lifadev/archive_aws-cloudformation-go-customres: Author your AWS CloudFormation Custom Resources in Go.](https://github.com/lifadev/archive_aws-cloudformation-go-customres)
 

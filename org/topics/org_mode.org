@@ -22,6 +22,9 @@
 - [[https://daryl.wakatara.com/tracking-your-finances-with-reckon-and-ledger/][Daryl Manning | Tracking your finances with Reckon and Ledger]]
 ** Clocking
 *** [[https://writequit.org/denver-emacs/presentations/2017-04-11-time-clocking-with-org.html][Clocking time with Org-mode]]
+** Citations
+- 2023-01-24 ◦ [[https://blog.tecosaur.com/tmio/2021-07-31-citations.html][tecosaur - Introducing citations]]
+- 2023-01-24 ◦ [[https://kristofferbalintona.me/posts/202206141852/][Citations in org-mode: Org-cite and Citar | Kristoffer Balintona]]
 ** Themes
 - [[https://github.com/fniessen/org-html-themes][org-html-themes]]
   - How to export Org mode files into awesome HTML in 2 minute

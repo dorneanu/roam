@@ -26,6 +26,21 @@ draft = false
         -   [The Bohr Effect]({{< relref "../../topics/the_bohr_effect.md" >}})
 
 
+## Method {#method}
+
+
+### Functional breathing training {#functional-breathing-training}
+
+> Functional breathing training. This is a 24/7 practice. It’s about retraining your breathing, unlearning the bad breathing habits that hold you back. You’ll restore breathing to its healthiest state, day and night. Exercises focus on reducing the volume of the breath, slowing the breathing and engaging/strengthening the diaphragm.
+> -- <https://oxygenadvantage.com/wim-hof/>
+
+
+### Breathing exercises to simulate high altitude training {#breathing-exercises-to-simulate-high-altitude-training}
+
+> Breathing exercises to simulate high altitude training (intermittent hypoxic/hypercapnic training). These breath-hold techniques involve temporarily increasing levels of arterial carbon dioxide from the normal concentration of 40mmHg to 50mmHg or more (hypercapnia) and reducing SPO2 to around 85% ([hypoxia]({{< relref "../../topics/hypoxia.md" >}}))."
+> -- <https://oxygenadvantage.com/wim-hof/>
+
+
 ## Exercises {#exercises}
 
 
@@ -60,6 +75,10 @@ Mostly from <https://oxygenadvantage.com/wim-hof/>
 
 > "The Wim Hof method can optimize athletic performance and endurance, improve mental and physical health, reduce symptoms of chronic illness and boost immunity. Patrick McKeown’s Oxygen Advantage® does the same thing. While Patrick’s 2015 book, The Oxygen Advantage was for sports and fitness, his latest book, The Breathing Cure, covers an extensive list of health conditions, offering a detailed examination of the scientific research into the relationship between breath and health."
 
+| Wim Hof                                                                                                                                                                                                                                                                                                                                              | Oxygen Advantage                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| _"The Wim Hof breathing method embraces the role of the breath in the mind/body/spirit connection. There is an element of the kind of spiritual journey that yoga practitioners travel. Hof will tell you he has seen the chakras (the body’s energy centers) and Wim Hof enthusiasts talk about using the breath to get to know themselves better._ | _Patrick’s method deals in plain, scientific terms, teaching the biomechanics, biochemistry and cadence of breathing. He stresses the importance of full-time nasal breathing and the dangers of chronic hyperventilation (over-breathing). Hof will say it doesn’t matter if you breathe through your nose or mouth. The goal during his breathing exercise is to deliberately hyperventilate, taking in as much air as possible. This may be confusing — but there are reasons for these differences between breathing techniques"_ |
+
 
 ### What happens when you breath {#what-happens-when-you-breath}
 
@@ -73,17 +92,17 @@ Mostly from <https://oxygenadvantage.com/wim-hof/>
 
 ### Hyperventilation {#hyperventilation}
 
-> "During deliberate hyperventilation, the **pH-value of the blood increases**. Normally, blood pH levels are around 7.4, but the drop in CO2 makes the blood significantly more alkaline — up to 7.75. This temporary **alkalosis** triggers physiological changes. You may feel lightheaded as your **arteries and blood vessels constrict in response to the disruption in homeostasis and reduction in CO2** (a powerful vasodilator). For the same reasons, you may **experience tingling in your muscles and limbs**."
+> "During deliberate hyperventilation, the **pH-value of the blood increases**. Normally, blood pH levels are around 7.4, but the drop in CO2 makes the blood significantly more alkaline — up to 7.75. This temporary **alkalosis** triggers physiological changes. You may feel <span class="underline">lightheaded</span> as your **arteries and blood vessels constrict in response to the disruption in homeostasis and reduction in CO2** (a powerful vasodilator). For the same reasons, you may **experience tingling in your muscles and limbs**."
 
 
 ### What happens when you hold your breath? {#what-happens-when-you-hold-your-breath}
 
-> "What happens to blood pH when you hold your breath? [Carbon Dioxide]({{< relref "../../topics/carbon_dioxide.md" >}}) is unable to leave the blood via the lungs, and it **dissociates into carbonic acid**. As CO2 builds up in the body, **blood becomes more acidic**, reversing the alkalinity caused by deliberate hyperventilation. **As carbon dioxide levels rise, the oxygen held in red blood cells floods to the tissues**."
+> "What happens to blood pH when you hold your breath? [Carbon Dioxide]({{< relref "../../topics/carbon_dioxide.md" >}}) is unable to leave the blood via the lungs, and it **dissociates into carbonic acid**. As **CO2 builds up in the body**, **blood becomes more acidic**, reversing the alkalinity caused by deliberate hyperventilation. **As carbon dioxide levels rise, the oxygen held in red blood cells floods to the tissues**."
 
 
 ### On hormesis {#on-hormesis}
 
-> "Short-term [hypoxia]({{< relref "../../topics/hypoxia.md" >}}) stresses the body at a cellular level. This type of stress is called [hormesis]({{< relref "../../topics/hormesis.md" >}}) — “good” stress that causes the body to adapt, strengthen and build resilience. The sympathetic response (your fight, flight or freeze stress mechanism) is activated. According to [Hof]({{< relref "the_wim_hof_method.md" >}}), concentration of red blood cells increases (boosting your blood’s oxygen carrying capacity). Lung capacity and circulation improve, and your metabolism becomes more efficient."
+> "Short-term [hypoxia]({{< relref "../../topics/hypoxia.md" >}}) stresses the body at a cellular level. This type of stress is called [hormesis]({{< relref "../../topics/hormesis.md" >}}) — **“good” stress that causes the body to adapt, strengthen and build resilience**. The [sympathetic]({{< relref "../../topics/parasympathetic_nervous_system.md" >}}) response (your fight, flight or freeze stress mechanism) is activated. According to [Hof]({{< relref "the_wim_hof_method.md" >}}), concentration of red blood cells increases (boosting your blood’s oxygen carrying capacity). Lung capacity and circulation improve, and your metabolism becomes more efficient."
 
 
 ### On adrenaline {#on-adrenaline}
@@ -98,31 +117,7 @@ Mostly from <https://oxygenadvantage.com/wim-hof/>
 
 ### Advantages of the Wim Hof method {#advantages-of-the-wim-hof-method}
 
-
-#### Physical health {#physical-health}
-
--   Boost immune function,
--   Lessen inflammation,
--   Get deeper, more restful sleep,
--   Have more energy during the day,
--   Experience relief from symptoms of autoimmune disorders, arthritis, fibromyalgia and migraine,
--   Manage airway disorders like asthma and COPD,
--   Control blood pressure,
--   Alleviate symptoms of chronic illness such as
--   post-treatment Lyme disease syndrome and MS,
--   Boost your metabolism,
--   Enhance sports performance and recovery,
--   And improve your tolerance to cold."
-
-
-#### Mental health {#mental-health}
-
--   Reduce and regulate stress levels by learning to control the [autonomic nervous system]({{< relref "../../topics/autonomic_nervous_system.md" >}}),
--   Prevent or recover from burnout,
--   Relieve depression,
--   Increase concentration and willpower,
--   Enhance the mind/body connection,
--   And feel happier and more creative"
+-   [Advantages]({{< relref "the_wim_hof_method.md#advantages" >}})
 
 
 ### On Cold Shower {#on-cold-shower}

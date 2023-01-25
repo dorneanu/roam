@@ -16,6 +16,7 @@
 - 2022-09-96 ◦ [[https://www.go-on-aws.com/][GO ON AWS]]
   - Using Golang for writing [[id:61b1e794-8d3a-45f1-b414-612b6ad4dad4][CDK]] stacks for [[id:be5bebfe-5df9-4db2-af87-7e80e11723c7][AWS]]
 *** Custom resources
+- 2023-01-24 ◦ [[https://cloudninja.cloud/post/building-cloudformation-custom-resources-in-go/][Cloud Ninja: Building CloudFormation Custom Resources in Go]]
 - 2023-01-20 ◦ [[https://github.com/masgari/aws-custom-resources][GitHub - masgari/aws-custom-resources: A Lambda for creating custom resources in CloudFormation.]]
 - 2023-01-20 ◦ [[https://github.com/lifadev/archive_aws-cloudformation-go-customres][GitHub - lifadev/archive_aws-cloudformation-go-customres: Author your AWS CloudFormation Custom Resources in Go.]]
 ** Botnets
