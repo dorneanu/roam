@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c9ae2f27-0e5c-407b-8009-e1f0bb5a5b31
+:END:
+#+TITLE: 2023-01-26
+#+DATE: 2023-01-26
+#+FILETAGS: journal
+
+- 2023-01-26 ◦ [[https://slack.engineering/what-we-learned-from-building-govslack/][What We Learned from Building GovSlack]]

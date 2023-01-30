@@ -51,6 +51,10 @@ draft = false
 -   [Make it sick](https://www.goodreads.com/book/show/18770267-make-it-stick)
 -   [Good to great](https://www.goodreads.com/book/show/76865.Good_to_Great)
 -   [Reclaiming conversations](https://www.goodreads.com/book/show/24612127-reclaiming-conversation)
+
+
+## 2022 {#2022}
+
 -   2022-09-07 ◦ [Peak: Secrets from the New Science of Expertise by K. Anders Ericsson](https://www.goodreads.com/book/show/26312997-peak)
 -   2022-09-12 ◦ [Learning Domain-Driven Design [Book](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)] ([DDD]({{< relref "ddd.md" >}}))
 -   2022-09-12 ◦ [Fundamentals of Software Architecture: An Engineering Approach by Mark Richards](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture)
@@ -71,4 +75,9 @@ draft = false
 -   2023-01-10 ◦ [The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture by Gregor Hohpe](https://www.goodreads.com/en/book/show/49828197-the-software-architect-elevator)
 -   2023-01-23 ◦ [The Breathing Cure: Exercises to Develop New Breathing Habits for a Healthier, Happier and Longer Life by Patrick McKeown](https://www.goodreads.com/book/show/57213922-the-breathing-cure)
 -   2023-01-23 ◦ [Anxiety Free: Stop Worrying and Quieten Your Mind - Featuring the Buteyko Breathing Method and Mindfulness by Patrick McKeown](https://www.goodreads.com/book/show/7815904-anxiety-free)
+
+
+## 2023 {#2023}
+
 -   2023-01-24 ◦ [The Origins of Totalitarianism by Hannah Arendt](https://www.goodreads.com/book/show/396931.The_Origins_of_Totalitarianism)
+-   2023-01-25 ◦ [The Ministry for the Future by Kim Stanley Robinson](https://www.goodreads.com/en/book/show/50998056-the-ministry-for-the-future)

@@ -90,6 +90,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
   ‘r’ – rename the current bookmark
   #+end_quote
 ** Configuration
+- 2023-01-26 ◦ [[https://randomgeekery.org/config/emacs/nano/][My NANO-based Emacs config | Config | Random Geekery]]
 - 2022-11-14 ◦ [[https://github.com/caisah/emacs.dz][GitHub - caisah/emacs.dz: Awesome emacs config files]]
 - 2022-10-26 ◦ [[https://abdelhakbougouffa.pro/posts/config/][Doom Emacs Configuration]]
 - 2022-10-25 ◦ [[https://huadeyu.tech/tools/emacs-setup-notes.html][极简Emacs开发环境配置]]
