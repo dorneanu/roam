@@ -16,6 +16,17 @@ draft = false
 
 ## Articles {#articles}
 
+-   2023-02-02 ◦ [My org-roam workflows for taking notes and writing articles](http://honnef.co/articles/my-org-roam-workflows-for-taking-notes-and-writing-articles/)
+
+    > I want all of my notes to have a #+date property, set to the creation time of the note. Instead of having to modify all templates to include it, I add a hook to org-roam-capture-new-node-hook that inserts the property whenever a new note is created.
+
+    ```emacs-lisp
+    (defun dh/org-insert-date-keyword ()
+      (org-roam-set-keyword "date" (format-time-string "[%Y-%m-%d %a]" (current-time))))
+
+    (add-hook 'org-roam-capture-new-node-hook #'dh/org-insert-date-keyword)
+    ```
+
 -   2022-08-30 ◦ [Emacs CODE implementation](https://renatgalimov.github.io/org-basb-code/)
     -   some workflows
     -   implements `CODE` as proposed by [Tiago Forte]({{< relref "../books/building_a_second_brain.md" >}})

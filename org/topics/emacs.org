@@ -61,6 +61,8 @@
        (elfeed-feed-url (elfeed-entry-feed entry)))))))
 #+end_src
 * Registers
+- 2023-01-31 ◦ [[https://youtu.be/u1YoF4ycLTY][Emacs: introduction to REGISTERS - YouTube]]
+
 ** Append text to registers
 
 When you are collecting text using append-to-register and prepend-to-register, you may want to separate individual collected pieces using a separator. In that case, configure a register-separator and store the separator text in to that register. For example, to get double newlines as text separator during the collection process, you can use the following setting.
@@ -119,6 +121,8 @@ When you are collecting text using append-to-register and prepend-to-register, y
   - Examples using emacs org mode babel inline source code with different backend languages
 ** Reports
 - 2023-01-05 ◦ [[https://www.adventuresinwhy.com/post/org-mode-timekeeping/][Timekeeping with Emacs and Org-Mode | Adventures in Why]]
+** Productivity
+- 2023-02-01 ◦ [[https://youtu.be/4-ubCJF9htw][Emacs micro motions and hacks - YouTube]]
 ** UI
 - 2022-12-05 ◦ [[https://codeberg.org/gopiandcode/emacs-viewer][gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org]]
 ** Yaml

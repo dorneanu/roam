@@ -58,10 +58,10 @@
     - don't look from up here (it distorts the view)
 
 *** Generalization instinct                                       :note:
-      :PROPERTIES:
-      :CREATED: Tue Jun 08 2021 10:49:00 GMT+0200 (Central European Summer Time)
-      :TAGS:
-      :END:
+  :PROPERTIES:
+  :CREATED: Tue Jun 08 2021 10:49:00 GMT+0200 (Central European Summer Time)
+  :TAGS:
+  :END:
 
 - The generalization instinct
   - Question your categories

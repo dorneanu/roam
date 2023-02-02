@@ -23,3 +23,9 @@ draft = false
         -   Golang and `echo` web framework
         -   Geth
         -   Ganache or ganache-cli
+
+
+### Security {#security}
+
+-   2023-02-01 ◦ [Damn Vulnerable Defi](https://dev.to/erhant/damn-vulnerable-defi-1-unstoppable-4824)
+    -   [Github Repository](https://www.damnvulnerabledefi.xyz/)

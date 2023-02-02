@@ -8,6 +8,18 @@
 * Functions
 - Create ID for current buffer: ~org-id-get-create~
 * Articles
+- 2023-02-02 ◦ [[http://honnef.co/articles/my-org-roam-workflows-for-taking-notes-and-writing-articles/][My org-roam workflows for taking notes and writing articles]]
+  #+begin_quote
+  I want all of my notes to have a #+date property, set to the creation time of the note. Instead of having to modify all templates to include it, I add a hook to org-roam-capture-new-node-hook that inserts the property whenever a new note is created.
+  #+end_quote
+
+  #+begin_src emacs-lisp
+(defun dh/org-insert-date-keyword ()
+  (org-roam-set-keyword "date" (format-time-string "[%Y-%m-%d %a]" (current-time))))
+
+(add-hook 'org-roam-capture-new-node-hook #'dh/org-insert-date-keyword)
+  #+end_src
+
 - 2022-08-30 ◦ [[https://renatgalimov.github.io/org-basb-code/][Emacs CODE implementation]]
   - some workflows
   - implements ~CODE~ as proposed by [[id:a4a146e8-291a-4f79-92e4-b74f5d7204e2][Tiago Forte]]

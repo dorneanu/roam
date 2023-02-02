@@ -77,6 +77,8 @@ draft = false
 
 ## Registers {#registers}
 
+-   2023-01-31 ◦ [Emacs: introduction to REGISTERS - YouTube](https://youtu.be/u1YoF4ycLTY)
+
 
 ### Append text to registers {#append-text-to-registers}
 
@@ -171,6 +173,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
 ### Reports {#reports}
 
 -   2023-01-05 ◦ [Timekeeping with Emacs and Org-Mode | Adventures in Why](https://www.adventuresinwhy.com/post/org-mode-timekeeping/)
+
+
+### Productivity {#productivity}
+
+-   2023-02-01 ◦ [Emacs micro motions and hacks - YouTube](https://youtu.be/4-ubCJF9htw)
 
 
 ### UI {#ui}

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       413f29b9-9539-438c-9044-7146c778bca5
+:END:
+#+title: Bias
+
+* TODO Confirmation bias
+* TODO Hindsight bias
+- in retrospect, earlier events always seem more predictable than they really were at the time
+* TODO Attribution bias
