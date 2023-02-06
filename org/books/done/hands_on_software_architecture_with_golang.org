@@ -89,10 +89,15 @@ percentage of users
 *Definition:*
 
 #+begin_quote
-The basic concept of a microservice is simple—it's a simple, standalone application that does one thing only and does that one thing well. The objective is to retain the simplicity, isolation, and productivity of the early app. A microservice cannot live alone; no microservice is an island—it is part of a larger system, running and working alongside other microservices to accomplish what would normally be handled by one large standalone application.
+The basic concept of a microservice is simple—it's a simple, standalone
+application that does one thing only and does that one thing well. The objective
+is to retain the simplicity, isolation, and productivity of the early app. A
+microservice cannot live alone; no microservice is an island—it is part of a
+larger system, running and working alongside other microservices to accomplish
+what would normally be handled by one large standalone application.
 #+end_quote
 
-Each microservice is:
+Each [[id:adce7f16-ab79-4935-b73e-71f3740a071f][microservice]] is:
 - autonomous
 - independent
 - self-contained
@@ -111,11 +116,17 @@ Each microservice is:
 * Go
 
 #+begin_quote
-The Go programming language was conceived in late 2007 by Robert Griesemer, Rob Pike, and Ken Thompson, as an open source programming language that aims to simplify programming and make it fun again. It's sponsored by Google, but is a true open source project—it commits from Google first, to the open source projects, and then the public repository is imported internally.
+The Go programming language was conceived in late 2007 by Robert Griesemer, Rob
+Pike, and Ken Thompson, as an open source programming language that aims to
+simplify programming and make it fun again. It's sponsored by Google, but is a
+true open source project—it commits from Google first, to the open source
+projects, and then the public repository is imported internally.
 #+end_quote
 
 #+begin_quote
-The language was designed by and for people who write, read, debug, and maintain large software systems. It's a statically-typed, compiled language with built-in concurrency and garbage collection as first-class citizens.
+The language was designed by and for people who write, read, debug, and maintain
+large software systems. It's a statically-typed, compiled language with built-in
+concurrency and garbage collection as first-class citizens.
 #+end_quote
 
 ** TODO Introduction

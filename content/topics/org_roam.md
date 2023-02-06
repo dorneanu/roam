@@ -6,6 +6,7 @@ draft = false
 
 ## Capturing {#capturing}
 
+-   2023-02-04 ◦ [One way to set up org-protocol on Linux - Kisaragi Hiu](https://kisaragi-hiu.com/org-protocol-linux.html)
 -   2022-11-22 ◦ [An example workflow with Org-roam https://www.reddit.com/r/emacs/comments/ysfcmx/comment/iw3cl4u · GitHub](https://gist.github.com/nickanderson/00005b5b03e323a65ada98c5fa5ebb11)
 
 

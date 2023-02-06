@@ -10,4 +10,3 @@ draft = false
         -   wie sollen Kinder also lernen, Grenzen Anderer zu akzeptieren, wenn ihre eigenen ständig verletzt werden?
     -   Wenn aktiv mit den Eltern (+Kindern) nach Lösungen gesucht wird, dann entwickeln die Kinder Respekt vor den Grenzen anderer Menschen
         -   kommt es zumm Machtkampf, werden sie später auch Machtkämpfe austragen
--

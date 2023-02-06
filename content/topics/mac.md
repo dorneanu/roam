@@ -17,7 +17,7 @@ Definition
 
 ## Structure {#structure}
 
-{{< figure src="http://4.bp.blogspot.com/-4r4TR4Y0tfo/UeqCdtUrGCI/AAAAAAAAAMw/elXA0K4hS7E/s1600/MAC-48_Address.svg.png" >}}
+{{< figure src="https://4.bp.blogspot.com/-4r4TR4Y0tfo/UeqCdtUrGCI/AAAAAAAAAMw/elXA0K4hS7E/s1600/MAC-48_Address.svg.png" >}}
 
 
 ## Broadcast {#broadcast}

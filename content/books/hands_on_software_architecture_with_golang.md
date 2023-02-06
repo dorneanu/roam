@@ -87,9 +87,14 @@ draft = false
 
 **Definition:**
 
-> The basic concept of a microservice is simple—it's a simple, standalone application that does one thing only and does that one thing well. The objective is to retain the simplicity, isolation, and productivity of the early app. A microservice cannot live alone; no microservice is an island—it is part of a larger system, running and working alongside other microservices to accomplish what would normally be handled by one large standalone application.
+> The basic concept of a microservice is simple—it's a simple, standalone
+> application that does one thing only and does that one thing well. The objective
+> is to retain the simplicity, isolation, and productivity of the early app. A
+> microservice cannot live alone; no microservice is an island—it is part of a
+> larger system, running and working alongside other microservices to accomplish
+> what would normally be handled by one large standalone application.
 
-Each microservice is:
+Each [microservice]({{< relref "../../topics/microservices.md" >}}) is:
 
 -   autonomous
 -   independent
@@ -110,11 +115,17 @@ Each microservice is:
 
 ## Go {#go}
 
-> The Go programming language was conceived in late 2007 by Robert Griesemer, Rob Pike, and Ken Thompson, as an open source programming language that aims to simplify programming and make it fun again. It's sponsored by Google, but is a true open source project—it commits from Google first, to the open source projects, and then the public repository is imported internally.
+> The Go programming language was conceived in late 2007 by Robert Griesemer, Rob
+> Pike, and Ken Thompson, as an open source programming language that aims to
+> simplify programming and make it fun again. It's sponsored by Google, but is a
+> true open source project—it commits from Google first, to the open source
+> projects, and then the public repository is imported internally.
 
 <!--quoteend-->
 
-> The language was designed by and for people who write, read, debug, and maintain large software systems. It's a statically-typed, compiled language with built-in concurrency and garbage collection as first-class citizens.
+> The language was designed by and for people who write, read, debug, and maintain
+> large software systems. It's a statically-typed, compiled language with built-in
+> concurrency and garbage collection as first-class citizens.
 
 
 ### <span class="org-todo todo TODO">TODO</span> Introduction {#introduction}
@@ -319,7 +330,6 @@ Idea:
     -   basically a specification for an abstract base class with various concrete subtypes
 
         Example is the **io.Reader** interface:
-
         ```go
             type Reader interface {
             // Read reads up to len(buf) bytes into buf.
@@ -347,7 +357,6 @@ Idea:
         > Many client-specific interfaces are better than one general-purpose interface
 
         Example:
-
         ```go
               // Save writes the contents of doc to the supplied Writer.
               func Save(w io.Writer, doc *Document) error
@@ -453,7 +462,7 @@ Idea:
 
 -   X-axis scaling
 
-    {{< figure src="/img/software-engineering-golang/scalability-x.png" caption="<span class=\"figure-number\">Figure 3: </span>(c) Jyotiswarup Raiturkar" >}}
+    {{< figure src="/img/software-engineering-golang/scalability-x.png" caption="<span class=\"figure-number\">Figure 1: </span>(c) Jyotiswarup Raiturkar" >}}
 
     > Scaling along the x-axis means running multiple copies (instances) of the
     > application behind a load balancer. If there are n instances, then each
@@ -461,7 +470,7 @@ Idea:
     > by throwing hardware at the problem
 -   Y-axis scaling
 
-    {{< figure src="/img/software-engineering-golang/scalability-y.png" caption="<span class=\"figure-number\">Figure 4: </span>(c) Jyotiswarup Raiturkar" >}}
+    {{< figure src="/img/software-engineering-golang/scalability-y.png" caption="<span class=\"figure-number\">Figure 1: </span>(c) Jyotiswarup Raiturkar" >}}
 
     > The objective of scaling along the y-axis is splitting the application into
     > multiple, different services. Each service is responsible for one or more
@@ -474,7 +483,7 @@ Idea:
     > communication between services to get the clients what they need
 -   Z-axis scaling
 
-    {{< figure src="/img/software-engineering-golang/scalability-z.png" caption="<span class=\"figure-number\">Figure 5: </span>(c) Jyotiswarup Raiturkar" >}}
+    {{< figure src="/img/software-engineering-golang/scalability-z.png" caption="<span class=\"figure-number\">Figure 1: </span>(c) Jyotiswarup Raiturkar" >}}
 
     > z-axis scaling mode, each instance runs the same code, but with a different
     > set of data. That is, each server is responsible for only a subset of the
@@ -552,7 +561,7 @@ In 1994, Peter Deutsch, who worked at Sun Microsystems, wrote about common wrong
 
 ### EDA (Event-driven Architecture) {#eda--event-driven-architecture}
 
-{{< figure src="/img/software-engineering-golang/eda-messaging.png" caption="<span class=\"figure-number\">Figure 6: </span>(c) Jyotiswarup Raiturkar" >}}
+{{< figure src="/img/software-engineering-golang/eda-messaging.png" caption="<span class=\"figure-number\">Figure 1: </span>(c) Jyotiswarup Raiturkar" >}}
 
 -   promotes an architectural paradigm where behavior is composed by reacting to
     events.
@@ -682,13 +691,10 @@ A messaging system can be judged on its performance in four aspects—scalabilit
     > identifiers.
 
     Example:
-
     ```nil
       GET /hotels/xyz
     ```
-
     Response:
-
     ```nil
       {
           "city": "Delhi",
