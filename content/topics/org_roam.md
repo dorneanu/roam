@@ -17,6 +17,7 @@ draft = false
 
 ## Articles {#articles}
 
+-   2023-02-07 ◦ [Implementing the PARA Method in Org-mode - Wai Hon's Blog](https://whhone.com/posts/para-org-mode/) ([PARA]({{< relref "../books/building_a_second_brain.md#para" >}}))
 -   2023-02-02 ◦ [My org-roam workflows for taking notes and writing articles](http://honnef.co/articles/my-org-roam-workflows-for-taking-notes-and-writing-articles/)
 
     > I want all of my notes to have a #+date property, set to the creation time of the note. Instead of having to modify all templates to include it, I add a hook to org-roam-capture-new-node-hook that inserts the property whenever a new note is created.

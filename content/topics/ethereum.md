@@ -25,6 +25,11 @@ draft = false
         -   Ganache or ganache-cli
 
 
+### Solidity {#solidity}
+
+-   2023-02-08 ◦ [GitHub - ajlopez/SoliditySamples: Solidity Smart Contracts Samples](https://github.com/ajlopez/SoliditySamples)
+
+
 ### Security {#security}
 
 -   2023-02-01 ◦ [Damn Vulnerable Defi](https://dev.to/erhant/damn-vulnerable-defi-1-unstoppable-4824)

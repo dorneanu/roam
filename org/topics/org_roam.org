@@ -9,6 +9,7 @@
 * Functions
 - Create ID for current buffer: ~org-id-get-create~
 * Articles
+- 2023-02-07 ◦ [[https://whhone.com/posts/para-org-mode/][Implementing the PARA Method in Org-mode - Wai Hon's Blog]] ([[id:1b92b3d4-c9a2-4d9b-869a-a27a9847bd70][PARA]])
 - 2023-02-02 ◦ [[http://honnef.co/articles/my-org-roam-workflows-for-taking-notes-and-writing-articles/][My org-roam workflows for taking notes and writing articles]]
   #+begin_quote
   I want all of my notes to have a #+date property, set to the creation time of the note. Instead of having to modify all templates to include it, I add a hook to org-roam-capture-new-node-hook that inserts the property whenever a new note is created.
