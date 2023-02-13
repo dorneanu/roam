@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c474532e-51a3-43eb-b021-091119b352cf
+:END:
+#+TITLE: 2023-02-13
+#+DATE: 2023-02-13
+#+FILETAGS: journal
+
+- Persist ~setxkbmap~ settings after lock, suspend:
+  Swap escape and capslock keys:
+  #+begin_src sh
+  gsettings set org.gnome.desktop.input-sources xkb-options "['ctrl:swapcaps']"
+  #+end_src
+
+  Set keyboard repeat delay and speed:
+  #+begin_src sh
+  settings set org.gnome.desktop.peripherals.keyboard repeat-interval 30
+  gsettings set org.gnome.desktop.peripherals.keyboard delay 250
+  #+end_src
