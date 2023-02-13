@@ -30,7 +30,7 @@
         The goal is not to read a book, the goal is to become a reader. The goal is not to run a marathon, the goal is to become a runner. he goal is not to learn an instrument, the goal is to become a musician.
         #+end_quote
 * Notes
-*** 4 Laws of Behaviour Change                                                :note:
+*** 4 Laws of Behaviour Change                                                  :note:
 :PROPERTIES:
 :CREATED:  Tue Jun 08 2021 10:36:22 GMT+0200 (Central European Summer Time)
 :TAGS:     Definition
@@ -65,7 +65,7 @@
     - don 't focus on the result
       - focus on how it makes you feel
 
-*** 4 step model of habits                                                    :note:
+*** 4 step model of habits                                                      :note:
 :PROPERTIES:
 :CREATED:  Tue Jun 08 2021 10:39:20 GMT+0200 (Central European Summer Time)
 :TAGS:     Definition
@@ -87,7 +87,7 @@
       - they /satisfy/
       - they /teach/
 
-*** Habit Tracking                                                            :note:
+*** Habit Tracking                                                              :note:
 :PROPERTIES:
 :CREATED:  Tue Jun 08 2021 10:38:34 GMT+0200 (Central European Summer Time)
 :TAGS:     Definition
@@ -99,7 +99,7 @@
   - but it's only useful when it /guides/ you and not consuming you
   - also read about [[https://jamesclear.com/paper-clips][paper clip strategy]]
 
-*** The Big Five                                                              :note:
+*** The Big Five                                                                :note:
 :PROPERTIES:
 :CREATED:  Wed Dec 16 2020 19:22:16 GMT+0100 (Central European Standard Time)
 :TAGS:
