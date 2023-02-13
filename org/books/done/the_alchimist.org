@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       98be9344-a262-4348-97d1-d668323bc502
+:END:
+#+title: The Alchimist
+#+date: 2023-02-03
+#+filetags: :todo:book:
+
+Goodreads: https://www.goodreads.com/book/show/18144590-the-alchemist
