@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7ebbc17a-9077-4b85-afcb-31f01678f79a
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author '("Sir Ken Robinson")
 :END:
 #+title: Imagine if...
 #+filetags: :society:book:

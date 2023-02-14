@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       f9f452cc-6b4c-4a9f-baba-3279d11afa33
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author '("Sir Ken Robinson")
 :END:
 #+title: Finding your element
 #+filetags: :book:todo:
