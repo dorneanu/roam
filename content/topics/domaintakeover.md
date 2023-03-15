@@ -1,5 +1,5 @@
 +++
-title = "DomainTakeover"
+title = "Domain Takeover"
 draft = false
 +++
 
@@ -22,3 +22,8 @@ Basic scenario for hijacking:
 |--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |              | `The specified bucket does not exist`                                                                                                                                                                                                                                                                                    |
 |              | not vulnerable anymore ([official statement](https://aws.amazon.com/blogs/networking-and-content-delivery/continually-enhancing-domain-security-on-amazon-cloudfront/)){.tc-tiddlylink-external rel="noopener noreferrer" target=“_blank”}, [github issue](https://github.com/EdOverflow/can-i-take-over-xyz/issues/29)) |
+
+
+## Resources {#resources}
+
+-   2023-03-15 ◦ [A comprehensive synopsis of 217 subdomain takeover reports](https://www.cyjax.com/2022/10/24/a-comprehensive-synopsis-of-217-subdomain-takeover-reports/)

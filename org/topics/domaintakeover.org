@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       362b2429-fcde-4b94-a504-4beb416ac6a1
+:END:
 #+created: 20191125130352512
 #+modified: 20210519185714076
 #+origin: https://github.com/EdOverflow/can-i-take-over-xyz https://aws.amazon.com/blogs/networking-and-content-delivery/continually-enhancing-domain-security-on-amazon-cloudfront/  https://www.mindpointgroup.com/blog/pen-test/cloudfront-hijacking/ https://0xpatrik.com/subdomain-takeover-ns/ https://www.hackerone.com/blog/Guide-Subdomain-Takeovers https://github.com/aboul3la/Sublist3r 
 #+revision: 0
 #+tags: DNS AppSec
-#+title: DomainTakeover
+#+title: Domain Takeover
 #+tmap.id: bd7c534f-a0fb-4fc1-ac93-e09fd1f8aca3
 #+type: text/vnd.tiddlywiki
 
@@ -14,7 +17,7 @@ Basic scenario for hijacking:
 - Because =test.disloops.com= was not added to the "Alternate Domain Names (CNAMEs)" field for the distribution, requests to =test.disloops.com= will fail.
 - Another user can create a [[#CloudFront][CloudFront]] distribution and add test.disloops.com to the "Alternate Domain Names (CNAMEs)" field to hijack the domain.
 
-** CNAME in context of CFN
+* CNAME in context of CFN
 :PROPERTIES:
 :CUSTOM_ID: cname-in-context-of-cfn
 :END:
@@ -24,7 +27,7 @@ Before diving into the details, it is important to clarify that a [[#CloudFront]
 
 #+end_quote
 
-** Remediations
+* Remediations
 :PROPERTIES:
 :CUSTOM_ID: remediations
 :END:
@@ -32,3 +35,5 @@ Before diving into the details, it is important to clarify that a [[#CloudFront]
 |---------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [[#AWS%2FS3][AWS/S3]]                 | =The specified bucket does not exist=                                                                                                                                                                                                                                                                                        |
 | [[#AWS%2FCloudFront][AWS/CloudFront]] | not vulnerable anymore ([[https://aws.amazon.com/blogs/networking-and-content-delivery/continually-enhancing-domain-security-on-amazon-cloudfront/][official statement]]){.tc-tiddlylink-external rel="noopener noreferrer" target=“_blank”}, [[https://github.com/EdOverflow/can-i-take-over-xyz/issues/29][github issue]]) |
+* Resources
+- 2023-03-15 ◦ [[https://www.cyjax.com/2022/10/24/a-comprehensive-synopsis-of-217-subdomain-takeover-reports/][A comprehensive synopsis of 217 subdomain takeover reports]]

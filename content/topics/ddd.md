@@ -58,6 +58,7 @@ draft = false
 
 ## Resources {#resources}
 
+-   2023-03-13 ◦ [A gentle introduction to Domain Driven Design | by The Lone Architect | Medium](https://blog.thelonearchitect.com/a-gentle-introduction-to-domain-driven-design-dc7cc169b1d)
 -   2022-12-01 ◦ [Michael Plöd (@mploed) on Speaker Deck](https://speakerdeck.com/mploed)
     -   [Hands-on Domain-driven Design - by Example](https://leanpub.com/ddd-by-example) (on leanpub)
     -   writes about DDD in general

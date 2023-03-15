@@ -15,3 +15,5 @@ https://blog.dornea.nu/notes/software-engineering-golang/eda-messaging.png
 
 * Articles
 - 2022-08-25 ◦ [[https://dev.to/elva_group/introduction-to-event-driven-architecture-6ki][Introduction to Event-Driven Architecture - DEV Community]]
+* Videos
+- 2023-03-13 ◦ [[https://www.youtube.com/watch?v=k8snG4mDc0c&ab_channel=WixEngineeringTechTalks][Lessons Learned From Working With 2,000 Event-Driven Microservices - Natan Silnitsky - YouTube]]

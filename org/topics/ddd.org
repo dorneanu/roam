@@ -50,6 +50,7 @@
     - organizational
       - Layering Inside vs Layering Outside
 * Resources
+- 2023-03-13 ◦ [[https://blog.thelonearchitect.com/a-gentle-introduction-to-domain-driven-design-dc7cc169b1d][A gentle introduction to Domain Driven Design | by The Lone Architect | Medium]]
 - 2022-12-01 ◦ [[https://speakerdeck.com/mploed][Michael Plöd (@mploed) on Speaker Deck]]
   - [[https://leanpub.com/ddd-by-example][Hands-on Domain-driven Design - by Example]] (on leanpub)
   - writes about DDD in general

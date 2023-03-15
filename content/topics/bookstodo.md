@@ -10,7 +10,6 @@ draft = false
 -   TODO Die Gesellschaft der Singularitäten
 -   TODO Killing the Host: How Financial Parasites and Debt Bondage Destroy the Global Economy :
 -   TODO Super Immunity: The Essential Nutrition Guide for Boosting Your Body's Defenses to Live Longer, Stronger, and Disease Free
--   TODO Building Secure and Reliable Systems
 -   TODO The Art of Learning: A Journey in the Pursuit of Excellence by Josh Waitzkin
 -   TODO Ultralearning
 -   TODO Digitale Demenz
@@ -41,7 +40,6 @@ draft = false
 -   [Keep Sharp: Build a Better Brain at Any Age](https://www.goodreads.com/en/book/show/52754076-keep-sharp)
 -   [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/work/best_book/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software) ([DDD]({{< relref "ddd.md" >}}))
 -   Company of one - Paul Jarvis
--   [Thirst](https://www.goodreads.com/work/best_book/59198162-thirst-a-story-of-redemption-compassion-and-a-mission-to-bring-clean)
 -   [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
 -   [Business Adventures](https://www.goodreads.com/book/show/4191136-business-adventures) (recommened by Bill Gates)
 -   [The Art of possibility](https://www.goodreads.com/ro/book/show/85697.The_Art_of_Possibility)
@@ -65,7 +63,6 @@ draft = false
 -   2022-11-03 ◦ [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence by Michael Pollan](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind)
 -   2022-11-21 ◦ [Exercised: The Science of Physical Activity, Rest and Health by Daniel E. Lieberman](https://www.goodreads.com/book/show/56155261-exercised)
 -   2022-11-29 ◦ [The Future Is Analog: How to Create a More Human World by David Sax](https://www.goodreads.com/book/show/60568520-the-future-is-analog)
--   2022-11-29 ◦ [Discipline Is Destiny: The Power of Self-Control by Ryan Holiday](https://www.goodreads.com/en/book/show/60018575-discipline-is-destiny)
 -   2022-12-08 ◦ [Nu tot ei! : România în ghearele imposturii by Valeriu Nicolae](https://www.goodreads.com/book/show/55853540-nu-tot-ei)
 -   2022-12-14 ◦ [Imagine If . . .: A Manifesto on the Creative Revolution in Education and Beyond by Ken Sir Robinson](https://www.goodreads.com/en/book/show/58536094-imagine-if)
 -   2022-12-14 ◦ [Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions)
