@@ -8,6 +8,7 @@ draft = false
 
 ### Clients {#clients}
 
+-   2023-03-22 ◦ [GitHub - xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) ([Emacs]({{< relref "emacs.md" >}}))
 -   2023-01-18 ◦ [GitHub - joshcho/ChatGPT.el: ChatGPT in Emacs](https://github.com/joshcho/ChatGPT.el) ([Emacs]({{< relref "emacs.md" >}}))
 
 

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b64a54cf-94a5-437f-8c5c-85ad4b01a3d1
+:END:
+#+title: FIRE
+
+* Articles
+- 2023-03-21 ◦ [[https://fatsoftwareengineer.substack.com/p/fire-fat-fire-and-me][FIRE, Fat FIRE & Me - The Fat Software Engineer]]
+* Resources
+- 2023-03-21 ◦ [[https://www.reddit.com/r/fatFIRE/][Wealth and Financial Independence/Retire Early]]

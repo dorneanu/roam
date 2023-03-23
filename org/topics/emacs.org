@@ -91,6 +91,8 @@ When you are collecting text using append-to-register and prepend-to-register, y
   ‘C-o’ – switch to the current bookmark in another window
   ‘r’ – rename the current bookmark
   #+end_quote
+** Blogs
+- 2023-03-23 ◦ [[https://karthinks.com/][Karthinks]]
 ** Configuration
 - 2023-01-26 ◦ [[https://randomgeekery.org/config/emacs/nano/][My NANO-based Emacs config | Config | Random Geekery]]
 - 2022-11-14 ◦ [[https://github.com/caisah/emacs.dz][GitHub - caisah/emacs.dz: Awesome emacs config files]]

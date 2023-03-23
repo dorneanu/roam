@@ -49,6 +49,7 @@
 - 2022-08-17 ◦ [[https://www.reddit.com/r/golang/comments/wlw5bj/preferred_resource_for_advanced_go/][Preferred resource for 'advanced' Go? : golang]]
   - Some good recommendation for advanced Go learning resources
 ** Malware
+- 2023-03-21 ◦ [[https://www.akamai.com/blog/security-research/hinatabot-uncovering-new-golang-ddos-botnet][Uncovering HinataBot: A Deep Dive into a Go-Based Threat | Akamai]]
 - 2022-11-01 ◦ [[https://changelog.com/gotime/251][Hacking with Go: Part 2 with Ivan Kwiatkowski (Go Time #251)]]
 - 2022-10-06 ◦ [[https://www.youtube.com/watch?v=rcsWz-gT0sI][GopherCon Europe 2021: Joakim Kennedy - The Dark Side of Go: A 2020 Go Malware Round Up]]
   #+begin_quote

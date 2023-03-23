@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       082aa166-9e25-4a6d-8b4c-e9c347753ede
+:END:
+#+title: Trotzdem Ja zum Leben sagen
+#+filetags: book
+#+date: 2023-03-20
+
+
+- [[https://www.goodreads.com/book/show/41432931][... trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager]]
+  - English: [[https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning][Man's Search for Meaning]]
+(Von Viktor E. Frankl)
+
+* Notes
+tbd

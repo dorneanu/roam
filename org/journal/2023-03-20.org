@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       d67d1b11-7564-4458-bb20-b56bf057e835
+:END:
+#+TITLE: 2023-03-20
+#+DATE: 2023-03-20
+#+FILETAGS: journal
+
+- 2023-03-20 ◦ [[https://fatsoftwareengineer.substack.com/p/building-a-second-income-stream-by][Building a Second Income Stream by Writing a Book]]
+  #+begin_quote
+  We agreed to $1500 as an advance and then a royalty percentage of between 15%
+  and 20% of net sales, depending on how many copies of my book were sold
+  #+end_quote
+
+  #+begin_quote
+  I think if I was to write a book again I would spend more time looking at how
+  the publisher has marketed previous books and ask them to commit to a certain
+  amount of marketing dollars. I wanted to promote my book on Twitter through ads
+  since that is where the audience for my book is, but they said I’d need to pay
+  for this.
+  #+end_quote
+
+- 2023-03-20 ◦ [[https://www.backoflabel.com/][Health Supplement Database | BackOfLabel]]
+- 2023-03-20 ◦ [[https://newsletter.pragmaticengineer.com/p/real-world-eng-8?isFreemail=true&post_id=101453375&publication_id=458709&utm_source=pocket_saves][Real-world Engineering Challenges #8: Breaking up a Monolith]]
+  - how Khan Academy migrated from Python 2.x to Golang
+  - really useful insights

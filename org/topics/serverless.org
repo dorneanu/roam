@@ -9,6 +9,12 @@
 #+type: text/vnd.tiddlywiki
 
 * Articles
+- 2023-03-16 ◦ [[https://serverlessland.com/][Serverless Land]]
+  #+begin_quote
+  This site brings together the latest information, blogs, videos, code, and
+  learning resources for AWS Serverless. Learn to use and build apps that scale
+  automatically on low-cost, fully-managed serverless architecture.
+  #+end_quote
 - 2022-11-09 ◦ [[https://news.ycombinator.com/item?id=33520733][Ask HN: Skeptical about my company going “full serverless”. What am I missing? | Hacker News]] ([[id:91f33643-b126-4383-9ffb-af8c379a28d9][HackerNews]])
   - great comments where Serverless is good at (and where not)
   - some interesting comments why GCP *should* be better than *AWS* (with regards to serverless)

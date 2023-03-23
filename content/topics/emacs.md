@@ -116,6 +116,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
     > ‘r’ – rename the current bookmark
 
 
+### Blogs {#blogs}
+
+-   2023-03-23 ◦ [Karthinks](https://karthinks.com/)
+
+
 ### Configuration {#configuration}
 
 -   2023-01-26 ◦ [My NANO-based Emacs config | Config | Random Geekery](https://randomgeekery.org/config/emacs/nano/)
