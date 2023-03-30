@@ -1,0 +1,220 @@
+:PROPERTIES:
+:ID:       87724be6-edf3-4b83-84e4-97f89fe857f7
+:END:
+#+SETUPFILE: blog.setup
+#+TITLE: AWS Custom resources with Lambda and Golang
+#+filetags: :serverless:cdk:golang:
+#+CREATED: 2023-02-04
+#+HUGO_DRAFT: true
+
+* Motivation
+CDK is a great framework by AWS that allows you to define cloud infrastructure as code (IaC).
+You can use your favourite programming language such as TypeScript, Python, Java, Go to define your resources. This is quite handy as it automates the generation of CloudFormation templates in a readable and more manageable way.
+
+However, not every AWS resource can be mapped directly to a CloudFormation template using CDK.
+In my particular case I had to create *secure* SSM parameters from within CDK. Typically this is how you create a SSM parameter in CloudFormation:
+
+#+begin_src yaml
+Resources:
+  MySSMParameter:
+    Type: "AWS::SSM::Parameter"
+    Properties:
+      Type: "String"     ❶
+      Name: "/my/ssm/parameter"
+      Value: "myValue"
+      Description: "Description"
+#+end_src
+
+In ❶ you specify the type of the SSM parameter:
+- /standard/
+  - simple key-value string pair
+  - do *not* support versioning
+- /advanced/
+  - key-value pairs with additional metadata
+  - do support versioning
+- /secure string/
+  - similar to standard parameters but the data is encrypted at rest using AWS KMS
+  - this is used for storing sensitive data such as passwords, API keys and other credentials
+
+#+begin_quote
+Depending on the stack action, CloudFormation sends your function a Create, Update, or Delete event. Because each event is handled differently, make sure that there are no unintended behaviors when any of the three event types is received.
+-- [[https://aws.amazon.com/premiumsupport/knowledge-center/best-practices-custom-cf-lambda/][Source]]
+#+end_quote
+
+Custom resources can be used in an AWS CloudFormation stack to /create/, /update/, /delete/
+some resources that are not available as a native CFN (CloudFormation) resource. This could be
+SSL certificates that need to be generated in a certain way, custom DNS records or anything outside AWS. The Lambda function will take care of the lifecycle management of that specific resource.
+
+This gives you enough flexibility to define /what/ should happen when certain events occur.
+
+* AWS Lambda
+** Basic template for custom resource Lambda
+
+Let's have a look how a basic AWS Lambda in Golang would look like:
+
+#+caption: Basic structure of the AWS Lambda function in Go
+#+begin_src go
+package main
+
+import (
+    "context"
+    "encoding/json"
+    "fmt"
+
+    "github.com/aws/aws-lambda-go/cfn"
+)
+// Global AWS session variable
+var awsSession aws.Config  // ❶
+
+// init will setup the AWS session
+func init() {              // ❷
+	cfg, err := config.LoadDefaultConfig(context.TODO(), config.WithRegion("eu-central-1"))
+	if err != nil {
+		log.Fatalf("unable to load SDK config, %v", err)
+	}
+	awsSession = cfg
+}
+
+// lambdaHandler handles incoming CloudFormation events
+// and is of type cfn.CustomResourceFunction
+func lambdaHandler(ctx context.Context, event cfn.Event) (string, map[string]interface{}, error) {
+	var physicalResourceID string
+    responseData := map[string]interface{}{}
+
+    switch event.ResourceType {    // ❹
+    case "AWS::CloudFormation:CustomResource":
+		customResourceHandler := NewSSMCustomResourceHandler(awsSession)
+		return customResourceHandler.HandleEvent(ctx,event)
+	default:
+		return "",nil, fmt.Errorf("Unknown resource type: %s", event.ResourceType)
+    }
+	return physicalResourceID, nil, nil
+}
+
+// main function
+func main() {
+	// From : https://github.com/aws/aws-lambda-go/blob/main/cfn/wrap.go
+	//
+	// LambdaWrap returns a CustomResourceLambdaFunction which is something lambda.Start()
+	// will understand. The purpose of doing this is so that Response Handling boiler
+	// plate is taken away from the customer and it makes writing a Custom Resource
+	// simpler.
+	//
+	//	func myLambda(ctx context.Context, event cfn.Event) (physicalResourceID string, data map[string]interface{}, err error) {
+	//		physicalResourceID = "arn:...."
+	//		return
+	//	}
+	//
+	//	func main() {
+	//		lambda.Start(cfn.LambdaWrap(myLambda))
+	//	}
+	lambda.Start(cfn.LambdaWrap(lambdaHandler))  // ➌
+}
+#+end_src
+
+Some explanations:
+- The ~main~ function will call a lambda handler ➌
+- Before ~main~ gets executed the ~init~ function will be executed first ❷
+  - it will try to connect to AWS and populate the global variable defined at ❶
+- within ~lambdaHandler~ we also have to make sure check for the right CFN custom resource *type* ❹
+
+* CDK
+Usually I would write the CDK part in Python but for this project I've setup my very first CDK application in TypeScript 😏. Let's start with the basic template.
+** Deployment Stack
+The deployment stack I've defined which resources/components should be created:
+
+#+caption: deployments-stack.ts
+#+begin_src typescript
+import * as cdk from "aws-cdk-lib";
+import * as path from "path";
+import * as customResources from "aws-cdk-lib/custom-resources";
+import * as lambda from "aws-cdk-lib/aws-lambda";
+import * as iam from 'aws-cdk-lib/aws-iam';
+import { spawnSync, SpawnSyncOptions } from "child_process";
+import { Construct } from "constructs";
+import { SSMCredential } from "./custom-resource";
+
+export class DeploymentsStack extends cdk.Stack {  // ❶
+  constructor(scope: Construct, id: string, props?: cdk.StackProps) {
+    super(scope, id, props);
+
+    // Build the Golang based Lambda function
+    const lambdaPath = path.join(__dirname, "../../");
+
+    // Create IAM role
+    const iamRole = new iam.Role(this, 'Role', {...});  // ❷
+
+    // Add further policies to IAM role
+    iamRole.addToPolicy(...);                           // ➌
+
+    // Create Lambda function
+    const lambdaFunc = new lambda.Function(this, "GolangCustomResources", {...});   // ❹
+
+    // Create a new custom resource provider
+    const provider = new customResources.Provider(this, "Provider", {...});   // ❺
+
+    // Create custom resource
+    new SSMCredential(this, "SSMCredential1", provider, {...});               // ❻
+  }
+}
+#+end_src
+
+So my CDK application will:
+- create a new CloudFormation stack called ~DeploymentsStack~ ❶
+- create a new IAM role ❷
+  - used to attach it to the lambda function
+  - here we define the IAM policies required to operate on SSM parameters
+- add several IAM policies to the IAM role ➌
+- create a new AWS Lambda function ❹
+- create a so called provider ❺ which is responsible for the lifecycle management of the custom resources in AWS
+  - in our case this is our lambda function
+  - I'm not sure if this can be something different 😕
+** Custom resource
+In the previous section I've mentioned ~SSMCredential~ which is our new custom resource to implement a SSM parameter of type ~SecureString~.
+
+#+caption: custom-resource.ts
+#+begin_src typescript
+import * as path from "path";
+import * as cdk from "aws-cdk-lib";
+import * as customResources from "aws-cdk-lib/custom-resources";
+import { Construct } from "constructs";
+import fs = require("fs");
+
+export interface SSMCredentialProps {   // ❶
+  key: string;
+  value: string;
+}
+
+// SSMCredential is an AWS custom resource
+//
+// Example code from: https://github.com/aws-samples/aws-cdk-examples/blob/master/typescript/custom-resource/my-custom-resource.ts
+export class SSMCredential extends Construct {  // ❷
+  public readonly response: string;
+
+  constructor(
+    scope: Construct,
+    id: string,
+    provider: customResources.Provider,
+    props: SSMCredentialProps
+  ) {
+    super(scope, id);
+
+    const resource = new cdk.CustomResource(this, id, {  // ➌
+      serviceToken: provider.serviceToken,               // ❹
+      properties: props,                                 // ❺
+    });
+
+    this.response = resource.getAtt("Response").toString();
+  }
+}
+#+end_src
+
+* Resources
+** General
+- 2023-02-07 ◦ [[https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/gov2][aws-doc-sdk-examples/gov2 at main · awsdocs/aws-doc-sdk-examples · GitHub]]
+- 2023-01-31 ◦ [[https://github.com/aws/aws-cdk/issues/5796][CloudFormation needs physicalResourceId for custom-resources.AwsSdkCall when used in custom-resources.AwsCustomResource as onDelete property · Issue #5796 · aws/aws-cdk · GitHub]]
+- 2023-01-20 ◦ [[https://medium.com/@mo.asgari/creating-aws-custom-resources-in-go-2e128cacb964][Create AWS Custom Resources in Go | by Mo Asgari | Medium]]
+- 2023-01-20 ◦ [[https://github.com/aws-samples/aws-cdk-examples/tree/master/typescript/custom-resource][github.com/aws-cdk-examples/typescript/custom-resource]]
+** Golang
+- 2023-02-08 ◦ [[https://aws.github.io/aws-sdk-go-v2/docs/unit-testing/][Unit Testing with the AWS SDK for Go V2 | AWS SDK for Go V2]]
+
