@@ -4,7 +4,20 @@
 #+title: docker
 
 
+* Security
+** Namespaces
+Namespaces allow the OS to provide a process with an isolated view of one or more system resources.
+Linux [[https://man7.org/linux/man-pages/man7/namespaces.7.html][currently supports]] eight namespaces:
+- Mount
+- PID
+- Network
+- Cgroup
+- IPC
+- Time
+- UTS
+- User
 * Resources
+- 2023-03-29 ◦ [[https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-2/][Container security fundamentals part 2: Isolation & namespaces | Datadog Security Labs]]
 - 2022-09-21 ◦ [[https://containerjournal.com/editorial-calendar/best-of-2021/whats-the-difference-between-docker-and-kubernetes/#:~:text=The%20difference%20between%20the%20two,Kubernetes%20can%20be%20used%20independently.][Best of 2021 - What's the Difference Between Docker and Kubernetes? - Container Journal]]
   - difference between Docker and [[id:e59fa8c3-554b-47fd-adb9-a85807038a9a][Kubernetes]]
 - 2022-09-15 ◦ [[https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html][Docker Security - OWASP Cheat Sheet Series]]

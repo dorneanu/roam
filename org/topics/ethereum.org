@@ -24,6 +24,7 @@
     - Geth
     - Ganache or ganache-cli
 ** Solidity
+- 2023-03-27 ◦ [[https://github.com/saeidshirazi/Awesome-Smart-Contract-Security][GitHub - saeidshirazi/Awesome-Smart-Contract-Security: A curated list of Smart Contract Security materials and resources For Researchers]]
 - 2023-02-08 ◦ [[https://github.com/ajlopez/SoliditySamples][GitHub - ajlopez/SoliditySamples: Solidity Smart Contracts Samples]]
 ** Security
 - 2023-02-01 ◦ [[https://dev.to/erhant/damn-vulnerable-defi-1-unstoppable-4824][Damn Vulnerable Defi]]
