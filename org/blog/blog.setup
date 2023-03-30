@@ -1,0 +1,28 @@
+#+author: Victor Dorneanu
+#+startup: indent fold
+#+hugo_base_dir: /cs/priv/repos/blog
+#+hugo_section: posts
+#+hugo_auto_set_lastmod: t
+#+hugo_paired_shortcodes: %sidenote
+#+property: header-args :eval never-export
+#+macro: zk [[https://tw5.brainfck.org/#$1][$2]]
+#+macro: zk_topic [[https://brainfck.org/t/$1][$2]]
+#+macro: zk_book [[https://brainfck.org/book/$1][$2]]
+#+macro: bib [[https://tw5.brainfck.org/bib.html#$1][$2]]
+#+macro: relref @@hugo:[@@ $1 @@hugo:]({{< relref "$2" >}})@@
+#+macro: titleref @@hugo:{{< titleref "$1" "@@ $2 @@hugo:" >}}@@
+#+macro: imglink @@html:<figure><a href="$1"><img src="$2"></a><figcaption>$3</figcaption></figure>@@
+# Unicode callout numbers:  ❶ ❷ ➌ ❹ ❺ ❻ ❼ ❽ ❾ ❿
+# Other symbols: ™
+#+begin_src emacs-lisp :results silent :exports none
+;; auto-export
+(org-hugo-auto-export-mode)
+
+;; set buffer variable
+(setq-local org-agenda-files nil)
+
+;; set-fill-column
+(setq-local fill-column 90)
+
+(add-to-list 'org-hugo-special-block-type-properties '("sidenote" . (:trim-pre t :trim-post t)))
+#+end_src
