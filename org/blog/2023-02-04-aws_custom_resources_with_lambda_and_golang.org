@@ -26,13 +26,13 @@ Resources:
 #+end_src
 
 In ❶ you specify the type of the SSM parameter:
-- /standard/
+- /standard/ (~String~)
   - simple key-value string pair
   - do *not* support versioning
-- /advanced/
+- /advanced/ (~StringList~)
   - key-value pairs with additional metadata
   - do support versioning
-- /secure string/
+- /secure string/ (~SecureString~)
   - similar to standard parameters but the data is encrypted at rest using AWS KMS
   - this is used for storing sensitive data such as passwords, API keys and other credentials
 
@@ -117,6 +117,8 @@ Some explanations:
 - Before ~main~ gets executed the ~init~ function will be executed first ❷
   - it will try to connect to AWS and populate the global variable defined at ❶
 - within ~lambdaHandler~ we also have to make sure check for the right CFN custom resource *type* ❹
+** SSM custom resource handler
+
 
 * CDK
 Usually I would write the CDK part in Python but for this project I've setup my very first CDK application in TypeScript 😏. Let's start with the basic template.
@@ -209,6 +211,207 @@ export class SSMCredential extends Construct {  // ❷
 }
 #+end_src
 
+- the ~SSMCredentialProps~ define the arguments ❶  to be passed to the custom resource
+  - ~key~: the parameter's name
+  - ~value~: the value the parameter should hold
+- the custom resource itself is of type ~SSMCredential~ ❷
+  - it has a ~constructor~
+  - inside it a new CDK custom resource is being initialized ➌
+    - the serviceToken is the ARN of the provider which implements this custom resource type.
+    - additionally we pass in the arguments ❺ (as properties)
+
+And this is how it's used withing the previously defined ~DeploymentsStack~:
+
+#+caption: How to use a SSMCredential in your CDK stack
+#+begin_src typescript
+import { SSMCredential } from "./custom-resource";
+...
+
+export class DeploymentsStack extends cdk.Stack {
+  constructor(scope: Construct, id: string, props?: cdk.StackProps) {
+    super(scope, id, props);
+
+    ...
+
+    // Create a new custom resource provider
+    const provider = new customResources.Provider(this, "Provider", {
+      onEventHandler: lambdaFunc,
+    });
+
+    // Create custom resource
+    new SSMCredential(this, "SSMCredential1", provider, {
+      key: "/test/testing",
+      value: "some-secret-value",
+    });
+  }
+}
+#+end_src
+* Testing
+** Unit tests
+The SSMCustomResourceHandler [[https://github.com/dorneanu/aws-custom-resource-golang/blob/37e54831c1251c22fa4c37bafdbccf413a8e049c/internal/aws_custom_resource.go#L23-L25][structure has a SSM client]] in order to PUT and DELETE parameters:
+
+#+caption: In [[https://github.com/dorneanu/aws-custom-resource-golang/tree/37e54831c1251c22fa4c37bafdbccf413a8e049c/internal/aws_custom_resource.go][aws_custom_resource.go]]
+#+begin_src go
+// SSMParameterAPI defines an interface for the SSM API calls
+// I use this interface in order to be able to mock out the SSM client and implement unit tests properly.
+//
+// Also check https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/gov2/ssm
+type SSMParameterAPI interface {
+	DeleteParameter(ctx context.Context, params *ssm.DeleteParameterInput, optFns ...func(*ssm.Options)) (*ssm.DeleteParameterOutput, error)
+	PutParameter(ctx context.Context, params *ssm.PutParameterInput, optFns ...func(*ssm.Options)) (*ssm.PutParameterOutput, error)
+}
+
+type SSMCustomResourceHandler struct {
+	ssmClient SSMParameterAPI
+}
+#+end_src
+
+I use my own interface for the SSM parameter API as this can be easily mocked out when writing unit tests:
+
+#+caption: In aws_custom_resource_test.go
+#+begin_src go
+// SSMParameterApiImpl is a mock for SSMParameterAPI
+type SSMParameterApiImpl struct{}
+
+// PutParameter
+func (s SSMParameterApiImpl) PutParameter(ctx context.Context, params *ssm.PutParameterInput, optFns ...func(*ssm.Options)) (*ssm.PutParameterOutput, error) {
+	output := &ssm.PutParameterOutput{}
+	return output, nil
+}
+
+
+// DeleteParameter
+func (s SSMParameterApiImpl) DeleteParameter(ctx context.Context, params *ssm.DeleteParameterInput, optFns ...func(*ssm.Options)) (*ssm.DeleteParameterOutput, error) {
+	output := &ssm.DeleteParameterOutput{}
+	return output, nil
+}
+
+#+end_src
+
+Now I can use the ~SSMParameterApiImpl~ as a mocked client as it satisfies the ~SSMParameterAPI~ interface:
+
+#+caption: In aws_custom_resource_test.go
+#+begin_src go
+func TestPutParameter(t *testing.T) {
+	mockedAPI := SSMParameterApiImpl{}
+	ssmHandler := SSMCustomResourceHandler{
+		ssmClient: mockedAPI,
+	}
+	...
+}
+#+end_src
+
+All we have to do now is to create a cfn.Event and call the Create method of the SSMHandlerCustomResource class:
+
+
+#+begin_src go
+func TestPutParameter(t *testing.T) {
+	mockedAPI := SSMParameterApiImpl{}
+	ssmHandler := SSMCustomResourceHandler{
+		ssmClient: mockedAPI,
+	}
+
+	// Create new SSM parameter
+	cfnEvent := cfn.Event{
+		RequestType:        "Create",
+		RequestID:          "xxx",
+		ResponseURL:        "some-url-here",
+		ResourceType:       "AWS::CloudFormation::CustomResource",
+		PhysicalResourceID: "",
+		LogicalResourceID:  "SSMCredentialTesting1",
+		StackID:            "arn:aws:cloudformation:eu-central-1:9999999:stack/CustomResourcesGolang",
+		ResourceProperties: map[string]interface{}{
+			"ServiceToken": "arn:aws:lambda:eu-central-1:9999999:function:CustomResourcesGolang-Function",
+			"key":          "/testing3",
+			"value":        "some-secret-value",
+		},
+	}
+	_, _, _ = ssmHandler.Create(context.TODO(), cfnEvent)
+
+}
+
+#+end_src
+
+
+** Integration tests
+I've used [[https://aws.amazon.com/de/serverless/sam/][AWS SAM]] to locally invoke the Lambda function created via CDK.  Make sure you have ~aws-sam-cli~ installed on your machine.
+
+After the initial call ~aws-sam~ will first download the Docker image for your function:
+
+#+begin_src sh
+...
+Invoking /main (go1.x)
+Local image was not found.
+Removing rapid images for repo public.ecr.aws/sam/emulation-go1.x
+...
+#+end_src
+
+Afterwards invoking the Lambda locally is quite easy:
+
+#+begin_src sh
+$ cdk synth
+$ sam local invoke -t cdk.out/CustomResourcesGolang.template.json GolangCustomResources
+...
+Mounting /home/victor/work/repos/aws-custom-resource-golang/deployments/cdk.out/asset.1ac1b002ba7d09e11c31702e1724d092e837796c2ed40541947abdfc6eb75947 as /var/task:ro,delegated, inside runt
+ime container
+2023/03/31 11:42:29 Starting lambda
+2023/03/31 11:42:29 event: cfn.Event{RequestType:"", RequestID:"", ResponseURL:"", ResourceType:"", PhysicalResourceID:"", LogicalResourceID:"", StackID:"", ResourceProperties:map[string]in
+terface {}(nil), OldResourceProperties:map[string]interface {}(nil)}
+2023/03/31 11:42:29 sending status failed: Unknown resource type:
+Put "": unsupported protocol scheme "": Error
+null
+{"errorMessage":"Put \"\": unsupported protocol scheme \"\"","errorType":"Error"}END RequestId: 93eed487-2441-4d41-a0b6-d939efeab99f
+REPORT RequestId: 93eed487-2441-4d41-a0b6-d939efeab99f  Init Duration: 0.30 ms  Duration: 224.84 ms     Billed Duration: 225 ms Memory Size: 128 MB     Max Memory Used: 128 M
+#+end_src
+
+Of course you need to specify a payload to your function. You can store your payload (of type CloudFormation event) as a JSON file:
+
+#+begin_src sh
+$ cat tests/create.json
+{
+  "RequestType": "Create",
+  "RequestID": "9bf90339-c6f0-47ff-ad67-e19226facf6e",
+  "ResponseURL": "https://some-url",
+  "ResourceType": "AWS::CloudFormation::CustomResource",
+  "PhysicalResourceID": "",
+  "LogicalResourceID": "SSMCredential21D358858",
+  "StackID": "arn:aws:cloudformation:eu-central-1:xxxxxxxxxxxx:stack/CustomResourcesGolang/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "ResourceProperties": {
+    "ServiceToken": "arn:aws:lambda:eu-central-1:xxxxxxxxxxxx:function:CustomResourcesGolang-ProviderframeworkonEvent83C1-Dt9Jv3RwL9KT",
+    "key": "/test/testing12345",
+    "value": "some-secret-value"
+  },
+  "OldResourceProperties": {}
+}
+#+end_src
+
+Then you can specify the JSON file
+#+begin_src sh
+$ sam local invoke -t cdk.out/CustomResourcesGolang.template.json GolangCustomResources -e ../tests/create.json
+
+Invoking /main (go1.x)
+Local image is up-to-date
+Using local image: public.ecr.aws/lambda/go:1-rapid-x86_64.
+
+Mounting /home/victor/work/repos/aws-custom-resource-golang/deployments/cdk.out/asset.1ac1b002ba7d09e11c31702e1724d092e837796c2ed40541947abdfc6eb75947 as /var/task:ro,delegated, inside runt
+ime container
+START RequestId: cb8c7882-269c-434e-ace1-f6958940ee2e Version: $LATEST
+2023/03/31 11:48:16 Starting lambda
+2023/03/31 11:48:16 event: cfn.Event{RequestType:"Create", RequestID:"9bf90339-c6f0-47ff-ad67-e19226facf6e", ResponseURL:"https://some-file", ResourceType:"AWS::CloudFormation::CustomResour
+ce", PhysicalResourceID:"", LogicalResourceID:"SSMCredential21D358858", StackID:"arn:aws:cloudformation:eu-central-1:xxxxxxxxxxxx:stack/CustomResourcesGolang/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxx", ResourceProperties:map[string]interface {}{"ServiceToken":"arn:aws:lambda:eu-central-1:xxxxxxxxxxxx:function:CustomResourcesGolang-ProviderframeworkonEvent83C1-Dt9Jv3RwL9KT", "key":
+"/test/testing12345", "value":"some-secret-value"}, OldResourceProperties:map[string]interface {}{}}
+2023/03/31 11:48:16 Creating SSM parameter
+2023/03/31 11:48:16 Put parameter into SSM: /test/testing12345
+Put "https://some-file": dial tcp: lookup some-file on 192.168.179.1:53: no such host: Error
+null
+END RequestId: cb8c7882-269c-434e-ace1-f6958940ee2e
+REPORT RequestId: cb8c7882-269c-434e-ace1-f6958940ee2e  Init Duration: 0.13 ms  Duration: 327.24 ms     Billed Duration: 328 ms Memory Size: 128 MB     Max Memory Used: 128 MB
+{"errorMessage":"Put \"https://some-file\": dial tcp: lookup some-file on 192.168.179.1:53: no such host","errorType":"Error"}%
+#+end_src
+
+This one fails coz I didn't specify any valid ~ResponseURL~.
+
 * Resources
 ** General
 - 2023-02-07 ◦ [[https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/gov2][aws-doc-sdk-examples/gov2 at main · awsdocs/aws-doc-sdk-examples · GitHub]]
@@ -218,3 +421,7 @@ export class SSMCredential extends Construct {  // ❷
 ** Golang
 - 2023-02-08 ◦ [[https://aws.github.io/aws-sdk-go-v2/docs/unit-testing/][Unit Testing with the AWS SDK for Go V2 | AWS SDK for Go V2]]
 
+
+# Local Variables:
+# org-agenda-files: nil
+# End:
