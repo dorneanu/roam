@@ -8,12 +8,18 @@
 #+HUGO_DRAFT: true
 
 * Motivation
-CDK is a great framework by AWS that allows you to define cloud infrastructure as code (IaC).
-You can use your favourite programming language such as TypeScript, Python, Java, Go to define your resources. This is quite handy as it automates the generation of CloudFormation templates in a readable and more manageable way.
+CDK is a great framework by AWS that allows you to define cloud infrastructure
+as code (IaC). You can use your favourite programming language such as
+TypeScript, Python, Java, Go to define your resources. This feature is
+particularly convenient as it automates the generation of CloudFormation
+templates in a readable and more manageable way.
 
-However, not every AWS resource can be mapped directly to a CloudFormation template using CDK.
-In my particular case I had to create *secure* SSM parameters from within CDK. Typically this is how you create a SSM parameter in CloudFormation:
+However, not every AWS resource can be mapped directly to a CloudFormation
+template using CDK. In my particular case I had to create *secure* SSM parameters
+from within CDK. Typically this is how you create a SSM parameter in
+CloudFormation:
 
+#+caption: Sample CloudFormation template for creating SSM parameters
 #+begin_src yaml
 Resources:
   MySSMParameter:
@@ -46,7 +52,28 @@ some resources that are not available as a native CFN (CloudFormation) resource.
 SSL certificates that need to be generated in a certain way, custom DNS records or anything outside AWS. The Lambda function will take care of the lifecycle management of that specific resource.
 
 This gives you enough flexibility to define /what/ should happen when certain events occur.
+* General workflow
+Before going into details let me explain how the general workflow would look like:
 
+#+begin_src plantuml :file /cs/priv/repos/blog/static/posts/img/2023/custom-resource-poc/sequence.png :results file replace :cmdline -charset UTF-8 :exports none
+@startuml
+
+CDK --> CDK: Creates custom resource
+CDK --> CDK: Creates CloudFormation template
+CDK --> CloudFormation: Sends template to CloudFormation
+CloudFormation --> Lambda: Send CloudFormation event
+Lambda --> Lambda: Extract information from event (properties)
+Lambda --> SSM: Call the SSM API to create, delete, update SSM parameters
+@enduml
+#+end_src
+
+#+RESULTS:
+[[file:/cs/priv/repos/blog/static/posts/img/2023/custom-resource-poc/sequence.png]]
+
+#+html: {{< gbox src="/posts/img/2023/custom-resource-poc/sequence.png" title="General workflow" caption="The general workflow and how each component relates to each other." pos="left" >}}
+
+In CDK you would create your custom resource which has a so called ~provider~ attached (in our case it's a [[* AWS Lambda][Lambda function]]) meant to
+implement the logic whenever the resource is created, updated or deleted. After ~cdk synth~ a new CloudFormation template for the CDK stack is created. Whenever a resource is created/updated/deleted a new CloudFormation *event* will occur. This event will be sent to the Lambda function which eventually will create/update/delete SSM parameters based on the event's properties.
 * AWS Lambda
 ** Basic template for custom resource Lambda
 
@@ -68,27 +95,27 @@ var awsSession aws.Config  // ❶
 
 // init will setup the AWS session
 func init() {              // ❷
-	cfg, err := config.LoadDefaultConfig(context.TODO(), config.WithRegion("eu-central-1"))
-	if err != nil {
-		log.Fatalf("unable to load SDK config, %v", err)
-	}
-	awsSession = cfg
+    cfg, err := config.LoadDefaultConfig(context.TODO(), config.WithRegion("eu-central-1"))
+    if err != nil {
+        log.Fatalf("unable to load SDK config, %v", err)
+    }
+    awsSession = cfg
 }
 
 // lambdaHandler handles incoming CloudFormation events
 // and is of type cfn.CustomResourceFunction
 func lambdaHandler(ctx context.Context, event cfn.Event) (string, map[string]interface{}, error) {
-	var physicalResourceID string
+    var physicalResourceID string
     responseData := map[string]interface{}{}
 
     switch event.ResourceType {    // ❹
     case "AWS::CloudFormation:CustomResource":
-		customResourceHandler := NewSSMCustomResourceHandler(awsSession)
-		return customResourceHandler.HandleEvent(ctx,event)
-	default:
-		return "",nil, fmt.Errorf("Unknown resource type: %s", event.ResourceType)
+        customResourceHandler := NewSSMCustomResourceHandler(awsSession)
+        return customResourceHandler.HandleEvent(ctx,event)
+    default:
+        return "",nil, fmt.Errorf("Unknown resource type: %s", event.ResourceType)
     }
-	return physicalResourceID, nil, nil
+    return physicalResourceID, nil, nil
 }
 
 // main function
@@ -117,8 +144,68 @@ Some explanations:
 - Before ~main~ gets executed the ~init~ function will be executed first ❷
   - it will try to connect to AWS and populate the global variable defined at ❶
 - within ~lambdaHandler~ we also have to make sure check for the right CFN custom resource *type* ❹
+
 ** SSM custom resource handler
 
+#+caption: The main handler of the Lambda function
+#+begin_src go
+// handleSSMCustomResource decides what to do in case of CloudFormation event
+func (s SSMCustomResourceHandler) HandleSSMCustomResource(ctx context.Context, event cfn.Event) (string, map[string]interface{}, error) {
+    log.Printf("event: %#v\n", event)
+
+    switch event.RequestType {   //  ❶
+    case cfn.RequestCreate:
+        return s.Create(ctx, event)
+    case cfn.RequestUpdate:
+        return s.Update(ctx, event)
+    case cfn.RequestDelete:
+        return s.Delete(ctx, event)
+    default:
+        return "", nil, fmt.Errorf("Unknown request type: %s", event.RequestType)
+    }
+}
+#+end_src
+
+Supposing we use a custom type called ~SSMCustomResourceHandler~ we can have a main entrypoint (in this example called ~HandleSSMCustomResource~) where we call a different method depending on the events request type ❶.
+
+Each method will apply trigger different sorts of operations. This is what will happen whenever a new custom resource is *created*:
+
+#+caption: Create method of the SSMCustomResourceHandler
+#+begin_src go
+// Create creates a new SSM parameter
+func (s SSMCustomResourceHandler) Create(ctx context.Context, event cfn.Event) (string, map[string]interface{}, error) {
+    var physicalResourceID string
+
+    // Get custom resource parameter from event
+    ssmPath, err := strProperty(event, "key")    // ❶
+    if err != nil {
+        return physicalResourceID, nil, fmt.Errorf("Couldn't extract credential's key: %s", err)
+    }
+    physicalResourceID = ssmPath                 // ❷
+
+    ssmValue, err := strProperty(event, "value") // ❶
+    if err != nil {
+        return physicalResourceID, nil, fmt.Errorf("Couldn't extract credential's value: %s", err)
+    }
+
+    // Put new parameter                            ➌
+    _, err = s.ssmClient.PutParameter(context.Background(), &ssm.PutParameterInput{
+        Name:      aws.String(ssmPath),
+        Value:     aws.String(ssmValue),
+        Type:      types.ParameterTypeSecureString,
+        Overwrite: aws.Bool(true),
+    })
+    log.Printf("Put parameter into SSM: %s", physicalResourceID)
+
+    if err != nil {
+        return physicalResourceID, nil, fmt.Errorf("Couldn't put parameter (%s): %s\n", ssmPath, err)
+    }
+    return physicalResourceID, nil, nil
+}
+#+end_src
+
+~Create~ should create a new SSM parameter (of type ~SecureString~) based on the information contained within the CloudFormation
+event. In ❶ I use a helper function to extract a property out of the ~event~. Once we have the ~ssmPath~ we also set the ~physicalResourceID~ to that value ❷. Afterwards we will call ~PutParameter~ which should create a new SSM parameter.
 
 * CDK
 Usually I would write the CDK part in Python but for this project I've setup my very first CDK application in TypeScript 😏. Let's start with the basic template.
@@ -332,7 +419,6 @@ func TestPutParameter(t *testing.T) {
 
 #+end_src
 
-
 ** Integration tests
 I've used [[https://aws.amazon.com/de/serverless/sam/][AWS SAM]] to locally invoke the Lambda function created via CDK.  Make sure you have ~aws-sam-cli~ installed on your machine.
 
@@ -411,6 +497,11 @@ REPORT RequestId: cb8c7882-269c-434e-ace1-f6958940ee2e  Init Duration: 0.13 ms  
 #+end_src
 
 This one fails coz I didn't specify any valid ~ResponseURL~.
+* Conclusion
+
+I think this approach opens a lot of possibilities to create advanced custom resources based on your needs. You could for example use custom resources to *deploy resources across multiple accounts*. For Security reasons you could *enforce several compliance policies* and monitor for compliance deviations. Or you could *use some 3rd-party APIs* to pass data back and forth (e.g. user management, product stocks etc.)
+
+As you have control over the logic implemented in the AWS Lambda function and therefore define how your custom resources should be managed, the possibilities are endless. Have fun creating your own custom resources!
 
 * Resources
 ** General
