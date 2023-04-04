@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       fe9f8f31-f7f2-4194-a0c3-437ad76632c8
+:END:
+#+TITLE: 2023-04-03
+#+DATE: 2023-04-03
+#+FILETAGS: journal
+
+- 2023-04-03 ◦ [[https://console.algora.io/][Algora - Paid open-source contributions]]
