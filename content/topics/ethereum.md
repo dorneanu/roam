@@ -28,6 +28,7 @@ draft = false
 
 ### Solidity {#solidity}
 
+-   2023-03-27 ◦ [GitHub - saeidshirazi/Awesome-Smart-Contract-Security: A curated list of Smart Contract Security materials and resources For Researchers](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security)
 -   2023-02-08 ◦ [GitHub - ajlopez/SoliditySamples: Solidity Smart Contracts Samples](https://github.com/ajlopez/SoliditySamples)
 
 

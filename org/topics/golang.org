@@ -28,6 +28,8 @@
 - 2023-01-16 ◦ [[https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/][Go devs that learned Rust, what are your thoughts on it?]] ([[id:cdf2a03e-f080-4e6f-8636-7c0f582d91fc][Rust]])
 ** Design Patterns
 - 2022-09-05 ◦ [[https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5][GoF Design patterns that still make sense in Go]]
+** Frontend
+- 2023-04-11 ◦ [[https://www.reddit.com/r/golang/comments/10nw07z/best_frontend_stack_for_golang_backend/][Best front-end stack for Golang backend]]
 ** Error handling
 - 2022-12-22 ◦ [[https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/][New in Go 1.20: wrapping multiple errors]]
 ** HTTP
@@ -87,6 +89,7 @@
           - Uses IPFS
   #+end_quote
 ** Microservices
+- 2023-04-05 ◦ [[https://www.youtube.com/watch?v=byHGNUqIONw&ab_channel=Synadia][Micro-services with auto discovery, observability and load balancing. | Rethink Connectivity Ep 9 - YouTube (using nats.io)]]
 - 2022-10-04 ◦ [[https://encore.dev/docs/develop/encore-flow][Encore Docs — Encore Flow]]
   - Visualize cloud microservices architecture
 - 2022-08-25 ◦ [[https://github.com/zeromicro/go-zero][go-zero]]

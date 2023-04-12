@@ -43,3 +43,8 @@ draft = false
 
 -   2022-11-07 ◦ [GitHub - mehdihadeli/awesome-software-architecture: A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.](https://github.com/mehdihadeli/awesome-software-architecture)
 -   2022-11-07 [Road Movie Architecture](https://speakerdeck.com/ufried/road-movie-architectures)
+
+
+## Articles {#articles}
+
+-   2023-03-27 ◦ [Architects, Anti-Patterns, and Organizational Fuckery – charity.wtf](https://charity.wtf/2023/03/09/architects-anti-patterns-and-organizational-fuckery/)

@@ -22,6 +22,11 @@ draft = false
 -   2022-10-19 ◦ [Helm und Helmfile — Dynamisches Duo für automatisierte Kubernetes-Deployments](https://www.innoq.com/de/articles/2022/10/helm-und-helmfile/)
 
 
+### Design {#design}
+
+-   2023-03-29 ◦ [12 Factor App meets Kubernetes: Benefits for cloud-native apps | Enable Architect](https://www.redhat.com/architect/12-factor-app-containers)
+
+
 ### Golang {#golang}
 
 -   2022-10-24 ◦ [Dockerize a GoLang HTTP server and deploy it on Kubernetes](https://dev.to/aksrao1998/dockerize-a-golang-http-server-and-deploy-it-on-kubernetes-592j)
@@ -29,6 +34,7 @@ draft = false
 
 ### Security {#security}
 
+-   2023-03-29 ◦ [Kubernetes architecture: How to use hierarchical namespaces for multiple tenants | Enable Architect](https://www.redhat.com/architect/kubernetes-hierarchical-namespaces)
 -   2023-01-19 ◦ [Kubernetes Security Best Practices For Developers](https://dev.to/pavanbelagatti/kubernetes-security-best-practices-for-developers-2b92)
 -   2022-12-20 ◦ [Security implications of Kubernetes operators | Snyk](https://snyk.io/blog/security-implications-of-kubernetes-operators/)
 -   2022-12-20 ◦ [Infrastructure security advantages of leveraging Kubernetes - Bridgecrew Blog](https://bridgecrew.io/blog/advantages-of-kubernetes-infrastructure-security/)

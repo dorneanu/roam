@@ -17,6 +17,9 @@
 - [[http://serializer.io]]
 - [[https://www.daemonology.net/hn-daily/]]
 - [[https://hckrnews.com/]]
+* Podcasts
+- 2023-04-11 ◦ [[https://open.spotify.com/show/5T24sjkV7tVRNybotteILY][Hacker News Recap | Podcast on Spotify]]
+  - Daily on top 10 posts on HackerNews
 * Readings
 - https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0
   - [[/books][books recommendations]]

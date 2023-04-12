@@ -34,6 +34,11 @@ draft = false
 -   2022-08-22 ◦ [GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR](https://github.com/ThrillQuks/Pitraix)
 
 
+### Concurrency {#concurrency}
+
+-   2023-03-27 ◦ [CodePilot | Synchronization Patterns in Go](https://code-pilot.me/synchronization-patterns-in-go)
+
+
 ### Comparisons {#comparisons}
 
 -   2023-01-16 ◦ [Ask HN: Should I learn Rust or Go? | Hacker News](https://news.ycombinator.com/item?id=31976407) ([Rust]({{< relref "rust.md" >}}))
@@ -53,6 +58,11 @@ draft = false
 ### HTTP {#http}
 
 -   2022-10-25 ◦ [Go and Proxy Servers: Part 1 - HTTP Proxies - Eli Bendersky's website](https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/)
+
+
+### Internals {#internals}
+
+-   2023-03-27 ◦ [The Golang Scheduler](https://www.kelche.co/blog/go/golang-scheduling/)
 
 
 ### Learning {#learning}
@@ -111,10 +121,16 @@ draft = false
 
 ### Microservices {#microservices}
 
+-   2023-04-05 ◦ [Micro-services with auto discovery, observability and load balancing. | Rethink Connectivity Ep 9 - YouTube (using nats.io)](https://www.youtube.com/watch?v=byHGNUqIONw&ab_channel=Synadia)
 -   2022-10-04 ◦ [Encore Docs — Encore Flow](https://encore.dev/docs/develop/encore-flow)
     -   Visualize cloud microservices architecture
 -   2022-08-25 ◦ [go-zero](https://github.com/zeromicro/go-zero)
     -   A cloud-native Go [Microservices]({{< relref "microservices.md" >}}) framework with cli tool for productivity.
+
+
+### reddit {#reddit}
+
+-   2023-03-27 ◦ [My believe that Golang will grow in demand and how maybe this is ruining my pay increase](https://www.reddit.com/r/golang/comments/1221z1i/my_believe_that_golang_will_grow_in_demand_and/)
 
 
 ### Security {#security}

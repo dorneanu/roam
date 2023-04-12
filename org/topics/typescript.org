@@ -8,3 +8,6 @@
 #+tags: ProgrammingLanguage
 #+title: TypeScript
 #+type: text/vnd.tiddlywiki
+
+* Resources
+- 2023-04-12 ◦ [[https://github.com/sumn2u/learn-javascript][GitHub - sumn2u/learn-javascript: A book that teaches JavaScript]]

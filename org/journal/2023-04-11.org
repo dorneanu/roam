@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       39435fff-b53b-4922-a536-958c813282dd
+:END:
+#+TITLE: 2023-04-11
+#+DATE: 2023-04-11
+#+FILETAGS: journal
+
+- 2023-04-11 ◦ [[https://blog.pragmaticengineer.com/the-scoop-salary-transparency/][Behind the Scenes with Two New Salary Transparency Websites - The Pragmatic Engineer]]
+- 2023-04-11 ◦ [[https://thanks.dev/home][thanks.dev – open source funding platform (sponsor the open source projects you depend on)]]
