@@ -50,6 +50,11 @@ draft = false
 -   2022-09-05 ◦ [GoF Design patterns that still make sense in Go](https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5)
 
 
+### Frontend {#frontend}
+
+-   2023-04-11 ◦ [Best front-end stack for Golang backend](https://www.reddit.com/r/golang/comments/10nw07z/best_frontend_stack_for_golang_backend/)
+
+
 ### Error handling {#error-handling}
 
 -   2022-12-22 ◦ [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)

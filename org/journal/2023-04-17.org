@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0a3c1d00-4d4b-4977-9470-f16e5b07d500
+:END:
+#+TITLE: 2023-04-17
+#+DATE: 2023-04-17
+#+FILETAGS: journal
+
+- 2023-04-17 ◦ [[https://beamanalytics.io/][Beam Analytics | The best Google Analytics alternative with the most generous free tier]]

@@ -26,6 +26,12 @@ draft = false
 -   <https://hckrnews.com/>
 
 
+## Podcasts {#podcasts}
+
+-   2023-04-11 ◦ [Hacker News Recap | Podcast on Spotify](https://open.spotify.com/show/5T24sjkV7tVRNybotteILY)
+    -   Daily on top 10 posts on HackerNews
+
+
 ## Readings {#readings}
 
 -   <https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0>

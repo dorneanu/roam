@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6ec5f438-fba6-4339-8f88-edaff5d5b6d6
+:END:
+#+TITLE: 2023-04-18
+#+DATE: 2023-04-18
+#+FILETAGS: journal
+
+- How to use ~python-pytest~ in a virtual environment previsouly created with ~pyenv~:
+   #+begin_src emacs-lisp
+   (pyvenv-workon)
+   #+end_src
+   and select ~virtualenv~. No need to setup ~python-pytest-executable~ manually.

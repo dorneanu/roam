@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       243a114d-73f3-44f9-b3bf-f2c870f07102
+:END:
+#+SETUPFILE: blog.setup
+#+TITLE: Testing hackernews API
+#+filetags: :aws:serverless:cdk:golang:
+#+CREATED: 2023-04-06
+#+HUGO_DRAFT: true
+
+* Fetch THREAD by ID
+#+begin_src sh
+curl -s https://hacker-news.firebaseio.com/v0/item/34547265.json > thread.json
+jq '.kids[]' thread.json > comments.json
+grep -v '"parent":' comments.json > filtered_comments.json
+#+end_src
+
+#+RESULTS:
+
+
+* Generate ORG
+#+begin_src emacs-lisp
+(defun extract-comments()
+    (interactive)
+    (require 'json)
+
+    ;; Read the filtered comments JSON file
+    (let ((json-file "filtered_comments.json")
+          (comments (with-temp-buffer
+                      (insert-file-contents json-file)
+                      (json-read))))
+      (with-temp-buffer
+        (dolist (comment comments)
+          (let ((text (cdr (assoc 'text comment)))
+                (author (cdr (assoc 'by comment))))
+            (insert (format "* %s\n\n%s\n\n" author text)))))
+))
+#+end_src
+
+#+RESULTS:
+: extract-comments
+#+begin_src emacs-lisp
+(extract-comments())
+#+end_src
