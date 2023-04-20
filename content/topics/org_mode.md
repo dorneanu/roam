@@ -28,6 +28,11 @@ draft = false
 -   [Daryl Manning | Tracking your finances with Reckon and Ledger](https://daryl.wakatara.com/tracking-your-finances-with-reckon-and-ledger/)
 
 
+### Tables {#tables}
+
+-   2023-04-19 ◦ [GitHub - tbanel/orgaggregate: Aggregates tables in Org mode](https://github.com/tbanel/orgaggregate)
+
+
 ### Clocking {#clocking}
 
 

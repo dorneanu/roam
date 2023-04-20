@@ -20,6 +20,8 @@
 - [[https://c-tan.com/post/ledger-org-babel-example/][Cheng Tan | A Short Example of Using Ledger with Emacs Org-mode]]
 - [[https://www.reddit.com/r/emacs/comments/8x4xtt/tip_how_i_use_ledger_to_track_my_money/][TIP: How I use ledger to track my money : emacs]]
 - [[https://daryl.wakatara.com/tracking-your-finances-with-reckon-and-ledger/][Daryl Manning | Tracking your finances with Reckon and Ledger]]
+** Tables
+- 2023-04-19 ◦ [[https://github.com/tbanel/orgaggregate][GitHub - tbanel/orgaggregate: Aggregates tables in Org mode]]
 ** Clocking
 *** [[https://writequit.org/denver-emacs/presentations/2017-04-11-time-clocking-with-org.html][Clocking time with Org-mode]]
 ** Citations

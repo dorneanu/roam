@@ -4,6 +4,22 @@ tags = ["software"]
 draft = false
 +++
 
+## Signing {#signing}
+
+In the local repository you would do:
+
+```sh
+# Specify signing key
+git config user.signingKey ~/.ssh/<your SSH key>.pub
+
+# Tell git to sign using a SSH key
+git config gpg.format ssh
+
+# Always sign commits
+git config commit.gpgSign true
+```
+
+
 ## Tipps {#tipps}
 
 -   Undo last commit: `git reset --soft HEAD~1`

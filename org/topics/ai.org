@@ -1,0 +1,107 @@
+:PROPERTIES:
+:ID:       8f1e78cd-fefa-4a2f-9db9-0e1e396a0448
+:END:
+#+title: AI
+
+* Tools
+** For writing
+- [[https://jenni.ai/][Jenni Al]]
+
+  A personal writing assistant that will make sure you never face the writer's
+  block
+
+- [[https://hive.com/hivemind/][HiveMind]]
+
+  Is an AI-powered tool that automates writing tasks such as data extraction and
+  summarization. This tool leverages NLP algorithms to generate summaries of
+  long articles or documents quickly and accurately
+
+- [[https://paperpal.com/][Paperpal]]
+
+  An editor to help you polish your academic writing. Also has an MS Word plugin
+  so you can edit from within MS
+
+- [[https://rytr.me/][Ryter AI]]
+
+  RyterAI is a natural language processing tool
+
+- [[https://www.jasper.ai/][Jarvis AI]]
+
+  Jarvis is an artificial intelligence assistant designed to assist
+  with generating, editing, and publishing top-quality content. This tool
+  leverages natural language processing (NLP) to comprehend the surrounding text
+  and provide appropriate alternatives.
+
+- [[https://quillbot.com/][Quilbot]]
+
+  Quillbot is an AI writing tool that takes text input and assists you
+  with paraphrasing, checking grammar, identifying plagiarism and more. The
+  AI-powered assistant can make your thoughts and ideas more coherent and fluent
+  by rephrasing them with changes to vocabulary, tone and style. Easily
+  customize your text using a slider feature along with a mode selection to
+  adjust the output to your writing needs.
+
+- [[https://www.paraphraser.io/][Paraphraser]]
+
+  An excellent paraphrasing tool that can improve all written works.
+  Paraphraser can find the most suitable synonyms and phrases to craft a
+  compelling and captivating message. The software can also modify sentence
+  structure, expand your word choice pool, change your message voice from
+  passive to active and improve the readability of your copy
+
+** For reading
+
+- [[https://www.scholarcy.com/][Schoaricy]]
+
+  A persona reading assistant that creates summaries of research papers with
+  unfamiliar terms hyperlinked to
+
+- [[https://www.chatpdf.com/][ChatPDF]]
+
+  ChatGPT for research papers. Upload a paper and start
+
+- [[https://chrome.google.com/webstore/detail/casper-ai/fgfiokgecpkambjildjleljjcihnocel][Casper]]
+
+  A Chrome extension that summarizes research papers within your browser. Also
+  helps you brainstorm ideas.
+
+- [[https://scispace.com/][SciSpace]]
+
+  One of the most powerful and versatile tools currently available for reading
+  journal articles. You can ask your reading Copilot to explain difficult passages.
+
+** For taking notes
+
+- [[https://www.lateral.io/][Lateral]]
+
+  A unique app that helps you find common themes across multiple research papers
+  in minutes.
+
+- [[https://cliovis.com/][ClioVis]]
+
+  Not an Al-powered app but still much better than many available tools. I am
+  using it for my current research project. Helps you visualize connections
+  between different ideas and concepts. Also lets you export your notes to an MS
+  Word file.
+
+- [[https://glasp.co/][Glasp]]
+
+  Think of it as Twitter but for note-takers. Take notes on research papers and
+  share them with likeminded people across the world
+
+- [[https://audiopen.ai/][Audiopen]]
+
+  Converts your voice notes into coherent and cohesive prose.
+** For search engines
+- [[https://consensus.app/][Consensus]]
+
+  Unlike ChatGPT that gives you fake citations, Consensus answers your questions
+  with references to actually published papers.
+
+- [[https://evidencehunt.com/][Evidence Hunt]]
+
+  Answers your clinical questions with citations to published papers.
+
+- [[https://www.searchsmart.org/?~()][Search Smart]]
+
+  A search engine to help you find the most suitable database for your research
