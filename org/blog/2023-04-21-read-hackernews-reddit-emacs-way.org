@@ -1,0 +1,179 @@
+:PROPERTIES:
+:ID:       24b75407-274d-4dda-9051-176bc0d987be
+:END:
+#+SETUPFILE: blog.setup
+#+filetags: :rss:emacs:
+#+TITLE: Read Hackernews and Reddit the Emacs way
+#+CREATED: 2023-04-21
+#+HUGO_DRAFT: false
+
+* Motivation
+Usually when I consume my daily [[/2022/06/13/rss-and-atom-for-digital-minimalists/][news feeds]], I prefer to keep context switching
+to a minimum. Whether you're a busy professional or just someone who values
+their time, you might want to streamline your online reading experience as much
+as possible. For me, this means sticking to {{{zk_topic(emacs,Emacs)}}} and
+using tools like [[/2022/06/29/rss/atom-emacs-and-elfeed/][elfeed and pocket-reader]] to stay on top of my reading list.
+
+Unfortunately, this approach doesn't work with content served within comments at
+Hackernews or Reddit, where you usually have lots of comments and discussion
+threads. This is where I began to struggle, as I found myself bouncing back and
+forth between Emacs and my browser in order to stay on top of the conversation.
+
+Luckily, I've found [[https://github.com/thanhvg/emacs-hnreader][hnreader]] and [[https://github.com/thanhvg/emacs-reddigg][reddigg]] which have changed the way I consume
+content on these platforms. These packages are specifically designed to help you
+navigate and read through Hackernews and Reddit threads directly from within
+Emacs, saving you from the hassle of constantly switching between different apps
+and tabs.
+
+In my opinion these are the most underrated packages and in this post I'd like
+to show you how they can help you improve your reading experience. By the end of
+this post, you'll have a better understanding of how to use [[https://github.com/thanhvg/emacs-hnreader][hnreader]] and [[https://github.com/thanhvg/emacs-reddigg][reddigg]]
+to read and navigate through even the most complex Hackernews and Reddit
+threads, all without ever having to leave the comfort of {{{zk_topic(emacs,Emacs)}}}.
+
+* hnreader
+Without any customizations you can use ~hnreader~ straightaway. Currently you have following options:
+
+#+caption: The readpage for a specific Hackernews thread
+#+html: {{< gbox src="/posts/img/2023/hnreader-reddigg/hnreader-functions.png" title="" caption="" pos="left" >}}
+
+Invoking each function will return a buffer with the latest 30 posts in that category:
+
+#+caption: Top posts
+#+html: {{< gbox src="/posts/img/2023/hnreader-reddigg/hnreader-top-posts.png" title="" caption="" pos="left" >}}
+
+Let's have a look how we can add customized behaviour.
+
+** Basic functions
+The easiest way to show comments for a thread ID is to use
+
+#+caption: Open a new buffer with the HN page
+#+begin_src emacs-lisp
+(hnreader-readpage-promise "https://news.ycombinator.com/item?id=34482433")
+#+end_src
+
+This will create a new buffer and load the /readpage/ for that specific HN URL
+
+#+caption: The readpage for a specific Hackernews thread
+#+html: {{< gbox src="/posts/img/2023/hnreader-reddigg/hnreader-readpage-buffer.png" title="" caption="" pos="left" >}}
+
+#+caption: Open a new buffer with the HN threads
+#+begin_src emacs-lisp
+(hnreader-promise-comment "https://news.ycombinator.com/item?id=34482433")
+#+end_src
+
+This will create a new buffer and load all comments from this specific Hackernews thread:
+
+#+caption: The comments for a specific Hackernews thread
+#+html: {{< gbox src="/posts/img/2023/hnreader-reddigg/hnreader-comments-buffer.png" title="" caption="" pos="left" >}}
+** elfeed integrations
+Whenever you have a Hackernews specific link inside your buffer you may want to open it using:
+
+#+caption: Show HN comments for an URL at point
+#+begin_src emacs-lisp
+(defun my/elfeed-hn-show-comments-at-point ()
+  "Show HN comments for an URL at point"
+  (interactive)
+  (setq-local hnreader-view-comments-in-same-window t)
+  (hnreader-comment (format "%s" (url-get-url-at-point))))
+#+end_src
+
+You can of course call a function from the ~elfeed-search~ buffer to show the HN threads:
+
+#+caption: Opens new buffer when called from the elfeed-search buffer
+#+begin_src emacs-lisp
+(defun my/elfeed-hn-show-commments (&optional link)
+  (interactive)
+  (let* ((entry (if (eq major-mode 'elfeed-show-mode)
+                    elfeed-show-entry
+                  (elfeed-search-selected :ignore-region)))
+         (link (if link link (elfeed-entry-link entry))))
+    (setq-local hnreader-view-comments-in-same-window nil)
+    (hnreader-promise-comment (format "%s" link))))
+#+end_src
+
+And these are my ~elfeed~ related keybindings:
+
+#+caption: Key bindings for elfeed-search-mode
+#+begin_src emacs-lisp
+(map! :map elfeed-search-mode-map
+      :after elfeed-search
+      [remap kill-this-buffer] "q"
+      [remap kill-buffer] "q"
+      :n doom-leader-key nil
+      ;; ...
+      :n "H" #'my/elfeed-hn-show-commments
+      ;; ...)
+#+end_src
+
+#+caption: Key bindings for elfeed-show-mode
+#+begin_src emacs-lisp
+(map! :map elfeed-search-mode-map
+      :after elfeed-show
+      [remap kill-this-buffer] "q"
+      [remap kill-buffer] "q"
+      :n doom-leader-key nil
+      ;; ...
+      :n "H" #'my/elfeed-hn-show-comments-at-point
+      ;; ...)
+#+end_src
+
+* reddigg
+
+[[https://github.com/thanhvg/emacs-reddigg][reddigg]] is the similar solution for reddit. When invoked directly you have these options:
+
+#+caption: reddigg functions
+#+html: {{< gbox src="/posts/img/2023/hnreader-reddigg/reddigg-functions.png" title="reddigg functions" caption="reddigg functions" pos="left" >}}
+
+After invoking ~reddigg-view-frontpage~ you'll get a new buffer with the last posts:
+
+#+caption: reddigg front page
+#+html: {{< gbox src="/posts/img/2023/hnreader-reddigg/reddigg-frontpage.png" title="reddigg front page" caption="reddigg front page" pos="left" >}}
+
+#+begin_src emacs-lisp
+(defun my/elfeed-reddit-show-commments (&optional link)
+  (interactive)
+  (let* ((entry (if (eq major-mode 'elfeed-show-mode)
+                    elfeed-show-entry
+                  (elfeed-search-selected :ignore-region)))
+         (link (if link link (elfeed-entry-link entry))))
+    (reddigg-view-comments link)))
+#+end_src
+** elfeed integration
+
+We can also use ~reddigg~ to show reddit threads from within an ~elfeed~ buffer
+
+#+caption: Show reddit comments from within elfeed
+#+begin_src emacs-lisp
+(defun my/elfeed-reddit-show-commments (&optional link)
+  (interactive)
+  (let* ((entry (if (eq major-mode 'elfeed-show-mode)
+                    elfeed-show-entry
+                  (elfeed-search-selected :ignore-region)))
+         (link (if link link (elfeed-entry-link entry))))
+    (reddigg-view-comments link)))
+#+end_src
+
+And my related keybindings:
+
+#+caption: Key bindings for reddigg
+#+begin_src emacs-lisp
+(map! :map elfeed-search-mode-map
+      :after elfeed-search
+      [remap kill-this-buffer] "q"
+      [remap kill-buffer] "q"
+      :n doom-leader-key nil
+      ;; ...
+      :n "R" #'my/elfeed-reddit-show-commments
+      ;; ...
+#+end_src
+
+When invoked you'll get an ORG mode styled buffer with all the comments for a specific reddit thread:
+
+#+caption: reddigg comments
+#+html: {{< gbox src="/posts/img/2023/hnreader-reddigg/reddigg-comments.png" title="reddigg comments" caption="reddigg comments" pos="left" >}}
+
+
+* Conclusion
+I hope you're as enthusiastic as I am. And if you have any better alternatives,
+please don't hesitate to let me know in the comments.
