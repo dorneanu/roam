@@ -1,0 +1,118 @@
+:PROPERTIES:
+:ID:       24b75407-274d-4dda-9051-176bc0d987be
+:END:
+#+SETUPFILE: blog.setup
+#+filetags: :emacs:
+#+TITLE: elfeed, hnread, reddigg
+#+CREATED: 2023-04-19
+#+HUGO_DRAFT: true
+
+* Motivation
+When it comes to consuming our daily news feeds, many of us prefer to keep
+our context switching to a minimum. Whether you're a busy professional or just
+someone who values their time, it's only natural to want to streamline our
+online reading experience as much as possible. For me, this means sticking to my
+beloved Emacs and using tools like elfeed and get-pocket to stay on top of my
+reading list.
+
+Unfortunately, this approach doesn't always work with online communities like
+Hackernews or Reddit, where the real value of the content can sometimes be found
+in the comments section or the discussion threads. This is where I began to
+struggle, as I found myself bouncing back and forth between various apps and
+tabs in order to stay on top of the conversation.
+
+That's when I discovered hnread and reddigg, two tools that have completely
+transformed my online reading experience. These packages are specifically
+designed to help you navigate and read through Hackernews and Reddit threads
+directly from within Emacs, saving you from the hassle of constantly switching
+between different apps and tabs.
+
+In this blog post, I want to take a closer look at these two underrated packages
+and show you how they can help you streamline your online reading experience. By
+the end of this post, you'll have a better understanding of how to use hnread
+and reddigg to read and navigate through even the most complex Hackernews and
+Reddit threads, all without ever having to leave the comfort of Emacs.
+
+So whether you're a seasoned Emacs user or someone who's just starting to
+explore this powerful text editor, I invite you to join me on this journey to
+discover the best tools for staying on top of your daily news feed. With a
+little bit of practice and some help from hnread and reddigg, you'll be able to
+transform the way you consume content online, making the most of your time and
+staying informed like never before.
+
+* hnreader
+Without any customizations you can use ~hnreader~ straightaway. Currently you have following options:
+
+#+caption: The readpage for a specific Hackernews thread
+#+html: {{< gbox src="/posts/img/2023/hnreader-reddigg/hnreader-functions.png" title="" caption="" pos="left" >}}
+
+** Own functions
+The easiest way to show comments for a thread ID is to use
+
+#+begin_src emacs-lisp
+(hnreader-readpage-promise "https://news.ycombinator.com/item?id=34482433")
+#+end_src
+
+This will create a new buffer and load the /readpage/ for that specific HN URL
+
+#+caption: The readpage for a specific Hackernews thread
+#+html: {{< gbox src="/posts/img/2023/hnreader-reddigg/hnreader-readpage-buffer.png" title="" caption="" pos="left" >}}
+
+#+begin_src emacs-lisp
+(hnreader-promise-comment "https://news.ycombinator.com/item?id=34482433")
+#+end_src
+
+This will create a new buffer and load all comments from this specific Hackernews thread:
+
+#+caption: The comments for a specific Hackernews thread
+#+html: {{< gbox src="/posts/img/2023/hnreader-reddigg/hnreader-comments-buffer.png" title="" caption="" pos="left" >}}
+
+
+
+* reddigg
+#+begin_src emacs-lisp
+(defun my/elfeed-reddit-show-commments (&optional link)
+  (interactive)
+  (let* ((entry (if (eq major-mode 'elfeed-show-mode)
+                    elfeed-show-entry
+                  (elfeed-search-selected :ignore-region)))
+         (link (if link link (elfeed-entry-link entry))))
+    (reddigg-view-comments link)))
+#+end_src
+
+* Read hackernews comments
+#+begin_src emacs-lisp
+(defun my/elfeed-hn-show-commments (&optional link)
+  (interactive)
+  (let* ((entry (if (eq major-mode 'elfeed-show-mode)
+                    elfeed-show-entry
+                  (elfeed-search-selected :ignore-region)))
+         (link (if link link (elfeed-entry-link entry))))
+    (setq-local hnreader-view-comments-in-same-window nil)
+    (message "Opening: %s" link)))
+
+(my/elfeed-hn-show-comments "https://news.ycombinator.com/item?id=33259414")
+#+end_src
+* elfeed, get entry link
+#+Begin_src emacs-lisp
+(defun private/org-elfeed-entry-store-link ()
+  (interactive)
+  (when elfeed-show-entry
+    (let* ((link (elfeed-entry-link elfeed-show-entry))
+           (title (elfeed-entry-title elfeed-show-entry)))
+      (message "Blaasasdkjjh")
+      )))
+#+end_src
+
+* Copy at point
+#+begin_src emacs-lisp
+(require 'url-util)
+(defun private/org-elfeed-entry-story-link ()
+  "Kill the url at point."
+  (interactive)
+  (setq-local hnreader-view-comments-in-same-window t)
+  (hnreader-comment (url-get-url-at-point)))
+#+end_src
+
+#+RESULTS:
+: private/org-elfeed-entry-story-link
