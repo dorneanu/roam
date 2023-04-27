@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       1e98e5c2-800b-489c-842b-b28f60d1b575
+:END:
 #+created: 20201109081822946
 #+lang: de
 #+modified: 20220622085158056
@@ -17,11 +20,11 @@
     - [[#Dave%20Asprey][Dave Asprey]]
 - *Forschung*
   - Es geht darum, die Energiezufuhr zu reduzieren, um neuronale Krankheiten vorzubeugen
-  - Fasten hemmt Entzündungen, [[#Oxidative%20phosphorylation][oxidativen Stress]]
-  - es braucht ca. 10-12 Stunden, bis der [[#Glykogen][Glykogen]]speicher in der Leber aufgebraucht ist
+  - Fasten hemmt Entzündungen, [[id:da73ec3d-bb0f-438f-abf8-c25717305971][Oxidative phosphorylation]]
+  - es braucht ca. 10-12 Stunden, bis der [[id:362df4a0-7e8c-4db1-8586-26ebcc6a952c][Glykogen]]speicher in der Leber aufgebraucht ist
     - bei 3 Mahlzeiten am Tag passiert das nicht
     - aber durch Sport (nachgewiesen selber Effekt)
-    - erst wenn der Glykogenspeicher leer ist, werden [[#Ketone][Ketone]] gebildet
+    - erst wenn der [[id:362df4a0-7e8c-4db1-8586-26ebcc6a952c][Glykogen]]speicher leer ist, werden [[id:49fdbdb0-8126-4c40-a288-16d107859101][Ketone]] gebildet
   - Sport und Fasten erhöhen die Produktion von [[#Neurotrophic%20factors][Neurotrophic factors]] (NTFs)
     - diese sorgen für das Wachstum/die Vernetzung von Neuronen/Synapsen
   - Fasten sorgt für Zunahme an Mitochondrien im Hirn
@@ -29,5 +32,5 @@
     - dadurch kann auch mehr Energie erzeugt werden
     - dieses wiederrum sorgt für mehr Wachstum bei den Neuronen (besseres Gedächtnis, bessere Lernfähigkeit)
 - *Arten*
-  - [[#Intermittent%20fasting][Intermittent fasting]]
+  - [[id:1b01b88a-83b1-46ff-a502-97b06e8ee697][Intermittent fasting]]
     - [[https://spyderdoc.substack.com/p/doctors-heart-series-part-6-science][Science of fasting]]

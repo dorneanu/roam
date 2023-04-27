@@ -12,6 +12,6 @@
 
 
 - also known as ubiquinol
-- is an [[id:cdd45bc1-438b-43e1-9f69-e10bf519f7be][Antioxidants]]
+- is an [[id:cdd45bc1-438b-43e1-9f69-e10bf519f7be][antioxidant]]
 * Origin
 - [[id:05d009e7-9902-4047-8632-1590841db8ba][How not to die]]

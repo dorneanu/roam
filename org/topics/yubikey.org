@@ -8,5 +8,7 @@
 #+type: text/vnd.tiddlywiki
 
 * Resources
+- 2023-04-25 ◦ [[https://www.grammarly.com/blog/engineering/why-grammarly-launched-fido2-authentication/][Security Keys at Grammarly Part 1: Why We Moved from OTP | Grammarly]]
+  - [[https://www.grammarly.com/blog/engineering/fido2-hardware-keys-rollout/][Part 2]]
 - 2022-10-17 ◦ [[https://www.dzombak.com/blog/2021/02/Securing-my-personal-SSH-infrastructure-with-Yubikeys.html][Securing my personal SSH infrastructure with Yubikeys # Chris Dzombak]] ([[id:6d97d3ff-6de7-4505-8f6c-99e674f4addb][SSH]])
 - 2022-10-17 ◦ [[https://developers.yubico.com/SSH/Securing_SSH_with_FIDO2.html][Securing SSH with FIDO2]] ([[id:6d97d3ff-6de7-4505-8f6c-99e674f4addb][SSH]])

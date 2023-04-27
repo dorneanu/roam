@@ -4,7 +4,7 @@ draft = false
 +++
 
 -   also known as ubiquinol
--   is an [Antioxidants]({{< relref "antioxidants.md" >}})
+-   is an [antioxidant]({{< relref "antioxidants.md" >}})
 
 
 ## Origin {#origin}

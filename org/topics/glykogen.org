@@ -1,4 +1,8 @@
+:PROPERTIES:
+:ID:       362df4a0-7e8c-4db1-8586-26ebcc6a952c
+:END:
 #+created: 20201116182729598
+#+filetags: :todo:
 #+modified: 20210518184430414
 #+revision: 0
 #+title: Glykogen

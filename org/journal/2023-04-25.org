@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5ec30242-3a42-4412-b789-6674c5a42f98
+:END:
+#+TITLE: 2023-04-25
+#+DATE: 2023-04-25
+#+FILETAGS: journal
+
+- 2023-04-25 ◦ [[https://www.heise.de/hintergrund/Buchbesprechung-Building-Evolutionary-Architectures-8969012.html?wt_mc=rss.red.developer.developer.atom.beitrag.beitrag][Buchbesprechung: Building Evolutionary Architectures | heise online]] (mentioned in [[id:1e4babae-fcb3-42a4-ab95-9384e1c7ee27][Building Microservices (2nd edition)]])

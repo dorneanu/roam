@@ -3,6 +3,8 @@ title = "Books/TODO"
 draft = false
 +++
 
+## Unsorted {#unsorted}
+
 -   TODO Ölbebebn: Wie die USA unsere Existenz gefährden
 -   TODO Undercover: Ein Mann packt aus (Spiegel)
 -   TODO Über Nationalismus von George Orwell
@@ -38,17 +40,24 @@ draft = false
 -   [The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA](https://www.goodreads.com/book/show/995029.The_Challenger_Launch_Decision)
 -   [Civilized to Death: What Was Lost on the Way to Modernity](https://www.goodreads.com/book/show/28596619-civilized-to-death)
 -   [Keep Sharp: Build a Better Brain at Any Age](https://www.goodreads.com/en/book/show/52754076-keep-sharp)
--   [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/work/best_book/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software) ([DDD]({{< relref "ddd.md" >}}))
 -   Company of one - Paul Jarvis
 -   [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
 -   [Business Adventures](https://www.goodreads.com/book/show/4191136-business-adventures) (recommened by Bill Gates)
 -   [The Art of possibility](https://www.goodreads.com/ro/book/show/85697.The_Art_of_Possibility)
 -   [Blueprint for Revolution, Popovic](https://www.goodreads.com/book/show/22107280-blueprint-for-revolution)
--   [Designing Data-Intensive Applications](https://dataintensive.net/)
--   [Software Engineering at Google](https://abseil.io/resources/swe-book)
 -   [Make it sick](https://www.goodreads.com/book/show/18770267-make-it-stick)
 -   [Good to great](https://www.goodreads.com/book/show/76865.Good_to_Great)
 -   [Reclaiming conversations](https://www.goodreads.com/book/show/24612127-reclaiming-conversation)
+
+
+### Tech {#tech}
+
+-   [Designing Data-Intensive Applications](https://dataintensive.net/)
+-   [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/work/best_book/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software) ([DDD]({{< relref "ddd.md" >}}))
+-   [Software Engineering at Google](https://abseil.io/resources/swe-book)
+
+
+### Society {#society}
 
 
 ## 2022 {#2022}
@@ -61,7 +70,6 @@ draft = false
 -   2022-09-12 ◦ [The Unicorn Project | by Gene Kim (author of The Phoenix Project)](https://itrevolution.com/the-unicorn-project/)
 -   2022-09-12 ◦ [The Book | HOOKPOINT](https://hookpoint.com/the-book/)
 -   2022-11-03 ◦ [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence by Michael Pollan](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind)
--   2022-11-21 ◦ [Exercised: The Science of Physical Activity, Rest and Health by Daniel E. Lieberman](https://www.goodreads.com/book/show/56155261-exercised)
 -   2022-11-29 ◦ [The Future Is Analog: How to Create a More Human World by David Sax](https://www.goodreads.com/book/show/60568520-the-future-is-analog)
 -   2022-12-08 ◦ [Nu tot ei! : România în ghearele imposturii by Valeriu Nicolae](https://www.goodreads.com/book/show/55853540-nu-tot-ei)
 -   2022-12-14 ◦ [Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions)

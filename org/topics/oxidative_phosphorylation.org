@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       da73ec3d-bb0f-438f-abf8-c25717305971
+:END:
 #+created: 20200913202124300
 #+modified: 20210518184431778
 #+origin: [[<<. bibliography "How not to die" "How not to die">>]]
@@ -12,5 +15,5 @@
 - but oxygen is impatient and wants the high-energy electrons
 - ca. 1-2% of the high-energy electrons are grabbed by oxygen
 - oxygen turns into hulk: superoxid type of free radical
-- superoxid is out of control, smashes around the cell, is damaging the [[#DNA][DNA]]: [[#Mitochondrial%20theory%20of%20aging][cell aging]]
+- superoxid is out of control, smashes around the cell, is damaging the [[id:653fd663-e09d-49fa-95bc-98eb4a3d7504][DNA]]: [[id:930cc14d-a636-4f01-8d05-4ec30600e1ef][Mitochondrial theory of aging]]
 - this process is also called *oxidative stress*

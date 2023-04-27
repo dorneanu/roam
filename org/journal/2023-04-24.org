@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8af46928-13e7-48e3-888a-2abf21ce10ef
+:END:
+#+TITLE: 2023-04-24
+#+DATE: 2023-04-24
+#+FILETAGS: journal
+
+- 2023-04-24 ◦ [[https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of-mind-does-chatgpt-have][What Kind of Mind Does ChatGPT Have? | The New Yorker]]
+
+  Cal Newport explains the internals behind GPT but in a more non-technical way

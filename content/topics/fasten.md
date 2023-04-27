@@ -13,11 +13,11 @@ draft = false
         -
 -   **Forschung**
     -   Es geht darum, die Energiezufuhr zu reduzieren, um neuronale Krankheiten vorzubeugen
-    -   Fasten hemmt Entzündungen,
-    -   es braucht ca. 10-12 Stunden, bis der speicher in der Leber aufgebraucht ist
+    -   Fasten hemmt Entzündungen, [Oxidative phosphorylation]({{< relref "oxidative_phosphorylation.md" >}})
+    -   es braucht ca. 10-12 Stunden, bis der [Glykogen]({{< relref "glykogen.md" >}})speicher in der Leber aufgebraucht ist
         -   bei 3 Mahlzeiten am Tag passiert das nicht
         -   aber durch Sport (nachgewiesen selber Effekt)
-        -   erst wenn der Glykogenspeicher leer ist, werden gebildet
+        -   erst wenn der [Glykogen]({{< relref "glykogen.md" >}})speicher leer ist, werden [Ketone]({{< relref "ketone.md" >}}) gebildet
     -   Sport und Fasten erhöhen die Produktion von (NTFs)
         -   diese sorgen für das Wachstum/die Vernetzung von Neuronen/Synapsen
     -   Fasten sorgt für Zunahme an Mitochondrien im Hirn
@@ -25,4 +25,5 @@ draft = false
         -   dadurch kann auch mehr Energie erzeugt werden
         -   dieses wiederrum sorgt für mehr Wachstum bei den Neuronen (besseres Gedächtnis, bessere Lernfähigkeit)
 -   **Arten**
-    -   -   [Science of fasting](https://spyderdoc.substack.com/p/doctors-heart-series-part-6-science)
+    -   [Intermittent fasting]({{< relref "intermittent_fasting.md" >}})
+        -   [Science of fasting](https://spyderdoc.substack.com/p/doctors-heart-series-part-6-science)

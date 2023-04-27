@@ -10,6 +10,6 @@
 #+tmap.id: 115569ef-e7aa-4d3c-9fbd-21639fcda48b
 #+type: text/vnd.tiddlywiki
 
-- defense squad against superoxides/free radicals
+- defense squad against superoxides/[[id:3a0eea8d-cd28-4772-b361-708b040622e4][free radicals]]
 - they take the super charged electron away from the oxygen
 - check out [[http://bit.ly/antioxidantfoods]]

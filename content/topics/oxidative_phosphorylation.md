@@ -8,5 +8,5 @@ draft = false
 -   but oxygen is impatient and wants the high-energy electrons
 -   ca. 1-2% of the high-energy electrons are grabbed by oxygen
 -   oxygen turns into hulk: superoxid type of free radical
--   superoxid is out of control, smashes around the cell, is damaging the :
+-   superoxid is out of control, smashes around the cell, is damaging the [DNA]({{< relref "dna.md" >}}): [Mitochondrial theory of aging]({{< relref "mitochondrial_theory_of_aging.md" >}})
 -   this process is also called **oxidative stress**

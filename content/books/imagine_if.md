@@ -5,6 +5,8 @@ tags = ["society", "book"]
 draft = false
 +++
 
+by Sir Ken Robinson
+
 Goodreads: <https://www.goodreads.com/en/book/show/58536094>
 
 
@@ -13,66 +15,77 @@ Goodreads: <https://www.goodreads.com/en/book/show/58536094>
 
 ### Note 1 {#note-1}
 
-> Imagine if we used our incredible capacities to create a world in which every
-> person had a deep understanding of their own unique talents. Imagine if we built
-> systems that lifted us up instead of keeping us down. Imagine if we embraced our
-> diversities rather than running from them. We have come to a point in our
-> history in which continuing to do what we have always done is no longer an
-> option. We must do better. It begins, as it always does, with each of us taking
-> a stand.
+> -   Imagine if we used our incredible capacities to create a world in which every person had a deep understanding of their own unique talents.
+> -   Imagine if we built systems that lifted us up instead of keeping us down.
+> -   Imagine if we embraced our diversities rather than running from them.
+>
+> We have come to a point in our history in which continuing to do what we have
+> always done is no longer an option. We must do better. It begins, as it always
+> does, with each of us taking a stand.
 
 
-### Note 2 (On Creativity) {#note-2--on-creativity}
+### Note 2 - Creativity {#note-2-creativity}
+
+Definition:
+
+> Creativity—the **ability to generate new ideas and to apply them in practice**
+
+<!--quoteend-->
 
 > Creativity is a process, which means it includes a relationship between two main
-> aspects that bounce off each other: generating ideas and evaluating ideas
+> aspects that bounce off each other:
+>
+> -   **generating ideas** and
+> -   **evaluating ideas**
 
 <!--quoteend-->
 
-> Creativity involves originality
+> Creativity involves [originality]({{< relref "originals.md" >}})
 
 <!--quoteend-->
 
-> Creativity involves making judgments of value. What is considered to be of value
-> depends on the nature and the purpose of the work—if something is useful,
+> Creativity involves making **judgments of value**. What is considered to be of value
+> depends on the nature and the purpose of the work — if something is useful,
 > beautiful, valid, or sustainable
 
 <!--quoteend-->
 
-> Creativity is call and response: one idea can catalyze a multitude more in the
-> minds of other people
+> Creativity is call and response: **one idea can catalyze a multitude more in the
+> minds of other people**
 
 <!--quoteend-->
 
-> Creativity, like the brain or muscle, changes with use. If we neglect our
-> creative capacities, they lie dormant. If we use them properly, they grow and
+> Creativity, like the brain or muscle, **changes with use. If we neglect our
+> creative capacities, they lie dormant**. If we use them properly, they grow and
 > develop.
-
-<!--quoteend-->
-
-> Creativity—the ability to generate new ideas and to apply them in practice
 
 
 ### Note 3 {#note-3}
 
 > Every generation lives through its own unique set of circumstances, and in doing
-> so leaves indelible marks for future generations to make sense of. The unique
-> set of circumstances we find ourselves navigating are in part born from the
-> crosscurrents of three global forces: demography, technology, and ideology.
+> so leaves indelible marks for future generations to make sense of. The **unique
+> set of circumstances** we find ourselves navigating are in part born from the
+> crosscurrents of **three global forces**:
+>
+> -   demography
+> -   technology
+> -   ideology
 
 
 ### Note 4 {#note-4}
 
+Many of man-kind problems are spiritual:
+
 > Despite our unprecedented material comforts, life in the twenty-first century is
-> proving too much to bear for growing numbers of people. Many of the problems we
+> proving too much to bear for growing numbers of people. **Many of the problems we
 > are experiencing are spiritual. I mean that in the sense of being in good
 > spirits or poor spirits: of feeling purposeful and fulfilled, or nihilistic and
-> despairing. While the majority of people are materially better off than ever
+> despairing**. While the majority of people are materially better off than ever
 > before, a large portion are caught in a global epidemic of depression and
 > anxiety.
 
 
-### Note 5 {#note-5}
+### Note 5 - Save our own existence {#note-5-save-our-own-existence}
 
 > It is often said that we have to “save the planet.” I’m not so sure that’s
 > true—the planet has a long time left to run until it crashes into the Sun. What
@@ -83,7 +96,7 @@ Goodreads: <https://www.goodreads.com/en/book/show/58536094>
 > species directly responsible for their own extinction**.
 
 
-### Note 6 (IQ) {#note-6--iq}
+### Note 6 - IQ {#note-6-iq}
 
 > in 1912 German psychologist William Stern proposed implementing a formal
 > calculation of mental age divided by chronological age multiplied by 100 to
@@ -99,65 +112,87 @@ Goodreads: <https://www.goodreads.com/en/book/show/58536094>
 > **Academic work** is a mode of analysis that can be applied to anything. It refers
 > to **intellectual work** that is mainly theoretical or scholarly, rather than
 > practical or applied. Working academically generally **focuses on three areas**:
-> **propositional knowledge** — facts about what is the case, for example, “George
-> Washington was president of the United States of America from 1789 to 1797”;
-> **critical analysis** — the impact of Washington’s presidency and the nature of his
-> leadership; and **desk studies** — which mainly involve reading and writing,
-> processing and presenting facts, and critical analysis.
+>
+> -   **propositional knowledge**
+>     — facts about what is the case, for example, “George Washington was president of the United States of America from 1789 to 1797”;
+> -   **critical analysis**
+>     — the impact of Washington’s presidency and the nature of his leadership;
+> -   **desk studies**
+>     — which mainly involve reading and writing, processing and presenting facts, and critical analysis.
 
 
-### Note 7 (IQ and Eugenics) {#note-7--iq-and-eugenics}
+### Note 7 - IQ and Eugenics {#note-7-iq-and-eugenics}
 
 > The concept of IQ was eventually picked up by members of the **eugenics** movement,
 > who used it as **grounds for their belief in selective breeding and population
 > control**. Their argument was that the IQ test could be used to identify people
 > with low intelligence and stop them from reproducing. It caught on—some states
 > in the USA legalized the sterilization of people deemed to have low
-> intelligence, and eugenics was a key tactic of the Nazis’ Final Solution.
+> intelligence, and **eugenics was a key tactic of the Nazis’ Final Solution**.
+
+Some facts about eugenics:
+
+-   The eugenics movement aimed to improve the genetic quality of the human population through controlled breeding, sterilization or exclusion of certain groups from society.
+-   This movement was popular in the late 19th and early 20th centuries.
+-   Eugenics was associated with racist and xenophobic beliefs.
+-   The movement impacted policies related to immigration, marriage, and reproductive rights in several countries.
+-   The Nazi regime in World War II utilized eugenics to further their own agenda.
+-   Eugenics lost popularity after the end of the Nazi regime.
 
 
-### Note 8 (Differences between learning, school) {#note-8--differences-between-learning-school}
+### Note 8 - Differences between learning, school {#note-8-differences-between-learning-school}
 
 > There are a few terms that are often confused or used
-> interchangeably—“learning,” “education,” “training,” and “school”—but there are
-> important differences between them. Learning is the process of acquiring new
-> skills and understanding. Education is an organized system of learning. Training
-> is a type of education that is focused on learning specific skills. A school is
-> a community of learners: a group that comes together to learn with and from each
-> other.
+> interchangeably:
+>
+> -   learning
+> -   education
+> -   training
+> -   school
+>
+> but there are important differences between them.
+>
+> -   **Learning** is the process of acquiring new skills and understanding.
+> -   **Education** is an organized system of learning.
+> -   **Training** is a type of education that is focused on learning specific skills
+> -   A **school** is a community of learners: a group that comes together to learn with and from each other.
 
 
-### Note 9 (Role of School) {#note-9--role-of-school}
+### Note 9 - Role of School {#note-9-role-of-school}
 
-> There should be three cultural priorities for schools: to help students
-> understand their own cultures, to understand other cultures, and to promote a
-> sense of cultural tolerance and coexistence.
+> There should be three **cultural priorities for schools**:
+>
+> -   to help students **understand** their **own cultures**
+> -   to understand **other cultures**
+> -   to promote a **sense of cultural tolerance and coexistence**.
 
 
-### Note 10 (Separation of areas/subjects) {#note-10--separation-of-areas-subjects}
+### Note 10 - Separation of areas/subjects {#note-10-separation-of-areas-subjects}
 
 > **The conventional curriculum is based on a collection of separate subjects**. These
 > are prioritized according to beliefs around the limited understanding of
 > intelligence we discussed in the previous chapter, as well as what is deemed to
-> be important later in life. The idea of “subjects” suggests that each subject,
-> whether mathematics, science, art, or language, stands completely separate from
-> all the other subjects. This is problematic. Mathematics, for example, is not
-> defined only by propositional knowledge; it is a combination of types of
-> knowledge, including concepts, processes, and methods as well as propositional
-> knowledge. This is also true of science, art, and languages, and of all other
-> subjects. It is therefore much more useful to focus on the concept of
-> disciplines rather than subjects.
+> be important later in life.
+>
+> The idea of “subjects” suggests that each subject, whether mathematics, science,
+> art, or language, stands completely separate from all the other subjects. This
+> is problematic. **Mathematics, for example, is not defined only by propositional
+> knowledge; it is a combination of types of knowledge, including concepts,
+> processes, and methods as well as propositional knowledge**.
+>
+> This is also true of science, art, and languages, and of all other subjects. It
+> is therefore much more useful to focus on the concept of disciplines rather than
+> subjects.
 
 
-### Note 11 (Traditional schooling) {#note-11--traditional-schooling}
+### Note 11 - Traditional schooling {#note-11-traditional-schooling}
 
-> **Traditional methods of formal education are often compared to an industrial
-> factory**. In this analogy, children are the commodity being manufactured in a
-> **linear process along a conveyor belt**; teachers are the **factory workers**, each
-> responsible for their own section; and along the way, there are a **series of
-> quality control checks**. The whole process is routine, predefined, and regulated.
+Traditional methods of formal education compared to an industrial factory:
 
-<!--quoteend-->
+-   Children are manufactured in a linear process along a conveyor belt
+-   Teachers are like factory workers
+-   Quality control checks along the way
+-   Process is routine, predefined, and regulated
 
 > In traditional schools, children are taught in specific age groups—all of the
 > seven-year-olds together in one group, separate from all of the nine-year-olds.
