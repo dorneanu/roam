@@ -189,20 +189,22 @@ Some facts about eugenics:
 
 Traditional methods of formal education compared to an industrial factory:
 
--   Children are manufactured in a linear process along a conveyor belt
--   Teachers are like factory workers
--   Quality control checks along the way
--   Process is routine, predefined, and regulated
+-   _Children_ are **manufactured** in a linear process along a conveyor belt
+-   _Teachers_ are like **factory workers**
+-   _Quality control_ checks along the way
+-   Process is **routine**, predefined, and regulated
 
-> In traditional schools, children are taught in specific age groups—all of the
+Mixed groups of children learning together:
+
+> In traditional schools, children are taught in specific age groups — all of the
 > seven-year-olds together in one group, separate from all of the nine-year-olds.
 > From an administrative point of view, this makes sense. It also makes sense from
 > the perspective of industrial priorities.
 >
-> However, when it comes to what and how children actually learn, segregation by
-> age makes little sense at all. When children of different ages learn together,
+> However, when it comes to **what and how children actually learn, segregation by
+> age makes little sense at all**. **When children of different ages learn together,
 > they can be grouped by their stage of mastery rather than their chronological
-> age. The younger students can benefit from the relative sophistication of the
+> age**. The younger students can benefit from the relative sophistication of the
 > older ones, who reinforce their own learning by helping the younger ones. In
 > bringing a variety of ages together, the experience, knowledge, and ability of
 > each is enhanced. It also provides opportunities for children to nurture each
@@ -212,92 +214,152 @@ Traditional methods of formal education compared to an industrial factory:
 
 > Despite the astronomical changes in circumstances between the Industrial
 > Revolution and the twenty-first century, formal systems of education by and
-> large remain structurally the same. Students and teachers spend huge amounts of
-> their time in conditions that have been designed for the mass production of a
-> standardized product, the student, that by design focuses on output and yield.
+> large remain structurally the same.
+>
+> **Students and teachers spend huge amounts of their time in conditions that have
+> been designed for the mass production of a standardized product, the student,
+> that by design focuses on output and yield**.
+>
 > While industrial farms prioritize quantity, size, and cost over quality, health,
 > and natural ecosystems, we prioritize test data, attendance, and college
-> admission over well-being, creativity, and learning. While industrial farms pump
+> admission over well-being, creativity, and learning. **While industrial farms pump
 > crops and livestock with vast amounts of antibiotics, we prescribe
 > mood-stabilizing and attention-enhancing drugs to children to compensate for the
-> very real levels of anxiety, stress, and disengagement they are experiencing.
+> very real levels of anxiety, stress, and disengagement they are experiencing**.
 
-<!--quoteend-->
+<a id="table--tbl:tradschooling"></a>
+<div class="table-caption">
+  <span class="table-number"><a href="#table--tbl:tradschooling">Table 1</a>:</span>
+  Traditional schooling vs. what really matters
+</div>
+
+| Industrial priorities | What really matters |
+|-----------------------|---------------------|
+| quantity              | quality             |
+| size                  | health              |
+| cost                  | natural ecosystems  |
+| test data             | well-being          |
+| attendance            | creativity          |
+| college admission     | learning            |
+
+How schedule is disrupting children's attention:
 
 > The **purpose of the schedule** is to facilitate learning. Rather than rotating
 > teachers and students through the day from room to room and subject to subject,
 > the schedule should be sensitive to the needs and requirements of each activity.
+>
 > **If a business required that its entire workforce stop what it was doing every
 > forty minutes to move to a different room and do something else entirely, the
-> business would rapidly grind to a halt**. When you think of it in those terms, it
-> seems ridiculous that the majority of schools put their students and teachers
-> through this bizarre routine. Not only is it a strange concept to expect human
-> beings to stop what they are doing and physically move rooms at the sound of a
-> bell, it is also counterintuitive for learning.
+> business would rapidly grind to a halt**.
+>
+> When you think of it in those terms, it seems ridiculous that the majority of
+> schools put their students and teachers through this bizarre routine. Not only
+> is it a strange concept to expect human beings to stop what they are doing and
+> physically move rooms at the sound of a bell, it is also counterintuitive for
+> learning.
 
 
-### Note 12 (Playing) {#note-12--playing}
+### Note 12 - Playing {#note-12-playing}
 
 > Play is not only a fundamental aspect of learning, but also a child’s natural
 > expression of it and a critical aspect of developing curiosity and imagination.
-> In the case of play, the most effective action a school can take is to stand
+> In the case of play, the **most effective action a school can take is to stand
 > aside and let it happen. Children do not need lessons in how to play, nor do
 > they need to be overly surveilled or scheduled—they simply require the space and
-> freedom to do what they naturally do best.
+> freedom to do what they naturally do best**.
 
 
 ### 8 Core competencies {#8-core-competencies}
 
 > The concept of disciplines brings us to a better starting point when planning
 > the curriculum, which is to ask what students should know and be able to do as a
-> result of their education. The four purposes above suggest eight core
-> competencies that, if properly integrated into education, will equip students
-> who leave school to engage in the personal, cultural, economic, and social
-> challenges they will inevitably face in their lives. These competencies are
-> curiosity, creativity, criticism, communication, collaboration, compassion,
-> composure, and citizenship
+> result of their education.
+>
+> The four purposes above suggest eight core competencies that, if properly
+> integrated into education, will equip students who leave school to engage in the
+> personal, cultural, economic, and social challenges they will inevitably face in
+> their lives. These competencies are curiosity, creativity, criticism,
+> communication, collaboration, compassion, composure, and citizenship
+
+-   Communication
+
+    The ability to express thoughts and feelings clearly and
+    confidently in a range of media and forms
+-   Criticism
+
+    The ability to analyze information and ideas and to form reasoned
+    arguments and judgments
+-   Collaboration
+
+    The ability to work constructively with others
+
+    Humans are social creatures:
+
+    > The human adventure can only be carried forward through complex forms of
+    > collaboration. Without the ability to work with others we would stand no chance
+    > against the challenges we collectively face. Fortunately, human beings are
+    > social creatures: we live and learn in the company of others. This is true in
+    > most situations, but seldom cultivated in school environments. Too often, young
+    > people learn in groups but not as groups.
+
+-   Compassion
+
+    The ability to empathize with others and to act accordingly
+-   Composure
+
+    The ability to connect with the inner life of feeling and develop a
+    sense of personal harmony and balance
+-   Citizenship
+
+    The ability to engage constructively with society and to participate
+    in the processes that sustain it
 
 
-#### Communication {#communication}
+### Note 13 {#note-13}
 
-> Communication—the ability to express thoughts and feelings clearly and
-> confidently in a range of media and forms
+Again and again we don't have that much time on this planet (see [4 Thousand Weeks - Time Management for Mortals]({{< relref "4_thousand_weeks_time_management_for_mortals.md" >}})):
 
-
-#### Criticism {#criticism}
-
-> Criticism—the ability to analyze information and ideas and to form reasoned
-> arguments and judgments
-
-
-#### Collaboration {#collaboration}
-
-> Collaboration—the ability to work constructively with others
-
-<!--quoteend-->
-
-> The human adventure can only be carried forward through complex forms of
-> collaboration. Without the ability to work with others we would stand no chance
-> against the challenges we collectively face. Fortunately, human beings are
-> social creatures: we live and learn in the company of others. This is true in
-> most situations, but seldom cultivated in school environments. Too often, young
-> people learn in groups but not as groups.
+> In Western cultures we avoid death. Not the act itself, but acknowledging
+> it, talking about it, and processing what it really means. As a result, too many
+> people live as though it will never happen to them or the people they love. They
+> endure their lives, get through each week, and wait for the weekend. As life
+> goes on they increasingly feel they have lost their chance to be happy and
+> fulfilled.
 
 
-#### Compassion {#compassion}
+### Note 14 - Separation between body and mind {#note-14-separation-between-body-and-mind}
 
-> Compassion—the ability to empathize with others and to act accordingly
+> **The dominant Western worldview is not based on seeing synergies and connections,
+> but on making distinctions and seeing differences**. This **creates sharp
+> distinctions between the mind and the body and between human beings and the rest
+> of nature**. This may be why there is such a general lack of understanding about
+> how the food we consume directly affects how our bodies work, and that the mass
+> production of the goods we demand directly affects the health of the planet.
+> page
 
 
-#### Composure {#composure}
+### Note 15 {#note-15}
 
-> Composure—the ability to connect with the inner life of feeling and develop a
-> sense of personal harmony and balance
+We're the problem:
+
+> The crises in the worlds of nature and human resources are connected. Jonas
+> Salk, the scientist who developed the Salk polio vaccine, reportedly made the
+> observation that **if all the insects were to disappear from the earth, within
+> fifty years all other forms of life would end. But if all human beings were to
+> disappear from the earth, within fifty years all other forms of life would
+> flourish.** In other words, we have now become the problem.
 
 
-#### Citizenship {#citizenship}
+### Note 16 {#note-16}
 
-> Citizenship—the ability to engage constructively with society and to participate
-> in the processes that sustain it
+> As David Attenborough observed: **We have come as far as we have because we are
+> the cleverest creatures to have ever lived on Earth. But if we are to continue
+> to exist, we will require more than intelligence. We will require wisdom**.
 
-page #77
+
+### Noten 17 {#noten-17}
+
+> So, if revolutions are not government-led initiatives, how do they begin? One
+> insight, attributed to **Benjamin Franklin**, is that **there are three sorts of
+> people in the world: those who are immovable, those who are movable, and those
+> who move**.
