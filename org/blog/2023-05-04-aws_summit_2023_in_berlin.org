@@ -1,0 +1,234 @@
+:PROPERTIES:
+:ID:       50ee18c7-70b4-42e2-b650-d4303f4dd049
+:END:
+#+SETUPFILE: blog.setup
+#+TITLE: AWS Summit 2023 in Berlin
+#+CREATED: 2023-05-04
+#+HUGO_DRAFT: true
+
+* Introduction
+* Attended talks
+** PAS216: Overcoming Cloud Security Challenges at Scale
+*** Summary
+- as organizations migrate in the cloud, there are plenty of challenges the Security team needs to be aware of
+- Migrations to the cloud has some challenges which need to be taken into consideration
+- Also the organization must grow with the technology
+- The need for the right tool(s) is necessary
+- The tool suite has to align with developers needs
+- Everyone sits in the same boat so aligned goals and targets are key
+*** Cloud Challenges
+**** Scale
+- This size becomes very abstract
+- You can't walk through a data center to get a sense
+- Even small mistakes get expensive quickly
+- Every manual process will break
+
+**** Growth During Transformation
+- There is no time - growth drives ils own momentum
+- Delay makes any problem bigger
+- Organizational change is hard
+- Even more for non-tech teams
+**** Level of Complexity
+- Multicloud by strategy
+- Large portfolio of products, often deployed in regulated indusines
+- Transitioning to cloud-nalive and micro-service architectures
+- Bewildering organization with high autonomy within business units and developer teams
+*** Cloud Security Challenges
+**** Scale
+- Large scale means many findings (good or bad)
+- everything is an engineering job
+- Everything can break at any lime, no 'test' environment
+**** Growth During Transformalion
+- Our secunty budget doesn't grow linearly with growth in the landscape
+- does yours?
+- Security organizations often don't run or adapt lo change as fast as DevOps leams
+**** Level of Complexity
+- How do you centralize secunty functions when developer leams have even more autonomy?
+- How do you make them not hate you, for making them do work to get more work?
+- How do you gel access to systems of get looling deployed?
+*** Contextualization and Risk-Based Prioritization
+**** Context
+- Context determines the severity and urgency of the finding
+- Enrich with organizational metadata to assess business risk to the organization
+- Avoid wild goose chase or impossible standards and SLAs
+**** Tool Sprawl
+- Every additional data source requires data enrichment
+- Each have their own costs
+- Very nice if one tool does a lot and contextualizes across
+**** Alert Fatigue
+- The organization doesn't scale with the size of the landscape
+- We have to focus on what is most important
+- Limited developer time for security
+- Don't misuse Security teams resources
+*** Shared Fate
+- We are all in this together
+- main keys
+  - collaborative
+  - Relieving Operational Burden
+  - Enabling
+    - Aligned Goals and Targets
+** COM204: Building Infrastructure AWS CDK vs Terraform
+*** Pain points with Terraform
+**** Conditions
+
+#+caption: Example of using conditionals in Terraform
+#+begin_src terraform
+variable "environment" {
+  description = "Environment for security groups"
+  type        = string
+  default     = "dev"
+}
+
+resource "aws_security_group" "web" {
+  count = var.environment == "prod" ? 1 : 0
+
+  name_prefix = "web-"
+  ingress {
+    from_port   = 80
+    to_port     = 80
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+}
+
+resource "aws_security_group" "db" {
+  count = var.environment == "prod" ? 1 : 0
+
+  name_prefix = "db-"
+  ingress {
+    from_port   = 3306
+    to_port     = 3306
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+}
+#+end_src
+
+#+caption: Example of using conditionals in CDK
+#+begin_src typescript
+// Define the VPC
+const vpc = new ec2.Vpc(stack, 'VPC', {
+  maxAzs: 2,
+  natGateways: 1,
+});
+
+let enablePublicIp: boolean = true;
+
+// Use a condition to determine whether to create an instance with a public IP
+if (process.env.ENABLE_PUBLIC_IP == 'false') {
+  enablePublicIp = false;
+}
+#+end_src
+**** Policy handling
+
+#+caption: Example of Terraform code defining IAM policies
+#+begin_src terraform
+resource "aws_iam_policy" "example_policy" {
+  name        = "example_policy"
+  policy      = data.template_file.example_policy.rendered
+}
+
+data "template_file" "example_policy" {
+  template = <<EOF
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Action": [
+        "s3:GetObject",
+        "s3:PutObject"
+      ],
+      "Effect": "Allow",
+      "Resource": [
+        "arn:aws:s3:::example-bucket/*"
+      ]
+    },
+    {
+      "Action": [
+        "ec2:DescribeInstances"
+      ],
+      "Effect": "Allow",
+      "Resource": "*"
+    }
+  ]
+}
+EOF
+}
+#+end_src
+
+#+caption: Allow EC2 instances to read from and write to a DynamoDB table:
+#+begin_src typescript
+const dynamoTable = new dynamodb.Table(this, 'MyDynamoTable', {
+  partitionKey: { name: 'id', type: dynamodb.AttributeType.STRING },
+});
+
+const ec2SecurityGroup = new ec2.SecurityGroup(this, 'MySecurityGroup', {
+  vpc,
+  allowAllOutbound: true,
+});
+
+dynamoTable.grantReadWriteData(ec2SecurityGroup);
+#+end_src
+**** Create Lambdas
+**** Testing
+- For terraform you have ~terratest~
+
+In CDK it's quite easy to test your expectations:
+
+#+begin_src typescript
+import { expect as expectCDK, SynthUtils } from '@aws-cdk/assert';
+import * as cdk from '@aws-cdk/core';
+import * as myapp from '../lib/myapp-stack';
+
+test('MyAppStack creates an S3 bucket', () => {
+  const app = new cdk.App();
+  const stack = new myapp.MyAppStack(app, 'MyAppStack');
+  const expected = SynthUtils.toCloudFormation(stack);
+
+  // Assert that the S3 bucket is created
+  expect(expected.Resources).toHaveProperty('MyAppS3Bucket');
+
+  // Assert that the S3 bucket has the correct properties
+  const bucket = expected.Resources.MyAppS3Bucket.Properties;
+  expect(bucket).toHaveProperty('BucketName', 'myapp-bucket');
+  expect(bucket).toHaveProperty('VersioningConfiguration', {
+    Status: 'Enabled'
+  });
+});
+#+end_src
+
+**** State management
+- Terraform
+  - tf state
+    - keep it in S3 bucket
+    - enable versioning to be able to "rollback" to a previous workable state
+    - What if state is gone (for whatever reasons)?
+- CDK
+  - CloudFormation based
+  - rollbacks are handled automagically
+** STP204: Web3 - Build, launch and scale your Web3 startup on AWS ft. 1inch
+- [[https://aws.amazon.com/blogs/database/access-bitcoin-and-ethereum-open-datasets-for-cross-chain-analytics/][Open Datasets for Ethereum and Bitcoin]]
+
+For BTC:
+
+#+begin_src sh
+aws s3 ls --no-sign-request s3://aws-public-blockchain/v1.0/btc/
+#+end_src
+
+#+RESULTS:
+| PRE | blocks/       |
+| PRE | transactions/ |
+
+And for ETH:
+
+#+begin_src sh
+aws s3 ls --no-sign-request s3://aws-public-blockchain/v1.0/eth/
+#+end_src
+
+#+RESULTS:
+| PRE | blocks/          |
+| PRE | contracts/       |
+| PRE | logs/            |
+| PRE | token_transfers/ |
+| PRE | traces/          |
+| PRE | transactions/    |
