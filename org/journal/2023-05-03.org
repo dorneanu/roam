@@ -1,0 +1,78 @@
+:PROPERTIES:
+:ID:       040d9e9a-a5ed-420c-8d0f-a4a82d1e600b
+:END:
+#+TITLE: 2023-05-03
+#+DATE: 2023-05-03
+#+FILETAGS: journal
+
+- 2023-05-03 ◦ [[https://www.youtube.com/watch?v=g1pb2aK2we4&ab_channel=TED-Ed][How stretching actually changes your muscles - Malachy McHugh - YouTube]]
+
+  #+begin_quote
+  However, while we often think of stretching a muscle like stretching a rubber
+  band, muscles are actually comprised of various tissue types, which interact
+  to make a complex material. Rubber is elastic, meaning it resists being
+  stretched and then returns to its original shape. But muscle is viscoelastic.
+  This means that, in addition to those elastic qualities, muscle changes under
+  the stress of being stretched
+  #+end_quote
+
+  #+begin_quote
+  At the smaller scale, these skeletal muscle fibers are comprised of millions
+  of sarcomeres— the smallest contracting unit of muscle tissue. Sarcomere’s
+  long, fibrous proteins can relax to elongate muscle fibers or they can
+  contract to shorten them— pulling on tendons and protective tissue to create
+  the force propelling our athlete’s body.
+  #+end_quote
+
+  #+begin_quote
+  Unlike a rubber band, this muscle’s resistance to stretching decreases with
+  each 30 second stretch, allowing our athlete to continually elongate his
+  hamstring. And this improved flexibility likely decreases the chance of
+  incurring certain muscle injuries. But due to muscle’s elastic properties,
+  this effect will be gone in just 10 minutes without further activity.
+  #+end_quote
+
+  #+begin_quote
+  For skeletal muscles, improved flexibility comes from additional sarcomeres,
+  which allow you to maintain strength at even greater lengths. Sarcomeres are
+  added and subtracted to muscles depending on how frequently they’re used, so
+  improving overall flexibility requires a comprehensive stretching regimen. Plus,
+  you need to stretch often— very often.
+  #+end_quote
+
+- 2023-05-03 ◦ [[https://www.youtube.com/watch?v=VpOan0hqdNA&ab_channel=BigThink][The friendship recession | Richard Reeves - YouTube]] ([[id:05a8e9a4-872a-45af-a7eb-52827db9a360][The Lonely Century]])
+  - talks about friendship recession
+   #+begin_quote
+   There's also a lot of emphasis on work and careers, what some scholars call
+   'workism,' which is a sense that your identity is so what wrapped up in your
+   work that you don't have as much energy and time left over for friends.
+   #+end_quote
+
+   #+begin_quote
+   Today, 15% of young men say that they don't have a close friend. That was just
+   3% back in the 1990s. And so, we're seeing a fivefold increase in the number of
+   men have no close friends. Back in 1990, almost half of young men, 45% said that
+   if they had to turn to someone in a time of trouble, it would be to a close
+   friend. But now that's dropped to about 22%.
+   #+end_quote
+
+   #+begin_quote
+   The pandemic has been a sort of stress test for our friendship networks.
+   Interestingly there, we see that it's women who've been most affected: with
+   more than half of women saying they've lost touch with at least some of their
+   friends. I think that's because female friendships are more based on physical
+   relationships on face-to-face time, whereas male friendships tend to be more
+   mediated perhaps through activities or technology. W
+   #+end_quote
+
+   #+begin_quote
+   A key lesson that we learn is that friendships don't form themselves.
+   Friendship is not a flower that just blooms all on its own. It's more like a
+   woodworking project that you have to carve out and continue to work on.
+   #+end_quote
+
+   #+begin_quote
+   And I think as we get older, there's sometimes a sense of shame that comes
+   along with not having enough friends and actually saying, "I need a friend,"
+   is maybe one of the hardest sentences that any human being can utter.
+   #+end_quote

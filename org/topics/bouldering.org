@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e12ee214-2fbc-4187-b088-3934627eeddb
+:END:
+#+title: Bouldering
+
+* Resources
+** target10a
+*** Kraftausdauer
+- 2023-05-03 ◦ [[https://www.youtube.com/watch?v=LmO6BXFYjR8&ab_channel=target10a][Kraftausdauer #1: Die 3 Energiesysteme der Muskulatur - YouTube]]
+*** Athletik
+- 2023-05-03 ◦ [[https://www.youtube.com/watch?v=5W0lh0530EM&t=160s&ab_channel=target10a][Roadmap für Athletik- und Körperspannungsübungen | Klettertraining - YouTube]]
+  - [[https://www.target10a.com/magazin/2017/11/17/roadmap-fuer-das-athletik-und-stabilisationstraining/][Artikel mit Infografik]]

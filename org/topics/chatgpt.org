@@ -11,3 +11,5 @@
 - 2023-04-03 ◦ [[https://platoeducation.ai/#/notes/][Plato]]
 - 2023-01-19 ◦ [[https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used][GPT-3 Is the Best Journal I've Ever Used]]
 - 2023-01-18 ◦ [[https://www.innoq.com/en/blog/how-ai-will-replace-my-job/][How AI will replace my job – INNOQ]]
+** For learning
+- 2023-05-03 ◦ [[https://www.scotthyoung.com/blog/2023/05/02/chatgpt-learning-tips/][10 Ways You Can Use ChatGPT to Learn Better - Scott H Young]]
