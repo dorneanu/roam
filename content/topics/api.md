@@ -3,6 +3,11 @@ title = "API"
 draft = false
 +++
 
+## Books {#books}
+
+-   2023-05-08 ◦ [Sergey Konstantinov. The API Book](https://twirl.github.io/The-API-Book/API.en.html)
+
+
 ## REST {#rest}
 
 -   2022-10-12 ◦ [Did you know you could use OpenAPI for security?](https://dev.to/nathan20/did-you-know-you-could-use-openapi-for-security-1hke)

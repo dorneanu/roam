@@ -8,6 +8,8 @@
 #+title: API
 #+type: text/vnd.tiddlywiki
 
+* Books
+- 2023-05-08 ◦ [[https://twirl.github.io/The-API-Book/API.en.html][Sergey Konstantinov. The API Book]]
 * REST
   - 2022-10-12 ◦ [[https://dev.to/nathan20/did-you-know-you-could-use-openapi-for-security-1hke][Did you know you could use OpenAPI for security?]]
   - [[id:9ebb968f-d7e4-4874-bda6-c9e82fa1f1a6][Richardson Maturity Level]]
