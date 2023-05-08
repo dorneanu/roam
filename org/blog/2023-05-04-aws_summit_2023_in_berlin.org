@@ -310,8 +310,10 @@ In addition to Tim's presentation, [[https://www.linkedin.com/in/deacix/][Sergej
 gave an exciting talk on how he and his team use AWS services for providing web3
 based applications.
 
-Also have a look at [[https://www.youtube.com/watch?v=UcwuTkN15Uc&ab_channel=AWSEvents][Build, launch, and scale your Web3 startup at AWS (from AWS
-Summit ANZ 2022)]].
+Also have a look at
+- [[https://www.youtube.com/watch?v=UcwuTkN15Uc&ab_channel=AWSEvents][Build, launch, and scale your Web3 startup at AWS (from AWS Summit ANZ 2022)]].
+- [[https://www.youtube.com/watch?v=UcwuTkN15Uc&ab_channel=AWSEvents][Deep Dive on Amazon Managed Blockchain]]
+
 
 *** Open Datasets
 - [[https://aws.amazon.com/blogs/database/access-bitcoin-and-ethereum-open-datasets-for-cross-chain-analytics/][Open Datasets for Ethereum and Bitcoin]]
