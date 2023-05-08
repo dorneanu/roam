@@ -2,74 +2,97 @@
 :ID:       50ee18c7-70b4-42e2-b650-d4303f4dd049
 :END:
 #+SETUPFILE: blog.setup
+#+filetags: :events:aws:
 #+TITLE: AWS Summit 2023 in Berlin
 #+CREATED: 2023-05-04
 #+HUGO_DRAFT: true
 
 * Introduction
+Some of the challenges start-ups encounter:
+- speed
+- regulatory compliance
+- costs
+- growth
 * Attended talks
 ** PAS216: Overcoming Cloud Security Challenges at Scale
 *** Summary
-- as organizations migrate in the cloud, there are plenty of challenges the Security team needs to be aware of
-- Migrations to the cloud has some challenges which need to be taken into consideration
-- Also the organization must grow with the technology
-- The need for the right tool(s) is necessary
-- The tool suite has to align with developers needs
-- Everyone sits in the same boat so aligned goals and targets are key
-*** Cloud Challenges
-**** Scale
-- This size becomes very abstract
-- You can't walk through a data center to get a sense
-- Even small mistakes get expensive quickly
-- Every manual process will break
+For the Security team it's crucial to be aware of the challenges that come with
+migrating to the cloud. While it can be beneficial to move to the cloud, there
+are still certain challenges that need to be taken into consideration. It's
+important for organizations to grow with the technology as well. To manage these
+challenges, having the right tool(s) is necessary. In selecting a tool suite,
+it's critical to make sure that it aligns with the needs of both developers and
+the organization as a whole as everyone sits in the same boat. In this
+presentation, the author mainly talked how [[https://orca.security/][ORCA Security]] was able to solve their
+security problems.
 
-**** Growth During Transformation
-- There is no time - growth drives ils own momentum
-- Delay makes any problem bigger
-- Organizational change is hard
-- Even more for non-tech teams
-**** Level of Complexity
-- Multicloud by strategy
-- Large portfolio of products, often deployed in regulated indusines
-- Transitioning to cloud-nalive and micro-service architectures
-- Bewildering organization with high autonomy within business units and developer teams
-*** Cloud Security Challenges
-**** Scale
-- Large scale means many findings (good or bad)
-- everything is an engineering job
-- Everything can break at any lime, no 'test' environment
-**** Growth During Transformalion
-- Our secunty budget doesn't grow linearly with growth in the landscape
-- does yours?
-- Security organizations often don't run or adapt lo change as fast as DevOps leams
-**** Level of Complexity
-- How do you centralize secunty functions when developer leams have even more autonomy?
-- How do you make them not hate you, for making them do work to get more work?
-- How do you gel access to systems of get looling deployed?
-*** Contextualization and Risk-Based Prioritization
-**** Context
-- Context determines the severity and urgency of the finding
-- Enrich with organizational metadata to assess business risk to the organization
-- Avoid wild goose chase or impossible standards and SLAs
-**** Tool Sprawl
-- Every additional data source requires data enrichment
-- Each have their own costs
-- Very nice if one tool does a lot and contextualizes across
-**** Alert Fatigue
-- The organization doesn't scale with the size of the landscape
-- We have to focus on what is most important
-- Limited developer time for security
-- Don't misuse Security teams resources
-*** Shared Fate
-- We are all in this together
-- main keys
+*** Notes
+**** Cloud Challenges in general
+- *Scalability*
+  - The size becomes very abstract
+  - "You can't walk through a data center to get a sense"
+  - Even small mistakes get /expensive quickly/
+  - Every /manual process/ will break
+- *Growth During Transformation*
+  - There is no time - growth drives its own momentum
+  - Delay makes any problem bigger
+  - /Organizational change is hard/
+    - Even more for non-tech teams
+- *Level of Complexity*
+  - Multicloud by strategy (at least for SAP)
+  - Large portfolio of products, often deployed in regulated industries
+  - Transitioning to cloud-native and {{{zk_topic(microservices,microservices)}}} architectures
+  - Bewildering organization with high autonomy within business units and developer teams
+**** Cloud Challenges for Security
+- *Scale*
+  - Large scale means many findings (good or bad)
+  - everything is an engineering job
+  - Everything can break at any time, no 'test' environment
+- *Growth During Transformation*
+  - Our secunty budget doesn't grow linearly with growth in the landscape
+  - Security organizations often don't run or adapt to change as fast as DevOps teams
+- *Level of Complexity*
+  - How do you /centralize Security functions/ when developer teams have even more autonomy?
+  - How do you /make them not hate you/, for making them do work to get more work?
+  - How do you get access to systems or get tooling deployed?
+**** Shared Fate
+- /We are all in this together/
+- main keys with regards to the rest of the team
   - collaborative
   - Relieving Operational Burden
   - Enabling
     - Aligned Goals and Targets
+**** Contextualization and Risk-Based Prioritization
+- *Context*
+  - Context determines the severity and urgency of the finding
+  - /Enrich with organizational metadata to assess business risk to the organization/
+  - Avoid wild goose chase or impossible standards and SLAs
+- *Tool Sprawl*
+  - Every additional data source requires data enrichment
+  - Each have their own costs
+  - Very nice if one tool does a lot and contextualizes across
+- *Alert Fatigue*
+  - The organization doesn't scale with the size of the landscape
+  - We have to focus on what is most important
+  - Limited developer time for security
+  - Don't misuse Security teams resources
 ** COM204: Building Infrastructure AWS CDK vs Terraform
-*** Pain points with Terraform
-**** Conditions
+*** Summary
+The ongoing "{{{zk_topic(cdk,CDK)}}} vs. Terraform" controversy is deemed to be
+a highly debated topic among IT professionals. Though the writer was known to be
+a fan of Terraform, she now showed its main pain points and highlighted some
+solutions with {{{zk_topic(cdk,CDK)}}}. The author believes that most DevOps
+professionals opt for Terraform due to its ease of use as it doesn't require any
+programming knowledge, and it is considered one of the best frameworks for
+coding infrastructure. However, the often mentioned multi-cloud argument as
+deploying the same Terraform stack to another cloud provider is not an easy
+task. Additionally there are major differences in the state management of both
+solutions, and it's crucial to consider distinct approaches for the safe and
+reliable deployment of infrastructure components.
+
+*** Notes
+**** Pain points with Terraform
+***** Conditions
 
 #+caption: Example of using conditionals in Terraform
 #+begin_src terraform
@@ -119,7 +142,7 @@ if (process.env.ENABLE_PUBLIC_IP == 'false') {
   enablePublicIp = false;
 }
 #+end_src
-**** Policy handling
+***** Policy handling
 
 #+caption: Example of Terraform code defining IAM policies
 #+begin_src terraform
@@ -169,8 +192,65 @@ const ec2SecurityGroup = new ec2.SecurityGroup(this, 'MySecurityGroup', {
 
 dynamoTable.grantReadWriteData(ec2SecurityGroup);
 #+end_src
-**** Create Lambdas
-**** Testing
+***** Create Lambdas
+
+#+caption: Create a Lambda function with Terraform
+#+begin_src terraform
+provider "aws" {
+  region = "us-west-2"
+  access_key = "your_access_key"
+  secret_key = "your_secret_key"
+}
+
+resource "aws_iam_role" "lambda_role" {
+  name = "lambda_role"
+  assume_role_policy = jsonencode({
+    Version = "2012-10-17"
+    Statement = [
+      {
+        Effect = "Allow"
+        Principal = {
+          Service = "lambda.amazonaws.com"
+        }
+        Action = "sts:AssumeRole"
+      }
+    ]
+  })
+}
+
+resource "aws_lambda_function" "my_lambda_function {
+  filename = "my_lambda_function.zip"
+  function_name = "my_lambda_function"
+  role = aws_iam_role.lambda_role.arn
+  runtime = "nodejs12.x"
+  handler = "index.handler"
+}
+#+end_src
+
+#+caption: Create a Lambda function with CDK
+#+begin_src typescript
+import * as cdk from 'aws-cdk-lib';
+import * as lambda from 'aws-cdk-lib/aws-lambda';
+import * as lambdaNodejs from 'aws-cdk-lib/aws-lambda-nodejs';
+
+export class LambdaStack extends cdk.Stack {
+ constructor(scope: cdk.Construct, id: string, props?: cdk.StackProps) {
+   super(scope, id, props);
+
+   const lambdaFn = new lambdaNodejs.NodejsFunction(this, "SimpleLambda", {
+     entry: 'src/index.ts',
+     handler: 'handler',
+     runtime: lambda.Runtime.NODEJS_12_X,
+     memorySize: 256
+   });
+
+   new cdk.CfnOutput(this, "LambdaFunctionArn", {
+     value: lambdaFn.functionArn
+   });
+ }
+}
+#+end_src
+***** Testing
 - For terraform you have ~terratest~
 
 In CDK it's quite easy to test your expectations:
@@ -197,7 +277,7 @@ test('MyAppStack creates an S3 bucket', () => {
 });
 #+end_src
 
-**** State management
+***** State management
 - Terraform
   - tf state
     - keep it in S3 bucket
@@ -206,10 +286,41 @@ test('MyAppStack creates an S3 bucket', () => {
 - CDK
   - CloudFormation based
   - rollbacks are handled automagically
+**** Decisions template
+Whether Terraform or {{{zk_topic(cdk,CDK)}}} this depends on:
+- team /staffing/
+- the /preferences/ of the developers
+- availability of the services to be provisioned
+- if workflows are /easily automatable/
+- quality of the /documentation/
+- /compliance rules/ of the company
 ** STP204: Web3 - Build, launch and scale your Web3 startup on AWS ft. 1inch
-- [[https://aws.amazon.com/blogs/database/access-bitcoin-and-ethereum-open-datasets-for-cross-chain-analytics/][Open Datasets for Ethereum and Bitcoin]]
+*** Summary
+[[https://www.linkedin.com/in/bergertim/][Tim Berger]] from AWS highlighted what is necessary in order to interact with a
+blockchain. With blockchain technology gaining significant traction, Tim
+emphasized the importance of understanding the fundamentals of blockchain
+interaction in order to take full advantage of its potential.
 
-For BTC:
+Furthermore, Tim also showcased some sample architectures where [[https://aws.amazon.com/managed-blockchain/][Amazon Managed
+Blockchain]] service has been successfully implemented. The audience gained
+insights into the various use cases of the service and how it can be integrated
+with other AWS products to achieve a seamless blockchain experience.
+
+In addition to Tim's presentation, [[https://www.linkedin.com/in/deacix/][Sergej Kunz]], the co-founder of [[https://1inch.io/][1inch]], also
+gave an exciting talk on how he and his team use AWS services for providing web3
+based applications.
+
+Also have a look at [[https://www.youtube.com/watch?v=UcwuTkN15Uc&ab_channel=AWSEvents][Build, launch, and scale your Web3 startup at AWS (from AWS
+Summit ANZ 2022)]].
+
+*** Open Datasets
+- [[https://aws.amazon.com/blogs/database/access-bitcoin-and-ethereum-open-datasets-for-cross-chain-analytics/][Open Datasets for Ethereum and Bitcoin]]
+  - high-level architecture
+    [[https://d2908q01vomqb2.cloudfront.net/887309d048beef83ad3eabf2a79a64a389ab1c9f/2022/09/16/DBBLOG-2500-image001.png]]
+
+**** For ~BTC~:
+- blocks/date={YYYY-MM-DD}/{id}.snappy.parquet
+- transactions/date={YYYY-MM-DD}/{id}.snappy.parquet
 
 #+begin_src sh
 aws s3 ls --no-sign-request s3://aws-public-blockchain/v1.0/btc/
@@ -219,7 +330,13 @@ aws s3 ls --no-sign-request s3://aws-public-blockchain/v1.0/btc/
 | PRE | blocks/       |
 | PRE | transactions/ |
 
-And for ETH:
+**** For *ETH*
+- blocks/date={YYYY-MM-DD}/{id}.snappy.parquet
+- transactions /date={YYYY-MM-DD}/{id}.snappy.parquet
+- logs/date={YYYY-MM-DD}/{id}.snappy.parquet
+- token_transfers/date={YYYY-MM-DD}/{id}.snappy.parquet
+- traces/date={YYYY-MM-DD}/{id}.snappy.parquet
+- contracts/date={YYYY-MM-DD}/{id}.snappy.parquet
 
 #+begin_src sh
 aws s3 ls --no-sign-request s3://aws-public-blockchain/v1.0/eth/
@@ -232,3 +349,49 @@ aws s3 ls --no-sign-request s3://aws-public-blockchain/v1.0/eth/
 | PRE | token_transfers/ |
 | PRE | traces/          |
 | PRE | transactions/    |
+
+#+begin_src sh
+aws s3 ls --no-sign-request s3://aws-public-blockchain/v1.0/eth/transactions/date=2023-05-04/
+#+end_src
+
+Some example:
+
+#+caption: How to get transaction metadata
+#+begin_example
+aws s3 ls --no-sign-request s3://aws-public-blockchain/v1.0/btc/transactions/2023-05-08/4ed1639d0b03a562def6755a0c0465a11248c04cd389ea09cf87a35f6c95b6f9.snappy.parquet
+#+end_example
+
+** TODO ARC304: Reactive Architecture on AWS: from 0 to 1.6M events/minute
+*** The first take
+
+| Target                                                           | Solution                         |
+|------------------------------------------------------------------+----------------------------------|
+| Avoid complexity of container orchestration                      | Amazrepouon ECS on AWS Fargate   |
+| Push back on the microservices hype                              | Mono-repo + single deployments   |
+| High-performance message-passing framework                       | vertx.io                         |
+| App responsive during rapid client activity spike                | ALB + Auto-Scaling groups        |
+| Isolate failures and guarantuee uninterrupted trading experience | Redundant deployment across 3 AZ |
+| (near) Zero downtime - uninterrupted trading venue               | Amazon Aurora                    |
+*** TODO The final take
+* Fun stuff
+** serverlesspresso
+
+The [[https://github.com/aws-samples/serverless-coffee][serverlesspresso]] application is a {{{zk_topic(serverless,serverless)}}}
+coffee bar exibit, first seen at AWS re:Invent 2021. I had the chance to see and
+also try it in Berlin 😎.
+
+*** Serverless application
+#+html: {{< gbox src="/posts/img/2023/aws-summit/serverlesspresso-application.png" title="The serverlesspresso application on my smartphone" caption="The application is rather simple and you can chose different beverages" pos="left" >}}
+
+*** Ordering
+#+html: {{< gbox src="/posts/img/2023/aws-summit/serverlesspresso-order-was-placed.png" title="Order was placed" caption="After selecting your beverage you'll get a new order ID." pos="left" >}}
+
+
+#+html: {{< gbox src="/posts/img/2023/aws-summit/serverlesspresso-order-queue.png" title="The ordering queue for the coffee shop" caption="This where you can see your order and also the expected time to delivery" pos="left" >}}
+
+*** The result ☕
+#+html: {{< gbox src="/posts/img/2023/aws-summit/serverlesspresso-flatwhite.png" title="The final flatwhite" caption="At the end you'll get a receipt and of course, your coffee " pos="left" >}}
+
+*** The architecture
+
+#+html: {{< gbox src="/posts/img/2023/aws-summit/serverlesspresso-how-it-works.png" title="The serverless architecture" caption="Different APIs are used but step functions are at the heart of the application." pos="left" >}}
