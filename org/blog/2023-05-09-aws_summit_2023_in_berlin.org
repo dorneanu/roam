@@ -4,15 +4,27 @@
 #+SETUPFILE: blog.setup
 #+filetags: :events:aws:
 #+TITLE: AWS Summit 2023 in Berlin
-#+CREATED: 2023-05-04
-#+HUGO_DRAFT: true
+#+CREATED: 2023-05-09
+#+HUGO_DRAFT: false
+
+#+html: {{< gbox src="/posts/img/2023/aws-summit/aws-summit-keynote.png" title="The stage for the keynote" caption="The stage for the keynote at the AWS Summit 2023 in Berlin" pos="left" >}}
 
 * Introduction
-Some of the challenges start-ups encounter:
-- speed
-- regulatory compliance
-- costs
-- growth
+During this year's keynote, the main focus was on the *velocity* companies - and
+/especially/ start-ups - need in order to bring their products to the market,
+highlighting the importance of agility. I was particularly surprised to learn
+that Flixbus is fully managing their infrastructure in AWS, showcasing the power
+and potential of cloud technologies. It's impressive to see how [[https://aws.amazon.com/de/solutions/case-studies/flixbus/][Flixbus]] has
+invested in their tech stack, especially during the pandemic when travel was at
+an all-time low.
+
+As with any start-up, challenges such as *speed*, *regulatory compliance*, *costs*,
+and *growth* can pose significant obstacles. However, with the right mindset and
+strategy, start-ups can overcome these challenges and battle prove their
+products on the market. The ability to move quickly while still being compliant
+to regulations, minimizing costs, and driving sustainable growth is key to
+success in today's fast-paced market.
+
 * Attended talks
 ** PAS216: Overcoming Cloud Security Challenges at Scale
 *** Summary
@@ -314,12 +326,9 @@ Also have a look at
 - [[https://www.youtube.com/watch?v=UcwuTkN15Uc&ab_channel=AWSEvents][Build, launch, and scale your Web3 startup at AWS (from AWS Summit ANZ 2022)]].
 - [[https://www.youtube.com/watch?v=UcwuTkN15Uc&ab_channel=AWSEvents][Deep Dive on Amazon Managed Blockchain]]
 
-
 *** Open Datasets
 - [[https://aws.amazon.com/blogs/database/access-bitcoin-and-ethereum-open-datasets-for-cross-chain-analytics/][Open Datasets for Ethereum and Bitcoin]]
-  - high-level architecture
-    [[https://d2908q01vomqb2.cloudfront.net/887309d048beef83ad3eabf2a79a64a389ab1c9f/2022/09/16/DBBLOG-2500-image001.png]]
-
+  - [[https://d2908q01vomqb2.cloudfront.net/887309d048beef83ad3eabf2a79a64a389ab1c9f/2022/09/16/DBBLOG-2500-image001.png][high-level architecture]]
 **** For ~BTC~:
 - blocks/date={YYYY-MM-DD}/{id}.snappy.parquet
 - transactions/date={YYYY-MM-DD}/{id}.snappy.parquet
@@ -332,7 +341,7 @@ aws s3 ls --no-sign-request s3://aws-public-blockchain/v1.0/btc/
 | PRE | blocks/       |
 | PRE | transactions/ |
 
-**** For *ETH*
+**** For ~ETH~
 - blocks/date={YYYY-MM-DD}/{id}.snappy.parquet
 - transactions /date={YYYY-MM-DD}/{id}.snappy.parquet
 - logs/date={YYYY-MM-DD}/{id}.snappy.parquet
@@ -352,10 +361,6 @@ aws s3 ls --no-sign-request s3://aws-public-blockchain/v1.0/eth/
 | PRE | traces/          |
 | PRE | transactions/    |
 
-#+begin_src sh
-aws s3 ls --no-sign-request s3://aws-public-blockchain/v1.0/eth/transactions/date=2023-05-04/
-#+end_src
-
 Some example:
 
 #+caption: How to get transaction metadata
@@ -363,18 +368,66 @@ Some example:
 aws s3 ls --no-sign-request s3://aws-public-blockchain/v1.0/btc/transactions/2023-05-08/4ed1639d0b03a562def6755a0c0465a11248c04cd389ea09cf87a35f6c95b6f9.snappy.parquet
 #+end_example
 
-** TODO ARC304: Reactive Architecture on AWS: from 0 to 1.6M events/minute
-*** The first take
+** ARC304: Reactive Architecture on AWS: from 0 to 1.6M events/minute
+*** Reactive systems
+First of all some introductory words about reactive systems. As stated in the
+[[https://www.reactivemanifesto.org/][Reactive Manifesto]] today's user expectations have changed dramatically over the
+past years. Users expect applications to be *responsive* (response time measured
+in /miliseconds/) and software developers hope their system will be *resilient*
+enough to cope with failures in an elegant way rather than full disaster.
+
+The manifesto emphasized the important of building software that can easily
+adapt to changes in user demand, system loads and failure conditions. And all
+this has to be taken into consideration while still remaining flexible and
+scalable enough to handle future growth and evolution.
+
+Reactive systems are:
+- *responsive*
+  - responsiveness is key here
+  - problems can be detected quickly
+  - response time is also an spect of the quality of service
+- *resilient*
+  - systems stay responsive in case of failure
+  - resilience is achieved by
+    - [[https://www.reactivemanifesto.org/glossary#Replication][replication]]
+    - containment
+    - [[https://www.reactivemanifesto.org/glossary#Isolation][isolation]]
+    - [[https://www.reactivemanifesto.org/glossary#Delegation][delegation]]
+- *elastic*
+  - systems remain responsiveness under various loads
+  - auto-scaling of resources
+- *message-driven*
+  - in contrast to event-driven
+  - systems use async [[https://www.reactivemanifesto.org/glossary#Message-Driven][message-passing]] for communication between components
+*** Bitpanda Pro
+[[https://pro.bitpanda.com/en][Bitpanda Pro]] is a trading platform that allow users to trade /digital assets/
+(such as cryptocurrencies) but also /metals/ against fiat currencies such as EUR,
+USD, GBP. The platform offers various trading tools such as charts, advanced
+order types, /real-time data/ and access to liquidity providers.
+
+In this talk Bitpanda talks about their /reactive/ architecture and how they
+managed to setup their infrastructure accordingly. Impressive enough was also
+the fact they've managed to server 1.6m events / minute!
+
+*** Notes
+**** The first take
+The initial step taken to build the reactive infrastructure in AWS:
 
 | Target                                                           | Solution                         |
 |------------------------------------------------------------------+----------------------------------|
-| Avoid complexity of container orchestration                      | Amazrepouon ECS on AWS Fargate   |
-| Push back on the microservices hype                              | Mono-repo + single deployments   |
-| High-performance message-passing framework                       | vertx.io                         |
+| Avoid complexity of container orchestration                      | [[https://aws.amazon.com/ecs/][AWS ECS]] on [[https://aws.amazon.com/fargate/][AWS Fargate]]           |
+| Push back on the microservices hype                              | [[https://en.wikipedia.org/wiki/Monorepo][Mono-repo]] + single deployments   |
+| High-performance message-passing framework                       | [[https://vertx.io/][vertx.io]]                         |
 | App responsive during rapid client activity spike                | ALB + Auto-Scaling groups        |
 | Isolate failures and guarantuee uninterrupted trading experience | Redundant deployment across 3 AZ |
-| (near) Zero downtime - uninterrupted trading venue               | Amazon Aurora                    |
-*** TODO The final take
+| (near) Zero downtime - uninterrupted trading venue               | [[https://aws.amazon.com/rds/aurora/][Amazon Aurora]]                    |
+**** Second take
+This one was about elasticity and message passing. Each traded pair (BTC, EUR, USD etc.) lives in an isolated world:
+- they used a dedicated *Kafka topic* partition and ECS task
+- one Kafka topic partition per traded pair
+
+They've also implemented [[https://www.reactivemanifesto.org/glossary#Back-Pressure][back-pressure control]] and *load-shedding*.
+
 * Fun stuff
 ** serverlesspresso
 
@@ -383,6 +436,7 @@ coffee bar exibit, first seen at AWS re:Invent 2021. I had the chance to see and
 also try it in Berlin 😎.
 
 *** Serverless application
+
 #+html: {{< gbox src="/posts/img/2023/aws-summit/serverlesspresso-application.png" title="The serverlesspresso application on my smartphone" caption="The application is rather simple and you can chose different beverages" pos="left" >}}
 
 *** Ordering
