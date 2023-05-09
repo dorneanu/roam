@@ -88,6 +88,14 @@ draft = false
     -   Some good recommendation for advanced Go learning resources
 
 
+### Plugins {#plugins}
+
+-   2023-05-09 ◦ [RPC-based plugins in Go - Eli Bendersky's website](https://eli.thegreenplace.net/2023/rpc-based-plugins-in-go/)
+    -   shows how to use [go-plugin](https://github.com/hashicorp/go-plugin) from Hashicorp
+    -   talks about pros and cons between shared libraries (RPC based) and Golang's
+        built-in [plugin](https://pkg.go.dev/plugin)
+
+
 ### Malware {#malware}
 
 -   2023-03-21 ◦ [Uncovering HinataBot: A Deep Dive into a Go-Based Threat | Akamai](https://www.akamai.com/blog/security-research/hinatabot-uncovering-new-golang-ddos-botnet)

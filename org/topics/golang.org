@@ -54,6 +54,11 @@
   #+end_quote
 - 2022-08-17 ◦ [[https://www.reddit.com/r/golang/comments/wlw5bj/preferred_resource_for_advanced_go/][Preferred resource for 'advanced' Go? : golang]]
   - Some good recommendation for advanced Go learning resources
+** Plugins
+- 2023-05-09 ◦ [[https://eli.thegreenplace.net/2023/rpc-based-plugins-in-go/][RPC-based plugins in Go - Eli Bendersky's website]]
+  - shows how to use [[https://github.com/hashicorp/go-plugin][go-plugin]] from Hashicorp
+  - talks about pros and cons between shared libraries (RPC based) and Golang's
+    built-in [[https://pkg.go.dev/plugin][plugin]]
 ** Malware
 - 2023-03-21 ◦ [[https://www.akamai.com/blog/security-research/hinatabot-uncovering-new-golang-ddos-botnet][Uncovering HinataBot: A Deep Dive into a Go-Based Threat | Akamai]]
 - 2022-11-01 ◦ [[https://changelog.com/gotime/251][Hacking with Go: Part 2 with Ivan Kwiatkowski (Go Time #251)]]
