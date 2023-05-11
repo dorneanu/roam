@@ -6,6 +6,7 @@
 #+title: Distributed Architectures
 #+type: text/vnd.tiddlywiki
 
+* General
 - Object-based
   - RPCs
   - RMIs
@@ -18,3 +19,5 @@
 - [[id:35842e92-c5a3-4784-9480-3baeed2633e6][Event-Driven Architecture]]
 - Distributed computations
   - [[#MapReduce][MapReduce]]
+* Resources
+- 2023-05-10 ◦ [[https://www.youtube.com/watch?v=nH4qjmP2KEE][Top 7 Most-Used Distributed System Patterns - YouTube]]

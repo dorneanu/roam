@@ -34,5 +34,16 @@ draft = false
 
 ### Security {#security}
 
+-   2023-05-10 ◦ [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
+-   2023-05-10 ◦ [How to Secure Your Smart Contracts: 6 Solidity Vulnerabilities and how to avoid them (Part 1) | by Georgios Konstantopoulos | Loom Network | Medium](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-1-c33048d4d17d)
+-   2023-05-10 ◦ [How to Secure Your Smart Contracts: 6 Solidity Vulnerabilities and how to avoid them (Part 2) | by Georgios Konstantopoulos | Loom Network | Medium](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-2-730db0aa4834)
+-   2023-05-10 ◦ [Harry Papacharissiou: Learning How to Build Secure Smart Contracts - YouTube](https://www.youtube.com/watch?v=6dPekVyZ8iA&ab_channel=Chainlink)
+    -   Programming smart contracts requires a different
+        -   programming mindset
+        -   Cost of failure can be high
+        -   Changes can be difficult
+        -   Similar to hardware development
+    -   Attacks
+        -   Timestamp Dependence and Manipulation
 -   2023-02-01 ◦ [Damn Vulnerable Defi](https://dev.to/erhant/damn-vulnerable-defi-1-unstoppable-4824)
     -   [Github Repository](https://www.damnvulnerabledefi.xyz/)

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       df131863-ea52-43fb-b4db-15e52247d777
+:END:
+#+title: HTMX
+
+* Resources
+- 2023-05-10 ◦ [[https://changelog.com/news/is-htmx-the-way-to-go-2lA9][Is htmx the way to Go? |> Changelog]]
+- 2023-05-10 ◦ [[https://dev.to/quii/htmx-is-the-future-157j][HTMX is the future - DEV Community]]

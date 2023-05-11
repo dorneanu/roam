@@ -3,6 +3,8 @@ title = "Distributed Architectures"
 draft = false
 +++
 
+## General {#general}
+
 -   Object-based
     -   RPCs
     -   RMIs
@@ -14,3 +16,8 @@ draft = false
 -   [Event-Driven Architecture]({{< relref "event-driven_architecture.md" >}})
 -   Distributed computations
     -
+
+
+## Resources {#resources}
+
+-   2023-05-10 ◦ [Top 7 Most-Used Distributed System Patterns - YouTube](https://www.youtube.com/watch?v=nH4qjmP2KEE)
