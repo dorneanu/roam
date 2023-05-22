@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       21514178-4fc6-445e-b8eb-4f8b5fc694b0
+:END:
+#+TITLE: 2023-05-15
+#+DATE: 2023-05-15
+#+FILETAGS: journal
+
+- 2023-05-15 ◦ [[https://news.ycombinator.com/item?id=35899518][Fuck being productive | Hacker News]]

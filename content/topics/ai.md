@@ -113,3 +113,12 @@ draft = false
 -   [Search Smart](https://www.searchsmart.org/?~())
 
     A search engine to help you find the most suitable database for your research
+
+
+### For productivity {#for-productivity}
+
+-   [Anthropic / Claude](https://www.anthropic.com/product)
+
+    > Claude can be a delightful company representative, a research assistant, a
+    > creative partner, a task automator, and more. Personality, tone, and behavior
+    > can all be customized to your needs

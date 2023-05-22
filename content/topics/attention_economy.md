@@ -22,3 +22,8 @@ draft = false
             -   isolate news consumption
                 -   try to ritualize it by chosing a location that will support you in giving your full attention to the reading
                 -   download articles in advance (learn to [use getpocket wisely](https://blog.dornea.nu/2021/09/01/inbox-zero-using-getpocket/))
+
+
+## Resources {#resources}
+
+-   2023-05-16 ◦ [Your attention didn’t collapse. It was stolen | Psychology | The Guardian](https://amp.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)

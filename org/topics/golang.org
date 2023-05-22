@@ -19,6 +19,8 @@
 - 2023-01-24 ◦ [[https://cloudninja.cloud/post/building-cloudformation-custom-resources-in-go/][Cloud Ninja: Building CloudFormation Custom Resources in Go]]
 - 2023-01-20 ◦ [[https://github.com/masgari/aws-custom-resources][GitHub - masgari/aws-custom-resources: A Lambda for creating custom resources in CloudFormation.]]
 - 2023-01-20 ◦ [[https://github.com/lifadev/archive_aws-cloudformation-go-customres][GitHub - lifadev/archive_aws-cloudformation-go-customres: Author your AWS CloudFormation Custom Resources in Go.]]
+** Fun
+- 2023-05-15 ◦ [[https://go-proverbs.github.io/][Go Proverbs]]
 ** Botnets
 - 2022-08-22 ◦ [[https://github.com/ThrillQuks/Pitraix][GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR]]
 ** Concurrency

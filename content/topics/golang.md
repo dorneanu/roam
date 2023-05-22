@@ -29,6 +29,11 @@ draft = false
 -   2023-01-20 ◦ [GitHub - lifadev/archive_aws-cloudformation-go-customres: Author your AWS CloudFormation Custom Resources in Go.](https://github.com/lifadev/archive_aws-cloudformation-go-customres)
 
 
+### Fun {#fun}
+
+-   2023-05-15 ◦ [Go Proverbs](https://go-proverbs.github.io/)
+
+
 ### Botnets {#botnets}
 
 -   2022-08-22 ◦ [GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR](https://github.com/ThrillQuks/Pitraix)

@@ -20,6 +20,26 @@ draft = false
 -   2023-01-18 ◦ [How AI will replace my job – INNOQ](https://www.innoq.com/en/blog/how-ai-will-replace-my-job/)
 
 
+### Alternatives {#alternatives}
+
+-   2023-05-17 ◦ [Github Copilot and ChatGPT alternatives - The Pragmatic Engineer](https://blog.pragmaticengineer.com/github-copilot-alternatives/)
+
+    > – OpenAI APIs. Curiously, ChatGPT uses data entered via its web interface for
+    >   training, but not when using its APIs. So an obvious workaround is to use the APIs
+    >   with a wrapper, like the open source Chatbot UI.
+    > – Azure OpenAI Service. Fine-tune custom AI models with your company data and
+    >   hyperparameters.
+    > – MosaicML. Train large AI models with your company data in a secure environment.
+    >   Point to an AWS S3 bucket, and that’s it!
+    > – Glean. AI-powered workplace search across the company’s apps, powered by deep
+    >   learning-based large language models (LLM.)
+    > – Aleph Alpha. A company emphasizing that it’s a European AI technology company,
+    >   which has open sourced its code codebase and doesn’t use customer data to train
+    >   models.
+    > – Cohere. A set of LLMs to generate text, summarize it, classify and retrieve it.
+    > – Writer. A generative AI platform that trains on the company’s data.
+
+
 ### For learning {#for-learning}
 
 -   2023-05-03 ◦ [10 Ways You Can Use ChatGPT to Learn Better - Scott H Young](https://www.scotthyoung.com/blog/2023/05/02/chatgpt-learning-tips/)

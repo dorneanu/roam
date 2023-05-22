@@ -15,3 +15,6 @@
 ** Bugs
 - 2022-10-04 ◦ [[https://www.schneier.com/blog/archives/2021/12/smart-contract-bug-results-in-31-million-loss.html][Smart Contract Bug Results in $31 Million Loss - Schneier on Security]]
 - 2022-10-04 ◦ [[https://arstechnica.com/information-technology/2021/12/hackers-drain-31-million-from-cryptocurrency-service-monox-finance/][Really stupid “smart contract” bug let hackers steal $31 million in digital coin]]
+* Resources
+- 2023-05-16 ◦ [[https://andersbrownworth.com/blockchain][Blockchain Demo]]
+  - cool interactive graphics to learn more about Blockchains

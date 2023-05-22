@@ -12,6 +12,25 @@
 - 2023-04-03 ◦ [[https://platoeducation.ai/#/notes/][Plato]]
 - 2023-01-19 ◦ [[https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used][GPT-3 Is the Best Journal I've Ever Used]]
 - 2023-01-18 ◦ [[https://www.innoq.com/en/blog/how-ai-will-replace-my-job/][How AI will replace my job – INNOQ]]
+** Alternatives
+- 2023-05-17 ◦ [[https://blog.pragmaticengineer.com/github-copilot-alternatives/][Github Copilot and ChatGPT alternatives - The Pragmatic Engineer]]
+    #+begin_quote
+    – OpenAI APIs. Curiously, ChatGPT uses data entered via its web interface for
+      training, but not when using its APIs. So an obvious workaround is to use the APIs
+      with a wrapper, like the open source Chatbot UI.
+    – Azure OpenAI Service. Fine-tune custom AI models with your company data and
+      hyperparameters.
+    – MosaicML. Train large AI models with your company data in a secure environment.
+      Point to an AWS S3 bucket, and that’s it!
+    – Glean. AI-powered workplace search across the company’s apps, powered by deep
+      learning-based large language models (LLM.)
+    – Aleph Alpha. A company emphasizing that it’s a European AI technology company,
+      which has open sourced its code codebase and doesn’t use customer data to train
+      models.
+    – Cohere. A set of LLMs to generate text, summarize it, classify and retrieve it.
+    – Writer. A generative AI platform that trains on the company’s data.
+    #+end_quote
+
 ** For learning
 - 2023-05-03 ◦ [[https://www.scotthyoung.com/blog/2023/05/02/chatgpt-learning-tips/][10 Ways You Can Use ChatGPT to Learn Better - Scott H Young]]
 ** How does it work

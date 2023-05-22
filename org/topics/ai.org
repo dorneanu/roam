@@ -70,6 +70,7 @@
   One of the most powerful and versatile tools currently available for reading
   journal articles. You can ask your reading Copilot to explain difficult passages.
 
+
 ** For taking notes
 
 - [[https://www.lateral.io/][Lateral]]
@@ -105,3 +106,12 @@
 - [[https://www.searchsmart.org/?~()][Search Smart]]
 
   A search engine to help you find the most suitable database for your research
+** For productivity
+
+- [[https://www.anthropic.com/product][Anthropic / Claude]]
+
+  #+begin_quote
+  Claude can be a delightful company representative, a research assistant, a
+  creative partner, a task automator, and more. Personality, tone, and behavior
+  can all be customized to your needs
+  #+end_quote

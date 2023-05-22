@@ -5,6 +5,8 @@ draft = false
 
 ## Articles {#articles}
 
+-   2023-05-15 ◦ [Serverless, a CTO’s Perspective - DEV Community](https://dev.to/aws-builders/serverless-a-ctos-perspective-3hpc)
+-   2023-05-11 ◦ [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 -   2023-03-16 ◦ [Serverless Land](https://serverlessland.com/)
 
     > This site brings together the latest information, blogs, videos, code, and
