@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ae9e9770-76a0-4dd2-ab84-9826188960e4
+:END:
+#+TITLE: 2023-05-22
+#+DATE: 2023-05-22
+#+FILETAGS: journal
+
+- 2023-05-22 ◦ [[https://pkolaczk.github.io/memory-consumption-of-async/][How Much Memory Do You Need to Run 1 Million Concurrent Tasks? | Piotr Kołaczkowski]] ([[id:b2831721-165d-4943-a41a-da770d96be41][Golang]], [[id:cdf2a03e-f080-4e6f-8636-7c0f582d91fc][Rust]])

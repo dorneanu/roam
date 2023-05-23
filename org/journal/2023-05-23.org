@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       20b5b714-aa24-46a2-bbee-6e43dd0e3357
+:END:
+#+TITLE: 2023-05-23
+#+DATE: 2023-05-23
+#+FILETAGS: journal
+
+- 2023-05-23 ◦ [[https://buddhistuniversity.net/][The Open Buddhist University @ A website dedicated to providing free, online courses and bibliographies in Buddhist Studies.]]
+- 2023-05-23 ◦ [[https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/][I’ve been employed in tech for years, but I’ve almost never worked – Emmanuel Maggiori]]
+  #+begin_quote
+  I soon realized that the project was overstaffed and most people were
+  pretending to work. And I also realized that was the job I was hired to do; my
+  job was to pretend. If this had been the only time this ever happened to me, I
+  would consider it an anomaly. Unfortunately, this has been the case with almost
+  every tech job I’ve had for years
+  #+end_quote
+
+  #+begin_quote
+  The principles behind agile software development are commendable and much more
+  suitable for the job than old-school ideas. So, many organizations have strived
+  to “be agile.” However, they’ve done so by adopting agile “recipes,” which are
+  step-by-step guidelines that are supposed to make a team agile. The most famous
+  one is scrum. The adoption of a recipe results in a box-ticking exercise that
+  makes companies believe they become agile just by strictly abiding by a set of
+  inflexible rules. The effect is the opposite.
+  #+end_quote
+
+  #+begin_quote
+  Questioning the agile recipe is seen as heresy. For example, I once suggested
+  that I wasn’t sure all the recurring meetings to catch up were the best use of
+  our time. I was told, “Well, in this company we enjoy teamwork. Don’t you?”
+  #+end_quote
+
+  #+begin_quote
+  they’d blindly created the team and started the development of the product
+  because it seemed trendy. When I inquired further, an upper manager told me, “We
+  have decided not to speak with users; we will first build the product we think
+  is right for them and see what they think.” He called it a “fail fast approach,”
+  but I thought it was a “fail for sure” approach. Imagine the level of motivation
+  and productivity in this team.
+  #+end_quote

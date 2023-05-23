@@ -6,6 +6,27 @@ draft = false
 ## Articles {#articles}
 
 -   2023-05-15 ◦ [Serverless, a CTO’s Perspective - DEV Community](https://dev.to/aws-builders/serverless-a-ctos-perspective-3hpc)
+
+    > As many others have stated, it's not the absence of servers that makes it
+    > serverless, it's the place in your problem-solving and deployment that makes it
+    > so.
+
+    <!--quoteend-->
+
+    > So why would a CTO choose serverless from a people perspective? For me it's
+    > simple. With serverless I spend less time running infrastructure and more time
+    > building application
+
+    <!--quoteend-->
+
+    > I tend to book serverless components in two categories. I have the bedrock
+    > components that I know I won't need to outgrow such as SQS, DyanmoDB and
+    > EventBridge. And then I have the components that get me going the quickest and
+    > will last a long time but might be replaced. Step Functions and Lambdas fall
+    > into the this category. I've not reached a scale that requires this in a few
+    > places but the upgrade path is easy enough. I lean into Fargate on ECS which
+    > gives me plenty of horizontal scale to deal with load that might be more
+    > consistent.
 -   2023-05-11 ◦ [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 -   2023-03-16 ◦ [Serverless Land](https://serverlessland.com/)
 
