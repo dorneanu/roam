@@ -8,7 +8,221 @@ draft = false
 Why Something We Never Evolved to Do Is Healthy and Rewarding
 
 
-## Notes {#notes}
+## On squatting {#on-squatting}
+
+
+### 69 {#69}
+
+> Aside from causing me humiliation, my lack of stamina while squatting, not to
+> mention sitting on a sled, highlights how addicted I am to chairs, especially
+> those with backrests. **Whenever I sit on the ground or use a stool without a
+> backrest, muscles in my back and abdomen must do a little work to hold up my
+> torso, and when I squat, muscles in my legs, especially my calves, are also
+> sometimes active**. To be sure, the muscular effort isn’t great: squatting and
+> standing use about the same degree of muscle activity.14 But over long periods
+> of time those muscles require and develop endurance.
+
+
+### 82 {#82}
+
+> As we have already discussed, a likely explanation is that **short bouts of
+> activity wake up our muscles and thus keep down levels of blood sugar and fat**.
+> When we squat, periodically stand, or do light activities like pick up a child
+> or sweep the floor, **we contract muscles throughout the body, setting in motion
+> their cellular machinery**. Like turning on a car engine without driving anywhere,
+> these light activities stimulate muscle cells to consume energy, turn on and off
+> genes, and perform other functions.
+
+
+### 68 {#68}
+
+> If you are like me, you rarely squat, but that avoidance is a modern Western
+> peculiarity. Because squatting creates tiny smoothed regions on ankle bones
+> known as squatting facets, we can see that humans for millions of years,
+> including Homo erectus and Neanderthals, regularly squatted.12 Squatting facets
+> also indicate that many Europeans squatted habitually until furniture and stoves
+> became common after the Middle Ages.
+
+
+## On sitting {#on-sitting}
+
+
+### 74 {#74}
+
+3 major health concerns related to sitting:
+
+> There are three major, related health concerns about long periods of
+> uninterrupted sitting:
+>
+> -   The first is what we are otherwise not doing. Every hour spent resting
+>     comfortably in a chair is an hour not spent exercising or actively doing
+>     things
+> -   The second concern is that long periods of uninterrupted inactivity harmfully
+>     elevate levels of sugar and fat in the bloodstream.
+> -   Third and most alarmingly, hours of sitting may trigger our immune systems to
+>     **attack our bodies through a process known as inflammation**.
+>
+> Don’t panic, but as you sit comfortably reading this, your body may be on fire.
+
+
+### 78 {#78}
+
+Link between sitting and inflammation:
+
+> No one is claiming that sitting itself caused these Danish guys to gain weight:
+> it was the combination of physical inactivity plus excess calories that caused
+> them to stockpile excess organ fat, which in turn lit the smoldering fire of
+> chronic inflammation. In addition, these volunteers added mostly organ fat,
+> which suggests they were stressed, and there are plenty of physically inactive
+> people who are not overweight but suffer from inflammation. So what else about
+> **sitting** might promote **chronic inflammation**?
+
+
+### 78 {#78}
+
+> A second way lengthy periods of sitting may incite widespread, low-grade
+> inflammation is by slowing the rate we take up fats and sugars from the
+> bloodstream. When was the last time you had a meal? If it was within the last
+> four or so hours, you are in a **postprandial state**, which means your body is
+> still digesting that food and transporting its constituent fats and sugars into
+> your blood. Whatever fat and sugar you don’t use now will eventually get stored
+> as fat, but **if you are moving, even moderately, your body’s cells burn these
+> fuels more rapidly**. Light, **intermittent activities such as taking short breaks
+> from sitting and perhaps even the muscular effort it takes to squat or kneel
+> reduce levels of fat and sugar in your blood** more than if you sit inertly and
+> passively for long.
+
+
+### 84 {#84}
+
+Is sitting the new smoking:
+
+> More truthfully, the problem isn’t sitting itself, but **hours upon hours of
+> inactive sitting combined with little to no exercise**. If our ancestors from
+> generations ago behaved like today’s hunter-gatherers and farmers, then they
+> likely sat for five to ten hours a day, as much as some but not all contemporary
+> Americans and Europeans.58 But they also got plenty of physical activity when
+> not sitting, and when these chairless ancestors plunked themselves down, **they
+> didn’t rest in supportive chairs with seat backs**; instead, **they squirmed as they
+> squatted, kneeled, or sat on the ground, using about the same degree of muscle
+> activity in their thighs, calves, and backs as when they stood**.
+
+
+### 85 {#85}
+
+On the history of chairs:
+
+> How often have you been admonished to stop slouching and sit up straight? This
+> old chestnut dates back to the late-nineteenth-century German orthopedic surgeon
+> **Franz Staffel**. As the Industrial Revolution caused **more people to work long
+> hours in chairs, Staffel worried these sitters were ruining their posture by
+> sliding their buttocks forward and straightening their lower backs**. Alarmed,
+> **Staffel opined that a person’s spine should maintain the same characteristic
+> double-S curve when sitting as when standing normally**, and he advocated chairs
+> with lower back supports to force us to sit upright (like the second fellow from
+> the right in figure 5). Decades later, Staffel’s opinions were backed up by the
+> Swedish ergonomics pioneer **Bengt Åkerblom** and his students, who X-rayed people
+> in chairs while measuring their muscle activity. As a result, most Westerners,
+> including a majority of health-care professionals, think we can avoid back pain
+> by sitting with a curved lower back and an unrounded upper back.
+
+
+### 85 {#85}
+
+> **Scientific evidence discredits this modern cultural norm. A big clue is that
+> while chairs with backrests do facilitate slouching, chairless people worldwide
+> also commonly adopt comfortable postures that straighten the lower back and
+> round the upper back**, as evident in figure 5.66 Many biomechanical arguments
+> against slouching have also been disproved.
+
+
+### 67 {#67}
+
+-   add image
+
+> FIGURE 5 The spine and pelvis during standing and sitting. Compared with the
+> chimpanzee (left), the human lower spine (the lumbar region) has a curvature (a
+> lordosis) that positions our center of mass (circle) above our hips when we
+> stand. **When we squat on the ground (the way people often sat for millions of
+> years) or slouch when sitting in a chair with a backrest, we tend to rotate the
+> pelvis backward and flatten the lower spine, reducing this lordosis**. (Note that
+> I have shown just a few of the many postures people adopt when sitting.)
+
+
+## Cytokine {#cytokine}
+
+
+### 75 {#75}
+
+On cytokine and inflammations:
+
+> The answer has recently become apparent thanks to new technologies that
+> accurately measure minuscule quantities of the more than one thousand tiny
+> proteins that cells pump into our bloodstreams. Several dozens of these
+> proteins, termed **cytokines** (from the Greek cyto for “cell” and kine for
+> “movement”), regulate inflammation.
+>
+> As scientists started to study when and how **cytokines turn inflammation on** and
+> off, they discovered that some of the same cytokines that ignite short-lived,
+> intense, and local inflammatory responses following an infection also **stimulate
+> lasting, barely detectable levels of inflammation throughout the body**.
+>
+> Instead of blazing acutely in one spot for a few days or weeks, as when we fight
+> a cold, inflammation can smolder imperceptibly in many parts of the body for
+> months or years. In a way, chronic, **low-grade inflammation is like having a
+> never-ending cold so mild you never notice its existence**. But the inflammation
+> is nonetheless there, and mounting evidence indicates that this slow burn
+> steadily and surreptitiously **damages tissues in our arteries, muscles, liver,
+> brain, and other organs**.
+
+
+### 77 {#77}
+
+> So when organ fat cells swell, they ooze into the bloodstream a great many
+> proteins (cytokines) that incite inflammation. Telltale signs of excess organ
+> fat are a paunch or an apple-shaped body. Disconcertingly, it is also possible
+> to be “skinny fat” with significant deposits of organ fat in and around one’s
+> muscles, heart, and liver without necessarily having a potbelly figure.
+
+
+## On sleep {#on-sleep}
+
+
+### 92 {#92}
+
+What happens during sleep:
+
+> Elegant experiments using sensors that peer into the brain of people before,
+> during, and after they have slept (or been deprived of sleep) reveal that these
+> functions often occur during sleep.10 As the day marches on, we **store memories**
+> in a region of the brain called the **hippocampus**, which functions as a **short-term
+> storage center like a USB drive**. Then, **during NREM sleep**, the **brain triages**
+> these memories, rejecting the innumerable useless ones (like what color socks
+> the man sitting next to me on the subway wore) and **sending the important ones to
+> long-term storage centers near the surface of the brain**. The brain apparently
+> also tags and sorts memories, identifying and strengthening ones we may need.
+> And, fantastically, the **brain** may also **analyze certain memories during REM
+> sleep, integrating them and looking for patterns**. Critically, however, the brain
+> has limited abilities to multitask and cannot perform these cleaning,
+> organizing, and analytical functions as effectively when we are awake and alert.
+
+
+### 93 {#93}
+
+An even more vital function of sleep for the brain is janitorial. The zillions of chemical reactions that make life possible inevitably create waste products known as metabolites, some highly reactive and damaging.12 Because the power-hungry brain uses one-fifth of the body’s calories, it generates abundant and highly concentrated metabolites. Some of these garbagy molecules such as beta-amyloid clog up neurons.13 Others such as adenosine make us sleepy as they accumulate (and are counteracted by caffeine).
+
+the brain ad its waste
+
+
+### 93 {#93}
+
+> For every hour spent awake storing memories and amassing waste, we need
+> approximately fifteen minutes asleep to process those memories and clean up.
+
+quote
+
+
+## About exercise in general {#about-exercise-in-general}
 
 
 ### 14 - Termini {#14-termini}
@@ -30,9 +244,9 @@ Why Something We Never Evolved to Do Is Healthy and Rewarding
 ### 15 {#15}
 
 > Exercise is big business. Walking, jogging, and many other forms of exercise are
-> inherently free, but giant multinational companies entice us to spend lots of
+> inherently free, but giant **multinational companies entice us to spend lots of
 > money to work out in special clothes, with special equipment, and in special
-> places like fitness clubs. We also pay money to watch other people exercise, and
+> places like fitness clubs**. We also pay money to watch other people exercise, and
 > a handful of us even pay for the privilege of suffering through marathons,
 > ultramarathons, triathlons, and other extreme, grueling, or potentially
 > dangerous sporting events.
@@ -58,16 +272,9 @@ No consens **how** we should train and for how **long:**
 > impossible to exercise too much and that minimal shoes are best.
 
 
-### 21 {#21}
-
-> The mantra of this book is that **nothing about the biology of exercise makes
-> sense except in the light of evolution, and nothing about exercise as a behavior
-> makes sense except in the light of anthropology**.
-
-
 ### 25 {#25}
 
-On triathlons and obsession about this sport:
+On triathlons and **obsession** about this sport:
 
 > Full triathlons require extreme obsession and money. If you consider airfare,
 > hotel bills, and gear, many Ironmen spend tens of thousands of dollars a year on
@@ -75,6 +282,32 @@ On triathlons and obsession about this sport:
 > survivors, nuns, and retirees, a large percentage are wealthy Type A
 > personalities who apply the same fanatical devotion to exercise they previously
 > dedicated to their careers.
+
+
+### 39 {#39}
+
+> but subsequent dictionaries generally define “\*exercise\*” as a “\*planned,
+> structured physical activity to improve health, fitness, or physical skills\*,”
+> and “\*play\*” as “\*an activity undertaken for no serious practical purpose\*.”
+
+
+## Further resources {#further-resources}
+
+
+### 68 {#68}
+
+> the anthropologist **Gordon Hewes** documented more than a hundred postures that
+> humans from 480 different cultures adopt when they sit without a chair.
+
+
+## Notes {#notes}
+
+
+### 21 {#21}
+
+> The mantra of this book is that **nothing about the biology of exercise makes
+> sense except in the light of evolution, and nothing about exercise as a behavior
+> makes sense except in the light of anthropology**.
 
 
 ### 26 {#26}
@@ -92,7 +325,7 @@ On triathlons and obsession about this sport:
 
 > had traveled to the Sierra to do research on [Tarahumara Native Americans](https://en.wikipedia.org/wiki/Rar%C3%A1muri), famous
 > for their long-distance running. Dozens of anthropologists over the last century
-> have written about the Tarahumara, but in 2009 they gained an extra boost of
+> have written about the **Tarahumara**, but in 2009 they gained an extra boost of
 > worldwide fame from the best seller Born to Run. The book portrays them as a
 > “hidden tribe” of barefoot, ultra-healthy, “superathletes” who routinely run
 > unimaginable distances.
@@ -100,149 +333,87 @@ On triathlons and obsession about this sport:
 
 ### 27 {#27}
 
-Even though Ernesto never trained, and I hadn’t seen any Tarahumara running on their own, I had heard and read numerous accounts about how Tarahumara men and women have their own Ironman-like competitions. In the women’s race, known as ariwete, teams of teenage girls and young women run about twenty-five miles while chasing a cloth hoop. In the men’s race, the rarájipari, teams of men run up to eighty miles while kicking an orange-sized wooden ball. If the Tarahumara think needless exercise is foolish, why do some of them sometimes run insanely long distances like Ironmen? Just as important, how do they accomplish these feats without training?
-
-
-### 39 {#39}
-
-but subsequent dictionaries generally define “exercise” as a “planned, structured physical activity to improve health, fitness, or physical skills,” and “play” as “an activity undertaken for no serious practical purpose.”
+> Even though Ernesto never trained, and I hadn’t seen any Tarahumara running on
+> their own, I had heard and read numerous accounts about how Tarahumara men and
+> women have their own Ironman-like competitions. In the women’s race, known as
+> **ariwete**, teams of teenage girls and young women run about twenty-five miles
+> while chasing a cloth hoop. In the men’s race, the **rarájipari**, teams of men run
+> up to eighty miles while kicking an orange-sized wooden ball. If the Tarahumara
+> think needless exercise is foolish, why do some of them sometimes run insanely
+> long distances like Ironmen? Just as important, how do they accomplish these
+> feats without training?
 
 
 ### 57 {#57}
 
-Or to be more precise, our bodies were selected to spend enough but not too much energy on nonreproductive functions including physical activity.
-
-
-### 67 {#67}
-
-FIGURE 5 The spine and pelvis during standing and sitting. Compared with the chimpanzee (left), the human lower spine (the lumbar region) has a curvature (a lordosis) that positions our center of mass (circle) above our hips when we stand. When we squat on the ground (the way people often sat for millions of years) or slouch when sitting in a chair with a backrest, we tend to rotate the pelvis backward and flatten the lower spine, reducing this lordosis. (Note that I have shown just a few of the many postures people adopt when sitting.)
-
-
-### 68 {#68}
-
-the anthropologist Gordon Hewes documented more than a hundred postures that humans from 480 different cultures adopt when they sit without a chair.
-
-book
-
-
-### 68 {#68}
-
-If you are like me, you rarely squat, but that avoidance is a modern Western peculiarity. Because squatting creates tiny smoothed regions on ankle bones known as squatting facets, we can see that humans for millions of years, including Homo erectus and Neanderthals, regularly squatted.12 Squatting facets also indicate that many Europeans squatted habitually until furniture and stoves became common after the Middle Ages.
-
-
-### 69 {#69}
-
-Aside from causing me humiliation, my lack of stamina while squatting, not to mention sitting on a sled, highlights how addicted I am to chairs, especially those with backrests. Whenever I sit on the ground or use a stool without a backrest, muscles in my back and abdomen must do a little work to hold up my torso, and when I squat, muscles in my legs, especially my calves, are also sometimes active. To be sure, the muscular effort isn’t great: squatting and standing use about the same degree of muscle activity.14 But over long periods of time those muscles require and develop endurance.
-
-squatting
+> Or to be more precise, our bodies were selected to spend enough but not too much
+> energy on **nonreproductive functions including physical activity**.
 
 
 ### 73 {#73}
 
-One critique of these statistics is that they classify activity levels rather coarsely as either sitting or not sitting. Standing isn’t exercise, and sitting isn’t always totally inactive. What if I am playing a violin or making an arrow while sitting? Or standing while listening to a lecture? A solution to this problem is to classify activity levels based on percentage of maximum heart rate. By convention, your heart rate during sedentary activities is between its resting level and 40 percent of maximum; light activities such as cooking and slow walking boost your heart rate to between 40 and 54 percent of maximum; moderate activities like rapid walking, yoga, and working in the garden speed your heart rate to 55 to 69 percent of maximum; vigorous activities such as running, jumping jacks, and climbing a mountain demand heart rates of 70 percent or higher.
-
-
-### 74 {#74}
-
-There are three major, related health concerns about long periods of uninterrupted sitting. The first is what we are otherwise not doing. Every hour spent resting comfortably in a chair is an hour not spent exercising or actively doing things. The second concern is that long periods of uninterrupted inactivity harmfully elevate levels of sugar and fat in the bloodstream. Third and most alarmingly, hours of sitting may trigger our immune systems to attack our bodies through a process known as inflammation. Don’t panic, but as you sit comfortably reading this, your body may be on fire.
-
-
-### 75 {#75}
-
-The answer has recently become apparent thanks to new technologies that accurately measure minuscule quantities of the more than one thousand tiny proteins that cells pump into our bloodstreams. Several dozens of these proteins, termed cytokines (from the Greek cyto for “cell” and kine for “movement”), regulate inflammation. As scientists started to study when and how cytokines turn inflammation on and off, they discovered that some of the same cytokines that ignite short-lived, intense, and local inflammatory responses following an infection also stimulate lasting, barely detectable levels of inflammation throughout the body. Instead of blazing acutely in one spot for a few days or weeks, as when we fight a cold, inflammation can smolder imperceptibly in many parts of the body for months or years. In a way, chronic, low-grade inflammation is like having a never-ending cold so mild you never notice its existence. But the inflammation is nonetheless there, and mounting evidence indicates that this slow burn steadily and surreptitiously damages tissues in our arteries, muscles, liver, brain, and other organs.
-The discovery
-
-cytokine
-
-
-### 76 {#76}
-
-The other major type of fat is cached in cells in and around our bellies and other organs including the heart, liver, and muscles. There are many terms for this fat including “visceral,” “abdominal,” “belly,” and “ectopic,” but I will use the term “organ fat.” Organ fat cells are dynamic participants in metabolism and, when activated, can quickly dump fat into the bloodstream. Organ fat in moderate quantities (about 1 percent of total body weight) is thus normal and beneficial as a short-term energy depot for times when we need rapid access to a lot of calories such as when we walk or jog a long distance.
-
-fat organic
+> One critique of these statistics is that they classify activity levels rather
+> coarsely as either sitting or not sitting. Standing isn’t exercise, and sitting
+> isn’t always totally inactive. What if I am playing a violin or making an arrow
+> while sitting? Or standing while listening to a lecture? A solution to this
+> problem is to **classify activity levels based on percentage of maximum heart
+> rate**. By convention, your heart rate during sedentary activities is between its
+> resting level and 40 percent of maximum; light activities such as cooking and
+> slow walking boost your heart rate to between 40 and 54 percent of maximum;
+> moderate activities like rapid walking, yoga, and working in the garden speed
+> your heart rate to 55 to 69 percent of maximum; vigorous activities such as
+> running, jumping jacks, and climbing a mountain demand heart rates of 70 percent
+> or higher.
 
 
 ### 76 {#76}
 
-In healthy, normal human adults, including hunter-gatherers, fat constitutes about 10 to 25 percent of body weight in men and about 15 to 30 percent in women. The majority of that fat (about 90 to 95 percent) is subcutaneous, so named because it is stored in billions of cells distributed in buttocks, breasts, cheeks, feet, and other nameless places just below the skin.34 These fat-filled cells are efficient storehouses of energy that help us cope with long-term shortages of calories (as we saw from the Minnesota Starvation Experiment). Subcutaneous fat cells have other functions too, especially as glands that produce hormones regulating appetite and reproduction.
+About fat in the organs:
 
-fat subcutaneos
+> The other major type of fat is cached in cells in and around our bellies and
+> other organs including the heart, liver, and muscles. There are many terms for
+> this fat including “\*visceral\*,” “\*abdominal\*,” “\*belly\*,” and “\*ectopic\*,” but I will
+> use the term “\*organ fat\*.” Organ fat cells are dynamic participants in metabolism
+> and, when activated, can quickly **dump fat into the bloodstream**. Organ fat in
+> moderate quantities (about 1 percent of total body weight) is thus normal and
+> beneficial as a short-term energy depot for times when we need rapid access to a
+> lot of calories such as when we walk or jog a long distance.
+
+
+### 76 {#76}
+
+About fat subcutaneos:
+
+> In healthy, normal human adults, including hunter-gatherers, fat constitutes
+> about 10 to 25 percent of body weight in men and about 15 to 30 percent in
+> women. The majority of that fat (about 90 to 95 percent) is **subcutaneous**, so
+> named because it is stored in billions of cells distributed in buttocks,
+> breasts, cheeks, feet, and other nameless places just below the skin.
+>
+> These fat-filled cells are efficient **storehouses of energy that help us cope
+> with long-term shortages of calories** (as we saw from the Minnesota Starvation
+> Experiment). Subcutaneous fat cells have other functions too, especially as
+> glands that produce **hormones regulating appetite and reproduction**.
 
 
 ### 77 {#77}
 
-By merely engaging in low-intensity, “non-exercise” physical activities for five hours a day, I could spend as much energy as if I ran for an hour.
+Burn more calories by doing nonphysical activities:
 
-burn more calories by doing nonphysical activities
-
-
-### 77 {#77}
-
-So when organ fat cells swell, they ooze into the bloodstream a great many proteins (cytokines) that incite inflammation. Telltale signs of excess organ fat are a paunch or an apple-shaped body. Disconcertingly, it is also possible to be “skinny fat” with significant deposits of organ fat in and around one’s muscles, heart, and liver without necessarily having a potbelly figure.
-
-link cytokine
-
-
-### 78 {#78}
-
-No one is claiming that sitting itself caused these Danish guys to gain weight: it was the combination of physical inactivity plus excess calories that caused them to stockpile excess organ fat, which in turn lit the smoldering fire of chronic inflammation. In addition, these volunteers added mostly organ fat, which suggests they were stressed, and there are plenty of physically inactive people who are not overweight but suffer from inflammation. So what else about sitting might promote chronic inflammation?
-
-link between sitting and inflammation
-
-
-### 78 {#78}
-
-A second way lengthy periods of sitting may incite widespread, low-grade inflammation is by slowing the rate we take up fats and sugars from the bloodstream. When was the last time you had a meal? If it was within the last four or so hours, you are in a postprandial state, which means your body is still digesting that food and transporting its constituent fats and sugars into your blood. Whatever fat and sugar you don’t use now will eventually get stored as fat, but if you are moving, even moderately, your body’s cells burn these fuels more rapidly. Light, intermittent activities such as taking short breaks from sitting and perhaps even the muscular effort it takes to squat or kneel reduce levels of fat and sugar in your blood more than if you sit inertly and passively for long.
+> By merely engaging in low-intensity, “non-exercise” physical activities for five
+> hours a day, I could spend as much energy as if I ran for an hour.
 
 
 ### 79 {#79}
 
-Cortisol shunts sugar and fats into the bloodstream, it makes us crave sugar-rich and fat-rich foods, and it directs us to store organ fat rather than subcutaneous fat. Short bursts of cortisol are natural and normal, but chronic low levels of cortisol are damaging because they promote obesity and chronic inflammation. Consequently, long hours of stressful sitting while commuting or a high-pressure office job can be a double whammy.
+Cortisol and sugar absorption:
 
-cortisol inflammation organic fat
-
-
-### 82 {#82}
-
-As we have already discussed, a likely explanation is that short bouts of activity wake up our muscles and thus keep down levels of blood sugar and fat. When we squat, periodically stand, or do light activities like pick up a child or sweep the floor, we contract muscles throughout the body, setting in motion their cellular machinery. Like turning on a car engine without driving anywhere, these light activities stimulate muscle cells to consume energy, turn on and off genes, and perform other functions.
-
-
-### 84 {#84}
-
-More truthfully, the problem isn’t sitting itself, but hours upon hours of inactive sitting combined with little to no exercise. If our ancestors from generations ago behaved like today’s hunter-gatherers and farmers, then they likely sat for five to ten hours a day, as much as some but not all contemporary Americans and Europeans.58 But they also got plenty of physical activity when not sitting, and when these chairless ancestors plunked themselves down, they didn’t rest in supportive chairs with seat backs; instead, they squirmed as they squatted, kneeled, or sat on the ground, using about the same degree of muscle activity in their thighs, calves, and backs as when they stood.
-
-is sitting the new smoking
-
-
-### 85 {#85}
-
-How often have you been admonished to stop slouching and sit up straight? This old chestnut dates back to the late-nineteenth-century German orthopedic surgeon Franz Staffel.63 As the Industrial Revolution caused more people to work long hours in chairs, Staffel worried these sitters were ruining their posture by sliding their buttocks forward and straightening their lower backs. Alarmed, Staffel opined that a person’s spine should maintain the same characteristic double-S curve when sitting as when standing normally, and he advocated chairs with lower back supports to force us to sit upright (like the second fellow from the right in figure 5). Decades later, Staffel’s opinions were backed up by the Swedish ergonomics pioneer Bengt Åkerblom and his students, who X-rayed people in chairs while measuring their muscle activity.64 As a result, most Westerners, including a majority of health-care professionals, think we can avoid back pain by sitting with a curved lower back and an unrounded upper back.
-
-
-### 85 {#85}
-
-Scientific evidence discredits this modern cultural norm. A big clue is that while chairs with backrests do facilitate slouching, chairless people worldwide also commonly adopt comfortable postures that straighten the lower back and round the upper back, as evident in figure 5.66 Many biomechanical arguments against slouching have also been disproved.
-
-
-### 92 {#92}
-
-Elegant experiments using sensors that peer into the brain of people before, during, and after they have slept (or been deprived of sleep) reveal that these functions often occur during sleep.10 As the day marches on, we store memories in a region of the brain called the hippocampus, which functions as a short-term storage center like a USB drive. Then, during NREM sleep, the brain triages these memories, rejecting the innumerable useless ones (like what color socks the man sitting next to me on the subway wore) and sending the important ones to long-term storage centers near the surface of the brain. The brain apparently also tags and sorts memories, identifying and strengthening ones we may need. And, fantastically, the brain may also analyze certain memories during REM sleep, integrating them and looking for patterns. Critically, however, the brain has limited abilities to multitask and cannot perform these cleaning, organizing, and analytical functions as effectively when we are awake and alert.
-
-what happens during sleep
-
-
-### 93 {#93}
-
-An even more vital function of sleep for the brain is janitorial. The zillions of chemical reactions that make life possible inevitably create waste products known as metabolites, some highly reactive and damaging.12 Because the power-hungry brain uses one-fifth of the body’s calories, it generates abundant and highly concentrated metabolites. Some of these garbagy molecules such as beta-amyloid clog up neurons.13 Others such as adenosine make us sleepy as they accumulate (and are counteracted by caffeine).
-
-the brain ad its waste
-
-
-### 93 {#93}
-
-For every hour spent awake storing memories and amassing waste, we need approximately fifteen minutes asleep to process those memories and clean up.
-
-quote
+> Cortisol shunts sugar and fats into the bloodstream, it makes us crave
+> sugar-rich and fat-rich foods, and it directs us to store organ fat rather than
+> subcutaneous fat. Short bursts of cortisol are natural and normal, but **chronic
+> low levels of cortisol are damaging because they promote obesity and chronic
+> inflammation**. Consequently, long hours of stressful sitting while commuting or
+> a high-pressure office job can be a double whammy.
 
 
 ### 93 {#93}
