@@ -6,7 +6,7 @@
 #+origin: [[<<. bibliography "The Oxygen Advantage" >> ]]
 #+revision: 0
 #+tags: Definition
-#+title: V̇O2 Max
+#+title: VO2 Max
 #+type: text/vnd.tiddlywiki
 
 - maximal oxygen uptake

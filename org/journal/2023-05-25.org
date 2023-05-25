@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       6f23c7fc-1dd3-4d22-8fd9-f739ae4ab05d
+:END:
+#+TITLE: 2023-05-25
+#+DATE: 2023-05-25
+#+FILETAGS: journal
+
+- 2023-05-25 ◦ [[https://github.com/DefGuard/defguard][GitHub - DefGuard/defguard: security army knife (Identity OpenID privider, Wireguard VPN, MFA, Web3, ...)]]
+  - the [[https://teonite.com/blog/defguard/][story behind]]
+  #+begin_quote
+  Features:
+
+  - OpenID Connect provider (with OpenLDAP synchronization)
+  - Wireguard VPN management with:
+  - import your current configuration (with a wizzard!)
+  - easy device setup by users themselves
+  - dashboard and statistics overview of connected users/devices for admins
+  - Multi-Factor Authentication:
+  - Time-based One-Time Password Algorithm (TOTP - e.g. Google Authenticator)
+  - WebAuthn / FIDO2 - for hardware key authentication support (eg. YubiKey, FaceID, TouchID, ...)
+  - Web3 - authentication with crypto software and hardware wallets using Metamask, Wallet Connect, Ledger Extension
+  - Yubikey hardware keys provisioning for users by one click
+  - Webhooks & REST API
+  - Web3 wallet validation
+  - Build with Rust for portability, security, and speed
+  - Fronted in TypeScript with:
+  - a set of components for layout
+  - Responsive Web Design (supporting mobile phones, tablets, etc..)
+  - iOS Web App
+  - Checked by professional security researchers (see comprehensive security report)
+  - End2End tests
+  #+end_quote

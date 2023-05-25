@@ -1,5 +1,5 @@
 +++
-title = "V̇O2 Max"
+title = "VO2 Max"
 draft = false
 +++
 

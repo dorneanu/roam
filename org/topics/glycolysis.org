@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c423cfb2-2df1-4707-8622-25521d079e1b
+:END:
+#+title: Glycolysis
+
+Glycolysis is the metabolic process that converts [[id:584c7d4c-2d0d-43c0-8283-11c74bbf1a52][glucose]] into pyruvate,
+producing ATP and NADH in the process. It is the first stage in cellular
+respiration and occurs in the cytoplasm of all living cells. Glycolysis involves
+a series of enzymatic reactions that *break down glucose into two molecules of
+pyruvate*. The energy released during glycolysis is used to produce [[id:e1c41649-3a85-4b2b-9088-53bde6712856][ATP]], which is
+the primary source of energy for cellular processes. Glycolysis does not require
+oxygen, making it an [[id:b1e8d890-e854-4785-88db-279de102b3e7][anaerobic]] process, but it is a precursor to [[id:756361a3-a8ea-4f1b-814c-8cc8b031d530][aerobic]]
+respiration, which does require oxygen.
