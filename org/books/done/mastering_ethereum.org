@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4efd4166-fc47-4de1-8644-63af618930a5
+:END:
+#+title: Mastering Ethereum
+#+filetags: book
+#+date: 2023-05-30
+
+- Github repo: https://github.com/ethereumbook/ethereumbook
+- Goodreads: https://www.goodreads.com/en/book/show/33584554
