@@ -207,10 +207,18 @@ organizing, and analytical functions as effectively when we are awake and alert.
 #+end_quote
 
 ** 93                                                                          :sleep:
+The brain and its waste:
 
-An even more vital function of sleep for the brain is janitorial. The zillions of chemical reactions that make life possible inevitably create waste products known as metabolites, some highly reactive and damaging.12 Because the power-hungry brain uses one-fifth of the body’s calories, it generates abundant and highly concentrated metabolites. Some of these garbagy molecules such as beta-amyloid clog up neurons.13 Others such as adenosine make us sleepy as they accumulate (and are counteracted by caffeine).
+#+begin_quote
+An even more *vital function of sleep for the brain is janitorial*. The zillions
+of chemical reactions that make life possible inevitably create *waste products
+known as metabolites*, some highly reactive and damaging. Because the
+power-hungry brain uses one-fifth of the body’s calories, it generates abundant
+and highly concentrated metabolites. *Some of these garbagy molecules such as
+beta-amyloid clog up neurons*. Others such as *adenosine make us sleepy as they
+accumulate* (and are counteracted by caffeine).
+#+end_quote
 
-the brain ad its waste
 
 ** 93                                                                          :quote:
 
@@ -220,6 +228,91 @@ approximately fifteen minutes asleep to process those memories and clean up.
 #+end_quote
 
 quote
+
+** 93                                                                          :sleep:
+
+The brains cleaning process:
+
+#+begin_quote
+During NREM sleep, specialized cells throughout the brain expand the spaces
+between neurons by as much as 60 percent, allowing *cerebrospinal fluid that
+bathes the brain to literally flush away this junk*. These opened spaces also
+*admit enzymes that repair damaged cells and rejuvenate receptors in the brain
+for neurotransmitters*. The only catch, however, is that the brain’s
+interstitial pathways are like single-lane bridges that let cars pass in only
+one direction at a time. *Apparently, we cannot think while cleansing our brains*.
+We thus must sleep to flush out the cobwebs left behind by the day’s
+experiences.
+#+end_quote
+
+** 96                                                                          :sleep:
+
+#+begin_quote
+How much are my sleep patterns contaminated by alarm clocks, lights,
+smartphones, and other enemies of sleep such as jobs, train schedules, and the
+nightly news? Fortunately, researchers have woken up to these problems, and new
+technologies have made possible a surge of high-quality data on sleep in
+nonindustrial populations. The most electrifying study by far was by the UCLA
+*sleep researcher Jerome Siegel* and his colleagues, who affixed wearable sensors
+to ten Hadza hunter-gatherers from Tanzania, thirty San forager-farmers from the
+Kalahari Desert, and fifty-four hunter-farmers from the Amazon rain forest in
+Bolivia. None of these populations have electric lights, let alone clocks or
+internet access. Yet to Siegel’s astonishment, *they slept less than
+industrialized people did*. *In warmer months, these foragers slept on average 5.7
+to 6.5 hours a day, and during colder months they slept on average 6.6 to 7.1
+hours a night*. In addition, they rarely napped. Studies that monitored Amish
+farmers who shun electricity as well as other nonindustrial populations such as
+rural Haitians and subsistence farmers in Madagascar report similar average
+sleep durations, about 6.5 to 7.0 hours a day.
+#+end_quote
+
+** 104                                                                         :sleep:
+What regulates sleep:
+
+#+begin_quote
+For this reason, our sleep-wake states are modulated by a second system that is
+tightly linked to activity levels. This *homeostatic system functions like an
+hourglass that counts how long we’ve been awake, slowly building up pressure for
+us to sleep*. The longer we stay awake, the more sleep pressure we accrue from
+the accumulation of molecules such as adenosine left behind when the brain
+expends energy. *Then by sleeping, we reset the hourglass*, primarily through NREM
+sleep. Overall, the homeostatic system helps balance the time we spend awake
+versus asleep, and if we are up too long, it will eventually override our
+circadian systems and help us recover lost sleeping time.
+#+end_quote
+
+** 105                                                                         :sleep:
+
+#+begin_quote
+The effects of the fight-and-flight response (technically, the [[id:ed52081e-fe6f-46fd-b0c5-59f61f2a849b][Sympathetic
+Nervous System]] ) on sleep explain how and why exercise has such important,
+well-known effects on sleep. If you run a mile at top speed or lift heavy
+weights just before going to bed, you’ll probably have a hard time falling
+asleep because *vigorous physical activity turns on this system, stimulating
+arousal*. *In contrast, a good dose of physical activity earlier in the day like a
+game of soccer, an hour or two of gardening, or a long walk helps sleep come
+more easily*. These activities *increase sleep pressure*, and they stimulate the
+body to counter the initial fight-and-flight response with a deeper “rest and
+digest” response (technically the parasympathetic nervous system). Among other
+benefits, recovery from exercise gradually lowers basal cortisol and epinephrine
+levels, depresses body temperature, and even helps re-sync the circadian
+clock.
+#+end_quote
+
+** 106                                                                         :sleep:
+Link between insomnia and physical activity:
+
+#+begin_quote
+Insomnia, which is a long-term condition and not a night or two of poor sleep in
+response to an emergency, is especially cruel because it often triggers a
+vicious cycle. If underlying chronic stress from too much time commuting, social
+conflicts, or endlessly tough homework assignments elevates stress hormones like
+cortisol above normal levels, we become more alert at night when we’d otherwise
+become drowsy, or we wake up after one or two NREM and REM cycles.Then as we
+become *chronically sleep deprived, we produce more cortisol*, especially at
+night, which can then inhibit sleep, keeping the problem going and promoting
+insomnia.
+#+end_quote
 
 * About exercise in general
 ** 14 - Termini
@@ -291,6 +384,16 @@ dedicated to their careers.
 but subsequent dictionaries generally define “*exercise*” as a “*planned,
 structured physical activity to improve health, fitness, or physical skills*,”
 and “*play*” as “*an activity undertaken for no serious practical purpose*.”
+#+end_quote
+
+** 175
+
+#+begin_quote
+To quote Rousseau: “Do you, then, want to cultivate your pupil’s intelligence?
+Cultivate the strengths it ought to govern. Exercise his body continually; make
+him robust and healthy in order to make him wise and reasonable. Let him work,
+be active, run, yell, and always be in motion. Let him be a man in his vigor,
+and soon he will be one in his reason.
 #+end_quote
 
 * Further resources
@@ -371,7 +474,7 @@ running, jumping jacks, and climbing a mountain demand heart rates of 70 percent
 or higher.
 #+end_quote
 
-** 76
+** 76                                                                          :fat:
 
 About fat in the organs:
 
@@ -386,7 +489,7 @@ beneficial as a short-term energy depot for times when we need rapid access to a
 lot of calories such as when we walk or jog a long distance.
 #+end_quote
 
-** 76
+** 76                                                                          :fat:
 
 About fat subcutaneos:
 
@@ -414,7 +517,7 @@ hours a day, I could spend as much energy as if I ran for an hour.
 
 ** 79
 
-Cortisol and sugar absorption:
+Cortisol and [[id:d3b0e1ec-e508-4701-8252-0bbcee64c894][sugar]] absorption:
 
 #+begin_quote
 Cortisol shunts sugar and fats into the bloodstream, it makes us crave
@@ -425,78 +528,95 @@ inflammation*. Consequently, long hours of stressful sitting while commuting or
 a high-pressure office job can be a double whammy.
 #+end_quote
 
-** 93
+** 118                                                                         :energy:
 
-During NREM sleep, specialized cells throughout the brain expand the spaces between neurons by as much as 60 percent, allowing cerebrospinal fluid that bathes the brain to literally flush away this junk.16 These opened spaces also admit enzymes that repair damaged cells and rejuvenate receptors in the brain for neurotransmitters.17 The only catch, however, is that the brain’s interstitial pathways are like single-lane bridges that let cars pass in only one direction at a time. Apparently, we cannot think while cleansing our brains. We thus must sleep to flush out the cobwebs left behind by the day’s experiences.
+About ATP and ADP:
 
-the brains cleaning process
+#+begin_quote
+These ubiquitous miniature batteries, which power all life on earth, are called [[id:e1c41649-3a85-4b2b-9088-53bde6712856][ATP]]s (adenosine triphosphates). As the name implies, each *ATP* consists of a tiny molecule (an *adenosine*) attached to three molecules of phosphate (a phosphorus atom surrounded by oxygen atoms). *These three phosphates are bound to each other in a chain, one on top of the other, storing energy in the chemical bonds between each phosphate*. *When the last of these phosphates is broken off using water, the tiny quantity of energy that binds it to the second phosphate is liberated along with one hydrogen ion (H+)*, leaving behind an *ADP* (*adenosine diphosphate*). This liberated energy powers almost everything done by every cell in the body like firing nerves, making proteins, and contracting muscles. And, critically, *ATPs are rechargeable*. By *breaking down chemical bonds in sugar and fat molecules, cells acquire the energy to restore ADPs to ATPs by adding back the lost phosphate*. The problem is, however, that regardless of whether we are hyenas or humans, *the faster we run, the more our bodies struggle to recharge these ATPs*, thus curtailing our speed after a short while.
+#+end_quote
 
-** 96
+** 119                                                                         :energy:
 
-How much are my sleep patterns contaminated by alarm clocks, lights, smartphones, and other enemies of sleep such as jobs, train schedules, and the nightly news?
-Fortunately, researchers have woken up to these problems, and new technologies have made possible a surge of high-quality data on sleep in nonindustrial populations. The most electrifying study by far was by the UCLA sleep researcher Jerome Siegel and his colleagues, who affixed wearable sensors to ten Hadza hunter-gatherers from Tanzania, thirty San forager-farmers from the Kalahari Desert, and fifty-four hunter-farmers from the Amazon rain forest in Bolivia. None of these populations have electric lights, let alone clocks or internet access. Yet to Siegel’s astonishment, they slept less than industrialized people did. In warmer months, these foragers slept on average 5.7 to 6.5 hours a day, and during colder months they slept on average 6.6 to 7.1 hours a night. In addition, they rarely napped. Studies that monitored Amish farmers who shun electricity as well as other nonindustrial populations such as rural Haitians and subsistence farmers in Madagascar report similar average sleep durations, about 6.5 to 7.0 hours a day.
+#+begin_quote
+But there is a consequential catch: during [[id:c423cfb2-2df1-4707-8622-25521d079e1b][glycolysis]] the leftover halves of
+each sugar, molecules known as pyruvates, accumulate faster than cells can
+handle. As *pyruvates* pile up to intolerable levels, enzymes *convert each
+pyruvate into a molecule called lactate along with a hydrogen ion* (H+). Although
+*lactate is harmless and eventually used to recharge ATPs, those hydrogen ions
+make muscle cells increasingly acidic, causing fatigue, pain, and decreased
+function*. Within about thirty seconds, a sprinter’s legs feel as if they are
+burning. It then takes a lengthy period of time to slowly neutralize the acid
+and shuttle the surplus lactate into the third, final, but long-term  aerobic
+energy process.
+#+end_quote
 
-** 104
+** 119                                                                         :energy:
 
-For this reason, our sleep-wake states are modulated by a second system that is tightly linked to activity levels. This homeostatic system functions like an hourglass that counts how long we’ve been awake, slowly building up pressure for us to sleep. The longer we stay awake, the more sleep pressure we accrue from the accumulation of molecules such as adenosine left behind when the brain expends energy. Then by sleeping, we reset the hourglass, primarily through NREM sleep. Overall, the homeostatic system helps balance the time we spend awake versus asleep, and if we are up too long, it will eventually override our circadian systems and help us recover lost sleeping time.
+#+begin_quote
+[[id:d3b0e1ec-e508-4701-8252-0bbcee64c894][Sugar]] is synonymous with sweetness, but it’s first and foremost a fuel used to
+recharge ATPs through a process termed glycolysis (from glyco for “sugar” and
+lysis for “break down”). During [[id:c423cfb2-2df1-4707-8622-25521d079e1b][glycolysis]], *enzymes swiftly snip sugar molecules
+in half, liberating the energy from those bonds to charge two ATPs*. Restoring
+ATPs from sugar doesn’t require oxygen and is rapid enough to provide almost
+half the energy used during a thirty-second sprint. In fact, a fit human can
+store enough sugar to run nearly fifteen miles.
+#+end_quote
 
-what regulates sleep
+** 121                                                                         :energy:
 
-** 105
+#+begin_quote
+your VO2 max, you need glycolysis to supply additional fuel to your muscles.
+Speeds above this range cannot be sustained, because muscles become acidic.
+Fortunately, your [[id:ffb29bb9-17ce-4aec-8fdb-771bf5b7505e][VO2 max]] has little effect on speed during short bursts of
+maximum intensity, such as a thirty-second sprint, but the longer the distance,
+the more it matters. *For a hundred-meter dash, only 10 percent of your energy
+comes from aerobic respiration, but that percentage increases to 30 percent over
+four hundred meters, 60 percent for eight hundred meters, and 80 percent for a
+mile. The farther you go, the more your maximum speed benefits from a high VO2
+max* (which, as we will see, you can increase by training)
+#+end_quote
 
-The effects of the fight-and-flight response (technically, the sympathetic nervous system) on sleep explain how and why exercise has such important, well-known effects on sleep. If you run a mile at top speed or lift heavy weights just before going to bed, you’ll probably have a hard time falling asleep because vigorous physical activity turns on this system, stimulating arousal. In contrast, a good dose of physical activity earlier in the day like a game of soccer, an hour or two of gardening, or a long walk helps sleep come more easily. These activities increase sleep pressure, and they stimulate the body to counter the initial fight-and-flight response with a deeper “rest and digest” response (technically the parasympathetic nervous system). Among other benefits, recovery from exercise gradually lowers basal cortisol and epinephrine levels, depresses body temperature, and even helps re-sync the circadian clock.54 Although physical activity doesn’t prevent or cure all sleep problems, a multitude of studies demonstrate that
-
-** 106
-
-Insomnia, which is a long-term condition and not a night or two of poor sleep in response to an emergency, is especially cruel because it often triggers a vicious cycle. If underlying chronic stress from too much time commuting, social conflicts, or endlessly tough homework assignments elevates stress hormones like cortisol above normal levels, we become more alert at night when we’d otherwise become drowsy, or we wake up after one or two NREM and REM cycles.60 Then as we become chronically sleep deprived, we produce more cortisol, especially at night, which can then inhibit sleep, keeping the problem going and promoting insomnia.
-
-link insomnia and physical activity
-
-** 118
-
-These ubiquitous miniature batteries, which power all life on earth, are called ATPs (adenosine triphosphates). As the name implies, each ATP consists of a tiny molecule (an adenosine) attached to three molecules of phosphate (a phosphorus atom surrounded by oxygen atoms). These three phosphates are bound to each other in a chain, one on top of the other, storing energy in the chemical bonds between each phosphate. When the last of these phosphates is broken off using water, the tiny quantity of energy that binds it to the second phosphate is liberated along with one hydrogen ion (H+), leaving behind an ADP (adenosine diphosphate). This liberated energy powers almost everything done by every cell in the body like firing nerves, making proteins, and contracting muscles. And, critically, ATPs are rechargeable. By breaking down chemical bonds in sugar and fat molecules, cells acquire the energy to restore ADPs to ATPs by adding back the lost phosphate.14 The problem is, however, that regardless of whether we are hyenas or humans, the faster we run, the more our bodies struggle to recharge these ATPs, thus curtailing our speed after a short while.
-
-atp adp
-
-** 119
-
-But there is a consequential catch: during glycolysis the leftover halves of each sugar, molecules known as pyruvates, accumulate faster than cells can handle. As pyruvates pile up to intolerable levels, enzymes convert each pyruvate into a molecule called lactate along with a hydrogen ion (H+). Although lactate is harmless and eventually used to recharge ATPs, those hydrogen ions make muscle cells increasingly acidic, causing fatigue, pain, and decreased function.21 Within about thirty seconds, a sprinter’s legs feel as if they are burning. It then takes a lengthy period of time to slowly neutralize the acid and shuttle the surplus lactate into the third, final, but long-term aerobic energy process.
-
-link sugar lactate
-
-** 119
-
-Sugar is synonymous with sweetness, but it’s first and foremost a fuel used to recharge ATPs through a process termed glycolysis (from glyco for “sugar” and lysis for “break down”). During glycolysis, enzymes swiftly snip sugar molecules in half, liberating the energy from those bonds to charge two ATPs.19 Restoring ATPs from sugar doesn’t require oxygen and is rapid enough to provide almost half the energy used during a thirty-second sprint.20 In fact, a fit human can store enough sugar to run nearly fifteen miles.
-
-link atp and sugar
-
-** 121
-
-your VO2 max, you need glycolysis to supply additional fuel to your muscles. Speeds above this range cannot be sustained, because muscles become acidic. Fortunately, your VO2 max has little effect on speed during short bursts of maximum intensity, such as a thirty-second sprint, but the longer the distance, the more it matters. For a hundred-meter dash, only 10 percent of your energy comes from aerobic respiration, but that percentage increases to 30 percent over four hundred meters, 60 percent for eight hundred meters, and 80 percent for a mile.23 The farther you go, the more your maximum speed benefits from a high VO2 max (which, as we will see, you can increase by training)
-
-vo2 max
 
 ** 138
 
-Another drawback of being superstrong that mattered in the Stone Age is its caloric cost. Bodybuilders who can lift a cow must also eat as much as a cow. Well, almost. Recall that muscle is an expensive tissue, accounting for about one-third of a typical person’s body mass and one-fifth of her or his energy budget. I need about three hundred calories a day to sustain my unmuscular frame. Beefed-up weight lifters, however, can be more than 40 percent muscle mass, which means they carry as much as twenty added kilograms of costly flesh.17 If I ever decide to bulk up like that, I’ll have to eat two hundred to three hundred more calories a day to pay for my new physique. While obtaining an extra three hundred calories is a trivial task today (accomplished by wolfing down a milk shake), the challenge of foraging daily for those additional calories in the Stone Age would have compromised one’s reproductive success.
+About caloric excess:
 
-** 146
-
-Bookmark
-
-** 175
-
-To quote Rousseau: “Do you, then, want to cultivate your pupil’s intelligence? Cultivate the strengths it ought to govern. Exercise his body continually; make him robust and healthy in order to make him wise and reasonable. Let him work, be active, run, yell, and always be in motion. Let him be a man in his vigor, and soon he will be one in his reason.
+#+begin_quote
+Another drawback of being superstrong that mattered in the Stone Age is its
+caloric cost. *Bodybuilders who can lift a cow must also eat as much as a cow.
+Well, almost*. Recall that muscle is an expensive tissue, accounting for about
+one-third of a typical person’s body mass and one-fifth of her or his energy
+budget. I need about three hundred calories a day to sustain my unmuscular
+frame. Beefed-up weight lifters, however, can be more than 40 percent muscle
+mass, which means they carry as much as twenty added kilograms of costly
+flesh. If I ever decide to bulk up like that, I’ll have to eat two hundred to
+three hundred more calories a day to pay for my new physique. *While obtaining an
+extra three hundred calories is a trivial task today (accomplished by wolfing
+down a milk shake), the challenge of foraging daily for those additional
+calories in the Stone Age would have compromised one’s reproductive success*.
+#+end_quote
 
 ** 179
 
-But mostly they walk. If there is one physical activity that most fundamentally illustrates the central point of this book—that we didn’t evolve to exercise but instead to be physically active when necessary—it is walking. Average hunter-gatherer men and women (Hadza included) walk about nine and six miles a day, respectively, not for health or fitness but to survive.2 Every year, the average hunter-gatherer walks the distance from New York to Los Angeles. Humans are endurance walkers.
-
-we did not evolve to xercise.walking
+#+begin_quote
+If there is one physical activity that most fundamentally illustrates the
+central point of this book—that *we didn’t evolve to exercise but instead to be
+physically active when necessary*—it is walking. *Average hunter-gatherer men and
+women (Hadza included) walk about nine and six miles a day, respectively, not
+for health or fitness but to survive*. Every year, the average hunter-gatherer
+walks the distance from New York to Los Angeles. *Humans are endurance walkers*.
+#+end_quote
 
 ** 179
 
-The big difference between you and Bagayo and Hasani is that their survival demands up to 20,000 steps per day, whereas data culled from millions of cell phones indicate the average American takes 4,774 steps (about 1.7 miles), the average Englishman takes 5,444 steps, and the average Japanese 6,010.3 Consider also that these numbers are averages.
+#+begin_quote
+The big difference between you and Bagayo and Hasani is that their survival
+demands up to 20,000 steps per day, whereas data culled from millions of cell
+phones indicate the average American takes 4,774 steps (about 1.7 miles), the
+average Englishman takes 5,444 steps, and the average Japanese 6,010.3 Consider
+also that these numbers are averages.
+#+end_quote
 
 ** 181
 
