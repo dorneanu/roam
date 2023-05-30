@@ -103,6 +103,7 @@ draft = false
 
 ### Malware {#malware}
 
+-   2023-05-30 ◦ [GobRAT malware written in Go language targeting Linux routers - JPCERT/CC Eyes | JPCERT Coordination Center official Blog](https://blogs.jpcert.or.jp/en/2023/05/gobrat.html)
 -   2023-03-21 ◦ [Uncovering HinataBot: A Deep Dive into a Go-Based Threat | Akamai](https://www.akamai.com/blog/security-research/hinatabot-uncovering-new-golang-ddos-botnet)
 -   2022-11-01 ◦ [Hacking with Go: Part 2 with Ivan Kwiatkowski (Go Time #251)](https://changelog.com/gotime/251)
 -   2022-10-06 ◦ [GopherCon Europe 2021: Joakim Kennedy - The Dark Side of Go: A 2020 Go Malware Round Up](https://www.youtube.com/watch?v=rcsWz-gT0sI)

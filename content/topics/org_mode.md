@@ -28,6 +28,11 @@ draft = false
 -   [Daryl Manning | Tracking your finances with Reckon and Ledger](https://daryl.wakatara.com/tracking-your-finances-with-reckon-and-ledger/)
 
 
+### Fonts {#fonts}
+
+-   2023-05-30 ◦ [Use \`org-extra-emphasis’ , when you need more Emphasis Markers in Emacs Org mode – Emacs Notes](https://emacsnotes.wordpress.com/2022/06/29/use-org-extra-emphasis-when-you-need-more-emphasis-markers-in-emacs-org-mode/)
+
+
 ### Tables {#tables}
 
 -   2023-04-19 ◦ [GitHub - tbanel/orgaggregate: Aggregates tables in Org mode](https://github.com/tbanel/orgaggregate)

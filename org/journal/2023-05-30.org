@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1c3ff72b-8916-4565-a020-8dd44cdee3bf
+:END:
+#+TITLE: 2023-05-30
+#+DATE: 2023-05-30
+#+FILETAGS: journal
+
+- 2023-05-30 ◦ [[https://pop.rdi.sh/rop-exploits/][ROP Exploits]]
+  #+begin_quote
+  ROP stands for Return-Oriented Programming. It is primarily used to defeat
+  DEP/NX/W^X (Data Execution Prevention/No Execute/Write xor Execute) mitigations
+  in processors. Different manufacturers have different names for this particular
+  feature, but the idea is to mark certain areas of memory (notably stack and
+  heap) as non-executable. This makes attempts to execute instructions from areas
+  marked as non-executable cause an exeception (SEGFAULT). This mitigates generic
+  buffer overflow attacks, which usually involve writing some shellcode into
+  memory (usually the stack) and overwriting the saved return pointer or some
+  other way to jump to the shellcode and execute it. Since the stack is marked as
+  non-executable, the shellcode is not executed and a SEGFAULT is raised
+  #+end_quote

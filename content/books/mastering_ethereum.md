@@ -1,7 +1,7 @@
 +++
 title = "Mastering Ethereum"
 date = 2023-05-30
-tags = ["book"]
+tags = ["TODO", "book"]
 draft = false
 +++
 

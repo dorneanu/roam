@@ -32,6 +32,8 @@ draft = false
 
 ### API {#api}
 
+-   2023-05-30 ◦ [Data Templates | Hugo](https://gohugo.io/templates/data-templates/)
+-   2023-05-30 ◦ [Data Shortcode for Hugo | Yury Zhauniarovich](https://zhauniarovich.com/post/2021/2021-09-data-shortcode-for-hugo/)
 -   2023-01-12 ◦ [Remote API example in Hugo static site build. · GitHub](https://gist.github.com/Rarst/da20cdb3936fc5dcf349b4a5cab06f2f)
     -   related: 2023-01-12 ◦ [Hugo and Remote Data Files | CloudCannon](https://cloudcannon.com/community/learn/hugo-and-remote-data-files/)
 -   2023-01-12 ◦ [Enhance Your Hugo JSON API Using Custom Output Formats and Netlify Redirects | Forestry.io](https://forestry.io/blog/hugo-json-api-part-2/)
@@ -42,6 +44,11 @@ draft = false
 
 -   2022-08-30 ◦ [Hugo - Create a Post Series | Justin James](https://digitaldrummerj.me/hugo-post-series/)
 -   2022-08-30 ◦ [Series of article in Hugo website](https://onebite.dev/series-of-article-in-hugo-website/)
+
+
+### Styles {#styles}
+
+-   2023-05-30 ◦ [Automatically Mark External Links in Hugo - Jayeless.net](https://www.jayeless.net/2021/08/hugo-mark-external-links.html)
 
 
 ### Searching {#searching}

@@ -16,6 +16,42 @@ Cărți menționate:
 -   Rețeta fericirii – Paul Dolan
 
 
+## #181 {#181}
+
+Luptele pentru actualul program de muncă sunt recente în istoria noastră.
+Oamenii s-au luptat cu adevărat pentru un program de muncă mai scurt și pentru
+dreptul la timp liber. Astăzi, la mai puțin de 100 de ani distanță, cedăm mult
+prea ușor aceste drepturi. Despre toate astea, dar și despre cei șase pași
+propuși de Celeste Headlee în cartea Nu face nimic! pentru o viață trăită din
+plin, povestește Dragoș la Vocea Nației. <span class="underline">_</span> În episodul 181 al podcastului Vocea
+Nației:
+
+-   Nu se știe când a decis prima persoană din lume să o mituiască pe alta să-i
+    facă treaba în locul său, dar primul „fluturaș de salariu” datează de acum
+    5.000 de ani.
+-   Tehnologia a avansat atât de mult încât am putea să avem un standard foarte
+    ridicat de viață muncind mult mai puțin. Cum ar fi să muncim doar șase luni pe
+    an? Sau cum ar fi să avem un întreg an liber o dată la doi ani? Cum ar fi să
+    muncim doar trei sau patru ore pe zi?
+-   În Franța au avut loc cele mai mari proteste din ultimele decenii. Puține
+    mișcări sociale au mai atras atât de multă popularitate precum mișcarea
+    împotriva creșterii vârstei de pensionare.
+-   Ne aflăm acum într-o revoluție similară celei care a dat naștere motorului cu
+    abur sau microprocesoarelor. Doar că, de data aceasta, inteligența artificială
+    este cea care schimbă fiecare aspect al vieții umane. Iar toate discuțiile din
+    ultima perioadă despre casierii care sunt înlocuiți cu case self checkout sunt
+    o dovadă că lucrurile încep să se schimbe și în practică, nu doar în teorie.
+
+<span class="underline">_</span>
+**Cărți menționate**:
+
+-   Nu face nimic! – Celeste Headlee
+-   Munca – James Suzman
+-   Bullshit Jobs – David Graeber
+-   [4 Thousand Weeks - Time Management for Mortals]({{< relref "../books/4_thousand_weeks_time_management_for_mortals.md" >}})
+-   The Weekend Effect – Katrina Onstad
+
+
 ## #182 {#182}
 
 Cărți menționate:

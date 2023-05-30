@@ -32,6 +32,7 @@
 - [[https://www.goodreads.com/book/show/296981.Object_Oriented_Software_Engineering][Object-Oriented Software Engineering by Ivar Jacobson]]
 * Resource
 - 2022-11-07 ◦ [[https://github.com/mehdihadeli/awesome-software-architecture][GitHub - mehdihadeli/awesome-software-architecture: A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.]]
+  - Also check out [[https://awesome-architecture.com/][awesome-architecture.com]]
 - 2022-11-07 [[https://speakerdeck.com/ufried/road-movie-architectures][Road Movie Architecture]]
 * Articles
 - 2023-03-27 ◦ [[https://charity.wtf/2023/03/09/architects-anti-patterns-and-organizational-fuckery/][Architects, Anti-Patterns, and Organizational Fuckery – charity.wtf]]

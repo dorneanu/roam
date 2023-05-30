@@ -42,6 +42,7 @@ draft = false
 ## Resource {#resource}
 
 -   2022-11-07 ◦ [GitHub - mehdihadeli/awesome-software-architecture: A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.](https://github.com/mehdihadeli/awesome-software-architecture)
+    -   Also check out [awesome-architecture.com](https://awesome-architecture.com/)
 -   2022-11-07 [Road Movie Architecture](https://speakerdeck.com/ufried/road-movie-architectures)
 
 

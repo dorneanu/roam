@@ -11,25 +11,28 @@
 * Articles
 - 2023-05-15 ◦ [[https://dev.to/aws-builders/serverless-a-ctos-perspective-3hpc][Serverless, a CTO’s Perspective - DEV Community]]
   #+begin_quote
-  As many others have stated, it's not the absence of servers that makes it
-  serverless, it's the place in your problem-solving and deployment that makes it
+  As many others have stated, it's *not the absence of servers* that makes it
+  serverless, it's the *place in your problem-solving and deployment* that makes it
   so.
   #+end_quote
+
   #+begin_quote
   So why would a CTO choose serverless from a people perspective? For me it's
-  simple. With serverless I spend less time running infrastructure and more time
-  building application
+  simple. With serverless I *spend less time running infrastructure and more time
+  building application*
   #+end_quote
+
   #+begin_quote
-  I tend to book serverless components in two categories. I have the bedrock
-  components that I know I won't need to outgrow such as SQS, DyanmoDB and
-  EventBridge. And then I have the components that get me going the quickest and
-  will last a long time but might be replaced. Step Functions and Lambdas fall
+  I tend to book *serverless components in two categories*. I have the *bedrock
+  components* that I know I won't need to outgrow such as [[id:45a2f0a9-f32d-4592-afac-fd9500b06f3a][SQS]], DyanmoDB and
+  EventBridge. And then I have *the components that get me going the quickest and
+  will last a long time but might be replaced*. Step Functions and [[id:871392b8-355f-486b-badd-2a2458363ade][Lambda]]s fall
   into the this category. I've not reached a scale that requires this in a few
   places but the upgrade path is easy enough. I lean into Fargate on ECS which
   gives me plenty of horizontal scale to deal with load that might be more
   consistent.
   #+end_quote
+
 - 2023-05-11 ◦ [[https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90][Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech]]
 - 2023-03-16 ◦ [[https://serverlessland.com/][Serverless Land]]
   #+begin_quote

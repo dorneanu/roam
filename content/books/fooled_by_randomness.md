@@ -42,7 +42,7 @@ Let's have a look how this could look like:
 -   Year #5
     -   Out of 625 managers, 313 managers **survive** and 313 lose their job
 
-Out of the initial 10.000 managers, only 313 managed to survive and win 10k EUR per year.
+**Out of the initial 10.000 managers, only 313 managed to survive and win 10k EUR per year**.
 Instead of say saying this group only survived purely out of luck, we tend to attribute
 them "high-level skills of fund managing".
 
@@ -54,10 +54,10 @@ when dealing with future predictions (if certain events will take place, how eco
 metrics will evolve) investors tend to _rely on empirical evidence_ assuming that past
 events might be a relevant sample of what the future will look like. This empirical
 science is called induction and relates to the observations we make from which we then
-conclude things. Also known as the black swan problem, [John Stuart Mill](https://en.wikipedia.org/wiki/Black_swan_theory) put it this way:
+conclude things. Also known as the **black swan problem**, [John Stuart Mill](https://en.wikipedia.org/wiki/Black_swan_theory) put it this way:
 
 > No amount of observations of white swans can allow the inference that all swans are white,
-> but the observation of a single black swan is sufficient to refute that conclusion
+> but **the observation of a single black swan** is **sufficient** to **refute that conclusion**
 
 What do we learn from _black swans_? Always consider your choices and assumptions
 <span class="underline">today</span> to be proved wrong some <span class="underline">other day</span>. Don't (completely) ignore the "black

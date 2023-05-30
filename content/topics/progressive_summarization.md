@@ -5,11 +5,11 @@ draft = false
 
 ## Different Layers of Highlighting {#different-layers-of-highlighting}
 
--   Layer 1: When you encounter something interesting, capture it
--   Layer 2: Bold the most interesting parts
--   Layer 3: Highlight the most interesting bolded sections
--   Layer 4: Summarize the bolded portions and the note in your own words
--   Layer 5: Turn your notes into something new: a tweet, a blog post, even a book
+-   Layer 1: When you encounter something interesting, **capture** it
+-   Layer 2: **Bold** the most interesting parts
+-   Layer 3: **Highlight** the most interesting bolded sections
+-   Layer 4: **Summarize the bolded portions** and the note in your own words
+-   Layer 5: Turn your notes **into something new**: a tweet, a blog post, even a book
 
 Each layer should include **no more than 10-20% of the previous layer**.
 

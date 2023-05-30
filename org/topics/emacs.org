@@ -127,6 +127,8 @@ When you are collecting text using append-to-register and prepend-to-register, y
 - 2023-04-25 ◦ [[https://github.com/karthink/project-x][GitHub - karthink/project-x: Ehancements to Emacs' built in project library.]]
   - restore open files, buffers
 - 2023-02-01 ◦ [[https://youtu.be/4-ubCJF9htw][Emacs micro motions and hacks - YouTube]]
+** Programming
+- 2023-05-30 ◦ [[https://www.masteringemacs.org/article/how-to-get-started-tree-sitter?utm_source=newsletter&utm_medium=rss][How to Get Started with Tree-Sitter - Mastering Emacs]]
 ** UI
 - 2022-12-05 ◦ [[https://codeberg.org/gopiandcode/emacs-viewer][gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org]]
 ** Yaml

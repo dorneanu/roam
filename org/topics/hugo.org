@@ -20,6 +20,8 @@
 ** Backlinks
 - 2022-08-22 ◦ [[https://scripter.co/parsing-backlinks-in-hugo/][Parsing Backlinks in Hugo ❚ A Scripter's Notes]]
 ** API
+- 2023-05-30 ◦ [[https://gohugo.io/templates/data-templates/][Data Templates | Hugo]]
+- 2023-05-30 ◦ [[https://zhauniarovich.com/post/2021/2021-09-data-shortcode-for-hugo/][Data Shortcode for Hugo | Yury Zhauniarovich]]
 - 2023-01-12 ◦ [[https://gist.github.com/Rarst/da20cdb3936fc5dcf349b4a5cab06f2f][Remote API example in Hugo static site build. · GitHub]]
   - related: 2023-01-12 ◦ [[https://cloudcannon.com/community/learn/hugo-and-remote-data-files/][Hugo and Remote Data Files | CloudCannon]]
 - 2023-01-12 ◦ [[https://forestry.io/blog/hugo-json-api-part-2/][Enhance Your Hugo JSON API Using Custom Output Formats and Netlify Redirects | Forestry.io]]
@@ -27,6 +29,8 @@
 ** Series
 - 2022-08-30 ◦ [[https://digitaldrummerj.me/hugo-post-series/][Hugo - Create a Post Series | Justin James]]
 - 2022-08-30 ◦ [[https://onebite.dev/series-of-article-in-hugo-website/][Series of article in Hugo website]]
+** Styles
+- 2023-05-30 ◦ [[https://www.jayeless.net/2021/08/hugo-mark-external-links.html][Automatically Mark External Links in Hugo - Jayeless.net]]
 ** Searching
 A regularly updated "langing page" is [[https://gohugo.io/tools/search/][here]].
 - 2023-01-05 ◦ [[https://decovar.dev/blog/2020/01/05/hugo-search/][Adding search capability to a Hugo-based blog | Declaration of VAR]]

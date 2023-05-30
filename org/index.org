@@ -6,13 +6,13 @@
 #+hugo_custom_front_matter: :type index
 
 
-Welcome, bine ai venit, willkommen! My name is [[https://dornea.nu][Victor Dorneanu]] and this is the place where I store my so called *external brain*. This project is aimed at collecting almost everything I know or try to remember. What you see right now is basically my personal knowledge base built with org-roam.
+Welcome, bine ai venit, willkommen! My name is [[https://dornea.nu][Victor Dorneanu]] and this is the place where I store my so called *external brain*. This project is aimed at collecting almost everything I know or try to remember. What you see right now is basically my *personal knowledge base* built with [[id:5329cb10-9f3e-4311-bc69-542775991244][org-roam]].
 
 Although I still haven't figured out how to perfectly structure my notes, quotes and these are some areas you can read about:
 
 - 🧰 Coding
   - At the moment I mainly develop in [[id:b2831721-165d-4943-a41a-da770d96be41][Golang]] and [[id:e4dd5a6c-5c20-48d4-9d9a-408893dc8ce6][Python]]
-  - I like to run my code in a [[id:18f60fef-0abb-4f79-9a17-66182ac7b4bc][Serverless]] environment
+  - I like to run my code in a [[id:794fe4d2-6c9b-4f95-9d27-9aba13a3c0b2][Serverless]] environment
   - I like solutions which scale up especially in an [[id:be5bebfe-5df9-4db2-af87-7e80e11723c7][AWS]] context
   - You can check my code at [[https://github.com/dorneanu][github.com/dorneanu]] or [[https://gitlab.com/vdorneanu][gitlab.com/vdorneanu]]
 - 🔒 [[id:ae2685a1-07d0-4396-8c1c-493596f709dc][Security]]
@@ -25,7 +25,7 @@ Although I still haven't figured out how to perfectly structure my notes, quotes
 - 🏭 [[/tags/productivity][Productivity]]
   - I'm obsessed with optimizing workflows
   - Reading and making notes seems to be a huge science
-  - I use Bullet Journaling for making notes and keeping track of my projects
-  - Tiddlywiki helped me digitize what's important
+  - I use [[id:e7915a68-2f4f-45f9-9c32-701113c3d539][Bullet Journaling]] for making notes and keeping track of my projects
+  - [[https://tw5.brainfck.org][Tiddlywiki]] helped me digitize what's important
 - [[/topics][Topics]]
   - general topics I'm currently interested about
