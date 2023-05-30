@@ -546,7 +546,7 @@ pre .language-xml::before {
   content: "XML";
 }
 pre .language-yaml::before {
-  content: "YAML";
+  content: "";
 }
 
 #sidebar {
@@ -570,4 +570,14 @@ pre .language-yaml::before {
 }
 
 #contents-list > .toc-list {
+}
+
+/* Add background color to links */
+.post-content a {
+  background-color: lightcyan;
+}
+
+.post-content strong,
+.post-content b {
+  background-color: bisque;
 }
