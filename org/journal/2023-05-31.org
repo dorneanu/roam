@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       caaacb71-acc3-4bdb-a5ec-4559a3661491
+:END:
+#+TITLE: 2023-05-31
+#+DATE: 2023-05-31
+#+FILETAGS: journal
+
+- 2023-05-31 ◦ [[https://www.scotthyoung.com/blog/2023/05/30/learning-cost-benefit/][When is Learning Worth the Effort? - Scott H Young]]
+  #+begin_quote
+  Later, psychologist *Keith Stanovich* applied the same insight to reading. Those
+  with a *slight advantage in early reading* ability had a slightly *reduced cost of
+  reading new material*. This lead to them practicing more, further reducing the
+  costs of reading. Given the connection between reading and other forms of
+  learning, he even hypothesized that *early reading ability might bootstrap
+  intelligence by making it easier to acquire new skills and knowledge*.
+  #+end_quote
+
+  #+begin_quote
+  To summarize, many decisions about learning have the following features:
+
+  – Doing it yourself doesn’t initially pass a cost-benefit test.
+
+  – The more you practice, the lower the cost becomes.
+
+  – Thus whether it’s “worth it” to learn something depends on a far-sighted
+    calculation of how much you’ll need to use the skill.
+  #+end_quote
+
+
+- 2023-05-31 ◦ [[https://plane.so/][Plane - The open source project management tool]]
+  - alternative to Jira

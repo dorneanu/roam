@@ -22,3 +22,8 @@ draft = false
 ## Security {#security}
 
 -   2022-10-21 ◦ [Shift Left Approach for API Standardization](https://www.infoq.com/articles/shift-left-api-standardization/)
+
+
+## Rate limiting {#rate-limiting}
+
+-   2023-06-01 ◦ [Rate Limiting Fundamentals - by Alex Xu](https://blog.bytebytego.com/p/rate-limiting-fundamentals)
