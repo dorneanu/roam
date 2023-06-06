@@ -113,6 +113,9 @@ Also check:
 
 ### Articles {#articles}
 
+-   2023-06-05 ◦ [Cloud, why so difficult? 🤷‍♀️ | Wing](https://docs.winglang.io/blog/2022/11/23/manifesto)
+    -   Elad ben-israel, the mind behind the cdk, shares his love for the cloud, but
+        also his frustrations with the complexity of building cloud applications.
 -   2022-10-26 ◦ [NestedStack — AWS Cloud Development Kit 2.47.0 documentation](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk/NestedStack.html)
 -   2022-10-26 ◦ [GitHub - bobbyhadz/aws-cdk-nested-stack](https://github.com/bobbyhadz/aws-cdk-nested-stack)
     -   how to provision nested stacks using AWS CDK

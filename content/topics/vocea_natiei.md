@@ -3,6 +3,31 @@ title = "Vocea Natiei"
 draft = false
 +++
 
+## #188 {#188}
+
+Dragoș Pătraru: „Nu cred că am văzut în toți anii de școală vreun părinte venind
+să-și ia copilul de la școală când eram mic. Pur și simplu plecam împreună, pe
+grupuri, către casă. Vorbeam, râdeam, făceam glume, de multe ori proaste, mai
+urcam într-un cireș, într-un prun, dud, ce găseam pe drum. Aruncam ghiozdanele
+în casa scării și încingeam câte un meci de fotbal în fața blocului până veneau
+părinții de la serviciu.”
+
+În episodul 188 din podcastul Vocea Nației:
+
+-   Copiii trăiesc în mediile pe care noi, adulții, le construim pentru ei.
+-   Faptul că elevii se chinuie să învețe și să se concentreze nu e un deficit al lor, ci un defect al lumii pe care noi am construit-o pentru ei.
+-   Din joc înveți cum să înveți.
+-   Când adulții fac un pas în spate, copiii avansează.
+-   De ce învață elevii din Olanda să înoate îmbrăcați și încălțați?
+
+Cărți &amp; alte resurse:
+
+-   [Metoda daneză de creștere a copiilor](https://www.goodreads.com/book/show/28815322-the-danish-way-of-parenting) – Jessica Joelle Alexander, Iben Dissing Sandahl
+-   Mișcarea pentru o copilărie independentă: <https://letgrow.org/>
+-   [Ce învață în clasa a șasea copiii din Olanda](https://www.printesaurbana.ro/2023/05/ce-invata-in-clasa-a-sasea-copiii-din-olanda-9-10-ani.html) (9-10 ani), Ioana Chicet-Macoveiciuc
+-   [Hoții de atenție](https://www.goodreads.com/en/book/show/57933306) – Johann Hari
+
+
 ## #185 {#185}
 
 În episodul 185 din podcastul Vocea Nației:

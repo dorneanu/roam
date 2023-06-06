@@ -84,6 +84,9 @@ Also check:
   - for using ~s3api~ and ~list-objects~
 * Resources
 ** Articles
+- 2023-06-05 ◦ [[https://docs.winglang.io/blog/2022/11/23/manifesto][Cloud, why so difficult? 🤷‍♀️ | Wing]]
+  - Elad ben-israel, the mind behind the cdk, shares his love for the cloud, but
+    also his frustrations with the complexity of building cloud applications.
 - 2022-10-26 ◦ [[https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk/NestedStack.html][NestedStack — AWS Cloud Development Kit 2.47.0 documentation]]
 - 2022-10-26 ◦ [[https://github.com/bobbyhadz/aws-cdk-nested-stack][GitHub - bobbyhadz/aws-cdk-nested-stack]]
   - how to provision nested stacks using AWS CDK

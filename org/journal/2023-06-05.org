@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       fa3882ef-9d6d-43e1-977a-87cd0498e813
+:END:
+#+TITLE: 2023-06-05
+#+DATE: 2023-06-05
+#+FILETAGS: journal
+
+
+- 2023-06-05 ◦ [[https://github.com/lord-denning/Huberman-Lab-Podcast-Transcripts][GitHub - lord-denning/Huberman-Lab-Podcast-Transcripts]]
+  - Transcripts of episodes 1-30 from the [[https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg][Huberman Lab Podcast]]
+- 2023-06-05 ◦ [[https://blog.pragmaticengineer.com/an-educational-side-project/][An educational side project - The Pragmatic Engineer]]
+  - [[https://jurajmajerik.com/?ref=blog.pragmaticengineer.com][Juraj Majerik]]
+- 2023-06-05 ◦ [[https://blog.bytebytego.com/p/ep62-why-does-google-use-monorepo][EP62: Why Does Google Use Monorepo? - by Alex Xu]]
+  - Great comparison between *monorepo* and *microrepo* ([[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]])
+- 2023-06-05 ◦ [[https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/][GitHub private repos considered private-­ish - Tyler Cipriani]]
+  - Some mitigations
+    #+begin_quote
+    - Enable mandatory *2fa* within your Github organization (if you don't use an
+    organization, you probably should)
+
+    - *Disable* the ability to fork repos in your organization
+
+    - Configure and enable mandatory SAML authentication. In combination with
+    mandatory 2fa, this makes phishing and even key leakage less likely (specific
+    keys need to be double authorized for SAML, so that random private key you have
+    on a random CI/CD platform from a few years ago can't access repos in SAML
+    organizations even if it's leaked)
+
+    - Disable the ability to *make repos public at the organization level*
+
+    These are some quick setting changes that should address at least 3 of the 4
+    main issues in the article.
+
+    Additional suggestion:
+
+    *Enable branch protection* on master. Require at least 1 peer review to merge
+    anything in it. Enforce branch restrictions to include repo admins so
+    restrictions can't be bypassed. This should stop obvious mistakes like
+    accidentally committing .git or random credentials.
+    #+end_quote
