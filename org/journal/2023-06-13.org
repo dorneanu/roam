@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       09554221-1148-4264-8b62-3a43e66857ed
+:END:
+#+TITLE: 2023-06-13
+#+DATE: 2023-06-13
+#+FILETAGS: journal
+
+- 2023-06-13 ◦ [[https://blog.architect2architect.com/an-architects-journal-embracing-simplicity-in-software-architecture-diagramming-89aec930c47b][An architect’s journal -Embracing Simplicity in Software Architecture Diagramming | by Asanka Abeysinghe | May, 2023 | architect2architect]]
+  - uses different levels (L0 to Ln) to describe architecture
+  - talks about /cell-based architecture/
+  #+begin_quote
+  This discussion has hopefully illuminated the importance of simplicity in our
+  architectural representations. As we venture further into the world of
+  architecture, keep in mind that our *primary mission* is not solely to design
+  systems but to *effectively communicate these designs*. Regardless of the
+  complexity of the system, our challenge lies in maintaining simplicity in
+  understanding. Continue to tune in as we explore further into the nuances of
+  software architecture, and remember: clear, *effective communication is the key
+  to successful architecture*.
+  #+end_quote
+
+- [[https://dev.to/atornblad/simplicity-in-software-architecture-1k8i][Simplicity in Software Architecture]]
+  #+begin_quote
+  From a security perspective, simple systems are advantageous as they typically
+  have a smaller attack surface. Every component in a system, every line of
+  code, represents a potential vulnerability that attackers could exploit. By
+  reducing the complexity, we minimize these potential entry points, making the
+  system inherently more secure. Simplicity also facilitates security reviews
+  and audits as the system is easier to comprehend and scrutinize in detail,
+  ensuring no security loophole goes unnoticed.
+  #+end_quote
+
+  #+begin_quote
+  If you don't actively fight for simplicity in software, complexity will win. …and it will suck.
+  #+end_quote

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       06676c92-78a2-4d38-966e-058acdf5cdfd
+:END:
+#+title: Terraform
+
+* Articles
+- 2023-06-13 ◦ [[https://spacelift.io/blog/terraform-files][Terraform Files - How to Structure Terraform Project]]
+- 2023-06-13 ◦ [[https://xebia.com/blog/four-tips-to-better-structure-terraform-projects/][4 Tips to better structure Terraform projects]]
+ Which files:
+ #+begin_quote
+ - ~provider.tf~: contains the terraform block and provider block
+ - ~data.tf~: contains all data sources
+ - ~variables.tf:~ contains all defined variables
+ - ~locals.tf~: contains all local variables
+ - ~output.tf~: contains all output resources
+ #+end_quote
+
+ Locals vs variables:
+ #+begin_quote
+ - *variable blocks*: should be used for values that are not known beforehand, such IDs that are defined at runtime.
+ - *Local blocks*: should be used for values that are known beforehand, but are good to abstract as variables, such as constants
+ #+end_quote
+
+ Use ~yamldecode~ to load a YAML file with all the settings (instead of defining everything in the TF file)

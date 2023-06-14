@@ -70,7 +70,7 @@ draft = false
        (elfeed-feed-url (elfeed-entry-feed entry)))))))
 ```
 <div class="src-block-caption">
-  <span class="src-block-number">Code Snippet 1:</span>
+  <span class="src-block-number">Code Snippet 3:</span>
   Source: <a href="https://sqrtminusone.xyz/posts/2021-09-07-emms/">https://sqrtminusone.xyz/posts/2021-09-07-emms/</a>
 </div>
 
@@ -123,6 +123,9 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 ### Configuration {#configuration}
 
+-   2023-06-06 ◦ [Emacs Config - Wai Hon's Blog](https://whhone.com/emacs-config/)
+-   2023-06-06 ◦ [huadeyu.tech Emacs config](https://huadeyu.tech/tools/emacs-setup-notes.html)
+-   2023-06-06 ◦ [const.no/init](https://www.const.no/init/)
 -   2023-01-26 ◦ [My NANO-based Emacs config | Config | Random Geekery](https://randomgeekery.org/config/emacs/nano/)
 -   2022-11-14 ◦ [GitHub - caisah/emacs.dz: Awesome emacs config files](https://github.com/caisah/emacs.dz)
 -   2022-10-26 ◦ [Doom Emacs Configuration](https://abdelhakbougouffa.pro/posts/config/)

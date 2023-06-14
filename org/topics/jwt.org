@@ -24,3 +24,5 @@
   - A JWT token looks like this: ~ ..~ * Security ** cookies vs. JWT *** cookies are a storage mechanism *** JWT are cryptographically signed tokens * resources ** [[https://curity.io/resources/learn/jwt-best-practices/]] ** [[https://datatracker.ietf.org/doc/html/draft-ietf-oauth-jwt-bcp-07]] ** [[http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/]] ** [[http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/]] ** [[https://evertpot.com/jwt-is-a-bad-default/]] ** [[https://www.youtube.com/watch?v=GdJ0wFi1Jyo][Why JWTs Are Bad for Authentication -- Randall Degges (Head of Dev Relations, Okta)]]
 * Vulnerabilities
 - 2023-01-11 ◦ [[https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/][Disclosing a New Vulnerability in JWT Secret Poisoning (CVE-2022-23529)]]
+* Articles
+- 2023-06-14 ◦ [[https://pragmaticwebsecurity.com/articles/apisecurity/hard-parts-of-jwt.html][The hard parts of JWT security nobody talks about]]

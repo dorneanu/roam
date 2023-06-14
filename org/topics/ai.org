@@ -115,3 +115,5 @@
   creative partner, a task automator, and more. Personality, tone, and behavior
   can all be customized to your needs
   #+end_quote
+* Articles
+- 2023-06-07 ◦ [[https://a16z.com/2023/06/06/ai-will-save-the-world/][Why AI Will Save the World | Andreessen Horowitz]]

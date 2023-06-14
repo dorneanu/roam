@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ff4fd04e-50d0-4f0b-b7e4-232cdff7be93
+:END:
+#+TITLE: 2023-06-07
+#+DATE: 2023-06-07
+#+FILETAGS: journal
+
+- 2023-06-07 ◦ [[https://www.schneier.com/blog/archives/2023/06/snowden-ten-years-later.html][Snowden Ten Years Later - Schneier on Security]]
+- 2023-06-07 ◦ [[https://hackdojo.io][Hack Dojo]]
+  #+begin_quote
+  Hack Dojo offers access to over 3,000 research presentations (and counting) on
+  the latest insights and trends in cybersecurity, DevOps, and AI research. Our
+  platform scours the internet for the most insightful and informative
+  presentations, making it the ultimate tool for professionals and enthusiasts
+  alike
+  #+end_quote

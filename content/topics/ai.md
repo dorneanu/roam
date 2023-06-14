@@ -122,3 +122,8 @@ draft = false
     > Claude can be a delightful company representative, a research assistant, a
     > creative partner, a task automator, and more. Personality, tone, and behavior
     > can all be customized to your needs
+
+
+## Articles {#articles}
+
+-   2023-06-07 ◦ [Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/)
