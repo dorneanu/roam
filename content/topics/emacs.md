@@ -153,6 +153,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
 -   2023-01-18 ◦ [EmacsConf 2022: What I'd like to see in Emacs - Richard M. Stallman](https://youtu.be/vEpk2ZTqJu4)
 
 
+### Funny stuff {#funny-stuff}
+
+-   2023-06-19 ◦ [Interview with an Emacs Enthusiast in 2023 [Colorized] - YouTube](https://www.youtube.com/watch?v=urcL86UpqZc&ab_channel=Programmersarealsohuman)
+
+
 ### GTD {#gtd}
 
 -   2022-12-01 ◦ [How I use Emacs and Org-mode to implement GTD](https://members.optusnet.com.au/~charles57/GTD/gtd_workflow.html)

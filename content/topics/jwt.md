@@ -23,3 +23,8 @@ draft = false
 ## Vulnerabilities {#vulnerabilities}
 
 -   2023-01-11 ◦ [Disclosing a New Vulnerability in JWT Secret Poisoning (CVE-2022-23529)](https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/)
+
+
+## Articles {#articles}
+
+-   2023-06-14 ◦ [The hard parts of JWT security nobody talks about](https://pragmaticwebsecurity.com/articles/apisecurity/hard-parts-of-jwt.html)

@@ -62,6 +62,7 @@ draft = false
 
 ### Error handling {#error-handling}
 
+-   2023-06-22 ◦ [Gopher Wrangling. Effective error handling in Go | Stephen's Tech Blog](https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/)
 -   2022-12-22 ◦ [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
 
 
@@ -159,6 +160,8 @@ draft = false
 
 ### Serverless {#serverless}
 
+-   2023-06-22 ◦ [Lambda Extension with Golang - DEV Community](https://dev.to/aws-builders/lambda-extension-with-golang-35a9)
+    -   Shows how to use [AWS Lambda extensions](https://docs.aws.amazon.com/lambda/latest/dg/lambda-extensions.html)
 -   2022-10-04 ◦ [gRPC and gRPC Web on Google Cloud Run (serverless) - GenDocu Blog](https://blog.gendocu.com/posts/grpc-on-google-cloud/)
 
 

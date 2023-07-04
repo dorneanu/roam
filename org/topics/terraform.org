@@ -4,6 +4,14 @@
 #+title: Terraform
 
 * Articles
+- 2023-06-20 ◦ [[https://stackoverflow.com/questions/58594506/how-to-for-each-through-a-listobjects-in-terraform-0-12][loops - How to for_each through a list(objects) in Terraform 0.12 - Stack Overflow]]
+  #+begin_quote
+  Using for_each on a list of strings
+  Using for_each on a list of objects
+  Using for_each to combine two lists
+  Using for_each in a nested block
+  Using for_each as a conditional
+  #+end_quote
 - 2023-06-13 ◦ [[https://spacelift.io/blog/terraform-files][Terraform Files - How to Structure Terraform Project]]
 - 2023-06-13 ◦ [[https://xebia.com/blog/four-tips-to-better-structure-terraform-projects/][4 Tips to better structure Terraform projects]]
  Which files:

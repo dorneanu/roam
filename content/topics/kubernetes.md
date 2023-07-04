@@ -34,6 +34,7 @@ draft = false
 
 ### Security {#security}
 
+-   2023-07-03 ◦ [How to Hack Kubernetes (and How to Protect It)](https://goteleport.com/blog/how-to-hack-kubernetes/?utm_campaign=0308HackK8sBlog&utm_medium=partner&utm_source=golang)
 -   2023-05-08 ◦ [Kubernetes Security Part 1 - Security Contexts - Shishir’s Blog](https://shishirsubedi.com.np/kubernetes/kubernetes_security/)
 -   2023-03-29 ◦ [Kubernetes architecture: How to use hierarchical namespaces for multiple tenants | Enable Architect](https://www.redhat.com/architect/kubernetes-hierarchical-namespaces)
 -   2023-01-19 ◦ [Kubernetes Security Best Practices For Developers](https://dev.to/pavanbelagatti/kubernetes-security-best-practices-for-developers-2b92)

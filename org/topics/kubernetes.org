@@ -19,6 +19,7 @@
 ** Golang
 - 2022-10-24 ◦ [[https://dev.to/aksrao1998/dockerize-a-golang-http-server-and-deploy-it-on-kubernetes-592j][Dockerize a GoLang HTTP server and deploy it on Kubernetes]]
 ** Security
+- 2023-07-03 ◦ [[https://goteleport.com/blog/how-to-hack-kubernetes/?utm_campaign=0308HackK8sBlog&utm_medium=partner&utm_source=golang][How to Hack Kubernetes (and How to Protect It)]]
 - 2023-05-08 ◦ [[https://shishirsubedi.com.np/kubernetes/kubernetes_security/][Kubernetes Security Part 1 - Security Contexts - Shishir’s Blog]]
 - 2023-03-29 ◦ [[https://www.redhat.com/architect/kubernetes-hierarchical-namespaces][Kubernetes architecture: How to use hierarchical namespaces for multiple tenants | Enable Architect]]
 - 2023-01-19 ◦ [[https://dev.to/pavanbelagatti/kubernetes-security-best-practices-for-developers-2b92][Kubernetes Security Best Practices For Developers]]

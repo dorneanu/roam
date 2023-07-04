@@ -33,6 +33,7 @@
 ** Frontend
 - 2023-04-11 ◦ [[https://www.reddit.com/r/golang/comments/10nw07z/best_frontend_stack_for_golang_backend/][Best front-end stack for Golang backend]]
 ** Error handling
+- 2023-06-22 ◦ [[https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/][Gopher Wrangling. Effective error handling in Go | Stephen's Tech Blog]]
 - 2022-12-22 ◦ [[https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/][New in Go 1.20: wrapping multiple errors]]
 ** HTTP
 - 2022-10-25 ◦ [[https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/][Go and Proxy Servers: Part 1 - HTTP Proxies - Eli Bendersky's website]]
@@ -107,6 +108,8 @@
 ** Security
 - 2022-10-04 ◦ [[https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo][Simple JWT Authentication for Golang (Part 1)]] ([[id:8b4bec8f-ec46-4edf-b236-2d295089f94d][JWT]])
 ** Serverless
+- 2023-06-22 ◦ [[https://dev.to/aws-builders/lambda-extension-with-golang-35a9][Lambda Extension with Golang - DEV Community]]
+  - Shows how to use [[https://docs.aws.amazon.com/lambda/latest/dg/lambda-extensions.html][AWS Lambda extensions]]
 - 2022-10-04 ◦ [[https://blog.gendocu.com/posts/grpc-on-google-cloud/][gRPC and gRPC Web on Google Cloud Run (serverless) - GenDocu Blog]]
 ** SSH
 - 2022-11-21 ◦ [[https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/][SSH port forwarding with Go - Eli Bendersky's website]]

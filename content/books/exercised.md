@@ -310,6 +310,68 @@ Link between insomnia and physical activity:
 > insomnia.
 
 
+## Energy levels {#energy-levels}
+
+
+### 118 {#118}
+
+About ATP and ADP:
+
+> These ubiquitous miniature batteries, which power all life on earth, are called
+> [ATP]({{< relref "../../topics/atp.md" >}})s (adenosine triphosphates). As the name implies, each **ATP** consists of a tiny
+> molecule (an **adenosine**) attached to three molecules of phosphate (a phosphorus
+> atom surrounded by oxygen atoms). **These three phosphates are bound to each other
+> in a chain, one on top of the other, storing energy in the chemical bonds
+> between each phosphate**. **When the last of these phosphates is broken off using
+> water, the tiny quantity of energy that binds it to the second phosphate is
+> liberated along with one hydrogen ion (H+)**, leaving behind an **ADP** (**adenosine
+> diphosphate**). This liberated energy powers almost everything done by every cell
+> in the body like firing nerves, making proteins, and contracting muscles. And,
+> critically, **ATPs are rechargeable**. By **breaking down chemical bonds in sugar and
+> fat molecules, cells acquire the energy to restore ADPs to ATPs by adding back
+> the lost phosphate**. The problem is, however, that regardless of whether we are
+> hyenas or humans, **the faster we run, the more our bodies struggle to recharge
+> these ATPs**, thus curtailing our speed after a short while.
+
+
+### 119 {#119}
+
+> But there is a consequential catch: during [glycolysis]({{< relref "../../topics/glycolysis.md" >}}) the leftover halves of
+> each sugar, molecules known as pyruvates, accumulate faster than cells can
+> handle. As **pyruvates** pile up to intolerable levels, enzymes **convert each
+> pyruvate into a molecule called lactate along with a hydrogen ion** (H+). Although
+> **lactate is harmless and eventually used to recharge ATPs, those hydrogen ions
+> make muscle cells increasingly acidic, causing fatigue, pain, and decreased
+> function**. Within about thirty seconds, a sprinter’s legs feel as if they are
+> burning. It then takes a lengthy period of time to slowly neutralize the acid
+> and shuttle the surplus lactate into the third, final, but long-term  aerobic
+> energy process.
+
+
+### 119 {#119}
+
+> [Sugar]({{< relref "../../topics/zucker.md" >}}) is synonymous with sweetness, but it’s first and foremost a fuel used to
+> recharge ATPs through a process termed glycolysis (from glyco for “sugar” and
+> lysis for “break down”). During [glycolysis]({{< relref "../../topics/glycolysis.md" >}}), **enzymes swiftly snip sugar molecules
+> in half, liberating the energy from those bonds to charge two ATPs**. Restoring
+> ATPs from sugar doesn’t require oxygen and is rapid enough to provide almost
+> half the energy used during a thirty-second sprint. In fact, a fit human can
+> store enough sugar to run nearly fifteen miles.
+
+
+### 121 {#121}
+
+> your VO2 max, you need [glycolysis]({{< relref "../../topics/glycolysis.md" >}}) to supply additional fuel to your muscles.
+> Speeds above this range cannot be sustained, because muscles become acidic.
+> Fortunately, your [VO2 max]({{< relref "../../topics/vo2_max.md" >}}) has little effect on speed during short bursts of
+> maximum intensity, such as a thirty-second sprint, but the longer the distance,
+> the more it matters. **For a hundred-meter dash, only 10 percent of your energy
+> comes from aerobic respiration, but that percentage increases to 30 percent over
+> four hundred meters, 60 percent for eight hundred meters, and 80 percent for a
+> mile. The farther you go, the more your maximum speed benefits from a high VO2
+> max** (which, as we will see, you can increase by training)
+
+
 ## About exercise in general {#about-exercise-in-general}
 
 
@@ -386,6 +448,25 @@ On triathlons and **obsession** about this sport:
 > him robust and healthy in order to make him wise and reasonable. Let him work,
 > be active, run, yell, and always be in motion. Let him be a man in his vigor,
 > and soon he will be one in his reason.
+
+
+### 197 {#197}
+
+> A veritable who’s who of medical organizations agree that adults should get at
+> least 30 minutes of “moderate to vigorous” aerobic exercise at least five days a
+> week for a minimum of 150 minutes per week.
+
+
+### 197 {#197}
+
+Ten thousand steps:
+
+> In the mid-1960s, a Japanese company, Yamasa Tokei, invented a simple,
+> inexpensive pedometer that measures how many steps you take. The company decided
+> to call the gadget Manpo-kei, which means “ten-thousand-step meter,” because it
+> sounded auspicious and catchy. And it was. The pedometer sold like hotcakes, and
+> ten thousand steps has since been adopted worldwide as a benchmark for minimal
+> daily physical activity.
 
 
 ## Further resources {#further-resources}
@@ -513,54 +594,9 @@ Cortisol and [sugar]({{< relref "../../topics/zucker.md" >}}) absorption:
 > a high-pressure office job can be a double whammy.
 
 
-### 118 {#118}
-
-About ATP and ADP:
-
-> These ubiquitous miniature batteries, which power all life on earth, are called [ATP]({{< relref "../../topics/atp.md" >}})s (adenosine triphosphates). As the name implies, each **ATP** consists of a tiny molecule (an **adenosine**) attached to three molecules of phosphate (a phosphorus atom surrounded by oxygen atoms). **These three phosphates are bound to each other in a chain, one on top of the other, storing energy in the chemical bonds between each phosphate**. **When the last of these phosphates is broken off using water, the tiny quantity of energy that binds it to the second phosphate is liberated along with one hydrogen ion (H+)**, leaving behind an **ADP** (**adenosine diphosphate**). This liberated energy powers almost everything done by every cell in the body like firing nerves, making proteins, and contracting muscles. And, critically, **ATPs are rechargeable**. By **breaking down chemical bonds in sugar and fat molecules, cells acquire the energy to restore ADPs to ATPs by adding back the lost phosphate**. The problem is, however, that regardless of whether we are hyenas or humans, **the faster we run, the more our bodies struggle to recharge these ATPs**, thus curtailing our speed after a short while.
-
-
-### 119 {#119}
-
-> But there is a consequential catch: during [glycolysis]({{< relref "../../topics/glycolysis.md" >}}) the leftover halves of
-> each sugar, molecules known as pyruvates, accumulate faster than cells can
-> handle. As **pyruvates** pile up to intolerable levels, enzymes **convert each
-> pyruvate into a molecule called lactate along with a hydrogen ion** (H+). Although
-> **lactate is harmless and eventually used to recharge ATPs, those hydrogen ions
-> make muscle cells increasingly acidic, causing fatigue, pain, and decreased
-> function**. Within about thirty seconds, a sprinter’s legs feel as if they are
-> burning. It then takes a lengthy period of time to slowly neutralize the acid
-> and shuttle the surplus lactate into the third, final, but long-term  aerobic
-> energy process.
-
-
-### 119 {#119}
-
-> [Sugar]({{< relref "../../topics/zucker.md" >}}) is synonymous with sweetness, but it’s first and foremost a fuel used to
-> recharge ATPs through a process termed glycolysis (from glyco for “sugar” and
-> lysis for “break down”). During [glycolysis]({{< relref "../../topics/glycolysis.md" >}}), **enzymes swiftly snip sugar molecules
-> in half, liberating the energy from those bonds to charge two ATPs**. Restoring
-> ATPs from sugar doesn’t require oxygen and is rapid enough to provide almost
-> half the energy used during a thirty-second sprint. In fact, a fit human can
-> store enough sugar to run nearly fifteen miles.
-
-
-### 121 {#121}
-
-> your VO2 max, you need glycolysis to supply additional fuel to your muscles.
-> Speeds above this range cannot be sustained, because muscles become acidic.
-> Fortunately, your [VO2 max]({{< relref "../../topics/vo2_max.md" >}}) has little effect on speed during short bursts of
-> maximum intensity, such as a thirty-second sprint, but the longer the distance,
-> the more it matters. **For a hundred-meter dash, only 10 percent of your energy
-> comes from aerobic respiration, but that percentage increases to 30 percent over
-> four hundred meters, 60 percent for eight hundred meters, and 80 percent for a
-> mile. The farther you go, the more your maximum speed benefits from a high VO2
-> max** (which, as we will see, you can increase by training)
-
-
 ### 138 {#138}
 
-About caloric excess:
+About **caloric excess**:
 
 > Another drawback of being superstrong that mattered in the Stone Age is its
 > caloric cost. **Bodybuilders who can lift a cow must also eat as much as a cow.
@@ -597,26 +633,29 @@ About caloric excess:
 
 ### 181 {#181}
 
-Unless you are like Mary, you have probably given little thought to the act of walking since you started toddling at about one year old.7 That effortlessness is a remarkable achievement of your amazing nervous system, which dynamically controls the many dozens of muscles needed to put one foot in front of the other in varied and sometimes treacherous conditions including rocky mountain paths and icy sidewalks. Sadly, it often takes an accident or a stroke for you to appreciate these patterned movements and reflexes, which must accomplish two major things: move you efficiently and keep you from falling over.
+Walking as a complex movement:
 
-walking as a complex movement
+> Unless you are like Mary, you have probably given little thought to the act of
+> walking since you started toddling at about one year old.That effortlessness is
+> a remarkable achievement of your amazing nervous system, which dynamically
+> controls the many dozens of muscles needed to put one foot in front of the other
+> in varied and sometimes treacherous conditions including rocky mountain paths
+> and icy sidewalks. Sadly, it often takes an accident or a stroke for you to
+> appreciate these patterned movements and reflexes, which must accomplish two
+> major things: move you efficiently and keep you from falling over.
 
 
 ### 188 {#188}
 
-In theory, the cost of carrying something should be approximately proportional to its weight. Carrying an infant who weighs 10 percent of your body weight should be like being 10 percent heavier and thus cost you 10 percent more calories when you walk. If only it were that easy. Dozens of studies have found that carrying loads less than half one’s body weight typically costs an extra 20 percent of the added weight, and when loads get really heavy, the costs increase exponentially.
+On carrying stuff:
 
-
-### 197 {#197}
-
-A veritable who’s who of medical organizations agree that adults should get at least 30 minutes of “moderate to vigorous” aerobic exercise at least five days a week for a minimum of 150 minutes per week.
-
-
-### 197 {#197}
-
-In the mid-1960s, a Japanese company, Yamasa Tokei, invented a simple, inexpensive pedometer that measures how many steps you take. The company decided to call the gadget Manpo-kei, which means “ten-thousand-step meter,” because it sounded auspicious and catchy. And it was. The pedometer sold like hotcakes, and ten thousand steps has since been adopted worldwide as a benchmark for minimal daily physical activity.
-
-ten thousand steps
+> In theory, the cost of carrying something should be approximately proportional
+> to its weight. Carrying an infant who weighs 10 percent of your body weight
+> should be like being 10 percent heavier and thus cost you 10 percent more
+> calories when you walk. If only it were that easy. Dozens of studies have found
+> that carrying loads less than half one’s body weight typically costs an extra 20
+> percent of the added weight, and when loads get really heavy, the costs increase
+> exponentially.
 
 
 ### 225 {#225}
