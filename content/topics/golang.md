@@ -62,6 +62,7 @@ draft = false
 
 ### Error handling {#error-handling}
 
+-   2023-07-04 ◦ [Master Golang Error Handling: Step-by-Step Guide to Robust and Resilient Applications](https://medium.com/@methosi/master-golang-error-handling-a-comprehensive-step-by-step-guide-to-best-practices-698a0530604f)
 -   2023-06-22 ◦ [Gopher Wrangling. Effective error handling in Go | Stephen's Tech Blog](https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/)
 -   2022-12-22 ◦ [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
 

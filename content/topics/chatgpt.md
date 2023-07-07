@@ -14,6 +14,7 @@ draft = false
 
 ### Use cases {#use-cases}
 
+-   2023-07-05 ◦ [Top 7 ChatGPT Developer Hacks - YouTube](https://www.youtube.com/watch?v=9W_U1y7RYuE)
 -   2023-06-06 ◦ [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 -   2023-05-10 ◦ [Summarizing URLs with ChatGPT](https://willschenk.com/howto/2023/summarizing_urls_with_chatgpt/)
 -   2023-04-03 ◦ [Plato](https://platoeducation.ai/#/notes/)

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       bc96589a-a9f4-4b75-951f-8265ef0a71d4
+:END:
 #+created: 20210629065709697
 #+modified: 20210629071253715
 #+revision: 0
@@ -7,3 +10,5 @@
 
 - "Continuous Glucose Measurement"
 - [[https://www.northcoastmed.com/continuous-glucose-monitor-review-2020/][CGM Reviews 2020]]
+* Articles
+- 2023-07-06 ◦ [[https://digital-diabetes.com/2022/11/12/smart-watches-how-to-have-your-blood-sugar-always-at-hand/][Smart watches. How to have your blood sugar always at hand. – Digital Diabetes]]

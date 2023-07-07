@@ -33,6 +33,7 @@
 ** Frontend
 - 2023-04-11 ◦ [[https://www.reddit.com/r/golang/comments/10nw07z/best_frontend_stack_for_golang_backend/][Best front-end stack for Golang backend]]
 ** Error handling
+- 2023-07-04 ◦ [[https://medium.com/@methosi/master-golang-error-handling-a-comprehensive-step-by-step-guide-to-best-practices-698a0530604f][Master Golang Error Handling: Step-by-Step Guide to Robust and Resilient Applications]]
 - 2023-06-22 ◦ [[https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/][Gopher Wrangling. Effective error handling in Go | Stephen's Tech Blog]]
 - 2022-12-22 ◦ [[https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/][New in Go 1.20: wrapping multiple errors]]
 ** HTTP

@@ -44,3 +44,5 @@
 - Insufficient Due Diligence
   - not understanding the risks
 - Shared Technology Vulnerabilites
+* Articles
+  - 2023-05-25 ◦ [[https://www.digitalguardian.com/blog/50-aws-security-tips-secure-your-environment][50 AWS Security Tips To Secure Your Environment]]

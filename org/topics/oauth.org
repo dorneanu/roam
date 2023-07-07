@@ -10,6 +10,7 @@
 
 * RFCs
 * Resources
+- 2023-07-05 ◦ [[https://www.youtube.com/watch?v=ZV5yTm4pT8g][OAuth 2 Explained In Simple Terms - YouTube]]
 - 2023-04-06 ◦ [[https://developer.okta.com/blog/2023/04/04/spa-auth-tokens][How Authentication and Authorization Work for SPAs | Okta Developer]]
   - nice pictures with dinosaurs
 - 2023-01-02 ◦ [[https://stackoverflow.blog/2022/12/22/the-complete-guide-to-protecting-your-apis-with-oauth2/][The complete guide to protecting your APIs with OAuth2 (part 1) - Stack Overflow Blog]]

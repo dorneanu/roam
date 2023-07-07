@@ -57,3 +57,8 @@ Vendor lock-in
 -   Insufficient Due Diligence
     -   not understanding the risks
 -   Shared Technology Vulnerabilites
+
+
+## Articles {#articles}
+
+-   2023-05-25 ◦ [50 AWS Security Tips To Secure Your Environment](https://www.digitalguardian.com/blog/50-aws-security-tips-secure-your-environment)

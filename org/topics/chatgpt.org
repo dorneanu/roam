@@ -8,6 +8,7 @@
 - 2023-03-22 ◦ [[https://github.com/xenodium/chatgpt-shell][GitHub - xenodium/chatgpt-shell]] ([[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]])
 - 2023-01-18 ◦ [[https://github.com/joshcho/ChatGPT.el][GitHub - joshcho/ChatGPT.el: ChatGPT in Emacs]] ([[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]])
 ** Use cases
+- 2023-07-05 ◦ [[https://www.youtube.com/watch?v=9W_U1y7RYuE][Top 7 ChatGPT Developer Hacks - YouTube]]
 - 2023-06-06 ◦ [[https://platform.openai.com/docs/guides/gpt-best-practices][GPT Best Practices]]
 - 2023-05-10 ◦ [[https://willschenk.com/howto/2023/summarizing_urls_with_chatgpt/][Summarizing URLs with ChatGPT]]
 - 2023-04-03 ◦ [[https://platoeducation.ai/#/notes/][Plato]]
