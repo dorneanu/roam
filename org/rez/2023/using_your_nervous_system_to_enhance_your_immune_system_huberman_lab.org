@@ -1,0 +1,121 @@
+:PROPERTIES:
+:ID:       9bee8f53-927c-47e2-bebc-a1a772faaacc
+:END:
+#+TITLE: Using Your Nervous System to Enhance Your Immune System (Huberman Lab)
+#+filetags: :health:podcast:
+#+CREATED: [2023-07-08 Sa]
+
+* Using Your Nervous System to Enhance Your Immune System (Huberman Lab)
+:PROPERTIES:
+:URL: https://hubermanlab.com/using-your-nervous-system-to-enhance-your-immune-system/
+:END:
+* Summary by podcastnotes.org
+** *Key Takeaways*
+
+- The immune system has three main systems of protection: physical barriers
+  (e.g., skin, eyes), innate immune system (e.g., white blood cells, killer
+  cells), adaptive immune system (e.g., creation of antibodies)
+- Sickness-related behaviors look a lot like depressive symptoms leading to a
+  theory that depression involves activation of inflammatory cytokines
+- Stimulation of the dopamine pathway can accelerate healing and liberate
+  systems in the body which allow inflammatory pathways to go down and
+  anti-inflammatory pathways to go up
+- [[id:2965cd54-8ffb-48a1-9b88-07ca58f97469][The Wim Hof Method]] breathing is a zero-cost tool shown to enhance the immune
+  system by releasing adrenaline and reducing the effects of illness symptoms
+- Wim Hof breathing steps:(1) 20-30 deep inhales and exhales through nose; (2)
+  exhale of all air to empty lungs; (3) hold breath for up to 60 seconds; (4)
+  repeat 2-4 rounds
+- Maintaining a healthy microbiome (gut, eyes, mucus) supports good health:
+  nasal breathe as often as possible, don't touch eyes after touching other
+  things, ingest fermented foods to enhance gut microbiota
+
+** *Immune System 101*
+
+- *Three main layers of protection:* (1) physical barrier AKA skin; (2) innate
+  immune system; (3) adaptive immune system
+- The primary sites of infections from the outside world are through eyes, ears,
+  nostrils, mouth
+- *Mucus* acts as a filter for bacteria and viruses, making sure certain things
+  don't make it in and you can extract nutrients from others
+- *Innate immune system:* rapid response system when the body doesn't recognize
+  foreign invader (bacteria, virus, or parasite) trying to enter the body
+- *White blood cells* (part of the innate immune system) will go to the site of
+  the foreign invader and try to kill by engulfing and isolating
+- [[id:f730d8cf-edf2-4818-9bcc-c9748e2a798e][Cytokines]] (also part of the innate immune system) send “help me” signals to
+  bring in killer cells and white blood cells to get rid of the foreign invader
+- The *adaptive immune system* creates antibodies against bacteria, viruses,
+  parasites, physical intruders to the system
+- *The adaptive immune system creates a memory of prior infection so it can
+  create antibodies anytime that same invader comes back*
+- Hematopoietic stem cells can create and maintain antibodies so recognized
+  virus doesn't go through
+- *Immunoglobulin M (IgM):* first of adaptive immune responses that comes on
+  board; this is the first marker you'll see for new or recent infection
+- *Immunoglobulin G (IgG)* comes on board later
+
+** *Maintaining A Healthy Microbiome*
+
+- *Maintaining a microbiome is critical for good health* -- microbiota isn't just
+  referring to the gut; there's microbiota along with every orifice of the body
+  from eyes, nostrils, etc.
+- *Tip 1: Use nasal breathing (not mouth breathing) as often as possible because
+  the nasal microbiome* *is particularly good at scrubbing infection*
+- *Tip 2: Don't touch your eyes after touching anything else since the eyes are a
+  primary entry point for a lot of bacteria and viruses*
+- *Tip 3: Enhance gut microbiota by ingesting 2-4 servings per day of low sugar
+  fermented foods*
+
+** *Sickness Behavior*
+
+- *Natural behaviors when fighting illness or virus:* slow down, reduce grooming
+  activities and cosmetic behaviors, lose appetite, sleep more, vulnerability
+  and desire to have others take care of us -- or -- desire to be alone more
+  than usual, loss of libido, aversion to bright light
+- More sleep gives the lymphatic system a chance to ramp up activity
+- *Sickness behaviors look a lot like depressive symptoms leading to a theory
+  that depression involves activation of inflammatory cytokines*
+- Reduced appetite (particularly for protein-rich foods) may be an attempt by
+  the body to reduce iron intake because bacteria thrive when iron is high
+- The [[id:4bc93a99-ea0f-4566-9d08-0bb12f288ebe][vagus nerve]] connects the body and brain and signals sickness behavior
+- Fever is a functional and adaptive response to kill of invaders
+- *There's a difference between regular sleep and sleep that's in support of the
+  immune system:* sleep associated with infection releases more serotonin to
+  support a robust immune response
+
+** *Leverage Nervous System To Boost Immune System*
+
+- The nervous system can be activated and used to control the immune system
+- *Basics we know give ourselves the best chance at health:* hydrate with water
+  and electrolytes, good quality sleep, sunshine, good nutrition, at least 150
+  minutes of exercise each week, hydration, strong social relationships, etc.
+- *The glymphatic system which clears out debris that surrounds injured neurons
+  is underactive in illness*
+- *Two methods of glymphatic system activation:* (1) sleeping on the side instead
+  of back or stomach; (2) sleeping with feet slightly elevated
+- *Sauna or hot bath for about 15 minutes* will help the body reduce internal
+  temperature afterward /(caution -- do not get into a sauna if you have a fever)/
+- *Heat cycle protocol:* stay in heat environment for 15 minutes, cool off for 5
+  minutes, reenter heat
+- *Wim Hof breathing protocol was shown to enhance immune system & combat illness*
+- *Wim Hof breathing steps:* (1) 20-30 deep inhales through the nose and exhales
+  through the mouth; (2) exhale of all air to empty lungs; (3) hold breath for
+  up to 60 seconds; (4) repeat 2-4 rounds
+- *Why does breathing work?* Breathing protocol activates the sympathetic nervous
+  system which allows activation of the normal pathway (trigger release of
+  adrenaline and epinephrine) which enhances immune function
+
+** *Impact Of Mindset On Immune System*
+
+- The way we think about something can change the core of our physiology
+- *Keep stress in check: you can worry yourself sick!*
+- Stimulation of the dopamine pathway -- even by thinking positively about the future -- activates the mesolimbic pathway and can increase the rate of healing
+- *Stimulation of the dopamine pathway can accelerate healing and liberate systems in the body which allow inflammatory pathways to go down and anti-inflammatory pathways to go up*
+
+** *New Ways To Address Symptoms When You're Already Sick*
+- *Spirulina* can have powerful effects in relieving nasal stuffiness and inflammation
+- *Acupuncture* can stimulate vagal-adrenal reflex and reduce inflammation
+
+
+* Actions
+* Quotes
+* Notes
