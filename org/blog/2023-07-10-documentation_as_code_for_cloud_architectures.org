@@ -1,0 +1,109 @@
+:PROPERTIES:
+:ID:       516533e9-89e4-4320-ab2b-eff3b62df6d8
+:END:
+#+SETUPFILE: blog.setup
+#+filetags: :todo:
+#+TITLE: Documentation as Code for Cloud Architectures
+#+CREATED: 2023-07-10
+#+HUGO_DRAFT: true
+
+* Introduction
+As a Security Architect, my role encompasses reviewing existing architectures as
+well as designing brand new ones from scratch. The opportunity to apply /Security
+principles/ during the design phase and develop an entirely new infrastructure
+with Security as the core focus is truly exceptional.
+
+*Designing* a secure cloud architecture is vital for achieving /scalability/,
+/reliability/, and /compliance with regulations/. It allows businesses to optimize
+their cloud infrastructure while maintaining the highest levels of data
+security.
+
+Being able to *prototype* and *visualize* a draft for the upcoming architecture will
+greatly support making thought-out decisions. In this blog post, I will present
+some technologies and tools that I have come across.
+
+* What to design
+First let's define the cornerstones for the architecture we would like to
+design. For the sake of simplicity and because I am most familiar with it, we
+will be using AWS.
+
+The architecture will consist of multiple *organizational units* (OUs) which
+include ~tech~, ~devops~, ~security~, and ~hr~.
+
+Within each organizational unit, there will be ~multiple accounts~. This allows us
+to have different deployment environments such as production (~prod~) and
+development (~dev~).
+
+💡: Draw architecture on a piece of paper first. This should be the starting point.
+
+
+* PlantUML
+#+begin_src plantuml
+@startuml VPC
+'Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+'SPDX-License-Identifier: MIT (For details, see https://github.com/awslabs/aws-icons-for-plantuml/blob/master/LICENSE)
+
+' Uncomment the line below for "dark mode" styling
+'!$AWS_DARK = true
+
+!define AWSPuml https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v16.0/dist
+!include AWSPuml/AWSCommon.puml
+!include AWSPuml/AWSSimplified.puml
+!include AWSPuml/Compute/EC2.puml
+!include AWSPuml/Compute/EC2Instance.puml
+!include AWSPuml/Groups/AWSCloud.puml
+!include AWSPuml/Groups/VPC.puml
+!include AWSPuml/Groups/AvailabilityZone.puml
+!include AWSPuml/Groups/PublicSubnet.puml
+!include AWSPuml/Groups/PrivateSubnet.puml
+!include AWSPuml/NetworkingContentDelivery/VPCNATGateway.puml
+!include AWSPuml/NetworkingContentDelivery/VPCInternetGateway.puml
+
+hide stereotype
+skinparam linetype ortho
+
+AWSCloudGroup(cloud) {
+  VPCGroup(vpc) {
+    VPCInternetGateway(internet_gateway, "Internet gateway", "")
+
+    AvailabilityZoneGroup(az_1, "\tAvailability Zone 1\t") {
+      PublicSubnetGroup(az_1_public, "Public subnet") {
+        VPCNATGateway(az_1_nat_gateway, "NAT gateway", "") #Transparent
+      }
+      PrivateSubnetGroup(az_1_private, "Private subnet") {
+        EC2Instance(az_1_ec2_1, "Instance", "") #Transparent
+      }
+
+      az_1_ec2_1 .u.> az_1_nat_gateway
+    }
+
+    AvailabilityZoneGroup(az_2, "\tAvailability Zone 2\t") {
+      PublicSubnetGroup(az_2_public, "Public subnet") {
+        VPCNATGateway(az_2_nat_gateway, "NAT gateway", "") #Transparent
+      }
+      PrivateSubnetGroup(az_2_private, "Private subnet") {
+        EC2Instance(az_2_ec2_1, "Instance", "") #Transparent
+      }
+
+      az_2_ec2_1 .u.> az_2_nat_gateway
+    }
+
+    az_2_nat_gateway .[hidden]u.> internet_gateway
+    az_1_nat_gateway .[hidden]u.> internet_gateway
+  }
+}
+@enduml
+#+end_src
+
+#+RESULTS:
+[[file:/tmp/babel-fWhyPv/plantuml-3mgjbJ.png]]
+
+
+* TODO Structurizr DSL
+
+* TODO mingrammer/diagrams
+- basic architecture
+- show structurizr lite
+- export for ilograph
+- play around with structurizr DSL
+* TODO goa.design
