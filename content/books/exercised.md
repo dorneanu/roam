@@ -154,7 +154,7 @@ On the history of chairs:
 
 ### 75 {#75}
 
-On cytokine and inflammations:
+On [cytokine]({{< relref "../../topics/cytokine.md" >}}) and inflammations:
 
 > The answer has recently become apparent thanks to new technologies that
 > accurately measure minuscule quantities of the more than one thousand tiny

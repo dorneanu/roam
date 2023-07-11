@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9f969c10-3849-4db9-8d4a-93568b5c465f
+:END:
+#+TITLE: 2023-07-10
+#+DATE: 2023-07-10
+#+FILETAGS: journal
+
+- 2023-07-10 ◦ [[https://egor-romanov.medium.com/building-a-startup-from-scratch-my-mistakes-as-cto-b20b463e0058][Building a Startup from Scratch: My Mistakes as CTO | by Egor Romanov | Medium]]
+  - author suggests using [[https://supabase.com/][supabase]] instead
