@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       516533e9-89e4-4320-ab2b-eff3b62df6d8
+:END:
+#+SETUPFILE: blog.setup
+#+filetags: :todo:
+#+TITLE: Documentation as Code using DSLs
+#+CREATED: 2023-07-10
+#+HUGO_DRAFT: true
+
+- basic architecture
+- show structurizr lite
+- export for ilograph
+- play around with structurizr DSL
