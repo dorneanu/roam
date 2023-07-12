@@ -48,4 +48,5 @@ draft = false
 
 ## Articles {#articles}
 
+-   2023-07-12 ◦ [How To Design Software Architecture For Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
 -   2023-03-27 ◦ [Architects, Anti-Patterns, and Organizational Fuckery – charity.wtf](https://charity.wtf/2023/03/09/architects-anti-patterns-and-organizational-fuckery/)
