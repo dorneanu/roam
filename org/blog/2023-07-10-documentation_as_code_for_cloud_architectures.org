@@ -27,16 +27,100 @@ First let's define the cornerstones for the architecture we would like to
 design. For the sake of simplicity and because I am most familiar with it, we
 will be using AWS.
 
-The architecture will consist of multiple *organizational units* (OUs) which
+In order to have a concrete example, let's implement a *self-destructing Email service* that
+allows users to send *self-destructing* emails a la "Mission Impossible"  😎. The /software architecture/ for the self-destructing email service consists of following components:
+
+- *Frontend*
+
+  Handles user interactions and provides general UI for composing and sending
+  the emails. Web but also mobile apps should be supported.
+
+- *Authentication and Access Control*
+
+  Ensures that only authorized users can access the service and send
+  self-destructing emails.
+
+- *Message Lifetime Management*
+
+  Manages the lifespan of the self-destructing emails. It also tracks the time
+  of the email creation and sets and expiration period after which the email
+  will be automatically be deleted (or made inaccessible).
+
+- *Data storage*
+
+  The email service requires a backend data storage system to store email
+  metadata (sender, recipients, subject, expiration details). The email content
+  can be stored encrypted using a cloud storage system.
+
+- *Notification*
+
+  Handles the delivery of self-destructing email notifications to recipients. It
+  can use email, SMS or push notifications to alert recipients about the
+  received email and that it will self-destruct after a period of time.
+
+- *Expiration and Deletion*
+
+  Once the specified lifetime of the email has expired, this component is
+  responsible for permanently deleting the email content and the associated
+  metadata from the storage system.
+
+- *Logging and Auditing*
+
+  Records essential information, such as email creation, delivery and any access
+  attempts. This helps with identifying potential security breaches or tracking
+  email history.
+
+Let's add more complexity and use {{{zk_topic(microservices,microservices)}}} along with [[https://aws.amazon.com/eks/][AWS EKS]]. The infrastructure for the self-destructing email service, using AWS and EKS could consist of following components:
+
+- 🗳 *EKS Cluster*
+
+  Use the cluster to manage the containarized {{{zk_topic(microservices,microservices)}}}.
+
+- 🛡 *API Gateway*
+
+  Allow API access (for frontend and other clients) through a single endpoint
+  and implement all Security controls (e.g. authentication, authorization) at
+  this layer.
+
+- 🧰 *Microservices*
+
+  Let's briefly outline some microservices and their responsibilities:
+
+  - *Frontend*
+
+    This includes the containerized frontend component as a microservice. It handles user interactions and API calls against backend.
+
+  - *Message Lifetime Management*
+
+    Containerize the message lifetime management functionality as a
+    microservice, which tracks the email creation time, sets expiration periods,
+    and triggers the deletion of expired emails.
+
+  - *Notification Service*
+
+    Containerize the notification functionality as a microservice, responsible
+    for sending out notifications to recipients about the self-destructing
+    emails received.
+
+ - *Data Storage*
+
+  Utilize AWS managed services like Amazon RDS for storing email metadata,
+  Amazon S3 or Amazon EFS for storing email content and attachments, and Amazon
+  DynamoDB for tracking email history.
+
+- 📊 *Logging and Monitoring*
+
+  Use [[https://aws.amazon.com/cloudwatch/][AWS CloudWatch]] for logging and monitoring the infrastructure,
+  microservices, and application health.
+
+From an /organizational/ point of view there will be multiple *organizational units* (OUs) which
 include ~tech~, ~devops~, ~security~, and ~hr~.
 
 Within each organizational unit, there will be ~multiple accounts~. This allows us
 to have different deployment environments such as production (~prod~) and
 development (~dev~).
 
-💡: Draw architecture on a piece of paper first. This should be the starting point.
-
-
+* Draft using pen & paper
 * PlantUML
 #+begin_src plantuml
 @startuml VPC
@@ -94,10 +178,6 @@ AWSCloudGroup(cloud) {
 }
 @enduml
 #+end_src
-
-#+RESULTS:
-[[file:/tmp/babel-fWhyPv/plantuml-3mgjbJ.png]]
-
 
 * TODO Structurizr DSL
 
