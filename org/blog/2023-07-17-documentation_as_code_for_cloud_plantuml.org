@@ -1,0 +1,239 @@
+:PROPERTIES:
+:ID:       f3ee7edf-008f-4fa0-9fff-3b759738ad13
+:END:
+#+SETUPFILE: blog.setup
+#+TITLE: Documentation as Code for Cloud - PlantUML
+#+CREATED: 2023-07-18
+#+HUGO_DRAFT: true
+#+HUGO_CUSTOM_FRONT_MATTER: :series '("Documentation as Code for Cloud")
+
+* Basics
+:PROPERTIES:
+:header-args: :prologue (org-sbe plantuml_includes) :exports code :results none
+:END:
+Here is the basic structure for the PlantUML code:
+
+You can easily create *groups* of resources
+
+#+name: puml-dir
+#+begin_src emacs-lisp :exports none :var filename=""
+(princ (concat "/cs/priv/repos/blog/static/posts/img/2023/documentation-as-code/" filename))
+#+end_src
+
+#+name: plantuml_includes
+#+caption: Includes for plantuml
+#+begin_example
+' !define AWSPuml https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v16.0/dist
+!define AWSPuml /home/victor/work/repos/aws-icons-for-plantuml/dist
+!include AWSPuml/AWSCommon.puml
+!include AWSPuml/AWSSimplified.puml
+!include AWSPuml/ApplicationIntegration/APIGateway.puml
+!include AWSPuml/ApplicationIntegration/SimpleNotificationService.puml
+!include AWSPuml/ManagementGovernance/CloudWatch.puml
+!include AWSPuml/Compute/EC2.puml
+!include AWSPuml/Compute/EC2Instance.puml
+!include AWSPuml/Compute/LambdaLambdaFunction.puml
+!include AWSPuml/Groups/all.puml
+!include AWSPuml/Containers/EKSCloud.puml
+!include AWSPuml/NetworkingContentDelivery/VPCNATGateway.puml
+!include AWSPuml/NetworkingContentDelivery/VPCInternetGateway.puml
+!include AWSPuml/NetworkingContentDelivery/VPCEndpoints.puml
+!include AWSPuml/Storage/SimpleStorageService.puml
+!include AWSPuml/SecurityIdentityCompliance/IAMIdentityCenter.puml
+
+hide stereotype
+skinparam linetype ortho
+#+end_example
+
+
+- Generic group
+
+#+caption: Using generic group
+#+begin_src plantuml :file (org-sbe puml-dir (filename \"plantuml-group-generic.png\"))
+GenericGroup(generic_group, "Generic Group") {
+  package "Some Group" {
+    HTTP - [First Component]
+    [Another Component]
+  }
+
+  node "Other Groups" {
+    FTP - [Second Component]
+    [First Component] --> FTP
+  }
+}
+#+end_src
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/plantuml-group-generic.png" title="" caption="" pos="left" >}}
+
+- Generic alt group
+
+#+caption: Using generic alt group
+#+begin_src plantuml :file (org-sbe puml-dir (filename \"plantuml-group-generic-alt.png\"))
+GenericAltGroup(generic_alt_group, "Generic Alt Group") {
+  node node1
+  node node2
+  node node3
+  node node4
+  node node5
+  node1 -- node2 : label1
+  node1 .. node3 : label2
+  node1 ~~ node4 : label3
+  node1 == node5
+}
+#+end_src
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/plantuml-group-generic-alt.png" title="" caption="" pos="left" >}}
+
+- AWS Cloud Group
+
+#+caption: Using AWS cloud group
+#+begin_src plantuml :file (org-sbe puml-dir (filename \"plantuml-group-awscloud.png\"))
+AWSCloudGroup(aws_cloud, "AWS Cloud Group") {
+  AWSAccountGroup(aws_acc_group, "AWS Account Group") {
+    VPCGroup(vpc_group, "VPC Group") {
+      PrivateSubnetGroup(priv_subnet1, "Private Subnet Group") {
+        [component] as C1
+      }
+      PrivateSubnetGroup(priv_subnet2, "Private Subnet Group") {
+        [component] as C2
+      }
+    }
+  }
+}
+#+end_src
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/plantuml-group-awscloud.png" title="" caption="" pos="left" >}}
+
+
+
+#+begin_src emacs-lisp
+(setq-local company-backends '(company-dabbrev company-files)
+            company-dabbrev-other-buffers t
+            company-dabbrev-ignore-case nil
+            company-dabbrev-downcase nil)
+#+end_src
+* AWS Architecture
+:PROPERTIES:
+:header-args: :prologue (org-sbe plantuml_includes) :exports code :results none
+:END:
+
+
+
+** Account level
+
+#+caption: Using AWS cloud group
+#+begin_src plantuml :file (org-sbe puml-dir (filename \"plantuml-aws-accounts.png\"))
+AWSCloudGroup(cloud) {
+  GenericGroup(ou_tech, "OU-Tech") {
+    AWSAccountGroup(acc_tech_prod, "prod") {
+    }
+  }
+
+  GenericGroup(ou_security, "OU-Security") {
+    AWSAccountGroup(acc_security_prod, "prod") {
+    }
+  }
+
+  GenericGroup(ou_devops, "OU-DevOps") {
+    AWSAccountGroup(acc_devops_prod, "prod") {
+    }
+  }
+}
+#+end_src
+
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/plantuml-aws-accounts.png" title="" caption="" pos="left" >}}
+
+** VPC Level
+
+#+caption: Using AWS cloud group
+#+begin_src plantuml :file (org-sbe puml-dir (filename \"plantuml-aws-vpc.png\"))
+AWSCloudGroup(cloud) {
+  GenericGroup(ou_tech, "OU-Tech") {
+    AWSAccountGroup(acc_tech_prod, "prod") {
+      VPCGroup(vpc_tech, "Custom VPC") {
+        EKSCloud(tech_eks_cluster, "Tech EKS Cluster", "Cluster") {
+        }
+        VPCEndpoints(tech_vpc_endpoint, "VPC Endpoint", "VPC Endpoint")
+      }
+    }
+  }
+
+  GenericGroup(ou_security, "OU-Security") {
+    AWSAccountGroup(acc_security_prod, "prod") {
+    }
+  }
+
+  GenericGroup(ou_devops, "OU-DevOps") {
+    AWSAccountGroup(acc_devops_prod, "prod") {
+      GenericAltGroup(devops_cicd_group, "CI/CD") {
+      }
+
+      GenericAltGroup(devops_infraprov_group, "Infrastructure provisioning") {
+      }
+
+      GenericAltGroup(devops_releasemgmt_group, "Release Management") {
+      }
+    }
+  }
+}
+#+end_src
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/plantuml-aws-vpc.png" title="" caption="" pos="left" >}}
+** Relationships
+
+#+caption: Using AWS cloud group
+#+begin_src plantuml :file (org-sbe puml-dir (filename \"plantuml-aws-full.png\"))
+AWSCloudGroup(cloud) {
+  GenericGroup(ou_tech, "OU-Tech") {
+    AWSAccountGroup(acc_tech_prod, "prod") {
+      VPCGroup(vpc_tech, "Custom VPC") {
+        EKSCloud(tech_eks_cluster, "Tech EKS Cluster", "Cluster") {
+        }
+        VPCEndpoints(tech_vpc_endpoint, "VPC Endpoint", "VPC Endpoint")
+      }
+      APIGateway(tech_api_gw, "API GW", "API GW")
+    }
+
+    ' Relationships
+    tech_api_gw --> tech_vpc_endpoint
+  }
+
+  GenericGroup(ou_security, "OU-Security") {
+    AWSAccountGroup(acc_security_prod, "prod") {
+      CloudWatch(sec_cloudwatch, "Cloudwatch", "Cloudwatch")
+      SimpleStorageService(sec_s3, "S3 Bucket", "S3 Bucket")
+      IAMIdentityCenter(sec_iam_center, "IAM", "IAM")
+
+      GenericAltGroup(sec_alerting_group, "Alerting") {
+        SimpleNotificationService(sec_sns, "SNS", "SNS")
+        LambdaLambdaFunction(sec_lambda, "Lambda", "Lambda")
+      }
+
+    }
+    ' Relationships
+    tech_api_gw --> sec_iam_center
+    sec_cloudwatch --> sec_alerting_group
+    tech_eks_cluster -- sec_s3
+  }
+
+  GenericGroup(ou_devops, "OU-DevOps") {
+    AWSAccountGroup(acc_devops_prod, "prod") {
+      GenericAltGroup(devops_cicd_group, "CI/CD") {
+      }
+
+      GenericAltGroup(devops_infraprov_group, "Infrastructure provisioning") {
+      }
+
+      GenericAltGroup(devops_releasemgmt_group, "Release Management") {
+      }
+
+      ' Relationships
+      devops_infraprov_group -right- acc_tech_prod
+      devops_cicd_group -right- tech_eks_cluster
+    }
+  }
+}
+#+end_src
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/plantuml-aws-full.png" title="" caption="" pos="left" >}}

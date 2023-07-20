@@ -4,6 +4,7 @@
 #+title: rss
 
 * Resources
+- 2023-07-17 ◦ [[https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge][RSS-Bridge (c)]]
 - 2023-07-10 ◦ [[https://github.com/midzer/sitemap2feed][GitHub - midzer/sitemap2feed: Convert an online sitemap to Atom, RSS and JSON feeds]]
 - 2023-01-02 ◦ [[https://www.rssbrain.com/][RSS Brain - A Modern RSS Reader]]
 - 2022-12-14 ◦ [[https://tfos.co/p/rebuild-social-media/][How to rebuild social media on top of RSS]]
