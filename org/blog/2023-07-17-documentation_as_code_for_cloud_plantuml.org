@@ -6,7 +6,7 @@
 #+CREATED: 2023-07-18
 #+HUGO_DRAFT: true
 #+HUGO_CUSTOM_FRONT_MATTER: :series '("Documentation as Code for Cloud")
-#+macro: pumlref @@html:<center>👉 <a href="https://github.com/dorneanu/blog/blob/master/static/code/2023/documentation-as-code/$1">Full PlantUML Code</a></center>@@
+#+macro: pumlref @@html:<center>👉 <a href="https://github.com/dorneanu/blog/blob/master/static/code/2023/documentation-as-code/plantuml//$1">Full PlantUML Code</a></center>@@
 
 * Config                                                                        :noexport:
 This are some configuration variables for PlantUML
