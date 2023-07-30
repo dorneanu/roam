@@ -2,9 +2,10 @@
 :ID:       f3ee7edf-008f-4fa0-9fff-3b759738ad13
 :END:
 #+SETUPFILE: blog.setup
+#+filetags: :documentation:architecture:plantuml:aws:
 #+TITLE: Documentation as Code for Cloud - PlantUML
-#+CREATED: 2023-07-18
-#+HUGO_DRAFT: true
+#+CREATED: 2023-07-30
+#+HUGO_DRAFT: false
 #+HUGO_CUSTOM_FRONT_MATTER: :series '("Documentation as Code for Cloud")
 #+macro: pumlref @@html:<center>👉 <a href="https://github.com/dorneanu/blog/blob/master/static/code/2023/documentation-as-code/plantuml//$1">Full PlantUML Code</a></center>@@
 
@@ -39,15 +40,14 @@ I've become a huge fan of [[https://plantuml.com/][PlantUML]] even before I came
 I also code for presentations. So the term [[https://slides.dornea.nu/2022/presentation-as-code][presentation as code]] is also a thing.
 #+end_sidenote
 
-and it instantly won me over with its capabilities. I
-have used it in many different roles (software engineer, security engineer,
-security architect) extensively to draw diagrams ([[https://plantuml.com/component-diagram][components]], [[https://plantuml.com/sequence-diagram][sequences]]) and
-[[https://plantuml.com/mindmap-diagram][mind maps]].
+and it instantly won me over with its capabilities. I have used it in many
+different roles (software engineer, security engineer, security architect)
+extensively to draw diagrams ([[https://plantuml.com/component-diagram][components]], [[https://plantuml.com/sequence-diagram][sequences]]) and [[https://plantuml.com/mindmap-diagram][mind maps]].
 
 Though initially, the general syntax might seem a bit challenging to understand,
 I believe that with some dedication, the learning curve becomes quite
 manageable. The reward of mastering PlantUML is well worth the effort, as it
-empowers you to create visually engaging and informative diagrams seamlessly.
+empowers you to create /visually engaging/ and /informative diagrams/ seamlessly.
 
 One aspect where PlantUML might fall short is its default styling, which may not
 be as visually impressive as some other tools. However, this drawback can easily
@@ -226,7 +226,6 @@ Let's have a look at the most common groups:
   #+html: {{< gbox src="/posts/img/2023/documentation-as-code/plantuml-group-awscloud.png" title="" caption="" pos="left" >}}
   {{{pumlref(plantuml-group-awscloud.puml)}}}
 
-
 * AWS Architecture
 :PROPERTIES:
 :header-args: :prologue (org-sbe plantuml_includes) :exports code :results none
@@ -235,8 +234,11 @@ Let's have a look at the most common groups:
 On our journey of designing the AWS architecture for our innovative
 self-destroying email service, we should begin with a *high-level overview* to lay
 down the foundation. With PlantUML at our disposal, it's a wise approach to
-start by sketching the fundamental *high-level concepts* before going to deep into
-details.
+start by sketching the fundamental *high-level concepts*
+#+begin_sidenote
+You may also check the first post for some diagrams using pen & paper.
+#+end_sidenote
+before going to deep into details.
 
 By starting with the /organizational units/ and gradually adding layers of
 complexity, we can systematically build upon the architecture, ensuring a
@@ -261,12 +263,6 @@ architecture that meets our requirements.
 
 On the organizational level, we have three accounts: *OU-Tech*, *OU-Security*, and
 *OU-DevOps*. Each account has a *prod* environment.
-
-#+name: get-env
-#+BEGIN_SRC emacs-lisp :var suffixname='puml'
-;; (print suffixname)
-(eval `(org-sbe puml-code-dir (filename suffixname)))
-#+END_SRC
 
 #+caption: Using AWS cloud group
 #+header: :tangle (org-sbe puml-code-dir (filename $"plantuml-aws-accounts.puml"))
@@ -299,7 +295,8 @@ On the VPC level, we have a custom VPC with two private subnets. The VPC has a
 VPC endpoint to API Gateway. The VPC endpoint is used by the API Gateway to
 access the EKS cluster.
 
-The DevOps organizational
+The *DevOps* organizational unit also has some responsibilities which are highlighted
+as "groups" inside the OU.
 
 #+caption: Using AWS cloud group
 #+header: :tangle (org-sbe puml-code-dir (filename $"plantuml-aws-vpc.puml"))
@@ -400,6 +397,9 @@ AWSCloudGroup(cloud) {
 
 ** What about the rest?
 Our diagram is not complete yet. Every group region could have its own diagram (as if you would zoom in into a specific component). Let's have a look how we add Kubernetes related components such as /nodes/, /pods/ and /services/.
+#+begin_sidenote
+Also have a look at [[https://crashedmind.github.io/PlantUMLHitchhikersGuide/kubernetes/kubernetes.html][Hitchhikers Guide on Kubernetes]].
+#+end_sidenote
 
 #+caption: Using AWS cloud group
 #+header: :tangle (org-sbe puml-code-dir (filename $"plantuml-aws-full-eks.puml"))
@@ -718,4 +718,5 @@ Stay tuned!
 * COMMENT Local Variables                          :ARCHIVE:
 # Local Variables:
 # eval: (org-hugo-auto-export-mode)
+# org-agenda-files: nil
 # End:
