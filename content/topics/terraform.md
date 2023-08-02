@@ -28,3 +28,17 @@ draft = false
     > -   **Local blocks**: should be used for values that are known beforehand, but are good to abstract as variables, such as constants
 
     Use `yamldecode` to load a YAML file with all the settings (instead of defining everything in the TF file)
+
+
+### Layout {#layout}
+
+-   2023-08-01 ◦ [How to Create Terraform Multiple Environments](https://getbetterdevops.io/terraform-create-infrastructure-in-multiple-environments/)
+    -   separated directors vs workspaces
+-   2023-08-01 ◦ [How to Manage Terraform State in AWS - DEV Community](https://dev.to/aws-builders/how-to-manage-terraform-state-in-aws-1001)
+    -   Mentions [workspaces](https://developer.hashicorp.com/terraform/language/state/workspaces)
+    -   Has a good project layout (where each deployment environment gets its own folder)
+
+
+### Tagging {#tagging}
+
+-   2023-08-01 ◦ [Best Practices for Terraform AWS Tags](https://engineering.deptagency.com/best-practices-for-terraform-aws-tags)

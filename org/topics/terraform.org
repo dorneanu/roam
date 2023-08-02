@@ -30,3 +30,11 @@
  #+end_quote
 
  Use ~yamldecode~ to load a YAML file with all the settings (instead of defining everything in the TF file)
+** Layout
+- 2023-08-01 ◦ [[https://getbetterdevops.io/terraform-create-infrastructure-in-multiple-environments/][How to Create Terraform Multiple Environments]]
+  - separated directors vs workspaces
+- 2023-08-01 ◦ [[https://dev.to/aws-builders/how-to-manage-terraform-state-in-aws-1001][How to Manage Terraform State in AWS - DEV Community]]
+  - Mentions [[https://developer.hashicorp.com/terraform/language/state/workspaces][workspaces]]
+  - Has a good project layout (where each deployment environment gets its own folder)
+** Tagging
+- 2023-08-01 ◦ [[https://engineering.deptagency.com/best-practices-for-terraform-aws-tags][Best Practices for Terraform AWS Tags]]

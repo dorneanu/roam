@@ -106,6 +106,14 @@
 - [[https://www.searchsmart.org/?~()][Search Smart]]
 
   A search engine to help you find the most suitable database for your research
+
+- [[https://github.com/khoj-ai/khoj][khoj]]
+
+  Khoj is a desktop application to search and chat with your notes, documents
+  and images. It is an offline-first, open source AI personal assistant
+  accessible from your [[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]], Obsidian or Web browser. It works with jpeg,
+  markdown, notion, org-mode, pdf files and github repositories
+
 ** For productivity
 
 - [[https://www.anthropic.com/product][Anthropic / Claude]]

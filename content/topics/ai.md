@@ -114,6 +114,13 @@ draft = false
 
     A search engine to help you find the most suitable database for your research
 
+-   [khoj](https://github.com/khoj-ai/khoj)
+
+    Khoj is a desktop application to search and chat with your notes, documents
+    and images. It is an offline-first, open source AI personal assistant
+    accessible from your [Emacs]({{< relref "emacs.md" >}}), Obsidian or Web browser. It works with jpeg,
+    markdown, notion, org-mode, pdf files and github repositories
+
 
 ### For productivity {#for-productivity}
 

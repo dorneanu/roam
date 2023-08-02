@@ -5,6 +5,7 @@ draft = false
 
 ## Resources {#resources}
 
+-   2023-07-17 ◦ [RSS-Bridge (c)](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
 -   2023-07-10 ◦ [GitHub - midzer/sitemap2feed: Convert an online sitemap to Atom, RSS and JSON feeds](https://github.com/midzer/sitemap2feed)
 -   2023-01-02 ◦ [RSS Brain - A Modern RSS Reader](https://www.rssbrain.com/)
 -   2022-12-14 ◦ [How to rebuild social media on top of RSS](https://tfos.co/p/rebuild-social-media/)

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a24847e8-5739-4015-a160-98b7418e7a5e
+:END:
+#+TITLE: 2023-08-02
+#+DATE: 2023-08-02
+#+FILETAGS: journal
+
+- 2023-08-02 ◦ [[https://sidkik.com/][Sidkik]]
+  - For creating online courses
+  - originally from [[https://matthewbonig.sidkik.app/][here]]

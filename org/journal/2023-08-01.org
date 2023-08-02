@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       02d6743a-b338-430b-809f-6d1579d01756
+:END:
+#+TITLE: 2023-08-01
+#+DATE: 2023-08-01
+#+FILETAGS: journal
+
+- 2023-08-01 ◦ [[https://eighty-twenty.org/2023/07/31/dns-as-a-cdn][File distribution over DNS: (ab)using DNS as a CDN (eighty-twenty news)]]
+  Interesting idea
+- 2023-08-01 ◦ [[https://blog.trailofbits.com/2023/07/26/announcing-the-trail-of-bits-testing-handbook/][Announcing the Trail of Bits Testing Handbook | Trail of Bits Blog]]
+- Interesting workshops from Okta:
+  - 2023-08-01 ◦ [[https://developer.okta.com/blog/2023/07/28/terraform-workshop][Enterprise-Ready Workshop: Terraform | Okta Developer]]
+  - 2023-08-01 ◦ [[https://developer.okta.com/blog/2023/07/28/scim-workshop][Enterprise-Ready Workshop: SCIM | Okta Developer]]
+  - 2023-08-01 ◦ [[https://developer.okta.com/blog/2023/07/28/oidc_workshop][Enterprise-Ready Workshop: OpenID Connect | Okta Developer]]
+- 2023-08-01 ◦ [[https://securitylabs.datadoghq.com/articles/exploring-github-to-aws-keyless-authentication-flaws/][No keys attached: Exploring GitHub-to-AWS keyless authentication flaws | Datadog Security Labs]]
