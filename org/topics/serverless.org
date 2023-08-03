@@ -44,3 +44,5 @@
   - great comments where Serverless is good at (and where not)
   - some interesting comments why GCP *should* be better than *AWS* (with regards to serverless)
 - 2022-10-04 ◦ [[https://www.thisdot.co/blog/build-your-backend-with-netlify-functions-in-20-minutes][Build your Backend with Netlify Functions in 20 Minutes]]j
+* Resources
+- 2023-08-03 ◦ [[https://serverless.tf/][Doing serverless with Terraform]] ([[id:06676c92-78a2-4d38-966e-058acdf5cdfd][Terraform]])

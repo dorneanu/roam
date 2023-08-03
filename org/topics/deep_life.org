@@ -4,6 +4,11 @@
 #+title: Deep Life
 
 - by Cal Newport
+* Deep Life Stack v2.0
+
+#+caption: [[https://www.youtube.com/watch?v=OQGGzZihhyk&ab_channel=CalNewport][Ep. 253: Making Time For What Matters (w/ Laura Vanderkam)]]
+#+html: {{< gbox src="/posts/img/cal-newport/2023-08-03-deep-life-stack-v2.png" title="" caption="" pos="" >}}
+
 * Buckets
 :PROPERTIES:
 :ID:       905d88d7-def8-48b6-a038-a016b7d4b9a9

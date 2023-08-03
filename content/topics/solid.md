@@ -74,7 +74,6 @@ draft = false
 
     -   Many client-specific interfaces are better than one general-purpose interface
 -   Examples
-
     ```go
         // Save writes the contents of doc to the supplied Writer
 

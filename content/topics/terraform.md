@@ -30,6 +30,11 @@ draft = false
     Use `yamldecode` to load a YAML file with all the settings (instead of defining everything in the TF file)
 
 
+### AWS {#aws}
+
+-   2023-08-02 ◦ [Create an AWS CloudWatch Metric Filter and Alarm in Terraform](https://spin.atomicobject.com/2021/04/07/aws-cloudwatch-metric-filter-alarm-terraform/)
+
+
 ### Layout {#layout}
 
 -   2023-08-01 ◦ [How to Create Terraform Multiple Environments](https://getbetterdevops.io/terraform-create-infrastructure-in-multiple-environments/)
