@@ -30,6 +30,8 @@
  #+end_quote
 
  Use ~yamldecode~ to load a YAML file with all the settings (instead of defining everything in the TF file)
+** AWS
+- 2023-08-02 ◦ [[https://spin.atomicobject.com/2021/04/07/aws-cloudwatch-metric-filter-alarm-terraform/][Create an AWS CloudWatch Metric Filter and Alarm in Terraform]]
 ** Layout
 - 2023-08-01 ◦ [[https://getbetterdevops.io/terraform-create-infrastructure-in-multiple-environments/][How to Create Terraform Multiple Environments]]
   - separated directors vs workspaces
