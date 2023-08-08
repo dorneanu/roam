@@ -131,6 +131,12 @@ draft = false
     > can all be customized to your needs
 
 
+### For learning {#for-learning}
+
+-   2023-08-07 ◦ [PrettyPolly](https://www.prettypolly.app/learn)
+    -   found [here](https://news.ycombinator.com/item?id=36973400)
+
+
 ## Articles {#articles}
 
 -   2023-06-16 ◦ [An explosion in software engineers using AI coding tools? - The Pragmatic Engineer](https://blog.pragmaticengineer.com/ai-coding-tools-explosion/)

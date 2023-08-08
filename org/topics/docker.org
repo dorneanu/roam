@@ -9,6 +9,7 @@
 - UTS
 - User
 * Resources
+- 2023-08-07 ◦ [[https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-5/][Container security fundamentals part 5: AppArmor and SELinux | Datadog Security Labs]]
 - 2023-03-29 ◦ [[https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-2/][Container security fundamentals part 2: Isolation & namespaces | Datadog Security Labs]]
 - 2022-09-21 ◦ [[https://containerjournal.com/editorial-calendar/best-of-2021/whats-the-difference-between-docker-and-kubernetes/#:~:text=The%20difference%20between%20the%20two,Kubernetes%20can%20be%20used%20independently][Best of 2021 - What's the Difference Between Docker and Kubernetes? - Container Journal]]
   - difference between Docker and [[id:e59fa8c3-554b-47fd-adb9-a85807038a9a][Kubernetes]]

@@ -123,6 +123,9 @@
   creative partner, a task automator, and more. Personality, tone, and behavior
   can all be customized to your needs
   #+end_quote
+** For learning
+- 2023-08-07 ◦ [[https://www.prettypolly.app/learn][PrettyPolly]]
+  - found [[https://news.ycombinator.com/item?id=36973400][here]]
 * Articles
 - 2023-06-16 ◦ [[https://blog.pragmaticengineer.com/ai-coding-tools-explosion/][An explosion in software engineers using AI coding tools? - The Pragmatic Engineer]]
 - 2023-06-07 ◦ [[https://a16z.com/2023/06/06/ai-will-save-the-world/][Why AI Will Save the World | Andreessen Horowitz]]

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       49b89403-192a-49d9-8e13-57a74878dab1
+:END:
+#+TITLE: 2023-08-07
+#+DATE: 2023-08-07
+#+FILETAGS: journal
+
+- 2023-08-07 ◦ [[https://www.youtube.com/watch?v=HSt6FhsPT8c&ab_channel=TheGoProgrammingLanguage][Build more secure apps with Go and Google - YouTube]]
+  #+begin_quote
+  - Go Vulnerability Management → https://goo.gle/3mfSNQq
+  - Open Source Insights → https://goo.gle/3nPlvbi
+  - Announcing OSV-Scanner → https://goo.gle/40Uf31i
+  #+end_quote
