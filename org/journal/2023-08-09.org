@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8d7028b1-e765-4bc4-95b7-cf4ef680180e
+:END:
+#+TITLE: 2023-08-09
+#+DATE: 2023-08-09
+#+FILETAGS: journal
+
+- 2023-08-09 ◦ [[https://github.com/viggy28/awesome-onprem][GitHub - viggy28/awesome-onprem: A list of companies that use on-premise infrastructure heavily]]

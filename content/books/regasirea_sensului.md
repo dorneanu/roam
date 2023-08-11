@@ -68,7 +68,7 @@ In esență, Ideologiile Răului împărtăşesc patru credințe principale:
 
 #### Reflexul Semmelweiss {#reflexul-semmelweiss}
 
-> în care reflexul Semmelweiss-ideea că, de obicei şi adeseori în mod violent, respingem dovezi sau cunoştinţe noi doar pentru că ele funcționează într-o manieră contrară credințelor noastre preexistente - a devenit un reper pe lista prejudecăţilor cognitive obişnuite
+> în care [reflexul Semmelweiss](https://en.wikipedia.org/wiki/Semmelweis_reflex)-ideea că, de obicei şi adeseori în mod violent, respingem dovezi sau cunoştinţe noi doar pentru că ele funcționează într-o manieră contrară credințelor noastre preexistente - a devenit un reper pe lista prejudecăţilor cognitive obişnuite
 
 
 #### Despre vacile sacre {#despre-vacile-sacre}
@@ -77,11 +77,11 @@ In esență, Ideologiile Răului împărtăşesc patru credințe principale:
 
 -  Capitalismul de piață liberă și democrația
 
-    > Capitalismul de piață liberă şi democrația reprezentativă merg mână în mână și oferă meca- nismul suprem pentru a ridica omenirea la niveluri tot mai înalte de prosperitate. Eforturile de a redistribui bogăția, a limita competiţia şi a restrânge opoziția publică variază de la contraproductive la catastrofice.
+    > **Capitalismul de piață liberă** şi **democrația reprezentativă** merg mână în mână și oferă mecanismul suprem pentru a ridica omenirea la niveluri tot mai înalte de prosperitate. Eforturile de a redistribui bogăția, a limita competiţia şi a restrânge opoziția publică variază de la contraproductive la catastrofice.
     >
-    > Colapsul Uniunii Sovietice şi ridicarea standardelor de viață în toată lumea au oferit o justificare puternică pentru această paradigmă. Piețele funcționează. Comunismul, nu. Democrația funcționează. Dictaturile, nu. Pentru o scurtă perioadă, între căderea Zidului Berlinului în 1991 şi căderea Turnurilor Gemene în 2001, acest model a părut necontestat şi ascendent.
+    > **Colapsul Uniunii Sovietice şi ridicarea standardelor de viață** în toată lumea au oferit o **justificare puternică** pentru această paradigmă. **Piețele funcționează**. **Comunismul, nu**. Democrația funcționează. Dictaturile, nu. Pentru o scurtă perioadă, între căderea Zidului Berlinului în 1991 şi căderea Turnurilor Gemene în 2001, acest model a părut necontestat şi ascendent.
     >
-    > Însă neoliberalismul a rămas rapid în pană de explicații pentru tot ce se întâmpla. Când a doua Administrație Bush şi-a imaginat Orientul Mijlociu eliberându-se de jugul tiraniei şi îmbrăţişând democrația, situația a ricoşat îngrozitor. Eşecul schimbării de regim după Primăvara Arabă în Siria, în Irak şi în Libia a destabilizat şi mai mult regiunea şi a creat condițiile care au determinat apariția ISIS.
+    > Însă **neoliberalismul a rămas rapid în pană** de explicații pentru tot ce se întâmpla. Când a doua Administrație Bush şi-a imaginat Orientul Mijlociu eliberându-se de jugul tiraniei şi îmbrăţişând democrația, situația a ricoşat îngrozitor. Eşecul schimbării de regim după Primăvara Arabă în Siria, în Irak şi în Libia a destabilizat şi mai mult regiunea şi a creat condițiile care au determinat apariția ISIS.
 
 
 ### Noi suntem lumea {#noi-suntem-lumea}
@@ -89,9 +89,9 @@ In esență, Ideologiile Răului împărtăşesc patru credințe principale:
 
 #### Mereu în stare de alertă {#mereu-în-stare-de-alertă}
 
-> Dat fiind că ultimii ani par să însumeze decenii de soci schimbări destabilizatoare, este corect să spunem că amiga lele noastre - sistemele noastre de detectare a pericolului- fost în stare de alertă maximă. Fie că a fost vorba de remit surprinzătoare ale alegerilor electorale, de dezastre nature sau de pandemii globale, ceea ce se întâmpla in alte ţări, in a state, ba chiar la doi paşi de noi a fost ceea ce a contat cu adevărat. Impulsul nostru de a fi la curent cu orice ştire, cu ori noutate şi cu orice „părere expertă” a crescut vertiginos.
+> Dat fiind că ultimii ani par să însumeze decenii de soci schimbări destabilizatoare, este corect să spunem că amigdalele noastre - sistemele noastre de detectare a pericolului- fost în stare de alertă maximă. Fie că a fost vorba de remit surprinzătoare ale alegerilor electorale, de dezastre nature sau de pandemii globale, ceea ce se întâmpla in alte ţări, in a state, ba chiar la doi paşi de noi a fost ceea ce a contat cu adevărat. **Impulsul nostru de a fi la curent cu orice ştire, cu ori noutate şi cu orice „părere expertă” a crescut vertiginos**.
 >
-> Pe vremuri am fi ascultat tobele din junglă şi bârfele din sat sau am fi urmărit semnalele cu fum. Acum asta s-a metamorfozat în postări pe Facebook și pe Instagram, stat cu orele pe YouTube şi pe grupuri de WhatsApp. Suntem cu toţii dispen să înțelegem ce ar putea să ne salveze sau să ne omoare
+> Pe vremuri am fi ascultat tobele din junglă şi bârfele din sat sau am fi urmărit semnalele cu fum. Acum asta s-a metamorfozat în postări pe Facebook și pe Instagram, stat cu orele pe YouTube şi pe grupuri de WhatsApp. **Suntem cu toţii dispen să înțelegem ce ar putea să ne salveze sau să ne omoare**
 
 
 ### Proiectand Sens 3.0 {#proiectand-sens-3-dot-0}
@@ -99,38 +99,38 @@ In esență, Ideologiile Răului împărtăşesc patru credințe principale:
 
 #### Filantrocapitalismul {#filantrocapitalismul}
 
-> Pentru că statul sovietic la a cărui destramare a contribuir Elçin nu este singura centralizare verticală de care ar trebui să finem cont. Ironic, capitalismul şi-a creat propria mutatie. Suntem în epoca filantrocapitalismului unde Bill Gates, Eric Schmidt, Mark Zuckerberg, Jeff Bezos și alții, după ce şi-au zdrobit fără milă competitorii și au exploatat paradisuri fiscale off-shore, îşi redirecționează acum averile istorice către rezol- varea multora dintre problemele la a căror creare au contribuit (şi, ca să fim corecți, a câtorva la care nu au contribuit
+> Pentru că statul sovietic la a cărui destramare a contribuir Elçin nu este singura centralizare verticală de care ar trebui să finem cont. Ironic, **capitalismul şi-a creat propria mutatie**. Suntem în **epoca filantrocapitalismului** unde **Bill Gates, Eric Schmidt, Mark Zuckerberg, Jeff Bezos și alții, după ce şi-au zdrobit fără milă competitorii și au exploatat paradisuri fiscale off-shore, îşi redirecționează acum averile istorice către rezolvarea multora dintre problemele la a căror creare au contribuit** (şi, ca să fim corecți, a câtorva la care nu au contribuit)
 
 
 #### Funcțiile credinței {#funcțiile-credinței}
 
-> Există o mulțime de modalități de a cartografia funcțiile credinței, dar Laboratorul de Design Sacru de la Şcoala de Divinitate Harvard le-a redus la trei elemente centrale: Dincolo, Devenire şi Apartenenţă. Trei nutrienți esențiali, vitali pentru înflorirea umanității. Sau altfel spus, inspirație, vindecare şi conectare. Grecii antici le numeau pe cele trei ecstasis, catharsis şi communitas. Deşi pot purta nume diferite, rolul lor în susţinerea înfloririi umanității este esențial. Ele sunt modul în care ne trezim, creştem şi ne prezentăm. Iar şi iar, atât timp cât este nevoie.
+> Există o mulțime de modalități de a cartografia **funcțiile credinței**, dar Laboratorul de Design Sacru de la Şcoala de Divinitate Harvard le-a redus la trei elemente centrale: **Dincolo, Devenire şi Apartenenţă**. Trei nutrienți esențiali, vitali pentru înflorirea umanității. Sau **altfel spus, inspirație, vindecare şi conectare**. **Grecii antici le numeau pe cele trei ecstasis, catharsis şi communitas**. Deşi pot purta nume diferite, rolul lor în susţinerea înfloririi umanității este esențial. Ele sunt modul în care ne trezim, creştem şi ne prezentăm. Iar şi iar, atât timp cât este nevoie.
 
 
 #### Candidatul ideal pt Sens 3.0 {#candidatul-ideal-pt-sens-3-dot-0}
 
-> Să recapitulăm: Un candidat ideal pentru Sens 3.0 va trebui să îndeplinească funcțiile prosociale ale Credinței tradiționale 1.0-Inspirație, Vindecare și Conectare. Și, pentru a avea o şansă să ajute lumea, trebuie să îndeplinească promisiunea inclusivă a Modernismului 2.0 şi să fie din Surse Deschise, Scalabil şi Antifragil
+> Să recapitulăm: Un **candidat ideal pentru Sens 3.0** va trebui să îndeplinească **funcțiile prosociale ale Credinței tradiționale 1.0** - **Inspirație, Vindecare și Conectare**. Și, pentru a avea o şansă să ajute lumea, trebuie să îndeplinească **promisiunea inclusivă a Modernismului 2.0** şi să fie **din Surse Deschise**, **Scalabil** şi **Antifragil**
 
 
 #### Cele Mari Cinci pt a crea sensul {#cele-mari-cinci-pt-a-crea-sensul}
 
-> Respirația - Noi suntem puternic codați să ne asigurăm că rezerva noastră de oxigen rămâne constantă, aşadar modula- rea respirației este una dintre modalitățile cele mai de succes pentru a schimba stările fizice şi psihologice.
+> **Respirația** - Noi suntem puternic codați să ne asigurăm că rezerva noastră de oxigen rămâne constantă, aşadar modularea respirației este una dintre modalitățile cele mai de succes pentru a schimba stările fizice şi psihologice.
 
 <!--quoteend-->
 
-> Întruparea - Regulatorii centrali ai sistemului nostru ner- vos parasimpatic şi simpatic joacă un rol uriaș în sănătatea, bunăstarea şi reziliența noastră la stres. Ei sunt metronomul fiziologiei noastre care stabileşte ritmul experiențelor trăite.
+> Întruparea - Regulatorii centrali ai sistemului nostru nervos [parasimpatic]({{< relref "../../topics/parasympathetic_nervous_system.md" >}}) şi [simpatic]({{< relref "../../topics/sympathetic_nervous_system.md" >}}) joacă un rol uriaș în sănătatea, bunăstarea şi reziliența noastră la stres. Ei sunt metronomul fiziologiei noastre care stabileşte ritmul experiențelor trăite.
 
 <!--quoteend-->
 
-> Sexualitatea - Dacă nu procream, murim. Prin urmare, există tone de motoare neurochimice integrate în sistemele noastre pentru a se asigura că o facem. Intelegerea lor permite o reorientare puternică către această activitate centrală dătă- toare de viaţă.
+> **Sexualitatea** - **Dacă nu procream, murim**. Prin urmare, există tone de motoare neurochimice integrate în sistemele noastre pentru a se asigura că o facem. Intelegerea lor permite o reorientare puternică către această activitate centrală dătătoare de viaţă.
 
 <!--quoteend-->
 
-> Substanțe - Oamenii, și majoritatea celorlalte animale, caută în mod obişnuit să-şi schimbe starea ca parte a procesu- lui lor de învățare, creştere şi însănătoşire. Ron Siegel de la UCLA a ajuns chiar să numească căutarea intenționată a into- xicării a patra forță -o dorință de a te simți diferit, o schim- bare rapidă de stare" care este la fel de mult o parte a condiţiei umane ca sexul, foamea şi setea"
+> **Substanțe** - Oamenii, și majoritatea celorlalte animale, caută în mod obişnuit să-şi schimbe starea ca parte a procesului lor de învățare, creştere şi însănătoşire. **Ron Siegel de la UCLA a ajuns chiar să numească căutarea intenționată a intoxicării a patra forță** -o **dorință de a te simți diferit**, o **schimbare rapidă de stare**" care este la fel de mult **o parte a condiţiei umane** ca sexul, foamea şi setea"
 
 <!--quoteend-->
 
-> Muzica - De la anticele incantații lângă foc, la catedrale, la sclavi în lanţuri şi până la concerte, muzica ne-a însoţit în călă- toria civilizației umane. Ea nu doar ,,calmează bestia sălbati- că"; ea ne formează psihologia, simțul conectivității și capacitatea de a fi uimiţi
+> **Muzica** - De la anticele incantații lângă foc, la catedrale, la sclavi în lanţuri şi până la concerte, muzica ne-a însoţit în călătoria civilizației umane. Ea nu doar ,,\*calmează bestia sălbatică\*"; ea ne **formează psihologia, simțul conectivității și capacitatea de a fi uimiţi**
 
 
 #### Personalități extatice {#personalități-extatice}

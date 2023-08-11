@@ -1,7 +1,7 @@
 +++
 title = "Strategien der Natur"
 date = 2023-06-30
-tags = ["todo", "book"]
+tags = ["nature", "german", "todo", "book"]
 draft = false
 +++
 
