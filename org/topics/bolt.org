@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       7e0d9e73-1163-422e-b538-783c5668d8c7
+:END:
 #+created: 20220711124544206
 #+modified: 20220711124828339
 #+origin: [[<<. bibliography "The Oxygen Advantage" >> ]]
