@@ -36,7 +36,13 @@ draft = false
 
 -   2023-08-09 ◦ [Kubernetes Security | Operating Kubernetes Clusters and Applications Safely](https://kubernetes-security.info/) (book)
 
-    > In the book we explore security concepts including defense in depth, least privilege, and limiting the attack surface. We discuss and show how to secure clusters, and you’ll also learn how Kubernetes uses authentication and authorization. The book will teache you how to secure container images against known vulnerabilities and abuse by third parties, enforce policies on the container runtime level as well as the networking level, and give you to rundown on how to handle sensitive information such as credentials.
+    > In the book we explore security concepts including defense in depth, least
+    > privilege, and limiting the attack surface. We discuss and show how to secure
+    > clusters, and you’ll also learn how Kubernetes uses authentication and
+    > authorization. The book will teache you how to secure container images against
+    > known vulnerabilities and abuse by third parties, enforce policies on the
+    > container runtime level as well as the networking level, and give you to
+    > rundown on how to handle sensitive information such as credentials.
 
 -   2023-07-03 ◦ [How to Hack Kubernetes (and How to Protect It)](https://goteleport.com/blog/how-to-hack-kubernetes/?utm_campaign=0308HackK8sBlog&utm_medium=partner&utm_source=golang)
 -   2023-05-08 ◦ [Kubernetes Security Part 1 - Security Contexts - Shishir’s Blog](https://shishirsubedi.com.np/kubernetes/kubernetes_security/)
