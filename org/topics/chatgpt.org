@@ -14,6 +14,8 @@
 - 2023-04-03 ◦ [[https://platoeducation.ai/#/notes/][Plato]]
 - 2023-01-19 ◦ [[https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used][GPT-3 Is the Best Journal I've Ever Used]]
 - 2023-01-18 ◦ [[https://www.innoq.com/en/blog/how-ai-will-replace-my-job/][How AI will replace my job – INNOQ]]
+** Security
+- 2023-08-21 ◦ [[https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm][Don’t you (forget NLP): Prompt injection with control characters in ChatGPT - Dropbox]]
 ** Alternatives
 - 2023-05-17 ◦ [[https://blog.pragmaticengineer.com/github-copilot-alternatives/][Github Copilot and ChatGPT alternatives - The Pragmatic Engineer]]
     #+begin_quote

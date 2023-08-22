@@ -9,3 +9,5 @@
 #+type: text/vnd.tiddlywiki
 
 
+* Resources
+- 2023-08-21 ◦ [[https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/][mTLS: When certificate authentication is done wrong - The GitHub Blog]]
