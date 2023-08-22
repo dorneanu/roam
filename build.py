@@ -8,7 +8,7 @@ from pathlib import Path
 with open('build.ninja', 'w') as ninja_file:
     ninja_file.write("""
 rule org2md
-  command = ~/.local/opt/emacs/bin/emacs --batch -u victor -l ~/.config/emacs/lisp/doom-start.el -l ~/.doom.d/init.el -l publish.el --eval '(brainfck/publish "$in")'
+  command = ~/.local/opt/emacs/bin/emacs --batch -u victor -l ~/.emacs.d/lisp/doom-start.el  -l publish.el --eval '(brainfck/publish "$in")'
   # command = emacs --batch -u victor -l ~/.emacs.d/lisp/doom-start.el -l ~/.doom.d/init.el -l publish.el --eval '(brainfck/publish "$in")'
   description = org2md $in
 """)
