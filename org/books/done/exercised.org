@@ -8,7 +8,7 @@
 Why Something We Never Evolved to Do Is Healthy and Rewarding
 
 * On squatting
-** 69                                                                          :squat:
+** 69                                   :squat:
 
 #+begin_quote
 Aside from causing me humiliation, my lack of stamina while squatting, not to
@@ -21,7 +21,7 @@ standing use about the same degree of muscle activity.14 But over long periods
 of time those muscles require and develop endurance.
 #+end_quote
 
-** 82                                                                          :squat:
+** 82                                   :squat:
 
 #+begin_quote
 As we have already discussed, a likely explanation is that *short bouts of
@@ -44,8 +44,8 @@ also indicate that many Europeans squatted habitually until furniture and stoves
 became common after the Middle Ages.
 #+end_quote
 
-* On sitting
-** 74                                                                          :sitting:
+* On sitting                            :sitting:
+** 74                                  :sitting:
 
 3 major health concerns related to sitting:
 
@@ -63,23 +63,23 @@ uninterrupted sitting:
 Don’t panic, but as you sit comfortably reading this, your body may be on fire.
 #+end_quote
 
-** 78                                                                          :sitting:
+** 78                                  :sitting:
 Link between sitting and inflammation:
 
 #+begin_quote
 No one is claiming that sitting itself caused these Danish guys to gain weight:
-it was the combination of physical inactivity plus excess calories that caused
+it was the combination of *physical inactivity* plus excess calories that caused
 them to stockpile excess organ fat, which in turn lit the smoldering fire of
-chronic inflammation. In addition, these volunteers added mostly organ fat,
+chronic inflammation. In *addition*, these volunteers added mostly organ fat,
 which suggests they were stressed, and there are plenty of physically inactive
 people who are not overweight but suffer from inflammation. So what else about
 *sitting* might promote *chronic inflammation*?
 #+end_quote
 
-** 78                                                                          :sitting:
+** 78                                  :sitting:
 
 #+begin_quote
-A second way lengthy periods of sitting may incite widespread, low-grade
+A second way /lengthy/ periods of sitting may incite widespread, low-grade
 inflammation is by slowing the rate we take up fats and sugars from the
 bloodstream. When was the last time you had a meal? If it was within the last
 four or so hours, you are in a *postprandial state*, which means your body is
@@ -92,7 +92,7 @@ reduce levels of fat and sugar in your blood* more than if you sit inertly and
 passively for long.
 #+end_quote
 
-** 84                                                                          :sitting:
+** 84                                  :sitting:
 
 Is sitting the new smoking:
 
@@ -108,7 +108,7 @@ squatted, kneeled, or sat on the ground, using about the same degree of muscle
 activity in their thighs, calves, and backs as when they stood*.
 #+end_quote
 
-** 85                                                                          :sitting:
+** 85                                  :sitting:
 
 On the history of chairs:
 
@@ -128,7 +128,7 @@ including a majority of health-care professionals, think we can avoid back pain
 by sitting with a curved lower back and an unrounded upper back.
 #+end_quote
 
-** 85                                                                          :sitting:
+** 85                                  :sitting:
 
 #+begin_quote
 *Scientific evidence discredits this modern cultural norm. A big clue is that
@@ -151,7 +151,7 @@ I have shown just a few of the many postures people adopt when sitting.)
 #+end_quote
 
 * Cytokine
-** 75                                                                          :cytokine:
+** 75                                   :cytokine:
 
 On [[id:f730d8cf-edf2-4818-9bcc-c9748e2a798e][cytokine]] and inflammations:
 
@@ -176,7 +176,7 @@ steadily and surreptitiously *damages tissues in our arteries, muscles, liver,
 brain, and other organs*.
 #+end_quote
 
-** 77                                                                          :cytokine:
+** 77                                   :cytokine:
 
 #+begin_quote
 So when organ fat cells swell, they ooze into the bloodstream a great many
@@ -186,7 +186,7 @@ to be “skinny fat” with significant deposits of organ fat in and around one�
 muscles, heart, and liver without necessarily having a potbelly figure.
 #+end_quote
 * On sleep
-** 92                                                                          :sleep:
+** 92                                   :sleep:
 
 What happens during sleep:
 
@@ -206,7 +206,7 @@ has limited abilities to multitask and cannot perform these cleaning,
 organizing, and analytical functions as effectively when we are awake and alert.
 #+end_quote
 
-** 93                                                                          :sleep:
+** 93                                   :sleep:
 The brain and its waste:
 
 #+begin_quote
@@ -220,7 +220,7 @@ accumulate* (and are counteracted by caffeine).
 #+end_quote
 
 
-** 93                                                                          :quote:
+** 93                                   :quote:
 
 #+begin_quote
 For every hour spent awake storing memories and amassing waste, we need
@@ -229,7 +229,7 @@ approximately fifteen minutes asleep to process those memories and clean up.
 
 quote
 
-** 93                                                                          :sleep:
+** 93                                   :sleep:
 
 The brains cleaning process:
 
@@ -245,7 +245,7 @@ We thus must sleep to flush out the cobwebs left behind by the day’s
 experiences.
 #+end_quote
 
-** 96                                                                          :sleep:
+** 96                                   :sleep:
 
 #+begin_quote
 How much are my sleep patterns contaminated by alarm clocks, lights,
@@ -266,7 +266,7 @@ rural Haitians and subsistence farmers in Madagascar report similar average
 sleep durations, about 6.5 to 7.0 hours a day.
 #+end_quote
 
-** 104                                                                         :sleep:
+** 104                                  :sleep:
 What regulates sleep:
 
 #+begin_quote
@@ -281,7 +281,7 @@ versus asleep, and if we are up too long, it will eventually override our
 circadian systems and help us recover lost sleeping time.
 #+end_quote
 
-** 105                                                                         :sleep:
+** 105                                  :sleep:
 
 #+begin_quote
 The effects of the fight-and-flight response (technically, the [[id:ed52081e-fe6f-46fd-b0c5-59f61f2a849b][Sympathetic
@@ -299,7 +299,7 @@ levels, depresses body temperature, and even helps re-sync the circadian
 clock.
 #+end_quote
 
-** 106                                                                         :sleep:
+** 106                                  :sleep:
 Link between insomnia and physical activity:
 
 #+begin_quote
@@ -315,7 +315,7 @@ insomnia.
 #+end_quote
 
 * Energy levels
-** 118                                                                         :energy:
+** 118                                  :energy:
 
 About ATP and ADP:
 
@@ -337,7 +337,7 @@ hyenas or humans, *the faster we run, the more our bodies struggle to recharge
 these ATPs*, thus curtailing our speed after a short while.
 #+end_quote
 
-** 119                                                                         :energy:
+** 119                                  :energy:
 
 #+begin_quote
 But there is a consequential catch: during [[id:c423cfb2-2df1-4707-8622-25521d079e1b][glycolysis]] the leftover halves of
@@ -352,7 +352,7 @@ and shuttle the surplus lactate into the third, final, but long-term  aerobic
 energy process.
 #+end_quote
 
-** 119                                                                         :energy:
+** 119                                  :energy:
 
 #+begin_quote
 [[id:d3b0e1ec-e508-4701-8252-0bbcee64c894][Sugar]] is synonymous with sweetness, but it’s first and foremost a fuel used to
@@ -364,7 +364,7 @@ half the energy used during a thirty-second sprint. In fact, a fit human can
 store enough sugar to run nearly fifteen miles.
 #+end_quote
 
-** 121                                                                         :energy:
+** 121                                  :energy:
 
 #+begin_quote
 your VO2 max, you need [[id:c423cfb2-2df1-4707-8622-25521d079e1b][glycolysis]] to supply additional fuel to your muscles.
@@ -420,9 +420,9 @@ exercised about exercise*.
 No consens *how* we should train and for how *long:*
 
 #+begin_quote
-Expert consensus is that we need 150 minutes of exercise a week, but we also
-read that just a few minutes of high-intensity exercise a day is enough to make
-us fit. Some fitness professionals recommend free weights, others prescribe
+Expert consensus is that *we need 150 minutes of exercise a week*, but we also
+read that just *a few minutes of high-intensity exercise a day is enough to make
+us fit*. Some fitness professionals recommend free weights, others prescribe
 weight machines, yet others reproach us for not doing enough cardio. While some
 authorities urge us to jog, others warn that running will ruin our knees and
 promote arthritis. One week we read how too much exercise may damage the heart
@@ -463,9 +463,9 @@ and soon he will be one in his reason.
 ** 197
 
 #+begin_quote
-A veritable who’s who of medical organizations agree that adults should get at
-least 30 minutes of “moderate to vigorous” aerobic exercise at least five days a
-week for a minimum of 150 minutes per week.
+A veritable who’s who of /medical organizations agree/ that adults should get *at
+least 30 minutes* of “ *moderate to vigorous* ” aerobic exercise *at least five days a
+week* for a *minimum of 150 minutes per week*.
 #+end_quote
 
 ** 197
@@ -473,23 +473,23 @@ week for a minimum of 150 minutes per week.
 Ten thousand steps:
 
 #+begin_quote
-In the mid-1960s, a Japanese company, Yamasa Tokei, invented a simple,
-inexpensive pedometer that measures how many steps you take. The company decided
-to call the gadget Manpo-kei, which means “ten-thousand-step meter,” because it
+In the mid-1960s, a *Japanese company, Yamasa Tokei*, invented a simple,
+inexpensive *pedometer* that measures how many steps you take. The company decided
+to call the gadget *Manpo-kei*, which means “ *ten-thousand-step meter* ” because it
 sounded auspicious and catchy. And it was. The pedometer sold like hotcakes, and
 ten thousand steps has since been adopted worldwide as a benchmark for minimal
 daily physical activity.
 #+end_quote
 
 * Further resources
-** 68                                                                          :rez:
+** 68                                   :rez:
 
 #+begin_quote
 the anthropologist *Gordon Hewes* documented more than a hundred postures that
 humans from 480 different cultures adopt when they sit without a chair.
 #+end_quote
 
-* Notes
+* TODO Notes
 ** 21
 
 #+begin_quote
@@ -559,7 +559,7 @@ running, jumping jacks, and climbing a mountain demand heart rates of 70 percent
 or higher.
 #+end_quote
 
-** 76                                                                          :fat:
+** 76                                   :fat:
 
 About fat in the organs:
 
@@ -574,7 +574,7 @@ beneficial as a short-term energy depot for times when we need rapid access to a
 lot of calories such as when we walk or jog a long distance.
 #+end_quote
 
-** 76                                                                          :fat:
+** 76                                   :fat:
 About fat subcutaneos:
 
 #+begin_quote
@@ -599,7 +599,7 @@ By merely engaging in low-intensity, “non-exercise” physical activities for 
 hours a day, I could spend as much energy as if I ran for an hour.
 #+end_quote
 
-** 79                                                                          :cortisol:
+** 79                                   :cortisol:
 
 Cortisol and [[id:d3b0e1ec-e508-4701-8252-0bbcee64c894][sugar]] absorption:
 
@@ -693,7 +693,16 @@ Donald Trump needs little introduction. Born in 1946 to wealthy parents, he was 
 
 ** 229
 
-Among those who lend her a hand are middle-aged and elderly folks. Anthropologists have shown that grandmothers, grandfathers, aunts, uncles, and other older individuals in foraging populations from Australia to South America remain active throughout life, gathering and hunting more calories every day than they consume, which they provide to younger generations.13 This surplus food helps provide adequate calories to children, grandchildren, nieces, and nephews and reduces how much work mothers have to do. Elderly hunter-gatherers also help younger generations by contributing knowledge, wisdom, and skills for about two to three decades beyond childbearing years.
+#+begin_quote
+Among those who lend her a hand are middle-aged and elderly folks. Anthropologists have
+shown that grandmothers, grandfathers, aunts, uncles, and other older individuals in
+foraging populations from Australia to South America remain active throughout life,
+gathering and hunting more calories every day than they consume, which they provide to
+younger generations.13 This surplus food helps provide adequate calories to children,
+grandchildren, nieces, and nephews and reduces how much work mothers have to do. Elderly
+hunter-gatherers also help younger generations by contributing knowledge, wisdom, and
+skills for about two to three decades beyond childbearing years.
+#+end_quote
 
 ** 229
 
