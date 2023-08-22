@@ -2,9 +2,30 @@
 :ID:       265c7aba-5b14-4101-8221-7ff017ab8153
 :END:
 #+SETUPFILE: blog.setup
+#+filetags: :aws:c4:architecture:documentation:
 #+TITLE: Documentation as Code for Cloud - C4 Model
 #+CREATED: 2023-07-17
 #+HUGO_DRAFT: true
+
+* Config :noexport:
+This are some configuration variables for C4
+
+#+name: puml-dir
+#+begin_src emacs-lisp :exports none :var filename=""
+(princ (concat "/cs/priv/repos/blog/static/posts/img/2023/documentation-as-code/" filename))
+#+end_src
+
+#+name: puml-code-dir
+#+begin_src emacs-lisp :exports none :var filename=""
+(princ (concat "/cs/priv/repos/blog/static/code/2023/documentation-as-code/plantuml/" filename))
+#+end_src
+
+#+begin_src emacs-lisp
+(setq-local company-backends '(company-dabbrev company-files)
+            company-dabbrev-other-buffers t
+            company-dabbrev-ignore-case nil
+            company-dabbrev-downcase nil)
+#+end_src
 
 * Using C4 integration of aws-icons-for-plantuml
 #+begin_src plantuml :results none :file /tmp/c4.png
