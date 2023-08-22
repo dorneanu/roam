@@ -113,7 +113,7 @@ Host: Andrew Huberman (@hubermanlab)
 - If you wake up and do intense exercise within the first 90 minutes of waking,
   drink the caffeine before but the combination of caffeine and exercise may
   increase afternoon fatigue
-- you want to increase cortisol  levels (by doing exercises)
+- you want to increase cortisol levels (by doing exercises)
   - this will "clean up" remaining adenosine in the body
 - If you really can’t delay caffeine, you can extend the arc of caffeine if you
   drink half when you wake up and half later
