@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8299d112-1f66-4cf1-849d-df86eccd1652
+:END:
+#+TITLE: How to Defeat Jetlag, Shift Work & Sleeplessness (Huberman Lab)
+#+CREATED: [2023-08-24 Do]
+
+- 2023-08-24 ◦ [[https://hubermanlab.com/find-your-temperature-minimum-to-defeat-jetlag-shift-work-and-sleeplessness/][How to Defeat Jetlag, Shift Work & Sleeplessness - Huberman Lab]]
+
+* TODO Key takeaways from [[https://podcastdisclosed.com/temperature-minimum-to-defeat-jetlag-shift-work-sleeplessness-huberman-lab-podcast/][podcastdisclosed.com]]
