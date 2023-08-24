@@ -1,0 +1,103 @@
+:PROPERTIES:
+:ID:       77df4898-f1e4-4767-949f-cbb7daca82a7
+:END:
+#+TITLE: Understanding and Using Dreams to Learn and to Forget (Huberman Lab)
+#+CREATED: [2023-08-24]
+
+- 2023-08-24 ◦ [[https://hubermanlab.com/understanding-and-using-dreams-to-learn-and-to-forget/][Understanding and Using Dreams to Learn and to Forget - Huberman Lab]]
+
+* Notes from [[https://podcastnotes.org/huberman-lab/understanding-and-using-dreams-to-learn-and-to-forget-huberman-lab/][podcastnotes.org]]
+** Key Takeaways
+- Sleep is broken up into 90-minute blocks called “*ultradian rhythm*”
+- *Slow-wave* (non-REM) sleep takes place *earlier in the night*
+  - Things that happen in slow-wave sleep: motor learning, motor skill learning, details
+    about specific events
+- As sleep progresses throughout the night, REM sleep takes up more time
+- Lack of REM sleep tends to make people emotionally irritable – we tend to catastrophize
+  small things because we can’t unlearn the emotionality of events
+- The mechanisms of *Ketamine* and PCP bear striking resemblance to patterns of REM sleep
+  and are sometimes used as therapeutics
+
+#+begin_quote
+“Sleep deprivation isn’t just deprivation of energy or deprivation of immune function,
+it’s deprivation of self-induced therapy every time we go to sleep.” – Dr. Andrew
+Huberman
+#+end_quote
+
+- New research highlights that it may be more important to get a consistent amount of
+  sleep versus the hours of sleep each night
+- To improve sleep quality: *limit fluids before bed*, perform resistance exercise during
+  the day, limit alcohol, and marijuana
+
+** Overview Of Sleep Cycles: Ultradian Rhythm
+- Sleep is generally broken up into 90-minute cycles called the *ultradian rhythm*
+- Earlier in the night, we have more slow-wave sleep (non-REM) and less REM sleep
+- For every 90 minute cycle, REM occupies more time – the more sleep you get, the more REM
+  you have
+- Neuromodulator Refresher
+- =Acetylcholine=: tends to modify and amplify brain circuits *associated with attention and focus*
+- =Norepinephrine=: tends to modify circuits associated with alertness and desire to move
+- [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]: released and modifies circuits associated with bliss and remaining still
+- [[id:a078c7ee-1a8a-48d4-917f-29a613464670][Dopamine]]: released and associated with amplification of pursuing goals, pleasure, and reward
+
+** Lucid Dreams
+- Lucid dreaming: dreaming in sleep but being aware that you’re dreaming and, in some
+  cases, directing the dream
+- Occurs in about 20% of people
+- Can cause people to not feel as rested and can disrupt sleep’s restorative effects
+
+** Slow Wave Sleep (Non-REM Sleep)
+- Characterized by brain activity in which the brain is metabolically active
+- *No acetylcholine* in non-REM state of sleep, meaning there’s *no real focus*
+- Active neuromodulators: norepinephrine, serotonin
+- If you are going to sleep walk, this is the cycle in which it would happen
+- Motor learning (e.g., learning a new dance, exercise, etc.) is most likely to take place
+  in slow wave sleep
+- *Slow wave sleep* is also important in *cognitive information* – details, spelling, etc.
+
+** Rapid Eye Movement (REM) Sleep
+- REM sleep occurs more as the night of sleep progresses
+- The circuitry involved in conscious eye movement is active
+- We’re *entirely laid out and paralyzed*
+- Paralysis during sleep can spill into waking – this can even come with hallucinations –
+  a lot of alien abduction recaps include both of these traits
+- Our experience is hallucinatory during this time
+- [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and norepinephrine are absent
+- REM sleep is one of the few times in our life where *norepinephrine is absent* so there’s
+  *no chemical manifestation of fear and anxiety*
+- This period of sleep *allows us to review things that happened or troubling situations in
+  the absence of fear and anxiety*
+- Nightmares probably take place in slow-wave sleep
+- Lack of REM sleep tends to make people emotionally irritable – we tend to catastrophize
+  small things because we can’t unlearn the emotionality of events
+- REM sleep
+  - *solidifies associations and gives things meanings* – with a lack of REM sleep, even
+    simple things like the word “the” looks misspelled and distorted
+  - *eliminates meanings that don’t matter* so we don’t blow things out of proportion – we
+    take events of the day and uncouple the expression of emotionality
+
+** REM Sleep, Trauma, Psychology
+- *Eye movement desensitization and reprocessing* (EMDR) EMDR: psychotherapy designed to
+  alleviate the distress associated with traumatic memories
+- During EMDR, *patients are guided to perform lateral eye movements mimicking REM sleep*
+  (therefore turning off norepinephrine), allowing patients to access traumatic events
+  without the emotion
+- EMDR is most successful for single event trauma, like a car crash, robbery, etc. – not
+  prolonged experiences like childhood abuse, divorce
+
+** Uses Of Ketamine & PCP To Mimic REM
+- The mechanisms of Ketamine and PCP bear striking resemblance to patterns of REM sleep
+- Ketamine and PCP both function to disrupt NMDA receptor in the brain
+- *Ketamine prevents the learning of emotions soon after trauma*
+- Ketamine is kept in some emergency rooms and sometimes administered to people who
+  witness a loved one traumatically dying in front of them
+- Ketamine is about becoming removed from the emotion of an experience
+
+** Improving Sleep Quality
+- Getting a regular amount of sleep each night might be more important than the duration
+- Consistently getting the same amount of sleep is better than getting more hours some
+  nights and fewer others
+- Limit drink a lot of fluid right before sleeping
+- Resistance exercise can induce a greater amount of slow-wave sleep involved in motor
+  learning and acquisition of fine details
+- Alcohol and marijuana hinder deep restorative sleep
