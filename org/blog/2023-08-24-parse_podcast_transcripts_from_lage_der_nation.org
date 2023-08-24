@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5ba2a1d7-01fb-49f1-b453-0448171f87bc
+:END:
+#+title: Parse podcast transcripts from Lage der Nation
+#+filetags: book
