@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       b87f2243-cf49-4c5a-ae42-829c80fac4b7
+:END:
 #+created: 20201111083642650
 #+lang: de
 #+modified: 20210518184429480
@@ -14,7 +17,7 @@
     - zwischen Eltern
     - aber auch zwischen Eltern und Kindern
   - Der [[#Status%20von%20Kindern%20in%20der%20Familie][Status von Kindern in der Familie]] wird grundlegend neu definiert
-- vorgeschlagen wird die [[#Gleichw%C3%BCrdige%20Familie][Gleichwürdige Familie]]
+- vorgeschlagen wird die [[id:a6bda56f-bc32-4d68-8112-f0bb8b248fa1][Gleichwürdige Familie]]
   - auch in der Familie sollten Kinder [[#Pflichten%20von%20Kindern][Pflichten]] übernehmen
   - Eltern sollen auf gar keinen Fall als [[#Eltern%20als%20Servicestation][Servicestation]] dienen
 - zu den Kompetenzen von Kindern gehört auch die [[#Kooperation%20nach%20Juul][Kooperationsbereitschaft]]

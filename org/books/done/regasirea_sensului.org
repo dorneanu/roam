@@ -230,9 +230,26 @@ pompos pentru a-ți ține respirația. La sfârşitul acestui capitol, scorul t�
 trebui să se dubleze
 #+end_quote
 
-*** TODO Stiluri de respirație
+*** Stiluri de respirație
 
-Vezi tabelul
+- *Lent* (Profund, lin & simetric)
+  - Mecanism: Schimb complet de aer, Oxigenare îmbunătățită, Reglare descendentă
+  - Actiune: Management al stresului Antrenare a atenţiei, Sănătate generală
+- *Hiperventilație* (Rapid, profund & susţinut)
+  - Mecanism: Alcaloză CO, redus
+  - Actiune: Pregătire pentru scufundare liberă, Introspectie psihologică, Lucru cu trauma
+- *Respirație vagalǎ* (expiratie/inspirație 10/4)
+  - Mecanism: Reglare descendentă a sistemului nervos Tonus vagal crescut Scăderea ritmului cardiac
+  - Actiune: Pregătire pentru scufundare liberă, Management al stresului
+- *Respirație în cutie* (Inspirații, expiraţii şi menţineri de aceeaşi durată)
+  - Mecanism: Toleranţă la CO2 Reglare descendentă a răspunsului de tip luptă- sau-fugi
+  - Actiune: Management al stresului, Antrenament mindfulness
+- *Respirație sub presiune* (Expirație ridicată)
+  - Mecanism: Tonus cardiovagal crescut, Saturaţie de oxigen
+  - Actiune: Alpinism,  Boala pulmonară obstructivă cronică (BPOC),  Sport anaerobic
+- *Respiraţie nazală* (cu vibraţii)
+  - Mecanism: Oxigenare amplificată, Producţie de [[id:84b93275-3082-4acd-982b-e4fe26734e7e][oxid de azot]], Reglare descendentă
+  - Actiune: Antrenament în sport de anduranţă, Respirație circulară, Precipitare a stării de flux
 
 *** Zona Goldilocks
 
@@ -456,9 +473,20 @@ acceptat pentru cineva care suferă. Cum ar fi dacă i-aş spune să încerce
 masturbarea regulată?*"
 #+end_quote
 
-*** TODO Inginerie hedonista
+*** Inginerie hedonista
 
-Vezi tabelul cu inginerie hedonista
+| *Inginerie hedonista*  | *Usoara*                                  | *Medie*                          | *Picant*                            |
+|                      |                                         |                                |                                   |
+|----------------------+-----------------------------------------+--------------------------------+-----------------------------------|
+| Monoxid de azot      | Dietă (sfeclă, semințe de dovleac etc.) | Suplimente                     | Medicamente ED                    |
+| Tonusul nervului vag | Masaj al gâtului/ Vocalize              | Stimulare orală/ anală/ dopuri | Stimulare cu instrumente medicale |
+| Endorfine/ dopamină  | Joc al senzaţiilor                      | Cleme                          | BDSM                              |
+| Oxitocină            | Sărut/Mângâieri/ Privit în ochi         | Sugerea sfârcurilor            | Spray nazal                       |
+| Testosteron          | Băi cu gheaţă, Ridicat greutăţi         | DHEA                           | Gel/Suplimentare intramusculară   |
+| Psihoactive          | CBD, THC                                | Nitroxigen, Ketamină, Carbogen | GHB, MDMA, 2CB                    |
+| Terapie a traumei    | Biografică                              | Gender / Arhetipală            | Transpersonală                    |
+| Respiraţie           | Sincronizată                            | Hiperventilatorie              | Apnee asistată de gaz             |
+
 
 * Partea a 3-a: Construcția cultului
 ** Trusa de scule a culturii etice

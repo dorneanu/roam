@@ -1,5 +1,6 @@
 +++
 title = "Das kompetente Kind"
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -9,7 +10,7 @@ draft = false
         -   zwischen Eltern
         -   aber auch zwischen Eltern und Kindern
     -   Der wird grundlegend neu definiert
--   vorgeschlagen wird die
+-   vorgeschlagen wird die [Gleichwürdige Familie]({{< relref "gleichwurdige_familie.md" >}})
     -   auch in der Familie sollten Kinder übernehmen
     -   Eltern sollen auf gar keinen Fall als dienen
 -   zu den Kompetenzen von Kindern gehört auch die

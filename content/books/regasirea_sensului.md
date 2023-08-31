@@ -1,5 +1,6 @@
 +++
 title = "Regăsirea sensului"
+author = ["Victor Dorneanu"]
 date = 2023-07-28
 tags = ["religion", "philosophy", "spirituality", "psychology", "book"]
 draft = false
@@ -233,9 +234,26 @@ Vezi imaginea cu tabelul (p. 135)
 > trebui să se dubleze
 
 
-#### <span class="org-todo todo TODO">TODO</span> Stiluri de respirație {#stiluri-de-respirație}
+#### Stiluri de respirație {#stiluri-de-respirație}
 
-Vezi tabelul
+-   **Lent** (Profund, lin &amp; simetric)
+    -   Mecanism: Schimb complet de aer, Oxigenare îmbunătățită, Reglare descendentă
+    -   Actiune: Management al stresului Antrenare a atenţiei, Sănătate generală
+-   **Hiperventilație** (Rapid, profund &amp; susţinut)
+    -   Mecanism: Alcaloză CO, redus
+    -   Actiune: Pregătire pentru scufundare liberă, Introspectie psihologică, Lucru cu trauma
+-   **Respirație vagalǎ** (expiratie/inspirație 10/4)
+    -   Mecanism: Reglare descendentă a sistemului nervos Tonus vagal crescut Scăderea ritmului cardiac
+    -   Actiune: Pregătire pentru scufundare liberă, Management al stresului
+-   **Respirație în cutie** (Inspirații, expiraţii şi menţineri de aceeaşi durată)
+    -   Mecanism: Toleranţă la CO2 Reglare descendentă a răspunsului de tip luptă- sau-fugi
+    -   Actiune: Management al stresului, Antrenament mindfulness
+-   **Respirație sub presiune** (Expirație ridicată)
+    -   Mecanism: Tonus cardiovagal crescut, Saturaţie de oxigen
+    -   Actiune: Alpinism,  Boala pulmonară obstructivă cronică (BPOC),  Sport anaerobic
+-   **Respiraţie nazală** (cu vibraţii)
+    -   Mecanism: Oxigenare amplificată, Producţie de [oxid de azot]({{< relref "../../topics/nitric_oxide.md" >}}), Reglare descendentă
+    -   Actiune: Antrenament în sport de anduranţă, Respirație circulară, Precipitare a stării de flux
 
 
 #### Zona Goldilocks {#zona-goldilocks}
@@ -455,9 +473,19 @@ Un catalizator al experientei:
 > masturbarea regulată?**"
 
 
-#### <span class="org-todo todo TODO">TODO</span> Inginerie hedonista {#inginerie-hedonista}
+#### Inginerie hedonista {#inginerie-hedonista}
 
-Vezi tabelul cu inginerie hedonista
+| **Inginerie hedonista** | **Usoara**                              | **Medie**                      | **Picant**                        |
+|-------------------------|-----------------------------------------|--------------------------------|-----------------------------------|
+|                         |                                         |                                |                                   |
+| Monoxid de azot         | Dietă (sfeclă, semințe de dovleac etc.) | Suplimente                     | Medicamente ED                    |
+| Tonusul nervului vag    | Masaj al gâtului/ Vocalize              | Stimulare orală/ anală/ dopuri | Stimulare cu instrumente medicale |
+| Endorfine/ dopamină     | Joc al senzaţiilor                      | Cleme                          | BDSM                              |
+| Oxitocină               | Sărut/Mângâieri/ Privit în ochi         | Sugerea sfârcurilor            | Spray nazal                       |
+| Testosteron             | Băi cu gheaţă, Ridicat greutăţi         | DHEA                           | Gel/Suplimentare intramusculară   |
+| Psihoactive             | CBD, THC                                | Nitroxigen, Ketamină, Carbogen | GHB, MDMA, 2CB                    |
+| Terapie a traumei       | Biografică                              | Gender / Arhetipală            | Transpersonală                    |
+| Respiraţie              | Sincronizată                            | Hiperventilatorie              | Apnee asistată de gaz             |
 
 
 ## Partea a 3-a: Construcția cultului {#partea-a-3-a-construcția-cultului}

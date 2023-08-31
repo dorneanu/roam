@@ -1,5 +1,6 @@
 +++
 title = "Dein kompetentes Kind"
+author = ["Victor Dorneanu"]
 date = 2020-11-01
 tags = ["parenting", "book"]
 draft = false
@@ -34,3 +35,19 @@ draft = false
 ### Dein kompetentes Kind - Note 4 {#dein-kompetentes-kind-note-4}
 
 > Aus dem Blickwinkel eines Familientherapeuten ist die in Südeuropa vorherrschende patriarchalische Familienstruktur oft nur eine soziale und ökonomische Realität. Psychologisch und existenziell erweisen sich die scheinbar so männerdominierten Familien oft als getarnte Matriarchate.
+
+
+### Note 5 {#note-5}
+
+> Ich habe jedoch während meiner Arbeit mit Familien und anderen Gruppen die
+> Erfahrung gemacht, dass dies nicht mehr zutrifft. Vieles deutet sogar auf das
+> Gegenteil hin: **Die Integrität des Einzelnen ist die Bedingung dafür, dass sich die Gemeinschaft gut entwickelt**. Es gibt kein kollektives Wohl- befinden ohne das Wohlbefinden des Einzelnen.
+>
+> Unsere heutigen Erkenntnisse über die psychische Entwicklung von Kindern (und
+> Menschen im Allgemeinen) versetzen uns in die Lage, neue Werte für die
+> Interaktion zwischen Kindern und Erwachsenen zu definieren. Das gilt vor allem für das Zusammenspiel in der Familie, aber auch in anderen Organisationen, in denen Kinder und Erwachsene zielgerichtet zusammenarbeiten, wie Schulen, Kindergarten, Pflegefamilien, therapeutischen Einrichtungen etc.
+
+
+### Note 6 {#note-6}
+
+> Wir können unsere ökonomische, physische und soziale Macht benutzen, um Kindern gewisse Dinge und Umstände entweder zu gewähren oder zu versagen, doch wenn wir sie benutzen, um ihre Reaktionen und Gefühle zu diskreditieren, dann missbrauchen wir unsere Macht. **Unsere Elternschaft gibt uns nicht das Recht, das Leben selbst zu kränken**. **Dieselbe Ethik ist ebenfalls nötig, um eine gleichwürdige Beziehung unter Erwachsenen zu etablieren**.
