@@ -14,15 +14,23 @@
 #+macro: imglink @@html:<figure><a href="$1"><img src="$2"></a><figcaption>$3</figcaption></figure>@@
 # Unicode callout numbers:  ❶ ❷ ➌ ❹ ❺ ❻ ❼ ❽ ❾ ❿
 # Other symbols: ™
+
 #+begin_src emacs-lisp :results silent :exports none
 ;; auto-export
-(org-hugo-auto-export-mode)
+(defun esf/execute-startup-block
+	(org-hugo-auto-export-mode)
 
-;; set buffer variable
-(setq-local org-agenda-files nil)
+  ;; set buffer variable
+  (setq org-agenda-files nil)
 
-;; set-fill-column
-(setq-local fill-column 90)
+  ;; set-fill-column
+  (setq-local fill-column 90)
 
-(add-to-list 'org-hugo-special-block-type-properties '("sidenote" . (:trim-pre t :trim-post t)))
+  (add-to-list 'org-hugo-special-block-type-properties '("sidenote" . (:trim-pre t :trim-post t)))
+
+  )
 #+end_src
+
+# Local Variables:
+# eval: (esf/execute-startup-block)
+# End:

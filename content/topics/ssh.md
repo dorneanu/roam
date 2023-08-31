@@ -1,5 +1,6 @@
 +++
 title = "SSH"
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -48,3 +49,8 @@ $ ssh bastion
 -   2022-09-05 ◦ [14 Best Practices to Secure SSH Bastion Host](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
 -   2022-09-05 ◦ [SSH Security Best Practices using Certificates, 2FA and Bastions](https://goteleport.com/blog/how-to-ssh-properly/)
     -   setup `CA` for authenticating users to hosts and hosts to users
+
+
+## General {#general}
+
+-   2023-08-29 ◦ [An Excruciatingly Detailed Guide To SSH (But Only The Things I Actually Find Useful)](https://grahamhelton.com/blog/ssh-cheatsheet/)

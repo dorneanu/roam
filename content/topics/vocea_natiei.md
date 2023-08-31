@@ -1,24 +1,53 @@
 +++
 title = "Vocea Natiei"
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
+## #192 {#192}
+
+-   2023-08-31 ◦ [Cum ajungi prim-ministru? | Vocea Nației #192 - YouTube](https://www.youtube.com/watch?v=uwZL6WTGhgc)
+
+> Cum ați construi o societate dacă nu ați cunoaște de dinainte statutul pe care
+> l-ați avea în acea societate? Cum ați construi regulile, principiile,
+> instituțiile, politicile publice într-o lume nouă, în care nu știți dacă urmează
+> să creșteți într-un mediu privilegiat sau sărac, nu știți ce culoare a pielii
+> veți avea, nu știți dacă veți fi femeie sau bărbat sau dacă veți avea
+> dizabilități?
+>
+> În episodul 192 din podcastul Vocea Nației:
+>
+> -   Cei doi factori despre care Sanna Marin, cea mai tânără prim-ministră a
+>     Finlandei spune că i-au asigurat succesul în carieră.
+> -   Motivul egoist pentru care ar trebui să ne dorim să le fie mai bine oamenilor
+>     din jurul nostru.
+> -   Ce se întâmplă când contractul social devine tot mai subțire?
+
+Cărți menționate:
+
+-   [Iluzia cunoașterii – Philip Fernbach, Steven Sloman](https://www.goodreads.com/book/show/30780235-the-knowledge-illusion)
+-   Mentalitatea de cercetaș – Julia Galef
+-   Ce ne datorăm unii altora – Minouche Shafik
+-   Amurgul democrației – Anne Applebaum
+
+
 ## #188 {#188}
 
-Dragoș Pătraru: „Nu cred că am văzut în toți anii de școală vreun părinte venind
-să-și ia copilul de la școală când eram mic. Pur și simplu plecam împreună, pe
-grupuri, către casă. Vorbeam, râdeam, făceam glume, de multe ori proaste, mai
-urcam într-un cireș, într-un prun, dud, ce găseam pe drum. Aruncam ghiozdanele
-în casa scării și încingeam câte un meci de fotbal în fața blocului până veneau
-părinții de la serviciu.”
-
-În episodul 188 din podcastul Vocea Nației:
-
--   Copiii trăiesc în mediile pe care noi, adulții, le construim pentru ei.
--   Faptul că elevii se chinuie să învețe și să se concentreze nu e un deficit al lor, ci un defect al lumii pe care noi am construit-o pentru ei.
--   Din joc înveți cum să înveți.
--   Când adulții fac un pas în spate, copiii avansează.
--   De ce învață elevii din Olanda să înoate îmbrăcați și încălțați?
+> Dragoș Pătraru: „Nu cred că am văzut în toți anii de școală vreun părinte venind
+> să-și ia copilul de la școală când eram mic. Pur și simplu plecam împreună, pe
+> grupuri, către casă. Vorbeam, râdeam, făceam glume, de multe ori proaste, mai
+> urcam într-un cireș, într-un prun, dud, ce găseam pe drum. Aruncam ghiozdanele
+> în casa scării și încingeam câte un meci de fotbal în fața blocului până veneau
+> părinții de la serviciu.”
+>
+> În episodul 188 din podcastul Vocea Nației:
+>
+> -   Copiii trăiesc în mediile pe care noi, adulții, le construim pentru ei.
+> -   Faptul că elevii se chinuie să învețe și să se concentreze nu e un deficit al
+>     lor, ci un defect al lumii pe care noi am construit-o pentru ei.
+> -   Din joc înveți cum să înveți.
+> -   Când adulții fac un pas în spate, copiii avansează.
+> -   De ce învață elevii din Olanda să înoate îmbrăcați și încălțați?
 
 Cărți &amp; alte resurse:
 
