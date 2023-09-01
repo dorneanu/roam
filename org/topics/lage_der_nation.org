@@ -9,7 +9,42 @@
 #+title: Lage der Nation
 #+type: text/vnd.tiddlywiki
 
-* LdN 333
+* LdN 344
+- 2023-09-01 ◦ [[https://plus.lagedernation.org/2023/08/10/ldn344-spezial-robert-habeck-bundesminister-fuer-wirtschaft-und-klimaschutz-vizekanzler/][LdN344 Spezial: Robert Habeck; Bundesminister für Wirtschaft und Klimaschutz, Vizekanzler – Lage der Nation Plus]]
+
+Zitate:
+
+#+begin_quote
+-  Robert Habeck
+
+man muss sich damit auseinandersetzen, was da die Vordenker tun. Und
+deswegen ist das keine Partei wie alle anderen, sondern sie wollen eine andere
+Republik. *Sie wollen, wenn man sie jedenfalls jetzt reden hört, Deutschland aus
+Europa herausführen*. *Ein Europa der Vaterländer ist die Zerstörung der
+Europäischen Union*. Das ist nicht nur eine ökonomische Katastrophe, sondern es
+wäre auch eine *friedenspolitische Katastrophe*. So anstrengend Europa ist, es ist
+ein Friedenswerk. Es ist gegründet worden auf den Trümmern des Zweiten
+Weltkriegs. Ein Europa der Vaterländer vergisst jede geschichtliche Lektion.
+Nein, das ist sie nicht.
+#+end_quote
+
+#+begin_quote
+- Ulf
+
+Also ein Punkt muss man schon noch mal sagen. Warum ist das eigentlich
+Beobachtung durch den Verfassungsschutz ist ja das eine, aber ich finde, es
+lohnt sich an der Stelle schon, einfach noch mal diese Ideologie mit zu
+benennen. Sie sagten Europa der Vaterländer. *Ich finde auch das wiederum Lektüre
+Matthias Quent so dramatisch, dass es der AfD ja eigentlich geht um ein völkisch
+autokratisches System*. *Es geht ja eben nicht darum, dass alle Menschen gleich
+sind, sondern es soll ein Deutschland geschaffen werden, in dem kein Platz mehr
+ist für Menschen, die nicht so aussehen und so leben wie Björn Höcke*. Und ich
+meine, das ist eben einfach fundamental mit dem Grundgesetz nicht vereinbar. Es
+hat mit Artikel eins Artikel drei nichts mehr zu tun und das, finde ich, wird in
+der *öffentlichen Diskussion viel zu wenig gesagt, dass es um eine Partei geht,
+die einfach die einfach die Bundesrepublik abschaffen will*.
+#+end_quote
+
 
 * LdN 306
 - 2022-10-11 ◦ [[https://lagedernation.org/podcast/ldn306-putins-eskalation-gas-pipelines-explodiert-proteste-im-iran-interview-gilda-sahebi-taz-200-mrd-fuer-energiehilfen-energiemarkt-der-zukunft-interview-lion-hirth-hertie-school-umgang/][LdN306 Putins Eskalation, Gas-Pipelines explodiert, Proteste im Iran (Interview Gilda Sahebi, taz), 200 Mrd. für Energiehilfen, Energiemarkt der Zukunft (Interview Lion Hirth, Hertie School), Umgang mit Bad News – Lage der Nation]]

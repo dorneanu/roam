@@ -1,0 +1,2022 @@
+:PROPERTIES:
+:ID:       1c4b1c92-deb1-4b2c-a1f0-20f1cf3fcf54
+:END:
+#+title: LDN344
+
+- Ulf
+
+Herzlich willkommen zur Lage der Nation, Ausgabe Nummer 345, aufgenommen am 2. August 2023
+in Flensburg. Das ist voraussichtlich unsere letzte Sommerausgabe 2023.
+
+ Philip Richtig. Am 24. August wollen wir weitermachen mit der neuen Lage, so wie man das
+kennt. Einmal in der Woche zusammengefasst die Ereignisse hierzulande und in der Welt, so
+sie uns interessieren und wir sie für relevant befinden. Bevor es losgeht mit der heutigen
+Ausgabe, noch zwei Hausmitteilungen. Das eine betrifft die Lage live in Frankfurt am Main.
+
+- Ulf
+
+Ganz genau. Da freuen wir uns sehr. Das wird, so viel ist jetzt schon absehbar, die größte
+Lage live ever. Wir haben jetzt schon 1.700 Tickets verkauft. Es gibt aber noch ein paar
+Restkarten für das Ticketformat Early Entry. Das sind die Tickets, wo man zuerst in die
+Halle kann, ein bisschen weiter vorne sitzen kann. Wer sich dafür interessiert Tickets
+unter Lage.live.
+
+- Philip
+
+Und die zweite Hausmitteilung ist natürlich unser Abo. Das ist die Stütze finanziell,
+wirtschaftlich dieses Formats unsere Abonnenten, Abonnentinnen plus.LagederNation.org. Da
+findet ihr Preisschilder und Warnhinweise. Und dann gibt es die Lage für euch werbefrei in
+einer Kurzfassung, rund die Hälfte eingedampft und es gibt ein redigiertes Transkript.
+
+- Ulf
+
+Wer die Lage also lieber lesen will oder parallel lesen und hören will, der wird glücklich
+auf plus.LagederNation.org.
+
+- Philip
+
+Wir sind nach Flensburg gefahren.
+
+- Ulf
+
+So ist es. Wir sitzen im Wahlkreisbüro von Robert Habeck, heute vor allem bekannt als
+Bundesminister für Wirtschaft und Klimaschutz. Aber er ist auch Abgeordneter des Deutschen
+Bundestages.
+
+- Philip
+
+Sie haben hier 2021 den Wahlkreis Flensburg-Schleswig mit gut 28 % gewonnen, sagt die
+Wikipedia. Korrekt?
+
+- Robert Habeck
+
+Ja, korrekt.
+
+- Philip
+
+Herzlich willkommen in der Lage der Nation!
+
+- Robert Habeck
+
+Herzlich willkommen in Flensburg und in meinem Wahlkreis. Den ich mit 28% '21 gewonnen
+habe.
+
+- Ulf
+
+Das muss man überlegen. So viele Wahlkreise gewinnen die Grünen ja nicht direkt. Jamila
+Schäfer in München zum Beispiel.
+
+- Robert Habeck
+
+Städische Wahlkreise gewinnen wir einige.
+
+- Ulf
+
+In Leipzig glaube ich auch.
+
+- Robert Habeck
+
+Frankfurt, München, Leipzig, Freiburg. Und so weiter. Aber ländliche Landkreise, das ist
+der Erste.
+
+- Philip
+
+Ist das noch ein ländlicher Landkreis?
+
+- Robert Habeck
+
+Absolut, Absolut klar, so groß wie das Saarland.
+
+- Ulf
+
+Ja, Ihr Mitarbeiter sagte eben schon das ist so ein bisschen Heimspiel für Sie hier oben
+in Flensburg.
+
+- Robert Habeck
+
+Na ja, ich wohne hier. Ich komme hier her. Ich war lange politischer Amtsträger in
+Schleswig Holstein. Und das ist schon zu Hause.
+
+- Ulf
+
+Ja, Sie sind natürlich momentan vor allem bekannt als Bundesminister. Das haben wir schon
+angesprochen. Aber das ist ja durchaus nicht Ihre erste Amtszeit als Minister, denn vorher
+waren Sie schon von 2012 bis 2018 Minister hier oben in Schleswig Holstein, unter anderem
+für Energiewende, Landwirtschaft und Umwelt, teilweise auch für ländliche Räume und Natur.
+Und wir haben mal so ein bisschen nachgeschaut, ein bisschen in der Geschichte gewühlt, da
+hat ja einiges geklappt.
+
+- Philip
+
+Sie haben sich so ein bisschen warm gelaufen, haben wir so den Eindruck, für den jetzigen
+Job damals auch erneuerbare Energien ausgebaut, fast verdoppelt in der Zeit ökologisch
+bewirtschaftete Fläche in Schleswig Holstein auch um 50 % gesteigert. Vermissen Sie
+manchmal, wenn Sie jetzt in Berlin sind, diese Handlungsfreiheit und die Ergebnisse, die
+auch den Output, den Sie haben?
+
+- Robert Habeck
+
+Ich denke, dass wir mit einem ähnlichen Output aus dieser Legislatur rausgehen werden. Die
+Erfolgs Zeichen sind sehr, sehr gut. Na klar, im Moment ist die Debatte schwierig, das
+weiß ich wohl. Aber wenn man sich den Zuwachs von erneuerbaren Energien ansieht, die
+Geschwindigkeit bei der Genehmigung von Stromnetzen, all die Gesetze, die wir angeschoben
+haben von digitalen Smart Metern, die jetzt ausgerollt werden, dann wird man am Ende
+sehen, dass es eine sehr erfolgreiche Regierungszeit gewesen ist. Und umgekehrt war es in
+Schleswig Holstein auch nicht frei. Also das Bundesland ist kleiner und die Verantwortung
+ist eine in dem Sinne geringere. Aber der Alltag war auch knackevoll und die Konflikte,
+die Widerstände, die Demonstrationen, die Anfeindungen teilweise mussten auch erst mal
+überwunden werden. Das war jetzt auch nicht so, wie es im Nachgang scheint. Hier schien
+die Sonne und in Berlin regnet es. Nur so ist es überhaupt gar nicht. In beiderlei
+Hinsicht.
+
+- Philip
+
+Wir gehen ja auf ein paar dieser Aspekte in erneuerbare Energien etc. gleich noch mal ein,
+aber haben uns irgendwie an Anfang geschrieben, so wie wir das machen, so ein bisschen
+bigger picture. Also wenn man jetzt heute mal so oder in diesen Wochen, so in dieser
+Sommerpause Flaute, wie auch immer, so ein bisschen die Medien durchscrollt, dann kann man
+so eine Erzählung mitkriegen, die so ein bisschen so ein Doomsday Szenario ist. Also es
+gibt hohe Inflation, die Zinsen steigen, würgen die Konjunktur ab, das Wachstum geht gegen
+Null. Deutschlands Infrastruktur ist seit Jahren marode, die Brücken zerbröseln.
+Autobranche, da wird jetzt viel drüber geredet. Haben die den Anschluss verpasst? Kriegen
+die noch mal die Kurve gegen China? Umweltbundesamt sagt klimaneutral 2045? Wenn es so
+weitergeht, schafft ihr das nicht. Digitalisierung der Verwaltung kommt nicht vom Fleck.
+Da hat jetzt noch mal die Ampel die Finanzierung noch gekürzt. Die Ungleichheit in
+Deutschland wächst. Da wächst so ein bisschen diese Erinnerung. Da steht so ein bisschen
+dieses Bild, was ich nicht Ende der 1990, Anfang 2000 war so ein Land, was es sich zu
+bequem gemacht hat, was die Kurve nicht kriegt und einen echten Wandel braucht. Was hören
+Sie, wenn Sie diese Doomsday Szenarien lesen?
+
+- Robert Habeck
+
+Ich würde dem Befund, dass wir uns es zu bequem gemacht haben, zustimmen und damit
+widersprechen, dass alles den Bach runtergehen muss. Ich erlebe diese Stimmung ähnlich,
+aber sie entspricht nicht der Wirklichkeit. Es gibt eben auch die Gegenerzählung, dass
+überall viel Aufbruch ist, dass sich Unternehmen neu erfinden, dass wir aus dem Ausland
+wie im Inland große Investitionen in Zukunftstechnologien gewinnen können und loseisen
+können. Und vor allem, dass wir im letzten Jahr als Land über die verschiedenen Gruppen
+Erstaunliches geschafft haben, nämlich eine ganz, ganz schwere Wirtschaftskrise abgewehrt
+haben und dass jetzt eine hohe Inflation ist und dass die Zinsen deswegen angehoben werden
+von den Zentralbanken, ist eigentlich nicht überraschend. Ich meine, wir haben ungefähr
+die Hälfte der fossilen Energien, die wir leider immer noch verbrauchen, verloren und ein
+Jahr später haben wir höhere Energiepreise. Das kann ja niemanden überraschen. Richtig ist
+allerdings, dass wir uns eingeredet haben, ohne Anstrengung kann das alles so weitergehen
+und dass die Straßen und die Brücken marode sind, dass wir digital eher
+unterdurchschnittlich sind. Das ist teilweise überblendet worden durch die
+Wachstumserfolge, die waren, aber das ist ja jetzt die besondere deutsche Herausforderung,
+vor allem getrieben durch den Export. Wir sind eine Exportnation, da sind wir stolz drauf.
+Wenn die Weltwirtschaft schwächelt, trifft es Deutschland, das ungefähr die Hälfte seines
+Wachstums immer durch den Export erzielt hat, ungleich härter. Und viele Produkte, auch
+die wir exportiert haben, sind durch billiges russisches Gas erzeugt worden. Das fehlt
+jetzt. Also haben wir tatsächlich Probleme, die wir aber lösen können. Und wir haben
+strukturelle Herausforderungen, die wir ohne Frage lange nicht angegangen sind, von
+Arbeitskräften bis Verwaltungsbürokratie.
+
+- Ulf
+
+Da würden wir jetzt gerne so ein bisschen noch konkreter nachbohren, Herr Habeck, wie soll
+denn jetzt Deutschland wieder nach vorne kommen? Beispiel marode Infrastruktur. Die nervt
+ja nicht nur die Menschen, die irgendwo im Stau stehen oder deren Züge Verspätung haben.
+Sie bremst vor allem auch die Wirtschaft aus. Brücken, Bahn, Digitalisierung, Schulen,
+Fachkräfte. Die Stichworte sind allgemein bekannt. Der Rückstand bei den Investitionen
+beläuft sich auf mehrere 100 Milliarden €. Allein bei der Bahn sollen es 90 Milliarden €
+sein. Eine unfassbare Summe, fast so viel wie das sogenannte Sondervermögen für die
+Bundeswehr. Der Deutsche Städte und Gemeindebund beziffert den Sanierungsstau allein an
+den Schulen, die ja typischerweise in kommunaler Trägerschaft sind, auf 47,4 Milliarden €.
+Unglaubliche Summen, Dass also ganz viel Geld investiert werden müsste, ist nicht
+ernsthaft umstritten. Aber, Herr Habeck, wo soll das Geld denn herkommen?
+
+- Robert Habeck
+
+In Teilen investieren wir durch Kreditaufnahmen. Das betrifft die Bundeswehr, sind ja erst
+mal Schulden, die gemacht wurden und die dann ausgegeben werden. Und in anderen Teilen
+investieren wir durch die Einnahmen, die wir aus Klimaschutzgesetzen erzielen. Also der
+Klima- und Transformationsfonds, der in meiner Verwaltung ganz wesentlich steht, speist
+sich immer aus den CO2 Einnahmen und den Einnahmen aus dem europäischen Zertifikatehandel.
+Und dann wird das Geld wieder ausgegeben für Dekarbonisierungsmaßnahmen, also
+Wasserstofferzeugung, Energieeffizienzmaßnahmen. Und dann gibt es natürlich noch die
+allgemeinen staatlichen Investitionen. Aber Sie haben natürlich recht. Wir sind unter dem
+Bedarf. Das, was eigentlich notwendig ist, erreichen wir nicht. Dafür gibt es eine
+Begrenzung. Das ist die Schuldenbremse. Die wurde eingeführt vor genau vor zehn Jahren,
+und die Diskussion begann vor anderthalb Dekaden ungefähr. Ich würde für mich sagen, die
+hat einen guten Grund. Wir sehen das bei anderen Ländern. Wenn das Geld mit vollen Händen
+aufgegriffen wird, dann werden die irgendwann auch downgeratet. Ob sie genauso aufgestellt
+hätte sein müssen, wie sie es ist, daran kann man zweifeln. Nützt aber nichts. In dieser
+Legislatur wird die Schuldenbremse eingehalten werden und deswegen müssen wir innerhalb
+der Schuldenbremse die Spielräume, die es gibt, erweitern. Ich mache mal ein Beispiel. Man
+kann der Bahn Geld überweisen oder man kann den staatlichen Eigenanteil an der Bahn
+erhöhen. Also wir nehmen Geld, Steuerzahlergeld, erwerben aber Anteile quasi an der Bahn,
+stocken das Kapital der Bahn auf. Das ist dann nicht Schuldenbremsen relevant, sondern das
+sind dann das Geld ist ja nicht futsch, sondern die Bahn gehört uns, die Infrastruktur
+gehört uns und solche Dinge sollten wir vermehrt machen. Also intelligentere Lösung, um
+dann Investitionsbedarf zu stellen.
+
+- Philip
+
+Also um diese Schuldenbremse gibt es eine riesen Debatte. Was viele einsehen wir auch mit
+Christian Lindner besprochen haben ist, wir müssen wahrscheinlich investieren, auch in
+Zukunft Klima, Transformation etc.. Aber wenn wir die Schuldenbremse lösen, dann wird
+dieses Geld nicht zielgerichtet ausgegeben. Dann wird es irgendwie wahrscheinlich für
+Konsumausgaben ausgegeben, sondern wir wollen, dass die Investitionen fließen. Und dann
+gibt es diese riesen Debatte darüber: Wenn wir die Schuldenbremse nicht haben, dann das
+Steuergeld, das fließt in Konsumausgaben. Wenn wir die Schuldenbremse haben, dann fließt
+das in Schattenhaushalte. Die sind nicht so richtig transparent. Klima und
+Transformationfonds ist ja auch nicht mehr so richtig zielgerichtet, sagen viele, wenn wir
+für Geld ausgeben, nicht nur für den Klimaschutz. Also die Frage ist so ein bisschen: Wie
+soll man Schulden machen, um sie für Investitionen zu sichern?
+
+- Robert Habeck
+
+Noch einmal, das will ich vorwegschicken In dieser Legislaturperiode wird daran sicherlich
+nichts geändert werden.
+
+- Philip
+
+Aber von der Idee.
+
+- Robert Habeck
+
+Da müsste man, wenn man es reformieren wollte, Investitionen und konsumtive Aufgaben
+trennen und die Investitionen meiner Ansicht nach noch stärker qualifizieren für
+Maßnahmen, die gesellschaftlich verabredete Zukunft erzeugen. Also nicht egal, was ich mir
+kaufe, es ist gleich, sondern Ausgaben, die Klimaneutralität erreichen, sind respektabel,
+sind Investitionen. Und das politische Argument wäre, dass wir das als gesellschaftliche
+Aufgabe stemmen müssen. No matter what. Ja, ich will einen anderen Vergleich machen. Ein
+bisschen vielleicht gegen die Lesart, Sie wissen ja, dass ich bei den Grünen bin. Die
+Investitionen in die Bundeswehr sind, so schwer es einem fällt, das zu geben, zu sagen
+meiner Ansicht nach notwendig. Rechnen die sich ökonomisch? Hoffentlich nicht. Die ganzen
+Panzer, die jetzt gebaut werden, werden ja hoffentlich niemals in einen wirklichen Einsatz
+wie Ukraine in den Krieg kommen. Trotzdem ist es im Moment, meine ich, notwendig, das zu
+tun. Müssen wir deswegen Sozialausgaben zurückfahren, weil wir in die Sicherheit
+investieren? Eine schwere, eine schwere Abwägung. Und so gibt es, meine ich,
+Notwendigkeiten, die man definieren kann, die nicht unter die allgemeine Regel der
+Schuldenbremse fallen. Noch mal das ist allerdings jetzt nicht, steht nicht an, da habe
+ich meinen Frieden mit gemacht. Das ist jetzt. Wir reden vielleicht über eine nächste
+Wahlauseinandersetzung oder über eine Debatte, die die ansteht, aber die im Moment nicht
+im Kabinett geführt wird. Das auch nicht meine Forderung. Es gibt Möglichkeiten, innerhalb
+der Schuldenbremse den großen Investitionsbedarf, den wir haben, annähernd zu befriedigen.
+Und da, darüber müssen wir reden, über das Konkrete, nicht über das Abstrakte.
+
+- Philip
+
+Vielleicht wollen wir das noch mal ganz kurz für die Hörerinnen und Hörer auf den Punkt
+bringen. Die etwa 100 Milliarden Investition in die Bundeswehr werden nicht direkt über
+den Bundeshaushalt finanziert, sondern über ein sogenanntes Sondervermögen, was aber im
+Grunde ein Schuldentopf ist. In diesem Spezialfall ist dieser Schulden Topf sogar im
+Grundgesetz extra abgesichert worden, inklusive Zweckbindung der Mittel in diesem Topf.
+Aber die Idee lässt sich ja möglicherweise ausweiten. Sie haben grade schon darauf
+hingewiesen, Sie glauben in dieser Legislaturperiode nicht dran, aber die Idee wäre, dass
+man quasi Investitions Töpfe einrichtet, um diese großen Aufgaben im Infrastrukturbereich
+zu stemmen über sogenannte Infrastrukturgesellschaften. Also die Idee, so ein bisschen
+eine Gesellschaft bekommt langfristig Geld im Zweifel über Kreditaufnahmen. Und dieses
+Geld wird dann für Investitionen auf der Ebene der Länder, der Kommunen zum Beispiel
+eingesetzt und kann dann kann man zum Beispiel Anträge stellen. Wie man das im Detail
+ausgestaltet, bis eine Gesellschaft des Landes, eines Landkreises. Das ist eine zweite
+Frage. Uns geht es erst mal um diese grundsätzliche Idee, eine von Investitions
+Gesellschaften, die Schulden aufnehmen, das dann zweckgebunden in Investitionen fließt und
+die dann eben auch den Effekt haben, dass die Investitionen ja verstetigt werden, also
+nicht nur im Haushaltsjahr ausgegeben werden, sondern vielleicht über fünf oder zehn
+Jahre. Was halten Sie denn grundsätzlich von dieser Idee?
+
+- Robert Habeck
+
+Von der halte ich viel, die ist auch mit der Schuldenbremse kompatibel. Das wäre eine der
+ich nenne es jetzt mal kreativen Möglichkeiten oder der der Auswege in einem sehr engen
+Korsett, das wir uns selbst gegeben haben, als Land, als Europa trotzdem ausreichend zu
+investieren. Und der Unterschied ist eben, es sind keine Zuschüsse, die dann verschenkt
+sind, sondern die gehören halt nach wie vor der Allgemeinheit. Und je nachdem, wie sich
+die Unternehmen dann entwickeln, wie die Investition in die Bahnschienen beispielsweise
+sich dann ökonomisch auswirken. Dann fahren Züge drauf, dann werden Fahrkarten verkauft,
+das Geld kommt irgendwann zurück. Man weiß nicht genau wie viel. Das werden Experten dann
+ausrechnen können. Aber das ist dann ein in sich geschlossenes System idealerweise. Das
+finde ich richtig und das sollten wir auch meiner Ansicht nach vermehrt machen.
+
+- Ulf
+
+Das finde ich ein interessanten Punkt, dass Sie das so sagen, weil Sie ja ein paar Sätze
+vorher, wie soll ich sagen Ihrer Skepsis Ausdruck gegeben haben, ob derlei in dieser
+Legislaturperiode möglich ist.
+
+- Robert Habeck
+
+Dererlei wäre möglich. Das setzt auch politischen Willen voraus. Und es heißt ja im
+Klartext, dass der Staat investiert in bestimmte Bereiche, also sich ökonomisch engagiert,
+wenn Sie so wollen. Es gäbe vielleicht einige Leute, zu denen ich eindeutig nicht gehöre,
+die sagen, das ist nicht seine Aufgabe. Er soll Gesetze schreiben, aber er ist nicht der
+bessere Unternehmer oder auch nicht der bessere Geldgeber. Das halte ich weder praktisch
+für angemessen, wenn wir sehen, welche Notwendigkeiten wir halten, noch theoretisch für
+richtig. Das ist eine zu schwache Rolle für den Staat. Aber noch mal: Das ist innerhalb
+der Schuldenbremsen Logik möglich. Meine Skepsis war, dass die Öffnung der Schuldenbremse
+für mehr Investition als der Bundeshaushalt an Einnahmen hat, in dieser Legislatur
+gelingen wird. Das würde den Koalitionspartner eindeutig überfordern.
+
+- Ulf
+
+Überfordern, das ist klar. Das hat er uns auch im Gespräch, in seiner, in seiner
+unnachahmlichen Art deutlich gemacht.
+
+- Robert Habeck
+
+Das muss man ja auch sagen, es ist eine, um die jetzt nicht gleiche der FDP die Schuld
+zuzuschieben, das wäre eine Grundgesetzänderung. Grundgesetzänderung heißt, der Bundesrat
+müsste auch zustimmen. Es ist völlig ausgeschlossen, dass die Union in der Opposition zur
+Bundesregierung sich diesem Gedanken auch nur annähernd würde, ja noch nicht mal sozusagen
+konzeptionell, sagen wir in ihrer Grundsatzdebatte sich dem stellen würde, sondern dass es
+nicht, das ist nicht zu erwarten. Deswegen müssen wir die Rechnung ohne den Wirt machen.
+Das können wir aber auch.
+
+- Ulf
+
+Das finde ich spannend. Wenn Sie sagen, Investitionsgesellschaften funktionieren auch
+unter Geltung der Schuldenbremse. Haben Sie da schon mal mit Christian Lindner darüber
+gesprochen?
+
+- Robert Habeck
+
+Klar.
+
+- Ulf
+
+Und wann kommen die?
+
+- Robert Habeck
+
+Der Bahnbedarf ist ja, haben Sie ja richtig angesprochen. Es gibt einen Bedarf von der
+Bahn, die Bahn ist ja unsere, und jetzt gibt es drei Varianten, der Investitionsbedarf
+wird nicht erfüllt. Wir überweisen der Bahn Geld, das sind dann Schulden. Oder wir erhöhen
+jedenfalls ein bisschen den Anteil des Staates bei der Bahn. Darüber wird gesprochen.
+
+- Philip
+
+Also ist dann die Bahn quasi eine Investitionsgesellschaft oder was ist da die
+Gesellschaft?
+
+- Robert Habeck
+
+Das wäre sozusagen der Logik nach entsprechend.
+
+- Ulf
+
+Wir reden von der Kapitalerhöhung, also die Bahn gibt weitere Aktienanteile aus, wobei die
+ja ohnehin momentan im Eigentum des Bundes steht.
+
+- Robert Habeck
+
+Das heißt dann noch mehr Eigentümer.
+
+- Ulf
+
+Also Eigentümer an noch mehr Aktien. Das finde ich, dass das und das ist quasi das ist ein
+Deal. Ja, das läuft? Da ist Christian Lindner dabei?
+
+- Robert Habeck
+
+Nein, das ist noch kein Deal. Aber es ist eine Möglichkeit, innerhalb der Schuldenbremse
+ein Teil der Investitionen zu stemmen. Es gibt ja einen anderen Teil, das ist vielleicht
+bekannt. Wir haben ja bei dem Koalitionsausschuss, der diese sagenumwobenen 30 Stunden
+gedauert hat, auch eine weitere weitreichende Entscheidung getroffen, nämlich auf die LKW
+Maut eine CO2 Abgabe von 200 € pro Tonne CO2 zu erhöhen. Und dieses Geld soll ganz
+überwiegend, so glaube ich, ist die Formulierung, weil da nicht noch irgendwelche
+Verwaltungskosten anfallen in den Schieneausbau, in die Bundesbahn fließen. Und da kommt
+schon einiges zusammen. Sicherlich nicht die volle Summe, aber doch eine erhebliche Summe.
+
+- Ulf
+
+Wir reden hier von 90 Milliarden.
+
+- Philip
+
+Man muss das ein bisschen stückeln.
+
+- Ulf
+
+Ja, klar. Aber was ist denn da so die Perspektive? Also bislang jedenfalls gibt es
+kritische Stimmen, die sagen, bisher war ja immer von 20 Milliarden Investitionsrückstau
+mal die Rede, ist eine Zahl, die lange Zeit die Diskussion bestimmte. Und die sei nicht
+mal zur Hälfte hinterlegt durch Haushaltsmittel.
+
+- Robert Habeck
+
+Ich bin begrenzt optimistisch, dass wir über 20 Milliarden hinaus die Deutsche Bahn
+unterstützen könnten.
+
+- Ulf
+
+In dieser Legislaturperiode.
+
+- Robert Habeck
+
+Also das baut sich auf. Aber eine Entscheidung in dieser Legislaturperiode treffen, die
+dann die Perspektive ausreichend stabil sein lässt, dass die Bahn in die Infrastruktur
+investieren kann. Das ist auch notwendig. Der Verkehrsbereich im Klimaschutz ist ja
+sowieso unser großes Sorgenkind, um es ganz neutral und freundlich zu formulieren. Ohne
+eine leistungsfähige Bahn, also wirklich über Schiene, also Stahl, der verlegt wird,
+werden wir sowieso gar keine Chance haben, da auch noch annähernd dranzukommen, selbst
+wenn Immobile noch und nöcher fahren und Ladesäulen gebaut werden.
+
+- Ulf
+
+Stichwort... Wolltest du weiter Philip?
+
+- Philip
+
+Ich wollte eine Frage noch zu den Investitionsgesellschaften stellen, weil wenn das jetzt
+sozusagen bei der Bahn angedacht ist und ja auch ein bisschen auf dem Elfmeterpunkt liegt
+auf einer Art, dann gibt es ja eine ganze Reihe Möglichkeiten, wie man das noch weiter
+ausdehnen könnte. Also Leute sagen okay, wenn ihr denn in den Ländern investieren wollt,
+Brücken bauen wollt oder Schulen bauen wollt oder derlei kommunale Infrastruktur stemmen
+wollt, dann macht doch Infrastrukturgesellschaft für diese Aufgaben. Die kriegen dann eben
+genau diese Gelder, die können vielleicht sogar Schulden machen, die können dann aber über
+lange Zeiträume planen. Die Kommunen können ihre Planungs Leute vorhalten, müssen sie
+nicht entlassen, wieder einstellen lassen, einstellen. Die Baufirmen können ihre Leute
+angestellt lassen, weil sie wissen, wir haben da in zehn Jahren Aufträge. Was halten Sie
+von dieser Idee? Also für so mehr Infrastruktur, auch für die Länder, wo die Kommunen dann
+Anträge stellen können, solche Gesellschaften aus gleichzusetzen?
+
+- Robert Habeck
+
+Die Logik von solchen Gesellschaften ist, dass Geld reinkommt. Die Bahn wird Geld
+verdienen. Schulen ja nicht. Hoffentlich nicht. Also wenn die Logik ist, wir bauen die
+Schulen schick aus und danach gibt es Schulgebühren, würde ich sagen: schlechte Logik.
+Aber es gibt andere Bereiche, wo man das machen kann oder wo man drüber nachdenken kann.
+Stromleitungen beispielsweise.
+
+- Philip
+
+Handymasten.
+
+- Robert Habeck
+
+Handymasten, Ladesäulen, Infrastruktur, möglicherweise Wasserwege und was den Hafen,
+Infrastrukturen für Ladepunkte. Und so weiter so, und dann würde ich jetzt muss ich einmal
+den Wirtschaftsminister herauskehren sagen es gibt eine Logik, die begrenzt, jedenfalls
+schlagend sein sollte. Wir sollten den Wettbewerb schon nicht verzerren. Ich glaube nicht,
+dass der Staat tatsächlich der bessere Unternehmer ist, außer im Bereich, wo natürliche
+Monopole entstehen. Bei Wasserleitungen haben wir in der Regel keine Konkurrenz. Und das
+ist auch richtig so, dass das öffentliche Daseinsvorsorge. Die Kommune garantiert die
+Wasserleitung, die muss ausgebaut werden, wir privatisieren nicht die Wasserleitung. Bei
+Stromnetzen in der Regel auch nicht. Wir haben die zwar privatisiert vor mit in der Zeit
+der Deregulierung und Privatisierung. Aber an wen denn? An die niederländischen
+Staatskonzern Tennet. Also Deutschland hat seine staatlichen Stromnetze privatisiert. An
+einen Staatskonzern kann man sich auch denken. Okay, ist das jetzt so super clever
+gewesen? Und jetzt müssen wir nun mal in diese Stromnetze investieren. Da wird auch über
+die Netzentgelte Geld zurückkommen. Das wäre auch ein Beispiel, wo man sagen kann. Dann
+gründen wir doch eine Gesellschaft, in der der Staat mit dabei ist. Also wir kaufen die
+zurück, Er muss gar nicht alleine dabei sein. Da können ja von mir aus auch noch andere
+Gesellschaften, irgendwelche Versicherungen, irgendwelche Anleger ihren Anteil bekommen.
+
+- Philip
+
+Autobahngesellschaft ist ja so eine Idee, funktioniert nicht so richtig gut.
+
+- Robert Habeck
+
+Ne, funktioniert nicht so richtig gut.
+
+- Ulf
+
+Aber das liegt ja auch daran, dass sie keine Schulden machen darf. Das ist ja das große
+Problem bei der Autobahngesellschaft, dass man da quasi die Chancen, die eine solche
+privatwirtschaftliche Form quasi an der Schuldenbremse vorbei bieten würde, gerade bewusst
+nicht genutzt hat. Das ist ja die gesetzliche Ausgestaltung dieser Gesellschaft, würden
+sie dann sagen, da muss man ran? Also das liegt ja eigentlich nicht fern zu sagen,
+jedenfalls auch aus einer grünen Perspektive. Autobahn Ersatz Bauten machen ja schon Sinn.
+Über Autobahn Neubau kann man streiten, aber dass eine Brücke zerbröselt ist ja niemandes
+Interesse.
+
+- Robert Habeck
+
+So ist es. Und das haut natürlich im Moment auch jetzt ganz konkret ins Kontor. Wir reden
+über die langen Planungs- und Genehmigungszeiten. In meinem Bereich haben wir wirklich in
+bestimmten Feldern rapide Fortschritte hinbekommen. Aber die Windkraftanlagen, die
+Kabelrollen, die Transformatoren werden teilweise nicht transportiert, Es ist alles
+genehmigt, kann alles gebaut werden. Aber die Genehmigung für die Autobahntransporte sind
+unter anderem wegen der maroden Brücken oder der kaputten Straßen stapeln sich
+wahrscheinlich. Tatsächlich stapeln sie sich, weil die noch nicht mal digitalisiert.
+Wahrscheinlich muss man sich richtig so eine Ablage wieso bei Oberamt Alfred Claussen
+vorstellen. Schiebt dss mal in die Ablage und dann liegt das da. Da haben wir das ist
+jetzt wirklich ein massives Problem. Man kann zur Autobahn stehen wie man will, kaputte
+Autobahnen sind schlecht. Das nützt der Volkswirtschaft gar nichts, wenn wir die
+Windkraftanlagen nicht transportieren können. Also die sollen fix und gerne heile gemacht
+werden. Kein Grüner hat was dagegen, wenn Brücken befahrbar sind. Die müssen schnell
+befahrbar sein. Ja, ansonsten ich will jetzt nicht zu allgemein reden, aber die
+Bundeskanzlerin hat mal gesagt, die schwäbische Hausfrau weiß, sie kann nur den Euro
+ausgeben, den sie hat. Und das ist leider nicht richtig gewesen, jedenfalls für...
+
+- Ulf
+
+Staaten nicht.
+
+- Robert Habeck
+
+Und ich würde sagen, es stimmt noch nicht mal für schwäbische Hausfrauen. Davon abgesehen,
+dass es vielleicht gar nicht mehr so viele Hausfrauen gibt, aber die schwäbischen
+Unternehmerinnen, die ich kenne, haben immer in ihr Unternehmen investiert, haben immer
+gesagt: Ach, die nächste Phase von Unternehmen bedeutet, wir müssen digitalisieren. Die
+habe sich dann Computer gekauft oder das Unternehmen erweitert oder in ihre Mitarbeiter
+investiert oder in ihre Familien investiert und waren auch bereit, dafür Schulden
+aufzunehmen. Natürlich darf man nicht umgekehrt sagen: man kann sich verschulden, wie du
+willst, das wird schon passen. Natürlich muss man immer sehr aufpassen. Und als
+Volkswirtschaft gilt das eben auch meiner Ansicht nach. Aber da haben wir uns ein anderes
+Korsett gebaut. Ich allerdings glaube, und das sieht man jetzt auch, das ist jetzt
+knallharte Realität des Jahres '23. Die anderen Länder machen es nicht, die investieren
+massiv, die subventionieren massiv die neue Wirtschaft, die neue Industrie. Und wenn wir
+in diesen Jahren jetzt nicht mithalten, dann werden wir den Wettbewerb um die zukünftige
+Wertschöpfung verlieren. Und dann? Dann nützt es auch nichts im Jahr 2035, dass wir im
+Jahr '23 nicht investiert haben. Dann haben wir keine leistungsfähige Wirtschaft mehr
+hier. Und das ist im Moment die Debatte, die hinter der Debatte steht.
+
+- Philip
+
+In der Debatte um eine leistungsfähige Wirtschaft haben Sie im Mai ein oder hat Ihr
+Ministerium mal, glaube ich, war es so ein nicht mal so ein Eckpunktepapier
+veröffentlicht, sondern eher so ein Vorschlag für den Industrie Strompreis. Ja, die Idee
+müssen Sie mal erzählen. Das ist nach unserem Kenntnisstand immer noch eine Idee. Oder
+gibt es da eine konkrete Gefahr?
+
+- Robert Habeck
+
+Das ist so ähnlich wie mit der Bahn. Wir reden darüber. Aber es ist kein Durchbruch zu
+verkünden. Es ist allerdings eine Idee, die sehr viel Unterstützung hat die Wirtschaft,
+der Bund der deutschen Industrie, die Gewerkschaften, die Wirtschaftsministerkonferenz der
+Länder, die Ministerpräsidenten der Länder, die SPD Fraktion, die Grüne Fraktion alle
+unterstützen die Idee. Und mir geht es nicht um die letzten Details, sondern um die Sache,
+um die prinzipielle Logik. Und die stammt aus einer Entscheidung, die wir meiner Ansicht
+nach schon getroffen haben. Im letzten Herbst, im November haben wir ein großes zweites
+Sondervermögen aufgelegt 200 Milliarden, um Verbraucherinnen und Verbraucher von zu hohen
+Strom und Gaspreisen und Fernwärmepreisen zu schützen und die Industrie zu unterstützen.
+Das steht da so drin in dem Gesetz. Damals in der Annahme, die Strom und die Gaspreise
+werden skyrocking high. Richtig im Winter 22/23 explodieren uns die Preise und die ganzen
+Unternehmen gehen alle pleite und deswegen gibt es diese Strom- und Gaspreis Bremse. Wir
+haben das über einen etwas komplizierteren Mechanismus, der immer noch Sparanreize
+beinhaltet, gedeckelt. So ist es nicht gekommen. Durch eine große politische Leistung sind
+die Preise viel schneller runtergegangen, als sie bei uns das jemals erwartet haben und
+jemals geträumt haben. Aber sie sind nicht auf das Niveau runtergegangen von vor dem
+russischen Angriffskrieg auf die Ukraine, sondern sie sind gemessen an der internationalen
+Wettbewerbsfähigkeit deutlich drüber. So, nun ist meine Überlegung, wenn wir damals gesagt
+haben, wir schützen die Industrie, wir geben das Geld aber gar nicht aus, weil die Preise
+gar nicht so hoch sind. Wir haben aber ein anderes Problem Es gibt nicht den hohen Peak,
+aber es gibt ein etwas längeres, höheres Niveau. Dann sollten wir doch kreativ und
+flexibel genug sein, das dafür reservierte Geld über den längeren Zeitraum zu strecken.
+Und das ist die Idee eines Industriestrompreises. Ja, es ist eine Subvention, aber wir
+binden die Subvention an die Transformation. Das kriegt eben nicht jede Industrie, sondern
+nur die energieintensive. Die transformiert.
+
+- Philip
+
+Zur Klimabeutralität.
+
+- Robert Habeck
+
+Das ist mit Transformationen gemeint. Das heißt also, ein Chemieunternehmen, das jetzt
+sehr viel Erdgas verbraucht, oder weil es ja sehr viel Strom verbraucht, muss nachweisen,
+dass sie über einen Zeitraum X einen verbindlichen Fahrplan hat, Aluminium klimaneutral zu
+kriegen.
+
+- Philip
+
+Wie immer man das dann auch kontrolliert.
+
+- Robert Habeck
+
+Oder Glas Klimaneutral zu kriegen. Klar, das ist dann da, sonst kann muss man das ja
+zurückfordern. Das kann man ja sehr verbindlich machen und dafür schaffen wir die
+Bedingungen. Und die ökonomische Logik, die wirtschaftspolitische Logik ist, diese
+Industrien, die werden alle klimaneutral werden. Es ist völlig klar, dass der Stahl in
+Zukunft grün sein wird, dass das Aluminium in Zukunft grün sein wird, dass Ammoniak und
+chemische Produkte in Zukunft grün sein werden, meistens über Wasserstoff. Die Frage ist:
+Passiert es auch in Deutschland? Und die die Diskussion, die hatten ja Frau Schnitzer
+gerade hier, die ich als Ökonomin durchaus schätze, die ökonomische Diskussion sagt die
+ich glaube, hier hat schreiben immer rein, gerade in einem Gutachten für das
+Finanzministerium, also Christian Lindners Haus. Das verschleppt den nötigen
+Anpassungsprozess.
+
+- Philip
+
+Wo Sie das gerade ansprechen...
+
+- Robert Habeck
+
+Und das ist, das will ich einfach nur aussprechen...
+
+- Philip
+
+Wir spielen, nein, wir spielen den Ton von Frau Schnitzer, die genau das sagt. Und dann
+können Sie entgegnen, was Ihnen Da nicht passt.
+
+- Robert Habeck
+
+Also übersetze ich erst mal, was sie gesagt hat.
+
+- Philip
+
+Also Frau Schnitzer argumentiert: Hohe Löhne, hohe Energiepreise waren noch nie der
+Standortvorteil für Deutschland. Es gab immer mal hohe Löhne, Lohn, Preise, hohe
+Energiepreise. Damit ist Deutschland immer klar gekommen. Und Deutschland sollte lieber
+seine Stärken nutzen, nämlich gut ausgebildete Fachkräfte, innovative Produkte. Und dafür
+sollten wir unsere Volkswirtschaft umbauen.
+
+ Monika Schnitzer Wenn man jetzt den Industriestrompreis künstlich niedrig hält, dann
+verzögert man diese Anpassung, dann verzögert man diesen Umbau. Und das hält uns am Ende
+davon ab, wirklich forciert in die Bereiche zu gehen, wo eigentlich unsere Zukunft liegt.
+Und vielleicht stellen wir uns dadurch eben am Ende wirklich ein Bein.
+
+- Ulf
+
+Tja, also etwas zugespitzt gefragt Herr Habeck, warum wollen Sie mit viel Geld den ohnehin
+nötigen Strukturwandel ausbremsen?
+
+- Robert Habeck
+
+Erst mal muss man übersetzen, was die Ökonimin, ich schätze Frau Schnitzer wirklich,
+sowohl persönlich wie auch als Ökonomin. Aber was sie damit sagen: Sie sagen der
+notwendige Anpassungsprozess, das ist der Verlust der Industrie.
+
+- Ulf
+
+Das haben wir auch nachgefragt. Das hat sie auch bestätigt.
+
+- Robert Habeck
+
+Sie sagt: Dann hat Deutschland eben keine Chemieindustrie mehr, keine Stahlindustrie mehr.
+
+- Philip
+
+Weniger. Sie sagt nicht keine.
+
+- Robert Habeck
+
+Na ja, genau, wenig. Also sagen wir...
+
+- Philip
+
+Grundstoffindustrie.
+
+- Robert Habeck
+
+Spurenelemente bleiben erhalten oder so was.
+
+- Philip
+
+Na ja, die Grundstoffindustrie wird weniger und wir gehen auf Produkte, die eine höhere
+Wertschöpfung haben.
+
+- Robert Habeck
+
+Das ist also erst mal. Das muss sich das klar machen, dass der notwendige
+Anpassungsprozess ein politischer Schönsprech für den Verlust von ganzen Industriezweigen
+ist. Das heißt, Leute verlieren ihre Arbeit, Standorte verlieren ihre Wertschöpfung.
+ThyssenKrupp ist nicht mehr in Duisburg, das ist gemeint.
+
+- Philip
+
+Da gehen die wirklich, gehen die wirklich, weil der Strompreis bei 0,10 € ist?
+
+- Robert Habeck
+
+Die energieintensiven Industrien wird ohne Subventionen nicht mehr gehen. ThyssenKrupp
+auch jetzt kein oder weniger Strom. Andere Stahlwerke nutzen macht den Stahl noch, indem
+sie Kohle verbrennen. Zukünftig Wasserstoff. Aber auch das subventionieren wir andere
+Stahlwerke. Die brauchen sehr viel Strom, wenn sie Schrott beispielsweise wieder
+aufbereiten. Also es gibt auch Stahlerzeugung. Mit Strom und ja.
+
+- Philip
+
+Aber sind die dann weg, wenn der Strom bei 0,10 € bleibt? Gehen die ins Ausland, machen
+die dicht.
+
+- Robert Habeck
+
+Die werden nicht investieren und werden dann nicht mehr wettbewerbsfähig sein, weil die
+Investition ja bedeutet, grünen Stahl zu produzieren. Das ist die Analyse, die ich habe
+und die viele haben. Und der Punkt ist jetzt: Warum bin ich der Meinung, dass wir das
+trotzdem tun sollten? Ökonomisch, das ist ja sozusagen die alte Logik eines eines globalen
+Marktes, die auch immer zu den Freihandelsabkommen geführt hat: es wird da produziert, wo
+es am günstigsten ist, und da gibt es einen Welthandel. Dieser Welthandel tauscht die
+Güter nach Angebot und Nachfrage. Und alle profitieren, weil die Produkte günstiger
+werden. Und dann kaufen wir eben günstigeren Stahl, als wir ihn produzieren könnten, aus,
+ich weiß nicht, aus, nehmen wir mal nicht China, nehmen wir mal aus dem arabischen Raum.
+Und das gleiche gilt für die Grundstoffindustrie. Die Ökonomie, Frau Schnitzer sagt: Dann
+profitieren wir doch davon. Wir sparen das ganze Geld, da stecken wir lieber woanders hin
+und kaufen uns die Produkte ein, die wir brauchen. Und meine Argumentation dagegen ist:
+Wir haben in den letzten Jahren gelernt, dass dieser freie Weltmarkt, wo die Waren einfach
+fluktuieren, nicht existiert, sondern wir in Abhängigkeiten geraten. Und dass ökonomische
+Prozesse immer Machtprozesse sind und dass wir nicht gut beraten sind. Und das ist die
+Lektion der letzten Jahre von der Unfähigkeit, Masken zu haben, über Impfstoffe bis zur
+Halbleiter Produktion. Dass wir jedenfalls eine Grundkompetenz und eine Grundfähigkeit
+auch in den Grundproduktionsarten immer erhalten. Und das ist eine
+Wirtschaftssicherheitsargumentation, wenn Sie so wollen.
+
+- Ulf
+
+Es geht Ihnen letztlich um so was wie eine Souveränität? Bewahrung der wirtschaftlichen
+Souveränität oder Stärkung?
+
+- Robert Habeck
+
+Souveränität würde ich annehmen. Das Wort Autonomie strebe ich nicht an, das ist völliger
+Unsinn zu glauben...
+
+- Philip
+
+Kein Merkantilismus.
+
+- Robert Habeck
+
+...dass die Volkswirtschaft, also deutsches Geld kauft deutsche Produkte, die in
+Deutschland produziert werden, und das machen die Briten, die Franzosen ganz genau. Das
+ist völliger Unsinn. Ja, das ist absurd. Das hört man ja jetzt teilweise manchmal aus
+einigen ökonomischen Debatten raus. Wir wollen kein ausländisches Kapital in deutschen
+Firmen haben. Also das ist ja. Wir ermutigen Investoren, täglich in Deutschland zu
+investieren. Und wir ermutigen auch deutsche Unternehmen, im Ausland zu investieren, weil
+natürlich die Verbindung, die Verflochtenheit über Kontinente hinweg am Ende die Stärke
+ist. Es werden Märkte erschlossen, das sichert dann das Unternehmen selber ab. Wenn mal
+eine Absatzkrise in Deutschland ist, kannst du vielleicht immer noch im asiatischen Raum
+was verkaufen. Das Unternehmen überlegt also das ist sehr verwunderlich, gerade von
+Parteien, die sich ökonomische Kompetenz auf ihre Fahnen geschrieben haben, mit diesem
+Argument konfrontiert zu werden. Das ist wirklich falsch. Aber das politische Argument und
+das müssen Ökonomen nicht zwingend bringen, aber Politiker sollten es zumindestens wägen,
+ist: Sind wir wirklich bereit, sagen wir die Grundstoffindustrie ziehen zu lassen? Die
+heißt ja Grundstoffindustrie, weil ihre Stoffe ganz viel Grund für anderes sind. Da hängt
+die Automobilindustrie dran. Okay, kann man sagen, Autos geht auch mal ohne. Schwierig
+ökonomisch, aber da hängt auch die Pharmaindustrie dran. Ohne Medikamente geht es schon
+gar nicht. Da hängen chemische Produkte dran, die überall sich wiederfinden. Deswegen
+glaube ich, das ist kein guter Rat, dass Europa diese Industrien verliert.
+
+- Ulf
+
+Ich habe. Ich habe da nur noch eine Nachfrage. Sie verwenden ja immer dieses Bild der
+Brücke. Sie wollen der Industrie gleichsam eine Brücke bauen. Das klingt so wie Man muss
+jetzt den reißenden Strom überwinden. Die Frage, die ich mir stelle, ist: was ist denn
+eigentlich das andere Ufer? Was macht Sie denn so sicher, dass der Strom, der auf dem
+deutschen Markt gehandelt wird, irgendwann so günstig wird, dass sie auf diese Subvention
+wieder verzichten?
+
+- Philip
+
+Und kommt man dann da raus, wenn sich alle dran gewöhnt haben?
+
+- Robert Habeck
+
+Ja. Das andere Ufer ist eine Welt mit sehr viel erneuerbaren Energien. Es wird viel mehr,
+als wir sie heute haben und die sind latent günstiger. Die werden für diesen Strompreis
+von fünf, sechs Cent zur Verfügung gestellt werden. Jetzt für die ganz große Industrie,
+über die wir reden, in der Regel Offshore Strom, also Windanlagen vor der deutschen
+Nordseeküste oder meinetwegen auch der dänischen oder niederländischen. Das ist dann ja
+eine eigene Strompreiswelt, die sich da abbildet. Die müssen aber gebaut werden, die
+werden jetzt, sind jetzt, die haben jetzt ihre Genehmigungen, wir haben Ausschreibungen
+oder das läuft jetzt alles mächtig an, aber fünf Jahre ungefähr plusminus dauert es. Und
+natürlich kann man es auch für die nicht ganz so großen Unternehmen, die jetzt nicht bei
+Offshore Auktion entweder eigene Scheiben kaufen oder direkt von Unternehmen, die diese
+Anlagen bauen, Stromkontingente haben, das gleiche auch fürs Land übertragen. Dann machen
+wir große Solarparks, die Strom für Papierindustrie bereitstellen oder Windparks. Onshore
+Windparks, die Strom für die Glasindustrie bereitstellen. Nur die müssen auch gebaut
+werden. Deswegen ist diese Brücke daran gebunden, dass wir genug erneuerbare Energien
+haben, die dann aus dem Markt heraus einen marktgetriebenen, wenn Sie so wollen,
+Industrie- oder Produktionsstrompreis bereitstellen. Und das wäre gar nicht falsch
+gewesen. Wir hätten das schon vor fünf Jahren angeschoben. Haben wir aber nicht. Wir haben
+russisches Gas gekauft.
+
+- Philip
+
+Wir wollten immer ein bisschen auch über dieses Klima in der Ampel sprechen. Also wir, wir
+wollen jetzt nicht noch mal die Feinheiten und Details des Gebäude-Energie-Gesetzes
+aufdröseln. Ich glaube, man kann festhalten: Was den Klimaschutz angeht, ist das aus Ihrem
+Haus gekommen und in diesen Verhandlungen extrem abgeschwächt worden. Ähnliches gilt
+wahrscheinlich auch für die Wärmeplanung. Was wir uns fragen ist jetzt, wo das Ding fast
+durch den Bundestag ist. Was aus dieser ganzen Debatte mit Medien und Durchstechereien und
+Verhandlungen und FDP im Bundestag, Koalitionsausschuss und so was haben Sie aus dieser
+Zeit gelernt? Aus dieser Zeit mit dem Gebäude Energiegipfel.
+
+- Robert Habeck
+
+Ich will noch einmal das Wort "extrem abgeschwächt" nur mal eine Fußnote daran setzen. Das
+teile ich nicht. Jedenfalls muss es so nicht kommen. Das Argument wäre: Wir hatten bei dem
+alten Entwurf, bei dem im Kabinett abgestimmten Entwurf eine Übergangszeit von drei
+Jahren. Also Heizung geht kaputt, du hast drei Jahre Zeit, die was Neues zu überlegen. In
+der Zeit kannst du aber auch eine Gas- oder sogar eine Ölheizung als Provisorium einbauen
+und dann muss es kommen. Jetzt haben wir die kommunale Wärmeplanung, die ersetzt quasi die
+drei Jahre und die wird sehr unterschiedlich sein. Einige Städte werden das schon in
+diesem Jahr abschließen, andere haben mehr Zeit. Ob es nachher mehr klimaneutrale
+Heizungen 2028 oder 30 gibt oder weniger, das werden wir nie rausfinden. Aber es muss
+nicht extrem werden. Zugegeben ist allerdings: es ist ein dynamischerer Einstieg.
+
+- Ulf
+
+Ja, was auf jeden Fall entstanden ist, Herr Habeck, ist der Eindruck einer heillos
+zerstrittenen Koalition. Da kommt man, glaube ich, nicht drum rum, wie sehr das
+Gebäude-Energiegesetz jetzt verwässert wurde. Mag man lange drüber streiten. Sie haben
+völlig recht. Das wird vielleicht auch erst in der Rückschau überhaupt bewertet werden
+können. Aber noch mal Philips Frage: Was haben Sie denn für sich persönlich gelernt aus
+diesem Debakel?
+
+- Robert Habeck
+
+Also jedenfalls würde ich dem entstandenen Eindruck diesmal nicht widersprechen. Und das
+war auch nicht ein entstandener Eindruck, sondern wir waren zerstritten. Immer wieder
+wurden Vereinbarungen, die getroffen wurden, dem Streit zugeführt. Also das war nicht gut.
+Wieder in der Klarheit. Da wird man sich gegenseitig die Leviten lesen und sagen wer hat
+denn da den anderen über- oder unterfordert? Und in der Performance war's auch ganz
+schlecht. Und meine Lehre und ich hoffe, ich habe die nicht exklusiv, ist das eine
+Regierung, die sich öffentlich so streitet, das Vertrauen, das in sie notwendigerweise
+gesetzt werden muss, verspielt und das ist ja auch passiert. Also wenn man jetzt auf die
+Umfragen schauen würde und sieht das eine der drei Regierungsparteien durch die Decke
+geht, weil ein wahnsinniger Zuspruch da ist, könnte man auf die Idee kommen na ja, es hat
+ja irgendjemandem genutzt. Also vielleicht schlecht für die beiden anderen, aber für den
+anderen eine super Sache. Strategisch aufgegangen ist ja nicht der Fall. Wir haben alle
+verloren. Selbst die Opposition hat verloren, die sich ja an dem Streit auch munter
+beteiligt hat, aber offensichtlich auch in eine Art, die ihr jetzt kein Vertrauen gebracht
+hat. So, also meine erste Lehre daraus ist so nicht gut.
+
+- Philip
+
+Okay, aber das ist ja also... Zu der kommt man ja schnell. Also da muss ja noch ein
+bisschen...
+
+- Robert Habeck
+
+Man könnte ja auch sagen, die erste Lehre ist die Ich habe mich geärgert. Jetzt in der
+zweiten Halbzeit nach dem Sommer ist Payback. Da ärgere ich mich aber ganz dolle. Das ist
+aber eben nicht meine Lehre, sondern ganz im Gegenteil die Lehre ist: wir haben uns ja
+alle wieder versprochen, das anders zu machen, es besser zu machen.
+
+- Philip
+
+Glauben Sie das auch?
+
+- Robert Habeck
+
+Jedenfalls müssen alle wissen, dass das nicht vom Tag eins an so funktioniert, sondern
+natürlich wird irgendjemand bei Lage der Nation einen dummen Spruch machen, über die
+Schuldenbremse reden. Dadurch fühlt sich irgendjemand provoziert und sagt: Der hat sich da
+nicht dran gehalten. Jetzt mache ich auch was, was den ärgert oder die ärgert. Das ist ja
+zu erwarten. So, die Lehre ist ist, runterzuschlucken, nicht über jeden Stock zu springen,
+der ihm hingehalten wird, wenn sich irgendeiner nicht ganz Absprache treu verhält. Nicht
+selber die nächste Absprache zu brechen, sondern sich erwachsen zu benehmen, großmütig zu
+sein. So, das ist ja erst mal die Lehre. So, und jetzt wollen Sie was wissen ganz genau?
+
+- Philip
+
+Also ich unterstelle Ihnen, Sie haben Pläne. Sie wollen in dieser Koalition was umsetzen.
+Wie zum Beispiel dieses Gebäudeenergie Gesetz. Das hat mit dem Fall nicht geklappt. Ihre
+Lehre ist so nicht okay. Nicht über jeden Stock springen. Wenn ich Christian Lindner bin
+und das höre, dann denke ich ja, dann werden wir da ja einiges durchkriegen. Wenn er nicht
+über jeden Stock springt, dann sagen wir das einfach, machen das auch. Er ist und
+großzügig, erwachsen. Großmütig winkt viele Sachen durch. Damit kann ich leben.
+
+- Robert Habeck
+
+Aber Christian Lindner oder Olaf Scholz oder alle anderen müssen ja auch sehen, dass es
+einem nicht geholfen hat. Also noch einma:l Das Gebäudeenergiegesetz ist nach wie vor ein
+wichtiges großes Gesetz, das über die Jahrzehnte der nächsten Jahre die deutsche
+Energiepolitik prägen wird. Aber das habe ich jetzt zweimal gesagt, so von wegen
+verwässert. Und so weiter. Aber die Unterstellung ist ja, dass es einen brutalen,
+eigennützigen Machtkampf geben muss damit, weil alle so sind. So, und die Wette ist: Nein,
+so muss es nicht sein. Wir müssen wieder zurück zu dem Anfang dieser Koalition, wo wir
+gewusst haben, Wir sind unterschiedliche Parteien, sehr unterschiedliche Weltbilder,
+völlig unterschiedliche Zugänge, beispielsweise zu ökonomischen Fragen. Und trotzdem
+müssen wir den Laden zusammenhalten. Und das haben die anderen ja auch gesehen.
+
+- Ulf
+
+Und das ist genau die Frage, Herr Habeck.
+
+- Robert Habeck
+
+Wenn Sie recht haben, also es geht einfach weiter wie bisher, dann stellt sich ja für die
+anderen Fragen.
+
+- Ulf
+
+Also das ist: nämlich die große Frage, Herr Habeck, wenn man sich die Umfragen anschaut,
+das haben Sie eben schon in Teilen zitiert. Sie haben gesagt, die Ampel Parteien haben
+eher gelitten, jedenfalls sicher nicht profitiert. Auch die größte Oppositionspartei,
+nämlich die CDU CSU, hat nicht profitiert oder kaum merklich profitiert. Wer allerdings
+sehr stark profitiert hat, ist die AfD. Kausalitäten sind die nächste Frage. Aber das ist
+jedenfalls die Empirie, vor der wir stehen. Und jetzt ist natürlich die große Frage: Wird
+es auch gerade insbesondere von den Freien Demokraten verstanden? Bislang bekommt man ja
+den Eindruck, dass die FDP sich eben oft wie eine Opposition in der Ampel geriert. Dass
+sie vielleicht denkt, Erfolge der Ampel würden ihr eher schaden. Wie kann man in solchen
+Konstellationen konstruktive Politik machen? Haben Sie da mal mit Christian Lindner drüber
+gesprochen, Herr Lindner oder Christian? Schau dir doch mal, schauen Sie sich doch mal die
+Zahlen für die AfD an, das könnt ihr doch nicht wollen!
+
+- Robert Habeck
+
+Wir reden da ganz viel drüber und haben auch während der Phase darüber gesprochen. Und man
+muss das auch sagen, dass das Gesetz sicherlich die Debatte klimapolitischen
+innenpolitisch dominiert hat über ein paar Monate. Aber das ist ja jetzt schon seit zwei
+Monaten auch zur Ruhe gekommen, würde ich sagen. Oder seit einem Monat jedenfalls zur Ruhe
+gekommen. Und andere Themen spielen da ebenfalls rein. Was ich nur sagen möchte ist, das
+hat sicherlich seinen Anteil gehabt an der Debatte, aber den Aufstieg der AfD nur dem
+Heizungsgesetz zuzuschreiben, ich würde das Phänomen oder die Bedrohung, würde ich sagen,
+komplett verkennen. So auf Ihre Frage zu antworten. Ich bin ja lange Parteivorsitzender
+gewesen und so sehr ich mich zwinge, nicht so sehr über die Grünen nachzudenken, sondern
+über Deutschland nachzudenken, über Europa nachzudenken. Natürlich ist es so, dass unter
+Druck Parteien immer identitärer werden. Wenn es nicht gut läuft, zieht man sich auf das
+zurück, wo man glaubte, hat man eine Definitionshoheit. Und wenn es jetzt nicht gut läuft,
+Sie haben es ja gerade gesagt, ist die strukturelle Logik, enger zu werden, kleiner zu
+werden, eigentlich total naheliegend. Notwendig wäre aber, das Gegenteil zu sagen, es
+anders zu machen, es sich größer zu machen, großzügiger zu werden. Deswegen ist da
+natürlich eine ganz große Gefahr, dass das, was ich eben geschrieben habe, nicht
+funktioniert. Aber weil ich es aussprechen kann und es ja alle hören, müsste es ja
+funktionieren können.
+
+- Philip
+
+Wenn man das Bild mal ein bisschen weitet, dann ist ja diese Debatte um dieses Gebäude-
+Energiegesetz, dieses Heizungsgesetz in meinen in unseren Augen jedenfalls ein Beispiel
+dafür, was passieren kann, wenn eine Gesellschaft umgebaut werden muss. Also wir sind als,
+nicht nur Deutschland, sondern insgesamt Europa, weltweit ja vor einem unglaublichen
+Wandel. Wir müssen unsere Industrien umbauen, Energiesysteme umbauen. Das hat soziale
+Folgen. Und dieses Gebäude-Energiegesetz ist ja und wie das verlaufen ist. Wie unter einem
+Brennglas hat das gezeigt, was da schiefgehen kann. Da gibt es riesen Ängste in der
+Bevölkerung, weil da gibt es Wandel. Die sind berechtigt oder nicht, aber sie sind da. Da
+gibt es Parteien, die schüren diese Ängste, die nutzen diese Ängste, weil sie glauben, das
+bringt ihnen Umfragehoch. Medien, die davon profitieren wollen und die auch Geld damit
+verdienen wollen. Das ist das Ökosystem von so einer Gesellschaft im Wandel. Und wie das
+schiefgehen kann, haben wir an diesem Gebäude Energiegesetz gesehen. Und die Frage, die
+wir uns stellen, ist: Wie wollen Sie in diesem Ökosystem, in dieser Welt, die ja jetzt
+nicht morgen vorbei ist, und die wird uns die nächsten 20 Jahre begleiten. Wie wollen Sie
+diesen Wandel gestalten, ohne dass Ihnen das jedes Mal so um die Ohren fliegt?
+
+- Robert Habeck
+
+Ist es schiefgegangen, ist die Frage. Natürlich war es nicht lustig, da mitten im Orkan zu
+stehen. Und meine Partei, ich persönlich, wir haben einen hohen Preis dafür gezahlt. Aber
+am Ende werden wir ein Gebäudeenergiegesetz haben. Und wenn ich es richtig sehe, auch
+eins, das neben vielen technischen Fragen und Förderungen, Präzisierungen jetzt auch
+akzeptiert wird, jedenfalls von den Verbänden akzeptiert wird. Was ich sagen will, ist
+das, was Sie beschreiben, ist richtig, aber es ist überraschend. Gab es jemals eine Zeit,
+wo Menschen durch eine politische Veränderung die Zumutungen in Umstellung, Denkformen,
+Arbeitsplatzsicherheit, Kostenstrukturen bedeutet, gesagt haben, mehr davon? Ganz, ganz
+selten.
+
+- Ulf
+
+1990. Also die Menschen in den sogenannten, damals sogenannten neuen Bundesländern.
+
+- Robert Habeck
+
+Für anderthalb Jahre. Und dann kam die Treuhand, und dann ist aus dem Aufbruch "Wir wollen
+den Kapitalismus haben" ein großer Fluch geworden, der wahrscheinlich bis heute fortwirkt
+und ein Teil der AfD-Stärke im Osten auch darauf zurückführen, dass der Umbruch 1990 nicht
+als Erfolgsgeschichte, sondern als wahnsinnige persönliche Verlust Geschichte
+abgespeichert wurde. Und sehr viele Menschen sagen: Wir sind schon einmal bedupst worden,
+so haben wir uns das nicht vorgestellt. Unser Vertrauen in Staatlichkeit allgemein, die da
+oben in den Westen hat jetzt sehr gelitten. Und jetzt kommt das schon wieder an mit der
+nächsten Transformation. Schönen Dank. Bitte nicht bei uns.
+
+- Ulf
+
+Also ich würde so ich will das sofort unterschreiben, dass da eine ganze Menge schief
+gelaufen ist. Und ich glaube, Sie geben da auch die Stimmungslage vieler Menschen in den
+sogenannten neuen Bundesländern völlig richtig wieder. Mein Punkt war jetzt eher das
+Framing, denn es ist damals nach meiner Wahrnehmung den politisch Verantwortlichen sehr
+gut gelungen, den Wandel in der DDR, die Neugründung von Bundesländern und so weiter als
+eine Chance zu Frames, als etwas Positives darzustellen. Und die Frage, die wir uns bei
+der Vorbereitung gestellt haben, ist: Wieso ist es bislang so schlecht gelungen bei dieser
+Transformation weg von einer Kohlenstoffwirtschaft hin zu einer CO2 neutralen,
+klimafreundlichen Wirtschaft, diesen Wandel als Chance zu framen? Quasi als positive
+Erzählung. Also beispielsweise hätte man ja auch dieses Gebäude Energiegesetz als Muster
+für aktive Industriepolitik feiern können. Ja, Deutschland als weltweiter Champion bei
+Wärmepumpen oder so, das wären ja denkbare Narrative gewesen. Stattdessen haben wir
+irgendwie über Omas geredet, die irgendwann ihr Häuschen nicht mehr heizen können.
+
+- Robert Habeck
+
+Ich antworte gleich auf Ihre Frage. Ich will nur einmal sagen, dass ich das nicht teile,
+was Sie über die Zeit 1990 fortfolgende beschrieben haben. Das Helmut Kohl Wort von den
+blühenden Landschaften hing ihm wie ein zynischer Klotz an den Beinen. Hätte er gesagt:
+Das wird jetzt bretthart werden. Liebe Leute, wir werden eine Explosion der
+Arbeitslosigkeit erleben, aber wenn wir die durchstehen, wird es dann auch besser werden.
+Und zwar ohne Stasi besser werden, wäre das glaube ich, ehrlicher gewesen. So war das.
+
+- Philip
+
+Dann wär die Enttäuschung nicht so groß gewesen.
+
+- Robert Habeck
+
+Die Enttäuschung nicht so groß gewesen.
+
+- Ulf
+
+Aber das wäre ja auch eine ehrliche Argumentation.
+
+- Robert Habeck
+
+Das Argument ist ja gebracht und abstrakt versteht es glaube ich jeder. Die Produkte der
+Zukunft werden grün sein wird. Die Energieversorgung wird klimaneutral sein. Wer heute
+noch sagt, wir setzen für die Automobilindustrie auf den Dieselmotor, der wird bitter
+bestraft werden. Das wissen abstrakt alle. Wenn es konkret wird entweder durch das
+Gebäudeenergiegesetz oder durch Zuliefererfirmen umstellen werden. Gucken Sie sich die
+deutsche Automobilindustrie an! Man kann jetzt nicht sagen, dass Sie durch
+Spürhundqualitäten sich die kommenden Marktsegmente alle schon erschlossen hat, sondern
+sie kämpft gegen die amerikanische und jetzt zunehmend asiatische Konkurrenz, weil die
+einfach schneller und konsequenter Autotypen rein elektrisch bauen. Also die
+Unentschiedenheit war zu groß. Wir bauen schon super Autos, jetzt die Deutschen, aber sie
+bauen sie zu teuer und zu langsam und um direkt in den Massenmarkt reinzugehen, die
+elektrischen . Dass meinte ich, die elektrischen. Also was ich sagen will, ist, dass das
+Argument, das ökonomische Argument, das politische Argument: wandel schafft Halt.
+Veränderung ist unsere Chance. Die neue Industrie schafft die Wertschöpfung der Zukunft.
+Das wird gebracht und es wird auch allgemein geteilt. Aber wenn es konkret wird, wenn es
+bei jedem Einzelnen ankommt, dann trägt es leider nicht mehr. Das ist der entscheidende
+Punkt, den ich eben machen wollte, als ich sagte Ist es eigentlich wirklich so schlecht
+gelaufen? Das ist überhaupt nicht überraschend. So ist es und so, so sind wir Menschen.
+Wenn ich das mal ausspreche, so bin ich auch. Ich nehme mir natürlich 1000 gute Vorsätze
+vor.
+
+- Philip
+
+Und wenn es konkret wird...
+
+- Robert Habeck
+
+Du weißt, eine Tüte Chips am Abend nicht gut, ist nicht gut! Don't do it. Und du nimmst
+dir vor mach ich nicht wieder. Und jedes Mal, wenn man zu viel Alkohol bringt, sagt man:
+Nie wieder. Es hält genau 48 Stunden. Und der Abend ist doch gemütlich. Ich will das jetzt
+nicht. Verballhornern. Aber ist es, ist das Mindset, das politische Mindset richtig zu
+sagen: Ja, da kommt jetzt die Umstellung in der Wärmepolitik und alle freuen sich. .
+
+- Ulf
+
+Das ist ein Missverständnis!
+
+- Robert Habeck
+
+Da kommt was auf die zu, das wird bretthart werden und das Problem, das wir vielleicht
+davor gemacht haben, wir heißt die politische Klasse vielleicht Deutschland. Die
+Wirtschaft ist uns das nicht zuzugestehen. Das Problem des letzten halben Jahres war, dass
+Deutschland überrascht war, dass wenn wir klimaneutral 2045 werden müssen, wir aufhören
+müssen, Gasheizung und Ölheizung einzubauen. Das kann ja aber niemanden überrascht haben,
+denn das ist ja logisch, wenn die Dinger 20 Jahre lang laufen. Aber es hat niemand gesagt.
+Wir haben den letzten Bundestagswahlkampf geführt mit der Ansage: Wir werden klimaneutral
+und niemand merkt es. Und das war genau das Problem.
+
+- Ulf
+
+Genau das Thema.
+
+- Robert Habeck
+
+Das ist das Problem gewesen. Das ist auch ein Stück weit vielleicht eine Selbstkritik. Ich
+finde es nicht schlimm, wenn man sich selber hinterfragt. Aber natürlich bedeutet
+Veränderung immer auch eine Zumutung. Sie muss nicht zum sozialen Kollaps führen, sie muss
+flankiert werden mit Förderprogrammen. Sie muss nicht zum Zerreissen der Republik führen.
+Aber natürlich sind Veränderungen viel anstrengender als weiter so wie bisher.
+
+- Ulf
+
+Mit anderen Worten ehrlich machen ist so ein bisschen das Ding? Ist nur, dass ich sie da
+richtig verstehe. Auf der einen Seite ehrlich machen. Aber braucht es nicht trotzdem die
+Chance, in diesem Narrativ? Immer nur nur zu sagen jetzt wird alles bitter macht ja auch
+keinen Spaß.
+
+- Robert Habeck
+
+So ist es. Das ist richtig. Nur die Chance muss eben damit rechnen, dass nicht alle, nur
+weil sie sagen, wir können auch wieder Deutscher Meister werden, sagen Ja, aber das können
+wir auch machen, ohne zu trainieren. Also Deutscher Meister, dann musst du halt
+Konditionstraining machen und auch mal einen Ball treffen.
+
+- Philip
+
+Sie haben eben gesagt, wir können nicht erwarten, dass bei so, wenn es konkret wird mit
+dem Wandel alle applaudieren. Das führt dann zu der Frage: Was braucht es eigentlich für
+Politiker, Politikerinnen, wie muss man das machen, die diesen Wandel verkaufen und wie
+müssen sie das verkaufen? Und da gibt es dieses Zitat von Olaf Scholz, der sagt: "Wer
+Klimapolitik machen will, muss sich zutrauen, dass jede einzelne gesetzliche Regelung in
+einer Volksabstimmung eine Mehrheit bekommt." Ist das der Weg dieses Gebäudeenergiegesetz
+in einer Volksabstimmung eine Mehrheit bekommen? Ist das der Weg, wie man diesen Wandel
+gestaltet? Oder braucht es Leute, die vorangehen und sagen es tut weh! Ich weiß, ich
+kriegt dafür jetzt keine Mehrheit. Aber wir machen es trotzdem.
+
+- Robert Habeck
+
+Na ja, ich glaube, jede einzelne Maßnahme in einem Gesetz, das sind ja hunderte
+Paragraphen.
+
+- Philip
+
+Die Haltung, die da hinter steht. Wir brauchen für jede Entscheidung in diesem
+Wandlungsprozess quasi eine Mehrheit, quasi in einer Volksabstimmung, wenn es denn die
+gäbe, kommt man mit dieser Haltung da durch?
+
+- Robert Habeck
+
+Ich finde das als regulative Idee richtig, das will ich unterstreichen. Wenn man das jetzt
+zu wörtlich auslegt, dann wird es ja irgendwann albern. Also irgendwelche Umlageparagrafen
+bei Netzentgelten, die meisten Menschen wollen es gar nicht wissen. Und wenn man es wissen
+will, will man es schnell wieder vergessen, weil es so kompliziert wird. Das ist ja nicht
+gemeint, aber als, die Frage ist doch, was ist das Mindset dahinter? Hinter dem Satz von
+Olaf Scholz und ich interpretiere es so und das würde ich für richtig halten ist: Wir
+müssen immer darüber, immer dafür kämpfen, dass es Mehrheiten, stabile Mehrheiten für
+Veränderungen gibt. Und wir dürfen uns nicht zurücklehnen und sagen, das kommt schon von
+alleine, Das ist doch damit gemeint und das ist doch richtig. Also das darf man jetzt
+nicht zu normativ auslegen, aber deswegen sage ich regulative Idee. Sie kennen das, dass
+es, selbst wenn es kommt, ja von einem deutschen Philosophen, von Immanuel Kant, der sagt:
+Wir glauben nicht an die Unsterblichkeit der Seele, ja, die wahrscheinlich gibt es die
+Seele gar nicht. Aber es macht Sinn zu glauben und anzunehmen, dass man in seinem Leben
+gut sein soll, weil es dann besser im Leben ist. Und natürlich sind wir dann manchmal
+schlecht. Wir sind ja nicht permanent gut und und agieren immer nur nach moralischen
+Imperativen. Aber es macht Sinn, sich das vorzunehmen. Und so glaube ich, muss man es
+lesen.
+
+- Philip
+
+Sie haben eben gesagt Gebäudeenergiegesetz, ist das denn schief gegangen? Und eine Sache,
+wo man sagen könnte, dass es schief gegangen ist, viele sagen, dieses Umfragehoch der AfD
+ist auch auf diesen Streit um das Gebäude energiegesetz zurückzuführen. Das wäre der
+Preis. Ist das hoch?
+
+- Robert Habeck
+
+Nein, ich geh gleich noch mal, wenn Sie wollen, auf die AfD ein. Aber das sind schon mal
+zwei Aussagen. Erst mal das Gebäudeenergiegesetz und den Streit um das
+Gebäudeenergiegesetz.
+
+- Philip
+
+Ok, der Streit um dieses Gesetz, so wie dieses diesen, den Aufruhr, den dieses Gesetz
+verursacht hat, in diesem Kontext Wandel etc.. Sagen Sie, war das denn so schlecht? Ist es
+denn schiefgegangen? Und man würde manche argumentieren, es ist schiefgegangen, weil die
+AfD bei 20 % ist.
+
+- Robert Habeck
+
+Das Gebäudeenergiegesetz ist meiner Ansicht nach ist ein notwendiges Gesetz. Wir haben
+keine Chance, klimaneutral zu werden, wenn wir nicht solch ein Gesetz schreiben. Wir
+können uns von der Klimaneutralität verabschieden. Wenn wir das nicht tun, brauchen wir
+ein Gebäudeenergiegesetz. Und das ist jetzt gerade in dem modifizierten Weise gerade noch
+so, dass wir die Chance haben, auch mit diesem Gesetz die Klimaneutralität im Gebäude
+Sektor zu erreichen.
+
+- Philip
+
+Huber sagt nein, aber..
+
+- Robert Habeck
+
+Ja, aber man unterschätzt auch permanent die Kraft der Dynamik. Technische und
+wirtschaftliche Entwicklungen laufen eben nicht linear, sondern die können auch einmal
+explosiv sein. Und dann sind die Wärmepumpen sehr viel günstiger und dann wollen sie alle
+haben. Und dann hat man sein Vertrauen gemacht und so, die Handys sind auch nicht über elf
+Jahre hat jeder jedes Jahr zehn Prozent mehr, sondern plötzlich wollten alle Smartphones
+haben. So passiert es eben auch manchmal. Aber ja, es ist, wer sich hier hinstellt und
+sagt: Wir schaffen das alles, der hat natürlich, der flunkert. Um es mal höflich zu
+formulieren Wir sind extrem spät dran. Aber wir haben eine Chance. Und immerhin haben wir
+jetzt mal die Chance. Ist das erste Mal seit 15 Jahren, wo man sagen kann, wir haben
+wieder eine Chance, weil wir so viele Dinge angestoßen haben.
+
+- Philip
+
+AfD...
+
+- Robert Habeck
+
+AfD und Gebäudeenergiegesetz. In zweierlei Hinsicht gibt es einen ein Zusammenhang mit der
+AfD-Stärke. Das erste ist: Der Streit hat Vertrauen in die politische Geschlossenheit der
+Regierung zerstört, und zwar auch bei denjenigen, die die Regierung gar nicht gewählt hat,
+also nicht SPD, Grüne oder FDP. Aber wenn eine Regierung da ist, dann muss sie mit der
+Verantwortung, die gegeben wird, eben solide umgehen. Und das haben wir an der Stelle
+nicht getan, weil zu häufig Rücksprünge und Verabredungen nicht eingehalten wurden,
+Rückschläge da waren. Der zweite Punkt ist: Durch die Debatte um das Gebäudeenergiegesetz
+ist Klimaschutz zu einem kulturellen Kampfthema geworden. Das wäre nicht zwingend
+notwendig gewesen. Dann gälte es immer noch, die die Kosten der Wärmepumpe gegeben. Aber
+dadurch ist es zu einem, konnte es zu einem Thema werden oder ist es gemacht worden? Oder
+es ist entstanden, dass man sagen konnte das ist ja überhaupt nicht wichtig. Nur
+irgendwelche Freaks denken sich das aus. Also eine Minderheit, eine kleine, irgendwie
+abgedriftete Minderheit zwingt dem Land den Klimaschutz auf. Das ist ein Narrativ, das die
+AfD stärkt. Das liegt nicht zwingend begründet im Gebäudeenergiegesetz. Ich meine, wir
+haben im letzten Jahr allen Bundesländern vorgeschrieben, dass sie 2 % ihrer Fläche für
+Windkraftanlagen zur Verfügung stellen. Wäre auch super geeignet gewesen, eine Kampagne zu
+machen und sagen jetzt irgendwelche Idioten zwingen uns, unsere schöne Landschaft zu
+verschandeln. Ist aber nicht passiert.
+
+- Philip
+
+Das war zumindest ein Versuch.
+
+- Robert Habeck
+
+Es hätte nicht zünden müssen. Es gibt keine Zwangsläufigkeit da dran, aber es ist
+passiert. Und das ist ein schlimmer Rückfall gegenüber der Entwicklung von nach 2019, als
+es für Fridays for Future mit großer Kraft Klimaschutz zu einem Mehrheitsthema gemacht
+hat. Und das muss zurückgekämpft werden, sonst führt ein Thema, hinter dem sich das Land
+eigentlich schon vereint hatte, zu einem Spaltungsthema. Da haben alle, alle Parteien der
+demokratischen Mitte ihre Aufgabe. Die Grünen müssen aufpassen, dass sie das Thema nicht
+als Nischen- oder Minderheitenthema stehen lassen. Das heißt unsere Sprache, unsere
+Kommunikation, unsere Begründung, meine Arbeit muss immer wieder deutlich machen: Dieses
+Thema steht im Zentrum. Deswegen ist es umkämpft. Nicht weil sich das irgendwelche Nerds
+ausgedacht haben, sondern weil es im Zentrum steht. Deswegen. Es ist anstrengend, aber es
+ist ein Zentrumsthema. Aber die anderen Parteien müssen auch aufpassen, nicht im Habitus,
+in der Sprache, in den Sprachbildern die Tür für dieses andere Narrativ zu weiten.
+
+- Ulf
+
+Wir haben ja eben schon über Umfragewerte gesprochen. Und das Interessante ist ja wenn
+eben die Skepsis wächst gegenüber dem demokratischen System der demokratisch gewählten
+Bundesregierung, dann profitiert eben ganz besonders die AfD. Und da würde uns Ihre Sicht
+auf diese Partei doch mal interessieren Was macht denn diese Partei aus Ihrer Sicht so
+besonders? Ist es eine Partei wie die anderen auch? Oder muss man die eben mit ganz
+anderen Maßstäben messen?
+
+- Robert Habeck
+
+Die AfD wird vom Verfassungsschutz beobachtet. Teile der AfD, die Jugendorganisation und
+einzelne Personen werden als Verfassungsfeinde eingestuft. Sie ist keine Partei wie alle
+anderen. Sie ist eine Partei, die prinzipielle Grundannahmen dieser Republik nicht teilt,
+die in weiten Teilen, und die setzen sich immer stärker durch völkisch ist. Ich hatte mal
+das Missvergnügen, als Björn Höckes Buch erschienen ist, das ist jetzt fünf Jahre her, das
+habe ich gelesen. Wenn man das wörtlich nimmt, was da steht, ist es ein schlimmes,
+schlimmes Buch, und wir haben keinen Grund, das nicht wörtlich zu nehmen, was dort steht,
+das kann ich nur allen empfehlen. Also jetzt bitte nicht das zum Bestseller machen, aber
+den politischen Kurs binden, sich noch mal klar zu machen, was da was da steht.
+
+- Ulf
+
+Ja, man kann alternativ zum Beispiel auch das Buch von Matthias Quent lesen. Das ist, das
+ist deutlich angenehmer zu lesen, also ein Rechtsextremismusforscher, der eben mit ganz
+viel Zitaten arbeitet.
+
+- Robert Habeck
+
+Weil er das wahrscheinlich gelesen hat.
+
+- Ulf
+
+Ja, absolut.
+
+- Robert Habeck
+
+Björn Höcke soll bei Amazon oder beim Buchladen nicht noch Geld damit verdienen. Aber man
+muss sich damit auseinandersetzen, was da die Vordenker tun. Und deswegen ist das keine
+Partei wie alle anderen, sondern sie wollen eine andere Republik. Sie wollen, wenn man sie
+jedenfalls jetzt reden hört, Deutschland aus Europa herausführen. Ein Europa der
+Vaterländer ist die Zerstörung der Europäischen Union. Das ist nicht nur eine ökonomische
+Katastrophe, sondern es wäre auch eine friedenspolitische Katastrophe. So anstrengend
+Europa ist, es ist ein Friedenswerk. Es ist gegründet worden auf den Trümmern des Zweiten
+Weltkriegs. Ein Europa der Vaterländer vergisst jede geschichtliche Lektion. Nein, das ist
+sie nicht.
+
+- Ulf
+
+Also ein Punkt muss man schon noch mal sagen. Warum ist das eigentlich Beobachtung durch
+den Verfassungsschutz ist ja das eine, aber ich finde, es lohnt sich an der Stelle schon,
+einfach noch mal diese Ideologie mit zu benennen. Sie sagten Europa der Vaterländer. Ich
+finde auch das wiederum Lektüre Matthias Quent so dramatisch, dass es der AfD ja
+eigentlich geht um ein völkisch autokratisches System. Es geht ja eben nicht darum, dass
+alle Menschen gleich sind, sondern es soll ein Deutschland geschaffen werden, in dem kein
+Platz mehr ist für Menschen, die nicht so aussehen und so leben wie Björn Höcke. Und ich
+meine, das ist eben einfach fundamental mit dem Grundgesetz nicht vereinbar. Es hat mit
+Artikel eins Artikel drei nichts mehr zu tun und das, finde ich, wird in der öffentlichen
+Diskussion viel zu wenig gesagt, dass es um eine Partei geht, die einfach die einfach die
+Bundesrepublik abschaffen will.
+
+- Robert Habeck
+
+Und es ist ausgesprochen, es ist nicht irgendwie...
+
+- Philip
+
+Zwischen den Zeilen oder so.
+
+- Robert Habeck
+
+Das ist explizit gemacht. Und natürlich wie in jeder Partei gibt es verschiedene
+Strömungen, aber die Höcke Strömung, die völkische Strömung, ist ja dominant, setzt sich
+durch. Und wenn man die Regierungsbank, da wo ich in der Regel im Bundestag sitze, sitzt
+man sehr dicht an der AfD Fraktion. Du hörst die Zwischenrufe. Das ist weit dessen, was
+erträglich ist und den demokratischen Konsens noch irgendwie, auch wenn man andere Meinung
+hat oder so noch irgendwie einhält. Da werden Opfer zu Tätern gemacht, das ist orwellsches
+Neusprech. Wo alles umgedreht wird, da werden Unrechtsstaaten gleichgesetzt mit der
+Bundesrepublik Deutschland. Schlimm, also wirklich schlimm. Man muss sich und man muss
+einfach nur zuhören, was die sagen. So und deswegen, es gibt da eine ganz große Aufgabe
+und die muss im Grunde bedeuten, das haben wir eben ganz kurz bei der Koalition gehabt. Im
+Grunde, um es hart zu sagen, ob die Grünen Punkte mehr oder weniger machen oder die SPD
+oder die FDP mehr oder weniger haben. Das ist nicht so wichtig, wie dass die Regierung so
+geschlossen ist, dass diese Partei nicht bei um die 20 % oder gar drüber erfolgreich sein
+kann.
+
+- Philip
+
+Die Frage ist jetzt wie mit der AfD umgehen? Was machen mit diesen Umfragewerten? Sie
+haben es aus der Regierungsperspektive formuliert. Wir müssen bessere Arbeit machen,
+geschlossener auftreten, produktiver auftreten etc.. Es ist aber auch die Frage, wie
+andere Parteien, wie demokratische Parteien mit dieser Partei überhaupt umgehen. Und da
+gibt es im Kern in Europa zwei Strategien. Das eine ist Einhegen, einzähmen durch
+Kooperation. Wir kooperieren mit denen und dann werden die von einigen Punkten lassen und
+werden sich irgendwie dem demokratischen Wertekanon wieder annähern. Das ist die eine
+Position. Die andere ist die sogenannte Brandmauer. Keinerlei Kooperation. Wir grüßen die
+vielleicht auf den Fluren, aber wir machen keine Koalition. Wir lassen uns nicht dulden.
+Wenn die AfD einen Antrag stellt, dann stimmen wir dem auf keinen Fall zu. Vielleicht,
+wenn wir einen Antrag stellen, von dem sich andeutet, dass die AfD zustimmen könnte, ist
+schon die Frage, was man damit macht. Welche dieser Strategien, Kooperation oder
+Brandmauer ist die richtige?
+
+- Robert Habeck
+
+Kooperation heißt ja nicht, dass man nicht miteinander redet. Das haben Sie ja gesagt,
+sondern Kooperation bedeutet bewusste Allianzbildung.
+
+- Philip
+
+Koalition.
+
+- Robert Habeck
+
+Vielleicht muss man gar nicht so weit gehen. Aber Tolerierung, Absprachen, gemeinsame
+Projekte entwickeln?
+
+- Philip
+
+Das geht nicht.
+
+- Robert Habeck
+
+Nein, das geht nicht.
+
+- Ulf
+
+Was geht?
+
+- Robert Habeck
+
+Wenn es so ist, wie Sie gerade gesagt haben, dass die AfD eine völkische Partei ist, die
+im Kern eine andere, also nicht mehr diese Republik will, denn dann ist der Weg zu sagen
+Wir hegen sie ein, also wir binden sie ein und entzaubern sie dadurch der Falsche. Dann
+binden wir eine Partei ein, die die Republik abschaffen will. Das ist nicht richtig. Und
+ich glaube auch grosso modo ist diese Strategie in Europa gescheitert. Das hat ja nicht
+dazu geführt, dass die rechten Parteien, die rechtsextremen Parteien, die wir an anderen
+Stellen gesehen haben, weniger rechtsextrem sind. Dann wird immer gesagt, weil die
+Sozialdemokratie in Dänemark eine rigide, abschiebe- und im Grunde ausländerfeindliche
+Politik betrieben hat, wurde die Dänische Volkspartei ein Stück weit entzaubert. Das ist
+aber nur die halbe Wahrheit hier in Flensburg, sondern dann haben sich andere, noch
+extremere Parteien gegründet. Und ob der Moment, dass die Volkspartei einmal bei der
+dänischen Wahl schlechtes Ergebnis gemacht hat, dafür steht, dass dieses diese Parteien
+nicht oder diese Parteien, die gründen sich sehr schnell neu immer wieder in Dänemark,
+nicht erfolgreich sind. Das wage ich mal, also man kann jetzt nicht den einen Fall als
+Beleg für alles weitere nehmen. Umgekehrt glaube ich, gibt es sehr viele andere Fälle, wo
+man sieht, dass die Kooperation mit den Rechtsextremen am Ende die Gesellschaft mindestens
+zweigeteilt hat.
+
+- Ulf
+
+Ja, das ist tatsächlich der Stand der politikwissenschaftlichen Forschung. Da gibt es eine
+ganze Reihe von Untersuchungen, die genau das für Europa mal durchgespielt haben. Das
+Ergebnis ist immer dasselbe: Die Kooperation hilft eigentlich nur den Rechtsextremen, weil
+sie damit eben salonfähig werden. Aber wenn Sie das so deutlich sagen, frage ich mich
+natürlich Was können denn da ganz konkret die Grünen eigentlich besser machen? Also
+Kooperation ist quasi so der Extremfall der Appeasement Politik oder der Anbiederung an
+die AfD. Ein bisschen vorher spielt ja die Frage der politischen Themensetzung, also
+insbesondere die Frage: Worüber diskutieren wir eigentlich im politischen Feld? Und da
+gibt es eben so bestimmte Themen, bei denen gewinnt die AfD oder andere Rechtsextreme
+gewinnen einfach schon dadurch, dass man diese Themen hochzieht und so behandelt, als
+seien sie ein ganz zentrales Problem. Ich möchte Ihnen da mal die jüngste Asyldebatte auf
+europäischer Ebene, aber natürlich auch in Deutschland als Beispiel präsentieren. Aus
+meiner persönlichen Sicht eine strukturell menschenfeindliche Debatte. Migration wurde
+fast ausschließlich als zu bekämpfendes Problem geframt. So frei nach dem Motto Jeder, der
+kommt, ist einer zu viel. Von Menschenrechten war hingegen kaum die Rede. Und da frage ich
+mich: Natürlich gab es gerade auch aus der Grünen Partei massive Kritik an diesem Diskurs.
+Das will ich nicht kleinreden. Aber warum lassen sich die Grünen auf eine solche
+Abschottungsdebatte überhaupt ein? Was mir als Beobachter dieser Diskussion gefehlt hat,
+war quasi der kategorische Widerspruch, nicht die Frage Camp hier, Camp da, sondern die
+kategorische Verweigerung eines solchen migrationskritischen Diskurses. Frei nach dem
+Motto: wir brauchen doch Zuwanderung.
+
+- Robert Habeck
+
+Für die Grünen gab es drei Argumente, die miteinander abgewogen werden mussten. Das erste
+ist die Sache selbst, und die ist nicht gut. Ja, also zu sagen, wir haben ein gutes
+europäisches Asylrecht, wo keine Menschen im Mittelmeer ertrinken, wo sie nicht lange in
+Lagern festgehalten werden, wo auch, wenn sie nach Europa kommen, eine Registrierung,
+Betreuung, eine Überführung in Sprachkurse oder auch die Abschiebung erfolgt. Das stimmt
+ja nicht. Also der Status Quo ist kein Beleg dafür, dass man nichts tun muss. Es ist nicht
+so, dass man etwas Gutes verteidigt. Menschen ertrinken zu Hunderten im Mittelmeer. Eine
+Schande. Nach wie vor. Es gibt Lager, die Leute werden festgehalten. Der Status quo ist
+nicht gut. Der zweite Punkt ist die europäische Einigungsfähigkeit. Das klingt abstrakt.
+Und am Ende, da gebe ich Ihnen Recht. Wenn Sie das bringen würden, ist das ein Argument,
+das ja jeden Kompromiss gegenüber der nicht Einigung hoch werten wird. Es ist sozusagen
+ein Totschlag Denkfigur, wenn Sie so wollen.
+
+- Philip
+
+Wir haben uns geeinigt.
+
+- Robert Habeck
+
+Aber umgekehrt ist es eben auch so keine Einigung, eine Einigung, Unfähigkeit in dieser
+Frage, in dieser Frage, die haben sie eben gerade dargestellt würde ohne Frage Mühlen auf
+die Rechtspopulisten sein. Und da die auch in einigen Regierungen ja Verantwortung tragen,
+würde es dazu geführt haben, dass sehr viele Staaten dann das, was man verhindern wollte,
+einfach selber machen. Okay, Europa lässt uns ja alleine. Egal, dann machen wir es eben
+alleine und ziehen unsere Zäune selber hoch oder machen das, was wir machen. Das dritte
+ist natürlich das Kernanliegen, nämlich das Asylrecht zu wahren, zu verteidigen, zu
+schützen und zwar das individuelle Asylrecht auch als Lehre aus der Vergangenheit in
+Europa. Und das mussten wir in ein übereinstimmendes Konstrukt bringen. Ich will das
+sagen: Es war eben nicht so einseitig und so völlig klar, wie Sie es gesagt haben. Dabei
+ist etwas ganz Schwieriges und auch persönlich mit Zumutung verbundenes rausgekommen. Aber
+etwas, das ich in der Abwägung dieser drei Güter insgesamt für richtig halte. Deswegen
+habe ich das verteidigt und in meiner Partei dafür geworben, dass wir, dass wir das so
+machen und da mitgehen, weil zumindest auf dem Papier und da kann man sagen, dass da
+werden die sich nicht halten, das werden wir dann sehen, auf dem Papier ein
+Verteilmechanismus festgelegt wird und auch, jedenfalls für einige Leute ein zu kleiner
+Anteil, Familien oder Kinder gehören zum Beispiel nicht per se dazu, festgelegt wurde,
+dass sie nicht lange in Lagern festgehalten werden. So, wenn das grünes Wahlprogramm
+gewesen wäre, hätten wir das anders geschrieben. Wenn ich das alleine hätte machen können,
+hätte ich es auch anders gemacht. Aber die anderen Punkte spielten auch noch eine Rolle.
+Und deswegen jetzt ein bisschen gegen die rhetorische Kraft von ihrem Argument, hat mich
+beeindruckt. Ich höre das und sage ich muss jetzt mal drüber nachdenken. Hat er nicht
+recht? Aber ich glaube, an der Stelle ist der fundamentale Widerspruch nicht der
+erfolgreichere Weg.
+
+- Ulf
+
+Weil sie sagen, die Menschen nehmen das tatsächlich so als Problem war? Sie haben ja
+darauf hingewiesen, die humanitäre Situation ist zurzeit auch unbefriedigend.
+
+- Robert Habeck
+
+Es ist, es ist ein bisschen komplizierter, meine ich. Sehr viele Menschen erleben eine
+nicht gesteuerte oder in irgendeiner Form regulierte Migration als persönliches Problem,
+erleben es als persönliches Problem, obwohl im Alltag ganz andere Probleme da sind. Man
+findet keine Wohnung, aber es gibt Migranten, die nach Europa, nach Deutschland, nach
+Flensburg, nach Hamburg, nach Berlin. Und die werden ja wohl auf dem Wohnungsmarkt mir
+Wohnungen wegnehmen. Es gibt ökonomischen Druck. Es gibt vielleicht schlecht bezahlte
+Arbeit und es gibt Menschen, die machen diese schlecht bezahlte Arbeit und halten den Lohn
+runter. Es gibt Gewalt auf der Straße und natürlich gibt es dann oder in Freibädern. Und
+natürlich gibt es dann einen Kurzschluss und guck an, es gibt Clanstrukturen. Was ich
+sagen will ist: Obwohl man manchmal vielleicht direkt gar keine schlechten Erfahrungen mit
+Zuwanderung und Migration gemacht hat, gibt es die Zuweisung, dass dort viele Probleme
+sind und man sozusagen ohne es... Auch Zuweisungen sind eine politische Realität und mit
+der muss man sich auseinandersetzen.
+
+- Ulf
+
+Da würde ich jetzt mit mit Walter Scheel kontern.
+
+- Robert Habeck
+
+Dann kontern Sie mit Walter Scheel.
+
+- Ulf
+
+"Es kann nicht die Aufgabe eines Politikers sein, die öffentliche Meinung abzuklopfen und
+dann das Populäre zu tun", sagte Walter Scheel. "Jahreszahl steht leider nicht dabei.
+Aufgabe des Politikers ist es, das Richtige zu tun und es populär zu machen."
+
+- Robert Habeck
+
+Absolut. Dem würde ich zustimmen.
+
+- Ulf
+
+Würde das nicht eigentlich bedeuten, dass man quasi in diesem Migrationsthema schon dieser
+von Ihnen geschilderten negativen Zuschreibung aktiv widersprechen müsste? Denn Beispiel
+Wohnung Man findet doch nicht etwa deswegen keine Wohnung, weil zu viel Migration gibt.
+Denn Menschen mit Migrationshintergrund sind die ersten, die keine Wohnung finden. Im
+Gegenteil, die helfen sogar noch dabei, Wohnungen zu bauen. Denn wir haben ja in
+Deutschland nicht genügend Maurer.
+
+- Robert Habeck
+
+Dass man Argumente auflösen kann, dass man ihnen widersprechen muss, dass man sie
+versuchen klar zu kriegen. Das ist ohne Frage richtig. Aber wir haben ja nun die halbe
+Sendung über das Gebäudeenergiegesetz geredet. Nicht immer ist es erfolgreich, und
+deswegen ist der schöne Poesiespruch von Walter Scheel eine regulative Idee. So sollte es
+sein. Aber in Wahrheit ist es halt nicht so! Also ich will mich da nicht rausreden, ich
+will hier auch keinen, keinen falschen Zungenschlag rein bekommen. Ja, aber. Also in dem
+Sinne, dass ich das alles rechtfertige, was an rechten Sachen erzählt wird. Aber ich
+glaube, es abzutun und zu sagen, weil ich das so nicht erlebe, weil das auch objektiv
+nicht immer haltbar ist, schiebe ich es beiseite. Ist nicht der Richtige Umgang.
+
+- Ulf
+
+Beiseite zu schieben ganz sicher nicht. Sicher nicht, aber Philip. Wir haben noch ein
+Thema.
+
+- Philip
+
+Wir biegen so langsam auf die Zielgerade ein. Wir haben noch zwei kleine Aspekte, und zwar
+kleiner Aspekt, zwei Aspekte. Das eine betrifft diese Idee, das Klimagelds. Also das
+betrifft noch mal diese Frage Klimaschutz, Klimaschutz und Gesellschaft im Wandel und so,
+und da ist die Idee eigentlich ja, es wird alles teurer. Erst mal Produkte, weil CO2
+teurer wird. Tanken wird teurer, Heizen wird teurer, fahren, Mobilität wird teurer, weil
+die Leute eben diese höheren CO2 Kosten zahlen. Aber der Staat behält das Geld nicht,
+sondern der Staat zahlt es an die Leute wieder zurück. Idee ist feste Summe pro Kopf.
+Jeden Monat oder einmal im Jahr gibt es dieses Geld was der Staat eingesammelt hat über
+diesen CO2 Preis an die Leute zurück. Und das ist x mal durchgerechnet. Da kommt am Ende
+raus, dass die Leute, die unterdurchschnittlich viel Geld haben oder eben wenig verdienen,
+bei dieser ganzen Umverteilung plus machen für die, die können sogar von diesem Wandel in
+Euro und Cent profitieren. Sind Sie dafür? Finden Sie das gut, so ein Klimageld?
+
+- Robert Habeck
+
+Ja.
+
+- Philip
+
+Haben sich alle ins Programm geschrieben, glaube ich. FDP Grüne auch. Warum gibt es das
+noch nicht?
+
+- Robert Habeck
+
+Weil das Finanzministerium noch daran arbeitet, die Auszahlungsmechanismus zu
+programmieren.
+
+- Ulf
+
+Das ist das eine Argument. Das soll ja jetzt, Ende des Jahres, Anfang des nächsten Jahres
+fertig werden. Sie grinsen. Sie glauben noch nicht ganz dran.
+
+- Robert Habeck
+
+Ich habe keinen Grund, den Aussagen aus dem Finanzministerium zu misstrauen.
+
+- Ulf
+
+Glauben Sie an die Ernsthaftigkeit, dass der Christian Lindner das wirklich will und
+vorantreibt, Damit auch.
+
+- Robert Habeck
+
+Dass das steht, einen modernen Staat einer modernen Verwaltung einfach gut an, diesen
+Mechanismus zu haben, ja.
+
+- Philip
+
+Gut, dann kommen wir mal zu dem Teil, den sie betrifft. Diese Idee, dass die Einnahmen aus
+dem CO2 in Deutschland, diesen Preis aus dem EO, dann aus diesem Emissionshandel die
+landen im Klima- und Transformationsfonds. Und jetzt nehmen wir mal an, es gebe morgen ein
+Klimageld, dann gäbe es nichts auszuzahlen, weil dieses Geld aus diesem Fonds in alle
+möglichen Projekte verplant ist. Förderung von Haussanierung bis hin zu Förderung einer
+intel-Fabrik in Deutschland. Was machen Sie, wenn dieses Klimageld kommt? Aber das Geld,
+mit dem wir das Klimageld auszahlen sollten, komplett verplant ist für die nächsten Jahre?
+
+- Robert Habeck
+
+Erst mal haben wir, weil dass sich das ein bisschen hingezogen hat, mit der Programmierung
+die EEG-Umlage abgeschafft. Das ist vergessen worden, schon wieder, aber die gibt es nicht
+mehr. Übernimmt der Klimatransformationsfonds.
+
+- Ulf
+
+Damit ist Strom billiger geworden.
+
+- Robert Habeck
+
+Strom billiger geworden, pro Haushalt. Vierköpfige sagt man immer 150 € hängen da dran.
+Ja, ja, immerhin. Es ist jetzt nicht gar nichts gewesen, aber wir haben eine ähnliche
+Entlastung Maßnahme geschaffen wie das Klimageld.
+
+- Philip
+
+Der Unterschied ist: die Leute merken es nicht. Wenn sie ihr Geld monatlich aufs Konto
+gucken, ist das was.
+
+- Robert Habeck
+
+So ist es. Deswegen ist es immer vorteilhafter, monatlich oder Jahresbeginn dann eine
+Überweisung zu bekommen, weil man sagt, da ist das dann so, also über das Kindergeld
+freuen sich alle, weil das ist natürlich, was Geld ist und zweitens, weil man es sieht und
+es dann kommt, steht Kindergeld, Kindergeld, Danke Staat. Natürlich wird das auch
+irgendwie abgebucht, aber würde es auf einmal nicht kommen, wenn man sagt na ja, wir
+müssen sparen im Monat, So und so setzen wir das Kindergeld einmal aus. Das würde man
+merken, wenn die EEG-Umlage auf einmal den Strom für einen Monat noch mal einen Cent
+teurer werden würde, würde man das auch spüren. Aber das würde nicht...Also Sie haben
+recht, ich will Ihnen Recht geben. So, und was die Technik angeht der Klima- und
+Transformationsfonds kriegt im Moment CO2 Einnahmen aus den Zertifikatehandel. Das ist der
+Haupt Batzen, das ist die Industrie und die Energiewirtschaft. Und dann haben wir in
+Deutschland eine CO2 Steuer oder Abgabe von 30 € und die gehen da im Moment auch rein.
+
+- Philip
+
+Im Verkehr und Heizen.
+
+- Robert Habeck
+
+Gas, Öl beim Heizen und die soll steigen. Ich würde denken, diese 30 € und auch 40 und 45
+schaffen noch nicht das soziale Problem in Deutschland, das mit diesem Klimageld
+bearbeitet werden soll. Aber wenn es dann 80 oder 90 oder dann werden nachher, das wird ja
+freigegeben. Also die europäische Gesetzgebung sagt, dass wir auch im Bereich Verkehr und
+Heizen den Zertifikatehandel als Markt organisieren. Das heißt, die Menge an CO2, die wir
+noch ausstoßen dürfen in Bereichen definiert die Menge an Zertifikaten, die dann den Preis
+für die Verbraucher definiert.
+
+- Philip
+
+Gedeckelt auf 45 €.
+
+- Robert Habeck
+
+Das wird sich zeigen, ob das dann so kommt. Aber die ganze Logik des Systems heißt ja: Am
+Ende soll dadurch der Klimaschutz marktwirtschaftlich gemacht werden. Es wird also sehr,
+sehr teuer werden.
+
+- Philip
+
+Okay, also woher soll das Geld kommen? Also Sie sagen immer.
+
+- Robert Habeck
+
+Was ich sagen will ist....
+
+- Philip
+
+Wenns teuer ist, dann verteilen wir um.
+
+- Robert Habeck
+
+Die Lösung ist, wenn man nach wie vor investieren will in dekarbonisierte Industrie, also
+den Klima- und Transformationsfonds als wirtschaftlichen Impuls vorn Nutzen will, muss man
+irgendeine Grenze ziehen. Und ab dann wird das Thema Geld ausgezahlt.
+
+- Ulf
+
+Mit anderen Worten: Sie finden es in Ordnung, wenn es jetzt zunächst mal noch kein Klima
+Geld gibt, weil die Auszahlung ohnehin noch nicht so hoch wären und die Belastung noch
+nicht so groß sind. Deswegen ist das Geld zurzeit besser angelegt im Transformationsfonds.
+
+- Robert Habeck
+
+Im Moment können wir es noch nicht auszahlen und wir haben die EEG Umlage abgeschafft. Und
+ich würde sagen, das ist so ungefähr die Logik für den ETS zwei, also für den Klima Geld
+Fonds. Das Geld, das durch die EEG Umlage den Verbrauchern zurückgegeben wurde, ist quasi
+gegen zu rechnen.
+
+- Ulf
+
+Wir hören aus Ihrer Fraktion so hinter vorgehaltener Hand auch das Argument: Na ja, also
+wenn schon Klimageld pro Kopf ausgezahlt wird, dann können es auch nicht nur 5 € sein,
+sondern dann muss es auch eine nennenswerte Summe sein, damit die Leute wirklich das
+Gefühl bekommen, sie werden jetzt entlastet.
+
+- Philip
+
+Ja, gut, Aber die Einnahmen aus dem europäischen Emissionshandel und aus dem nationalen
+Emissionshandel nicht mal das sind wie viel? 13, 14 Milliarden € jedes Jahr.
+
+- Robert Habeck
+
+Ja, aber das Klima. Geld bezieht sich ja vor allem auf Verkehr und Heizen, das für die
+Verbraucher und Verbraucher unmittelbar betroffen sind.
+
+- Philip
+
+Aha. Also Sie wollen den Emissionshandel nicht verteilen?
+
+- Robert Habeck
+
+Die Klimadebatte war Verkehr und Heizen vor allem. Nicht, was Vattenfall einzahlt. Oder
+Vattenfall, da hab ich was falsches gesagt. Okay, aber das kann man ja. Kann man auch.
+Natürlich, klar. Aber dann haben Sie recht. Wenn man das noch täte, wäre die Förderung für
+Wärmepumpen jedenfalls nicht hinterlegt. Die müsste man woanders herholen. Und der
+Transformationsfonds subventioniert die Wärmepumpen oder Wasserstoff für Stahlindustrie
+usw.
+
+- Philip
+
+Was ist denn für Sie der Punkt, wo Sie sagen okay, also wenn CO2 in Deutschland für Heizen
+und Fahren X kostet, dann fangen wir an Klima Geld auszuzahlen?
+
+- Robert Habeck
+
+Meine Logik wäre, wenn es höher ist als die EEG Vergütung als wir es gemacht haben,
+kostet. Das hieße dann jetzt kann ich nicht genau sagen, ob 30 oder 40 €. Ich habe das
+jetzt nicht ausgerechnet, aber das wäre sozusagen die Logik dann, wenn es wirklich jetzt
+steil nach oben geht.
+
+- Ulf
+
+Letzter Punkt, der uns noch interessiert Zubau von PV und Windkraft. Die Windkraft ist für
+Hörerinnen und Hörer der Lage so was wie ein Klassiker. So eine Art Running Gag schon
+fast. Wir haben uns sehr intensiv immer mit den Fragen beschäftigt, warum eigentlich so
+wenig Windkraftanlagen gebaut werden, auch wenn es regional unterschiedlich ist. Hier in
+Schleswig Holstein sind sie ja quasi Vorbildland. Trotzdem werden die Ausbauziele der
+Bundesregierung dieses und nächstes Jahr sehr wahrscheinlich nicht erreicht. Einer der
+vielen Gründe, vieles hat sich ja schon gebessert, aber einer der Gründe ist, wer so eine
+genehmigte Anlage hat. Also Grundstück gefunden, Genehmigung bekommen, die nach x Jahren,
+die 1000 Vorfagen enthält. Wer eine genehmigte Anlage hat, der muss ja dann noch, wenn er
+Subventionen haben will, an einer Ausschreibung teilnehmen. Was bedeutet, hat Sigmar
+Gabriel mal erfunden, vor ein paar Jahren, um den Ausbau erneuerbarer Energien zu bremsen,
+darf man die Felder.
+
+- Philip
+
+Oder Kostengünstig zu machen.
+
+- Ulf
+
+Ja, ja. Na ja, wie auch immer. Jedenfalls die Idee dabei ist: Der Staat sagt alle drei
+Monate, wie viel Wind er gerne hätte. Die Anlagen bauinteressierten Menschen bieten dann
+ihre Windkraft an und wer es am billigsten macht, bekommt hinterher die Subventionen
+dafür. Das, was früher Einspeisevergütung hieß, das soll Kosten im Griff halten. Der Witz
+ist aber: Der Staat bekommt seit Jahren nicht so viele Wind Angebote wie er gerne hätte.
+Mit anderen Worten diese Ausschreibungen sind unterzeichnet. Jeder kommt zum Zug. Null
+Preis Wirkung. Aber wegen des bürokratischen Aufwands machen viele schon gar nicht mit.
+Herr Habeck, das Ganze spielt ja in Ihrem Haus und wir fragen uns warum machen diese
+Menschen, die das bearbeiten, nicht längst was Sinnvolleres?
+
+- Robert Habeck
+
+Im Moment kommen alle zum Zug.
+
+- Ulf
+
+Es kommen alle zum Zug.
+
+- Robert Habeck
+
+Die Ausschreibungen sind so erhöht worden, dass alle zum Zug kommen. Und davor sind nicht
+alle zum Zug gekommen, weil gerade im Süden die Ausschreibungamengen die Deckelung, die
+politisch gewollt wurde. Wir wollen nicht zu viele Windkraftanlagen fahren haben, haben
+dazu geführt, dass im Süden, wo die Anlagen wegen schlechterer Wind lage höher sein
+müssen, also mehr Stahl verbaut wird. Also höhere Kosten sind gar nicht mehr gezogen
+haben, dann haben die einfach aufgehört Anlagen zu beantragen. Deswegen ist es in Baden
+Württemberg beispielsweise komplett eingebrochen.
+
+- Ulf
+
+Noch schlimmer war es in Bayern.
+
+- Robert Habeck
+
+Bayern wollten sie es aber auch nicht stehen. Die nationale Gesetzgebung, diese Sie
+schaffen hier in Bayern haben sie gesagt, hier weht kein Wind, wir brauchen das nicht, wir
+wollen das nicht. In Baden Württemberg wollten sie das, sind aber nicht zum Zuge kommen.
+Das heißt, da ist eine Dynamik drin, die sich jetzt verändert hat. Jetzt im Moment machen
+wir, sind die Ausschreibungsmengen so groß, dass im Grunde jede Teilnahme ein Gebot
+bekommen. Und die Zahlen sind eigentlich gar nicht so schlecht. Wir haben in den ersten
+diesen Tiefen einmal im Quartal statt, also alle drei Monate. Und wir haben in den ersten
+beiden Quartalen drei Gigawatt Onshore Wind den Zuschlag gegeben. Drei Gigawatt, um das
+mal einzuordnen. Letztes Jahr wurden zwei Gigawatt zugebaut, jetzt ist im ersten halben
+Jahr sind drei Gigawatt genehmigt worden. Und das ist wahrscheinlich keine lineare
+Steigerung, sondern es wird jetzt klar anziehen.
+
+- Ulf
+
+Warum diese Ausschreibung, Herr Habeck, warum die Ausschreibung, wenn doch, wie Sie sagen,
+alle zum Zuge kommen, ist ja die Preis Wirkung null, weil selbst die teuerste Anlage noch
+einen Zuschlag bekommt, weil sie völlig zu Recht Stichwort Windkraft Ausbau so viel
+ausschreiben. Warum also noch dieser gigantische bürokratische Aufwand? Die Windkraft
+Betreibenden oder Interessierten muss man ja eher sagen, sagen uns regelmäßig: Das ist so
+unfassbar nervig. Warum schafft Herr Habeck das nicht ab?
+
+- Robert Habeck
+
+Ja, es ist super nervig und man kann es auch anders regeln. Aber nicht ohne ein
+wettbewerbliches Verfahren, nehme ich an, weil dann die garantierte Vergütung und das
+klingt jetzt so ein bisschen Politik technisch europäisch nicht mehr genehmigt werden
+kann.
+
+- Philip
+
+Also also zurück zum alten Verfahren.
+
+- Robert Habeck
+
+Es ist heute schon so, man kriegt ja was dafür, dass man daran teilnimmt. Das ist heute
+schon so, keiner muss bei der Ausschreibung teilnehmen. Du kannst deine Windkraftanlage da
+hinbauen und den Strom einfach vermarkten. Für den Preis, den du am Markt erzielen kannst.
+Jeder, der eine Fläche kriegt, kann sagen: Das ist doch super, Ich baue die
+Windkraftanlage und das ist übrigens auch mein Rat für die Industrie: macht Kooperationen
+mit Windmühlern und zieht den Strom direkt von der Windmühle direkt zu euch rein, zu einem
+Preis, den ihr frei vereinbaren könnt. Für die Windmüller ist es aber attraktiv für die
+Investoren zu sagen: Wir gehen über die Ausschreibung und dann kriegen wir eine Grund
+Vergütung, wenn der Wind ordentlich weht. Alle Anlagen drehen sich, der Strompreis geht
+gen Null. Können wir trotzdem zumindest über die Jahresrechnung virtuell sagen. Die
+Kilowattstunde wird uns vergütet mit fünf, 0,06 €. Und um das...
+
+- Philip
+
+Weil man auch die Kredite kriegt, weil die Banken das als Sicherheit nehmen, wenn.
+
+- Robert Habeck
+
+Wenn man, solange man das will, so ist Europa organisiert. Das ist ja dann eine staatliche
+Absicherung eigentlich eines freien Marktes. Keiner müsste. Muss man sich einmal dem
+Prozedere unterwerfen, zu sagen bin ich im Wettbewerb mit den anderen erfolgreich. Nun ist
+es in der Tat so im Moment. Wir haben so hohe Mengen, dass im Moment alle zum Zuge kommen.
+Ich hoffe aber darauf, dass natürlich bald wieder so viele Projekte da sind, dass vor
+allem die günstigsten zum Zuge kommen. Also insofern ist das Verfahren gar nicht dumm,
+finde ich. Okay. Nur im Moment, wenn es zu knapp ist, das war davor, wird im Süden alles
+aussortiert. Jetzt im Moment, in dieser Übergangsphase, wo wir hohe Mengen haben, kriegt
+alles einen Zuschlag. Es hat jedes Mal Ausverkauf. Aber das ist ja auch ein Markt und der
+wird nachziehen. Und dann, denke ich, werden wir über dieses Verfahren, diese Form von
+Garantien hinbekommen.
+
+- Philip
+
+Bei Sonne ist es ja ganz anders, bei Sonne es sind die überzeichnet. Das heißt, es gibt
+eine Auktion, also eine Versteigerung.
+
+- Robert Habeck
+
+Bei Offshore auch.
+
+- Philip
+
+Es gibt eine Auktion. Der Staat sagt hier, wir wollen jetzt ausschreiben x Gigawatt Sonne.
+Dafür verteilen wir Subventionen. Da bewerben sich viel mehr Projekte als am Ende, den
+wirklich diesen Zuschlag bekommen. Das heißt.
+
+- Ulf
+
+Etwa 50 % mehr.
+
+- Philip
+
+Das heißt, wenn es diese Auktion nicht gäbe und alle die Sonnen Projekte, die sich
+bewerben um eine Subvention, wenn die sie auch kriegen würden, dann wäre der Ausbau von
+Sonnenenergie aktuell viel höher. Könnte viel höher sein plus 50 % als er jetzt ist. Diese
+Auktion deckeln den Ausbau von Solarenergie.
+
+- Robert Habeck
+
+Aber die sind so hoch. Also erstens auch da gilt: Niemand muss die Subventionen nehmen,
+die können auch, natürlich können die ihren Strom auch in Wasserstoff verwandeln, an die
+Industrie verkaufen und das machen sie auch. Also sehr viele. Gerade die großen Parks
+gehen gar nicht mehr über die EEG Vergütung, sondern sagen, dass uns alles zu kompliziert,
+zu doof.
+
+- Philip
+
+Gerade kleinere Unternehmen brauchen für die Kredite von ihren Banken die Sicherheit, dass
+sie garantiert, wenn's schief läuft vom Staat, diese Kohle kriegen.
+
+- Robert Habeck
+
+Noch einmal jetzt ein bisschen muss ich jetzt aufdröseln. Der Zubau von Solar sollte
+dieses Jahr neun Gigawatt umfassen. Neun Gigawatt sind in Leistung, neun Atomkraftwerke
+quasi in einem Jahr zugebaut.
+
+- Ulf
+
+Das ist schon viel.
+
+- Robert Habeck
+
+Wir werden deutlich mehr sehen. Wir werden fett zweistellig werden. Wir haben, ich weiß
+gar nicht, wo wir jetzt stehen, aber vielleicht bei sieben oder knapp über die Hälfte des
+Jahres vorbei. Eine wahnsinnige Erfolgsgeschichte. Das heißt, der Zubau findet statt. Noch
+mehr wäre vielleicht gar nicht wünschenswert. Ehrlicherweise, weil die Verteilnetze
+nachziehen müssen. Die Paneele müssen produziert werden, die Handwerker müssen sich da,
+wir sind wirklich. Das ist wirklich Wahnsinn, was wir da im Moment gerade erleben. Und wir
+werden viel schneller das Ziel, wir wollen dann ab '25 22 Gigawatt jährlich zubauen und
+alle sagen: Das ist unmöglich. Und das werden wir schaffen. Das werden wir schaffen. Bei
+Onshore Wind ist es so wie Sie beschrieben haben, deutliche Steigerung, aber leicht noch
+unter den Zahlen. Natürlich ist es auch die komplizierteste Energieform. Lauter
+Widerstände, lauter Artenschutz, fachliche Gutachten. Die haben das ganz dolle eingekürzt.
+Bei Offshore Wind haben wir gerade eine Auktion für sieben Gigawatt gehabt. Sieben
+Gigawatt, sieben Atomkraftwerke sozusagen. In alter Rechnung krass überzeichnet gewesen
+für fünf von den von den Anbietern. Und da hat das natürlich Sinn gemacht, eine Auktion
+durchzuführen. Heißt also nur bei Onshore Wind haben wir im Moment diesen Engpass
+Ausschreibungen, Angebote, weil es die komplizierteste Form ist. Aber das System selbst
+ist eigentlich eins, wo man einigermaßen steuern kann.
+
+- Ulf
+
+Aber ganz kurz noch mal zurück zur PV, wo wir eben den Effekt haben, dass da 50 % mehr
+gebaut werden könnte. Wenn es eben nicht die begrenzten Ausschreibungen gäbe, wäre man
+nicht da besser beraten zu sagen, wir verzichten jedenfalls in diesem Bereich auf die
+Ausschreibung und geben die garantierten Einspeisevergütung einfach allen, die PV
+ausbauen?
+
+- Robert Habeck
+
+Die müssen ja bezahlt werden.
+
+- Ulf
+
+Ja klar.
+
+- Robert Habeck
+
+Von den Stromkunden.
+
+- Philip
+
+Das ist Frage. Also EEG kommt ja nicht mehr von den Stromkunden, sondern aus dem KTF.
+
+- Robert Habeck
+
+Wenn es Wenn es über das EEG Konto läuft, muss es dann über den KTF bezahlt werden? Der
+dann sich anders noch mal auffüllen muss. Aber noch einmal: Wir haben doch bei Solar gar
+kein Problem. Also wir schaffen die Ausbauziele. Das Ganze folgt ja einem Plan und der
+Plan heißt Über die nächsten Jahre und Jahrzehnte haben wir einen kontrollierten Zubau in
+einer enormen Höhe.
+
+- Ulf
+
+Und das reicht ihnen quasi, was da bei der bisherigen Dynamik so ist.
+
+- Robert Habeck
+
+Bei Solar ist es ja über den Plan dramatisch, über den Plan.
+
+- Philip
+
+Gut, jetzt gibt es mehr Leute, die Solar machen wollen, da können wir es ausgleichen.
+
+- Ulf
+
+Aber wir können doch nie zu viel haben, oder habe ich da was falsch verstanden? Meine
+solange wir noch Kohlestrom überhaupt ins Netz einspeisen, würde ich sagen, können wir
+noch ein bisschen PV gebrauchen.
+
+- Robert Habeck
+
+Ja, wir brauchen es vor allem für die Sektoren Koppelung. Also im Moment, wenn man sich
+jetzt die Energy Charts der letzten Tage anschaut. Natürlich ist da auch noch Kohlestrom
+drin, aber sehr viel weniger als wir jemals gedacht haben, weil Wind und Solar im Moment
+alles verdrängt. Wir sind ja sehr, sehr gut in den letzten Monaten bei den erneuerbaren
+Energien gewesen.
+
+- Ulf
+
+Man glaubt es nicht ganz, wo man rausschaut. Hier ist der Dauerregen in Flensburg.
+
+- Robert Habeck
+
+Dafür weht hier der Wind.
+
+- Ulf
+
+Immerhin.
+
+- Robert Habeck
+
+AAber, aber immerhin. Da sind es dann. Dann habe ich da. Aber natürlich muss der ganze
+Verkehrsbereich und der ganze Wärmebereich noch in irgendeiner Form erschlossen werden.
+Und dann muss noch Wasserstoff produziert werden. Aber das ist sozusagen die Antwort mit
+dem Hoch nach der E-mobilität, mit dem Hoch auf der Wasserstoff Elektrolyse. Da muss die
+Energie kommen und dann zur Verfügung stehen. Und das können wir natürlich auch
+organisiert machen.
+
+- Ulf
+
+Also ich nehme jetzt jedenfalls mit: Stand heute Halten Sie an den Ausschreibungen für
+beide Sektoren oder drei sinds ja im Grunde offshore Wind, Onshore Wind und PV, erst mal
+fest.
+
+- Robert Habeck
+
+Stand heute ist das so, Wir werden aber einen Energiemarkt Design neu entwickeln müssen.
+Wir kommen ja von einer Denke her, wo Kraftwerke, Atom, Gas, Kohlekraftwerke immer Tag und
+Nacht, morgens, mittags, abends, nachts Strom für den gleichen Preis die gleichen
+Entstehungskosten produziert haben. Und die Erneuerbaren mussten in diesen Markt rein
+geführt werden. Dafür war dann diese EEG Umlage geschaffen worden. In dem Maße wie die
+Erneuerbaren den Markt bestimmen und die anderen quasi die residual, also die Restlast,
+die steuerbaren Lasten bereitstellen für Phasen, wo die Sonne nicht scheint, weil es
+nachts ist und der Wind dummerweise auch nicht weht, dreht sich das Verhältnis ja auf
+einmal um. Und dieses neue Marktdesign, das durchdenken wir gerade. Und das wird
+sicherlich dazu führen, dass wir dann andere Mechanismen bekommen. Aber da reden wir über
+Ende dieses Jahrzehnts. Im Moment scheint es bei Solar und bei Offshore Wind ja richtig
+gut zu funktionieren und bei Onshore Wind. Wie gesagt muss das System sich noch ein
+bisschen einschwingen. Aber viele Vorzeichen sind ja gut gesetzt.
+
+- Ulf
+
+Und wer sich da noch genauer informieren will wir haben ja ein Buch geschrieben, der
+Philip und ich und da kann man ab Ende September, da erscheint das nämlich, wenn man...
+
+- Robert Habeck
+
+Die Auktionen, die....
+
+- Ulf
+
+Nein. Wir haben, wir haben verschiedene Themen beackert. Das Buch wird heißen "Die
+Baustellen der Nation". Und ein Thema ist das Thema Windkraft Ausbau. Ja, wir sind am Ende
+unseres Pads. Aber wir wollten ihnen am Ende doch noch die Gelegenheit geben, ein Thema
+vielleicht anzusprechen oder ein Statement loszuwerden. Oder Sie können jemanden grüßen,
+die Annalena. Nein. Haben Sie noch ein Anliegen, das Sie den Menschen vielleicht mitgeben
+möchten?
+
+- Robert Habeck
+
+Natürlich habe ich ganz viele Anliegen, deswegen bin ich ja Politiker. Aber für heute
+Abend wäre mein größtes Informiert euch umfassend und die Lage der Nation ist ja eine
+umfassende Information. Danke für dieses Gespräch.
+
+- Ulf
+
+Wir haben zu danken. Ganz herzlichen Dank, Herr Habeck. Einen schönen Abend und wir
+verabschieden uns auch zugleich von unseren Hörerinnen und Hörern.
+
+- Philip
+
+So machen wir das nach alter Väter Sitte und alter Mütter Sitte natürlich sagen wir Danke
+fürs Zuhören, danke für die Geduld, Danke für das Interesse, Danke für die Kommentare und
+die Anregungen unter Talk.LagederNation.org.
+
+- Ulf
+
+Und Ende August gibt es die Lage wieder wie gewohnt als politischen Wochenrückblick ab
+dem 24. August. Das jedenfalls unser Plan. Bis dahin wünschen wir euch noch einen schönen
+Sommer. Auf ganz bald. Und tschüss.
+
+- Philip
+
+Tschüss. Winke, winke.

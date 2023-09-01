@@ -1,9 +1,43 @@
 +++
 title = "Lage der Nation"
+author = ["Cyneox"]
 draft = false
 +++
 
-## LdN 333 {#ldn-333}
+## LdN 344 {#ldn-344}
+
+-   2023-09-01 ◦ [LdN344 Spezial: Robert Habeck; Bundesminister für Wirtschaft und Klimaschutz, Vizekanzler – Lage der Nation Plus](https://plus.lagedernation.org/2023/08/10/ldn344-spezial-robert-habeck-bundesminister-fuer-wirtschaft-und-klimaschutz-vizekanzler/)
+
+Zitate:
+
+> -   Robert Habeck
+>
+> man muss sich damit auseinandersetzen, was da die Vordenker tun. Und
+> deswegen ist das keine Partei wie alle anderen, sondern sie wollen eine andere
+> Republik. **Sie wollen, wenn man sie jedenfalls jetzt reden hört, Deutschland aus
+> Europa herausführen**. **Ein Europa der Vaterländer ist die Zerstörung der
+> Europäischen Union**. Das ist nicht nur eine ökonomische Katastrophe, sondern es
+> wäre auch eine **friedenspolitische Katastrophe**. So anstrengend Europa ist, es ist
+> ein Friedenswerk. Es ist gegründet worden auf den Trümmern des Zweiten
+> Weltkriegs. Ein Europa der Vaterländer vergisst jede geschichtliche Lektion.
+> Nein, das ist sie nicht.
+
+<!--quoteend-->
+
+> -   Ulf
+>
+> Also ein Punkt muss man schon noch mal sagen. Warum ist das eigentlich
+> Beobachtung durch den Verfassungsschutz ist ja das eine, aber ich finde, es
+> lohnt sich an der Stelle schon, einfach noch mal diese Ideologie mit zu
+> benennen. Sie sagten Europa der Vaterländer. **Ich finde auch das wiederum Lektüre
+> Matthias Quent so dramatisch, dass es der AfD ja eigentlich geht um ein völkisch
+> autokratisches System**. **Es geht ja eben nicht darum, dass alle Menschen gleich
+> sind, sondern es soll ein Deutschland geschaffen werden, in dem kein Platz mehr
+> ist für Menschen, die nicht so aussehen und so leben wie Björn Höcke**. Und ich
+> meine, das ist eben einfach fundamental mit dem Grundgesetz nicht vereinbar. Es
+> hat mit Artikel eins Artikel drei nichts mehr zu tun und das, finde ich, wird in
+> der **öffentlichen Diskussion viel zu wenig gesagt, dass es um eine Partei geht,
+> die einfach die einfach die Bundesrepublik abschaffen will**.
 
 
 ## LdN 306 {#ldn-306}

@@ -1,0 +1,1264 @@
+:PROPERTIES:
+:ID:       8934c9a0-6ee3-4e23-83d2-4d76f5d55eef
+:END:
+#+title: LDN343
+
+- Philip
+
+Ganz herzlich willkommen zur Lage der Nation mit einer weiteren Sommerfolge mit einem
+weiteren ausführlichen Interview. Mein Name ist Philip Banse.
+
+- Ulf
+
+Und ich bin Ulf Buermeyer. Der Philip ist Journalist. Ich bin Jurist aus Berlin. Schön,
+dass ihr wieder dabei seid bei unserem Podcast.
+
+- Philip
+
+Bevor es losgeht, bevor wir einsteigen in das heutige Interview, noch der Hinweis: Es gibt
+ja mal wieder eine Lage live. Hatten wir lange nicht mehr.
+
+- Ulf
+
+Mal wieder ist gut, Philip. Endlich mal wieder, würde ich sagen, denn wir haben ja jetzt
+eine ganze Weile Pause gemacht. Aber im Oktober sind wir wieder live zu sehen, und zwar
+genau genommen am 19. Oktober in Frankfurt am Main, am Rande der Frankfurter Buchmesse.
+Ganz wichtig: Ihr braucht keine Tickets für die Buchmesse, aber ihr braucht natürlich ein
+Ticket für die Lage live. Wenn ihr uns mal auf der Bühne dabei erleben wollt, wie wir die
+Lage der Nation aufnehmen, wie wir unser Buch vorstellen, aber auch, wie wir eure Fragen
+aus dem Publikum beantworten.
+
+- Philip
+
+Genau. Und hinterher gibt es da noch, wenn ihr wollt, ein gemeinsames Kaltgetränk und wir
+können uns ein bisschen unterhalten. Die Tickets für die Lage live gibt es unter
+Lage.Live, einfach im Browser eintippen, Lage.Live und ihr landet bei uns im Ticket Shop.
+Wir sind für das heutige Interview mal wieder in den Zug gestiegen. Es war eine
+mittelprächtige Erfahrung, muss ich ehrlich sagen. Aber wir sind noch rechtzeitig
+angekommen.
+
+- Ulf
+
+Als der Zug fuhr, war es schön. Es hat nur ein bisschen gedauert. 45 Minuten Verzögerung.
+
+- Philip
+
+Das war alles eingeplant.
+
+- Ulf
+
+Aber jetzt sind wir ja da. Und jetzt sitzen wir zusammen mit Professor Dr. Jochem
+Marotzke. Er arbeitet am Max Planck Institut für Meteorologie, ist genau genommen sogar
+der Direktor dieses MPI und einer der renommiertesten Klimaforscher in Deutschland. Und
+wahrscheinlich sogar international. Denn er ist unter anderem einer der Mitautoren,
+Autorinnen des jüngsten IPCC Berichts. Wer die Lage schon länger hörte, hat davon bestimmt
+schon mal gehört. Das ist so eine Art Metastudie, wo quasi der Stand der
+wissenschaftlichen Erkenntnis zum Thema Klimawandel zusammengefasst wird. Ganz herzlich
+willkommen in der Lage der Nation Professor Marotzke.
+
+ Jochen Marotzke Ja, vielen Dank für die Einladung.
+
+- Philip
+
+Ja, herzlich willkommen auch von mir, Herr Marotzke, Institut für Meteorologie. Das klingt
+ein bisschen nach Wetterfrosch, aber eigentlich sind Sie ja Meeresforscher.
+
+ Jochen Marotzke Ich selber habe als Meeresforscher angefangen, war aber immer an
+Klimafragen interessiert und bin dann vor 20 Jahren hierher berufen worden und dann noch
+mal wieder stärker in den Kern des Klimageschäfts eingestiegen.
+
+- Philip
+
+Konsumieren Sie eigentlich noch so Klimanachrichten und wie konsumieren die Sie so in der
+Zeitung? Wie berühren die Sie noch?
+
+ Jochen Marotzke Ich versuche schon, das zu lesen, was mir unterkommt und versuche da auch
+einen nüchternen Blick drauf zu bewahren und denkt dann auch schon mal: Oh ja, das ist
+jetzt wirklich sehr gut dargestellt. Und manchmal denke ich, ach nee, das hätte man
+eigentlich anders machen können.
+
+- Ulf
+
+Wir geben uns alle Mühe. Da sind wir ja mal gespannt, was wir für ein Feedback bekommen zu
+unserer Lage Berichterstattung. Aber bevor wir so richtig ins Detail gehen, bevor wir uns
+zum Beispiel Ihre Forschung zu Meeresströmungen noch mal genauer anschauen, haben wir uns
+gedacht: Starten wir mal mit ein paar Klima Basics. Denn als Journalistin, als Journalist
+setzt man ja schnell viele Dinge voraus, die dann im Detail doch viel komplizierter sind.
+Und die allererste Frage, die natürlich so ein bisschen über allem schwebt, wenn man zum
+Thema Klimawandel berichtet, Professor Marotzke, ist denn eigentlich erwiesen, dass die
+Erderwärmung tatsächlich vom Menschen verursacht wird, also menschengemacht ist?
+
+ Jochen Marotzke Ja, das ist völlig klar. Das haben wir auch im letzten Sachstandsbericht
+so geschrieben. Es ist eindeutig, dass die Erwärmung der Atmosphäre der Meere, der
+Landflächen durch den Menschen verursacht wurde. Da gibt es überhaupt keinen
+wissenschaftlichen Zweifel mehr dran.
+
+- Ulf
+
+Das heißt also, wer das in Zweifel zieht, stellt sich quasi außerhalb des
+wissenschaftlichen Diskurses.
+
+- Philip
+
+Und treibender Faktor sind CO2-Treibhausgase wie CO2.
+
+ Jochen Marotzke Vor allem das CO2. Methan auch, aber doch mit deutlich geringerer Rolle.
+CO2 ist die dominierende Substanz, die für die Erwärmung verantwortlich ist.
+
+- Ulf
+
+Können Sie noch einmal so diese Mechanik erläutern? Wie kommt es denn tatsächlich dazu,
+dass eine höhere CO2 Konzentration die Erde aufheizt?
+
+ Jochen Marotzke CO2 ist das, was wir ein Treibhausgas nennen. Jetzt mal ganz metaphorisch
+gesprochen ist es, als ob durch mehr CO2 die Erde eine zusätzliche Wärmedecke um sich
+herum hätte. Und wir kennen das ja alle. Wenn wir eine Decke um uns schlingen, dann bleibt
+der Körper wärmer, weil die Wärme nicht so gut rauskommt. Jetzt ein bisschen präziser
+gesagt: Was CO2 macht, ist wir wissen, die Sonne strahlt auf die Erde ein, trifft die
+Erdoberfläche, die wird warm. Dann strahlt die Erde wieder Wärme nach draußen. Aber jetzt,
+was wir sagen im langweiligen Bereich, das ist terrestrische Strahlung, weil die Erde
+deutlich kälter ist als die Sonne. Und diese langweilige Strahlung, die wird von CO2 erst
+mal absorbiert und dann auch wieder ausgestrahlt. Die Ausstrahlung erfolgt nach oben und
+nach unten. Und der Teil nach unten, der wird dann von der Erdoberfläche wieder empfangen
+und insofern bekommt durch das CO2 die Erdoberfläche eine zusätzliche Energiemenge. Und
+das ist der Treibhauseffekt und der führt zu einer zusätzlichen Erwärmung.
+
+- Ulf
+
+Okay, das heißt also, man kann sich das so vorstellen, als wenn diese höhere CO2
+Konzentration in der Atmosphäre so eine Art Spiegel bildet, sodass diese Wärmestrahlung
+gleichsam auf der Erde gefangen bleibt. Kann man das so beschreiben?
+
+ Jochen Marotzke Ich vermeide gerne das Wort Spiegel, denn Spiegel strahlt nur in eine
+Richtung. Was wir wirklich haben das CO2 absorbiert, verschluckt das und sendet es dann
+nach oben und nach unten. Auch ein Spiegel strahlt ja nur in eine Richtung zurück.
+
+- Philip
+
+Jetzt hat sich die Weltgemeinschaft in Paris 2015 darauf geeinigt, die Erderwärmung im
+Vergleich zum vorindustriellen Zeitalter auf zwei Grad, möglichst auf 1,5 Grad zu
+begrenzen. Schaffen wir das?
+
+ Jochen Marotzke Was die 1,5 Grad angeht, glaube ich es nicht. Bis vor wenigen Jahren
+hätte ich sagen müssen, das ist ein reines Bauchgefühl. Aber wir haben in Hamburg hier
+eine sehr große Studie dazu veröffentlicht, dass wir gefragt haben: Was müsste eigentlich
+gesellschaftlich passieren? Rein physikalisch technisch hätten wir die Möglichkeiten. Aber
+bewegt sich die Gesellschaft weltweit schnell genug dahin, diese Möglichkeiten
+auszunutzen? Wir sehen, dass etwa Klimallagen, die effektiv sind oder internationale
+Abkommen oder Konsummuster. Und die Antwort, die wir gefunden haben, ist: vieles bewegt
+sich in Richtung Klimaschutz, in Richtung Dekarbonisierung, also weniger Verwendung von
+CO2 und fossilen Brennstoffen. Aber es geht alles nicht schnell genug. Um aber unter 1,5
+Grad Erwärmung zu bleiben, müssten wir in den nächsten 30 Jahren global die gesamte
+Gesellschaft dekarbonisieren. Und wir sehen nicht, dass die Gesellschaft sich schnell
+genug entschlossen genug dahin bewegt.
+
+- Philip
+
+Bleiben wir dabei. Sie sagen ja, technisch wissen wir im Prinzip, was getan werden muss.
+Da kann wir gleich noch ein bisschen was zu sagen. Die Werkzeuge haben wir auch alle. Aber
+Sie stellen jetzt ja gerade auf so gesellschaftliche Muster, Bewegungen, Motivationen,
+Handlungen ab. Was sind das für Sachen, die Sie beobachten, die dieser Dekarbonisierung
+gesellschaftlich im Weg stehen?
+
+ Jochen Marotzke Wir brauchen uns eigentlich nur die heutige Diskussion in Deutschland
+anzuschauen, im Kleinen. Deutschland ist natürlich unterschiedlich von vielen anderen
+Ländern. Aber die Diskussion über das neue Heizungs Gesetz, wie es ja etwas salopp heißt,
+wir wissen eigentlich, um möglichst schnell zu dekarbonisieren, sollten wir so schnell es
+irgend geht von Öl und Gas Heizungen weg.
+
+- Ulf
+
+Das heißt also, aus dieser Perspektive dürfen wir keine einzige weitere Gasheizung
+einbauen und keine einzige weitere Ölheizung.
+
+ Jochen Marotzke Das sollen wir machen. Für möglichst schnellen Klimaschutz sollten wir so
+schnell es irgend geht. Und egal ob Neubauten, Altbauten wir sollten Öl- und Gasheizungen
+so schnell wie möglich verschrotten und Wärmepumpen oder so was nehmen.
+
+- Philip
+
+Wissenschaftlich ist das völlig unbestritten.
+
+ Jochen Marotzke Klar. Aber wir sehen ja, wie schwierig es ist, schwierig die Diskussion
+ist. Und dann kommen es, kommen Ängste ins Spiel, begründet, unbegründet ist vielleicht
+egal, aber die Ängste sind real. Es ist Unzufriedenheit. Es kommt vielleicht die Frage:
+Oh, jetzt soll ich auf einmal so viel bezahlen und kann ich es mir leisten, neue Heizung
+einzubauen? Diese Ängste werden teilweise geschürt und und und. Und Auf einmal sehen wir
+das, was von weit entfernt ganz logisch aussieht - möglichst schnelle Öl- und Gasheizung
+loszuwerden, ist, wenn es an die konkrete Umsetzung geht, ein gewaltiges politisches
+Problem. Und dann ist nichts mehr einfach. Und das sehen wir, wenn es um Dekarbonisierung,
+Klimaschutz geht. Das sehen wir an allen Ecken und Kanten. Vieles funktioniert, aber
+vieles funktioniert eben auch nicht, wird verzögert und geht nur langsam voran.
+
+- Philip
+
+Also ich finde das super interessant, weil es natürlich den Kern dieser Sache trifft. Wenn
+Sie sagen, es ist völlig unbestritten Klimawandels menschengemacht, CO2 ist das Problem.
+Wir wissen das alles, wir wissen, wir müssen aus der Kohle raus usw Das ist alles völlig
+unumstritten, aber viele kommen trotzdem, das ist auch messbar nicht schnell genug voran.
+Und das liegt daran, weil wir uns gesellschaftlich so schwertun, diese wissenschaftlichen
+Erkenntnisse umzusetzen. Jetzt haben Sie das an diesem Heizungsbeispiel beschrieben. Haben
+Sie denn auch erforscht, wie wir diese Hindernisse, diese gesellschaftlich politischen
+Hindernisse, ich will nicht sagen aus dem Weg räumen können, aber so angehen können, dass
+wir schneller vorankommen, als wir es heute tun.
+
+ Jochen Marotzke Wir versuchen uns diese gesellschaftliche Mechanismen auch noch
+anzuschauen und auch zum Teil, wir versuchen ja zu verstehen: warum geht es so langsam?
+Warum geht es so viel langsamer, als viele es gerne wollen? Und die Hoffnung ist natürlich
+auch, dass wir dabei auch Mechanismen erkennen, an denen wir sozusagen schrauben könnten.
+Aber es wäre anmaßend, wenn ich jetzt sagen würde: Wir hier in Hamburg, wir haben die
+Lösung. Das müsste man tun. Und dann wird sich die Gesellschaft schnell genug bewegen. Es
+ist ein extrem dickes Brett, was wir, die gesamte Weltbevölkerung, hier versuchen zu
+bohren, wenn wir schnell dekarbonisieren wollen.
+
+- Ulf
+
+Ganz zentral jedenfalls für die Dekarbonisierung ist ja dieser Begriff des CO2 Budgets,
+also die Frage, wie viel CO2 dürfen wir als Weltgemeinschaft und dann auch runtergebrochen
+wir in Deutschland überhaupt noch ausstoßen? Nach dem sechsten Sachstandsbericht des
+Weltklimarats könnten ab 2020 noch rund 400 Gigatonnen CO2 in die Atmosphäre abgegeben
+werden, um dieses 1,5 Grad Ziel zu halten. Der jährliche Ausstoß allerdings wird zurzeit
+so auf über 40 Gigatonnen geschätzt, das heißt, ab 2020 wären es noch so um die zehn
+Jahre. Und zwar Ausstoss durch Verbrennen fossiler Brennstoffe, Industrie, Änderung bei
+der Landnutzung und so, das heißt also bei konstanten Emissionen wäre das Budget ja schon
+von heute an gerechnet in etwa acht Jahren aufgebraucht.
+
+- Philip
+
+Da müsste Schluss sein. Da müsste einfach Schluss sein mit CO2 Ausstoß auf der Erde.
+
+ Jochen Marotzke Wenn wir absolut auf diesem Ziel bestünden 1,5 Grad und kein hundertstel
+Grad mehr, dann müsste das passieren. Wir sehen ja auch, dass das wird nicht passieren.
+Das ist völlig unrealistisch in ungefähr zehn Jahren. Das haben wir auch im letzten
+Sachstandsbericht so geschrieben. Die Erwartung ist, dass wir zu Beginn der 20er, 30er
+Jahre die anderthalb Grad überschreiten. Die Hoffnung, die manche noch dann, dann aber
+doch noch hegen ist: Ja gut, vielleicht überschreiten wir die anderthalb Grad nur um recht
+wenig und kommen danach wieder runter, indem wir die Emissionen schnell genug
+runterfahren, indem wir auch CO2 aus der Atmosphäre entziehen und verknappen. Aber da
+kommen dann wieder unsere Hamburger Studie ins Spiel und sagt: Wir sehen nicht, dass die
+Emissionen so schnell runtergefahren werden können, dass wir dann ganz schnell von, sagen
+wir mal 1,6 Grad wieder auf unter anderthalb Grad kommen. Das halten wir nicht für
+realistisch.
+
+- Philip
+
+Was ist denn da der Zeitverzug? Mal angenommen, wir sind bei 1,5 und dann entscheiden wir
+uns. Okay, jetzt sind wir auf dem. Wir schrauben alles runter. Wie lange dauert das dann?
+Von zwei wieder auf 1,5 zu kommen?
+
+ Jochen Marotzke Das hängt komplett davon ab, wie schnell man CO2 aus der Atmosphäre
+herausziehen kann. Was wir sagen können: Der zeitliche Verzug zwischen einem bestimmten
+Maß an Emissionen von CO2 und der entsprechende Erwärmung ist relativ kurz sind ungefähr
+zehn Jahre. Aber ob wir jetzt in 20 oder in 50 oder in 200 Jahren von zwei auf anderthalb
+Grad kommen würden, hängt komplett davon ab, wie viel CO2 wir denn aus der Luft ziehen
+können. Und das ist ein großindustrielles Unterfangen. Das ist nicht irgendetwas, es ist
+nicht damit getan, dass hier und da ein paar Wälder aufgeforstet werden, sondern das sind
+gigantische Mengen an CO2, die man da aus der Atmosphäre rausziehen müsste.
+
+- Ulf
+
+Reden wir doch noch mal ganz kurz über diese Grad Angaben. 1,5 Grad Erwärmung oder auch
+zwei Grad Erwärmung. Das klingt ja erst mal nicht so viel. Also wir erleben das im
+Tagesverlauf, wenn man da auf sein zum Beispiel auf seine Wetter App guckt. Na da zeigt
+mir das iPhone in der Nacht zwölf Grad tagsüber 29, das sind dann irgendwie 17 Grad
+Differenz. Das heißt also, in unserer Lebenserfahrung reden wir über ganz andere
+Temperaturspannen. Und da haben viele Menschen, so glaube ich, so ein bisschen ein Problem
+damit, sich vorzustellen, ob anderthalb oder zwei Grad wirklich relevant sind. Was ist
+denn Ihre Perspektive darauf? Warum sind diese Zahlen so gravierend?
+
+- Jochem Marotzke
+
+Ich glaube, da hilft ein Blick in die jüngere Erdgeschichte. Der Höhepunkt der letzten
+Eiszeit vor ungefähr 20.000 Jahren ganz Nordeuropa war von Eispanzer bedeckt, Ganz, ganz
+Nordamerika. Bis in den mittleren Breiten der heutigen USA war man vom Eispanzer bedeckt.
+Also wirklich dramatisch anderes Klima als heute. Und wenn man dann fragt im globalen
+Mittel, um wie viel kälter war die Oberflächen oder wie viel niedriger war die
+Oberflächentemperatur als heute, dann sind es ungefähr sechs Grad. Das wissen wir relativ
+gut.
+
+- Philip
+
+Und die haben dazu geführt, dass quasi die halbe Welt vom Eis bedeckt war.
+
+- Jochem Marotzke
+
+Nur sechs Grad. Das heißt also klar lokal vor Ort, Tag und Nacht, Jahreszeiten zwei Grad
+unter Freunden ist ja nix. Aber im globalen Mittel und längerfristig gesehen sind zwei
+Grad 1/3 von dem Unterschied zwischen dieser dramatischen letzten Eiszeit und dem, was wir
+heute haben. Und dann wird, glaube ich, wenn man diesen Vergleich anstellt, wird einem
+klar: zwei Grad ist gar nicht so wenig. Es ist nicht der Unterschied komplett zur Eiszeit,
+aber ein Drittel davon.
+
+- Philip
+
+Also jetzt, wo Ulf das gerade so sagt, mit diesen zwei Grad und eineinhalb Grad und sie
+auch forschen zu dieser gesellschaftlichen Problematik, diese wissenschaftlichen
+Erkenntnisse umzusetzen, könnte ich mir auch vorstellen, dass das zum Teil an so
+Banalitäten liegt, dass die Leute hören: 1,5 Grad - das soll ein Problem sein? Zwei Grad
+mehr, das soll ein Problem sein? Sind das so banale Sachen, die den den gesellschaftlichen
+Motor nicht so anschmeißen, wie er eigentlich angeschmissen werden müsste?
+
+- Jochem Marotzke
+
+Es trägt bestimmt dazu bei. Der Klimawandel ist kaum etwas, was unmittelbar erfahrbar ist,
+erlebbar ist. Es gibt ganz wenige persönliche Erfahrungen, wo man sagt, zu denen man sagen
+kann: Ja, das ist wirklich der Klimawandel. Und die zwei Dinge, die mir da einfallen, ist
+das eine Rückgang der Alpengletscher. Das wissen wir alle. Egal welchen Gletscher man
+besucht, ist dramatisch zurückgegangen. Es gibt überall Bilder. Nun sagt ein Gletscher für
+sich allein vielleicht noch nicht so viel, aber wir wissen, dass ein Gletscher
+repräsentativ ist für 95, 97 % aller Gletscher auf der Welt. Das heißt, das ist erlebbar.
+Das andere ist ein Beispiel aus dem hohen Norden Kanadas. Ich habe selber einem Inuit
+zugehört, der davon erzählt hat, dass er am Canada Day, dem 1. Juli nicht mehr mit seinem
+Skido über den Sund übers Eis zu seinen Schwiegereltern fahren kann, weil das Eis zu dünn
+geworden ist. Auch das ist ein Erlebnis. Das ist stellvertretend für den wahren
+Klimawandel. Das ist eine echte Erzählung, eine wahre Erzählung. Eine nicht wahre
+Erzählung ist das, was die frühere Bundeskanzlerin mal hatte. Sie war bei Grönland und sah
+einem Eisberg zu, der abbrach und sagt: Oh, dramatische Manifestation des Klimawandels.
+Antwort Nein, ist es nicht. Auch in einem nicht stationären Klima, im gleichbleibend Klima
+brechen immer die Eisberge ab, weil im Zentrum Grönlands schneit es und die Masse, das
+muss irgendwo hin, bricht halt ab. Und das zeigt aber: Es ist richtig schwer, wahre
+Erzählungen über den Klimawandel zu finden. Wo wir wissen, es ist der Klimawandel. Es ist
+nicht nur ein Wetterextrem. Und das macht es, glaube ich, auch schwer. Es ist sehr schwer
+mit dem Klimawandel. Daher wirklich eine, wenn man will, eine wahre, gerechtfertigte
+Emotion ins Spiel zu bringen. Und oben, ohne Emotion bewegt sich vieles nicht.
+
+- Ulf
+
+Vielleicht kann man da, wo Sie das gerade so schön sagen, Vielleicht kann man da einfach
+noch mal kurz diesen Unterschied erklären zwischen Wetter und Klima. Das ist ja auch was,
+was vielleicht gar nicht allen Menschen so klar ist. Sie haben diesen Gegensatz ja gerade
+so verwendet. Was ist denn der Unterschied zwischen Wetter und Klima?
+
+- Jochem Marotzke
+
+Klima ist die Statistik des Wetters. Also wir schauen uns ganz viele Wetterereignisse an
+und schauen dann was ist die Statistik? Was haben wir also im Mittel über 20, 30 Jahren
+für eine Temperatur? Wie viel Niederschlag gibt es aber auch in einem 20 Jahres Zeitraum:
+was ist denn so das stärkste Niederschlagsereignis? Und ändert sich das, werden
+Starkniederschläge stärker? Das ist aber gar nicht so leicht. Wenn ich heute von einer
+Überflutung betroffen werde, dann ist das wie ein Schlag mit dem Hammer. Aber das ist ein
+seltenes Ereignis. Passiert vielleicht alle 50 Jahre einmal. Und ob das jetzt häufiger
+stattgefunden hat, ist extrem schwer zu sagen. Etwas, was an sich alle 50 Jahre passiert.
+Er müsste ja eigentlich ein paar Jahrhunderte beobachtet haben, um zu sagen: Oh, das
+trifft jetzt heute häufiger zu als früher und und das macht es so schwer. Was uns trifft,
+was uns Menschen trifft, sind diese Extremereignisse, und deren Änderung ist sehr, sehr
+schwer festzustellen.
+
+- Philip
+
+Jetzt gibt es ja in letzter Zeit zumindest in meiner Wahrnehmung eine Häufung dieser
+Ereignisse, also über Griechenland, Kroatien hatte sich vor kurzem ein Tief festgesetzt.
+Überdurchschnittlich ungewöhnlich lange, war sehr stationär, hat für sehr viel regen
+Unwetter über sehr lange Zeit gesorgt. Wir erleben jetzt gerade, wo wir das hier
+aufnehmen, Rauch in New York City. Die Leute gehen nicht mehr aus den Häusern, sollen
+nicht mehr gehen. Extreme Gesundheitsgefahren, weil in Kanada die Wälder brennen, und zwar
+nicht nur an einem Ort, sondern wirklich von der Ost- bis zur Westküste. Großflächiger
+Notstand. Wir erleben heiße Sommer in Mitteleuropa, die offensichtlich damit
+zusammenhängen, dass auch Wetterphänomene Hochs, Tiefs sehr stationär sind, sich nicht
+mehr so bewegen. Sind das Erlebnisse, die auf eine wirkliche fundamentale Änderung dieser
+Klimamechanik global hindeuten? Ist das neu?
+
+- Jochem Marotzke
+
+Einige Sachen die wir sehen, sind klar auf den menschengemachten Klimawandel
+zurückzuführen. Bei anderen wissen wir es einfach noch nicht. Ein ganz klares Beispiel, wo
+ohne globale Erwärmung das nicht passiert wäre, ist die Hitzewelle in Kanada vor zwei
+Jahren. Wir hatten im Westen Kanadas diese Rekord Temperatur von 49,4 Grad. Das lag vier
+Grad über dem vorherigen Rekord. Und ein solcher Sprung ist enorm und wäre auch ohne den
+Menschen mit menschlichen Effekt nicht denkbar. Bei der Frage wenn die Tiefdruckgebiete
+festsitzen. Ja mitunter streitet sich auch die Fachwelt. Es gibt Veröffentlichungen, es
+gibt Arbeiten, die sagen: Ja, das wird passieren. Wenn der durch den menschengemachten
+Klimawandel, dann wandern die langsamer. Aber es gibt auch Gegensätze-Studien, die sagen,
+wir finden diesen Effekt nicht. Und was das angeht, wenn man ehrlich ist, wir wissen es
+einfach noch nicht. Es könnte sein, dass so was häufiger passiert ist. Überhaupt nicht
+auszuschließen. Aber wir wissen es einfach noch nicht. Und da gibt es dann zum Teil auch
+in der Fachwelt eine Diskussion darüber, wie kommuniziert man denn so etwas? Und meine
+Haltung und auch die meines Institutes ist immer ganz klar zu sagen: Wenn wir es nicht
+wissen, dann sagen wir das auch. Das wird teilweise dann so gesehen, als als ob wir dem
+Fortschritt im Sinne von Wir müssen doch den Klimawandel bekämpfen, als ob wir dem im Weg
+stehen. Aber wir finden, wenn wir es nicht wissen, dann müssen wir es benennen. Und das
+ist auch so, wie der Weltklimarat IPCC vorgeht. Wenn es widersprüchliche
+Veröffentlichungen gibt, dann wird das aufgedröselt und es wird gesagt: Hier wissen wir es
+einfach noch nicht. Hier gibt es alles ernst zu nehmende Arbeiten. Die widersprechen sich
+und wir wissen heute noch nicht, was die Wahrheit ist.
+
+- Ulf
+
+Ich würde gerne mit Ihnen auf ein Phänomen zu sprechen kommen, das glaube ich so ein
+bisschen näher noch an Ihrem Kernthema Ozeane dran liegt. In den letzten Wochen macht die
+Entwicklung der Meerestemperaturen gerade im Nordatlantik Schlagzeilen. Viele Menschen
+machen sich Sorgen. Es gehen eindrucksvolle Karten mit Erwärmungen durch die sozialen
+Medien. Die Meere sind alle rot. Ist es tatsächlich so besorgniserregend, dass die
+Oberflächentemperaturen im Nordatlantik 1 bis 2 Grad zurzeit über dem langjährigen Mittel
+offenbar liegen? In einigen Bereichen.
+
+- Jochem Marotzke
+
+Ich bin von den Nachfragen hier so selber überrascht worden. Die erste Frage kam vom
+Journalisten vor vielleicht vier Wochen und meine Antwort war: Ich weiß gar nicht, wovon
+Sie sprechen. Ich habe das überhaupt nicht mitbekommen. Liegt zum Teil auch dran, dass um
+um das, wir reden hier natürlich von Entwicklungen über ein paar Wochen, über ein paar
+Monate. Und um das mitzubekommen, muss man eigentlich die Beobachtungen pausenlos sich
+anschauen. Und das mache ich nicht. So genau verfolge ich den Jetzt-Zustand nicht. Ich
+habe eine Zeitreihe gesehen, wo die Erwärmung steht und ich würde sagen: Ja, es ist, es
+scheint wirklich ein neuer Rekord zu sein im Sinne von die Meere sind wärmer insgesamt
+gesehen, als sie es je waren. Aber ich würde da jetzt nichts reinlesen, dass da irgendwas
+Spezielles passiert, außer dass der im Wettergeschehen immer vorhandene Zufall sich
+entschlossen hat, jetzt mal in eine besonders warme Richtung auszuschlagen, ist natürlich
+kein echter Zufall. Also wenn man präzise sein will, ist das, was Sie Chaos nennen, im
+mathematisch physikalischen Sinn. Aber das können wir so betrachten, als wenn es Zufall
+wäre und der Zufall führt uns mal, schlägt mal in die Einrichtung aus, mal in die andere.
+Und meine Erwartung ist das, dass wir da jetzt sehen einfach so eine zufällige, natürliche
+Schwankung ist.
+
+- Ulf
+
+Das heißt also, das ist tatsächlich so ein bisschen so die Aufgabe, auch für die
+Wissenschaft so zu differenzieren, quasi zwischen den extremen Ereignissen, die aber eben
+einfach noch quasi in dem Bereich liegen, der statistisch erwartbar ist als zufälliger
+Ausschlag. Und auf der anderen Seite den Effekten, die man eben nicht mehr durch Zufall
+erklären kann, sondern die tatsächlich auf einen Trend des Klimas hinweisen.
+
+- Jochem Marotzke
+
+Das ist ein essentieller Teil der Arbeit, die wir machen. Und auch der Gründungsdirektor
+meines Instituts, Klaus Hasselmann, hat vor zwei Jahren für genau diese Unterscheidung den
+Nobelpreis in Physik bekommen. Er hat die Konzepte entwickelt, die es uns überhaupt erst
+ermöglicht haben, zwischen diesen zufälligen Schwankungen und dem langfristigen
+menschengemachten Trend zu unterscheiden. Das ist also eine Kernaufgabe in der
+Klimawissenschaft zwischen Schwankungen und Trend zu unterscheiden und das eine von dem
+anderen auch klar zu machen.
+
+- Philip
+
+Aber ist denn wissenschaftlich belastbar, dass man sagt ja, ob dieses eine
+Extremereignisse jetzt durch den Klimawandel verursacht wurde, können wir nicht sagen. Was
+wir aber sagen können, ist: Wenn das so weitergeht mit der Erhitzung, werden Ereignisse
+wie diese häufiger und extremer.
+
+- Jochem Marotzke
+
+Wir können auf jeden Fall letzteres sagen. Das ist auch eine neue Unterausrichtung in der
+Klimaforschung. Begann vor ungefähr 15 Jahren, dass man sich angeschaut hat, wie
+wahrscheinlich sind bestimmte Ereignisse. Man könnte die diese Hitzewelle in Kanada nehmen
+und dass man sagt, gut, durch den menschengemachten Klimawandel ist es deutlich
+wahrscheinlicher geworden. Und das läuft dann darauf hinaus, dass man vielleicht sagt, Mit
+dem Einfluss des Menschen ist das ein Ereignis, das erwarten wir jetzt einmal in 20
+Jahren. Ohne den Einfluss des Menschen wäre das ein Ereignis gewesen, das erwarten wir
+einmal in 10.000 Jahren. Und dann sagt man Oh, vermutlich hat da doch der Mensch ganz
+schön mitgewirkt, dass das jetzt passieren kann. Das ist ein Zweig der der Klimaforschung
+für Temperatur Extreme, funktioniert das auch schon ziemlich zuverlässig. Bei
+Niederschlags extremen muss man vorsichtiger sein, weil unsere Modelle und man man so was
+geht nur mit Klimamodellen durchzuführen. Unsere Modelle sind noch längst nicht so gut,
+was extrem Niederschlag angeht. Das heißt, da muss man sehr viel vorsichtiger sein mit
+solchen Schlussfolgerungen.
+
+- Ulf
+
+Das heißt auf Deutsch: Das einzelne Extremereignisse muss noch nicht zwingend auf eine
+Klimaveränderung hinweisen, aber eine Häufung von Extremereignissen, die also statistisch
+nicht mehr zu erwarten wäre, die ist dann vielleicht doch ein Warnsignal.
+
+- Jochem Marotzke
+
+Das wäre eine Möglichkeit, wenn wir, wenn wir eine Aufeinanderfolge von Rekorden haben,
+dann sagt man irgendwas. Das ist ohne den Menschen, Effekt des Menschen hätte das eine so
+geringe Wahrscheinlichkeit. Das schließen wir aus, dass das passiert wäre.
+
+- Philip
+
+Das sind ja die Temperaturrekorde quasi der letzten zehn Jahre. Wir haben ja quasi ein
+Rekordjahr, was die Temperaturen angeht, gehabt nach dem anderen. Das kann natürlich auch
+ohne den Menschen passieren. Es ist nur extrem unwahrscheinlich.
+
+- Jochem Marotzke
+
+Das ist so unwahrscheinlich. Und das ist eine der eins der Indizien, die wir benutzt
+haben. Diese Aufeinanderfolge von Rekorden, ein anderer Beweis Linie, so nennen wir es
+schon mal, ist Wir schauen uns an, wie sich die Ozeane erwärmt haben. Jetzt nicht die
+Oberflächen, diese Erwärmung, die jetzt gerade diskutiert wird, aber langfristige
+Erwärmung des Ozeans über die letzten 20, 30, 40 Jahre, und wir sehen, dass der Ozean in
+den letzten Jahrzehnten eine gewaltige Wärmemenge gespeichert hat, und die muss irgendwo
+herkommen. Und die einzige vernünftige Erklärung ist der zusätzliche Treibhauseffekt. Also
+ich hatte vorhin ja erläutert, wie der funktioniert, dass Energie auf der Erde
+zurückgehalten wird, Wärme auf die Erde zurückgehalten. Die muss ja irgendwo hingehen und
+das meiste davon über 90 %, geht in den Ozean und erwärmt den Ozean. Und es gibt keine
+andere physikalische Erklärung für diese Energie Aufnahme des Ozeans als den zusätzlichen
+Treibhauseffekt. Das wäre also eine zweite Sache. Und die, die zeigen alle in dieselbe
+Richtung.
+
+- Philip
+
+Wo wir jetzt bei den Ozeanen sind. Oder willst du noch was genau machen? Also wo wir bei
+den Ozeanen sind. Vielleicht können Sie ja mal so ein bisschen erklären, welche Rolle die
+Ozeane spielen für das Klima und dann auch, welche Rolle diese gemessene Erwärmung der
+Ozeane spielt für das Klima. Wie ist das so die Mechanik, die groben Zusammenhänge?
+
+- Jochem Marotzke
+
+Zunächst mal ist es so, dass der Ozean uns einen gewaltigen Service leistet, uns, der
+Menschheit. Der Ozean nimmt nämlich zwei Sachen auf. Das eine ist, der Ozean nimmt CO2
+aufnimmt, ungefähr 1/4 des von Menschen emittierten CO2s auf. Und das bedeutet: Der Ozean
+dämpft den Klimawandel. Denn wäre der Ozean nicht da, wäre noch mehr CO2 in der
+Atmosphäre. Der Klimawandel würde schneller vorangehen. Der Ozean nimmt aber auch die
+Wärme auf. Das ist auch ein Puffer. Der Effekt ist Form von der Physik, ähnlich wie das,
+was wir kennen, wenn wir in einem maritimen Klima leben wie in Westeuropa, sind die
+Jahreszeiten nicht so ausgeprägt. Wenn wir in einem kontinentalen Klima leben wie in der
+Mitte von Sibirien, ist es extrem. Sommer sind sehr heiß, Winter sind extrem kalt und
+insofern puffert der Ozean noch mal ab. Also er dämpft die Erwärmung eine Zeit lang und er
+nimmt CO2 auf. Also insofern verlangsamt der Ozean die menschengemachte Klimaerwärmung,
+aber der Ozean zahlt auch einen Preis dafür. Durch das CO2 versauert der Ozean. Das greift
+dann wieder Lebewesen an, die im Ozean leben und der Ozean wird durch die Erwärmung
+dicker. Er dehnt sich aus und der Meeresspiegel steigt. Das heißt also, der Ozean liefert
+uns einen Service, aber er zahlt einen Preis dafür. Und wir dann letztlich auch. Denn der
+Meeresspiegelanstieg beeinträchtigt dann natürlich auch die Menschen, die an den Küsten
+leben.
+
+- Ulf
+
+Einer der Schwerpunkte Ihrer Forschung in den letzten Jahren und Jahrzehnten waren ja
+Meeresströmungen. Welchen Einfluss haben die denn eigentlich auf unser Klima in zum
+Beispiel Nordwesteuropa?
+
+- Jochem Marotzke
+
+Die Strömung im Atlantik wird gerne mal Golfstrom genannt. Sind wir und Meeresforscher ja
+nicht so ganz glücklich drüber, weil das System deutlich komplizierter ist als nur der
+Golfstrom. Aber die die Atlantikzirkulation möchte ich dann mal so nennen, führt
+ungewöhnlich viel Wärme nach Norden, ungewöhnlich viel mit anderen Regionen des Weltozeans
+verglichen etwa mit dem Nordpazifik. Um diese ungewöhnliche Menge an Wärme führt dazu,
+dass der Westen Europas 2 bis 3 Grad wärmer ist, als er es ohne diese Strömung wäre. Jetzt
+könnte man wieder sagen zwei, drei Grad klingt ja nicht so viel. Aber ich hatte vorhin das
+Beispiel der Eiszeit genannt. Es gibt noch ein anderes schönes Beispiel hier: die längste
+Temperatur Zeitreihe. Die längsten Temperaturmessungen mit Thermometer in Europa sind in
+Mittelengland gemacht worden und der kälteste Winter, der je gemessen worden ist, ist 2,7
+Grad kälter gewesen als ein normaler Winter. Das heißt also, die zwei drei Grad durch die
+Ozean Zirkulation entsprechen dem Unterschied zwischen einem normalen Winter und dem
+kältesten, den es je gegeben hat.
+
+- Ulf
+
+Der ja unter anderem auch zu Hungersnöten geführt hat. Das war so eine kurze Kälteperiode,
+die drastische Folgen hatte.
+
+- Jochem Marotzke
+
+Hungersnöte mit wirklich bösen bösen Folgen. Und das heißt also, die Atlantik Zirkulation
+schiebt wirklich die Bewohnbarkeit Europas deutlich nach Norden. Man kann also die
+Menschen haben sich also deutlich weiter nördlich angesiedelt, als es normalerweise der
+Fall wäre. Erkennt man daran unter anderem, wenn man sich im Westen Nordamerikas die
+Bevölkerungsdichte in ähnlichen Breiten anschaut wie Norwegen, dann stellt man fest: Da
+wohnt kaum noch einer. Aber hier in Westeuropa geht es und das ist zum ganz großen Teil
+wirklich auf den Einfluss der Meeresströmungen zurückzuführen.
+
+- Philip
+
+Jetzt gibt es ja in Romanen und auch in Zeitungsartikeln die Prognose: Der Golfstrom,
+nennen wir ihn mal so, der kommt zum Erliegen. Die größte Heizung der Welt hört auf, zu
+pumpen. Ist das ein reeles Szenario?
+
+- Jochem Marotzke
+
+Das ist ein denkbares Szenario. Und es ist während der letzten Eiszeit auch passiert, dass
+wirklich diese Zirkulation abrupt aufgehört hat. Das ist übrigens etwas ein Gebiet, mit
+dem ich mich seit fast 40 Jahren beschäftige. Ich fing 1985 mit meiner Doktorarbeit an und
+habe genau auf diesem Thema damals angefangen. Ich war der erste Deutsche, der sich damit
+beschäftigt hat. Faszinierendes Thema.
+
+- Ulf
+
+Sie haben sich beschäftigt mit dem mit dem Risiko, dass der sogenannte Golfstrom erlahmen
+könnte durch die Erderwärmung.
+
+- Jochem Marotzke
+
+Das ist also die Forschung, ist also schon sehr alt. Die allererste Arbeit dazu ist von
+1961, ist 25 Jahre ignoriert worden. Und dann fingen da ein paar Leute dazu an zu
+forschen. Und die Möglichkeit können wir nicht ausschließen. Das muss man wirklich ganz
+klar sagen. Dieses Potenzial besteht, dass es einen solchen Zusammenbruch auch wieder
+geben könnte. Wir denken heute, dass es eher unwahrscheinlich ist, dass es passiert. Aber
+wir sind nicht in der Lage, die Wahrscheinlichkeit zu quantifizieren. Wir können nicht
+sagen, wie unwahrscheinlich ist 1 %, 10 % ? Denn die Ungewissheit über das Funktionieren
+dieser Strömungen ist gewaltig. Es ist ist es eigentlich beschämend, dass wir so wenig
+darüber genau wissen. Wenn man das im letzten IPCC Bericht sich anschaut was was meine
+Kolleginnen und Kollegen dazu geschrieben haben, und zwar sehr fundiert geschrieben haben,
+muss man sagen: Wir wissen eigentlich sehr, sehr wenig darüber, was da passiert und was
+passieren könnte.
+
+- Philip
+
+Ich habe dazu noch eine Nachfrage, bevor dann zum nächsten Punkt kommen können. Also die
+Folgen kann man sich ausmalen. Wahrscheinlich wäre es in Nord und Mitteleuropa deutlich
+kälter, dass haben Sie, haben Sie geschildert. Was ich noch nicht verstehe ist, wie kann
+denn die Erderwärmung dazu beitragen, dass unter Umständen dieser sogenannte Golfstrom zum
+Erliegen kommt?
+
+- Jochem Marotzke
+
+Das ist eine sehr, sehr gute Frage und alles andere als simpel. Der Mechanismus wäre
+zunächst, dass durch die Erwärmung Eis schmilzt, Grönland Meereis schmilzt und das führt
+dann dazu, dass das Oberflächenwasser weniger salzhaltig ist, aber der Salzgehalt ein
+relativ hoher Salzgehalt ist das Entscheidende, was dazu führt, dass das Wasser in große
+Tiefen absinken kann. Und das zieht dann Wasser, Oberflächenwasser nach.
+
+- Philip
+
+Aus dem Süden.
+
+- Jochem Marotzke
+
+Aus dem Süden. Und das bringt dann die Wärme. Und im Pazifik, wenn man das als Vergleich
+heranzieht, da passiert dieses tiefe Absinken nicht. Und weil der Pazifik zu Salz arm ist
+an der Oberfläche. das ist der Teil, das ist der Teil, wo wir im Prinzip auch verstehen,
+woher das kommt, dass sich die Zirkulation abschwächen könnte. Aber jetzt kommt die
+wirklich ganz große Frage, und das ist die: Das Ganze würde ja vor dem Hintergrund der
+globalen Erwärmung stattfinden und damit wir wirklich eine katastrophale Abkühlung
+bekämen, müsste sozusagen dieses Abreißen der Strömung, dieses Stoppen des Wärmetransport
+müsste die globale Erwärmung überholen. Also diese relative Abkühlung müsste schneller und
+stärker passieren als die generelle globale Erwärmung, die wir haben. Und das ist doch ein
+recht unwahrscheinliches Szenario. Was vermutlich passieren wird, ist eher: Wir haben eine
+globale Erwärmung, es ist überall wärmer, aber im Atlantik Bereich erfolgt die Erwärmung
+nicht ganz so schnell und wird also eher ein bisschen gedämpft dadurch, dass der, dass die
+Zirkulation langsamer strömt. Das könnte man hier natürlich denken: ist dann ja alles gut,
+wenn die Zirkulation langsamer ist. Es ist doch eigentlich gut für uns. Aber es gibt dann
+so ein paar Phänomene und das ist eine Frage, die selten gestellt wurde, die mich aber
+persönlich durchaus fasziniert. Was ist mit den lokalen Strömungen vor der norwegischen
+Küste? Wir wissen, es sind diese lokalen Strömungen, die die norwegischen Häfen eisfrei
+halten im Winter. Und wenn die jetzt aber versiegen würden, ja, vielleicht hat man noch
+immer globale Erwärmung. Aber wenn die Norweger ihre Häfen nicht mehr eisfrei haben im
+Winter, dann haben die ein echtes Problem. Und also die, die Folgen von diesen, von diesen
+Änderungen sind zum Teil überhaupt nicht abzusehen, überhaupt nicht abzuschätzen.
+
+- Ulf
+
+Das heißt, es ist einfach ein wie soll ich sagen, es ist einfach letztlich ein Spiel mit
+extrem hohem Einsatz, wenn man nicht so richtig weiß, was dabei rauskommt. Das kann bis
+hin zu quasi paradoxen Effekten reichen, dass die Erde zwar global betrachtet wärmer wird,
+es aber dann lokal viel kälter wird. Zum Beispiel so, dass dann der Hafen von Narvik
+einfriert.
+
+- Jochem Marotzke
+
+Das kann passieren und das ist, glaube ich, auch die, die von uns, die sich lange mit
+diesem sehr komplexen System Klima beschäftigt haben, die dann auch sagen: Wenn wir
+ehrlich sind, gibt es doch vieles, was wir nicht verstehen. Und an etwas herumzudoktern,
+was man nicht versteht, das ist keine gute Idee. Wir wissen, dass es wärmer wird. Wir
+wissen, das war der Mensch. Aber wenn wir dann genauer reinzoomen und nachgucken, was
+würde denn hier passieren, dann können wir vieles einfach noch nicht sagen.
+
+- Ulf
+
+Wir haben gerade über hohe Risiken gesprochen. Was kann passieren? Wir können es gar nicht
+so ganz genau sagen. Wie soll ich sagen: Eine besondere Zuspitzung dieser Erderwärmung ist
+das vieldiskutierte Phänomen der sogenannten Kipppunkte. Es gibt ja die große Sorge, dass
+es bei dieser Erderwärmung, betrage sie nun 1,5 Grad, zwei Grad oder noch mehr. Und das
+ist bei dieser Erderwärmung irgendwann Punkte gibt, die quasi dazu führen, dass man hinter
+diese Punkte nicht mehr zurückkommen kann. Gibt es solche Kipppunkte tatsächlich? Und
+falls ja, welche sind das aus Ihrer Sicht?
+
+- Jochem Marotzke
+
+Es gibt sie und sie haben in der Vergangenheit auch schon mal überquert worden. Die
+dramatischsten liegen allerdings schon Hunderte von Millionen Jahren zurück. Zum Beispiel
+ist die Erde einmal komplett zugefroren. Wir nennen das Schneeball-Erde Zustand und dann
+ist die Erde auch wieder aufgetaut. Da hat die Erde einen solchen Kipppunkt durchlaufen.
+Das ist aber nicht das, was heute diskutiert wird. Heute sprechen wir eher über die Frage,
+ob etwa die Atlantikzirkulation abrupt kollabieren können.
+
+- Ulf
+
+Das wäre ein Beispiel.
+
+- Jochem Marotzke
+
+Das wäre ein Beispiel für einen Kipppunkt. Die Frage ist vielleicht und ich glaube, so im
+heutigen Klima der wahrscheinlichste Kipppunkt ist ganz klar das grönländische Eis, der
+grönländische Eisschild. Ich denke auch wenn der einmal schmilzt, dann kommt er auch erst
+mal nicht wieder. Also wir können uns ja vorstellen CO2 Konzentration geht hoch, Grönland
+schmilzt, irgendwann kommt die CO2 Konzentration auch wieder runter bis aufs heutige Maß.
+Dann wird der grönländische Eisschild nicht wiederkommen. Wir bräuchten eine neue, richtig
+große, dicke, fette Eiszeit, damit der dann wiederkommt. Also das wäre so ein Kipppunkt.
+
+- Ulf
+
+Der Hintergrund sind die Farben, nur vielleicht für die Hörerinnen und Hörer, die das
+nicht wissen. Also soweit ich das in Erinnerung habe, ist es so, dass der Fels Grönland so
+dunkel ist, dass er so viel Sonnenlicht aufnimmt, dass er einfach nicht wieder unter den
+Gefrierpunkt kommt.
+
+- Jochem Marotzke
+
+Ja, das ist ja der einen Effekt und der andere Effekt ist, wenn wir uns vorstellen, der
+Eisschild schmilzt an der Oberfläche, dann ist auf einmal die Oberfläche des Eises
+niedriger, in der Atmosphäre. Aber niedriger in der Atmosphäre ist es wärmer, das heißt
+der Schmelzprozess würde sich verstärken.
+
+- Philip
+
+Also diese Kipppunkt, die sind auch immer so dadurch gekennzeichnet, dass sie diesen
+Effekt selber beschleunigen. Also es fängt an zu schmelzen und dann schmilzt es immer
+schneller, weil es wird niedriger und die Farbe ändert sich. Und so weiter.
+
+- Jochem Marotzke
+
+Ganz genau. Es gibt immer so eine eine verstärkende Rückkopplung, die irgendwann die
+stabilisierenden Effekte überwiegt. Und dann auf einmal geht es dann rasant los.
+
+- Ulf
+
+Das heißt also einmal abgebaut, würden Sie damit rechnen, dass das Grönland Eis erst
+wiederkehrt in einer Eiszeit?
+
+- Philip
+
+Richtig. Das wäre das Problem daran.
+
+- Jochem Marotzke
+
+Der Meeresspiegel würde steigen. Grönland hat genug Eis für ungefähr 7 Meter
+Meeresspiegelanstieg. Allerdings würde das etliche Jahrhunderte dauern, bis es komplett
+geschmolzen ist. Etliche Hunderte von Jahren, vielleicht ein paar Tausende von Jahren. Das
+heißt, es ist vom Prozess her gesehen ein Kipppunkt. Es ist jetzt aber nichts, was uns,
+glaube ich, im täglichen Leben groß beunruhigen würde, denn es dauert doch ziemlich lange.
+Der Atlantik Zyklus haben wir erwähnt, vielleicht der berüchtigsten dieser Kipppunkte ist
+das Auftauen des Permafrostes. Was wir wissen, ist der Permafrost im Norden Sibiriens,
+Norden Kanadas hat sehr, sehr viel Kohlenstoff gelagert.
+
+- Philip
+
+Also das ist einfach gefrorener Boden, der nie auftaut bis zu einer Tiefe von weiß ich
+nicht, 1 Meter, 50 oder 2 Meter.
+
+- Jochem Marotzke
+
+Vielmehr. Hunderte von Metern, teilweise.
+
+- Philip
+
+Der Boden in Sibirien taut auf bis, weiß ich nicht, 1,5 Meter oder zwei und darunter
+beginnt dann der gefrorene Boden.
+
+- Jochem Marotzke
+
+Dauerfrostboden. Ja, teilweise taut auch gar nicht auf und in diesem gefrorenen Boden ist
+sehr viel Kohlenstoff gelagert, zum Teil in der Form von Methan. Methan ist auch ein
+wichtiges Treibhausgas pro Molekül, wirkmächtiger als Kohlendioxid, als CO2. Und dann ist
+dann eben dieses Bild: Der Permafrost taut auf, es kommt Methan, kommt CO2 raus, sind
+Treibhausgase, verstärken den Treibhauseffekt und schwupps gibt es dieses Bild der Methan
+Bombe und eine galoppierende Klima Instabilität. Und so weiter. Und dazu muss man sagen
+zwei Sachen. A) Ja, dieser Effekt ist da und es gibt überhaupt keinen Zweifel daran, dass
+Auftauen der Permafrost den Klimawandel verstärkt. Aber man muss sich anschauen, wie stark
+ist denn dieser Effekt? Und dann, das steht auch im letzten Sachstandsbericht des IPCC,
+das ist vielleicht ein 5 % Effekt. Es ist völlig ausgeschlossen, dass der Permafrost dazu
+führen kann, dass das Klima komplett weg galoppiert. Und der Grund, und das können wir
+auch wirklich mit Zahlen belegen liegt daran: Es gibt einen Effekt auf der Erde, der das
+ganze Klima im Gleichgewicht hält. Und das ist das ganz Schlichte: Wenn die Erde wärmer
+wird, strahlt sie mehr Energie in den Weltraum aus und mehr Energie, die die Erde
+verlässt, ist ja ein kühlende Effekt. Und dieser Effekt, der ist ungefähr 40 mal so stark,
+wie die verstärkende Wirkung des Permafrost ist. Das heißt der Auftauen, der Permafrost.
+Er macht, er verstärkt den Klimawandel aber nur ein kleines bisschen. Und man muss sich
+wirklich keine Sorge darüber machen, dass das Methan, was da rauskommt, irgendwas
+Gewaltiges mit dem Klima tun würde.
+
+- Philip
+
+Ist das Konsens in der Klimaforschung?
+
+- Jochem Marotzke
+
+Absolut. Das steht im letzten Sachstandsbericht des IPCC. Da sind diese Zahlen
+gegeneinander gestellt. Und ich habe hier in unserem Bericht, den wir in Hamburg im
+Februar vorgestellt haben, habe ich das noch mal extra nebeneinander gestellt, weil auch
+viele aus der Klimaforschung die, die nicht die unmittelbare, so diese theoretischen
+Sachen machen, sondern viele, auch Klimaforscher um mich herum völlig verblüfft, als sie
+das hörten. Aber in der Klimaforschung ist das völlig klar. Der Permafrost verstärkt, aber
+der Effekt ist nicht sonderlich stark.
+
+- Philip
+
+Und das heißt, wir sollten uns, darum müssen wir uns einfach nicht kümmern.
+
+- Jochem Marotzke
+
+Wenn ich verantwortlich wäre für die Bevölkerung, für die Wirtschaft im Permafrostgebiet,
+würde ich mir Sorgen machen, weil es, wenn die Sachen auftauen, Was ist mit der
+Infrastruktur? Die steht nicht mehr stabil, der Boden taut weg.
+
+- Philip
+
+Riesenlöcher und Krater und so.
+
+- Jochem Marotzke
+
+Es gibt eine Menge Gründe sich vor Ort Sorgen zu machen und Gedanken zu machen. Wie gehen
+wir damit um? Aber das globale Klima wird dadurch nicht aus den Fugen geraten.
+
+- Ulf
+
+Das finde ich einen ganz interessanten Satz, den Sie da gerade gesagt haben, denn Sie
+haben ja etwas allgemeiner formuliert, einen Effekt beschrieben, wonach diese Erderwärmung
+zugleich wieder zu einer gewissen, wie soll ich sagen, zu einer gewissen Dämpfung führt,
+weil einfach die wärmere Erde auch mehr Energie ins Weltall abstrahlt. Gilt das so
+generell? Also Sie haben das jetzt sehr fokussiert erst mal auf den Permafrostboden und
+den Effekt, den dessen Schmelze hätte. Aber gilt das so generell, dass man sagen kann,
+wenn die Erderwärmung an einem bestimmten Punkt angekommen ist, dann überwiegt dieser
+bremsende Effekt, diese Abstrahlung, die Erhitzung oder oder gibt es grundsätzlich da kein
+Ende der der Erwärmung?
+
+- Jochem Marotzke
+
+Es gilt generell für den für den gesamten Bereich, dem sich das heutige Klima befindet,
+gilt das immer und das galt auch im vorindustriellen Klima. Das gilt hier heute. Um in ein
+Regime zu kommen, wo das nicht mehr gilt, muss man sich so extreme Szenarien vorstellen,
+wie sie durch den Menschen nicht hervorgerufen werden können. Zum Beispiel, wenn wir die
+Geschichte der Venus uns anschauen. Die Venus war zu Beginn des Sonnensystems auch ein
+wasserreicher Planet, denken wir. Und sie durchlief das, was wir einen galoppierenden
+Treibhauseffekt nennen. Die Sonne ist in ihrer Ausstrahlung stärker geworden und es war
+mehr und mehr Wasserdampf in der Venus Atmosphäre. Und irgendwann wurde die Venus
+Atmosphäre so dicht, so undurchsichtig für langweilige Strahlung, dass dieser dämpfende
+Effekt auf einmal nicht mehr dominiert hat. Der dämpfende Effekt durch das Ausstrahlung in
+den Weltraum, und dieser zusätzliche Treibhauseffekt hat auf einmal dominiert. Dieser
+Effekt hat dazu geführt, dass Venus die Hölle ist, die sie heute ist. Das heißt, man kann
+sich durchaus planetare Klimata vorstellen, wo dieser Effekt nicht dominiert.
+
+- Philip
+
+Dieses Abkühlen ins All.
+
+- Jochem Marotzke
+
+Dieses Abkühlen ins All. Aber das sind extreme Bedingungen, und durch die werden wir durch
+menschliche Aktivitäten garantiert nicht.
+
+- Philip
+
+Also dieser dämpfende Effekt entsteht, weil Wärme auch ins Weltraum entweichen kann. Das
+dämpft die Erwärmung auf der Erde. Aber es verhindert nicht, dass die Erde sich insgesamt
+erwärmt durch menschengemachte CO2 Emissionen, die uns in komplizierte Situation bringen
+können. Es dämpft sie, aber es verhindert nicht, dass es so weit kommt.
+
+- Jochem Marotzke
+
+Das ist absolut richtig. Es dämpft sie, es dämpft das Ausmaß. Aber die Erwärmung passiert.
+Die Frage ist nur um wie viel erwärmt sich das?
+
+- Ulf
+
+Ich meine, Studierende von Ihnen forschen ja auch zu diesem Thema des galoppierenden
+Treibhauseffekts, des schlimmstenfalls sogar Venus Syndroms. Das erwarten Sie also
+tatsächlich nicht. Da sagten Sie das können wir Menschen durch CO2 Emissionen jedenfalls
+nicht erreicht.
+
+- Jochem Marotzke
+
+Das können wir nicht erreichen. Wir, wir haben es vor sechs, sieben Jahren haben wir das
+mal durchgerechnet für eine sehr idealisierte Konfiguration. Und die ist so weit weg von
+dem, wo die Erde sich heute befindet. Das können wir.
+
+- Ulf
+
+Wirklich. Aber wir haben ja auch so schon genügend negative Effekte des Klimawandels. Wir
+würden gerne mit Ihnen quasi mal versuchen, so ein bisschen positiv zu denken, nämlich
+Reden über negative Emissionen. Also CO2 wird in die Erdatmosphäre entlassen, führt zur
+Erwärmung. Aber vielleicht gibt es ja auch Möglichkeiten, dieses CO2 wieder
+rauszubekommen. Da gibt es ja zum einen den Gedanken des Carbon Capture and Storage, also
+auf Deutsch: man fängt CO2 ein und versucht es dann irgendwie in die Erde zu verpressen.
+Manche versuchen es auch mit Usualtaion, also der Nutzung des Kohlendioxids. Was halten
+Sie von solchen Ansätzen?
+
+- Jochem Marotzke
+
+Wir werden nicht darum herumkommen, solche Ansätze zu verfolgen. Und das haben uns auch
+die ökonomischen Rechnungen gezeigt, die wir selber nicht durchführen. Aber wie sie zum
+Beispiel Herr Edenhofer am Potsdamer Institut für Klimafolgenforschung durchführt. Und die
+Aussage ist ganz klar: Wenn wir Klimawandel zu halbwegs vernünftigen Kosten vermeiden
+wollen, müssen wir darangehen, auch Kohlendioxid abzufangen, zu verpressen. Wir müssen das
+ganze Portfolio ausnutzen. Wir sehen das unter anderem daran. Es gibt ja viele Szenarien,
+was denkbar ist, wie die Emissionen in Zukunft sich entwickeln können. Und es gibt einige
+Szenarien, die durchaus, sagen wir mal, mit nur zwei Grad Erderwärmung kompatibel wären.
+Alle diese Szenarien nehmen an, dass ab ungefähr 2030 im großen Maße CO2 aus der
+Atmosphäre entfernt wird. Also dieses CCS. Das kann am Anfang noch nicht die Emissionen
+aufwiegen, Aber man fängt in diesen, wenn man will, optimistischen Szenarien sehr bald
+damit an, CCS anzuwenden. Und würde man das nicht tun, das ist die Aussage dieser
+Szenarien, dann würden die Kosten enorm viel höher sein, als wenn man CCS betreibt.
+
+- Philip
+
+Das ist ja politisch gesehen so ein bisschen ein heikles Thema, weil die einen befürchten:
+Ja, ja, wenn wir jetzt hier viel darüber reden, wie wir CO2 aus der Atmosphäre ziehen
+können, dann könnte das die Ambitionen und den Druck mindern, CO2 insgesamt zu vermeiden.
+Aber wenn ich Sie richtig verstehe, muss man das eine tun, ohne das andere zu lassen. Man
+braucht einfach beides. Man muss CO2 vermeiden und man muss das, was da ist, rausholen.
+
+- Jochem Marotzke
+
+Es ist völlig richtig. Das ist das, was man eigentlich tun muss. Aber ich bin mir völlig
+im Klaren darüber, dass in bestimmten Kreisen die Möglichkeit von CCS so fehlinterpretiert
+wird als Na ja, dann können wir die Emissionen lassen.
+
+- Philip
+
+Weil wir können es ja rausholen, dann können wir auch welche rein pusten.
+
+- Jochem Marotzke
+
+Ganz genau. Und wenn ich mir die Präsidentschaft der nächsten COP der nächsten
+Klimakonferenz anschaue...
+
+- Philip
+
+Vereinigte Arabische Emirate.
+
+- Jochem Marotzke
+
+Da mache ich mir durchaus Sorgen, dass das eine gegen das andere ausgespielt wird. Und das
+ist natürlich jetzt ein politischer Prozess. Und im politischen Prozess kommen Sachen
+gerne unter die Räder, dass wenn ich sage, wir müssen beides tun. Es wird dann aber das
+eine als Ausrede dafür genommen, das andere nicht tun zu müssen, ist Standardverfahren im
+politischen Prozess. Von daher ist diese diese Frage, was passiert mit dieser Aussage, wir
+müssten CCS anwenden, ist durchaus heikel und das sehe ich sehr, sehr klar ein.
+
+- Philip
+
+Sie haben Ottmar Edenhofer angesprochen, Der hat dieses schöne Bild geprägt von einer
+globalen Müllabfuhr. Wir müssen uns einfach eine globale CO2 Müllabfuhr im industriellen
+Maßstab zulegen, um Klimaneutralität hinzukriegen. Und das haben Sie ja auch gesagt
+Industrieller Maßstab. Wie sieht so was aus?
+
+- Jochem Marotzke
+
+Ich bin natürlich kein Experte, was technische Lösungen angeht, aber zum Teil passiert das
+heute schon, dass zum Beispiel in leergepumpten Gasfeldern in der Nordsee, dass dort CO2
+wieder reingepumpt wird.
+
+- Philip
+
+Unsere Müllhalden.
+
+- Jochem Marotzke
+
+Ja. Das ist ja, das ist eine Möglichkeit. Da kommt natürlich auch so der andere Teil der
+Kritik hinein, dass es die Befürchtung gibt, es kommt ja wieder raus. Ich halte diese
+Befürchtung für für nicht so sehr schwerwiegend. Sie ist da und es ist ein politisches
+Hindernis. Aber wenn ein bisschen von dem CO2 wieder rauskommt, das halte ich jetzt für
+ein vertretbares Risiko.
+
+- Philip
+
+Solange der Großteil drin bleibt.
+
+- Jochem Marotzke
+
+Solange der Großteil drin bleibt. Und eine Sache: Man muss natürlich aufpassen, dass nie
+CO2 in hoher Konzentration dann in der Nähe auftritt. Darauf muss man schon achten.
+
+- Ulf
+
+Weil es natürlich einfach dann dazu führt, dass Lebewesen nicht mehr atmen.
+
+- Jochem Marotzke
+
+Also es ist ist es nicht so, als ob das risikofrei sei, keine Frage. Aber manchmal denke
+ich, dass vielleicht beim Verklappen von CO2 das Bild auftaucht, es sei analog zum
+Atommüll. Und da beim Atommüll, ist das Risiko wirklich ungleich größer. Und ich gehe
+davon aus, CO2 in den Boden zu erpressen. Das Risiko ist beherrschbar. Das wird man
+hinbekommen.
+
+- Ulf
+
+Zumal es ja ganz interessante großtechnische Versuche jetzt schon gibt. Ich glaube, am
+Karlsruher Institut für Technologie ist es quasi bei Carbon Capture noch einen Schritt
+weiterzugehen. Bislang versucht man immer, das Kohlenstoffdioxid aus der Luft zu entfernen
+und dann zu verpressen. Und die Forschenden dort gehen noch einen Schritt weiter und
+reduzieren das Kohlenstoffdioxid quasi zurück zu Kohlenstoff. Dann fällt dann einfach
+Kohlenstaub raus aus der Maschine und den kann man natürlich völlig problemlos
+beispielsweise in alten Bergwerken verklappen, denn Kohlenstoff ist ja als solches völlig
+ungefährlich, solange eben nicht als Kohlenstoffdioxid die Atmosphäre aufheizt.
+
+- Jochem Marotzke
+
+Ja, ich glaube, es ist auch wichtig, das Kohlendioxid zu nutzen. Es wird ja teilweise auch
+überlegt, dass es als Rohstoff genutzt werden kann und das wäre noch so eine andere
+Richtung. Und ich denke, dass all diese Verfahren untersucht werden müssen. Sie hängen
+alle daran, dass der Energieaufwand relativ groß ist. Das heißt, funktionieren wird das
+nur, wenn wir vor allem durch Fotovoltaik, aber auch durch Windkraft wirklich sehr viel
+mehr elektrische Energie zur Verfügung haben werden, als wir es heute haben.
+
+- Philip
+
+eFuels wäre so ein Beispiel, das man aus dem CO2 eben mit Strom eFuels herstellt.
+
+- Jochem Marotzke
+
+Das wäre noch eine Möglichkeit, extrem Energie aufwendig. Die Abschätzungen, die ich kenne
+einen Faktor sechs aufwendiger als der Stromverbrauch. Aber für manche Sachen braucht man
+sie, für den Flugverkehr braucht man sie wohl. Es wäre meiner Meinung nach keine gute
+Idee, damit Autos zu betreiben. Aber Flugverkehr, so was, das sei wichtiger. Insofern: Es
+hängt sehr viel von diesen Ideen und von diesen neuen Möglichkeiten hängt davon ab, dass
+wir günstig leicht Strom erzeugen können aus Erneuerbaren da, da hängt alles dran.
+
+- Ulf
+
+Deswegen es gibt nicht zu viel Windräder, wenn man ehrlich ist.
+
+- Jochem Marotzke
+
+Nicht für den Klimaschutz.
+
+- Ulf
+
+Ich würde mit Ihnen noch einen ganz kurzen Ausflug unternehmen. Vielleicht doch in die
+Welt der Science Fiction. Oder vielleicht ist doch was dran. Da muss ich gestehen, das
+kann ich selber nicht einschätzen. Aber da würde mich Ihre Perspektive sehr interessieren.
+Nämlich wir nennen es mal alternative Ansätze, die Erde zu kühlen. Also Hintergrund ist
+zum Beispiel die aktuellen Modelle, wie es denn eigentlich zum Aussterben der Dinosaurier
+gekommen ist, ging ja dahin, dass es einen Meteoriteneinschlag gab auf der Erde,
+vermutlich etwa so Richtung Golf von Mexiko. Und dieser Asteroideneinschlag soll einfach
+zu Schwefelsäure Wolken geführt haben, die dann die Erde gleichsam isoliert haben und zu
+so einer Art Eiszeit geführt haben. Man weiß nicht genau, wie lange die dauerte. Paar 100
+Jahre, paar 1000 Jahre. Aber dadurch jedenfalls sei die Temperatur auf der Erde massiv
+gesunken. Das heißt also, es gibt so eine Art Experiment in Anführungsstrichen, vor rund
+65 Millionen Jahren die Erde drastisch abzukühlen, dadurch, dass man bestimmte Stoffe in
+die Atmosphäre entlässt. Sehen Sie da vielversprechende Ansätze, die Erde quasi künstlich
+zu kühlen, indem man beispielsweise Schwefelsäurewolken oder was immer das sein mag, was
+vielleicht vielleicht lieber was nicht ganz so Ätzendes in die Atmosphäre entlässt, um die
+Erde dadurch runter zu kühlen. Es reichen ja schon zwei drei Grad weniger.
+
+- Philip
+
+Technischer Klimaschutz ist das Stichwort.
+
+- Jochem Marotzke
+
+Ja, es gibt natürlich diese Überlegungen. Ich bin sehr, sehr skeptisch und vielleicht auch
+im Gegensatz zum Abfangen von CO2. Das hat den großen Vorteil, dass das Problem noch
+ziemlich nah an der Wurzel angeht, nämlich die CO2 Konzentration entweder zu verringern
+oder damit oder dazu zu führen, dass sie nicht steigt. Wenn ich die Sonneneinstrahlung
+reduzieren will und Vulkane machen uns ja auch vor, wie es im Prinzip geht, dann habe ich
+eine Reihe von Problemen. Das eine ist, die Effektivität ist noch immer nicht geklärt. Wir
+haben das in Modellen durchgerechnet, aber wir wissen auch, dass wir, was diese Elemente
+angeht, den Modellen selber nur sehr mäßig trauen. Also ob die wirklich die Effektivität
+haben, ist das eine Problem. Das zweite Problem ist, wir sind ziemlich sicher, dass wir
+nicht gleichzeitig Temperatur und Niederschlagsmuster auf das, wenn man will
+vorindustrielle Niveau zurückfahren können. Wir verstehen sowieso schlecht, wie sich
+Niederschlag verändert. Und ich sehe beim großflächigen Einsatz von Aerosolen, wie die
+Stoffe heißen in der Stratosphäre der oberen Atmosphäre sehe ich ein gravierendes
+politisches Problem. Es scheint so zu sein, als ob reiche, mächtige Staaten unilateral so
+was durchführen können. Und wenn ich mir so durch spiele: die USA, nehmen wir das
+mächtigste Land der Welt, macht das und es verschieben sich Niederschlagsmuster etwa in
+Russland oder in der Ukraine, so dass da, wo früher extrem viel Getreide wuchs, jetzt zu
+wenig ist und die Ernte zurückgeht. Dann kann ich nicht anders, als zu erwarten, dass so
+etwas zu einem massiven politischen Konflikt führt. Und wir wissen, glaube ich, alle durch
+Unterlassen etwas nicht zu tun. Dann mag mir auch schon jemand Böses sein. Und Mag mich
+heftig kritisieren, aber etwas aktiv zu machen und dann möglicherweise was anderes
+verursacht zu haben, das wird vermutlich eine viel handfestere politische Antwort
+erfahren, als einfach etwas nicht zu tun. Und von daher fürchte ich, dass wenn wenn diese
+Art von technischem Klimaschutz betrieben wird, dass es zu politischen Verwerfungen kommen
+wird, die möglicherweise in den Schatten stellen, was durch den Klimawandel selbst an
+politischen Verwerfungen passiert.
+
+- Philip
+
+So wie ich Sie vorhin verstanden habe, ist es aber auch so, dass selbst bei dem Stand der
+Wissenschaft heute der, der groß vorangeschritten ist, im Vergleich zu früher aber noch so
+viele Fragen offen sind und so relativ wenig noch verstanden ist wie diese, Sie haben es
+vorhin am Beispiel der Ozean Strömung geschildert, wie diese Systeme genau wie reagieren
+und ich ändere hier was. Und die Prognose zu sagen, wo ändert sich denn jetzt genau wie
+was mit Wolken und Niederschlag und Temperatur ist heute so schwierig, dass es fast nicht
+seriös vorhersagbar ist, wie sich Aerosole in der Stratosphäre auswirken werden? Genau.
+
+- Jochem Marotzke
+
+Dem würde ich zustimmen. Und dann würde ich auch wenn es dann wieder in den politischen
+Bereich geht, um Klimaschutz zu betreiben, aus der Sicht von Politikerinnen und
+Politikern. Man muss der Bevölkerung ja ein Stück weit was zumuten. Wiederum zeigt die
+heutige Diskussion in Deutschland und man, man hat nur ein bestimmtes Budget an
+Zumutungen, ein bestimmtes politisches Kapital. Und dann wäre meine klare Empfehlung,
+statt mein Kapital für diese Klimaklempnerei auszugeben, doch sehr viel, sehr viel
+vernünftiger Kapital für die Emissionsreduktion auszugeben. Dann wissen wir doch, dass wir
+auf der sicheren Seite sind.
+
+- Ulf
+
+Ja, da sind wir doch jetzt an einem Punkt, wo wir uns in unser Pad zur Vorbereitung
+geschrieben haben Good News.
+
+- Philip
+
+Ein paar dunkle, dunkle Aspekte an diesem Thema.
+
+- Ulf
+
+Das kann man nicht anders sagen. Aber wir wollten Sie fragen: Was macht Ihnen denn
+eigentlich Hoffnung, dass wir als Menschheit es schaffen können, zumindest den Klimawandel
+zu bremsen und vielleicht irgendwo aufzuhören? Sie haben ja schon gesagt, das 1,5 Grad
+Ziel sehen Sie nicht. Nicht, weil wir das technisch nicht könnten, sondern weil wir es
+einfach politisch nicht schaffen. Aber was sind denn so Aspekte, wo Sie sagen Das sieht
+doch gut aus, da geht es in die richtige Richtung?
+
+- Jochem Marotzke
+
+Was mir Hoffnung macht, ist zum einen, dass politisch enorm viel passiert ist. Das werden
+viele Menschen bestreiten. Gerade junge Menschen sind unzufrieden. Das verstehe ich auch.
+Aber wenn ich mir die politische Welt vor 25 Jahren anschauen und heute. Wenn mir vor 25
+Jahren jemand gesagt hätte, der Klimawandel wird ein Mainstream politisches Thema, wäre
+man ausgelacht worden. Ist aber heute eins. Es ist keine rein, kein reines Umweltthema
+mehr. Wir sehen das. Wir haben in Deutschland in Bundesministerium für Wirtschaft und
+Klimaschutz. Wäre auch vor 20 Jahren undenkbar gewesen. Das heißt, es hat sich politisch
+enorm viel bewegt. Und deswegen glaube ich auch, dass wir demnächst auch den Höhepunkt der
+Emissionen erreicht haben werden. Nicht früh genug für das 1,5 Grad Ziel, aber doch das
+heißt erreichen werden. Also politisch hat sich viel bewegt und wir haben ja auch ein paar
+Indikatoren. Steht auch im letzten Sachstandsbericht des IPCC. Wenn man sich den Preis für
+Photovoltaik, also durch elektrischen Strom, durch Photovoltaik erzeugt, der ist auf eine
+Weise gefallen, wie es die größten Optimisten nicht vorhergesagt haben. Der heutige Preis
+für Strom aus Photovoltaik liegt unter dem, was die optimistische Prognose fürs Jahr 2030
+war. Das heißt, der Preisverfall ist so dramatisch und das ist was Gutes hier.
+Preisverfall, Photovoltaik Strom ist billig geworden.
+
+- Ulf
+
+Das Gleiche gilt ja auch für Windkraft.
+
+- Jochem Marotzke
+
+Windkraft ist nicht ganz so dramatisch runtergegangen. Aber gilt auch Das heißt, wir
+sehen, dass der Einsatz von diesen erneuerbaren Energien wirklich so rasant billiger
+geworden ist. Uns hat man ja vorhin schon festgehalten: Billigen Strom aus Erneuerbaren
+brauchen wir für alles. Und das ist also etwas, wo, wo wir wirklich auf einem guten Wege
+sind, denke ich. Und es gibt noch etwas, das ist nicht so leicht festzumachen, aber ich
+merke das auch in den Gesprächen über den Klimawandel, vielleicht nach Vorträgen, dass ich
+jetzt immer häufiger höre, es gibt kleine Unternehmen, es gibt Start ups, die, die
+beschäftigen sich mit diesen und die probieren dies aus, die probieren das aus. Also es
+herrscht da schon eine gewisse Aufbruchsstimmung, Sachen auszuprobieren und es geht nicht
+in Richtung: So, jetzt dürft ihr nicht mehr, jetzt müsst ihr verzichten. Und so weiter,
+sondern die Menschen sehen Gelegenheiten. Hier bietet sich etwas Neues auszuprobieren. Und
+das erhöht einerseits die Lebensqualität, habe ich das Gefühl. Und andererseits schützt es
+auch das Klima. Und diese Kombination, die scheint sich wirklich auszubreiten. Und das
+sind solche, solche Gespräche und solche Effekte, auch solche Beobachtungen im Strompreis,
+weswegen ich denke, ja, wir sind auf dem richtigen Weg, auch wenn ich sehr genau weiß, es
+ist eigentlich alles viel zu langsam.
+
+- Philip
+
+Ich habe immer noch so, wenn ich mir so Gedanken mache, was denn so Hoffnung verbreiten
+könnte. Habe immer noch so das Bild vor Augen, dass wir jetzt fast 150 Jahre mit so einem
+dicken, fetten Öltanker in einer Richtung gefahren sind. Und wir sind jetzt dabei, das
+Ruder umzulegen und wir müssen diesen Tanker auf einen neuen Kurs bringen und das ist mit
+sehr viel Reibungshitze, Energiekosten, mit sehr viel Bruch von Konventionen,
+Gewohnheiten, etablierten Strukturen auch in der Wirtschaft vor allen Dingen verbunden, wo
+ganz viel Geld verdient wird mit A) und nun soll Geld verdient werden mit B) und wir
+müssen diesen Tanker umlenken. Mein Gedanke ist aber, da würde mich interessieren, was Sie
+dazu sagen. Wenn das einmal geschafft ist, wenn die Interessen und die Anreize so
+eingestellt sind, dass es einen hohen CO2 Preis gibt, dass die Industrie sich darauf
+eingestellt hat, dass damit Geld verdient wird, dass die Interessen der
+marktwirtschaftlich agierenden Unternehmen so eingestellt sind, dass sie mit dem
+Klimaschutz quasi in Deckung sind, dass dann auch Kräfte entstehen, Ökonomische Kräfte
+durch die Marktwirtschaft, die wir heute vielleicht unterschätzen. Kann das sein?
+
+- Jochem Marotzke
+
+Dem stimme ich zu. Und das ist auch meine Hoffnung. Es gibt, wenn man will, das Gegenbild
+nämlich Sie hatten ja vorhin schon die globale Müllhalde erwähnt, und solange es umsonst
+ist, globale Müllhalde zumüllen wird, wird nichts passieren. Dann sagt jeder: Warum soll
+ich mich zurückhalten, wenn mein Nachbar die Müllhalde freigiebig auffüllt? Aber dafür,
+dass internationale Abkommen das Pariser Abkommen wichtig ist, wäre auch wichtig, dass es
+global einen Preis fürs Zumüllen gibt, was der schwer zu erreichen schwer durchzusetzen
+ist. Aber ich glaube auch, das Gelingen wird das nur, wenn sozusagen vor diesem
+Hintergrund sich Gelegenheiten auftun und erkannt werden, genau in der Art, wie Sie das
+sagten, dass jemand sagt: Oh, hier kann ich, Auf diese Weise kann ich heute Nutzen ziehen.
+Entweder es geht mir besser, die Luft wird besser oder ich habe eine neue
+Verdienstmöglichkeit. Neue Wirtschaftszweig tut sich auf. Und außerdem schützt das das
+Klima. Dann wird auf mal werden dann auch andere sagen sagen: Oh, der hat sich auf Klima
+Klimaschützer eingestellt und dem geht es gut dabei.
+
+- Philip
+
+Der verdient Geld. Interessant.
+
+- Jochem Marotzke
+
+Das will ich auch. Also ich glaube das ist, das ist das Bild. Und irgendwie ich gebe auch
+die Hoffnung nicht auf, dass es dazu wirklich kommen wird. Ich glaube auch so, so muss es
+kommen, denn nur mit Verzicht - Du darfst dies nicht, du darfst das nicht - halte ich es
+für ausgeschlossen, dass wir das Klima wirksam schützen.
+
+- Ulf
+
+Also es muss quasi eine positive Erzählung geben. Da würde mich zum Abschluss noch mal
+Ihre Perspektive tatsächlich auf die globale Entwicklung interessieren. Also eins der
+klassischen Argumente der, ich sage mal Klimaschutz bremsenden in Deutschland ist: Liebe
+Leute, wir machen in Deutschland 2 % der globalen CO2 Emissionen aus. Die anderen, die
+hauen weiter auf die Sahne und erwärmen die Erde, als gäbe es kein Morgen im wahrsten
+Sinne des Wortes. Nun haben Sie mitgeschrieben an diesem IPCC Bericht. Stimmt das denn
+überhaupt, dass wir in Deutschland quasi die einzigen sind auf der ganzen Welt, die sich
+um CO2 Reduktionen kümmern? Was ist da Ihre Perspektive? Wie ist das in anderen Ländern
+auf der Welt?
+
+- Jochem Marotzke
+
+Stimmt natürlich, dass Deutschland für ungefähr 2 % der CO2 Emissionen verantwortlich ist,
+andererseits Deutschland ein mächtiger Mitspieler in der Europäischen Gemeinschaft. Die EU
+liegt schon bei etwas über 20 %. Die EU ist nicht mehr klein. Und es stimmt nicht, dass
+Deutschland das einzige Land ist. Im Gegenteil: Verglichen mit anderen Ländern und den
+skandinavischen Ländern, aber auch Großbritannien ist Deutschland der Emissionsreduktion
+ziemlich hinterher. Deutschland ist nicht mehr Avantgarde. Deutschland war mal Avantgarde
+im Erneuerbare Energien Gesetz. Dass also, wer ein Windrad im Garten hatte, dafür Geld
+bekam und dass das sicher war, das ist.
+
+- Ulf
+
+15 Jahren her oder.
+
+- Jochem Marotzke
+
+Noch länger, deutlich länger über 20 Jahre. Das war eine Pioniertat von Deutschland, die
+auch in vielen anderen Ländern kopiert wurde. Heute ist Deutschland im Klimaschutz kein
+Pionier mehr. Deutschland bremst eher, könnte aber sehr viel mehr tun. Insofern Es
+passiert was. Und hier kommt aber auch bei der Frage, was passiert global? Da ist
+natürlich schon richtig, solange China seine Emissionen steigert, kann es sozusagen alle
+anderen erdrücken und auch alle anderen Emissionsminderungen zunichtemachen. Ist überhaupt
+keine Frage. Aber es passieren schon paar Sachen. China investiert enorm viel, auch in
+Erneuerbare. China investiert auch in Kohlekraftwerke. Aber auch in Erneuerbare. Und ich
+denke, da kommt vielleicht dann doch in dem Fall der Neidfaktor wieder rein, dass, wenn
+ein Land zeigt auch eins wie Deutschland, das mit Bodenschätzen nicht reichhaltig gesegnet
+ist, auch mit Fläche nicht. Wir müssten das im Verbund mit europäischen Nachbarn machen,
+mit Spanien, was Photovoltaik angeht. Aber wenn dann andere Länder und vielleicht auch
+China sieht, boah, den geht es aber gut damit, dann denke ich, besteht auch eine Chance,
+dass vielleicht auch China sich dann noch mal extra beeilt. Aber es ist schon klar, man,
+man muss es global sehen. Also man ist, es darf nicht sein. Deutschland darf nicht rein
+nationalstaatliche Lösungen verfolgen. Das kann nicht funktionieren. Und man darf sich
+auch nicht der Illusion hingeben, dass wenn wir wie in Deutschland, die alleine die
+Emissionen oder in der EU die Emissionen runterfahren nein, das reicht noch nicht. Es
+wartet noch immer dieser andere dicke Brocken. Auch im Verbund. Ja, vielleicht dadurch zu
+zeigen, es geht uns gut dabei, dass andere Länder das nachmachen wollen.
+
+- Ulf
+
+Klimaschutz nicht nur durch CO2 Reduktion, nein, sondern auch Klimaschutz durch Leuchtturm
+Wirkung, durch Vorbildfunktion. Ganz herzlichen Dank. Das war im Gespräch mit der Lage der
+Nation Professor Dr. Jochem Marotzke. Er ist Direktor des Max-Planckö-Instituts für
+Meteorologie in Hamburg. Ganz herzlichen Dank für unser Gespräch.
+
+- Jochem Marotzke
+
+Ich danke Ihnen.
+
+- Philip
+
+Und wir danken euch fürs Zuhören. Das war eine weitere Ausgabe unserer
+Sommerinterviews 2023. Ein bisschen ist noch Sommerpause. Ich hoffe, ihr könnt die
+genießen. Wir genießen die jedenfalls auch und freuen uns, euch dann in einigen Wochen
+Ende August wieder zu hören.
+
+- Ulf
+
+Und wenn ihr mögt, sehen wir uns live am 19. Oktober in Frankfurt am Main. Tickets unter
+Lage.live.
+
+- Philip
+
+Bis dahin alles Gute und bleibt gesund. Bis dann.
+
+- Ulf
+
+Bis dahin.
