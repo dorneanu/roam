@@ -4,6 +4,8 @@
 #+title: rss
 
 * Resources
+- 2023-09-04 ◦ [[https://xrss.infogulch.com/][XRss]]
+- 2023-09-04 ◦ [[https://rssfeedasap.com/][RSS Feed Extractor - Get an RSS feed of almost anything]]
 - 2023-07-17 ◦ [[https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge][RSS-Bridge (c)]]
 - 2023-07-10 ◦ [[https://github.com/midzer/sitemap2feed][GitHub - midzer/sitemap2feed: Convert an online sitemap to Atom, RSS and JSON feeds]]
 - 2023-01-02 ◦ [[https://www.rssbrain.com/][RSS Brain - A Modern RSS Reader]]
