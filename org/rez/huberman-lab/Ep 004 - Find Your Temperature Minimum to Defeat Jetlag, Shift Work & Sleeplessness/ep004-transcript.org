@@ -1,0 +1,1771 @@
+*Find Your Temperature Minimum to Defeat Jetlag, Shift Work & Sleeplessness | Huberman Lab Podcast #4*
+
+[[https://www.youtube.com/watch?v=NAATB55oxeQ][*https://www.youtube.com/watch?v=NAATB55oxeQ*]]
+
+
+* (00:00:00) Introduction
+:PROPERTIES:
+:CUSTOM_ID: introduction
+:END:
+Welcome to the Huberman Lab Podcast where we discuss science, and
+science-based tools for everyday life. [bright music] - I'm Andrew
+Huberman, and I'm a professor of neurobiology and ophthalmology, at
+Stanford School of Medicine. This podcast is separate from my teaching
+and research roles at Stanford. It is however, part of my desire to
+bring you zero cost to consumer information about science and
+science-related tools to the general public. Along those lines, I want
+to thank today's sponsors of the podcast.
+
+The first sponsor is Athletic Greens. Athletic Greens is a product that
+I've been using since 2012, long before I launched this podcast. So I'm
+delighted that they're sponsoring the podcast. Athletic Greens is an
+all-in-one vitamin, mineral probiotic supplement. It's a greens drink
+that you mix with water, I add lemon juice to mine because I like the
+way it tastes and it gets you all the vitamins and minerals you need as
+well as probiotics, and probiotics are important to me because there are
+a lot of data now showing that gut health is important for the gut brain
+access, things like mood, immunity, etc. If you want to try Athletic
+Greens, you can go to athleticgreens.com/huberman and if you do that,
+they'll send you a year supply of liquid vitamin D3 and K2. Vitamin D3,
+as many of you probably already know, it has been shown to be important
+for various aspects of immune system function, as well as other
+biological pathways, metabolic function, etc. So once again, if you want
+to try Athletic Greens, you go to athleticgreens.com/huberman and they
+will send you a year supply of the D3 K2.
+
+This podcast is also brought to us by Headspace. Headspace is a
+meditation app that makes meditation easy. I've been meditating on and
+off since I was in my teens with more off than on, mainly because
+meditation can be hard to stick to. Some people are very good at
+maintaining a meditation practice, others not so much, I'm in the latter
+category. However, I find that when I have something to guide my
+meditation such as Headspace, it makes it much easier for me to be
+consistent about my meditation practice. There is now tons of data out
+there in quality peer review journals, showing that meditative states
+can facilitate cognition, recovery of mental function, recovery of
+physical ability, etc. So there are a lot of reasons to take up a
+meditation practice. Headspace and the Headspace app makes it easy to
+learn and maintain a meditation practice. If you want to try Headspace,
+you can go to headspace.com/specialoffer. And if you do that, they will
+let you try Headspace for an entire month for free. So zero risk there,
+that's headspace.com/specialoffer to try Headspace, the meditation app,
+for one month for free.
+
+Today's podcast episode is about sleep and wakefulness. We are going to
+discuss jet lag, shift work, babies, kids and the elderly, and we are
+going to discuss protocols that are backed by science. That means
+quality peer reviewed papers published in excellent journals that can
+support particular tools that you can use to combat things like jet lag,
+offset some of the negative effects of shift work and make life easier
+for the new parent as well as for the newborn child, the adolescent,
+anyone that wants to sleep better, feel better when they're awake, etc.
+If you've listened to the previous three episodes of the Huberman Lab
+Podcast, we've been exploring these themes of wakefulness and
+sleepiness, how to fall asleep, how to stay asleep. And we've been
+discussing parameters like light, exercise, temperature, etc. If you've
+had a chance to listen to those episodes, great. Today's discussion will
+be even more digestible for you. If you haven't, that's okay. I will
+provide a little bit of background here or there so that it's not
+necessary that you have listened to those previous episodes. But if you
+get a chance to listen to them, please do it, I think it will help you
+digest the information better.
+
+* (00:04:15) The bedrock of sleep-rest cycles
+:POPERTIES:
+:CSTOM_ID: the-bedrock-of-sleep-rest-cycles
+:ED:
+Le's just take a step back for a moment and remind everybody what we're
+taking about. We're talking about an endogenous, meaning within us,
+rhthm that we call the circadian rhythm. The circadian rhythm is a 24
+hor rhythm in all sorts of functions. The most prominent one is a
+rhthm in our feelings of wakefulness and sleepiness. So believe it or
+no, the experiment has been done throughout history, not often, but
+its been done where people would go down into a cave and will exist in
+costant darkness for some period of time. There are also cases where
+peple have been in constant light for some period of time. But because
+peple can close their eyes, it's actually easier to do the experiment
+whre you're in constant darkness to address the question of what is the
+enogenous, meaning, the internal rhythm that we all have. And it turns
+ou we all have this rhythm of about 24 hours, although it's not exactly
+24hours. Meaning, every 24 hours your body temperature goes from low to
+hih and back down to low again. And it takes 24 hours for that to
+reeat. Not 18, not six, 24 plus or minus a couple hours. You also have
+a hythm in sleepiness and wakefulness that correlates with that. We
+ted to be sleepy as our temperature is falling, getting lower, and we
+ted to be more awake or waking when our temperature is increasing. This
+isa biological fact. It is right down to our DNA. We actually have
+gees in every single one of our cells that ensure that every cell is on
+ths 24 hour-ish rhythm, close to 24 hours. We have a clock over the
+rof of our mouth, a group of neurons called the suprachiasmatic
+nuleus. That clock generates a 24 hour rhythm. And that clock is
+intrained, meaning it is matched, to the external light-dark cycle,
+whch is no surprise, 24 hours. Spinning of the earth takes 24 hours.
+So our cells, our organs, our wakefulness, our temperature, but also
+ou metabolism, our immune system, our mood, all of that is tethered to
+th outside light-dark cycle. And if we are living our life in a perfect
+wa, where we wake up in the morning, and we view sunlight as it crosses
+th horizon, and then by evening, we catch a little sunlight and then at
+niht we're in complete darkness, we will be more or less perfectly
+mached to the external or ambient light-dark cycle. Very few of us do
+tht because of these things that we call artificial lights, and this
+oter thing that we call life demands. So today we're going to talk
+abut when we get pulled away from that rhythm.
+
+* (00:07:05) Night owls and morning larks
+:POPERTIES:
+:CSTOM_ID: night-owls-and-morning-larks
+:ED:
+No you may immediately be thinking, well, I've heard there are night
+ows and there are mornings larks, they're sometimes called and their
+geetic polymorphisms, that's just a fancy name for genetic variations
+tht make some people want to wake up early and other people want to
+sty up late and teens want to sleep in more. Sure, that's all true.
+Tht's all true regardless of what names we give those. However, there's
+noescaping the fact that human beings are a diurnal species. We were
+deigned, literally, our cells and the circuits of our body were
+costructed to be awake during the daytime and asleep at night. How do I
+knw that? Well, I wasn't consulted at the design phase, but I'm certain
+ofthat because many studies have shown that when we deviate too far
+frm a diurnal schedule and we try and become nocturnal, we can pull it
+of, but serious health effects, both mental and physical, start to
+arse. I'm not going to spend much of today talking about all the
+neative effects of jet lag I'll talk a little bit about it, or the
+neative effects of shift work, or trying to scare you by telling you
+abut the quite valid data around depression, amnesia, dementia, all the
+terible things that happen when you're not sleeping well, rather I'd
+lie to focus on what you can do and arm you with tools.
+
+* (00:08:22) "The perfect schedule"
+:POPERTIES:
+:CSTOM_ID: the-perfect-schedule
+:ED:
+Solet's talk about that perfect schedule for a moment. And then let's
+tak about jet lag and what jet lag really represents and how to push
+bak on jet lag, shift your clock faster, and escape some of the severe
+ba things that can happen with jet lag. Including just feeling
+mierable when you're traveling for work or vacation. So what is the
+pefect day? What does that look like from our circadian
+slep-wakefulness standpoint? I'm about to summarize what I've said in
+th three previous podcast episodes, as well as now countless Instagram
+pots. Here's the deal. You basically want to get as much light, ideally
+sulight, but as much light into your eyes during the period of each 24
+hor cycle when you want to be awake, when you want to be alert. And you
+wat to get as little light into your eyes at the times of that 24 hour
+cyle when you want to be asleep or drowsy and falling asleep. How much
+isenough? Well, you don't want to go so high with the light exposure
+tht you damage your eyes because as many of you have heard me say
+beore, the eyes are actually two pieces of your brain, your central
+nevous system that were extruded out of your skull. And as pieces of
+th central nervous system, aka your brain, they will not regenerate. At
+lest right now, the technologies don't exist to regenerate those
+nerons in humans you do not want to damage them. So what is too bright?
+Wel, when it's painful to look at. When you have to blink or close your
+eys in order to bear it. So please don't look at very bright lights, so
+panful that they're likely going to damage your eyes. However, if you
+ge up in the morning, and it's still dark out and you want to be awake,
+yo would be wise to turn on artificial lights, in particular, overhead
+lihts for reasons I've discussed previously. But those overhead lights
+wil optimally trigger the neurons, these melanopsin cells in the retina
+tht will activate your circadian clock. When the sun comes out, even if
+thre's cloud cover, the sun does come out every day regardless of where
+yo live, unless you live in a cave. People have said to me, well, I
+lie in an area where I can't really see the sun. Well, the sun is
+thre, it might be hiding behind clouds, unless it's very very dark
+whre you live like Scandinavia in the depths of winter in which case
+yo might want some artificial light. Get some sunlight in your eyes
+whn you can. Here's the deal with sunlight and artificial light that I
+hae not discussed previously. A lot of photon energy, a high amount of
+lu, L-U-X, comes through even cloud cover.
+
+* (00:11:04) The 100K Lux per morning goal
+:POPERTIES:
+:CSTOM_ID: the-100k-lux-per-morning-goal
+:ED:
+A ood number to shoot for as a rule of thumb, is to try and get
+exosure to at least 100,000 lux before 9:00 AM. 10:00 AM maybe, but
+beore 9:00 AM assuming you're waking up sometime between five and 8:00
+AM Okay, so get 100,000 lux. Now you do not, I want to repeat, you do
+no want to stare at a 200,000 lux or a 100,000 lux light. It's very,
+vey bright. The mechanism of circadian clock setting and this is very
+imortant, the mechanism of circadian clock setting involves these
+nerons in your eye that send electrical signals to this clock above the
+rof of your mouth and that system sums, meaning it adds photons, it's a
+vey slow system. So let's say that I wake up and I look at my computer
+sceen briefly or my phone screen. That's probably 500 to 1,000 lux. If
+I ere to look at that for a full minute, I would get that photon energy
+trnsferred into electrical energy of neurons and it would be
+comunicated to my circadian clock. However, the signal that it's
+moning will not have registered with the circadian clock unless I
+loked at that for a hundred minutes or more, so 100,000. Now the
+prblem is if you wake up at eight o'clock, you're not going to get
+enugh light from artificial light before you reach what's called the
+cicadian dead zone. So you have this opportunity before 9:00 AM, maybe
+1000 AM to capture enough photons, and you have to do it with your
+eys. I've discussed why that's important in previous episodes of the
+pocast, we have to do it with your eyes. There is no extra ocular photo
+reeption. This is not about vitamin D in your skin. This is about
+seting your circadian clock which is paramount for mental and physical
+helth. So here we're talking about trying to get that at least 100,000
+phtons but not all at once, but you got to get them before 9:00 AM-ish,
+mabe 10:00 AM. So what do you do? You go outside. If you want to get
+nedy about this quantitative, you could download a free app like Light
+Meer and take a look around your house with Light Meter and you'll
+noice that even bright overhead lights are only emitting about 4,000 or
+5,00 lux. It's going to take a long while of looking at those lights
+wih eyes open in order to set your circadian clock and tell your brain
+an body that it's morning. Going outside even on a cloudy day could be
+7,00, 10,000 lux. It's really remarkable how bright it is, meaning how
+muh photon energy is coming through. So try and get 100,000 lux before
+tht 9:00 AM. Now, if you can't do that because you live in an area of
+th world where it's just not bright enough. Some people have sent me
+pitures from Northern England. It's just not bright enough in winter.
+Thn sure, you can resort to using artificial lights in order to get
+enugh photons. And I'm putting out this 100,000 lux number as a target
+toget each day before 9:00 AM. You can in theory, get it all from
+arificial lights, but there are some special qualities about sunlight
+tht make sunlight the better stimulus. First of all, it's free if it's
+avilable outside. There is a number of different... There are, excuse
+me a number of different technologies kind of like this one like a
+liht pad that this one says it's a 930 lux. I'm covering this up 'cause
+I' not trying to promote any specific products. I actually bought this
+jut with my own money on Amazon, they're not a sponsor. And it lets you
+togle the brightness, I think by holding this on, holding down this
+buton, you can make it dimmer or brighter. There's about 1,000 lux, it
+sems really bright, but a cloudy day outside will have five times more
+phton energy coming through. So some people set these lights or ring
+lihts that they use for selfies and that kind of thing near their
+cofee or workstation first thing in the morning but you really want to
+ge sunlight, okay? So those things are kind of nice because they'll
+trvel and we're going to talk about jet lag. But I can't emphasize this
+enugh that light has to be captured and summed before you enter the
+cicadian dead zone which is the middle of the day. This is again,
+tring to achieve kind of perfect schedule.
+
+* (00:15:15) Keeping your biological clock set
+:POPERTIES:
+:CSTOM_ID: keeping-your-biological-clock-set
+:ED:
+Thn I've recommended, based on scientific literature, that you look at
+sulight sometime around the time when the sun is setting and the reason
+fo that of course is because it adjusts down the sensitivity of your
+eys because here's the diabolical thing. While we need a lot of photon
+enrgy early in the day to wake up our system and set our circadian
+clck, and prepare us for a good night's sleep 14 to 16 hours later, it
+taes very little photon energy to reset and shift our clock after 8:00
+PM And that's why you want to, as much as you safely can, avoid bright
+liht and even not so bright light between the hours of 10 or 11:00 PM
+an 4:00 AM. A number of people have asked me some questions about this.
+An the last episode I went into red lights, I went ahead and discussed
+ble blockers, all that kind of stuff, so I'm not going to repeat all
+tht. But here's the thing, if you see afternoon light, you're going to
+adust down the sensitivity of your eyes so that you have a little bit
+moe wiggle room, a little bit more leeway to view lights from screens
+an overhead lights even late at night without disrupting your circadian
+clck. But it is a kind of a double-edged sword where you need a lot of
+liht early in the day and you need to avoid bright lights later in the
+da.
+
+* (00:16:15) Reset your cortisol
+:POPERTIES:
+:CSTOM_ID: reset-your-cortisol
+:ED:
+I'e mentioned studies on here, a number of you have asked about getting
+th references. We are in the process of trying to get a webpage going
+wih full links. There's some copyright issues that we have to deal
+wih. But wherever possible, I'll try and reference these studies and
+whn people ask I'll generally put them in the response to their
+coments on YouTube or Instagram. There have been two studies done from
+Unversity of Colorado, both published in Current Biology. You can
+eaily find these online by just googling the words, Current Biology,
+caping and reset circadian clocks, that have shown that two days of
+waing up with the sun and avoiding light at night, they actually took
+grduate students camping, what a cool experiment to be a part of, reset
+th melatonin and cortisol rhythms for these people that had otherwise
+drfted quite far from their natural rhythms. There're other things that
+yo can do to shift your clock and to reinforce your clock. Like
+exrcising more or less the same time, eating more or less the same
+tie, etc. That's not what today's episode is about. So I just described
+pefect schedule. Get at least 100,000 lux of light exposure to the eyes
+no all at once, but summing across the morning. Again you know when
+its too much because it's painful to look at, so that's obviously
+soething to avoid. But then once the middle of the day, let's say,
+yo're waking up at 10 or 11 you go outside the sun's overhead, forget
+it you're not going to shift your clock, you're just not. It doesn't
+wok that way. In the evening, you see the evening light and you want to
+ge that light to adjust down your retinal sensitivity to afford you a
+bi of a buffer so that late at night, if you happen to look at screens
+orgo to the bathroom in the middle of the night, it's not going to
+shft your clock because it takes probably only about 1,000 to 1500 lux
+oflight energy to shift your clock in the middle of the night. So let's
+tak about shifting clocks because for the jet lagged person, this
+ablity to shift the clock with light, temperature, exercise, and food
+isvitally important for getting onto the new local schedule. And
+thre's so much out there about jet lag today. I'm going to dial it down
+toone very specific parameter that all of you can figure out without
+an technology or devices and can apply for when you travel for work or
+plasure, or anytime you're jet lagged, and I want to absolutely
+emhasize that you don't have to travel to get jet lagged. Many of you
+ar jet lagged. You're jet lagged because you're looking at your phone
+inthe middle of the night, you're jet lagged 'cause you're waking up at
+diferent times a day, you're jet lagged because your exercise is on a
+kid of chaotic regime, some days at this time, some days at that time.
+An if that works for you, great. I want to be really clear that a
+nuber of people always say, well, I know so and so that you know only
+neded four hours of sleep and, or they're just fine, they traveled to
+Euope and they're just fine. There's a lot of individual variability.
+An we're going to talk about the origins of some of that variability. I
+men, I know people that can eat anything and somehow seem to maintain
+grat lipid profiles and you know, body weight and fitness ability. And
+I now some people that they eat one cracker and they sort of dissolve
+ino a puddle of kind of tears, right, because they think that that's
+gong to throw them off and maybe it does, I don't know. There's a
+trmendous amount of variability out there. So, this is really about
+opimal and what's possible. And you have to ask, I can just say from
+pesonal experience, I suffer terribly from jet lag, traveling in
+cetain directions but not others. Some people don't have trouble with
+je lag. Many people will travel to a new location, they feel great for
+th first day and night and then they crash and they have trouble
+sleping. Or they travel back and they have a terrible time getting back
+ono a normal schedule. And some of this varies with age and some of it
+vaies with genetics and there is no simple pill or anything that you
+ca take to just get rid of jet lag. It doesn't work that way. If it
+woked that way, I would tell you. But there are some simple things that
+yo can do. I'm going to arm you with the knowledge of what jet lag is
+an how it works. And contrary to what many people out there say and
+beieve, I know that understanding mechanism affords you more
+flxibility. Why understand mechanism as just opposed to me just writing
+upa PDF and giving you a list of things to do? Well, what happens when
+yo can't do those things in exactly the way they're written down. When
+yo understand mechanism, you understand how to control the machine that
+isyour biological system, your nervous system. So a little bit of
+unerstanding about mechanism goes a really long way. So that's where
+were headed. Let's talk about what jet lag is. Okay well, I promised
+tht I wouldn't get too dark with all the terrible things that can
+hapen with jet lag, but I'm about to get dark.
+
+* (00:21:22) Jetlag, death and lifespan
+:POPERTIES:
+:CSTOM_ID: jetlag-death-and-lifespan
+:ED:
+Thre are quality peer reviewed papers showing that jet lag will shorten
+yor life. It will kill you earlier. I guess it means you'll die
+ealier. It doesn't actually kill you necessarily. Although there are
+may cases where tourists end up stepping in front of buses, especially
+incountries where the cars and buses drive on the opposite side of the
+steet that they're used to, who are jet lagged and lose their life that
+wa. Jet lag is a serious thing. Sure we have a family story about this.
+Whn I was growing up, I had a family member travel overseas for work
+an take a sleeping pill, I won't name the sleeping pill, though at the
+en I'm going to talk about sleeping pills, and had a case of total
+amesia for a week. That's not entirely uncommon. If you've ever been
+relly jet lagged and fallen asleep, doesn't even have to be in the
+midle of the day, woken up, you might not know where you are. And
+tht's because time and space are really linked in the brain, wasn't
+deigned to be transported four, five six hours into a new time zone, it
+jut wasn't. Our brain and the biological mechanisms that govern
+cicadian timing were designed to be shifted by a couple hours, not
+neessarily six or nine or 12 hours. So you can really mess yourself up.
+I'e had that experience, I usually experience it as fluctuations in
+mod. I flew 12 hours out of phase, to Abu Dhabi once, to give a talk at
+NY Abu Dhabi, and it was a mess. I actually was getting vertigo. I
+wan't hallucinating but I was really out of it. And my mood was just
+al over the place. And it was very bizarre. Jet lag, even if you don't
+exerience it as mood shifts or amnesia, it can shorten your life. Now
+hee's what's interesting.
+
+* (00:23:00) Going East versus West
+:POPERTIES:
+:CSTOM_ID: going-east-versus-west
+:ED:
+Trveling westward on the globe is always easier than traveling
+eatward, okay? It's interesting because the effects of jet lag on
+logevity, have shown that traveling east takes more years off your life
+thn traveling west. Now, of course, traveling 30 minutes into a new
+tie zone or just one time zone over, or two times zone over rather, is
+fa less detrimental to your biology and psychology than a eight hour
+shft or a nine hour shift. Now, here's what's interesting. When we
+thnk about the effects of jet lag on longevity or this idea that it can
+shrten our lives, we have to ask ourselves why, why is that? And it
+tuns out there's a pretty simple explanation for this. We've talked
+beore about the autonomic nervous system, this set of neurons in our
+spnal cord and body and brain that regulate our wakefulness and our
+slepiness. Turns out that human beings, and probably most species, are
+beter able to activate and stay alert than they are to shut down their
+nevous system and go to sleep on demand. So if you really have to push,
+an you really have to stay awake, you can do it, you can stay up later.
+Bu falling asleep earlier is harder. And that's why traveling east has
+a umber of different features associated with it, that because you're
+trveling east you're trying to go to bed earlier, you know. As a
+Caifornian, if I go to New York city, I've got to get to bed three
+hors early and wake up three hours early, much harder than coming back
+toCalifornia and just staying up a few more hours. And this probably
+ha roots in evolutionary adaptation where under conditions where we
+ned to suddenly gather up and go or forge for food, or fight, or do any
+nuber of different things, that we can push ourselves through the
+reease of adrenaline and epinephrin to stay awake. Whereas being able
+toslow down and deliberately fall asleep is actually much harder to do.
+Sothere's an asymmetry to our autonomic nervous system that plays out
+inthe asymmetry of jet lag. So, if you want to read up on this, because
+peple have asked me about papers, you can look, there's a paper
+pulished by Davidson and colleagues, 2006, in Current Biology that
+taks about the differences in life span for frequent eastward versus
+wetward, versus no travel and longevity and etc. A number of different
+bilogical markers of longevity. So going east is harder because going
+tosleep earlier is harder, if you're trying to do that on demand. Many
+peple have turned to melatonin as a way to try and induce sleepiness.
+I' going to talk about melatonin at the end. I've mentioned on previous
+pocasts, a number of you have asked for the evidence that melatonin is
+poentially detrimental to some hormone systems, melatonin is a hormone.
+An I'll discuss that at the end, in particular, the role of melatonin
+insuppressing a hormone pathway that involves luteinizing hormone
+tetosterone in men and estrogen in females. As well as a really
+ineresting peptide called kisspeptin, that's a cool name. All right,
+wel, let's think about travel and what happens. Let's say you're not
+gong eastward or westward but you're going north or south. So if you go
+frm for instance, Washington DC to Santiago Chile, or you go from Tel
+Avv, Israel, to Cape town, South Africa, you're just north and south,
+riht? And not either direction. You're not really moving into a
+diferent time zone, you're not shifting. So you will experience travel
+faigue. And turns out that jet lag has two elements, travel fatigue and
+tie zone jet lag. Time zone jet lag is simply the inability of local
+sulight and local darkness to match to your internal rhythm, this
+enogenous rhythm that you have. So before we get too complicated and
+to down in the weeds about this, I want to just throw out a couple
+imortant things. First of all, I mentioned this earlier, but some
+peple suffer from jet lag a lot, other people not so much. Most people
+exerience worse jet lag as they get older. There are reasons for that
+beause early in life, patterns of melatonin release are very stable and
+flt and very high actually in children. It's one of the reasons why
+thy don't undergo puberty. Then it becomes cyclical during puberty,
+mening it comes on once every 24 hours and turns off once every 24
+hors, it cycles, cyclic. And then as we get older, the cycles get more
+dirupted and we become more vulnerable to even small changes in
+scedule, etc, meal times, right? So, jet lag gets worse as we age. In
+adition, there are other things that happen with age that people start
+dong less exercise, their digestion can get worse, etc. So some of the
+efects of age might not be direct effects of getting older but some of
+th things that are correlated with being older. Like people who are
+wiling to have a regular exercise regime can use that exercise regime
+toshift their circadian clock. And I have a good friend, his father is
+inhis 80s. He's still pushing out 25, 30 push-ups each morning, he's on
+th Peloton or whatever it is, doing a lot of cycling. So some 80-year
+ols are doing that, many are not, many 30 year olds are not. But if you
+hae a regular exercise program, that's going to make it easier to shift
+yor circadian clock for the sake of jet lag.
+
+* (00:28:45) The key to clock control
+:POPERTIES:
+:CSTOM_ID: the-key-to-clock-control
+:ED:
+An it's actually a knob you can turn and you can leverage for shifting
+yor clock. Before we go any further, I want to make changing your
+inernal rhythm really easy. Or at least as easy and as simple as one
+cold possibly make it, I believe. What I want to talk about is perhaps
+on of the most important things to know about your body and brain,
+whch is called your temperature minimum, okay? Most of you know your
+aproximate weight, some of you might even know your blood pressure,
+soe of you might even know your body mass index, some of you might know
+oter things about your biology that have fancy names, but everyone
+shuld know their temperature minimum. Your temperature minimum doesn't
+reuire a thermometer to measure, although you could measure it. Your
+teperature minimum is the point in every 24 hour cycle when your
+teperature is lowest. Now, how do you measure that without a
+thrmometer? It tends to fall 90 minutes to two hours before your
+avrage waking time. So I want to repeat that, your temperature minimum
+teds to fall 90 minutes to two hours before your average waking time.
+Solet's say you're not traveling and your typical wake up time is 5:30
+AM Your temperature minimum is very likely 3:30 AM or 4:00 AM. If you
+wat, if any of you want to, you can measure your temperature minimum.
+Yo can get a thermometer and you can measure your temperature every
+cople hours for 24 hours, and you can find your temperature minimum.
+Wht you're going to find is that you have a low point, the temperature
+miimum, and then your temperature will start to rise, you'll wake up
+abut two hours later. Then your temperature will continue to rise into
+th afternoon it will peak, maybe a little trough, sometimes that
+hapens, and then it'll start declining slowly as you approach
+nihttime. There are things that will disrupt that temperature pattern.
+Sanas, cold baths, intense exercise, etc. Meals tend to have a
+thrmogenic effect that increases temperature slightly little blips, but
+th overall cycle 24 hour cycle of temperature has this pattern.
+
+* (00:31:01) Your Temperature Minimum
+:POPERTIES:
+:CSTOM_ID: your-temperature-minimum
+:ED:
+An last time I talked about the seminal work of Joe Takahashi and
+oters, who have shown that temperature actually is the signal by which
+ths clock above the roof of your mouth in-trains or collectively pushes
+al the cells and tissues of our body to be on the same schedule.
+Teperature is the effector. And once you hear that there should be an
+imediate, oh, of course, because how else would you get all these
+diferent diverse cell types to follow one pattern, right? A pancreatic
+cel does something very different than a spleen cell or a neuron,
+riht? They're all doing different things at different rates. So the
+teperature signal can go out and then each one of those can interpret
+th temperature signal as one unified and consistent theme of their
+enironment. So temperatures vary from person to person. Some people are
+986, some people run a little colder, etc. But you have a low point,
+an you have a high point. Know your temperature minimum. How are you
+gong to figure out this temperature minimum? The temperature minimum
+ca be determined by taking the last three to five wake up times. So
+le's say you wake up 7:00 AM, 8:00 AM, 3:00 AM, all right it happens.
+Tae those, add them together, average them by adding them up and
+diiding by the number of days, that'll give you the average. If you're
+on of these people that wakes up at 3:00 AM and then goes back to sleep
+an sleep till 10, your wake up time was 10:00 AM. If you use an alarm
+clck, your wake-up time is still when you get up, okay? I know alarm
+clcks have been kind of demonized but in my world being late and
+mising appointments is also demonized, so I use an alarm clock. Many
+peple will wake up at exactly the same time each day, there tends to
+soe variation for people. Some people it's going to vary depending on
+lie circumstances. But average that for three to seven days or so. Take
+tht wake up time, you can then get an average or sort of typical
+teperature minimum. Okay, so now you know how to get your temperature
+miimum. Your temperature minimum is your absolute reference point for
+shfting your circadian clock. Whether or not it's for jet lag, or shift
+wok, or some other purpose. Here's the deal. If you expose your eyes to
+brght light in the four hours, maybe five or six, but in the four hours
+afer your temperature minimum, your circadian clock will shift so that
+yo will tend to get up earlier and go to sleep earlier in the
+susequent days, okay? So it's called a phase advance, if you'd like to
+red up on this further. You advance your clock, okay? However, if you
+viw bright light in the four to six hours before your temperature
+miimum, you will tend to phase delay your clock. You will tend to wake
+uplater and go to sleep later. Okay, I'm going to repeat this because
+thre's so much confusion out there and people talk about circadian time
+an all this. Find your temperature minimum. I tend to wake up at about
+6:0 AM, sometimes 6:30, sometimes seven. It depends a lot on what I was
+dong the night before as I'm guessing it does for you. But that means
+tht my temperature minimum is probably somewhere right around 4:30 AM.
+Whch means that if I wake up at 4:30 AM and I were to view bright light
+at4:35 AM, I'm going to advance my clock. I'm going to want to go to
+be earlier the subsequent night and wake up earlier the subsequent
+moning. And as I shift my wake-up time, my temperature minimum shifts
+to, right? Because each time we shift our wake-up time our temperature
+miimum shifts, assuming that wake up time shifts more than 30 minutes
+oran hour, okay. If I were to view bright light in the four to six
+hors before 4:30 AM, guess what? The next night I'm going to want to
+sty up later and I'm going to want to wake up later the subsequent
+moning. Your temperature minimum is a reference point not a temperature
+reding. Again, if you want to measure your temperature minimum and
+fiure out what it is, 98 point whatever or 96 point whatever, that's
+fie. You can do that. But that information won't help you. What you
+ned to know is what time your body temperature is lowest and understand
+tht in the four hours or so just after that time, viewing light will
+adance your clock to make you want to get up earlier. And the four
+hors before your temperature minimum, viewing light will make you want
+tostay up later. Now, some people might be saying, well, I wake up
+ealy and I want to stay up late and I'm sleepy all day and I'm a mess
+orI feel fine. Look, let's talk about feeling fine. Turns out the
+deinition of insomnia is when you're experiencing excessive sleepiness
+duing the day. Sleepiness and fatigue are different, okay? So in the
+wold of sleep medicine fatigue is a physical exhaustion, sleepiness is
+faling asleep. Like falling asleep at your desk or falling asleep
+duing lectures, or there seems to be something special about my
+letures that makes people want to fall asleep. So if this cures your
+inomnia fantastic, however, in all seriousness, sleepiness during the
+da time unless it's around your temperature peak and only lasts about
+90minutes or so, is a sign of insomnia. It's a sign of lack of sleep. I
+wat to be very, very clear that if you know your temperature minimum,
+yo can shift your clock using light.
+
+* (00:36:30) Temperature and Exercise
+:POPERTIES:
+:CSTOM_ID: temperature-and-exercise
+:ED:
+Yo can also shift your clock by engaging in exercise in the four hours
+afer your temperature minimum to wake up earlier on subsequent nights,
+orexercise before then to delay your clock, okay? So now you can start
+tosee and understand the logic of the system. And we'll talk about why
+ths works and the underlying biology, but understanding that
+teperature is the effector and understanding that you have this low
+pont that reflects your most sleepy point, essentially right before
+waing up, and then temperature rises, you can now start to shift that
+teperature according to your travel needs. Here's one way in which you
+miht do that. Let's say I am going to travel to Europe, which is nine
+hors ahead typically, from California. I would want to determine my
+teperature minimum which for me is about 4:30 AM maybe 5:00 AM, and I
+wold want to start getting up at about 5:30 AM and getting some bright
+liht exposure, presumably from artificial sources because the sunlight
+is't going to be out at that time. Maybe even exercising as well, maybe
+evn eating a meal at that time if that's in your practice. You would
+wat to start doing that two or three days before travel. Because, once
+yo land in or I land in Europe, chances are just viewing the sunrise or
+suset in Europe is not going to allow me to shift my circadian clock.
+Soe people say get sunlight in your eyes when you land but that's not
+gong to work because one of two things is likely to happen. With a nine
+hor shift like that either I'm going to view sunlight at a time that
+coresponds to the circadian dead zone, the time in which my circadian
+clck can't be shifted, or I'm going to end up viewing sunlight at a
+tie that corresponds to the four to six hour window before my
+teperature minimum. So it's going to shift me in exactly the opposite
+diection that I want to go. So it can be very, very challenging for
+peple to adjust to jet lag. So you need to ask, am I traveling east or
+amI traveling west? Am I trying to advance my clock or delay my clock?
+Reember viewing light, exercise and eating in the four to six hours
+beore your temperature minimum will delay your clock. Eating, viewing
+sulight, and exercising, you don't have to do all three but some
+cobination of those in the four to six hours after your temperature
+miimum will advance your clock. And this is a powerful mechanism by
+whch you can shift your clock anywhere from one to three hours per day,
+whch is remarkable. That means your temperature minimum is going to
+shft out as much as three hours, which can make it such that you can
+trvel all the way to Europe and in as long as you've prepared for a day
+orso by doing what I described back home and then doing it when you
+arive, you can potentially accomplish the entire shift within anywhere
+frm 24 to 36 hours. And this is really important to emphasize that once
+yo arrive in your new location and here I'm talking about traveling
+eatward, California to Europe, once you arrive in your new location,
+yo have to keep track of what your temperature minimum was back home
+an how it's being shifted during your trip. Now it's much easier to do
+thn you think. One of the unfortunate consequences of the smartphone is
+tht you can't do something goofy like wearing two watches. One watch
+tht corresponds to the time back home and another one that corresponds
+tothe local time. Typically it updates automatically based on wifi,
+et. But if you can keep track of the time back home then you can easily
+shft your clock going forward. I'm hoping this will makes sense. I
+relly want to emphasize that you don't have to be precise down to the
+miute. Some of you may be asking, well, what about you've got this
+teperature minimum and if I view light one minute before it then I'm
+gong to delay my clock and one minute after it I'm going to advance my
+clck. It doesn't quite work like that, okay. But it's very important to
+unerstand that light is the primary way in which we can shift our
+clck. And now you should also be able to understand things like the
+cicadian dead zone from about 9:30, 10:00 AM all the way until six
+hors before your temperature minimum. You're not going to shift your
+clck. Nothing that you do in that time in terms of light viewing
+beavior, feeding, etc, is going to shift your clock. And so a lot of
+peple are landing in Europe getting sunlight in their eyes and throwing
+thir clock out of whack or not shifting their clock at all. This brings
+meto the other thing that's highly recommended.
+
+* (00:41:20) Eating
+:POPERTIES:
+:CSTOM_ID: eating
+:ED:
+An I've mentioned this before, but you want to eat on the local meal
+scedule. If it's in your practice to fast, fast, that's fine. But when
+yo eat, you want to eat within the local schedule for alertness. Okay.
+Tht means if you arrive and everyone's eating breakfast and you can't
+stmach the idea of breakfast in your new location 'cause your appetite
+is't there. That means the clock in your liver, you have a clock in
+yor liver, biological clock, has not caught up to the new time zone.
+Yo can force yourself to eat if you like, or you can skip that meal.
+Bu what you don't want to do is stay on your home meal schedule, waking
+upin the middle of the night and eating. That is really going to throw
+thngs off because a lot of the clocks in the periphery like from the
+lier, the peripheral body, will send information back to the brain and
+thn the brain is getting really conflicted signals. So the temperature
+miimum is really your anchor point for shifting your clock best. I
+do't know why this information really hasn't made it into the popular
+spere, quite so much. There's all sorts of stuff about taking things
+lie melatonin, using binaural beats, a lot of kind of like more
+sohisticated, complicated, and potentially problematic ways of trying
+toshift the clock. Let's talk about melatonin but first I just want to
+pase and shift gears a little bit because I talked about traveling
+eatward, but we haven't talked about traveling westward.
+
+* (00:42:50) Go West
+:POPERTIES:
+:CSTOM_ID: go-west
+:ED:
+SoI want to do that now. Let's say you're traveling from New York to
+Caifornia or from Europe to California. The challenge there tends to
+be how can you stay up late enough? Now, some people are able to do
+ths because as I mentioned earlier, the autonomic nervous system is
+asmmetrically wired such that it's easier to stay up late later than we
+wold naturally want to than it is to go to sleep earlier. So let's say
+yo land and it's 4:00 PM and you're just dying, you're in California,
+yo came from Europe, it's 4:00 PM and you really, really want to go to
+slep. That's where the use of things like caffeine, exercise, and
+sulight can shift you, right? If it's after your temperature peak then
+viwing sunlight around 6:00 PM or 8:00 PM or artificial light, if there
+is't sunlight, will help shift you later, right? It's going to delay
+yor clock and you're going to be able to stay up later. The worst thing
+yo can do is take a nap that was intended to last 20 minutes or an
+hor. I do this routinely and then wake up four hours later or you wake
+upand it's midnight and you can't fall back asleep. You really want to
+avid doing that. So provided it's not excessive amounts, stimulants
+lie caffeine and coffee or tea can really help you push past that
+afernoon barrier and get you to sleep more like on the local schedule.
+An eating on the local schedule as well.
+
+* (00:44:15) Pineal myths and realities
+:POPERTIES:
+:CSTOM_ID: pineal-myths-and-realities
+:ED:
+A umber of people have asked about the use of melatonin to induce
+slepiness. All right, well let's think about what melatonin is.
+Meatonin is this hormone that's released from the pineal gland, which
+isthis gland. A couple of notes about the pineal, 'cause I've been
+geting a lot of questions about this. I'm probably going to draw some
+fie for this but I'd be happy to have a thoughtful, considerate debate,
+wih some peer reviewed papers in front of us. The pineal does make this
+halucinogenic molecule they call DMT, but in such a minuscule amounts
+tht it is not responsible for the hallucinations you see in sleep and
+draming. Sorry, folks. It's also not responsible for the hallucinations
+yo might see through other approaches to DMT. It's just not, that's not
+whre the DMT comes from. It's infinitesimally small amounts. There are
+a ot of kind of wacky claims out there about calcification of the
+pieal and fluoride and this kind of thing. Look, the pineal sits in an
+ara of the brain near the fourth ventricle, where the skull is not
+teribly far away although there's some overlap in neural tissue and
+wih age there's some aggregation of some of the meninges and other
+thngs around there that stick to the skull. Young brains don't look
+lie old brains but there's no calcification of the pineal, all right?
+Soyou can forget about calcification of the pineal as a problem. I
+do't know where that whole thing got started but that's not an issue.
+Yor pineal will churn out melatonin your whole life. Melatonin induces
+slepiness. Melatonin during development is also responsible for timing
+th secretion of certain hormones that are vitally important for
+puerty. Does melatonin control the onset of puberty? Not directly, but
+inirectly. Melatonin inhibits something called gonadotropin-releasing
+homone, which is a hormone that's released from your hypothalamus also
+roghly above the roof of your mouth in your brain.
+Goadotropin-releasing hormone is really interesting 'cause it
+stmulates the release of another hormone called luteinizing hormone,
+whch in females causes estrogen to be released within the ovaries, it's
+inolved in reproductive cycles, and in males stimulates testosterone
+frm the sertoli cells of the testes. Melatonin is inhibitory to GnRH,
+goadotropin-releasing hormone, and therefore is inhibitory to LH,
+lueinizing hormone, and therefore is inhibitory to testosterone and
+esrogen. There's just no two ways about it. There is immense amount of
+daa on the fact that high levels of melatonin in seasonally breeding
+anmals, takes the ovaries from nice and robust ovaries that are capable
+ofdeploying eggs and this kind of thing and literally shrinking them
+an making these animals infertile. These are very high levels of
+meatonin in seasonal breeders in winter. Melatonin in males of seasonal
+breders takes the testes and shrinks them. Long ago when I was at UC,
+Bekeley as a master's student, I was working on neuroendocrinology, and
+wewere working on this hamster species of seasonal breeders. And
+baically when days are long, which inhibits melatonin, these little
+Sierian hamsters as they're called, have testes about the size of, sort
+oftypical table grapes, although that's a weird way to put it. When
+das get shorter and the melatonin signal gets longer because light
+inibits melatonin, days get shorter, melatonin gets longer. Those same
+hasters would have testes that would involute to the size of about a
+grin of rice. Now this does not happen in humans in short days. But
+noetheless, the melatonin signal really does have a ton of effects on
+th hormone system. Now, does that mean that if you've been taking
+meatonin you've really screwed up your hormones? Not necessarily. Does
+itmean if a kid has been taking melatonin that's really screwing up
+thir puberty? Not necessarily and here's why. Melatonin operates on a
+cocentration level. So in a child that's very, very small that has high
+leels of melatonin, it actually can inhibit GnRH, LH, testosterone or
+esrogen depending on the sex of the child. But as that child grows
+though other mechanisms, like growth hormone release, etc, that same
+amunt of melatonin released from the pineal is now diluted over a much
+lager body so that the concentration actually goes way, way down, okay?
+Bu here's the problem with supplementing melatonin. As I mentioned in
+th previous episode, concentrations of melatonin in many commercial
+suplements have been shown to be anywhere from 85% to 400% of what's
+lited on the bottle. So when you take melatonin or a child takes
+meatonin oftentimes they are taking super physiological levels of
+meatonin, which at least by my read, and the literature, says that it
+cold have dramatic effects on timing and course of things like puberty.
+Soit's not so much that the journals have come out saying, oh, taking
+tht melatonin inhibits puberty, it's that no single study has been done
+wih the super physiological levels of melatonin that are present in a
+lo of these supplements in developing children. So melatonin is used
+wiely for inducing sleepiness when you want to fall asleep in the new
+loation that you've arrived, right? You can't fall asleep, you take
+meatonin, it helps you fall asleep. It does not help you stay asleep.
+Inaddition to that, melatonin has been kind of touted as the best way
+toshift your circadian clock. I'm happy to go on record saying, look,
+ifyou need melatonin, you can work with a doctor or somebody who really
+unerstands circadian and sleep biology go for it, if that's your thing.
+Bu I, as always on this podcast and elsewhere, I have a bias toward
+beavioral things that you can titrate and control like exposure to
+liht exercise, temperature, etc, that have much bigger margins for
+saety and certainly don't have these other endocrine effects that we've
+ben thinking about and talking about. So if you want to take melatonin
+inthe afternoon in order to fall asleep or in the evening, be my guest,
+tht's up to you. Again, you're responsible for your health, not me. But
+fo many people melatonin is not going to be the best solution. The best
+soution is going to be to use light and temperature, and exercise on
+eiher side of the temperature minimum to shift your clock both before
+yor trip and when you land in your new location and your clock starts
+toshift. Okay, so now you know my opinions about melatonin, feel free
+tofilter them through your own opinions and experiences with melatonin.
+An now you also understand what your temperature minimum is and how it
+reresents an important landmark either side of which you can use light,
+teperature, and exercise to shift your clock.
+
+* (00:51:13) The Heat-Cold Paradox
+:POPERTIES:
+:CSTOM_ID: the-heat-cold-paradox
+:ED:
+Jut to remind you a little bit about temperature, if you want to shift
+yor clock, typically you would do that by you can take a hot shower and
+thn that will have a cooling effect after the hot shower. And if you
+wee to get into a cold shower or an ice bath if you have access to one,
+aferward there's going to be a thermogenic effect of your body
+inreasing temperature. And if you just think about your natural rhythm
+bak home when everything's stable, you have an idea a low point in
+whch is your temperature minimum, and then you have a peak, and you
+thnk about when you're doing this hot or cold shower in that rhythm,
+no you should be able to understand how you're shifting your rhythm.
+Tht temperature rhythm is the one that's going to move. Give you an
+exmple. If I were to wake up in the morning and let's say I wake up at
+6:0 AM. My temperature I know is rising, I've passed my temperature
+miimum. If I were to get into a hot shower, that would then lower my
+boy temperature when I got out, that is not normally what's happening
+fist thing in the morning, and therefore my clock would very likely get
+phse delayed, right? It's going to delay the increase in temperature.
+Whreas if I got into a cold shower, something I don't personally like
+todo, but I've done from time to time or an ice bath that's going to
+thn have a rebound increase in body temperature and is going to phase
+adance my clock. That peak in the afternoon is going to come about an
+hor earlier. I'm going to want to go to bed earlier, later that night.
+Soyou can start to play these games with timing and hot and cold, with
+mels whether or not you eat, or you don't eat, and with light exposure,
+whther or not you view light or you don't view light. So now you can
+strt to see why understanding the core mechanics of a system can really
+gie you the most flexibility because I could spend the next 25 years of
+mylife answering every question about every nuance pattern of travel.
+Wel, we're going to Sydney and then we're going there, what should I
+do But that's on you. You need to figure out your temperature minimum
+an your temperature peak, if you like, and then use these parameters to
+itgives you flexibility. And that really underscores the most important
+thng is that when you understand mechanism it's not about being
+nerotically attached to a specific protocol, it's the opposite. It
+gies you power to not be neurotically attached to a specific protocol.
+Itcan give you great confidence and flexibility in being able to shift
+yor body rhythms however you want. And when things get out of whack you
+ca tuck them right back into place. One thing that's common is that
+peple need to do a quick trip. It's not always that you're going to go
+to you know on vacation for two weeks or, you know, work someplace else
+fo weeks on end.
+
+* (00:53:45) Staying on track
+:POPERTIES:
+:CSTOM_ID: staying-on-track
+:ED:
+Ifyour trip is 48 hours or less, stay on your home schedule. This can
+betough and it may require scheduling meetings according to your home
+scedule, but if you can somehow manage that the best thing to do would
+beto stay on your home schedule. Your clock is not going to shift more
+thn a couple hours, even if you do everything correctly in one day,
+oky? So if I were to travel, say to Europe, I've actually done this, I
+di a 24 hour trip to Basel, Switzerland, gave a talk and came back,
+peple thought I was crazy but, I had a little bit of travel fatigue
+'cuse remember there's fatigue from the actual travel experience. The
+noelty of it, the air is never great on the planes, this was even true
+beore there were mask requirements and things like that. There's the
+trvel fatigue but you don't throw your clock off. If you stay 48 hours,
+thn you start to shift a little bit. 72, that's when you start running
+ino trouble. The transit time is also important but I would say if it's
+thee days or less, stay on your home schedule as much as you can. And
+beause sunlight isn't under your control unless there's something about
+yo I don't know, that's when traveling with some sort of bright light
+lie the light pad that I have down there that I showed earlier, for
+thse of you listening just on audio, it sort of looks like an eight and
+a alf by 11 inch pad. It's actually not designed for wake up, it's
+acually designed, it's a drawing pad, and it emits about 1,000 lux of
+liht. And so if you want to travel with something like that, you can
+us that in your hotel room to wake up when you like.
+
+* (00:55:30) Nightshades
+:POPERTIES:
+:CSTOM_ID: nightshades
+:ED:
+Soe people will use night shades, you know, not the night shades that
+yo eat or that some people say you're not supposed to eat, I don't know
+anthing about that, but the eye covers to keep light out. Those can be
+vey useful on planes and in hotels and so on. So you can use light and
+dak or you can travel with your light and dark devices so that you can
+sty on your home schedule and get most of your light when it would be
+yor normal wake up time back home. And what's kind of nice is if you
+knw when your circadian dead zone is back home, which is generally for
+mot people around 10:00 AM to about 3:00 PM, so basically the rising
+phse of your temperature, then you can also feel free to be outside
+wihout having to wear sunglasses or you don't have to worry about light
+exosure. But if you know that window before your temperature minimum,
+tht four to six hour window, that's the time when if you're viewing a
+lo of light in your new location, you are going to shift your clock
+prtty considerably and then you can come back home and have a terrible
+tie. At the end of graduate school, I went to Australia, remarkable
+contry, incredible people, incredible wildlife, had amazing time, I
+cae back and it was the first time in my life where I couldn't sleep on
+a egular schedule. I was sleeping in like hour long increments
+thoughout the day, it was a nightmare. And it took me weeks to get back
+ontarget. And the way I was able to do that was exercising consistently
+atthe same time every 24 hours, turning my home into essentially a cave
+atnight, even covering up the windows and then getting as much bright
+liht in my eyes as I possibly could during the day, no sunglasses, etc.
+
+* (00:57:00) Emergency resets
+:POPERTIES:
+:CSTOM_ID: emergency-resets
+:ED:
+Soit can take some real work if your clock gets thrown out of whack.
+Thre's a phenomenon called ICU psychosis, where people that are in the
+inensive care unit in hospitals actually lose their mind. They become
+pschotic, hallucinations, etc. And it's because of altered circadian
+cyles. We know this 'cause they're exposed to these lights and these
+sonds, people coming in and checking on them.
+
+* (00:57:30) Psychosis by light
+:POPERTIES:
+:CSTOM_ID: psychosis-by-light
+:ED:
+Thy leave the hospital or in some cases, there have been experiments
+whre people are placed near a window where they get some natural light
+an the psychotic symptoms disappear, presuming there weren't psychotic
+syptoms beforehand, before they entered the hospital. So it's pretty
+drmatic what light can do to the psyche and to the body. So let's talk
+a ittle bit about a different form of jet lag that requires no planes,
+notrains, no automobiles, and that's shift work.
+
+* (00:58:05) Shift work
+:POPERTIES:
+:CSTOM_ID: shift-work
+:ED:
+Shft work is becoming increasingly common. Many of us are shift working
+evn though we don't have to. We're doing work in the middle of the
+niht, we are, you know, working on our computers at odd hours, sleeping
+duing the day. A lot of people who are under shelter and place type
+stff, are doing more of this. Kids with the drifting school schedules.
+Hee's the deal with shift work. If there's one rule of thumb for shift
+wok, it's that if at all possible, you want to stay on the same
+scedule for at least 14 days, including weekends. Now that should
+imediately cue the non shift workers to the importance of not getting
+to far off track on the weekend, even if you're not a shift worker. So
+sleping in on Sunday is not a good idea. The most important thing about
+shft work is to stay consistent with your schedule. Now, I had a
+coversation on an Instagram live with Samer Hattar, who's a
+neroscientist at the National Institutes of Mental Health, he's
+acually the head of the chronobiology unit there. And he was really
+emhasizing this point because shift work where people are doing the
+socalled swing shift, where they're working four days on one shift and
+for days on or another, is extremely detrimental to a number of health
+paameters. It gets the cortisol release from the adrenals really out of
+whck. And there're these cortisol spikes at various hours of the day,
+itmesses up learning, it really disrupts the dopamine system and
+welbeing. It is a serious, serious problem. So if you can negotiate
+wih your employer to stay on the same shift for two weeks at a time,
+tht's going to be immensely beneficial and will help you offset a lot
+ofthe negative effects of shift work. Now, I don't presume that all of
+yo are going to be able to do that. Some of you just don't have that
+leel of control. And of course, I want to acknowledge that shift
+wokers are essential, right? Of course, first responders, firefighters,
+poice officers, paramedics, etc, but also pilots, night nurses, people
+woking on the hospital wards, people picking up trash. These night
+shfts are critical to our functioning as a society, as I'm sure all of
+yo can appreciate. If you're going to work a shift where let's say, you
+strt at 4:00 PM and you end at 2:00 AM, excuse me, then there's some
+imortant questions that arise. For instance, should you see light
+duing your shift? Well, this is a matter of personal choice but ideally
+yo want to view as much light as possible and as is safely possible
+whn you need to be alert. So that would mean from 4:00 PM to 2:00 AM
+an then you would want to sleep. So using light as a correlate of
+alrtness and using darkness as a correlate of sleepiness, what this
+mens is see as much light as you safely can during the phase of your
+da when you want to be awake. So it's the same thing I said way back at
+th beginning of this podcast episode. And see as little light as safely
+posible and it allows you to function during the time when you want to
+beasleep. So if you're finishing out that 2:00 AM shift, that's when
+yo would want to avoid bright light exposure, you'd want to go home,
+yo'd really want to avoid watching TV if possible. If you need that in
+orer to fall asleep, that would be a case where something like dimming
+th screen, plus blue blockers, if that's in your practice or you want
+todo that would be helpful and then going to sleep and then you'll
+prbably wake up late in the afternoon or early afternoon. Some of you
+miht say, wait, Huberman, I thought you don't like blue blockers. I
+neer said I don't like blue blockers. I don't like people wearing blue
+blckers at the time of day when they want to be alert. And I don't like
+peple asserting that blue blockers can prevent circadian shifts simply
+beause people are wearing them. The brightness of light is what's
+imortant it's not about the blue. So if you want to wear them, wear
+thm, or just dim the lights or turn the lights off. So let's say you go
+tosleep at, you get home after this 4:00 PM to 2:00 AM shift, you maybe
+ea something, you go to sleep, and you wake up and it's noon or 1:00
+PM Should you get light in your eyes? Well, your first assumption based
+onwhat I've said previously might be that you're in the circadian dead
+zoe that you can't because it's noon 1:00 PM. But you're not in the
+cicadian dead zone because you're somebody who goes to sleep early in
+th morning at 2:00 AM. So it's not like the circadian dead zone is a
+stict time of day, it's an internal biological clock. So what do you
+ned to know?
+
+* (01:02:40) The Temperature-Light Rule
+:POPERTIES:
+:CSTOM_ID: the-temperature-light-rule
+:ED:
+Yo guessed it, you need to know your temperature minimum. You need to
+knw whether not your temperature is increasing or decreasing. And now
+wecan make this whole thing even simpler and just say, if your
+teperature is decreasing, avoid light. If your temperature is
+inreasing, get light. It's that simple, okay? If your temperature is
+dereasing, avoid light, if your temperature is increasing, get light.
+Th shift worker who works from 4:00 PM until 2:00 AM has a temperature
+rhthm that's very different than mine where I wake up around 6:00 AM,
+5:0 AM, and I go to sleep around 11:00 PM, okay? We both have a 24
+hor-ish circadian cycle, except mine is more aligned to the rise and
+seting of the sun and there's is not, right? So you have to know your
+inernal temperature rhythm. And no you don't have to walk around with a
+thrmometer wherever, taking your temperature. Although it'd be great if
+soe of the devices that are out there, you know, people are counting
+thir steps, I think it'd be great if people had a circadian body
+teperature measurement. I'm not involved in any of this device
+deelopment but I think it's a real call to arms, pun intended, to have
+a ristband that would measure temperature and would tell you your
+teperature minimum when you travel or whatnot. I don't know, maybe some
+ofthese devices already do that. But if they don't, they should. It's
+abolutely absurd to me why we wouldn't have the simple measurement,
+vey easy to get that kind of information. You don't even need the exact
+teperature read all you need to know is the high and low point. So
+le's say you're a shift worker who really is nocturnal, you're flipped.
+Wel, you want to stay on that nocturnal schedule. Now that can be very
+had on families and social life of all kinds.
+
+* (01:04:20) Up all night: watch the sunrise?
+:POPERTIES:
+:CSTOM_ID: up-all-night-watch-the-sunrise
+:ED:
+Bu the person who is working say from, you know, 8:00 PM, like sundown
+tosunrise, this raises a question. Should they be looking at the
+surise and should they be watching the sunset? Waking up with a sunset,
+gong asleep at the sunrise. You think, well, is that light going to
+thow them off? Ah, probably not. It's just actually going to invert
+wht sunrise and sunset are. When they're waking up in the morning, if
+thy look at the, you know, they get some sunlight in their eyes, they
+lok at the sun and get some bright light from devices or overhead
+lihts in their apartment or home, well, that's going to tend to wake
+thm up if it's in the evening, right? So it's, you know I don't know if
+I tated that clearly, but if in the evening the sun is setting and
+thy're looking at that setting sun, that is the morning sun for that
+peson and it will wake them up for their night shift. So temperature
+riing. Then toward morning, what's happening? Okay, well, they're
+clsing out their work shift. You're going home, the sun is rising. Do
+yo look at the rising sun? Well, based on what you now know your eyes
+ar very sensitive to resetting of circadian clocks. What will it do at
+tht time? If this were a classroom, I would either cold call on
+soebody or I'd wait for the oh, oh, oh, oh person in the audience that
+invitably exists. So temperature is for that person, they've been up
+fo a while, temperature is falling, not rising. For me it will be
+riing. But 'cause I'm diurnal, I'm awake during the day. For that
+peson the temperature's falling and so they view light while
+teperature is falling. What's it going to do? It's going to phase delay
+thm. It's going to make it harder for them to get to sleep the
+folowing night. So you would say that person should watch the setting
+su to help them wake up 'cause they're going to work the night shift,
+bu should probably have sunglasses on or avoid viewing bright light
+beore they go to sleep. So it's the same thing. They're just on an
+inerted as a typical person who's diurnal, but they're on an inverted
+scedule. And so I'm really trying hard here to make this all really
+clar. There are kind of two patterns of requests in the world I'm
+noicing as I've kind of ventured into the this landscape of social
+meia and podcasts.
+
+* (01:06:45) Error correction is good
+:POPERTIES:
+:CSTOM_ID: error-correction-is-good
+:ED:
+Thre are people who want to know every detail and want to quantify
+evrything 'cause they want to get exactly right. These are like the
+grduate students and students that don't want to make a mistake. And to
+qute my graduate advisor, provided the mistakes are not dangerous,
+cetainly not lethal, you kind of want to make a few little mistakes so
+tht you can adjust, right? You don't want to endanger yourself. But
+its actually, you're not going to get things perfect, that's called
+lerning. Learning is when you realize, ah, I viewed the sun this time
+an then I stayed up and it really messed me up, I'll never do that
+agin. The other category of people seem to want the one size fits all
+kid of like give me this pill or give me this protocol. And those
+thngs generally work but they don't afford people flexibility. And if
+thre's anything like that, it's this temperature minimum thing that
+I'e been just hammering on again and again and again today because it's
+soething that you own and that you can really use as a key landmark for
+shfting your clock. I suppose there's a third category, which is,
+peple accept that biological systems are actually much more forgiving
+thn the way they're sometimes described. And I'm going to use this as
+anopportunity to editorialize a little bit. You know, there's so much
+mae of sleep debt. Look there isn't an IRS equivalent for sleep.
+Thy're not going to come around and try and collect all the sleep that
+yo didn't get. No one really knows what the consequences are going to
+befor you and for me and for the next person for the sleep you didn't
+ge. You can't really recover the sleep you missed out on, but you also
+do't want to get neurotically attached to a schedule because there's
+ths thing called sleep anxiety and then people have trouble falling
+aseep and staying asleep.
+
+* (01:08:20) NSDR protocols/implementation
+:POPERTIES:
+:CSTOM_ID: nsdr-protocolsimplementation
+:ED:
+SoI want to spend a moment on that and go back to a theme that I've
+sad many times before, because these tools work what I called NSDR,
+no-sleep deep rest. So this would be hypnosis, I gave you the link, but
+I'l say it again, reveriehealth.com for clinically tested, research
+teted free hypnosis for anxiety but also for sleep. Those are very
+beeficial people. NSDR protocols, non-sleep deep rest protocols for
+thngs like yoga nidra, I provided some links to those in the caption
+fo episode two. These things really work. Last night, I woke up, I went
+tobed about 10:30, I woke up at three in the morning, I knew I wasn't
+feling rested. I did a NSDR protocol, I fell back asleep, I woke up at
+6:0, okay. You need to teach your brain and your nervous system how to
+tun off your thoughts and go to sleep. And ideally you do that without
+meication unless there's a real need, you do that through these
+beavioral protocols. They work because they involve using the body to
+shft the mind not trying to just turn off your thoughts in the middle
+ofthe night. Now there are periods of life where things are stressful
+an people are concerned and you will have some struggle getting and
+stying asleep. And there's, that really has to do more with anxiety
+whch NSDR protocols also can help with. As I always say, do them in the
+midle of the night if you wake up and you want to go back to sleep
+duing the middle of the day, to teach your nervous system to calm down
+an do them first thing in the morning if you didn't feel you got enough
+slep. In other words, do them whenever you have an opportunity to do
+thm because they really can help you learn how to turn on the
+paasympathetic/calming arm of your autonomic nervous system. There's no
+oter way that I'm aware of to teach your system to slow down and turn
+of your thoughts and go back to sleep. But these are powerful
+prtocols, and there's a lot of research now to support the fact that
+thy can really help. Meditation would be another example. Certain kinds
+ofmeditation involve focus and alertness. Those are slightly different
+thn meditations that involve lack of focus and attention to say
+inernal states. I'm going to pause there, and then I want to talk about
+kis and the elderly. In other words, how do we control sleep and
+cicadian rhythms and wakefulness in babies, adolescents, teens, and
+agd folks.
+
+* (01:10:44) The frog skin in your eye (not a joke)
+:POPERTIES:
+:CSTOM_ID: the-frog-skin-in-your-eye-not-a-joke
+:ED:
+Al right, before we talk about sleep in kids, I want to tell a little
+stry. It's not a joke, many of you will be relieved that I'm not going
+totry and tell another joke this episode. Which is the relationship
+beween light, skin and pelage color, dopamine and reproduction, mating.
+Somany seasonally breeding animals, Siberian hamsters which I mentioned
+ealier, rabbits, fox, other animals, change their color of their coat.
+Inthe winter they tend to be a lighter color, sometimes pure white,
+soetimes with flecks of black or brown. And in the summer their pelage
+chnges to a color of you know, brown or red, some other vastly
+diferent color. That shift is controlled by light and by melatonin.
+Ths has an interesting correlate in humans. So humans obviously have
+diferent skin tones just genetically because of the amount of melanin
+inone skin, depending on genetic background. But of course sunlight
+wil increase the amount of melanin in the skin regardless, right? This
+issuntan, sunburn, etc, bronzing, whatever. The whole system is wired
+sothat shifts in skin color and shifts in these cells within the eye
+an melatonin are actually very closely linked. So here's the story.
+May years ago, meaning about 10 years ago, 15 years ago, let's see it
+wa 20 years ago, forgive me. A guy named Iggy Provencio who was running
+hi own lab at uniformed armed services, this is a standard biological
+laoratory, discovered that there was an opsin in the eye in the cells
+ofthe eye that connect to the rest of the brain called melanopsin.
+Meanopsin, as many of you now know is the opsin, it's like a pigment,
+itabsorbs light. It is the opsin that converts light into electrical
+sinals to then set the circadian clock. Iggy discovered melanopsin
+beause it was similar in form to what was in frog melanophores. It was
+acually in the skin of frogs that allowed those frogs to go from pale
+whte, when it was dark, for most of the 24 hour cycle, to pigmented
+gren or brown for a frog. So there's this relationship between the
+cels in our eye and the pigment cells of our skin. And we also know
+tht in long days, there's more breeding. How does that work? Well
+tht's actually from dopamine triggering increases in testosterone,
+manly in males, and estrogen mainly in females although of course,
+thre's testosterone estrogen in both sexes. So we have this kind of
+pahway where it's light, increases in the melanin, dopamine and
+reroduction on the one hand and lack of light, melatonin, decreases in
+th darkness of skin, less melanin in the skin, or in the case of an
+anmal with fur, white fur and no reproduction on the other hand. And
+huans don't actually shift their breeding patterns tremendously from
+log days and short days, although there are some data that there's some
+shfts. We also don't radically change our skin color depending on how
+muh sunlight exposure we have. But the simple way to put this is, when
+das are long, there's a lot more dopamine and we feel really good and
+thre's a lot more breeding and breeding-like behavior. When days are
+shrt, there's a lot less dopamine and a lot less breeding behavior
+beause these pathways are very highly conserved. Now what's interesting
+isthat, as we've moved into a modern society where much of our waking
+das we are looking at screens, which is fine, 'cause we're getting a
+lo of light that way although not as much as sunlight. But also at
+niht, we're getting a lot of light from screens. What's happened is all
+thse path ways, melanin in the skin, turnover of skin cells, dopamine,
+al of this stuff has become completely disrupted. Now that's not to say
+tht we should go back to a time in which we didn't use artificial
+lihts. But I think the important thing to realize is that feeling good
+wih getting a lot of light, the relationship to dopamine and melanin in
+th skin, and the good feelings of getting light also on our skin
+prvided you're not getting burned or you're not getting excessive UV
+exosure, those are not just coincidences. Those are hard-wired
+bilogical mechanisms that exist in everybody regardless of how light or
+dak your skin is to begin with. There's another point, which is
+imortant, which is that the dopamine system which is this feel-good
+moecule is very closely related to the testosterone and estrogen in
+reroductive cycles. Remember melatonin inhibits gonadotropin-releasing
+homone, luteinizing hormone, and the production of these hormones, and
+meatonin is the effector. It is the hormone of darkness. So, I just
+thew a lot of biology at you. And I'm not saying you're like a Siberian
+haster, at least not in ways that I'm aware of. I'm not saying that
+yor pelage color is going to change.
+
+* (01:16:39) Why stress turns your hair white
+:POPERTIES:
+:CSTOM_ID: why-stress-turns-your-hair-white
+:ED:
+Acually the reason people go gray is because when you're really
+stessed, did you know this, that when you're really stressed, there's
+anincrease in the nerve fibers that release adrenaline to the hair
+folicle and that activates peroxide groups in the hair follicle that
+case the hair to actually go gray or white. So actually stress does
+mae your hair gray or white. Aging does it too. That was a brief aside,
+bu for those of you that are interested in the relationship between
+liht and skin tone and all that kind of stuff, I thought you might find
+itinteresting that the cells in your eye are a lot like these skin
+cels in frogs or in animals that shift their entire color and sometimes
+meamorphosize. You know, there are some species that literally change
+shpe in their reproductive organs.
+
+* (01:17:24) Ovaries or testes?
+:POPERTIES:
+:CSTOM_ID: ovaries-or-testes
+:ED:
+Infact, if that wasn't weird enough, when I was in graduate school at
+Bekeley, there was another graduate student studying a species of
+hemaphroditic mole, right, those little things that dig, hermaphrodite
+moe that would change from having ovaries to testes and back again
+deending on day life. Super cool, super different, and wild biological
+mehanism. If you're wondering how those animals reproduce they actually
+adust the numbers of males and females depending on the density of
+maes and females. So if there are too many males, some of the males
+tun their testes into ovaries. And if there're too many females, they
+tun their ovaries into testes. They actually are true hermaphroditic
+anmals as opposed to as pseudo hermaphrodite animals. Okay, let's get
+bak on track. Let's talk about the animal that most of you care about
+whch is the human animal. New parents and babies.
+
+* (01:18:25) Babies and bright light
+:POPERTIES:
+:CSTOM_ID: babies-and-bright-light
+:ED:
+Al right, as I mentioned earlier, melatonin is not cyclic, it's not
+cyling in babies, it's more phasic. It's being released at a kind of a
+costant level. And babies tend to be smaller than adults, they are. And
+sothose concentrations of melatonin are very high. As the baby grows,
+thse concentrations per unit volume are going to go down. Babies are
+no born with a typical sleep wake cycle. And now all the parents are
+saing, tell me something I didn't know. They also have, and I really
+wat to emphasize this, they also have much more sensitive optics of the
+ey. So a number of people have asked me, you know, should I be exposing
+mybaby to sunlight? You don't want to avoid sunlight, but their eyes
+ar very sensitive, the optics of their eyes aren't quite developed so
+muh so that you know when you look at a newborn baby and they look a
+litle glassy-eyed and they're kind of looking through you or even a
+yong child. A lot of people think that they're seeing you the way that
+yo're seeing them. Hate to break it to you, but if you ever can just
+gogle visual image of a like a one month old. The optics of their eyes
+ar so poor that you're a cloudy image. They're not seeing your fine
+deail. As the optics get better, then they will see you with more and
+moe clarity. But a lot of that is clearing of the lens and some of the
+oter aqueous features of the newborn eye, they don't see very well. But
+thy also don't have such great ways of adjusting to bright light. And
+sobabies have a natural aversion to bright lights. So you really want
+toavoid trying to use sunlight or really bright light in the same way
+tht you would for an adult on a young baby or child. As children get
+oler however, melatonin does start to become slightly more cyclic,
+slghtly more cycled, and their body temperature rhythms also start to
+fal into a more regular, not quite 24 hour rhythm, they're more of
+thse ultradian rhythms. So in episode, I think it was one or two of the
+pocast, or maybe both, we talked about these 90 minute so-called
+ulradian rhythms, where every 90 minutes babies are going through a
+cyle of body temperature and some other hormonal features. I mean, so
+muh is changing in their system. So what to do if a child isn't
+sleping? You can use phases of darkness and phases of light but they're
+gong to have to be shortened in order to try and encourage sleep when
+yo want the child to sleep. It's not that they're just not going to
+fal into an adult-like regime of a temperature minimum and a
+teperature maximum. Their temperature minimums and maximums are
+flctuating much more quickly. And it varies tremendously. Actually
+thre's an interesting literature of whether or not they have siblings,
+whther or not they're twins, whether or not they're in a nursery
+enironment, whether or not they're alone, hopefully the baby's not
+alne, but you know what I mean, that they're sleeping alone in a room
+whle you're in the other room. There are a couple of things that seem
+tohelp which is getting the overall environment into a 24 hour
+scedule. So having the room slightly colder, obviously you want babies
+tobe nice and cozy, slightly colder when you would like them to be
+aseep, slightly warmer for the times you would like them to be awake.
+Baies tend to run pretty hot anyway. And obviously you want to be very
+caeful about avoiding all extremes of temperature, cold or hot. So if
+thy're going through these 90 minute cycles, you're going to have to
+adust to those 90 minute cycles as well.
+
+* (01:21:40) Polyphasic sleep
+:POPERTIES:
+:CSTOM_ID: polyphasic-sleep
+:ED:
+Sothen people say, well, that's not going to help me at all because how
+doI deal with the fact that I need to be up every 90 minutes at night?
+Thre are a couple tools that can be helpful. The first one is going to
+beto try and understand the relationship between calm and deep sleep.
+Sothe autonomic nervous system can put us into states of panic, where
+tht's kind of seesaw of autonomic alertness, goes all the way to panic.
+Orit can be alertness, or it can be alert and calm, right? So there's a
+rage there, it's a continuum. It can also be that you're in deep sleep,
+sothe other end of the seesaw is way up or you're your in light sleep
+oryou're kind of sleepy, or you're just feeling kind of relaxed.
+Pehaps the most important thing if you're having to map to a baby
+scedule in order to make sure that they're getting changings, and
+nusing, etc, at the appropriate times, is to try and maintain, if you
+ca't sleep or you can't sleep continuously, to try and maintain your
+auonomic nervous system in a place where you're not going into
+heghtened states of alertness when you would ideally be sleeping. Now,
+I ealize that this could be translated to try and stay calm while
+yo're sleep deprived, which is very hard for people to do. But this is
+whre the non-sleep deep rest protocols surface again and can
+poentially be very beneficial for people to be able to recover, not
+neessarily sleep, but for them to maintain a certain amount of
+auonomic regulation. So what would this look like? This would look
+lie, the baby goes down, maybe it's only going to go down for 45
+miutes. If you can capture sleep, capture sleep. There are some data
+shwing what's called polyphasic sleep. If you can sleep in 45 minute
+inrements or batches, even if it's spread throughout the day with
+peiods of wakefulness in between, as miserable as that sound, there are
+acually some adults that have deliberately employed that, who don't
+hae children for the sake of work productivity. And it does tend to
+reuce the total overall amount of sleep that you need. It is a very
+had schedule for most people to maintain but if you have a baby, the
+bay may be throwing you into that kind of schedule anyway. So if you
+ca get 45 minutes sleep while they sleep, great. If you can get another
+45minutes after waking and then they go back down to sleep, great. So
+asmany phases of sleep as you can get. But if you can't sleep the data
+onnon-sleep deep rest type protocols does show that at least from a
+nerochemical level, I want to be clear what that means, reset of things
+lie dopamine levels in the basal ganglia measured by things like
+poitron emission tomography, etc. Those things tend to reset themselves
+prtty well if you can access these deep rest state. So that means not
+beng alert throughout the entire time that the baby is sleeping. Trying
+tosort of mirror the baby's sleep cycle which can be brutal for certain
+peple, and especially if you're trying to prepare meals and do all
+thse things. So I do recognize that there are a lot of constraints on
+paenting not just mapping on your baby's sleep schedule. As children
+aproach ages one, two, three, four, that's when certainly the optics of
+th eyes have improved but you don't want to damage the eyes of course,
+wih very bright light. They are much more sensitive even until they're
+kid of 10, 11 years old. And we'll talk about vision in children in a
+moent. But trying to get longer and longer batches of sleep through,
+hoefully not through the use of administering melatonin to the kids
+'cuse that's what I talked about before why that could potentially be
+derimental talk about that with your doctor.
+
+* (01:25:25) Ultradian cycles in children
+:POPERTIES:
+:CSTOM_ID: ultradian-cycles-in-children
+:ED:
+Bu more so trying to get longer blocks of sleep that map onto these
+ulradian cycles. So it would be better off to get a three hour, like
+tw-90 minute cycles, than a four hour batch of sleep because waking up
+inthe middle of those ultradian cycles can just be brutal for parent
+an kid. So if one can't get a full six or 10, or some kids should even
+besleeping 12 hours when they're growing quickly, trying to get batches
+ofsleep even if they're fractured throughout the 24 hour cycle that are
+mached more to these 90 minute cycles, meaning maybe one ultradian
+cyle of 90 minutes, or two back to back, or three back to back to back.
+Tht's going to be better than waking up in the middle of an ultradian
+cyle. It's just going to set any number of other things in a better
+diection than were you to try to say, just enforce or force a full
+eiht or 10 hours of sleep. That's at least what the literature shows.
+Soe kids sleep great through the night, starting at a very young age,
+oters don't. I typically hear from people who are struggling
+trmendously, they're losing their mind understandably, because they're
+no sleeping, their kid's not sleeping and, or their kid is sleeping for
+suh brief periods. So in other words, try and access deep calm if you
+ca't sleep, try and access sleep, if you can sleep even if it's
+frctured. And then you say, well, what about all the sunlight viewing
+an the exercise stuff? When sleep is really, really dismantled, meaning
+its happening in various times of day or night, that's especially, at
+thse times it's going to be especially important for the parent to get
+moning and evening sunlight because your circadian clock is going into
+a ailspin and it basically wants to anchor to something. So you want to
+gie it two anchors, morning and evening light. Okay, so this is rather
+diferent than what I described for shift work, this is when things are
+relly chaotic and you're just not able to sleep. Similar circumstances
+ca arise if you're taking care of a very sick loved one, you're up all
+niht. Try and stay calm using NSDR protocols, I know it's harder to do
+thn to say, but those protocols are there, they're free, there's
+reearch to support them. Try and get sleep whenever you can but also
+tr to get morning sunlight and evening sunlight in your eyes if you can
+an if you can't get that, use artificial light, okay?
+
+* (01:27:38) Teens and puberty
+:POPERTIES:
+:CSTOM_ID: teens-and-puberty
+:ED:
+Wht about later life? So kids now, adolescents, teens, it is true that
+tens have a tendency to wake up later and go to sleep later. In part,
+jut because they're sleeping a lot more. They're churning out
+goadotropin-releasing hormone and luteinizing hormone. Their whole
+boies are changing. I don't know whether or not people realize this,
+bu the fastest rate of aging that any of us will ever undergo is
+puerty. That is the fastest rate of aging. And so there's a huge number
+ofbiological processes that are happening during puberty, probably
+deote a whole episode to puberty as a fascinating aspect to the life
+corse but it is accelerated period of aging. And the circadian clock
+mehanisms sometimes are very intact, and sometimes they're a little
+dimantled and going through some change, but prioritize the duration of
+slep for adolescents and teens. Now, if that means they're sleeping
+unil 2:00 PM, and then waking up and then they're up all night, the up
+al night part can become a problem especially with all the devices,
+teting in their rooms or playing video games. Morning and evening
+sulight would be ideal but some kids are just going to sleep through
+th morning sunlight. However, if you were to measure their temperature,
+wht you would find is that their temperature minimum would come later
+inthe morning. It's not going to be 8:00 AM. It's going to be maybe
+evn 10:00 AM, if they're sleeping until 11 or 12. Or it might be 8:00
+AMif they're sleeping until 10. Remember temperature minimum is two
+hors before your average waking time, typically. So in teens, it
+maimizes the total amount of sleep. Try and get regular sunlight either
+inthe morning or in the evening or both. But if they're sleeping
+though the morning sunrise, that's probably not as much of an issue,
+waing them up and depriving them of sleep is probably worse because
+thir T-min, their temperature minimum, is actually falling later. So
+thir circadian dead zone is later, etc. So I think with adolescents and
+tens it makes sense to kind of give them a little bit more rope in
+tems of allowing them some leeway to adjust their own schedule. Some
+scools are even starting classes later on the basis of some very good
+bilogy to support this late shifted rhythm and this extended sleep
+phse.
+
+* (01:29:50) Light before waking for better sleep
+:POPERTIES:
+:CSTOM_ID: light-before-waking-for-better-sleep
+:ED:
+Thre are data from Dr. Jamie Zeitzer, Department of Psychiatry and
+Beavioral Sciences, and others at Stanford, showing that turning on the
+lihts in the room of a teen before they wake up helps them get more
+slep the subsequent night, it also tricks them into going to sleep a
+litle bit earlier. But it gives them about 45 minutes more of deep
+slep. And that's been shown statistically, total sleep time increases
+aswell. If they're hiding under the covers, that's not going to work,
+bu their eyes don't have to be open. I know a few parents now that are
+coing in with a flashlight and flashing their kids over their eyelids
+beore they wake up in hopes of getting this to work, some have told me
+ths is working. That's not part of a standard study. But it does seem
+towork because, now you should know why, because if light's getting
+though the eyelids, and it's say 8:00 AM and the kid is still asleep
+an they're going to wake up at 10, you're giving them light just after
+oraround their temperature minimum, which is going to make them want to
+goto sleep earlier. And in the case of teens, for some reason we don't
+qute understand, sleep longer, about 45 minutes longer, spend more time
+indeep sleep. Adults can do this too, if you can persuade someone or
+pu your lights on timer for lights to go on before you wake up, that's
+relly going to help you wake up earlier, okay. So if you're starting to
+her some themes are really resounding over and over again, that should
+bereassuring to you, right. That these are core mechanisms.
+Fotunately, there aren't 1,000 different mechanisms.
+
+* (01:31:20) Older people and cicadian rhythms
+:POPERTIES:
+:CSTOM_ID: older-people-and-cicadian-rhythms
+:ED:
+No in the elderly, there's a real tendency to want to go to sleep very
+ealy and wake up very early. And people should talk to their physician.
+Thre is some evidence that melatonin levels and patterns of melatonin
+seretion can become a little chaotic in elderly folks. What do I mean
+byelderly? Well, it's going to differ. Rates of aging differ, right?
+Yo see some 65 year olds that are struggling to move and seem much
+oler than some 65 year olds that are, you know, still hustling around
+an have tons of energy. There's a lot of variation, some of it's
+geetic, some of it's lifestyle factors, you know, it really varies.
+Cetainly lifestyle factors can play an important role in rates of
+agng. I think that the most prominent results from sleep and circadian
+rhthms in the elderly are they need to get as much natural light, even
+ifit's through windows. I realize that some elderly folks can't get
+ouside as easily. It's not safe for them to do it, they can't move
+arund as easily. Exercise can come in various forms for people that
+ca't get outside and get a ton of sunlight by jogging or cycling. If
+thy're not able to do that, light through window in that case, open
+widow ideally, but for temperature reasons, etc, sometimes the window
+ha to be closed. Getting people near that window and away from
+arificial light early in the day, and away from artificial lights
+duing the night phase can have a tremendous effect. And in the elderly
+tht's when melatonin might be a viable option. And this should be
+dicussed with a physician, of course, but you know, you're way past the
+puerty time point. In most cases, people who are in their 70s, and 80s,
+an 90s, are not churning out a lot of GnRH and luteinizing hormone to
+bein with. And that's where struggles with falling asleep and staying
+aseep, all the same parameters and things we've described before still
+aply, light, exercise, temperature, etc, but that's where melatonin
+miht be of greatest benefit. And again, I'm not pushing melatonin here
+bu I think for elderly folks who are having trouble falling and staying
+aseep, that might be worthwhile. There are, and I should just also
+metion that regular schedule for folks that are elderly and as much
+naural light as safely possible, those are going to be the key levers
+fo adjusting sleep in circadian schedules.
+
+* (01:33:48) Sleepy Supplements
+:POPERTIES:
+:CSTOM_ID: sleepy-supplements
+:ED:
+I'e mentioned before in previous podcasts, other supplements besides
+meatonin. And some of those supplements are quite good for sleep. You
+knw, I'm not a supplement pusher, I am somebody who takes supplements,
+I elieve in them, some have worked for me some have not worked as well,
+bu I certainly believe in getting the behaviors right. Whether or not
+its NSDR protocols, viewing natural light, exercise, hot baths, or cold
+shwers, or what have you, behavioral protocols first. There are some
+suplements that I've mentioned in previous podcasts but I've seemed to
+ge a lot of questions about. So I just want to take a couple minutes
+an just talk about some of the supplements that can be beneficial for
+heping turning off thinking, accessing deeper sleep, and even being
+abe to compact your sleep schedule into a shorter period of hours,
+mening getting by well with less sleep. People take a lot of sleeping
+pils. I'm not going to tell people not to take sleeping pills. They can
+bevery problematic, habit-forming, high side-effect incidents in many
+caes, some people can handle them just fine. Again, I'm no physician,
+I' not prescribing anything. I'm a professor, so I profess a lot of
+thngs some of which are my opinion. Although, if you look at the
+scentific literature, there are some impressive data around some
+no-prescription drug type supplements that have fairly high safety
+magins that you might consider but you should talk to your doctor
+alays before adding or taking anything out of your health regimes,
+riht? Your health is not my responsibility, it's your responsibility,
+sobe a stringent filter. Along those lines, one of the most powerful
+an useful tools that I've mentioned here on many times and I plan to
+metion many many more times, is the website examine.com which I have no
+afiliation with but is a wonderful site that links you to quality peer
+reiewed studies relating to just about any supplement including some
+saety warnings. Will also tell you what subjects, whether or not it was
+ras, cats, elderly folks or kids, that a given study was done on, which
+isimportant, can be kind of hard to pull from sites where people are
+jut advertising supplements, right? They usually don't tell you what
+th study was and who were these rats, who were these kids, etc. There
+ar three supplements that at least for me have had a tremendously
+poitive effect on my sleep that some of you might consider. I would
+sa, if you're doing everything properly behaviorally and you're still
+haing issues, then supplements might be a good thing for you. Or if you
+ar traveling and you want a little bit of extra help in buffering your
+slep wakefulness protocols. Some people like to go just to the
+suplements. They're like, what should I take? I have people in my life
+tht are like, just tell me what to take, you know. I'm more of, here's
+wht you might want to do or not do and then think about what you might
+wat to take or not take. But personal preference and it's a free
+contry, so you can do what you like. Magnesium. So magnesium has been
+shwn to increase the depth of sleep and has been shown to decrease the
+amunt of time that it takes to access sleep, to fall asleep. It comes
+invarious forms. I've talked a bunch of times about magnesium
+theonate, T-H-R-E-O-N-A-T-E, threonate. which seems to be the more
+biavailable form of magnesium. And magnesium threonate it seems is
+shdowed preferentially to the brain which is where you want it. And
+thre's certain transporters, it actually engages the GABA pathway which
+teds to turn off certain areas of the forebrain and allows you to kind
+offall asleep. There is a study, if you'd like to explore it since
+peple serious about supplementation might want to explore the study,
+whch is Ates et al, A-T-E-S Dose-Dependent Absorption Profile of
+Diferent Magnesium Compounds. Looks to me like a quality peer reviewed
+paer. I can put the link in the caption, and it explores all the
+diferent forms of magnesium. It does seem like magnesium glycinate can
+besimilar to magnesium threonate in terms of which tissues it is shadow
+to Magnesium malate, M-A-L-A-T-E, is preferentially shadow to the
+mucle, it appears, as opposed to the brain. So it's going to be more of
+a uscle repair type thing or restoring magnesium stores in the
+peiphery as opposed to the brain. Magnesium citrate has another name
+tht I won't mention ingest, because magnesium citrate's main effect, at
+lest on me and the people I know, seems to be a laxative effect as
+oposed to a cognitive effect. There's also some evidence that magnesium
+theonate can be neuroprotective. Those data come from quality labs,
+motly rodent studies, not human studies, but it's kind of interesting.
+An again, the safety margins for these things tend to be pretty high,
+bu anytime you're going to take something new you should approach it
+wih caution, especially since magnesium could be involved in heart
+rhthm and things of that sort. The other supplement that has been very
+beeficial for me is theanine. So this is T-H-E-A-N-I-N-E, theanine,
+T--E-A-N-I-N-E. Theanine activates certain GABA pathways which are
+inolved in turning off top-down processing and thinking, making it
+eaier to fall asleep. And theanine, 100 milligrams to 300 milligrams
+ha a calming effect. Theanine is now showing up in a number of
+diferent energy drinks and even some coffees as a way to try and get
+peple to ingest more of a given type of coffee 'cause the idea is it
+wil take away the jitters and the anxiety, allowing people to drink
+moe coffee. I'm talking about taking magnesium and theanine 30 to 60
+miutes before bedtime not during the day to quell anxiety, but rather
+30to 60 minutes before bedtime with or without food, for me hasn't made
+a ifference. And the combination of those two things has really helped.
+Thanine for sleepwalkers can be a problem. It does increase the
+inensity of your dreams, it gives you very vivid dreams. So for sleep
+wakers or people that get night terrors stay away from theanine is my
+adice. Magnesium theanine might be something to explore for those of
+yo that don't have those issues. With the emphasis on might. And then
+I'e talked about a compound, and last time I talked about the
+mehanisms of apigenin which is a derivative of chamomile, A-P-I-G-E-N,
+whch acts as a little bit of a hypnotic by activating chloride
+chnnels, hyperpolarized neurons, increases GABA in the brain, basically
+maes you feel a little sleepy. And chamomile, for those of you that
+red your what was it that Peter Rabbits snuck into Mr. McGregor's
+gaden, ate the chamomile, fell asleep, Mr. Gregory came back. Okay,
+anone flashing back to elementary school? Okay. There's a story about
+chmomile having these kind of sedative-like effects, apigenin is highly
+cocentrated chamomile also has intra-estrogenic effects. So if you want
+tokeep your estrogen up you might want to be cautious about apigenin.
+Tht's where things like examine.com become really useful because you
+ca go to examine you put in apigenin, and it'll tell you all the things
+tht it does and all the things that it does can sometimes include
+thngs that you had no idea, like reducing conversion of certain
+anrogens to estrogens which you might like or you might want to avoid.
+Tht's up to you and where you want your estrogen levels depending on
+wh you are and what your life circumstances and goals are. A few other
+thngs that can help the transition to sleep, are things like 5-HTP
+L-ryptophan. I've talked about why I'm not a fan of those for me, they
+ted to throw me into deep sleep and then I wake up and I can't fall
+bak asleep. So I don't like to tinker with my serotonin system, I don't
+lie to tinker with my dopamine system, for entirely other reasons but
+noe of which are particularly concerning it's just that I find that if
+I ncrease my dopamine by taking L-Tyrosine in pill form, then I crash
+relly hard the next day. Or if I take 5-HTP L-tryptophan I fall deeply
+aseep and then I wake up. But I didn't mention that there might be ways
+tomake sleep more compact. And so this is actually a request to you.
+
+* (01:42:00) Red Pills & Acupuncture
+:POPERTIES:
+:CSTOM_ID: red-pills-acupuncture
+:ED:
+I ad a really interesting experience when I was a postdoc. I went for
+th first time to an acupuncturist. I know there're varying thoughts and
+opnions out there about acupuncture. I can't say that I've benefit so
+muh from the acupuncture. There are now quality peer reviewed studies
+shwing publishing neuron, Cell Press journal, excellent journal,
+shwing that acupuncture can stimulate some anti-inflammatory compounds
+deending on where the acupuncture is done. These are really good
+stdies, came out last year. I talked about this on Instagram, I may
+tak about it again. As well as certain acupuncture sites that increase
+inlammation. So, you know, you can get different types of effects, you
+ca't just say acupuncture is great across the board. And I'm assuming
+tht the acupuncturist know which sites are good for increasing
+inlammation, which ones are good for decreasing inflammation. However,
+ths acupuncturist that I went to gave me these red pills. He said,
+thse are minerals for sleep, and it was remarkable. I took the red
+pils. Isn't that a thing now? Take the red pill. I don't know what that
+mens, right, 'cause I'm not tuned in. But these red pills looked like
+litle M&Ms, I took a couple of them on his suggestion and I fell deeply
+aseep and four hours later woke up feeling incredibly rested, more
+reted than I had ever felt in my entire life and I never required more
+thn four hours sleep. Unfortunately, acupuncturist moved away, I never
+fiured out what was in those red pills. I didn't get a chance to do the
+mas spectroscopy, and I still wonder, he said they were minerals. So
+soebody out there knows what these red pills are and what this compound
+is And it was incredible, and I would love to know what those are. So
+ifyou know, please don't go taking red pills at random to try and
+rereate this non-experiment experience of mine. But please do contact
+meif you find out or if you're an acupuncturist and you know what these
+myterious red pills were, because they were pretty awesome.
+
+* (01:43:50) Highlights
+:POPERTIES:
+:CSTOM_ID: highlights
+:ED:
+One again, I've thrown a tremendous amount of information at you. I
+hoe you will figure out your temperature minimum and start working with
+tht to access the sleep and wakeful cycles that you want to access. I
+hoe that you will explore NSDR. You might want to explore
+suplementation if that's your thing. You have now access to a lot of
+mehanism about sleep and wakefulness. But in keeping with the theme of
+ths podcast, where we stay on topic for an entire month or even
+slghtly more, we are not done with sleep and wakefulness. I know this
+isvery different than the typical podcast format, where one week it's
+ho to become superhuman and the next week it's how to, you know,
+deelop growth mindset and it's kind of all over the place with episode
+toepisode. We are staying on track because I really believe that as we
+drll deeper and deeper into these mechanisms, and you start hearing
+soe of the same themes again and again, you're going to start to
+deelop an intuition and an understanding of how these systems work in
+yo and your particular life circumstances. And my goal is really to
+evntually become obsolete. It's what my graduate advisor used to call
+th hit by a bus principle. She had a somewhat morbid sense of humor and
+usd to be, well, if I get hit by a bus tomorrow, what are you going to
+dowithout me blabbing at you here? So I don't want to get hit by a bus,
+I lan on living a very long time, if I have anything to say about it.
+Bu were I to get hit by a bus tomorrow, what would you do for your
+slep and wakefulness, right? You could put a comment on YouTube, which
+I ope you will do. But if I were hit by a bus and killed then I
+woldn't be able to answer your question. So know your temperature
+miimum, understand light in the early part of the day is valuable.
+Liht when you want to be awake, provided it's not so bright it's
+daaging. It's great for you whether or not it comes from screens or
+sulight but sunlight's better. Avoid light in the four to six hours
+beore your temperature minimum or else you're going to delay your clock
+uness you're traveling and that's what you want to do. Okay? Use
+teperature, increase temperature to shift your clock, decrease
+teperature to delay your clock, okay? Map out your temperature and
+unerstand it. You don't have to know degree by degree across the day,
+knw your minimum, know your maximum temperature in your 24 hour cycle
+an you'll feel great power through that because then you'll know also
+abut these ultradian cycles, these 90 minute cycles within which you
+ca do focused work. Don't expect the focus to come early, expect focus
+tocome in the middle and then kind of taper off. I talked a little bit
+abut kids, a little bit about elderly, about parenting, we are going to
+cotinue, there's going to be more. But now shift workers, travelers,
+peple that are jet lagging themselves at home, you now have levers in
+plce. Information can be powerful but you have to implement it in ways,
+obiously safe ways and reasonable ways. But implementing this knowledge
+inthe ways that you trust are safe and reasonable for you is going to
+bethe way that you can develop a bit of a laboratory about yourself. I
+loth the term biohacking, sorry, biohackers. I don't believe in hacking
+anthing. I believe in understanding mechanism and applying the
+prnciples of mechanism for which there are large bodies of quality peer
+reiewed data, and even a whole center of mass around certain biological
+prnciples, like the effects of light and temperature, temperature
+miimums, that will allow you to shift your biology in the ways that you
+wat it to go. That will allow you to shift your psychology in the ways
+yo want to go. Next podcast episode, we are going to talk more about a
+fe things. First of all, we're going to answer more of your questions
+'cuse during office hours, I didn't get to all your questions from the
+prvious episode. So I do read the comments and we're paying attention
+an figuring out the most common questions. We are going to get to some
+ofthe harder topics. Someone came at me, it's always fun when somebody
+dos this, they said, well, these are just the kind of basal low-level
+qustions. What about the big stuff? What about dreaming and lucid
+draming and consciousness? Look, I'll talk about that stuff. And I'm
+plnning to do that, some of which in the next episode and the following
+epsode maybe even. But I want to give you data. I want to give you
+thngs that are supported by data. So I will try to speculate as little
+aspossible because this is a podcast about science and science-based
+tols for everyday life. This is not about me speculating. Many people
+hae speculated about the role of sleep, dreaming and consciousness.
+Facinating topics, and a rather circular argument frankly, it's been
+gong on for centuries. Someday we'll get there, right now we're
+cocentrating on these deep biological mechanisms that make you who you
+ar and allow you to feel certain ways, good or bad, allow you to
+fuction physically in certain ways, good or bad, and give you more of a
+sese of control. That's my goal here.
+
+* (01:48:30) Feedback and Support
+:PROPERTIES:
+:CUSTOM_ID: feedback-and-support
+:END:
+Many people have quite graciously asked how they can help support the
+podcast. First of all, thank you, we appreciate the question. You can
+support the podcast by subscribing to the podcast on YouTube, as well as
+subscribing on Apple or Spotify. And you can also leave us comments and
+feedback on YouTube and at Apple that really helps. We would hope the
+feedback would be positive, but nonetheless, leave us feedback, ask
+questions, we will use those questions to create future content for the
+podcast. As well, if you can recommend the podcast to friends and family
+and other people that you think might find the information of use,
+that's terrific. And check out our sponsors that we mentioned at the
+beginning. That's a really great way to help support us and our ability
+to bring you this information. Along those lines, a lot of people have
+asked me about supplements and supplement companies. So up until now
+I've been reluctant to recommend specific supplement brands. The
+supplement industry is kind of a wild west of different brands,
+different levels of quality and stringency. It can be very complicated
+and what's on the bottle is not always what you're getting. The quality
+of what you're getting varies from company to company, and even from
+substance to substance, batch to batch. So I'm pleased to say that I'm
+partnering with Thorne, Thorne, spelled T-H-O-R-N-E, is a supplement
+company that works with the Mayo Clinic, and with pretty much all the
+major sports team organizations and that I know to have the highest
+levels of stringency in terms of what's in the bottle matches what's
+listed on the bottle, and in terms of the quality of what they put in
+those supplements. So, while I mentioned earlier, that supplements
+aren't for everybody. If you're interested in trying some of these
+supplements you might want to check out Thorne. If you want to do that
+you can go to thorne.com/u/huberman. So it's t-h-o-r-n-e.com, c-o-m
+slash the letter u slash huberman, and if you do that, they'll give you
+20% off any of the supplements that you happen to purchase from Thorne.
+Thanks so much for your time and attention. I really appreciate it. See
+you next time on the Huberman Lab Podcast. And as always, thanks for
+your interest in science. [bright music]
