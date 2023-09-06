@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6b6db7c0-ece3-4922-98e3-f33f562b9b31
+:END:
+#+TITLE: 2023-09-06
+#+DATE: 2023-09-06
+#+FILETAGS: journal
+
+- 2023-09-06 ◦ [[https://www.reddit.com/r/golang/comments/16aovop/golang_for_use_in_safety_critical_systems/?rdt=58777][Reddit - Dive into anything]]

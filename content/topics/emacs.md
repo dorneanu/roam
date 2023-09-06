@@ -1,5 +1,6 @@
 +++
 title = "Emacs"
+author = ["Cyneox"]
 tags = ["emacs", "ide"]
 draft = false
 +++
@@ -190,6 +191,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 ### Productivity {#productivity}
 
+-   2023-09-06 ◦ [Easily repeat Emacs functions: a repeat post](https://zck.org/emacs-repeat-mode-emacs-repeat-mode)
 -   2023-04-25 ◦ [GitHub - karthink/project-x: Ehancements to Emacs' built in project library.](https://github.com/karthink/project-x)
     -   restore open files, buffers
 -   2023-02-01 ◦ [Emacs micro motions and hacks - YouTube](https://youtu.be/4-ubCJF9htw)

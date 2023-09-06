@@ -11,5 +11,6 @@
 - also Docker uses eBPF technologies under the hood
 
 * Resources
+- 2023-09-06 ◦ [[https://sysdig.com/blog/ebpf-offensive-capabilities/][eBPF Offensive Capabilities - Get Ready for Next-gen Malware – Sysdig]]
 - 2022-09-13 ◦ [[https://changelog.com/news/the-power-of-ebpf-pj2V][The power of eBPF |> Changelog]]
 - 2022-09-13 ◦ [[https://ebpf.io/][eBPF - Introduction, Tutorials & Community Resources]]

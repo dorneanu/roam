@@ -1,5 +1,6 @@
 +++
 title = "eBPF"
+author = ["Cyneox"]
 draft = false
 +++
 
@@ -13,5 +14,6 @@ draft = false
 
 ## Resources {#resources}
 
+-   2023-09-06 ◦ [eBPF Offensive Capabilities - Get Ready for Next-gen Malware – Sysdig](https://sysdig.com/blog/ebpf-offensive-capabilities/)
 -   2022-09-13 ◦ [The power of eBPF |&gt; Changelog](https://changelog.com/news/the-power-of-ebpf-pj2V)
 -   2022-09-13 ◦ [eBPF - Introduction, Tutorials &amp; Community Resources](https://ebpf.io/)

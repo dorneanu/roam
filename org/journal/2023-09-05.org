@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9f00d83f-14ce-4c35-b0c6-142d40cfdadb
+:END:
+#+TITLE: 2023-09-05
+#+DATE: 2023-09-05
+#+FILETAGS: journal
+
+- 2023-09-05 ◦ [[https://www.rezonate.io/blog/github-misconfigurations-put-gcp-aws-in-account-takeover-risk/?utm_source=reddit&utm_medium=social&][From GitHub to Account Takeover: Misconfigured Actions Place GCP & AWS Accounts at Risk - Rezonate]]
