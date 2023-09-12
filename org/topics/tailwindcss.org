@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c6f4b4dc-5573-4745-aa08-410a488e3f92
+:END:
+#+title: TailwindCSS
+
+* Resources
+- 2023-09-12 ◦ [[https://tailspark.co/][250+ Free TailwindCss Components]]

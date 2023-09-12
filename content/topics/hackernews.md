@@ -1,7 +1,14 @@
 +++
 title = "HackerNews"
+author = ["Victor Dorneanu"]
 draft = false
 +++
+
+## AI {#ai}
+
+-   2023-09-11 ◦ [HackYourNews](https://hackyournews.com/)
+    -   AI powered summaries from the top HN posts
+
 
 ## in-official mirrors {#in-official-mirrors}
 

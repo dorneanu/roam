@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       48309b58-686e-4f09-94ca-070838aad285
+:END:
+#+title: Huberman Lab
+
+* Resources
+- 2023-09-11 ◦ [[https://dexa.ai/huberman][Andrew Huberman AI | Dexa]]
+- 2023-09-11 ◦ [[https://www.hubermantranscripts.com/][Andrew Huberman transcripts]]

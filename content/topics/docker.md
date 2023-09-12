@@ -1,5 +1,6 @@
 +++
 title = "docker"
+author = ["Cyneox"]
 draft = false
 +++
 
@@ -14,6 +15,7 @@ draft = false
 
 ## Resources {#resources}
 
+-   2023-09-12 ◦ [Container security fundamentals part 6: seccomp | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-6/)
 -   2023-08-07 ◦ [Container security fundamentals part 5: AppArmor and SELinux | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-5/)
 -   2023-03-29 ◦ [Container security fundamentals part 2: Isolation &amp; namespaces | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-2/)
 -   2022-09-21 ◦ [Best of 2021 - What's the Difference Between Docker and Kubernetes? - Container Journal](https://containerjournal.com/editorial-calendar/best-of-2021/whats-the-difference-between-docker-and-kubernetes/#:~:text=The%20difference%20between%20the%20two,Kubernetes%20can%20be%20used%20independently)

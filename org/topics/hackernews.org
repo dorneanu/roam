@@ -3,6 +3,9 @@
 :END:
 #+title: HackerNews
 
+* AI
+- 2023-09-11 ◦ [[https://hackyournews.com/][HackYourNews]]
+  - AI powered summaries from the top HN posts
 * in-official mirrors
 - [[http://hckrnews.com]]
 - [[http://www.fullhn.com]]
