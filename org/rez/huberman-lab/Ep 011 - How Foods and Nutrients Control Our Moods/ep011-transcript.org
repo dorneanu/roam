@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       79d739c5-cf43-4f18-8d53-36a5a75572cd
+:END:
 #+title: How Foods and Nutrients Control Our Moods
 
 * Summary
@@ -10,8 +13,8 @@ Key Takeaways from https://podcastdisclosed.com/how-foods-and-nutrients-control-
 - Our body's response to food plays a significant role in our cravings and relationships. Mindfulness can help improve our relationship with food, and hidden sugars in savory foods can create cravings without our knowledge.
 - Our brain and gut constantly communicate to regulate our desire to eat certain foods, including those that contain amino acids. Nourishing our body's amino acid needs can positively impact our neurological and motivational states for optimal health.
 - Dopamine production in the brain is crucial for motivation and desire, and its deficiency can lead to depression and blunted motivation. L-tyrosine-rich foods promote healthy dopamine production, but excessive use of supplements or drugs can be harmful, leading to addiction and negative side effects.
-- Sugar affects not just our blood sugar, but also our dopamine and serotonin systems, which regulate our moods and emotions. Serotonin plays a larger role in our mental state than previously thought, with gut events impacting our brain's serotonin levels.
-- Food affects our mood and wellbeing by containing precursors to neuromodulators. Caution is needed when taking supplements as prolonged use can disrupt natural production. Entrepreneurs can create at-home tests to monitor serotonin levels. Consult a doctor and reliable resources before trying supplements.
+- Sugar affects not just our blood sugar, but also our dopamine and [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] systems, which regulate our moods and emotions. [[Id:2b6e8820-A254-4138-Ad80-Dc71c97a8082][Serotonin]] plays a larger role in our mental state than previously thought, with gut events impacting our brain's [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] levels.
+- Food affects our mood and wellbeing by containing precursors to neuromodulators. Caution is needed when taking supplements as prolonged use can disrupt natural production. Entrepreneurs can create at-home tests to monitor [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] levels. Consult a doctor and reliable resources before trying supplements.
 - Macuna Purina, rich in L-DOPA and other psychoactive molecules, can improve sperm motility, reduce Parkinson's symptoms, boost testosterone, and enhance subjective wellbeing. Food affects our body through chemical compounds and gut-brain connection, influencing our emotions.
 - The food we eat affects our brain chemistry and can impact our mood and behavior. Eating foods rich in certain nutrients and balancing omega-3 and omega-6 fatty acids, combined with exercise, meditation, and social connection, can improve mental health.
 - Taking 1000mg of EPA in fish oil per day can relieve depression and improve heart rate variability. Consult with a doctor if you have blood conditions or are taking birth control. Increasing EPA intake can help reduce inflammation and improve non-responders to antidepressants.
@@ -487,7 +490,7 @@ those, all of your moods and feelings of well being are anchored on this
 continuum of alertness versus calmness. And we hear so often about rest
 and digest. You know that, oh, after we eat, we feel really nice and
 full, hopefully comfortably full or not too full. And we're relaxing,
-and we feel satiated. It's associated with serotonin, this molecule of
+and we feel satiated. It's associated with [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], this molecule of
 satiation, that's all true.
 
 But what most people don't know is that there's an area of the
@@ -642,10 +645,10 @@ it is in nuts. It is also in some plant based foods. L-tyrosine is the
 precursor to a couple other molecules like l-dopa, etc, that make
 dopamine.
 
-And so there's a misconception out there that most of the serotonin is
+And so there's a misconception out there that most of the [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] is
 in our gut, and most of the dopamine is in our gut, and therefore our
 mood is in our gut. That's not quite the way it works. Okay, we'll talk
-about serotonin in a moment. But dopamine is synthesized from the amino
+about [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] in a moment. But dopamine is synthesized from the amino
 acids that you eat. However, the dopamine neurons that give rise to
 these feelings of good or wanting more, or desire and motivation, those
 reside in the brain. So we don't want to get too confused. We want to
@@ -755,44 +758,44 @@ doing it subconsciously.
 So I'd like to talk about some of the other pathways between brain and
 body that regulate our moods and emotions, but also are actionable. So
 the other neuromodulator that's really interesting in the context of the
-Vagus is serotonin. Serotonin, just to remind you is a neuromodulator.
+Vagus is [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. [[Id:2b6e8820-A254-4138-Ad80-Dc71c97a8082][Serotonin]], just to remind you is a neuromodulator.
 Therefore, it creates a bias in which neural circuits, which neurons in
 the brain and body, are going to be active and it makes it less likely
 that other ones are going to be active. I think it's fair to say without
 ever having measured it, that my Bulldog Costello it must just, his
-brain and body must be swimming in serotonin because he's very calm. And
+brain and body must be swimming in [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] because he's very calm. And
 he eats a lot, but he generally feels pretty sated. He's kind of an
 animal that's obsessed with comforts. He's a bit of a hedonist. And
-serotonin, when it's elevated, tends to make us feel really comfortable
+[[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], when it's elevated, tends to make us feel really comfortable
 and kind of blissed out wherever we are.
 
 And that contrasts with dopamine and epinephrine, which mainly put us in
-pursuit of things, motivation is pursuit. Serotonin is more about
+pursuit of things, motivation is pursuit. [[Id:2b6e8820-A254-4138-Ad80-Dc71c97a8082][Serotonin]] is more about
 feeling really comfy, where we are. The conversation around the brain
-body relationship and mood and serotonin for many years was well you eat
+body relationship and mood and [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] for many years was well you eat
 a big meal, the gut is distended, you've got all the nutrients you need,
-you rest and digest, and serotonin is released. That's sort of true. But
+you rest and digest, and [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] is released. That's sort of true. But
 there's a lot more going on and a lot more that's interesting and
 actionable that's going on. First of all, some of you but perhaps not
-all, I've heard that more than 90% of the serotonin that we make is in
-our gut, and indeed, we have a lot of serotonin in our gut, we have
-neurons in our gut that make serotonin, we have neurons in our brain,
-they make serotonin.
+all, I've heard that more than 90% of the [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] that we make is in
+our gut, and indeed, we have a lot of [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] in our gut, we have
+neurons in our gut that make [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], we have neurons in our brain,
+they make [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]].
 
-But here's the deal. Most of the serotonin that impacts our mood and our
+But here's the deal. Most of the [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] that impacts our mood and our
 mental state is not in our gut. Most of it is in the neurons of the
 brain in an area called the Rafi nucleus of the brain, there are a few
 other locations too. And those are the neurons that control whether or
 not we feel satiated or not whether or not we feel happy and calm. You
-can't have a discussion about serotonin without having a discussion
+can't have a discussion about [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] without having a discussion
 about antidepressants because during the late 80s and early 90s, there
 was this explosion in the number of prescription drugs that were
-released things like first one and most famous one is Prozac, Zoloft,
-and Paxil a number of other ones that are so called SSRI, Selective
-Serotonin Reuptake inhibitors. That's a long acronym. But basically
-those drugs work by preventing the gobbling up of serotonin, or reuptake
-of serotonin into neurons after it's been released, which leads to more
-serotonin overall, which means to elevate serotonin. And indeed, those
+released things like first one and most famous one is *Prozac, Zoloft,
+and Paxil* a number of other ones that are so called [[id:3d005ae3-3b1f-426b-bfb0-cc76178f7f88][SSRI]], Selective
+[[Id:2b6e8820-A254-4138-Ad80-Dc71c97a8082][Serotonin]] Reuptake inhibitors. That's a long acronym. But basically
+those drugs work by *preventing the gobbling up of [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]*, or *reuptake
+of [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] into neurons after it's been released*, which leads to more
+[[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] overall, which means to elevate [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. And indeed, those
 drugs were and can be very useful for certain people to feel better in
 cases of depression and some other clinical disorders as well. So I
 really don't want to dismiss them as useless or dangerous for everybody.
@@ -803,23 +806,23 @@ of met, it can reduce appetite for food, it can reduce appetite for sex,
 it can do all sorts of things. Or it can work really well. Sometimes
 it's a dose related issue, etc.
 
-Serotonin is fascinating, however, because how well those neurons in the
+[[Id:2b6e8820-A254-4138-Ad80-Dc71c97a8082][Serotonin]] is fascinating, however, because how well those neurons in the
 Rafi work is impacted by some events within the gut. Although you might
 be surprised to find out what those events are. So let's go a little bit
 deeper into the gut. And again, the gut includes the stomach and then
 the small intestine and the large intestine and asked like, what is
-going on with serotonin in the gut? How is it impacting serotonin in the
+going on with [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] in the gut? How is it impacting [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] in the
 brain? And let's think about this in the context of how some of us might
-want to increase or decrease our serotonin levels. So as far as I know,
+want to increase or decrease our [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] levels. So as far as I know,
 there aren't any really good at home blood tests for things like
-serotonin and dopamine, there's some commercial products out there. But
+[[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and dopamine, there's some commercial products out there. But
 to me, just to me, I'm not particularly impressed. You know, it's not
 the same as getting your hormones levels measured, or your metabolic
 factors measured, that's can be done and can be done rigorously. There
 are tests out there there even some, believe it or not, there's some
 questionnaires you know that and I think actually last year, it made
 some of the bigger newspapers, you know, are you more of a dopamine or a
-serotonin? Are you uh, this or that, I find that stuff to be a little
+[[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]? Are you uh, this or that, I find that stuff to be a little
 silly, although I do appreciate and like the fact that people are
 thinking about and talking about neuromodulators there aren't really
 great ways to measure these things outside the clinic. There's some
@@ -835,8 +838,8 @@ home.
 :END:
 But you know, some people feel like they're too anxious or they're
 always in a motivated state and they're trying to adjust their
-serotonin. Many people adjust their serotonin by just eating more food,
-and carbohydrate rich foods will increase serotonin. I've talked about
+[[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. Many people adjust their [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] by just eating more food,
+and carbohydrate rich foods will increase [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. I've talked about
 this on a previous podcasts but I personally am a big fan. At least for
 me, as I usually fast and exercise in the early part of the day, I eat a
 relatively high protein, moderate fat, zero carb or low carb meal at
@@ -845,29 +848,29 @@ dopamine production, acetylcholine production, epinephrine production
 and alertness. My mood is generally pretty good most of the time. And
 then as evening comes around, and I'm concerned about sleep and a good
 night's sleep, not concerned in an anxious way, but I want to get a good
-night's sleep. I will ingest foods that promote serotonin release
+night's sleep. I will ingest foods that promote [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] release
 because they contain a lot of tryptophan. So if I do eat meat, it would
 be like a white meat turkey meat I don't tend to I've never liked
 Turkey. I don't mind the animal but I don't like ingesting the meat. But
-starchy carbohydrates will increase serotonin.
+starchy carbohydrates will increase [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]].
 
 ** Supplementing Serotonin: Sleep, & Caution About Sleep Disruptions
 :PROPERTIES:
 :CUSTOM_ID: supplementing-serotonin-sleep-caution-about-sleep-disruptions
 :END:
-Some people also will take serotonin, you can now buy five HTP
+Some people also will take [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], you can now buy five HTP
 supplements. This is a little bit tricky. Five HTP supplements can of
-course increase five HTP it is five HTP or serotonin. But that sometimes
-can create problems in endogenous or self made production of serotonin.
+course increase five HTP it is five HTP or [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. But that sometimes
+can create problems in endogenous or self made production of [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]].
 So I'm never a fan of taking things very close to the chemical you're
 trying to increase for very long periods of time. Maybe for occasional
-use. I have the problem that if I take serotonin In supplements five
+use. I have the problem that if I take [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] In supplements five
 HTP, I fall asleep, the sleep I have is very intense, and I wake up
 three or four hours later. And we know based on sleep studies, with good
-measurements in the lab, that serotonin release tends to be in the later
+measurements in the lab, that [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] release tends to be in the later
 part of the night. And so by taking it early in the night, it really can
 disrupt the pattern of sleep and the depth of sleep. Nonetheless, some
-people are interested in taking serotonin to get some of the more
+people are interested in taking [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] to get some of the more
 blissed out effects. You can achieve that with foods as I mentioned that
 are carbohydrate rich.
 
@@ -896,7 +899,7 @@ only looking at things that have strong evidence, PubMed, articles,
 articles, or are in the PubMed archive. So for instance, I didn't know
 this, but five HTP produces a notable decrease in appetite, three
 studies. And appetite suppression makes sense, of course, because we
-ingest foods to get serotonin. And if we have enough serotonin, then
+ingest foods to get [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. And if we have enough [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], then
 there's no reason to ingest more foods, it tends to have a blunting of
 appetite, it probably does that also through other mechanisms. So I'm
 not saying you should do this. But if someone's trying to blunt their
@@ -908,7 +911,7 @@ really hard, another one moves, it's a little bit like a puppet and
 there's more than one string on the puppet. So it does seem to increase
 cortisol though they report as a minor effect. Again, links to all those
 studies are there, which is why I'm not listing them out in our caption
-notes, you can go and get them at examin.com put in serotonin and you'll
+notes, you can go and get them at examin.com put in [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and you'll
 find that.
 
 ** Mucuna Pruriens: The Dopamine Bean with a Serotonin Outer Shell
@@ -916,16 +919,16 @@ find that.
 :CUSTOM_ID: mucuna-pruriens-the-dopamine-bean-with-a-serotonin-outer-shell
 :END:
 So I find it fascinating that nowadays, there are things that are
-somewhere between doing nothing, getting serotonin from tryptophan and
+somewhere between doing nothing, getting [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] from tryptophan and
 foods and prescription drugs. There's this other category of supplements
 that are really interesting for modulating these chemicals in the body.
 And I should mention before I move on, because I mentioned l tyrosine. I
 neglected to mention earlier in our discussion about dopamine. If you're
 interested in the dopamine pathway, go to examine.com put in mucuna
 pruriens it's MUCUN AP, separate word, p r u r i e n s. It is a velvet
-bean that grows from vines and is very itchy to touch due to serotonin
-on its surface. Amazing this bean has serotonin on its surface and
-indeed serotonin at if you were to put it on your skin would cause some
+bean that grows from vines and is very itchy to touch due to [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]
+on its surface. Amazing this bean has [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] on its surface and
+indeed [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] at if you were to put it on your skin would cause some
 irritation of the skin amazing. Inside the bean is L dopa. Mucuna
 Pruriens is not just something that promotes dopamine release because of
 some weird mystical ancient thing or whatever or sorcery it is
@@ -963,7 +966,7 @@ antagonistic to sexual desire in both men and female. So it's really
 interesting that things like Mucuna Pruriens, which are l dopa, reduced
 prolactin, increased sperm motility, increased testosterone, subjective
 well being. So you're starting to see a theme, right?Ddopamine really
-makes us motivated feel in pursuit makes us feel good. Serotonin makes
+makes us motivated feel in pursuit makes us feel good. [[Id:2b6e8820-A254-4138-Ad80-Dc71c97a8082][Serotonin]] makes
 us feel more relaxed and calm.
 
 ** Emotional Context and Book Recommendation: "How Emotions Are Made"
@@ -1002,11 +1005,11 @@ again. It's Lisa Feldman Barrett. And that book is how emotions are
 made. Hopefully, she'll continue to write many more books.
 
 So now you understand the relationship, I hope, between foods and
-dopamine, foods and serotonin, and that they're both being communicated
+dopamine, foods and [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], and that they're both being communicated
 to the brain via the Vagus, right? We ingest these foods. Wait, these
 supplements are, things people take, they don't put them directly into
 the brain, they put them in our gut. So yes, there's a gut brain
-connection. But it's not about the serotonin in the gut that makes you
+connection. But it's not about the [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] in the gut that makes you
 feel calm and placid. It's not about the dopamine in the gut. It's just
 been oversold that way. Because I think there's something really
 attractive and I understand about the idea that because certain things
@@ -1015,7 +1018,7 @@ that maybe we have a little more control, right, because this thing is a
 hard container. We can't just stuff some dopamine in there, I can't just
 let you know, I could probably take a Mucuna Pruriens bean and stuff
 into my ear. Please don't do that it makes my ear itchy because of the
-serotonin on the outside. You can't get stuff in there. What you have to
+[[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] on the outside. You can't get stuff in there. What you have to
 do is ingest things that are metabolized in certain ways that
 communicate to the brain. Or so maybe they pass into the brain
 themselves across what's called the blood blood brain barrier. I'll talk
@@ -1027,7 +1030,7 @@ But they're also nerves in the gut that are sensing the nutrient
 contents of food and then saying, Oh, you should feel better and want
 more Oh, that's got a lot of bitterness and acid taste to it. You should
 want less of that. Okay, so as I transitioned out of the discussion
-about dopamine and serotonin in the gut, hopefully you've got some
+about dopamine and [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] in the gut, hopefully you've got some
 actionable items there under your belt, pun intended, where you can
 understand how certain foods and certain nutrients and you can look
 these up might impact your your mood. If you're somebody who's really
@@ -1059,7 +1062,7 @@ for me the next day. But that's I think, because I tend to ride pretty
 high on the kind of alertness and motivation scale, I'm always being
 told by Costello and other people in the podcast studio to slow my
 speech down. This is me uncaffeinated. And I could probably afford a
-little more serotonin in my life. So whereas Costello he could afford,
+little more [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] in my life. So whereas Costello he could afford,
 like, if you can afford to wake up every every couple days and just say
 hello to us, this dog sleeps more than any other creature, it's
 remarkable.
@@ -1071,7 +1074,7 @@ everyone has to play with these things and figure out what's right for
 them in terms of feeding, and everyone has to explore and understand
 what's safe and right for them. But, of course, exercise is still very
 important. I talked about social connection in the last episode super
-important for activation of serotonin. But when it comes to this gut,
+important for activation of [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. But when it comes to this gut,
 brain body brain relationship, what we eat really matters in terms of
 the neural chemicals that we make. So let's talk a little bit more about
 things that we ingest in our body, and then allow our body to inform our
@@ -1108,7 +1111,7 @@ elements with that contains high levels of omega threes that's in things
 like fish oil. I'll talk about other sources in a little bit, but it
 wasn't 1000 milligrams of fish oil, it was 1000 milligrams of EPA.
 Compare that to 20 milligrams of fluoxetine, which is Prozac, okay,
-really increases serotonin. And in this study of 60 individuals, again,
+really increases [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. And in this study of 60 individuals, again,
 I'll provide the links to the study, they found that they were equally
 effective in reducing depressive symptoms.
 
@@ -1148,9 +1151,9 @@ saying maybe not so much.
 But the effects on mood are really profound. And now there are lots of
 studies, if you go into PubMed, and you were to put EPA or fish oil and
 depression, you would find that there were a number of really impressive
-results showing that it's at least as effective as certain SSRIs
+results showing that it's at least as effective as certain [[id:3d005ae3-3b1f-426b-bfb0-cc76178f7f88][SSRI]]s
 antidepressants at these dosages. And it can amplify or improve the
-effect of low dosages of some of these SSRI. So I feel like more people
+effect of low dosages of some of these [[id:3d005ae3-3b1f-426b-bfb0-cc76178f7f88][SSRI]]. So I feel like more people
 should know about this. This is nutrition, but it's profoundly affecting
 mood. And depression is terrible, right? depression can have a component
 of anxiety in some cases where people are they feel lousy and very
@@ -1493,7 +1496,7 @@ negative ways, some of them make us feel better. And they do that mainly
 by changing, changing the conditions of our gut environment. In addition
 to that, they do impact the neurotransmitters and the neurons that live
 in the gut and that signal up to the brain to impact things like
-dopamine and serotonin that we've been talking about previously.
+dopamine and [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] that we've been talking about previously.
 
 So there's a vast world now devoted to trying to understand what sources
 of food what kinds of foods are good or not good for the gut microbiome.
@@ -1544,7 +1547,7 @@ illnesses, as well as certain conditions like particular features along
 the autism spectrum, which is interesting. And those effects are
 probably due to not just improvement of immune system function, but to
 the conditions in which the neurons that sense nutrients convey
-information to the brain and increased levels of serotonin and or
+information to the brain and increased levels of [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and or
 dopamine. So gut microbiome provides kind of a foundation for healthy
 gut and healthy gut brain access. So much so that some people report
 that when they start eating small bits, because it doesn't require a lot
@@ -1867,7 +1870,7 @@ YouTube. Also, if you feel we deserve it, please give us a five star
 review on Apple. All those things really help us. In addition, if you'd
 like to support the podcast further, we've set up a Patreon account,
 it's patreon.com. Slash Andrew Huberman allows you to support the
-podcast at a variety of levels. We have the five HTP serotonin for $5 a
+podcast at a variety of levels. We have the five HTP [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][serotonin]] for $5 a
 month the Costello $10 a month in honor and Costello, etc. You don't
 have to, but if you'd like to that would be terrific. In addition,
 please check out our sponsors that we've mentioned at the beginning of

@@ -1,3 +1,8 @@
+:PROPERTIES:
+:ID:       b93ab255-b929-496c-b4e3-f3a404966354
+:END:
+#+title: Using Failures, Movement & Balance to Learn Faster
+
 * Welcome and sponsors
 :PROPERTIES:
 :CUSTOM_ID: welcome-and-sponsors
@@ -955,7 +960,7 @@ we're on the right path. And it does have a capacity to increase neural
 plasticity, motivation, etc. It's released in response to a number of
 natural behaviors, just that help with the progression of ours and other
 species. Things like food, sex, in some sense social connection,
-although that's more serotonin, and serotonin doesn't have the same
+although that's more [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], and [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] doesn't have the same
 effects on plasticity, quite the same and we'll talk about a few later.
 
 ** Making Dopamine Work For You (Not The Other Way Around)

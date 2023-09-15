@@ -1,3 +1,8 @@
+:PROPERTIES:
+:ID:       a114c809-1ac3-4dae-bbb0-2ca77492053a
+:END:
+#+title: Control Pain & Heal Faster With Your Brain
+
 * Welcome and sponsors
 :PROPERTIES:
 :CUSTOM_ID: welcome-and-sponsors
@@ -993,7 +998,7 @@ there's a new kind of obsession or infatuation, it's very distinct from
 the kind of love chemicals if you will, I don't even like calling them
 love chemicals, that just feels weird. If this were text, I would delete
 that line. But from the chemicals associated with warmth and connection,
-such as serotonin and oxytocin, which tend to be for more stable, long
+such as [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and oxytocin, which tend to be for more stable, long
 lasting relationships. Dopamine is what dilates the pupils, which gets
 people really excited, they can't stop thinking about somebody, the text
 messages are even exciting. They write to them, and they can't wait for

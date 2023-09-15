@@ -1,4 +1,7 @@
-*Find Your Temperature Minimum to Defeat Jetlag, Shift Work & Sleeplessness | Huberman Lab Podcast #4*
+:PROPERTIES:
+:ID:       c0894677-d00b-4429-9d13-d0d606394813
+:END:
+#+title: Find Your Temperature Minimum to Defeat JetLag, Shift Work
 
 [[https://www.youtube.com/watch?v=NAATB55oxeQ][*https://www.youtube.com/watch?v=NAATB55oxeQ*]]
 
@@ -1611,7 +1614,7 @@ wh you are and what your life circumstances and goals are. A few other
 thngs that can help the transition to sleep, are things like 5-HTP
 L-ryptophan. I've talked about why I'm not a fan of those for me, they
 ted to throw me into deep sleep and then I wake up and I can't fall
-bak asleep. So I don't like to tinker with my serotonin system, I don't
+bak asleep. So I don't like to tinker with my [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] system, I don't
 lie to tinker with my dopamine system, for entirely other reasons but
 noe of which are particularly concerning it's just that I find that if
 I ncrease my dopamine by taking L-Tyrosine in pill form, then I crash

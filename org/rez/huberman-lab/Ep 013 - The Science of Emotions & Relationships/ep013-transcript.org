@@ -1,3 +1,8 @@
+:PROPERTIES:
+:ID:       69bb86af-831c-4a4b-bd05-47b69c529a93
+:END:
+#+title: The Science of Emotions & Relationships
+
 * Welcome and sponsors
 :PROPERTIES:
 :CUSTOM_ID: welcome-and-sponsors
@@ -1210,13 +1215,13 @@ of sociology, psychology and neuroscience. There's a theory of emotional
 development that I find particularly interesting, which is from Allan
 schore at UCLA that talks about how most of our testing of bonds and
 relationships is the seesaw back and forth between very dopaminergic, so
-driven by dopamine, or serotonergic, driven by serotonin states. And
+driven by dopamine, or serotonergic, driven by [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] states. And
 this starts with infant and mother or infant and Father, I talked a
 little bit about this in the previous episode, but just to remind you,
 or for anyone that didn't hear about it, that during development,
 healthy emotional development clearly begins with an ability for the
 caretaker and child to be in calm, peaceful, soothing, touch oriented,
-eye gazing type of behaviors, those really drive serotonin, the
+eye gazing type of behaviors, those really drive [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], the
 endogenous opioid system, oxytocin, things that are very calming and are
 centered around pleasure with the here and now as well as excited states
 of what we're going to do next, there's actually a kind of

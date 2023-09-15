@@ -1,3 +1,8 @@
+:PROPERTIES:
+:ID:       992061f3-0a9a-4e00-b7bd-f382cb2bf891
+:END:
+#+title: How To Increase Motivation & Drive
+
 * Welcomes and sponsors
 :PROPERTIES:
 :CUSTOM_ID: welcomes-and-sponsors
@@ -129,7 +134,7 @@ So, motivation is fundamental to our daily life. It's what allows us to
 get out of bed in the morning. It's what allows us to pursue long term
 goals or short term goals, motivation, and the chemistry of motivation
 is tightly wound in with the neuro chemistry of movement. In fact, the
-same single molecule, dopamine is responsible for our sense of
+same single molecule, [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] is responsible for our sense of
 motivation, and for movement, even though nerves controlling muscles, so
 again these are nerves in the spinal cord or brain that move our limbs,
 the effector chemical, they're the one that actually causes the muscles
@@ -137,7 +142,7 @@ to twitch to contract is acetylcholine in the brain, acetylcholine is
 responsible for focus. However, whether or not we move whether or not we
 want to move, whether or not we have the desire to overcome barriers
 have, you know, they could be social barriers or financial barriers or
-time constraints, that depends on this molecule we call dopamine. It's a
+time constraints, that depends on this molecule we call [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]]. It's a
 fascinating molecule. And it lies at the center of so many great things
 in life. And it lies at the center of so many terrible aspects of life,
 namely addiction and certain forms of mental disease.
@@ -147,25 +152,25 @@ namely addiction and certain forms of mental disease.
 :CUSTOM_ID: a-double-edged-dopamine-blade
 :END:
 So if ever there was a double edged blade, in the world of neuroscience,
-it's dopamine. So let's talk about what dopamine is. And as always, we
+it's [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]]. So let's talk about what [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] is. And as always, we
 are going to talk about actionable tools. Today, we're definitely going
 to talk about some things related to supplementation, although you might
-be surprised to learn that it's not all just about increasing dopamine,
+be surprised to learn that it's not all just about increasing [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]],
 it's in particular, in some cases, that's the wrong thing to do.
 Sometimes it's appropriate, sometimes it's not more. So we're going to
-talk about tools related to what's called dopamine scheduling, how the
+talk about tools related to what's called [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] scheduling, how the
 way that you're leading your life and the way that you're
 conceptualizing your goals can actually predict whether or not you're
 going to continue to pursue those goals. And therefore, whether or not
 you will succeed in achieving those goals, as well as whether or not you
-will quit. There's a fundamental relationship between dopamine released
+will quit. There's a fundamental relationship between [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] released
 in your brain and your desire to exert effort. And you can actually
-control the schedule of dopamine release, but it requires the
+control the schedule of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] release, but it requires the
 appropriate knowledge. This is one of those cases where understanding
-the way the dopamine system works will allow you to leverage it to your
-benefit. And if you don't understand the way that dopamine works,
+the way the [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] system works will allow you to leverage it to your
+benefit. And if you don't understand the way that [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] works,
 there's a good chance that it's going to pull you out into the current
-of life, meaning the rest of the world is going to control your dopamine
+of life, meaning the rest of the world is going to control your [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]]
 schedules.
 
 So I'm excited to tell you about today's information, you're going to
@@ -177,11 +182,11 @@ eight years old, eight years old, or anything in between.
 :PROPERTIES:
 :CUSTOM_ID: dopamine-fundamentals-precursor-to-adrenalin
 :END:
-So let's talk about dopamine. Let's get a few basic facts on the table.
+So let's talk about [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]]. Let's get a few basic facts on the table.
 Dopamine was discovered in the late 1950s. And it was discovered as the
 precursor, meaning the thing from which epinephrine or adrenaline is
 made. And that's fundamentally important, because this molecule we call
-dopamine nowadays, we think of as the molecule of reward and pleasure.
+[[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] nowadays, we think of as the molecule of reward and pleasure.
 But actually, it is the substrate from which adrenaline is made. And in
 the brain it's the substrate from which epinephrine is made. Epinephrine
 is the same thing as adrenaline. Except in the brain, we call it
@@ -200,8 +205,8 @@ building block from which epinephrine is made.
 :PROPERTIES:
 :CUSTOM_ID: the-reward-pathway-an-accelerator-a-brake
 :END:
-However, dopamine does a lot of things on its own. It's not always
-converted to epinephrine. dopamine is released from several sites in the
+However, [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] does a lot of things on its own. It's not always
+converted to epinephrine. [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] is released from several sites in the
 brain and body. But perhaps the most important one for today's
 discussion about motivation and reward is something that sometimes just
 called the reward pathway. For the aficionados, it's sometimes called
@@ -214,34 +219,34 @@ your brain called the VTA stands for ventral tegmental area. As always,
 you don't have to remember these names but if you want to, I offer them
 to you for for further googling or search reading, etc. The VTA or
 ventral tegmental area contains neurons that send what we call axon,
-little wires that spit out dopamine at a different structure, called the
+little wires that spit out [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] at a different structure, called the
 nucleus accumbens. And those two structures VCA and nucleus accumbens
 form, really, the core machinery of the reward pathway, and the pathway
 that controls your motivation for anything. You can think of them like
 an accelerator, they bias you for action.
 
 However, within the reward pathway, there's also a brake, the brake or
-restriction on that dopamine, which controls when it's released, and how
+restriction on that [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]], which controls when it's released, and how
 much it's released, is the prefrontal cortex. The prefrontal cortex is
 the neural real estate right behind your forehead. It's discussed for so
 many aspects of neuroscience, you hear about it for decision making,
 executive function for planning, etc. And indeed, it's responsible for a
 lot of those. It's this really unique real estate that we were all
 endowed with as humans, other animals don't have much of it, we have a
-lot of it. And that prefrontal cortex acts as a brake on the dopamine
+lot of it. And that prefrontal cortex acts as a brake on the [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]]
 system. Without that break, you would be purely a pleasure seeking
 animal, you would be purely pleasure seeking, you would have no basis
 for regulating your behavior in terms of trying to get things that make
 you feel good.
 
-** Motivation= Pleasure Plus Pain
+** Motivation = Pleasure Plus Pain
 :PROPERTIES:
 :CUSTOM_ID: motivation-pleasure-plus-pain
 :END:
 And that brings us to the important feature of motivation, which is that
 motivation is a two part process, which is about balancing pleasure and
-pain. Okay, most people think about motivation and reward, and dopamine
-is just trying to achieve pleasure. And indeed, dopamine is released in
+pain. Okay, most people think about motivation and reward, and [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]]
+is just trying to achieve pleasure. And indeed, [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] is released in
 the brain from the VA at the nucleus accumbens, when we experience
 things that we like.
 
@@ -250,7 +255,7 @@ this, in your mind, it will really help you as you move through your day
 trying to understand why you might be motivated or not motivated for
 certain things. So when you're just sitting around not doing much of
 anything, maybe you wake up in bed in the morning, you're thinking about
-getting, getting up or not, this reward pathway is releasing dopamine at
+getting, getting up or not, this reward pathway is releasing [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] at
 a rate of about three or four times per second, it's kind of firing in a
 low level when I say firing me an electrical activity in the neurons. So
 when you're just around, you feel okay, not depressed, not highly
@@ -260,20 +265,20 @@ an award, but you get excited in an anticipatory way, then the rate of
 firing the rate of activity in this reward pathway suddenly increases to
 like 30 or 40 times. And it has the effect of creating a sense of action
 or desire to move in the direction of the thing that you're craving. In
-fact, it's fair to say that dopamine is responsible for one thing and
+fact, it's fair to say that [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] is responsible for one thing and
 for craving, and that's distinctly different from the way that you hear
 it talked about normally, which is that it's involved in pleasure.
 
-So yes, dopamine is released in response to sex, it's released in
+So yes, [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] is released in response to sex, it's released in
 response to food, it's released in response to a lot of things. But it's
 mostly released in anticipation and craving for a particular thing. It
 has the effect of narrowing our focus for the thing that we crave. And
 that thing could be as simple as a cup of coffee, it could be as
 important as a big board meeting, it could be a big final exam, it could
-be the person that we're excited to meet or see, dopamine doesn't care
+be the person that we're excited to meet or see, [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] doesn't care
 about what you're craving, it just releases at a particular rate. In
 fact, if we just take a step back, and we look at the scientific data on
-how much the dopamine firing increases in response to different things,
+how much the [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] firing increases in response to different things,
 you get a pretty interesting window into how your brain works and why
 you might be motivated or not motivated.
 
@@ -282,27 +287,27 @@ you might be motivated or not motivated.
 :CUSTOM_ID: the-dopamine-staircase-food-sex-nicotine-cocaine-amphetamine
 :END:
 Let's say you're hungry, or you're looking forward to a cup of coffee,
-or you're going to see your partner. Well, your dopamine neurons are
+or you're going to see your partner. Well, your [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] neurons are
 firing at a low rate until you start thinking about the thing that you
 want or the thing that you're looking forward to. Let's say you're
 craving chocolate or a good meal, steak if you like steak, or a nice
 plate of pasta, if you like pasta. When you eat that food, the amount of
-dopamine that's released in Reward pathway goes up about 50% above
+[[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] that's released in Reward pathway goes up about 50% above
 baseline, the neurons there go from firing, you know, three or four
 times per second to, you know, six or 10 times per second, it really
 depends. And these aren't exact numbers. But if we were to measure the
-amount of dopamine that's released, it goes up about 50%. Alright, set
+amount of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] that's released, it goes up about 50%. Alright, set
 sex, which is fundamental to our species, continuation and reproduction,
 although it doesn't have to be for for conceiving children. Sex does
-release dopamine and increases dopamine levels about 100%. So basically
+release [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] and increases [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] levels about 100%. So basically
 doubles. From nicotine of the sort that's in cigarettes, or some people
 are taking nicotine in supplemental form, increases the amount of
-dopamine about 150% above baseline. It also does some other things that
+[[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] about 150% above baseline. It also does some other things that
 we're going to talk about. But nicotine does that. And it's kind of
-interesting that nicotine would increase the amount of dopamine in your
+interesting that nicotine would increase the amount of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] in your
 brain very quickly, within seconds, that's 150 times over baseline as
 opposed to sex which is 100% above or food which is 50%. Cocaine and
-amphetamine increased the amount of dopamine that's released 1000 fold
+amphetamine increased the amount of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] that's released 1000 fold
 within about 10 seconds of consuming the drug.
 
 ** Subjective Control of Dopamine Release
@@ -311,7 +316,7 @@ within about 10 seconds of consuming the drug.
 :END:
 However, just thinking about food, about sex, about nicotine, if you
 like nicotine, or cocaine or amphetamine, can increase the amount of
-dopamine that's released to the same degree as actually consuming the
+[[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] that's released to the same degree as actually consuming the
 drug. Now, it depends, in some cases, for instance, the cocaine user,
 the attic that wants cocaine can't just think about cocaine, and
 increase the amount of that's released about a thousandfold, it's
@@ -323,15 +328,15 @@ mean, brain circuitry like this didn't evolve to get you addicted. Brain
 circuitry like this evolved in order to motivate behaviors toward
 particular goals . Wwhen you're thirsty, sex in order to reproduce. And
 we're going to talk about the relationship between estrogen and
-testosterone and the dopamine system because those hormones actually
-bias dopamine to be released. These things, and these brain areas and
+testosterone and the [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] system because those hormones actually
+bias [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] to be released. These things, and these brain areas and
 neurons were part of the evolutionary history that led to the
 continuation of our species. Things like cocaine and amphetamine, are
-disastrous for most people, because they release so much dopamine, and
+disastrous for most people, because they release so much [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]], and
 they create these closed loops where people, then only crave the
 particular thing, cocaine, amphetamine, that leads to those massive
-amounts of dopamine release, most things don't release that that level
-of dopamine.
+amounts of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] release, most things don't release that that level
+of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]].
 
 ** Social Media and Video Games
 :PROPERTIES:
@@ -339,20 +344,20 @@ of dopamine.
 :END:
 Now nowadays, there's a ton of interest in social media, and in video
 games. And it, there have been some measurements of the amount of
-dopamine released video games, especially video games that have a very
+[[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] released video games, especially video games that have a very
 high update speed, where there's novel territory all the time. Now,
-novelty is a big stimulus of dopamine, those can release dopamine
-somewhere between nicotine and cocaine, so very high levels of dopamine
+novelty is a big stimulus of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]], those can release [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]]
+somewhere between nicotine and cocaine, so very high levels of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]]
 release.
 
 ** Addiction & Dopamine: Progressively Diminishing Returns
 :PROPERTIES:
 :CUSTOM_ID: addiction-dopamine-progressively-diminishing-returns
 :END:
-Social media is an interesting one, because the amount of dopamine
+Social media is an interesting one, because the amount of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]]
 that's released in response to logging onto social media initially could
 be quite high. But it seems like likely that there's a taper in the
-amount of dopamine, but and yet people still get addicted.
+amount of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]], but and yet people still get addicted.
 
 ** Novelty, Sensation-Seeking & Anticipation
 :PROPERTIES:
@@ -389,22 +394,22 @@ whether or not they were formerly addicted to something else.
 :END:
 But in any case, the way that addiction works, and the way that
 motivation works generally in the non addictive setting, is that when
-you anticipate something a little bit of dopamine is released, and then
+you anticipate something a little bit of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] is released, and then
 when you reach that thing, you're engaged in that thing. The amount of
-dopamine goes up even further. But as you repeatedly pursue a behavior,
+[[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] goes up even further. But as you repeatedly pursue a behavior,
 and you repeatedly engage with a particular thing, let's say you love
 running, or you love chocolate, as you eat a piece of chocolate, believe
 it or not, it tastes good. And then there's a shift away from activation
-of dopamine. And there are other chemicals that are released, that
+of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]]. And there are other chemicals that are released, that
 trigger a low level sense of pain.
 
 Now, you might not feel his physical pain, but the craving that you feel
-is both one part dopamine and one part the mirror image of dopamine,
+is both one part [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] and one part the mirror image of [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]],
 which is the pain or the craving for yet another piece of chocolate. And
-this is a very important and subtle feature of the dopamine system
+this is a very important and subtle feature of the [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]] system
 that's not often discussed, people always talk about just as pleasure,
-you love social media. So it gives you dopamine, and so you engage in
-that you like chocolate, it releases dopamine.
+you love social media. So it gives you [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]], and so you engage in
+that you like chocolate, it releases [[id:a078c7ee-1a8a-48d4-917f-29a613464670][dopamine]].
 
 So you do that. But for every bit of dopamine that's released, there's
 another circuit in the brain that creates, you can think of it as kind
@@ -492,13 +497,13 @@ flaky, I'm getting hungry for it right now, and delicious, the croissant
 is mostly, the taste of that croissant makes me want to eat more
 croissants.
 
-** "Here and Now" Molecules: Serotonin, Bliss & Raphe Nucleus
+** "Here and Now" Molecules: [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], Bliss & Raphe Nucleus
 :PROPERTIES:
 :CUSTOM_ID: here-and-now-molecules-serotonin-bliss-raphe-nucleus
 :END:
 Now, eventually blood sugar goes up, satiety is reached, etc. What
 happens then, what is satisfaction and satiety about? Well, that's a
-separate neuromodulator. That's about the neuromodulator serotonin. It's
+separate neuromodulator. That's about the neuromodulator [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. It's
 about oxytocin. It's about a hormone system that involves something
 called prolactin. So we're going to talk about all all of those in the
 book, the molecule of more wonderful book. Those were described as the
@@ -511,17 +516,17 @@ and these so called here and now molecules and how those engage in a
 kind of push pull balance that will allow you to not just feel more
 motivated, but also to enjoy the things in life that you are pursuing to
 much greater degree. We have neurons in an area of our brain called the
-raphe, RAPHE. The raphe releases serotonin at different places in the
-brain. Serotonin is the molecule of bliss and contentment for what you
+raphe, RAPHE. The raphe releases [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] at different places in the
+brain. [[Id:2b6e8820-A254-4138-Ad80-Dc71c97a8082][Serotonin]] is the molecule of bliss and contentment for what you
 already have. I've talked before about excteroception. Exteroception is
 a focus on the outside world, everything beyond the confines of your
 skin. I also talked about interoception, a focus on things that are
 happening internally within the confines of your skin.
 
-Dopamine, and serotonin can be thought of as related to external
+Dopamine, and [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] can be thought of as related to external
 reception. Dopamine makes us focused on things outside us that are
 beyond what we call our personal space, where we actually have to move
-and take action in order to achieve things. And serotonin in general has
+and take action in order to achieve things. And [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] in general has
 to do with the things that are in our immediate here and now. Hence the
 description of these as the here and now molecules.
 
@@ -535,7 +540,7 @@ if you didn't see it, no problem.
 :CUSTOM_ID: cannabinoids-lethargy-forgetfulness
 :END:
 Just understand that dopamine biases us toward thinking about what we
-don't have, whereas serotonin and some of the related molecules like the
+don't have, whereas [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and some of the related molecules like the
 endocannabinoids if you picked up on the word cannabinoid, yes, it's
 like cannabis because cannabis attaches to Endocannabinoid receptors.
 And the endocannabinoids are receptors that, and chemicals that the
@@ -571,7 +576,7 @@ of extra receptive pursuit behavior, and bring it into the here and now.
 That's a mental trick, or a mental task that the mindfulness community
 has really embraced in order to try and create increased pleasure for
 what you already have. It's really trying to accomplish a shift from
-dopamine being released to serotonin and the cannabinoid system being
+dopamine being released to [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and the cannabinoid system being
 involved in that behavior.
 
 So if you're interested in mindfulness, which is something I've talked
@@ -588,7 +593,7 @@ already have.
 Dopamine has the quality of making people kind of rapidly in pursuit of
 things. Look at people who are high on cocaine or amphetamine and they
 are almost entirely extra receptive. Drugs like marijuana, the opioids,
-anything that really hits the serotonin system hard tend to make people
+anything that really hits the [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] system hard tend to make people
 rather lethargic and content to stay exactly where they are. They don't
 want to pursue much at all.
 
@@ -950,7 +955,7 @@ development that was developed by Allan schore, a professor at UCLA and
 psychiatrists that talks about some of the basics of good infant parent
 attachment where good parenting that leads to healthy adult
 relationships and emotion regulation tends to include both sides of this
-dopamine serotonin spectrum.
+dopamine [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] spectrum.
 
 He talked about the relationship between child and parent. Typically was
 the mother but also father, where you can get the child really excited
@@ -1130,12 +1135,12 @@ talk about that right now.
 There is a compound that's kind of interesting. In the supplement space
 that isn't Mcuna prurines, L-dopa, it's not L-tyrosine. That isn't
 promoting massive releases of dopamine or even dopamine alone, but a
-combination of dopamine and serotonin and it's an intriguing molecule,
+combination of dopamine and [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and it's an intriguing molecule,
 it's sold over the counter (again, you have to check with your health
 care provider before you would take anything or remove anything that's
 very important), which is but it's um, phenol, phenol, ethyl amine or
 PEA or beta fino ethyl amine. It releases dopamine at low levels but
-also serotonin at low level. So it's kind of a cocktail of the
+also [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] at low level. So it's kind of a cocktail of the
 motivation molecules as well as the quote unquote here and now
 molecules. And people's response, this varies widely, but many people
 report feeling heightened sense of mental acuity well being etc. It is a
@@ -1318,7 +1323,7 @@ caffeine in some cases may not just increase dopamine release, but it
 might actually have a protective effect on dopamine neurons. Now, that's
 distinctly different from some claims that drugs like MDMA, ecstasy,
 have been it's been argued can are neurotoxic for things like dopamine
-and serotonin neurons.
+and [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] neurons.
 
 The study that was published about that in the journal Science, which is
 an extremely prestigious, excellent journal. Later, it was shown that it
@@ -1552,9 +1557,9 @@ human studies. Again, a wonderful free resource. But I do appreciate
 that you pointed out that study, because I do want people to be aware of
 the the range of effects that these various compounds can have as well.
 A couple times in previous episodes, I said five HTP and not five ht.
-Five ht is serotonin, five HTP is a precursor to serotonin. I was
+Five ht is [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], five HTP is a precursor to [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. I was
 talking about supplements and compounds that can stimulate the release
-of serotonin. In the previous episode, I was actually referring to it in
+of [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. In the previous episode, I was actually referring to it in
 a context for which I don't personally like to take five HTP. That's
 just my own bias, for reasons I described in that episode, but if you
 heard me say, five HTP, when I meant to say five ht, I apologize. And
@@ -1578,7 +1583,7 @@ you did at the beginning of this podcast. Hopefully you also understand
 the other side of dopamine and reward which is pain and the balance of
 this pleasure pain system, as well as the molecules that we call or that
 were described in the molecule of more book I should say as the here and
-now molecules things like serotonin and the endocannabinoids. We talked
+now molecules things like [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and the endocannabinoids. We talked
 about a variety of supplement based tools things like vitamin B six and
 zinc as they relate to prolactin, a very interesting compound. Again,
 I've never tried it. Very interesting, definitely in use out there. l

@@ -1,3 +1,8 @@
+:PROPERTIES:
+:ID:       a90e3524-9bc9-4c76-9470-36b3707dfd22
+:END:
+#+title: How your nervous system works and changes
+
 * Welcome and sponsors
 :PROPERTIES:
 :CUSTOM_ID: welcome-and-sponsors
@@ -419,7 +424,7 @@ mentioned earlier, neurons are electrically active, but they also
 release chemicals. And there's a certain category of chemicals that has
 a very profound influence on our emotional states. They're called neuro
 modulators. And those neuro modulators have names that probably you've
-heard of before, things like dopamine and serotonin and acetylcholine,
+heard of before, things like dopamine and [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and acetylcholine,
 epinephrine. neuromodulators, are really interesting because they bias
 which neurons are likely to be active and which ones are likely to be
 inactive. A simple way to think about neuromodulators is they are sort
@@ -429,7 +434,7 @@ which is often discussed, as the molecule of reward, or joy, is involved
 in reward. And it does tend to create a sort of upbeat mood in when
 released in appropriate amounts in the brain. But the reason it does
 that is because it makes certain neurons and neural neural circuits as
-we call them, more active and others less active. Okay, so serotonin,
+we call them, more active and others less active. Okay, so [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]],
 for instance, is a molecule that when released, tends to make us feel
 really good with what we have our sort of internal landscape and the
 resources that we have. Whereas dopamine, more than being a molecule of
@@ -453,11 +458,11 @@ levels, and that actually gives us a window into a very important aspect
 of neuroscience history, that all of us are impacted by today, which is
 the discovery of antidepressants and so called anti psychotics. In the
 1950s 60s and 70s. It was discovered that there are compounds chemicals
-that can increase or decrease serotonin that can increase or decrease
+that can increase or decrease [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] that can increase or decrease
 dopamine and that led to the development of most of what we call
 antidepressants. Now, the trick The problem is that most of these drugs,
-especially in the 1950s, and 60s, they would reduce serotonin, but they
-would also reduce dopamine or they would increase serotonin, but they
+especially in the 1950s, and 60s, they would reduce [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], but they
+would also reduce dopamine or they would increase [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], but they
 would also increase some other neuromodulator chemical. And that's
 because all these chemical systems in the body, but the neuromodulators,
 in particular, have a lot of receptors. Now, these are different than
@@ -472,11 +477,11 @@ ways that these neuromodulators can have all these different effects on
 different aspects of our biology. This is most salient in the example of
 some of the antidepressants that have sexual side effects, or that blunt
 appetite, or that blunt motivation. You know, if you many of these,
-which increase serotonin can be very beneficial for people, it can
+which increase [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] can be very beneficial for people, it can
 elevate their mood, it can make them feel better, but they also at if
 their, the doses are too high, or if that particular drug isn't right
 for somebody, that person experiences challenges with motivation, or
-appetite or libido because serotonin is binding to receptors in the
+appetite or libido because [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] is binding to receptors in the
 areas of the brain that control those other things as well.
 
 ** Thoughts & Thought Control
@@ -732,7 +737,7 @@ that something that you want, can go from being very hard or seem almost
 impossible and out of reach to being very reflexive. This is especially
 important to pay attention to. plasticity in the adult human nervous
 system is gated, meaning it is controlled by neuromodulators. These
-things that we talked about earlier, dopamine, serotonin, and one in
+things that we talked about earlier, dopamine, [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], and one in
 particular called acetylcholine are what open up plasticity. They
 literally unveiled plasticity and allow brief periods of time in which
 whatever information, whatever thing we're sensing, or perceiving, or

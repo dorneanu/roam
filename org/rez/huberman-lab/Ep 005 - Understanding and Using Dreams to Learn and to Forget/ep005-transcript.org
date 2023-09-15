@@ -1,3 +1,8 @@
+:PROPERTIES:
+:ID:       a043ff36-2eec-4ed4-9b1b-1d6970c279fb
+:END:
+#+title: Understanding and using Dreams to Learn and to Forget
+
 * Welcome and sponsors
 :PROPERTIES:
 :CUSTOM_ID: welcome-and-sponsors
@@ -200,7 +205,7 @@ To remind you neuromodulators are these chemicals that act rather slowly
 but their main role is to bias particular brain circuits to be active
 and other brain circuits to not be active. These are like the music
 playlist. So think of neuromodulators and these come in the names of
-acetylcholine, norepinephrine, serotonin, and dopamine. Think of them as
+acetylcholine, norepinephrine, [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], and dopamine. Think of them as
 suggesting playlists on your audio device. So you know, classical music
 is distinctly different in feel and tone and a number of other features
 from like third wave punk or from, you know, hip hop. Right. So think of
@@ -215,7 +220,7 @@ So we know for instance, and just to review, acetylcholine in waking
 states is a neuromodulator that tends to amplify the activity of brain
 circuits associated with focus and attention. Norepinephrine is a
 neuromodulator that tends to amplify the brain circuits associated with
-alertness and the desire to move. Serotonin is the neuromodulator that's
+alertness and the desire to move. [[Id:2b6e8820-A254-4138-Ad80-Dc71c97a8082][Serotonin]] is the neuromodulator that's
 released and tends to amplify the circuits in the brain and body that
 are associated with bliss and the desire to remain still. And dopamine
 is the neuromodulator that's released and is associated with
@@ -243,7 +248,7 @@ something associated with the movement circuitry going on in slow wave
 sleep. And remember, this is happening mostly at the beginning of the
 night, your sleep is dominated by slow wave sleep. So, no acetylcholine,
 very little norepinephrine, although there is some and a lot of
-serotonin. And serotonin again is associated with this desire, the
+[[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. And [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] again is associated with this desire, the
 sensation of kind of bliss or well being, but not a lot of movement. And
 during sleep, you tend not to move. Now in slow wave sleep, you can move
 you're not paralyzed, so you can roll over. If people are going to sleep
@@ -307,7 +312,7 @@ But the key things to know are slow wave sleeps involved in motor
 learning and detailed learning. There's no acetylcholine around at that
 time, there are these big amplitude activity sweeping throughout the
 brain, and that there's the release of these neuromodulators,
-norepinephrine, and serotonin. And again, that's all happening early in
+norepinephrine, and [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. And again, that's all happening early in
 the night.
 
 ** High Performance with Less Sleep
@@ -378,7 +383,7 @@ cortex of course is involved in conscious perceptions.
 So in rapid eye movement sleep, there are a couple things that are
 happening besides rapid eye movements. The main ones are that they're in
 contrast, I should say in contrast to slow wave sleep in REM sleep,
-serotonin is essentially absent. Okay, so this molecule, this
+[[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] is essentially absent. Okay, so this molecule, this
 neuromodulator that tends to create the feeling of bliss and well being
 and just calm placidity is absent. Alright, so that's interesting. In
 addition to that norepinephrine the molecule that's involved in movement
@@ -1063,20 +1068,20 @@ one's kind of an obvious one.
 :END:
 But nonetheless, the other one is if you recall that during non-REM
 sleep, we have a shift in neurotransmitters such that we have less
-serotonin, right, just want to make sure I got that right, excuse me
-less serotonin. There are a lot of supplements out there, geared toward
+[[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], right, just want to make sure I got that right, excuse me
+less [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. There are a lot of supplements out there, geared toward
 improving sleep. I've taken some of them. And I'm taking many of them if
 not all of them at this point. So I could report back to you. And I
 think I mentioned on a previous episode that tryptophan or anything that
-contains 5-HTP, which is serotonin or a precursor to serotonin,
-serotonin is made from tryptophan, I tend to fall very deeply asleep and
+contains 5-HTP, which is [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] or a precursor to [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]],
+[[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] is made from tryptophan, I tend to fall very deeply asleep and
 then wake up a few hours later. And that makes sense.
 
 Now based on the fact that you just don't want a lot of REM sleep early
 on, what was probably happening is that was getting a lot of REM sleep
-early on, because low levels of serotonin are typically associated with
+early on, because low levels of [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] are typically associated with
 slow wave sleep, and that comes early in the night. So for some people,
-those supplements might work but beware serotonin supplements at could
+those supplements might work but beware [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] supplements at could
 disrupt the timing of REM sleep and slow wave sleep and in my case led
 to waking up very shortly after going to sleep and not being able to get
 back to sleep.
@@ -1156,7 +1161,7 @@ Alcohol, alcohol and marijuana are well known to induce states that are
 pseudo sleep like especially when people fall asleep, while after having
 consumed alcohol or THC, the active component, one of the active
 components of marijuana. Alcohol, THC, and most things like them,
-meaning things that increase serotonin, or gabba are going to disrupt
+meaning things that increase [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], or gabba are going to disrupt
 the pattern of sleep. They're going to disrupt the depth, they're going
 to disrupt the overall sequencing of more slow wave sleep early in the
 night and more REM sleep later in the night. That's just the reality.

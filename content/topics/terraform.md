@@ -1,5 +1,6 @@
 +++
 title = "Terraform"
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -32,6 +33,7 @@ draft = false
 
 ### AWS {#aws}
 
+-   2023-08-16 ◦ [The AWS IA Team's best practices for Terraform](https://aws-ia.github.io/standards-terraform/)
 -   2023-08-02 ◦ [Create an AWS CloudWatch Metric Filter and Alarm in Terraform](https://spin.atomicobject.com/2021/04/07/aws-cloudwatch-metric-filter-alarm-terraform/)
 
 
@@ -47,3 +49,8 @@ draft = false
 ### Tagging {#tagging}
 
 -   2023-08-01 ◦ [Best Practices for Terraform AWS Tags](https://engineering.deptagency.com/best-practices-for-terraform-aws-tags)
+
+
+### Security {#security}
+
+-   2023-09-15 ◦ [Terraform - How do you handle secrets? (r/devops)](https://www.reddit.com/r/devops/comments/10a7j78/terraform_how_do_you_handle_secrets/)

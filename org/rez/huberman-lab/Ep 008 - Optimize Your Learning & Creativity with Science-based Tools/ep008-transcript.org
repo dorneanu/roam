@@ -1,3 +1,8 @@
+:PROPERTIES:
+:ID:       64ff9f49-374f-4ed6-8ae3-e69c0b7ce90a
+:END:
+#+title: Optimize Your Learning & Creativity with Science-based Tools
+
 * Welcome and sponsors
 :PROPERTIES:
 :CUSTOM_ID: welcome-and-sponsors
@@ -1017,7 +1022,7 @@ sensory blending is not going to accomplish that. Now. It is true. And
 there's a great review in the journal cell, excellent journal, about how
 psychedelics work, and it turns out, they don't just work by allowing
 for more sensory blending, they do, because of the way that they
-activate certain serotonin receptors, etc, they do lend themselves to
+activate certain [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] receptors, etc, they do lend themselves to
 more lateral connectivity between different brain areas, more novel
 associations.
 

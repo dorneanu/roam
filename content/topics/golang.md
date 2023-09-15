@@ -1,5 +1,6 @@
 +++
 title = "Golang"
+author = ["Cyneox"]
 tags = ["coding", "golang"]
 draft = false
 +++
@@ -31,6 +32,10 @@ draft = false
 
 ### Fun {#fun}
 
+-   2023-09-13 ◦ [GitHub - MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack)
+    -   ✨ This pack of 100+ gopher pictures and elements will help you to build own
+        design of almost anything related to Go Programming Language: presentations,
+        posts in blogs or social media, courses, videos and many, many more.
 -   2023-05-15 ◦ [Go Proverbs](https://go-proverbs.github.io/)
 
 

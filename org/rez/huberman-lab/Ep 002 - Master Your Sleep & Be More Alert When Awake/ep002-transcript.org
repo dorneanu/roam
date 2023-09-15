@@ -1,3 +1,8 @@
+:PROPERTIES:
+:ID:       5316901a-1292-403c-9a5e-33aa8d6de4ba
+:END:
+#+title: Master your Sleep & Be More Alert When Awake
+
 * Welcome and sponsors
 :PROPERTIES:
 :CUSTOM_ID: welcome-and-sponsors
@@ -1094,7 +1099,7 @@ operating. And what you're trying to do is provide them anchors, you're
 trying to provide them consistent, powerful anchors, so that your
 cortisol, your melatonin, and then everything that's that cascades down
 from that like your metabolism and your ability to learn and your sense
-of alertness, your dopamine, your serotonin, all that stuff is timed
+of alertness, your dopamine, your [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], all that stuff is timed
 regularly.
 
 One of the reasons why there's so much, you know, challenge out there

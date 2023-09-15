@@ -1,3 +1,8 @@
+:PROPERTIES:
+:ID:       33302711-1de2-49eb-9581-a002cd311c01
+:END:
+#+title: Tools for managing Stress & Anxiety
+
 * Welcome and sponsors
 :PROPERTIES:
 :CUSTOM_ID: welcome-and-sponsors
@@ -78,7 +83,7 @@ other ways besides just checking out our sponsors. We really appreciate
 the question. And we've set up a Patreon account at patreon.com slash
 Andrew Huberman, which allows you to donate to the podcast at a variety
 of different levels. We have for instance, the five HTP, which is in
-honor of serotonin five HTP is the name for serotonin that allows you to
+honor of [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] five HTP is the name for serotonin that allows you to
 donate $5 per month, we have the circadian, which as many of you of
 course will know is 24 hour day. So you can donate $24 a month if you
 like. You can also pick any value that you want. We even have the
@@ -1277,26 +1282,26 @@ oxytocin.
 :END:
 The way to think about social connection and how it can mitigate some of
 the long term effects of stress is really through the systems of
-neuromodulation like serotonin, and through blocking certain things that
+neuromodulation like [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], and through blocking certain things that
 are really bad for us when we feel socially isolated, things like Taqi
 Kynan. Let me explain what these are.
 
-Serotonin again, is a neuromodulator. Neuromodulators are a little bit
+[[Id:2b6e8820-A254-4138-Ad80-Dc71c97a8082][Serotonin]] again, is a neuromodulator. Neuromodulators are a little bit
 like playlists in the brain, they tend to amplify or bias the likelihood
 that certain brain circuits and body circuits are going to be activated
-and that others will not. Serotonin, generally, and I realize I'm
+and that others will not. [[Id:2b6e8820-A254-4138-Ad80-Dc71c97a8082][Serotonin]], generally, and I realize I'm
 speaking very generally here, but it generally gives us feelings of well
 being at very high levels. It makes us feel blissed and it tends to make
 us feel like we have enough in our immediate environment. This is why
-some of the side effects of antidepressants that elevate serotonin and
+some of the side effects of antidepressants that elevate [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and
 actually can help a lot of people with depressive symptoms, but the side
-effects associated with drugs that increase serotonin tend to be reduced
+effects associated with drugs that increase [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] tend to be reduced
 effect. They tend to kind of blunt effect or make people feel Like their
-libido is lower, desire goes down because the body has so much serotonin
-and the brain has so much serotonin that one feels like they have
-enough. But serotonin, pharmacology aside or taking, you know,
-antidepressants aside, topic for another time, serotonin tends to make
-us feel good when we see somebody that we recognize and trust, serotonin
+libido is lower, desire goes down because the body has so much [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]
+and the brain has so much [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] that one feels like they have
+enough. But [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], pharmacology aside or taking, you know,
+antidepressants aside, topic for another time, [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] tends to make
+us feel good when we see somebody that we recognize and trust, [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]
 is released in the brain. And that has certain positive effects on the
 immune system and on other systems of neural repair and, and synapses
 and things that really reinforce connections in the brain and prevent
@@ -1306,7 +1311,7 @@ that long term withering of connections.
 :PROPERTIES:
 :CUSTOM_ID: delight-and-flexibility
 :END:
-So serotonin is tied to social connection. Now social connection can
+So [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] is tied to social connection. Now social connection can
 take many forms. As many of you know, I am very attached to my dog, I
 hope he's attached to me. He's asleep most of the time so I don't know
 when, even if he was awake, I don't really know what I would ask him.
@@ -1322,7 +1327,7 @@ to play and have fun, that can be a little bit of a tough concept,
 especially for the hard driving people or people that are stressed. But
 having a sense of delight, a sense of really enjoying something that you
 see, and engage in, witness or participate in, that is associated with
-the serotonin system.
+the [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] system.
 
 And certainly play is one of those things, social connection of various
 forms, those are things to invest in. Some people might say, Well, you
@@ -1392,8 +1397,8 @@ that is really something to avoid.
 :END:
 And so I want to highlight Tackykinin is something to avoid. I don't
 want to completely disregard oxytocin. It's just that oxytocin has been
-built up a lot in the media and really, serotonin works on much faster
-timescales. Now, how do you know if you're making serotonin and you
+built up a lot in the media and really, [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] works on much faster
+timescales. Now, how do you know if you're making [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and you
 don't know in the moment, but you can learn if you pay attention to kind
 of recognize these feelings of comfort, trust, bliss, delight, and those
 are not weak terms. Those are not associated just, with psychological
@@ -1404,7 +1409,7 @@ And many people focus now on gratitude. You know, gratitude is a little
 bit subjective. And here we're moving from some objective to kind of
 subjective things, but recognizing and in particular, writing down
 things that you're thankful for, however small, they may seem, does seem
-to have a positive effect on the serotonin system.
+to have a positive effect on the [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] system.
 
 Now, there are a plethora of things that will also impact well being and
 allow you to modulate, modulate your long term stress, reduce the

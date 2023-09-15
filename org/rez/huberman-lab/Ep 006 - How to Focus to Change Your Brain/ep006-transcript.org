@@ -1,3 +1,8 @@
+:PROPERTIES:
+:ID:       8299b877-72bc-4bf9-90ef-d7cb3e7328e2
+:END:
+#+title: How to focus to change your brain
+
 * Welcome and sponsors
 :PROPERTIES:
 :CUSTOM_ID: welcome-and-sponsors

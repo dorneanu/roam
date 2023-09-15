@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID:       fc38ce79-bd52-4949-a499-9b0f82ed49d6
+:END:
+#+title: Using Science to Optimize Sleep, Learning & Metabolism
 * Welcome and sponsors
 :PROPERTIES:
 :CUSTOM_ID: welcome-and-sponsors
@@ -588,8 +592,8 @@ good because then you're not going to fall asleep and stay asleep.
 :PROPERTIES:
 :CUSTOM_ID: melatonin-serotonin
 :END:
-Melatonin not incidentally comes from is synthesized from serotonin.
-serotonin is a neurotransmitter that is associated with feelings of well
+Melatonin not incidentally comes from is synthesized from [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]].
+[[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] is a neurotransmitter that is associated with feelings of well
 being provided at proper levels. But well being of a particular kind.
 Well being associated with quiescence and calm. And the feeling that we
 have enough resources in our immediate kind of conditions. This is the
@@ -597,14 +601,14 @@ kind of thing that comes from a good meal or sitting down with friends
 or holding a loved one or conversing with somebody that you really bond
 with.
 
-Serotonin does not stimulate action, it tends to stimulate stillness,
+[[Id:2b6e8820-A254-4138-Ad80-Dc71c97a8082][Serotonin]] does not stimulate action, it tends to stimulate stillness,
 very different than the neuromodulator dopamine, which is a reward/feel
 good neuromodulator that stimulates action. And actually, dopamine is
 the precursor to epinephrine to adrenaline, which actually puts us into
 action there, it's actually made from dopamine, right?
 
 So you can start to think about light as a signal that is very powerful
-for modulating things like sleep and wakefulness but also serotonin
+for modulating things like sleep and wakefulness but also [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]
 levels, melatonin levels. And I talked about this previously, but I'll
 mention once more that light in the middle of the night reduces dopamine
 levels to the point where it can start causing problems with learning
@@ -634,7 +638,7 @@ bright light at night, throughout the year, if possible.
 :CUSTOM_ID: epinephrine-vs-adrenaline-same-different
 :END:
 Throughout this podcast, and in previous episodes, I've been mentioning
-neuromodulators, things like serotonin, and dopamine, which tend to buy
+neuromodulators, things like [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], and dopamine, which tend to buy
 a certain brain circuits and things in our body to happen and certain
 brain circuits and things in our body not to happen.
 
@@ -912,7 +916,7 @@ live. So I'm not saying one thing or another about marijuana. I'm just
 stating the fact that I had that experience without marijuana means that
 it can happen regardless. But marijuana smokers for whatever reason,
 Maybe it has something to do with the cannabinoid receptors, or the
-serotonin receptors downstream of the motor pathways. I don't know. I
+[[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] receptors downstream of the motor pathways. I don't know. I
 couldn't find any literature on this. But marijuana smokers report
 higher frequency of this kind of paralysis and wakefulness as you
 transition from sleep to wakefulness.
@@ -1184,17 +1188,17 @@ about them.
 :PROPERTIES:
 :CUSTOM_ID: serotonin-slippery-slope
 :END:
-Some people asked about serotonin for getting to sleep and staying
+Some people asked about [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] for getting to sleep and staying
 asleep. Now I understand the rationale here. Just like I understand the
 rationale of taking something like McCune appearance or L-dopa to
 increase dopamine. But sometimes what works on paper doesn't really work
 in the real world.
 
 I personally have tried taking a supplement which was L-tryptophan,
-which is the precursor to serotonin or five HTP which is designed to
-increase what it is serotonin basically you're just one biochemical step
-away from actually taking actual serotonin. And I'll be honest, the
-sleep that I had with increased serotonin by way of tryptophan or five
+which is the precursor to [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] or five HTP which is designed to
+increase what it is [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] basically you're just one biochemical step
+away from actually taking actual [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]. And I'll be honest, the
+sleep that I had with increased [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] by way of tryptophan or five
 HTP was dreadful. I fell asleep almost immediately, you say, well,
 that's great. And 90 minutes later, I woke up and I couldn't sleep
 almost for 48 hours.
@@ -1519,7 +1523,7 @@ relate to sleep wakefulness and mood, which is essentially 25 hours of
 content for me to cover. But I'm going to try and distill out the most
 common questions. We've talked a lot about neuromodulators like
 dopamine, acetylcholine and norepinephrine. You may notice in those
-discussions that the precursors to say serotonin is tryptophan.
+discussions that the precursors to say [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] is tryptophan.
 Tryptophan actually comes from the diet, it comes from the foods that we
 eat. Tyrosine is the precursor to dopamine, it comes from the foods that
 we eat. And then once we ingest them that those compounds are circulate
@@ -1547,7 +1551,7 @@ divert blood from other tissues and you'll become sleepy. So it's not
 just about food content, it's also about food volume. Alright. Fasting
 states generally are associated with more alertness, epinephrine, and so
 forth. And fed states are generally associated with more quiescence and
-relaxation, serotonin and, and that kind of things that lend themselves
+relaxation, [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and, and that kind of things that lend themselves
 more towards sleep and less toward alertness. Foods that are rich in
 tryptophan tend to be things like white meat, Turkey, also complex
 carbohydrates.
@@ -1576,7 +1580,7 @@ In all seriousness, low carbohydrate/fasted/ketogenic diets tend to lend
 themselves toward wakefulness by way of increasing epinephrine,
 norepinephrine, adrenaline, dopamine, and things of that sort.
 Carbohydrate rich meals, and I suppose we talk about meals as opposed to
-diet, tend to lend themselves more toward tryptophan serotonin and more
+diet, tend to lend themselves more toward tryptophan [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] and more
 lethargic states. There is very limited evidence that I am aware of that
 carbohydrate should be at one time a day. And as it relates to
 metabolism, etc. I'm sure that will open up a certain amount of debate.
@@ -1617,7 +1621,7 @@ grown person.
 :CUSTOM_ID: vagal-pathways-for-gut-brain-dialogue
 :END:
 So in general, starchy carbohydrates, white meats, such as Turkey, some
-fish increased tryptophan therefore serotonin, therefore, more lethargic
+fish increased tryptophan therefore [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], therefore, more lethargic
 states, more calm, meat nuts, and there are probably some plant based
 foods that I'm not aware of. And I apologize I should read up on this,
 that also are high entire scene that can increase things like dopamine,
