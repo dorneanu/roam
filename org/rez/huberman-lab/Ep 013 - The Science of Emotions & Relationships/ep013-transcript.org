@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       69bb86af-831c-4a4b-bd05-47b69c529a93
 :END:
-#+title: The Science of Emotions & Relationships
+#+title: Ep 013: The Science of Emotions & Relationships
 
 * Welcome and sponsors
 :PROPERTIES:
@@ -229,10 +229,10 @@ the same place in two different species, or two individuals of the same
 species. So you have to know where they started out, because where they
 started out informs what they do as well.
 
-And when we're talking about emotions, we cannot point to one area of
+*And when we're talking about emotions, we cannot point to one area of
 the brain, we can't say that's the area of the brain that's responsible
 for emotions. There is this so called limbic system that has been linked
-to emotions in various ways. We're going to talk about that today. But
+to emotions in various ways*. We're going to talk about that today. But
 the limbic system is just one component of the inputs to create
 emotions. It's not the place for emotions, you can't go in and lesion
 one location in the brain and eliminate emotions entirely, just doesn't
@@ -381,13 +381,14 @@ features that you allow it access to, if you like, and it starts helping
 you be able to predict how you're going to feel at different times a
 day, it's actually quite accurate in certain ways, quite interesting.
 
-** The Architecture Of A Feeling: (At Least) 3 Key Questions To Ask Yourself
+** The Architecture Of A Feeling: (At Least) 3 Key Questions To Ask Yourself :notes:
 :PROPERTIES:
 :CUSTOM_ID: the-architecture-of-a-feeling-at-least-3-key-questions-to-ask-yourself
 :END:
-And it points to a couple of really interesting features, which is that
+
+*And it points to a couple of really interesting features, which is that
 we don't really have enough language to describe all the emotional
-states. And yet there are some core truths to what makes up an emotion.
+states. And yet there are some core truths to what makes up an emotion*.
 And I want to review that twice during today's podcast. Because this can
 really help people, kids and adults understand better what they're
 feeling and why. And when best to engage in certain activities. And
@@ -395,38 +396,38 @@ thankfully, when best to avoid certain activities too.
 
 So the way this works is the following. You need to ask yourself at any
 point, you could do this right now, if you like, what's your level of
-autonomic arousal. Autonomic arousal is just the continuum, the range of
-alert to calm. So if you're in a panic right now you are like 10 out of
+autonomic arousal. *Autonomic arousal is just the continuum, the range of
+alert to calm*. So if you're in a panic right now you are like 10 out of
 10 on the arousal scale. If you're asleep, you're probably not
 comprehending what I'm saying, although maybe a little bit, but let's
 say you're very drowsy, you might be at a one or a two. So you always
 have to ask, Where are you on the arousal scale.
 
-And then there's this other axis this other question, which is what we
-call Valence. Now valence is off value, do you feel good or bad, I would
+*And then there's this other axis this other question, which is what we
+call Valence. Now valence is off value, do you feel good or bad*, I would
 say I feel pretty good right now on a scale of one to 10. I'm like, I
 don't know, I feel like a seven ,got good night's sleep last night, had
 a good walk with Costello this morning, bed, I'm hydrated, I feel good,
 something a seven. So I'm alert. And I feel pretty good.
 
-And then there's a third thing, which is how much we are interocepting
-and how much we are exteroceptive. Alright, so how much our attention is
+*And then there's a third thing, which is how much we are interocepting
+and how much we are exteroceptive*. Alright, so how much our attention is
 focused internally, on what we're feeling and how much it's focused
 externally. And this is always going to be in a dynamic balance. So for
 instance, if you're really, really stressed, oftentimes, that puts you
 in a position to be really in touch with what's going on in your body.
-If you start having a lot of somatic a lot of bodily sensations, like
+*If you start having a lot of somatic a lot of bodily sensations, like
 your heart is beating so fast that you can't ignore it, then you're
-really strongly interoceptive. But also, sometimes you're really
+really strongly interoceptive*. But also, sometimes you're really
 stressed because someone stressing you out, or somebody sends you a text
 message or makes a comment about a YouTube thing you posted or
 something, and you're really triggered by it, that never happens to me.
 But it if it does happen to you, then you're exteroceptive.
 
-So these three things how alert or sleepy you are, that's one, how good
+*So these three things how alert or sleepy you are, that's one, how good
 or bad you feel that's too. And then whether or not most of your
 attention is directed outward, or whether or not it's directed inward.
-And much of what we call emotions are made up by those three things. And
+And much of what we call emotions are made up by those three things*. And
 so let's return now to development but tuck that away and just kind of
 think about it alert versus asleep, good versus bad, and focused
 internally or focus externally. Because when I looked at the whole of
