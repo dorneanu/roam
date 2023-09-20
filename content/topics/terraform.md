@@ -1,6 +1,6 @@
 +++
 title = "Terraform"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 draft = false
 +++
 
@@ -39,6 +39,7 @@ draft = false
 
 ### Layout {#layout}
 
+-   2023-09-19 ◦ [Best practices for using Terraform (Google Cloud)](https://cloud.google.com/docs/terraform/best-practices-for-terraform)
 -   2023-08-01 ◦ [How to Create Terraform Multiple Environments](https://getbetterdevops.io/terraform-create-infrastructure-in-multiple-environments/)
     -   separated directors vs workspaces
 -   2023-08-01 ◦ [How to Manage Terraform State in AWS - DEV Community](https://dev.to/aws-builders/how-to-manage-terraform-state-in-aws-1001)
