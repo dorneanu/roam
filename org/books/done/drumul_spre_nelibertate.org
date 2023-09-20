@@ -4,7 +4,7 @@
 #+title: Drumul spre nelibertate
 #+filetags: :history:politics:book:
 #+STARTUP: showeverything
-#+data: 2023-09-19
+#+date: 2023-09-19
 
 * Prolog
 ** Politica inevitabilitatii
