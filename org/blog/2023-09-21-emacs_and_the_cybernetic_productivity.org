@@ -1,0 +1,151 @@
+:PROPERTIES:
+:ID:       0c903b5a-613a-4bf7-a9c0-9f9441b2ac2a
+:END:
+#+SETUPFILE: blog.org
+#+filetags: :productivity:emacs:
+#+TITLE: Emacs and the Cybernetic Productivity
+#+CREATED: 2023-09-21
+#+HUGO_DRAFT: false
+
+
+A few days ago I came across Cal Newport's episode on "[[https://www.youtube.com/watch?v=Udzf5F1GPME&ab_channel=CalNewport][The failure of Cybernetic Productivity]] " where he talked about a
+term I've never heard before: /Cybernetic Productivity/. This productivity concept has been prominent since the early
+2000s and has served as an effective strategy for managing the growing workload, particularly among /knowledge workers/ .
+Now, let's delve into the *principles*:
+
+1) *Automate and speed up shallow task as much as possible*
+   - Have software tools "*speak*" with other ones, send data from your browser to your Exceel sheet or to your editor
+     (and vice versa)
+   - use as *less clicks* as possible
+   - automate all the things ™
+2) *Try to keep needed information at your finger tips*
+   - make it *easy to organize* and get access to *information*
+   - the more we have the *right information* when we need it, the *more effective* knowledge workers we are going to be
+   - Example: Google
+	 - You can search for all types of information
+	 - In general {{{zk_book(building-a-second-brain,knowledge management tools)}}} implement this principle that information
+       should never be to far from the person who needs it
+3) *Remove friction from communication*
+   - communication has to be *easy*
+   - if friction is removed, *high velocity communication* / colaboration can be achieved
+4) *Simplify the extraction of actionable wisdom from data*
+   - the information we need to do things is often hidden in data
+	- we need tools that can find trends
+	- we need tools that can extract wisdom from data so we can have it at our finger tips
+
+According to Cal Newport this approach doesn't work because of the so called *infinite buffer*.
+#+begin_sidenote
+A sort of inbox that never ends
+#+end_sidenote
+He arguments that the *supply of work* is *infinite* for most knowledge workers. Instead of having a *pull approach* where
+workers "pull" new tasks from a central registry, potential tasks are stored at individuals. This way tasks are pushed
+towards people until they're ready to work on that task. The buffer of work is growing so people tend to have more and
+more to do.
+
+This mentality combined with the *cybernetic productivity* has the following effect: It speeds up the *shallow tasks*
+(overhead work surrounding deeper work)
+#+begin_sidenote
+Also check {{{zk_topic(shallow-work,Shallow Work)}}}
+#+end_sidenote
+and at the same time frees up more time (for more work to fill in the *infinite buffer*). Here is a quote from the
+episode:
+
+#+begin_quote
+We're jumping from project to project, google is findin this information or maybe if we're more advanced chatGPT is
+grabbing the information for us that we're automatically sending it over between different types of tools and this data
+automatically goes over there and it's the cloud and it syncs. We're moving faster, faster and faster and more work
+comes in to fill that void and there is no time left to do the important stuff all those overheads are trying to support
+in the first place.
+
+So we feel tired, we feel exhausted, the context switches are making us dumber and we're spending less time actually
+doing the underlying work that creates value, the actual work that is valued in the marketplace.
+
+-- https://www.youtube.com/watch?v=Udzf5F1GPME&ab_channel=CalNewport
+#+end_quote
+
+I have read Cal Newport's books ({{{zk_book(deep-work,Deep Work)}}}, {{{zk_book(digital-minimalism,Digital Minimalism)}}},
+{{{zk_book(so-good-they-cant-ignore-you,So Good They Can't ignore you)}}})
+#+begin_sidenote
+His new book on "Slow Productivity" should be out for sale in March 2024!
+#+end_sidenote
+
+and I weekly listen to his podcast. So I'm quite familiar with the concepts he advertises for. However, in this case I
+somehow disagree with his thoughts on the cybernetic productivity and tools that are supposed to speed up
+communication/interaction.
+
+As you might guess, I have a *strong opinion* why {{{zk_topic(emacs,Emacs)}}} is a perfect tool to adress the four principles
+described earlier. Let me emphasize why by adding Emacs specific tools/methodologies to each one:
+
+- *Automate and speed up shallow task as much as possible*
+
+  Again, this is about the interaction between several software tools, having as less clicks as possible and /automate
+  all the things/.
+
+  For writing this article I've used
+  - [[https://github.com/skeeto/elfeed][elfeed]] (and especially [[https://github.com/karthink/elfeed-tube][elfeed-tube]]) in order to watch the Youtube episode and copy the relevant quotes from the
+    transcripts
+    - Of course, everything inside Emacs!
+	- Absolutely no (mouse) clicks
+	- I was able to copy the relevant text to a new buffer where I already started to prepare the text for this blog
+      post
+  - [[https://gohugo.io/][hugo]] and [[https://ox-hugo.scripter.co/][ox-hugo]] to automatically export this org file to markdown and later to [[https://blog.dornea.nu][my blog]]
+	- I've used [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Embedded-WebKit-Widgets.html][xwidget-webkit]] to have a vertical buffer where I opened the local ~hugo~ instance (~http://127.0.0.1:1314~)
+      in a web browser (integrated within Emacs) to preview my writing progress
+
+- *Try to keep needed information at your finger tips*
+
+  This is about so called PKMs (/Personal Knowledge Management Systems/) which should enable information searching and
+  management in an easy manner.
+
+  For writing this article I've used
+  - [[https://www.orgroam.com/][org-roam]] for managing my knowledge database
+	- using [[https://github.com/jgru/consult-org-roam][consult-org-roam]] I've searched for "cybernetic productivity" to find [[https://orgmode.org/][ORG mode]] files containing these
+      keywords
+  - [[https://github.com/dajva/rg.el][rg.el]] for using ~ripgrep~ inside my ~org-roam~ directory
+	- I've searched for "deep work" to find those files which contain these keywords
+  - [[https://docs.doomemacs.org/v21.12/modules/tools/lookup/][Doom Emacs lookup modules]] to perform web search using different search engines (Google and DuckduckGo)
+
+  I didn't have to do any context switch as I've performed every single operation within Emacs 😎
+
+- *Remove friction from communication*
+
+  Well, for this post I didn't have to "communicate" something. But in case I have to export some notes (from ORG mode)
+  to other formats I can use:
+  - [[http://joostkremers.github.io/pandoc-mode/][pandoc-mode]]
+  - [[https://github.com/sshaw/copy-as-format][copy-as-format]] (Emacs function to copy buffer locations as GitHub/Slack/JIRA etc... formatted code)
+  - check out for more [[https://orgmode.org/worg/exporters/ox-overview.html][ORG-mode exporters]]
+
+  If I had to ask someone for a review (check if the arguments in this post are good enough):
+  - I could use [[https://djcbsoftware.nl/code/mu/mu4e.html][mu4e]], [[https://notmuchmail.org/][notmuch]], [[https://www.emacswiki.org/emacs/GnusTutorial][gnus]] to send an e-mail
+  - I'd definitely use [[https://magit.vc/][magit]] to check in code and push to some ~git~ based code hosting system (I use Github)
+	- using [[https://github.com/magit/forge][forge]] I could create a pull-request and add some friends as reviewers
+
+  Again, everything inside Emacs possible!
+
+- *Simplify the extraction of actionable wisdom from data*
+
+  So this one was about:
+  #+begin_quote
+  - we need tools that can extract wisdom from data so we can have it at our finger tips
+  #+end_quote
+
+  There is a high chance I didn't get this right, but: AI/ML someone? At our finger tips? Of couse:
+  - [[https://github.com/rksm/org-ai][rksm/org-ai]]
+
+	#+begin_quote
+	Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable
+	Diffusion for image generation. Also supports speech input / output.
+	#+end_quote
+  - [[https://github.com/emacs-openai/chatgpt][emacs-openai/chatgpt]]
+
+	#+begin_quote
+	Use ChatGPT inside Emacs
+	#+end_quote
+  - [[https://github.com/xenodium/chatgpt-shell][xenodium/chatgpt-shell]]
+
+	#+begin_quote
+	ChatGPT and DALL-E Emacs shells + Org babel + a shell maker for other providers
+	#+end_quote
+
+
+Not convinced yet? 😇

@@ -18,7 +18,7 @@
 #+begin_src emacs-lisp :results silent :exports none
 ;; auto-export
 (defun esf/execute-startup-block
-	(org-hugo-auto-export-mode)
+  (org-hugo-auto-export-mode)
 
   ;; set buffer variable
   (setq org-agenda-files nil)
