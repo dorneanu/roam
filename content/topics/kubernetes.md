@@ -13,6 +13,7 @@ draft = false
 
 ### Benefits {#benefits}
 
+-   2023-09-21 ◦ [The 5 Biggest Risks and Rewards of Adopting Kubernetes](https://dev.to/rigdev/the-risks-and-rewards-of-adopting-kubernetes-1k57)
 -   2022-12-20 ◦ [Top 7 Benefits of Kubernetes | IBM](https://www.ibm.com/cloud/blog/top-7-benefits-of-kubernetes)
 
     > In fact, Kubernetes is the fastest growing project in the history of open-source software, after Linux. According to a 2021 study by the Cloud Native Computing Foundation (CNCF), from 2020 to 2021, the number of Kubernetes engineers grew by 67% to 3.9 million. That’s 31% of all backend developers, an increase of 4 percentage points in a year.

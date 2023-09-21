@@ -6,9 +6,14 @@
 #+STARTUP: showeverything
 #+date: 2023-09-19
 
+👉 The Road to Unfreedom (by [[https://timothysnyder.org/][Timothy Snyder]])
+- 🇷🇴: [[https://www.goodreads.com/book/show/58468558-drumul-spre-nelibertate][Drumul spre nelibertate]]
+- 🇬🇧: [[https://www.penguinrandomhouse.com/books/570367/the-road-to-unfreedom-by-timothy-snyder/][The Road to Unfreedom]]
+
 * Prolog
 ** Politica inevitabilitatii
 
+#+begin_quote
 Americanii şi europenii s-au ghidat în noul secol după o poveste de pre
 sfârşitul istoriei", după ceea ce eu voi numi politica inevitabilità- ții, un
 sentiment că viitorul e doar o continuare a prezentului, că legile progresului
@@ -17,9 +22,11 @@ nimic de făcut. În varianta capitalistă americană a acestei poveşti, natura
 adus piața, care a adus democrația, care a adus fericirea. În varianta
 europeană, istoria a adus națiunea, care a aflat prin război că pacea e bună şi,
 de aceea, a ales integrarea şi prosperitatea.
+#+end_quote
 
 *** În contextul comunismului
 
+#+begin_quote
 Înaintea prăbuşirii Uniunii Sovietice din 1991, comunismul a avut propria lui
 politică a inevitabilității: natura permite tehnologia, teh- nologia aduce
 schimbare socială, schimbarea socială provoacă revolu- ția, revoluția pune în
@@ -30,9 +37,11 @@ poveştii comuniste con- firma adevărul celei capitaliste. Americanii şi
 europenii au continuat să-şi spună singuri propriile povești ale
 inevitabilității timp de un sfert de secol după sfârşitul comunismului și,
 astfel, au crescut o generație milenială fără istorie
+#+end_quote
 
 *** Colapsul politicii inevitabilitatii
 
+#+begin_quote
 Pe măsură ce inegalitatea economică creştea, orizonturile de timp se ingustau şi
 tot mai puţini americani credeau că viitorul poate să aducă o variantă mai bună
 a prezentului. În lipsa unui stat functional care să asigure bunuri sociale
@@ -40,9 +49,11 @@ elementare considerate de la sine înţelese in alte părți educație, pensii,
 asistență medicală, trans- - port, concediu de maternitate, vacante, americanii
 se puteau simţi copleșiți de fiecare zi şi puteau pierde sentimentul că au în
 faţă un viitor.
+#+end_quote
 
 *** Exemple ale politicii inevitabilitatii
 
+#+begin_quote
 Revoluția Industrială: Mulți istorici cred că dezvoltarea tehnologiei și a
 industriei în secolul al XVIII-lea și al XIX-lea era inevitabilă datorită
 creșterii populației și a nevoii de producție mai mare.
@@ -62,9 +73,11 @@ internaționale.
 
 Avansul tehnologic și internetul: Unele persoane cred că progresul tehnologic și
 dezvoltarea internetului erau inevitabile într-o lume în continuă evoluție.
+#+end_quote
 
 ** Politica eternității
 
+#+begin_quote
 Colapsul politicii inevitabilității aduce o altă experienţă a timpului: politica
 eternității. În timp ce inevitabilitatea promite un viitor mai bun pentru toţi,
 eternitatea plasează o națiune în centrul unei poveşti cicli- ce victimizatoare.
@@ -75,33 +88,44 @@ mod posibil; în cazul eternității, nimeni nu e responsabil, pentru că toţi 
 că inamicul o să vină indiferent ce facem. Politicienii eternității răspândesc
 convingerea că statul nu poate să ajute societatea ca întreg, ci doar s-o apere
 de amenințări. Progresul lasă locul damnării.
+#+end_quote
 
 *** Definiție mai simplă
 
+#+begin_quote
 Politica eternității este un concept în istorie și filosofie care sugerează că anumite idei, principii sau structuri
 politice sunt atât de fundamentale și atemporale încât rămân valabile în ciuda schimbărilor istorice sau culturale.
 Aceste idei sunt considerate "eterne" în sensul că persistă pe termen lung și nu sunt limitate de contextul specific al
 unei epoci sau culturi.
+#+end_quote
 
 *** Concepte
 
-Statul de drept: Ideea că toți indivizii, inclusiv cei din poziții de putere, trebuie să respecte legea și să fie supuși
-aceleiași justiții. Acest principiu rămâne important în diverse societăți de-a lungul timpului.
+#+begin_quote
+Statul de drept: Ideea că toți indivizii, inclusiv cei din poziții de putere,
+trebuie să respecte legea și să fie supuși aceleiași justiții. Acest principiu
+rămâne important în diverse societăți de-a lungul timpului.
 
-Respectul pentru proprietatea privată: Conceptul că oamenii au dreptul să dețină proprietăți private și să le gestioneze
-în mod liber. Această idee a fost valorizată în multe culturi și epoci.
+Respectul pentru proprietatea privată: Conceptul că oamenii au dreptul să dețină
+proprietăți private și să le gestioneze în mod liber. Această idee a fost
+valorizată în multe culturi și epoci.
 
-Toleranța și diversitatea: Promovarea acceptării și respectului față de diferitele opinii, culturi și moduri de viață.
-Aceasta poate fi considerată o valoare eternă în contextul conviețuirii umane.
+Toleranța și diversitatea: Promovarea acceptării și respectului față de
+diferitele opinii, culturi și moduri de viață. Aceasta poate fi considerată o
+valoare eternă în contextul conviețuirii umane.
 
-Guvernarea reprezentativă: Ideea că oamenii ar trebui să aibă reprezentanți aleși care să ia decizii în numele lor.
-Acest principiu rămâne fundamental în multe sisteme politice.
+Guvernarea reprezentativă: Ideea că oamenii ar trebui să aibă reprezentanți
+aleși care să ia decizii în numele lor. Acest principiu rămâne fundamental în
+multe sisteme politice.
 
-Drepturile omului: Conceptul că toți oamenii au anumite drepturi fundamentale, cum ar fi dreptul la viață, libertate și
-securitate. Aceste drepturi sunt văzute ca fiind valabile pentru toți, indiferent de timp sau loc.
+Drepturile omului: Conceptul că toți oamenii au anumite drepturi fundamentale,
+cum ar fi dreptul la viață, libertate și securitate. Aceste drepturi sunt văzute
+ca fiind valabile pentru toți, indiferent de timp sau loc.
 
-Non-agresiunea: Principiul că este greșit să recurgi la violență sau agresiune împotriva altor persoane sau națiuni.
-Această idee a fost susținută de-a lungul istoriei ca un mod de a menține pacea și armonia.
+Non-agresiunea: Principiul că este greșit să recurgi la violență sau agresiune
+împotriva altor persoane sau națiuni. Această idee a fost susținută de-a lungul
+istoriei ca un mod de a menține pacea și armonia.
+#+end_quote
 
 *** Ce fac politicienii
 
