@@ -513,339 +513,449 @@ misiunea mesianică a Rusiei de a mântui umanitatea. Aceasta trebuia si cuprin 
 
 ### Despre legătură Rusiei cu Ucraina {#despre-legătură-rusiei-cu-ucraina}
 
-Vladimir Putin susţinea că viziunea lui milenaristă despre botezarea lui
-Volodimir/Valdemar a făcut din Rusia şi Ucraina un singur popor. In timp ce
-vizita Kievul în iulie 2013, Putin s-a inspirat din Biblie și a vorbit despre
-geopolitica lui Dumnezeu: Unitatea noastră spirituală a început cu Botezarea
-Rusiei Kievene Sfinte din urmă cu 1 025 de ani. De atunci popoarele noastre au
-trecut prin multe, dar unitatea noastră spirituală e atât de puternică, încât nu
-se su- pune acţiunii niciunei autorități: niciunei autorități guvernamentale, şi
-aş merge până la a spune că nici măcar unei autorităţi bisericeşti. Pentru că,
-indiferent ce autoritate guvernează asupra oamenilor, nu poate exista niciuna
-mai puternică decât autoritatea Domnului- nimic nu poate fi mai puternic decât
-asta. Şi aceasta este cea mai solidă fundaţie a unității noastre, existentă în
-sufletul poporului nostru".
+> Vladimir Putin susţinea că viziunea lui milenaristă despre botezarea lui
+> Volodimir/Valdemar a făcut din Rusia şi Ucraina un singur popor. In timp ce
+> vizita Kievul în iulie 2013, Putin s-a inspirat din Biblie și a vorbit despre
+> geopolitica lui Dumnezeu: Unitatea noastră spirituală a început cu Botezarea
+> Rusiei Kievene Sfinte din urmă cu 1 025 de ani. De atunci popoarele noastre au
+> trecut prin multe, dar unitatea noastră spirituală e atât de puternică, încât nu
+> se su- pune acţiunii niciunei autorități: niciunei autorități guvernamentale, şi
+> aş merge până la a spune că nici măcar unei autorităţi bisericeşti. Pentru că,
+> indiferent ce autoritate guvernează asupra oamenilor, nu poate exista niciuna
+> mai puternică decât autoritatea Domnului- nimic nu poate fi mai puternic decât
+> asta. Şi aceasta este cea mai solidă fundaţie a unității noastre, existentă în
+> sufletul poporului nostru".
 
-In septembrie 2013, la Valdai-summitul prezidențial având ca temă politica
-externă, Putin şi-a exprimat viziunea în termeni seculari. El a citat,,modelul
-organic" al statalităţii rusești formulat de llin, in care **Ucraina era un organ
-inseparabil de trupul rusesc virginal**. „\*Avem tradiții comune, o mentalitate
-comună, o istorie comună şi o cultură comună", a spus Putin. Avem limbi foarte
-similare. In privința aceasta, vreau să spun din nou, suntem un singur popor.\*"
-Acordul de asociere dintre UE şi Ucraina trebuia semnat două luni mai târziu.
-Rusia avea să încerce să blocheze acest proces, pe motiv că în sfera ei
-spirituală de...
+<!--quoteend-->
+
+> In septembrie 2013, la Valdai-summitul prezidențial având ca temă politica
+> externă, Putin şi-a exprimat viziunea în termeni seculari. El a citat,,modelul
+> organic" al statalităţii rusești formulat de llin, in care **Ucraina era un organ
+> inseparabil de trupul rusesc virginal**. „\*Avem tradiții comune, o mentalitate
+> comună, o istorie comună şi o cultură comună", a spus Putin. Avem limbi foarte
+> similare. In privința aceasta, vreau să spun din nou, suntem un singur popor.\*"
+> Acordul de asociere dintre UE şi Ucraina trebuia semnat două luni mai târziu.
+> Rusia avea să încerce să blocheze acest proces, pe motiv că în sfera ei
+> spirituală de...
 
 
 ### Ucraina între Germania și Uniunea Sovietică {#ucraina-între-germania-și-uniunea-sovietică}
 
-Cazul crucial este incercarea equatá a germanilor de a colonia Ucraina în 1941.
-Pământul negru şi bogat al Ucrainei s-a aflat în centrul a două importante
-proiecte neoimperiale europene ale secolului XX, sovietic și apoi cel nazist. Și
-în această privinţă, istoria ucraineană tipică și, prin urmare, indispensabilă.
-Niciun alt teritoriu nu a atras at atenţie colonială în Europa. Ceea ce
-dezvăluie regula: istoria europeani se învârte în jurul colonizării și
-decolonizării.
+> Cazul crucial este incercarea equatá a germanilor de a colonia Ucraina în 1941.
+> Pământul negru şi bogat al Ucrainei s-a aflat în centrul a două importante
+> proiecte neoimperiale europene ale secolului XX, sovietic și apoi cel nazist. Și
+> în această privinţă, istoria ucraineană tipică și, prin urmare, indispensabilă.
+> Niciun alt teritoriu nu a atras at atenţie colonială în Europa. Ceea ce
+> dezvăluie regula: istoria europeani se învârte în jurul colonizării și
+> decolonizării.
 
-Josif Stalin a înțeles proiectul sovietic drept autocolonizare. Deoarece nu avea
-posesiuni peste mări, Uniunea Sovietică trebuia să-şi exploatere
-hinterlandurile. Prin urmare, in Primul Plan Cincinal din 1928-1933, Ucraina
-trebuia să cedeze planificatorilor centrali sovietici abundenţa ei agricolă.
-Controlul de stat al agriculturii a ucis prin înfometare între trei şi patru
-milioane de locuitori ai Ucrainei sovietice. Adolf Hitler vedea Ucraina drept
-teritoriul fertil care avea să transforme Germania intr-o putere mondială.
-Controlarea pământului ei negru era obiectivul lui de război. Drept rezultat al
-ocupației germane care a inceput in 1941, peste trei milioane de alți locuitori
-ai Ucrainei sovietice au fost ucişi, inclu- siv aproximativ 1,6 milioane de
-evrei omorâți de germani şi de poliţiştii şi milițiile locale. In plus față de
-aceste pierderi, aproximativ trei mili- oane de alți locuitori ai Ucrainei
-sovietice au murit în luptă ca soldați ai Armatei Roşii. In total, aproximativ
-10 milioane de oameni au fost ucişi într-un deceniu, drept rezultat a două
-colonizări rivale ale aceluiaşi teritoriu.
+<!--quoteend-->
+
+> Josif Stalin a înțeles proiectul sovietic drept autocolonizare. Deoarece nu avea
+> posesiuni peste mări, Uniunea Sovietică trebuia să-şi exploatere
+> hinterlandurile. Prin urmare, in Primul Plan Cincinal din 1928-1933, Ucraina
+> trebuia să cedeze planificatorilor centrali sovietici abundenţa ei agricolă.
+> Controlul de stat al agriculturii a ucis prin înfometare între trei şi patru
+> milioane de locuitori ai Ucrainei sovietice. Adolf Hitler vedea Ucraina drept
+> teritoriul fertil care avea să transforme Germania intr-o putere mondială.
+> Controlarea pământului ei negru era obiectivul lui de război. Drept rezultat al
+> ocupației germane care a inceput in 1941, peste trei milioane de alți locuitori
+> ai Ucrainei sovietice au fost ucişi, inclu- siv aproximativ 1,6 milioane de
+> evrei omorâți de germani şi de poliţiştii şi milițiile locale. In plus față de
+> aceste pierderi, aproximativ trei mili- oane de alți locuitori ai Ucrainei
+> sovietice au murit în luptă ca soldați ai Armatei Roşii. In total, aproximativ
+> 10 milioane de oameni au fost ucişi într-un deceniu, drept rezultat a două
+> colonizări rivale ale aceluiaşi teritoriu.
 
 
 ### Viktor Ianukovici {#viktor-ianukovici}
 
-Cariera lui Tanukovici demonstrează diferența dintre pluralismul oligarhic
-ucrainean şi centralismul cleptocratic rusesc. Ianukovici candidase prima oară
-la funcția de preşedinte in 2004, Numărătoarea finală fusese manipulata in
-favoarea lui de patronul lui, preşedintele la final de mandat Leonid Kucima.
-Politica externa rusească avea să-i susţină și ea can- didatura și să-i declare
-victoria. După trei săptămâni de proteste în Piața Independenței din Kiev
-(cunoscută drept Maidan), o decizie a Curţii Supreme ucrainene și noi alegeri,
-lanukovici s-a recunoscut învins. A fost un moment important al istoriei
-ucrainene; el a confirmat democrația ca principiu al succesiunii. Atâta timp cât
-domnia legii funcționa la vârful politicii, exista în continuare speranţa că
-într-o bună zi ca s-ar putea extinde şi asupra vieții cotidiene.
+> Cariera lui Tanukovici demonstrează diferența dintre pluralismul oligarhic
+> ucrainean şi centralismul cleptocratic rusesc. Ianukovici candidase prima oară
+> la funcția de preşedinte in 2004, Numărătoarea finală fusese manipulata in
+> favoarea lui de patronul lui, preşedintele la final de mandat Leonid Kucima.
+> Politica externa rusească avea să-i susţină și ea can- didatura și să-i declare
+> victoria. După trei săptămâni de proteste în Piața Independenței din Kiev
+> (cunoscută drept Maidan), o decizie a Curţii Supreme ucrainene și noi alegeri,
+> lanukovici s-a recunoscut învins. A fost un moment important al istoriei
+> ucrainene; el a confirmat democrația ca principiu al succesiunii. Atâta timp cât
+> domnia legii funcționa la vârful politicii, exista în continuare speranţa că
+> într-o bună zi ca s-ar putea extinde şi asupra vieții cotidiene.
 
-După înfrângerea lui, lanukovici l-a angajat pe consultantul politic american
-Paul Manafort să-i îmbunătățească imaginea. Chiar dacă avea o locuinţă în Trump
-Tower din New York, Manafort petrecea mult timp in Ucraina. Sub tutela lui
-Manafort, lanukovici a început să se rundă mai bine, să poarte costume mai bune
-și a început să comunice cu mâinile. Manafort l-a ajutat să urmeze o strategie
-sudistă pentru Ucraina, care o amintea pe cea pe care Partidul Republican o
-folosise în Statele Unite: **sublinierea diferențelor culturale, transformarea
-politicii in ceva care se referă la a fi, nu la a face**. În Statele Unite, asta
-însemna **a da apă la moară nemulțumirilor albilor**, chiar dacă aceştia erau o
-majoritate ai cărei membri deţineau aproape toată averea; în Ucraina, însemna
-**exagerarea dificultăţilor celor care vorbeau rusă**, chiar dacă rusa era o limbă
-importantă a politicii şi economiei din ţară şi prima limbă a celor care
-controlau resursele ţării. Ca şi următorul client al lui Manafort, Donald Trump,
-Janukovici a ajuns la putere cu o campanie bazată pe exploatarea unor
-nemulţumiri culturale şi pe inocularea speranţei că un oligarh ar putea să apere
-poporul împotriva oligarhiei.
+<!--quoteend-->
 
-După ce a câştigat alegerile prezidențiale din 2010, Ianukovici s-a concentrat
-asupra averii lui personale. Părea că importă practici rusești, prin crearea
-unei elite cleptocratice permanente, în loc să permită rotaţia clanurilor
-oligarhice. Fiul lui, dentist, a devenit unul dintre cei mai bogaţi oameni din
-Ucraina. Ianukovici a subminat mecanismele de echilibru şi control dintre
-puterile statului ucrainean, de exemplu făcându-l pe judecătorul care îi
-rătăcise cazierul preşedintele Curţii Supreme ucrainene.
+> După înfrângerea lui, lanukovici l-a angajat pe consultantul politic american
+> Paul Manafort să-i îmbunătățească imaginea. Chiar dacă avea o locuinţă în Trump
+> Tower din New York, Manafort petrecea mult timp in Ucraina. Sub tutela lui
+> Manafort, lanukovici a început să se rundă mai bine, să poarte costume mai bune
+> și a început să comunice cu mâinile. Manafort l-a ajutat să urmeze o strategie
+> sudistă pentru Ucraina, care o amintea pe cea pe care Partidul Republican o
+> folosise în Statele Unite: **sublinierea diferențelor culturale, transformarea
+> politicii in ceva care se referă la a fi, nu la a face**. În Statele Unite, asta
+> însemna **a da apă la moară nemulțumirilor albilor**, chiar dacă aceştia erau o
+> majoritate ai cărei membri deţineau aproape toată averea; în Ucraina, însemna
+> **exagerarea dificultăţilor celor care vorbeau rusă**, chiar dacă rusa era o limbă
+> importantă a politicii şi economiei din ţară şi prima limbă a celor care
+> controlau resursele ţării. Ca şi următorul client al lui Manafort, Donald Trump,
+> Janukovici a ajuns la putere cu o campanie bazată pe exploatarea unor
+> nemulţumiri culturale şi pe inocularea speranţei că un oligarh ar putea să apere
+> poporul împotriva oligarhiei.
 
----
+<!--quoteend-->
+
+> După ce a câştigat alegerile prezidențiale din 2010, Ianukovici s-a concentrat
+> asupra averii lui personale. Părea că importă practici rusești, prin crearea
+> unei elite cleptocratice permanente, în loc să permită rotaţia clanurilor
+> oligarhice. Fiul lui, dentist, a devenit unul dintre cei mai bogaţi oameni din
+> Ucraina. Ianukovici a subminat mecanismele de echilibru şi control dintre
+> puterile statului ucrainean, de exemplu făcându-l pe judecătorul care îi
+> rătăcise cazierul preşedintele Curţii Supreme ucrainene.
 
 
 ### Viktor Ianukovici (2) {#viktor-ianukovici--2}
 
-Când lanukovici a anunţat că nu semnează acordul de asociere cu UE, in noiembrie
-2013, acest fapt a fost celebrat de guvernul rus ca o victorie. Dar, de fapt,
-lanukovici nu fusese de acord să intre in Eurasia, actiune care ar fi fost şi
-mai nepopulară în rândul ucrainenilor. In decembrie 2013 și ianuarie 2014,
-Kremlinul a încercat să-l ajute pe lanukovici si adrobească protestele şi,
-astfel, să devină posibil ca preşedintele ucrainean să-şi desăvârșească
-întoarcerea dinspre UE spre Eurasia. **Janukovici susţinea că atât Europa, cât şi
-Rusia voiau Ucraina şi că fiecare trebuia să-l plătească**. Dacă UE a refuzat,
-**Putin era pregătit să-i ofere bani lui lanukovici**.
+> Când lanukovici a anunţat că nu semnează acordul de asociere cu UE, in noiembrie
+> 2013, acest fapt a fost celebrat de guvernul rus ca o victorie. Dar, de fapt,
+> lanukovici nu fusese de acord să intre in Eurasia, actiune care ar fi fost şi
+> mai nepopulară în rândul ucrainenilor. In decembrie 2013 și ianuarie 2014,
+> Kremlinul a încercat să-l ajute pe lanukovici si adrobească protestele şi,
+> astfel, să devină posibil ca preşedintele ucrainean să-şi desăvârșească
+> întoarcerea dinspre UE spre Eurasia. **Janukovici susţinea că atât Europa, cât şi
+> Rusia voiau Ucraina şi că fiecare trebuia să-l plătească**. Dacă UE a refuzat,
+> **Putin era pregătit să-i ofere bani lui lanukovici**.
 
-Pe 17 decembrie 2013, Putin i-a oferit lui lanukovici un pachet de 15 miliarde
-de dolari și prețuri reduse la gazele naturale. Ajutorul părea să fie
-condiționat: era oferit împreună cu cererile rusești ca străzile Kievului si fie
-eliberate de protestatari. La acel moment, forţele ucrainene de intervenţie
-eşuaseră deja de două ori în această misiune, pe 30 noiembrie şi 10 decembrie.
-De asemenea, ele răpiseră protestatari consideraţi lideri şi li batuseră. Nimic
-din toate acestea nu funcţionase, astfel că ruşii au venit in ajutor. In Kiev a
-sosit un grup de 27 de specialiști ruși în suprimarea protestelor, ofițeri FSB
-şi instructori de la Ministerul Afacerilor Interne. Pe 9 ianuarie 2014,
-ambasadorul rus în Ucraina l-a informat pe lanukovici că poliţiştii de
-intervenţie ucraineni aveau să primească cetățenie rusă după operațiunea
-iminentă de zdrobire a Maidan-ului. Era o asigurare foarte importantă, deoarece
-însemna că acești polițiști nu trebuiau să se teama de consecințele acţiunilor
-lor. Dacă în cele din urmă câştiga opoziția, ei ar fi fost în continuare în
-siguranţă.
+<!--quoteend-->
 
-In ianuarie 2014, Moscova pare să fi calculat că o aplicare mai competentă a
-violenţei avea să frângă protestele şi să-l transforme pe lanukovici intr-o
-marionetă. In calculele ruseşti nu intra faptul că cetățenii ucraineni erau in
-Maidan din motive patriotice proprii. Când regimul lanukovici a introdus
-legile dictaturii de tip rusesc, pe 16 ianuarie 2014, acest lucru sugera că
-urmează un masiv val de violențe. În Ucraina, legile de tip rusesc nu aveau
-aceleaşi consecinţe ca în Rusia. Protestatarii ucraineni le vedeau drept
-implanturi străine ofensive. Când au fost împuşcați cei doi protestatari, pe 22
-ianuarie, Maidan-ul a crescut mai mult ca oricând.
+> Pe 17 decembrie 2013, Putin i-a oferit lui lanukovici un pachet de 15 miliarde
+> de dolari și prețuri reduse la gazele naturale. Ajutorul părea să fie
+> condiționat: era oferit împreună cu cererile rusești ca străzile Kievului si fie
+> eliberate de protestatari. La acel moment, forţele ucrainene de intervenţie
+> eşuaseră deja de două ori în această misiune, pe 30 noiembrie şi 10 decembrie.
+> De asemenea, ele răpiseră protestatari consideraţi lideri şi li batuseră. Nimic
+> din toate acestea nu funcţionase, astfel că ruşii au venit in ajutor. In Kiev a
+> sosit un grup de 27 de specialiști ruși în suprimarea protestelor, ofițeri FSB
+> şi instructori de la Ministerul Afacerilor Interne. Pe 9 ianuarie 2014,
+> ambasadorul rus în Ucraina l-a informat pe lanukovici că poliţiştii de
+> intervenţie ucraineni aveau să primească cetățenie rusă după operațiunea
+> iminentă de zdrobire a Maidan-ului. Era o asigurare foarte importantă, deoarece
+> însemna că acești polițiști nu trebuiau să se teama de consecințele acţiunilor
+> lor. Dacă în cele din urmă câştiga opoziția, ei ar fi fost în continuare în
+> siguranţă.
+
+<!--quoteend-->
+
+> In ianuarie 2014, Moscova pare să fi calculat că o aplicare mai competentă a
+> violenţei avea să frângă protestele şi să-l transforme pe lanukovici intr-o
+> marionetă. In calculele ruseşti nu intra faptul că cetățenii ucraineni erau in
+> Maidan din motive patriotice proprii. Când regimul lanukovici a introdus legile
+> dictaturii de tip rusesc, pe 16 ianuarie 2014, acest lucru sugera că urmează un
+> masiv val de violențe. În Ucraina, legile de tip rusesc nu aveau aceleaşi
+> consecinţe ca în Rusia. Protestatarii ucraineni le vedeau drept implanturi
+> străine ofensive. Când au fost împuşcați cei doi protestatari, pe 22 ianuarie,
+> Maidan-ul a crescut mai mult ca oricând.
 
 ---
 
-Un memorandum care a circulat în administrația prezidențială rusească la
-începutul lui februarie 2014, aparent bazat pe munca lui Girkin, anticipa
-schimbarea de direcţie a politicii ruseşti. El pornea de la premisa că regimul
-lanukovici e complet falit. Sprijinul diplomatic, financiar şi propagandistic
-din partea statului rus nu mai are niciun sens". Interesele rusești în Ucraina
-erau definite drept complexul militar-industrial din Ucraina sud-estică şi
-controlul asupra sistemului de transport de gaz" din întreaga pară. **Principalul
-obiectiv al Rusiei trebuia să fie dezintegrarea statului ucrainean**". Tactica
-propusă era de a-l **discredita atât pe Ianukovici**, cât şi opoziția prin
-violenţă, în acelaşi timp invadând Ucraina sudică şi destabilizând statul
-ucrainean. Memorandumul conținea trei strategii de propagandă menite să ofere
-acoperire unei astfel de intervenţii ruseşti: (1) solicita ca Ucraina să se
-federalizeze, în interesul unei minorități ruseşti presupus oprimate, (2)
-adversarii invaziei rusești să fie prezentaţi drept fascişti şi (3) descrierea
-invaziei ca război civil alimentat de Occident.
+> Un memorandum care a circulat în administrația prezidențială rusească la
+> începutul lui februarie 2014, aparent bazat pe munca lui Girkin, anticipa
+> schimbarea de direcţie a politicii ruseşti. El pornea de la premisa că regimul
+> lanukovici e complet falit. Sprijinul diplomatic, financiar şi propagandistic
+> din partea statului rus nu mai are niciun sens". Interesele rusești în Ucraina
+> erau definite drept complexul militar-industrial din Ucraina sud-estică şi
+> controlul asupra sistemului de transport de gaz" din întreaga pară. **Principalul
+> obiectiv al Rusiei trebuia să fie dezintegrarea statului ucrainean**". Tactica
+> propusă era de a-l **discredita atât pe Ianukovici**, cât şi opoziția prin violenţă,
+> în acelaşi timp invadând Ucraina sudică şi destabilizând statul ucrainean.
+> Memorandumul conținea trei strategii de propagandă menite să ofere acoperire
+> unei astfel de intervenţii ruseşti: (1) solicita ca Ucraina să se federalizeze,
+> în interesul unei minorități ruseşti presupus oprimate, (2) adversarii invaziei
+> rusești să fie prezentaţi drept fascişti şi (3) descrierea invaziei ca război
+> civil alimentat de Occident.
 
 
 ### Viktor Ianukovici (3) {#viktor-ianukovici--3}
 
-Cea mai importantă inițiativă a venit din partea unui diplomat european.
-Ministrul de externe polonez Radosław Sikorski i-a convins pe omologii lui
-francez și german så i se alăture in Kiev pentru discuții cu Janukovici, 20
-februarie pe chiar în ziua în care 44 de protestatari civili au fost împuşcaţi
-şi ucişi în Maidan. Un diplomat rus s-a alăturat grupului. Pe parcursul unei
-zile lungi şi dificile de negocieri, lanukovici a acceptat să părăsească funcția
-la sfârşitul lui 2014, inainte de incheierea mandatului său. Oricât de
-impresionantă ar fi putut părea, această rezo- luţie diplomatică era depăşită
-dinainte de a fi semnată. Autoritățile ruse concluzionaseră deja că lanukovici
-era condamnat, iar forţa de invazie rusească era deja în mişcare. Semnarea
-acordului permitea Rusiei să-i în- vinovăţească pe alţii pentru faptul că
-termenii acestuia nu erau respectați, chiar în timp ce invazia rusească,
-survenită patru zile mai târziu, modifica drastic condițiile în care acesta
-fusese semnat.
+> Cea mai importantă inițiativă a venit din partea unui diplomat european.
+> Ministrul de externe polonez Radosław Sikorski i-a convins pe omologii lui
+> francez și german så i se alăture in Kiev pentru discuții cu Janukovici, 20
+> februarie pe chiar în ziua în care 44 de protestatari civili au fost împuşcaţi
+> şi ucişi în Maidan. Un diplomat rus s-a alăturat grupului. Pe parcursul unei
+> zile lungi şi dificile de negocieri, lanukovici a acceptat să părăsească funcția
+> la sfârşitul lui 2014, inainte de incheierea mandatului său. Oricât de
+> impresionantă ar fi putut părea, această rezo- luţie diplomatică era depăşită
+> dinainte de a fi semnată. Autoritățile ruse concluzionaseră deja că lanukovici
+> era condamnat, iar forţa de invazie rusească era deja în mişcare. Semnarea
+> acordului permitea Rusiei să-i în- vinovăţească pe alţii pentru faptul că
+> termenii acestuia nu erau respectați, chiar în timp ce invazia rusească,
+> survenită patru zile mai târziu, modifica drastic condițiile în care acesta
+> fusese semnat.
 
-Trecuse momentul la care protestatarii ucraineni l-ar mai fi putut accepta pe
-lanukovici ca preşedinte. Dacă în dimineaţa lui 20 februarie mai exista vreo
-îndoială că acesta trebuia să demisioneze, până la sfârşitul zilei ea avea să
-fie risipită. Pe 20 februarie, în Kiev se afla și o altă delegație rusă, condusă
-de Vladislav Surkov, în care se găsea şi Serghei Beseda, general FSB. Aceşti
-ruşi nu veniseră acolo ca să negocieze. În timp ce alţii negociau, lunetişti
-ascunşi lângă Maidan au împuşcat şi ucis zeci de oameni, majoritatea
-protestatari, câțiva dintre ei poliţişti de intervenţie ucraineni. Nu era clar
-care parte a guvernului ucrainean (dacă a existat vreuna) a fost implicată In
-aceste împuşcături.
+<!--quoteend-->
 
-După aceste crime în masă, lanukovici a fost abandonat de parlamentarii care
-il susținuseră şi de poliţiştii care il protejaserà. A fugit la reşedinţa lui
-extravagantă, lăsând în urmă un tezaur de documente inclusiv dovezi ale unor
-mari plăți în bani lichizi către consilierul lui, Paul Manafort, care doi ani
-mai târziu a reapărut ca manager de campanie al lui Donald Trump.
+> Trecuse momentul la care protestatarii ucraineni l-ar mai fi putut accepta pe
+> lanukovici ca preşedinte. Dacă în dimineaţa lui 20 februarie mai exista vreo
+> îndoială că acesta trebuia să demisioneze, până la sfârşitul zilei ea avea să
+> fie risipită. Pe 20 februarie, în Kiev se afla și o altă delegație rusă, condusă
+> de Vladislav Surkov, în care se găsea şi Serghei Beseda, general FSB. Aceşti
+> ruşi nu veniseră acolo ca să negocieze. În timp ce alţii negociau, lunetişti
+> ascunşi lângă Maidan au împuşcat şi ucis zeci de oameni, majoritatea
+> protestatari, câțiva dintre ei poliţişti de intervenţie ucraineni. Nu era clar
+> care parte a guvernului ucrainean (dacă a existat vreuna) a fost implicată In
+> aceste împuşcături.
+
+<!--quoteend-->
+
+> După aceste crime în masă, lanukovici a fost abandonat de parlamentarii care il
+> susținuseră şi de poliţiştii care il protejaserà. A fugit la reşedinţa lui
+> extravagantă, lăsând în urmă un tezaur de documente inclusiv dovezi ale unor
+> mari plăți în bani lichizi către consilierul lui, Paul Manafort, care doi ani
+> mai târziu a reapărut ca manager de campanie al lui Donald Trump.
 
 
 ### Homosexualizarea protestului din Maidan {#homosexualizarea-protestului-din-maidan}
 
-La sfârşitul lui 2011, când ruşii protestau împotriva alegerilor máslui- te,
-liderii lor ii asociaseră pe protestatari cu homosexualitatea. La sfârşitul lui
-2013, confruntaţi cu Maidan-ul din Ucraina, oamenii Kremlinului au facut aceeaşi
-mişcare. După doi ani de propaganda antigay in Federa- ția Rusă, ideologii şi
-animatorii erau siguri de ei. Punctul de plecare era di Uniunea Europeană era
-homosexuală, astfel că mişcarea ucraineană citre Europa trebuia să fie și ea la
-fel. Clubul Izborsk susținea că UE -geme sub povara dominației lobby-ului LGBT".
+> La sfârşitul lui 2011, când ruşii protestau împotriva alegerilor máslui- te,
+> liderii lor ii asociaseră pe protestatari cu homosexualitatea. La sfârşitul lui
+> 2013, confruntaţi cu Maidan-ul din Ucraina, oamenii Kremlinului au facut aceeaşi
+> mişcare. După doi ani de propaganda antigay in Federa- ția Rusă, ideologii şi
+> animatorii erau siguri de ei. Punctul de plecare era di Uniunea Europeană era
+> homosexuală, astfel că mişcarea ucraineană citre Europa trebuia să fie și ea la
+> fel. Clubul Izborsk susținea că UE -geme sub povara dominației lobby-ului LGBT".
 
-In noiembrie şi decembrie 2013, mass-media rusă care trata Mai- dan-ul
-introducea la tot pasul tema irelevantă a sexului homosexual. În timp ce trata
-prima zi de proteste ale studenților ucraineni în favoarea acordului de asociere
-cu UE, mass-media rusească încerca să-și fascineze cititorii prin contopirea
-politicii ucrainene cu bărbaţi atrăgători şi sex ho- mosexual. O pagină de
-mass-media socială a lui Vitali Kliciko, un boxer la categoria supergrea care a
-condus un partid politic ucrainean, a fost piratată, introducându-se pe ea
-material gay. Apoi un post de televiziune important, NTV, a prezentat acest
-lucru ca știre pentru milioane de ruşi. Înainte să poată să înțeleagă că într-o
-țară vecină aveau loc proteste pro- europene, ruşii erau invitați să contemple
-un tabu sexual.
+<!--quoteend-->
 
-Imediat după ce studenții au început să protesteze in Maidan, postul de
-televiziune rusesc NTV a avertizat în privința „homodictaturii" din Ucraina.
-Viktor Şestakov susţinea, în ziarul Odna Rodina, că un spectru bintuic
-Maidan-ul, spectrul homosexualităţii. Faptul că primii și cei mai zeloși
-integratori din Ucraina sunt perverși sexuali din acea ţară e cunos- cut de
-mult".
+> In noiembrie şi decembrie 2013, mass-media rusă care trata Mai- dan-ul
+> introducea la tot pasul tema irelevantă a sexului homosexual. În timp ce trata
+> prima zi de proteste ale studenților ucraineni în favoarea acordului de asociere
+> cu UE, mass-media rusească încerca să-și fascineze cititorii prin contopirea
+> politicii ucrainene cu bărbaţi atrăgători şi sex ho- mosexual. O pagină de
+> mass-media socială a lui Vitali Kliciko, un boxer la categoria supergrea care a
+> condus un partid politic ucrainean, a fost piratată, introducându-se pe ea
+> material gay. Apoi un post de televiziune important, NTV, a prezentat acest
+> lucru ca știre pentru milioane de ruşi. Înainte să poată să înțeleagă că într-o
+> țară vecină aveau loc proteste pro- europene, ruşii erau invitați să contemple
+> un tabu sexual.
 
-Dmitri Kiselev, personaj important al televiziunii ruseşti, a preluat tema. În
-decembrie 2013, Kiselev a fost numit director al unui nou con- glomerat media
-cunoscut drept Rossiia Segodnia sau Russia Today. Scopul acestuia era de a
-dizolva demersul ştirilor de la mass-media de stat ruseas- că intr-un nou
-demers; ficțiunea utilă. El şi-a întâmpinat noii angajați cu cuvintele
-„obiectivitatea este un mit" şi a stabilit noua linie editorială drept „iubire
-faţă de Rusia".
+<!--quoteend-->
+
+> Imediat după ce studenții au început să protesteze in Maidan, postul de
+> televiziune rusesc NTV a avertizat în privința „homodictaturii" din Ucraina.
+> Viktor Şestakov susţinea, în ziarul Odna Rodina, că un spectru bintuic
+> Maidan-ul, spectrul homosexualităţii. Faptul că primii și cei mai zeloși
+> integratori din Ucraina sunt perverși sexuali din acea ţară e cunos- cut de
+> mult".
+
+<!--quoteend-->
+
+> Dmitri Kiselev, personaj important al televiziunii ruseşti, a preluat tema. În
+> decembrie 2013, Kiselev a fost numit director al unui nou con- glomerat media
+> cunoscut drept Rossiia Segodnia sau Russia Today. Scopul acestuia era de a
+> dizolva demersul ştirilor de la mass-media de stat ruseas- că intr-un nou
+> demers; ficțiunea utilă. El şi-a întâmpinat noii angajați cu cuvintele
+> „obiectivitatea este un mit" şi a stabilit noua linie editorială drept „iubire
+> faţă de Rusia".
 
 
 ### Lupii nopții {#lupii-nopții}
 
-Spectacolul public al invaziei ruseşti a fost oferit de Lupii Nopții, o bandă de
-motociclişti ruşi care serveau drept brat paramilitar şi propa gandistic al
-regimului Putin. Pe 28 februarie, ziua in care parlamentul rus a votat în
-favoarea anexării, Lupii Nopţii au fost trimişi în Crimea. Motocicliştii
-organizau manifestaţii în Crimeea de mai mulţi ani, însoțiti personal de Putin
-în 2012. (Putin nu poate să meargă cu motocicleta, aşa că a primit un triciclu.)
-Acum, Lupii Nopţii furnizau fata pe care Rusia voia s-o afișeze pentru ea. Cu
-câteva luni în urmă, unul dintre Lupi Nopţii descrisese viziunea acestora asupra
-lumii: „Trebuie să înveți să vezi războiul sfânt sub cotidian. Democrația e o
-stare decăzută. A Impărți in stânga și "dreapta înseamnă a separa. În împărăţia
-lui Dumnezeu există doar sus şi jos. Totul e una. Şi de aceea sufletul rusesc
-este sfant. El poate să unească totul. Ca o icoană. Stalin și Dumnezeu". Iată
-filosofia lui Ilin, geopolitica lui Surkov şi civilizația lui Putin exprimate în
-câteva cuvinte.
+> Spectacolul public al invaziei ruseşti a fost oferit de Lupii Nopții, o bandă de
+> motociclişti ruşi care serveau drept brat paramilitar şi propa gandistic al
+> regimului Putin. Pe 28 februarie, ziua in care parlamentul rus a votat în
+> favoarea anexării, Lupii Nopţii au fost trimişi în Crimea. Motocicliştii
+> organizau manifestaţii în Crimeea de mai mulţi ani, însoțiti personal de Putin
+> în 2012. (Putin nu poate să meargă cu motocicleta, aşa că a primit un triciclu.)
+> Acum, Lupii Nopţii furnizau fata pe care Rusia voia s-o afișeze pentru ea. Cu
+> câteva luni în urmă, unul dintre Lupi Nopţii descrisese viziunea acestora asupra
+> lumii: „Trebuie să înveți să vezi războiul sfânt sub cotidian. Democrația e o
+> stare decăzută. A Impărți in stânga și "dreapta înseamnă a separa. În împărăţia
+> lui Dumnezeu există doar sus şi jos. Totul e una. Şi de aceea sufletul rusesc
+> este sfant. El poate să unească totul. Ca o icoană. Stalin și Dumnezeu". Iată
+> filosofia lui Ilin, geopolitica lui Surkov şi civilizația lui Putin exprimate în
+> câteva cuvinte.
 
-Lupii Nopţii au găsit modalități concise de a transpune anxietatea sexuală în
-geopolitică şi viceversa. În calitate de club exclusiv masculin devotat pielii
-negre, Lupii Nopţii aveau desigur o poziție categorică faţă de homosexualitate,
-pe care o defineau drept atac din partea Europei şi Statelor Unite. La
-aniversarea invaziei rusești de după un an, liderul lor suprem, Aleksandr
-Zaldostanov, işi amintea astfel minunata lor paradă din jurul Crimeei: „Pentru
-prima oară, am manifestat rezistenţă faţă de satanismul global, faţă de
-sălbăticia crescândă a Europei Occidentale, față de avântul spre consumerismul
-care contestă orice spiritualitate, faţă de distrugerea valorilor tradiționale,
-faţă de toate aceste discursuri homose xuale, faţă de această democrație
-americană". Potrivit lui Zaldostanov sloganul războiului rusesc împotriva
-Ucrainei ar fi trebuit să fie moarte poponarilor". Asocierea democrației cu un
-Satan gay era o modalitate de a face legea şi reforma străine şi de negândit.
+<!--quoteend-->
 
-După ce au invadat Ucraina, liderii ruşi au adoptat poziția că vecinul lor nu
-era un stat suveran. Acesta era limbajul imperiului. Pe 4 mat- tie, Putin a
-explicat că problema Ucrainei fuseseră alegerile democratice care duceau la
-schimbarea puterii. Astfel de alegeri funcționale, sugera erau un implant
-strain, american.
+> Lupii Nopţii au găsit modalități concise de a transpune anxietatea sexuală în
+> geopolitică şi viceversa. În calitate de club exclusiv masculin devotat pielii
+> negre, Lupii Nopţii aveau desigur o poziție categorică faţă de homosexualitate,
+> pe care o defineau drept atac din partea Europei şi Statelor Unite. La
+> aniversarea invaziei rusești de după un an, liderul lor suprem, Aleksandr
+> Zaldostanov, işi amintea astfel minunata lor paradă din jurul Crimeei: „Pentru
+> prima oară, am manifestat rezistenţă faţă de satanismul global, faţă de
+> sălbăticia crescândă a Europei Occidentale, față de avântul spre consumerismul
+> care contestă orice spiritualitate, faţă de distrugerea valorilor tradiționale,
+> faţă de toate aceste discursuri homose xuale, faţă de această democrație
+> americană". Potrivit lui Zaldostanov sloganul războiului rusesc împotriva
+> Ucrainei ar fi trebuit să fie moarte poponarilor". Asocierea democrației cu un
+> Satan gay era o modalitate de a face legea şi reforma străine şi de negândit.
+
+<!--quoteend-->
+
+> După ce au invadat Ucraina, liderii ruşi au adoptat poziția că vecinul lor nu
+> era un stat suveran. Acesta era limbajul imperiului. Pe 4 mat- tie, Putin a
+> explicat că problema Ucrainei fuseseră alegerile democratice care duceau la
+> schimbarea puterii. Astfel de alegeri funcționale, sugera erau un implant
+> strain, american.
 
 
 ### Referendumul pt Crimeea {#referendumul-pt-crimeea}
 
-La 16 martie, unii cetățeni ucraineni ai Crimeei au luat parte la o farsă
-electorală pe care ocupanții ruşi au numit-o referendum. Înaintea votului, toată
-propaganda publică a împins în aceeași direcție. Afişele proclamau că alegerea
-era una între Rusia şi nazism. Votanții nu aveau acces la mass-media
-internaţională sau ucraineană. Pe buletinele de vot erau două variante, ambele
-afirmând anexarea Crimeei de către Rusia. Prima variantă era de a vota pentru
-anexarea Crimeei de către Rusia. A doua era de a restaura autonomia
-autorităților Crimeci, care tocmai fu- seseră instalate de Rusia şi care
-ceruseră anexarea de către Rusia. Potrivit informațiilor interne ale
-administrației prezidențiale ruse, prezența la vot a fost de aproximativ 30%,
-iar votul a fost scindat între cele două varian- te. Potrivit rezultatelor
-oficiale, participarea a fost de aproximativ 90% şi aproape toţi votanții au
-ales varianta care ducea cel mai direct la anexare. În Sevastopol, prezența la
-vot oficială a fost de 123%. Au lipsit observa- torii calificați, chiar dacă
-Moscova a invitat câțiva politicieni europeni de extremă dreapta care să aprobe
-rezultatele oficiale. Front National l-a trimis în Crimeea pe Aymeric Chauprade,
-iar Marine Le Pen a aprobat personal rezultatele. În interiorul administraţiei
-prezidențiale ruse, oa- menilor li se amintea să mulțumească francezilor".
+> La 16 martie, unii cetățeni ucraineni ai Crimeei au luat parte la o farsă
+> electorală pe care ocupanții ruşi au numit-o referendum. Înaintea votului, toată
+> propaganda publică a împins în aceeași direcție. Afişele proclamau că alegerea
+> era una între Rusia şi nazism. Votanții nu aveau acces la mass-media
+> internaţională sau ucraineană. Pe buletinele de vot erau două variante, ambele
+> afirmând anexarea Crimeei de către Rusia. Prima variantă era de a vota pentru
+> anexarea Crimeei de către Rusia. A doua era de a restaura autonomia
+> autorităților Crimeci, care tocmai fu- seseră instalate de Rusia şi care
+> ceruseră anexarea de către Rusia. Potrivit informațiilor interne ale
+> administrației prezidențiale ruse, prezența la vot a fost de aproximativ 30%,
+> iar votul a fost scindat între cele două varian- te. Potrivit rezultatelor
+> oficiale, participarea a fost de aproximativ 90% şi aproape toţi votanții au
+> ales varianta care ducea cel mai direct la anexare. În Sevastopol, prezența la
+> vot oficială a fost de 123%. Au lipsit observa- torii calificați, chiar dacă
+> Moscova a invitat câțiva politicieni europeni de extremă dreapta care să aprobe
+> rezultatele oficiale. Front National l-a trimis în Crimeea pe Aymeric Chauprade,
+> iar Marine Le Pen a aprobat personal rezultatele. În interiorul administraţiei
+> prezidențiale ruse, oa- menilor li se amintea să mulțumească francezilor".
 
-În cadrul unei mari ceremonii din Moscova, Putin a acceptat ceea ce el numea
-„dorințele" poporului Crimeei şi a extins graniţele Federației Ruse. Asta
-încălca principiile consensuale elementare ale legislației inter- naţionale, ale
-Cartei Națiunilor Unite şi ale tuturor tratatelor semnate de Ucraina
-independentă şi de Rusia independentă, ca și mai multe asi- gurări pe care Rusia
-le oferise Ucrainei referitor la protejarea frontierelor ei. Una dintre acestea
-era Memorandumul de la Budapesta din 1994
+<!--quoteend-->
+
+> În cadrul unei mari ceremonii din Moscova, Putin a acceptat ceea ce el numea
+> „dorințele" poporului Crimeei şi a extins graniţele Federației Ruse. Asta
+> încălca principiile consensuale elementare ale legislației inter- naţionale, ale
+> Cartei Națiunilor Unite şi ale tuturor tratatelor semnate de Ucraina
+> independentă şi de Rusia independentă, ca și mai multe asi- gurări pe care Rusia
+> le oferise Ucrainei referitor la protejarea frontierelor ei. Una dintre acestea
+> era Memorandumul de la Budapesta din 1994
 
 
 ### Obiectivele politicii rusești {#obiectivele-politicii-rusești}
 
-În aprilie, Putin a recitat public obiectivele politicii ruseşti, aşa cum
-fuseseră ele schițate în memorandumul din februarie. În continuare. ideea era
-„dezintegrarea" statului ucrainean în interesul Rusiei. Zeci de instituții și
-companii de stat ucrainene s-au confruntat dintr-odată cu atacuri cibernetice,
-ca şi cele mai importante instituții ale UE. În distric tul ucrainean sud-estic
-Doneck, un neonazist rus pe nume Pavel Gubarev s-a proclamat „guvernator al
-poporului" pe 1 mai, conform logicii că Ucraina n-a existat niciodată". Duoul
-angajaților lui Malofeev trimişi în Crimeea, Igor Girkin şi Aleksandr Borodai,
-s-a întors în aprilie în Ucraina. Borodai avea să se numească singur
-prim-ministru al unei noi şi imaginare republici a poporului din sud-estul
-Ucrainei. Justificarea lui era una similară: „Ucraina nu mai există”. Prietenul
-lui, Girkin, s-a pro- clamat ministru de război şi a cerut Rusiei să invadeze
-Donbasul şi să înfiinţeze baze militare.
+> În aprilie, Putin a recitat public obiectivele politicii ruseşti, aşa cum
+> fuseseră ele schițate în memorandumul din februarie. În continuare. ideea era
+> „dezintegrarea" statului ucrainean în interesul Rusiei. Zeci de instituții și
+> companii de stat ucrainene s-au confruntat dintr-odată cu atacuri cibernetice,
+> ca şi cele mai importante instituții ale UE. În distric tul ucrainean sud-estic
+> Doneck, un neonazist rus pe nume Pavel Gubarev s-a proclamat „guvernator al
+> poporului" pe 1 mai, conform logicii că Ucraina n-a existat niciodată". Duoul
+> angajaților lui Malofeev trimişi în Crimeea, Igor Girkin şi Aleksandr Borodai,
+> s-a întors în aprilie în Ucraina. Borodai avea să se numească singur
+> prim-ministru al unei noi şi imaginare republici a poporului din sud-estul
+> Ucrainei. Justificarea lui era una similară: „Ucraina nu mai există”. Prietenul
+> lui, Girkin, s-a pro- clamat ministru de război şi a cerut Rusiei să invadeze
+> Donbasul şi să înfiinţeze baze militare.
 
 
 ### Invazia din Donbas {#invazia-din-donbas}
 
-Intervenţia rusească din Donbas s-a numit primăvara rusească". Fără indoială, era primăvară pentru fascismul rusesc. Pe 7 martie 2014, Alek- sandr Dughin se bucura de extinderea ideologiei eliberării (de ameri- cani) în Europa. Este obiectivul eurasianismului deplin Europa de la Lisabona la Vladivostok". Fascistul lauda comunitatea fascistă, care ieşea la lumină. După câteva zile, Dughin a proclamat că istoria fuse- se anihilată: „Modernitatea a fost întotdeauna esențial greşită, iar acum suntem la punctul terminus al modernității. Pentru cei care au făcut ca destinul lor să fie sinonim cu modernitatea sau au permis ca acest lucru să se întâmple inconştient, asta va însemna sfârşitul". Lupta îminentă avea să însemne eliberarea reală de societatea deschisă şi de beneficiarii ei". Potrivit lui Dughin, un diplomat american de origine evreiască era un porc murdar", iar un politician ucrainean de origine evreiască era un vampir" şi un „nemernic". Haosul din Ucraina era opera Mossadului“. In acelaşi spirit, Aleksandr Prohanov i-a învinovăţit, într-o discuție cu Evelina Zakamskaia, purtată la televiziunea rusă la 24 martie, pe evreii ucraineni pentru invadarea rusească a Ucrainei, dar şi pentru Holocaust.
+> Intervenţia rusească din Donbas s-a numit primăvara rusească". Fără indoială,
+> era primăvară pentru fascismul rusesc. Pe 7 martie 2014, Alek- sandr Dughin se
+> bucura de extinderea ideologiei eliberării (de ameri- cani) în Europa. Este
+> obiectivul eurasianismului deplin Europa de la Lisabona la Vladivostok".
+> Fascistul lauda comunitatea fascistă, care ieşea la lumină. După câteva zile,
+> Dughin a proclamat că istoria fuse- se anihilată: „Modernitatea a fost
+> întotdeauna esențial greşită, iar acum suntem la punctul terminus al
+> modernității. Pentru cei care au făcut ca destinul lor să fie sinonim cu
+> modernitatea sau au permis ca acest lucru să se întâmple inconştient, asta va
+> însemna sfârşitul". Lupta îminentă avea să însemne eliberarea reală de
+> societatea deschisă şi de beneficiarii ei". Potrivit lui Dughin, un diplomat
+> american de origine evreiască era un porc murdar", iar un politician ucrainean
+> de origine evreiască era un vampir" şi un „nemernic". Haosul din Ucraina era
+> opera Mossadului“. In acelaşi spirit, Aleksandr Prohanov i-a învinovăţit, într-o
+> discuție cu Evelina Zakamskaia, purtată la televiziunea rusă la 24 martie, pe
+> evreii ucraineni pentru invadarea rusească a Ucrainei, dar şi pentru Holocaust.
 
-Aceasta era o nouă varietate de fascism, care putea fi numită schizo- fascism: fasciştii reali își numeau adversarii „fasciști”, dând vina pe evrei pentru Holocaust şi folosind al Doilea Război Mondial ca argument pentru şi mai multă violenţă. Era un pas următor firesc într-o politică rusească a eternităţii, în care Rusia era inocentă, astfel că niciun rus nu ar fi putut vreodată să fie fascist.
+<!--quoteend-->
+
+> Aceasta era o nouă varietate de fascism, care putea fi numită schizo- fascism:
+> fasciştii reali își numeau adversarii „fasciști”, dând vina pe evrei pentru
+> Holocaust şi folosind al Doilea Război Mondial ca argument pentru şi mai multă
+> violenţă. Era un pas următor firesc într-o politică rusească a eternităţii, în
+> care Rusia era inocentă, astfel că niciun rus nu ar fi putut vreodată să fie
+> fascist.
 
 
 ### Despre schizofascism {#despre-schizofascism}
 
-Astfel, ruşii educaţi în anii '70, inclusiv liderii şi propagandiştii de război ai anilor 2010, au fost educaţi că „fascist" înseamnă „antirus". În limba rusă, practic e o greşeală gramaticală să-ți imaginezi că un rus ar putea fi fascist. În discursul rus contemporan, e mai ușor ca un fascist rus real să numească un nefascist „fascist", decât ca un nefascist să nu- mească un fascist rus „fascist". Astfel, un fascist precum Dughin putea si celebreze victoria fascismului în limbaj fascist şi, în același timp, să îi condamne pe adversarii lui drept „fascişti". Ucrainenii care îşi apărau fara erau o juntă mercenară din rândurile porcilor-fascisti ucraineni". În mod similar, un fascist precum Prohanov putea să descrie fascismul drept substanţă fizică revărsată din Occident ca să ameninţe virginitatea rusă. În iunie, Prohanov a descris fascismul ca fiind „sperma neagră care ame- nința „zeiţa bălană a Eurasiei". Expresia lui lapidară a anxietăţii rasiale și sexuale era un text perfect fascist. Glaziev a urmat şi el protocolul schi- zofascist. În timp ce aproba geopolitica nazistă, el stabilea standardul de a-i numi pe inamicii Rusiei „fascisti". Într-un text pentru Clubul Izborsk din septembrie 2014, Glaziev a numit Ucraina un stat fascist, cu toate semnele fascismului cunoscute de ştiinţă".
+> Astfel, ruşii educaţi în anii '70, inclusiv liderii şi propagandiştii de război
+> ai anilor 2010, au fost educaţi că „fascist" înseamnă „antirus". În limba rusă,
+> practic e o greşeală gramaticală să-ți imaginezi că un rus ar putea fi fascist.
+> În discursul rus contemporan, e mai ușor ca un fascist rus real să numească un
+> nefascist „fascist", decât ca un nefascist să nu- mească un fascist rus
+> „fascist". Astfel, un fascist precum Dughin putea si celebreze victoria
+> fascismului în limbaj fascist şi, în același timp, să îi condamne pe adversarii
+> lui drept „fascişti". Ucrainenii care îşi apărau fara erau o juntă mercenară din
+> rândurile porcilor-fascisti ucraineni". În mod similar, un fascist precum
+> Prohanov putea să descrie fascismul drept substanţă fizică revărsată din
+> Occident ca să ameninţe virginitatea rusă. În iunie, Prohanov a descris
+> fascismul ca fiind „sperma neagră care ame- nința „zeiţa bălană a Eurasiei".
+> Expresia lui lapidară a anxietăţii rasiale și sexuale era un text perfect
+> fascist. Glaziev a urmat şi el protocolul schi- zofascist. În timp ce aproba
+> geopolitica nazistă, el stabilea standardul de a-i numi pe inamicii Rusiei
+> „fascisti". Într-un text pentru Clubul Izborsk din septembrie 2014, Glaziev a
+> numit Ucraina un stat fascist, cu toate semnele fascismului cunoscute de
+> ştiinţă".
 
 
 ### Despre fascismul presupus din Ucraina {#despre-fascismul-presupus-din-ucraina}
 
-Chiar în timp ce pre- şedintele lanukovici fugea, nimeni din armată, poliție sau ministerele de forţă nu a încercat să ia puterea, cum s-ar fi întâmplat în timpul unei lovi- turi de stat. Fuga lui Ianukovici în Rusia i-a pus pe cetăţenii şi legislatorii ucraineni într-o situație neobişnuită: în timpul invadării unei țări, şeful acelui stat căuta refugiu permanent in tara invadatoare. Era o situație fără precedent legal. Agentul tranziției era un parlament ales în mod legal.
+> Chiar în timp ce pre- şedintele lanukovici fugea, nimeni din armată, poliție sau
+> ministerele de forţă nu a încercat să ia puterea, cum s-ar fi întâmplat în
+> timpul unei lovi- turi de stat. Fuga lui Ianukovici în Rusia i-a pus pe
+> cetăţenii şi legislatorii ucraineni într-o situație neobişnuită: în timpul
+> invadării unei țări, şeful acelui stat căuta refugiu permanent in tara
+> invadatoare. Era o situație fără precedent legal. Agentul tranziției era un
+> parlament ales în mod legal.
 
-Departe de a fi naționaliști ucraineni de dreapta, preşedintele inte- rimar şi membrii guvernului provizoriu au fost în general vorbitori de rusi din estul Ucrainei. Preşedintele parlamentului, ales să îndeplinească funcţia de preşedinte al țării, era un pastor baptist din sud-estul Ucrainei. Ministerele apărării, internelor şi securităţii de stat au fost preluate, în perioada de tranziție, de vorbitori de rusă. Ministrul în funcţie al apărării era de origine romă. Ministrul afacerilor interne era, prin naştere, jumă- tate armean și jumătate rus. Dintre cei doi viceprim-miniştri, unul era evreu. Guvernatorul regional al Dnipropetrovsk-ului, regiune sud-estică ameninţată de invazia rusească, era şi el evreu. Chiar dacă trei dintre cele 18 posturi din guvernul provizoriu al primăverii lui 2014 au fost deţinute de partidul naţionalist Svoboda, guvernul acesta nu era unul de dreapta într-un sens cât de cât semnificativ al cuvântului.
+<!--quoteend-->
 
-Cei care dau lovituri de stat nu cer reducerea rolului puterii execu- tive, însă asta e ceea ce s-a întâmplat în Ucraina. Cei care dau lovituri de stat nu convoacă alegeri pentru a ceda puterea, dar asta e ceea ce s-a întâmplat în Ucraina. Alegerile prezidențiale organizate pe 25 mai 2014 au fost câştigate de Petro Poroşenko, un vorbitor de rusă centrist din su- dul Ucrainei, cunoscut ca producător de ciocolată. Dacă a existat la acel moment ceva care să aducă a lovitură de stat, a fost încercarea Rusiei de a pirata Comisia Electorală Centrală din Ucraina, pentru a proclama că un politician de extremă dreapta câştigase, şi anunțul televiziunii ruse că aşa se întâmplase.
+> Departe de a fi naționaliști ucraineni de dreapta, preşedintele inte- rimar şi
+> membrii guvernului provizoriu au fost în general vorbitori de rusi din estul
+> Ucrainei. Preşedintele parlamentului, ales să îndeplinească funcţia de
+> preşedinte al țării, era un pastor baptist din sud-estul Ucrainei. Ministerele
+> apărării, internelor şi securităţii de stat au fost preluate, în perioada de
+> tranziție, de vorbitori de rusă. Ministrul în funcţie al apărării era de origine
+> romă. Ministrul afacerilor interne era, prin naştere, jumă- tate armean și
+> jumătate rus. Dintre cei doi viceprim-miniştri, unul era evreu. Guvernatorul
+> regional al Dnipropetrovsk-ului, regiune sud-estică ameninţată de invazia
+> rusească, era şi el evreu. Chiar dacă trei dintre cele 18 posturi din guvernul
+> provizoriu al primăverii lui 2014 au fost deţinute de partidul naţionalist
+> Svoboda, guvernul acesta nu era unul de dreapta într-un sens cât de cât
+> semnificativ al cuvântului.
+
+<!--quoteend-->
+
+> Cei care dau lovituri de stat nu cer reducerea rolului puterii execu- tive, însă
+> asta e ceea ce s-a întâmplat în Ucraina. Cei care dau lovituri de stat nu
+> convoacă alegeri pentru a ceda puterea, dar asta e ceea ce s-a întâmplat în
+> Ucraina. Alegerile prezidențiale organizate pe 25 mai 2014 au fost câştigate de
+> Petro Poroşenko, un vorbitor de rusă centrist din su- dul Ucrainei, cunoscut ca
+> producător de ciocolată. Dacă a existat la acel moment ceva care să aducă a
+> lovitură de stat, a fost încercarea Rusiei de a pirata Comisia Electorală
+> Centrală din Ucraina, pentru a proclama că un politician de extremă dreapta
+> câştigase, şi anunțul televiziunii ruse că aşa se întâmplase.
 
 ---
 
-În mai 2014, doi politicieni de extremă dreapta s-au prezentat drept candidați la preşedinţia Ucrainei; fiecare a primit mai puțin de 1% din voturi. Amândoi au primit mai puține voturi decât un candidat evreu cu un program electoral evreu. Învingătorul Poroşenko a convocat apoi ale- geri parlamentare, care s-au ţinut în septembrie. Din nou, asta este opu- sul a ceea ce ar fi de așteptat în timpul unei lovituri de stat și, din nou, popularitatea extremei drepte din Ucraina a fost foarte limitată. Niciunul dintre partidele de dreapta dură ucrainene - Svoboda și unul nou-apărut din grupul paramilitar Sectorul de Dreapta -nu a trecut de pragul de 5%, necesar pentru intrarea în parlament. Svoboda şi-a pierdut cele trei portofolii şi a fost format un nou guvern, fără dreapta dură. Preşedintele noului parlament era evreu; mai târziu, el a devenit prim-ministru.
+> În mai 2014, doi politicieni de extremă dreapta s-au prezentat drept candidați
+> la preşedinţia Ucrainei; fiecare a primit mai puțin de 1% din voturi. Amândoi au
+> primit mai puține voturi decât un candidat evreu cu un program electoral evreu.
+> Învingătorul Poroşenko a convocat apoi ale- geri parlamentare, care s-au ţinut
+> în septembrie. Din nou, asta este opu- sul a ceea ce ar fi de așteptat în timpul
+> unei lovituri de stat și, din nou, popularitatea extremei drepte din Ucraina a
+> fost foarte limitată. Niciunul dintre partidele de dreapta dură ucrainene -
+> Svoboda și unul nou-apărut din grupul paramilitar Sectorul de Dreapta -nu a
+> trecut de pragul de 5%, necesar pentru intrarea în parlament. Svoboda şi-a
+> pierdut cele trei portofolii şi a fost format un nou guvern, fără dreapta dură.
+> Preşedintele noului parlament era evreu; mai târziu, el a devenit prim-ministru.
 
-Acordul de asociere cu Europa a fost semnat în iunie 2014. El a intrat în vigoare în septembrie 2017. Ucraina s-a schimbat, chiar dacă încet. Cele mai vizibile schimbări au fost în cultură: 2014 nu a soluționat toate problemele ţării, dar a dat încredere tinerilor. Istoria mergea mai departe.
+<!--quoteend-->
+
+> Acordul de asociere cu Europa a fost semnat în iunie 2014. El a intrat în
+> vigoare în septembrie 2017. Ucraina s-a schimbat, chiar dacă încet. Cele mai
+> vizibile schimbări au fost în cultură: 2014 nu a soluționat toate problemele
+> ţării, dar a dat încredere tinerilor. Istoria mergea mai departe.
 
 
 ## Capitolul 5: Adevăr sau minciuni {#capitolul-5-adevăr-sau-minciuni}
@@ -853,74 +963,697 @@ Acordul de asociere cu Europa a fost semnat în iunie 2014. El a intrat în vigo
 
 ### Surkov (Aproapelui Zero) {#surkov--aproapelui-zero}
 
-Dacă cetățenii pot fi menținuți în incertitudine prin fabricarea regulată de crize, emoțiile lor pot fi gestionate și directionate
+> Dacă cetățenii pot fi menținuți în incertitudine prin fabricarea regulată de crize, emoțiile lor pot fi gestionate și directionate
 
 
 ### Despre actualitate {#despre-actualitate}
 
-Factualitatea nu era o con- strangere: Gleb Pavlovski, un important tehnolog politic, explica faptul că „Poţi să spui orice. Să creezi realități". Știrile internationale veneau si inlocuiască ştirile regionale şi locale, care au dispărut aproape compler de la televiziune. Relatările din străinătate însemnau consemnarea cotidiană a curentului etern al corupţiei, ipocriziei şi duşmaniei occidentale. Nimic din Europa sau din America nu era demn de emulație. Adevărata schim- bare era imposibilă i-acesta era mesajul
+> Factualitatea nu era o con- strangere: Gleb Pavlovski, un important tehnolog politic, explica faptul că „Poţi să spui orice. Să creezi realități". Știrile internationale veneau si inlocuiască ştirile regionale şi locale, care au dispărut aproape compler de la televiziune. Relatările din străinătate însemnau consemnarea cotidiană a curentului etern al corupţiei, ipocriziei şi duşmaniei occidentale. Nimic din Europa sau din America nu era demn de emulație. Adevărata schim- bare era imposibilă i-acesta era mesajul
 
 --
 
-Factualitatea era înlocuită de un cinism intenţionat, care nu cerea privitorilor altceva decât să aprobe din cap înainte de a adormi
+> Factualitatea era înlocuită de un cinism intenţionat, care nu cerea privitorilor altceva decât să aprobe din cap înainte de a adormi
 
 
 ### Despre RT {#despre-rt}
 
-RT, emitatorul de propagandă televizuală pentru publicul strain, avea acelaşi obiectiv: suprimarea cunoaşterii care putea să inspire acţiune şi transformarea emoției în inacțiune. Acesta submina formatul buletinului de ştiri prin adoptarea cu toată seriozitatea a unor contradicții baroce invita un negationist al Holocaustului să vorbească și îl identifica drept activist pentru drepturile omului, găzduia un neonazist şi il descria drept specialist în Orientul Mijlociu. În cuvintele lui Vladimir Putin, RT era finançat de guvern, astfel că nu poate decât să reflecte poziția oficială a guvernului rus". Această poziție era absenţa unei lumi factuale, iar nivelul finanţării era de aproximativ 400 de milioane de dolari pe an. Americanii şi europenii descopereau în acest canal un amplificator al propriilor in- doieli- uneori perfect justificate- faţă de buna credinţă a liderilor lor şi vitalitatea propriilor lor canale mass-media. Sloganul RT, Indoieşte-te mai mult", inspira un apetit pentru și mai multă incertitudine. Nu avea niciun sens să te îndoieşti de factualitatea a ceea ce transmitea RT, dat fiind că acesta transmitea negarea factualității. Cum a spus directorul lui: „Nu există relatare obiectivă". RT voia să transmită faptul că toată mass-media
-
-minte și doar RT e onest, pentru că nu se preface că e obiectiv
+> RT, emitatorul de propagandă televizuală pentru publicul strain, avea acelaşi
+> obiectiv: suprimarea cunoaşterii care putea să inspire acţiune şi transformarea
+> emoției în inacțiune. Acesta submina formatul buletinului de ştiri prin
+> adoptarea cu toată seriozitatea a unor contradicții baroce invita un negationist
+> al Holocaustului să vorbească și îl identifica drept activist pentru drepturile
+> omului, găzduia un neonazist şi il descria drept specialist în Orientul
+> Mijlociu. În cuvintele lui Vladimir Putin, RT era finançat de guvern, astfel că
+> nu poate decât să reflecte poziția oficială a guvernului rus". Această poziție
+> era absenţa unei lumi factuale, iar nivelul finanţării era de aproximativ 400 de
+> milioane de dolari pe an. Americanii şi europenii descopereau în acest canal un
+> amplificator al propriilor in- doieli- uneori perfect justificate- faţă de buna
+> credinţă a liderilor lor şi vitalitatea propriilor lor canale mass-media.
+> Sloganul RT, Indoieşte-te mai mult", inspira un apetit pentru și mai multă
+> incertitudine. Nu avea niciun sens să te îndoieşti de factualitatea a ceea ce
+> transmitea RT, dat fiind că acesta transmitea negarea factualității. Cum a spus
+> directorul lui: „Nu există relatare obiectivă". RT voia să transmită faptul că
+> toată mass-media minte și doar RT e onest, pentru că nu se preface că e obiectiv
 
 
 ### Despre invazia rusească {#despre-invazia-rusească}
 
-Invazia rusească din Ucraina sudică și apoi sud-estică a fost modestă in termeni militari și a implicat cea mai sofisticată campanie de propa- gandă din istoria războaielor. Propaganda a lucrat la două niveluri: pri- mul, ca atac direct asupra factualității, negând ceea ce era evident, până şi războiul însuşi; al doilea, ca proclamare necondiționată a inocenţei, negând faptul că Rusia ar fi putut să fie responsabilă pentru vreun rău. Niciun război nu avea loc, iar războiul era complet justificat
+> Invazia rusească din Ucraina sudică și apoi sud-estică a fost modestă in termeni
+> militari și a implicat cea mai sofisticată campanie de propa- gandă din istoria
+> războaielor. Propaganda a lucrat la două niveluri: pri- mul, ca atac direct
+> asupra factualității, negând ceea ce era evident, până şi războiul însuşi; al
+> doilea, ca proclamare necondiționată a inocenţei, negând faptul că Rusia ar fi
+> putut să fie responsabilă pentru vreun rău. Niciun război nu avea loc, iar
+> războiul era complet justificat
 
 
 ### Posibilitatea de a nega implauzibil {#posibilitatea-de-a-nega-implauzibil}
 
-LAtacul direct al lui Putin la adresa factualității putea fi numit pe
+> LAtacul direct al lui Putin la adresa factualității putea fi numit pe tatea de a
+> nega implauzibil Negând ceea ce toată lumea știa, Putin cre o fictiune
+> unificatoare în țară și dileme în redacțiile de ştiri europene americane.
+> Jurnaliștii occidentali sunt învățați să relateze faptele, iar pe 4 martie
+> probele factuale că Rusia invadase Ucraina erau deja copleşitoa re. Jurnaliștii
+> ruşi şi ucraineni îi filmaseră pe soldații ruşi care defilau prin Crimeea.
+> Ucrainenii numeau deja unitățile speciale ruseşti omuleți verzi", o sugestie
+> glumeață că soldații cu uniforme fără însemne trebuiau să provină din spațiul
+> cosmic. Soldații nu vorbeau ucraineană; de aseme nea, ucrainenii din regiune au
+> observat imediat un argou rusesc specific oraşelor ruseşti, nefolosit in
+> Ucraina. Cum a explicat reportera Ekaterina Sergatkova, omuleții verzi nu ascund
+> faptul că sunt din Rusia".
 
-tatea de a nega implauzibil Negând ceea ce toată lumea știa, Putin cre o fictiune unificatoare în țară și dileme în redacțiile de ştiri europene americane. Jurnaliștii occidentali sunt învățați să relateze faptele, iar pe 4 martie probele factuale că Rusia invadase Ucraina erau deja copleşitoa re. Jurnaliștii ruşi şi ucraineni îi filmaseră pe soldații ruşi care defilau prin Crimeea. Ucrainenii numeau deja unitățile speciale ruseşti omuleți verzi", o sugestie glumeață că soldații cu uniforme fără însemne trebuiau să provină din spațiul cosmic. Soldații nu vorbeau ucraineană; de aseme nea, ucrainenii din regiune au observat imediat un argou rusesc specific oraşelor ruseşti, nefolosit in Ucraina. Cum a explicat reportera Ekaterina Sergatkova, omuleții verzi nu ascund faptul că sunt din Rusia".
+<!--quoteend-->
 
-De asemenea, jurnaliştii occidentali sunt învățați să relateze diverse interpretări ale faptelor. Adagiul că o poveste poate fi privită din unghiuri diferite are sens atunci când cei care reprezintă fiecare punct de vedere acceptà factualitatea lumii şi interpretează acelaşi set de fapte. Strategia lui Putin a negării implauzibile exploata această convenție în timp ce ii distrugea baza. Putin se pozitiona drept o latură a poveştii în timp ce zeflemisea factualitatea. Vă mint pe faţă şi ştim asta şi unii, și alții” nu e o latură a poveştii. E o capcană.
+> De asemenea, jurnaliştii occidentali sunt învățați să relateze diverse
+> interpretări ale faptelor. Adagiul că o poveste poate fi privită din unghiuri
+> diferite are sens atunci când cei care reprezintă fiecare punct de vedere
+> acceptà factualitatea lumii şi interpretează acelaşi set de fapte. Strategia lui
+> Putin a negării implauzibile exploata această convenție în timp ce ii distrugea
+> baza. Putin se pozitiona drept o latură a poveştii în timp ce zeflemisea
+> factualitatea. Vă mint pe faţă şi ştim asta şi unii, și alții” nu e o latură a
+> poveştii. E o capcană.
 
 
 ### Putin ca actorul principal {#putin-ca-actorul-principal}
 
-Chiar dacă au avut pe birourile lor relatări despre invazia rusească în ultimele zile ale lui februarie şi primele zile ale lui martie 2014, editorii occidentali au decis să prezinte negările exuberante ale lui Putin. Şi astfel, narațiunea invadării ruseşti a Ucrainei a suferit o mutație subtilä, dar profundă: ca nu se mai referea la ce li se întâmpla ucrainenilor, ci la ceea ce preşedintele rus decisese să spună despre Ucraina. Un război real deve- nea televiziune tabloidă, cu Putin ca erou. Mare parte a presei a acceptat rolul lui din această dramă. Chiar şi atunci când editorii occidentali au devenit, cu timpul, mai critici, critica lor era încadrată de indoielile lor referitoare la afirmațiile Kremlinului. Când Putin a recunoscut, mai târ ziu, cá Rusia invadase Ucraina, asta nu a făcut decât să demonstreze că presa occidentală fusese și ea un actor din acest spectacol.
+> Chiar dacă au avut pe birourile lor relatări despre invazia rusească în ultimele
+> zile ale lui februarie şi primele zile ale lui martie 2014, editorii occidentali
+> au decis să prezinte negările exuberante ale lui Putin. Şi astfel, narațiunea
+> invadării ruseşti a Ucrainei a suferit o mutație subtilä, dar profundă: ca nu se
+> mai referea la ce li se întâmpla ucrainenilor, ci la ceea ce preşedintele rus
+> decisese să spună despre Ucraina. Un război real deve- nea televiziune tabloidă,
+> cu Putin ca erou. Mare parte a presei a acceptat rolul lui din această dramă.
+> Chiar şi atunci când editorii occidentali au devenit, cu timpul, mai critici,
+> critica lor era încadrată de indoielile lor referitoare la afirmațiile
+> Kremlinului. Când Putin a recunoscut, mai târ ziu, cá Rusia invadase Ucraina,
+> asta nu a făcut decât să demonstreze că presa occidentală fusese și ea un actor
+> din acest spectacol.
 
 
 ### Proclamarea inocenței {#proclamarea-inocenței}
 
-După posibilitatea de a nega implauzibil, a doua strategie a propagan- dei ruseşti a fost proclamarea inocentei. Invazia trebuia inteleasă nu ca un atac al unei țări mai puternice impotriva unui vecin mai slab, într-un moment de extremă vulnerabilitate a acestuia, ci ca revoltă virtuoasă a unui popor oprimat impotriva unei conspirații globale copleșitoare. Cum a spus Putin pe 4 martie: Uneori am senzația că dincolo de balta cea mare, in America, oamenii stau într-un laborator și intreprind expe- rimente, ca și cum ar experimenta pe şobolani, fără să înțeleagă, de fapt, consecințele a ceea ce fac". Războiul nu avea loc, dar, dacă ar fi avut loc, de vină era America şi, dat fiind că America era o superputere, orice era permis ca răspuns la răutatea ei omnipotentă. Dacă Rusia invadase, ceea ce, cumva, făcea şi nu făcea în același timp, ruşii ar fi avut întreaga justi- ficare de a face sau de a nu face asta.
+> După posibilitatea de a nega implauzibil, a doua strategie a propagan- dei
+> ruseşti a fost proclamarea inocentei. Invazia trebuia inteleasă nu ca un atac al
+> unei țări mai puternice impotriva unui vecin mai slab, într-un moment de extremă
+> vulnerabilitate a acestuia, ci ca revoltă virtuoasă a unui popor oprimat
+> impotriva unei conspirații globale copleșitoare. Cum a spus Putin pe 4 martie:
+> Uneori am senzația că dincolo de balta cea mare, in America, oamenii stau
+> într-un laborator și intreprind expe- rimente, ca și cum ar experimenta pe
+> şobolani, fără să înțeleagă, de fapt, consecințele a ceea ce fac". Războiul nu
+> avea loc, dar, dacă ar fi avut loc, de vină era America şi, dat fiind că America
+> era o superputere, orice era permis ca răspuns la răutatea ei omnipotentă. Dacă
+> Rusia invadase, ceea ce, cumva, făcea şi nu făcea în același timp, ruşii ar fi
+> avut întreaga justi- ficare de a face sau de a nu face asta.
 
-Alegerea tacticii invaziei servea acestei strategii a inocenţei. Absenţa insemnelor de pe uniforme şi de pe armele, blindajele, echipamentele şi vehiculele rusești nu a păcălit pe nimeni din Ucraina. Ideea era de a crea ambianţa unui spectacol de televiziune în care niște oameni eroici din regiune luau măsuri neobișnuite impotriva puterii americane titanice. Ruşii trebuiau să creadă absurdul: că soldații pe care ii vedeau pe ecranele de televizor nu erau propria lor armată, ci o gaşcă dezorganizată de rebeli ucraineni indrăzneţi care apărau onoarea poporului lor impotriva unui regim nazist sprijinit de infinita putere americană. Absenţa însemnelor nu era menită să fie o probă, ci un indiciu despre cum ar fi trebuit să ur- mărească intriga privitorii ruși. Nu era menită să convingă în sens factual. ci să îndrume în sens narativ
+<!--quoteend-->
+
+> Alegerea tacticii invaziei servea acestei strategii a inocenţei. Absenţa
+> insemnelor de pe uniforme şi de pe armele, blindajele, echipamentele şi
+> vehiculele rusești nu a păcălit pe nimeni din Ucraina. Ideea era de a crea
+> ambianţa unui spectacol de televiziune în care niște oameni eroici din regiune
+> luau măsuri neobișnuite impotriva puterii americane titanice. Ruşii trebuiau să
+> creadă absurdul: că soldații pe care ii vedeau pe ecranele de televizor nu erau
+> propria lor armată, ci o gaşcă dezorganizată de rebeli ucraineni indrăzneţi care
+> apărau onoarea poporului lor impotriva unui regim nazist sprijinit de infinita
+> putere americană. Absenţa însemnelor nu era menită să fie o probă, ci un indiciu
+> despre cum ar fi trebuit să ur- mărească intriga privitorii ruși. Nu era menită
+> să convingă în sens factual. ci să îndrume în sens narativ
 
 
-### Conflicte înghețate {#conflicte-înghețate}
+### <span class="org-todo todo TODO">TODO</span> Conflicte înghețate {#conflicte-înghețate}
 
-In vara lui 2014, după ce adusese Donbasul în acest punct. Girkin a fost retras în Rusia. Noul şef al securității, Vladimir Antiufeev, era cel mai important specialist al Rusiei în acea formă de teatru geopolitic cunoscu tá drept conflict inghetat". Intr-un conflict inghetat, Rusia ocupă mici părți ale unei țări din apropiere (Moldova, incepând cu 1991, Georgia. începând cu 2008, Ucraina, incepând cu 2014) şi apoi işi prezintă pro pria ocupație drept problemă internă care îi împiedică pe acei vecini si aibă relații mai apropiate cu Uniunea Europeană sau NATO.
-
-Intr-un conflict inghetat, sentimentele populației locale contează doar ca resursă politică. Localnicii pot fi încurajați să ucidă și să moară. dar aspirațiile lor personale nu pot fi implinite, dat fiind ca scopul inghe țării unui conflict este Impiedicarea soluţionării lui.
+> In vara lui 2014, după ce adusese Donbasul în acest punct. Girkin a fost retras
+> în Rusia. Noul şef al securității, Vladimir Antiufeev, era cel mai important
+> specialist al Rusiei în acea formă de teatru geopolitic cunoscu tá drept
+> conflict inghetat". Intr-un conflict inghetat, Rusia ocupă mici părți ale unei
+> țări din apropiere (Moldova, incepând cu 1991, Georgia. începând cu 2008,
+> Ucraina, incepând cu 2014) şi apoi işi prezintă pro pria ocupație drept problemă
+> internă care îi împiedică pe acei vecini si aibă relații mai apropiate cu
+> Uniunea Europeană sau NATO. Intr-un conflict inghetat, sentimentele populației
+> locale contează doar ca resursă politică. Localnicii pot fi încurajați să ucidă
+> și să moară. dar aspirațiile lor personale nu pot fi implinite, dat fiind ca
+> scopul inghe țării unui conflict este Impiedicarea soluţionării lui.
 
 (poza de pe pagina 157)
 
 
 ### Războiul din Ucraina {#războiul-din-ucraina}
 
-Jukov descria primul atac al unei masive campanii de artilerie în- dreptate împotriva armatei ucrainene. Ea a durat patru săptămâni. Până la 8 august, artileria rusă a tras regulat din cel puțin 66 de poziții, ata- curile venind din partea rusească a frontierei. Unitățile precum cea a lui Jukov erau neputincioase. În războiul informațional, Ucraina s-a aflat constant în dezavantaj - unii observatori europeni și americani încă nu erau siguri că are loc un război sau că agresorul era Rusia. În această ceață informațională, un atac ucrainean asupra teritoriului rusesc ar fi fost un dezastru politic. Şi astfel, războiul informational a determinat condițiile războiului din teren. Rusia putea să bombardeze Ucraina de pe teritoriul ei fără consecinţe, dar Ucraina nu putea să ia în considerare un răspuns cu aceeași monedă. Unii soldați ucraineni aflați sub focul de artilerie chiar au fugit peste graniță, în Rusia, deoarece știau că terito- riul rusesc avea să fie protejat. Între timp, jurnaliştilor ruşi de la graniţa ruso-ucraineană nu le era greu să vadă că „Rusia bombardează Ucrai- na de pe teritoriul rusesc". Cetățenii ruşi din zona de graniță îi filmau pe soldaţii ruşi în acţiune. Soldatul rus Vadim Gregoriev, încartiruit în Mateiovo Kurgan, în Rusia, a postat mândru faptul că,,toată noaptea pisăm Ucraina"
+> Jukov descria primul atac al unei masive campanii de artilerie în- dreptate
+> împotriva armatei ucrainene. Ea a durat patru săptămâni. Până la 8 august,
+> artileria rusă a tras regulat din cel puțin 66 de poziții, ata- curile venind
+> din partea rusească a frontierei. Unitățile precum cea a lui Jukov erau
+> neputincioase. În războiul informațional, Ucraina s-a aflat constant în
+> dezavantaj - unii observatori europeni și americani încă nu erau siguri că are
+> loc un război sau că agresorul era Rusia. În această ceață informațională, un
+> atac ucrainean asupra teritoriului rusesc ar fi fost un dezastru politic. Şi
+> astfel, războiul informational a determinat condițiile războiului din teren.
+> Rusia putea să bombardeze Ucraina de pe teritoriul ei fără consecinţe, dar
+> Ucraina nu putea să ia în considerare un răspuns cu aceeași monedă. Unii soldați
+> ucraineni aflați sub focul de artilerie chiar au fugit peste graniță, în Rusia,
+> deoarece știau că terito- riul rusesc avea să fie protejat. Între timp,
+> jurnaliştilor ruşi de la graniţa ruso-ucraineană nu le era greu să vadă că
+> „Rusia bombardează Ucrai- na de pe teritoriul rusesc". Cetățenii ruşi din zona
+> de graniță îi filmau pe soldaţii ruşi în acţiune. Soldatul rus Vadim Gregoriev,
+> încartiruit în Mateiovo Kurgan, în Rusia, a postat mândru faptul că,,toată
+> noaptea pisăm Ucraina"
 
 
 ### Afd-ul și Rusia {#afd-ul-și-rusia}
 
-Germania, iar ea avea să beneficieze de sprijin rusesc: un nou partid ger- man de dreapta dură numit AfD (Alternative für Deutschland, Alterna tiva pentru Germania). Plasat undeva între radicalii de la Yalta şi pari. dele mai tradiționale, AfD avea să devină favoritul Moscovei. Liderul lui, Alexander Gauland, fost membru al Uniunii Creştin-Democrate de centru-dreapta, a acceptat linia Rusiei referitoare la Crimeea şi şi-a po- ziționat partidul ca alternativă prorusă chiar în timp ce Moscova ataca cercurile conducătoare germane. În toamna lui 2014, Rusia a atacuri cibernetice împotriva parlamentului german şi a unor instituții germane de securitate. În mai 2015, Bundestagul a fost atacat iar. In aprilie 2016, Uniunea Creștin-Democrată - cel mai mare partid politic din Germania, condus de Angela Merkel - a fost atacată și ea. Dar cea mai importantă campanie întreprinsă pentru sprijinirea extremei drepte germane, împotriva centrului german, avea să fie una publică. Ea avea să exploateze o anxietate împărtăşită de ruşi şi germani, Islamul, împotriva inamicului comun al Moscovei şi AfD-ului, cancelarul Angela Merkel. intreprins
+> Germania, iar ea avea să beneficieze de sprijin rusesc: un nou partid ger- man
+> de dreapta dură numit AfD (Alternative für Deutschland, Alterna tiva pentru
+> Germania). Plasat undeva între radicalii de la Yalta şi pari. dele mai
+> tradiționale, AfD avea să devină favoritul Moscovei. Liderul lui, Alexander
+> Gauland, fost membru al Uniunii Creştin-Democrate de centru-dreapta, a acceptat
+> linia Rusiei referitoare la Crimeea şi şi-a po- ziționat partidul ca alternativă
+> prorusă chiar în timp ce Moscova ataca cercurile conducătoare germane. În toamna
+> lui 2014, Rusia a atacuri cibernetice împotriva parlamentului german şi a unor
+> instituții germane de securitate. În mai 2015, Bundestagul a fost atacat iar. In
+> aprilie 2016, Uniunea Creștin-Democrată - cel mai mare partid politic din
+> Germania, condus de Angela Merkel - a fost atacată și ea. Dar cea mai importantă
+> campanie întreprinsă pentru sprijinirea extremei drepte germane, împotriva
+> centrului german, avea să fie una publică. Ea avea să exploateze o anxietate
+> împărtăşită de ruşi şi germani, Islamul, împotriva inamicului comun al Moscovei
+> şi AfD-ului, cancelarul Angela Merkel. intreprins
 
-Confruntată cu numărul crescând al refugiaţilor din Siria (ca și al mi- granţilor care fugeau din Africa), Merkel a adoptat o poziție neașteptată: Germania avea să accepte un mare număr de refugiaţi, mai mulți decât vecinii ei, mai mulți decât ar fi dorit votanții ei. La 8 septembrie 2015, guvernul german a anunţat că plănuiește să primească jumătate de mili- on de refugiaţi pe an. Fără să fie o coincidenţă, Rusia a început să bom- bardeze Siria trei săptămâni mai târziu. Într-un discurs de la Națiunile Unite din 28 septembrie 2015, Putin a propus o armonizare" a Eurasiei cu Uniunea Europeană. Rusia avea să bombardeze Siria ca să genereze refugiaţi, apoi să-i încurajeze pe europeni să se intre în panică. Asta avea să ajute AfD și, astfel, să facă Europa mai asemănătoare cu Rusia.
+<!--quoteend-->
 
-Bombele ruseşti au început să cadă în Siria a doua zi după discursul lui Putin. Aeronavele ruseşti au lansat bombe imprecise (proaste") de la mari altitudini. Chiar dacă ţintele erau militare, bombardarea imprecisă ar fi garantat mai multă distrugere și mai mulți refugiaţi care îşi croiau drum spre Europa. Dar, în general, Rusia nu a fintit baze ISIS. Organi- zațiile pentru drepturile omului au relatat despre bombardamente ruseşti asupra unor moschei, clinici, spitale, tabere de refugiaţi, uzine de tratare a apei şi oraşe în general. Decizia lui Merkel de a accepta refugiaţi sirieni era motivată de istoria anilor '30, când Germania nazistă îşi transformase propriii cetăţeni evrei in refugiaţi. Reacția rusească era, efectiv, de a spu- ne: dacă Merkel vrea refugiaţi, noi o să i-i oferim, şi vom folosi această chestiune pentru a-i distruge guvernul şi democrația germană. Rusia a furnizat nu doar refugiaţii, ci şi imaginea lor de terorişti şi violatori.
+> Confruntată cu numărul crescând al refugiaţilor din Siria (ca și al mi-
+> granţilor care fugeau din Africa), Merkel a adoptat o poziție neașteptată:
+> Germania avea să accepte un mare număr de refugiaţi, mai mulți decât vecinii ei,
+> mai mulți decât ar fi dorit votanții ei. La 8 septembrie 2015, guvernul german a
+> anunţat că plănuiește să primească jumătate de mili- on de refugiaţi pe an. Fără
+> să fie o coincidenţă, Rusia a început să bom- bardeze Siria trei săptămâni mai
+> târziu. Într-un discurs de la Națiunile Unite din 28 septembrie 2015, Putin a
+> propus o armonizare" a Eurasiei cu Uniunea Europeană. Rusia avea să bombardeze
+> Siria ca să genereze refugiaţi, apoi să-i încurajeze pe europeni să se intre în
+> panică. Asta avea să ajute AfD și, astfel, să facă Europa mai asemănătoare cu
+> Rusia.
+
+<!--quoteend-->
+
+> Bombele ruseşti au început să cadă în Siria a doua zi după discursul lui Putin.
+> Aeronavele ruseşti au lansat bombe imprecise (proaste") de la mari altitudini.
+> Chiar dacă ţintele erau militare, bombardarea imprecisă ar fi garantat mai multă
+> distrugere și mai mulți refugiaţi care îşi croiau drum spre Europa. Dar, în
+> general, Rusia nu a fintit baze ISIS. Organi- zațiile pentru drepturile omului
+> au relatat despre bombardamente ruseşti asupra unor moschei, clinici, spitale,
+> tabere de refugiaţi, uzine de tratare a apei şi oraşe în general. Decizia lui
+> Merkel de a accepta refugiaţi sirieni era motivată de istoria anilor '30, când
+> Germania nazistă îşi transformase propriii cetăţeni evrei in refugiaţi. Reacția
+> rusească era, efectiv, de a spu- ne: dacă Merkel vrea refugiaţi, noi o să i-i
+> oferim, şi vom folosi această chestiune pentru a-i distruge guvernul şi
+> democrația germană. Rusia a furnizat nu doar refugiaţii, ci şi imaginea lor de
+> terorişti şi violatori.
 
 
 #### Cazul Lisa Noastră {#cazul-lisa-noastră}
 
-Nu cu mult înaintea cazului „Lisei noastre", Amnesty International publicase primul din mai multe rapoarte despre bombardamentele ru seşti asupra unor ținte civile din Siria. De asemenea, Physicians for Hu- man Rights documentaseră atacurile rusești asupra unor clinici şi spitale. La 8 decembrie 2015, de exemplu, loviturile aeriene ruseşti au distrus Spitalul al-Burnas, cea mai mare clinică pediatrică din Ildib-ul rural din vest, rănind doctori şi asistente şi ucigând alte persoane. Oamenii reali ucişi şi mutilați de atacurile rusești, fetele, băieții, femeile şi bărbaţii care au murit în bombardamente au fost înveliți în spectrul Islamului ca vio- lator colectiv. Refugiaţii din Siria, ca şi cei din Ucraina, erau subsumaţi unei ficțiuni a inocenţei rusești. Violarea imaginară a unei singure fete era menită să răstoarne valenţa întregii povesti.
+> Nu cu mult înaintea cazului „Lisei noastre", Amnesty International publicase
+> primul din mai multe rapoarte despre bombardamentele ru seşti asupra unor ținte
+> civile din Siria. De asemenea, Physicians for Hu- man Rights documentaseră
+> atacurile rusești asupra unor clinici şi spitale. La 8 decembrie 2015, de
+> exemplu, loviturile aeriene ruseşti au distrus Spitalul al-Burnas, cea mai mare
+> clinică pediatrică din Ildib-ul rural din vest, rănind doctori şi asistente şi
+> ucigând alte persoane. Oamenii reali ucişi şi mutilați de atacurile rusești,
+> fetele, băieții, femeile şi bărbaţii care au murit în bombardamente au fost
+> înveliți în spectrul Islamului ca vio- lator colectiv. Refugiaţii din Siria, ca
+> şi cei din Ucraina, erau subsumaţi unei ficțiuni a inocenţei rusești. Violarea
+> imaginară a unei singure fete era menită să răstoarne valenţa întregii povesti.
+
+
+## Capitolul 6: Egalitate sau oligarhie {#capitolul-6-egalitate-sau-oligarhie}
+
+
+### Trump {#trump}
+
+> Când a câştigat alegerile prezidențiale din noiembrie, Trump a fost aplaudat in
+> parlamentul rus. Trump i-a telefonat rapid lui Putin, ca så fie felicitat.
+> Kiselev, figura principală a mass-mediei ruse, l-a omagiat pe Trump în emisiunea
+> lui de duminică seara, Vesti Nedeli, prezentându-l drept simbolul revenirii
+> bărbăţiei în politică. Kiselev a fantazat în faţa privitorilor lui la faptul că
+> Trump satisfăcea blonde, inclusiv pe Hillary Clinton. Era încântat că „în
+> vocabularul lui Trump nu există cuvintele democraţie şi «drepturi ale omului".
+> Kiselev a susținut, în timp ce descria o întâlnire dintre Trump şi Obama, că
+> Obama flutura braţele de parcă era în junglă". În comentariul lui despre
+> învestirea lui Trump, a spus că Michelle Obama arăta ca o menajera.
+
+
+### Trump și Deutsche Bank {#trump-și-deutsche-bank}
+
+> La sfârşitul anilor '90, Trump era considerat de regulă necreditabil și falit.
+> Datora aproximativ patru miliarde de dolari către mai mult de 70 de bănci,
+> dintre care aproximativ 800 de milioane erau garantati perso- nal. Nu a
+> manifestat niciodată vreo înclinaţie sau capacitate de a-şi achita aceste
+> datorii. După falimentul lui din 2004, nicio bancă americană nu-i mai împrumuta
+> bani. Singura care a făcut asta a fost Deutsche Bank, al cărei colorat palmares
+> de scandaluri îi dezmintea renumele serios. În mod interesant, între 2011 și
+> 2015 Deutsche Bank a spălat aproximativ 10 miliarde de dolari pentru clienți
+> ruși. La fel de interesant, Trump a refuzat să-şi achite datoriile către
+> Deutsche Bank
+
+
+### Trump și oferte rusești {#trump-și-oferte-rusești}
+
+> Ofertele ruseşti erau greu de refuzat: milioane de dolari plătiți imediat lui
+> Trump, un procent din profituri pentru Trump, numele lui Trump pe o clădire, dar
+> nicio investiție necesară din partea lui Trump. Aceşti ter- meni conveneau
+> ambelor părți. În 2006, cetăţenii fostei Uniuni Sovietice au finanțat
+> construcția lui Trump SoHo și i-au dat lui Trump 18% din profituri, chiar dacă
+> el nu a contribuit cu niciun ban. În cazul lui Felix Sater, apartamentele erau
+> spălătorii de bani. Sater, un american de origine rusă, era consilier de rang
+> superior al Trump Organisation și lucra într-un birou din Trump Tower aflat cu
+> două etaje sub cel lui Trump. Donald Trump depindea de banii rusești pe care
+> Sater îi aducea prin intermediul unei entități cunoscute drept Bayrock Group.
+> Sater a aranjat ca unele per- soane din lumea postsovietică să cumpere
+> apartamente prin intermediul unor companii fictive. Începând din 2007, Sater şi
+> Bayrock l-au ajutat pe Trump să parcurgă lumea şi să coopereze la cel puțin
+> patru proiecte. Unele dintre acestea au eşuat, dar Trump a făcut bani chiar și
+> așa.
+
+
+### Trump și Putin {#trump-și-putin}
+
+> Rusia nu e o ţară bogată, dar bogăția e foarte concentrată. Astfel, este o
+> practică obișnuită ca ruşii să ofere bani cu ușurință, îndatorând pe cine- va,
+> și să spună mai târziu care e prețul serviciilor. În calitate de candidat la
+> președinție, Trump a încălcat o tradiţie de decenii refuzând să își facă publice
+> declarațiile de venituri, probabil pentru că acestea ar fi dezvăluit profunda
+> lui dependență de capitalul rusesc. Chiar şi după ce şi-a anunţat candidatura la
+> funcția de preşedinte, în iunie 2015, Trump încheia afaceri lipsite de riscuri
+> cu ruşii. În octombrie 2015, aproape de momentul unei dezbateri prezidențiale
+> republicane, a semnat o scrisoare de intenție pen- tru ca ruşii să construiască
+> în Moscova un turn pe care să pună numele lui. A anunţat pe Twitter că „Putin îl
+> iubeşte pe Donald Trump".
+
+
+### Amprenta tehnologii asupra societății {#amprenta-tehnologii-asupra-societății}
+
+> In anii '70 şi '80, războiul rece a fost o competiție tehnologic pe consumul
+> vizibil de bunuri atrăgătoare din lumea reală. Târile nord-ame ricane şi
+> vest-europene erau atunci într-un avantaj evident, iar in 1991 Uniunea Sovietică
+> s-a prăbușit. In deceniile doi și trei ale secolului XXX în timp ce un internet
+> nereglementat intra în majoritatea gospodăriile americane (dar nu și rusești),
+> relația dintre tehnologie și viață s-a schim bat, iar odată cu ea a suferit o
+> mutație și echilibrul de putere. In 2016, americanul obişnuit petrecea deja
+> peste zece ore pe zi în fața ecranelor, majoritatea acestora aparținând unor
+> aparate conectate la internet. In „Oamenii găunoşi", T.S. Eliot spunea că „Intre
+> idee/ Și realitate/ Intre mişcare/ Şi faptă/ Se lasă umbra"." In America anilor
+> 2010-2015, umbra era internetul, care-i scinda pe oameni de ceea ce credeau ei
+> că fac. În 2016, deja tehnologia nu mai facea ca societatea americană să pară
+> mai bună lumii exterioare. În schimb, tehnologia oferea o perspectivă mai bună
+> asupra societății americane şi minților americane individuale.
+
+<!--quoteend-->
+
+> In romanul 1984 al lui George Orwell, eroului i se spune: „Ai să fi gaunos. Noi
+> te vom stoarce de tot ce ai în tine și pe urmă te vom umple cu noi înşine"."In
+> deceniul doi al secolului XXI, competiţia nu se mai referea la obiecte reale
+> care puteau fi cumpărate- ca în timpul războ iului rece, ci la stări psihologice
+> care puteau fi produse. Economia rusească nu trebuia să producă ceva cu valoare
+> materială, şi nici nu făcea asta. Politicienii ruşi trebuiau să folosească
+> tehnologiile create de alții pentru a modifica stările mentale, şi asta au
+> făcut. Odată ce competiția a inceput să însemne manipularea invizibilă a
+> personalităților, nu a fost deloc surprinzător că Rusia a câștigat.
+
+
+### FSB, GRU {#fsb-gru}
+
+> FSB-ul rusesc şi serviciul secret al armatei ruse (GRU), ambele active în
+> Ucraina, aveau să ia parte, tot impreună, la războiul cibernetic impotri va
+> Statelor Unite. Centrul rusesc dedicat războiului cibernetic, cunoscut drept
+> Agenția pentru Cercetarea Internetului, a manipulat opinia publică europeană şi
+> americană în ceea ce priveşte războiul Rusiei din Ucraina. In iunie 2015, când
+> Trump şi-a anunţat candidatura, Agenția pentru Cer- cetarea Internetului a fost
+> extinsă, pentru a include și un Departament American. Aproximativ 90 de noi
+> angajaţi s-au dus să lucreze la SEDIUL din Sankt Petersburg, în timp ce alţii au
+> fost trimişi în misiune în Statele Unite. Agenţia pentru Cercetarea Internetului
+> a angajat, de asemenea, şi aproximativ 100 de activiști politici americani care
+> nu știau pentru cine lucrează. Agenţia pentru Cercetarea Internetului a lucrat
+> alături de servi- ciile secrete rusești pentru a-l trimite pe Trump în Biroul
+> Oval.
+
+
+### Războiul cibernetic împotriva SUA {#războiul-cibernetic-împotriva-sua}
+
+> In 2016, era evident că ruşii erau entuziasmați de aceste noi posibili- tăți. În
+> februarie acel an, Andrei Krucik, consilierul pentru cibernetică al lui Putin,
+> se lăuda:,,Suntem pe punctul de a dobândi în arena informați- onală ceva care ne
+> va permite să vorbim cu americanii de la egal la egal". În mai, un ofițer al GRU
+> s-a lăudat că organizația lui urma să se răzbune pe Hillary Clinton în numele
+> lui Vladimir Putin. În octombrie, cu o lună înaintea alegerilor, Pervîi Kanal a
+> publicat o lungă și interesantă me- ditație asupra prăbuşirii iminente a
+> Statelor Unite. În iunie 2017, după victoria Rusiei, Putin a vorbit el însuşi,
+> spunând că nu negase niciodată că unii voluntari ruși purtaseră un război
+> cibernetic împotriva Statelor Unite. Era formularea exactă pe care o folosise
+> pentru a descrie invadarea rusească a Ucrainei: că nu negase niciodată că
+> existau voluntari. Putin recunoştea, făcând cu ochiul, că Rusia învinsese
+> Statele Unite intr-un război cibernetic. În iulie 2018, Putin a confirmat ceea
+> ce era evident: „Da, am vrut ca el să câştige".
+
+
+### Campania electorală și platformele sociale {#campania-electorală-și-platformele-sociale}
+
+> După toate probabilitățile, majoritatea votanților americani au fost expuşi
+> propagandei rusești. E elocvent faptul că Facebook a inchis 5.8 milioane de
+> conturi false imediat inaintea alegerilor din noiembrie 2016 Acestea fuseseră
+> folosite pentru a promova mesaje politice. In 2016, aproximativ un milion de
+> pagini de pe Facebook foloseau o unealth car le permitea să genereze artificial
+> zeci de milioane de like-uri, împin- gând astfel anumite ştiri, de obicei
+> inventate, în newsfeed-ul americanilor neştiutori. Una dintre cele mai evidente
+> intervenții ruseşti au fost cele 470 de pagini de Facebook plasate de Agenția
+> pentru Cercetarea Inter- netului a Rusiei, dar pretinse a fi pagini ale unor
+> organizații sau mişcări politice americane. Şase dintre aceste pagini aveau câte
+> 340 de milioane de distribuiri de conținut pe Facebook fiecare, ceea ce ar
+> indica faptul că toate la un loc aveau miliarde de distribuiri. 137 de milioane
+> de ame- ricani aveau să voteze; 126 de milioane de americani au văzut conţinut
+> rusesc pe Facebook. Campania rusească a inclus și cel puțin 129 de pa- gini de
+> evenimente, care au ajuns la cel puţin 336 300 de oameni. Ruşii care lucrau la
+> tastatură în Sankt Petersburg i-au făcut pe americani să ia parte la cel puţin o
+> duzină de evenimente, toate cu teme drastice. Imediat Inaintea alegerilor, Rusia
+> a plasat 3 000 de reclame pe Facebook şi le-a promovat ca meme prin cel puțin
+> 180 de conturi de Instagram. Acele reclame au fost văzute de 5,8 milioane de
+> americani inaintea alegerilor. Rusia putea să facă asta fără să includă
+> informații despre cine plătise pen- tru acele reclame, lăsându-le americanilor
+> impresia că propaganda străină era o discuţie americană. Atunci când
+> cercetătorii au început să calculeze amploarea expunerii americane la propaganda
+> rusească, Facebook ștergea tot mai multe date, ceea ce sugerează că această
+> campanie rusească a fost stânjenitor de eficientă. Mai târziu, compania le-a
+> spus investitorilor că nu mai puțin de 60 de milioane de conturi erau false.
+
+
+### Twitter și campania electorală {#twitter-și-campania-electorală}
+
+> Mai târziu, după ce răul fusese făcut, Twitter a găsit 50 000 de boţi ruseşti.
+> După alegeri, Twitter a identificat 3 814 conturi care serveau Agenția pentru
+> Cercetarea Internetului a Rusiei şi au anun- fat că acestea ajunseseră la 1,4
+> milioane de americani. Aproximativ trei milioane de postări rusești ostile de
+> Twitter au fost ulterior catalogate și înregistrate. După ce a început să
+> cerceteze, Twitter a putut identifica aproximativ un milion de conturi suspecte
+> pe zi.
+
+
+### Twitter și campania electorală 2 {#twitter-și-campania-electorală-2}
+
+> După ce îşi folosise boții de Twitter pentru a încuraja un vot pentru Ieșire la
+> referendumul referitor la Brexit, Rusia i-a eliberat acum în Sta tele Unite. În
+> mai multe sute de cazuri (cel puțin), exact aceiași boţi care lucraseră
+> împotriva Uniunii Europene au atacat-o pe Hillary Clinton. Mare parte a
+> traficului boților străini era publicitate negativă despre ea. Când ea s-a
+> îmbolnăvit, pe 11 septembrie 2016, boţii ruși au amplifi cat masiv scara
+> evenimentului, creând pe Twitter un trend sub hastagul #HillaryDown". In unele
+> momente cruciale, trolii și boții ruși au trecut și la sprijinirea directă a lui
+> Trump. Trolii şi boţii ruşi l-au lăudat pe Donald Trump, precum şi Convenţia
+> Naţională Republicană pe Twit- ter. Când Trump a trebuit să participe la o
+> dezbatere cu Clinton, ceea ce constituia un moment dificil pentru el, trolii și
+> boții ruși au umplut eterul cu afirmaţii că el câştigase sau că dezbaterea
+> fusese cumva măsluită împotriva lui. În state cruciale în care rezultatul
+> votului era incert, dar în care Trump a câştigat în cele din urmă, activitatea
+> boților s-a intensificat în zilele dinaintea alegerilor. În ziua alegerilor,
+> boții luptau sub hasta- gul #WarAgainst Democrats". După victoria lui Trump, cel
+> puțin 1 600 dintre acei boţi care lucraseră în beneficiul lui s-au apucat să
+> lucreze îm- potriva lui Macron și pentru Le Pen în Franţa şi împotriva lui
+> Merkel şi pentru AfD în Germania. Chiar şi la acest cel mai elementar nivel
+> tehnic, războiul împotriva Statelor Unite a fost şi războiul împotriva Uniunii
+> Europene.
+
+
+### Trump și agresiunea sexuală {#trump-și-agresiunea-sexuală}
+
+> Unele e-mailuri scurse au venit în ajutor când Trump avea dificultăți. Pe 7
+> octombrie, Trump a părut să aibă probleme, când o înregistrare a dezvăluit
+> viziunea lui că bărbaţii puternici trebuie să agreseze sexual femeile. La 30 de
+> minute după ce înregistrarea a fost publicată, Rusia a făcut publice e-mailurile
+> preşedintelui campaniei lui Clinton, John Po desta, îngreunând astfel o discuţie
+> serioasă despre trecutul lui Trump de prădător sexual. Trolii și boții ruși au
+> început apoi să lucreze, bagateli- zând susţinerea de către Trump a agresiunii
+> sexuale și îndrumându-i pe utilizatorii de Twitter către informaţiile plantate
+> de ruşi. Apoi trolii și bo- ții ruși au ajutat la aranjarea e-mailurilor lui
+> Podesta în două poveşti ficți- onale, una despre un circuit pedofil legat de o
+> pizzerie și alta despre unele practici satanice. Acestea au servit la
+> distragerea atenţiei susţinătorilor lui Trump de la mărturisirea acestuia că e
+> un prădător sexual, ajutându-i să se gândească la și să vorbească despre
+> altceva. Aproximativ o treime din americanii adulți au preferat să creadă o
+> ficțiune rusească despre un po- litician american. După ce Rusia i-a oferit
+> puțin timp, Trump a încercat să le cumpere pe femeile cu care avusese aventuri
+> sau pe care le plătise pentru sex, probabil pentru a preveni alte dezvăluiri.
+> Mai târziu, Michael Cohen, avocatul şi intermediarul lui Trump, s-a recunoscut
+> vinovat de infracţiunea federală de fraudă cu fondurile de campanie. La
+> instrucțiu- nile lui Trump, el le-a plătit pe acele femei, ca să ajute campania.
+
+
+### Putin și sursa informațiilor {#putin-și-sursa-informațiilor}
+
+> În 2016, americanii au depins de Rusia fără să-şi dea seama că se întâmplă asta.
+> Majorita- tea americanilor au urmat sfatul lui Vladimir Putin referitor la
+> lectura e-mailurilor piratate: Chiar e important cine a dezvăluit informaţia?",
+> a intrebat Putin. „Important este ceea ce conţine informația respectivă." Dar
+> cum rămâne cu sursele accesibile de la care sunt oamenii distraşi, acaparati
+> fiind de emoția dezvăluirii? Şi cum rămâne cu toate celelalte secrete care nu
+> sunt dezvăluite, deoarece puterea respectivă preferă să nu le dezvăluie? Drama
+> dezvăluirii unui lucru ne face să uităm că alte lucruri rămân ascunse. Nici
+> ruşii, nici surogatele lor nu au făcut publică informație despre republicani,
+> despre campania lui Trump sau, la urma urmei, despre ei înşişi. Niciunul dintre
+> aceşti declaraţi căutători ai adevă rului care au publicat pe internet e-mailuri
+> confidenţiale nu a avut nimic de spus despre relaţia dintre campania lui Trump
+> şi Rusia.
+
+
+### Trump, ginerele și Deutsche Bank {#trump-ginerele-și-deutsche-bank}
+
+> De-a lungul campaniei, indiferent dacă, formal, la conducerea ei se afla
+> Manafort sau Bannon, Trump a contat pe ginerele lui implicat în afaceri
+> imobiliare, Jared Kushner. Spre deosebire de Manafort, care avea un trecut, şi
+> de Bannon, care avea o ideologie, Kushner era legat de Ru- sia doar prin bani și
+> ambiție. Era mai uşor să urmărești acele conexiuni observând tăcerile lui. După
+> victoria în alegeri a socrului său, Kushner a omis să amintească faptul că firma
+> lui, Cadre, primise o investiţie im- portantă din partea unui rus ale cărui
+> companii îndreptaseră un miliard de dolari către Facebook şi 191 de milioane de
+> dolari către Twitter, în beneficiul statului rus. De asemenea, merita remarcat
+> că Deutsche Bank, care spălase miliarde pentru oligarhii ruși, singura bancă
+> încă dispusă să-l împrumute pe socrul lui, i-a acordat lui Kushner un împrumut
+> de 285 de milioane de dolari cu doar câteva săptămâni înainte de alegerile
+> prezidenţiale..
+
+
+### Michael Flynn {#michael-flynn}
+
+> Un al treilea consilier pentru politică externă era generalul în retragere
+> Michael Flynn. Chiar dacă fusese şeful Defense Intelligence Agency și era luat
+> în considerare pentru postul de consilier pentru securitatea nați- onală, Flynn
+> a luat ilegal bani de la unele guverne străine fără să declare că făcuse asta,
+> în timp ce distribuia întruna pe Twitter diverse teorii ale conspirației. Flynn
+> a răspândit ideea că Hillary Clinton era o susţinătoare a pedofiliei. Era atât
+> de fascinat de această poveste răspândită entuziast de Rusia, încât susţinea că
+> liderii democrați luau parte la ritualuri satanice. Şi-a folosit contul de
+> Twitter pentru a răspândi acea poveste și, astfel, asemenea mai multor adepti
+> americani ai teoriei conspirației, a devenit participant la măsurile active
+> ruseşti îndreptate împotriva Statelor Unite.
+
+
+### Trump și conexiunile lui {#trump-și-conexiunile-lui}
+
+> ling Flynn, Trump şi-a umplut cabinetul cu oameni care aveau conexiuni uimitor
+> de strânse cu o putere străină. Jeff Sessions, un senator die Alabama care il
+> sustinuse de timpuriu pe Trump, a avut multiple contacte cu ambasadorul rus
+> in 2016. Sessions a minţit in această privin in Congres, la audierile pentru
+> confirmarea lui în funcția de procuror general, comitand astfel sperjur pentru a
+> deveni cel mai înalt oficial din domeniul aplicării legii în SUA.
+
+<!--quoteend-->
+
+> Ministrul pentru comert al lui Trump a avut tranzacții financiare cu ni oligarhi
+> ruşi şi, de fapt, chiar cu familia lui Putin. In 2014, Wilbur Ross a devenit
+> vicepreședinte şi investitor proeminent al Bank of Cyprus, un paradis offshore
+> al oligarhilor ruși. Ross a ocupat acest post într-un mo- ment în care ruşii
+> care încercau să evite sancțiunile îşi transferau activele în astfel de locuri.
+> El a lucrat împreună cu Vladimir Strjalkovski, care fusese coleg cu Putin in
+> KGB. Un investitor important al băncii era şi Viktor Vek- selberg, un oligarh
+> rus important, în care Putin avea încredere. Vekselberg era cel care finanţase
+> reinhumarea rămășițelor lui Ivan Ilin in 2015.
+
+<!--quoteend-->
+
+> După ce a fost numit ministru pentru comert, Ross a demisionat din postul lui de
+> la Bank of Cyprus, dar a păstrat o legătură personală nedez- văluită cu
+> cleptocrația rusă. Era unul dintre proprietarii unei companii maritime,
+> Navigator Holdings, care transporta gaze naturale ruseşti pen- tru o companie
+> rusească numită Sibur. Unul dintre proprietarii compa- niei Sibur era Ghenadi
+> Timcenko, partener de judo şi prieten apropiat al lui Putin. Altul era Kiril
+> Şamalov, ginerele lui Putin. Ross era în legătură cu insuşi centrul oligarhiei
+> Rusiei, familia Putin. Ca ministru american, era in poziția de a câştiga bani
+> făcând pe plac Rusiei. Dat fiind că sancţi unile americane includeau şi
+> interzicerea transferurilor tehnologice care puteau ajuta la extragerea gazelor
+> naturale, Ross era in poziția de a profita personal de pe urma ridicării
+> sancțiunilor.
+
+
+### Ficțiunea Trump, om de afaceri plin de succes {#ficțiunea-trump-om-de-afaceri-plin-de-succes}
+
+> Rusia a facilitat şi susţinut ficțiunea „Donald Trump, om de afaceri plin de
+> succes" şi a livrat acea ficțiune americanilor, ca încărcătură a unei arme
+> cibernetice. Efortul rusesc a avut succes deoarece Statele Unite sunt mult mai
+> asemănătoare Federației Ruse decât le-ar plăcea să creadă ame- ricanilor. Pentru
+> că făcuseră deja trecerea de la politica inevitabilității la politica
+> eternităţii, liderii ruși aveau instincte şi tehnici care, după cum s-a dovedit,
+> corespundeau unor tendințe emergente ale societăţii ameri- cane. Moscova nu
+> încerca să proiecteze un ideal propriu, ci doar folosea o minciună gigantică
+> pentru a produce răul în Statele Unite.
+
+
+### Despre presa americană {#despre-presa-americană}
+
+> LÎn unele privinţe importante, presa americană devenise asemenea ce- lei
+> rusești, ceea ce îi făcea pe americani vulnerabili la tactici rusești. Expe-
+> rienţa Rusiei arată ce se întâmplă cu politica atunci când ştirile îşi pierd
+> reperele. Rusiei îi lipsește jurnalismul local şi regional. O mică parte a
+> mass-mediei ruseşti se preocupă de experiențele cetățenilor ruși. Televi- ziunea
+> rusă direcţionează neîncrederea generată de acest lucru împotriva altor oameni,
+> din afara Rusiei. Prin slăbiciunea presei sale locale, America a ajuns să semene
+> cu Rusia. Statele Unite se mândreau cândva cu o rețea impresionantă de ziare
+> regionale. După criza financiară din 2008, presa locală americană, deja slăbită,
+> a fost lăsată să se prăbuşească. În fiecare zi a lui 2009; aproximativ 70 de
+> angajați la ziare şi reviste americane şi-au pierdut slujba. Pentru americanii
+> din interiorul țării, asta a însem- nat sfârşitul ştirilor despre viaţă şi
+> ascensiunea a altceva: „media". Acolo unde există reporteri locali, jurnalismul
+> se preocupă de evenimente pe care oamenii le văd şi de care le pasă. Când
+> reporterii locali dispar, ştirile devin abstracte. Devin un tip de divertisment,
+> în loc să fie o relatare a ceva familiar.
+
+
+### Consumul de știri in SUA {#consumul-de-știri-in-sua}
+
+> Spre deosebire de ruşi, americanii tind să consume știri de pe internet. Conform
+> unui sondaj, 44% din americani consumă ştiri de pe o singu- rå platformă de
+> internet: Facebook. Interactivitatea internetului creează impresia de efort
+> mental, în timp ce stânjeneşte reflecția. Internetul e o economie de atenţie,
+> ceea ce înseamnă că platformele care urmăresc pro- fitul sunt proiectate să
+> scindeze atenția utilizatorilor lor în cele mai mici unităţi care pot fi
+> exploatate prin mesaje publicitare. Dacă e ca pe astfel de platforme să apară
+> ştiri, ele trebuie croite pentru a corespunde unei dis- ponibilităţi de atenție
+> reduse și nevoii de răspunsuri condiționate. Ştirile care ii atrag pe privitori
+> au tendinţa de a crea o conexiune neuronală între prejudecată şi indignare. Când
+> fiecare zi e dedicată descărcării emoţionale referitoare la presupuşi inamici,
+> prezentul devine nesfârşit, etern. În aceste condiţii, un candidat fictional se
+> bucură de un avantaj considerabil.
+
+
+### Ficțiunea pizzagate {#ficțiunea-pizzagate}
+
+> Ficţiunile „pizzagate" şi ritualul satanic arată modul în care interven-
+> ția rusească și propagatorii teoriei conspirației din SUA au lucrat im- preună.
+> Ambele ficțiuni au început prin piratarea de către ruși a e-mai- lurilor lui
+> John Podesta, preşedintele campaniei electorale a lui Hillary Clinton. Unii
+> americani îşi doreau să creadă că ceea ce e privat trebuie să fie misterios și
+> au fost convinşi în acest sens de Rusia. Podesta ţinea legătura cu proprietarul
+> unei pizzerii - ceea ce nu era o mare dezvăluire. Trolii şi boţii, unii dintre
+> ei ruși, au început să răspândească ficțiunea că meniul pizzeriei era un cod
+> pentru comandarea de copii pentru sex şi că Hillary Clinton conducea un circuit
+> de pedofilie din subsolul pizzeriei. Info Wars, un site conspirationist
+> proeminent din SUA, a răspândit şi el povestea. Această ficțiune a luat sfârșit
+> cu un american real trăgând cu un pistol real într-un restaurant real. Jack
+> Posobiec, popularul activist de dreapta dură de pe internet care răspândise el
+> însuşi minciuna Pizzagate pe Twitter, a susţinut că americanul care trăsese
+> focurile de armă era un actor plătit să discrediteze adevărul. Podesta ținea
+> legătura și cu cineva care l-a invitat la o petrecere la care el nu a
+> participat. Gazda petrecerii era o artistă care cândva îşi intitulase un tablou
+> Ritual satanic'; trolii şi boţii ruseşti au răspândit povestea că petrecerea era
+> un ritual satanic care includea consumul de fluide corporale umane. Această idee
+> a fost apoi transmisă de unii adepţi americani ai teoriei conspirației precum
+> Sean Hannity de la Fox News sau de site-ul Drudge Report.
+
+
+### Când mor democrațiile {#când-mor-democrațiile}
+
+> Democrațiile mor atunci când oamenii încetează să mai creadă că vo- rul
+> contează. Chestiunea nu e dacă se ţin alegeri, ci dacă ele sunt libere şi
+> corecte. Dacă sunt, democrația produce un simţ al timpului, o aşteptare a
+> viitorului care calmează prezentul. Sensul fiecăror alegeri democratice e
+> promisiunea următoarelor. Dacă anticipăm că alte alegeri semnificative vor avea
+> loc, ştim că data viitoare ne putem corecta greşelile, iar între timp dam vina
+> pentru acestea pe cei pe care i-am ales. În acest mod, de- mocraţia transformă
+> failibilitatea umană în predictibilitate politică şi ne ajută să resimțim timpul
+> ca pe o mişcare către viitor, asupra căreia avem o anumită influenţă. Dacă
+> ajungem să credem că alegerile sunt doar un ritual de susţinere repetitiv,
+> democraţia îşi pierde sensul.
+
+
+### Despre drumul spre nelibertate {#despre-drumul-spre-nelibertate}
+
+> Drumul spre nelibertate e trecerea de la politica inevitabilității la po- litica
+> eternității. Americanii erau vulnerabili la politica eternității din ca- uză că
+> propriile lor experiențe slăbiseră deja inevitabilitatea. Propunerea lui Trump
+> de a face America măreață din nou" găsea ecou la cei care credeau, împreună cu
+> el, că visul american murise. Rusia ajunsese prima la politica eternității, iar
+> ruşii ştiau tehnicile care i-ar fi împins pe ameri- cani în aceeași direcţie.
+>
+> E uşor de văzut atractivitatea eternității pentru oamenii bogaţi şi co- rupţi
+> care controlează un stat nelegiuit. Ei nu pot oferi progres social populației
+> lor, astfel că trebuie să găsească altă formă de impulsionare a politicii. În
+> loc să discute despre reforme, politicienii eternității creează amenințări. În
+> loc să prezinte un viitor cu posibilităţi şi speranţe, ei ofe- ră un prezent
+> etern cu inamici clari şi crize artificiale.
+
+
+### Creația ficționala Donald Trump {#creația-ficționala-donald-trump}
+
+> Creația ficțională „Donald Trump, om de afaceri plin de succes" a umplut spațiul
+> public cu neade- văr şi nu şi-a cerut niciodată scuze pentru minciuni, dat fiind
+> că, dacă ar fi făcut asta, ar fi recunoscut că există ceva de genul adevărului.
+> În 91 din primele lui 99 de zile în funcție, Trump a emis cel puţin o afirmație
+> vădit eronată; în decursul primelor lui 298 de zile, a emis 1 682 de afirmaţii
+> false sau care induceau în eroare. Într-un interviu de o jumătate de oră, a emis
+> 24 de afirmații false sau care induceau în eroare, ceea ce înseam- nă (luând în
+> calcul timpul în care vorbea intervievatorul) aproximativ una pe minut. E
+> adevărat că toți preşedinţii mint: diferença e că, pentru Trump, excepția era
+> rostirea adevărului.
+
+<!--quoteend-->
+
+> Mulţi americani nu au perceput diferența dintre cineva care minţea în mod
+> constant și nu îşi cerea scuze niciodată și cineva care nu minţea aproape
+> piciodată şi îşi corecta greșelile. Ei acceptau descrierea lumii ofe- rită de
+> Surkov şi RT: de fapt, nimeni nu spune adevărul niciodată, poate că nici nu
+> există adevăr, aşa că haideți să repetăm pur și simplu lucrurile pe care ne
+> place să le auzim şi să ne supunem celor care le spun. În această direcție se
+> află autoritarismul. Trump a adoptat dublul standard rusesc: lui îi era îngăduit
+> să mintă tot timpul, dar orice eroare minoră a unui jurnalist discredita
+> întreaga breaslă a jurnaliştilor. Trump a recurs la miş- carea copiată de la
+> Putin de a susține că nu el, ci reporterii erau cei care mințeau. Trump îi numea
+> pe aceștia inamici ai poporului american" şi susţinea că ceea ce produceau ei
+> erau „știri false". Trump era mândru de aceste două formulări, chiar dacă
+> amândouă erau rusești. Rudy Giu- liani, consilierul lui Trump, a oferit un
+> rezumat orwellian: „Adevărul nu e adevăr"
+
+
+### Trump și Holocaustul {#trump-și-holocaustul}
+
+> In politica lui Trump a eternității, al Doilea Război Mondial îşi pier- dea
+> sensul. În deceniile anterioare, americanii ajunseseră să creadă că o virtute a
+> războiului fusese lupta împotriva rasismului nazist, lucru care, la rândul lui,
+> oferea unele lecții pentru ameliorarea Statelor Unite. Admi- nistrația Trump a
+> subminat această amintire americană a „războiului cel bun". Într-un discurs în
+> faţa veteranilor din tribul Navaho, Trump şi-a îngăduit o trimitere rasistă la
+> un rival politic. El a reuşit să marcheze Ziua Comemorării Holocaustului fără
+> să-i amintească pe evrei. Sean Spicer, purtătorul lui de cuvânt, a susţinut că
+> Hitler nu îşi ucisese „propriul popor". Ideea că evreii germani nu făceau parte
+> din poporul german era chiar modul în care începuse Holocaustul. Politica
+> eternității solicită ca efortul să fie îndreptat împotriva inamicului, care
+> poate fi un inamic din interior. „Poporul" înseamnă întotdeauna, aşa cum spune
+> însuşi Trump, "poporul adevărat", nu toți cetățenii, ci un anumit grup, aleșii.
+
+
+### Justificare ficționala a războiului {#justificare-ficționala-a-războiului}
+
+> In această privință, America sub Preşedintele Trump devenea aseme- nea Rusiei.
+> In relativismul strategic, Rusia avea de suferit, dar urmărea -i facă pe alţii
+> să sufere și mai mult sau, cel puțin, să convingă populația rusă că alții
+> sufereau mai mult! Cetățenii ruși au suportat suferinţa sane- piunilor europene
+> și americane de după invadarea rusească a Ucrainei, deoarece credeau că Rusia se
+> afla într-o campanie glorioasă împotriva Eu- ropei și Americii şi că europenii
+> și americanii primeau ce merită pentru decadenţa şi agresiunea lor. O
+> justificare ficțională a războiului creează suferinţă reală, care justifică apoi
+> continuarea unui război real. Când câș- tiga o luptă din acel război, când îl
+> ajuta pe Trump să devină preşedinte, Moscova răspândea exact această logică în
+> interiorul Statelor Unite.
