@@ -1,13 +1,13 @@
 :PROPERTIES:
 :ID:       265c7aba-5b14-4101-8221-7ff017ab8153
 :END:
-#+SETUPFILE: blog.setup
+#+SETUPFILE: blog.org
 #+filetags: :aws:c4:architecture:documentation:
 #+TITLE: Documentation as Code for Cloud - C4 Model
 #+CREATED: 2023-07-17
 #+HUGO_DRAFT: true
 
-* Config :noexport:
+* Config                                                    :noexport:
 This are some configuration variables for C4
 
 #+name: puml-dir
@@ -27,71 +27,101 @@ This are some configuration variables for C4
             company-dabbrev-downcase nil)
 #+end_src
 
-* Using C4 integration of aws-icons-for-plantuml
-#+begin_src plantuml :results none :file /tmp/c4.png
-@startuml C4
+* Introduction
+- in the last post I've shown how to use PlantUML to created nested environments for things like organizational units,
+  accounts, VPCs, EKS clusters
+- what I have missed completely (on purpose for the sake of clarity) were the relationships between different components
+  inside the business layer
+- in this post I'll shown how to use a DSL to describe relationships between components, services, systems
+- using the same model I'll create different views, one for a specifi target audience. The C4 model uses diffrent
+  perpectives to visualize dependencies of the same system using different levels of granularity.
 
-title Amazon S3 video upload workflow
+* C4 Model
+:PROPERTIES:
+:header-args: :exports none :results none
+:END:
 
-' Uncomment the line below for "dark mode" styling
-'!$AWS_DARK = true
+- The C4 model was created by Simon Brown
+- as the name implies C4 consists of 4 diagram levels that act as a visual map of your system components with different types of abstraction
+- different abstraction levels are used for different audience types (from non-technical management level up to
+  developer low level)
+- by using the same terminology and the same set of abstractions, we make sure that we use the same language when
+  describing the system design (from DDD: ubiquitous language)
 
-!include <C4/C4_Container>
-!define AWSPuml /home/victor/work/repos/aws-icons-for-plantuml/dist
-!include AWSPuml/AWSCommon.puml
-!include AWSPuml/AWSC4Integration.puml
-
-' hide the tags render via stereotype
-hide stereotype
-left to right direction
-
-UpdateBoundaryStyle($bgColor=$AWS_BG_COLOR, $fontColor=$AWS_FG_COLOR, $borderColor=$AWS_COLOR_GRAY)
-UpdateElementStyle("container", $AWS_BG_COLOR, $AWS_FG_COLOR, $AWS_FG_COLOR)
-UpdateElementStyle("person", $AWS_BG_COLOR, $AWS_FG_COLOR, $AWS_FG_COLOR)
-
-' Experimental tag based Element formatting
-!procedure $AWSC4AddElementTag($category, $icon)
-!$tagborder = $AWSColor($category)
-!if %variable_exists("$AWS_DARK") && ($AWS_DARK == true) && ($category == "General")
-!$tagimgext = '_Dark.png'
-!$tagborder = $AWS_FG_COLOR
-!else
-!$tagimgext = '.png'
-!endif
-!$tagimg = 'img:' + AWSPuml + '/' + $category + '/' + $icon + $tagimgext
-AddElementTag("$icon", $fontColor=$AWS_FG_COLOR, $borderColor=$tagborder, $bgColor=$AWS_BG_COLOR, $sprite=$tagimg{scale=0.5}, $legendSprite=$tagimg{scale=0.25})
-!endprocedure
-
-$AWSC4AddElementTag("General", "User")
-$AWSC4AddElementTag("Storage", "SimpleStorageServiceBucket")
-$AWSC4AddElementTag("Compute", "LambdaLambdaFunction")
-$AWSC4AddElementTag("ApplicationIntegration", "StepFunctions")
-$AWSC4AddElementTag("MediaServices", "ElementalMediaConvert")
-$AWSC4AddElementTag("MachineLearning", "Transcribe")
-
-Person(user, "User", $tags="User")
-System_Boundary(softwareSystem, "Video Transcription Service") {
-  Container(s3bucket, "Amazon S3 bucket", $tags="SimpleStorageServiceBucket")
-  Container(objectcreated, "ObjectCreated event handler", $tags="LambdaLambdaFunction")
-  Container(stepfunction, "transcribe workflow", $tags="StepFunctions")
-  Container(extractaudio, "extract audio", $tags="LambdaLambdaFunction")
-  Container(transcribeaudio, "transcribe audio", $tags="LambdaLambdaFunction")
-  Container(mediaconvert, "AWS Elemental MediaConvert", $tags="ElementalMediaConvert")
-  Container(transcribe, "Amazon Transcribe", $tags="Transcribe")
-
-  Rel(s3bucket, objectcreated, "ObjectCreated event")
-  Rel(objectcreated, stepfunction, "start")
-  Rel(stepfunction, extractaudio, "step 1")
-  Rel(extractaudio, mediaconvert, "start job")
-  Rel(mediaconvert, s3bucket, "save audio")
-  Rel(stepfunction, transcribeaudio, "step 2")
-  Rel(transcribeaudio, transcribe, "start transcription job")
-  Rel(transcribe, s3bucket, "save transcription")
-}
-
-Rel(user, s3bucket, "Uploads")
-
-SHOW_LEGEND(false)
-C4VersionDetails()
-@enduml
+#+caption: C4 model summary
+#+begin_src plantuml :file (org-sbe puml-dir (filename \"c4-summary.png\"))
+@startwbs
++ Level 1\nSoftware System
+++ Level 2\nContainer
+++ Level 2\nContainer
+++ Level 2\nContainer
++++ Level 3\nComponent
++++ Level 3\nComponent
+++++ Level 4\nCode
+++++ Level 4\nCode
+@endwbs
 #+end_src
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-summary.png" title="" caption="" pos="left" >}}
+
+
+** Abstractions
+C4 uses different link:abstractions:
+- Person
+- System
+- Container
+- Component
+** Diagram types
+*** Level 1: Context diagram
+*** Level 2: Container diagram
+*** Level 3: Component diagram
+*** Level 4: Code diagram
+* Structurizr DSL
+Structurizr is used for /describing/ and /visualizing/ architecture using the C4 model.
+** Installation
+
+
+Using ~Docker~:
+#+begin_src shell
+#describe here how to run the Docker container
+#+end_src
+* Resources
+*Tools*:
+
+- 2023-10-05 ◦ [[https://icepanel.io/blog/2022-10-03-c4-model-for-system-architecture-design?utm_source=dev_to&utm_medium=post&utm_campaign=should_you_use_c4][IcePanel.io]]
+
+  A /visual/ modelling tool for C4
+- 2023-10-05 ◦ [[https://github.com/plantuml-stdlib/C4-PlantUML][C4-PlantUML]]
+
+  #+begin_quote
+  C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
+  #+end_quote
+
+*Articles*:
+- 2023-07-10 ◦ [[https://practical.li/engineering-playbook/architecture/structurizr/][Structurizr - Practicalli Engineering Playbook]]
+- 2022-10-31 ◦ [[https://dev.to/icepanel/c4-model-for-system-architecture-design-16dh][C4 model for system architecture design]]
+- 2022-10-10 ◦ [[https://dev.to/indrive_tech/c4-models-architecture-from-simple-to-complex-38fk][C4 Models: Architecture From Simple To Complex]]
+
+*Videos*:
+- 2023-07-10 ◦ [[https://www.youtube.com/watch?v=f7i2wxQVffk&list=PLEx5khR4g7PLf2kQn3nYaZJC2Zv2GPbnY&ab_channel=GOTOConferences][C4 Models as Code • Simon Brown • YOW! 2022 - YouTube]]
+
+
+#+begin_src emacs-lisp :results silent :exports none
+;; auto-export
+(defun esf/execute-startup-block
+	(org-hugo-auto-export-mode)
+
+  ;; set buffer variable
+  (setq org-agenda-files nil)
+
+  ;; set-fill-column
+  (setq-local fill-column 90)
+
+  (add-to-list 'org-hugo-special-block-type-properties '("sidenote" . (:trim-pre t :trim-post t)))
+
+  )
+#+end_src
+
+# Local Variables:
+# eval: (esf/execute-startup-block)
+# End:
