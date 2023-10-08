@@ -98,9 +98,13 @@ Using ~Docker~:
   #+end_quote
 
 *Articles*:
+- 2023-10-08 ◦ [[https://www.dandoescode.com/blog/c4-models-with-structurizr][Software Diagrams - C4 Models with Structurizr]]
 - 2023-07-10 ◦ [[https://practical.li/engineering-playbook/architecture/structurizr/][Structurizr - Practicalli Engineering Playbook]]
 - 2022-10-31 ◦ [[https://dev.to/icepanel/c4-model-for-system-architecture-design-16dh][C4 model for system architecture design]]
 - 2022-10-10 ◦ [[https://dev.to/indrive_tech/c4-models-architecture-from-simple-to-complex-38fk][C4 Models: Architecture From Simple To Complex]]
+
+*Structurizr*:
+- 2023-10-07 ◦ [[https://www.structurizr.com/help/themes][Structurizr - Help - Themes]]
 
 *Videos*:
 - 2023-07-10 ◦ [[https://www.youtube.com/watch?v=f7i2wxQVffk&list=PLEx5khR4g7PLf2kQn3nYaZJC2Zv2GPbnY&ab_channel=GOTOConferences][C4 Models as Code • Simon Brown • YOW! 2022 - YouTube]]
