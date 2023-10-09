@@ -1,6 +1,6 @@
 +++
 title = "Golang"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 tags = ["coding", "golang"]
 draft = false
 +++
@@ -179,3 +179,8 @@ draft = false
 ### Success stories {#success-stories}
 
 -   2022-10-19 ◦ [Have you moved from Java to Go (or another popular language)](https://www.reddit.com/r/golang/comments/y6hg08/have_you_moved_from_java_to_go_or_another_popular/)
+
+
+### Tooling {#tooling}
+
+-   2023-10-04 ◦ [My Preferred Go Stack](https://jtarchie.com/posts/2023-09-30-my-preferred-go-stack)

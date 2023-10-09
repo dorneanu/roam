@@ -120,3 +120,5 @@
 - 2022-11-21 ◦ [[https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/][SSH port forwarding with Go - Eli Bendersky's website]]
 ** Success stories
 - 2022-10-19 ◦ [[https://www.reddit.com/r/golang/comments/y6hg08/have_you_moved_from_java_to_go_or_another_popular/][Have you moved from Java to Go (or another popular language)]]
+** Tooling
+- 2023-10-04 ◦ [[https://jtarchie.com/posts/2023-09-30-my-preferred-go-stack][My Preferred Go Stack]]

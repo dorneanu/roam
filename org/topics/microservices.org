@@ -62,6 +62,7 @@ The basic concept of a microservice is simple---it's a simple, standalone applic
 * Resources
 - from [[id:1e4babae-fcb3-42a4-ab95-9384e1c7ee27][Building Microservices (2nd edition)]]
 ** Articles
+- 2023-10-04 ◦ [[https://dev.to/amplication/the-complete-microservices-guide-5d64][The Complete Microservices Guide - DEV Community]]
 - 2022-12-15 ◦ [[https://www.infoq.com/articles/microservices-practical-tips/][Sam Newman: Practical Implications of Microservices in 14 Tips]] (old but still good)
 - 2022-09-13 ◦ [[https://dev.to/kanekotic/event-storming-to-split-monolith-into-microservices-17eo][Event Storming to split Monolith into Microservices]]
 - 2022-09-06 ◦ [[https://dev.to/kanekotic/common-mistakes-when-splitting-the-monolith-j1][Common mistakes when splitting the monolith]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f5bb01d5-9788-4b73-b65d-738adacf4502
+:END:
+#+title: Surely, You're Joking, Mr. Feynman
+#+filetags: book
+#+date: 2023-10-08
+
+* Resources
+- BBC - The Fantastic Mr Feynman
+  https://youtube.com/watch?v=H9fjhQMsDW4&si=-7ELXbJkHFahQmWF
+- Leonard Susskind: My friend Richard Feynman
+  https://youtube.com/watch?v=6Waurx8e-1o&si=0jvG-h2iaOdramZR

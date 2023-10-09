@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7cacc8e8-d0bb-4b1d-9f21-5b1ecdb12574
+:END:
+#+TITLE: 2023-10-05
+#+DATE: 2023-10-05
+#+FILETAGS: journal
+
+- 2023-10-05 ◦ [[https://www.france24.com/en/europe/20231003-inflated-rents-high-interest-rates-and-lack-of-supply-create-european-housing-crisis][Inflated rents, high interest rates and lack of supply create European housing crisis]]
+
+  #+begin_quote
+  However, there are some European success stories. In the Austrian capital
+  Vienna, the city invests around €500 million in housing construction and
+  60% of the population live in municipal housing or housing subsidised by
+  the state.
+
+  Finland offers another example of how long-term government policy can
+  successfully reduce homelessness. The Finnish approach works on a “housing
+  first” principle that recognises housing as a basic human right that, once
+  provided, serves as the foundation for resolving other problems.
+  #+end_quote
