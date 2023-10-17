@@ -1,9 +1,24 @@
 +++
 title = "Emacs"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 tags = ["emacs", "ide"]
 draft = false
 +++
+
+## Installation {#installation}
+
+For Arch Linux I use following:
+
+```shell
+./configure -C --prefix=$HOME/.local/opt/emacs-29 --with-json --with-xwidgets --with-mailutils --with-tree-sitter --with-native-compilation --with-imagemagick --with-gif --with-jpeg --with-png --with-xml2 --with-tiff --with-libsystemd --with-modules
+```
+
+And afterwards:
+
+```shell
+make -j 4 install
+```
+
 
 ## elfeed {#elfeed}
 
@@ -141,6 +156,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 ### Comparisons {#comparisons}
 
+-   2023-10-10 ◦ [Reddit - Dive into anything](https://www.reddit.com/r/emacs/comments/1708b5m/is_switching_to_emacs_really_worth_it/)
 -   2023-01-16 ◦ [What does emacs and elisp has as an advantage over nvim and lua?](https://www.reddit.com/r/emacs/comments/zwcdfh/what_does_emacs_and_elisp_has_as_an_advantage/)
 
 

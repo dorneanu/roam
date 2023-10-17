@@ -39,6 +39,7 @@ draft = false
 
 ### Layout {#layout}
 
+-   2023-10-16 ◦ [Community | Automating Multiple Environments with Terraform](https://community.aws/tutorials/automating-multiple-environments-with-terraform)
 -   2023-09-19 ◦ [Best practices for using Terraform (Google Cloud)](https://cloud.google.com/docs/terraform/best-practices-for-terraform)
 -   2023-08-01 ◦ [How to Create Terraform Multiple Environments](https://getbetterdevops.io/terraform-create-infrastructure-in-multiple-environments/)
     -   separated directors vs workspaces

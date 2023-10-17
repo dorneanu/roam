@@ -1,11 +1,16 @@
 +++
 title = "Golang"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 tags = ["coding", "golang"]
 draft = false
 +++
 
 ## Articles {#articles}
+
+
+### AI {#ai}
+
+-   2023-10-11 ◦ [GitHub - charmbracelet/mods: AI on the command line](https://github.com/charmbracelet/mods)
 
 
 ### Architecture {#architecture}
@@ -42,6 +47,11 @@ draft = false
 ### Botnets {#botnets}
 
 -   2022-08-22 ◦ [GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR](https://github.com/ThrillQuks/Pitraix)
+
+
+### Books {#books}
+
+-   2023-10-11 ◦ [Learn Go with Pocket-Sized Projects ](https://www.manning.com/books/learn-go-with-pocket-sized-projects)
 
 
 ### Concurrency {#concurrency}

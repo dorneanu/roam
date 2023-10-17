@@ -10,6 +10,7 @@
 
 * RFCs
 * Resources
+- 2023-10-12 ◦ [[https://blog.bytebytego.com/p/sessions-tokens-jwt-sso-and-oauth][Sessions, Tokens, JWT, SSO, and OAuth in One Diagram]]
 - 2023-07-05 ◦ [[https://www.youtube.com/watch?v=ZV5yTm4pT8g][OAuth 2 Explained In Simple Terms - YouTube]]
 - 2023-04-06 ◦ [[https://developer.okta.com/blog/2023/04/04/spa-auth-tokens][How Authentication and Authorization Work for SPAs | Okta Developer]]
   - nice pictures with dinosaurs

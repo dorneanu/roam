@@ -1,5 +1,6 @@
 +++
 title = "OAuth"
+author = ["Cyneox"]
 draft = false
 +++
 
@@ -8,6 +9,7 @@ draft = false
 
 ## Resources {#resources}
 
+-   2023-10-12 ◦ [Sessions, Tokens, JWT, SSO, and OAuth in One Diagram](https://blog.bytebytego.com/p/sessions-tokens-jwt-sso-and-oauth)
 -   2023-07-05 ◦ [OAuth 2 Explained In Simple Terms - YouTube](https://www.youtube.com/watch?v=ZV5yTm4pT8g)
 -   2023-04-06 ◦ [How Authentication and Authorization Work for SPAs | Okta Developer](https://developer.okta.com/blog/2023/04/04/spa-auth-tokens)
     -   nice pictures with dinosaurs

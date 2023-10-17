@@ -4,6 +4,19 @@
 #+title: Emacs
 #+filetags: :emacs:ide:
 
+* Installation
+For Arch Linux I use following:
+
+#+begin_src shell
+./configure -C --prefix=$HOME/.local/opt/emacs-29 --with-json --with-xwidgets --with-mailutils --with-tree-sitter --with-native-compilation --with-imagemagick --with-gif --with-jpeg --with-png --with-xml2 --with-tiff --with-libsystemd --with-modules
+#+end_src
+
+And afterwards:
+
+#+begin_src shell
+make -j 4 install
+#+end_src
+
 * elfeed
 - 2022-10-24 ◦ [[https://koustuvsinha.com/post/emacs_research_workflow/][A workflow for reading, managing and discovering ML research papers with Emacs | Koustuv Sinha]]
 - 2022-10-24 ◦ [[https://yiming.dev/blog/2016/01/28/add-org-store-link-entry-for-elfeed/][Add org-store-link Entry for elfeed - Yiming Chen]]
@@ -106,6 +119,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 ** Evil
 - 2022-09-01 ◦ [[https://github.com/edkolev/evil-goggles][GitHub - edkolev/evil-goggles: Display visual hint on evil edit operations]]
 ** Comparisons
+- 2023-10-10 ◦ [[https://www.reddit.com/r/emacs/comments/1708b5m/is_switching_to_emacs_really_worth_it/][Reddit - Dive into anything]]
 - 2023-01-16 ◦ [[https://www.reddit.com/r/emacs/comments/zwcdfh/what_does_emacs_and_elisp_has_as_an_advantage/][What does emacs and elisp has as an advantage over nvim and lua?]]
 ** Emojis
 - 2022-10-25 ◦ [[https://ianyepan.github.io/posts/emacs-emojis/][Native Emojis in Emacs | Ian Y.E. Pan]]
