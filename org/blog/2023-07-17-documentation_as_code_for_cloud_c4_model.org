@@ -28,25 +28,23 @@ This are some configuration variables for C4
 #+end_src
 
 * Introduction
-- in the last post I've shown how to use PlantUML to created nested environments for things like organizational units,
-  accounts, VPCs, EKS clusters
-- what I have missed completely (on purpose for the sake of clarity) were the relationships between different components
-  inside the business layer
-- in this post I'll shown how to use a DSL to describe relationships between components, services, systems
-- using the same model I'll create different views, one for a specifi target audience. The C4 model uses diffrent
-  perpectives to visualize dependencies of the same system using different levels of granularity.
+In the last post, I've used PlantUML to draw things like *groups*, *accounts*, and *clusters*. However, I didn't focus on how
+different parts inside the business layer interact (usually components related to the main application/system relevant
+for your business). Now, we'll use a DSL
+#+begin_sidenote
+Domain-Specific Language specific for this use case
+#+end_sidenote
+to show these interactions between /components/, /services/, and /systems/. I'll use the *C4 model* to show the same system in *different ways* based on who we're showing it to. It allows us to adjust how much detail we include.
 
 * C4 Model
 :PROPERTIES:
 :header-args: :exports none :results none
 :END:
 
-- The C4 model was created by Simon Brown
-- as the name implies C4 consists of 4 diagram levels that act as a visual map of your system components with different types of abstraction
-- different abstraction levels are used for different audience types (from non-technical management level up to
-  developer low level)
-- by using the same terminology and the same set of abstractions, we make sure that we use the same language when
-  describing the system design (from DDD: ubiquitous language)
+The C4 model was developed by [[https://simonbrown.je/][Simon Brown]] as a means of providing a *visual map* of system components across *four levels
+of abstraction*, as suggested by its title. Each level of abstraction in the C4 model suits different *audiences*, from the
+non-technical management level to detailed developer perspectives, each level of abstraction is tailored to meet its
+observer's understanding. To maintain consistency when describing the system design, the C4 model uniformly applies the same terminology and abstractions across all its levels, effectively implementing ubiquitous language principles from Domain-Driven Design ({{{zk_topic(ddd,DDD)}}}).
 
 #+caption: C4 model summary
 #+begin_src plantuml :file (org-sbe puml-dir (filename \"c4-summary.png\"))
@@ -62,20 +60,130 @@ This are some configuration variables for C4
 @endwbs
 #+end_src
 
-#+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-summary.png" title="" caption="" pos="left" >}}
-
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-summary.png" title="The 4 perspectives in the C4 model" caption="The 4 perspectives in the C4 model" pos="left" >}}
 
 ** Abstractions
-C4 uses different link:abstractions:
-- Person
-- System
-- Container
-- Component
+The C4 model uses [[https://c4model.com/#Abstractions][abstractions]] to form an hierarchy of well-defined diagrams (at different levels). Currently these
+abstractions are available:
+
+1. *Person*
+   - Represents human users interacting with the system (e.g., Administrator, End User, Customer).
+
+2. *System*
+   - A top-level view showing different people interacting with different software systems. (e.g., E-commerce Platform,
+     Payment Gateway, our self-destructing email service 😎).
+
+3. *Container*
+   - Involves zooming into an individual system to reveal containers within. Examples include server-side applications, client-side applications, databases, etc.
+   - not to be confused with Docker containers
+
+4. *Component*
+   - Dives deeper into an individual container to expose its components, like classes, interfaces or objects in your code.
+
 ** Diagram types
 *** Level 1: Context diagram
+
+Shows how your system fits into the larger system environment (system landscape). It basically shows *interactions*
+between users and systems:
+- e.g. A payment system interacting with an user and a banking system
+
+#+begin_src plantuml :file (org-sbe puml-dir (filename \"c4-context-diagram.png\"))
+@startuml ContextDiagram
+title System Context diagram for Internet Banking System
+
+actor Customer
+actor BankEmployee
+boundary InternetBanking
+boundary EmailSystem
+boundary MainframeBanking
+
+BankEmployee --> InternetBanking : Uses
+InternetBanking --> EmailSystem : Sends email notifications
+InternetBanking --> MainframeBanking : Fetches account details
+Customer --> InternetBanking : Uses
+
+@enduml
+#+end_src
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-context-diagram.png" title="Context diagram" caption="Context diagram" pos="left" >}}
+
+
 *** Level 2: Container diagram
+
+Higher level view within a system itself. Shows software "containers" like web servers,
+standalone apps, or databases. (e.g., An API server, a database, and a client app in a
+single system)
+
+#+begin_src plantuml :file (org-sbe puml-dir (filename \"c4-container-diagram.png\"))
+@startuml ContainerDiagram
+title Container diagram for Internet Banking System
+
+actor Customer
+actor BankEmployee
+database "Database" as db
+cloud "Email System"
+[Web Application] as WebApp
+[API Application] as ApiApp
+
+Customer -- WebApp
+BankEmployee -- WebApp
+WebApp -- db
+WebApp --> EmailSystem
+db -- ApiApp
+
+@enduml
+#+end_src
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-container-diagram.png" title="Container diagram" caption="Container diagram" pos="left" >}}
+
 *** Level 3: Component diagram
+
+Shows internal parts of a container. Mostly used with complex software. (e.g.,
+Controllers, services, repositories inside of a web application)
+
+#+begin_src plantuml :file (org-sbe puml-dir (filename \"c4-component-diagram.png\"))
+@startuml ComponentDiagram
+title Component diagram for Web Application
+
+class AccountController
+class AccountService
+class AccountRepository
+interface "Logging Component" as Log
+
+AccountController --> AccountService : Uses
+AccountService ..> AccountRepository : Uses <<persist>>
+AccountService --> Log : Uses
+AccountRepository --> Log : Uses
+
+@enduml
+#+end_src
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-component-diagram.png" title="Component diagram" caption="Component diagram" pos="left" >}}
+
 *** Level 4: Code diagram
+
+A detailed view of the code level. For systems with little internal complexity, it can be
+skipped. (e.g., UML class diagrams)
+
+#+begin_src plantuml :file (org-sbe puml-dir (filename \"c4-code-diagram.png\"))
+@startuml CodeDiagram
+title UML class diagram for Service and Repository
+
+class Account {
+  +String holder
+  +Double balance
+}
+class AccountDao {
+  +void save(Account)
+  +Account get(Long id)
+}
+AccountDao o--> Account
+
+@enduml
+#+end_src
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-code-diagram.png" title="Code diagram" caption="Code diagram" pos="left" >}}
+
 * Structurizr DSL
 Structurizr is used for /describing/ and /visualizing/ architecture using the C4 model.
 ** Installation
@@ -85,6 +193,9 @@ Using ~Docker~:
 #+begin_src shell
 #describe here how to run the Docker container
 #+end_src
+
+* Ilograph
+Short
 * Resources
 *Tools*:
 
