@@ -1,5 +1,6 @@
 +++
 title = "ChatGPT"
+author = ["Cyneox"]
 draft = false
 +++
 
@@ -20,6 +21,17 @@ draft = false
 -   2023-04-03 ◦ [Plato](https://platoeducation.ai/#/notes/)
 -   2023-01-19 ◦ [GPT-3 Is the Best Journal I've Ever Used](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used)
 -   2023-01-18 ◦ [How AI will replace my job – INNOQ](https://www.innoq.com/en/blog/how-ai-will-replace-my-job/)
+
+
+### Security {#security}
+
+-   2023-08-21 ◦ [Don’t you (forget NLP): Prompt injection with control characters in ChatGPT - Dropbox](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm)
+
+
+### System Prompts {#system-prompts}
+
+-   2023-10-24 ◦ [GitHub - spdustin/ChatGPT-AutoExpert: 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding)](https://github.com/spdustin/ChatGPT-AutoExpert)
+-   2023-10-24 ◦ [GitHub - mustvlad/ChatGPT-System-Prompts: This repository contains a collection of the best system prompts for ChatGPT](https://github.com/mustvlad/ChatGPT-System-Prompts)
 
 
 ### Alternatives {#alternatives}

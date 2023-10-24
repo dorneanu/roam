@@ -1,5 +1,6 @@
 +++
 title = "Git"
+author = ["Cyneox"]
 tags = ["software"]
 draft = false
 +++
@@ -26,6 +27,26 @@ git config commit.gpgSign true
 
 
 ## Articles {#articles}
+
+-   2023-10-18 ◦ [Organizing multiple Git identities | Garrit's Notes](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
+
+    Use multiple identities. Sth like:
+    ```text
+      [user]
+        name = Garrit Franke
+        email = garrit@slashdev.space
+
+      [includeIf "gitdir:~/work/"]
+          path = ~/.gitconfig-work
+
+      [includeIf "gitdir:~/work/client2/"]
+          path = ~/.gitconfig-client2
+
+      [includeIf "gitdir:~/sources/"]
+          path = ~/.gitconfig-personal
+
+      # ...
+    ```
 
 -   2023-01-25 ◦ [git - How can I reconcile detached HEAD with master/origin? - Stack Overflow](https://stackoverflow.com/questions/5772192/how-can-i-reconcile-detached-head-with-master-origin)
     -   When "HEAD detached at origin/main"

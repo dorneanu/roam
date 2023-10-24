@@ -1,5 +1,6 @@
 +++
 title = "Blockchain"
+author = ["Cyneox"]
 draft = false
 +++
 
@@ -13,6 +14,11 @@ draft = false
 
 -   2022-10-04 ◦ [Smart Contract Bug Results in $31 Million Loss - Schneier on Security](https://www.schneier.com/blog/archives/2021/12/smart-contract-bug-results-in-31-million-loss.html)
 -   2022-10-04 ◦ [Really stupid “smart contract” bug let hackers steal $31 million in digital coin](https://arstechnica.com/information-technology/2021/12/hackers-drain-31-million-from-cryptocurrency-service-monox-finance/)
+
+
+## Videos {#videos}
+
+-   2023-10-23 ◦ [Demystifying Blockchain: Infrastructures, Smart Contracts &amp; Apps • Olivier Rikken • GOTO 2023](https://www.youtube.com/watch?v=JLyUJMU6T9o)
 
 
 ## Resources {#resources}

@@ -1,5 +1,6 @@
 +++
 title = "Ethereum"
+author = ["Cyneox"]
 draft = false
 +++
 
@@ -34,6 +35,7 @@ draft = false
 
 ### Security {#security}
 
+-   2023-10-23 ◦ [“EtherHiding” — Hiding Web2 Malicious Code in Web3 Smart Contracts](https://labs.guard.io/etherhiding-hiding-web2-malicious-code-in-web3-smart-contracts-65ea78efad16)
 -   2023-07-27 ◦ [Smart Contract Security Field Guide](https://scsfg.io/)
 -   2023-05-10 ◦ [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
 -   2023-05-10 ◦ [How to Secure Your Smart Contracts: 6 Solidity Vulnerabilities and how to avoid them (Part 1) | by Georgios Konstantopoulos | Loom Network | Medium](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-1-c33048d4d17d)

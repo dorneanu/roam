@@ -82,6 +82,11 @@ draft = false
 -   2022-12-22 ◦ [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
 
 
+### EDA {#eda}
+
+-   2023-10-23 ◦ [Build an Event-Driven Uptime Monitor in Go 🚀 - DEV Community](https://dev.to/encore/building-an-event-driven-uptime-monitor-in-go-3jdd)
+
+
 ### HTTP {#http}
 
 -   2022-10-25 ◦ [Go and Proxy Servers: Part 1 - HTTP Proxies - Eli Bendersky's website](https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/)

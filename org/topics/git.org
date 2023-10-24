@@ -23,6 +23,26 @@ git config commit.gpgSign true
 * Tipps
  - Undo last commit: =git reset --soft HEAD~1=
 * Articles
+- 2023-10-18 ◦ [[https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities][Organizing multiple Git identities | Garrit's Notes]]
+
+  Use multiple identities. Sth like:
+  #+begin_example
+  [user]
+    name = Garrit Franke
+    email = garrit@slashdev.space
+
+  [includeIf "gitdir:~/work/"]
+      path = ~/.gitconfig-work
+
+  [includeIf "gitdir:~/work/client2/"]
+      path = ~/.gitconfig-client2
+
+  [includeIf "gitdir:~/sources/"]
+      path = ~/.gitconfig-personal
+
+  # ...
+  #+end_example
+
 - 2023-01-25 ◦ [[https://stackoverflow.com/questions/5772192/how-can-i-reconcile-detached-head-with-master-origin][git - How can I reconcile detached HEAD with master/origin? - Stack Overflow]]
   - When "HEAD detached at origin/main"
 - 2022-08-30 ◦ [[https://dev.to/andreasaugustin/git-how-and-why-to-sign-commits-35dn][GIT - how and why to sign commits]]

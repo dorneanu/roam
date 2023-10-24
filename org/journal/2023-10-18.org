@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       98c9f8b2-c6c9-4e90-be99-741202f7201a
+:END:
+#+TITLE: 2023-10-18
+#+DATE: 2023-10-18
+#+FILETAGS: journal
+
+- 2023-10-18 ◦ [[https://music.ishkur.com/][Ishkur's Guide to Electronic Music]]
+
+  Interesting map!
+
+- 2023-10-18 ◦ [[https://developers.redhat.com/blog/2021/03/08/introduction-to-the-node-js-reference-architecture-part-1-overview][Overview: Node.js reference architecture | Red Hat Developer]]
+
+  Part 1: Overview of the Node.js reference architecture
+  Part 2: Logging in Node.js
+  Part 3: Code consistency in Node.js
+  Part 4: GraphQL in Node.js
+  Part 5: Building good containers
+  Part 6: Choosing web frameworks
+  Part 7: Code coverage
+  Part 8: Typescript
+  Part 9: Securing Node.js applications
+  Part 10: Accessibility
+  Part 11: Typical development workflows
+  Part 12: Npm development
+  Part 13: Problem Determination
+  Part 14: Testing
+  Part 15: Transaction Handling
+
+- 2023-10-18 ◦ [[https://medium.com/geekculture/load-balancer-vs-reverse-proxy-vs-api-gateway-e9ec5809180c][Load Balancer vs. Reverse Proxy vs. API Gateway | by Arslan Ahmad | Geek Culture | Medium]]

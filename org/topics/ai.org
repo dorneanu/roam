@@ -129,3 +129,7 @@
 * Articles
 - 2023-06-16 ◦ [[https://blog.pragmaticengineer.com/ai-coding-tools-explosion/][An explosion in software engineers using AI coding tools? - The Pragmatic Engineer]]
 - 2023-06-07 ◦ [[https://a16z.com/2023/06/06/ai-will-save-the-world/][Why AI Will Save the World | Andreessen Horowitz]]
+* Videos
+- 2023-10-23 ◦ [[https://www.youtube.com/watch?v=jkrNMKz9pWU&t=2040][A Hackers' Guide to Language Models]]
+
+  By co-founder of [[https//fast.ai][fast.ai]]

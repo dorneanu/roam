@@ -1,5 +1,6 @@
 +++
 title = "AI"
+author = ["Cyneox"]
 draft = false
 +++
 
@@ -141,3 +142,10 @@ draft = false
 
 -   2023-06-16 ◦ [An explosion in software engineers using AI coding tools? - The Pragmatic Engineer](https://blog.pragmaticengineer.com/ai-coding-tools-explosion/)
 -   2023-06-07 ◦ [Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/)
+
+
+## Videos {#videos}
+
+-   2023-10-23 ◦ [A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU&t=2040)
+
+    By co-founder of
