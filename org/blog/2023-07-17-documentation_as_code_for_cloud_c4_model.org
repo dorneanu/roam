@@ -6,6 +6,7 @@
 #+TITLE: Documentation as Code for Cloud - C4 Model
 #+CREATED: 2023-07-17
 #+HUGO_DRAFT: true
+#+macro: pumlref @@html:<center>👉 <a href="https://github.com/dorneanu/blog/blob/master/static/code/2023/documentation-as-code/plantuml//$1">Full PlantUML Code</a></center>@@
 
 * Config                                                    :noexport:
 This are some configuration variables for C4
@@ -107,7 +108,6 @@ Customer --> InternetBanking : Uses
 
 #+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-context-diagram.png" title="Context diagram" caption="Context diagram" pos="left" >}}
 
-
 *** Level 2: Container diagram
 
 Higher level view within a system itself. Shows software "containers" like web servers,
@@ -185,14 +185,116 @@ AccountDao o--> Account
 #+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-code-diagram.png" title="Code diagram" caption="Code diagram" pos="left" >}}
 
 * Structurizr DSL
-Structurizr is used for /describing/ and /visualizing/ architecture using the C4 model.
+[[https://structurizr.com/][Structurizr]] is used for /describing/ and /visualizing/ architecture using the C4 model. One of the main selling points is
+the fact you can define an entire (IT) architecture model using /text/. A typical model consists of:
+- relationships between abstractions
+- different *views*
+
+Let's have a look at a simple example:
+
+#+begin_src structurizr
+workspace {
+
+    model {
+        user = person "User"
+
+        webApp = softwareSystem "Web Application" {
+            tags "System"
+        }
+
+        database = softwareSystem "Database" {
+            tags "Database"
+        }
+
+        team = person "Development Team"
+
+        user -> webApp "Uses"
+    }
+
+    views {
+        container webApp {
+            include *
+            autoLayout
+        }
+
+        styles {
+            element "Database" {
+                color "#0000ff"
+            }
+        }
+    }
+}
+#+end_src
+
+What do we have?
+
+- **Entities**:
+  - "User": a person who uses the "Web Application".
+  - "Web Application": a software system tagged as "System".
+  - "Database": another software system tagged as "Database".
+  - "Development Team": a person representing the team that develops the "Web Application".
+- **Relationships**:
+  - The "User" uses the "Web Application".
+- **Container View**:
+   - Focused on "Web Application".
+   - Includes all elements in the model.
+   - Uses automatic layout.
+- **Styles**:
+  - The "Database" elements are colored in blue ("#0000ff").
+
+Before we move on, let's briefly discuss the installation steps.
+
 ** Installation
 
+I'd suggest you use the Docker image for a safe playground:
 
-Using ~Docker~:
 #+begin_src shell
-#describe here how to run the Docker container
+docker run -it --rm -p 1337:8080 -v ./:/usr/local/structurizr structurizr/lite
 #+end_src
+
+This will fetch the ~structurizr/lite~ Docker image from [[https://hub.docker.com/r/structurizr/lite][Dockerhub]], start the container, mount the current working
+directory to ~/usr/local/structurizr~ and setup a port forwarding from ~localhost:1337~ to ~<docker container>:8000~.
+
+#+html: {{< notice info >}}
+👉 I've setup a github repository with the code I'll be using in the next sections. Feel free to clone from
+https://github.com/dorneanu/ripmail.
+#+html: {{< /notice >}}
+
+** Short recap
+If you recall my [[/2023/07/18/documentation-as-code-for-cloud/][initial post]] the entire aim was to document a hypothetical self-destructing e-mail service.
+In my [[/2023/07/30/documentation-as-code-for-cloud-plantuml/#sequence-diagrams][2nd blog post]] (about PlantUML) I've generated following /sequence diagram/:
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/plantuml-seq-send-aws-logging.png" title="" caption="" pos="left" >}}
+{{{pumlref(plantuml-seq-send-aws-logging.puml)}}}
+
+In the following I'll try to implement exactly this workflow using C4 and Structurizr DSL.
+* ripmail
+** Views
+*** System Landscape
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-SystemLandscape.png" title="" caption="" pos="left" >}}
+
+*** Deployment Live
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-LiveDeployment.png" title="" caption="" pos="left" >}}
+
+*** Containers: All
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_All.png" title="" caption="" pos="left" >}}
+
+*** Containers: Notfication Service
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_NotificationService.png" title="" caption="" pos="left" >}}
+
+*** Containers: Mail Composition Service
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_MailCompositionService.png" title="" caption="" pos="left" >}}
+
+*** Containers: Authentication Service
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_AuthenticationService.png" title="" caption="" pos="left" >}}
+
+
 
 * Ilograph
 Short
