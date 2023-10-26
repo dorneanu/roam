@@ -26,6 +26,11 @@ git config commit.gpgSign true
 -   Undo last commit: `git reset --soft HEAD~1`
 
 
+## Tools {#tools}
+
+-   2023-10-26 ◦ [gittuf](https://gittuf.github.io/)
+
+
 ## Articles {#articles}
 
 -   2023-10-18 ◦ [Organizing multiple Git identities | Garrit's Notes](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)

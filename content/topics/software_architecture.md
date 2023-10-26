@@ -1,5 +1,6 @@
 +++
 title = "Software Architecture"
+author = ["Cyneox"]
 tags = ["architecture"]
 draft = false
 +++
@@ -46,7 +47,12 @@ draft = false
 -   2022-11-07 [Road Movie Architecture](https://speakerdeck.com/ufried/road-movie-architectures)
 
 
-## Articles {#articles}
+### Articles {#articles}
 
 -   2023-07-12 ◦ [How To Design Software Architecture For Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
 -   2023-03-27 ◦ [Architects, Anti-Patterns, and Organizational Fuckery – charity.wtf](https://charity.wtf/2023/03/09/architects-anti-patterns-and-organizational-fuckery/)
+
+
+### Talks {#talks}
+
+-   2023-10-25 ◦ [Software Architecture, Team Topologies &amp; Complexity Science • James Lewis • YOW! 2022](https://www.youtube.com/watch?v=QfM38-I_Ea8)
