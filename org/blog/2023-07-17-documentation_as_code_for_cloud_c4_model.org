@@ -269,6 +269,231 @@ In my [[/2023/07/30/documentation-as-code-for-cloud-plantuml/#sequence-diagrams]
 
 In the following I'll try to implement exactly this workflow using C4 and Structurizr DSL.
 * ripmail
+** Model
+Let's start with the basic construct:
+
+#+caption: Basic Structurizr construct
+#+begin_src
+workspace {  ❶
+  name "Self-Destructing Email Service"
+  description "The sofware architecture of the self-destructing email service"
+
+  model {    ❷
+    //  ...
+  }
+
+  views {    ➌
+    // System Landscape
+ ❺ systemlandscape "SystemLandscape" {
+      include *
+      # autoLayout
+    }
+
+    // Themes
+    // You can combine multiple themes!
+ ❻ theme https://static.structurizr.com/themes/amazon-web-services-2023.01.31/theme.json
+
+    styles { ❹
+      element "Person" {
+        color #ffffff
+        fontSize 22
+        shape Person
+      }
+      element "Sender" {
+        color #ffffff
+        background #8FB5FE
+        shape Person
+      }
+      element "Recipient" {
+        color #ffffff
+        background #E97451
+        shape Person
+      }
+    }
+  }
+}
+#+end_src
+
+So, what do we have?
+- ❶ ~workspace~
+  - Defines the workspace for a self-destructing email service.
+- ❷ ~model~
+  - This has to be implemented but basically it's a
+  - Placeholder section where you'd define the elements (software systems, people, containers) and their relations.
+- ➌ ~views~
+  - A *System Landscape view* ❺ that includes all elements defined in the model.
+  - The [[https://www.structurizr.com/help/themes][specified theme]] ❻ comes from an external JSON file, allowing broad customization of the look-and-feel.
+  - Three styles are defined for different types of elements labeled as /Person/, /Sender/, and /Recipient/. These
+    characters are all represented by the /Person/ shape.
+
+Let's focus more on the ~model~:
+
+#+begin_src
+
+...
+
+  model {
+ ❶ sender = person "Sender" "Sender creates self-destructing email" {
+      tags "Sender"
+    }
+ ❷ recipient = person "Recipient" "Recipient receives self-destructing email" {
+      tags "Recipient"
+    }
+
+ ➌ group "Self-Destructing Email Service" {
+      // Logging keeps track of several events
+ ❹   logging = softwaresystem "Logging System" "Logs several events related to mail generation" {
+        tags "Service API"
+      }
+ ❺   storage = softwaresystem "Storage System" "Stores encrypted mail content" {
+        tags "Database"
+        storageBackend = container "Storage Backend"
+      }
+
+ ❻   notification = softwaresystem "Notification System" "Sends notification to recipient to view email" {
+        tags "System"
+
+        // --- Notification Service
+        notificationService = group "Notification Service" {
+          notificationAPI = container "Notification API" {
+            tags "NotificationService" "Service API"
+          }
+        }
+      }
+
+   ...
+
+#+end_src
+
+We have following *elements* and *groups*:
+- ❶ /Sender/: Person who creates the self-destructing email.
+- ❷ /Recipient/: Person who receives the self-destructing email.
+- ➌ /Self-Destructing Email Service/: Represents the overall service/system being described.
+
+Additionally we have these *systems* inside the group:
+- ❹ /Logging System/: Keeps track of events related to mail creation.
+- ❺ /Storage System/: Stored encrypted email content. Includes a /Storage Backend/ container.
+- ❻ /Notification System/: Sends notification to recipient. Contains a /Notification Service/ group with a /Notification
+  API/ container.
+
+*** Main backend system
+
+Now the *backend system* responsible for the business logic:
+
+#+begin_src
+...
+
+      // Backend system responsible for the business logic
+❶    backend = softwaresystem "Backend System" "Contains logic how self-destructing mails should be created and dispatched to the recipient." {
+        tags "BackendSystem"
+❷       webapplication = container "Web Application"
+
+        // Services/
+        // --- Authentication Service
+➌      authService = group "Authentication Service" {
+❹        authAPI = container "Auth Service API" {
+            tags "AuthService" "Service API"
+          }
+❺        authDB = container "Auth Service Database" {
+            tags "AuthService" "Database"
+❻          authAPI -> this "Checks if credentials match"
+          }
+        }
+
+
+        // --- Email Composition Service
+❼      mailCompositionService = group "Email Composition Service" {
+❽        mailCompositionAPI = container "Email Composition API" {
+            tags "EmailCompositionService" "Service API"
+          }
+❾        mailDB = container "Email Composition Database" {
+            tags "Emailcompositionservice" "Database"
+❿          mailCompositionAPI -> this "Stores metadata of mails"
+          }
+
+        }
+
+        // --- Email Composition Service
+⓫      viewEmailService = group "View Email Service" {
+⓬          viewEmailFrontend = container "Email View Frontend" {
+            tags "ViewEmailService"
+          }
+        }
+
+...
+#+end_src
+
+The /Backend System/ is the core system, with business logic, for creating/dispatching self-destructing mails.
+of following *containers* and *services*:
+
+- ❷ /Web Application/: The *frontend* component within the backend system for /creating/ mails.
+- ➌ /Authentication Service/: Group handling user credential verification.
+  - ❹ /Auth Service API/: Provides interface for authentication service.
+  - ❺ /Auth Service Database/: Stores user credential data.
+  - ❻ /Auth Service API->Auth Service Database/: Indicates API checks credentials against this database.
+- ❼ /Email Composition Service/: Group handling creation/storage of emails.
+  - ❽ /Email Composition API/: Interface for the email composition service.
+  - ❾ /Email Composition Database/: Stores meta-information of emails.
+  - ❿ /Email Composition API -> Email Composition Database/: Indicates API stores mail metadata in this database.
+- ⓫ /View Email Service/: Group handling email display.
+  - ⓬ /Email View Frontend/: The *frontend* component withing the backend system for /viewing/ emails.
+
+*** Relationships
+
+And finally the *relationships* between different components:
+
+#+begin_src
+...
+        // Store mail data and encrypted content
+        mailCompositionAPI -> storage "Store mail metadata and content"
+
+        // Notify recipient
+        mailCompositionAPI -> notificationAPI "Notify recipient"
+        notificationAPI -> mailcompositionAPI "Recipient notified"
+
+        // Log events
+        notificationAPI -> logging "Log Email sent event"
+
+        // Sender creates new email
+        sender -> webapplication "Create new mail"
+        webapplication -> authAPI "Authenticate user"
+        webapplication -> mailCompositionAPI "Create mails"
+        notification -> recipient "Send out notification"
+        backend -> logging "Create events"
+
+        // Recipient receives new mail
+        recipient -> webapplication "View self-destructing mail"
+        webapplication -> viewEmailFrontend "View email"
+        viewEmailFrontend -> mailDB
+        viewEmailFrontend -> storage
+...
+#+end_src
+
+#+caption: Relationships between different components
+| Source               | Target               | Description                               |
+|----------------------+----------------------+-------------------------------------------|
+| Mail Composition API | Storage              | Store mail metadata and encrypted content |
+| Mail Composition API | Notification API     | Notify recipient                          |
+| Notification API     | Mail Composition API | Recipient notified                        |
+| Notification API     | Logging              | Log Email sent event                      |
+| Sender               | Web Application      | Create new mail                           |
+| Web Application      | Auth API             | Authenticate user                         |
+| Web Application      | Mail Composition API | Create mails                              |
+| Notification         | Recipient            | Send out notification                     |
+| Backend System       | Logging              | Create events                             |
+| Recipient            | Web Application      | View self-destructing mail                |
+| Web Application      | View Email Frontend  | View email                                |
+| View Email Frontend  | MailDB               | Fetches email data for visualization      |
+| View Email Frontend  | Storage              | Fetches email details for visualization   |
+*** Deployments
+
+Deployment components are required for the /deployment diagrams/. These illustrate how software systems are deployed onto
+infrastructure elements in an environment. They also enable you to visualize how containers within a system map onto the infrastructure.
+
+This kind of diagrams are very important as they provide important information regarding system runtime environment such
+as scaling, redundancy, network topology, and communication protocols. They are crucial to understanding the physical
+aspects and deployment context of a system.
+
 ** Views
 *** System Landscape
 
@@ -293,7 +518,6 @@ In the following I'll try to implement exactly this workflow using C4 and Struct
 *** Containers: Authentication Service
 
 #+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_AuthenticationService.png" title="" caption="" pos="left" >}}
-
 
 
 * Ilograph
