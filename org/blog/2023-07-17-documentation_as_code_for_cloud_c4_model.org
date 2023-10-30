@@ -6,6 +6,7 @@
 #+TITLE: Documentation as Code for Cloud - C4 Model
 #+CREATED: 2023-07-17
 #+HUGO_DRAFT: true
+#+HUGO_CUSTOM_FRONT_MATTER: :series '("Documentation as Code for Cloud")
 #+macro: pumlref @@html:<center>👉 <a href="https://github.com/dorneanu/blog/blob/master/static/code/2023/documentation-as-code/plantuml//$1">Full PlantUML Code</a></center>@@
 
 * Config                                                    :noexport:
@@ -470,7 +471,7 @@ And finally the *relationships* between different components:
 #+end_src
 
 #+caption: Relationships between different components
-| Source               | Target               | Description                               |
+| From                 | To                   | Description                               |
 |----------------------+----------------------+-------------------------------------------|
 | Mail Composition API | Storage              | Store mail metadata and encrypted content |
 | Mail Composition API | Notification API     | Notify recipient                          |
@@ -494,12 +495,342 @@ This kind of diagrams are very important as they provide important information r
 as scaling, redundancy, network topology, and communication protocols. They are crucial to understanding the physical
 aspects and deployment context of a system.
 
+#+begin_src structurizr
+workspace {
+
+  model {
+  //  ...
+  live = deploymentEnvironment "Live" { ❶
+    // AWS
+    deploymentNode "Amazon Web Services" { ❷
+        tags "Amazon Web Services - Cloud"
+
+          // Which region
+    ➌     deploymentNode "eu-central-1" {
+            tags "Amazon Web Services - Region"
+            ...
+          }
+    }
+  }
+  }
+
+  views {
+  // ...
+  }
+}
+#+end_src
+
+We're still defining the ~model~. Now we have defined a ~deploymentEnvironment~ /live/ ❶ which should be deployed into the AWS
+Cloud ❷, namely in ~eu-central-1~ ➌. In this region we'll have different /organizational units/ (OUs):
+
+- OU: Tech
+
+  This will host the *EKS cluster* as well as the *API Gateway* which serves as the
+  main entrypoint for API calls.
+
+- OU: Security
+
+  This is where *alert & monitoring* will take place. Also here relevant data to
+  the mail will be stored within *S3 buckets*. Finally we use *IAM* capabilities to
+  make sure authentication and authorization works properly.
+
+- OU: DevOps
+
+  The *CI/CD* build pipeline and *infrastructure provisioning* will take place here.
+  The software artefacts will be built here and deployed into the accounts
+  inside "OU: Tech".
+
+#+begin_src
+...
+
+       // Which region
+       deploymentNode "eu-central-1" {
+         tags "Amazon Web Services - Region"
+
+         // ------------------------------------------------
+         // Organizational Unit: DevOps
+         // ------------------------------------------------
+         deploymentNode "OU-DevOps" {...}
+
+         // ------------------------------------------------
+         // Organizational Unit: Tech
+         // ------------------------------------------------
+         ou_tech = deploymentNode "OU-Tech" {...}
+
+
+         // ------------------------------------------------
+         // Organizational Unit: Security
+         // ------------------------------------------------
+         deploymentNode "OU-Security" {...}
+       }
+
+...
+#+end_src
+
+**** OU: DevOps
+
+But one thing at a time:
+
+#+caption: Deployment components for the OU DevOps
+#+begin_src
+      // --------------------------------------------
+      // Organizational Unit: DevOps
+      // --------------------------------------------
+      deploymentNode "OU-DevOps" {
+❶      tags "Amazon Web Services - AWS Organizations Organizational Unit"
+
+❷        deploymentNode "acc-devops-prod" {
+➌          tags "Amazon Web Services - AWS Organizations Account"
+
+❹          vpc_management = deploymentNode "VPC (management)" {
+❺            tags "Amazon Web Services - VPC Virtual private cloud VPC"
+
+❻            gitlab_server = infrastructureNode "Gitlab Server" {
+❼              tags "Amazon Web Services - EC2"
+            }
+
+          }
+        }
+      }
+#+end_src
+
+The DevOps OU deployment components are:
+- Organizational Unit (*OU-DevOps*): Represents a unit in the organization.
+  - ❶ Tagged as an Amazon Web Services (AWS) Organizations Organizational Unit.
+- ❷ /acc-devops-prod/: Represents an account within the *OU-DevOps* unit.
+  - ➌ Tagged as an AWS Organizations Account.
+- ❹ VPC (/vpc_management/): A Virtual Private Cloud (VPC) within the /acc-devops-prod/ account.
+  - ❺ Tagged as an AWS VPC Virtual private cloud VPC.
+- ❻ Gitlab Server (/gitlab_server/): Infrastructure node within the VPC.
+  - ❼ Tagged as AWS EC2.
+
+**** OU: Security
+
+#+begin_src
+     // ---------------------------------------------
+     // Organizational Unit: Security
+     // ---------------------------------------------
+❶    deploymentNode "OU-Security" {
+❷      tags "Amazon Web Services - AWS Organizations Organizational Unit"
+
+➌      deploymentNode "acc-security-logging" {
+❹        tags "Amazon Web Services - AWS Organizations Account"
+
+❺        s3_logging = infrastructureNode "S3 Bucket" {
+❻          tags "Amazon Web Services - Simple Storage Service"
+         }
+
+❼        infrastructureNode "CloudWatch Logs" {
+❽          tags "Amazon Web Services - CloudWatch Logs"
+         }
+       }
+
+❾      deploymentNode "acc-security-monitoring" {
+❿        tags "Amazon Web Services - AWS Organizations Account"
+
+⓫        infrastructureNode "CloudWatch" {
+⓬          tags "Amazon Web Services - CloudWatch Alarm"
+         }
+       }
+     }
+
+#+end_src
+
+The Security OU deployment components are:
+
+- Organizational Unit (*OU-Security*): Represents a security unit in the organization.
+  - ❶ Tagged as an AWS Organizations Organizational Unit.
+- ➌ /acc-security-logging/: Represents an account within the *OU-Security* unit for logging purposes.
+  - ❹ Tagged as an AWS Organizations Account.
+  - ❺ Contains an "S3 Bucket" infrastructure node.
+    - ❻ Tagged as AWS Simple Storage Service.
+  - ❼ Contains a "CloudWatch Logs" infrastructure node.
+    - ❽ Tagged as AWS CloudWatch Logs.
+- ❾ /acc-security-monitoring/: Represents another account within the *OU-Security* unit for monitoring purposes.
+  - ❿ Tagged as an AWS Organizations Account.
+  - ⓫ Contains a "CloudWatch" infrastructure node.
+    - ⓬ Tagged as AWS CloudWatch Alarm.
+**** OU: TECH
+
+Now the most complicated one:
+
+#+begin_src
+     // --------------------------------------------
+     // Organizational Unit: Tech
+     // --------------------------------------------
+❶    ou_tech = deploymentNode "OU-Tech" {
+       tags "Amazon Web Services - AWS Organizations Organizational Unit"
+
+❷      deploymentNode "acc-tech-prod" {
+         tags "Amazon Web Services - AWS Organizations Account"
+
+         // EKS control plane
+➌        eks_vpc = deploymentNode "EKS VPC" {
+           tags = "Amazon Web Services - VPC Virtual private cloud VPC"
+
+❹          eks_control_plane = infrastructureNode "EKS Control Plane" {
+             tags = "Amazon Web Services - EKS Cloud"
+           }
+         }
+
+         // ECR
+❺        ecr = infrastructureNode "ECR" {
+           tags "Amazon Web Services - Elastic Container Registry"
+           description "Private ECR registry"
+         }
+
+         // EKS cluster
+❻        workload_vpc = deploymentNode "Workload VPC" {...}
+
+
+
+         // DynamoDB instances
+❼        dbs = group "Databases" {...}
+
+         // S3 (Storage System)
+❽        s3_storage = infrastructureNode "S3 Bucket (storage)" {
+           tags "Amazon Web Services - Simple Storage Service"
+         }
+
+       }
+     }
+
+#+end_src
+This will result in following components hierarchy:
+
+- ❶ Organizational Unit (OU-Tech): Represents a technology unit within the organization.
+- ❷ /acc-tech-prod/: Represents a production account within the "*OU-Tech*" unit.
+  - *EKS control plane* deployed within an EKS VPC.
+    - ➌ /EKS VPC/: VPC where the EKS control plane is deployed,
+    - ❹ /EKS Control Plane/: infrastructure node within EKS VPC.
+  - ❺ /ECR/: Infrastructure node for the Elastic Container Registry with private ECR registry.
+  - ❻ /Workload VPC/: Deployment node holding different workloads.
+  - ❼ Databases group holds /DynamoDB/ instances.
+  - ❽ /S3 Bucket (storage)/: Infrastructure node for the storage system.
+
+Let's have a look what's inside the /workload VPC/:
+
+#+begin_src
+  // EKS cluster
+  workload_vpc = deploymentNode "Workload VPC" {
+    tags = "Amazon Web Services - VPC Virtual private cloud VPC"
+
+    // AZ 1
+❶   deploymentNode "Availability Zone 1" {
+      tags = "Amazon Web Services - Region"
+
+❷     deploymentNode "Subnet 1" {
+        tags = "Amazon Web Services - VPC VPN Gateway"
+
+➌       eks_node_group1 = deploymentNode "EKS Managed Node Group" {
+          tags = "Amazon Web Services - EKS Cloud"
+
+❹         eks_node_group1_pod1 = deploymentNode "Pod 1" {
+            tags = "Kubernetes - pod"
+❺           pod1_authAPI = containerInstance authAPI
+          }
+
+❻         eks_node_group1_pod2 = deploymentNode "Pod 2" {
+            tags = "Kubernetes - pod"
+❼           pod2_mailCompositionAPI = containerInstance mailcompositionAPI
+❽           pod2_notificationAPI = containerInstance notificationAPI
+
+          }
+
+        }
+      }
+
+    }
+
+    // AZ 2
+❾   deploymentNode "Availability Zone 2" {
+      tags = "Amazon Web Services - Region"
+
+❿     deploymentNode "Subnet 1" {
+        tags = "Amazon Web Services - VPC VPN Gateway"
+
+⓫       eks_node_group2 = infrastructureNode "EKS Managed Node Group" {
+          tags = "Amazon Web Services - EKS Cloud"
+        }
+
+      }
+    }
+  }
+#+end_src
+
+The workload VPC consists of 2 availability zones:
+
+- ❶ *Availability Zone 1*: A separate deployment node categorized as an AWS Region.
+  - ❷ /Subnet 1/: Deployment node within Availability Zone 1.
+  - ➌ /EKS Managed Node Group/: Node group for managing EKS resources.
+  - ❹ /Pod 1/: Deployment node within the /EKS Managed Node Group/.
+    - ❺ Houses instance of /authAPI/ container.
+  - ❻ /Pod 2/: Another deployment node within the /EKS Managed Node Group/.
+    - ❼ Houses instance of /mailcompositionAPI/ container.
+    - ❽ Houses instance of /notificationAPI/ container.
+- ❾ /Availability Zone 2/: Another separate deployment node categorized as an AWS Region.
+  - ❿ /Subnet 1/: Deployment node within Availability Zone 2.
+  - ⓫ /EKS Managed Node Group/: Infrastructure node for managing EKS resources.
+
+
+Let's also have a look how we can use ~containerInstance~ for the databases:
+
+#+begin_src
+	 // DynamoDB instances
+❶	 dbs = group "Databases" {
+	   deploymentNode "DB VPC" {
+		 tags = "Amazon Web Services - VPC Virtual private cloud VPC"
+
+❷		 deploymentNode "DynamoDB (Auth)" {
+		   tags "Amazon Web Services - DynamoDB"
+
+➌		   liveUserDB = containerInstance authDB
+		 }
+
+❹		 deploymentNode "DynamoDB (Mails)" {
+		   tags "Amazon Web Services - DynamoDB"
+
+❺		   liveMailDB = containerInstance mailDB
+		 }
+	   }
+	 }
+
+#+end_src
+
+This will create:
+- ❶ /Databases/: A group of databases within a DB VPC deployment node.
+- ❷ /DynamoDB (Auth)/: DynamoDB instance for authentication.
+  - ➌ Contains a live instance of /authDB/.
+- ❹ /DynamoDB (Mails)/: DynamoDB instance for mail metadata.
+  - ❺ Contains a live instance of /mailDB/.
+
+
 ** Views
+Views in Structurizr are used to create *visual* diagrams of your software architecture model. They provide a way to
+communicate the different aspects of your system to *various stakeholders*. Views can be thought of as 'camera angles' on
+your architecture model, each designed to present a certain perspective of the system.
+
 *** System Landscape
+
+#+begin_src
+    // System Landscape
+    systemlandscape "SystemLandscape" {
+      include *
+    }
+#+end_src
 
 #+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-SystemLandscape.png" title="" caption="" pos="left" >}}
 
 *** Deployment Live
+
+#+begin_src
+    // Deployment live
+    deployment backend live "LiveDeployment"  {
+      include *
+      description "An example live deployment for the self-destructing email service"
+    }
+
+#+end_src
 
 #+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-LiveDeployment.png" title="" caption="" pos="left" >}}
 
