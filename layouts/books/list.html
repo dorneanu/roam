@@ -11,7 +11,18 @@
 			{{ $curDate := .Date.Format (.Site.Params.dateFormat | default "2006-02" ) }}
 			<span class="date">{{ printf "%s " (slicestr $curDate 0 7 ) }}</span>
 			<a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
-		</li>
+			{{ if isset .Params "tags" }}
+			<div class="tags fr tr dn db-ns">
+				{{ range .Params.tags }}
+					{{ $omit_tags := slice "book" "todo" "TODO" "german"}}
+					{{ if not (in $omit_tags .) }}
+					<a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}' class="link dim black f6 pl1 bn">#{{ .
+						}}</a>
+					{{ end }}
+				{{ end }}
+			</div>
+			{{ end }}
+			</li>
 		{{- end -}}
 	</ul>
 	{{ end }}

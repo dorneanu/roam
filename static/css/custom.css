@@ -573,11 +573,17 @@ pre .language-yaml::before {
 }
 
 /* Add background color to links */
-.post-content a {
+.post-content a.title {
   background-color: lightcyan;
 }
 
 .post-content strong,
 .post-content b {
   background-color: bisque;
+}
+
+/* Don add bordert to tags list in the list view */
+.post-content div.tags a,
+.list-pages div.tags a {
+	border-bottom: none;
 }
