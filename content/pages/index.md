@@ -1,5 +1,6 @@
 +++
 title = "Welcome to brainfck.org!"
+author = ["Victor Dorneanu"]
 draft = false
 type = "index"
 +++
@@ -20,6 +21,7 @@ Although I still haven't figured out how to perfectly structure my notes, quotes
 -   📖 [Books](/books)
     -   I like to read a lot and about different [topics](/topics)
     -   I like to collect quotes and thoughts from materials I read
+    -   Also check my book [TODO list](/t/books/todo)
 -   🏭 [Productivity](/tags/productivity)
     -   I'm obsessed with optimizing workflows
     -   Reading and making notes seems to be a huge science

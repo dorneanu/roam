@@ -4,6 +4,8 @@
 :END:
 #+title: Welcome to brainfck.org!
 #+hugo_custom_front_matter: :type index
+#+hugo_base_dir: /cs/priv/repos/roam
+#+hugo_section: pages
 
 
 Welcome, bine ai venit, willkommen! My name is [[https://dornea.nu][Victor Dorneanu]] and this is the place where I store my so called *external brain*. This project is aimed at collecting almost everything I know or try to remember. What you see right now is basically my *personal knowledge base* built with [[id:5329cb10-9f3e-4311-bc69-542775991244][org-roam]].
@@ -22,6 +24,7 @@ Although I still haven't figured out how to perfectly structure my notes, quotes
 - 📖 [[/books][Books]]
   - I like to read a lot and about different [[/topics][topics]]
   - I like to collect quotes and thoughts from materials I read
+  - Also check my book [[/t/books/todo][TODO list]]
 - 🏭 [[/tags/productivity][Productivity]]
   - I'm obsessed with optimizing workflows
   - Reading and making notes seems to be a huge science

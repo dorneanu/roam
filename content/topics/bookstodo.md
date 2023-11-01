@@ -1,7 +1,11 @@
 +++
 title = "Books/TODO"
+author = ["Cyneox"]
 draft = false
 +++
+
+This is my personal book TODO list, along with the year in which I added the book to the list.
+
 
 ## Unsorted {#unsorted}
 
@@ -77,7 +81,6 @@ draft = false
 -   2023-01-02 ◦ [Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling by Matthew Dicks](https://www.goodreads.com/en/book/show/37786022-storyworthy)
 -   2023-01-02 ◦ [The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia](https://www.goodreads.com/en/book/show/56913172-the-minimalist-entrepreneur)
 -   2023-01-10 ◦ [The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture by Gregor Hohpe](https://www.goodreads.com/en/book/show/49828197-the-software-architect-elevator)
--   2023-01-23 ◦ [The Breathing Cure: Exercises to Develop New Breathing Habits for a Healthier, Happier and Longer Life by Patrick McKeown](https://www.goodreads.com/book/show/57213922-the-breathing-cure)
 -   2023-01-23 ◦ [Anxiety Free: Stop Worrying and Quieten Your Mind - Featuring the Buteyko Breathing Method and Mindfulness by Patrick McKeown](https://www.goodreads.com/book/show/7815904-anxiety-free)
 
 
@@ -87,3 +90,5 @@ draft = false
 -   2023-01-25 ◦ [The Ministry for the Future by Kim Stanley Robinson](https://www.goodreads.com/en/book/show/50998056-the-ministry-for-the-future)
 -   2023-02-02 ◦ [Words Can Change Your Brain: 12 Conversation Strategies to Build Trust, Resolve Conflict, and Increase Intimacy by Andrew B. Newberg | Goodreads](https://www.goodreads.com/book/show/13542827-words-can-change-your-brain)
 -   2023-02-02 ◦ [The Righteous Mind: Why Good People Are Divided by Politics and Religion by Jonathan Haidt | Goodreads](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
+-   2023-10-31 ◦ [Jaws: The Story of a Hidden Epidemic by Sandra Kahn | Goodreads](https://www.goodreads.com/en/book/show/35804366)
+-   Amplifying Our Humanity Through AI]]

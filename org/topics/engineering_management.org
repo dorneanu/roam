@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       70fa9eb7-dfad-4839-af31-d434ecc7db02
+:END:
+#+title: Engineering Management
+
+* Articles
+- 2023-10-31 ◦ [[https://juraj.hashnode.dev/good-engineers-train-their-skills-great-engineers-train-their-mindset][Good engineers train their skills - great engineers improve their mindset]]
