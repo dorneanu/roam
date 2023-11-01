@@ -3,7 +3,7 @@
 :END:
 #+SETUPFILE: blog.org
 #+filetags: :aws:c4:architecture:documentation:
-#+TITLE: Documentation as Code for Cloud - C4 Model
+#+TITLE: Documentation as Code for Cloud - C4 Model & Structurizr
 #+CREATED: 2023-07-17
 #+HUGO_DRAFT: true
 #+HUGO_CUSTOM_FRONT_MATTER: :series '("Documentation as Code for Cloud")
@@ -30,13 +30,16 @@ This are some configuration variables for C4
 #+end_src
 
 * Introduction
-In the last post, I've used PlantUML to draw things like *groups*, *accounts*, and *clusters*. However, I didn't focus on how
+In the [[/2023/07/30/documentation-as-code-for-cloud-plantuml/][last post]], I've used {{{zk_topic(plantuml,PlantUML)}}} to draw things like *groups*, *accounts*, and *clusters*. However, I didn't focus on how
 different parts inside the business layer interact (usually components related to the main application/system relevant
 for your business). Now, we'll use a DSL
 #+begin_sidenote
 Domain-Specific Language specific for this use case
 #+end_sidenote
 to show these interactions between /components/, /services/, and /systems/. I'll use the *C4 model* to show the same system in *different ways* based on who we're showing it to. It allows us to adjust how much detail we include.
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-LiveDeployment.png" title="To learn how this diagram was created, continue reading 👇" caption="Deployment View" pos="left" >}}
+
 
 * C4 Model
 :PROPERTIES:
@@ -85,7 +88,7 @@ abstractions are available:
 ** Diagram types
 *** Level 1: Context diagram
 
-Shows how your system fits into the larger system environment (system landscape). It basically shows *interactions*
+Shows how your system fits into the larger system environment ([[*System Landscape][system landscape]]). It basically shows *interactions*
 between users and systems:
 - e.g. A payment system interacting with an user and a banking system
 
@@ -111,7 +114,7 @@ Customer --> InternetBanking : Uses
 
 *** Level 2: Container diagram
 
-Higher level view within a system itself. Shows software "containers" like web servers,
+Higher level view within a system itself. Shows software "[[*Containers][containers]]" like web servers,
 standalone apps, or databases. (e.g., An API server, a database, and a client app in a
 single system)
 
@@ -193,6 +196,7 @@ the fact you can define an entire (IT) architecture model using /text/. A typica
 
 Let's have a look at a simple example:
 
+#+caption: Structurizr DSL: Basic structure
 #+begin_src structurizr
 workspace {
 
@@ -247,7 +251,7 @@ Before we move on, let's briefly discuss the installation steps.
 
 ** Installation
 
-I'd suggest you use the Docker image for a safe playground:
+I'd suggest you use the [[https://hub.docker.com/r/structurizr/lite][Docker image]] for a safe playground:
 
 #+begin_src shell
 docker run -it --rm -p 1337:8080 -v ./:/usr/local/structurizr structurizr/lite
@@ -270,6 +274,7 @@ In my [[/2023/07/30/documentation-as-code-for-cloud-plantuml/#sequence-diagrams]
 
 In the following I'll try to implement exactly this workflow using C4 and Structurizr DSL.
 * ripmail
+👉 Checkout the code at https://github.com/dorneanu/ripmail.
 ** Model
 Let's start with the basic construct:
 
@@ -322,13 +327,14 @@ So, what do we have?
   - This has to be implemented but basically it's a
   - Placeholder section where you'd define the elements (software systems, people, containers) and their relations.
 - ➌ ~views~
-  - A *System Landscape view* ❺ that includes all elements defined in the model.
+  - A *[[*System Landscape][System Landscape view]]* ❺ that includes all elements defined in the model.
   - The [[https://www.structurizr.com/help/themes][specified theme]] ❻ comes from an external JSON file, allowing broad customization of the look-and-feel.
   - Three styles are defined for different types of elements labeled as /Person/, /Sender/, and /Recipient/. These
     characters are all represented by the /Person/ shape.
 
 Let's focus more on the ~model~:
 
+#+caption: Adding actors and different systems
 #+begin_src
 
 ...
@@ -374,13 +380,14 @@ We have following *elements* and *groups*:
 Additionally we have these *systems* inside the group:
 - ❹ /Logging System/: Keeps track of events related to mail creation.
 - ❺ /Storage System/: Stored encrypted email content. Includes a /Storage Backend/ container.
-- ❻ /Notification System/: Sends notification to recipient. Contains a /Notification Service/ group with a /Notification
+- ❻ /Notification System/: Sends notification to recipient. Contains a [[*Notification Service][Notification Service]] group with a /Notification
   API/ container.
 
 *** Main backend system
 
 Now the *backend system* responsible for the business logic:
 
+#+caption: Main backend system and ther underlying services
 #+begin_src
 ...
 
@@ -443,6 +450,7 @@ of following *containers* and *services*:
 
 And finally the *relationships* between different components:
 
+#+caption: Relationships between different components
 #+begin_src
 ...
         // Store mail data and encrypted content
@@ -470,7 +478,6 @@ And finally the *relationships* between different components:
 ...
 #+end_src
 
-#+caption: Relationships between different components
 | From                 | To                   | Description                               |
 |----------------------+----------------------+-------------------------------------------|
 | Mail Composition API | Storage              | Store mail metadata and encrypted content |
@@ -488,13 +495,14 @@ And finally the *relationships* between different components:
 | View Email Frontend  | Storage              | Fetches email details for visualization   |
 *** Deployments
 
-Deployment components are required for the /deployment diagrams/. These illustrate how software systems are deployed onto
+Deployment components are required for the [[*Deployment Live][deployment diagrams]]. These illustrate how software systems are deployed onto
 infrastructure elements in an environment. They also enable you to visualize how containers within a system map onto the infrastructure.
 
 This kind of diagrams are very important as they provide important information regarding system runtime environment such
 as scaling, redundancy, network topology, and communication protocols. They are crucial to understanding the physical
 aspects and deployment context of a system.
 
+#+caption: The live deployment environment
 #+begin_src structurizr
 workspace {
 
@@ -540,6 +548,7 @@ Cloud ❷, namely in ~eu-central-1~ ➌. In this region we'll have different /or
   The software artefacts will be built here and deployed into the accounts
   inside "OU: Tech".
 
+#+caption: Outline main organizational units (OUs)
 #+begin_src
 ...
 
@@ -606,6 +615,7 @@ The DevOps OU deployment components are:
 
 **** OU: Security
 
+#+caption: Deployment components for the OU Security
 #+begin_src
      // ---------------------------------------------
      // Organizational Unit: Security
@@ -654,6 +664,7 @@ The Security OU deployment components are:
 
 Now the most complicated one:
 
+#+caption: Deployment components for the OU Tech
 #+begin_src
      // --------------------------------------------
      // Organizational Unit: Tech
@@ -710,6 +721,7 @@ This will result in following components hierarchy:
 
 Let's have a look what's inside the /workload VPC/:
 
+#+caption: Components of the workload VPC
 #+begin_src
   // EKS cluster
   workload_vpc = deploymentNode "Workload VPC" {
@@ -775,6 +787,7 @@ The workload VPC consists of 2 availability zones:
 
 Let's also have a look how we can use ~containerInstance~ for the databases:
 
+#+caption: Components of the DB VPC
 #+begin_src
 	 // DynamoDB instances
 ❶	 dbs = group "Databases" {
@@ -812,6 +825,11 @@ your architecture model, each designed to present a certain perspective of the s
 
 *** System Landscape
 
+The /System Landscape/ view in Structurizr is the *highest* level view of a software system's architecture. It shows all
+users, software systems and external systems or services in scope. It informs about the overall system context and
+interaction among systems and users.
+
+#+caption: The System Landscape where every component (*) is included in the diagram
 #+begin_src
     // System Landscape
     systemlandscape "SystemLandscape" {
@@ -819,10 +837,15 @@ your architecture model, each designed to present a certain perspective of the s
     }
 #+end_src
 
-#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-SystemLandscape.png" title="" caption="" pos="left" >}}
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-SystemLandscape.png" title="System Landscape" caption="System Landscape" pos="left" >}}
 
 *** Deployment Live
 
+The *Deployment View* in Structurizr is a type of view that visualizes the *mapping of software building blocks* (like
+Containers or Components) to *infrastructure elements*, including servers, containers or cloud services. It gives a clear
+indication of how and where the software system runs in different environments (like development, staging, production).
+
+#+caption: The deployment view for live
 #+begin_src
     // Deployment live
     deployment backend live "LiveDeployment"  {
@@ -832,30 +855,91 @@ your architecture model, each designed to present a certain perspective of the s
 
 #+end_src
 
-#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-LiveDeployment.png" title="" caption="" pos="left" >}}
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-LiveDeployment.png" title="Deployment View" caption="Deployment View" pos="left" >}}
 
-*** Containers: All
+*** Containers
 
-#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_All.png" title="" caption="" pos="left" >}}
+In Structurizr, a /Container/ represents an *executable unit* (application, data store, microservice, etc.) that
+encapsulates a portion of your software system. Containers run inside software systems and have interfaces that let them
+interact with other containers and/or software systems. The Container view shows the internal layout of a software
+system, specifying contained components and their interactions. This level of abstraction is valuable for developers and
+others dealing with system implementation and operation.
 
-*** Containers: Notfication Service
+#+caption: The container view for all resources
+#+begin_src
+    // Backend
+    container backend "Containers_All" {
+      include *
+      # autolayout
+    }
+#+end_src
 
-#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_NotificationService.png" title="" caption="" pos="left" >}}
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_All.png" title="Containers (global)" caption="Containers (global)" pos="left" >}}
 
-*** Containers: Mail Composition Service
+And now for specific services:
 
-#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_MailCompositionService.png" title="" caption="" pos="left" >}}
+**** Notification Service
 
-*** Containers: Authentication Service
+#+caption: Container view for the notification service
+#+begin_src
+    container backend "Containers_NotificationService" {
+      include ->notificationService->
+      autolayout
+    }
+#+end_src
 
-#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_AuthenticationService.png" title="" caption="" pos="left" >}}
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_NotificationService.png" title="Container view for the notification service" caption="Container view for the Notification Service" pos="left" >}}
+
+**** Mail Composition Service
+#+caption: Container view for the email composition service
+#+begin_src
+    container backend "Containers_MailCompositionService" {
+      include ->mailCompositionService->
+      autolayout
+    }
+#+end_src
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_MailCompositionService.png" title="Container view for the Mail Composition Service" caption="Container view for the Mail Composition Service" pos="left" >}}
+
+**** Authentication Service
+
+#+caption: Container view for the authentication service
+#+begin_src
+    container backend "Containers_AuthenticationService" {
+      include ->authService->
+      autolayout
+    }
+#+end_src
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-Containers_AuthenticationService.png" title="Container view for the Authentication Service" caption="Container view for the Authentication Service" pos="left" >}}
+
+* Extra features
+With the [[https://www.structurizr.com/dsl][online version of Structurizr]] you get access to diffeerent exporting features:
+- *PlantUML*: Export your model as PlantUML diagrams.
+- *C4-PlantUML*: Export your model as [[https://github.com/plantuml-stdlib/C4-PlantUML][C4-PlantUML diagrams]].
+- *Mermaid*: Generate Mermaid diagrams from your model.
+- *DOT*: Export containers and components as DOT graph description language.
+- *ilograph*: Export the model and the views for [[https://www.ilograph.com/][ilograph.com]]
+
+Among these I've found *ilograph* to be the most interactive one.
 
 
-* Ilograph
-Short
+** Ilograph
 
-👉 Check out [[https://www.ilograph.com/architecture-center/index.html][other architecture diagrams]] made with ilograph.
+Once you've exported your /workspace/ in ilograph format, follow these steps:
+- [[https://app.ilograph.com/?createNew=1][Create a new ilograph diagram]]
+- Paste in the exported ilograph code
+
+And this is what you get:
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-ilograph.png" title="ilograph with code" caption="ilograph with code" pos="left" >}}
+
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-ilograph.png" title="ilograph without code" caption="ilograph without code" pos="left" >}}
+
+- 👉 Here's the [[https://github.com/dorneanu/ripmail/tree/main/docs/ilograph][ilograph code]].
+- 👉 Check out [[https://www.ilograph.com/architecture-center/index.html][other architecture diagrams]] made with ilograph.
+
 * Resources
+The resources I've consumed for generating the content and diagrams for this blog post:
+
 *Tools*:
 
 - 2023-10-05 ◦ [[https://icepanel.io/blog/2022-10-03-c4-model-for-system-architecture-design?utm_source=dev_to&utm_medium=post&utm_campaign=should_you_use_c4][IcePanel.io]]
@@ -891,11 +975,13 @@ Short
   ;; set-fill-column
   (setq-local fill-column 90)
 
-  (add-to-list 'org-hugo-special-block-type-properties '("sidenote" . (:trim-pre t :trim-post t)))
+  (add-to-list 'org-hugo-special-block-type-properties '(sidenote . (:trim-pre t :trim-post t)))
 
   )
 #+end_src
 
+* Outlook
+In the next post I'll deep-dive into the [[https://d2lang.com/][D2]] language which also has a huge set of features. Stay tuned.
 # Local Variables:
 # eval: (esf/execute-startup-block)
 # End:
