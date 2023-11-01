@@ -2,7 +2,7 @@
 :ID:       f5bb01d5-9788-4b73-b65d-738adacf4502
 :END:
 #+title: Surely, You're Joking, Mr. Feynman
-#+filetags: book
+#+filetags: :science:biography:book:
 #+date: 2023-10-08
 
 * Resources

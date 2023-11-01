@@ -1,7 +1,8 @@
 +++
 title = "Exercised"
+author = ["Cyneox"]
 date = 2023-04-10
-tags = ["todo", "book"]
+tags = ["anthropology", "science", "health", "todo", "book"]
 draft = false
 +++
 
@@ -70,9 +71,9 @@ Why Something We Never Evolved to Do Is Healthy and Rewarding
 Link between sitting and inflammation:
 
 > No one is claiming that sitting itself caused these Danish guys to gain weight:
-> it was the combination of physical inactivity plus excess calories that caused
+> it was the combination of **physical inactivity** plus excess calories that caused
 > them to stockpile excess organ fat, which in turn lit the smoldering fire of
-> chronic inflammation. In addition, these volunteers added mostly organ fat,
+> chronic inflammation. In **addition**, these volunteers added mostly organ fat,
 > which suggests they were stressed, and there are plenty of physically inactive
 > people who are not overweight but suffer from inflammation. So what else about
 > **sitting** might promote **chronic inflammation**?
@@ -80,7 +81,7 @@ Link between sitting and inflammation:
 
 ### 78 {#78}
 
-> A second way lengthy periods of sitting may incite widespread, low-grade
+> A second way _lengthy_ periods of sitting may incite widespread, low-grade
 > inflammation is by slowing the rate we take up fats and sugars from the
 > bloodstream. When was the last time you had a meal? If it was within the last
 > four or so hours, you are in a **postprandial state**, which means your body is
@@ -412,9 +413,9 @@ About ATP and ADP:
 
 No consens **how** we should train and for how **long:**
 
-> Expert consensus is that we need 150 minutes of exercise a week, but we also
-> read that just a few minutes of high-intensity exercise a day is enough to make
-> us fit. Some fitness professionals recommend free weights, others prescribe
+> Expert consensus is that **we need 150 minutes of exercise a week**, but we also
+> read that just **a few minutes of high-intensity exercise a day is enough to make
+> us fit**. Some fitness professionals recommend free weights, others prescribe
 > weight machines, yet others reproach us for not doing enough cardio. While some
 > authorities urge us to jog, others warn that running will ruin our knees and
 > promote arthritis. One week we read how too much exercise may damage the heart
@@ -452,18 +453,18 @@ On triathlons and **obsession** about this sport:
 
 ### 197 {#197}
 
-> A veritable who’s who of medical organizations agree that adults should get at
-> least 30 minutes of “moderate to vigorous” aerobic exercise at least five days a
-> week for a minimum of 150 minutes per week.
+> A veritable who’s who of _medical organizations agree_ that adults should get **at
+> least 30 minutes** of “ **moderate to vigorous** ” aerobic exercise **at least five days a
+> week** for a **minimum of 150 minutes per week**.
 
 
 ### 197 {#197}
 
 Ten thousand steps:
 
-> In the mid-1960s, a Japanese company, Yamasa Tokei, invented a simple,
-> inexpensive pedometer that measures how many steps you take. The company decided
-> to call the gadget Manpo-kei, which means “ten-thousand-step meter,” because it
+> In the mid-1960s, a **Japanese company, Yamasa Tokei**, invented a simple,
+> inexpensive **pedometer** that measures how many steps you take. The company decided
+> to call the gadget **Manpo-kei**, which means “ **ten-thousand-step meter** ” because it
 > sounded auspicious and catchy. And it was. The pedometer sold like hotcakes, and
 > ten thousand steps has since been adopted worldwide as a benchmark for minimal
 > daily physical activity.
@@ -478,7 +479,7 @@ Ten thousand steps:
 > humans from 480 different cultures adopt when they sit without a chair.
 
 
-## Notes {#notes}
+## <span class="org-todo todo TODO">TODO</span> Notes {#notes}
 
 
 ### 21 {#21}
@@ -672,7 +673,14 @@ Donald Trump needs little introduction. Born in 1946 to wealthy parents, he was 
 
 ### 229 {#229}
 
-Among those who lend her a hand are middle-aged and elderly folks. Anthropologists have shown that grandmothers, grandfathers, aunts, uncles, and other older individuals in foraging populations from Australia to South America remain active throughout life, gathering and hunting more calories every day than they consume, which they provide to younger generations.13 This surplus food helps provide adequate calories to children, grandchildren, nieces, and nephews and reduces how much work mothers have to do. Elderly hunter-gatherers also help younger generations by contributing knowledge, wisdom, and skills for about two to three decades beyond childbearing years.
+> Among those who lend her a hand are middle-aged and elderly folks. Anthropologists have
+> shown that grandmothers, grandfathers, aunts, uncles, and other older individuals in
+> foraging populations from Australia to South America remain active throughout life,
+> gathering and hunting more calories every day than they consume, which they provide to
+> younger generations.13 This surplus food helps provide adequate calories to children,
+> grandchildren, nieces, and nephews and reduces how much work mothers have to do. Elderly
+> hunter-gatherers also help younger generations by contributing knowledge, wisdom, and
+> skills for about two to three decades beyond childbearing years.
 
 
 ### 229 {#229}

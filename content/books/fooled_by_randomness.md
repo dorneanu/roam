@@ -1,7 +1,8 @@
 +++
 title = "Fooled by Randomness"
+author = ["Cyneox"]
 date = 2023-01-29
-tags = ["book"]
+tags = ["finance", "psychology", "economics", "book"]
 draft = false
 +++
 

@@ -1,7 +1,8 @@
 +++
 title = "Mastering Ethereum"
+author = ["Cyneox"]
 date = 2023-05-30
-tags = ["TODO", "book"]
+tags = ["blockchain", "TODO", "book"]
 draft = false
 +++
 

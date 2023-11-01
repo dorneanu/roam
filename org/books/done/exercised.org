@@ -2,7 +2,7 @@
 :ID:       2b1a1f3f-643f-48f3-902e-4204192ccb65
 :END:
 #+title: Exercised
-#+filetags: :todo:book:
+#+filetags: :anthropology:science:health:todo:book:
 #+date: 2023-04-10
 
 Why Something We Never Evolved to Do Is Healthy and Rewarding

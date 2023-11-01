@@ -1,7 +1,8 @@
 +++
 title = "The Alchimist"
+author = ["Cyneox"]
 date = 2023-02-03
-tags = ["todo", "book"]
+tags = ["spirituality", "philosophy", "todo", "book"]
 draft = false
 +++
 

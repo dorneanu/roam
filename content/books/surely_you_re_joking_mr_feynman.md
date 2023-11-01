@@ -2,7 +2,7 @@
 title = "Surely, You're Joking, Mr. Feynman"
 author = ["Cyneox"]
 date = 2023-10-08
-tags = ["book"]
+tags = ["science", "biography", "book"]
 draft = false
 +++
 

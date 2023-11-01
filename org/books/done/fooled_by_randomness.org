@@ -2,7 +2,7 @@
 :ID:       f1d276d1-1549-416f-84dc-4d8dd0942fd5
 :END:
 #+title: Fooled by Randomness
-#+filetags: :book:
+#+filetags: :finance:psychology:economics:book:
 #+date: 2023-01-29
 
 * Own summary

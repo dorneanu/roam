@@ -1,7 +1,8 @@
 +++
 title = "Meine Grenze ist dein Halt"
+author = ["Cyneox"]
 date = 2023-02-04
-tags = ["book"]
+tags = ["parenting", "book"]
 draft = false
 +++
 

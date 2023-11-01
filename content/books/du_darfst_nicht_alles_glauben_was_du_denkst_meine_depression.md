@@ -1,7 +1,8 @@
 +++
 title = "Du darfst nicht alles glauben, was du denkst: Meine Depression"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 date = 2023-08-21
+tags = ["biography", "psychology", "book"]
 draft = false
 +++
 

@@ -1,7 +1,8 @@
 +++
 title = "Trotzdem Ja zum Leben sagen"
+author = ["Cyneox"]
 date = 2023-03-20
-tags = ["book"]
+tags = ["history", "philosophy", "book"]
 draft = false
 +++
 

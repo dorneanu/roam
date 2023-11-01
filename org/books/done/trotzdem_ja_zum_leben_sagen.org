@@ -2,7 +2,7 @@
 :ID:       082aa166-9e25-4a6d-8b4c-e9c347753ede
 :END:
 #+title: Trotzdem Ja zum Leben sagen
-#+filetags: book
+#+filetags: :history:philosophy:book:
 #+date: 2023-03-20
 
 Von Viktor E. Frankl:

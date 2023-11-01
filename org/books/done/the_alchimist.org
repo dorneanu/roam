@@ -3,6 +3,6 @@
 :END:
 #+title: The Alchimist
 #+date: 2023-02-03
-#+filetags: :todo:book:
+#+filetags: :spirituality:philosophy:todo:book:
 
 Goodreads: https://www.goodreads.com/book/show/18144590-the-alchemist

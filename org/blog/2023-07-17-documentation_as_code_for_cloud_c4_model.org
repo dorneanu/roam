@@ -853,6 +853,8 @@ your architecture model, each designed to present a certain perspective of the s
 
 * Ilograph
 Short
+
+👉 Check out [[https://www.ilograph.com/architecture-center/index.html][other architecture diagrams]] made with ilograph.
 * Resources
 *Tools*:
 
