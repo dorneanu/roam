@@ -931,7 +931,7 @@ And this is what you get:
 
 #+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-ilograph.png" title="ilograph with code" caption="ilograph with code" pos="left" >}}
 
-#+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-ilograph.png" title="ilograph without code" caption="ilograph without code" pos="left" >}}
+#+html: {{< gbox src="/posts/img/2023/documentation-as-code/c4-ilograph-full.png" title="ilograph without code" caption="ilograph without code" pos="left" >}}
 
 - 👉 Here's the [[https://github.com/dorneanu/ripmail/tree/main/docs/ilograph][ilograph code]].
 - 👉 Check out [[https://www.ilograph.com/architecture-center/index.html][other architecture diagrams]] made with ilograph.
@@ -981,6 +981,7 @@ The resources I've consumed for generating the content and diagrams for this blo
 
 * Outlook
 In the next post I'll deep-dive into the [[https://d2lang.com/][D2]] language which also has a huge set of features. Stay tuned.
+
 
 # Local Variables:
 # eval: (blog/execute-startup-block)
