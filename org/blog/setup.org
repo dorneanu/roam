@@ -15,6 +15,31 @@
 # Unicode callout numbers:  ❶ ❷ ➌ ❹ ❺ ❻ ❼ ❽ ❾ ❿
 # Other symbols: ™
 
+#+name: exports
+#+begin_src emacs-lisp
+;; Convert gbox line to markdown compatible code
+(defun convert-gbox-to-md ()
+ (interactive)
+ (while (re-search-forward "{{< gbox src=\"\\([^\"]*\\)\" title=\"\\([^\"]*\\)\" caption=\"\\([^\"]*\\)\" pos=\".* >}}" nil t)
+   (replace-match "<center>![image](https://blog.dornea.nu\\1)\n</center>\n\n<center><small>👉 \\2</small></center>")))
+
+(defun remove-heading-ids ()
+  (interactive)
+  (while (re-search-forward "\\(^#.*\\) \\(.+?\\) {#.*}$" nil t)
+    (replace-match "\\1 \\2")))
+
+(defun convert-html-caption ()
+  (interactive)
+  (while (re-search-forward "<div class=\"src-block-caption\">\\s-+<span class=\"src-block-number\">\\(.*?\\)</span>\\s-+\\(.*?\\)\\s-</div>" nil t)
+    (replace-match "<center><small>\\1 \\2</small></center>")))
+
+(defun convert-html-caption ()
+  (interactive)
+  (while (re-search-forward "<div class=\"src-block-caption\">\\([\n\r[:space:]]*\\)<span class=\"src-block-number\">\\(.*?\\)</span>\\([\n\r[:space:]]*\\)\\(.*?\\)\\([\n\r[:space:]]*</div>)" nil nil)
+    (replace-match "<center><small>\\2: \\4</small></center>")))
+
+
+#+end_src
 #+name: setup
 #+begin_src emacs-lisp :results silent :exports none
 (defun blog/execute-startup-block ()

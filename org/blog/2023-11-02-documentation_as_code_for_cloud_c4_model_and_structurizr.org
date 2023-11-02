@@ -4,8 +4,8 @@
 #+SETUPFILE: setup.org
 #+filetags: :aws:c4:architecture:documentation:
 #+TITLE: Documentation as Code for Cloud - C4 Model & Structurizr
-#+CREATED: 2023-07-17
-#+HUGO_DRAFT: true
+#+CREATED: 2023-11-02
+#+HUGO_DRAFT: false
 #+HUGO_CUSTOM_FRONT_MATTER: :series '("Documentation as Code for Cloud")
 #+macro: pumlref @@html:<center>👉 <a href="https://github.com/dorneanu/blog/blob/master/static/code/2023/documentation-as-code/plantuml//$1">Full PlantUML Code</a></center>@@
 
