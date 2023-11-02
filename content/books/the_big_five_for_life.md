@@ -1,7 +1,8 @@
 +++
 title = "The Big Five for Life"
+author = ["Cyneox"]
 date = 2020-07-01
-tags = ["book"]
+tags = ["personal-growth", "leadership", "book"]
 draft = false
 +++
 

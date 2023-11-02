@@ -1,7 +1,8 @@
 +++
 title = "The Clean Code"
+author = ["Cyneox"]
 date = 2021-02-01
-tags = ["book"]
+tags = ["swe", "book"]
 draft = false
 +++
 

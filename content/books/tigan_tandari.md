@@ -1,7 +1,8 @@
 +++
 title = "Tigan tandari"
+author = ["Cyneox"]
 date = 2022-12-01
-tags = ["biography", "book,todo"]
+tags = ["society", "biography", "book"]
 draft = false
 +++
 

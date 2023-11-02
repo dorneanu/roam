@@ -2,7 +2,7 @@
 :ID:       a4a550db-a88c-4a91-af4e-189197c5efb4
 :END:
 #+title: The Clean Coder
-#+filetags: :book:
+#+filetags: :swe:book:
 #+date: 2021-02-01
 
 * The Clean Coder

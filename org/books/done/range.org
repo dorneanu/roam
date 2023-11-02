@@ -2,7 +2,7 @@
 :ID:       31953769-76a0-4099-8a75-c85b7569b668
 :END:
 #+title: Range
-#+filetags: book
+#+filetags: :psychology:book:
 #+date: 2020-12-01
 
 * Range

@@ -2,7 +2,7 @@
 :ID:       3ee54643-65c2-482a-8c60-fa099449a62d
 :END:
 #+title: Getting Things Done - The Art of Stress-Free Productivity
-#+filetags: :book:
+#+filetags: :productivity:book:
 #+created: 20200727193005954
 #+finished_month: 06
 #+finished_year: 2020

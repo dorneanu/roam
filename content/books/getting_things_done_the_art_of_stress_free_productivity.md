@@ -1,7 +1,8 @@
 +++
 title = "Getting Things Done - The Art of Stress-Free Productivity"
+author = ["Cyneox"]
 date = 2020-06-01
-tags = ["book"]
+tags = ["productivity", "book"]
 draft = false
 +++
 

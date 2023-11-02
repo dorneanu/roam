@@ -1,8 +1,8 @@
 +++
 title = "Die Mutter der Erfindung"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 date = 2023-10-17
-tags = ["book"]
+tags = ["society", "economics", "book"]
 draft = false
 +++
 

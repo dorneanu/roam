@@ -2,7 +2,7 @@
 :ID:       0c4ceb51-171c-4a8f-9175-b75ce6901862
 :END:
 #+title: Die Mutter der Erfindung
-#+filetags: book
+#+filetags: :society:economics:book:
 #+date: 2023-10-17
 
 👉 [[https://www.goodreads.com/en/book/show/56969567][Mother of Invention: How Good Ideas Get Ignored in an Economy Built for Men by Katrine Marçal]]

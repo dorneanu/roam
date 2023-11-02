@@ -1,7 +1,8 @@
 +++
 title = "Wiedersehen im Café am Rande der Welt"
+author = ["Cyneox"]
 date = 2020-09-01
-tags = ["book"]
+tags = ["philosophy", "personal-growth", "book"]
 draft = false
 +++
 

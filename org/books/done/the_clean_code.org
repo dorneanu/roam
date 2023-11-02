@@ -2,7 +2,7 @@
 :ID:       68d8bcb0-e791-486b-95fb-3ddfff61b0b8
 :END:
 #+title: The Clean Code
-#+filetags: :book:
+#+filetags: :swe:book:
 #+date: 2021-02-01
 
 * The Clean Code

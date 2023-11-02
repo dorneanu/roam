@@ -1,7 +1,8 @@
 +++
 title = "Das Zettelkasten-Prinzip"
+author = ["Cyneox"]
 date = 2020-09-01
-tags = ["basb", "book"]
+tags = ["philosophy", "personal-growth", "productivity", "basb", "book"]
 draft = false
 +++
 

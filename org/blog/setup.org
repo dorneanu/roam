@@ -15,9 +15,9 @@
 # Unicode callout numbers:  ❶ ❷ ➌ ❹ ❺ ❻ ❼ ❽ ❾ ❿
 # Other symbols: ™
 
+#+name: setup
 #+begin_src emacs-lisp :results silent :exports none
-;; auto-export
-(defun esf/execute-startup-block
+(defun blog/execute-startup-block ()
   (org-hugo-auto-export-mode)
 
   ;; set buffer variable
@@ -27,10 +27,9 @@
   (setq-local fill-column 90)
 
   (add-to-list 'org-hugo-special-block-type-properties '("sidenote" . (:trim-pre t :trim-post t)))
-
   )
 #+end_src
 
 # Local Variables:
-# eval: (esf/execute-startup-block)
+# eval: (org-sbe "setup")
 # End:

@@ -11,7 +11,7 @@
 #+modified: 20220512192542593
 #+revision: 0
 #+type: text/vnd.tiddlywiki
-#+filetags: :book:architecture:
+#+filetags: :swe:book:architecture:
 #+date: 2021-02-01
 
 * The Clean Architecture

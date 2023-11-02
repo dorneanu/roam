@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       265c7aba-5b14-4101-8221-7ff017ab8153
 :END:
-#+SETUPFILE: blog.org
+#+SETUPFILE: setup.org
 #+filetags: :aws:c4:architecture:documentation:
 #+TITLE: Documentation as Code for Cloud - C4 Model & Structurizr
 #+CREATED: 2023-07-17
@@ -39,7 +39,6 @@ Domain-Specific Language specific for this use case
 to show these interactions between /components/, /services/, and /systems/. I'll use the *C4 model* to show the same system in *different ways* based on who we're showing it to. It allows us to adjust how much detail we include.
 
 #+html: {{< gbox src="/posts/img/2023/documentation-as-code/structurizr-LiveDeployment.png" title="To learn how this diagram was created, continue reading 👇" caption="Deployment View" pos="left" >}}
-
 
 * C4 Model
 :PROPERTIES:
@@ -982,6 +981,7 @@ The resources I've consumed for generating the content and diagrams for this blo
 
 * Outlook
 In the next post I'll deep-dive into the [[https://d2lang.com/][D2]] language which also has a huge set of features. Stay tuned.
+
 # Local Variables:
-# eval: (esf/execute-startup-block)
+# eval: (blog/execute-startup-block)
 # End:

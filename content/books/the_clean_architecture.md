@@ -1,7 +1,8 @@
 +++
 title = "The Clean Architecture"
+author = ["Cyneox"]
 date = 2021-02-01
-tags = ["book", "architecture"]
+tags = ["swe", "book", "architecture"]
 draft = false
 +++
 

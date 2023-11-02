@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       80740fe9-0a09-4ce4-a3e5-d784c3f179d8
 :END:
-#+filetags: :book:
+#+filetags: :golang:book:
 #+title: Black Hat Go
 #+filetags: :book:todo:
 #+date: 2021-02-01

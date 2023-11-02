@@ -1,7 +1,8 @@
 +++
 title = "Range"
+author = ["Cyneox"]
 date = 2020-12-01
-tags = ["book"]
+tags = ["psychology", "book"]
 draft = false
 +++
 

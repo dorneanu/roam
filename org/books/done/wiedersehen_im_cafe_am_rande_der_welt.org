@@ -2,7 +2,7 @@
 :ID:       23dce041-3286-4251-9eb0-399ab8f93c2e
 :END:
 #+title: Wiedersehen im Café am Rande der Welt
-#+filetags: book
+#+filetags: :philosophy:personal-growth:book:
 #+date: 2020-09-01
 
 * Wiedersehen im Café am Rande der Welt

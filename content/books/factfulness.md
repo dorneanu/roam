@@ -1,5 +1,6 @@
 +++
 title = "Factfulness"
+author = ["Cyneox"]
 date = 2021-03-01
 tags = ["book"]
 draft = false
