@@ -124,6 +124,7 @@
   can all be customized to your needs
   #+end_quote
 ** For learning
+- 2023-11-06 ◦ [[https://historygpt.art/][HistoryGPT]]
 - 2023-08-07 ◦ [[https://www.prettypolly.app/learn][PrettyPolly]]
   - found [[https://news.ycombinator.com/item?id=36973400][here]]
 * Articles

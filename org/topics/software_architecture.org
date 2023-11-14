@@ -34,6 +34,8 @@
 - 2022-11-07 ◦ [[https://github.com/mehdihadeli/awesome-software-architecture][GitHub - mehdihadeli/awesome-software-architecture: A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.]]
   - Also check out [[https://awesome-architecture.com/][awesome-architecture.com]]
 - 2022-11-07 [[https://speakerdeck.com/ufried/road-movie-architectures][Road Movie Architecture]]
+** Books
+- 2023-11-06 ◦ [[https://github.com/mhadidg/software-architecture-books][mhadidg/software-architecture-books: A comprehensive list of books on Software Architecture]]
 ** Articles
 - 2023-07-12 ◦ [[https://appventuretime.blog/how-to-design-software-architecture-for-startups][How To Design Software Architecture For Startups]]
 - 2023-03-27 ◦ [[https://charity.wtf/2023/03/09/architects-anti-patterns-and-organizational-fuckery/][Architects, Anti-Patterns, and Organizational Fuckery – charity.wtf]]

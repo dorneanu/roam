@@ -4,6 +4,7 @@
 #+title: HTMX
 
 * Resources
+- 2023-11-14 ◦ [[https://www.reddit.com/r/golang/comments/17qhwdk/how_many_of_you_have_built_out_a_saas_project/][How many of you have built out a saas project with Go/HTMX?]]
 - 2023-07-03 ◦ [[https://www.youtube.com/watch?v=F9H6vYelYyU&ab_channel=BugBytes][Golang + HTMX - Creating a Go webserver / HTMX Integration / Template Fragments - YouTube]]
 - 2023-05-10 ◦ [[https://changelog.com/news/is-htmx-the-way-to-go-2lA9][Is htmx the way to Go? |> Changelog]]
 - 2023-05-10 ◦ [[https://dev.to/quii/htmx-is-the-future-157j][HTMX is the future - DEV Community]]

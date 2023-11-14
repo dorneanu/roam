@@ -47,6 +47,11 @@ draft = false
 -   2022-11-07 [Road Movie Architecture](https://speakerdeck.com/ufried/road-movie-architectures)
 
 
+### Books {#books}
+
+-   2023-11-06 ◦ [mhadidg/software-architecture-books: A comprehensive list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books)
+
+
 ### Articles {#articles}
 
 -   2023-07-12 ◦ [How To Design Software Architecture For Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)

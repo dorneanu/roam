@@ -91,6 +91,19 @@ make -j 4 install
 </div>
 
 
+## Gnus {#gnus}
+
+
+### Articles {#articles}
+
+-   2023-11-14 ◦ [Web processing with Gnus | Random effect](https://randomeffect.net/post/2023/01/16/web-processing-with-gnus/)
+
+
+### Resources {#resources}
+
+-   2023-11-14 ◦ [GNUS RefCard](https://www.gnu.org/software/emacs/refcards/pdf/gnus-refcard.pdf)
+
+
 ## Registers {#registers}
 
 -   2023-01-31 ◦ [Emacs: introduction to REGISTERS - YouTube](https://youtu.be/u1YoF4ycLTY)

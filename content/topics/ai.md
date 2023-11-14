@@ -134,6 +134,7 @@ draft = false
 
 ### For learning {#for-learning}
 
+-   2023-11-06 ◦ [HistoryGPT](https://historygpt.art/)
 -   2023-08-07 ◦ [PrettyPolly](https://www.prettypolly.app/learn)
     -   found [here](https://news.ycombinator.com/item?id=36973400)
 
