@@ -9,6 +9,7 @@
 
 * Notizen
 ** Teil 1: Erfindungen
+
 *** Note 1
 #+begin_quote
 Die Geschichtsschreibung war sich lange einig, dass das Rad in Mesopotamien erfunden
@@ -454,7 +455,8 @@ CO2-neutralen Bunkern mit Solardächern und Wachrobotern leben? Bezahlbar wäre 
 langfristig darin zu wohnen macht wenig Freude, wenn draußen «Krieg den Palästen» gerufen
 wird.
 #+end_quote
-*** Note 35
+
+*** Note 35                                               :quote:
 
 #+begin_quote
 Dabei wissen wir schon lange, dass weder IQ-Tests noch Schulnoten den Karriereerfolg einer
