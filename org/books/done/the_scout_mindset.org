@@ -1,0 +1,167 @@
+:PROPERTIES:
+:ID:       fc397a3b-863b-4753-a919-eabcd9c3bcd2
+:END:
+#+title: The Scout Mindset
+#+filetags: book
+#+date: 2023-11-06
+
+👉 [[https://www.goodreads.com/book/show/42041926-the-scout-mindset][The Scout Mindset: Why Some People See Things Clearly and Others Don't by Julia Galef]]
+
+* Notes
+** Part I: The Case for Scout Mindset
+*** *Chapter 1: Two Types of Thinking*
+
+Explains the soldier mindset using military metaphors in reasoning, showing its ubiquity and naturalness.
+
+#+begin_quote
+In directionally motivated reasoning... we disproportionately put our effort into finding evidence/reasons that support what we wish were true.
+#+end_quote
+*** *Chapter 2: What the Soldier is Protecting*
+
+Discusses the /emotional/ comfort and /social/ reasons, like impression management and signaling, that motivate the soldier mindset.
+
+/Emotional/ reasons:
+- comfort
+- self-esteem (feeling good about ourselves)
+- morale (motivating ourselves to do hard things)
+
+/Social/ reasons:
+- persuasion
+  - "I'm sure I can convince others"
+- image
+  - chose beliefs that makes us look good (-> Identity)
+  #+begin_quote
+  "Psychologists call it impression management, and evolutionary psychologists call it signaling: When considering a claim, we implicitly ask ourselves, 'What kind of person would believe a claim like this, and is that how I want others to see me?'"
+  #+end_quote
+- belonging
+  - defend social groups we are part of
+
+#+begin_quote
+"We use motivated reasoning not because we don't know any better but because we're trying to protect things that are vitally important to us."
+#+end_quote
+*** *Chapter 3: Why Truth is More Valuable Than We Realize*
+
+Examines the /unconscious/ trade-offs between soldier and scout mindsets, and our biases that cause us to overvalue the former.
+
+- We make unconscious trade-offs
+  - depending on the "goal" and use-case, it's our mind which decides which strategy (scout vs. soldier) works best
+
+#+begin_quote
+"Are we rationally orrational?"
+#+end_quote
+
+As always there are some /biases/ in our decision-making that cause us to go for the /soldier mindset/:
+
+- We overvalue the immediate rewards of soldier mindset
+  - we prefer small rewards *now* over large ones *later*
+- We Underestimate the value of building scout habits
+  - cognitive skills and rationality are hard to gain
+- We underestimate the ripple effects of self-deception
+- We overestimate social costs
+
+** Part II: Developing Self-Awareness
+*** *Chapter 4: Signs of a Scout*
+
+Suggests that the illusion of being a scout can be broken by concrete examples of scout-like behavior, such as acting on criticism or proving yourself wrong.
+
+- /Feeling/ objective doesn't mean you're a scout
+- Being /smart/ and /knowledgeable/ doesn't make you a scout
+- /Practicing/ scout mindset will make you a scout
+
+Some cues to look for (and at the same time signs you might be a scout):
+
+- Do you tell other people when you realize they were right?
+- How do you deal with criticism?
+- "Do you avoi biasing the information you get?"
+- Do you have good critics?
+
+  #+begin_quote
+  Can you name people who are critical of your beliefs, profession, or life choices who you consider thoughtful, even if you believe they're wrong? Or can you at least name reasons why someone might disagree with you that you would consider reasonable?"
+  #+end_quote
+- But the most important one: Do you remember occasions when you were in the solider mindset?
+
+#+begin_quote
+"A key factor preventing us from being in scout mindset more frequently is our conviction that we're already in it."
+#+end_quote
+
+#+begin_quote
+"The only real sign of a scout is whether you act like one."
+#+end_quote
+*** *Chapter 5: Noticing Bias*
+
+Introduces the concept of "forcing" and offers thought experiments like the double standard test and the outsider test to detect motivated reasoning.
+
+#+begin_quote
+"Forcing is what your brain is doing to get away with motivated reasoning while still making you feel like you're being objective."
+#+end_quote
+
+**** Tests mentioned
+
+***** *The Double Standard Test*
+
+This test asks whether you are judging one person or group by a standard that you would not apply to another person or group. It's a way to check for inconsistent application of principles.
+
+***** *The Outsider Test*
+
+ It involves imagining someone else in your situation or imagining yourself as an outsider to your own situation. This helps to gain a fresh perspective and to see one’s biases more clearly.
+
+***** *The Conformity Test*
+
+ This test asks if you would still hold your belief if other people no longer held it, to check if your belief is based on evidence or social conformity.
+
+***** *The Selective Skeptic Test*
+
+It's about imagining how credible you would find a piece of evidence if it supported the opposite side of an argument. This can reveal if you're being selectively critical.
+
+***** *The Status Quo Bias Test*
+
+This one asks if you would actively choose your current situation if it wasn't the status quo, helping to identify if you’re rationalizing the status quo just because it’s familiar.
+
+*** *Chapter 6: How Sure Are You?*
+
+Emphasizes the importance of distinguishing between levels of certainty and the idea of calibration.
+
+The key idea is to /get good at being wrong/ because we like to feel /certain/. However, quantifying ones uncertainty is also a prediction how likely I am right.
+
+#+begin_quote
+"Your strength as a scout is in your ability... to think in shades of gray instead of black and white."
+#+end_quote
+
+You should aim for this skill:
+
+#+begin_quote
+"being able to tell the difference between the feeling of making a claim and the feeling of actually trying to guess what's true."
+#+end_quote
+** Part III: Thriving Without Illusions
+*** *Chapter 7: Coping with Reality*
+
+Advocates for honest coping mechanisms in emergencies over the distortion of reality.
+
+
+*** *Chapter 8: Motivation Without Self-Deception*
+
+Argues for motivation derived from the recognition of bets worth taking based on their expected value rather than overconfidence.
+
+#+begin_quote
+"Scouts aren't motivated by the thought 'This is going to succeed.' They're motivated by the thought 'This is a bet worth taking.'"
+#+end_quote
+
+*** *Chapter 9: Influence Without Overconfidence*
+
+Differentiates between epistemic and social confidence and discusses communicating uncertainty effectively.
+
+There are 2 types of /confidence/:
+
+- /epistemic/ confidence
+  - how sure are you about what's true
+- /social/ confidence
+  - influencing people requires social confidence
+
+People will judge by social confidence. People will not trust you if you are uncertain (due to inexperience/ignorance/stupidity) but /not/ if you seem uncertain due to reality being messy and unpredictable.
+
+Quote: "You don't need to promise success to be inspiring... There are lots of ways to get people excited that don't require you to lie to others or to yourself."
+
+* Resources
+Some good summaries:
+- https://www.lesswrong.com/posts/yFJ7vCjefBxnTchmG/outline-of-galef-s-scout-mindset
+- https://freddiedeboer.substack.com/p/review-julia-galefs-the-scout-mindset
