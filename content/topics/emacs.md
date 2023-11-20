@@ -1,6 +1,6 @@
 +++
 title = "Emacs"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 tags = ["emacs", "ide"]
 draft = false
 +++
@@ -22,6 +22,7 @@ make -j 4 install
 
 ## elfeed {#elfeed}
 
+-   2023-11-15 ◦ [Hydra filters for elfeed](https://github.com/alphapapa/unpackaged.el#elfeed)
 -   2022-10-24 ◦ [A workflow for reading, managing and discovering ML research papers with Emacs | Koustuv Sinha](https://koustuvsinha.com/post/emacs_research_workflow/)
 -   2022-10-24 ◦ [Add org-store-link Entry for elfeed - Yiming Chen](https://yiming.dev/blog/2016/01/28/add-org-store-link-entry-for-elfeed/)
     ```emacs-lisp

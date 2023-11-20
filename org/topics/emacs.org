@@ -18,6 +18,7 @@ make -j 4 install
 #+end_src
 
 * elfeed
+- 2023-11-15 ◦ [[https://github.com/alphapapa/unpackaged.el#elfeed][Hydra filters for elfeed]]
 - 2022-10-24 ◦ [[https://koustuvsinha.com/post/emacs_research_workflow/][A workflow for reading, managing and discovering ML research papers with Emacs | Koustuv Sinha]]
 - 2022-10-24 ◦ [[https://yiming.dev/blog/2016/01/28/add-org-store-link-entry-for-elfeed/][Add org-store-link Entry for elfeed - Yiming Chen]]
   #+caption: https://yiming.dev/blog/2016/01/28/add-org-store-link-entry-for-elfeed/

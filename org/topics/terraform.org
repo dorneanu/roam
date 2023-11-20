@@ -33,6 +33,8 @@
 ** AWS
 - 2023-08-16 ◦ [[https://aws-ia.github.io/standards-terraform/][The AWS IA Team's best practices for Terraform]]
 - 2023-08-02 ◦ [[https://spin.atomicobject.com/2021/04/07/aws-cloudwatch-metric-filter-alarm-terraform/][Create an AWS CloudWatch Metric Filter and Alarm in Terraform]]
+** Best Practices
+- 2023-11-14 ◦ [[https://www.reddit.com/r/Terraform/comments/17qkfwm/what_terraform_best_practice_isnt_talked_about/?rdt=34153][What Terraform best practice isn't talked about enough?]]
 ** Layout
 - 2023-10-16 ◦ [[https://community.aws/tutorials/automating-multiple-environments-with-terraform][Community | Automating Multiple Environments with Terraform]]
 - 2023-09-19 ◦ [[https://cloud.google.com/docs/terraform/best-practices-for-terraform][Best practices for using Terraform (Google Cloud)]]

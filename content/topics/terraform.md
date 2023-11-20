@@ -1,6 +1,6 @@
 +++
 title = "Terraform"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -35,6 +35,11 @@ draft = false
 
 -   2023-08-16 ◦ [The AWS IA Team's best practices for Terraform](https://aws-ia.github.io/standards-terraform/)
 -   2023-08-02 ◦ [Create an AWS CloudWatch Metric Filter and Alarm in Terraform](https://spin.atomicobject.com/2021/04/07/aws-cloudwatch-metric-filter-alarm-terraform/)
+
+
+### Best Practices {#best-practices}
+
+-   2023-11-14 ◦ [What Terraform best practice isn't talked about enough?](https://www.reddit.com/r/Terraform/comments/17qkfwm/what_terraform_best_practice_isnt_talked_about/?rdt=34153)
 
 
 ### Layout {#layout}
