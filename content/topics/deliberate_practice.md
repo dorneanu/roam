@@ -1,5 +1,6 @@
 +++
 title = "Deliberate Practice"
+author = ["Cyneox"]
 draft = false
 +++
 
@@ -28,4 +29,7 @@ draft = false
 
 ## Resources {#resources}
 
+-   2023-11-21 ◦ [Toward a General Theory of Expertise: Prospects and Limits by K. Anders Ericsson | Goodreads](https://www.goodreads.com/book/show/1315382.Toward_a_General_Theory_of_Expertise)
+-   2023-11-21 ◦ [The Role of Deliberate Practice in the Acquisition of Expert Performance](https://graphics8.nytimes.com/images/blogs/freakonomics/pdf/DeliberatePractice(PsychologicalReview).pdf)
+-   2023-11-21 ◦ [Peak: Secrets from the New Science of Expertise by K. Anders Ericsson | Goodreads](https://www.goodreads.com/book/show/26312997-peak)
 -   [Deep Work: Rules for Focused Success in a Distracted World]({{< relref "../books/deep_work_rules_for_focused_success_in_a_distracted_world.md" >}})

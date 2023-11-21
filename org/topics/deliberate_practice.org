@@ -22,5 +22,9 @@ performance argues that you getbetter at a skill as you develop more myelin arou
 relevantneurons, allowing the corresponding circuit to fire more effortlessly and
 effectively. To be great at something is to be well myelinated.
 #+end_quote
+
 * Resources
+- 2023-11-21 ◦ [[https://www.goodreads.com/book/show/1315382.Toward_a_General_Theory_of_Expertise][Toward a General Theory of Expertise: Prospects and Limits by K. Anders Ericsson | Goodreads]]
+- 2023-11-21 ◦ [[https://graphics8.nytimes.com/images/blogs/freakonomics/pdf/DeliberatePractice(PsychologicalReview).pdf][The Role of Deliberate Practice in the Acquisition of Expert Performance]]
+- 2023-11-21 ◦ [[https://www.goodreads.com/book/show/26312997-peak][Peak: Secrets from the New Science of Expertise by K. Anders Ericsson | Goodreads]]
 - [[id:abd6a1c6-fad0-4396-94f8-edc87fe19a0d][Deep Work: Rules for Focused Success in a Distracted World]]
