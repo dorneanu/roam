@@ -115,6 +115,31 @@
 - 2022-08-25 ◦ [[https://github.com/zeromicro/go-zero][go-zero]]
   - A cloud-native Go [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]] framework with cli tool for productivity.
 ** reddit
+A collection of interesting threads.
+
+- 2023-11-22 ◦ [[https://www.reddit.com/r/golang/comments/17wpc37/expectations_for_senior_go_dev/?rdt=57699][Expectations for Senior Go Dev]]
+
+  #+begin_quote
+  Go-specific things:
+  - understand the different usage scenarios for channels
+  - demonstrable knowledge of the net/http interfaces and their common implementations
+  - demonstrable knowledge of the io interfaces and their common implementations
+  - the ability to demonstrate when and how a goroutine will end
+  - demonstrable knowledge of common pitfalls (e.g. closing a response body, variable shadowing, etc)
+  - demonstrate you can write code that respects context cancellation
+  - knowledge and demonstrated proficiency with standard tooling in the Go sdk
+  - slice internals
+  - map internals
+  #+end_quote
+
+  #+begin_quote
+  In addition to all of that:
+  - channel internals,
+  - scheduler
+  - garbage collection
+  - concurrency patterns
+  - understanding advantages and disadvantages of go and it's history (will help you understand why it was designed that way and avoid a huge ton of pitfalls)
+  #+end_quote
 - 2023-03-27 ◦ [[https://www.reddit.com/r/golang/comments/1221z1i/my_believe_that_golang_will_grow_in_demand_and/][My believe that Golang will grow in demand and how maybe this is ruining my pay increase]]
 ** Security
 - 2022-10-04 ◦ [[https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo][Simple JWT Authentication for Golang (Part 1)]] ([[id:8b4bec8f-ec46-4edf-b236-2d295089f94d][JWT]])
@@ -124,6 +149,8 @@
 - 2022-10-04 ◦ [[https://blog.gendocu.com/posts/grpc-on-google-cloud/][gRPC and gRPC Web on Google Cloud Run (serverless) - GenDocu Blog]]
 ** SSH
 - 2022-11-21 ◦ [[https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/][SSH port forwarding with Go - Eli Bendersky's website]]
+** Styling
+- 2023-11-22 ◦ [[https://google.github.io/styleguide/go/index][Go Style (Google)]]
 ** Success stories
 - 2022-10-19 ◦ [[https://www.reddit.com/r/golang/comments/y6hg08/have_you_moved_from_java_to_go_or_another_popular/][Have you moved from Java to Go (or another popular language)]]
 ** Tooling

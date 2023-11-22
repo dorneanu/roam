@@ -171,6 +171,31 @@ draft = false
 
 ### reddit {#reddit}
 
+A collection of interesting threads.
+
+-   2023-11-22 ◦ [Expectations for Senior Go Dev](https://www.reddit.com/r/golang/comments/17wpc37/expectations_for_senior_go_dev/?rdt=57699)
+
+    > Go-specific things:
+    >
+    > -   understand the different usage scenarios for channels
+    > -   demonstrable knowledge of the net/http interfaces and their common implementations
+    > -   demonstrable knowledge of the io interfaces and their common implementations
+    > -   the ability to demonstrate when and how a goroutine will end
+    > -   demonstrable knowledge of common pitfalls (e.g. closing a response body, variable shadowing, etc)
+    > -   demonstrate you can write code that respects context cancellation
+    > -   knowledge and demonstrated proficiency with standard tooling in the Go sdk
+    > -   slice internals
+    > -   map internals
+
+    <!--quoteend-->
+
+    > In addition to all of that:
+    >
+    > -   channel internals,
+    > -   scheduler
+    > -   garbage collection
+    > -   concurrency patterns
+    > -   understanding advantages and disadvantages of go and it's history (will help you understand why it was designed that way and avoid a huge ton of pitfalls)
 -   2023-03-27 ◦ [My believe that Golang will grow in demand and how maybe this is ruining my pay increase](https://www.reddit.com/r/golang/comments/1221z1i/my_believe_that_golang_will_grow_in_demand_and/)
 
 
@@ -189,6 +214,11 @@ draft = false
 ### SSH {#ssh}
 
 -   2022-11-21 ◦ [SSH port forwarding with Go - Eli Bendersky's website](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
+
+
+### Styling {#styling}
+
+-   2023-11-22 ◦ [Go Style (Google)](https://google.github.io/styleguide/go/index)
 
 
 ### Success stories {#success-stories}
