@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       7d417f99-d82a-4433-b1b7-48343258a4e3
+:END:
+#+title: 21 Lessons for the 21st Century
+#+filetags: :todo:book:
+
+tbd
