@@ -3,5 +3,6 @@
 :END:
 #+title: 21 Lessons for the 21st Century
 #+filetags: :todo:book:
+#+date: 2023-11-20
 
 tbd
