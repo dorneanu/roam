@@ -127,6 +127,8 @@
 - 2023-11-06 ◦ [[https://historygpt.art/][HistoryGPT]]
 - 2023-08-07 ◦ [[https://www.prettypolly.app/learn][PrettyPolly]]
   - found [[https://news.ycombinator.com/item?id=36973400][here]]
+** Timelines
+- 2023-11-27 ◦ [[https://mylens.ai/][MyLens - One Timeline, Many Histories]]
 * Articles
 - 2023-06-16 ◦ [[https://blog.pragmaticengineer.com/ai-coding-tools-explosion/][An explosion in software engineers using AI coding tools? - The Pragmatic Engineer]]
 - 2023-06-07 ◦ [[https://a16z.com/2023/06/06/ai-will-save-the-world/][Why AI Will Save the World | Andreessen Horowitz]]
