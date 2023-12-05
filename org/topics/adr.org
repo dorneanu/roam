@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1ef05c7e-915c-4b25-9ae1-c2f498bc39e1
+:END:
+#+title: ADR
+
+* Resources
+- 2023-12-05 ◦ [[https://github.com/pmerson/ADR-template][GitHub - pmerson/ADR-template: A md template for Architecture Decision Records (ADRs)]]
+- 2023-12-05 ◦ [[https://adr.github.io/][adr.github.io]]
+- 2023-12-05 ◦ [[https://github.com/joelparkerhenderson/architecture-decision-record][GitHub - joelparkerhenderson/architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation]]
+  - comprehensive collection of ADR related links
+  - also includes different styles
+- 2023-12-05 ◦ [[https://www.heise.de/hintergrund/Gut-dokumentiert-Architecture-Decision-Records-4664988.html][Gut dokumentiert: Architecture Decision Records | heise online]]
