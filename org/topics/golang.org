@@ -22,6 +22,7 @@
 - 2023-01-20 ◦ [[https://github.com/masgari/aws-custom-resources][GitHub - masgari/aws-custom-resources: A Lambda for creating custom resources in CloudFormation.]]
 - 2023-01-20 ◦ [[https://github.com/lifadev/archive_aws-cloudformation-go-customres][GitHub - lifadev/archive_aws-cloudformation-go-customres: Author your AWS CloudFormation Custom Resources in Go.]]
 ** Fun
+- 2023-11-30 ◦ [[https://www.reddit.com/r/climbing/comments/182v1rd/i_made_a_chalk_bag_for_my_husband][A chalk bag (gopher style)]]
 - 2023-09-13 ◦ [[https://github.com/MariaLetta/free-gophers-pack][GitHub - MariaLetta/free-gophers-pack]]
   - ✨ This pack of 100+ gopher pictures and elements will help you to build own
     design of almost anything related to Go Programming Language: presentations,
@@ -37,6 +38,7 @@
 - 2023-01-16 ◦ [[https://news.ycombinator.com/item?id=31976407][Ask HN: Should I learn Rust or Go? | Hacker News]] ([[id:cdf2a03e-f080-4e6f-8636-7c0f582d91fc][Rust]])
 - 2023-01-16 ◦ [[https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/][Go devs that learned Rust, what are your thoughts on it?]] ([[id:cdf2a03e-f080-4e6f-8636-7c0f582d91fc][Rust]])
 ** Design Patterns
+- 2023-12-04 ◦ [[https://www.reddit.com/r/golang/comments/1887y1b/favorite_golang_design_patterns/][Favourite Golang Design Patterns]]
 - 2022-09-05 ◦ [[https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5][GoF Design patterns that still make sense in Go]]
 ** Frontend
 - 2023-04-11 ◦ [[https://www.reddit.com/r/golang/comments/10nw07z/best_frontend_stack_for_golang_backend/][Best front-end stack for Golang backend]]

@@ -26,7 +26,7 @@
       - Don't be reactive
       - Be proactive instead
         - Schedule your time in advance
-        - Multiscale planing
+        - [[id:6112cb3f-0f9a-4a11-8135-9296f07a5656][Multiscale planing]]
           - Querterly
             - Projects
           - Weekly

@@ -36,6 +36,8 @@ $ ssh bastion
 * Ansible
 - 2022-10-24 ◦ [[https://blog.keyboardinterrupt.com/ansible-jumphost/][SSH Bastion/Jumphost + Ansible configuration.]]
 - 2022-10-24 ◦ [[https://leftasexercise.com/2019/12/23/using-ansible-with-a-jump-host/][Using Ansible with a jump host – LeftAsExercise]]
+* Fun
+- 2023-11-30 ◦ [[https://dev.to/therubberduckiee/explaining-ssh-to-my-uber-driver-38a][Explaining SSH to my Uber Driver]]
 * Security
 - 2022-09-05 ◦ [[https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/][14 Best Practices to Secure SSH Bastion Host]]
 - 2022-09-05 ◦ [[https://goteleport.com/blog/how-to-ssh-properly/][SSH Security Best Practices using Certificates, 2FA and Bastions]]

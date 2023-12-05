@@ -37,6 +37,7 @@ draft = false
 
 ### Fun {#fun}
 
+-   2023-11-30 ◦ [A chalk bag (gopher style)](https://www.reddit.com/r/climbing/comments/182v1rd/i_made_a_chalk_bag_for_my_husband)
 -   2023-09-13 ◦ [GitHub - MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack)
     -   ✨ This pack of 100+ gopher pictures and elements will help you to build own
         design of almost anything related to Go Programming Language: presentations,
@@ -67,6 +68,7 @@ draft = false
 
 ### Design Patterns {#design-patterns}
 
+-   2023-12-04 ◦ [Favourite Golang Design Patterns](https://www.reddit.com/r/golang/comments/1887y1b/favorite_golang_design_patterns/)
 -   2022-09-05 ◦ [GoF Design patterns that still make sense in Go](https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5)
 
 

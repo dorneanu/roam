@@ -1,6 +1,6 @@
 +++
 title = "SSH"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 draft = false
 +++
 
@@ -42,6 +42,11 @@ $ ssh bastion
 
 -   2022-10-24 ◦ [SSH Bastion/Jumphost + Ansible configuration.](https://blog.keyboardinterrupt.com/ansible-jumphost/)
 -   2022-10-24 ◦ [Using Ansible with a jump host – LeftAsExercise](https://leftasexercise.com/2019/12/23/using-ansible-with-a-jump-host/)
+
+
+## Fun {#fun}
+
+-   2023-11-30 ◦ [Explaining SSH to my Uber Driver](https://dev.to/therubberduckiee/explaining-ssh-to-my-uber-driver-38a)
 
 
 ## Security {#security}

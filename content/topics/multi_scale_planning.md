@@ -1,0 +1,45 @@
++++
+title = "Multi-scale planning"
+author = ["Cyneox"]
+draft = false
++++
+
+## From Top-Performer-Course: {#from-top-performer-course}
+
+
+### Concepts {#concepts}
+
+-   Multiscale Time Planning
+    -   The concept involves planning at **multiple time scales**, including monthly/quarterly, weekly, and daily
+    -   This approach helps to increase the level of detail as you move from larger to smaller scales, which is essential for effective time management.
+
+-   Flexibility and Adaptability
+    -   A crucial principle of multiscale planning is the understanding that **plans are not static**
+    -   They should be **flexible and adaptable** to changes
+    -   Adjusting plans as needed is expected, not a deviation from the strategy.
+    -   You don't get extra points for sticking to the plan
+
+-   Monthly/Quarterly Planning
+    -   This scale is vital for avoiding **deadline-driven** chaos
+    -   It allows for advanced preparation and scheduling to **meet major deadlines** and handle significant tasks efficiently.
+    -   It involves breaking down tasks week by week and maintaining a freestyle format for each week's notes, focusing on the big picture and major upcoming events or deadlines.
+
+-   Weekly and Daily Planning
+    -   These scales involve more detailed planning
+    -   Weekly plans describe scheduled **commitments and tasks for each day of the week**
+    -   Daily planning is the most detailed, assigning specific tasks to each hour of the day, thus providing control over daily activities
+
+
+### Benefits {#benefits}
+
+-   Control Over Time
+    -   The goal of multiscale planning is to exert control over one's time, treating each commitment and task like chess pieces on a board, moving them around strategically
+    -   This approach enables one to be proactive rather than reactive, maximizing the use of time.
+-   Consistent Progress on Important Tasks
+    -   By controlling time at various scales and staying adaptable, consistent progress can be made on important but non-urgent tasks.
+    -   This method is particularly effective for projects that contribute significantly to personal and professional growth.
+
+
+## Resources {#resources}
+
+-   2023-12-04 ◦ [How To Integrate Broad Goals With Multi-Scale Planning | Deep Questions With Cal Newport - YouTube](https://www.youtube.com/watch?v=ZHjK2XxcjQk&ab_channel=CalNewport)
