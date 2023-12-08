@@ -25,6 +25,7 @@ git config commit.gpgSign true
 * Tools
  - 2023-10-26 ◦ [[https://gittuf.github.io/][gittuf]]
 * Articles
+- 2023-12-06 ◦ [[https://dev.to/untilyou58/understanding-git-and-git-workflow-1e6a][Understanding Git And Git Workflow - DEV Community]]
 - 2023-10-18 ◦ [[https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities][Organizing multiple Git identities | Garrit's Notes]]
 
   Use multiple identities. Sth like:
@@ -44,7 +45,6 @@ git config commit.gpgSign true
 
   # ...
   #+end_example
-
 - 2023-01-25 ◦ [[https://stackoverflow.com/questions/5772192/how-can-i-reconcile-detached-head-with-master-origin][git - How can I reconcile detached HEAD with master/origin? - Stack Overflow]]
   - When "HEAD detached at origin/main"
 - 2022-08-30 ◦ [[https://dev.to/andreasaugustin/git-how-and-why-to-sign-commits-35dn][GIT - how and why to sign commits]]

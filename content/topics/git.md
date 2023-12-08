@@ -33,6 +33,7 @@ git config commit.gpgSign true
 
 ## Articles {#articles}
 
+-   2023-12-06 ◦ [Understanding Git And Git Workflow - DEV Community](https://dev.to/untilyou58/understanding-git-and-git-workflow-1e6a)
 -   2023-10-18 ◦ [Organizing multiple Git identities | Garrit's Notes](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
 
     Use multiple identities. Sth like:
@@ -52,7 +53,6 @@ git config commit.gpgSign true
 
       # ...
     ```
-
 -   2023-01-25 ◦ [git - How can I reconcile detached HEAD with master/origin? - Stack Overflow](https://stackoverflow.com/questions/5772192/how-can-i-reconcile-detached-head-with-master-origin)
     -   When "HEAD detached at origin/main"
 -   2022-08-30 ◦ [GIT - how and why to sign commits](https://dev.to/andreasaugustin/git-how-and-why-to-sign-commits-35dn)

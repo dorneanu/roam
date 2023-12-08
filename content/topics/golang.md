@@ -57,6 +57,7 @@ draft = false
 
 ### Concurrency {#concurrency}
 
+-   2023-12-07 ◦ [Learn Concurrent Programming with Go](https://www.manning.com/books/learn-concurrent-programming-with-go?utm_source=cutajarj&utm_medium=affiliate&utm_campaign=book_cutajar_learn_12_14_22&a_aid=cutajarj&a_bid=4360d6bb) (Book)
 -   2023-03-27 ◦ [CodePilot | Synchronization Patterns in Go](https://code-pilot.me/synchronization-patterns-in-go)
 
 

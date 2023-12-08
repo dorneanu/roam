@@ -33,6 +33,7 @@
 ** Books
 - 2023-10-11 ◦ [[https://www.manning.com/books/learn-go-with-pocket-sized-projects][Learn Go with Pocket-Sized Projects ]]
 ** Concurrency
+- 2023-12-07 ◦ [[https://www.manning.com/books/learn-concurrent-programming-with-go?utm_source=cutajarj&utm_medium=affiliate&utm_campaign=book_cutajar_learn_12_14_22&a_aid=cutajarj&a_bid=4360d6bb][Learn Concurrent Programming with Go]] (Book)
 - 2023-03-27 ◦ [[https://code-pilot.me/synchronization-patterns-in-go][CodePilot | Synchronization Patterns in Go]]
 ** Comparisons
 - 2023-01-16 ◦ [[https://news.ycombinator.com/item?id=31976407][Ask HN: Should I learn Rust or Go? | Hacker News]] ([[id:cdf2a03e-f080-4e6f-8636-7c0f582d91fc][Rust]])

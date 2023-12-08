@@ -44,6 +44,9 @@
 - 2023-08-01 ◦ [[https://dev.to/aws-builders/how-to-manage-terraform-state-in-aws-1001][How to Manage Terraform State in AWS - DEV Community]]
   - Mentions [[https://developer.hashicorp.com/terraform/language/state/workspaces][workspaces]]
   - Has a good project layout (where each deployment environment gets its own folder)
+*** Mono-repo vs multi-repo
+- 2023-12-06 ◦ [[https://www.thoughtworks.com/en-de/insights/blog/agile-engineering-practices/monorepo-vs-multirepo][Monorepo vs. multi-repo: Different strategies for organizing repositories | Thoughtworks]]
+- 2023-12-06 ◦ [[https://www.hashicorp.com/blog/terraform-mono-repo-vs-multi-repo-the-great-debate][Terraform Mono Repo vs. Multi Repo: The Great Debate]]
 ** Tagging
 - 2023-08-01 ◦ [[https://engineering.deptagency.com/best-practices-for-terraform-aws-tags][Best Practices for Terraform AWS Tags]]
 ** Security

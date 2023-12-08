@@ -1,6 +1,6 @@
 +++
 title = "Terraform"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 draft = false
 +++
 
@@ -51,6 +51,12 @@ draft = false
 -   2023-08-01 ◦ [How to Manage Terraform State in AWS - DEV Community](https://dev.to/aws-builders/how-to-manage-terraform-state-in-aws-1001)
     -   Mentions [workspaces](https://developer.hashicorp.com/terraform/language/state/workspaces)
     -   Has a good project layout (where each deployment environment gets its own folder)
+
+
+#### Mono-repo vs multi-repo {#mono-repo-vs-multi-repo}
+
+-   2023-12-06 ◦ [Monorepo vs. multi-repo: Different strategies for organizing repositories | Thoughtworks](https://www.thoughtworks.com/en-de/insights/blog/agile-engineering-practices/monorepo-vs-multirepo)
+-   2023-12-06 ◦ [Terraform Mono Repo vs. Multi Repo: The Great Debate](https://www.hashicorp.com/blog/terraform-mono-repo-vs-multi-repo-the-great-debate)
 
 
 ### Tagging {#tagging}
