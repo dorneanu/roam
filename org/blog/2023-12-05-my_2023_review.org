@@ -1,0 +1,108 @@
+:PROPERTIES:
+:ID:       2658f3c4-81b3-4397-8878-447baa3b99aa
+:END:
+#+SETUPFILE: setup.org
+#+filetags: :books:productivity:review:
+#+TITLE: My 2023 review
+#+CREATED: 2023-12-05
+#+HUGO_DRAFT: true
+
+I feel somehow ashamed I didn't a review last year. But this year I put some
+time aside to reflect on this year's highlights, what I've learned, how I
+changed some habbits, how I sticked to some old ones.
+
+* Books
+This year I've finally reactivated my [[https://www.goodreads.com/user/show/121423977-victor-dorneanu][Goodreads profile]] mainly for getting
+recommendations on what to read next. Although I have my own [[https://brainfck.org/t/books/todo/][TODO list]] which
+grows from year to year, I'm always curious to find out what /others/ have read
+addtionally after finishing one book.
+
+As always you can find my list of read books at [[https://brainfck.org/books/][brainfck.org/books]] where also
+this year I've added tags to the books and restructured the [[https://github.com/dorneanu/roam/blob/main/layouts/books/list.html][Hugo template]] to
+list them as well.
+
+Instead of trying to summarize each book
+#+begin_sidenote
+I like Eli Bendersky's [[https://eli.thegreenplace.net/tag/book-reviews][Book reviews]]
+#+end_sidenote
+here are my recommendations for you:
+
+- [[https://brainfck.org/tags/politics/][#politics]]
+  - [[https://www.penguinrandomhouse.com/books/570367/the-road-to-unfreedom-by-timothy-snyder/][The Road to Unfreedom]] (by [[https://timothysnyder.org/][Timothy Snyder]])
+
+    I've read this book in [[https://www.goodreads.com/book/show/58468558-drumul-spre-nelibertate][Romanian]] mainly because I wanted to know more about
+    Eastern Europe politics and the on-going war in Ucraine. In his book Synder
+    examines the historical and geopolitical aspects that have shaped the world
+    recenlty, especially highlighting the actions of Russia and its impact on
+    global politics. The book gives the readers insights into the strategies
+    used by influential figures (philosophers, politicians etc.) to undermine
+    democratic values, manipulate public opinion which all gave birth to
+    authoritarianism and the erosion of democracy.
+
+    Although this book offers a deep analysis of the Soviet and Russian
+    politics, I think Snyder focussed to much on Russia's actions solely which
+    could be interpreted as the primary influences of global authoritarianism,
+    the war in Ucraine and fake-news.
+
+    👉 {{{zk_book(drumul-spre-nelibertate/, My own notes)}}} (in Romanian)
+
+- [[https://brainfck.org/tags/society/][#society]]
+  - [[https://www.goodreads.com/en/book/show/56969567][Mother of Invention: How Good Ideas Get Ignored in an Economy Built for Men]]
+
+    I've chosen this book to be in the top list because it somehow opened my eyes
+    for all the gender biases and inequalities that already /have/ existed in our
+    society and in the economic world. The author has plenty of (historical)
+    examples how women's ideas and contributions often are ignored and
+    undervalues, despite their potential to drive innovation and progress. Also
+    interesting: Job roles nowadays dominated mainly by men were some decades
+    ago preserved for female workers (e.g. computer programming)
+
+    As already mentioned by others, this book serves as a call to action,
+    forcing society to address the structural and systemic biases that block
+    women's participation and idea recognition in the economy.
+
+    👉 {{{zk_book(die-mutter-der-erfindung/, My own notes)}}} (in German)
+
+  - [[https://www.goodreads.com/en/book/show/50695158][The Lonely Century: How to Restore Human Connection in a World That's Pulling Apart]]
+
+    The issue of loneliness and social disconnection is something I've been
+    observing for years. Despite our inter-connected world with instant
+    messaging at our finger tips and a constant influx of events all over the
+    world, I think we (as human beings) are suffering from real human
+    connections. Also this book serves as a wake-up call to address the
+    isolation we're currently facing and provides strong arguments for building
+    stronged, more connected communities.
+
+    👉 [[/2023/01/21/book-summary-the-lonely-century/][My book summary: The Lonely Century]] / {{{zk_book(the-lonely-century/, My own notes)}}} (in Romanian)
+
+ - [[https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century][21 Lessons for the 21st Century]]
+
+   I have still not processed all thoughts and ideas presented in this book.
+
+
+
+- #health
+- #tech
+
+* Productivity
+* Health
+** Tracking
+* Tools
+* Goals
+
+First of all a quick recap of [[/2021/12/13/my-2021-review/#outlook][my goals for 2022]]:
+- Learning
+
+  2 years ago I wrote I'd like to deep-dive more into *TypeScript*. I still didn't do anything complex in TS but from time to time I still use it (in combination with AWS CDK, like I did for the [[https://github.com/dorneanu/aws-custom-resource-golang][AWS custom resources project]]). I also don't expect this to change as for backend I'd still go for *Golang* (and work-wise I'm "forced" to use Python for small things).
+
+  Besides *TypeScript* I wanted to learn some *Vue.JS*. Back then I wrote:
+
+  #+begin_quote
+  I want to be able to build modern frontend applications and use new technologies beyond HTML, CSS and JavaScript :)
+  #+end_quote
+
+  I *did* do some frontend but using different technologies: For implementing [[/2022/12/15/releasing-gocial/][gocial]] I've mainly used [[https://alpinejs.dev/][Alpine.js]] and [[https://tailwindcss.com/][Tailwind CSS]]. I still have a course to do on Udemy (regarding *Vue.JS*) but I also need to find time to do it 🙈.
+
+  Among frontend stuff, I was more than motivated to finally learn more about *Web3* (especially *Ethereum*). I did some coding in *Solidity* and also read [[https://www.goodreads.com/en/book/show/33584554][Mastering Ethereum: Building Smart Contracts and DApps]]. Additionally I also learned more about *Smart Contract Security* (I hope to release my notes next year).
+
+- Reading
