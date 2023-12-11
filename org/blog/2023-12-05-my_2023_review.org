@@ -85,6 +85,47 @@ here are my recommendations for you:
 - #tech
 
 * Productivity
+I usually don't keep track of productivity tools and workflows, as everyone's needs are unique with regards to project / time / resources management. However, I'd like to share some "tools" that have changed the way I work and deal with new initiatives/projects.
+** Multi-Scale Planning
+As a long time listener of [[https://calnewport.com/podcasts/][Cal Newport's podcast]] of course I had the chance to learn more about his productivity hacks and tipps. Even more than his brilliant advice in {{{zk_book(deep-work,Deep Work)}}} I've found {{{zk_topic(multi-scale-planning,Multi-Scale Planning)}}} to be a true game changer.
+
+While I cannot cover all details (maybe I'll do so in a future post), the main idea is to do planning at *multiple* time scales such as quarterly/monthly, weekly and daily. Each scale has a different level of details as you move from one scale to another.
+
+This approach to /time management/ (because this is what it's about, right?)
+allowed me to plan in advance but also be *flexible* whenever something deviated
+from the /initial/ plan. This way I was able to come up with some
+initiatives/projects for the next quarter/month and define small chunks of work I could do on a weekly/daily level.
+
+⚠: TODO Insert some screenshots here
+
+It is a very *visual* system that works well in a digital *and* analog world. No matter which fancy productivity tool you prefer, in the end it's all about the *workflow* and *processes* you implement in order to make consistent progress and contribute to your personal and professional growth.
+
+** Track focus time
+
+I've found /deep work/ (as a state of mind) to be very dificult to achieve. Initially I thought I could train this skill while /meditating/. It did help to some degree but the true deep work killer gadget turned out to be ...my watch. I used my watch to setup a countdown (e.g. 1 hour) which always reminded I should be focussing whenever I've felt I was mind-wandering.
+
+⚠: TODO Insert some picture from watch
+
+Often I thought I was focussing for at least 30 minutes when in reality it was only 10 minutes. For me it was a strong indicator my mind was trying to fool me into jumping to other tasks, force me to /procrastinate/.
+
+** Minimize context switch
+
+This is nothing new but still an advice ignored by many.
+
+Some months ago I was listening to Andrew Huberman's podcast on [[https://www.youtube.com/watch?v=LG53Vxum0as&ab_channel=AndrewHuberman][How to Focus to Change Your Brain]] where, simply put, he linked our ability to focus to *visual* focus.
+
+He emphasizes that *mental focus* is closely tied to *where* and *how* we focus our eyes. Our visual system can either be unfocused or laser-focused, and this directly impacts our mental focus.
+
+#+begin_quote
+What's interesting and vitally important to understanding how to access neuroplasticity is that you can use your visual focus, *and you can increase your visual focus as a way of increasing your mental focus* focus abilities more broadly.
+
+-- [[https://www.youtube.com/watch?v=LG53Vxum0as&ab_channel=AndrewHuberman][How to Focus to Change Your Brain (Youtube)]]
+#+end_quote
+
+
+⚠: TODO Screenshots (of xwidget-webkit, different queries)
+
+
 * Health
 ** Tracking
 * Tools
@@ -106,3 +147,56 @@ First of all a quick recap of [[/2021/12/13/my-2021-review/#outlook][my goals fo
   Among frontend stuff, I was more than motivated to finally learn more about *Web3* (especially *Ethereum*). I did some coding in *Solidity* and also read [[https://www.goodreads.com/en/book/show/33584554][Mastering Ethereum: Building Smart Contracts and DApps]]. Additionally I also learned more about *Smart Contract Security* (I hope to release my notes next year).
 
 - Reading
+
+  My reading list for 2022 was:
+
+  #+begin_quote
+  - [[https://www.goodreads.com/book/show/22512931-building-microservices][Building Microservices: Designing Fine-Grained Systems]]
+  - [[https://leanpub.com/visualising-software-architecture][Visualise, document and explore your software architecture]]
+  - [[https://abseil.io/resources/swe-book][Software Engineering at Google]]
+  - [[https://dataintensive.net/][Designing Data-Intensive Applications]]
+  - [[https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled][Domain-Driven Design Distilled]]
+  - [[https://github.com/ethereumbook/ethereumbook][Mastering Ethereum]]
+  #+end_quote
+
+  I managed to read {{{zk_book(building-microservices-2nd-edition/,Building Microservices(2nd edition))}}}, {{{zk_book(mastering-ethereum,Mastering Ethereum)}}} and I definitely learned something about [[/2023/11/02/documentation-as-code-for-cloud-c4-model-structurizr/][C4]].
+
+  The rest is still on my {{{zk_topic(books/todo/,TODO list)}}}.
+
+- Projects
+
+  Of course there were some ideas and projects I wanted to work on:
+
+  #+begin_quote
+  - finish [[https://github.com/dorneanu/access-key-rotator][access-key-rotator]] and release first version
+  - clean up my [[https://brainfck.org][Zettelkasten]]
+  - start working on my *book*
+    - about Golang and Security :)
+  #+end_quote
+
+  Well, I did some clean-up on [[https://brainfck.org][brainfck.org]] but this happens on a regular basis. [[https://github.com/dorneanu/access-key-rotator][access-key-rotator]] hasn't been changed since a while and I also did *not* manage to start working on the book about {{{zk_topic(golang,Golang)}}} and Security.
+
+** For 2024
+
+For the up-coming year I'd like to focuss on several things. Continuing in the same scheme I did for my past goals:
+
+- Learning
+  - Music
+
+    Besides playing the *Djembe* this year I've started learning how to play the *Bongos*. With the help of ChatGPT I was able to read notes again and therefore play some easy to more advanced rhythms on the Bongos. Next year I'd like to keep practicing and get more insights into Latin rhythms (Salsa, Bachata, Merengue, Mambo, Rumba etc.)
+
+- Projects
+  - Play with htmx and Golang
+
+    I'd definitely love to do something /front-end/ related and therefore I'd like to play a little bit with [[https://htmx.org/][htmx]]. But first I need an idea for a small application. This way I plan to code again in Golang (this year I didn't manage to code anything useful).
+
+  - Security of Github repositories
+
+    While dealing with /Github/ and the /security settings/ of /repositories/, I wanted to have a small tool at hand which will check for different settings (for each repository in an organization) and report (via Slack, E-Mail) if some settings are not /compliant/.
+    #+begin_sidenote
+    Obviously there needs to be a list of settings which the tool should check against.
+    #+end_sidenote
+
+  - Finish "Documentation as Code" series
+
+    This year I've started writing about several documentation techniques (as code) in my [[/2023/07/18/documentation-as-code-for-cloud/][Documentation as Code]] series. I definitely want to add at least [[https://d2lang.com/][D2Lang]] to it.
