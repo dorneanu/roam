@@ -41,6 +41,7 @@ draft = false
 
 ### Security {#security}
 
+-   2023-12-12 ◦ [Kubernetes security fundamentals: API Security | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-2/)
 -   2023-10-12 ◦ [KubeHound: Identifying attack paths in Kubernetes clusters | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/kubehound-identify-kubernetes-attack-paths/)
 -   2023-10-09 ◦ [Kubernetes security fundamentals: Introduction | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-1/)
 -   2023-09-13 ◦ [How to Hack Kubernetes (and How to Protect It)](https://goteleport.com/blog/how-to-hack-kubernetes/?utm_campaign=0912Cooperpress&utm_medium=partner&utm_source=golang)

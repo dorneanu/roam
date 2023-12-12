@@ -108,9 +108,9 @@ I've found /deep work/ (as a state of mind) to be very dificult to achieve. Init
 
 Often I thought I was focussing for at least 30 minutes when in reality it was only 10 minutes. For me it was a strong indicator my mind was trying to fool me into jumping to other tasks, force me to /procrastinate/.
 
-** Minimize context switch
+** Train your visual focus
 
-This is nothing new but still an advice ignored by many.
+This is nothing new but still an advice ignored by many. We all know multi-tasking is bad for our attention (and therefore productivity) and to many context switches (switching between different tasks, jump to different windows on your PC) can significantly diminish your ability to focus on one thing.
 
 Some months ago I was listening to Andrew Huberman's podcast on [[https://www.youtube.com/watch?v=LG53Vxum0as&ab_channel=AndrewHuberman][How to Focus to Change Your Brain]] where, simply put, he linked our ability to focus to *visual* focus.
 
@@ -122,17 +122,69 @@ What's interesting and vitally important to understanding how to access neuropla
 -- [[https://www.youtube.com/watch?v=LG53Vxum0as&ab_channel=AndrewHuberman][How to Focus to Change Your Brain (Youtube)]]
 #+end_quote
 
+So, Huberman suggests that by sharpening visual focus, we can directly influence *neuroplasticity* which is our ability (or the brain's one) to adapt and learn new information. What's even more important is what exactly you focus on:
 
-⚠: TODO Screenshots (of xwidget-webkit, different queries)
+#+begin_quote
+And the behavioral practices that are anchored in visual focus are going to be
+the ones that are going to allow you to develop great depth, and duration of
+focus. So let's think about visual focus for a second. When we focus on
+something visually, we have two options, we can either look at a very small
+region of space, with a lot of detail, and a lot of precision. Or we can dilate
+our gaze, and we can see big pieces of visual space with very little detail.
+It's a trade off, we can't look at everything at high resolution. This is why we
+have these the pupil more or less relates to the phobia of the eye, which is the
+area in which we have the most receptors, the highest density of receptors that
+perceive light. And so our acuity is much better in the center of our visual
+field than our periphery.
+
+-- [[https://www.youtube.com/watch?v=LG53Vxum0as&ab_channel=AndrewHuberman][How to Focus to Change Your Brain (Youtube)]]
+#+end_quote
+
+In a practical way Huberman advises practicing visual focus at the /specific distance of one hand/, like reading a book or looking at a screen. This means that reading books and therefore engaging your brain into cognitive tasks
+#+begin_sidenote
+Opposed to reading short articles on the web. Or just skimming the titles.
+#+end_sidenote
+will definitely have an impact on your capacity to *focus* on a certain thing
+for longer periods of time.
+
+At the same time (and this is my own interpretation) I think that keeping your eyes focused on a small region on the screen without further distractions (cat pics, gifs, 10 browser tabs opened) will have the same efect. Obviously I would not have writen this without making my own observations before.
+
+What happened: The more I stick to one window on my laptop without having to switch between apps (e.g. open browser, open mail client) the more focussed I feel. Even if I have to do {{{zk_topic(shallow-work,shallow work)}}} I try to remain in the same context/window. Just to give some
+#+begin_sidenote
+There are way more to be explored and discussed.
+#+end_sidenote
+examples:
+- I need to add more tasks to a project
+  - I just call my capturing system (~org-capture~ in Emacs) to quickly write down a note
+- I need to lookup sth on the web
+  - From within Emacs I have multiple options:
+    - Fire up Google search (using ~xwidget-webkit~)
+    - I can use built-in /lookup/ mechanisms for searching
+- I need to check my mails
+  - I just open ~mu4e~
+- I need to ask the AI lords
+  - I open ~chatgpt-shell~
+
+Some other screenshots:
+
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/productivity-emacs-lookup.png" title="Lookup options in Emacs" caption="Lookup options in Emacs" pos="left" >}}
+
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/productivity-emacs-search-engines.png" title="Different search engines in Emacs" caption="Different search engines in Emacs" pos="left" >}}
+
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/productivity-emacs-xwidget-webkit.png" title="Open Google search from within Emacs while writing this article" caption="Open Google search from within Emacs while writing this article" pos="left" >}}
+
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/productivity-emacs-chatgpt.png" title="Use ChatGPT inside Emacs without jumping to an extra window" caption="Use ChatGPT inside Emacs" pos="left" >}}
 
 
 * Health
 ** Tracking
-* Tools
+* Software/Tools
+Inspired by [[https://daryl.wakatara.com/software-tools-i-use-2023-edition/][Daryl's post]] here's a list of tools and software I've used in 2023:
+
 * Goals
 
 First of all a quick recap of [[/2021/12/13/my-2021-review/#outlook][my goals for 2022]]:
-- Learning
+- /Learning/
 
   2 years ago I wrote I'd like to deep-dive more into *TypeScript*. I still didn't do anything complex in TS but from time to time I still use it (in combination with AWS CDK, like I did for the [[https://github.com/dorneanu/aws-custom-resource-golang][AWS custom resources project]]). I also don't expect this to change as for backend I'd still go for *Golang* (and work-wise I'm "forced" to use Python for small things).
 
@@ -146,7 +198,7 @@ First of all a quick recap of [[/2021/12/13/my-2021-review/#outlook][my goals fo
 
   Among frontend stuff, I was more than motivated to finally learn more about *Web3* (especially *Ethereum*). I did some coding in *Solidity* and also read [[https://www.goodreads.com/en/book/show/33584554][Mastering Ethereum: Building Smart Contracts and DApps]]. Additionally I also learned more about *Smart Contract Security* (I hope to release my notes next year).
 
-- Reading
+- /Reading/
 
   My reading list for 2022 was:
 
@@ -163,7 +215,7 @@ First of all a quick recap of [[/2021/12/13/my-2021-review/#outlook][my goals fo
 
   The rest is still on my {{{zk_topic(books/todo/,TODO list)}}}.
 
-- Projects
+- /Projects/
 
   Of course there were some ideas and projects I wanted to work on:
 
@@ -180,13 +232,13 @@ First of all a quick recap of [[/2021/12/13/my-2021-review/#outlook][my goals fo
 
 For the up-coming year I'd like to focuss on several things. Continuing in the same scheme I did for my past goals:
 
-- Learning
+- /Learning/
   - Music
 
     Besides playing the *Djembe* this year I've started learning how to play the *Bongos*. With the help of ChatGPT I was able to read notes again and therefore play some easy to more advanced rhythms on the Bongos. Next year I'd like to keep practicing and get more insights into Latin rhythms (Salsa, Bachata, Merengue, Mambo, Rumba etc.)
 
-- Projects
-  - Play with htmx and Golang
+- /Projects/
+  - Play with {{{zk_topic(htmx,HTMX)}}} and {{{zk_topic(golang,Golang)}}}
 
     I'd definitely love to do something /front-end/ related and therefore I'd like to play a little bit with [[https://htmx.org/][htmx]]. But first I need an idea for a small application. This way I plan to code again in Golang (this year I didn't manage to code anything useful).
 
@@ -200,3 +252,7 @@ For the up-coming year I'd like to focuss on several things. Continuing in the s
   - Finish "Documentation as Code" series
 
     This year I've started writing about several documentation techniques (as code) in my [[/2023/07/18/documentation-as-code-for-cloud/][Documentation as Code]] series. I definitely want to add at least [[https://d2lang.com/][D2Lang]] to it.
+
+# Local Variables:
+# org-download-image-dir: /tmp/
+# End:
