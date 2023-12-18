@@ -41,6 +41,7 @@ draft = false
 
 ### Security {#security}
 
+-   2023-12-13 ◦ [AWS EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/security/docs/)
 -   2023-12-12 ◦ [Kubernetes security fundamentals: API Security | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-2/)
 -   2023-10-12 ◦ [KubeHound: Identifying attack paths in Kubernetes clusters | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/kubehound-identify-kubernetes-attack-paths/)
 -   2023-10-09 ◦ [Kubernetes security fundamentals: Introduction | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-1/)
