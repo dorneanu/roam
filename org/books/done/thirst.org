@@ -2,7 +2,7 @@
 :ID:       d33d27ae-2ec6-4fa1-ae7a-ba7a70c4bf24
 :END:
 #+title: Thirst
-#+filetags: :society:book:
+#+filetags: :biography:society:book:
 #+date: 2023-02-27
 
 [[https://www.goodreads.com/book/show/37588710-thirst][A Story of Redemption, Compassion, and a Mission to Bring Clean Water to the World]]

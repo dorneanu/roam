@@ -2,6 +2,7 @@
 :ID:       9c5301be-53fa-414d-83d6-0bd2bce26759
 :END:
 #+title: Twilight of Democracy
+#+date: 2023-12-08
 #+filetags: :society:politics:book:
 
 👉 [[https://www.goodreads.com/book/show/50155421-twilight-of-democracy][Twilight of Democracy: The Seductive Lure of Authoritarianism by Anne Applebaum | Goodreads]]

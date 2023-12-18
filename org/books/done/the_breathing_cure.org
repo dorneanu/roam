@@ -2,7 +2,7 @@
 :ID:       7381a463-9887-463c-8a9b-986fec145d0f
 :END:
 #+title: The Breathing Cure
-#+filetags: :todo:breathing:
+#+filetags: :health:todo:breathing:
 #+date: 2023-04-01
 
 - https://www.goodreads.com/en/book/show/57213922

@@ -1,12 +1,8 @@
 +++
 title = "Kreatin"
+author = ["Victor Dorneanu"]
 draft = false
 +++
-
--   Lesen:
-    -   <https://www.sunday.de/creatin-monohydrat-pulver.html>
-    -
-
 
 ## Dosages {#dosages}
 
@@ -50,3 +46,8 @@ draft = false
 ## Sources {#sources}
 
 -   2023-12-08 ◦ [Science of Muscle Growth, Increasing Strength &amp; Muscular Recovery - YouTube](https://www.youtube.com/watch?v=XLr2RKoD-oY&t=411s)
+
+
+## Resources {#resources}
+
+-   <https://www.sunday.de/creatin-monohydrat-pulver.html>

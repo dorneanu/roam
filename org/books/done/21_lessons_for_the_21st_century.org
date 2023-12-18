@@ -2,7 +2,8 @@
 :ID:       7d417f99-d82a-4433-b1b7-48343258a4e3
 :END:
 #+title: 21 Lessons for the 21st Century
-#+filetags: :todo:book:
+#+filetags: :science:philosophy:history:todo:book:
 #+date: 2023-11-20
 
-tbd
+
+👉 2023-12-18 ◦ [[https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century][21 Lessons for the 21st Century]]

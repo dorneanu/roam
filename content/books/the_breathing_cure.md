@@ -1,7 +1,8 @@
 +++
 title = "The Breathing Cure"
+author = ["Victor Dorneanu"]
 date = 2023-04-01
-tags = ["todo", "breathing"]
+tags = ["health", "todo", "breathing"]
 draft = false
 +++
 

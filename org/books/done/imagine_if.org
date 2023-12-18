@@ -3,7 +3,7 @@
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author '("Sir Ken Robinson")
 :END:
 #+title: Imagine if...
-#+filetags: :society:book:
+#+filetags: :education:society:book:
 #+date: 2023-02-14
 
 by Sir Ken Robinson

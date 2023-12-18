@@ -1,6 +1,7 @@
 +++
 title = "Twilight of Democracy"
 author = ["Victor Dorneanu"]
+date = 2023-12-08
 tags = ["society", "politics", "book"]
 draft = false
 +++

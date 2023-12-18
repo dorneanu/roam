@@ -1,7 +1,8 @@
 +++
 title = "Thirst"
+author = ["Victor Dorneanu"]
 date = 2023-02-27
-tags = ["society", "book"]
+tags = ["biography", "society", "book"]
 draft = false
 +++
 

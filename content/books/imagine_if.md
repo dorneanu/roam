@@ -1,7 +1,8 @@
 +++
 title = "Imagine if…"
+author = ["Victor Dorneanu"]
 date = 2023-02-14
-tags = ["society", "book"]
+tags = ["education", "society", "book"]
 draft = false
 +++
 

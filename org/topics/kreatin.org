@@ -8,10 +8,6 @@
 #+title: Kreatin
 #+type: text/vnd.tiddlywiki
 
-- Lesen:
-  - [[https://www.sunday.de/creatin-monohydrat-pulver.html]]
-  - 
-
 * Dosages
 - Based on Body Weight: For a person weighing around 180 pounds, *5 grams per
   day is recommended*. Heavier individuals may need 10-15 grams, while those
@@ -39,3 +35,5 @@
   accelerated beard growth, these effects are not universal.
 * Sources
 - 2023-12-08 ◦ [[https://www.youtube.com/watch?v=XLr2RKoD-oY&t=411s][Science of Muscle Growth, Increasing Strength & Muscular Recovery - YouTube]]
+* Resources
+- [[https://www.sunday.de/creatin-monohydrat-pulver.html]]
