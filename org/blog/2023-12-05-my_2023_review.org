@@ -28,7 +28,7 @@ I like Eli Bendersky's [[https://eli.thegreenplace.net/tag/book-reviews][Book re
 here are my recommendations for you:
 
 - [[https://brainfck.org/tags/politics/][#politics]]
-  - [[https://www.penguinrandomhouse.com/books/570367/the-road-to-unfreedom-by-timothy-snyder/][The Road to Unfreedom]] (by [[https://timothysnyder.org/][Timothy Snyder]])
+  - 📖 [[https://www.penguinrandomhouse.com/books/570367/the-road-to-unfreedom-by-timothy-snyder/][The Road to Unfreedom]] (by [[https://timothysnyder.org/][Timothy Snyder]])
 
     I've read this book in [[https://www.goodreads.com/book/show/58468558-drumul-spre-nelibertate][Romanian]] mainly because I wanted to know more about
     Eastern Europe politics and the on-going war in Ucraine. In his book Synder
@@ -47,7 +47,7 @@ here are my recommendations for you:
     👉 {{{zk_book(drumul-spre-nelibertate/, My own notes)}}} (in Romanian)
 
 - [[https://brainfck.org/tags/society/][#society]]
-  - [[https://www.goodreads.com/en/book/show/56969567][Mother of Invention: How Good Ideas Get Ignored in an Economy Built for Men]]
+  - 📖 [[https://www.goodreads.com/en/book/show/56969567][Mother of Invention: How Good Ideas Get Ignored in an Economy Built for Men]]
 
     I've chosen this book to be in the top list because it somehow opened my eyes
     for all the gender biases and inequalities that already /have/ existed in our
@@ -63,7 +63,7 @@ here are my recommendations for you:
 
     👉 {{{zk_book(die-mutter-der-erfindung/, My own notes)}}} (in German)
 
-  - [[https://www.goodreads.com/en/book/show/50695158][The Lonely Century: How to Restore Human Connection in a World That's Pulling Apart]]
+  - 📖 [[https://www.goodreads.com/en/book/show/50695158][The Lonely Century: How to Restore Human Connection in a World That's Pulling Apart]]
 
     The issue of loneliness and social disconnection is something I've been
     observing for years. Despite our inter-connected world with instant
@@ -75,14 +75,59 @@ here are my recommendations for you:
 
     👉 [[/2023/01/21/book-summary-the-lonely-century/][My book summary: The Lonely Century]] / {{{zk_book(the-lonely-century/, My own notes)}}} (in Romanian)
 
- - [[https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century][21 Lessons for the 21st Century]]
+ - [[https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century][📖 21 Lessons for the 21st Century]]
 
-   I have still not processed all thoughts and ideas presented in this book.
+   I have still not processed all thoughts and ideas presented in this book. But
+   if you decide to read this topic, be prepared for a captivating journey into
+   different topics such as technology, politics and religion. The book also
+   focusses on the intersection of AI and humanity. Yuval Noah Harari explains
+   the profound implications of AI, raising important questions about its impact
+   on society and our individual lives. He explores the potential /disruptions/
+   caused by automation and the potential challanges AI poses to human labor and
+   employment. In this context the author emphasizes the importance of
+   protecting human values (and forces) in an increasingly automated world.
+
+   After reading this book I was more than determined to find out more about the author's other publications (e.g. [[https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=oFIgkOhZW0&rank=1][Sapiens: A Brief History of Humankind]]).
 
 
 
-- #health
-- #tech
+- [[https://brainfck.org/tags/health/][#health]]
+  - [[https://www.goodreads.com/en/book/show/49358915][📖 Exercised: Why Something We Never Evolved to Do Is Healthy and Rewarding]]
+
+    In this book I've learned a lot about the role of *exercise* in our lives.
+    The author challenges the conventional wisdom on exercise, emphasizing the
+    importance of /natural movement/ over high-effort exercises. He argues that
+    our bodies are designed for normal, seasonal physical activity and that
+    prioritizing activities like walking, running, dancing can have a profound
+    impact on our health and well-being. Lieberman encourages people to rethink
+    their relationship to exercise and fitness and therefore embrace the
+    benefits of moving naturally, sitting less and engaging in full-body
+    movements.
+
+    👉 {{{zk_book(exercised/, My own notes)}}}
+
+- [[https://brainfck.org/tags/biography/][#biography]]
+
+  The more books I read, the more I realize my affinity for reading
+  (auto-)biographies. This way I can delve into the lives of remarkable
+  individuals who had a profound impact on our world. It is through their
+  accomplishments (and wisdom!) that I continue to cultivate my understanding of
+  our shared human history.
+
+  - 📖 [[https://www.goodreads.com/book/show/37588710-thirst][Thirst: A Story of Redemption, Compassion, and a Mission to Bring Clean Water to the World]]
+
+    This book kept my mind busy for a while, primarily due to one key reason:
+    The undeniable connection between willpower and motivation. In "Thirst"
+    Scott Harrison shares his personal transformation from a nightclub promoter
+    to the founder of the nonprofit organization "[[https://www.charitywater.org/][Charity: Water]]" which aims to
+    provide clean and safe drinking water to communities in need around the
+    world. Along the way, Scott confronts personal challenges and navigates the complexities of the nonprofit world, sharing valuable lessons on resilience, empathy, and the power of collective action.
+
+    Once you have finished reading the book, be sure to visit
+    [[https://www.charitywater.org/thirst][charitywater.org/thirst]] to access the additional digital content, including
+    videos and pictures, that the author has prepared for you. It is truly
+    remarkable and adds an extra layer of depth to the reading experience.
+
 
 * Productivity
 I usually don't keep track of productivity tools and workflows, as everyone's needs are unique with regards to project / time / resources management. However, I'd like to share some "tools" that have changed the way I work and deal with new initiatives/projects.
@@ -96,17 +141,24 @@ allowed me to plan in advance but also be *flexible* whenever something deviated
 from the /initial/ plan. This way I was able to come up with some
 initiatives/projects for the next quarter/month and define small chunks of work I could do on a weekly/daily level.
 
-⚠: TODO Insert some screenshots here
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/productivity-org-mode.png" title="Planning using ORG mode" caption="Within the current year I have several quarterly/monthly, weekly goals" pos="left" >}}
 
 It is a very *visual* system that works well in a digital *and* analog world. No matter which fancy productivity tool you prefer, in the end it's all about the *workflow* and *processes* you implement in order to make consistent progress and contribute to your personal and professional growth.
+
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/productivity-weekly.png" title="Weekly planning using an analogue planner" caption="For each day in the week I try to block time for different projects/tasks I need to work on" pos="left" >}}
+
 
 ** Track focus time
 
 I've found /deep work/ (as a state of mind) to be very dificult to achieve. Initially I thought I could train this skill while /meditating/. It did help to some degree but the true deep work killer gadget turned out to be ...my watch. I used my watch to setup a countdown (e.g. 1 hour) which always reminded I should be focussing whenever I've felt I was mind-wandering.
 
-⚠: TODO Insert some picture from watch
+#+ATTR_HTML: :height 20px
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/time-tracking.png" title="Track focus time using a watch" caption="I usually have different trackers I can chose from." pos="left" >}}
 
 Often I thought I was focussing for at least 30 minutes when in reality it was only 10 minutes. For me it was a strong indicator my mind was trying to fool me into jumping to other tasks, force me to /procrastinate/.
+
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/time-tracking-running.png" title="Time tracker running" caption="The huge display shows how much time is left and also keep any distractions (notifications) at distance." pos="left" >}}
+
 
 ** Train your visual focus
 
@@ -175,9 +227,36 @@ Some other screenshots:
 
 #+html: {{< gbox src="/posts/img/2023/my-2023-review/productivity-emacs-chatgpt.png" title="Use ChatGPT inside Emacs without jumping to an extra window" caption="Use ChatGPT inside Emacs" pos="left" >}}
 
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/productivity-emacs-xwidget-webkit-multiple.png" title="Use multiple xwidget-webkit instances to read from multiple sources" caption="Multiple xwidget-webkit instances" pos="left" >}}
 
-* Health
-** Tracking
+* Habits
+This is where I /track/ important activities in order to achieve personal goals but also to keep me motivated. I still use the [[https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en&gl=US][Loop Habit Tracker]] on my smartphone.
+
+** Sports
+
+2 years ago I've felt [[/2021/12/13/my-2021-review/#sports-workout][somehow embarassed]] about my sports related activities. That's why my overall goal was to do more sports, no matter what:
+
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/tracking-sport.png" title="Sports" caption="Heatmap 2023" pos="left" >}}
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/tracking-sport-2.png" title="Sports" caption="Heatmap 2023" pos="left" >}}
+
+I not only increased my sport activities noticeably, but I also managed to workout *regularly* (notice the line on Fridays where I usually go for bouldering).
+
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/tracking-sport-bouldering.png" title="Bouldering in Berlin" caption="Bouldering in Berlin" pos="left" >}}
+
+Also this year I've surfed for the very first time.
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/tracking-sport-surfing.png" title="Surfing in Portugal" caption="Surfing in Portugal" pos="left" >}}
+
+** Reading
+
+Overall I think this year I've read a lot, sometimes multiple books per month. Instead of buying books, I've extensively used the [[https://www.overdrive.com/apps/libby][Libby App]] where you can also rent /audio books/ from your local library. As I've mentioned before, I've also re-activated my [[https://www.goodreads.com/user/show/121423977-victor-dorneanu][Goodreads account]] where I usually keep track of books I'm currently reading.
+
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/tracking-reading.png" title="Reading" caption="Heatmap 2023" pos="left" >}}
+#+html: {{< gbox src="/posts/img/2023/my-2023-review/tracking-reading-2.png" title="Reading" caption="Heatmap 2023" pos="left" >}}
+
+💡: Don't forget to check out [[https://brainfck.org/books/][my full bookshelf for 2023]].
+
+
+
 * Software/Tools
 Inspired by [[https://daryl.wakatara.com/software-tools-i-use-2023-edition/][Daryl's post]] here's a list of tools and software I've used in 2023:
 
