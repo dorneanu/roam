@@ -149,6 +149,8 @@ When you are collecting text using append-to-register and prepend-to-register, y
   - Examples using emacs org mode babel inline source code with different backend languages
 ** Reports
 - 2023-01-05 ◦ [[https://www.adventuresinwhy.com/post/org-mode-timekeeping/][Timekeeping with Emacs and Org-Mode | Adventures in Why]]
+** Searching
+- 2023-12-19 ◦ [[http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html][nfdn: Improving Emacs isearch Usability with Transient]]
 ** Productivity
 - 2023-09-06 ◦ [[https://zck.org/emacs-repeat-mode-emacs-repeat-mode][Easily repeat Emacs functions: a repeat post]]
 - 2023-04-25 ◦ [[https://github.com/karthink/project-x][GitHub - karthink/project-x: Ehancements to Emacs' built in project library.]]

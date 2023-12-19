@@ -1,6 +1,6 @@
 +++
 title = "Emacs"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 tags = ["emacs", "ide"]
 draft = false
 +++
@@ -204,7 +204,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 ### Writing {#writing}
 
--   2023-12-04 ◦ [Emacs Turbo-Charges My Writing // Take on Rules](https://takeonrules.com/2023/12/03/emacs-turbo-charges-my-writing/)
+-   2023-12-04 ◦ [[<https://takeonrules.com/2023/12/03/emacs-turbo-charges-my-writing/>][Emacs Turbo-Charges My Writing // Take on Rules]
 -   2022-11-07 ◦ [blakewatson.com – Almost monospaced: the perfect fonts for writing](https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/)
 -   2022-09-20 ◦ [Creative writing with Emacs – Jacmoe's Cyber Soapbox](https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/)
 
@@ -218,6 +218,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
 ### Reports {#reports}
 
 -   2023-01-05 ◦ [Timekeeping with Emacs and Org-Mode | Adventures in Why](https://www.adventuresinwhy.com/post/org-mode-timekeeping/)
+
+
+### Searching {#searching}
+
+-   2023-12-19 ◦ [nfdn: Improving Emacs isearch Usability with Transient](http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html)
 
 
 ### Productivity {#productivity}

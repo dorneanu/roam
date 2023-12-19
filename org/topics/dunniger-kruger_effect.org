@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       9ed3d4f9-91b0-417d-927f-4af38711be2c
+:END:
 #+created: 20211229071704670
 #+modified: 20211229071753727
 #+origin: https://www.britannica.com/science/Dunning-Kruger-effect
@@ -7,6 +10,8 @@
 #+type: text/vnd.tiddlywiki
 
 #+begin_quote
-Dunning-Kruger effect, in psychology, a cognitive bias whereby people with limited knowledge or competence in a given intellectual or social domain greatly overestimate their own knowledge or competence in that domain relative to objective criteria or to the performance of their peers or of people in general.
-
+Dunning-Kruger effect, in psychology, a cognitive bias whereby people with
+limited knowledge or competence in a given intellectual or social domain greatly
+overestimate their own knowledge or competence in that domain relative to
+objective criteria or to the performance of their peers or of people in general.
 #+end_quote
