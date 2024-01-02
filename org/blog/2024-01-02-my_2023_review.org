@@ -4,40 +4,42 @@
 #+SETUPFILE: setup.org
 #+filetags: :books:productivity:review:
 #+TITLE: My 2023 review
-#+CREATED: 2023-12-05
+#+CREATED: 2024-01-02
 #+HUGO_DRAFT: true
 
-I feel somehow ashamed I didn't a review last year. But this year I put some
-time aside to reflect on this year's highlights, what I've learned, how I
-changed some habbits, how I sticked to some old ones.
+I feel somewhat ashamed for not doing a review last year. However, this year I
+have set aside some time to reflect on the highlights of this year, what I have
+learned, the habits I have changed, and the habits I have stucked to. The
+following is my review for 2023, divided into several sections.
+
 
 * Books
-This year I've finally reactivated my [[https://www.goodreads.com/user/show/121423977-victor-dorneanu][Goodreads profile]] mainly for getting
-recommendations on what to read next. Although I have my own [[https://brainfck.org/t/books/todo/][TODO list]] which
-grows from year to year, I'm always curious to find out what /others/ have read
+This year I've finally reactivated my [[https://www.goodreads.com/user/show/121423977-victor-dorneanu][Goodreads profile]] primarily for getting
+book recommendations. Although I have my own [[https://brainfck.org/t/books/todo/][TODO list]] for reading, which
+continues to grow each year, I'm always curious to see what /others/ have read
 addtionally after finishing one book.
 
 As always you can find my list of read books at [[https://brainfck.org/books/][brainfck.org/books]] where also
 this year I've added tags to the books and restructured the [[https://github.com/dorneanu/roam/blob/main/layouts/books/list.html][Hugo template]] to
 list them as well.
 
-Instead of trying to summarize each book
+Instead of trying to summarize /each book/
 #+begin_sidenote
 I like Eli Bendersky's [[https://eli.thegreenplace.net/tag/book-reviews][Book reviews]]
 #+end_sidenote
-here are my recommendations for you:
+here are my 2023 recommendations for you:
 
 - [[https://brainfck.org/tags/politics/][#politics]]
   - 📖 [[https://www.penguinrandomhouse.com/books/570367/the-road-to-unfreedom-by-timothy-snyder/][The Road to Unfreedom]] (by [[https://timothysnyder.org/][Timothy Snyder]])
 
-    I've read this book in [[https://www.goodreads.com/book/show/58468558-drumul-spre-nelibertate][Romanian]] mainly because I wanted to know more about
+    I've read this book mainly because I wanted to know more about
     Eastern Europe politics and the on-going war in Ucraine. In his book Synder
     examines the historical and geopolitical aspects that have shaped the world
-    recenlty, especially highlighting the actions of Russia and its impact on
+    recently, especially highlighting the actions of Russia and its impact on
     global politics. The book gives the readers insights into the strategies
     used by influential figures (philosophers, politicians etc.) to undermine
     democratic values, manipulate public opinion which all gave birth to
-    authoritarianism and the erosion of democracy.
+    /authoritarianism/ and the erosion of democracy.
 
     Although this book offers a deep analysis of the Soviet and Russian
     politics, I think Snyder focussed to much on Russia's actions solely which
@@ -71,23 +73,24 @@ here are my recommendations for you:
     world, I think we (as human beings) are suffering from real human
     connections. Also this book serves as a wake-up call to address the
     isolation we're currently facing and provides strong arguments for building
-    stronged, more connected communities.
+    strong, more connected communities.
 
     👉 [[/2023/01/21/book-summary-the-lonely-century/][My book summary: The Lonely Century]] / {{{zk_book(the-lonely-century/, My own notes)}}} (in Romanian)
 
  - [[https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century][📖 21 Lessons for the 21st Century]]
 
    I have still not processed all thoughts and ideas presented in this book. But
-   if you decide to read this topic, be prepared for a captivating journey into
-   different topics such as technology, politics and religion. The book also
-   focusses on the intersection of AI and humanity. Yuval Noah Harari explains
+   if you decide to read this book, be prepared for a captivating journey into
+   different topics such as technology, [[/tags/politics/][politics]] and [[/tags/religion/][religion]]. The book also
+   focusses on the intersection of AI and humanity. /Yuval Noah Harari/ explains
    the profound implications of AI, raising important questions about its impact
    on society and our individual lives. He explores the potential /disruptions/
    caused by automation and the potential challanges AI poses to human labor and
    employment. In this context the author emphasizes the importance of
    protecting human values (and forces) in an increasingly automated world.
 
-   After reading this book I was more than determined to find out more about the author's other publications (e.g. [[https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=oFIgkOhZW0&rank=1][Sapiens: A Brief History of Humankind]]).
+   After reading this book I was more than determined to find out more about the
+   author's other publications (e.g. [[https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=oFIgkOhZW0&rank=1][Sapiens: A Brief History of Humankind]]).
 
 
 
@@ -97,9 +100,9 @@ here are my recommendations for you:
     In this book I've learned a lot about the role of *exercise* in our lives.
     The author challenges the conventional wisdom on exercise, emphasizing the
     importance of /natural movement/ over high-effort exercises. He argues that
-    our bodies are designed for normal, seasonal physical activity and that
+    our bodies are /designed/ for /normal, seasonal physical activity/ and that
     prioritizing activities like walking, running, dancing can have a profound
-    impact on our health and well-being. Lieberman encourages people to rethink
+    impact on our health and well-being. /Lieberman/ encourages people to rethink
     their relationship to exercise and fitness and therefore embrace the
     benefits of moving naturally, sitting less and engaging in full-body
     movements.
@@ -112,16 +115,18 @@ here are my recommendations for you:
   (auto-)biographies. This way I can delve into the lives of remarkable
   individuals who had a profound impact on our world. It is through their
   accomplishments (and wisdom!) that I continue to cultivate my understanding of
-  our shared human history.
+  our shared human history. Here's my recommendation for 2023:
 
   - 📖 [[https://www.goodreads.com/book/show/37588710-thirst][Thirst: A Story of Redemption, Compassion, and a Mission to Bring Clean Water to the World]]
 
     This book kept my mind busy for a while, primarily due to one key reason:
     The undeniable connection between willpower and motivation. In "Thirst"
-    Scott Harrison shares his personal transformation from a nightclub promoter
-    to the founder of the nonprofit organization "[[https://www.charitywater.org/][Charity: Water]]" which aims to
-    provide clean and safe drinking water to communities in need around the
-    world. Along the way, Scott confronts personal challenges and navigates the complexities of the nonprofit world, sharing valuable lessons on resilience, empathy, and the power of collective action.
+    /Scott Harrison/ shares his personal transformation from a nightclub
+    promoter to the founder of the nonprofit organization "[[https://www.charitywater.org/][Charity: Water]]" which
+    aims to provide clean and safe drinking water to communities in need around
+    the world. Along the way, Scott confronts personal challenges and navigates
+    the complexities of the nonprofit world, sharing valuable lessons on
+    resilience, empathy, and the power of collective action.
 
     Once you have finished reading the book, be sure to visit
     [[https://www.charitywater.org/thirst][charitywater.org/thirst]] to access the additional digital content, including
@@ -130,46 +135,71 @@ here are my recommendations for you:
 
 
 * Productivity
-I usually don't keep track of productivity tools and workflows, as everyone's needs are unique with regards to project / time / resources management. However, I'd like to share some "tools" that have changed the way I work and deal with new initiatives/projects.
+I usually don't keep track of productivity tools and workflows, as everyone's
+needs are unique with regards to project / time / resources management. However,
+I'd like to share some "tools" that have changed the way I work and deal with
+new initiatives/projects.
 ** Multi-Scale Planning
-As a long time listener of [[https://calnewport.com/podcasts/][Cal Newport's podcast]] of course I had the chance to learn more about his productivity hacks and tipps. Even more than his brilliant advice in {{{zk_book(deep-work,Deep Work)}}} I've found {{{zk_topic(multi-scale-planning,Multi-Scale Planning)}}} to be a true game changer.
+As a long time listener of [[https://calnewport.com/podcasts/][Cal Newport's podcast]] of course I had the chance to learn more
+about his productivity hacks and tipps. Even more than his brilliant advice in
+{{{zk_book(deep-work,Deep Work)}}} I've found {{{zk_topic(multi-scale-planning,Multi-Scale
+Planning)}}} to be a true game changer.
 
-While I cannot cover all details (maybe I'll do so in a future post), the main idea is to do planning at *multiple* time scales such as quarterly/monthly, weekly and daily. Each scale has a different level of details as you move from one scale to another.
+While I cannot cover all details (maybe I'll do so in a future post), the main idea is to
+do planning at *multiple* time scales such as quarterly/monthly, weekly and daily. Each
+scale has a different level of details as you move from one scale to another.
 
-This approach to /time management/ (because this is what it's about, right?)
-allowed me to plan in advance but also be *flexible* whenever something deviated
-from the /initial/ plan. This way I was able to come up with some
-initiatives/projects for the next quarter/month and define small chunks of work I could do on a weekly/daily level.
+This approach to /time management/ (because this is what it's about, right?) allowed me to
+plan in advance but also be *flexible* whenever something deviated from the /initial/
+plan. This way I was able to come up with some initiatives/projects for the next
+quarter/month and define small chunks of work I could do on a weekly/daily level.
 
 #+html: {{< gbox src="/posts/img/2023/my-2023-review/productivity-org-mode.png" title="Planning using ORG mode" caption="Within the current year I have several quarterly/monthly, weekly goals" pos="left" >}}
 
-It is a very *visual* system that works well in a digital *and* analog world. No matter which fancy productivity tool you prefer, in the end it's all about the *workflow* and *processes* you implement in order to make consistent progress and contribute to your personal and professional growth.
+It is a very *visual* system that works well in a /digital/ *and* /analog/ world. No
+matter which fancy productivity tool you prefer, in the end it's all about the *workflow*
+and *processes* you implement in order to make consistent progress and contribute to your
+personal and professional growth.
 
 #+html: {{< gbox src="/posts/img/2023/my-2023-review/productivity-weekly.png" title="Weekly planning using an analogue planner" caption="For each day in the week I try to block time for different projects/tasks I need to work on" pos="left" >}}
 
 
 ** Track focus time
 
-I've found /deep work/ (as a state of mind) to be very dificult to achieve. Initially I thought I could train this skill while /meditating/. It did help to some degree but the true deep work killer gadget turned out to be ...my watch. I used my watch to setup a countdown (e.g. 1 hour) which always reminded I should be focussing whenever I've felt I was mind-wandering.
+I've found /deep work/ (as a state of mind) to be very dificult to achieve. Initially I
+thought I could train this skill while /meditating/. It did help to some degree but the
+true deep work killer gadget turned out to be ... *my watch*. I used my watch to setup a
+countdown (e.g. 1 hour) which always reminded I should be focussing whenever I've felt I
+was mind-wandering.
 
 #+ATTR_HTML: :height 20px
 #+html: {{< gbox src="/posts/img/2023/my-2023-review/time-tracking.png" title="Track focus time using a watch" caption="I usually have different trackers I can chose from." pos="left" >}}
 
-Often I thought I was focussing for at least 30 minutes when in reality it was only 10 minutes. For me it was a strong indicator my mind was trying to fool me into jumping to other tasks, force me to /procrastinate/.
+Often I thought I was focussing for at least 30 minutes when in reality it was only 10
+minutes. For me it was a strong indicator my mind was trying to fool me into jumping to
+other tasks, force me to /procrastinate/.
 
 #+html: {{< gbox src="/posts/img/2023/my-2023-review/time-tracking-running.png" title="Time tracker running" caption="The huge display shows how much time is left and also keep any distractions (notifications) at distance." pos="left" >}}
 
 
 ** Train your visual focus
 
-This is nothing new but still an advice ignored by many. We all know multi-tasking is bad for our attention (and therefore productivity) and to many context switches (switching between different tasks, jump to different windows on your PC) can significantly diminish your ability to focus on one thing.
+This is nothing new but still an advice ignored by many. We all know multi-tasking is bad
+for our attention (and therefore productivity) and to many context switches (switching
+between different tasks, jump to different windows on your PC) can significantly diminish
+your ability to focus on one thing.
 
-Some months ago I was listening to Andrew Huberman's podcast on [[https://www.youtube.com/watch?v=LG53Vxum0as&ab_channel=AndrewHuberman][How to Focus to Change Your Brain]] where, simply put, he linked our ability to focus to *visual* focus.
+Some months ago I was listening to Andrew Huberman's podcast on [[https://www.youtube.com/watch?v=LG53Vxum0as&ab_channel=AndrewHuberman][How to Focus to Change
+Your Brain]] where, simply put, he linked our ability to focus to *visual* focus.
 
-He emphasizes that *mental focus* is closely tied to *where* and *how* we focus our eyes. Our visual system can either be unfocused or laser-focused, and this directly impacts our mental focus.
+He emphasizes that *mental focus* is closely tied to *where* and *how* we focus our eyes.
+Our visual system can either be unfocused or laser-focused, and this directly impacts our
+mental focus.
 
 #+begin_quote
-What's interesting and vitally important to understanding how to access neuroplasticity is that you can use your visual focus, *and you can increase your visual focus as a way of increasing your mental focus* focus abilities more broadly.
+What's interesting and vitally important to understanding how to access neuroplasticity is
+that you can use your visual focus, *and you can increase your visual focus as a way of
+increasing your mental focus* focus abilities more broadly.
 
 -- [[https://www.youtube.com/watch?v=LG53Vxum0as&ab_channel=AndrewHuberman][How to Focus to Change Your Brain (Youtube)]]
 #+end_quote
@@ -192,16 +222,24 @@ field than our periphery.
 -- [[https://www.youtube.com/watch?v=LG53Vxum0as&ab_channel=AndrewHuberman][How to Focus to Change Your Brain (Youtube)]]
 #+end_quote
 
-In a practical way Huberman advises practicing visual focus at the /specific distance of one hand/, like reading a book or looking at a screen. This means that reading books and therefore engaging your brain into cognitive tasks
+In a practical way Huberman advises practicing visual focus at the /specific
+distance of one hand/, like reading a book or looking at a screen. This means
+that reading books and therefore engaging your brain into cognitive tasks
 #+begin_sidenote
 Opposed to reading short articles on the web. Or just skimming the titles.
 #+end_sidenote
 will definitely have an impact on your capacity to *focus* on a certain thing
 for longer periods of time.
 
-At the same time (and this is my own interpretation) I think that keeping your eyes focused on a small region on the screen without further distractions (cat pics, gifs, 10 browser tabs opened) will have the same efect. Obviously I would not have writen this without making my own observations before.
+At the same time (and this is my *own interpretation*) I think that keeping your
+eyes focused on a small region on the screen without further distractions (cat
+pics, gifs, 10 browser tabs opened) will have the same efect. Obviously I would
+not have writen this without making my own observations before.
 
-What happened: The more I stick to one window on my laptop without having to switch between apps (e.g. open browser, open mail client) the more focussed I feel. Even if I have to do {{{zk_topic(shallow-work,shallow work)}}} I try to remain in the same context/window. Just to give some
+What happened: The more I stick to one window on my laptop without having to
+switch between apps (e.g. open browser, open mail client) the more focussed I
+feel. Even if I have to do {{{zk_topic(shallow-work,shallow work)}}} I try to remain
+in the same context/window. Just to give some
 #+begin_sidenote
 There are way more to be explored and discussed.
 #+end_sidenote
@@ -255,17 +293,16 @@ Overall I think this year I've read a lot, sometimes multiple books per month. I
 
 💡: Don't forget to check out [[https://brainfck.org/books/][my full bookshelf for 2023]].
 
-
-
-* Software/Tools
-Inspired by [[https://daryl.wakatara.com/software-tools-i-use-2023-edition/][Daryl's post]] here's a list of tools and software I've used in 2023:
-
 * Goals
 
 First of all a quick recap of [[/2021/12/13/my-2021-review/#outlook][my goals for 2022]]:
 - /Learning/
 
-  2 years ago I wrote I'd like to deep-dive more into *TypeScript*. I still didn't do anything complex in TS but from time to time I still use it (in combination with AWS CDK, like I did for the [[https://github.com/dorneanu/aws-custom-resource-golang][AWS custom resources project]]). I also don't expect this to change as for backend I'd still go for *Golang* (and work-wise I'm "forced" to use Python for small things).
+  2 years ago I wrote I'd like to deep-dive more into *TypeScript*. I still
+  didn't do anything complex in TS but from time to time I still use it (in
+  combination with AWS CDK, like I did for the [[https://github.com/dorneanu/aws-custom-resource-golang][AWS custom resources project]]). I
+  also don't expect this to change as for backend I'd still go for *Golang* (and
+  work-wise I'm "forced" to use Python for small things).
 
   Besides *TypeScript* I wanted to learn some *Vue.JS*. Back then I wrote:
 
@@ -273,9 +310,15 @@ First of all a quick recap of [[/2021/12/13/my-2021-review/#outlook][my goals fo
   I want to be able to build modern frontend applications and use new technologies beyond HTML, CSS and JavaScript :)
   #+end_quote
 
-  I *did* do some frontend but using different technologies: For implementing [[/2022/12/15/releasing-gocial/][gocial]] I've mainly used [[https://alpinejs.dev/][Alpine.js]] and [[https://tailwindcss.com/][Tailwind CSS]]. I still have a course to do on Udemy (regarding *Vue.JS*) but I also need to find time to do it 🙈.
+  I *did* do some frontend but using different technologies: For implementing
+  [[/2022/12/15/releasing-gocial/][gocial]] I've mainly used [[https://alpinejs.dev/][Alpine.js]] and [[https://tailwindcss.com/][Tailwind CSS]]. I still have a course to
+  do on Udemy (regarding *Vue.JS*) but I also need to find time to do it 🙈.
 
-  Among frontend stuff, I was more than motivated to finally learn more about *Web3* (especially *Ethereum*). I did some coding in *Solidity* and also read [[https://www.goodreads.com/en/book/show/33584554][Mastering Ethereum: Building Smart Contracts and DApps]]. Additionally I also learned more about *Smart Contract Security* (I hope to release my notes next year).
+  Among frontend stuff, I was more than motivated to finally learn more about
+  *Web3* (especially *Ethereum*). I did some coding in *Solidity* and also read
+  [[https://www.goodreads.com/en/book/show/33584554][Mastering Ethereum: Building Smart Contracts and DApps]]. Additionally I also
+  learned more about *Smart Contract Security* (I hope to release my notes next
+  year).
 
 - /Reading/
 
@@ -305,32 +348,53 @@ First of all a quick recap of [[/2021/12/13/my-2021-review/#outlook][my goals fo
     - about Golang and Security :)
   #+end_quote
 
-  Well, I did some clean-up on [[https://brainfck.org][brainfck.org]] but this happens on a regular basis. [[https://github.com/dorneanu/access-key-rotator][access-key-rotator]] hasn't been changed since a while and I also did *not* manage to start working on the book about {{{zk_topic(golang,Golang)}}} and Security.
+  Well, I did some clean-up on [[https://brainfck.org][brainfck.org]] but this happens on a regular basis.
+  [[https://github.com/dorneanu/access-key-rotator][access-key-rotator]] hasn't been changed since a while and I also did *not*
+  manage to start working on the book about {{{zk_topic(golang,Golang)}}} and
+  Security.
 
 ** For 2024
 
-For the up-coming year I'd like to focuss on several things. Continuing in the same scheme I did for my past goals:
+For the up-coming year I'd like to focuss on several things. Continuing in the same scheme
+I did for my past goals:
 
 - /Learning/
   - Music
 
-    Besides playing the *Djembe* this year I've started learning how to play the *Bongos*. With the help of ChatGPT I was able to read notes again and therefore play some easy to more advanced rhythms on the Bongos. Next year I'd like to keep practicing and get more insights into Latin rhythms (Salsa, Bachata, Merengue, Mambo, Rumba etc.)
+    Besides playing the *Djembe* this year I've started learning how to play the
+    *Bongos*. With the help of ChatGPT I was able to read notes again and
+    therefore play some easy to more advanced rhythms on the Bongos. Next year
+    I'd like to keep practicing and get more insights into Latin rhythms (Salsa,
+    Bachata, Merengue, Mambo, Rumba etc.)
+
+    I have played an *acoustic* guitar for a while, although not with the same
+    proficiency as I have with hand drums. For motivation, I would like to learn
+    to play the *electric* guitar and make progress in *live looping*.
+
+
+    #+html: {{< gbox src="/posts/img/2023/my-2023-review/goals-live-looping.png" title="Live looping with a pedal looper" caption="You can do cool stuff with an audio interface, an instrument, a microphone and a pedal looper" pos="left" >}}
 
 - /Projects/
   - Play with {{{zk_topic(htmx,HTMX)}}} and {{{zk_topic(golang,Golang)}}}
 
-    I'd definitely love to do something /front-end/ related and therefore I'd like to play a little bit with [[https://htmx.org/][htmx]]. But first I need an idea for a small application. This way I plan to code again in Golang (this year I didn't manage to code anything useful).
+    I'd definitely love to do something /front-end/ related and therefore I'd like to play
+    a little bit with [[https://htmx.org/][htmx]]. But first I need an idea for a small application. This way I
+    plan to code again in Golang (this year I didn't manage to code anything useful).
 
   - Security of Github repositories
 
-    While dealing with /Github/ and the /security settings/ of /repositories/, I wanted to have a small tool at hand which will check for different settings (for each repository in an organization) and report (via Slack, E-Mail) if some settings are not /compliant/.
+    While dealing with /Github/ and the /security settings/ of /repositories/, I wanted to
+    have a small tool at hand which will check for different settings (for each repository
+    in an organization) and report (via Slack, E-Mail) if some settings are not
+    /compliant/.
     #+begin_sidenote
     Obviously there needs to be a list of settings which the tool should check against.
     #+end_sidenote
 
   - Finish "Documentation as Code" series
 
-    This year I've started writing about several documentation techniques (as code) in my [[/2023/07/18/documentation-as-code-for-cloud/][Documentation as Code]] series. I definitely want to add at least [[https://d2lang.com/][D2Lang]] to it.
+    This year I've started writing about several documentation techniques (as code) in my
+    [[/2023/07/18/documentation-as-code-for-cloud/][Documentation as Code]] series. I definitely want to add at least [[https://d2lang.com/][D2Lang]] to it.
 
 # Local Variables:
 # org-download-image-dir: /tmp/
