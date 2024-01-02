@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       f8d5ee5f-6fd9-4294-8a22-1ebfff7864be
+:END:
+#+TITLE: 2023-12-21
+#+DATE: 2023-12-21
+#+FILETAGS: journal
+
+- https://www.scotthyoung.com/blog/2023/12/19/10-best-books-read-in-2023/
+
+  a) **Why Knowledge Matters by E.D. Hirsch**
+     Argues that a focus on skills over knowledge in education is misguided and undermines children's learning.
+
+  c) **Psych by Paul Bloom**
+     Provides a survey of the field of psychology, offering a historical perspective and understanding of the discipline.
+
+  e) **How We Reason by Philip Johnson-Laird**
+     Explores the concept of reasoning through mental models and the implications for understanding how we think.
+
+  g) **Creativity in Science by Dean Simonton**
+     Surveys theories of creativity and offers a model for how creativity works, based on historical data of creative individuals.
+
+  i) **Cognitive Behavior Therapy by Judith Beck**
+     Explores cognitive behavioral therapy (CBT) and the debate on the active ingredient of its effectiveness.
+
+  k) **How Languages are Learned by Patsy Lightbown and Nina Spada**
+     Examines second language acquisition (SLA) and the challenges of learning a foreign language.
+
+  m) **The Science of Learning Physics by José Mestre and Jennifer Docktor**
+     Reviews the literature on learning physics and addresses the difficulties students face in thinking like physicists.
+
+  o) **The Republic by Plato**
+     A classic philosophical work that discusses topics like justice, government, and the nature of human beings.
+
+  q) **Social Learning Theory by Albert Bandura**
+     Explores Bandura's influential theory on social learning and self-efficacy.
+
+  s) **Beginning to Read by Marilyn Jager Adams**
+     Examines the importance of systematic phonics instruction in teaching children how to read.

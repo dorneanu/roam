@@ -22,6 +22,7 @@
 ** GitOps
 - 2023-09-07 ◦ [[https://www.youtube.com/watch?v=dONzzCc0oHo&t=865s&ab_channel=ContainersfromtheCouch][GitOps with Amazon EKS Workshop | Flux and ArgoCD - YouTube]]
 ** Security
+- 2023-12-20 ◦ [[https://securitylabs.datadoghq.com/articles/eks-cluster-access-management-deep-dive/][Deep dive into the new Amazon EKS Cluster Access Management features | Datadog Security Labs]]
 - 2023-12-13 ◦ [[https://aws.github.io/aws-eks-best-practices/security/docs/][AWS EKS Best Practices Guides]]
 - 2023-12-12 ◦ [[https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-2/][Kubernetes security fundamentals: API Security | Datadog Security Labs]]
 - 2023-10-12 ◦ [[https://securitylabs.datadoghq.com/articles/kubehound-identify-kubernetes-attack-paths/][KubeHound: Identifying attack paths in Kubernetes clusters | Datadog Security Labs]]

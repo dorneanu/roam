@@ -1,6 +1,6 @@
 +++
 title = "Kubernetes"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -41,6 +41,7 @@ draft = false
 
 ### Security {#security}
 
+-   2023-12-20 ◦ [Deep dive into the new Amazon EKS Cluster Access Management features | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/eks-cluster-access-management-deep-dive/)
 -   2023-12-13 ◦ [AWS EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/security/docs/)
 -   2023-12-12 ◦ [Kubernetes security fundamentals: API Security | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-2/)
 -   2023-10-12 ◦ [KubeHound: Identifying attack paths in Kubernetes clusters | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/kubehound-identify-kubernetes-attack-paths/)

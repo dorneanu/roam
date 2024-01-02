@@ -9,6 +9,7 @@
 - UTS
 - User
 * Resources
+- 2023-12-21 ◦ [[https://www.panoptica.app/research/7-ways-to-escape-a-container][7 Ways to Escape a Container - Panoptica]]
 - 2023-09-12 ◦ [[https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-6/][Container security fundamentals part 6: seccomp | Datadog Security Labs]]
 - 2023-08-07 ◦ [[https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-5/][Container security fundamentals part 5: AppArmor and SELinux | Datadog Security Labs]]
 - 2023-03-29 ◦ [[https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-2/][Container security fundamentals part 2: Isolation & namespaces | Datadog Security Labs]]

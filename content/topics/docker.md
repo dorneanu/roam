@@ -1,6 +1,6 @@
 +++
 title = "docker"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -15,6 +15,7 @@ draft = false
 
 ## Resources {#resources}
 
+-   2023-12-21 ◦ [7 Ways to Escape a Container - Panoptica](https://www.panoptica.app/research/7-ways-to-escape-a-container)
 -   2023-09-12 ◦ [Container security fundamentals part 6: seccomp | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-6/)
 -   2023-08-07 ◦ [Container security fundamentals part 5: AppArmor and SELinux | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-5/)
 -   2023-03-29 ◦ [Container security fundamentals part 2: Isolation &amp; namespaces | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-2/)

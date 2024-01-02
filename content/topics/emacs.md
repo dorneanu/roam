@@ -1,6 +1,6 @@
 +++
 title = "Emacs"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 tags = ["emacs", "ide"]
 draft = false
 +++
@@ -186,6 +186,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 ### Funny stuff {#funny-stuff}
 
+-   2024-01-02 ◦ [New Emacs Dashboard](https://www.reddit.com/r/emacs/comments/18p15jq/new_emacs_dashboard/?rdt=34310)
 -   2023-06-19 ◦ [Interview with an Emacs Enthusiast in 2023 [Colorized] - YouTube](https://www.youtube.com/watch?v=urcL86UpqZc&ab_channel=Programmersarealsohuman)
 
 
