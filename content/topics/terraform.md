@@ -64,6 +64,11 @@ draft = false
 -   2023-08-01 ◦ [Best Practices for Terraform AWS Tags](https://engineering.deptagency.com/best-practices-for-terraform-aws-tags)
 
 
+### Testing {#testing}
+
+-   2024-01-03 ◦ [Implementing Unit and integration tests in AWS using Terraform, Terratest, and Golang](https://blog.playgroundtech.io/implementing-unit-and-integration-tests-in-aws-using-terraform-terratest-and-golang-5f92c676ede1)
+
+
 ### Security {#security}
 
 -   2023-09-15 ◦ [Terraform - How do you handle secrets? (r/devops)](https://www.reddit.com/r/devops/comments/10a7j78/terraform_how_do_you_handle_secrets/)

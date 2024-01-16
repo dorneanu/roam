@@ -142,12 +142,14 @@ When you are collecting text using append-to-register and prepend-to-register, y
 - 2022-09-01 ◦ [[https://www.reddit.com/r/emacs/comments/wcupae/lets_share_your_top_3_packages_that_you_cant_live/][Lets share your top 3 packages that you cant live without. : emacs]]
 - 2022-09-01 ◦ [[https://www.reddit.com/r/emacs/comments/w4gxoa/what_are_some_musthave_packages_for_emacs/][What are some must-have packages for emacs? : emacs]]
 ** Writing
-- 2023-12-04 ◦ [[https://takeonrules.com/2023/12/03/emacs-turbo-charges-my-writing/][Emacs Turbo-Charges My Writing // Take on Rules]
+- 2023-12-04 ◦ [[https://takeonrules.com/2023/12/03/emacs-turbo-charges-my-writing/][Emacs Turbo-Charges My Writing // Take on Rules]]
 - 2022-11-07 ◦ [[https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/][blakewatson.com – Almost monospaced: the perfect fonts for writing]]
 - 2022-09-20 ◦ [[https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/][Creative writing with Emacs – Jacmoe's Cyber Soapbox]]
 ** org-babel
 - 2022-12-06 ◦ [[https://github.com/dfeich/org-babel-examples][github.com/dfeich/org-babel-examples]]
   - Examples using emacs org mode babel inline source code with different backend languages
+** Performance
+- 2024-01-04 ◦ [[https://discourse.doomemacs.org/t/why-is-emacs-doom-slow/83/6][Why is Emacs/Doom slow? - #6 by hlissner - Performance - Doom Emacs Discourse]]
 ** Reports
 - 2023-01-05 ◦ [[https://www.adventuresinwhy.com/post/org-mode-timekeeping/][Timekeeping with Emacs and Org-Mode | Adventures in Why]]
 ** Searching
@@ -159,6 +161,13 @@ When you are collecting text using append-to-register and prepend-to-register, y
 - 2023-02-01 ◦ [[https://youtu.be/4-ubCJF9htw][Emacs micro motions and hacks - YouTube]]
 ** Programming
 - 2023-05-30 ◦ [[https://www.masteringemacs.org/article/how-to-get-started-tree-sitter?utm_source=newsletter&utm_medium=rss][How to Get Started with Tree-Sitter - Mastering Emacs]]
+** Presenting
+*** revealJS
+- 2024-01-10 ◦ [[https://olberger.gitlab.io/org-teaching/slides.html][How to teach using org-mode for fun and profit]]
+- 2024-01-10 ◦ [[https://github.com/olberger/reveal-svg-fragment][GitHub - olberger/reveal-svg-fragment]]
+  - for using SVG animations
+** Tables
+- 2024-01-09 ◦ [[https://emacsconf.org/2023/talks/table/][EmacsConf - 2023 - talks - Who needs Excel? Managing your students qualifications with org-table]]
 ** UI
 - 2022-12-05 ◦ [[https://codeberg.org/gopiandcode/emacs-viewer][gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org]]
 ** Yaml

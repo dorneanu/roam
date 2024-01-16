@@ -1,6 +1,6 @@
 +++
 title = "Emacs"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 tags = ["emacs", "ide"]
 draft = false
 +++
@@ -205,7 +205,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 ### Writing {#writing}
 
--   2023-12-04 ◦ [[<https://takeonrules.com/2023/12/03/emacs-turbo-charges-my-writing/>][Emacs Turbo-Charges My Writing // Take on Rules]
+-   2023-12-04 ◦ [Emacs Turbo-Charges My Writing // Take on Rules](https://takeonrules.com/2023/12/03/emacs-turbo-charges-my-writing/)
 -   2022-11-07 ◦ [blakewatson.com – Almost monospaced: the perfect fonts for writing](https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/)
 -   2022-09-20 ◦ [Creative writing with Emacs – Jacmoe's Cyber Soapbox](https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/)
 
@@ -214,6 +214,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 -   2022-12-06 ◦ [github.com/dfeich/org-babel-examples](https://github.com/dfeich/org-babel-examples)
     -   Examples using emacs org mode babel inline source code with different backend languages
+
+
+### Performance {#performance}
+
+-   2024-01-04 ◦ [Why is Emacs/Doom slow? - #6 by hlissner - Performance - Doom Emacs Discourse](https://discourse.doomemacs.org/t/why-is-emacs-doom-slow/83/6)
 
 
 ### Reports {#reports}
@@ -237,6 +242,21 @@ When you are collecting text using append-to-register and prepend-to-register, y
 ### Programming {#programming}
 
 -   2023-05-30 ◦ [How to Get Started with Tree-Sitter - Mastering Emacs](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter?utm_source=newsletter&utm_medium=rss)
+
+
+### Presenting {#presenting}
+
+
+#### revealJS {#revealjs}
+
+-   2024-01-10 ◦ [How to teach using org-mode for fun and profit](https://olberger.gitlab.io/org-teaching/slides.html)
+-   2024-01-10 ◦ [GitHub - olberger/reveal-svg-fragment](https://github.com/olberger/reveal-svg-fragment)
+    -   for using SVG animations
+
+
+### Tables {#tables}
+
+-   2024-01-09 ◦ [EmacsConf - 2023 - talks - Who needs Excel? Managing your students qualifications with org-table](https://emacsconf.org/2023/talks/table/)
 
 
 ### UI {#ui}

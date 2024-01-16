@@ -4,4 +4,5 @@
 #+title: TailwindCSS
 
 * Resources
+- 2024-01-03 ◦ [[https://tailwindui.com/templates/catalyst][Catalyst - Tailwind CSS Application UI Kit]]
 - 2023-09-12 ◦ [[https://tailspark.co/][250+ Free TailwindCss Components]]

@@ -22,6 +22,8 @@
 ** GitOps
 - 2023-09-07 ◦ [[https://www.youtube.com/watch?v=dONzzCc0oHo&t=865s&ab_channel=ContainersfromtheCouch][GitOps with Amazon EKS Workshop | Flux and ArgoCD - YouTube]]
 ** Security
+- 2024-01-11 ◦ [[https://lucid.app/lucidchart/d034d4e7-4f8f-46c2-ad9d-276cde0e0c48/view?page=lmQ5yvIR~cw0#][Kubernetes Security: Lucidchart]]
+  - Awesome charts related to the architecture and attack vectors of the components related to K8s
 - 2023-12-20 ◦ [[https://securitylabs.datadoghq.com/articles/eks-cluster-access-management-deep-dive/][Deep dive into the new Amazon EKS Cluster Access Management features | Datadog Security Labs]]
 - 2023-12-13 ◦ [[https://aws.github.io/aws-eks-best-practices/security/docs/][AWS EKS Best Practices Guides]]
 - 2023-12-12 ◦ [[https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-2/][Kubernetes security fundamentals: API Security | Datadog Security Labs]]

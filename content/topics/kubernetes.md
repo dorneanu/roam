@@ -41,6 +41,8 @@ draft = false
 
 ### Security {#security}
 
+-   2024-01-11 ◦ [Kubernetes Security: Lucidchart](https://lucid.app/lucidchart/d034d4e7-4f8f-46c2-ad9d-276cde0e0c48/view?page=lmQ5yvIR~cw0#)
+    -   Awesome charts related to the architecture and attack vectors of the components related to K8s
 -   2023-12-20 ◦ [Deep dive into the new Amazon EKS Cluster Access Management features | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/eks-cluster-access-management-deep-dive/)
 -   2023-12-13 ◦ [AWS EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/security/docs/)
 -   2023-12-12 ◦ [Kubernetes security fundamentals: API Security | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-2/)
