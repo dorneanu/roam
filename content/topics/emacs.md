@@ -1,6 +1,6 @@
 +++
 title = "Emacs"
-author = ["Victor Dorneanu"]
+author = ["Lucien Cartier-Tilet"]
 tags = ["emacs", "ide"]
 draft = false
 +++
@@ -205,6 +205,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 ### Writing {#writing}
 
+-   2024-01-26 ◦ [Emacs for Writing (Fedora Magazine)](https://fedoramagazine.org/emacs-for-writers/)
 -   2023-12-04 ◦ [Emacs Turbo-Charges My Writing // Take on Rules](https://takeonrules.com/2023/12/03/emacs-turbo-charges-my-writing/)
 -   2022-11-07 ◦ [blakewatson.com – Almost monospaced: the perfect fonts for writing](https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/)
 -   2022-09-20 ◦ [Creative writing with Emacs – Jacmoe's Cyber Soapbox](https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/)

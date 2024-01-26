@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b800ace2-a93e-45ec-b272-bfabc701b1da
+:END:
+#+title: revealjs
+
+- 👉 [[https://slides.dornea.nu/2022/presentation-as-code/#/sec-title-slide][Presentation as Code (using revealJS)]]
+
+* Additional resources
+- 2024-01-11 ◦ [[https://zenika.github.io/adoc-presentation-model/reveal/reveal-my-asciidoc.html][Reveal my Asciidoc : a deep dive into presentation-as-code]]
+  - This is how I got into revealJS
+  - The [[https://github.com/Zenika/adoc-presentation-model][github repository]] (not maintained anymore)
+- 2024-01-11 ◦ [[https://oer.gitlab.io/emacs-reveal-howto/howto.html][How to create presentations with emacs-reveal]]
+  - Creator of ~org-re-reveal~ for Emacs (here is the [[https://oer.gitlab.io/org-re-reveal/Readme.html][introduction]])
+- 2024-01-11 ◦ [[https://benjamin-hackl.at/talks/][Benjamin Hackl | Talks]]
+  - good looking presentations
+- 2024-01-11 ◦ [[https://chris-besch.com/articles/revealjs/][reveal.js your Presentation—Christopher Besch]]
+  - nice, clean [[https://github.com/christopher-besch/presentations/blob/main/template/index.html][template]]
+  - mentiones [[https://github.com/dafrenchyman/reveal.js-extrernal-code][GitHub - dafrenchyman/reveal.js-extrernal-code]]
+** Plugins
+- 2024-01-11 ◦ [[https://github.com/Martinomagnifico/reveal.js-appearance][GitHub - Martinomagnifico/reveal.js-appearance]]
+- 2024-01-11 ◦ [[https://github.com/Martinomagnifico/reveal.js-simplemenu?][GitHub - Martinomagnifico/reveal.js-simplemenu]]

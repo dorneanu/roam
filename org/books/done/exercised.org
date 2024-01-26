@@ -8,7 +8,7 @@
 Why Something We Never Evolved to Do Is Healthy and Rewarding
 
 * On squatting
-** 69                                   :squat:
+** 69                                                                :squat:
 
 #+begin_quote
 Aside from causing me humiliation, my lack of stamina while squatting, not to
@@ -21,7 +21,7 @@ standing use about the same degree of muscle activity.14 But over long periods
 of time those muscles require and develop endurance.
 #+end_quote
 
-** 82                                   :squat:
+** 82                                                                :squat:
 
 #+begin_quote
 As we have already discussed, a likely explanation is that *short bouts of
@@ -44,8 +44,8 @@ also indicate that many Europeans squatted habitually until furniture and stoves
 became common after the Middle Ages.
 #+end_quote
 
-* On sitting                            :sitting:
-** 74                                  :sitting:
+* On sitting                                                        :sitting:
+** 74                                                               :sitting:
 
 3 major health concerns related to sitting:
 
@@ -63,7 +63,7 @@ uninterrupted sitting:
 Don’t panic, but as you sit comfortably reading this, your body may be on fire.
 #+end_quote
 
-** 78                                  :sitting:
+** 78                                                               :sitting:
 Link between sitting and inflammation:
 
 #+begin_quote
@@ -76,7 +76,7 @@ people who are not overweight but suffer from inflammation. So what else about
 *sitting* might promote *chronic inflammation*?
 #+end_quote
 
-** 78                                  :sitting:
+** 78                                                               :sitting:
 
 #+begin_quote
 A second way /lengthy/ periods of sitting may incite widespread, low-grade
@@ -92,7 +92,7 @@ reduce levels of fat and sugar in your blood* more than if you sit inertly and
 passively for long.
 #+end_quote
 
-** 84                                  :sitting:
+** 84                                                               :sitting:
 
 Is sitting the new smoking:
 
@@ -108,7 +108,7 @@ squatted, kneeled, or sat on the ground, using about the same degree of muscle
 activity in their thighs, calves, and backs as when they stood*.
 #+end_quote
 
-** 85                                  :sitting:
+** 85                                                               :sitting:
 
 On the history of chairs:
 
@@ -128,7 +128,7 @@ including a majority of health-care professionals, think we can avoid back pain
 by sitting with a curved lower back and an unrounded upper back.
 #+end_quote
 
-** 85                                  :sitting:
+** 85                                                               :sitting:
 
 #+begin_quote
 *Scientific evidence discredits this modern cultural norm. A big clue is that
@@ -151,7 +151,7 @@ I have shown just a few of the many postures people adopt when sitting.)
 #+end_quote
 
 * Cytokine
-** 75                                   :cytokine:
+** 75                                                              :cytokine:
 
 On [[id:f730d8cf-edf2-4818-9bcc-c9748e2a798e][cytokine]] and inflammations:
 
@@ -176,7 +176,7 @@ steadily and surreptitiously *damages tissues in our arteries, muscles, liver,
 brain, and other organs*.
 #+end_quote
 
-** 77                                   :cytokine:
+** 77                                                              :cytokine:
 
 #+begin_quote
 So when organ fat cells swell, they ooze into the bloodstream a great many
@@ -186,7 +186,7 @@ to be “skinny fat” with significant deposits of organ fat in and around one�
 muscles, heart, and liver without necessarily having a potbelly figure.
 #+end_quote
 * On sleep
-** 92                                   :sleep:
+** 92                                                                 :sleep:
 
 What happens during sleep:
 
@@ -206,7 +206,7 @@ has limited abilities to multitask and cannot perform these cleaning,
 organizing, and analytical functions as effectively when we are awake and alert.
 #+end_quote
 
-** 93                                   :sleep:
+** 93                                                                 :sleep:
 The brain and its waste:
 
 #+begin_quote
@@ -220,7 +220,7 @@ accumulate* (and are counteracted by caffeine).
 #+end_quote
 
 
-** 93                                   :quote:
+** 93                                                                 :quote:
 
 #+begin_quote
 For every hour spent awake storing memories and amassing waste, we need
@@ -229,7 +229,7 @@ approximately fifteen minutes asleep to process those memories and clean up.
 
 quote
 
-** 93                                   :sleep:
+** 93                                                                 :sleep:
 
 The brains cleaning process:
 
@@ -245,7 +245,7 @@ We thus must sleep to flush out the cobwebs left behind by the day’s
 experiences.
 #+end_quote
 
-** 96                                   :sleep:
+** 96                                                                 :sleep:
 
 #+begin_quote
 How much are my sleep patterns contaminated by alarm clocks, lights,
@@ -266,7 +266,7 @@ rural Haitians and subsistence farmers in Madagascar report similar average
 sleep durations, about 6.5 to 7.0 hours a day.
 #+end_quote
 
-** 104                                  :sleep:
+** 104                                                                :sleep:
 What regulates sleep:
 
 #+begin_quote
@@ -281,7 +281,7 @@ versus asleep, and if we are up too long, it will eventually override our
 circadian systems and help us recover lost sleeping time.
 #+end_quote
 
-** 105                                  :sleep:
+** 105                                                                :sleep:
 
 #+begin_quote
 The effects of the fight-and-flight response (technically, the [[id:ed52081e-fe6f-46fd-b0c5-59f61f2a849b][Sympathetic
@@ -299,7 +299,7 @@ levels, depresses body temperature, and even helps re-sync the circadian
 clock.
 #+end_quote
 
-** 106                                  :sleep:
+** 106                                                                :sleep:
 Link between insomnia and physical activity:
 
 #+begin_quote
@@ -315,7 +315,7 @@ insomnia.
 #+end_quote
 
 * Energy levels
-** 118                                  :energy:
+** 118                                                               :energy:
 
 About ATP and ADP:
 
@@ -337,7 +337,7 @@ hyenas or humans, *the faster we run, the more our bodies struggle to recharge
 these ATPs*, thus curtailing our speed after a short while.
 #+end_quote
 
-** 119                                  :energy:
+** 119                                                               :energy:
 
 #+begin_quote
 But there is a consequential catch: during [[id:c423cfb2-2df1-4707-8622-25521d079e1b][glycolysis]] the leftover halves of
@@ -352,7 +352,7 @@ and shuttle the surplus lactate into the third, final, but long-term  aerobic
 energy process.
 #+end_quote
 
-** 119                                  :energy:
+** 119                                                               :energy:
 
 #+begin_quote
 [[id:d3b0e1ec-e508-4701-8252-0bbcee64c894][Sugar]] is synonymous with sweetness, but it’s first and foremost a fuel used to
@@ -364,7 +364,7 @@ half the energy used during a thirty-second sprint. In fact, a fit human can
 store enough sugar to run nearly fifteen miles.
 #+end_quote
 
-** 121                                  :energy:
+** 121                                                               :energy:
 
 #+begin_quote
 your VO2 max, you need [[id:c423cfb2-2df1-4707-8622-25521d079e1b][glycolysis]] to supply additional fuel to your muscles.
@@ -482,7 +482,7 @@ daily physical activity.
 #+end_quote
 
 * Further resources
-** 68                                   :rez:
+** 68                                                                   :rez:
 
 #+begin_quote
 the anthropologist *Gordon Hewes* documented more than a hundred postures that
@@ -559,7 +559,7 @@ running, jumping jacks, and climbing a mountain demand heart rates of 70 percent
 or higher.
 #+end_quote
 
-** 76                                   :fat:
+** 76                                                                  :fat:
 
 About fat in the organs:
 
@@ -574,7 +574,7 @@ beneficial as a short-term energy depot for times when we need rapid access to a
 lot of calories such as when we walk or jog a long distance.
 #+end_quote
 
-** 76                                   :fat:
+** 76                                                                  :fat:
 About fat subcutaneos:
 
 #+begin_quote
@@ -599,7 +599,7 @@ By merely engaging in low-intensity, “non-exercise” physical activities for 
 hours a day, I could spend as much energy as if I ran for an hour.
 #+end_quote
 
-** 79                                   :cortisol:
+** 79                                                             :cortisol:
 
 Cortisol and [[id:d3b0e1ec-e508-4701-8252-0bbcee64c894][sugar]] absorption:
 
@@ -711,8 +711,11 @@ Chimpanzee mothers, for example, cannot give birth to babies faster than once ev
 animals humans pregnancy
 
 ** 230
+The grandparent hypothesis:
 
+#+begin_quote
 I propose a corollary to the grandmother hypothesis, which I call the active grandparent hypothesis. According to this idea, human longevity was not only selected for but also made possible by having to work moderately during old age to help as many children, grandchildren, and other younger relatives as possible to survive and thrive. That is, while there might have been selection for genes (as yet unidentified) that help humans live past the age of fifty, there was also selection for genes that repair and maintain our bodies when we are physically active. As a result, many of the mechanisms that slow aging and extend life are turned on by physical activity, especially as we get older. Human health and longevity are thus extended both by and for physical activity.
+#+end_quote
 
 grandparent hypothesis
 
@@ -742,11 +745,15 @@ The resulting paradox is that our bodies never evolved to function optimally wit
 
 ** 261
 
+#+begin_quote
 Because exercise by definition isn’t necessary, we mostly do it for emotional or physical rewards, and on that horrid April day in 2018, the only rewards were emotional—all stemming from the event’s social nature. For the last few million years humans rarely engaged in hours of moderate to vigorous exertion alone. When hunter-gatherer women forage, they usually go in groups, gossiping and otherwise enjoying each other’s company as they walk to find food, dig tubers, pick berries, and more.
+#+end_quote
 
 ** 272
 
+#+begin_quote
 One of the most popular is a twelve-step program, “Be as Strong as a Lioness,” that alternates many repetitions of moderate weights with fewer repetitions of heavier weights. Another clever prince writes “Walk, Run, and Live Forever,” a ten-step plan that begins with long walks and then adds short runs that gradually increase to ten miles. Other crowd favorites are “Seven Minutes or Your Life,” which promises “optimal health” from just seven minutes a day of high-intensity interval training, and “Live Longer than a Caveman,” which replicates a paleo fitness regime with barefoot walking, tree climbing, and rock lifting. Yet more plans advocate stretching, swimming, biking, jogging, dancing, boxing, yoga, and even pogo sticking. Some of the prescriptions consider genetic variation, others have different plans for men and women, many are designed to maximize weight loss, and one is cleverly tailored to integrate with a woman’s monthly cycle. While the judges ponder, journalists, bloggers, celebrities, enthusiasts, and trolls fiercely argue the merits of every entry. With each day it seems there is a new consensus favorite.
+#+end_quote
 
 what is the best way to exercise
 

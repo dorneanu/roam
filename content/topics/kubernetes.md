@@ -1,6 +1,6 @@
 +++
 title = "Kubernetes"
-author = ["Victor Dorneanu"]
+author = ["Lucien Cartier-Tilet"]
 draft = false
 +++
 
@@ -41,6 +41,7 @@ draft = false
 
 ### Security {#security}
 
+-   2024-01-25 ◦ [Kubernetes Scheduling and Secure Design](https://blog.doyensec.com/2024/01/23/k8s-scheduling-secure-design.html)
 -   2024-01-11 ◦ [Kubernetes Security: Lucidchart](https://lucid.app/lucidchart/d034d4e7-4f8f-46c2-ad9d-276cde0e0c48/view?page=lmQ5yvIR~cw0#)
     -   Awesome charts related to the architecture and attack vectors of the components related to K8s
 -   2023-12-20 ◦ [Deep dive into the new Amazon EKS Cluster Access Management features | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/eks-cluster-access-management-deep-dive/)
