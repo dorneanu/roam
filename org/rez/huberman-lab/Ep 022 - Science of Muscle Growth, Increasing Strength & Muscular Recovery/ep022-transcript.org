@@ -355,32 +355,36 @@ hard and you felt the burn, well, that burning which most people think is lactic
 acid is actually a process by which pyruvate, which as I said before normally
 could be converted into ATP if there's oxygen, well, if there's not enough
 oxygen cause that muscle is working too hard or too long, what ends up happening
-is that a hydrogen molecule comes in there and you get something called lactate.
+is that a hydrogen molecule comes in there and you get something called [[id:b86fae9d-477b-4a16-b958-2308bfb986e9][lactate]].
 So believe it or not, humans don't make lactic acid. That's another species, we
 make lactate. And we hear that lactate is bad. We need to buffer the burn or
 avoid the burn. That lactic acid and lactate are what prevent us for performing
 as well as we ought to be able to or going as far as we possibly could in an
-endurance event. Guess what, that's not true at all. Lactate has three
-functions, all of which are really interesting and really important. First of
-all, it's a buffer against acidity. You don't want muscle to get too acidic
-because it can't function. You don't want any body tissue to get too acidic. So
-that burn that you feel is acidity in that environment and lactate what most
-people call lactic acid, but again, we don't make lactic acid. Lactate is there
-to buffer that to reduce the amount of burn. So, most people have this exactly
-backwards. So when you feel that burn that is not lactic acid, that is lactate
-that's present to suppress the burn, to suppress acidity. It's also a fuel. When
-you feel that burn, lactate is shuttled to those areas of the muscle, and
-there's an actual fuel burning process where in the absence of oxygen you can
-continue to generate muscular contractions. Now, this is informative 'cause it
-also tells us that that burning that acidity that we feel can inhibit the way
-that our muscles work but that lactate comes in and allows our muscles to
-continue to function. So we'll talk a little bit more about what this whole
-lactate thing and the burn means but it's a really important process. And it's
-amazing to me that most people understand it in exactly the incorrect way. They
-think a lactic acid is bad and the burn is bad. No, it reveals a number of
-really important things are going on with this vital molecule lactate, which can
-reduce acidity, reduce the burn as well as act as a fuel. Now, here's where it
-gets really, really cool.
+endurance event. Guess what, that's not true at all.
+
+Lactate has three functions, all of which are really interesting and really important.
+- First of all, it's a buffer against acidity.
+
+  You don't want muscle to get too acidic because it can't function. You don't
+  want any body tissue to get too acidic. So that burn that you feel is acidity
+  in that environment and lactate what most people call lactic acid, but again,
+  we don't make lactic acid.
+
+*Lactate is there to buffer that to reduce the amount of burn*. So, most people
+have this exactly backwards. *So when you feel that burn that is not lactic acid,
+that is lactate that's present to suppress the burn, to suppress acidity*. It's
+also a fuel. When you feel that burn, lactate is shuttled to those areas of the
+muscle, and there's an actual fuel burning process where in the absence of
+oxygen you can continue to generate muscular contractions. Now, this is
+informative 'cause it also tells us that that burning that acidity that we feel
+can inhibit the way that our muscles work but that lactate comes in and allows
+our muscles to continue to function. So we'll talk a little bit more about what
+this whole lactate thing and the burn means but it's a really important process.
+And it's amazing to me that most people understand it in exactly the incorrect
+way. They think a lactic acid is bad and the burn is bad. No, it reveals a
+number of really important things are going on with this vital molecule lactate,
+which can reduce acidity, reduce the burn as well as act as a fuel. Now, here's
+where it gets really, really cool.
 
 
 

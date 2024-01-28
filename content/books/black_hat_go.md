@@ -1,7 +1,8 @@
 +++
 title = "Black Hat Go"
+author = ["Victor Dorneanu"]
 date = 2021-02-01
-tags = ["book", "todo"]
+tags = ["security", "golang", "book", "todo"]
 draft = false
 +++
 

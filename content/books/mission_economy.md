@@ -1,6 +1,7 @@
 +++
 title = "Mission Economy"
+author = ["Victor Dorneanu"]
 date = 2022-07-01
-tags = ["book", "todo"]
+tags = ["society", "economics", "politics", "book", "todo"]
 draft = false
 +++

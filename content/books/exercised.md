@@ -1,6 +1,5 @@
 +++
 title = "Exercised"
-author = ["Cyneox"]
 date = 2023-04-10
 tags = ["anthropology", "science", "health", "todo", "book"]
 draft = false
@@ -340,12 +339,12 @@ About ATP and ADP:
 > But there is a consequential catch: during [glycolysis]({{< relref "../../topics/glycolysis.md" >}}) the leftover halves of
 > each sugar, molecules known as pyruvates, accumulate faster than cells can
 > handle. As **pyruvates** pile up to intolerable levels, enzymes **convert each
-> pyruvate into a molecule called lactate along with a hydrogen ion** (H+). Although
-> **lactate is harmless and eventually used to recharge ATPs, those hydrogen ions
+> pyruvate into a molecule called [lactate]({{< relref "../../topics/lactate.md" >}}) along with a hydrogen ion** (H+). Although
+> **[lactate]({{< relref "../../topics/lactate.md" >}}) is harmless and eventually used to recharge ATPs, those hydrogen ions
 > make muscle cells increasingly acidic, causing fatigue, pain, and decreased
 > function**. Within about thirty seconds, a sprinter’s legs feel as if they are
 > burning. It then takes a lengthy period of time to slowly neutralize the acid
-> and shuttle the surplus lactate into the third, final, but long-term  aerobic
+> and shuttle the surplus [lactate]({{< relref "../../topics/lactate.md" >}}) into the third, final, but long-term  aerobic
 > energy process.
 
 
@@ -477,6 +476,36 @@ Ten thousand steps:
 
 > the anthropologist **Gordon Hewes** documented more than a hundred postures that
 > humans from 480 different cultures adopt when they sit without a chair.
+
+
+## Longetivity {#longetivity}
+
+
+### 234 {#234}
+
+> A related driver of senescence is **mitochondrial dysfunction**. Mitochondria are
+> the tiny power plants in cells that burn fuel with oxygen to generate energy
+> (ATP). Cells in energy-hungry organs like muscles, the liver, and the brain can
+> have thousands of mitochondria. Because mitochondria have their own DNA, they
+> also play a role in regulating cell function, and they produce proteins that
+> help protect against diseases like diabetes and cancer.
+>
+> Mitochondria, however, burn oxygen, creating reactive oxygen species that,
+> unchecked, cause self-inflicted damage. When mitochondria cease to function
+> properly or dwindle in number, they cause senescence and illness.
+
+
+### 235 {#235}
+
+On epigenetic modifications:
+
+> Over time, tiny molecules glue themselves to the DNA in cells. These so-called epigenetic (on top of the genome) modifications can affect which genes are expressed in particular cells.
+>
+> Because environmental factors like diet, stress, and exercise partly influence epigenetic modifications, the older we are, the more of them we accumulate.
+>
+> Most epigenetic modifications are harmless, but the more you have for a given age, the higher your risk of dying.
+>
+> Other forms of senescence include cells losing the ability to recycle damaged proteins, inadequately sensing and acquiring nutrients, and (less likely) being unable to divide because the little caps (telomeres) that protect the ends of chromosomes from unraveling have become too short.
 
 
 ## <span class="org-todo todo TODO">TODO</span> Notes {#notes}
@@ -668,7 +697,7 @@ quote
 
 ### 225 {#225}
 
-Donald Trump needs little introduction. Born in 1946 to wealthy parents, he was sent to a military academy where presumably he had to participate in sports. Although a teetotaler and nonsmoker, Trump famously enjoyed eating abundant junk food and large steaks, drinking Diet Coke, getting little sleep, and avoiding any form of exercise apart from golf. According to biographers, “Trump believed the human body was like a battery, with a finite amount of energy, which exercise only depleted. So he didn’t work out.
+> Donald Trump needs little introduction. Born in 1946 to wealthy parents, he was sent to a military academy where presumably he had to participate in sports. Although a teetotaler and nonsmoker, Trump famously enjoyed eating abundant junk food and large steaks, drinking Diet Coke, getting little sleep, and avoiding any form of exercise apart from golf. According to biographers, “\*Trump believed the human body was like a battery, with a finite amount of energy, which exercise only depleted. So he didn’t work out\*.
 
 
 ### 229 {#229}
@@ -700,16 +729,6 @@ grandparent hypothesis
 ### 233 {#233}
 
 The active grandparent hypothesis raises a classic chicken-or-egg question. How much do humans live to old age so they can be active grandparents helping younger generations, or how much does their hard work cause them to live long lives in the first place? Is human longevity a result of physical activity or an adaptation to stay physically active?
-
-
-### 234 {#234}
-
-A related driver of senescence is mitochondrial dysfunction. Mitochondria are the tiny power plants in cells that burn fuel with oxygen to generate energy (ATP). Cells in energy-hungry organs like muscles, the liver, and the brain can have thousands of mitochondria. Because mitochondria have their own DNA, they also play a role in regulating cell function, and they produce proteins that help protect against diseases like diabetes and cancer.29 Mitochondria, however, burn oxygen, creating reactive oxygen species that, unchecked, cause self-inflicted damage. When mitochondria cease to function properly or dwindle in number, they cause senescence and illness.
-
-
-### 235 {#235}
-
-Over time, tiny molecules glue themselves to the DNA in cells. These so-called epigenetic (on top of the genome) modifications can affect which genes are expressed in particular cells.31 Because environmental factors like diet, stress, and exercise partly influence epigenetic modifications, the older we are, the more of them we accumulate.32 Most epigenetic modifications are harmless, but the more you have for a given age, the higher your risk of dying.33 Other forms of senescence include cells losing the ability to recycle damaged proteins,34 inadequately sensing and acquiring nutrients,35 and (less likely) being unable to divide because the little caps (telomeres) that protect the ends of chromosomes from unraveling have become too short.
 
 
 ### 239 {#239}

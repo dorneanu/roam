@@ -1,7 +1,8 @@
 +++
 title = "Thinking, Fast and Slow"
+author = ["Victor Dorneanu"]
 date = 2022-01-01
-tags = ["book", "todo"]
+tags = ["philosophy", "psychology", "book", "todo"]
 draft = false
 +++
 

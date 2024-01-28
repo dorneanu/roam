@@ -1,7 +1,8 @@
 +++
 title = "Finding your element"
+author = ["Victor Dorneanu"]
 date = 2022-07-01
-tags = ["book", "todo"]
+tags = ["philosophy", "psychology", "education", "book", "todo"]
 draft = false
 +++
 
@@ -19,12 +20,55 @@ by Sir Ken Robinson
 
 ## <span class="org-todo todo TODO">TODO</span> Chapter 4: What do you love? {#chapter-4-what-do-you-love}
 
--   [ ] For some secular thinkers, and all religious ones, your spirit is much more than the chemical simmering of your brain and ner- vous systems. For all faith traditions, your spirit is not a by-product of biology but part of larger energy beyond our everyday under- standing. In the Judeo-Christian tradition, your "soul" is an en- during essence that continues after the death of your body. In Buddhism, the term that's closest to soul is anatta, which translates as "no soul" or "no self." This isn't quite the opposite that it seems. Buddhism accepts a transcendent element to your being that con- tinues after death but believes that it is continuously evolving into new forms. Hindus use the Sanskrit word aatma, which broadly means the individual self that is related to and part of Brahman, the Supreme Self of the Universe. Jainism talks of jiva, which equates to the individual living being compared with Shiva of Vishnu, the Supreme Being. Islam uses the term ruhi. Eckhart Tolle draws from dicions 19 argue
--   [ ] I've seen this happen many times: when you pursue what truly inspires you, opportunities open up that you might never have imagined. You gravitate toward people who share your passion, your combined efforts create a higher state of energy and proximity to these people increases the chance of your taking the pursuit to a new level-the opening of doors of which Campbell speaks.
--   What Is Passion? The English word "passion" has an interesting history. It comes from the ancient Greek word paskho, and its original meanings include "to suffer" or "to endure." It's in this sense that Christians refer to the Passion of Christ. Over time, it has come to have al- most the opposite meaning. Passion now means a deep personal attraction to something a strong affinity or enthusiasm that can lead to profound enjoyment and fulfillment. Passion is a form of love, which is why people who are in the Element will often say that they love what they do.
--   Fortunately, some languages make finer distinctions that can help us here. In ancient Greek, for example, there are four words for love. Agape is a feeling of goodwill for humanity in general and for those we hold in high esteem. The closest word to this in English is "charity," in its original meaning of selfless love to- wards others. Eros is romantic love and sexual attraction for an- other person. Storge means the natural affection that parents have for their children and vice versa, and the love for others who are dear to us including the love between close friends. Philia is friendship and loyalty to others. It also means natural attraction to particular things or activities. 1.9
--   I think of spiritual energy on three levels: the spirit within us, the spirit between us and the spirit among us. The first two don't require any metaphysical beliefs; the third one does.
--   Sometimes finding your Element is a sudden inspiration and sometimes it comes over you gradually. The result is the same. Your life is transformed by a different sense of engagement, satis- faction, and purpose.
+-   [ ] For some secular thinkers, and all religious ones, your spirit is
+    much more than the chemical simmering of your brain and ner- vous
+    systems. For all faith traditions, your spirit is not a by-product
+    of biology but part of larger energy beyond our everyday under-
+    standing. In the Judeo-Christian tradition, your "soul" is an en-
+    during essence that continues after the death of your body. In
+    Buddhism, the term that's closest to soul is anatta, which
+    translates as "no soul" or "no self." This isn't quite the opposite
+    that it seems. Buddhism accepts a transcendent element to your being
+    that con- tinues after death but believes that it is continuously
+    evolving into new forms. Hindus use the Sanskrit word aatma, which
+    broadly means the individual self that is related to and part of
+    Brahman, the Supreme Self of the Universe. Jainism talks of jiva,
+    which equates to the individual living being compared with Shiva of
+    Vishnu, the Supreme Being. Islam uses the term ruhi. Eckhart Tolle
+    draws from dicions 19 argue
+-   [ ] I've seen this happen many times: when you pursue what truly
+    inspires you, opportunities open up that you might never have
+    imagined. You gravitate toward people who share your passion, your
+    combined efforts create a higher state of energy and proximity to
+    these people increases the chance of your taking the pursuit to a
+    new level-the opening of doors of which Campbell speaks.
+-   What Is Passion? The English word "passion" has an interesting
+    history. It comes from the ancient Greek word paskho, and its
+    original meanings include "to suffer" or "to endure." It's in this
+    sense that Christians refer to the Passion of Christ. Over time, it
+    has come to have al- most the opposite meaning. Passion now means a
+    deep personal attraction to something a strong affinity or
+    enthusiasm that can lead to profound enjoyment and fulfillment.
+    Passion is a form of love, which is why people who are in the
+    Element will often say that they love what they do.
+-   Fortunately, some languages make finer distinctions that can help us
+    here. In ancient Greek, for example, there are four words for love.
+    Agape is a feeling of goodwill for humanity in general and for those
+    we hold in high esteem. The closest word to this in English is
+    "charity," in its original meaning of selfless love to- wards
+    others. Eros is romantic love and sexual attraction for an- other
+    person. Storge means the natural affection that parents have for
+    their children and vice versa, and the love for others who are dear
+    to us including the love between close friends. Philia is friendship
+    and loyalty to others. It also means natural attraction to
+    particular things or activities. 1.9
+-   I think of spiritual energy on three levels: the spirit within us,
+    the spirit between us and the spirit among us. The first two don't
+    require any metaphysical beliefs; the third one does.
+-   Sometimes finding your Element is a sudden inspiration and sometimes
+    it comes over you gradually. The result is the same. Your life is
+    transformed by a different sense of engagement, satis- faction, and
+    purpose.
 
 
 ## <span class="org-todo todo TODO">TODO</span> Chapter 5: What makes you happy? {#chapter-5-what-makes-you-happy}
@@ -41,20 +85,225 @@ by Sir Ken Robinson
 ## <span class="org-todo todo TODO">TODO</span> Chapter 6: What's your attitude? {#chapter-6-what-s-your-attitude}
 
 -   Barriers holding you back
-    -   real opportunity.What Jef Lynch learned relatively early in life is that the things that are stopping you often	exist only in your mind. “I don't see the barriers that other people see.	With Tektro-nix, I just walked in the door and started talking to people. Ev-erything I do, I do like that.'
+    -   real opportunity.What Jef Lynch learned relatively early in life
+        is that the things that are stopping you often exist only in your
+        mind. “I don't see the barriers that other people see. With
+        Tektro-nix, I just walked in the door and started talking to
+        people. Ev-erything I do, I do like that.'
 -   Personality
-    -   Who Are You? In chapter four I made a general distinction between mind,con-sciousness and personality and said that by “personality” I mean your general outlook and disposition to yourselfand to the world around you. There are of course many facets of personality.Let me briefly elaborate on three that are especially important here: your temperament, disposition and character. Like the various words for love,these three terms are often used in overlapping ways and even as synonyms, but each of them points to different aspects of personality. By temperament, I mean your typical patterns of behaviors, feelings and responses. Your natural temperament affects how you see the world, how you act in it, and what attracts your inter-ests and excites your passions. This is what we imply when we say that some people have an artistic, a scientific or a religious tem-perament and so on. By disposition, I mean your customary moods and attitudes: whether you are naturally cheerful, for example, or cynical, opti-mistic or pessimistic; whether you typically think that your glass is half empty or half full. By character, I mean your overall moral qualities, including honesty,loyalty,courage, determination, and their opposites and variations. Your biological inheritance affects your levels of happiness because it influences your temperament,disposition and charac-ter. But it doesn't determine them. One way of distinguishing temperament and disposition is to say that your temperament is Whiat you were born with,while your disposition evolves through your experiences in the world. Although some feacures of your
-    -   temperament are relatively unchanging, your disposition willal. most certainly change as your experiences increase and you ma. ture. This is especially true of your attitudes to yourself and to what you're capable of achieving. Temperament and disposition are your general orientation to the world. Attitudes are an expression of your temperament and disposition, but they are more specific. A physical attitude is a stance we take to do something practical: serving a tennis ball, lift-ing a weight, preparing to run or bracing for trouble. A mental at-titude is also a position we take, to a situation, an issue or a relationship, for example. An attitude is a point of view. In geometry, an attitude is an an-gle of inclination. In your consciousness, too, your attitude is the angle or perspective from which you perceive something. Two peo-ple watching the same situation may see it completely differently,as any trial lawyer will tell you. They may literally see it from different physical positions,which affect what they see. They may also see it from the same physical position but through completely different “points of view.” The good news is that like your general disposition, your par ticular attitudes can change too. New ideas and information,fresh insights and experiences can reframe how you see things.Whether you see the cup half empty or half full is often a matter of choice and experience. It can have critical bearing on whether and how you find your Element. Take the story of Sue Kent, for example.
+    -   Who Are You? In chapter four I made a general distinction between
+        mind,con-sciousness and personality and said that by “personality”
+        I mean your general outlook and disposition to yourselfand to the
+        world around you. There are of course many facets of
+        personality.Let me briefly elaborate on three that are especially
+        important here: your temperament, disposition and character. Like
+        the various words for love,these three terms are often used in
+        overlapping ways and even as synonyms, but each of them points to
+        different aspects of personality. By temperament, I mean your
+        typical patterns of behaviors, feelings and responses. Your
+        natural temperament affects how you see the world, how you act in
+        it, and what attracts your inter-ests and excites your passions.
+        This is what we imply when we say that some people have an
+        artistic, a scientific or a religious tem-perament and so on. By
+        disposition, I mean your customary moods and attitudes: whether
+        you are naturally cheerful, for example, or cynical, opti-mistic
+        or pessimistic; whether you typically think that your glass is
+        half empty or half full. By character, I mean your overall moral
+        qualities, including honesty,loyalty,courage, determination, and
+        their opposites and variations. Your biological inheritance
+        affects your levels of happiness because it influences your
+        temperament,disposition and charac-ter. But it doesn't determine
+        them. One way of distinguishing temperament and disposition is to
+        say that your temperament is Whiat you were born with,while your
+        disposition evolves through your experiences in the world.
+        Although some feacures of your
+    -   temperament are relatively unchanging, your disposition willal.
+        most certainly change as your experiences increase and you ma.
+        ture. This is especially true of your attitudes to yourself and to
+        what you're capable of achieving. Temperament and disposition are
+        your general orientation to the world. Attitudes are an expression
+        of your temperament and disposition, but they are more specific. A
+        physical attitude is a stance we take to do something practical:
+        serving a tennis ball, lift-ing a weight, preparing to run or
+        bracing for trouble. A mental at-titude is also a position we
+        take, to a situation, an issue or a relationship, for example. An
+        attitude is a point of view. In geometry, an attitude is an an-gle
+        of inclination. In your consciousness, too, your attitude is the
+        angle or perspective from which you perceive something. Two
+        peo-ple watching the same situation may see it completely
+        differently,as any trial lawyer will tell you. They may literally
+        see it from different physical positions,which affect what they
+        see. They may also see it from the same physical position but
+        through completely different “points of view.” The good news is
+        that like your general disposition, your par ticular attitudes can
+        change too. New ideas and information,fresh insights and
+        experiences can reframe how you see things.Whether you see the cup
+        half empty or half full is often a matter of choice and
+        experience. It can have critical bearing on whether and how you
+        find your Element. Take the story of Sue Kent, for example.
 -   Mindset
-    -   Changing Your Mindset Carol Dweck is a psychologist at Stanford University in Califor-nia. For more than twenty years, her research has focused on how people's dispositions and attitudes affect what they achieve. “The view you adopt of yourself,” she says, “can determine whether you become the person you want to be and whether you accomplish the things you value.” In her book Mindset, Dweck describes two radically different sets of attitudes, which she calls fixed and growth mindsets. People with a fixed mindset tend to believe that personal qualities like intelligence and talent are set at birth and cannot be changed. They are simply “carved in stone.” A fixed mindset of-ten “creates an urgency to prove yourself over and over.” If you believe you only have a certain amount of intelligence, certain personality and certain moral character, “well then you'd better prove that you have a healthy dose of them. It simply wouldn't look right to look or feel deficient in these most basic character-istics.” The fixed mindset is constantly reinforced, says Dweck,by some forms of education and also by popular images of IQ tests that give set numbers for qualities like intelligence. Very many people with fixed mindsets are obsessed with “one consuming goal of proving themselves" in the classroom, in their careers and in their relationships. Will I succeed or fail? Will I look smart or dumb? Will I be accepted or rejected? Will I fel like a winner or loser? People with a fixed mindset tend to think that aptirudes and dispositcion are "simply a hand you're dealt and have to live Wih" If you believe that, you may find yourself "always trying to avince yourself and others that you have a royal Hlush when youire secretly worried it's a pair of tens."
-    -   The growth mindset is wholly different. It is based on the be-lief that you can develop your aptitudes and possibilities through your own efforts. Although people differ in their biological in-heritance,those with the growth mindset believe that “everyone can change and grow through application and experience.” One of the oldest debates in human development is about the relationship between nature and nurture. Are your capabilities and achievements shaped more by biology or by experience?The dominant scientific and philosophical view now is that there is a dynamic relation between nature and nurture. Each deeply af fects the other.Like the rest of your body, your brain continues to evolve during your life as new experiences and skilIs generate new neural pathways and networks.
+    -   Changing Your Mindset Carol Dweck is a psychologist at Stanford
+        University in Califor-nia. For more than twenty years, her
+        research has focused on how people's dispositions and attitudes
+        affect what they achieve. “The view you adopt of yourself,” she
+        says, “can determine whether you become the person you want to be
+        and whether you accomplish the things you value.” In her book
+        Mindset, Dweck describes two radically different sets of
+        attitudes, which she calls fixed and growth mindsets. People with
+        a fixed mindset tend to believe that personal qualities like
+        intelligence and talent are set at birth and cannot be changed.
+        They are simply “carved in stone.” A fixed mindset of-ten “creates
+        an urgency to prove yourself over and over.” If you believe you
+        only have a certain amount of intelligence, certain personality
+        and certain moral character, “well then you'd better prove that
+        you have a healthy dose of them. It simply wouldn't look right to
+        look or feel deficient in these most basic character-istics.” The
+        fixed mindset is constantly reinforced, says Dweck,by some forms
+        of education and also by popular images of IQ tests that give set
+        numbers for qualities like intelligence. Very many people with
+        fixed mindsets are obsessed with “one consuming goal of proving
+        themselves" in the classroom, in their careers and in their
+        relationships. Will I succeed or fail? Will I look smart or dumb?
+        Will I be accepted or rejected? Will I fel like a winner or loser?
+        People with a fixed mindset tend to think that aptirudes and
+        dispositcion are "simply a hand you're dealt and have to live Wih"
+        If you believe that, you may find yourself "always trying to
+        avince yourself and others that you have a royal Hlush when youire
+        secretly worried it's a pair of tens."
+    -   The growth mindset is wholly different. It is based on the be-lief
+        that you can develop your aptitudes and possibilities through your
+        own efforts. Although people differ in their biological
+        in-heritance,those with the growth mindset believe that “everyone
+        can change and grow through application and experience.” One of
+        the oldest debates in human development is about the relationship
+        between nature and nurture. Are your capabilities and achievements
+        shaped more by biology or by experience?The dominant scientific
+        and philosophical view now is that there is a dynamic relation
+        between nature and nurture. Each deeply af fects the other.Like
+        the rest of your body, your brain continues to evolve during your
+        life as new experiences and skilIs generate new neural pathways
+        and networks.
 -   Carl Jung
-    -   Inside Out In 1921,Car1 Jung published Psychological Types. It had a major impact on psychology and in popular culture and is still one of the most influential theories of personality. Jung's work was based on more than twenty years of study in psychology. His focus was not so much on classifying patterns of behavior as on understand. ing how people typically related to the world. It was Jung who developed the idea of introverts and extroverts that's become so much a part of modern conversation. According to Jung, introversion and extroversion are modes of attention and engagement. The introvert is more oriented to the inner world, the extrovert more toward the outer world.Introver-sion is normally characterized by“a hesitant, reflective, retiring na-ture that keeps itself to itself"; extroversion by “an outgoing candid and accommodating nature that adapts easily to a given situation, quickly forms attachments and setting aside possible misgivings will often venture forth with careless confidence into unknown situations.” As detached as he aimed to be, it's easy to getthe im pression that Jung was not terribly fond of extroverts.He did say, though,that no one is only introverted or extroverted. “Although each of us in the process of following our dominant inclination invariably depends on one attitude more than the other,the oppo-site attitude is still potentially there.” In addition to these two attirudes,Jung identifies four modes of orientation: ·Thinking-the process of conscious thought ·Sensation-perceiving the world through the physical senses
-    -   ·Fecling-the process of subjective evaluation ·Intuition-the process of unconscious perception He combined these two atritudes and four modes to suggest eight main personality types. He was careful to say that his clas-sification system did not explain everything about individual psy-chological differences. Nor did he intend it as a way of labeling people. He saw it primarily as a tool for understanding similari-ties and differences among people often for the purposes of analy-sis and treatment. Neither did he have in mind a widespread scheme of practical application. Nonetheless, Jung's system has becn used as the basis of various approaches to classifying personality types that are used in busi-ness, education, coaching and career counseling. The best known of these is the Myers-Briggs personality type indicator (MBTI). The system was developed in the forties from Jung's writings by Catherine Cook Briggs and her daughter Isabel Briggs Myers. MBTI takes Jung's theory and combines the concepts of attributes and preferences to generate sixteen personality types. The MBTI testing system is designed to help you discover your own type by assessing yourself across four dimensions: ·Extroversion(E)-Introversion(I) ·Sensing(S)-Intuition(N) ·Thinking(T)-Feeling(F) ·Judging(J)-Perceiving(P)
+    -   Inside Out In 1921,Car1 Jung published Psychological Types. It had
+        a major impact on psychology and in popular culture and is still
+        one of the most influential theories of personality. Jung's work
+        was based on more than twenty years of study in psychology. His
+        focus was not so much on classifying patterns of behavior as on
+        understand. ing how people typically related to the world. It was
+        Jung who developed the idea of introverts and extroverts that's
+        become so much a part of modern conversation. According to Jung,
+        introversion and extroversion are modes of attention and
+        engagement. The introvert is more oriented to the inner world, the
+        extrovert more toward the outer world.Introver-sion is normally
+        characterized by“a hesitant, reflective, retiring na-ture that
+        keeps itself to itself"; extroversion by “an outgoing candid and
+        accommodating nature that adapts easily to a given situation,
+        quickly forms attachments and setting aside possible misgivings
+        will often venture forth with careless confidence into unknown
+        situations.” As detached as he aimed to be, it's easy to getthe im
+        pression that Jung was not terribly fond of extroverts.He did say,
+        though,that no one is only introverted or extroverted. “Although
+        each of us in the process of following our dominant inclination
+        invariably depends on one attitude more than the other,the
+        oppo-site attitude is still potentially there.” In addition to
+        these two attirudes,Jung identifies four modes of orientation:
+        ·Thinking-the process of conscious thought ·Sensation-perceiving
+        the world through the physical senses
+    -   ·Fecling-the process of subjective evaluation ·Intuition-the
+        process of unconscious perception He combined these two atritudes
+        and four modes to suggest eight main personality types. He was
+        careful to say that his clas-sification system did not explain
+        everything about individual psy-chological differences. Nor did he
+        intend it as a way of labeling people. He saw it primarily as a
+        tool for understanding similari-ties and differences among people
+        often for the purposes of analy-sis and treatment. Neither did he
+        have in mind a widespread scheme of practical application.
+        Nonetheless, Jung's system has becn used as the basis of various
+        approaches to classifying personality types that are used in
+        busi-ness, education, coaching and career counseling. The best
+        known of these is the Myers-Briggs personality type indicator
+        (MBTI). The system was developed in the forties from Jung's
+        writings by Catherine Cook Briggs and her daughter Isabel Briggs
+        Myers. MBTI takes Jung's theory and combines the concepts of
+        attributes and preferences to generate sixteen personality types.
+        The MBTI testing system is designed to help you discover your own
+        type by assessing yourself across four dimensions:
+        ·Extroversion(E)-Introversion(I) ·Sensing(S)-Intuition(N)
+        ·Thinking(T)-Feeling(F) ·Judging(J)-Perceiving(P)
 -   Alex Thomas &amp; Stella Chess
-    -   Dr. Alex Thomas and Dr. Stella Chess were a husband and wife team of psychiatrists based in New York City. They had a particu-lar interest in the idea of temperament, which they define in a way that relates to aptitude and passion as I use the terms here. Temper-ament, they say, has to be distinguished from two other qualities in individuals: ·What you can do-your abilities and talents ·Why you do it-your motivations and purposes ·Temperament-your styles of behavior Through long-term studies of children's behavior, Chess and Thomas identifed nine behavioral attributes and suggested that all children (and adults too) differ on each of these traits on a range from low to high. You might apply these to yourself and to people you know. Sensitivity refers to how much stimulus a child needs to pro-voke a response. Is the child bothered by external stimuli like noises, textures or lights, or does the child seem to ignore them? “Some children,” says Dr. Chess, “will blink at sunlight and some will scream. Some will scarcely notice a loud noise and some will be exquisitely sensitive to it.” Intensity refers to the energy level of a child's response.“A highly intense child may laugh out loud and shout; the low inten-sity child may have a quiet smile. In a negative mood, the high intensity child will scream and cry loudly; the low intensity child may whimper and have a mild fuss.” Activity refers to the child's physical energy.“A low activity child may watch TV quietly for hours.A high acrivity child will tend ro ump up often and move around ro ger a drink or something else.
-    -   Some children prefer higlaly active games or move actively no mat. er what they do," A high-energy child may have dificulty siting svill in clas, whereas a child with low energy can tolerate a very simietured envitonment. The former mnay use gross motor skills like running and jumping more frequently. A child with a lower activ. ity level may rely more on fine motor skills, such as drawing and putting puzzles together. Adaprabiligy refers to how long it takes the child to adjust to change over time, as opposed to an initial reaction.Does the child adjust tothe changes in their environment easily, or is the child resistant? A child who adjusts easily may be quick to settle into a new routine; a resistant child may take a long time to adjust to the siruation. Approach or withdrawal refers to how the child responds to ex-periences and stimuli, including new people or situations. “Some children tend in new situations to feel immediately comfortable-an approach reaction. Some feel uncomfortable and hold back until they feel comfortable." A bold child tends to approach things quickly, as if without thinking,whereas a cautious child typically prefers to watch for a while before engaging in new ex-periences. Persistence and attention span refer to the child's length of time on a task and ability to stay with the task through frustra-tions. A high-persistent child will continue on a task and return to it in spite of distractions and interruptions. A low-persistent child will lose interest more quickly and may leave the task unfin-ished. Regularity refers to biological rhythms, including sleep, hun-ger and bowel movements. “Some children are very regular in biological functions and sleep, wake and eat at the same times
-    -   Each day." Others may go to sleep at different times, have irregu- lar sleep patterns and eat at odd times during the day. Distractibility refers to how easily a child is drawn away from an activity. Some children will play intently or focus on a learn-ing task and not notice someone walking by; another may be eas-ily sidetracked and find it difficult to focus on the task in hand. Mood refers to the child's general tendency to be positive or negative in outlook-how often the child is happy, cheerful, joyful, and pleasant or the opposite. “Some children are happy most of the time and a joy to be with. Others are more often un-happy and can be a trial for their parents.” Within this par-ticular framework, mood is probably closest to what I refer to as disposition. All children have all nine traits and many more. How these attributes combine determines a child's unique behavioral style or temperament. Incidentally, the English word temperament comes from the Latin temperare, which means “to mix.” The implication is that temperament is a balance of different elements and not a sin-gle characteristic.How would you rate your own mix of attributes?
+    -   Dr. Alex Thomas and Dr. Stella Chess were a husband and wife team
+        of psychiatrists based in New York City. They had a particu-lar
+        interest in the idea of temperament, which they define in a way
+        that relates to aptitude and passion as I use the terms here.
+        Temper-ament, they say, has to be distinguished from two other
+        qualities in individuals: ·What you can do-your abilities and
+        talents ·Why you do it-your motivations and purposes
+        ·Temperament-your styles of behavior Through long-term studies of
+        children's behavior, Chess and Thomas identifed nine behavioral
+        attributes and suggested that all children (and adults too) differ
+        on each of these traits on a range from low to high. You might
+        apply these to yourself and to people you know. Sensitivity refers
+        to how much stimulus a child needs to pro-voke a response. Is the
+        child bothered by external stimuli like noises, textures or
+        lights, or does the child seem to ignore them? “Some children,”
+        says Dr. Chess, “will blink at sunlight and some will scream. Some
+        will scarcely notice a loud noise and some will be exquisitely
+        sensitive to it.” Intensity refers to the energy level of a
+        child's response.“A highly intense child may laugh out loud and
+        shout; the low inten-sity child may have a quiet smile. In a
+        negative mood, the high intensity child will scream and cry
+        loudly; the low intensity child may whimper and have a mild fuss.”
+        Activity refers to the child's physical energy.“A low activity
+        child may watch TV quietly for hours.A high acrivity child will
+        tend ro ump up often and move around ro ger a drink or something
+        else.
+    -   Some children prefer higlaly active games or move actively no mat.
+        er what they do," A high-energy child may have dificulty siting
+        svill in clas, whereas a child with low energy can tolerate a very
+        simietured envitonment. The former mnay use gross motor skills
+        like running and jumping more frequently. A child with a lower
+        activ. ity level may rely more on fine motor skills, such as
+        drawing and putting puzzles together. Adaprabiligy refers to how
+        long it takes the child to adjust to change over time, as opposed
+        to an initial reaction.Does the child adjust tothe changes in
+        their environment easily, or is the child resistant? A child who
+        adjusts easily may be quick to settle into a new routine; a
+        resistant child may take a long time to adjust to the siruation.
+        Approach or withdrawal refers to how the child responds to
+        ex-periences and stimuli, including new people or situations.
+        “Some children tend in new situations to feel immediately
+        comfortable-an approach reaction. Some feel uncomfortable and hold
+        back until they feel comfortable." A bold child tends to approach
+        things quickly, as if without thinking,whereas a cautious child
+        typically prefers to watch for a while before engaging in new
+        ex-periences. Persistence and attention span refer to the child's
+        length of time on a task and ability to stay with the task through
+        frustra-tions. A high-persistent child will continue on a task and
+        return to it in spite of distractions and interruptions. A
+        low-persistent child will lose interest more quickly and may leave
+        the task unfin-ished. Regularity refers to biological rhythms,
+        including sleep, hun-ger and bowel movements. “Some children are
+        very regular in biological functions and sleep, wake and eat at
+        the same times
+    -   Each day." Others may go to sleep at different times, have irregu-
+        lar sleep patterns and eat at odd times during the day.
+        Distractibility refers to how easily a child is drawn away from an
+        activity. Some children will play intently or focus on a learn-ing
+        task and not notice someone walking by; another may be eas-ily
+        sidetracked and find it difficult to focus on the task in hand.
+        Mood refers to the child's general tendency to be positive or
+        negative in outlook-how often the child is happy, cheerful,
+        joyful, and pleasant or the opposite. “Some children are happy
+        most of the time and a joy to be with. Others are more often
+        un-happy and can be a trial for their parents.” Within this
+        par-ticular framework, mood is probably closest to what I refer to
+        as disposition. All children have all nine traits and many more.
+        How these attributes combine determines a child's unique
+        behavioral style or temperament. Incidentally, the English word
+        temperament comes from the Latin temperare, which means “to mix.”
+        The implication is that temperament is a balance of different
+        elements and not a sin-gle characteristic.How would you rate your
+        own mix of attributes?
 
 
 ## <span class="org-todo todo TODO">TODO</span> Chapter 7: Where are you now? {#chapter-7-where-are-you-now}
