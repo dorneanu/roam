@@ -1,5 +1,6 @@
 +++
 title = "SOLID"
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -95,3 +96,8 @@ draft = false
 -   when a package needs a depedency, it should take that depedency as a parameter (use interfaces not concrete implementations)
 -   high-level concepts (such as ) know nothing of lower-level concepts (such as )
     -   instead the lower-level uses cases know about the high-level entities
+
+
+## Resources {#resources}
+
+-   2024-01-29 [Mastering Design Principles (SOLID)](https://blog.bytebytego.com/p/mastering-design-principles-solid)

@@ -3,7 +3,7 @@
 :END:
 #+created: 20210419181731538
 #+modified: 20210701095233198
-#+origin: [[<<. bibliography "The Clean Code">>]]  [[<<. bibliography "The Clean Architecture">>]] 
+#+origin: [[<<. bibliography "The Clean Code">>]]  [[<<. bibliography "The Clean Architecture">>]]
 #+revision: 0
 #+tags: Definition
 #+title: SOLID
@@ -106,3 +106,5 @@
 - when a package needs a depedency, it should take that depedency as a parameter (use interfaces not concrete implementations)
 - high-level concepts (such as [[#Software%20System%2FEntities][entities]]) know nothing of lower-level concepts (such as [[#Software%20System%2FUse%20Cases][use cases]])
   - instead the lower-level uses cases know about the high-level entities
+* Resources
+- 2024-01-29 [[https://blog.bytebytego.com/p/mastering-design-principles-solid][Mastering Design Principles (SOLID)]]
