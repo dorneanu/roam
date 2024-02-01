@@ -1,5 +1,6 @@
 +++
 title = "DDD"
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -58,6 +59,11 @@ draft = false
 
 ## Resources {#resources}
 
+-   2024-02-01 ◦ [Warum spricht jeder über DDD?](https://entwickler.de/java/warum-spricht-jeder-uber-ddd)
+-   2024-02-01 ◦ [DDD Beyond the Basics: Mastering Aggregate Design | by Mario Bittencourt | SSENSE-TECH | Medium](https://medium.com/ssense-tech/ddd-beyond-the-basics-mastering-aggregate-design-26591e218c8c)
+-   2024-02-01 ◦ [Introduction - Domain Driven Microservices on AWS in Practice](https://ddd.mikaelvesavuori.se/)
+-   2024-02-01 ◦ [GitHub - ddd-crew/free-ddd-learning-resources: A collection of resources for learning DDD. All are free to access.](https://github.com/ddd-crew/free-ddd-learning-resources)
+-   2024-02-01 ◦ [GitHub - AlexNek/ddd-for-developers: Domain Driver Design - Overview for Software Developers](https://github.com/AlexNek/ddd-for-developers)
 -   2023-05-11 ◦ [Domain-Driven Design: Bridging the Gap Between Business and Technology](https://applandeo.com/blog/domain-driven-design-bridging-the-gap-between-business-and-technology/)
 -   2023-03-13 ◦ [A gentle introduction to Domain Driven Design | by The Lone Architect | Medium](https://blog.thelonearchitect.com/a-gentle-introduction-to-domain-driven-design-dc7cc169b1d)
 -   2022-12-01 ◦ [Michael Plöd (@mploed) on Speaker Deck](https://speakerdeck.com/mploed)

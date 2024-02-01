@@ -1,6 +1,6 @@
 +++
 title = "ChatGPT"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -30,6 +30,7 @@ draft = false
 
 ### System Prompts {#system-prompts}
 
+-   2024-01-31 ◦ [ChatGPT Prompt Builder](https://mitenmit.github.io/gpt/)
 -   2023-10-25 ◦ [ChatGPT / GPT-4 System Prompt Engineering - Ultimate Guide - YouTube](https://www.youtube.com/watch?v=zNACfPuaqaI&ab_channel=AllAboutAI)
 -   2023-10-24 ◦ [GitHub - spdustin/ChatGPT-AutoExpert: 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding)](https://github.com/spdustin/ChatGPT-AutoExpert)
 -   2023-10-24 ◦ [GitHub - mustvlad/ChatGPT-System-Prompts: This repository contains a collection of the best system prompts for ChatGPT](https://github.com/mustvlad/ChatGPT-System-Prompts)

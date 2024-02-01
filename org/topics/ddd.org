@@ -10,46 +10,51 @@
 
 * Concepts
 ** Ubiquitous language
-    - use the same terms in code as the user use
-    - have *common* language between delivery team and actual people (aka customers)
-      - helps to understand business by logic
-      - helps with communication
-    - use real-world language in code
+- use the same terms in code as the user use
+- have *common* language between delivery team and actual people (aka customers)
+  - helps to understand business by logic
+  - helps with communication
+- use real-world language in code
 ** Aggregates
-    - a representatino of real domain concept
-      - something like an ~Order~, an ~Invoice~, ~Stock Item~
-    - aggregates typically have an information cycle around them
-    - in general
-      - aggregate as something that has
-        - state
-        - identity
-        - information cycle
-          - that will be managed as part of the system
-    - aggregates can have relationships to other aggregates
+- a representatino of real domain concept
+  - something like an ~Order~, an ~Invoice~, ~Stock Item~
+- aggregates typically have an information cycle around them
+- in general
+  - aggregate as something that has
+    - state
+    - identity
+    - information cycle
+      - that will be managed as part of the system
+- aggregates can have relationships to other aggregates
 ** Bounded context
 :PROPERTIES:
 :ID:       143d2ed2-443e-467f-94c7-3ff5326b9979
 :ROAM_ALIASES: "DDD/Bounded Context"
 :END:
-  - a larger organizational boundary
-    - within it explicit responsibilities need to be carried out
-  - bounded contexts hide implementation details ([[#*%20Information%20hiding%5D%5BInformation%20hiding][* Information hiding][Information hiding]])
-  - bounded contexts contain ~1-n~ aggregates
-    - some aggregates may be exposed outside the bounded context
-    - others may be hidden internally
+- a larger organizational boundary
+  - within it explicit responsibilities need to be carried out
+- bounded contexts hide implementation details ([[#*%20Information%20hiding%5D%5BInformation%20hiding][* Information hiding][Information hiding]])
+- bounded contexts contain ~1-n~ aggregates
+  - some aggregates may be exposed outside the bounded context
+  - others may be hidden internally
 ** Event Storming
-  - collaborative brainstorming exercise designed to help design a domain model
-  - invented by [[https://www.eventstorming.com/][Alberto Brandolini]]
+- collaborative brainstorming exercise designed to help design a domain model
+- invented by [[https://www.eventstorming.com/][Alberto Brandolini]]
 
 * Boundaries between microservices
-  - There are some factors when defining clear boundaries between [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]]
-    - volatility
-    - data
-      - also with concern to security
-    - technology
-    - organizational
-      - Layering Inside vs Layering Outside
+- There are some factors when defining clear boundaries between [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]]
+  - volatility
+  - data
+    - also with concern to security
+  - technology
+  - organizational
+    - Layering Inside vs Layering Outside
 * Resources
+- 2024-02-01 ◦ [[https://entwickler.de/java/warum-spricht-jeder-uber-ddd][Warum spricht jeder über DDD?]]
+- 2024-02-01 ◦ [[https://medium.com/ssense-tech/ddd-beyond-the-basics-mastering-aggregate-design-26591e218c8c][DDD Beyond the Basics: Mastering Aggregate Design | by Mario Bittencourt | SSENSE-TECH | Medium]]
+- 2024-02-01 ◦ [[https://ddd.mikaelvesavuori.se/][Introduction - Domain Driven Microservices on AWS in Practice]]
+- 2024-02-01 ◦ [[https://github.com/ddd-crew/free-ddd-learning-resources][GitHub - ddd-crew/free-ddd-learning-resources: A collection of resources for learning DDD. All are free to access.]]
+- 2024-02-01 ◦ [[https://github.com/AlexNek/ddd-for-developers][GitHub - AlexNek/ddd-for-developers: Domain Driver Design - Overview for Software Developers]]
 - 2023-05-11 ◦ [[https://applandeo.com/blog/domain-driven-design-bridging-the-gap-between-business-and-technology/][Domain-Driven Design: Bridging the Gap Between Business and Technology]]
 - 2023-03-13 ◦ [[https://blog.thelonearchitect.com/a-gentle-introduction-to-domain-driven-design-dc7cc169b1d][A gentle introduction to Domain Driven Design | by The Lone Architect | Medium]]
 - 2022-12-01 ◦ [[https://speakerdeck.com/mploed][Michael Plöd (@mploed) on Speaker Deck]]

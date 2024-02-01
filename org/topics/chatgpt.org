@@ -17,6 +17,7 @@
 ** Security
 - 2023-08-21 ◦ [[https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm][Don’t you (forget NLP): Prompt injection with control characters in ChatGPT - Dropbox]]
 ** System Prompts
+- 2024-01-31 ◦ [[https://mitenmit.github.io/gpt/][ChatGPT Prompt Builder]]
 - 2023-10-25 ◦ [[https://www.youtube.com/watch?v=zNACfPuaqaI&ab_channel=AllAboutAI][ChatGPT / GPT-4 System Prompt Engineering - Ultimate Guide - YouTube]]
 - 2023-10-24 ◦ [[https://github.com/spdustin/ChatGPT-AutoExpert][GitHub - spdustin/ChatGPT-AutoExpert: 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding)]]
 - 2023-10-24 ◦ [[https://github.com/mustvlad/ChatGPT-System-Prompts][GitHub - mustvlad/ChatGPT-System-Prompts: This repository contains a collection of the best system prompts for ChatGPT]]
