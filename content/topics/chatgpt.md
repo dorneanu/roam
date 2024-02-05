@@ -25,6 +25,7 @@ draft = false
 
 ### Security {#security}
 
+-   2024-02-01 ◦ [StrideGPT](https://stridegpt.streamlit.app/)
 -   2023-08-21 ◦ [Don’t you (forget NLP): Prompt injection with control characters in ChatGPT - Dropbox](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm)
 
 
