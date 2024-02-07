@@ -1,5 +1,5 @@
 #+author: Victor Dorneanu
-#+startup: indent fold
+#+startup: fold hideblocks
 #+hugo_base_dir: /cs/priv/repos/blog
 #+hugo_section: posts
 #+hugo_auto_set_lastmod: t

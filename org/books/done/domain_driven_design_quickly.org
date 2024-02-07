@@ -2,7 +2,7 @@
 :ID:       544166e7-d1b9-4fc8-a3aa-427fdeca0173
 :END:
 #+title: Domain Driven Design Quickly
-#+filetags: book
+#+filetags: :architecture:ddd:book:
 #+date: 2024-02-05
 
 * Notes

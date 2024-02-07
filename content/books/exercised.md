@@ -1,5 +1,6 @@
 +++
 title = "Exercised"
+author = ["Victor Dorneanu"]
 date = 2023-04-10
 tags = ["anthropology", "science", "health", "todo", "book"]
 draft = false
@@ -156,33 +157,31 @@ On the history of chairs:
 
 On [cytokine]({{< relref "../../topics/cytokine.md" >}}) and inflammations:
 
-> The answer has recently become apparent thanks to new technologies that
-> accurately measure minuscule quantities of the more than one thousand tiny
-> proteins that cells pump into our bloodstreams. Several dozens of these
-> proteins, termed **cytokines** (from the Greek cyto for “cell” and kine for
-> “movement”), regulate inflammation.
+> The answer has recently become apparent thanks to new technologies that accurately measure
+> minuscule quantities of the more than one thousand tiny proteins that cells pump into our
+> bloodstreams. Several dozens of these proteins, termed **cytokines** (from the Greek cyto for
+> “cell” and kine for “movement”), regulate inflammation.
 >
-> As scientists started to study when and how **cytokines turn inflammation on** and
-> off, they discovered that some of the same cytokines that ignite short-lived,
-> intense, and local inflammatory responses following an infection also **stimulate
-> lasting, barely detectable levels of inflammation throughout the body**.
+> As scientists started to study when and how **cytokines turn inflammation on** and off, they
+> discovered that some of the same cytokines that ignite short-lived, intense, and local
+> inflammatory responses following an infection also **stimulate lasting, barely detectable
+> levels of inflammation throughout the body**.
 >
-> Instead of blazing acutely in one spot for a few days or weeks, as when we fight
-> a cold, inflammation can smolder imperceptibly in many parts of the body for
-> months or years. In a way, chronic, **low-grade inflammation is like having a
-> never-ending cold so mild you never notice its existence**. But the inflammation
-> is nonetheless there, and mounting evidence indicates that this slow burn
-> steadily and surreptitiously **damages tissues in our arteries, muscles, liver,
-> brain, and other organs**.
+> Instead of blazing acutely in one spot for a few days or weeks, as when we fight a cold,
+> inflammation can smolder imperceptibly in many parts of the body for months or years. In a
+> way, chronic, **low-grade inflammation is like having a never-ending cold so mild you never
+> notice its existence**. But the inflammation is nonetheless there, and mounting evidence
+> indicates that this slow burn steadily and surreptitiously **damages tissues in our
+> arteries, muscles, liver, brain, and other organs**.
 
 
 ### 77 {#77}
 
-> So when organ fat cells swell, they ooze into the bloodstream a great many
-> proteins (cytokines) that incite inflammation. Telltale signs of excess organ
-> fat are a paunch or an apple-shaped body. Disconcertingly, it is also possible
-> to be “skinny fat” with significant deposits of organ fat in and around one’s
-> muscles, heart, and liver without necessarily having a potbelly figure.
+> So when organ fat cells swell, they ooze into the bloodstream a great many proteins
+> (cytokines) that incite inflammation. Telltale signs of excess organ fat are a paunch or
+> an apple-shaped body. Disconcertingly, it is also possible to be “skinny fat” with
+> significant deposits of organ fat in and around one’s muscles, heart, and liver without
+> necessarily having a potbelly figure.
 
 
 ## On sleep {#on-sleep}
@@ -211,36 +210,31 @@ What happens during sleep:
 
 The brain and its waste:
 
-> An even more **vital function of sleep for the brain is janitorial**. The zillions
-> of chemical reactions that make life possible inevitably create **waste products
-> known as metabolites**, some highly reactive and damaging. Because the
-> power-hungry brain uses one-fifth of the body’s calories, it generates abundant
-> and highly concentrated metabolites. **Some of these garbagy molecules such as
-> beta-amyloid clog up neurons**. Others such as **adenosine make us sleepy as they
-> accumulate** (and are counteracted by caffeine).
+> An even more **vital function of sleep for the brain is janitorial**. The zillions of chemical
+> reactions that make life possible inevitably create **waste products known as metabolites**,
+> some highly reactive and damaging. Because the power-hungry brain uses one-fifth of the
+> body’s calories, it generates abundant and highly concentrated metabolites. **Some of these
+> garbagy molecules such as beta-amyloid clog up neurons**. Others such as **adenosine make us
+> sleepy as they accumulate** (and are counteracted by caffeine).
 
 
 ### 93 {#93}
 
-> For every hour spent awake storing memories and amassing waste, we need
-> approximately fifteen minutes asleep to process those memories and clean up.
-
-quote
+> For every hour spent awake storing memories and amassing waste, we need approximately
+> fifteen minutes asleep to process those memories and clean up.
 
 
 ### 93 {#93}
 
 The brains cleaning process:
 
-> During NREM sleep, specialized cells throughout the brain expand the spaces
-> between neurons by as much as 60 percent, allowing **cerebrospinal fluid that
-> bathes the brain to literally flush away this junk**. These opened spaces also
-> **admit enzymes that repair damaged cells and rejuvenate receptors in the brain
-> for neurotransmitters**. The only catch, however, is that the brain’s
-> interstitial pathways are like single-lane bridges that let cars pass in only
-> one direction at a time. **Apparently, we cannot think while cleansing our brains**.
-> We thus must sleep to flush out the cobwebs left behind by the day’s
-> experiences.
+> During NREM sleep, specialized cells throughout the brain expand the spaces between
+> neurons by as much as 60 percent, allowing **cerebrospinal fluid that bathes the brain to
+> literally flush away this junk**. These opened spaces also **admit enzymes that repair damaged
+> cells and rejuvenate receptors in the brain for neurotransmitters**. The only catch,
+> however, is that the brain’s interstitial pathways are like single-lane bridges that let
+> cars pass in only one direction at a time. **Apparently, we cannot think while cleansing our
+> brains**. We thus must sleep to flush out the cobwebs left behind by the day’s experiences.
 
 
 ### 96 {#96}
@@ -499,13 +493,20 @@ Ten thousand steps:
 
 On epigenetic modifications:
 
-> Over time, tiny molecules glue themselves to the DNA in cells. These so-called epigenetic (on top of the genome) modifications can affect which genes are expressed in particular cells.
+> Over time, tiny molecules glue themselves to the DNA in cells. These so-called
+> epigenetic (on top of the genome) modifications can affect which genes are
+> expressed in particular cells.
 >
-> Because environmental factors like diet, stress, and exercise partly influence epigenetic modifications, the older we are, the more of them we accumulate.
+> Because environmental factors like diet, stress, and exercise partly influence
+> epigenetic modifications, the older we are, the more of them we accumulate.
 >
-> Most epigenetic modifications are harmless, but the more you have for a given age, the higher your risk of dying.
+> Most epigenetic modifications are harmless, but the more you have for a given
+> age, the higher your risk of dying.
 >
-> Other forms of senescence include cells losing the ability to recycle damaged proteins, inadequately sensing and acquiring nutrients, and (less likely) being unable to divide because the little caps (telomeres) that protect the ends of chromosomes from unraveling have become too short.
+> Other forms of senescence include cells losing the ability to recycle damaged
+> proteins, inadequately sensing and acquiring nutrients, and (less likely) being
+> unable to divide because the little caps (telomeres) that protect the ends of
+> chromosomes from unraveling have become too short.
 
 
 ## <span class="org-todo todo TODO">TODO</span> Notes {#notes}
@@ -697,7 +698,13 @@ quote
 
 ### 225 {#225}
 
-> Donald Trump needs little introduction. Born in 1946 to wealthy parents, he was sent to a military academy where presumably he had to participate in sports. Although a teetotaler and nonsmoker, Trump famously enjoyed eating abundant junk food and large steaks, drinking Diet Coke, getting little sleep, and avoiding any form of exercise apart from golf. According to biographers, “\*Trump believed the human body was like a battery, with a finite amount of energy, which exercise only depleted. So he didn’t work out\*.
+> Donald Trump needs little introduction. Born in 1946 to wealthy parents, he was
+> sent to a military academy where presumably he had to participate in sports.
+> Although a teetotaler and nonsmoker, Trump famously enjoyed eating abundant junk
+> food and large steaks, drinking Diet Coke, getting little sleep, and avoiding
+> any form of exercise apart from golf. According to biographers, “\*Trump believed
+> the human body was like a battery, with a finite amount of energy, which
+> exercise only depleted. So he didn’t work out\*.
 
 
 ### 229 {#229}

@@ -156,34 +156,32 @@ I have shown just a few of the many postures people adopt when sitting.)
 On [[id:f730d8cf-edf2-4818-9bcc-c9748e2a798e][cytokine]] and inflammations:
 
 #+begin_quote
-The answer has recently become apparent thanks to new technologies that
-accurately measure minuscule quantities of the more than one thousand tiny
-proteins that cells pump into our bloodstreams. Several dozens of these
-proteins, termed *cytokines* (from the Greek cyto for “cell” and kine for
-“movement”), regulate inflammation.
+The answer has recently become apparent thanks to new technologies that accurately measure
+minuscule quantities of the more than one thousand tiny proteins that cells pump into our
+bloodstreams. Several dozens of these proteins, termed *cytokines* (from the Greek cyto for
+“cell” and kine for “movement”), regulate inflammation.
 
-As scientists started to study when and how *cytokines turn inflammation on* and
-off, they discovered that some of the same cytokines that ignite short-lived,
-intense, and local inflammatory responses following an infection also *stimulate
-lasting, barely detectable levels of inflammation throughout the body*.
+As scientists started to study when and how *cytokines turn inflammation on* and off, they
+discovered that some of the same cytokines that ignite short-lived, intense, and local
+inflammatory responses following an infection also *stimulate lasting, barely detectable
+levels of inflammation throughout the body*.
 
-Instead of blazing acutely in one spot for a few days or weeks, as when we fight
-a cold, inflammation can smolder imperceptibly in many parts of the body for
-months or years. In a way, chronic, *low-grade inflammation is like having a
-never-ending cold so mild you never notice its existence*. But the inflammation
-is nonetheless there, and mounting evidence indicates that this slow burn
-steadily and surreptitiously *damages tissues in our arteries, muscles, liver,
-brain, and other organs*.
+Instead of blazing acutely in one spot for a few days or weeks, as when we fight a cold,
+inflammation can smolder imperceptibly in many parts of the body for months or years. In a
+way, chronic, *low-grade inflammation is like having a never-ending cold so mild you never
+notice its existence*. But the inflammation is nonetheless there, and mounting evidence
+indicates that this slow burn steadily and surreptitiously *damages tissues in our
+arteries, muscles, liver, brain, and other organs*.
 #+end_quote
 
 ** 77                                                       :cytokine:
 
 #+begin_quote
-So when organ fat cells swell, they ooze into the bloodstream a great many
-proteins (cytokines) that incite inflammation. Telltale signs of excess organ
-fat are a paunch or an apple-shaped body. Disconcertingly, it is also possible
-to be “skinny fat” with significant deposits of organ fat in and around one’s
-muscles, heart, and liver without necessarily having a potbelly figure.
+So when organ fat cells swell, they ooze into the bloodstream a great many proteins
+(cytokines) that incite inflammation. Telltale signs of excess organ fat are a paunch or
+an apple-shaped body. Disconcertingly, it is also possible to be “skinny fat” with
+significant deposits of organ fat in and around one’s muscles, heart, and liver without
+necessarily having a potbelly figure.
 #+end_quote
 * On sleep
 ** 92                                                       :sleep:
@@ -210,39 +208,34 @@ organizing, and analytical functions as effectively when we are awake and alert.
 The brain and its waste:
 
 #+begin_quote
-An even more *vital function of sleep for the brain is janitorial*. The zillions
-of chemical reactions that make life possible inevitably create *waste products
-known as metabolites*, some highly reactive and damaging. Because the
-power-hungry brain uses one-fifth of the body’s calories, it generates abundant
-and highly concentrated metabolites. *Some of these garbagy molecules such as
-beta-amyloid clog up neurons*. Others such as *adenosine make us sleepy as they
-accumulate* (and are counteracted by caffeine).
+An even more *vital function of sleep for the brain is janitorial*. The zillions of chemical
+reactions that make life possible inevitably create *waste products known as metabolites*,
+some highly reactive and damaging. Because the power-hungry brain uses one-fifth of the
+body’s calories, it generates abundant and highly concentrated metabolites. *Some of these
+garbagy molecules such as beta-amyloid clog up neurons*. Others such as *adenosine make us
+sleepy as they accumulate* (and are counteracted by caffeine).
 #+end_quote
 
 
 ** 93                                                       :quote:
 
 #+begin_quote
-For every hour spent awake storing memories and amassing waste, we need
-approximately fifteen minutes asleep to process those memories and clean up.
+For every hour spent awake storing memories and amassing waste, we need approximately
+fifteen minutes asleep to process those memories and clean up.
 #+end_quote
-
-quote
 
 ** 93                                                       :sleep:
 
 The brains cleaning process:
 
 #+begin_quote
-During NREM sleep, specialized cells throughout the brain expand the spaces
-between neurons by as much as 60 percent, allowing *cerebrospinal fluid that
-bathes the brain to literally flush away this junk*. These opened spaces also
-*admit enzymes that repair damaged cells and rejuvenate receptors in the brain
-for neurotransmitters*. The only catch, however, is that the brain’s
-interstitial pathways are like single-lane bridges that let cars pass in only
-one direction at a time. *Apparently, we cannot think while cleansing our brains*.
-We thus must sleep to flush out the cobwebs left behind by the day’s
-experiences.
+During NREM sleep, specialized cells throughout the brain expand the spaces between
+neurons by as much as 60 percent, allowing *cerebrospinal fluid that bathes the brain to
+literally flush away this junk*. These opened spaces also *admit enzymes that repair damaged
+cells and rejuvenate receptors in the brain for neurotransmitters*. The only catch,
+however, is that the brain’s interstitial pathways are like single-lane bridges that let
+cars pass in only one direction at a time. *Apparently, we cannot think while cleansing our
+brains*. We thus must sleep to flush out the cobwebs left behind by the day’s experiences.
 #+end_quote
 
 ** 96                                                       :sleep:

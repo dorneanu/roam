@@ -2,7 +2,7 @@
 title = "Domain Driven Design Quickly"
 author = ["Victor Dorneanu"]
 date = 2024-02-05
-tags = ["book"]
+tags = ["architecture", "ddd", "book"]
 draft = false
 +++
 
