@@ -750,9 +750,20 @@ animals humans pregnancy
 
 ** 230
 
-I propose a corollary to the grandmother hypothesis, which I call the active grandparent hypothesis. According to this idea, human longevity was not only selected for but also made possible by having to work moderately during old age to help as many children, grandchildren, and other younger relatives as possible to survive and thrive. That is, while there might have been selection for genes (as yet unidentified) that help humans live past the age of fifty, there was also selection for genes that repair and maintain our bodies when we are physically active. As a result, many of the mechanisms that slow aging and extend life are turned on by physical activity, especially as we get older. Human health and longevity are thus extended both by and for physical activity.
+Grandparent Hypothesis
 
-grandparent hypothesis
+#+begin_quote
+I propose a corollary to the grandmother hypothesis, which I call the active grandparent
+hypothesis. According to this idea, human longevity was not only selected for but also
+made possible by having to work moderately during old age to help as many children,
+grandchildren, and other younger relatives as possible to survive and thrive. That is,
+while there might have been selection for genes (as yet unidentified) that help humans
+live past the age of fifty, there was also selection for genes that repair and maintain
+our bodies when we are physically active. As a result, many of the mechanisms that slow
+aging and extend life are turned on by physical activity, especially as we get older.
+Human health and longevity are thus extended both by and for physical activity.
+#+end_quote
+
 
 ** 233
 
