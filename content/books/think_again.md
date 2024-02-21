@@ -308,7 +308,7 @@ Creating communities of lifelong learners
 
 #### Collective rethinking {#collective-rethinking}
 
-1.  Have More Nuanced Conversations
+1.  **Have More Nuanced Conversations**
     1.  Complexify contentious topics. There are more than two sides to every story. Instead of treating polarizing issues like two sides of a coin, look at them through the many lenses of a prism. Seeing the shades of gray can make us more open.
 
     2.  Don't shy away from caveats and contingencies. Acknowledging competing claims and conflicting results doesn't sacrifice interest or credibility. It's an effective way to engage audiences while encouraging them to stay curious.
@@ -322,7 +322,7 @@ Creating communities of lifelong learners
 
     7.  Stop asking kids what they want to be when they grow up. They don't have to define themselves in terms of a career. A single identity can close the door to alternatives. Instead of trying to narrow their options, help them broaden their possibilities. They don't have to be one thing-they can do many things.
 
-2.  Create Learning Organizations
+2.  **Create Learning Organizations**
     1.  Abandon best practices. Best practices suggest that the ideal routines are already in place. If we want people to keep rethinking the way they work, we might be better off adopting process accountability and con- tinually striving for better practices.
 
     2.  Establish psychological safety. In learning cultures, people feel confident that they can question and challenge the status quo without being punished. Psychological safety often starts with leaders role-modeling humility.
