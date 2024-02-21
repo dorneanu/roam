@@ -1,6 +1,6 @@
 +++
 title = "Emacs"
-author = ["Lucien Cartier-Tilet"]
+author = ["Victor Dorneanu"]
 tags = ["emacs", "ide"]
 draft = false
 +++
