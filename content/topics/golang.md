@@ -165,6 +165,7 @@ draft = false
 
 ### Microservices {#microservices}
 
+-   2024-02-28 ◦ [GitHub - stefanprodan/podinfo: Go microservice template for Kubernetes](https://github.com/stefanprodan/podinfo)
 -   2023-04-05 ◦ [Micro-services with auto discovery, observability and load balancing. | Rethink Connectivity Ep 9 - YouTube (using nats.io)](https://www.youtube.com/watch?v=byHGNUqIONw&ab_channel=Synadia)
 -   2022-10-04 ◦ [Encore Docs — Encore Flow](https://encore.dev/docs/develop/encore-flow)
     -   Visualize cloud microservices architecture

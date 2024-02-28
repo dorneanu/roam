@@ -112,6 +112,7 @@
           - Uses IPFS
   #+end_quote
 ** Microservices
+- 2024-02-28 ◦ [[https://github.com/stefanprodan/podinfo][GitHub - stefanprodan/podinfo: Go microservice template for Kubernetes]]
 - 2023-04-05 ◦ [[https://www.youtube.com/watch?v=byHGNUqIONw&ab_channel=Synadia][Micro-services with auto discovery, observability and load balancing. | Rethink Connectivity Ep 9 - YouTube (using nats.io)]]
 - 2022-10-04 ◦ [[https://encore.dev/docs/develop/encore-flow][Encore Docs — Encore Flow]]
   - Visualize cloud microservices architecture
