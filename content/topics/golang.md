@@ -1,6 +1,6 @@
 +++
 title = "Golang"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 tags = ["coding", "golang"]
 draft = false
 +++
@@ -233,3 +233,47 @@ A collection of interesting threads.
 ### Tooling {#tooling}
 
 -   2023-10-04 ◦ [My Preferred Go Stack](https://jtarchie.com/posts/2023-09-30-my-preferred-go-stack)
+
+
+## Products {#products}
+
+-   2024-03-01 ◦ [Go Essentials](https://solomoneseme.gumroad.com/l/go-essentials)
+
+    Go Essentials provides a comprehensive guide for backend engineers covering essential
+    aspects of Golang from basic to advanced levels.
+
+    Highlights
+
+    -   ⚙️ Benefits of Go in Software Engineering
+    -   🛠️ Essential Resources for Writing Go Code
+    -   🏗️ Setting up Go Environment
+    -   📝 Functions in Go
+    -   🔗 Stacks and Pointers in Go
+    -   📘 Go Custom Types, Methods, and Interfaces
+    -   🚀 Building an HTTP Server in Go
+-   2024-03-01 ◦ [Everyday Golang](https://openfaas.gumroad.com/l/everyday-golang)
+
+    “Everyday Go” is a practical book aimed at Go developers
+    that covers various topics like software testing, distribution, and monitoring. It
+    features top rated content on writing unit tests in Go, along with updated and
+    modernized techniques for 2021.
+
+    Highlights
+    📘 Practical examples, lessons, and techniques for Go developers
+    📘 Compilation of tools, techniques, and patterns used in production
+    📘 Focus on software lifecycle from fundamentals to testing, distribution, and monitoring
+    📘 Suitable for beginners and intermediate developers looking to expand or deepen their Go knowledge
+    📘 Includes information on unit testing, GitHub Actions, goroutines, and more
+    📘 Premium Edition offers 300 pages with a normal-sized font, while the base edition is approximately 215 pages
+    📘 Additional resources like sample apps and a serverless add-on are available in the premium and team editions
+-   2024-03-01 ◦ [Let's Go](https://alexedwards.gumroad.com/l/lets-go)
+
+    > Let's Go teaches you step-by-step how to create fast, secure and maintainable web applications using the fantastic programming language Go.
+    >
+    > The idea behind the book is to help you learn by doing. Together we'll walk through the start-to-finish build of a complete web application — from structuring your workspace, through to session management, authenticating users, securing your server and testing your application.
+    >
+    > Building a complete web application has a number of benefits: it helps put the things you're learning into context, demonstrates how different parts of your codebase link together, and forces us to work through the edge-cases and difficulties that come up when writing software in real-life. In essence, you'll learn more that you would by just reading Go's (great) documentation or standalone blog posts.
+    >
+    > Although you can read the book cover-to-cover, it's designed specifically for you to follow along and build the application yourself.
+    > Break out your text editor, and happy coding!
+    > — Alex
