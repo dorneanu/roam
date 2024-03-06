@@ -1,6 +1,6 @@
 +++
 title = "Terraform"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -33,6 +33,8 @@ draft = false
 
 ### AWS {#aws}
 
+-   2024-03-05 ◦ [How to Deploy AWS Config Conformance Packs Using Terraform | AWS Cloud Operations &amp; Migrations Blog](https://aws.amazon.com/blogs/mt/how-to-deploy-aws-config-conformance-packs-using-terraform/)
+    -   Deploy AWS Config [conformance packs](https://github.com/awslabs/aws-config-rules/tree/master/aws-config-conformance-packs) using Terraform
 -   2023-08-16 ◦ [The AWS IA Team's best practices for Terraform](https://aws-ia.github.io/standards-terraform/)
 -   2023-08-02 ◦ [Create an AWS CloudWatch Metric Filter and Alarm in Terraform](https://spin.atomicobject.com/2021/04/07/aws-cloudwatch-metric-filter-alarm-terraform/)
 
