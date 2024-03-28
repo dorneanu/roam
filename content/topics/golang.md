@@ -277,3 +277,12 @@ A collection of interesting threads.
     > Although you can read the book cover-to-cover, it's designed specifically for you to follow along and build the application yourself.
     > Break out your text editor, and happy coding!
     > — Alex
+
+
+## Resources {#resources}
+
+
+### Blogs {#blogs}
+
+-   2024-03-27 ◦ [Ozan Sazak](https://sazak.io/)
+-   2024-03-27 ◦ [Learning Go in 2024; From Beginner to Senior](https://www.bytesizego.com/blog/learning-golang-2024)

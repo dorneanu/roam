@@ -199,3 +199,7 @@ A collection of interesting threads.
   Break out your text editor, and happy coding!
   — Alex
   #+end_quote
+* Resources
+** Blogs
+- 2024-03-27 ◦ [[https://sazak.io/][Ozan Sazak]]
+- 2024-03-27 ◦ [[https://www.bytesizego.com/blog/learning-golang-2024][Learning Go in 2024; From Beginner to Senior]]

@@ -42,8 +42,11 @@
     - limitation of number of different types of calls is important
   - make the system easy to extend without having a high impact of change
   - this done by partitioning the system into 'components' and aranging these into a dependency hiearchy that protects the higher-level components in lower-level components
-  #+begin_quote
-  This essentially means that classes should be open for extension but closed
+  
+    #+begin_quote
+
+
+    This essentially means that classes should be open for extension but closed
   for modification, so it should be possible to extend or override class
   behavior without having to modify code. Behavior change should be pluggable
   into the class, either through overriding some methods or injecting some

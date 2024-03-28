@@ -31,7 +31,6 @@ draft = false
 -   compose simple types into more complex ones using embedding
 -   classes should be open for extension but closed for modification
 -   the goal is minimize coupling
-
     -   loosely coupled
         -   change to one service should not require a change to another
     -   a loosely coupled services knows as little as it needs about the services it communicates with
@@ -39,12 +38,14 @@ draft = false
     -   make the system easy to extend without having a high impact of change
     -   this done by partitioning the system into 'components' and aranging these into a dependency hiearchy that protects the higher-level components in lower-level components
 
-    > This essentially means that classes should be open for extension but closed
-    > for modification, so it should be possible to extend or override class
-    > behavior without having to modify code. Behavior change should be pluggable
-    > into the class, either through overriding some methods or injecting some
-    > configuration. One excellent example of a framework exhibiting this principle
-    > is the Spring Framework ( )
+        >
+        >
+        >   This essentially means that classes should be open for extension but closed
+        > for modification, so it should be possible to extend or override class
+        > behavior without having to modify code. Behavior change should be pluggable
+        > into the class, either through overriding some methods or injecting some
+        > configuration. One excellent example of a framework exhibiting this principle
+        > is the Spring Framework ( )
 -   also leads to SOLID/Dependency Inversion Principle
 
 
