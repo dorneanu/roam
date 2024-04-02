@@ -1,10 +1,45 @@
 +++
 title = "Books/TODO"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
 This is my personal book TODO list, along with the year in which I added the book to the list.
+
+
+## 2024 {#2024}
+
+-   2024-04-02 ◦ [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat | Goodreads](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat)
+
+
+## 2023 {#2023}
+
+-   2023-01-24 ◦ [The Origins of Totalitarianism by Hannah Arendt](https://www.goodreads.com/book/show/396931.The_Origins_of_Totalitarianism)
+-   2023-01-25 ◦ [The Ministry for the Future by Kim Stanley Robinson](https://www.goodreads.com/en/book/show/50998056-the-ministry-for-the-future)
+-   2023-02-02 ◦ [Words Can Change Your Brain: 12 Conversation Strategies to Build Trust, Resolve Conflict, and Increase Intimacy by Andrew B. Newberg | Goodreads](https://www.goodreads.com/book/show/13542827-words-can-change-your-brain)
+-   2023-02-02 ◦ [The Righteous Mind: Why Good People Are Divided by Politics and Religion by Jonathan Haidt | Goodreads](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
+-   2023-10-31 ◦ [Jaws: The Story of a Hidden Epidemic by Sandra Kahn | Goodreads](https://www.goodreads.com/en/book/show/35804366)
+-   Amplifying Our Humanity Through AI]]
+
+
+## 2022 {#2022}
+
+-   2022-09-07 ◦ [Peak: Secrets from the New Science of Expertise by K. Anders Ericsson](https://www.goodreads.com/book/show/26312997-peak)
+-   2022-09-12 ◦ [Learning Domain-Driven Design [Book](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)] ([DDD]({{< relref "ddd.md" >}}))
+-   2022-09-12 ◦ [Fundamentals of Software Architecture: An Engineering Approach by Mark Richards](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture)
+-   2022-09-12 ◦ [Team Topologies](https://teamtopologies.com/)
+-   2022-09-12 ◦ [This is Service Design Doing — Book / School / Methods](https://www.thisisservicedesigndoing.com/)
+-   2022-09-12 ◦ [The Unicorn Project | by Gene Kim (author of The Phoenix Project)](https://itrevolution.com/the-unicorn-project/)
+-   2022-09-12 ◦ [The Book | HOOKPOINT](https://hookpoint.com/the-book/)
+-   2022-11-03 ◦ [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence by Michael Pollan](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind)
+-   2022-11-29 ◦ [The Future Is Analog: How to Create a More Human World by David Sax](https://www.goodreads.com/book/show/60568520-the-future-is-analog)
+-   2022-12-08 ◦ [Nu tot ei! : România în ghearele imposturii by Valeriu Nicolae](https://www.goodreads.com/book/show/55853540-nu-tot-ei)
+-   2022-12-14 ◦ [Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions)
+-   2023-01-02 ◦ [Why We Sleep: Unlocking the Power of Sleep and Dreams by Matthew Walker](https://www.goodreads.com/book/show/34466963-why-we-sleep)
+-   2023-01-02 ◦ [Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling by Matthew Dicks](https://www.goodreads.com/en/book/show/37786022-storyworthy)
+-   ✅ 2023-01-02 ◦ [The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia](https://www.goodreads.com/en/book/show/56913172-the-minimalist-entrepreneur)
+-   2023-01-10 ◦ [The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture by Gregor Hohpe](https://www.goodreads.com/en/book/show/49828197-the-software-architect-elevator)
+-   2023-01-23 ◦ [Anxiety Free: Stop Worrying and Quieten Your Mind - Featuring the Buteyko Breathing Method and Mindfulness by Patrick McKeown](https://www.goodreads.com/book/show/7815904-anxiety-free)
 
 
 ## Unsorted {#unsorted}
@@ -62,33 +97,3 @@ This is my personal book TODO list, along with the year in which I added the boo
 
 
 ### Society {#society}
-
-
-## 2022 {#2022}
-
--   2022-09-07 ◦ [Peak: Secrets from the New Science of Expertise by K. Anders Ericsson](https://www.goodreads.com/book/show/26312997-peak)
--   2022-09-12 ◦ [Learning Domain-Driven Design [Book](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)] ([DDD]({{< relref "ddd.md" >}}))
--   2022-09-12 ◦ [Fundamentals of Software Architecture: An Engineering Approach by Mark Richards](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture)
--   2022-09-12 ◦ [Team Topologies](https://teamtopologies.com/)
--   2022-09-12 ◦ [This is Service Design Doing — Book / School / Methods](https://www.thisisservicedesigndoing.com/)
--   2022-09-12 ◦ [The Unicorn Project | by Gene Kim (author of The Phoenix Project)](https://itrevolution.com/the-unicorn-project/)
--   2022-09-12 ◦ [The Book | HOOKPOINT](https://hookpoint.com/the-book/)
--   2022-11-03 ◦ [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence by Michael Pollan](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind)
--   2022-11-29 ◦ [The Future Is Analog: How to Create a More Human World by David Sax](https://www.goodreads.com/book/show/60568520-the-future-is-analog)
--   2022-12-08 ◦ [Nu tot ei! : România în ghearele imposturii by Valeriu Nicolae](https://www.goodreads.com/book/show/55853540-nu-tot-ei)
--   2022-12-14 ◦ [Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions)
--   2023-01-02 ◦ [Why We Sleep: Unlocking the Power of Sleep and Dreams by Matthew Walker](https://www.goodreads.com/book/show/34466963-why-we-sleep)
--   2023-01-02 ◦ [Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling by Matthew Dicks](https://www.goodreads.com/en/book/show/37786022-storyworthy)
--   2023-01-02 ◦ [The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia](https://www.goodreads.com/en/book/show/56913172-the-minimalist-entrepreneur)
--   2023-01-10 ◦ [The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture by Gregor Hohpe](https://www.goodreads.com/en/book/show/49828197-the-software-architect-elevator)
--   2023-01-23 ◦ [Anxiety Free: Stop Worrying and Quieten Your Mind - Featuring the Buteyko Breathing Method and Mindfulness by Patrick McKeown](https://www.goodreads.com/book/show/7815904-anxiety-free)
-
-
-## 2023 {#2023}
-
--   2023-01-24 ◦ [The Origins of Totalitarianism by Hannah Arendt](https://www.goodreads.com/book/show/396931.The_Origins_of_Totalitarianism)
--   2023-01-25 ◦ [The Ministry for the Future by Kim Stanley Robinson](https://www.goodreads.com/en/book/show/50998056-the-ministry-for-the-future)
--   2023-02-02 ◦ [Words Can Change Your Brain: 12 Conversation Strategies to Build Trust, Resolve Conflict, and Increase Intimacy by Andrew B. Newberg | Goodreads](https://www.goodreads.com/book/show/13542827-words-can-change-your-brain)
--   2023-02-02 ◦ [The Righteous Mind: Why Good People Are Divided by Politics and Religion by Jonathan Haidt | Goodreads](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
--   2023-10-31 ◦ [Jaws: The Story of a Hidden Epidemic by Sandra Kahn | Goodreads](https://www.goodreads.com/en/book/show/35804366)
--   Amplifying Our Humanity Through AI]]
