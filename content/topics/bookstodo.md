@@ -63,7 +63,6 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   [Sursa](https://www.amazon.com/Sursa-Romanian-Tara-Swart/dp/6067223929)
 -   [Food Rules](https://www.goodreads.com/book/show/7015635-food-rules)
 -   [Millionaire Teacher](https://www.goodreads.com/book/show/11737840-millionaire-teacher)
--   [Peak: Secrets from the New Science of Expertise](https://www.goodreads.com/book/show/26312997-peak)
 -   [Rest: Why You Get More Done When You Work Less](https://www.goodreads.com/book/show/29502354-rest)
 -   [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/book/show/66354.Flow?ac=1&from_search=true&qid=fw16WFcGP9&rank=1)
 -   [Unsere Welt neu denken](https://www.goodreads.com/book/show/51845311-unsere-welt-neu-denken)
@@ -79,7 +78,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   [The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA](https://www.goodreads.com/book/show/995029.The_Challenger_Launch_Decision)
 -   [Civilized to Death: What Was Lost on the Way to Modernity](https://www.goodreads.com/book/show/28596619-civilized-to-death)
 -   [Keep Sharp: Build a Better Brain at Any Age](https://www.goodreads.com/en/book/show/52754076-keep-sharp)
--   Company of one - Paul Jarvis
+-   ✅ [Company of one - Paul Jarvis]({{< relref "../books/company_of_one.md" >}})
 -   [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
 -   [Business Adventures](https://www.goodreads.com/book/show/4191136-business-adventures) (recommened by Bill Gates)
 -   [The Art of possibility](https://www.goodreads.com/ro/book/show/85697.The_Art_of_Possibility)
