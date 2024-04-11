@@ -66,5 +66,7 @@
 - [[https://sidhartharya.me/exporting-org-roam-notes-to-hugo/][Exporting Org Roam notes to hugo - Sidharth Arya]]
 ** Publishing
 - 2022-10-05 ◦ [[https://www.gibiris.org/eo-blog/posts/2022/09/28_org-reveal-and-gridded-layouts.html][Org Reveal and gridded layouts]]
+** Properties
+- 2024-04-11 ◦ [[https://emacs.stackexchange.com/questions/60219/how-to-set-org-mode-header-properties-globally][How to set org-mode header properties globally? - Emacs Stack Exchange]] 
 ** Articles
 - 2022-08-24 ◦ [[https://zzamboni.org/post/how-to-easily-create-and-use-human-readable-ids-in-org-mode-and-doom-emacs/][zzamboni.org | How to easily create and use human-readable IDs in Org mode and Doom Emacs]]

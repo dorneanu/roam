@@ -1,5 +1,6 @@
 +++
 title = "org-mode"
+author = ["Victor Dorneanu"]
 tags = ["emacs"]
 draft = false
 +++
@@ -103,6 +104,11 @@ draft = false
 ### Publishing {#publishing}
 
 -   2022-10-05 ◦ [Org Reveal and gridded layouts](https://www.gibiris.org/eo-blog/posts/2022/09/28_org-reveal-and-gridded-layouts.html)
+
+
+### Properties {#properties}
+
+-   2024-04-11 ◦ [How to set org-mode header properties globally? - Emacs Stack Exchange](https://emacs.stackexchange.com/questions/60219/how-to-set-org-mode-header-properties-globally)
 
 
 ### Articles {#articles}
