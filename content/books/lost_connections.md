@@ -1,6 +1,6 @@
 +++
 title = "Lost Connections"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 date = 2024-04-01
 tags = ["science", "psychology", "book"]
 draft = false
@@ -46,7 +46,7 @@ The Hamilton scale:
 
 Irvin Kirsch:
 
-> When **Irving Kirsch** discovered that these [serotonin](../../topics/serotonin.md)-boosting drugs were not having the
+> When **Irving Kirsch** discovered that these [serotonin]({{< relref "../../topics/serotonin.md" >}})-boosting drugs were not having the
 > effects that everyone was being sold, he began—to his surprise—to ask an even more basic
 > question. **What’s the evidence, he began to wonder, that depression is caused primarily by
 > an imbalance of serotonin, or any other chemical, in the brain? Where did it come from?**
@@ -317,7 +317,11 @@ Feminism in the 1950s:
 
 See depression as a reaction to the way we are living:
 
-> This experiment—like so much of what I had learned—hints at something. For a long time, we have been told there are only two ways of thinking about depression. Either it’s a moral failing—a sign of weakness—or it’s a brain disease. Neither has worked well in ending depression, or in ending its stigma. But everything I had learned suggests that there’s a third option—to regard depression as largely a reaction to the way we are living
+> This experiment—like so much of what I had learned—hints at something. For a long time, we
+> have been told there are only two ways of thinking about depression. Either it’s a moral
+> failing—a sign of weakness—or it’s a brain disease. Neither has worked well in ending
+> depression, or in ending its stigma. But everything I had learned suggests that there’s a
+> third option—to regard depression as largely a reaction to the way we are living
 
 <!--quoteend-->
 
@@ -358,17 +362,104 @@ See depression as a reaction to the way we are living:
 
 #### The cow (172) {#the-cow--172}
 
+> As I traveled in Southeast Asia meeting people in similar situations, and after I walked
+> away from my long conversation with Derek, I began to ask myself for the first time—What
+> if we have just been defining antidepressants in the wrong way? We have thought of
+> antidepressants solely as the pills we swallow once (or more) a day. But what if we
+> started to think of antidepressants as something very different? What if changing the way
+> we live—in specific, targeted, evidence-based ways—could be seen as an antidepressant,
+> too? What if what we need to do now is expand our idea of what an antidepressant is?
+
+Depression as **disconnection**:
+
+> Now, though, I had to answer a different question, she told me. “How different would it
+> be,” she said,3 “if when you went to your doctor, she ‘diagnosed’ us with
+> ‘disconnection’?” What would happen then?
+
+<!--quoteend-->
+
+> I quickly discovered that this question has been studied even less than the causes of
+> depression and anxiety. You could fill aircraft hangars with studies of what happens in
+> the brain of a depressed person. You could fill an aircraft with the research that’s been
+> conducted into the social causes of depression and anxiety. And you could fill a toy
+> airplane with the research into reconnection.
+
 
 #### We built this city (177) {#we-built-this-city--177}
+
+👉 Example at Koti (in Berlin)
+
+> “We built this city. We are not the scumbags of society. We have a right to the city,
+> because we built this neighborhood.” It wasn’t the investors demanding higher rents who
+> made this city livable, “it’s everybody.
 
 
 #### Reconnection one: To other people (192) {#reconnection-one-to-other-people--192}
 
+> For example—take a group of Western friends, and show them a picture of a man addressing a
+> crowd. Ask them to describe what they see. Then approach the next group of Chinese
+> tourists you see, show them the same picture, and ask them to describe it. The Westerners
+> will almost always describe the individual at the front of the crowd first, in a lot of
+> detail—then they describe the crowd. For Asians, it’s the other way around:2 they’ll
+> usually describe the crowd, and then, afterward, almost as an afterthought, they’ll
+> describe the guy at the front. Or take a picture of a little girl who is smiling broadly,
+> in the middle of a group of other little girls who look sad. Show it to some kids and ask
+> them—does this girl in the middle seem happy or sad to you? Western kids think she is
+> happy. Asian kids think she is sad. Why? Because the Western kids have no problem
+> isolating an individual from the group, whereas Asian kids take it for granted that if a
+> kid is surrounded by distress, she’ll be distressed, too. In other words: in the West, we
+> mostly have an individualistic way of looking at life. In Asia, they mostly have a
+> collective way of looking at life.
+
+-   Western Outlook
+    -   Focus on individual first
+    -   Detailed observation of the individual
+    -   Crowd described afterward
+-   Asian Perspective
+    -   Focus on the group first
+    -   Individual mentioned later, less detailed
+-   Interpretations of Emotions
+    -   Western kids: Individual emotions are separate from the group
+    -   Asian kids: Individual emotions influenced by the group's emotions
+-   Underlying Philosophies
+    -   Western: Individualism
+    -   Asian: Collectivism
+    -   The cultural lens affects perception and interpretation of social dynamics
+
+Be the crowd:
+
+> But what I was being taught is—if you want to stop being depressed, don’t be you. Don’t be
+> yourself.3 Don’t fixate on how you’re worth it. It’s thinking about you, you, you that’s
+> helped to make you feel so lousy. Don’t be you. Be us. Be we. Be part of the group. Make
+> the group worth it. The real path to happiness, they were telling me, comes from
+> dismantling our ego walls—from letting yourself flow into other people’s stories and
+> letting their stories flow into yours; from pooling your identity, from realizing that you
+> were never you—alone, heroic, sad—all along. No, don’t be you. Be connected with everyone
+> around you. Be part of the whole. Don’t strive to be the guy addressing the crowd. Strive
+> to be the crowd.
+
 
 #### Reconnection two: Social prescribing (203) {#reconnection-two-social-prescribing--203}
 
+"What matters to you?":
+
+> He says he has learned, especially with depression and anxiety, to shift from asking
+> **“What’s the matter with you?” to “What matters to you?”** If you want to find a solution,
+> you need to listen to what’s missing in the depressed or anxious person’s life—and help
+> them to find a way to resolving this, the underlying problem.
+
 
 #### Reconnection three: To meaningful work (215) {#reconnection-three-to-meaningful-work--215}
+
+> As I sat with Meredith and watched the bike repairs happening all around us, I remembered
+> what I had learned from Michael Marmot, the social scientist who carried out the research
+> into British civil servants that showed the ways in which our work can make us sick,
+> physically or mentally. He had explained to me: It’s not the work itself that makes you
+> sick. It’s three other things. It’s the feeling of being controlled—of being a meaningless
+> cog in a system. It’s the feeling that no matter how hard you work, you’ll be treated just
+> the same and nobody will notice—an imbalance, as he puts it, between efforts and rewards.
+> And it’s the feeling of being low on the hierarchy—of being a low-status person who
+> doesn’t matter compared to the Big Man in the corner office.
 
 
 #### Reconnection four: To meaningful values (226) {#reconnection-four-to-meaningful-values--226}
@@ -379,8 +470,114 @@ See depression as a reaction to the way we are living:
 
 #### Reconnection six: Acknowledging and overcoming childhood trauma (257) {#reconnection-six-acknowledging-and-overcoming-childhood-trauma--257}
 
+Universal basic income in Canada:
+
+> In the middle of the 1970s, a group of Canadian government officials chose1—apparently at
+> random—a small town called Dauphin in the rural province of Manitoba. It was, they knew,
+> nothing special to look at. The nearest city, Winnipeg, was a four-hour drive away. It lay
+> in the middle of the prairies, and most of the people living there were farmers growing a
+> crop called canola. Its seventeen thousand people worked as hard as they could, but they
+> were still struggling. When the canola crop was good, everyone did well—the local car
+> dealership sold cars, and the bar sold booze. When the canola crop was bad, everyone
+> suffered. And then one day the people of Dauphin were told they had been chosen to be part
+> of an experiment, due to a bold decision by the country’s Liberal government. For a long
+> time, Canadians had been wondering if the welfare state they had been developing, in fits
+> and starts over the years, was too clunky and inefficient and didn’t cover enough people.
+> The point of a welfare state is to establish a safety net below which nobody should ever
+> be allowed to fall: a baseline of security that would prevent people from becoming poor
+> and prevent anxiety. But it turned out there was still a lot of poverty, and a lot of
+> insecurity, in Canada. Something wasn’t working. So somebody had what seemed like an
+> almost stupidly simple idea. Up to now, the welfare state had worked by trying to plug
+> gaps—by catching the people who fell below a certain level and nudging them back up. But
+> if insecurity is about not having enough money to live on, they wondered, what would
+> happen if we just gave everyone enough, with no strings attached? What if we simply mailed
+> every single Canadian citizen—young, old, all of them—a check every year that was enough
+> for them to live on? It would be set at a carefully chosen rate. You’d get enough to
+> survive, but not enough to have luxuries. They called it a universal basic income. Instead
+> of using a net to catch people when they fall, they proposed to raise the floor on which
+> everyone stands. This idea had even been mooted by right-wing politicians like Richard
+> Nixon, but it had never been tried before. So the Canadians decided to do it, in one
+> place. That’s how for several years, the people of Dauphin were given a guarantee: Each of
+> you will be unconditionally given the equivalent of $19,000 U.S. (in today’s money) by the
+> government. You don’t have to worry. There’s nothing you can do that will take away this
+> basic income. It’s yours by right. And then they stood back to see what would happen.
+
+1.  Context and Selection of Dauphin
+    -   Chosen by Canadian officials
+    -   Random selection for a universal basic income experiment
+    -   A small, rural, and agriculture-dependent community
+2.  Motivation Behind the Experiment
+    -   Existing welfare system's shortcomings
+    -   Persistent poverty and insecurity despite the welfare state
+    -   The question of whether a baseline income could alleviate these issues
+3.  Concept: Universal Basic Income
+    -   A fixed, no-strings-attached income for all citizens
+    -   Aimed to provide security and combat poverty efficiently
+    -   Simplicity as the core idea: instead of plugging gaps, raise the floor
+4.  Implementation in Dauphin
+    -   Guarantee of a basic income equivalent to $19,000 USD today
+    -   Income unconditional and universal
+    -   Experiment to observe the social impact
+
+Interpretations:
+
+> At that time, over in Toronto, there was a young economics student named Evelyn Forget,
+> and one day, one of her professors told the class about this experiment. She was
+> fascinated. But then, three years into the experiment, power in Canada was transferred to
+> a Conservative government, and the program was abruptly shut down. The guaranteed income
+> vanished. To everyone except the people who got the checks—and one other person—it was
+> quickly forgotten. Thirty years later, that young economics student, Evelyn, had become a
+> professor at the medical school of the University of Manitoba, and she kept bumping up
+> against some disturbing evidence. It is a well-established fact that the poorer you are,
+> the more likely you are to become depressed or anxious—and the more likely you are to
+> become sick in almost every way. In the United States, if you have an income below
+> $20,000,2 you are more than twice as likely to become depressed as somebody who makes
+> $70,000 or more. And if you receive a regular income from property you own, you are ten
+> times less likely to develop an anxiety disorder than if you don’t get any income from
+> property. “One of the things I find just astonishing,” she told me, “is the direct
+> relationship between poverty and the number of mood-altering drugs that people take—the
+> antidepressants they take just to get through the day.” If you want to really treat these
+> problems, Evelyn believed, you need to deal with these questions. And so Evelyn found
+> herself wondering about that old experiment that had taken place decades earlier. What
+> were the results? Did the people who were given that guaranteed income get healthier? What
+> else might have changed in their lives? She began to search for academic studies written
+> back then. She found nothing. So she began to write letters and make calls. She knew that
+> the experiment was being studied carefully at the time—that mountains of data were
+> gathered. That was the whole point: it was a study. Where did it go?
+
 
 #### Reconnection seven: Restoring the future (262) {#reconnection-seven-restoring-the-future--262}
 
+-   👉 2024-04-15 ◦ [Utopia for Realists: How We Can Build the Ideal World by Rutger Bregman | Goodreads](https://www.goodreads.com/en/book/show/40876575)
+    -   Dutch economic historian named Rutger Bregman. He is the leading European champion of the idea of a universal basic income.
+
+> Every now and then, Rutger—the leading European campaigner for a universal basic
+> income—will read a news story about somebody who has made a radical career choice. A
+> fifty-year-old man realizes he’s unfulfilled as a manager so he quits, and becomes an
+> opera singer. A forty-five-year-old woman quits Goldman Sachs and goes to work for a
+> charity. “It is always framed as something heroic,” Rutger told me, as we drank our tenth
+> Diet Coke between us. People ask them, in awe: “\*Are you really going to do what you want
+> to do?” Are you really going to change your life, so you are doing something that fulfills
+> you? It’s a sign, Rutger says, of how badly off track we’ve gone, that having fulfilling
+> work is seen as a freakish exception, like winning the lottery, instead of how we should
+> all be living\*. Giving everyone a guaranteed basic income, he says “is actually all about
+> making [it so we tell everyone]—‘\*Of course you’re going to do what you want to do. You’re
+> a human being. You only live once. What would you want to do [instead]—something you don’t
+> want to do?’ \*”
+
 
 ### Conclusion: Homecoming (273) {#conclusion-homecoming--273}
+
+Reconnect again:
+
+> You aren’t a machine with broken parts. You are an animal whose needs are not being met.
+> You need to have a community. You need to have meaningful values, not the junk values
+> you’ve been pumped full of all your life, telling you happiness comes through money and
+> buying objects. You need to have meaningful work. You need the natural world. You need to
+> feel you are respected. You need a secure future. You need connections to all these
+> things. You need to release any shame you might feel for having been mistreated.
+
+Margret Thatcher:
+
+> When I was a child, Margaret Thatcher said, “\*There’s no such thing as society, only
+> individuals and their families\*”—and, all over the world, her viewpoint won.

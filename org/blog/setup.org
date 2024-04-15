@@ -1,5 +1,5 @@
 #+author: Victor Dorneanu
-#+startup: fold hideblocks
+#+startup: indent fold hideblocks
 #+hugo_base_dir: /cs/priv/repos/blog
 #+hugo_section: posts
 #+hugo_auto_set_lastmod: t
@@ -41,9 +41,6 @@
 
 #+end_src
 
-#+RESULTS: exports
-: convert-html-caption
-
 #+name: setup
 #+begin_src emacs-lisp :results silent :exports none
 (defun blog/execute-startup-block ()
@@ -53,7 +50,7 @@
   (setq org-agenda-files nil)
 
   ;; set-fill-column
-  (setq-local fill-column 90)
+  (setq-local fill-column 9000)
 
   (add-to-list 'org-hugo-special-block-type-properties '("sidenote" . (:trim-pre t :trim-post t)))
   )
