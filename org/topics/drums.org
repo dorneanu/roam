@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       a7dec13a-1eba-476e-8cb0-36baa9ad7fc7
+:END:
+#+title: Drums
+
+* Resources
+- 2024-04-16 ◦ [[https://www.mikeslessons.com/groove][Groove Scribe]]
+- 2024-04-16 ◦ [[https://daily-drum.com/][Daily Drum - Drum challenges every week]]
