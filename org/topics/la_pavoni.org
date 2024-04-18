@@ -8,7 +8,9 @@
 #+type: text/vnd.tiddlywiki
 
 * Videos
-  - 2023-04-24 ◦ [[https://www.youtube.com/watch?v=Yfyk_JAhpZE&ab_channel=JohnMichaelHauck][11. Pressure Profiling Kit - La Pavoni Lever Espresso Machine - YouTube]]
+- 2023-04-24 ◦ [[https://www.youtube.com/watch?v=Yfyk_JAhpZE&ab_channel=JohnMichaelHauck][11. Pressure Profiling Kit - La Pavoni Lever Espresso Machine - YouTube]]
+* Mods
+- 2024-04-18 ◦ [[https://thelevermag.com/blogs/articles/la-pavoni-mods][La Pavoni mods - The Lever Blog]]  
 * Tipps
 - Milchaufschäumen
   - [[https://www.kaffee-netz.de/threads/la-pavoni-und-der-milchschaum.66817/]]

@@ -1,6 +1,6 @@
 +++
 title = "Kubernetes"
-author = ["Lucien Cartier-Tilet"]
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -32,6 +32,13 @@ draft = false
 ### Golang {#golang}
 
 -   2022-10-24 ◦ [Dockerize a GoLang HTTP server and deploy it on Kubernetes](https://dev.to/aksrao1998/dockerize-a-golang-http-server-and-deploy-it-on-kubernetes-592j)
+
+
+### k3s {#k3s}
+
+-   2024-04-18 ◦ [A beautiful GitOps day - Build your self-hosted Kubernetes cluster · Okami101 Blog](https://blog.okami101.io/2023/08/a-beautiful-gitops-day-build-your-self-hosted-kubernetes-cluster/)
+-   2024-04-18 ◦ [My road to self hosted kubernetes with k3s](https://blog.internetz.me/posts/my-road-to-self-hosted-kubernetes-with-k3s/)
+-   2024-04-18 ◦ [Provision k3s on Google Cloud with Terraform and k3sup – Nimble](https://nimblehq.co/blog/provision-k3s-on-google-cloud-with-terraform-and-k3sup)
 
 
 ### GitOps {#gitops}

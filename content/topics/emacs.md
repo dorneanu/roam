@@ -153,6 +153,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 ### Configuration {#configuration}
 
+-   2024-04-18 ◦ [emacs-bedrock: Stepping stones to a better Emacs experience](https://sr.ht/~ashton314/emacs-bedrock/)
 -   2023-06-06 ◦ [Emacs Config - Wai Hon's Blog](https://whhone.com/emacs-config/)
 -   2023-06-06 ◦ [huadeyu.tech Emacs config](https://huadeyu.tech/tools/emacs-setup-notes.html)
 -   2023-06-06 ◦ [const.no/init](https://www.const.no/init/)
@@ -268,3 +269,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
 ### Yaml {#yaml}
 
 -   2023-01-19 ◦ [GitHub - zkry/yaml-pro: Edit YAML in Emacs like a pro](https://github.com/zkry/yaml-pro)
+
+
+### Vanilla {#vanilla}
+
+Almost everything Emacs can do without any further packages
+
+-   2024-04-18 ◦ [Batteries included with Emacs | Karthinks](https://karthinks.com/software/batteries-included-with-emacs/)
+-   2024-04-18 ◦ [More batteries included with emacs | Karthinks](https://karthinks.com/software/more-batteries-included-with-emacs/)

@@ -50,6 +50,7 @@
   - organizational
     - Layering Inside vs Layering Outside
 * Resources
+- 2024-04-18 ◦ [[https://awesome-architecture.com/domain-driven-design/domain-driven-design/#libraries][Domain Driven Design - Awesome Software Architecture]] 
 - 2024-02-01 ◦ [[https://entwickler.de/java/warum-spricht-jeder-uber-ddd][Warum spricht jeder über DDD?]]
 - 2024-02-01 ◦ [[https://medium.com/ssense-tech/ddd-beyond-the-basics-mastering-aggregate-design-26591e218c8c][DDD Beyond the Basics: Mastering Aggregate Design | by Mario Bittencourt | SSENSE-TECH | Medium]]
 - 2024-02-01 ◦ [[https://ddd.mikaelvesavuori.se/][Introduction - Domain Driven Microservices on AWS in Practice]]

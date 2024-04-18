@@ -113,6 +113,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 ** Blogs
 - 2023-03-23 ◦ [[https://karthinks.com/][Karthinks]]
 ** Configuration
+- 2024-04-18 ◦ [[https://sr.ht/~ashton314/emacs-bedrock/][emacs-bedrock: Stepping stones to a better Emacs experience]]
 - 2023-06-06 ◦ [[https://whhone.com/emacs-config/][Emacs Config - Wai Hon's Blog]]
 - 2023-06-06 ◦ [[https://huadeyu.tech/tools/emacs-setup-notes.html][huadeyu.tech Emacs config]]
 - 2023-06-06 ◦ [[https://www.const.no/init/][const.no/init]]
@@ -172,3 +173,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 - 2022-12-05 ◦ [[https://codeberg.org/gopiandcode/emacs-viewer][gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org]]
 ** Yaml
 - 2023-01-19 ◦ [[https://github.com/zkry/yaml-pro][GitHub - zkry/yaml-pro: Edit YAML in Emacs like a pro]]
+** Vanilla
+Almost everything Emacs can do without any further packages
+- 2024-04-18 ◦ [[https://karthinks.com/software/batteries-included-with-emacs/][Batteries included with Emacs | Karthinks]]
+- 2024-04-18 ◦ [[https://karthinks.com/software/more-batteries-included-with-emacs/][More batteries included with emacs | Karthinks]] 

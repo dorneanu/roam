@@ -41,6 +41,7 @@ draft = false
 
 ### Best Practices {#best-practices}
 
+-   2024-04-18 ◦ [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup · Jack's home on the web](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 -   2023-11-14 ◦ [What Terraform best practice isn't talked about enough?](https://www.reddit.com/r/Terraform/comments/17qkfwm/what_terraform_best_practice_isnt_talked_about/?rdt=34153)
 
 

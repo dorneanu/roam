@@ -1,6 +1,6 @@
 +++
 title = "revealjs"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -9,6 +9,9 @@ draft = false
 
 ## Additional resources {#additional-resources}
 
+-   2024-04-18 ◦ [External Plugins (#22) · Issues · oer / org-re-reveal · GitLab](https://gitlab.com/oer/org-re-reveal/-/issues/22)
+    -   how to use external plugins
+-   2024-04-18 ◦ [SVG Animation Slides](https://brettsnaidero.github.io/svg-animation-slides/#/)
 -   2024-01-11 ◦ [Reveal my Asciidoc : a deep dive into presentation-as-code](https://zenika.github.io/adoc-presentation-model/reveal/reveal-my-asciidoc.html)
     -   This is how I got into revealJS
     -   The [github repository](https://github.com/Zenika/adoc-presentation-model) (not maintained anymore)

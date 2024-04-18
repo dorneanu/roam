@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9451c6d6-589a-46a1-a406-81423f953e1e
+:END:
+#+title: Reaper
+
+* Resources
+- 2024-04-18 ◦ [[https://www.gearnews.de/jack-audio-einrichtung-linux/][Linux-Audio – JACK verstehen und einrichten - gearnews.de]]
+- 2024-04-18 ◦ [[https://wiki.archlinux.org/title/JACK_Audio_Connection_Kit][JACK Audio Connection Kit - ArchWiki]]
+- 2024-04-18 ◦ [[https://youtube.com/watch?v=oTZsMG2rqMc&si=3Sr3n_K_wiIeecu][Using a Computer Audio Interface in REAPER - YouTube]]

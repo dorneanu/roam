@@ -1,11 +1,17 @@
 +++
 title = "La Pavoni"
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
 ## Videos {#videos}
 
 -   2023-04-24 ◦ [11. Pressure Profiling Kit - La Pavoni Lever Espresso Machine - YouTube](https://www.youtube.com/watch?v=Yfyk_JAhpZE&ab_channel=JohnMichaelHauck)
+
+
+## Mods {#mods}
+
+-   2024-04-18 ◦ [La Pavoni mods - The Lever Blog](https://thelevermag.com/blogs/articles/la-pavoni-mods)
 
 
 ## Tipps {#tipps}

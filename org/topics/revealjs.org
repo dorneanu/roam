@@ -6,6 +6,9 @@
 - 👉 [[https://slides.dornea.nu/2022/presentation-as-code/#/sec-title-slide][Presentation as Code (using revealJS)]]
 
 * Additional resources
+- 2024-04-18 ◦ [[https://gitlab.com/oer/org-re-reveal/-/issues/22][External Plugins (#22) · Issues · oer / org-re-reveal · GitLab]]
+  - how to use external plugins
+- 2024-04-18 ◦ [[https://brettsnaidero.github.io/svg-animation-slides/#/][SVG Animation Slides]] 
 - 2024-01-11 ◦ [[https://zenika.github.io/adoc-presentation-model/reveal/reveal-my-asciidoc.html][Reveal my Asciidoc : a deep dive into presentation-as-code]]
   - This is how I got into revealJS
   - The [[https://github.com/Zenika/adoc-presentation-model][github repository]] (not maintained anymore)
