@@ -16,6 +16,7 @@
                     ;;       org-hide-block-startup t
                     ;;       org-startup-indented t
                     ;;       org-startup-align-all-tables t)
+                    (setq org-agenda-files nil)
                     (org-hugo-auto-export-mode)
                     (add-to-list 'org-hugo-special-block-type-properties '("sidenote" . (:trim-pre t :trim-post t)))
                     ))))
