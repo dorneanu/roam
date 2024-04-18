@@ -52,6 +52,7 @@ draft = false
 
 ### Books {#books}
 
+-   2024-04-17 ◦ [Effective Go Recipes: Fast Solutions to Common Tasks by Miki Tebeka](https://pragprog.com/titles/mtgo/effective-go-recipes/)
 -   2023-10-11 ◦ [Learn Go with Pocket-Sized Projects ](https://www.manning.com/books/learn-go-with-pocket-sized-projects)
 
 
