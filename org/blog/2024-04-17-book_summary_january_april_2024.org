@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       e4ab3903-9c0f-4778-a72e-3fac366f1072
+:END:
+#+SETUPFILE: setup.org
+#+TITLE: Book summaries: January - April 2024
+#+CREATED: 2024-04-17
+#+HUGO_DRAFT: true
+
+Inspired by Eli Bendersky's [[https://eli.thegreenplace.net/tag/book-reviews][book reviews]], here are my summaries for the books I've read
+between January and April 2024.
+
+📚 [[https://www.goodreads.com/book/show/55539565-think-again][Think Again: The Power of Knowing What You Don't Know by Adam Grant]]
+   - learned about (it's about different mindsets people have): 
+     - the preacher
+     - blas
+     - the prosecutor
+     - the politician
+     - the scientist
+   - impostor syndrome
+   - a debate is more like a dance
+   - one should learn to develop the habit of thinking again and revising own beliefs
+   - 👀 Read my notes at https://brainfck.org/book/think-again/
+   - Take [[https://brainfck.org/book/think-again/#actions-for-impact][concrete actions]]
+
+📚 [[https://www.goodreads.com/book/show/200314620-the-startup-cto-s-handbook][The Startup CTO's Handbook: Essential skills and best practices for high performing engineering teams by Zach Goldberg]]
+   - blas
+📚 [[https://www.goodreads.com/en/book/show/37570605][Company Of One: Why Staying Small Is the Next Big Thing for Business by Paul Jarvis]]
+   - stop growing an organization just for the sake of growing
+   - stay small
+   - have good relationships to your customers
+📚 [[https://www.goodreads.com/en/book/show/56913172][The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia]]
+   - I've learned about gumroad
+📚 [[https://www.goodreads.com/book/show/34921573-lost-connections][Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions by Johann Hari]]
+   - what if depression was not solely caused by some "imbalance of serotonin" in your brain?
+   - what if depression was merely a mix of environmental factors, childhood traumata and predispotition (genes) to some behavioral patterns
+📚 [[https://www.goodreads.com/en/book/show/23692271][Sapiens: A Brief History of Humankind by Yuval Noah Harari]]
+   - TBD
+
+Some other small books: 
+
+- 📚 [[https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly][Domain-Driven Design Quickly by Floyd Marinescu]] 
+
+Inspiration: https://eli.thegreenplace.net/2024/summary-of-reading-january-march-2024/
+
+
+
