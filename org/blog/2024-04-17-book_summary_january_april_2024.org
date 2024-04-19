@@ -2,6 +2,7 @@
 :ID:       e4ab3903-9c0f-4778-a72e-3fac366f1072
 :END:
 #+SETUPFILE: setup.org
+#+filetags: :summary:
 #+TITLE: Book summaries: January - April 2024
 #+CREATED: 2024-04-17
 #+HUGO_DRAFT: true
@@ -9,31 +10,36 @@
 Inspired by Eli Bendersky's [[https://eli.thegreenplace.net/tag/book-reviews][book reviews]], here are my summaries for the books I've read
 between January and April 2024.
 
-📚 [[https://www.goodreads.com/book/show/55539565-think-again][Think Again: The Power of Knowing What You Don't Know by Adam Grant]]
-   - learned about (it's about different mindsets people have): 
-     - the preacher
-     - blas
-     - the prosecutor
-     - the politician
-     - the scientist
-   - impostor syndrome
-   - a debate is more like a dance
-   - one should learn to develop the habit of thinking again and revising own beliefs
-   - 👀 Read my notes at https://brainfck.org/book/think-again/
-   - Take [[https://brainfck.org/book/think-again/#actions-for-impact][concrete actions]]
+1. 📚 [[https://www.goodreads.com/book/show/55539565-think-again][Think Again: The Power of Knowing What You Don't Know by Adam Grant]]
 
-📚 [[https://www.goodreads.com/book/show/200314620-the-startup-cto-s-handbook][The Startup CTO's Handbook: Essential skills and best practices for high performing engineering teams by Zach Goldberg]]
-   - blas
-📚 [[https://www.goodreads.com/en/book/show/37570605][Company Of One: Why Staying Small Is the Next Big Thing for Business by Paul Jarvis]]
+   - I've received this book shortly after reading {{{zk_book(the-scout-mindset, The Scout Mindset)}}} where I learned about the /soldier/ vs /scout/ mindset where the later one can be shortly described in one quote: 
+     #+begin_quote
+     “Your strength as a scout is in your ability… to think in shades of gray instead of black and white.”
+     #+end_quote
+
+   - /Think again/ is more about different types of thinking (the preacher, the prosecutor, the politian and the scientist) and their main characteristics. I also learned that a debate is more like a [[https://brainfck.org/book/think-again/#part-2-interpersonal-rethinking][dance]] where the choreography between the partners has not been negotiated yet. Each one has his own steps in mind but professional debators know how to "end up in rhythm" with their partners. Adam Grant also gives [[https://brainfck.org/book/think-again/#actions-for-impact][concrete advice]] how to learn to develop the habit of thinking again and revising your own beliefs.  
+
+   - 👉 Read my notes at https://brainfck.org/book/think-again/
+
+2. 📚 [[https://www.goodreads.com/book/show/200314620-the-startup-cto-s-handbook][The Startup CTO's Handbook: Essential skills and best practices for high performing engineering teams by Zach Goldberg]]
+
+   - This is a comprehensive guide for CTOs and technical leaders in startup companies. It covers a wide range of essential topics for these people including technical leadership, team building, technology choices, infrastructure, technical debt. It also gives advice how to master the startup growth, have a fast hiring process, how to retain talent and how to scale technology infrastructure to meet increasing demands.  
+   - Although I didn't know what to expect, for my gusto it was way to high-level. However,I liked the chapter about the /technical debt/ and its seven types. I also first learned about DX (Developer Experience) which refers to tools & processes to make it easy to "have highly reliable and reproducible environments and depedency chains" 
+   - 👉 Read my notes at https://brainfck.org/book/the-startup-ctos-handbook/ 
+
+3. 📚 [[https://www.goodreads.com/en/book/show/37570605][Company Of One: Why Staying Small Is the Next Big Thing for Business by Paul Jarvis]]
    - stop growing an organization just for the sake of growing
    - stay small
    - have good relationships to your customers
-📚 [[https://www.goodreads.com/en/book/show/56913172][The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia]]
+   - 👉 Read my notes at https://brainfck.org/book/company-of-one/
+4. 📚 [[https://www.goodreads.com/en/book/show/56913172][The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia]]
    - I've learned about gumroad
-📚 [[https://www.goodreads.com/book/show/34921573-lost-connections][Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions by Johann Hari]]
+   - 👉 Read my notes at https://brainfck.org/book/the-minimalist-entrepreneur/
+5. 📚 [[https://www.goodreads.com/book/show/34921573-lost-connections][Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions by Johann Hari]]
    - what if depression was not solely caused by some "imbalance of serotonin" in your brain?
    - what if depression was merely a mix of environmental factors, childhood traumata and predispotition (genes) to some behavioral patterns
-📚 [[https://www.goodreads.com/en/book/show/23692271][Sapiens: A Brief History of Humankind by Yuval Noah Harari]]
+   - 👉 Read my notes at https://brainfck.org/book/lost-connections/
+6. 📚 [[https://www.goodreads.com/en/book/show/23692271][Sapiens: A Brief History of Humankind by Yuval Noah Harari]]
    - TBD
 
 Some other small books: 
