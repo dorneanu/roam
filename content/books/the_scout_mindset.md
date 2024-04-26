@@ -1,6 +1,6 @@
 +++
 title = "The Scout Mindset"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 date = 2023-11-06
 tags = ["personal-growth", "philosophy", "psychology", "book"]
 draft = false
