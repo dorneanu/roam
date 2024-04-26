@@ -1,11 +1,11 @@
-:PROPERTIES:
-:ID:       e4ab3903-9c0f-4778-a72e-3fac366f1072
-:END:
-#+SETUPFILE: setup.org
+:properties:
+:id:       e4ab3903-9c0f-4778-a72e-3fac366f1072
+:end:
+#+setupfile: setup.org
 #+filetags: :summary:
-#+TITLE: Book summaries: January - April 2024
-#+CREATED: 2024-04-17
-#+HUGO_DRAFT: true
+#+title: Book summaries: January - April 2024
+#+created: 2024-04-17
+#+hugo_draft: true
 
 Inspired by Eli Bendersky's [[https://eli.thegreenplace.net/tag/book-reviews][book reviews]], here are my summaries for the books I've read
 between January and April 2024.
@@ -28,11 +28,15 @@ between January and April 2024.
    - 👉 Read my notes at https://brainfck.org/book/the-startup-ctos-handbook/ 
 
 3. 📚 [[https://www.goodreads.com/en/book/show/37570605][Company Of One: Why Staying Small Is the Next Big Thing for Business by Paul Jarvis]]
-   - stop growing an organization just for the sake of growing
-   - stay small
-   - have good relationships to your customers
+   - I remember [[https://calnewport.com/][Cal Newport]] once mentioned this book in one of [[https://calnewport.com/podcasts/][his episodes]] (this is how I got to read this book). In "Company of One" the capitalistic credo of (continuous) growth is questioned. Instead "companies of one" should intentionally stay small. The main focus here is not the competitor's growth but rather focusing on customer relationships and their own success. Acording to Paul Jarvis, if you're focuing on growth, growth will happen. If you, however, want long-term customers and sales, you should focus on your few customers and their needs. There is absolutely no need for infinite growth just for the sake of getting bigger.  
    - 👉 Read my notes at https://brainfck.org/book/company-of-one/
 4. 📚 [[https://www.goodreads.com/en/book/show/56913172][The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia]]
+   - creative part is key
+   - try to narrow down who your ideal customer is
+   - define exactly the pain point and come up with a solution
+   - find out what they're willing to pay for it
+   - "A business is a way to solve problems for people your care about - and get paid for it."
+   - first become a creator and then an entrepreneuer
    - I've learned about gumroad
    - 👉 Read my notes at https://brainfck.org/book/the-minimalist-entrepreneur/
 5. 📚 [[https://www.goodreads.com/book/show/34921573-lost-connections][Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions by Johann Hari]]
@@ -40,6 +44,8 @@ between January and April 2024.
    - what if depression was merely a mix of environmental factors, childhood traumata and predispotition (genes) to some behavioral patterns
    - 👉 Read my notes at https://brainfck.org/book/lost-connections/
 6. 📚 [[https://www.goodreads.com/en/book/show/23692271][Sapiens: A Brief History of Humankind by Yuval Noah Harari]]
+   - TBD
+7. 📚 [[https://www.goodreads.com/en/book/show/57933306][Stolen Focus: Why You Can't Pay Attention - and How to Think Deeply Again by Johann Hari]]
    - TBD
 
 Some other small books: 
