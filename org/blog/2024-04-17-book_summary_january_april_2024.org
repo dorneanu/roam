@@ -12,47 +12,70 @@ between January and April 2024.
 
 1. 📚 [[https://www.goodreads.com/book/show/55539565-think-again][Think Again: The Power of Knowing What You Don't Know by Adam Grant]]
 
-   - I've received this book shortly after reading {{{zk_book(the-scout-mindset, The Scout Mindset)}}} where I learned about the /soldier/ vs /scout/ mindset where the later one can be shortly described in one quote: 
+   - I've received this book shortly after reading {{{zk_book(the-scout-mindset, The Scout Mindset)}}} where I learned about the /soldier/ vs /scout/ mindset where the later one can be shortly described in one quote:
      #+begin_quote
      “Your strength as a scout is in your ability… to think in shades of gray instead of black and white.”
      #+end_quote
 
-   - /Think again/ is more about different types of thinking (the preacher, the prosecutor, the politian and the scientist) and their main characteristics. I also learned that a debate is more like a [[https://brainfck.org/book/think-again/#part-2-interpersonal-rethinking][dance]] where the choreography between the partners has not been negotiated yet. Each one has his own steps in mind but professional debators know how to "end up in rhythm" with their partners. Adam Grant also gives [[https://brainfck.org/book/think-again/#actions-for-impact][concrete advice]] how to learn to develop the habit of thinking again and revising your own beliefs.  
+   - /Think again/ is more about different types of thinking (the preacher, the prosecutor, the politian and the scientist) and their main characteristics. I also learned that a debate is more like a [[https://brainfck.org/book/think-again/#part-2-interpersonal-rethinking][dance]] where the choreography between the partners has not been negotiated yet. Each one has his own steps in mind but professional debators know how to "end up in rhythm" with their partners. Adam Grant also gives [[https://brainfck.org/book/think-again/#actions-for-impact][concrete advice]] how to learn to develop the habit of thinking again and revising your own beliefs.
 
    - 👉 Read my notes at https://brainfck.org/book/think-again/
-
 2. 📚 [[https://www.goodreads.com/book/show/200314620-the-startup-cto-s-handbook][The Startup CTO's Handbook: Essential skills and best practices for high performing engineering teams by Zach Goldberg]]
 
-   - This is a comprehensive guide for CTOs and technical leaders in startup companies. It covers a wide range of essential topics for these people including technical leadership, team building, technology choices, infrastructure, technical debt. It also gives advice how to master the startup growth, have a fast hiring process, how to retain talent and how to scale technology infrastructure to meet increasing demands.  
-   - Although I didn't know what to expect, for my gusto it was way to high-level. However,I liked the chapter about the /technical debt/ and its seven types. I also first learned about DX (Developer Experience) which refers to tools & processes to make it easy to "have highly reliable and reproducible environments and depedency chains" 
-   - 👉 Read my notes at https://brainfck.org/book/the-startup-ctos-handbook/ 
-
+   - This is a comprehensive guide for CTOs and technical leaders in startup companies. It covers a wide range of essential topics for these people including technical leadership, team building, technology choices, infrastructure, technical debt. It also gives advice how to master the startup growth, have a fast hiring process, how to retain talent and how to scale technology infrastructure to meet increasing demands.
+   - Although I didn't know what to expect, for my gusto it was way to high-level. However,I liked the chapter about the /technical debt/ and its seven types. I also first learned about DX (Developer Experience) which refers to tools & processes to make it easy to "have highly reliable and reproducible environments and depedency chains"
+   - 👉 Read my notes at https://brainfck.org/book/the-startup-ctos-handbook/
 3. 📚 [[https://www.goodreads.com/en/book/show/37570605][Company Of One: Why Staying Small Is the Next Big Thing for Business by Paul Jarvis]]
-   - I remember [[https://calnewport.com/][Cal Newport]] once mentioned this book in one of [[https://calnewport.com/podcasts/][his episodes]] (this is how I got to read this book). In "Company of One" the capitalistic credo of (continuous) growth is questioned. Instead "companies of one" should intentionally stay small. The main focus here is not the competitor's growth but rather focusing on customer relationships and their own success. Acording to Paul Jarvis, if you're focuing on growth, growth will happen. If you, however, want long-term customers and sales, you should focus on your few customers and their needs. There is absolutely no need for infinite growth just for the sake of getting bigger.  
+   - I remember [[https://calnewport.com/][Cal Newport]] once mentioned this book in one of [[https://calnewport.com/podcasts/][his episodes]] (this is how I got to read this book). In "Company of One" the capitalistic credo of (continuous) growth is questioned. Instead "companies of one" should intentionally stay small. The main focus here is not the competitor's growth but rather focusing on customer relationships and their own success. Acording to Paul Jarvis, if you're focuing on growth, growth will happen. If you, however, want long-term customers and sales, you should focus on your few customers and their needs. There is absolutely no need for infinite growth just for the sake of getting bigger.
    - 👉 Read my notes at https://brainfck.org/book/company-of-one/
 4. 📚 [[https://www.goodreads.com/en/book/show/56913172][The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia]]
-   - creative part is key
-   - try to narrow down who your ideal customer is
-   - define exactly the pain point and come up with a solution
-   - find out what they're willing to pay for it
-   - "A business is a way to solve problems for people your care about - and get paid for it."
-   - first become a creator and then an entrepreneuer
-   - I've learned about gumroad
+   - If you know [[https://gumroad.com/][gumroad]] then you probably also know about [[https://sahillavingia.com/][Sahil Lavingia]] who got by this
+     [[https://sahillavingia.com/reflecting][essay]]. Compared to the previous books on entrepreneurship this focussed more on the
+     community for which you want to build products. Sahil emphasized the crucial part of
+     identifying your ideal customers and build solutions for their needs. Once you
+     figured out your potential customers, it's time to find out if they're willing to pay
+     for your solutions:
+
+     #+begin_quote
+     "A business is a way to solve problems for people your care about - and get paid for it."
+     #+end_quote
+
+   - The author also suggests you first become a creator and then an entrepreneuer. This
+     way you should make sure your creativity is unleashed in order to create the best
+     solutions for your business.
    - 👉 Read my notes at https://brainfck.org/book/the-minimalist-entrepreneur/
 5. 📚 [[https://www.goodreads.com/book/show/34921573-lost-connections][Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions by Johann Hari]]
-   - what if depression was not solely caused by some "imbalance of serotonin" in your brain?
-   - what if depression was merely a mix of environmental factors, childhood traumata and predispotition (genes) to some behavioral patterns
+   - After having heard a lot about depression, its chemical root causes, the effects on
+     humans in Andrew Huberman's [[https://www.hubermanlab.com/][podcast]] I was more than determined to read this book.
+     Himself having to deal with depression, Johann Hari takes a journey to find out more
+     about the mental ilness that caused him to take pills (a la Prozac) and soon to find
+     out they weren't a long-term solution. What if depression was not solely caused by
+     some "imbalance of serotonin" in your brain? What if depression was merely a mix of
+     environmental factors, childhood traumata and predispotition (genes) to some
+     behavioral patterns
+   - Hari comes up with 9 causes for depression: /Disconnection/ from 1) meaningful work, 2)
+     from other people, 3) from meaningful values, 4) childhood traume, 5) from status and
+     respect, 6) from the natural world, 7) from a hopeful and secure future and
+     finally 9) role of genes and brain changes. To quote the author, we all need to /reconnect/ again:
+
+     #+begin_quote
+     You aren’t a machine with broken parts. You are an animal whose needs are not being met.
+     You need to have a community. You need to have meaningful values, not the junk values
+     you’ve been pumped full of all your life, telling you happiness comes through money and
+     buying objects. You need to have meaningful work. You need the natural world. You need to
+     feel you are respected. You need a secure future. You need connections to all these
+     things. You need to release any shame you might feel for having been mistreated.
+     #+end_quote
+
    - 👉 Read my notes at https://brainfck.org/book/lost-connections/
 6. 📚 [[https://www.goodreads.com/en/book/show/23692271][Sapiens: A Brief History of Humankind by Yuval Noah Harari]]
    - TBD
 7. 📚 [[https://www.goodreads.com/en/book/show/57933306][Stolen Focus: Why You Can't Pay Attention - and How to Think Deeply Again by Johann Hari]]
-   - TBD
+   - {{{zk_topic(attention-economy,Attention Economy)}}}
+   - 👉 Read my notes at https://brainfck.org/book/stolen-focus/
 
-Some other small books: 
+Some other small books:
 
-- 📚 [[https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly][Domain-Driven Design Quickly by Floyd Marinescu]] 
+- 📚 [[https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly][Domain-Driven Design Quickly by Floyd Marinescu]]
 
 Inspiration: https://eli.thegreenplace.net/2024/summary-of-reading-january-march-2024/
-
-
-
