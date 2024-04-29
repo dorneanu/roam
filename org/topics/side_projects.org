@@ -1,0 +1,1319 @@
+:PROPERTIES:
+:ID:       e761f911-c9d6-4b06-9889-b904dc04e0bc
+:END:
+#+title: Side Projects
+
+* From HackerNews
+** 2023-04-18 ◦ [[https://news.ycombinator.com/item?id=34482433][Ask HN: Those making $500+/month on side projects in 2023 – Show and tell | Hacker News]]
+- by joshmn [[https://news.ycombinator.com/item?id=34482653][34482653]]
+
+  During COVID I was in Mexico. At some point I wanted to go horseback riding. I
+  was researching places to go horseback riding and I was not at all surprised
+  to see I would have to make some calls to book.<p>Fast-forward a few weeks, I
+  become pretty good friends with the owner at the ranch I went to. We grab
+  tacos one night and he shares his concerns: They're not doing so well
+  financially and are worried about whether or not they'll be able to afford
+  feed in a month.<p>I got involved and we solved that problem and a few more:
+  revamped the website (it looked and felt like it was from 2006), I whipped up
+  a booking/reservation system to get more customers through the door, and exit
+  surveys to make sure everything was perfect (and figure out what went wrong if
+  it wasn't).<p>Bookings this month are up 490% from 2018 (according to the
+  paper waivers they had) and that's without a single dollar spent in paid
+  marketing. I answer a few emails every day from prospective riders and make
+  sure everyone's happy. I get a percentage of each reservation which is cool,
+  but the coolest part is that I get to say I am a co-owner in a Mexican horse
+  ranch.
+- by rogual [[https://news.ycombinator.com/item?id=34482745][34482745]]
+
+  A long time ago, I made some Flash games. I recently converted some of them
+  away from Flash and released them together as a desktop game for modern
+  computers.<p><a
+  href="https://store.steampowered.com/app/1458090/Hapland_Trilogy/"
+  rel="nofollow">https://store.steampowered.com/app/1458090/Hapland_Trilogy/</a><p>I
+  am currently making more than $500 a month from this, although I don't
+  necessarily expect that to continue. Games are a crowded market. It was a fun
+  project, though.
+- by trungdq88 [[https://news.ycombinator.com/item?id=34485713][34485713]]
+
+  I built a screenshot app for macOS and made ~$3k/mo from it :) <a
+  href="https://xnapper.com" rel="nofollow">https://xnapper.com</a><p>People
+  like the app for its ability to turn a normal boring screenshot into a
+  beautiful one that they can share on social media instantly.
+
+- by tomschlick [[https://news.ycombinator.com/item?id=34485815][34485815]]
+
+  <a href="https://zonewatcher.com" rel="nofollow">https://zonewatcher.com</a>
+  is an audit trail and changelog for your DNS records.<p>It began in 2016 out
+  of some frustration I was having with consulting clients who would modify
+  their DNS records incorrectly, breaking their email and/or website until I was
+  able to get them back online. It was frustrating digging through emails or old
+  technical documents to find the original values before they had made their
+  changes. I wanted a tool that could automatically backup those records to make
+  reverting easy while at the same time notifying me of any changes so issues
+  could be proactively fixed before their business was impacted.<p>So with that,
+  ZoneWatcher was born. Depending on your plan, we check multiple times per hour
+  and take a snapshot of each zone's records. When a change happens, we record
+  the change and send you a notification so you can review and have the
+  necessary data to revert if it was in error.<p>Making close to $500/mo now
+  since a major relaunch / feature update back in December with a decent stream
+  of new users every month. No major marketing done yet other than just word of
+  mouth and the occasional reddit post on /r/msp's vendor threads.
+
+- by tehsauce [[https://news.ycombinator.com/item?id=34483463][34483463]]
+
+  Shortly after stable diffusion was released, I realized that an enormous
+  number of non-ML people were suddenly interested in using an ML
+  model.<p>However, APIs are insanely expensive and not very developer friendly,
+  and running it yourself required pretty fancy hardware. The goal was to make
+  the technology absolutely as accessible as possible.<p>So I launched <a
+  href="https://computerender.com" rel="nofollow">https://computerender.com</a>
+  with the simplest API possible - just a URL that points to an image like:
+  <a href="https://api.computerender.com/generate/cupcake-of-the-sky.jpg"
+  rel="nofollow">https://api.computerender.com/generate/cupcake-of-the-sky.jp...</a>
+  I monitor the prices on vast.ai and runpod to find the cheapest GPUs and run the
+  service nearly at cost (as little as $0.0001 per image). No subscriptions, only
+  pay for what you use.<p>Recently hit 700k images generated, and am excited to
+  continue expanding the service.
+
+- by Glench [[https://news.ycombinator.com/item?id=34483023][34483023]]
+
+  <a href="https://extensionpay.com" rel="nofollow">https://extensionpay.com</a>
+  — A really simple way for browser extension developers to take payments in
+  their extensions. I made it to use in my own extensions since it's a pain in
+  the butt to take payments in browser extensions.<p>It has an open source
+  library that works across all browsers and allows for one-time or subscription
+  payments. Since 2021 developers have made over $125k with ExtensionPay which
+  makes me happy :)
+
+- by jurgenwerk [[https://news.ycombinator.com/item?id=34482636][34482636]]
+
+  I sell handmade sculptures of influential people and famous monuments on
+  Etsy - <a href="https://www.etsy.com/shop/jurgenstudio"
+  rel="nofollow">https://www.etsy.com/shop/jurgenstudio</a>. Revenue is 2-6k USD
+  depending on the season. I hired someone part time who took over production
+  and shipping. it's mostly passive revenue for me apart from growing the
+  business by developing new products when I feel like it. The profit margin is
+  around 50% after all material and labor costs are paid.
+
+- by goenning [[https://news.ycombinator.com/item?id=34486170][34486170]]
+
+  I have two projects, combined doing ~€1500/mo<p><a href="https://fider.io"
+  rel="nofollow">https://fider.io</a> - an open source alternative to UserVoice.
+  I started this one 6 years ago to learn Go and React. I’ve seen thousands of
+  instances out there being self hosted, so I started a cloud hosting to those
+  who don’t want to manage it themselves.<p><a href="https://aptakube.com"
+  rel="nofollow">https://aptakube.com</a> - Desktop Client for Kubernetes. This
+  is very recent, launch was 2 weeks ago, so it’s only starting to get some
+  traction now.<p>I’m leaving my job to go full time indie hacker now, wish me
+  luck!
+
+- by mogulchris [[https://news.ycombinator.com/item?id=34483557][34483557]]
+
+  I have 2 projects right now, combined doing over $500+/mo :)<p>They are pretty
+  different target market wise/price point and that has been pretty cool to see
+  the differences in marketing/churn/adoption/etc...<p>1. Mogul - Privacy
+  focused Personal CRM (<a href="https://mogulnetworking.com/"
+  rel="nofollow">https://mogulnetworking.com/</a>) (~$650/mo, ~6 years old)<p>2.
+  Ellie - A better day planner (<a href="https://ellieplanner.com/"
+  rel="nofollow">https://ellieplanner.com/</a>) (~$160/mo, ~1 year
+  old)<p>Honestly no game plan, I just enjoy working on both and plan on
+  iterating for a long long time (10+ years) and just slowly growing. I am
+  literally addicted to working on these apps.<p>I tweet about these projects
+  extensively on Twitter btw if anyone is curious to see what work went into
+  both of these (<a href="https://twitter.com/raroque"
+  rel="nofollow">https://twitter.com/raroque</a>)
+
+- by andyish [[https://news.ycombinator.com/item?id=34483148][34483148]]
+
+  I built <a href="https://team-today.com"
+  rel="nofollow">https://team-today.com</a> in a lock down as a way for my
+  remote team to see when people are on holiday, going to site, or wfh.<p>Since
+  then it’s grown to include other features like desk booking and PTO approvals.
+  But at it’s all been built around the core concept of seeing when your
+  colleagues are working and where they’re planning on working from.
+
+- by longnguyen [[https://news.ycombinator.com/item?id=34485950][34485950]]
+
+  I built KTool (<a href="https://ktool.io" rel="nofollow">https://ktool.io</a>)
+  — it allows you to forward web articles, newsletters and RSS feeds to your
+  Kindle.<p>---<p>I did a Show HN 4 months ago[1].<p>The reason I started KTool
+  was to spend less time on computer screens, and more on e-ink Kindle. I was
+  afraid of going blind.<p>After 4 months improving KTool, it now becomes a tool
+  to help you combat doom-scrolling. Instead of mindlessly scrolling the web, I
+  deliberately send interesting articles to my Kindle.<p>Recently, I added
+  newsletter & RSS support, it's 100% automated now.<p>My favorite source of
+  content is Hacker News RSS[2], Stratechery[3], Indie Hacker Newsletters[4] and
+  a few other Substack newsletters.<p>I can enjoy reading HN latest stories or
+  my fav authors' latest pieces on my Kindle without spending hours browsing on
+  my computer.<p>I just reached $620 MRR today (Jan 23)<p>[1]: <a
+  href="https://news.ycombinator.com/item?id=32637996"
+  rel="nofollow">https://news.ycombinator.com/item?id=32637996</a><p>[2]: <a
+  href="https://hnrss.github.io"
+  rel="nofollow">https://hnrss.github.io</a><p>[3]: <a
+  href="https://stratechery.com"
+  rel="nofollow">https://stratechery.com</a><p>[4]: <a
+  href="https://www.indiehackers.com/newsletter"
+  rel="nofollow">https://www.indiehackers.com/newsletter</a>
+
+- by yboris [[https://news.ycombinator.com/item?id=34483387][34483387]]
+
+  Created <i>Video Hub App</i> (that will be 5 years old next month). I sell it
+  for $5 and $3.50 of each purchase goes to the <i>cost-effective</i> charity
+  <i>Against Malaria Foundation</i> (See <i>GiveWell.org</i> for details).<p>It
+  was averaging around 100 purchases per month, though it's lower over the last
+  year as I've not had time to release new updates (moving to another state is
+  challenging).<p>Thanks to the sale of this software I've donated an additional
+  $16,000 to my favorite charity (I give 10% of my income there regularly - see
+  <i>Giving What We Can</i>).<p><a href="https://videohubapp.com/"
+  rel="nofollow">https://videohubapp.com/</a> - Think of it like YouTube for
+  videos on your computer. Browse, search, and organize your videos<p>MIT Open
+  Source: <a
+  href="https://github.com/whyboris/Video-Hub-App">https://github.com/whyboris/Video-Hub-App</a>
+
+- by karakanb [[https://news.ycombinator.com/item?id=34483402][34483402]]
+
+  <a href="https://getblast.io/" rel="nofollow">https://getblast.io/</a> - it is
+  an end-to-end data platform: data ingestion + dbt-like transformations + data
+  quality checks + data catalog, all through a single interface. It is making
+  ~$4k/month currently.<p>Around the beginning of 2022, I was having a
+  conversation with a few friends that are working at small mobile gaming
+  companies, and they were having a lot of trouble building their data
+  pipelines, especially because of the infrastructure part. I took on the
+  challenge to start hosting some Airflow instances for them to get a bit more
+  familiar with their problems, and over time some patterns started to
+  emerge:<p>- they were writing custom scripts for mundane tasks.<p>- they had
+  to write Python code, even though all they needed was scheduling a few SQL
+  tasks.<p>- they needed some basic transformation abilities, but didn't have
+  the budget to pay dbt-cloud $50/month (the minimum plan is $100 these days, I
+  believe).<p>- they were losing track of where their data is going through and
+  where it is coming from.<p>A friend of mine and I have started building some
+  abstractions on top of Airflow to help these businesses: no need to write any
+  Python, automatically deploying their changes to their instances after a git
+  push, building data quality checks, materializing their assets based on their
+  SQL "SELECT" queries, etc. Over time, we have gathered these features into a
+  shared UI, and moved some of these companies piece by piece.<p>We keep
+  improving the platform, and we are onboarding new companies for the past 2
+  months throughout our closed beta period. There are still many rough edges
+  that we are trying to cover, but in the end, it was a great feeling when
+  people were actually using the prouct quite often in spite of all these
+  problems. We are pretty excited about where this can go.<p>If anyone is
+  interested in taking part in the beta program, the first 6 months is free
+  during the beta period. Feel free to fill out the form on the website and I'll
+  reach out personally.
+
+- by Fermat963 [[https://news.ycombinator.com/item?id=34483978][34483978]]
+
+  Twitter Archive Eraser (<a href="https://delete.tweets.app"
+  rel="nofollow">https://delete.tweets.app</a>) makes ~3K USD per month.<p>I
+  don't do any active work on it any longer for the past 2 years or so, other
+  than the small bug fixes/when Twitter changes the archive format. Bracing for
+  a shutdown to the API soon anyway.<p>Past submissions on how it used to bring
+  in $7k per month and a few technical details: <a
+  href="https://news.ycombinator.com/item?id=23439606"
+  rel="nofollow">https://news.ycombinator.com/item?id=23439606</a> (June 2020),
+  <a href="https://news.ycombinator.com/item?id=29998723"
+  rel="nofollow">https://news.ycombinator.com/item?id=29998723</a> (Jan 2022).
+
+- by willswire [[https://news.ycombinator.com/item?id=34483197][34483197]]
+
+  Back in college (2016-2020), I used to work part-time for my university’s IT
+  department. Most of my time was spent doing software development, but when I
+  wasn’t busy working on a project, I helped work the help desk ticket
+  queue.<p>Believe it or not, our ticket queue did not have an auto refresh
+  feature - and manually refreshing my dashboard webpage drove me crazy. As a
+  die-hard macOS user, I’ve always used Safari as my primary browser, but
+  unfortunately no auto-refresh web extensions were available on the App Store
+  at the time. So I learned how to package web extensions for Safari and sell
+  them on the App Store.<p>Fast-forward to today, and I now have a collection of
+  Web Extensions that net me ~$750 a month. Feel free to check out Simple
+  Refresh for Safari here:<p><a
+  href="https://apps.apple.com/us/app/simple-refresh-for-safari/id1492951704"
+  rel="nofollow">https://apps.apple.com/us/app/simple-refresh-for-safari/id14...</a>
+
+- by j_4 [[https://news.ycombinator.com/item?id=34483854][34483854]]
+
+  My tiny game has been bringing in at least $5k a month since I released on
+  mobile, it's fully passive now.<p><a href="https://j4nw.com/pawnbarian"
+  rel="nofollow">https://j4nw.com/pawnbarian</a><p>I feel doubly blessed that it
+  worked out with no ads or micropayment sinks of any sort, just a demo and a
+  single $5 purchase.
+
+- by sphuff [[https://news.ycombinator.com/item?id=34482854][34482854]]
+
+  I got pretty into Stable Diffusion soon after it came out. Like a lot of
+  users, I tinkered around with different ways to run it, going the usual route
+  of running on my weak local machine, then going on to runpod, then
+  implementing my own custom solution.<p>What I came up with worked pretty well
+  for me, so I created a site that allows users to upload custom models and run
+  Stable Diffusion “in the cloud”.<p>I launched in early December and it ended
+  up being more successful than I expected. I just got to $700 MRR, which I’m
+  definitely happy about after years of side projects making exactly $0.<p>The
+  site in question: <a href="https://stadio.ai"
+  rel="nofollow">https://stadio.ai</a>
+
+- by mjaques [[https://news.ycombinator.com/item?id=34482961][34482961]]
+
+  I sell cheap but high-quality Anki decks for language learning: <a
+  href="https://deckmill.com" rel="nofollow">https://deckmill.com</a><p>Created
+  using a mix of automation (TTS, machine translation, etc.) and human
+  reviews.<p>Built it with a friend, making around $500 a month, very stable
+  over the last couple of years. Spend 1 or 2 hours a month on it, mostly
+  customer support.
+
+- by itake [[https://news.ycombinator.com/item?id=34482764][34482764]]
+
+  I had 3 sources of side income last year.<p>1/ Started a niche dating app
+  in 2017. Revenue ranges form 700-1,100/mo. Hosting is about $50/mo.<p>2/
+  Bought a house and rent our spare rooms for $3,100/mo.<p>3/ Contracting
+  projects for a small dev shop earned $3-10k/mo (depending on how many hours I
+  worked).
+
+- by hemmert [[https://news.ycombinator.com/item?id=34482970][34482970]]
+
+  <a href="https://www.escape-team.com"
+  rel="nofollow">https://www.escape-team.com</a> - a printable escape game. It
+  currently makes about $600 on iOS and $400 on Google Play, all through the
+  $1.99 IAPs.<p>I do not do any advertising for it, but as it is played in
+  groups, it nicely advertises itself.
+
+- by lucasmerlin [[https://news.ycombinator.com/item?id=34483070][34483070]]
+
+  I made collaborative painting apps, <a href="https://hellopaint.io"
+  rel="nofollow">https://hellopaint.io</a> and <a href="https://malmal.io"
+  rel="nofollow">https://malmal.io</a> (there might be some slight NSFW
+  content). In the best months I made 800€+ in ad revenue from malmal but
+  currently it's a lot less. I think there's potential to make a lot more
+  though, although I'd like to stop showing ads and switch to some more
+  predictable income model. I do have a patreon but it only brings in ~100€ per
+  month. I could promote it more though.
+
+- by jasonb05 [[https://news.ycombinator.com/item?id=34483294][34483294]]
+
+  Python concurrency has a super bad wrap (the gil) and I'm trying to help out
+  even change opinions (e.g. work with it rather than throw it all out).<p>I
+  write short focused how-to ebooks that on the different Python concurrency
+  APIs in stdlib. Content marketing leads to email marketing to one-off sales.
+  Doing about $2K/mo. Might expand into third party libs this year.<p><a
+  href="https://SuperFastPython.com"
+  rel="nofollow">https://SuperFastPython.com</a>
+
+- by alin23 [[https://news.ycombinator.com/item?id=34483352][34483352]]
+
+  I’ve mentioned before on HN how I make around ~$7k from my Lunar app nowadays
+  [0] but controlling monitors is a larger niche and the app was developed and
+  perfected over the course of 5 years.<p>This time I’d like to show you the
+  progress of my last year’s project, <a href="https://lowtechguys.com"
+  rel="nofollow">https://lowtechguys.com</a>.<p>It’s a small macOS app studio
+  and here are my App Store sales for the last month: <a
+  href="https://f.alinpanaitiu.com/gjxBpg/Image.png"
+  rel="nofollow">https://f.alinpanaitiu.com/gjxBpg/Image.png</a><p><i>You can
+  see trends in red because December is a slow month for app sales, not sure why
+  exactly.</i><p>But even with just 4 small macOS apps I manage to make
+  ~1k/month with close to zero maintenance.<p>I have a lot more ideas for small
+  non expensive apps that could add to the revenue but less and less time for
+  them.<p>Right now I have to rebuild an old wooden house and finally move out
+  of my rented apartment. I’m grateful to have a source of income on the side
+  that can support me this year so I can pause tech while I do field work.<p>[0]
+  <a href="https://news.ycombinator.com/item?id=33620955"
+  rel="nofollow">https://news.ycombinator.com/item?id=33620955</a>
+
+- by tomdekan [[https://news.ycombinator.com/item?id=34483547][34483547]]
+
+  I make >€1K / month with
+<a href="https://amazing.photos" rel="nofollow">https://amazing.photos</a><p>I
+generate amazing profile photos for users using dream booth and a custom stable
+diffusion model.<p>Our quality of output is the best that I’ve seen compared to
+competitors.<p>My secret to much higher quality: I rank images, and then only
+show the best images.<p>All other competitors that I’ve seen dump all the images
+to the user. Instead, my process means that the output images are consistently
+very high quality.
+
+- by graderjs [[https://news.ycombinator.com/item?id=34484435][34484435]]
+
+  In 2018 I started making a browser interface you could put in an iframe to let
+  you create web scraping scripts from any device. The web scraping part is
+  still a WIP, but the remote browser interface became a product in its own
+  right that pays for everything else. I fleshed it out during the pandemic and
+  responded to customer requests to improve things like streaming and audio. I
+  grew it well beyond Ramen possible without ever spending a dollar on
+  advertising or marketing. Now that the feature set is pretty stable I want to
+  focus on marketing for this year. Sales are up 224% since last year but I
+  think I can do much better: I still never snagged those big government or huge
+  enterprise customers that I really want. I just think that would be cool.<p>If
+  you don’t know what remote browser isolation is, it’s basically a security
+  product to keep browser. Content executing on a remote computer away from your
+  local device and Netwerk but turns out people use it for a lot more than that:
+  an embedded multiplayer browser for live streaming educational lessons; a
+  human in the loop intervention console to investigate and unstick stalled web
+  automation tasks; as well as the more traditional security or reverse proxy
+  use cases. A large part of my nontraditional marketing came through my source
+  available GitHub version, which is now languishing well behind the paid pro
+  version in terms of features and quality: <a
+  href="https://GitHub.com/dosyago/BrowserBox">https://GitHub.com/dosyago/BrowserBox</a>
+
+- by sent-hil [[https://news.ycombinator.com/item?id=34483354][34483354]]
+
+  <a href="https://toolwallhq.com" rel="nofollow">https://toolwallhq.com</a> -
+  Digital organizer for your physical tools. I used to have a hard time keeping
+  my shop organized, so I jumped in and came up with a solution that has worked
+  for me so far and perhaps might help you.<p>The idea is you use the digital
+  artboard to visualize your tools on the wall and then buy the holders to mount
+  it on your workshop wall.<p>There seems to be a growing overlap between
+  programming and woodworking for whatever reason. I could go on about the
+  similarities, but after hours of staring at the screen, we sometimes want to
+  make things with our hands and woodworking helps me do that. If you're looking
+  to get started, I can't recommend visiting a local makerspace enough.<p>PS
+  also on Etsy if that's your thing: <a
+  href="https://www.etsy.com/shop/ToolWall"
+  rel="nofollow">https://www.etsy.com/shop/ToolWall</a>
+
+- by welanes [[https://news.ycombinator.com/item?id=34484012][34484012]]
+
+  I'm making <a href="https://simplescraper.io"
+  rel="nofollow">https://simplescraper.io</a> - a no-code web scraping
+  tool.<p>Saved up, quit my job and went all in...on a todo app. Needless to say
+  that idea didn't go far, but it taught me how to code.<p>When I was close to
+  broke I pivoted to this product and finally gained traction and now it's doing
+  well enough to be my main source of income.<p>I'm kind of following the "1000
+  true fans" ethos that pops up here occasionally. There's a dedicated group of
+  customers who benefit from the ease and speed of the tool and they're like my
+  product team.<p>I check in with them often, make sure they're happy and build
+  features for them. Turns out, what they value other people value too, and so
+  the product slowly but surely grows.<p>Learning to code was definitely one of
+  the best decisions I've made. Felt like gaining wings.
+
+- by ravivooda [[https://news.ycombinator.com/item?id=34485463][34485463]]
+
+  I built Tax Loss Harvesting Tool for different kinds of portfolios. Despite
+  still being in the early stages, I'm gaining some interesting traction so far!
+  I was badly hit in the recent market downturn because I had invested in
+  leveraged ETFs without a deep understanding of how they function. But I still
+  have faith in securities in the ETFs so I decided to see if it was possible to
+  swap securities in order to harvest losses without triggering the Wash Sale.
+  And, Lo and Behold, for 2330 ETFs, I found 1.2+M possible
+  combinations.<p>Link: <a href="https://bit.ly/3H9Gkpb"
+  rel="nofollow">https://bit.ly/3H9Gkpb</a><p>Follow on twitter for twice-a-day
+  insights about High Overlap Beta ETFS: <a
+  href="https://twitter.com/optimizetaxes"
+  rel="nofollow">https://twitter.com/optimizetaxes</a>
+
+- by enraged_camel [[https://news.ycombinator.com/item?id=34483046][34483046]]
+
+  I'm one of the cofounders of PriceTable. [1] It has been a side project since
+  2018 or so.<p>About a year and a half ago I posted about it on HN [2] and back
+  then our revenue was $2,500/mo. We recently passed the $6,000/mo.<p>At this
+  point we have a few very happy customers who make up the bulk of our revenue.
+  We have been trying to grow more, but our challenge is that we haven't been
+  able to figure out a cost-effective way of reaching potential customers. We
+  target the landscaping market, and most landscaping companies are either too
+  small, or they don't have tech-savvy owners/staff who are motivated to learn
+  and leverage a software solution effectively in order to grow their sales.
+  Phone and email outreach haven't worked well.<p>If anyone has experience in
+  this market or similar, please drop me a line! ege@pricetable.io<p>[1] - <a
+  href="https://pricetable.io" rel="nofollow">https://pricetable.io</a>
+[2] - <a href="https://news.ycombinator.com/item?id=26855726"
+rel="nofollow">https://news.ycombinator.com/item?id=26855726</a>
+
+- by porsager [[https://news.ycombinator.com/item?id=34482889][34482889]]
+
+  I wanted to give swift a try when it came out in 2014. I created the keyboard
+  I know you all miss on the iPhone, and it's been doing quite great since. <a
+  href="https://typenineapp.com" rel="nofollow">https://typenineapp.com</a>
+
+- by valryon [[https://news.ycombinator.com/item?id=34483051][34483051]]
+
+  I make videogames for a living:<p>- Flipon (<a href="https://flipon.net"
+  rel="nofollow">https://flipon.net</a>) an arcade puzzle/match-3 inspired by
+  Tetris attack on PC mobiles and switch<p>- Steredenn (<a
+  href="https://Steredenn.pixelnest.io"
+  rel="nofollow">https://Steredenn.pixelnest.io</a>) a roguelike shoot them up,
+  pc, iOS, switch.<p>I’ve been lucky to have an extra income with those two
+  games for a few year.
+
+- by phil-martin [[https://news.ycombinator.com/item?id=34485377][34485377]]
+
+  Been chipping away at this as a side project for many years - Visual Project
+  Planning and Scheduling. Draw on a whiteboard and it makes a levelled schedule
+  for you. It has resources, equipment, and much easier to understand than MS
+  Project.<p>I have had a blast building it and it is hard to market - but the
+  people that do stumble across and use it, the visual way of planning really
+  resonates with them.<p><a href="https://www.gameplan.global/"
+  rel="nofollow">https://www.gameplan.global/</a>
+
+- by tedmcory77 [[https://news.ycombinator.com/item?id=34483187][34483187]]
+
+  I have a weird set of skills that I've grown from just doing things that are
+  interesting and fun.<p><a href="https://www.munkle.it"
+  rel="nofollow">https://www.munkle.it</a>
+- Think Anki, but optimized for speed, and will be focused on content creators.
+  First sale this month (>$500_ from manual outreach to a big content creator
+  Individual purchases will be turned on eventually, but we're not focused on
+  that right now. This is a labor of love as through college and 20+
+  professional certifications I wanted something faster and easier than what was
+  available.<p><a href="https://www.skullsplitterdice.com"
+  rel="nofollow">https://www.skullsplitterdice.com</a>
+- I spend around 4 hours a week on this, but I used to do this full time.
+  Currently it runs high four to low five figures 100% organically, but can
+  easily do more if I ran ads. It 100% wouldn't be worth my time if I weren't
+  using it to teach my kids things like customer service, product design, how to
+  make content valuable to people so you get search traffic, single piece flow,
+  etc.<p>It's also cool because I can geek out on a new thing in the area and
+  apply it to something to see if I make any money on it or just have fun making
+  art. Things I've done in the past is includes making a book for the game these
+  are used for, a "choose your own adventure" style Facebook messenger adventure
+  linked from hidden inserts in products, and working with visual and voice over
+  artists to make stories around different products. My latest was using
+  midjourney to create a character that I animated to say a script talking about
+  a product.<p>Did I make money from that? No, was I entertained? Heck yes.
+
+- by palsecam [[https://news.ycombinator.com/item?id=34483398][34483398]]
+
+  <a href="https://FreeSolitaire.win"
+  rel="nofollow">https://FreeSolitaire.win</a> brings around $500/mo
+  (advertising revenue).<p>I started making this PWA in 2016 and I’ve been
+  slowly adding to it over time. I intend it to stay minimal & lightweight. No
+  framework, etc.<p>Fun fact: because it is so lightweight, it was included in
+  the Moya app (<a
+  href="https://play.google.com/store/apps/details?id=nu.bi.moya">https://play.google.com/store/apps/details?id=nu.bi.moya</a>),
+  a popular messaging app in South Africa that is “data-free” for users (it does
+  reverse-billing). Now half the players are South Africans!<p>Feedback is
+  welcome ;-)
+
+- by wonderfuly [[https://news.ycombinator.com/item?id=34484655][34484655]]
+
+  I built <a href="https://chatgpt4google.com"
+  rel="nofollow">https://chatgpt4google.com</a> which is a browser extension
+  that enhance search engines with ChatGPT. It got over 500k users in less than
+  two months.<p>I started doing some monetization experiment recently, and
+  already got $500+ now.
+
+- by rebeccaskinner [[https://news.ycombinator.com/item?id=34486208][34486208]]
+
+  I wrote a book: <a
+  href="https://www.pragprog.com/titles/rshaskell/effective-haskell/"
+  rel="nofollow">https://www.pragprog.com/titles/rshaskell/effective-haskell/</a><p>I’ll
+  admit that going in I talked to a few other authors and the common wisdom is
+  that you don’t write a book for the money. I wrote the book because I thought
+  there was room for a more practical industry focused Haskell book that didn’t
+  assume any particular math or FP background, and showed readers how to apply
+  the ideas in the context of real world problems. It’s been very well received
+  so far as it’s been in beta and I made a decent amount on royalties in 2022.
+  Going into 2023 I’m hopeful that I’ll see that continue as the book has its
+  final release, and I’m planning to follow up with some additional materials
+  like videos and interactive training that I hope will get more people excited
+  about Haskell and will generate enough revenue to keep me motivated during the
+  times when it all feels like a lot of extra work.
+
+- by OJFord [[https://news.ycombinator.com/item?id=34483746][34483746]]
+
+  It's a bit depressing to realise that that first $500 MRR is both very hard to
+  achieve (well done everyone showing and telling!) and not enough to quit the
+  day job. (In the countries most of us here live in, and without having savings
+  and deciding that with the push of working on it full time for a few months it
+  can be a lot more, at least.)
+
+- by bradly [[https://news.ycombinator.com/item?id=34485465][34485465]]
+
+  After about a year of learning I made my first profit last month woodworking
+  of $550.<p><a href="https://www.burnboxwoodworking.com"
+  rel="nofollow">https://www.burnboxwoodworking.com</a>
+
+- by thelifeofrishi [[https://news.ycombinator.com/item?id=34486490][34486490]]
+
+  being a designer, i share my experiments in UI and design on Twitter and some
+  other sites. to present designs, i used to beautify them in Figma. this was a
+  routine process where i would open Figma, create a gradient background for my
+  design, add shadows, rounded corners etc. and export the image in correct
+  size, so if i’m to share it on Dribbble I would export it in Dribbble size,
+  for Twitter the size is different<p>this whole process used to take like 20 to
+  30 minutes easily. so i built an app <a href="https://pika.style"
+  rel="nofollow">https://pika.style</a> to do all of that for me quickly<p>it
+  started as a hobby, open-source and free to use project which i was building
+  in public on my twitter(@thelifeofrishi). in a matter of time i started
+  getting DMs on Twitter for feature requests<p>i remember a founder of a
+  company wanted to have a certain feature, we discussed that and in the end i
+  asked whether he would be happy paying for that feature, to which he said yes.
+  i added the requested feature in 2 days and got back to him, he instantly
+  purchased annual subscription and started using Pika. that was in February,
+  2022<p>fast forward to today, almost an year later, Pika now has 150+ paid
+  users and makes $1,500+ in revenue each month. i’ve turned it from just a
+  screenshot beautifying tool to a tool to design very customisable mockups and
+  images. you can use it to generate images for your website, app, code, tweet
+  etc. and to keep it more accessible, it has a free tier which doesn’t even
+  require registration to use<p>i’ve also added a plan just for students and
+  teachers so they can use Pika’s paid fearures at a very discounted
+  subscription fee<p>if you’re a programmer, marketer, designer, no coder or
+  work in the tech industry, i think you’ll definitely find Pika useful :)
+
+- by tananaev [[https://news.ycombinator.com/item?id=34485327][34485327]]
+
+  A niche open source project. It's a GPS tracking system. There are a lot of
+  proprietary alternatives, but not a lot of open source ones.<p><a
+  href="https://www.traccar.org/"
+  rel="nofollow">https://www.traccar.org/</a><p>I'm making some money on SaaS
+  and some on consultation and customization. In many cases people pay for
+  something I can later include in the open source, which always feels nice.
+
+- by depomoty [[https://news.ycombinator.com/item?id=34485861][34485861]]
+
+  I'm working part-time on my project <a href="https://chartbrew.com"
+  rel="nofollow">https://chartbrew.com</a><p>It's an open-source data
+  visualization and reporting platform that I started in 2018, I abandoned in
+  2019, then resumed working on it more seriously in 2020.<p>Currently, the
+  platform is doing $1,138 in MRR from then managed hosting service and has made
+  over $11k in revenue so far. It's been growing steadily in the last few months
+  but going through a rough Dec-Jan period at the moment. You can see the open
+  page at <a href="https://chartbrew.com/open"
+  rel="nofollow">https://chartbrew.com/open</a><p>Onwards and great job everyone
+  at working to make side projects work for you!
+
+- by holgersindbaek [[https://news.ycombinator.com/item?id=34483195][34483195]]
+
+  I started a solitaire website 5+ years ago. When Covid hit, I ended up finally
+  putting ads on it. Since then it's been growing steadily and about half a year
+  back I made it my full-time gig.<p>You can check out the game here: <a
+  href="https://online-solitaire.com/"
+  rel="nofollow">https://online-solitaire.com/</a>.<p>I wrote a post about my
+  journey on Indie Hackers if someone is curious about it: <a
+  href="https://www.indiehackers.com/post/how-i-grew-a-simple-solitaire-game-to-10k-mrr-28e352c308"
+  rel="nofollow">https://www.indiehackers.com/post/how-i-grew-a-simple-solita...</a>.
+
+- by dhruvkar [[https://news.ycombinator.com/item?id=34488604][34488604]]
+
+  <a href="https://www.fundedlist.com"
+  rel="nofollow">https://www.fundedlist.com</a><p>Making about 1200/month right
+  now.
+It's a weekly list of companies that were funded in the last 7 days with
+founder/ceo contact information.<p>I use a mix of scraping and manual validation
+to make the list and currently doing cold emails to sell. I'm not truly a
+developer or a marketer, so learning a lot while attempting to make this
+work.<p>It seems to be valuable to different types of agencies -- recruiting,
+design, web etc.
+
+- by predmijat [[https://news.ycombinator.com/item?id=34482981][34482981]]
+
+  <a href="https://sre.rs" rel="nofollow">https://sre.rs</a> - DevOps course
+  (Udemy) for smaller teams and individuals
+
+- by BackBlast [[https://news.ycombinator.com/item?id=34483682][34483682]]
+
+  I run <a href="https://www.foodstorageplanner.com"
+  rel="nofollow">https://www.foodstorageplanner.com</a> as a web based
+  saas.<p>It is a relatively lightweight web app that tracks food in your
+  pantry. It gives you an estimate on how long you could survive on it. It is
+  intended as a tool for preppers but also works for anyone with OCD about their
+  pantry contents.<p>Business has picked some this last year. I'm working on
+  expanding the product data, general usability, and some actual marketing.
+
+- by lethologica [[https://news.ycombinator.com/item?id=34484735][34484735]]
+
+  I started selling NSFW stickers on Etsy. Originally it was a way for me to
+  have a creative outlet but turns out a lot of people want this kind of
+  product. Making just about $500 a month from it now. It’s great because all I
+  have to do is draw the original art once and then I can just repeatedly print
+  it and cut it out. It’s also a very relaxing hobby for me. I enjoy sending out
+  envelopes with hand written notes. It’s refreshing from my usual 9-5 of
+  spreadsheets.
+
+- by centaar [[https://news.ycombinator.com/item?id=34487267][34487267]]
+
+  I have one project running since two years, doing around $16k/mo - <a
+  href="https://roshade.com/" rel="nofollow">https://roshade.com/</a><p>It
+  started as an useful app for myself. Releasing it publicly was an
+  afterthought, and it has been six months since I introduced a subscription
+  model.<p>I learned about marketing and working on this project contradicted my
+  assumptions as a software engineer - making it educational.
+
+- by dang [[https://news.ycombinator.com/item?id=34483388][34483388]]
+
+  <i>Ask HN: Those making $500/month on side projects in 2022 – Show and
+  tell</i> - <a href="https://news.ycombinator.com/item?id=34190421"
+  rel="nofollow">https://news.ycombinator.com/item?id=34190421</a> - Dec 2022
+  (70 comments)<p><i>Ask HN: Those with money-making side projects,how did you
+  come up with the idea?</i> - <a
+  href="https://news.ycombinator.com/item?id=33942558"
+  rel="nofollow">https://news.ycombinator.com/item?id=33942558</a> - Dec 2022
+  (211 comments)<p><i>Ask HN: Those making $500/month on side projects in 2022 –
+  Show and tell</i> - <a href="https://news.ycombinator.com/item?id=32806068"
+  rel="nofollow">https://news.ycombinator.com/item?id=32806068</a> - Sept 2022
+  (91 comments)<p><i>Ask HN: Side projects that are making money, but you'd not
+  talk about them?</i> - <a href="https://news.ycombinator.com/item?id=31764696"
+  rel="nofollow">https://news.ycombinator.com/item?id=31764696</a> - June 2022
+  (265 comments)<p><i>Ask HN: Those making $500/month on side projects in 2022 –
+  Show and tell</i> - <a href="https://news.ycombinator.com/item?id=29995152"
+  rel="nofollow">https://news.ycombinator.com/item?id=29995152</a> - Jan 2022
+  (613 comments)<p><i>Ask HN: Those making $500/month on side projects in 2021 –
+  Show and tell</i> - <a href="https://news.ycombinator.com/item?id=29667095"
+  rel="nofollow">https://news.ycombinator.com/item?id=29667095</a> - Dec 2021
+  (841 comments)<p><i>Ask HN: Those making $500/month on side projects in 2020 –
+  Show and tell</i> - <a href="https://news.ycombinator.com/item?id=24947167"
+  rel="nofollow">https://news.ycombinator.com/item?id=24947167</a> - Oct 2020
+  (76 comments)<p><i>Ask HN: Side projects that are making money, but you'd not
+  talk about them?</i> - <a href="https://news.ycombinator.com/item?id=23438930"
+  rel="nofollow">https://news.ycombinator.com/item?id=23438930</a> - June 2020
+  (461 comments)<p><i>Ask HN: Those making $500/month on side projects in 2019 –
+  Show and tell</i> - <a href="https://news.ycombinator.com/item?id=20899863"
+  rel="nofollow">https://news.ycombinator.com/item?id=20899863</a> - Sept 2019
+  (61 comments)<p><i>Ask HN: Those making $500+/month on side projects in 2018 –
+  Show and tell</i> - <a href="https://news.ycombinator.com/item?id=17790306"
+  rel="nofollow">https://news.ycombinator.com/item?id=17790306</a> - Aug 2018
+  (151 comments)<p><i>Ask HN: Sideprojects/passive income businesses with little
+  or no own coding?</i> - <a
+  href="https://news.ycombinator.com/item?id=15806208"
+  rel="nofollow">https://news.ycombinator.com/item?id=15806208</a> - Nov 2017
+  (50 comments)<p><i>Ask HN: Those making $500+/month on side projects in 2017 –
+  Show and tell</i> - <a href="https://news.ycombinator.com/item?id=15148804"
+  rel="nofollow">https://news.ycombinator.com/item?id=15148804</a> - Sept 2017
+  (239 comments)<p><i>Ask HN: Those making over $1K/month on side projects, what
+  did you make?</i> - <a href="https://news.ycombinator.com/item?id=14752196"
+  rel="nofollow">https://news.ycombinator.com/item?id=14752196</a> - July 2017
+  (27 comments)<p><i>Ask HN: How do you make money from your side
+  projects?</i> - <a href="https://news.ycombinator.com/item?id=13980274"
+  rel="nofollow">https://news.ycombinator.com/item?id=13980274</a> - March 2017
+  (106 comments)<p><i>Ask HN: What are your profitable side projects?</i> - <a
+  href="https://news.ycombinator.com/item?id=13514093"
+  rel="nofollow">https://news.ycombinator.com/item?id=13514093</a> - Jan 2017
+  (130 comments)<p><i>Ask HN: Those making over $1K/month on side projects, what
+  did you make?</i> - <a href="https://news.ycombinator.com/item?id=12670731"
+  rel="nofollow">https://news.ycombinator.com/item?id=12670731</a> - Oct 2016
+  (245 comments)<p><i>Ask HN: Those making $1,000+/month on side projects – what
+  did you make?</i> - <a href="https://news.ycombinator.com/item?id=12145137"
+  rel="nofollow">https://news.ycombinator.com/item?id=12145137</a> - July 2016
+  (58 comments)<p><i>Ask HN: What revenue generating side projects do full-time
+  employees here have?</i> - <a
+  href="https://news.ycombinator.com/item?id=12123055"
+  rel="nofollow">https://news.ycombinator.com/item?id=12123055</a> - July 2016
+  (117 comments)<p><i>Ask HN: Those making $1,000+/month on side projects – what
+  did you make?</i> - <a href="https://news.ycombinator.com/item?id=11214497"
+  rel="nofollow">https://news.ycombinator.com/item?id=11214497</a> - March 2016
+  (44 comments)<p><i>Ask HN: Those making $1,000+/month on side projects – what
+  did you make?</i> - <a href="https://news.ycombinator.com/item?id=9508528"
+  rel="nofollow">https://news.ycombinator.com/item?id=9508528</a> - May 2015 (31
+  comments)<p><i>Ask HN: How to get started with paying side projects?</i> - <a
+  href="https://news.ycombinator.com/item?id=8867035"
+  rel="nofollow">https://news.ycombinator.com/item?id=8867035</a> - Jan 2015 (39
+  comments)<p><i>Ask HN: Those making $1,000+/month on side projects - what did
+  you make?</i> - <a href="https://news.ycombinator.com/item?id=6884552"
+  rel="nofollow">https://news.ycombinator.com/item?id=6884552</a> - Dec 2013
+  (163 comments)<p><i>Ask HN: Are you working on any side projects that make
+  "small/passive" income?</i> - <a
+  href="https://news.ycombinator.com/item?id=2358111"
+  rel="nofollow">https://news.ycombinator.com/item?id=2358111</a> - March 2011
+  (167 comments)
+
+- by BenoitP [[https://news.ycombinator.com/item?id=34487783][34487783]]
+
+  <a href="http://explicable.ai/" rel="nofollow">http://explicable.ai/</a><p>Not
+  500+$/month by any means, but 100$/month. I got 2 subscribers who are older
+  clients that I had to convince -hurray for hallway testing- and I hope to get
+  more soon. Having an actual pricing page and payment funnel might help
+  haha.<p>It's a dead-simple data exploration and prediction micro-saas, but
+  with a lot of nice pixels and state-of the art AI/ML explainability
+  algorithms. Users come with their prepared excel files, upload them, and they
+  get an 'explanation' as to the relations their data has within itself. It can
+  also work as a prediction service.<p>For example: It can help a marketer know
+  which prospects are likely to buy (prediction), but when said marketer has too
+  actually talk to these prospects we can help with tailoring the message with
+  the right knowledge (this one will buy because he/she buys like clockwork,
+  whereas this one will buy because we saw them several times on our webpages)
+
+- by kedmi [[https://news.ycombinator.com/item?id=34482831][34482831]]
+
+  OpenSay - Responsible anonymity in Slack, moderated by AI and team
+  effort.<p><a href="https://OpenSay.co" rel="nofollow">https://OpenSay.co</a>
+
+- by nwienert [[https://news.ycombinator.com/item?id=34483674][34483674]]
+
+  Tamagui is now making 2,500 a month purely from GitHub Sponsors.<p>Pretty
+  amazing. It’s fully OSS, just developed by me. Somewhat non-replicable as it’s
+  just been a passion project in some for or another for 7 years now, reborn
+  several times.<p>For the moment Sponsors don’t really get much, but there’s
+  some in development features that will make that much more valuable. Goal is
+  to double it at least this year!
+
+- by jayra [[https://news.ycombinator.com/item?id=34491237][34491237]]
+
+  I make $3k-$5k a month from my newsletter - <a href="https://www.startups.fyi"
+  rel="nofollow">https://www.startups.fyi</a> - have just under 8K subscribers,
+  mostly startup founders and indie hackers.<p>Related - Startups.fyi has
+  hundreds of examples of profitable online businesses and side-projects, how
+  much $$$ they earn and more info.
+
+- by ferat [[https://news.ycombinator.com/item?id=34489554][34489554]]
+
+  Two years ago I made <a href="https://vemto.app"
+  rel="nofollow">https://vemto.app</a>, a GUI code generation tool for
+  PHP/Laravel developers. At the time, my wife and I were going through a
+  difficult process, in which we urgently needed to move out of an apartment.
+  The tool sold well enough for us to put a down payment on a house, and has
+  continued to sell for those two years, and now I'm working on a second, more
+  powerful version that not only generates code, but can connect to existing
+  projects to edit them. There is a video of the second version at this link: <a
+  href="https://twitter.com/Tiago_Ferat/status/1591450807433826304"
+  rel="nofollow">https://twitter.com/Tiago_Ferat/status/1591450807433826304</a>
+
+- by ru6xul6 [[https://news.ycombinator.com/item?id=34493160][34493160]]
+
+  2 years ago I made a code visualization tool called Codemap, <a
+  href="https://codemap.app" rel="nofollow">https://codemap.app</a>, which
+  visualizes function calls in any codebase as a graph, to give the software
+  engineers a high-level understanding of their code.<p>Last year I noticed its
+  user sign-ups are ticking up quickly, acquiring hundreds of users in a few
+  months, so I decided to redesign the app and add more language supports (now
+  supporting Typescript, Javsacript, Python, Ruby, and Go.<p>It's a combination
+  of a desktop app (to parse your local codebase) and a web app (to visualize
+  the graph). Users pay a small price to unlock the full graph, otherwise the
+  graph is capped at 100 nodes, which allows users to fully try out the product
+  before committing to pay for it.
+
+- by teeeeeegz [[https://news.ycombinator.com/item?id=34487119][34487119]]
+
+  I'm working on a timer app, and is now up to ~$2k/mo! - <a
+  href="https://focusedwork.app"
+  rel="nofollow">https://focusedwork.app</a><p>It's taught me a lot about the
+  non-technical side of building a product. Very fulfilling from a personal
+  growth perspective.
+
+- by mlboss [[https://news.ycombinator.com/item?id=34483704][34483704]]
+
+  I released <a href="https://aipaintr.com"
+  rel="nofollow">https://aipaintr.com</a> based on the open source stable
+  diffusion model. The webapp allows users to train custom dreambooth model and
+  generate images using it.<p>Dreambooth is a powerful algorithm which can
+  generate images of any concept you train it on. Users use it to generate
+  images of person, e-commerce products, different artistic styles etc.<p>It has
+  two main parts:
+1. Webapp for individuals
+2. API for other app developers <a href="https://app.aipaintr.com/api/v1/docs/"
+   rel="nofollow">https://app.aipaintr.com/api/v1/docs/</a><p>Its been 4 months
+   since launch and it has gotten low 10s of thousand in revenue. Competition is
+   fierce. Lot of apps launched in this domain.
+
+- by kiru_io [[https://news.ycombinator.com/item?id=34487013][34487013]]
+
+  I have a collection of side-projects, all combined are making in the ballpark
+  of $500/month:<p><a href="https://mathlegame.com/"
+  rel="nofollow">https://mathlegame.com/</a> mostly via ads) - made this one
+  when wordle got popular (<p><a href="https://reversle.net/"
+  rel="nofollow">https://reversle.net/</a> (mostly via ads) - made a few weeks
+  after mathle<p><a href="https://slashdreamer.com/"
+  rel="nofollow">https://slashdreamer.com/</a> (subscription) - wanted to do
+  something with stable diffusion - this was the most useful one for me (since I
+  am using Notion a lot)<p>Working on <a href="https://ogtester.com/"
+  rel="nofollow">https://ogtester.com/</a> now.
+
+- by siglave [[https://news.ycombinator.com/item?id=34498267][34498267]]
+
+  One and a half years ago, I started Rocket Crew a Space industry job board
+All other job sites in this industry were old and quite hard to use and most of
+the time there were not a lot of New space companies.<p>So since I love Space I
+decided to build an alternative. To get started, I built a web scraper for more
+than 50 different space companies, including NASA, Space X, JPL etc. And the
+traffic grew month after month<p>Now it has become one of the popular job boards
+in this niche and starts to rank first on google for keywords like "space jobs"!
+<a href="https://rocketcrew.space/" rel="nofollow">https://rocketcrew.space/</a>
+
+- by ardalann [[https://news.ycombinator.com/item?id=34497425][34497425]]
+
+  I started making Browse AI (<a href="https://browse.ai"
+  rel="nofollow">https://browse.ai</a>) about 3 years ago. Quit my job soon
+  after and focused on it full-time when I had savings enough for 2 years of my
+  living expenses.<p>The next 1.5 years were intense. I learned to have better
+  and more conversations with users (we'd crash and burn if I hadn't come across
+  a book called The Mom Test) and we went through several positioning
+  pivots.<p>As I was running out of money, I launched on ProductHunt and got
+  decent initial traction and a group of angels who found us there and invested
+  ~$300k.<p>Then we started making revenue...
+Then, after almost 3 years of work, we reached $100k ARR... Then we went from
+$100k to $200k ARR in less than 3 months!<p>We've signed up ~20,000 new users in
+January so far and I'm projecting $300k ARR in a month! We're growing ARR 30-50%
+month over month.<p>I have a team now who are doing a ton of the hard work. I
+still have to spend time on every part of the business, but I've been trying to
+focus my energy on certain parts that I'm better at.<p>The hardest challenge for
+me throughout these years has been figuring out if I should persist and work
+harder on the same path, or switch to something else or pivot. I went through a
+pre-accelerator program and an accelerator and I had some mentors through them.
+Some were super helpful and gave me the confidence I needed to keep going.<p>In
+general, specially if you're a solo (technical) founder like me, I recommend
+having mentors that have been through what you're going through and talking to
+them at least once a month. It's too easy to focus on the wrong things and waste
+the precious early capital and time. I know I would be 2 years ahead if I had
+sought mentorship early on.<p>I'd be happy to chat if you're working on a
+self-service SaaS. Message me on LinkedIn or Twitter: <a
+href="https://www.linkedin.com/in/ardalann/"
+rel="nofollow">https://www.linkedin.com/in/ardalann/</a> <a
+href="https://twitter.com/ardalanme"
+rel="nofollow">https://twitter.com/ardalanme</a>
+
+- by louisstow [[https://news.ycombinator.com/item?id=34485831][34485831]]
+
+  I built SecAlerts <a href="https://secalerts.co"
+  rel="nofollow">https://secalerts.co</a> a few years ago. Fairly straight
+  forward SaaS product to send email alerts on new vulnerabilities matched to
+  customer software.
+
+- by cleverfoo [[https://news.ycombinator.com/item?id=34483391][34483391]]
+
+  <a href="https://www.scanii.com" rel="nofollow">https://www.scanii.com</a> a
+  content arbitration/malware API service. It has been profitable for over 10+
+  years now with customers around the globe.<p>Building it was one of the best
+  decisions I made in my life since it enabled me to make hard decisions at work
+  that were not skewed by the fear of losing my job and not being able to
+  provide for my family - I'm in engineering/product leadership.<p>But, do not
+  be fooled, this also means I've had two jobs (albeit of unequal urgency) and
+  that, obviously, equates to long work hours.
+
+- by chown [[https://news.ycombinator.com/item?id=34483686][34483686]]
+
+  I was pretty depressed at work a while ago and to take my mind off of the
+  negative energy, I made a desktop app for provisioning bring your own servers,
+  creating sites, and deploying web apps. It was free.<p>Fast forward a few
+  years and a coworker joined me and we made a cloud version of it. It is doing
+  ok but yet pay for two of us full time. However, we looooove working on it and
+  helping customers esp. with their deployment issues. It is seriously more fun
+  than our jobs that pay handsomely.<p><a href="https://cleavr.io"
+  rel="nofollow">https://cleavr.io</a>
+
+- by mateuszbuda [[https://news.ycombinator.com/item?id=34483033][34483033]]
+
+  Scraping Fish - a web scraping API powered by custom-build, ethical, mobile
+  proxy pool: <a href="https://scrapingfish.com/"
+  rel="nofollow">https://scrapingfish.com/</a>
+
+- by jerryu [[https://news.ycombinator.com/item?id=34483054][34483054]]
+
+  ERD Lab - Database design tool built for developers
+<a href="https://www.erdlab.io" rel="nofollow">https://www.erdlab.io</a><p>Login
+as guest directly at <a href="https://app.erdlab.io"
+rel="nofollow">https://app.erdlab.io</a> No registration required to test. No
+email confirmation needed to register either if you choose to do so.<p>Here is a
+1 minute video of ERDLab in action. <a
+href="https://www.youtube.com/watch?v=9VaBRPAtX08">https://www.youtube.com/watch?v=9VaBRPAtX08</a>
+
+- by pornel [[https://news.ycombinator.com/item?id=34484330][34484330]]
+
+  <a href="https://gif.ski" rel="nofollow">https://gif.ski</a> — a modern GIF
+  encoder that beats everything else on quality.<p>I'm dual-licensing it. It may
+  be surprising that people would buy a codec for a 34-year-old format, but GIF
+  is a popular medium, and I've created a solid implementation (in Rust, of
+  course).<p>I really like the licensing model. Unlike a SaaS, it doesn't
+  require me to stay up all night worrying about uptime. The types of companies
+  that buy the licenses know what they're doing.
+
+- by stayallive [[https://news.ycombinator.com/item?id=34486255][34486255]]
+
+  I had so many side projects I made a side project to centralize accounts and
+  payments. It’s now called Chief Tools (<a href="https://chief.app"
+  rel="nofollow">https://chief.app</a>) and contains a certificate monitoring
+  tool (<a href="https://cert.chief.app"
+  rel="nofollow">https://cert.chief.app</a>), a zero-downtime deployment tool
+  for PHP (<a href="https://deploy.chief.app"
+  rel="nofollow">https://deploy.chief.app</a>), a DigitalOcean billing monitor
+  (<a href="https://bill.do;" rel="nofollow">https://bill.do;</a> which I
+  acquired) and a URL shortener (<a href="https://tny.app"
+  rel="nofollow">https://tny.app</a>).<p>All of these have no marketing and
+  terrible landing pages since they are mostly built for me (although I like to
+  think they are pretty ploished) but hit $500+ a few weeks ago. It took 5-10
+  years but interesting to see either way (payments were only available about a
+  year ago though, before it was all free).<p>The funny thing (to me) is that
+  the URL shortener is doing the big bucks since apparently there is still a
+  place for new ones in the market which I did not expect, I mostly built it to
+  be able to easily redirect a hostname.
+
+- by slavba [[https://news.ycombinator.com/item?id=34486379][34486379]]
+
+  Few years back I built an RSS to email service, still making ~$600/mo from it.
+  <a href="https://www.feed2mail.com"
+  rel="nofollow">https://www.feed2mail.com</a>.
+Later added an option to follow social feeds (Twitter, mostly) and connected the
+service to a Telegram bot that brings additional $100/mo. <a
+href="https://t.me/Feed2Telegram_bot"
+rel="nofollow">https://t.me/Feed2Telegram_bot</a>
+
+- by guybedo [[https://news.ycombinator.com/item?id=34483517][34483517]]
+
+  <a href="https://routineshub.com" rel="nofollow">https://routineshub.com</a> -
+  a place to create, schedule and share your everyday routines.<p>I've been a
+  long time self development enthusiast, regularly trying out new
+  health/mediation/workout routines and wanted a tool to keep track of my
+  routines, help me schedule everything automatically and where i could share my
+  routines and explore other users routines too.
+
+- by dvno42 [[https://news.ycombinator.com/item?id=34487901][34487901]]
+
+  1). Started a small network automation product over Covid. The software brings
+  AAA, secrets management (pki and passwords ontop of Vault), and config
+  management under one platform. We let admins create programmatic runbooks to
+  make changes to infrastructure using web forms. We have integrations to most
+  major manufacturers to lookup warranty info for all devices. We are
+  prototyping using NLP/OpenAI for users to create runbooks. "E.g.; I need a web
+  form to deploy TLS certificates to all my Dell iDRACS" (but this is a ways off
+  from being safe for anything but the lab).<p>2). We started another side
+  project recently that manage large deployments of a popular OTDR manufacturer.
+  System reports damage to dark fiber which alerts with with exact location info
+  displayed on a map. Notifications are sent to staff via Slack/Email with
+  photos and driving directions. We made a portal to manage all OTDRs from one
+  interface.<p>Both of these are side projects but we will likely go full time
+  on these projects soon.<p>1). www.realmhelm.com
+2). No name yet but we will probably brand it under the realmhelm product above.
+
+- by dSebastien [[https://news.ycombinator.com/item?id=34487160][34487160]]
+
+  I've created the Obsidian Starter Kit [1] and make ~1K per month with it. I
+  don't think it will last for a very long time, but I enjoy sharing my approach
+  and helping others spare some time.<p>[1]: <a
+  href="https://developassion.gumroad.com/l/obsidian-starter-kit"
+  rel="nofollow">https://developassion.gumroad.com/l/obsidian-starter-kit</a>
+
+- by jerriep [[https://news.ycombinator.com/item?id=34483196][34483196]]
+
+  <a href="https://www.usecloudpress.com/"
+  rel="nofollow">https://www.usecloudpress.com/</a> - Allows you to export
+  content from Google Docs and Notion to Content Management Systems like
+  WordPress, Webflow, Contentful, etc. I will export the content with the
+  correct formatting, export images, and also handles other elements like
+  tables, embeds, and more.
+
+- by magepsycho [[https://news.ycombinator.com/item?id=34486282][34486282]]
+
+  Thank you for starting this thread and providing us with the opportunity to
+  share. I have developed several plugins for Magento 2, an e-commerce platform.
+  Some of them can be found at <a
+  href="https://www.magepsycho.com/extensions/magento-2.html"
+  rel="nofollow">https://www.magepsycho.com/extensions/magento-2.html</a>.
+
+- by rozenmd [[https://news.ycombinator.com/item?id=34486569][34486569]]
+
+  In early 2018, GraphQL was new and hot tech, and I worked for a startup that
+  kept breaking their GraphQL API. One day a field might be a string, the next
+  day it might be an object.<p>I got mad, so I built a service that snapshot
+  tested the API response every 60 seconds, and sent a Slack alert whenever it
+  failed. I called it OnlineOrNot.<p>I spent a year trying to sell that MVP to
+  startups around Sydney, but there were maybe a handful of other companies
+  using GraphQL at that time, and they weren't willing to take a chance on a
+  part-time business solving this problem.<p>Fast-forward 2 years, and several
+  other failed projects, I decide to rebuild it from scratch, but this time as a
+  general uptime monitoring service.<p>The URL is <a
+  href="https://onlineornot.com" rel="nofollow">https://onlineornot.com</a>,
+  I've been iteratively working on it for around 2 hours per workday since early
+  2020 (I ruthlessly cut features down into 2 hour blocks, and use feature flags
+  to deploy safely).<p>These days it's more of a status page, with built-in
+  uptime monitoring (and has integrations to other monitors).<p>---<p>Folks tend
+  to ask what makes OnlineOrNot special, trying to figure out what the moat is -
+  it's me.<p>I've worked on the web for Atlassian and Cloudflare, I've seen what
+  works and doesn't work for self-serve web apps. So OnlineOrNot has:<p>- a
+  business model that won't suddenly fail (I'm full-time employed so that I can
+  work on OnlineOrNot, I'm not going to shut it down for not making enough
+  money)<p>- docs written in clear English that load fast, and are up to
+  date<p>- a modern, responsive web UI with errors that don't make you feel
+  dumb<p>- uptime monitoring for websites, web apps, and APIs that Just Works
+
+- by adithyasrin [[https://news.ycombinator.com/item?id=34483153][34483153]]
+
+  <a href="https://www.arbeitnow.com"
+  rel="nofollow">https://www.arbeitnow.com</a> - a job board for Germany. It's
+  been up for two years this January and it keeps me going! Revenue and traffic
+  fluctuate a lot, does not really matter to me as long as people keep finding
+  jobs through it so I'll keep working on it as long as I can.
+
+- by bwb [[https://news.ycombinator.com/item?id=34486845][34486845]]
+
+  I am building a book discovery website. I want to introduce more serendipity
+  into the book discovery and exploration process -> <a
+  href="https://shepherd.com/"
+  rel="nofollow">https://shepherd.com/</a><p>Working to add genres and
+  age-groups now :)<p>Been super fun! I've asked 7,000 authors to share 5 books
+  around a topic, theme, and mood. :)
+
+- by rrmdp [[https://news.ycombinator.com/item?id=34487495][34487495]]
+
+  I built a curated list of job boards with multiple filters to help job seekers
+  find jobs (listing around 1200 job offers)<p>Also helps job boards founders to
+  get traffic as the website last month got 48K unique sessions.<p><a
+  href="https://JobBoardSearch.com"
+  rel="nofollow">https://JobBoardSearch.com</a><p>On average since included paid
+  options it made $1.3K/mo
+
+- by kureikain [[https://news.ycombinator.com/item?id=34482868][34482868]]
+
+  <a href="https://mailwip.com" rel="nofollow">https://mailwip.com</a> email
+  forwarding with extra stuff like webhook, full inbox log, SMTP support, and
+  "email to blog"<p>I made this because every time when I start a project and
+  bough a domain and setup email. first thing. So I scratch my own itch :).
+
+- by Xixi [[https://news.ycombinator.com/item?id=34483699][34483699]]
+
+  <a href="https://tomotcha.com/" rel="nofollow">https://tomotcha.com/</a> — a
+  Japanese tea subscription service. Although we had to suspend our activities
+  for the better part of 2022, we've been able to resume in January
+  2023.<p>Logistic is brutal in what is starting to look like a post
+  globalization world: shipping fees are through the roof, delays are long,
+  regulation (especially in the EU) is ever more stringent. COVID-19 pretty much
+  killed bemmu's Candy Japan (<a href="https://www.candyjapan.com"
+  rel="nofollow">https://www.candyjapan.com</a>), and EU regulation just killed
+  Candysan (<a href="https://candysan.com"
+  rel="nofollow">https://candysan.com</a>): they threw in the towel one week
+  ago.<p>And yet we keep going... gross margin is around $800~$1000 per month.
+
+- by raphaelj [[https://news.ycombinator.com/item?id=34487948][34487948]]
+
+  Not $500/month yet, but I'm already having a few paying customers: <a
+  href="https://noisycamp.com/"
+  rel="nofollow">https://noisycamp.com/</a><p>NoisyCamp is a platform for music
+  studios to manage their reservations. It also helps musicians to find place to
+  rehearse.
+
+- by davidclark22 [[https://news.ycombinator.com/item?id=34492526][34492526]]
+
+  My app, <a href="https://easyteegolf.com/"
+  rel="nofollow">https://easyteegolf.com/</a> is a niche SaaS that I built in my
+  free time during COVID. MRR varies because I don't charge customers during the
+  winter, but it made about $6K last year.
+
+- by lurquer [[https://news.ycombinator.com/item?id=34485979][34485979]]
+
+  I earn a bit north of $5@@ monthly writing and selling puzzle books on
+  Amazon.<p>(I suppose it’s relevant as, at its core, the books are made via
+  one-off programs I write for each kind of puzzle. In addition to the LaTeX
+  crap that turns the output of the program into a nicely formatted puzzle.)
+
+- by Eatcats [[https://news.ycombinator.com/item?id=34490043][34490043]]
+
+  I have 2 rehearsal rooms for musicians, with good acoustics and some basic
+  music equipment. There are 10 bands sharing the rooms and paying monthly
+  giving me 500$+ with ease.
+I will do more as the market for such places in my city is not saturated yet.
+
+- by [[https://news.ycombinator.com/item?id=34483913][34483913]]
+
+
+
+- by sgc [[https://news.ycombinator.com/item?id=34484288][34484288]]
+
+  Curiosity question for those answering here. How many unique visitors a month
+  do you have to get your income? I am working on monetizing via a site that is
+  growing in terms of visitors, and wonder what scale I will need to reach to
+  start having things make sense.
+
+- by thedangler [[https://news.ycombinator.com/item?id=34493123][34493123]]
+
+  I do payment processing on the side and help friends, family, and referrals
+  with getting the best deal and use the best tech, kind of like a broker. I'm
+  still blown away how many businesses in the US still make people tip on a
+  receipt. It's ridiculous. I can do deals in Canada and USA.<p>Shameless plug,
+  but if you are brick and mortar store or restaurant / bar. Contact me.<p>I'm
+  launched closed beta for a very very niche product to help gateways get
+  payments into quickbooks as sale receipts. No need to create invoice and mark
+  it as paid.<p>I'll be making a post about it when it works with most payment
+  gateways. And I have basic pricing.<p>I make roughly $2500 - $5000 a month.
+
+- by antonhag [[https://news.ycombinator.com/item?id=34483375][34483375]]
+
+  I have kept building on <a href="https://blunders.io"
+  rel="nofollow">https://blunders.io</a> - a profiling tool for the JVM. Will
+  soon no longer be a side project though, looking forward to spending more time
+  on it!
+
+- by swyx [[https://news.ycombinator.com/item?id=34484203][34484203]]
+
+  <a href="https://learninpublic.org"
+  rel="nofollow">https://learninpublic.org</a> - i did a livestream with stripe
+  about it <a
+  href="https://www.youtube.com/watch?v=S-UxzCtpB74">https://www.youtube.com/watch?v=S-UxzCtpB74</a><p>its
+  3 years old and still making 2-3k a month but i've gone from happy to guilty -
+  i havent had any time to make updates to the book but i really want to and
+  every single month that goes by that I don't I lose credibility. I'll still do
+  it but its so hard to go back to something when I have a day job and my
+  interests keep shifting.
+
+- by mickel [[https://news.ycombinator.com/item?id=34511538][34511538]]
+
+  I have a couple of projects live, each doing $500+/mo:<p>- <a
+  href="https://www.partly.ai" rel="nofollow">https://www.partly.ai</a> - AI
+  profile picture/art generator.
+- <a href="https://tayl.app" rel="nofollow">https://tayl.app</a> - convert all
+  text to audio and listen as a podcast.
+- <a href="https://www.podopi.com" rel="nofollow">https://www.podopi.com</a> -
+  similar to the one above, but marketed towards website owners.
+
+- by nargella [[https://news.ycombinator.com/item?id=34483742][34483742]]
+
+  I acquired a side hustle in late 2022. It’s doing $1k/month. I’ve been
+  enjoying it so far. Basic queues using http as input and http output.<p><a
+  href="https://zeplo.io" rel="nofollow">https://zeplo.io</a>
+
+- by joelrunyon [[https://news.ycombinator.com/item?id=34521915][34521915]]
+
+  I've got a few<p>Free blog setup service to help people star their own blog →
+  <a href="https://startablog.com"
+  rel="nofollow">https://startablog.com</a><p>Meal Planning web app & service →
+  <a href="https://ultimatemealplans.com"
+  rel="nofollow">https://ultimatemealplans.com</a><p>Mobility training and
+  exercises → <a href="https://movewellapp.com"
+  rel="nofollow">https://movewellapp.com</a>
+
+- by ribtoks [[https://news.ycombinator.com/item?id=34494105][34494105]]
+
+  I made a cross platform desktop app for people who upload their photos and
+  videos to microstock agencies called Xpiks (<a href="https://xpiksapp.com"
+  rel="nofollow">https://xpiksapp.com</a>). Initially I was selling one-off
+  forever licenses but last year started moving them to subscription. So far
+  progress is steady and I keep working on it. The app is made in C++/Qt and I’m
+  looking for people who might be interested to join.
+
+- by eximius [[https://news.ycombinator.com/item?id=34483217][34483217]]
+
+  <a href="https://hoppy.network/"
+  rel="nofollow">https://hoppy.network/</a><p>Basically WireGuard as a service
+  but we give a dedicated IPv4 and IPv6 with Reverse DNS.
+
+- by soheilpro [[https://news.ycombinator.com/item?id=34484366][34484366]]
+
+  <a href="https://pikaso.me" rel="nofollow">https://pikaso.me</a> and <a
+  href="https://volt.fm" rel="nofollow">https://volt.fm</a>
+
+- by dandigangi [[https://news.ycombinator.com/item?id=34482960][34482960]]
+
+  Nothing really to show visually but I make about that passively
+  selling/trading high end watches. More a hobby than anything just to wear them
+  but some easy cash.
+
+- by dmundhra [[https://news.ycombinator.com/item?id=34484824][34484824]]
+
+  Last year recruitment was a pain. This year, it's slightly better, still the
+  process hasn't changed much. After spending an inordinate amount of time
+  interviewing, I brainstormed and launched nitrohire.co last month after a few
+  months of alpha usage. Nitrohire helps hiring managers get quick and useful
+  information about candidates without any effort.<p>Currently doing on and off
+  in the vicinity of a grand a month.
+
+- by bithacker23 [[https://news.ycombinator.com/item?id=34485650][34485650]]
+
+  I created <a href="http://www.bithacker.io"
+  rel="nofollow">http://www.bithacker.io</a> during the pandemic. It’s a live
+  interviewing platform but for RTL design candidates. It supports Verilog
+  simulation with an interactive waveform viewer as well. We’re also working on
+  enabling synthesis soon. So far we’re getting some early traction and excited
+  to grow it more in 2023 :)
+
+- by raymondmoay [[https://news.ycombinator.com/item?id=34489478][34489478]]
+
+  Built lifeofdiscipline.com, a habit tracker inspired by GitHub’s contribution
+  calendar. Took me a year to break the 500/mo mark.
+
+- by tech_jdc [[https://news.ycombinator.com/item?id=34485044][34485044]]
+
+  Developed a few websites that I do monthly support and maintenance on.<p>I’m
+  averaging about $600.00 MRR which is down from the $1200.00 MRR I was making
+  for a better part of last year.<p>The beauty of it though is it only requires
+  about 1-2 hours tops of my time each month though.<p>Combining both some
+  additional contract work with this MRR outside of my FT job I’m doing about
+  $1500.00 to $2,000.00 month.<p>Working on a few ways to increase this.
+
+- by vadimdne [[https://news.ycombinator.com/item?id=34516440][34516440]]
+
+  I’m a big fan of quotes. Asked my wife (Swift dev) to create iOS app with my
+  favorite quotes, so I can see them as notifications and widgets.<p>The app
+  makes ~$1000/mo.<p><a href="https://apps.apple.com/app/id1586101858"
+  rel="nofollow">https://apps.apple.com/app/id1586101858</a>
+
+- by 88stacks [[https://news.ycombinator.com/item?id=34484310][34484310]]
+
+  I have been working on getting stable diffusion and image generation working
+  for non developers. It has been really awesome to help non technical people.
+  I'm still trying to figure out how to grow it larger, but its slow and steady
+  progress. This is the site: <a href="https://88stacks.com/"
+  rel="nofollow">https://88stacks.com/</a>
+
+- by sideproject [[https://news.ycombinator.com/item?id=34484145][34484145]]
+
+  I'm continuing with my project Newsy<p><a href="https://newsy.co"
+  rel="nofollow">https://newsy.co</a><p>A modern take on domain parking. I have
+  ~50 un-used domains. I wanted to make some good use out of them instead of
+  just parking them. So I built Newsy to convert them into automated content
+  aggregators.
+
+- by kimchidude [[https://news.ycombinator.com/item?id=34486808][34486808]]
+
+  Cool idea for a thread.<p>I’m still building <a
+  href="https://www.ieltsielts.com/"
+  rel="nofollow">https://www.ieltsielts.com/</a> which offers original resources
+  and coaching for an English language proficiency exam called the IELTS. It
+  makes over $500 USD per month.
+
+- by Swizec [[https://news.ycombinator.com/item?id=34482915][34482915]]
+
+  <a href="https://seniormindset.com/"
+  rel="nofollow">https://seniormindset.com/</a> – book and workshop helping
+  people with the shift in mindset that goes into being a senior [software]
+  engineer.<p>You can tldr my philosophy as “business results trump technical
+  excellence”<p>No MRR but made about $40k in sales last year. Biggest challenge
+  is figuring out how to turn that into stable revenue. Biggest opportunity is
+  that unlike my previous (technical) infoproducts, this one doesn’t expire in 6
+  months.
+
+- by Ocha [[https://news.ycombinator.com/item?id=34484659][34484659]]
+
+  I have 2 projects. One is already out in the wild getting used and abused by
+  some. It is an SMTP server that can be used for testing and also simulating
+  errors and delays. <a href="https://mailsnag.com"
+  rel="nofollow">https://mailsnag.com</a>
+
+- by trympet [[https://news.ycombinator.com/item?id=34482858][34482858]]
+
+  I made a simple app for tracking stock prices on your desktop:
+  www.stockdesktopwidget.com
+
+- by loyski [[https://news.ycombinator.com/item?id=34484188][34484188]]
+
+  I started a tech blog as a side project 5 years ago. Now it's making
+  $3,000-5,000 a month. It currently has around 600 articles.<p>Display ads make
+  the bulk of the income. Affiliate links are a distant second.
+
+- by hydershykh [[https://news.ycombinator.com/item?id=34487373][34487373]]
+
+  Started trading back in 2020 and realized how bad I was it, and how much I
+  needed a strict system to eliminate emotions! Had a degree in CS so spent a
+  few months reading up on quant related stuff and realized how negligent I and
+  other retail traders were, and how much data driven insights could help (ran
+  over a million backtests the last 2 years)!<p>Built a simple analytics tool to
+  show dozens of correlations & analytics between a wide variety of financial
+  data points, and bootstrapped it to $120k/month! We grew from 0 to 54k users
+  in two years, all organic. Has completely changed my life.<p>tradytics.com
+
+- by monero-xmr [[https://news.ycombinator.com/item?id=34483310][34483310]]
+
+  I make far more than $500 per month in cryptocurrency staking and various
+  types of lending pools. For the curious it’s like a hobby that can make you a
+  lot of money.
+
+- by outcoldman [[https://news.ycombinator.com/item?id=34482795][34482795]]
+
+  macOS applications <a href="https://loshadki.app"
+  rel="nofollow">https://loshadki.app</a> $1,500-3,000 USD /month
+
+- by [[https://news.ycombinator.com/item?id=34487913][34487913]]
+
+
+
+- by coreymaass [[https://news.ycombinator.com/item?id=34489090][34489090]]
+
+  mexicantrain.online - My pandemic project continues to bop along nicely.
+  Donations are generous. It makes people happy.<p>Social Link Pages
+  (sociallinkpages.com) - a WordPress plugin to add link-in-bio pages to a
+  WordPress install.
+
+- by jbirer [[https://news.ycombinator.com/item?id=34493835][34493835]]
+
+  I developed a meme token launchpad (reflections, taxes, anti rug pull measures
+  and stuff) and had it purchased by another startup.
+
+- by calltrak [[https://news.ycombinator.com/item?id=34491560][34491560]]
+
+  [dead]
+
+- by syngrog66 [[https://news.ycombinator.com/item?id=34485602][34485602]]
+
+  I'm amused when this is asked here. If you answer you're begging to get a
+  surge in copycats, and by folks who might execute better and bigger, with more
+  resources backing them.
