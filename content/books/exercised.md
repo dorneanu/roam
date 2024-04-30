@@ -157,22 +157,24 @@ On the history of chairs:
 
 On [cytokine]({{< relref "../../topics/cytokine.md" >}}) and inflammations:
 
-> The answer has recently become apparent thanks to new technologies that accurately measure
-> minuscule quantities of the more than one thousand tiny proteins that cells pump into our
-> bloodstreams. Several dozens of these proteins, termed **cytokines** (from the Greek cyto for
-> “cell” and kine for “movement”), regulate inflammation.
+> The answer has recently become apparent thanks to new technologies that
+> accurately measure minuscule quantities of the more than one thousand tiny
+> proteins that cells pump into our bloodstreams. Several dozens of these
+> proteins, termed **cytokines** (from the Greek cyto for “cell” and kine for
+> “movement”), regulate inflammation.
 >
-> As scientists started to study when and how **cytokines turn inflammation on** and off, they
-> discovered that some of the same cytokines that ignite short-lived, intense, and local
-> inflammatory responses following an infection also **stimulate lasting, barely detectable
-> levels of inflammation throughout the body**.
+> As scientists started to study when and how **cytokines turn inflammation on** and
+> off, they discovered that some of the same cytokines that ignite short-lived,
+> intense, and local inflammatory responses following an infection also **stimulate
+> lasting, barely detectable levels of inflammation throughout the body**.
 >
-> Instead of blazing acutely in one spot for a few days or weeks, as when we fight a cold,
-> inflammation can smolder imperceptibly in many parts of the body for months or years. In a
-> way, chronic, **low-grade inflammation is like having a never-ending cold so mild you never
-> notice its existence**. But the inflammation is nonetheless there, and mounting evidence
-> indicates that this slow burn steadily and surreptitiously **damages tissues in our
-> arteries, muscles, liver, brain, and other organs**.
+> Instead of blazing acutely in one spot for a few days or weeks, as when we fight
+> a cold, inflammation can smolder imperceptibly in many parts of the body for
+> months or years. In a way, chronic, **low-grade inflammation is like having a
+> never-ending cold so mild you never notice its existence**. But the inflammation
+> is nonetheless there, and mounting evidence indicates that this slow burn
+> steadily and surreptitiously **damages tissues in our arteries, muscles, liver,
+> brain, and other organs**.
 
 
 ### 77 {#77}
@@ -210,31 +212,33 @@ What happens during sleep:
 
 The brain and its waste:
 
-> An even more **vital function of sleep for the brain is janitorial**. The zillions of chemical
-> reactions that make life possible inevitably create **waste products known as metabolites**,
-> some highly reactive and damaging. Because the power-hungry brain uses one-fifth of the
-> body’s calories, it generates abundant and highly concentrated metabolites. **Some of these
-> garbagy molecules such as beta-amyloid clog up neurons**. Others such as **adenosine make us
-> sleepy as they accumulate** (and are counteracted by caffeine).
+> An even more **vital function of sleep for the brain is janitorial**. The zillions
+> of chemical reactions that make life possible inevitably create **waste products
+> known as metabolites**, some highly reactive and damaging. Because the
+> power-hungry brain uses one-fifth of the body’s calories, it generates abundant
+> and highly concentrated metabolites. **Some of these garbagy molecules such as
+> beta-amyloid clog up neurons**. Others such as **adenosine make us sleepy as they
+> accumulate** (and are counteracted by caffeine).
 
 
 ### 93 {#93}
 
-> For every hour spent awake storing memories and amassing waste, we need approximately
-> fifteen minutes asleep to process those memories and clean up.
+> For every hour spent awake storing memories and amassing waste, we need
+> approximately fifteen minutes asleep to process those memories and clean up.
 
 
 ### 93 {#93}
 
 The brains cleaning process:
 
-> During NREM sleep, specialized cells throughout the brain expand the spaces between
-> neurons by as much as 60 percent, allowing **cerebrospinal fluid that bathes the brain to
-> literally flush away this junk**. These opened spaces also **admit enzymes that repair damaged
-> cells and rejuvenate receptors in the brain for neurotransmitters**. The only catch,
-> however, is that the brain’s interstitial pathways are like single-lane bridges that let
-> cars pass in only one direction at a time. **Apparently, we cannot think while cleansing our
-> brains**. We thus must sleep to flush out the cobwebs left behind by the day’s experiences.
+> During NREM sleep, specialized cells throughout the brain expand the spaces
+> between neurons by as much as 60 percent, allowing **cerebrospinal fluid that
+> bathes the brain to literally flush away this junk**. These opened spaces also
+> **admit enzymes that repair damaged cells and rejuvenate receptors in the brain
+> for neurotransmitters**. The only catch, however, is that the brain’s interstitial
+> pathways are like single-lane bridges that let cars pass in only one direction
+> at a time. **Apparently, we cannot think while cleansing our brains**. We thus must
+> sleep to flush out the cobwebs left behind by the day’s experiences.
 
 
 ### 96 {#96}
@@ -249,12 +253,12 @@ The brains cleaning process:
 > Kalahari Desert, and fifty-four hunter-farmers from the Amazon rain forest in
 > Bolivia. None of these populations have electric lights, let alone clocks or
 > internet access. Yet to Siegel’s astonishment, **they slept less than
-> industrialized people did**. **In warmer months, these foragers slept on average 5.7
-> to 6.5 hours a day, and during colder months they slept on average 6.6 to 7.1
-> hours a night**. In addition, they rarely napped. Studies that monitored Amish
-> farmers who shun electricity as well as other nonindustrial populations such as
-> rural Haitians and subsistence farmers in Madagascar report similar average
-> sleep durations, about 6.5 to 7.0 hours a day.
+> industrialized people did**. **In warmer months, these foragers slept on average
+> 5.7 to 6.5 hours a day, and during colder months they slept on average 6.6 to
+> 7.1 hours a night**. In addition, they rarely napped. Studies that monitored
+> Amish farmers who shun electricity as well as other nonindustrial populations
+> such as rural Haitians and subsistence farmers in Madagascar report similar
+> average sleep durations, about 6.5 to 7.0 hours a day.
 
 
 ### 104 {#104}
@@ -279,14 +283,13 @@ What regulates sleep:
 > well-known effects on sleep. If you run a mile at top speed or lift heavy
 > weights just before going to bed, you’ll probably have a hard time falling
 > asleep because **vigorous physical activity turns on this system, stimulating
-> arousal**. **In contrast, a good dose of physical activity earlier in the day like a
-> game of soccer, an hour or two of gardening, or a long walk helps sleep come
+> arousal**. **In contrast, a good dose of physical activity earlier in the day like
+> a game of soccer, an hour or two of gardening, or a long walk helps sleep come
 > more easily**. These activities **increase sleep pressure**, and they stimulate the
 > body to counter the initial fight-and-flight response with a deeper “rest and
 > digest” response (technically the parasympathetic nervous system). Among other
 > benefits, recovery from exercise gradually lowers basal cortisol and epinephrine
-> levels, depresses body temperature, and even helps re-sync the circadian
-> clock.
+> levels, depresses body temperature, and even helps re-sync the circadian clock.
 
 
 ### 106 {#106}
@@ -312,58 +315,65 @@ Link between insomnia and physical activity:
 About ATP and ADP:
 
 > These ubiquitous miniature batteries, which power all life on earth, are called
-> [ATP]({{< relref "../../topics/atp.md" >}})s (adenosine triphosphates). As the name implies, each **ATP** consists of a tiny
-> molecule (an **adenosine**) attached to three molecules of phosphate (a phosphorus
-> atom surrounded by oxygen atoms). **These three phosphates are bound to each other
-> in a chain, one on top of the other, storing energy in the chemical bonds
-> between each phosphate**. **When the last of these phosphates is broken off using
-> water, the tiny quantity of energy that binds it to the second phosphate is
-> liberated along with one hydrogen ion (H+)**, leaving behind an **ADP** (**adenosine
-> diphosphate**). This liberated energy powers almost everything done by every cell
-> in the body like firing nerves, making proteins, and contracting muscles. And,
-> critically, **ATPs are rechargeable**. By **breaking down chemical bonds in sugar and
-> fat molecules, cells acquire the energy to restore ADPs to ATPs by adding back
-> the lost phosphate**. The problem is, however, that regardless of whether we are
-> hyenas or humans, **the faster we run, the more our bodies struggle to recharge
-> these ATPs**, thus curtailing our speed after a short while.
+> [ATP]({{< relref "../../topics/atp.md" >}})s (adenosine triphosphates). As
+> the name implies, each **ATP** consists of a tiny molecule (an **adenosine**)
+> attached to three molecules of phosphate (a phosphorus atom surrounded by oxygen
+> atoms). **These three phosphates are bound to each other in a chain, one on top
+> of the other, storing energy in the chemical bonds between each phosphate**.
+> **When the last of these phosphates is broken off using water, the tiny quantity
+> of energy that binds it to the second phosphate is liberated along with one
+> hydrogen ion (H+)**, leaving behind an **ADP** (**adenosine diphosphate**). This
+> liberated energy powers almost everything done by every cell in the body like
+> firing nerves, making proteins, and contracting muscles. And, critically, **ATPs
+> are rechargeable**. By **breaking down chemical bonds in sugar and fat molecules,
+> cells acquire the energy to restore ADPs to ATPs by adding back the lost
+> phosphate**. The problem is, however, that regardless of whether we are hyenas or
+> humans, **the faster we run, the more our bodies struggle to recharge these
+> ATPs**, thus curtailing our speed after a short while.
 
 
 ### 119 {#119}
 
-> But there is a consequential catch: during [glycolysis]({{< relref "../../topics/glycolysis.md" >}}) the leftover halves of
+> But there is a consequential catch: during
+> [glycolysis]({{< relref "../../topics/glycolysis.md" >}}) the leftover halves of
 > each sugar, molecules known as pyruvates, accumulate faster than cells can
 > handle. As **pyruvates** pile up to intolerable levels, enzymes **convert each
-> pyruvate into a molecule called [lactate]({{< relref "../../topics/lactate.md" >}}) along with a hydrogen ion** (H+). Although
-> **[lactate]({{< relref "../../topics/lactate.md" >}}) is harmless and eventually used to recharge ATPs, those hydrogen ions
-> make muscle cells increasingly acidic, causing fatigue, pain, and decreased
-> function**. Within about thirty seconds, a sprinter’s legs feel as if they are
-> burning. It then takes a lengthy period of time to slowly neutralize the acid
-> and shuttle the surplus [lactate]({{< relref "../../topics/lactate.md" >}}) into the third, final, but long-term  aerobic
-> energy process.
+> pyruvate into a molecule called
+> [lactate]({{< relref "../../topics/lactate.md" >}}) along with a hydrogen ion**
+> (H+). Although **[lactate]({{< relref "../../topics/lactate.md" >}}) is harmless
+> and eventually used to recharge ATPs, those hydrogen ions make muscle cells
+> increasingly acidic, causing fatigue, pain, and decreased function**. Within
+> about thirty seconds, a sprinter’s legs feel as if they are burning. It then
+> takes a lengthy period of time to slowly neutralize the acid and shuttle the
+> surplus [lactate]({{< relref "../../topics/lactate.md" >}}) into the third,
+> final, but long-term aerobic energy process.
 
 
 ### 119 {#119}
 
-> [Sugar]({{< relref "../../topics/zucker.md" >}}) is synonymous with sweetness, but it’s first and foremost a fuel used to
-> recharge ATPs through a process termed glycolysis (from glyco for “sugar” and
-> lysis for “break down”). During [glycolysis]({{< relref "../../topics/glycolysis.md" >}}), **enzymes swiftly snip sugar molecules
-> in half, liberating the energy from those bonds to charge two ATPs**. Restoring
-> ATPs from sugar doesn’t require oxygen and is rapid enough to provide almost
-> half the energy used during a thirty-second sprint. In fact, a fit human can
-> store enough sugar to run nearly fifteen miles.
+> [Sugar]({{< relref "../../topics/zucker.md" >}}) is synonymous with sweetness,
+> but it’s first and foremost a fuel used to recharge ATPs through a process
+> termed glycolysis (from glyco for “sugar” and lysis for “break down”). During
+> [glycolysis]({{< relref "../../topics/glycolysis.md" >}}), **enzymes swiftly snip
+> sugar molecules in half, liberating the energy from those bonds to charge two
+> ATPs**. Restoring ATPs from sugar doesn’t require oxygen and is rapid enough to
+> provide almost half the energy used during a thirty-second sprint. In fact, a
+> fit human can store enough sugar to run nearly fifteen miles.
 
 
 ### 121 {#121}
 
-> your VO2 max, you need [glycolysis]({{< relref "../../topics/glycolysis.md" >}}) to supply additional fuel to your muscles.
-> Speeds above this range cannot be sustained, because muscles become acidic.
-> Fortunately, your [VO2 max]({{< relref "../../topics/vo2_max.md" >}}) has little effect on speed during short bursts of
-> maximum intensity, such as a thirty-second sprint, but the longer the distance,
-> the more it matters. **For a hundred-meter dash, only 10 percent of your energy
-> comes from aerobic respiration, but that percentage increases to 30 percent over
-> four hundred meters, 60 percent for eight hundred meters, and 80 percent for a
-> mile. The farther you go, the more your maximum speed benefits from a high VO2
-> max** (which, as we will see, you can increase by training)
+> your VO2 max, you need [glycolysis]({{< relref "../../topics/glycolysis.md" >}})
+> to supply additional fuel to your muscles. Speeds above this range cannot be
+> sustained, because muscles become acidic. Fortunately, your
+> [VO2 max]({{< relref "../../topics/vo2_max.md" >}}) has little effect on speed
+> during short bursts of maximum intensity, such as a thirty-second sprint, but
+> the longer the distance, the more it matters. **For a hundred-meter dash, only 10
+> percent of your energy comes from aerobic respiration, but that percentage
+> increases to 30 percent over four hundred meters, 60 percent for eight hundred
+> meters, and 80 percent for a mile. The farther you go, the more your maximum
+> speed benefits from a high VO2 max** (which, as we will see, you can increase by
+> training)
 
 
 ## About exercise in general {#about-exercise-in-general}
@@ -374,15 +384,17 @@ About ATP and ADP:
 > we never evolved to exercise. What do I mean by that? Well, **exercise today is
 > most commonly defined as voluntary physical activity undertaken for the sake of
 > health and fitness**. But as such it is a recent phenomenon. Our not-too-distant
-> **ancestors** who were **hunter-gatherers and farmers had to be physically active for
-> hours each day to get enough food, and while they sometimes played or danced for
-> fun or social reasons, no one ever ran or walked several miles just for health**.
+> **ancestors** who were **hunter-gatherers and farmers had to be physically active
+> for hours each day to get enough food, and while they sometimes played or danced
+> for fun or social reasons, no one ever ran or walked several miles just for
+> health**.
 
 <!--quoteend-->
 
 > Even the salubrious meaning of the word “exercise” is recent. Adapted from the
 > Latin verb exerceo (to work, train, or practice), **the English word “exercise”
-> was first used in the Middle Ages to connote arduous labor like plowing a field.**
+> was first used in the Middle Ages to connote arduous labor like plowing a
+> field.**
 
 
 ### 15 {#15}
@@ -390,8 +402,8 @@ About ATP and ADP:
 > Exercise is big business. Walking, jogging, and many other forms of exercise are
 > inherently free, but giant **multinational companies entice us to spend lots of
 > money to work out in special clothes, with special equipment, and in special
-> places like fitness clubs**. We also pay money to watch other people exercise, and
-> a handful of us even pay for the privilege of suffering through marathons,
+> places like fitness clubs**. We also pay money to watch other people exercise,
+> and a handful of us even pay for the privilege of suffering through marathons,
 > ultramarathons, triathlons, and other extreme, grueling, or potentially
 > dangerous sporting events.
 
@@ -446,9 +458,9 @@ On triathlons and **obsession** about this sport:
 
 ### 197 {#197}
 
-> A veritable who’s who of _medical organizations agree_ that adults should get **at
-> least 30 minutes** of “ **moderate to vigorous** ” aerobic exercise **at least five days a
-> week** for a **minimum of 150 minutes per week**.
+> A veritable who’s who of _medical organizations agree_ that adults should get
+> **at least 30 minutes** of “ **moderate to vigorous** ” aerobic exercise **at least
+> five days a week** for a **minimum of 150 minutes per week**.
 
 
 ### 197 {#197}
@@ -456,11 +468,11 @@ On triathlons and **obsession** about this sport:
 Ten thousand steps:
 
 > In the mid-1960s, a **Japanese company, Yamasa Tokei**, invented a simple,
-> inexpensive **pedometer** that measures how many steps you take. The company decided
-> to call the gadget **Manpo-kei**, which means “ **ten-thousand-step meter** ” because it
-> sounded auspicious and catchy. And it was. The pedometer sold like hotcakes, and
-> ten thousand steps has since been adopted worldwide as a benchmark for minimal
-> daily physical activity.
+> inexpensive **pedometer** that measures how many steps you take. The company
+> decided to call the gadget **Manpo-kei**, which means “ **ten-thousand-step meter**
+> ” because it sounded auspicious and catchy. And it was. The pedometer sold like
+> hotcakes, and ten thousand steps has since been adopted worldwide as a benchmark
+> for minimal daily physical activity.
 
 
 ## Further resources {#further-resources}
@@ -532,12 +544,13 @@ On epigenetic modifications:
 
 ### 26 {#26}
 
-> had traveled to the Sierra to do research on [Tarahumara Native Americans](https://en.wikipedia.org/wiki/Rar%C3%A1muri), famous
-> for their long-distance running. Dozens of anthropologists over the last century
-> have written about the **Tarahumara**, but in 2009 they gained an extra boost of
-> worldwide fame from the best seller Born to Run. The book portrays them as a
-> “hidden tribe” of barefoot, ultra-healthy, “superathletes” who routinely run
-> unimaginable distances.
+> had traveled to the Sierra to do research on
+> [Tarahumara Native Americans](https://en.wikipedia.org/wiki/Rar%C3%A1muri),
+> famous for their long-distance running. Dozens of anthropologists over the last
+> century have written about the **Tarahumara**, but in 2009 they gained an extra
+> boost of worldwide fame from the best seller Born to Run. The book portrays them
+> as a “hidden tribe” of barefoot, ultra-healthy, “superathletes” who routinely
+> run unimaginable distances.
 
 
 ### 27 {#27}
@@ -546,11 +559,11 @@ On epigenetic modifications:
 > their own, I had heard and read numerous accounts about how Tarahumara men and
 > women have their own Ironman-like competitions. In the women’s race, known as
 > **ariwete**, teams of teenage girls and young women run about twenty-five miles
-> while chasing a cloth hoop. In the men’s race, the **rarájipari**, teams of men run
-> up to eighty miles while kicking an orange-sized wooden ball. If the Tarahumara
-> think needless exercise is foolish, why do some of them sometimes run insanely
-> long distances like Ironmen? Just as important, how do they accomplish these
-> feats without training?
+> while chasing a cloth hoop. In the men’s race, the **rarájipari**, teams of men
+> run up to eighty miles while kicking an orange-sized wooden ball. If the
+> Tarahumara think needless exercise is foolish, why do some of them sometimes run
+> insanely long distances like Ironmen? Just as important, how do they accomplish
+> these feats without training?
 
 
 ### 57 {#57}
@@ -581,12 +594,12 @@ About fat in the organs:
 
 > The other major type of fat is cached in cells in and around our bellies and
 > other organs including the heart, liver, and muscles. There are many terms for
-> this fat including “\*visceral\*,” “\*abdominal\*,” “\*belly\*,” and “\*ectopic\*,” but I will
-> use the term “\*organ fat\*.” Organ fat cells are dynamic participants in metabolism
-> and, when activated, can quickly **dump fat into the bloodstream**. Organ fat in
-> moderate quantities (about 1 percent of total body weight) is thus normal and
-> beneficial as a short-term energy depot for times when we need rapid access to a
-> lot of calories such as when we walk or jog a long distance.
+> this fat including “\*visceral\*,” “\*abdominal\*,” “\*belly\*,” and “\*ectopic\*,” but
+> I will use the term “\*organ fat\*.” Organ fat cells are dynamic participants in
+> metabolism and, when activated, can quickly **dump fat into the bloodstream**.
+> Organ fat in moderate quantities (about 1 percent of total body weight) is thus
+> normal and beneficial as a short-term energy depot for times when we need rapid
+> access to a lot of calories such as when we walk or jog a long distance.
 
 
 ### 76 {#76}
@@ -635,9 +648,9 @@ About **caloric excess**:
 > one-third of a typical person’s body mass and one-fifth of her or his energy
 > budget. I need about three hundred calories a day to sustain my unmuscular
 > frame. Beefed-up weight lifters, however, can be more than 40 percent muscle
-> mass, which means they carry as much as twenty added kilograms of costly
-> flesh. If I ever decide to bulk up like that, I’ll have to eat two hundred to
-> three hundred more calories a day to pay for my new physique. **While obtaining an
+> mass, which means they carry as much as twenty added kilograms of costly flesh.
+> If I ever decide to bulk up like that, I’ll have to eat two hundred to three
+> hundred more calories a day to pay for my new physique. **While obtaining an
 > extra three hundred calories is a trivial task today (accomplished by wolfing
 > down a milk shake), the challenge of foraging daily for those additional
 > calories in the Stone Age would have compromised one’s reproductive success**.
@@ -647,10 +660,11 @@ About **caloric excess**:
 
 > If there is one physical activity that most fundamentally illustrates the
 > central point of this book—that **we didn’t evolve to exercise but instead to be
-> physically active when necessary\*—it is walking. \*Average hunter-gatherer men and
-> women (Hadza included) walk about nine and six miles a day, respectively, not
-> for health or fitness but to survive**. Every year, the average hunter-gatherer
-> walks the distance from New York to Los Angeles. **Humans are endurance walkers**.
+> physically active when necessary\*—it is walking. \*Average hunter-gatherer men
+> and women (Hadza included) walk about nine and six miles a day, respectively,
+> not for health or fitness but to survive**. Every year, the average
+> hunter-gatherer walks the distance from New York to Los Angeles. **Humans are
+> endurance walkers**.
 
 
 ### 179 {#179}
@@ -691,7 +705,8 @@ On carrying stuff:
 
 ### 225 {#225}
 
-Hippocrates wrote twenty-five hundred years ago, “Eating alone will not make a man well; he must also take exercise.”
+Hippocrates wrote twenty-five hundred years ago, “Eating alone will not make a
+man well; he must also take exercise.”
 
 quote
 
@@ -709,19 +724,32 @@ quote
 
 ### 229 {#229}
 
-> Among those who lend her a hand are middle-aged and elderly folks. Anthropologists have
-> shown that grandmothers, grandfathers, aunts, uncles, and other older individuals in
-> foraging populations from Australia to South America remain active throughout life,
-> gathering and hunting more calories every day than they consume, which they provide to
-> younger generations.13 This surplus food helps provide adequate calories to children,
-> grandchildren, nieces, and nephews and reduces how much work mothers have to do. Elderly
-> hunter-gatherers also help younger generations by contributing knowledge, wisdom, and
-> skills for about two to three decades beyond childbearing years.
+> Among those who lend her a hand are middle-aged and elderly folks.
+> Anthropologists have shown that grandmothers, grandfathers, aunts, uncles, and
+> other older individuals in foraging populations from Australia to South America
+> remain active throughout life, gathering and hunting more calories every day
+> than they consume, which they provide to younger generations.13 This surplus
+> food helps provide adequate calories to children, grandchildren, nieces, and
+> nephews and reduces how much work mothers have to do. Elderly hunter-gatherers
+> also help younger generations by contributing knowledge, wisdom, and skills for
+> about two to three decades beyond childbearing years.
 
 
 ### 229 {#229}
 
-Chimpanzee mothers, for example, cannot give birth to babies faster than once every five to six years because they forage only enough food every day to sustain their caloric needs plus those of one hungry youngster. Not until her juvenile is old enough to be fully weaned and forage for itself can she muster enough calories to become fertile again. Human hunter-gatherers, in contrast, typically wean their offspring after three years and become pregnant again long before their little ones are able to feed or fend for themselves, let alone stay out of danger. A typical hunter-gatherer mother, for example, might have a six-month-old infant, a four-year-old child, and an eight-year-old juvenile. Because she is usually capable of gathering only about two thousand calories a day, she cannot get enough food to provide for her own substantial caloric needs, which exceed two thousand calories, as well as the needs of her several offspring, none of whom are old enough to forage on their own.12 She needs help.
+Chimpanzee mothers, for example, cannot give birth to babies faster than once
+every five to six years because they forage only enough food every day to
+sustain their caloric needs plus those of one hungry youngster. Not until her
+juvenile is old enough to be fully weaned and forage for itself can she muster
+enough calories to become fertile again. Human hunter-gatherers, in contrast,
+typically wean their offspring after three years and become pregnant again long
+before their little ones are able to feed or fend for themselves, let alone stay
+out of danger. A typical hunter-gatherer mother, for example, might have a
+six-month-old infant, a four-year-old child, and an eight-year-old juvenile.
+Because she is usually capable of gathering only about two thousand calories a
+day, she cannot get enough food to provide for her own substantial caloric
+needs, which exceed two thousand calories, as well as the needs of her several
+offspring, none of whom are old enough to forage on their own.12 She needs help.
 
 animals humans pregnancy
 
@@ -730,107 +758,233 @@ animals humans pregnancy
 
 Grandparent Hypothesis
 
-> I propose a corollary to the grandmother hypothesis, which I call the active grandparent
-> hypothesis. According to this idea, human longevity was not only selected for but also
-> made possible by having to work moderately during old age to help as many children,
-> grandchildren, and other younger relatives as possible to survive and thrive. That is,
-> while there might have been selection for genes (as yet unidentified) that help humans
-> live past the age of fifty, there was also selection for genes that repair and maintain
-> our bodies when we are physically active. As a result, many of the mechanisms that slow
-> aging and extend life are turned on by physical activity, especially as we get older.
+> I propose a corollary to the grandmother hypothesis, which I call the active
+> grandparent hypothesis. According to this idea, human longevity was not only
+> selected for but also made possible by having to work moderately during old age
+> to help as many children, grandchildren, and other younger relatives as possible
+> to survive and thrive. That is, while there might have been selection for genes
+> (as yet unidentified) that help humans live past the age of fifty, there was
+> also selection for genes that repair and maintain our bodies when we are
+> physically active. As a result, many of the mechanisms that slow aging and
+> extend life are turned on by physical activity, especially as we get older.
 > Human health and longevity are thus extended both by and for physical activity.
 
 
 ### 233 {#233}
 
-The active grandparent hypothesis raises a classic chicken-or-egg question. How much do humans live to old age so they can be active grandparents helping younger generations, or how much does their hard work cause them to live long lives in the first place? Is human longevity a result of physical activity or an adaptation to stay physically active?
+The active grandparent hypothesis raises a classic chicken-or-egg question. How
+much do humans live to old age so they can be active grandparents helping
+younger generations, or how much does their hard work cause them to live long
+lives in the first place? Is human longevity a result of physical activity or an
+adaptation to stay physically active?
 
 
 ### 239 {#239}
 
-Costly repair hypothesis. Representation of total energy expenditure (TEE), resting metabolic rate (RMR), and active energy expenditure (AEE) over the course of a day showing how energy use changes before, during, and after a bout of exercise. AEE is low before exercise, goes up during exercise, and then falls again. However, RMR can remain elevated for several hours after exercise as the body recovers, replenishes energy stores, and repairs damage.
+Costly repair hypothesis. Representation of total energy expenditure (TEE),
+resting metabolic rate (RMR), and active energy expenditure (AEE) over the
+course of a day showing how energy use changes before, during, and after a bout
+of exercise. AEE is low before exercise, goes up during exercise, and then falls
+again. However, RMR can remain elevated for several hours after exercise as the
+body recovers, replenishes energy stores, and repairs damage.
 
 
 ### 240 {#240}
 
-While exercise restores most structures (what biologists term homeostasis), in some cases it may make things even better than before (this is termed allostasis). For example, demanding physical activities can increase the strength of bones and muscles, increase cells’ abilities to take up glucose from the blood, and both augment and replace mitochondria in muscles. In addition, repair mechanisms sometimes overshoot the damage induced by exercise, leading to a net benefit. It’s like scrubbing the kitchen floor so well after a spill that the whole floor ends up being cleaner. Among other effects, while physical activity initially stimulates inflammation, especially via muscles, it subsequently causes muscles to produce an even stronger, more lasting, and more widespread anti-inflammatory response whose long-term effect is less inflammation not just in the affected muscle but elsewhere.45 As a result, physically active people tend to have lower baseline levels of inflammation. In addition, exercise causes the body to produce more antioxidants than necessary, decreasing overall levels of oxidative stress.46 Exercise also causes cells to clean out damaged proteins, lengthen telomeres, repair DNA, and more. All in all, the modest physiological stresses caused by exercise trigger a reparative response yielding a general benefit, a phenomenon sometimes known as hormesis.
+While exercise restores most structures (what biologists term homeostasis), in
+some cases it may make things even better than before (this is termed
+allostasis). For example, demanding physical activities can increase the
+strength of bones and muscles, increase cells’ abilities to take up glucose from
+the blood, and both augment and replace mitochondria in muscles. In addition,
+repair mechanisms sometimes overshoot the damage induced by exercise, leading to
+a net benefit. It’s like scrubbing the kitchen floor so well after a spill that
+the whole floor ends up being cleaner. Among other effects, while physical
+activity initially stimulates inflammation, especially via muscles, it
+subsequently causes muscles to produce an even stronger, more lasting, and more
+widespread anti-inflammatory response whose long-term effect is less
+inflammation not just in the affected muscle but elsewhere.45 As a result,
+physically active people tend to have lower baseline levels of inflammation. In
+addition, exercise causes the body to produce more antioxidants than necessary,
+decreasing overall levels of oxidative stress.46 Exercise also causes cells to
+clean out damaged proteins, lengthen telomeres, repair DNA, and more. All in
+all, the modest physiological stresses caused by exercise trigger a reparative
+response yielding a general benefit, a phenomenon sometimes known as hormesis.
 
 
 ### 251 {#251}
 
-The resulting paradox is that our bodies never evolved to function optimally without lifelong physical activity but our minds never evolved to get us moving unless it is necessary, pleasurable, or otherwise rewarding.
+The resulting paradox is that our bodies never evolved to function optimally
+without lifelong physical activity but our minds never evolved to get us moving
+unless it is necessary, pleasurable, or otherwise rewarding.
 
 
 ### 261 {#261}
 
-Because exercise by definition isn’t necessary, we mostly do it for emotional or physical rewards, and on that horrid April day in 2018, the only rewards were emotional—all stemming from the event’s social nature. For the last few million years humans rarely engaged in hours of moderate to vigorous exertion alone. When hunter-gatherer women forage, they usually go in groups, gossiping and otherwise enjoying each other’s company as they walk to find food, dig tubers, pick berries, and more.
+Because exercise by definition isn’t necessary, we mostly do it for emotional or
+physical rewards, and on that horrid April day in 2018, the only rewards were
+emotional—all stemming from the event’s social nature. For the last few million
+years humans rarely engaged in hours of moderate to vigorous exertion alone.
+When hunter-gatherer women forage, they usually go in groups, gossiping and
+otherwise enjoying each other’s company as they walk to find food, dig tubers,
+pick berries, and more.
 
 
 ### 272 {#272}
 
-One of the most popular is a twelve-step program, “Be as Strong as a Lioness,” that alternates many repetitions of moderate weights with fewer repetitions of heavier weights. Another clever prince writes “Walk, Run, and Live Forever,” a ten-step plan that begins with long walks and then adds short runs that gradually increase to ten miles. Other crowd favorites are “Seven Minutes or Your Life,” which promises “optimal health” from just seven minutes a day of high-intensity interval training, and “Live Longer than a Caveman,” which replicates a paleo fitness regime with barefoot walking, tree climbing, and rock lifting. Yet more plans advocate stretching, swimming, biking, jogging, dancing, boxing, yoga, and even pogo sticking. Some of the prescriptions consider genetic variation, others have different plans for men and women, many are designed to maximize weight loss, and one is cleverly tailored to integrate with a woman’s monthly cycle. While the judges ponder, journalists, bloggers, celebrities, enthusiasts, and trolls fiercely argue the merits of every entry. With each day it seems there is a new consensus favorite.
+One of the most popular is a twelve-step program, “Be as Strong as a Lioness,”
+that alternates many repetitions of moderate weights with fewer repetitions of
+heavier weights. Another clever prince writes “Walk, Run, and Live Forever,” a
+ten-step plan that begins with long walks and then adds short runs that
+gradually increase to ten miles. Other crowd favorites are “Seven Minutes or
+Your Life,” which promises “optimal health” from just seven minutes a day of
+high-intensity interval training, and “Live Longer than a Caveman,” which
+replicates a paleo fitness regime with barefoot walking, tree climbing, and rock
+lifting. Yet more plans advocate stretching, swimming, biking, jogging, dancing,
+boxing, yoga, and even pogo sticking. Some of the prescriptions consider genetic
+variation, others have different plans for men and women, many are designed to
+maximize weight loss, and one is cleverly tailored to integrate with a woman’s
+monthly cycle. While the judges ponder, journalists, bloggers, celebrities,
+enthusiasts, and trolls fiercely argue the merits of every entry. With each day
+it seems there is a new consensus favorite.
 
 what is the best way to exercise
 
 
 ### 274 {#274}
 
-The exercise guru Jack LaLanne (who lived to ninety-six) liked to say, “People don’t die of old age, they die of inactivity.”2 That’s hyperbole, but ever since the dawn of civilization
+The exercise guru Jack LaLanne (who lived to ninety-six) liked to say, “People
+don’t die of old age, they die of inactivity.”2 That’s hyperbole, but ever since
+the dawn of civilization
 
 quote
 
 
 ### 276 {#276}
 
-In 1995 and 1996, all three panels published essentially the same advice: to reduce the overall risk of chronic disease, adults should engage in at least 30 minutes of moderate-intensity exercise at least five times a week.6 They also concluded that children should engage in 60 minutes of physical activity a day. Since then, these prescriptions—150 minutes per week for adults and 60 minutes a day for kids—have been revisited, confirmed, and only slightly modified many times.
+In 1995 and 1996, all three panels published essentially the same advice: to
+reduce the overall risk of chronic disease, adults should engage in at least 30
+minutes of moderate-intensity exercise at least five times a week.6 They also
+concluded that children should engage in 60 minutes of physical activity a day.
+Since then, these prescriptions—150 minutes per week for adults and 60 minutes a
+day for kids—have been revisited, confirmed, and only slightly modified many
+times.
 
 
 ### 277 {#277}
 
-In the end, the 2018 HHS panel concluded that some physical activity is better than none, that more physical activity provides additional health benefits, and that for “substantial health benefits” adults should do at least 150 minutes per week of moderate-intensity or 75 minutes per week of vigorous-intensity aerobic physical activity, or an equivalent combination of the two. (Moderate-intensity aerobic activity is defined as between 50 and 70 percent of your maximum heart rate; vigorous-intensity aerobic activity is 70 to 85 percent of your maximum heart rate.) They also reaffirmed the long-standing recommendation that children need an hour of exercise a day. Finally, they recommended everyone also do some weights twice a week.
+In the end, the 2018 HHS panel concluded that some physical activity is better
+than none, that more physical activity provides additional health benefits, and
+that for “substantial health benefits” adults should do at least 150 minutes per
+week of moderate-intensity or 75 minutes per week of vigorous-intensity aerobic
+physical activity, or an equivalent combination of the two. (Moderate-intensity
+aerobic activity is defined as between 50 and 70 percent of your maximum heart
+rate; vigorous-intensity aerobic activity is 70 to 85 percent of your maximum
+heart rate.) They also reaffirmed the long-standing recommendation that children
+need an hour of exercise a day. Finally, they recommended everyone also do some
+weights twice a week.
 
 
 ### 281 {#281}
 
-However, many other supposedly worrisome risk factors reported in athletes appear to be misinterpretations of evidence by doctors who compare the hearts of athletes with those of “normal” sedentary individuals with no diagnosis of disease. As we have repeatedly seen, being sedentary is by no means normal from an evolutionary perspective, and such individuals are more likely to develop chronic illnesses and die at a younger age than more active people. The medical habit of erroneously considering sedentary individuals “normal” controls has led to some diagnostic blunders such as mistaking normal repair mechanisms for signs of disease. A prime example is coronary calcification.
+However, many other supposedly worrisome risk factors reported in athletes
+appear to be misinterpretations of evidence by doctors who compare the hearts of
+athletes with those of “normal” sedentary individuals with no diagnosis of
+disease. As we have repeatedly seen, being sedentary is by no means normal from
+an evolutionary perspective, and such individuals are more likely to develop
+chronic illnesses and die at a younger age than more active people. The medical
+habit of erroneously considering sedentary individuals “normal” controls has led
+to some diagnostic blunders such as mistaking normal repair mechanisms for signs
+of disease. A prime example is coronary calcification.
 
 
 ### 288 {#288}
 
-HIIT workouts became especially popular among runners and other endurance athletes after the great Finnish middle- and long-distance runner Paavo Nurmi (the “Flying Finn”) trained for and won nine Olympic gold medals in the 1920s by doing short four-hundred-meter runs over and over as fast as he possibly could.
+HIIT workouts became especially popular among runners and other endurance
+athletes after the great Finnish middle- and long-distance runner Paavo Nurmi
+(the “Flying Finn”) trained for and won nine Olympic gold medals in the 1920s by
+doing short four-hundred-meter runs over and over as fast as he possibly could.
 
 
 ### 289 {#289}
 
-Some exercises involve using muscles against an opposing, heavy weight that resists their efforts to contract. It bears repeating that when working against substantial loads, muscles can shorten (concentric contractions), but they are more stressed and grow larger and stronger in response to forceful contractions in which they stay the same length (isometric contractions) or stretch (eccentric contractions)
+Some exercises involve using muscles against an opposing, heavy weight that
+resists their efforts to contract. It bears repeating that when working against
+substantial loads, muscles can shorten (concentric contractions), but they are
+more stressed and grow larger and stronger in response to forceful contractions
+in which they stay the same length (isometric contractions) or stretch
+(eccentric contractions)
 
 
 ### 289 {#289}
 
-In the eighteenth century it was fashionable to lift church bells that were silenced (made “dumb”) by having their clappers removed, hence the term “dumbbells.” Today’s gyms are stocked with an assortment of dumbbells, free weights, and contraptions that can be adjusted to place a constant level of resistance on muscles throughout their entire range of motion.
+In the eighteenth century it was fashionable to lift church bells that were
+silenced (made “dumb”) by having their clappers removed, hence the term
+“dumbbells.” Today’s gyms are stocked with an assortment of dumbbells, free
+weights, and contraptions that can be adjusted to place a constant level of
+resistance on muscles throughout their entire range of motion.
 
 
 ### 290 {#290}
 
-However you do them, resistance activities are critical for maintaining muscle mass, especially fast-twitch fibers that generate strength and power. Resistance exercise can also help prevent bone loss, augment muscles’ ability to use sugar, enhance some metabolic functions, and improve cholesterol levels. As a result, every major medical health organization recommends we supplement cardio with weights, especially as we age. A consensus suggestion is two sessions per week of muscle-strengthening exercises involving all major muscle groups (legs, hips, back, core, shoulders, and arms).
+However you do them, resistance activities are critical for maintaining muscle
+mass, especially fast-twitch fibers that generate strength and power. Resistance
+exercise can also help prevent bone loss, augment muscles’ ability to use sugar,
+enhance some metabolic functions, and improve cholesterol levels. As a result,
+every major medical health organization recommends we supplement cardio with
+weights, especially as we age. A consensus suggestion is two sessions per week
+of muscle-strengthening exercises involving all major muscle groups (legs, hips,
+back, core, shoulders, and arms).
 
 
 ### 297 {#297}
 
-if you were a doctor back in the old days, you’d be a pee connoisseur. As a matter of routine, you would collect your patients’ “liquid gold” to examine its taste, color, smell, and consistency. Much of what doctors discerned from urine was nonsense, but an exception was its sweetness. The English physician Thomas Willis (1621–1675) coined the term “diabetes mellitus” (Latin for “honey sweetened”), what we now call diabetes, from urine that was “wonderfully sweet as if it were imbued with honey or sugar.”
+if you were a doctor back in the old days, you’d be a pee connoisseur. As a
+matter of routine, you would collect your patients’ “liquid gold” to examine its
+taste, color, smell, and consistency. Much of what doctors discerned from urine
+was nonsense, but an exception was its sweetness. The English physician Thomas
+Willis (1621–1675) coined the term “diabetes mellitus” (Latin for “honey
+sweetened”), what we now call diabetes, from urine that was “wonderfully sweet
+as if it were imbued with honey or sugar.”
 
 debetis term
 
 
 ### 298 {#298}
 
-The mechanisms by which physical activity helps prevent and treat type 2 diabetes are well studied. Most basically, exercise (in conjunction with diet) can ameliorate every characteristic of metabolic syndrome including excess organ fat, high blood pressure, and high levels of blood sugar, fat, and cholesterol. In addition, exercise lowers inflammation and counteracts many of the damaging effects of stress. And most remarkably, exercise can reverse insulin resistance by restoring blocked insulin receptors and causing muscle cells to produce more of the transporter molecules that shuttle sugar out of the bloodstream.21 The effect is akin to unclogging a drain and flushing out the pipes. Altogether, by simultaneously improving the delivery, transport, and use of blood sugar, exercise can resuscitate a once resistant muscle cell to suck up as much as fiftyfold more molecules of blood sugar. No drug is so potent.
+The mechanisms by which physical activity helps prevent and treat type 2
+diabetes are well studied. Most basically, exercise (in conjunction with diet)
+can ameliorate every characteristic of metabolic syndrome including excess organ
+fat, high blood pressure, and high levels of blood sugar, fat, and cholesterol.
+In addition, exercise lowers inflammation and counteracts many of the damaging
+effects of stress. And most remarkably, exercise can reverse insulin resistance
+by restoring blocked insulin receptors and causing muscle cells to produce more
+of the transporter molecules that shuttle sugar out of the bloodstream.21 The
+effect is akin to unclogging a drain and flushing out the pipes. Altogether, by
+simultaneously improving the delivery, transport, and use of blood sugar,
+exercise can resuscitate a once resistant muscle cell to suck up as much as
+fiftyfold more molecules of blood sugar. No drug is so potent.
 
 exercise ad diebetes 2
 
 
 ### 342 {#342}
 
-As an example, one worldwide best-selling book claimed that wheat and other foods with gluten cause inflammation of the brain. The data, however, indicate that unless you have celiac disease, eating wheat (especially whole wheat) or other grains will not cause your body, including your brain, to become inflamed unless you eat too much and become obese. For credible, peer-reviewed, evidence-based studies, see Lutsey, P. L., et al. (2007), Whole grain intake and its cross-sectional association with obesity, insulin resistance, inflammation, diabetes, and subclinical CVD: The MESA Study, British Journal of Nutrition 98:397–405; Lefevre, M., and Jonnalagadda, S. (2012), Effect of whole grains on markers of subclinical inflammation, Nutrition Review 70:387–96; Vitaglione, P., et al. (2015), Whole-grain wheat consumption reduces inflammation in a randomized controlled trial on overweight and obese subjects with unhealthy dietary and lifestyle behaviors: Role of polyphenols bound to cereal dietary fiber, American Journal of Clinical Nutrition 101:251–61; Ampatzoglou, A., et al. (2015), Increased whole grain consumption does not affect blood biochemistry, body composition, or gut microbiology in healthy, low-habitual whole grain consumers, Journal of Nutrition 145:215–21.
+As an example, one worldwide best-selling book claimed that wheat and other
+foods with gluten cause inflammation of the brain. The data, however, indicate
+that unless you have celiac disease, eating wheat (especially whole wheat) or
+other grains will not cause your body, including your brain, to become inflamed
+unless you eat too much and become obese. For credible, peer-reviewed,
+evidence-based studies, see Lutsey, P. L., et al. (2007), Whole grain intake and
+its cross-sectional association with obesity, insulin resistance, inflammation,
+diabetes, and subclinical CVD: The MESA Study, British Journal of Nutrition
+98:397–405; Lefevre, M., and Jonnalagadda, S. (2012), Effect of whole grains on
+markers of subclinical inflammation, Nutrition Review 70:387–96; Vitaglione, P.,
+et al. (2015), Whole-grain wheat consumption reduces inflammation in a
+randomized controlled trial on overweight and obese subjects with unhealthy
+dietary and lifestyle behaviors: Role of polyphenols bound to cereal dietary
+fiber, American Journal of Clinical Nutrition 101:251–61; Ampatzoglou, A., et
+al. (2015), Increased whole grain consumption does not affect blood
+biochemistry, body composition, or gut microbiology in healthy, low-habitual
+whole grain consumers, Journal of Nutrition 145:215–21.
 
 inflammation gluten sugar

@@ -1,5 +1,6 @@
 +++
 title = "100 Go Mistakes and how to avoid them"
+author = ["Victor Dorneanu"]
 date = 2022-11-01
 tags = ["book", "todo", "golang"]
 draft = false

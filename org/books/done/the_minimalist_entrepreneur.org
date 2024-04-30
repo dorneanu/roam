@@ -1,6 +1,6 @@
-:PROPERTIES:
-:ID:       48ff2052-dd3b-463f-bf4b-b4a8a1579520
-:END:
+:properties:
+:id:       48ff2052-dd3b-463f-bf4b-b4a8a1579520
+:end:
 #+title: The Minimalist Entrepreneur
 #+filetags: :leadership:entrepreneurship:book:
 #+date: 2024-02-26
@@ -9,7 +9,7 @@
 
 * Chapters
 ** 1 – The Minimalist Entrepreneur
-Don't stop finding the right product (iteration is key!): 
+Don't stop finding the right product (iteration is key!):
 #+begin_quote
 Creator First, Entrepreneur Second On paper, it seems simple enough: Narrow down who your
 ideal customer is. Narrow until you can narrow no more. Define exactly what pain point you
@@ -34,7 +34,7 @@ But what will you say and how will you engage the people you’ve come to know a
 #+end_quote
 
 *** 31
-Teach about everything you know: 
+Teach about everything you know:
 
 #+begin_quote
 They were both doing the work, but Chris was sharing it, while Nathan was not. “I realized I would take on a project, do the work, deliver the project and move on,” he said. “Chris did the same thing, BUT before he moved on, he would teach about everything he learned doing that project. When he could, he shared samples, he wrote tutorials about the code he wrote and any specific methods he went through. He did this with every project. The difference was that all along the way, Chris was teaching everything he knew and I wasn’t.” Since that epiphany, ConvertKit has grown to over $20 million in annual recurring revenue.
@@ -65,7 +65,7 @@ They were both doing the work, but Chris was sharing it, while Nathan was not. �
 - To expand on the concept of community and its power, check out "1,000 True Fans," a blog
   post by Kevin Kelly, where he discusses how creators can make a living by focusing on a
   smaller base of dedicated fans.
-  
+
 - "Get Together," a book by Bailey Richardson, Kai Elmer Sotto, and Kevin Huynh, is
   recommended for further reading on how to build thriving communities.
 
@@ -111,16 +111,20 @@ Read Getting Real, a free “book” about building a web app, by Basecamp, avai
 
 * 74
 
+#+begin_quote
 TAKEAWAYS
 Launches are alluring, but they are one-off events I wouldn’t bet your business on. Instead, wait until you have a product with repeat, paying customers. Then launch by thanking them!
 Selling your product (or process) directly to customers may seem slow, but it is worthwhile. It will lead to a much better product because the sales process will be less about convincing and more about discovery.
 Start by selling to your family and friends before moving on to your communities and, finally, if at all, to total strangers. (The further away from you, the harder they will be to convince.)
 Learn
+#+end_quote
 
 * 74
 
+#+begin_quote
 Ariely.
 Read How to Win Friends and Influence People, by Dale Carnegie, the best book I’ve ever read on “sales.”
+#+end_quote
 
 * 75
 
