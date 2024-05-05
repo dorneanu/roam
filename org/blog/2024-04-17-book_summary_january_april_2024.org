@@ -2,13 +2,13 @@
 :id:       e4ab3903-9c0f-4778-a72e-3fac366f1072
 :end:
 #+setupfile: setup.org
-#+filetags: :summary:
+#+filetags: :books:summary:
 #+title: Book summaries: January - April 2024
-#+created: 2024-04-17
-#+hugo_draft: true
+#+created: 2024-05-05
+#+hugo_draft: false
 
 Inspired by Eli Bendersky's [[https://eli.thegreenplace.net/tag/book-reviews][book reviews]], here are my summaries for the books I've read
-between January and April 2024.
+between *January and April 2024*.
 
 1. 📚 [[https://www.goodreads.com/book/show/55539565-think-again][Think Again: The Power of Knowing What You Don't Know by Adam Grant]]
 
@@ -37,39 +37,40 @@ between January and April 2024.
    gives advice how to master the startup growth, have a fast hiring process, how to
    retain talent and how to scale technology infrastructure to meet increasing demands.
 
-   Although I didn't know what to expect, for my gusto it was way to high-level. However,I
-   liked the chapter about the /technical debt/ and its seven types. I also first learned
-   about DX (Developer Experience) which refers to tools & processes to make it easy to
-   "have highly reliable and reproducible environments and depedency chains"
+   Although I didn't know what to expect, for my taste it was too high-level.
+   However, I liked the chapter about the /technical debt/ and its seven types. I
+   also first learned about DX (Developer Experience) which refers to tools &
+   processes to make it easy to "have highly reliable and reproducible
+   environments and dependency chains".
 
    👉 Read [[https://brainfck.org/book/the-startup-ctos-handbook/][my notes]]
 
 3. 📚 [[https://www.goodreads.com/en/book/show/37570605][Company Of One: Why Staying Small Is the Next Big Thing for Business by Paul Jarvis]]
 
-   I remember [[https://calnewport.com/][Cal Newport]] once mentioned this book in one of [[https://calnewport.com/podcasts/][his episodes]] (this is how I
-   got to read this book). In "Company of One" the capitalistic credo of (continuous)
-   growth is questioned. Instead "companies of one" should intentionally stay small. The
-   main focus here is not the competitor's growth but rather focusing on customer
-   relationships and their own success. Acording to Paul Jarvis, if you're focuing on
-   growth, growth will happen. If you, however, want long-term customers and sales, you
-   should focus on your few customers and their needs. There is absolutely no need for
-   infinite growth just for the sake of getting bigger. 
+   I remember [[https://calnewport.com/][Cal Newport]] once mentioned this book in one of [[https://calnewport.com/podcasts/][his episodes]] (this
+   is how I got to read this book). In "Company of One," the capitalistic credo
+   of (continuous) growth is questioned. Instead, "companies of one" should
+   intentionally stay small. The main focus here is not the competitor's growth
+   but rather focusing on customer relationships and their own success.
+   According to Paul Jarvis, if you're focusing on growth, growth will happen.
+   If you, however, want long-term customers and sales, you should focus on your
+   few customers and their needs. There is absolutely no need for infinite
+   growth just for the sake of getting bigger.
 
    👉 Read [[https://brainfck.org/book/company-of-one/][my notes]]
 
 4. 📚 [[https://www.goodreads.com/en/book/show/56913172][The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia]]
 
-   If you know [[https://gumroad.com/][gumroad]] then you probably also know about [[https://sahillavingia.com/][Sahil Lavingia]] who got by this
-   [[https://sahillavingia.com/reflecting][essay]]. Compared to the previous books on entrepreneurship this focussed more on the
+   If you know [[https://gumroad.com/][Gumroad]] then you probably also know about [[https://sahillavingia.com/][Sahil Lavingia]] who got by this
+   [[https://sahillavingia.com/reflecting][essay]]. Compared to the previous books on entrepreneurship, this focused more on the
    community for which you want to build products. Sahil emphasized the crucial part of
-   identifying your ideal customers and build solutions for their needs. Once you figured
+   identifying your ideal customers and building solutions for their needs. Once you figured
    out your potential customers, it's time to find out if they're willing to pay for your
    solutions:
-
    #+begin_quote
    "A business is a way to solve problems for people your care about - and get paid for it."
    #+end_quote
-   
+
    The author also suggests you first become a creator and then an entrepreneuer. This way
    you should make sure your creativity is unleashed in order to create the best solutions
    for your business.
@@ -78,14 +79,14 @@ between January and April 2024.
 
 5. 📚 [[https://www.goodreads.com/book/show/34921573-lost-connections][Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions by Johann Hari]]
 
-   After having heard a lot about depression, its chemical root causes, the effects on
-   humans in Andrew Huberman's [[https://www.hubermanlab.com/][podcast]] I was more than determined to read this book.
-   Himself having to deal with depression, Johann Hari takes a journey to find out more
-   about the mental ilness that caused him to take pills (a la Prozac) and soon to find
-   out they weren't a long-term solution. What if depression was not solely caused by some
-   "imbalance of serotonin" in your brain? What if depression was merely a mix of
-   environmental factors, childhood traumata and predispotition (genes) to some behavioral
-   patterns
+   After having heard a lot about depression, its chemical root causes, the
+   effects on humans in Andrew Huberman's [[https://www.hubermanlab.com/][podcast]] I was more than determined to
+   read this book. Himself having to deal with depression, Johann Hari takes a
+   journey to find out more about the mental illness that caused him to take
+   pills (a la Prozac) and soon to find out they weren't a long-term solution.
+   What if depression was not solely caused by some "imbalance of serotonin" in
+   your brain? What if depression was merely a mix of environmental factors,
+   childhood traumata, and predisposition (genes) to some behavioral patterns?
 
    Hari comes up with 9 causes for depression: /Disconnection/ from 1) meaningful work, 2)
    from other people, 3) from meaningful values, 4) childhood traume, 5) from status and
@@ -106,21 +107,44 @@ between January and April 2024.
 
 6. 📚 [[https://www.goodreads.com/en/book/show/23692271][Sapiens: A Brief History of Humankind by Yuval Noah Harari]]
 
-   During the pandemic a friend of mine recommended Harari to me and last year I've read
-   {{{zk_book(21-lessons-for-the-21st-century, 21 Lessons for the 21st Century)}}} by the same
-   author. His thoughts immediately resonated with me so I (chrnologically backwars)
-   started to read his other master pieces.
+   During the pandemic, a friend of mine recommended Harari to me and last year I
+   read {{{zk_book(21-lessons-for-the-21st-century, 21 Lessons for the 21st
+   Century)}}} by the same author. His thoughts immediately resonated with me so I
+   (chronologically backwards) started to read his other masterpieces.
 
-   From time to time there has been some criticism about Harari and his critism of
-   today's humankind. Nevertheless, I think the book is an excellent journey how /homo
-   sapiens/ managed to dominate the world, organize in groups, come up with financial,
-   economic, political systems. For me it has been an extraordinary time travel which made
-   me understand our world's mechanics.
+   From time to time, there has been some criticism about Harari and his criticism
+   of today's humankind. Nevertheless, I think the book is an excellent journey of
+   how =homo sapiens= managed to dominate the world, organize in groups, come up with
+   financial, economic, and political systems. For me, it has been an extraordinary
+   time travel which made me understand our world's mechanics.
 
 7. 📚 [[https://www.goodreads.com/en/book/show/57933306][Stolen Focus: Why You Can't Pay Attention - and How to Think Deeply Again by Johann Hari]]
-   - {{{zk_topic(attention-economy,Attention Economy)}}}
-   - 
-   👉 Read [[https://brainfck.org/book/stolen-focus/][my notes]] 
+
+   Ever since I've read about the {{{zk_topic(attention-economy,Attention Economy)}}}
+   (first in {{{zk_book(digital-minimalism,Digital Minimalism)}}}) I knew there is a
+   whole (social media) industry whose main purpose is to monetize *our* time
+   spent on their platforms. The more time we spend, the more ads can be shown,
+   the more money can be generated.
+
+   But this is just one reason we cannot *focus* anymore. Among the increased amount
+   of information our brain has to deal with every day, technology that uses
+   insights from behavioral psychology to capture your attention, the collapse of
+   sustained reading (books!) the Hari makes an interesting point:
+
+   #+begin_quote
+   So we aren’t just facing a crisis of lost spotlight focus – we are facing a crisis of lost mind-wandering.
+   #+end_quote
+
+   Not only have we lost our ability to focus for a longer period of time, but
+   we also no longer allow our minds to wander, which is crucial.
+
+   #+begin_quote
+   [...] rapidly switching between tasks, and I realised that in our current
+   culture, most of the time we’re not focusing, but we’re not mind-wandering
+   either. We’re constantly skimming, in an unsatisfying whirr.
+   #+end_quote
+
+   👉 Read [[https://brainfck.org/book/stolen-focus/][my notes]]
 
 Some other small books:
 
