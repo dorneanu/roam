@@ -1,6 +1,6 @@
-:PROPERTIES:
-:ID:       794fe4d2-6c9b-4f95-9d27-9aba13a3c0b2
-:END:
+:properties:
+:id:       794fe4d2-6c9b-4f95-9d27-9aba13a3c0b2
+:end:
 #+created: 20200908112114494
 #+modified: 20210518184432912
 #+revision: 0
@@ -9,6 +9,7 @@
 #+type: text/vnd.tiddlywiki
 
 * Articles
+- 2024-05-06 ◦ [[https://aws.amazon.com/blogs/industries/how-livewell-by-zurich-leverages-serverless-architecture-to-build-scalable-and-cost-effective-digital-health-platforms/][How LiveWell by Zurich leverages serverless architecture to build scalable and cost-effective digital health platforms | AWS for Industries]]
 - 2023-05-15 ◦ [[https://dev.to/aws-builders/serverless-a-ctos-perspective-3hpc][Serverless, a CTO’s Perspective - DEV Community]]
   #+begin_quote
   As many others have stated, it's *not the absence of servers* that makes it

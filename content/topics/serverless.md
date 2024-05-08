@@ -1,10 +1,12 @@
 +++
 title = "Serverless"
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
 ## Articles {#articles}
 
+-   2024-05-06 ◦ [How LiveWell by Zurich leverages serverless architecture to build scalable and cost-effective digital health platforms | AWS for Industries](https://aws.amazon.com/blogs/industries/how-livewell-by-zurich-leverages-serverless-architecture-to-build-scalable-and-cost-effective-digital-health-platforms/)
 -   2023-05-15 ◦ [Serverless, a CTO’s Perspective - DEV Community](https://dev.to/aws-builders/serverless-a-ctos-perspective-3hpc)
 
     > As many others have stated, it's **not the absence of servers** that makes it
