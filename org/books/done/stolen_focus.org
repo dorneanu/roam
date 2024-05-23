@@ -12,261 +12,66 @@
 *** 29
 
 #+begin_quote
-It’s when you set aside your distractions, he said, that you begin to see what you were distracting yourself from.
+It’s when you set aside your distractions, he said, that you begin to see what
+you were distracting yourself from.
 #+end_quote
 
 *** 34
 
 #+begin_quote
-What they discovered is that there is one mechanism that can make this happen every time. You just have to flood the system with more information. The more information you pump in, the less time people can focus on any individual piece of it.
+What they discovered is that there is one mechanism that can make this happen every time.
+You just have to flood the system with more information. The more information you pump in,
+the less time people can focus on any individual piece of it.
 #+end_quote
-
-c1
-
-wha
 
 *** 35
 
 #+begin_quote
-Shortly before I met with him, Sune had seen a photograph of Mark Zuckerberg, the founder of Facebook, standing in front of a room of people who were all wearing virtual-reality headsets. He was the only person standing in actual reality, looking at them, smiling, pacing proudly around. When he saw it, Sune said, ‘I was like – holy shit, this is a metaphor for the future.’ If we don’t change course, he fears we are headed towards a world where ‘there’s going to be an upper class of people that are very aware’ of the risks to their attention and find ways to live within their limits, and then there will be the rest of the society with ‘fewer resources to resist the manipulation, and they’re going to be living more and more inside their computers, being manipulated more and more’.
+Shortly before I met with him, Sune had seen a photograph of Mark Zuckerberg, the founder
+of Facebook, standing in front of a room of people who were all wearing virtual-reality
+headsets. He was the only person standing in actual reality, looking at them, smiling,
+pacing proudly around. When he saw it, Sune said, ‘I was like – holy shit, this is a
+metaphor for the future.’ If we don’t change course, he fears we are headed towards a
+world where ‘there’s going to be an upper class of people that are very aware’ of the
+risks to their attention and find ways to live within their limits, and then there will be
+the rest of the society with ‘fewer resources to resist the manipulation, and they’re
+going to be living more and more inside their computers, being manipulated more and more’.
 #+end_quote
-
-c1
 
 *** 37
 
-#+begin_quote
-One of the leading experts on this topic is Guy Claxton, professor of learning sciences at the University of Winchester, who I went to interview in Sussex, in England. He has analysed what happens to a person’s focus if they engage in deliberately slow practices, like yoga, or tai chi, or meditation, as discovered in a broad range of scientific studies, and he has shown they improve your ability to pay attention by a significant amount. I asked him why. He said that ‘we have to shrink the world to fit our cognitive bandwidth’. If you go too fast, you overload your abilities, and they degrade. But when you practise moving at a speed that is compatible with human nature – and you build that into your daily life – you begin to train your attention and focus. ‘That’s why those disciplines make you smarter. It’s not about humming or wearing orange robes.’ Slowness, he explained, nurtures attention, and speed shatters it.
-#+end_quote
+On cognitive bandwidth:
 
-c1
+#+begin_quote
+One of the leading experts on this topic is Guy Claxton, professor of learning sciences at
+the University of Winchester, who I went to interview in Sussex, in England. He has
+analysed what happens to a person’s focus if they engage in deliberately slow practices,
+like yoga, or tai chi, or meditation, as discovered in a broad range of scientific
+studies, and he has shown they improve your ability to pay attention by a significant
+amount. I asked him why. He said that ‘*we have to shrink the world to fit our cognitive
+bandwidth*’. If you go too fast, you overload your abilities, and they degrade. But when
+you practise moving at a speed that is compatible with human nature – and you build that
+into your daily life – you begin to train your attention and focus. ‘That’s why those
+disciplines make you smarter. It’s not about humming or wearing orange robes.’ Slowness,
+he explained, nurtures attention, and speed shatters it.
+#+end_quote
 
 ** 2 Cause Two: The Crippling of Our Flow States
 *** 47
+Narcissism as a corruption of attention:
 
 #+begin_quote
-I felt like everywhere I went, I was surrounded by people who were broadcasting but not receiving. Narcissism, it occurred to me, is a corruption of attention – it’s where your attention becomes turned in only on yourself and your own ego. I don’t say this with any sense of superiority. I
+I felt like everywhere I went, I was surrounded by people who were broadcasting but not
+receiving. Narcissism, it occurred to me, is a corruption of attention – it’s where your
+attention becomes turned in only on yourself and your own ego. I don’t say this with any
+sense of superiority. 
 #+end_quote
 
-c2
 
 ** 3 Cause Three: The Rise of Physical and Mental Exhaustion
 ** 4 Cause Four: The Collapse of Sustained Reading
-** 5 Cause Five: The Disruption of Mind-Wandering
-** 6 Cause Six: The Rise of Technology That Can Track and Manipulate You (Part One)
-** 7 Cause Six: The Rise of Technology That Can Track and Manipulate You (Part Two)
-** 8 Cause Seven: The Rise of Cruel Optimism
-** 9 The First Glimpses of the Deeper Solution
-** 10 Cause Eight: The Surge in Stress and How It Is Triggering Vigilance
-** 11 The Places That Figured Out How to Reverse the Surge in Speed and Exhaustion
-** 12 Causes Nine and Ten: Our Deteriorating Diets and Rising Pollution
-** 13 Cause Eleven: The Rise of ADHD and How We Are Responding to It
-** 14 Cause Twelve: The Confinement of Our Children, Both Physically and Psychologically
-** Conclusion Attention Rebellion
-** Groups Already Fighting to Improve Attention
-
-toc
-
-* Unsorted
-** 16
-
-#+begin_quote
-I also learned that the evidence about where these trends are taking us is
-stark. For example, a small study investigated how often an average American
-college student actually pays attention to anything, so the scientists involved
-put tracking software on their computers and monitored what they did in a
-typical day. They discovered that, on average, a student would switch task once
-every sixty-five seconds. The median amount of time they focused on any one
-thing was just nineteen seconds. If you’re an adult and tempted to feel
-superior, hold off. A different study by Gloria Mark, professor of infomatics at
-the University of California, Irvine – who I interviewed – observed how long on
-average an adult working in an office stays on one task. It was three minutes.
-#+end_quote
-
-** 17
-
-#+begin_quote
-He told me that after studying this topic for decades, he believes we need to
-ask if we are now developing ‘an attentional pathogenic culture’ – an
-environment in which sustained and deep focus is extremely hard for all of us,
-and you have to swim upstream to achieve it.
-#+end_quote
-
-** 58
-
-#+begin_quote
-‘To have a good life, it is not enough to remove what is wrong with it,’ Mihaly
-has explained. ‘We also need a positive goal; otherwise why keep going?
-#+end_quote
-
-** 67
-
-#+begin_quote
-Throughout the day, in your brain, a chemical is building up called adenosine,
-and it signals to you when you are sleepy. Caffeine blocks the receptor that
-picks up on the level of adenosine. ‘I liken it to putting a Post-it note over
-your fuel-gauge indicator. You’re not giving yourself more energy – you’re just
-not realising how empty you are. When the caffeine wears off, you’re doubly
-exhausted.’
-#+end_quote
-
-** 68
-
-#+begin_quote
-One of the things that happens is that during sleep, your brain cleans itself of
-waste that has accumulated during the day. ‘During slow-wave sleep, your
-cerebral spinal fluid channels open up more and remove metabolic waste from your
-brain,’ Roxanne explained to me. Every night, when you go to sleep, your brain
-is rinsed with a watery fluid. This cerebrospinal fluid washes through your
-brain, flushing out toxic proteins and carrying them down to your liver to get
-rid of them.
-#+end_quote
-
-** 76
-
-#+begin_quote
-Anne Mangen is a professor of literacy at Stavanger University in Norway, and
-she explained to me that in two decades of researching this subject, she has
-proved something crucial. Reading books trains us to read in a particular way –
-in a linear fashion, focused on one thing for a sustained period. Reading from
-screens, she has discovered, trains us to read in a different way – in a manic
-skip and jump from one thing to another.
-#+end_quote
-
-** 77
-
-#+begin_quote
-‘We’re more likely to scan and skim’ when we read on screens, her studies have
-found – we run our eyes rapidly over the information to extract what we need.
-But after a while, if we do this long enough, she told me that ‘this scanning
-and skimming bleeds over. It also starts to colour or influence how we read on
-paper … That behaviour also becomes our default, more or less.
-#+end_quote
-
-** 77
-
-#+begin_quote
-As she spoke, I realised that the collapse in reading books is in some ways a
-symptom of our atrophying attention, and in some ways a cause of it. It’s a
-spiral – as we began to move from books to screens, we started to lose some of
-the capacity for the deeper reading that comes from books, and that, in turn,
-made us less likely to read books.
-#+end_quote
-
-** 78
-
-#+begin_quote
-by Nicholas Carr in his book. In the 1960s, the Canadian professor Marshall
-McLuhan talked a lot about how the arrival of television was transforming the
-way we see the world. He said these changes were so deep and so profound that it
-was hard to really see them. When he tried to distil this down into a phrase, he
-explained that ‘the medium is the message’. What he meant, I think, was that
-when a new
-#+end_quote
-
-** 78
-
-#+begin_quote
-Every time a new medium comes along – whether it’s the invention of the printed
-book, or TV, or Twitter – and you start to use it, it’s like you are putting on
-a new kind of goggles, each with their own special colours and lenses. Each set
-of goggles you put on makes you see things differently.
-#+end_quote
-
-** 79
-
-#+begin_quote
-How about Instagram? First: what matters is how you look on the outside. Second:
-what matters is how you look on the outside. Third: what matters is how you look
-on the outside. Fourth: what matters is whether people like how you look on the
-outside. (I don’t mean this glibly or sarcastically: that really is the message
-the site offers.
-#+end_quote
-
-** 79
-
-#+begin_quote
-This made me wonder what the message is that we absorb from social media, and
-how it compares to the message that we absorb from printed books. I thought
-first of Twitter. When you log in to that site – it doesn’t matter whether you
-are Donald Trump or Bernie Sanders or Bubba the Love Sponge – you are absorbing
-a message through that medium and sending it out to your followers. What is that
-message? First: that you shouldn’t focus on any one thing for long. The world
-can and should be understood in short, simple statements of 280 characters.
-Second: the world should be interpreted and confidently understood very quickly.
-Third: what matters most is whether people immediately agree with and applaud
-your short, simple, speedy statements. A successful statement is one that lots
-of people immediately applaud; an unsuccessful statement is one that people
-immediately ignore or condemn. When you tweet, before you say anything else, you
-are saying that at some level you agree with these three premises. You are
-putting on those goggles and seeing the world through them.
-#+end_quote
-
-** 79
-
-#+begin_quote
-How about Facebook? What’s the message in that medium? It seems to be first:
-your life exists to be displayed to other people, and you should be aiming every
-day to show your friends edited highlights of your life. Second: what matters is
-whether people immediately like these edited and carefully selective highlights
-that you spend your life crafting. Third: somebody is your ‘friend’ if you
-regularly look at their edited highlight reels, and they look at yours – this is
-what friendship means.
-#+end_quote
-
-** 86
-
-#+begin_quote
-Attention is usually defined as a person’s ability to selectively attend to
-something in the environment. So when I said I was distracted, I meant that I
-couldn’t narrow the spotlight of my attention down to the one thing I want to
-focus on.
-#+end_quote
-
-** 86
-
-#+begin_quote
-In 1890 the founder of modern American psychology, William James, wrote – in the
-most influential text ever (in the Western world, at least) on this subject –
-that ‘everyone knows what attention is’. Attention, he said, is a spotlight. To
-put it in our terms, it’s the moment Beyoncé appears, alone, on the stage, and
-everyone else around you seems to vanish.
-#+end_quote
-
-c5
-
-** 87
-
-#+begin_quote
-On long train or bus journeys, whenever I would see somebody just sit there for
-six hours, doing nothing but stare out of the window, I would feel an urge to
-lean over to them and say, ‘I’m sorry to disturb you. It’s none of my business,
-but I just wanted to check – you do realise that you have a limited amount of
-time in which to be alive, and the clock counting down towards death is
-constantly ticking, and you’ll never get back these six hours you are spending
-doing nothing at all? And when you are dead, you’ll be dead forever? You know
-that, right?
-#+end_quote
-
-** 89
-
-#+begin_quote
-three crucial things that are happening during mind-wandering.
-#+end_quote
-
-** 89
-
-#+begin_quote
-Their brains, it seemed, were not inactive, as his med-school tutors had said
-they should be. Activity had shifted from one part of the brain to another – but
-the brain was still highly active. Surprised, he began to study this in detail.
-He named the region of the brain that becomes more active when you think you’re
-not doing much ‘the default mode network’
-#+end_quote
-
-link zum zk
-
-** 89
+*** 89
+Reading books:
 
 #+begin_quote
 Firstly, you are slowly making sense of the world. Jonathan gave me an example.
@@ -287,7 +92,68 @@ to understand a book.
 
 what reading is about;roam as a term has to do w mental space
 
-** 90
+** 5 Cause Five: The Disruption of Mind-Wandering
+*** 86
+
+#+begin_quote
+In 1890 the founder of modern American psychology, William James, wrote – in the
+most influential text ever (in the Western world, at least) on this subject –
+that ‘everyone knows what attention is’. Attention, he said, is a spotlight. To
+put it in our terms, it’s the moment Beyoncé appears, alone, on the stage, and
+everyone else around you seems to vanish.
+#+end_quote
+
+c5
+
+*** 86
+
+#+begin_quote
+Attention is usually defined as a person’s ability to selectively attend to
+something in the environment. So when I said I was distracted, I meant that I
+couldn’t narrow the spotlight of my attention down to the one thing I want to
+focus on.
+#+end_quote
+
+*** 87
+
+#+begin_quote
+On long train or bus journeys, whenever I would see somebody just sit there for
+six hours, doing nothing but stare out of the window, I would feel an urge to
+lean over to them and say, ‘I’m sorry to disturb you. It’s none of my business,
+but I just wanted to check – you do realise that you have a limited amount of
+time in which to be alive, and the clock counting down towards death is
+constantly ticking, and you’ll never get back these six hours you are spending
+doing nothing at all? And when you are dead, you’ll be dead forever? You know
+that, right?
+#+end_quote
+
+*** TODO 89
+
+#+begin_quote
+three crucial things that are happening during mind-wandering.
+#+end_quote
+
+*** 89
+
+#+begin_quote
+Their brains, it seemed, were not inactive, as his med-school tutors had said
+they should be. Activity had shifted from one part of the brain to another – but
+the brain was still highly active. Surprised, he began to study this in detail.
+He named the region of the brain that becomes more active when you think you’re
+not doing much ‘the [[id:d0ac1661-b81c-453d-9b49-4a08c58beafa][default mode network]]’
+#+end_quote
+
+link zum zk
+
+**** 93
+
+#+begin_quote
+him, Marcus Raichle
+#+end_quote
+
+researcer.default network mode
+
+*** 90
 
 #+begin_quote
 has found that the more you let your mind wander, the better you are at having
@@ -296,14 +162,14 @@ decisions. You will be able to do these things better if you let your mind
 drift, and slowly, unconsciously, make sense of your life.
 #+end_quote
 
-** 90
+*** 90
 
 #+begin_quote
 Secondly, when your mind wanders, it starts to make new connections between
 things – which often produces a solution to your problems.
 #+end_quote
 
-** 91
+*** 91
 
 #+begin_quote
 Thirdly, during mind-wandering, your mind will – Nathan said – engage in ‘mental
@@ -313,7 +179,7 @@ you, your mind will start to think about what might come next – and so it will
 help to prepare you for it.
 #+end_quote
 
-** 91
+*** 91
 
 #+begin_quote
 ‘Creativity is not [where you create] some new thing that’s emerged from your
@@ -324,7 +190,7 @@ unfold, which allows for more associations to be made.’
 
 link zu other defs of creativiyy
 
-** 92
+*** 92
 
 #+begin_quote
 All this frenetic digital interruption is ‘pulling our attention away from our
@@ -334,14 +200,14 @@ distraction to the next.’ If you don’t remove yourself from that, it will
 ‘suppress whatever train of thought you had’.
 #+end_quote
 
-** 92
+*** 92
 
 #+begin_quote
 So we aren’t just facing a crisis of lost spotlight focus – we are facing a
 crisis of lost mind-wandering.
 #+end_quote
 
-** 92
+*** 92
 
 #+begin_quote
 how we spend our time rapidly switching between tasks, and I realised that in
@@ -349,15 +215,8 @@ our current culture, most of the time we’re not focusing, but we’re not
 mind-wandering either. We’re constantly skimming, in an unsatisfying whirr.
 #+end_quote
 
-** 93
-
-#+begin_quote
-him, Marcus Raichle
-#+end_quote
-
-researcer.default network mode
-
-** 101
+** 6 Cause Six: The Rise of Technology That Can Track and Manipulate You (Part One)
+*** 101
 
 #+begin_quote
 One of the texts that most struck Tristan was based on the philosophy of B.F.
@@ -367,7 +226,7 @@ and rats and pigs to do whatever he wanted by offering the right
 ideas were back with full force.
 #+end_quote
 
-** 114
+*** 114
 
 #+begin_quote
 One day, James Williams – the former Google strategist I met – addressed an
@@ -376,7 +235,7 @@ audience of hundreds of leading tech designers and asked them a simple question.
 silence in the room. People looked around them. Nobody put up their hand.
 #+end_quote
 
-** 114
+*** 114
 
 #+begin_quote
 Many Silicon Valley insiders predicted that it would only get worse. One of its
@@ -386,7 +245,7 @@ technological progress in general, the world will get more addictive in the next
 forty years than it did in the last forty.’
 #+end_quote
 
-** 115
+*** 115
 
 #+begin_quote
 but it won’t alert you to the physical proximity of somebody you might want to
@@ -412,7 +271,7 @@ advertisements you see. Advertisers pay Facebook to get to you and your
 eyeballs.
 #+end_quote
 
-** 117
+*** 117
 
 #+begin_quote
 This is the business model that built and sustains the sites on which we spend
@@ -420,7 +279,7 @@ so much of our lives. The technical term for this system – coined by the
 brilliant Harvard Professor Shoshana Zuboff – is ‘surveillance capitalism’.
 #+end_quote
 
-** 121
+*** 121
 
 #+begin_quote
 On average, we will stare at something negative and outrageous for a lot longer
@@ -437,7 +296,7 @@ body of evidence. It’s called ‘negativity bias’.
 
 tendency to watch more bad news
 
-** 123
+*** 123
 
 #+begin_quote
 First, these sites and apps are designed to train our minds to crave frequent
@@ -491,7 +350,7 @@ through it slowly.
 
 rephrase w gpt
 
-** 125
+*** 125
 
 #+begin_quote
 As a result, we are being pushed all the time to pay attention to nonsense –
@@ -502,7 +361,99 @@ Soros, or that there’s no such thing as the ozone layer anyway, or that the
 holes were really being made by Jewish space lasers.
 #+end_quote
 
-** 141
+*** 143
+
+#+begin_quote
+‘You can try having self-control, but there are a thousand engineers on the
+other side of the screen working against you.
+#+end_quote
+
+*** 145
+Surveillance capitalism
+
+#+begin_quote
+In practice, the day after a ban, these companies would have to find different
+ways to fund themselves. There is one model that is obvious, and an alternative
+form of capitalism that everyone reading this will have some experience of –
+subscription. Let’s imagine each of us had to pay fifty cents or a dollar every
+month to use Facebook. Suddenly, Facebook would no longer be working for
+advertisers and offering up your secret wishes and preferences as their real
+product. No. It would be working for you. Its job – for the first time – would
+be to actually figure out what makes you happy, and to give it to you – instead
+of figuring out what makes advertisers happy, and how they can manipulate you to
+give it to them. So if, like most people, you want to be able to focus, the site
+would have to be redesigned to facilitate that. If you want to be socially
+connected, instead of isolated in front of your screen, it would have to figure
+out how to make that possible.
+#+end_quote
+
+** 7 Cause Six: The Rise of Technology That Can Track and Manipulate You (Part Two)
+*** 151
+
+#+begin_quote
+The unit was called Common Ground. After studying all the hidden data – the
+stuff that Facebook doesn’t release to the public – the company’s scientists
+reached a definite conclusion. They wrote: ‘Our algorithms exploit the human
+brain’s attraction to divisiveness,’ and ‘if left unchecked’, the site would
+continue to pump its users with ‘more and more divisive content in an effort to
+gain user attention and increase time on the platform’. A separate internal
+Facebook team, whose work also leaked to the Journal, had independently reached
+the same conclusions. They found that 64 percent of all the people joining
+extremist groups were finding their way to them because Facebook’s algorithms
+were directly recommending them. This meant across the world, people were seeing
+in their Facebook feeds racist, fascist and even Nazi groups next to the words:
+‘Groups You Should Join.’ They warned that in Germany, one-third of all the
+political groups on the site were extremist. Facebook’s own team was blunt,
+concluding: ‘Our recommendation systems grow the problem.
+#+end_quote
+
+*** 152
+
+#+begin_quote
+Once Facebook was shown – in plain language, by their own people – what they
+were doing, how did the company’s executives respond? According to the Journal’s
+in-depth reporting, they mocked the research, calling it an ‘Eat Your Veggies’
+approach. They introduced some minor tweaks, but dismissed most of the
+recommendations. The Common Ground team was disbanded and has ceased to exist.
+The Journal reported dryly: ‘Zuckerberg also signalled he was losing interest in
+the effort to recalibrate the platform in the name of the social good … asking
+that they not bring him something like that again.’ I read this and I thought of
+my friend Raull Santiago, in his favela in Rio, being terrorised by helicopters
+sent by the far-right government that was elected with the help of these
+algorithms – algorithms so powerful that Bolsonaro’s supporters responded to his
+victory by chanting, ‘Facebook! Facebook!’ I realised that if Facebook won’t
+change the fact that their algorithm unintentionally promotes fascism – that it
+promotes Nazism in Germany – they will never care about protecting your focus
+and attention. These companies will never restrain themselves. The risks of
+letting them continue behaving the way they have are greater than the risks of
+overreacting. They have to be stopped. They have to be stopped by us.
+#+end_quote
+
+*** 175
+
+#+begin_quote
+Something similar has been tried in many other places, and even though the
+experiments are quite different, they keep finding similar outcomes. In 1920s
+Britain, W. G. Kellogg – the manufacturer of cereals – cut his staff from an
+eight-hour day to a six-hour day, and workplace accidents (a good measure of
+attention) fell by 41 percent. In 2019 in Japan, Microsoft moved to a four-day
+week, and they reported a 40 percent improvement in productivity. In Gothenberg
+in Sweden around the same time, a care home for elderly people went from an
+eight-hour day to a six-hour day with no loss of pay, and as a result, their
+workers slept more, experienced less stress, and took less time off sick. In the
+same city, Toyota cut two hours per day off the work week, and it turned out
+their mechanics produced 114 percent of what they had before, and profits went
+up by 25 percent.
+#+end_quote
+
+examples
+
+** 8 Cause Seven: The Rise of Cruel Optimism
+** 9 The First Glimpses of the Deeper Solution
+** 10 Cause Eight: The Surge in Stress and How It Is Triggering Vigilance
+** 11 The Places That Figured Out How to Reverse the Surge in Speed and Exhaustion
+** 12 Causes Nine and Ten: Our Deteriorating Diets and Rising Pollution
+*** 141
 
 #+begin_quote
 How is that working out for us? The scientists who have studied it discovered
@@ -526,7 +477,7 @@ us will find ourselves back at the bottom, feeling like it’s our fault.
 
 personal responsibilty is getting us nowehere
 
-** 142
+*** 142
 
 #+begin_quote
 We could have looked instead at what does work: changing the environment in
@@ -544,7 +495,7 @@ been put instead into demanding these political changes, there would be far less
 obesity now, and a lot less misery.
 #+end_quote
 
-** 142
+*** 142
 
 #+begin_quote
 There was a different way we could have reacted to the obesity crisis when it
@@ -555,94 +506,7 @@ long, except in one in twenty cases like Nir’s.
 
 systemic analysis is missing
 
-** 143
-
-#+begin_quote
-‘You can try having self-control, but there are a thousand engineers on the
-other side of the screen working against you.
-#+end_quote
-
-** 145
-
-#+begin_quote
-In practice, the day after a ban, these companies would have to find different
-ways to fund themselves. There is one model that is obvious, and an alternative
-form of capitalism that everyone reading this will have some experience of –
-subscription. Let’s imagine each of us had to pay fifty cents or a dollar every
-month to use Facebook. Suddenly, Facebook would no longer be working for
-advertisers and offering up your secret wishes and preferences as their real
-product. No. It would be working for you. Its job – for the first time – would
-be to actually figure out what makes you happy, and to give it to you – instead
-of figuring out what makes advertisers happy, and how they can manipulate you to
-give it to them. So if, like most people, you want to be able to focus, the site
-would have to be redesigned to facilitate that. If you want to be socially
-connected, instead of isolated in front of your screen, it would have to figure
-out how to make that possible.
-#+end_quote
-
-solution for surveillance capitalism
-
-** 151
-
-#+begin_quote
-The unit was called Common Ground. After studying all the hidden data – the
-stuff that Facebook doesn’t release to the public – the company’s scientists
-reached a definite conclusion. They wrote: ‘Our algorithms exploit the human
-brain’s attraction to divisiveness,’ and ‘if left unchecked’, the site would
-continue to pump its users with ‘more and more divisive content in an effort to
-gain user attention and increase time on the platform’. A separate internal
-Facebook team, whose work also leaked to the Journal, had independently reached
-the same conclusions. They found that 64 percent of all the people joining
-extremist groups were finding their way to them because Facebook’s algorithms
-were directly recommending them. This meant across the world, people were seeing
-in their Facebook feeds racist, fascist and even Nazi groups next to the words:
-‘Groups You Should Join.’ They warned that in Germany, one-third of all the
-political groups on the site were extremist. Facebook’s own team was blunt,
-concluding: ‘Our recommendation systems grow the problem.
-#+end_quote
-
-** 152
-
-#+begin_quote
-Once Facebook was shown – in plain language, by their own people – what they
-were doing, how did the company’s executives respond? According to the Journal’s
-in-depth reporting, they mocked the research, calling it an ‘Eat Your Veggies’
-approach. They introduced some minor tweaks, but dismissed most of the
-recommendations. The Common Ground team was disbanded and has ceased to exist.
-The Journal reported dryly: ‘Zuckerberg also signalled he was losing interest in
-the effort to recalibrate the platform in the name of the social good … asking
-that they not bring him something like that again.’ I read this and I thought of
-my friend Raull Santiago, in his favela in Rio, being terrorised by helicopters
-sent by the far-right government that was elected with the help of these
-algorithms – algorithms so powerful that Bolsonaro’s supporters responded to his
-victory by chanting, ‘Facebook! Facebook!’ I realised that if Facebook won’t
-change the fact that their algorithm unintentionally promotes fascism – that it
-promotes Nazism in Germany – they will never care about protecting your focus
-and attention. These companies will never restrain themselves. The risks of
-letting them continue behaving the way they have are greater than the risks of
-overreacting. They have to be stopped. They have to be stopped by us.
-#+end_quote
-
-** 175
-
-#+begin_quote
-Something similar has been tried in many other places, and even though the
-experiments are quite different, they keep finding similar outcomes. In 1920s
-Britain, W. G. Kellogg – the manufacturer of cereals – cut his staff from an
-eight-hour day to a six-hour day, and workplace accidents (a good measure of
-attention) fell by 41 percent. In 2019 in Japan, Microsoft moved to a four-day
-week, and they reported a 40 percent improvement in productivity. In Gothenberg
-in Sweden around the same time, a care home for elderly people went from an
-eight-hour day to a six-hour day with no loss of pay, and as a result, their
-workers slept more, experienced less stress, and took less time off sick. In the
-same city, Toyota cut two hours per day off the work week, and it turned out
-their mechanics produced 114 percent of what they had before, and profits went
-up by 25 percent.
-#+end_quote
-
-examples
-
-** 186
+*** 186
 
 #+begin_quote
 That’s the magic bullet – just go back to whole foods. Foods as they were
@@ -653,7 +517,7 @@ front, and the meat and fish at the back. The stuff in the middle, he warned,
 isn’t really food at
 #+end_quote
 
-** 188
+*** 188
 
 #+begin_quote
 The form of pollution we, as ordinary citizens, know most about is in the air
@@ -673,7 +537,7 @@ your genetic susceptibility, eventually, over time, your brain cells will be
 damaged.
 #+end_quote
 
-** 190
+*** 190
 
 #+begin_quote
 This seemed really daunting. It told me there’s a focus-killer literally all
@@ -696,7 +560,7 @@ petrol was developed had outbreaks of staff members going violently insane and
 dying because of their exposure to it.
 #+end_quote
 
-** 193
+*** 193
 
 #+begin_quote
 But Barbara Demeneix warned me that since then, ‘there are so many other
@@ -715,7 +579,8 @@ found that exposure to the chemical predicts which of them will have kids with
 behaviour problems.
 #+end_quote
 
-** 197
+** 13 Cause Eleven: The Rise of ADHD and How We Are Responding to It
+*** 197
 
 #+begin_quote
 When it comes to our own attention problems as adults, we often readily
@@ -733,7 +598,8 @@ children who struggle to focus are like Emma the beagle, and are being medicated
 
 environmetal influence on kids
 
-** 224
+** 14 Cause Twelve: The Confinement of Our Children, Both Physically and Psychologically
+*** 224
 
 #+begin_quote
 Isabel told me the schools squeezing out play are ‘making a huge mistake’. She
@@ -750,7 +616,7 @@ critically. All these things are trained through play. So it’s so misguided,
 it’s unbelievable.
 #+end_quote
 
-** 228
+*** 228
 
 #+begin_quote
 Every child, when they go out into the world, is given a card to show to any
@@ -761,14 +627,14 @@ parent with you every second? And with today’s crime rate back to what it was 
 1963, it is safer to play outside now than when you were at my age. Let me grow.
 #+end_quote
 
-** 231
+*** 231                                                             :quote:
 
 #+begin_quote
 something the writer Neale Donald Walsch wrote – ‘life begins at the edge of
 your comfort zone’.
 #+end_quote
 
-** 238
+*** 238
 
 #+begin_quote
 Because I had grown up in such a different system, I kept having doubts about
@@ -786,7 +652,8 @@ with attention problems, and Finns are among the most literate, numerate and
 happy people in the world. Hannah told
 #+end_quote
 
-** 240
+** Conclusion Attention Rebellion
+*** 240
 
 #+begin_quote
 He told me that after years of studying focus, he has come to believe that
@@ -796,7 +663,7 @@ we went through them, it clarified for me a lot of what I had learned
 
 james willson
 
-** 241
+*** 241
 
 #+begin_quote
 The first layer of your attention, he said, is your spotlight. This is when you
@@ -808,7 +675,19 @@ your spotlight gets distracted or disrupted, you are prevented from carrying out
 near-term actions like this.
 #+end_quote
 
-** 241
+*** 241
+
+#+begin_quote
+The second layer of your attention is your starlight. This is, he says, the
+focus you can apply to your ‘longer-term goals – projects over time’. You want
+to write a book. You want to set up a business. You want to be a good parent.
+It’s called the starlight because when you feel lost, you look up to the stars,
+and you remember the direction you are travelling in. If you become distracted
+from your starlight, he said, you ‘lose sight of the longer-term goals’. You
+start to forget where you are headed.
+#+end_quote
+
+*** 241
 
 #+begin_quote
 The third layer of your attention is your daylight. This is the form of focus
@@ -823,19 +702,9 @@ you may not even be able to figure out who you are, what you wanted to do, [or]
 where you want to go.
 #+end_quote
 
-** 241
+*** 242
 
-#+begin_quote
-The second layer of your attention is your starlight. This is, he says, the
-focus you can apply to your ‘longer-term goals – projects over time’. You want
-to write a book. You want to set up a business. You want to be a good parent.
-It’s called the starlight because when you feel lost, you look up to the stars,
-and you remember the direction you are travelling in. If you become distracted
-from your starlight, he said, you ‘lose sight of the longer-term goals’. You
-start to forget where you are headed.
-#+end_quote
-
-** 242
+Mind being DOSed:
 
 #+begin_quote
 He said a different metaphor might also help us to understand this. Sometimes,
@@ -854,9 +723,10 @@ your entire world,’ he said. You are left so depleted that ‘you don’t get 
 space to push back against it’.
 #+end_quote
 
-our mind being dosed
+*** Economic growth
+**** 252
 
-** 252
+economic groeth and degrading attention
 
 #+begin_quote
 puzzling away at this question. Why? Why has this been happening so long? This
@@ -885,9 +755,8 @@ speeds up life. If the economy has to grow every year, in the absence of new
 markets it has to get you and me to do more and more in the same amount of time.
 #+end_quote
 
-economic groeth and degrading attention
 
-** 253
+**** 253
 
 #+begin_quote
 My friend Dr Jason Hickel, who is an economic anthropologist at the University
@@ -908,7 +777,9 @@ and don’t raid the planet’s resources.
 
 also checkout books from hickel
 
-** 257
+** Groups Already Fighting to Improve Attention
+*** Resources
+*** 257
 
 #+begin_quote
 On fighting to change how the internet works Center for Humane Technology:
@@ -946,7 +817,7 @@ Trust: https://citizensincome.org Basic Income: https://www.basicincome.org.uk
 
 resources
 
-** 263
+*** 263
 
 #+begin_quote
 Please note these are partial endnotes. There are more references, background,
