@@ -9,6 +9,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 
 ## 2024 {#2024}
 
+-   2024-05-23 ◦ [Get Better at Anything - Scott H Young](https://www.scotthyoung.com/blog/getbetter/)
 -   2024-04-02 ◦ [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat | Goodreads](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat)
 
 

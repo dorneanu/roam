@@ -7,6 +7,7 @@
 This is my personal book TODO list, along with the year in which I added the book to the list.
 
 * 2024
+- 2024-05-23 ◦ [[https://www.scotthyoung.com/blog/getbetter/][Get Better at Anything - Scott H Young]]
 - 2024-04-02 ◦ [[https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat][Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat | Goodreads]]
 * 2023
 - 2023-01-24 ◦ [[https://www.goodreads.com/book/show/396931.The_Origins_of_Totalitarianism][The Origins of Totalitarianism by Hannah Arendt]]
