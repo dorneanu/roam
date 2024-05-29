@@ -1,6 +1,6 @@
-:PROPERTIES:
-:ID:       ce02c8f6-cdf1-4aeb-aa63-2d03142ff979
-:END:
+:properties:
+:id:       ce02c8f6-cdf1-4aeb-aa63-2d03142ff979
+:end:
 #+title: Think again
 #+filetags: :personal-growth:psychology:book:
 #+date: 2024-01-24
@@ -67,7 +67,7 @@ What he (David Oddsson) lacked is a crucial nutrient for the mind: humility. The
 #+end_quote
 
 **** The Narcissist Test
-
+- [[id:e64425f1-e67b-4916-a0f4-67f67d838f7e][Narcissism]]
 - 2024-02-21 ◦ [[https://www.savagechickens.com/2009/06/the-narcissist-test.html][The Narcissist Test]]
 
 *** The joy of being wrong: The thrill of not believing everything you think

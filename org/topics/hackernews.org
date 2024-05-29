@@ -1,6 +1,6 @@
-:PROPERTIES:
-:ID:       91f33643-b126-4383-9ffb-af8c379a28d9
-:END:
+:properties:
+:id:       91f33643-b126-4383-9ffb-af8c379a28d9
+:end:
 #+title: HackerNews
 
 * AI
@@ -12,6 +12,7 @@
 - everything on 1 page
   - [[https://www.hakaran.com/]]
 * Search engines
+- https://hackersearch.net/
 - [[http://hnapp.com]]
 - [[http://hnpaper.forge.partlab.io]]
 * Aggregated News

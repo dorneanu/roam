@@ -17,11 +17,15 @@ draft = false
 
 #### 29 {#29}
 
+Set away distractions to see what you're distracted from:
+
 > It’s when you set aside your distractions, he said, that you begin to see what
 > you were distracting yourself from.
 
 
 #### 34 {#34}
+
+Information overflow:
 
 > What they discovered is that there is one mechanism that can make this happen every time.
 > You just have to flood the system with more information. The more information you pump in,
@@ -30,14 +34,16 @@ draft = false
 
 #### 35 {#35}
 
+On the upper class aware of the risks of technology:
+
 > Shortly before I met with him, Sune had seen a photograph of Mark Zuckerberg, the founder
 > of Facebook, standing in front of a room of people who were all wearing virtual-reality
 > headsets. He was the only person standing in actual reality, looking at them, smiling,
 > pacing proudly around. When he saw it, Sune said, ‘I was like – holy shit, this is a
-> metaphor for the future.’ If we don’t change course, he fears we are headed towards a
+> metaphor for the future.’ **If we don’t change course, he fears we are headed towards a
 > world where ‘there’s going to be an upper class of people that are very aware’ of the
 > risks to their attention and find ways to live within their limits, and then there will be
-> the rest of the society with ‘fewer resources to resist the manipulation, and they’re
+> the rest of the society with ‘fewer resources to resist the manipulation**, and they’re
 > going to be living more and more inside their computers, being manipulated more and more’.
 
 
@@ -54,8 +60,8 @@ On cognitive bandwidth:
 > bandwidth\*’. If you go too fast, you overload your abilities, and they degrade. But when
 > you practise moving at a speed that is compatible with human nature – and you build that
 > into your daily life – you begin to train your attention and focus. ‘That’s why those
-> disciplines make you smarter. It’s not about humming or wearing orange robes.’ Slowness,
-> he explained, nurtures attention, and speed shatters it.
+> disciplines make you smarter. It’s not about humming or wearing orange robes.’ **Slowness,
+> he explained, nurtures attention, and speed shatters it**.
 
 
 ### 2 Cause Two: The Crippling of Our Flow States {#2-cause-two-the-crippling-of-our-flow-states}
@@ -63,7 +69,7 @@ On cognitive bandwidth:
 
 #### 47 {#47}
 
-Narcissism as a corruption of attention:
+[Narcissism](../../topics/narcissism.md) as a corruption of attention:
 
 > I felt like everywhere I went, I was surrounded by people who were broadcasting but not
 > receiving. Narcissism, it occurred to me, is a corruption of attention – it’s where your
@@ -96,7 +102,17 @@ Reading books:
 > sense to you. Having enough mental space to roam is essential for you to be able
 > to understand a book.
 
-what reading is about;roam as a term has to do w mental space
+What happens when you read a book:
+
+-   Focusing on individual words and sentences
+-   Relating the text to personal life
+-   Connecting current text to previous content
+-   Predicting future content
+-   Assessing for contradictions or cohesiveness
+-   Forming associations with past memories
+-   Drawing together the text to comprehend the key theme
+-   Allowing for mental exploration
+-   **Mental space** for intellectual navigation is crucial for comprehension
 
 
 ### 5 Cause Five: The Disruption of Mind-Wandering {#5-cause-five-the-disruption-of-mind-wandering}
@@ -104,16 +120,18 @@ what reading is about;roam as a term has to do w mental space
 
 #### 86 {#86}
 
+Beyonce, attention and the spotlight:
+
 > In 1890 the founder of modern American psychology, William James, wrote – in the
 > most influential text ever (in the Western world, at least) on this subject –
-> that ‘everyone knows what attention is’. Attention, he said, is a spotlight. To
+> that ‘everyone knows what attention is’. Attention, he said, is a spotlight. **To
 > put it in our terms, it’s the moment Beyoncé appears, alone, on the stage, and
-> everyone else around you seems to vanish.
-
-c5
+> everyone else around you seems to vanish**.
 
 
 #### 86 {#86}
+
+Distraction = Not being able to put spotlight on one thing:
 
 > Attention is usually defined as a person’s ability to selectively attend to
 > something in the environment. So when I said I was distracted, I meant that I
@@ -123,40 +141,55 @@ c5
 
 #### 87 {#87}
 
+"You are doing nothing at all"?
+
 > On long train or bus journeys, whenever I would see somebody just sit there for
 > six hours, doing nothing but stare out of the window, I would feel an urge to
-> lean over to them and say, ‘I’m sorry to disturb you. It’s none of my business,
+> lean over to them and say, **‘I’m sorry to disturb you. It’s none of my business,
 > but I just wanted to check – you do realise that you have a limited amount of
 > time in which to be alive, and the clock counting down towards death is
 > constantly ticking, and you’ll never get back these six hours you are spending
 > doing nothing at all? And when you are dead, you’ll be dead forever? You know
-> that, right?
+> that, right?**
 
 
-#### <span class="org-todo todo TODO">TODO</span> 89 {#89}
+#### Default Mode Network {#default-mode-network}
 
-> three crucial things that are happening during mind-wandering.
-
-
-#### 89 {#89}
-
-> Their brains, it seemed, were not inactive, as his med-school tutors had said
-> they should be. Activity had shifted from one part of the brain to another – but
-> the brain was still highly active. Surprised, he began to study this in detail.
-> He named the region of the brain that becomes more active when you think you’re
-> not doing much ‘the [default mode network]({{< relref "../../topics/default_network.md" >}})’
-
-link zum zk
+> Their brains, it seemed, were not inactive, as his med-school tutors had said they should
+> be. Activity had shifted from one part of the brain to another – but the brain was still
+> highly active. Surprised, he began to study this in detail. He named the region of the
+> brain that becomes more active when you think you’re not doing much ‘the [default mode
+> network](../../topics/default_network.md)’
 
 
-##### 93 {#93}
+##### 92 {#92}
 
-> him, Marcus Raichle
+Stimulus-driven, stimulus-bound environment:
 
-researcer.default network mode
+> All this frenetic digital interruption is ‘pulling our attention away from our thoughts’,
+> and ‘suppressing your default mode network… I think we’re almost in this constant
+> stimulus-driven, stimulus-bound environment, moving from one distraction to the next.’ If
+> you don’t remove yourself from that, it will ‘suppress whatever train of thought you had’.
 
 
-#### 90 {#90}
+#### What happens during mind-wandering {#what-happens-during-mind-wandering}
+
+Three crucial things that are happening during mind-wandering:
+
+-   1
+
+    > Secondly, when your mind wanders, it starts to **make new connections between
+    > things** – which often produces a solution to your problems.
+-   2
+
+    > Thirdly, during mind-wandering, your mind will – Nathan said – **engage in ‘mental
+    > time-travel’, where it roams over the past and tries to predict the future**.
+    > Freed from the pressures of thinking narrowly about what’s right in front of
+    > you, your mind will start to think about what might come next – and so it will
+    > help to prepare you for it.
+
+
+#### Effects of mind-wandering: {#effects-of-mind-wandering}
 
 > has found that the more you let your mind wander, the better you are at having
 > organised personal goals, being creative, and making patient, long-term
@@ -164,51 +197,27 @@ researcer.default network mode
 > drift, and slowly, unconsciously, make sense of your life.
 
 
-#### 90 {#90}
-
-> Secondly, when your mind wanders, it starts to make new connections between
-> things – which often produces a solution to your problems.
-
-
-#### 91 {#91}
-
-> Thirdly, during mind-wandering, your mind will – Nathan said – engage in ‘mental
-> time-travel’, where it roams over the past and tries to predict the future.
-> Freed from the pressures of thinking narrowly about what’s right in front of
-> you, your mind will start to think about what might come next – and so it will
-> help to prepare you for it.
-
-
-#### 91 {#91}
+#### Mind-wandering promotes creativity: {#mind-wandering-promotes-creativity}
 
 > ‘Creativity is not [where you create] some new thing that’s emerged from your
 > brain,’ Nathan told me. ‘It’s a new association between two things that were
-> already there.’ Mind-wandering allows ‘more extended trains of thought to
-> unfold, which allows for more associations to be made.’
-
-link zu other defs of creativiyy
+> already there.’ \*Mind-wandering allows ‘more extended trains of thought to
+> unfold, which allows for more associations to be made.\*’
 
 
-#### 92 {#92}
+#### Crisis of lost mind-wandering {#crisis-of-lost-mind-wandering}
 
-> All this frenetic digital interruption is ‘pulling our attention away from our
-> thoughts’, and ‘suppressing your default mode network… I think we’re almost in
-> this constant stimulus-driven, stimulus-bound environment, moving from one
-> distraction to the next.’ If you don’t remove yourself from that, it will
-> ‘suppress whatever train of thought you had’.
+> So we aren’t just facing a crisis of lost spotlight focus – we are facing a crisis of lost
+> mind-wandering.
 
 
-#### 92 {#92}
+#### Constant skimming {#constant-skimming}
 
-> So we aren’t just facing a crisis of lost spotlight focus – we are facing a
-> crisis of lost mind-wandering.
+We either focus nor mind-wander. we're constanstly skimming:
 
-
-#### 92 {#92}
-
-> how we spend our time rapidly switching between tasks, and I realised that in
-> our current culture, most of the time we’re not focusing, but we’re not
-> mind-wandering either. We’re constantly skimming, in an unsatisfying whirr.
+> how we spend our time rapidly switching between tasks, and I realised that in our current
+> culture, most of the time we’re not focusing, but we’re not mind-wandering either. We’re
+> constantly skimming, in an unsatisfying whirr.
 
 
 ### 6 Cause Six: The Rise of Technology That Can Track and Manipulate You (Part One) {#6-cause-six-the-rise-of-technology-that-can-track-and-manipulate-you--part-one}
@@ -216,19 +225,18 @@ link zu other defs of creativiyy
 
 #### 101 {#101}
 
-> One of the texts that most struck Tristan was based on the philosophy of B.F.
-> Skinner, the man who, as I had learned earlier, had found a way to get pigeons
-> and rats and pigs to do whatever he wanted by offering the right
-> ‘reinforcements’ for their behaviour. After years of falling out of fashion, his
-> ideas were back with full force.
+> One of the texts that most struck Tristan was based on the philosophy of B.F. Skinner, the
+> man who, as I had learned earlier, had found a way to get pigeons and rats and pigs to do
+> whatever he wanted by offering the right ‘reinforcements’ for their behaviour. After years
+> of falling out of fashion, his ideas were back with full force.
 
 
 #### 114 {#114}
 
-> One day, James Williams – the former Google strategist I met – addressed an
-> audience of hundreds of leading tech designers and asked them a simple question.
-> ‘How many of you want to live in the world you are designing?’ There was a
-> silence in the room. People looked around them. Nobody put up their hand.
+> One day, James Williams – the former Google strategist I met – addressed an audience of
+> hundreds of leading tech designers and asked them a simple question. **‘How many of you want
+> to live in the world you are designing?’ There was a silence in the room. People looked
+> around them. Nobody put up their hand**.
 
 
 #### 114 {#114}
@@ -242,30 +250,38 @@ link zu other defs of creativiyy
 
 #### 115 {#115}
 
-> but it won’t alert you to the physical proximity of somebody you might want to
-> see in the real world. There’s no button that says ‘I want to meet up – who’s
-> nearby and free?’ This isn’t technologically tricky. It would be really easy for
-> Facebook to be designed so that when you opened it, it told you which of your
-> friends were close by and which of them would like to meet for a drink or dinner
-> that week. The coding to do that is simple: Tristan and Aza and their friends
-> could probably write it in a day. And it would be hugely popular. Ask any
-> Facebook user – would you like Facebook to physically connect you to your
-> friends more, instead of keeping you endlessly scrolling? So – it’s an easy
-> tweak, and users would love it. Why doesn’t it happen? Why won’t the market
-> provide it? To understand why, Tristan and his colleagues explained to me, you
-> need to step back and understand more about the business model of Facebook and
-> the other social-media companies. If you follow the trail from this simple
-> question, you will see the root of many of the problems we are facing. Facebook
-> makes more money for every extra second you are staring through a screen at
-> their site, and they lose money every time you put the screen down. They make
-> this money in two ways. Until I started to spend time in Silicon Valley, I had
-> only naively thought about the first and the most obvious. Clearly – as I wrote
-> in the last chapter – the more time you look at their sites, the more
-> advertisements you see. Advertisers pay Facebook to get to you and your
-> eyeballs.
+> but it won’t alert you to the physical proximity of somebody you might want to see in the
+> real world. There’s no button that says ‘I want to meet up – who’s nearby and free?’ This
+> isn’t technologically tricky. It would be really easy for Facebook to be designed so that
+> when you opened it, it told you which of your friends were close by and which of them
+> would like to meet for a drink or dinner that week. The coding to do that is simple:
+> Tristan and Aza and their friends could probably write it in a day. And it would be hugely
+> popular. Ask any Facebook user – would you like Facebook to physically connect you to your
+> friends more, instead of keeping you endlessly scrolling? So – it’s an easy tweak, and
+> users would love it. Why doesn’t it happen? Why won’t the market provide it? To understand
+> why, Tristan and his colleagues explained to me, you need to step back and understand more
+> about the business model of Facebook and the other social-media companies. If you follow
+> the trail from this simple question, you will see the root of many of the problems we are
+> facing. Facebook makes more money for every extra second you are staring through a screen
+> at their site, and they lose money every time you put the screen down. They make this
+> money in two ways. Until I started to spend time in Silicon Valley, I had only naively
+> thought about the first and the most obvious. Clearly – as I wrote in the last chapter –
+> the more time you look at their sites, the more advertisements you see. Advertisers pay
+> Facebook to get to you and your eyeballs.
+
+-   Facebook could easily implement a feature to alert users about nearby friends they may
+    want to meet in person.
+-   Although such an update would prove popular amongst Facebook users, it's currently not
+    being pursued.
+-   Facebook and other social media companies primarily earn profits through prolonged
+    screen time.
+-   The longer users interact with their platform, the more advertisements they see,
+    generating revenue.
+-   A feature that encourages real-life meetups would detract from screen time and therefore
+    lessen profits.
 
 
-#### 117 {#117}
+#### Surveillance capitalism {#surveillance-capitalism}
 
 > This is the business model that built and sustains the sites on which we spend
 > so much of our lives. The technical term for this system – coined by the
@@ -273,6 +289,8 @@ link zu other defs of creativiyy
 
 
 #### 121 {#121}
+
+Tendency to watch more bad news
 
 > On average, we will stare at something negative and outrageous for a lot longer
 > than we will stare at something positive and calm. You will stare at a car crash
@@ -283,12 +301,10 @@ link zu other defs of creativiyy
 > the people in it were happy, and some angry, you would instinctively pick out
 > the angry faces first. Even ten-week-old babies respond differently to angry
 > faces. This has been known about in psychology for years and is based on a broad
-> body of evidence. It’s called ‘negativity bias’.
-
-tendency to watch more bad news
+> body of evidence. It’s called ‘negativity [bias](../../topics/bias.md)’.
 
 
-#### 123 {#123}
+#### Social media and addiction {#social-media-and-addiction}
 
 > First, these sites and apps are designed to train our minds to crave frequent
 > rewards. They make us hunger for hearts and likes. When I was deprived of them
@@ -338,7 +354,12 @@ tendency to watch more bad news
 > attention, with several stages, and I think probably the most harmful. Let’s go
 > through it slowly.
 
-rephrase w gpt
+-   Social media sites condition us to crave frequent rewards (likes, retweets, etc.).
+-   Encourages constant task switching, impairing attention and cognitive ability.
+-   Sites learn users' "triggers" to keep engagement high, similar to "fracking" user data.
+-   Promotes anger, which interferes with attentive thinking and depth of processing.
+-   Creates perception of pervasive anger in society, inducing a constant vigilance state; detracts from focusing ability for slower-paced activities.
+-   Uses algorithms that foster hostility, further damaging attention.
 
 
 #### 125 {#125}
@@ -353,13 +374,13 @@ rephrase w gpt
 
 #### 143 {#143}
 
+On self-control and a whole industry trying to steal your attention:
+
 > ‘You can try having self-control, but there are a thousand engineers on the
 > other side of the screen working against you.
 
 
-#### 145 {#145}
-
-Surveillance capitalism
+#### Surveillance capitalism and alternatives {#surveillance-capitalism-and-alternatives}
 
 > In practice, the day after a ban, these companies would have to find different
 > ways to fund themselves. There is one model that is obvious, and an alternative
@@ -381,59 +402,59 @@ Surveillance capitalism
 
 #### 151 {#151}
 
-> The unit was called Common Ground. After studying all the hidden data – the
-> stuff that Facebook doesn’t release to the public – the company’s scientists
-> reached a definite conclusion. They wrote: ‘Our algorithms exploit the human
-> brain’s attraction to divisiveness,’ and ‘if left unchecked’, the site would
-> continue to pump its users with ‘more and more divisive content in an effort to
-> gain user attention and increase time on the platform’. A separate internal
-> Facebook team, whose work also leaked to the Journal, had independently reached
-> the same conclusions. They found that 64 percent of all the people joining
-> extremist groups were finding their way to them because Facebook’s algorithms
-> were directly recommending them. This meant across the world, people were seeing
-> in their Facebook feeds racist, fascist and even Nazi groups next to the words:
-> ‘Groups You Should Join.’ They warned that in Germany, one-third of all the
-> political groups on the site were extremist. Facebook’s own team was blunt,
-> concluding: ‘Our recommendation systems grow the problem.
+Facebook and their algorithms:
+
+> The unit was called Common Ground. After studying all the hidden data – the stuff that
+> Facebook doesn’t release to the public – the company’s scientists reached a definite
+> conclusion. They wrote: ‘Our algorithms exploit the human brain’s attraction to
+> divisiveness,’ and ‘if left unchecked’, the site would continue to pump its users with
+> ‘more and more divisive content in an effort to gain user attention and increase time on
+> the platform’. A separate internal Facebook team, whose work also leaked to the Journal,
+> had independently reached the same conclusions. They found that 64 percent of all the
+> people joining extremist groups were finding their way to them because Facebook’s
+> algorithms were directly recommending them. This meant across the world, people were
+> seeing in their Facebook feeds racist, fascist and even Nazi groups next to the words:
+> ‘Groups You Should Join.’ They warned that in Germany, one-third of all the political
+> groups on the site were extremist. Facebook’s own team was blunt, concluding: ‘Our
+> recommendation systems grow the problem.
 
 
 #### 152 {#152}
 
-> Once Facebook was shown – in plain language, by their own people – what they
-> were doing, how did the company’s executives respond? According to the Journal’s
-> in-depth reporting, they mocked the research, calling it an ‘Eat Your Veggies’
-> approach. They introduced some minor tweaks, but dismissed most of the
-> recommendations. The Common Ground team was disbanded and has ceased to exist.
-> The Journal reported dryly: ‘Zuckerberg also signalled he was losing interest in
-> the effort to recalibrate the platform in the name of the social good … asking
-> that they not bring him something like that again.’ I read this and I thought of
-> my friend Raull Santiago, in his favela in Rio, being terrorised by helicopters
-> sent by the far-right government that was elected with the help of these
-> algorithms – algorithms so powerful that Bolsonaro’s supporters responded to his
-> victory by chanting, ‘Facebook! Facebook!’ I realised that if Facebook won’t
-> change the fact that their algorithm unintentionally promotes fascism – that it
-> promotes Nazism in Germany – they will never care about protecting your focus
-> and attention. These companies will never restrain themselves. The risks of
-> letting them continue behaving the way they have are greater than the risks of
-> overreacting. They have to be stopped. They have to be stopped by us.
+"Eat your Veggies":
+
+> Once Facebook was shown – in plain language, by their own people – what they were doing,
+> how did the company’s executives respond? According to the Journal’s in-depth reporting,
+> they mocked the research, calling it an ‘Eat Your Veggies’ approach. They introduced some
+> minor tweaks, but dismissed most of the recommendations. The Common Ground team was
+> disbanded and has ceased to exist. The Journal reported dryly: ‘Zuckerberg also signalled
+> he was losing interest in the effort to recalibrate the platform in the name of the social
+> good … asking that they not bring him something like that again.’ I read this and I
+> thought of my friend Raull Santiago, in his favela in Rio, being terrorised by helicopters
+> sent by the far-right government that was elected with the help of these algorithms –
+> algorithms so powerful that Bolsonaro’s supporters responded to his victory by chanting,
+> ‘Facebook! Facebook!’ I realised that if Facebook won’t change the fact that their
+> algorithm unintentionally promotes fascism – that it promotes Nazism in Germany – they
+> will never care about protecting your focus and attention. These companies will never
+> restrain themselves. The risks of letting them continue behaving the way they have are
+> greater than the risks of overreacting. They have to be stopped. They have to be stopped
+> by us.
 
 
 #### 175 {#175}
 
-> Something similar has been tried in many other places, and even though the
-> experiments are quite different, they keep finding similar outcomes. In 1920s
-> Britain, W. G. Kellogg – the manufacturer of cereals – cut his staff from an
-> eight-hour day to a six-hour day, and workplace accidents (a good measure of
-> attention) fell by 41 percent. In 2019 in Japan, Microsoft moved to a four-day
-> week, and they reported a 40 percent improvement in productivity. In Gothenberg
-> in Sweden around the same time, a care home for elderly people went from an
-> eight-hour day to a six-hour day with no loss of pay, and as a result, their
-> workers slept more, experienced less stress, and took less time off sick. In the
-> same city, Toyota cut two hours per day off the work week, and it turned out
-> their mechanics produced 114 percent of what they had before, and profits went
-> up by 25 percent.
+[The 4Hour Work Week](the_4hour_work_week.md)
 
-examples
+> Something similar has been tried in many other places, and even though the experiments are
+> quite different, they keep finding similar outcomes. In 1920s Britain, W. G. Kellogg – the
+> manufacturer of cereals – cut his staff from an eight-hour day to a six-hour day, and
+> workplace accidents (a good measure of attention) fell by 41 percent. In 2019 in Japan,
+> Microsoft moved to a four-day week, and they reported a 40 percent improvement in
+> productivity. In Gothenberg in Sweden around the same time, a care home for elderly people
+> went from an eight-hour day to a six-hour day with no loss of pay, and as a result, their
+> workers slept more, experienced less stress, and took less time off sick. In the same
+> city, Toyota cut two hours per day off the work week, and it turned out their mechanics
+> produced 114 percent of what they had before, and profits went up by 25 percent.
 
 
 ### 8 Cause Seven: The Rise of Cruel Optimism {#8-cause-seven-the-rise-of-cruel-optimism}
@@ -453,103 +474,123 @@ examples
 
 #### 141 {#141}
 
-> How is that working out for us? The scientists who have studied it discovered
-> that 95 percent of people in our culture who lose weight on a diet regain it
-> within one to five years. That’s nineteen out of every twenty people. Why? It’s
-> because it misses most of why you (and I) gained weight in the first place. It
-> has no systemic analysis. It doesn’t talk about the crisis in our food supply,
-> which surrounds us with addictive, highly processed foods that bear no
-> relationship to what previous generations of humans ate. It doesn’t explain the
-> crisis of stress and anxiety that drives us to overeat. It doesn’t address the
-> fact that we live in cities where you have to squeeze yourself into a steel box
-> to get anywhere. Diet books ignore the fact that you live in a society and
-> culture that are shaping and pushing you, every day, to act in certain ways. A
-> diet doesn’t change your wider environment – and it’s the wider environment that
-> is the cause of the crisis. Your diet ends, and you’re still in an unhealthy
-> environment that’s pushing you to gain weight. Trying to lose weight in the
-> environment we’ve built is like trying to run up an escalator that is constantly
-> carrying you down. A few people might heroically sprint to the top – but most of
-> us will find ourselves back at the bottom, feeling like it’s our fault.
+Personal responsibilty is getting us nowehere
 
-personal responsibilty is getting us nowehere
+> How is that working out for us? The scientists who have studied it discovered that 95
+> percent of people in our culture who lose weight on a diet regain it within one to five
+> years. That’s nineteen out of every twenty people. Why? It’s because it misses most of why
+> you (and I) gained weight in the first place. It has no systemic analysis. It doesn’t talk
+> about the crisis in our food supply, which surrounds us with addictive, highly processed
+> foods that bear no relationship to what previous generations of humans ate. It doesn’t
+> explain the crisis of stress and anxiety that drives us to overeat. It doesn’t address the
+> fact that we live in cities where you have to squeeze yourself into a steel box to get
+> anywhere. Diet books ignore the fact that you live in a society and culture that are
+> shaping and pushing you, every day, to act in certain ways. A diet doesn’t change your
+> wider environment – and it’s the wider environment that is the cause of the crisis. Your
+> diet ends, and you’re still in an unhealthy environment that’s pushing you to gain weight.
+> Trying to lose weight in the environment we’ve built is like trying to run up an escalator
+> that is constantly carrying you down. A few people might heroically sprint to the top –
+> but most of us will find ourselves back at the bottom, feeling like it’s our fault.
 
-
-#### 142 {#142}
-
-> We could have looked instead at what does work: changing the environment in
-> specific ways. We could have used government policy to make fresh, nutritious
-> food cheap and accessible, and sugar-filled junk expensive and inaccessible. We
-> could have reduced the factors that cause people to be so stressed that they
-> comfort eat. We could have built cities people can easily walk or bike through.
-> We could have banned the targeting of junk food ads at children, shaping their
-> tastes for life. That’s why countries that have done some of this – like Norway,
-> or Denmark, or the Netherlands – have much lower levels of obesity, and
-> countries that have focused on telling individual overweight people to pull
-> themselves together, like the US and UK, have very high levels of obesity. If
-> all the energy people like me had put into shaming and starving ourselves had
-> been put instead into demanding these political changes, there would be far less
-> obesity now, and a lot less misery.
+-   95% of dieters regain lost weight in 1-5 years.
+-   Traditional dieting misses systemic factors behind weight gain, e.g., processed food, stress and city layouts.
+-   Diets don't change the environment which is the primary cause of weight issues.
+-   Weight loss attempts without changing the environment is akin to running up a descending escalator.
+-   Failure in weight control often mistakenly attributed to personal fault, ignoring broader societal factors.
 
 
 #### 142 {#142}
 
-> There was a different way we could have reacted to the obesity crisis when it
-> began forty or so years ago. We could have listened to the evidence that purely
-> practising individual restraint – in an unchanged environment – rarely works for
-> long, except in one in twenty cases like Nir’s.
+> We could have looked instead at what does work: changing the environment in specific ways.
+> We could have used government policy to make fresh, nutritious food cheap and accessible,
+> and sugar-filled junk expensive and inaccessible. We could have reduced the factors that
+> cause people to be so stressed that they comfort eat. We could have built cities people
+> can easily walk or bike through. We could have banned the targeting of junk food ads at
+> children, shaping their tastes for life. That’s why countries that have done some of this
+> – like Norway, or Denmark, or the Netherlands – have much lower levels of obesity, and
+> countries that have focused on telling individual overweight people to pull themselves
+> together, like the US and UK, have very high levels of obesity. If all the energy people
+> like me had put into shaming and starving ourselves had been put instead into demanding
+> these political changes, there would be far less obesity now, and a lot less misery.
 
-systemic analysis is missing
+-   Effective solutions involve modifying the environment.
+-   Government policies can influence the availability and cost of healthy and unhealthy food.
+-   Stress factors inducing comfort eating need reduction.
+-   Urban planning should promote walkability and cycling.
+-   Prohibit marketing of junk food, especially to children.
+-   Countries implementing some of these (Norway, Denmark, Netherlands) have lower obesity rates compared to US and UK.
+-   Instead of self-blame and dieting efforts, advocating for systemic changes could curb obesity more effectively.
+
+
+#### 142 {#142}
+
+Individual restraints don't work:
+
+> There was a different way we could have reacted to the obesity crisis when it began forty
+> or so years ago. We could have listened to the evidence that purely practising individual
+> restraint – in an unchanged environment – rarely works for long, except in one in twenty
+> cases like Nir’s.
 
 
 #### 186 {#186}
 
-> That’s the magic bullet – just go back to whole foods. Foods as they were
-> originally intended.’ He quoted Michael Pollan, who says we should eat only food
-> that our grandparents would have recognised as food, and we should shop
-> primarily around the outer edges of the supermarket – the fruit and veg at the
-> front, and the meat and fish at the back. The stuff in the middle, he warned,
-> isn’t really food at
+> That’s the magic bullet – just go back to whole foods. Foods as they were originally
+> intended.’ He quoted Michael Pollan, who says we should eat only food that our
+> grandparents would have recognised as food, and we should shop primarily around the outer
+> edges of the supermarket – the fruit and veg at the front, and the meat and fish at the
+> back. The stuff in the middle, he warned, isn’t really food at
 
 
 #### 188 {#188}
 
-> The form of pollution we, as ordinary citizens, know most about is in the air
-> all around us, so I interviewed Barbara Maher, who is a professor of
-> environmental science at the University of Lancaster in England, and has been
-> carrying out potentially game-changing research on how it is affecting our
-> brains. She explained to me that if you live in a major city today, every day
-> you are breathing in a chemical soup – a mixture of many different contaminants,
-> including those spewed from car engines. Your brain did not evolve to absorb
-> these chemicals, like iron, through the respiratory system, and it doesn’t know
-> how to handle them. So just by living in a polluted city, she said, you are
-> experiencing a ‘repeated chronic insult to your brain’, and it will react by
-> becoming inflamed. I asked her: what happens if that goes on for months and
-> years? She said it ‘is going to lead to damage to the nerve cells, to the
-> neurons. Depending on the dose [i.e. how bad the pollution is], depending on
-> your genetic susceptibility, eventually, over time, your brain cells will be
-> damaged.
+On constant exposure to poollution:
+
+> The form of pollution we, as ordinary citizens, know most about is in the air all around
+> us, so I interviewed Barbara Maher, who is a professor of environmental science at the
+> University of Lancaster in England, and has been carrying out potentially game-changing
+> research on how it is affecting our brains. She explained to me that if you live in a
+> major city today, every day you are breathing in a chemical soup – a mixture of many
+> different contaminants, including those spewed from car engines. Your brain did not evolve
+> to absorb these chemicals, like iron, through the respiratory system, and it doesn’t know
+> how to handle them. So just by living in a polluted city, she said, you are experiencing a
+> ‘repeated chronic insult to your brain’, and it will react by becoming inflamed. I asked
+> her: what happens if that goes on for months and years? She said it ‘is going to lead to
+> damage to the nerve cells, to the neurons. Depending on the dose [i.e. how bad the
+> pollution is], depending on your genetic susceptibility, eventually, over time, your brain
+> cells will be damaged.
+
+-   Air pollution in cities involves a mix of contaminants, including chemicals from car exhausts.
+-   Human brains are not adapted to handle these substances.
+-   Exposure to air pollution represents a chronic insult to the brain, causing inflammation.
+-   Prolonged exposure over time can lead to damage to nerve cells.
+-   The level of damage depends on the pollution levels and an individual's genetic susceptibility.
 
 
-#### 190 {#190}
+#### Lead pollution {#lead-pollution}
 
-> This seemed really daunting. It told me there’s a focus-killer literally all
-> around us, and I felt overwhelmed. How can we fight it? I began to get some
-> clues once I had learned some history. I started by looking at the effect of one
-> specific pollutant on our attention: lead. As far back as ancient Rome, it was
-> known that lead was poisonous to human beings. The architect Vitruvius, for
-> example, begged the Roman authorities to not use it to build the city’s pipes.
-> Yet for centuries lead was used to paint homes and in water pipes, and then in
-> the early twentieth century it was added to petrol, which meant it was pumped
-> into the air of every city in the world and breathed in by its inhabitants.
-> Scientists warned almost at once that leaded gasoline was likely to produce
-> disaster. When in 1925 General Motors announced that putting lead in gasoline
-> was a ‘gift of God’, its CEO was warned by Dr Alice Hamilton, the leading expert
-> on lead in the US, that he was playing with fire. ‘Where there is lead,’ she
-> said, ‘some case of lead poisoning sooner or later develops.’ It was clear this
-> could have a terrible effect on people’s brains: in high doses, lead poisoning
-> makes people hallucinate, lose their minds or die. The factories where leaded
-> petrol was developed had outbreaks of staff members going violently insane and
-> dying because of their exposure to it.
+> This seemed really daunting. It told me there’s a focus-killer literally all around us,
+> and I felt overwhelmed. How can we fight it? I began to get some clues once I had learned
+> some history. I started by looking at the effect of one specific pollutant on our
+> attention: lead. As far back as ancient Rome, it was known that lead was poisonous to
+> human beings. The architect Vitruvius, for example, begged the Roman authorities to not
+> use it to build the city’s pipes. Yet for centuries lead was used to paint homes and in
+> water pipes, and then in the early twentieth century it was added to petrol, which meant
+> it was pumped into the air of every city in the world and breathed in by its inhabitants.
+> Scientists warned almost at once that leaded gasoline was likely to produce disaster. When
+> in 1925 General Motors announced that putting lead in gasoline was a ‘gift of God’, its
+> CEO was warned by Dr Alice Hamilton, the leading expert on lead in the US, that he was
+> playing with fire. ‘Where there is lead,’ she said, ‘some case of lead poisoning sooner or
+> later develops.’ It was clear this could have a terrible effect on people’s brains: in
+> high doses, lead poisoning makes people hallucinate, lose their minds or die. The
+> factories where leaded petrol was developed had outbreaks of staff members going violently
+> insane and dying because of their exposure to it.
+
+-   Air pollution is a pervasive factor that negatively affects focus.
+-   Lead pollution is known to be harmful since ancient times.
+-   Despite health concerns, lead was widely used in paints, water pipes, and gasoline.
+-   Warnings by scientists about lead poisoning have been largely ignored.
+-   High levels of lead poisoning can lead to hallucinations, severe mental issues, or death.
+-   Factories producing leaded gasoline experienced cases of workers going violently insane or dying due to exposure.
 
 
 #### 193 {#193}
@@ -569,11 +610,19 @@ systemic analysis is missing
 > found that exposure to the chemical predicts which of them will have kids with
 > behaviour problems.
 
+-   Apart from lead, many other chemicals on the market are known to damage attention.
+-   Main culprits include pesticides, plasticisers, flame-retardants, and cosmetics.
+-   About two-thirds of over 200 pesticides in Europe can negatively affect brain development or thyroid hormone signalling.
+-   Monkeys exposed to the pollutant PCBs at levels comparable to human exposure show serious memory and developmental issues.
+-   Exposure to bisphenol A (BPA), a coating used on 80% of metal cans, is linked to behavioural problems in children of exposed mothers.
+
 
 ### 13 Cause Eleven: The Rise of ADHD and How We Are Responding to It {#13-cause-eleven-the-rise-of-adhd-and-how-we-are-responding-to-it}
 
 
 #### 197 {#197}
+
+when adhd is diagnosed early
 
 > When it comes to our own attention problems as adults, we often readily
 > acknowledge a whole range of influences on us – the rise of invasive
@@ -581,13 +630,32 @@ systemic analysis is missing
 > same challenges, over the past twenty years we have been drawn to a starkly
 > simple story: that this problem is largely the result of a biological disorder.
 
-when adhd is diagnosed early
 
-203
+#### Environmental influence on kids {#environmental-influence-on-kids}
 
-children who struggle to focus are like Emma the beagle, and are being medicated for what is in fact an environmental problem? I learned that scientists fiercely disagree about this. We do know that the huge rise in children being diagnosed with attention problems has coincided with several other big changes in the way children live. Kids are now allowed to run around far less – instead of playing in the streets and in their neighbourhoods, they now spend almost all their time inside their homes or school classrooms. Children are now fed a very different diet – one that lacks many nutrients needed for brain development, and is full of sugars and dyes that negatively affect attention. Children’s schooling has changed, so it now focuses almost entirely on preparing them for high-stress testing, with very little space for nurturing their curiosity. Is it a coincidence that ADHD diagnoses are rising at the same time as these big changes, or is there a connection? I’ve already discussed the evidence that our dramatic changes in diet and rise in pollution are causing a rise in children’s attention problems, and I’ll come to the evidence about how the other changes might be affecting children’s attention in the next chapter.
+> children who struggle to focus are like Emma the beagle, and are being medicated for what
+> is in fact an environmental problem? I learned that scientists fiercely disagree about
+> this. We do know that the huge rise in children being diagnosed with attention problems
+> has coincided with several other big changes in the way children live. Kids are now
+> allowed to run around far less – instead of playing in the streets and in their
+> neighbourhoods, they now spend almost all their time inside their homes or school
+> classrooms. Children are now fed a very different diet – one that lacks many nutrients
+> needed for brain development, and is full of sugars and dyes that negatively affect
+> attention. Children’s schooling has changed, so it now focuses almost entirely on
+> preparing them for high-stress testing, with very little space for nurturing their
+> curiosity. Is it a coincidence that ADHD diagnoses are rising at the same time as these
+> big changes, or is there a connection? I’ve already discussed the evidence that our
+> dramatic changes in diet and rise in pollution are causing a rise in children’s attention
+> problems, and I’ll come to the evidence about how the other changes might be affecting
+> children’s attention in the next chapter.
 
-environmetal influence on kids
+-   There's debate on whether the rise in attention problems among children is an environmental issue.
+-   Recent societal changes coincide with this rise in attention issues:
+    -   Limited outdoor playtime for children.
+    -   Shift in children's diet to foods that impact brain development and attention.
+    -   Education is increasingly focused on high-stress testing, suppressing natural curiosity.
+-   These changes may be linked to the rise in ADHD diagnoses.
+-   There is evidence that changes in diet and increased pollution contribute to the rise in attention problems. Other potential factors will be discussed later.
 
 
 ### 14 Cause Twelve: The Confinement of Our Children, Both Physically and Psychologically {#14-cause-twelve-the-confinement-of-our-children-both-physically-and-psychologically}
@@ -600,8 +668,8 @@ environmetal influence on kids
 > achieve?’ Presumably, they want children to learn. ‘I just can’t see where these
 > people get their insights from, because all the evidence shows it’s the other
 > way round: our brains are more supple, more plastic, more creative’ when we have
-> had the chance to ‘learn through play. The primary technology for learning is
-> play. You learn to learn in play. And in a world where information is always
+> had the chance to ‘learn through play. **The primary technology for learning is
+> play**. You learn to learn in play. And in a world where information is always
 > changing, why do you want to fill their heads with information? We have no idea
 > what the world will be in twenty years. Surely we want to be creating brains
 > that are adaptable, and have the capacity to assess context, and can be thinking
@@ -621,8 +689,8 @@ environmetal influence on kids
 
 #### 231 {#231}
 
-> something the writer Neale Donald Walsch wrote – ‘life begins at the edge of
-> your comfort zone’.
+> something the writer Neale Donald Walsch wrote – ‘\*life begins at the edge of
+> your comfort zone\*’.
 
 
 #### 238 {#238}

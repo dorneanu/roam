@@ -1,9 +1,9 @@
-:PROPERTIES:
-:ID:       362b2429-fcde-4b94-a504-4beb416ac6a1
-:END:
+:properties:
+:id:       362b2429-fcde-4b94-a504-4beb416ac6a1
+:end:
 #+created: 20191125130352512
 #+modified: 20210519185714076
-#+origin: https://github.com/EdOverflow/can-i-take-over-xyz https://aws.amazon.com/blogs/networking-and-content-delivery/continually-enhancing-domain-security-on-amazon-cloudfront/  https://www.mindpointgroup.com/blog/pen-test/cloudfront-hijacking/ https://0xpatrik.com/subdomain-takeover-ns/ https://www.hackerone.com/blog/Guide-Subdomain-Takeovers https://github.com/aboul3la/Sublist3r 
+#+origin: https://github.com/EdOverflow/can-i-take-over-xyz https://aws.amazon.com/blogs/networking-and-content-delivery/continually-enhancing-domain-security-on-amazon-cloudfront/  https://www.mindpointgroup.com/blog/pen-test/cloudfront-hijacking/ https://0xpatrik.com/subdomain-takeover-ns/ https://www.hackerone.com/blog/Guide-Subdomain-Takeovers https://github.com/aboul3la/Sublist3r
 #+revision: 0
 #+tags: DNS AppSec
 #+title: Domain Takeover
@@ -18,9 +18,9 @@ Basic scenario for hijacking:
 - Another user can create a [[#CloudFront][CloudFront]] distribution and add test.disloops.com to the "Alternate Domain Names (CNAMEs)" field to hijack the domain.
 
 * CNAME in context of CFN
-:PROPERTIES:
-:CUSTOM_ID: cname-in-context-of-cfn
-:END:
+:properties:
+:custom_id: cname-in-context-of-cfn
+:end:
 
 #+begin_quote
 Before diving into the details, it is important to clarify that a [[#CloudFront][CloudFront]] alternate domain name (CNAME) i*s not the same thing* as the authoritative DNS domain name or canonical name, also known as a CNAME. These two entries are related by nature of establishing a link between two different entities, but each entry is separate and distinct from each other. The [[#CloudFront][CloudFront]] alternate domain name (CNAME) on a [[#CloudFront][CloudFront]] distribution allows you to serve your content using a custom CNAME from your DNS records, such as www.example.com, instead of the default domain that [[#CloudFront][CloudFront]] assigns, such as d123456abcdef8.cloudfront.net. Only the CNAME from your authoritative DNS records actually controls where your domain's traffic is pointed to and from which endpoint your traffic will be served to your end users.
@@ -28,12 +28,12 @@ Before diving into the details, it is important to clarify that a [[#CloudFront]
 #+end_quote
 
 * Remediations
-:PROPERTIES:
-:CUSTOM_ID: remediations
-:END:
-| Service type                          | Remediation                                                                                                                                                                                                                                                                                                                  |
-|---------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [[#AWS%2FS3][AWS/S3]]                 | =The specified bucket does not exist=                                                                                                                                                                                                                                                                                        |
+:properties:
+:custom_id: remediations
+:end:
+| Service type   | Remediation                                                                                                                   |
+|----------------+-------------------------------------------------------------------------------------------------------------------------------|
+| [[#AWS%2FS3][AWS/S3]]         | =The specified bucket does not exist=                                                                                           |
 | [[#AWS%2FCloudFront][AWS/CloudFront]] | not vulnerable anymore ([[https://aws.amazon.com/blogs/networking-and-content-delivery/continually-enhancing-domain-security-on-amazon-cloudfront/][official statement]]){.tc-tiddlylink-external rel="noopener noreferrer" target=“_blank”}, [[https://github.com/EdOverflow/can-i-take-over-xyz/issues/29][github issue]]) |
 * Resources
 - 2023-03-15 ◦ [[https://www.cyjax.com/2022/10/24/a-comprehensive-synopsis-of-217-subdomain-takeover-reports/][A comprehensive synopsis of 217 subdomain takeover reports]]

@@ -229,6 +229,7 @@ A collection of interesting threads.
 
 ### Success stories {#success-stories}
 
+-   2024-05-23 ◦ [From Ground Zero to Production: Go's Journey at Google - Yves Junqueira's blog](https://i-admin.cetico.org/posts/early-days-golang-google/)
 -   2022-10-19 ◦ [Have you moved from Java to Go (or another popular language)](https://www.reddit.com/r/golang/comments/y6hg08/have_you_moved_from_java_to_go_or_another_popular/)
 
 

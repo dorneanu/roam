@@ -20,6 +20,7 @@ draft = false
 
 ## Search engines {#search-engines}
 
+-   <https://hackersearch.net/>
 -   <http://hnapp.com>
 -   <http://hnpaper.forge.partlab.io>
 

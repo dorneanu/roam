@@ -47,118 +47,103 @@ About updating our own views
         -   **Open-minded:** Willingness to consider new evidence and revise beliefs.
         -   **Empirical Approach:** Relies on data, experimentation, and feedback for learning.
 
-<!--list-separator-->
 
--  Note 1
+##### Note 1 {#note-1}
 
-    > Research shows that when people are resistant to change, it helps to reinforce what will stay the same. **Visions for change are more compelling when they include visions of continuity**. Although our strategy might evolve, our identity will endure.
+> Research shows that when people are resistant to change, it helps to reinforce what will stay the same. **Visions for change are more compelling when they include visions of continuity**. Although our strategy might evolve, our identity will endure.
 
 
 #### The armchair quarterback and the Impostor: Finding the sweet spot of confidence {#the-armchair-quarterback-and-the-impostor-finding-the-sweet-spot-of-confidence}
 
-<!--list-separator-->
 
--  The Armchair Quarterback
+##### The Armchair Quarterback {#the-armchair-quarterback}
 
-    The term "armchair quarterback" refers to a person who criticizes or gives advice from the sidelines without actively participating in the game. In the context of decision-making and learning, an armchair quarterback mindset involves believing that we have all the answers or solutions without seeking additional information, feedback, or perspectives. This attitude can lead to overconfidence and closed-mindedness, preventing us from considering new ideas or adapting our beliefs in the face of new evidence.
+The term "armchair quarterback" refers to a person who criticizes or gives advice from the sidelines without actively participating in the game. In the context of decision-making and learning, an armchair quarterback mindset involves believing that we have all the answers or solutions without seeking additional information, feedback, or perspectives. This attitude can lead to overconfidence and closed-mindedness, preventing us from considering new ideas or adapting our beliefs in the face of new evidence.
 
-<!--list-separator-->
 
--  The Impostor
+##### The Impostor {#the-impostor}
 
-    The concept of the "impostor" centers around the feeling of inadequacy or the fear of being exposed as a fraud, despite evidence of competence or accomplishments. The impostor mindset can prevent individuals from sharing their ideas, seeking feedback, or taking risks due to a persistent belief that they are not good enough or deserving of success. This fear of failure or rejection can hinder personal growth and learning opportunities.
+The concept of the "impostor" centers around the feeling of inadequacy or the fear of being exposed as a fraud, despite evidence of competence or accomplishments. The impostor mindset can prevent individuals from sharing their ideas, seeking feedback, or taking risks due to a persistent belief that they are not good enough or deserving of success. This fear of failure or rejection can hinder personal growth and learning opportunities.
 
-<!--list-separator-->
 
--  Note 2
+##### Note 2 {#note-2}
 
-    > Let me interrupt your expertise with my confidence
+> Let me interrupt your expertise with my confidence
 
-<!--list-separator-->
 
--  Note 3
+##### Note 3 {#note-3}
 
-    > What he (David Oddsson) lacked is a crucial nutrient for the mind: humility. The antidote to getting stuck on Mount Stupid is taking a regular dose of it. "**Arrogance is ignorance plus conviction**," blogger Tim Urban explains. "While humility is a permeable filter that absorbs life experience and converts it into knowledge and wisdom, arrogance is a rubber shield that life experience simply bounces off."
+> What he (David Oddsson) lacked is a crucial nutrient for the mind: humility. The antidote to getting stuck on Mount Stupid is taking a regular dose of it. "**Arrogance is ignorance plus conviction**," blogger Tim Urban explains. "While humility is a permeable filter that absorbs life experience and converts it into knowledge and wisdom, arrogance is a rubber shield that life experience simply bounces off."
 
-<!--list-separator-->
 
--  The Narcissist Test
+##### The Narcissist Test {#the-narcissist-test}
 
-    -   2024-02-21 ◦ [The Narcissist Test](https://www.savagechickens.com/2009/06/the-narcissist-test.html)
+-   [Narcissism](../../topics/narcissism.md)
+-   2024-02-21 ◦ [The Narcissist Test](https://www.savagechickens.com/2009/06/the-narcissist-test.html)
 
 
 #### The joy of being wrong: The thrill of not believing everything you think {#the-joy-of-being-wrong-the-thrill-of-not-believing-everything-you-think}
 
-<!--list-separator-->
 
--  How To Acquire Wisdom
+##### How To Acquire Wisdom {#how-to-acquire-wisdom}
 
-    -   2024-02-21 ◦ [How To Acquire Wisdom](https://www.savagechickens.com/2013/08/how-to-acquire-wisdom.html)
+-   2024-02-21 ◦ [How To Acquire Wisdom](https://www.savagechickens.com/2013/08/how-to-acquire-wisdom.html)
 
-<!--list-separator-->
 
--  Note 1
+##### Note 1 {#note-1}
 
-    Separate opinions from identity
+Separate opinions from identity
 
-    > My past self was Mr. Facts-I was too fixated on knowing. Now I'm more interested in finding out what I don't know. As Bridgewater founder Ray Dalio told me, "**If you don't look back at yourself and think, 'Wow, how stupid I was a year ago, then you must not have learned much in the last year**."
-    >
-    > The second kind of detachment is separating your opinions from your identity. I'm guessing you wouldn't want to see a doctor whose identity is Professional Lobotomist, send your kids to a teacher whose identity is Corporal Punisher, or live in a town where the police chief's identity is Stop-and-Frisker. Once upon a time, all of these practices were seen as reasonable and effective
+> My past self was Mr. Facts-I was too fixated on knowing. Now I'm more interested in finding out what I don't know. As Bridgewater founder Ray Dalio told me, "**If you don't look back at yourself and think, 'Wow, how stupid I was a year ago, then you must not have learned much in the last year**."
+>
+> The second kind of detachment is separating your opinions from your identity. I'm guessing you wouldn't want to see a doctor whose identity is Professional Lobotomist, send your kids to a teacher whose identity is Corporal Punisher, or live in a town where the police chief's identity is Stop-and-Frisker. Once upon a time, all of these practices were seen as reasonable and effective
 
-<!--list-separator-->
 
--  Note 2
+##### Note 2 {#note-2}
 
-    > Who you are should be a question of what you **value** and not what you **believe**
+> Who you are should be a question of what you **value** and not what you **believe**
 
-<!--list-separator-->
 
--  On prediction
+##### On prediction {#on-prediction}
 
-    -   2024-02-21 ◦ [Jean-Pierre Beugoms - Good Judgment](https://goodjudgment.com/about/our-team/superforecaster-profiles/jean-pierre-beugoms/)Ö
+-   2024-02-21 ◦ [Jean-Pierre Beugoms - Good Judgment](https://goodjudgment.com/about/our-team/superforecaster-profiles/jean-pierre-beugoms/)Ö
 
-<!--list-separator-->
 
--  Note 3
+##### Note 3 {#note-3}
 
-    We should laugh at ourselves:
+We should laugh at ourselves:
 
-    > If we're insecure, we make fun of others. If we're comfortable being wrong, we're not afraid to poke fun at ourselves. Laughing at ourselves reminds us that although we might take our decisions seriously, we don't have to take ourselves too seriously. Research suggests that the more frequently we make fun of ourselves, the happier we tend to be.\* Instead of beating ourselves up about our mistakes, we can turn some of our past misconceptions into sources of present amusement
+> If we're insecure, we make fun of others. If we're comfortable being wrong, we're not afraid to poke fun at ourselves. Laughing at ourselves reminds us that although we might take our decisions seriously, we don't have to take ourselves too seriously. Research suggests that the more frequently we make fun of ourselves, the happier we tend to be.\* Instead of beating ourselves up about our mistakes, we can turn some of our past misconceptions into sources of present amusement
 
-<!--list-separator-->
 
--  Note 4
+##### Note 4 {#note-4}
 
-    Change your mind frequently
+Change your mind frequently
 
-    > "People who are right a lot listen a lot, and they change their mind a lot," Jeff Bezos says. "If you don't change your mind frequently, you're going to be wrong a lot."
+> "People who are right a lot listen a lot, and they change their mind a lot," Jeff Bezos says. "If you don't change your mind frequently, you're going to be wrong a lot."
 
 
 #### The good fight club: The psychology of constructive conflict {#the-good-fight-club-the-psychology-of-constructive-conflict}
 
-<!--list-separator-->
 
--  Note 1
+##### Note 1 {#note-1}
 
-    > Absence of conflict ist not harmony, it's apathy
+> Absence of conflict ist not harmony, it's apathy
 
-<!--list-separator-->
 
--  Types of conflicts
+##### Types of conflicts {#types-of-conflicts}
 
-    Relationship conflict vs task conflict
+Relationship conflict vs task conflict
 
-    <!--list-separator-->
 
-    -  Relationship Conflicts
+###### Relationship Conflicts {#relationship-conflicts}
 
-        > Relationship Conflict refers to personal, interpersonal disagreements among team members, often rooted in personal animosity, jealousy, or other emotional issues. Such conflicts are characterized by a **focus on individuals' characteristics rather than the task at hand**, leading to a toxic work environment, reduced team cohesion, and impaired group performance. Grant emphasizes the detrimental effects of relationship conflicts on team collaboration and productivity, suggesting that they should be minimized or resolved to maintain a healthy workplace.
+> Relationship Conflict refers to personal, interpersonal disagreements among team members, often rooted in personal animosity, jealousy, or other emotional issues. Such conflicts are characterized by a **focus on individuals' characteristics rather than the task at hand**, leading to a toxic work environment, reduced team cohesion, and impaired group performance. Grant emphasizes the detrimental effects of relationship conflicts on team collaboration and productivity, suggesting that they should be minimized or resolved to maintain a healthy workplace.
 
-    <!--list-separator-->
 
-    -  Task Conflicts
+###### Task Conflicts {#task-conflicts}
 
-        > Task Conflict, on the other hand, involves **disagreements about the work itself, such as differences in opinions, ideas, and approaches to achieving a common goal. Unlike relationship conflicts, task conflicts can be beneficial to teams when managed properly**. They encourage diverse thinking, creativity, and reevaluation of ideas, contributing to better decision-making and innovation. Grant advocates for embracing task conflicts in a constructive manner, fostering an environment where dissenting opinions are valued and explored rather than suppressed.
+> Task Conflict, on the other hand, involves **disagreements about the work itself, such as differences in opinions, ideas, and approaches to achieving a common goal. Unlike relationship conflicts, task conflicts can be beneficial to teams when managed properly**. They encourage diverse thinking, creativity, and reevaluation of ideas, contributing to better decision-making and innovation. Grant advocates for embracing task conflicts in a constructive manner, fostering an environment where dissenting opinions are valued and explored rather than suppressed.
 
 
 ### Part 2: Interpersonal rethinking {#part-2-interpersonal-rethinking}
@@ -168,76 +153,71 @@ Opening other people's minds
 
 #### Dances with foes: How to win debates and influence people {#dances-with-foes-how-to-win-debates-and-influence-people}
 
-<!--list-separator-->
 
--  Note 1
+##### Note 1 {#note-1}
 
-    A debate is more like a dance
+A debate is more like a dance
 
-    > A good debate is not a war. It's not even a tug-of-war, where you can drag your opponent to your side if you pull hard enough on the rope. **It's more like a dance that hasn't been choreographed, negotiated with a partner who has a different set of steps in mind**. If you try too hard to lead. your partner will resist. If you can adapt your moves to hers, and get her to do the same, you're more likely to end up in rhythm
+> A good debate is not a war. It's not even a tug-of-war, where you can drag your opponent to your side if you pull hard enough on the rope. **It's more like a dance that hasn't been choreographed, negotiated with a partner who has a different set of steps in mind**. If you try too hard to lead. your partner will resist. If you can adapt your moves to hers, and get her to do the same, you're more likely to end up in rhythm
 
-<!--list-separator-->
 
--  On to many strong arguments
+##### On to many strong arguments {#on-to-many-strong-arguments}
 
-    > As the negotiators started discussing options and making proposals, a second difference emerged. Most people think of arguments as being like a pair of scales: the more reasons we can pile up on our side, the more it will tip the balance in our favor. Yet the experts did the exact opposite: **They actually presented fewer reasons to support their case. They didn't want to water down their best points**. As Rackham put it, "**A weak argument generally dilutes a strong one**."
+> As the negotiators started discussing options and making proposals, a second difference emerged. Most people think of arguments as being like a pair of scales: the more reasons we can pile up on our side, the more it will tip the balance in our favor. Yet the experts did the exact opposite: **They actually presented fewer reasons to support their case. They didn't want to water down their best points**. As Rackham put it, "**A weak argument generally dilutes a strong one**."
 
-<!--list-separator-->
 
--  Skilled vs average negotiators
+##### Skilled vs average negotiators {#skilled-vs-average-negotiators}
 
-    By category:
+By category:
 
-    -   **Cognitive Flexibility:**
-        -   **Skilled Negotiators:** Possess a high degree of cognitive flexibility, allowing them to reconsider their positions, adapt their strategies in real-time, and entertain multiple perspectives.
-        -   **Average Negotiators:** Become anchored to their initial positions and fail to adjust to new information or changing circumstances.
+-   **Cognitive Flexibility:**
+    -   **Skilled Negotiators:** Possess a high degree of cognitive flexibility, allowing them to reconsider their positions, adapt their strategies in real-time, and entertain multiple perspectives.
+    -   **Average Negotiators:** Become anchored to their initial positions and fail to adjust to new information or changing circumstances.
 
-    -   **Empathy and Perspective-Taking:**
-        -   **Skilled Negotiators:** Excel in understanding and valuing the perspectives of their counterparts. Actively listen and engage in perspective-taking, enabling them to uncover underlying interests and find common ground.
-        -   **Average Negotiators:** Focus predominantly on their own needs and positions, overlooking the interests of the other party.
+-   **Empathy and Perspective-Taking:**
+    -   **Skilled Negotiators:** Excel in understanding and valuing the perspectives of their counterparts. Actively listen and engage in perspective-taking, enabling them to uncover underlying interests and find common ground.
+    -   **Average Negotiators:** Focus predominantly on their own needs and positions, overlooking the interests of the other party.
 
-    -   **Constructive Disagreement:**
-        -   **Skilled Negotiators:** View disagreements as opportunities for problem-solving rather than conflicts to be won. Approach negotiations with a collaborative mindset, seeking solutions that satisfy both parties' core interests.
-        -   **Average Negotiators:** Approach negotiations as zero-sum games, where one party's gain is seen as the other's loss.
+-   **Constructive Disagreement:**
+    -   **Skilled Negotiators:** View disagreements as opportunities for problem-solving rather than conflicts to be won. Approach negotiations with a collaborative mindset, seeking solutions that satisfy both parties' core interests.
+    -   **Average Negotiators:** Approach negotiations as zero-sum games, where one party's gain is seen as the other's loss.
 
-    -   **Questioning and Rethinking Assumptions:**
-        -   **Skilled Negotiators:** Adept at questioning assumptions, both their own and those of others. Use probing questions to explore and uncover assumptions driving the negotiation. Openness to rethinking enables identifying creative solutions.
-        -   **Average Negotiators:** Unwilling to challenge their initial assumptions, limiting their ability to identify creative solutions.
+-   **Questioning and Rethinking Assumptions:**
+    -   **Skilled Negotiators:** Adept at questioning assumptions, both their own and those of others. Use probing questions to explore and uncover assumptions driving the negotiation. Openness to rethinking enables identifying creative solutions.
+    -   **Average Negotiators:** Unwilling to challenge their initial assumptions, limiting their ability to identify creative solutions.
 
-    -   **Preparation and Strategy:**
-        -   **Skilled Negotiators:** Invest time in thorough preparation, understanding the context, parties involved, and potential negotiation dynamics. Combined with cognitive and emotional skills, they navigate negotiations more effectively.
-        -   **Average Negotiators:** Lack the depth and breadth of preparation seen in skilled negotiators, which hinders their ability to navigate negotiations effectively.
+-   **Preparation and Strategy:**
+    -   **Skilled Negotiators:** Invest time in thorough preparation, understanding the context, parties involved, and potential negotiation dynamics. Combined with cognitive and emotional skills, they navigate negotiations more effectively.
+    -   **Average Negotiators:** Lack the depth and breadth of preparation seen in skilled negotiators, which hinders their ability to navigate negotiations effectively.
 
 
 #### Vaccine whisperers and mild-mannered interrogators: How the right kind of listening motivates people to change {#vaccine-whisperers-and-mild-mannered-interrogators-how-the-right-kind-of-listening-motivates-people-to-change}
 
-<!--list-separator-->
 
--  Motivational interviewing
+##### Motivational interviewing {#motivational-interviewing}
 
-    -   **Empathetic Engagement:**
-        -   Grant emphasizes the importance of empathetic engagement, where the interviewer expresses genuine interest and understanding of the interviewee's perspective without judgment.
+-   **Empathetic Engagement:**
+    -   Grant emphasizes the importance of empathetic engagement, where the interviewer expresses genuine interest and understanding of the interviewee's perspective without judgment.
 
-    -   **Open-ended Questions:**
-        -   He advocates for the use of open-ended questions to encourage deeper reflection and discussion, allowing individuals to explore their thoughts and feelings more fully.
+-   **Open-ended Questions:**
+    -   He advocates for the use of open-ended questions to encourage deeper reflection and discussion, allowing individuals to explore their thoughts and feelings more fully.
 
-    -   **Reflective Listening:**
-        -   Grant highlights reflective listening as a key technique, where the interviewer mirrors back what the interviewee has said, demonstrating understanding and encouraging further elaboration.
+-   **Reflective Listening:**
+    -   Grant highlights reflective listening as a key technique, where the interviewer mirrors back what the interviewee has said, demonstrating understanding and encouraging further elaboration.
 
-    -   **Affirmation:**
-        -   He notes the significance of affirmation, where positive reinforcement is used to acknowledge the interviewee's strengths, efforts, and progress, fostering a supportive and encouraging environment.
+-   **Affirmation:**
+    -   He notes the significance of affirmation, where positive reinforcement is used to acknowledge the interviewee's strengths, efforts, and progress, fostering a supportive and encouraging environment.
 
-    -   **Eliciting Change Talk:**
-        -   Grant discusses the strategy of eliciting 'change talk' from the interviewee, encouraging them to verbalize their own motivations for change, which can be more persuasive than external arguments.
+-   **Eliciting Change Talk:**
+    -   Grant discusses the strategy of eliciting 'change talk' from the interviewee, encouraging them to verbalize their own motivations for change, which can be more persuasive than external arguments.
 
-    -   **Respecting Autonomy:**
-        -   He underscores the importance of respecting the interviewee's autonomy, making it clear that any decisions and changes are ultimately up to them, which can enhance their motivation to change.
+-   **Respecting Autonomy:**
+    -   He underscores the importance of respecting the interviewee's autonomy, making it clear that any decisions and changes are ultimately up to them, which can enhance their motivation to change.
 
-<!--list-separator-->
 
--  Books
+##### Books {#books}
 
-    -   2024-02-21 ◦ [What Happened To You?: Conversations on Trauma, Resilience, and Healing by Bruce D. Perry | Goodreads](https://www.goodreads.com/book/show/53238858-what-happened-to-you)
+-   2024-02-21 ◦ [What Happened To You?: Conversations on Trauma, Resilience, and Healing by Bruce D. Perry | Goodreads](https://www.goodreads.com/book/show/53238858-what-happened-to-you)
 
 
 ### Part 3: Collective rethinking {#part-3-collective-rethinking}
@@ -247,13 +227,12 @@ Creating communities of lifelong learners
 
 #### Charged conversations: Depolarizing our divided discussions {#charged-conversations-depolarizing-our-divided-discussions}
 
-<!--list-separator-->
 
--  Skeptics vs deniers
+##### Skeptics vs deniers {#skeptics-vs-deniers}
 
-    > It's especially important to distinguish skeptics from deniers. Skeptics have a healthy scientific stance: They don't believe everything they see, hear, or read. They ask critical questions and update their think ing as they gain access to new information. Deniers are in the dismis sive camp, locked in preacher, prosecutor, or politician mode: They don't believe anything that comes from the other side. They ignore or twist facts to support their predetermined conclusions. As the Committee for Skeptical Inquiry put it in a plea to the media, skepticism is "foundationalto the scientific method," whereas denial is "the a priori rejection of ideas without objective consideration,"\*
-    >
-    > \*Climatologists go further, noting that within denial there are at least six different categories: arguing that (1) COa is not increasing. (2) even if CO2 is increasing, warming is not happening: (3) even if warming is happening, it's due to natural causes; (4) even if humans are causing warming, the impact is minimal; (5) even if the human impact is not trivial, it will be beneficial; and (6) before the situation becomes truly dire, we'll adapt or solve it. Experiments suggest that giving science deniers a public platform can backfire by spreading false beliefs, but rebutting their arguments or their techniques can help.
+> It's especially important to distinguish skeptics from deniers. Skeptics have a healthy scientific stance: They don't believe everything they see, hear, or read. They ask critical questions and update their think ing as they gain access to new information. Deniers are in the dismis sive camp, locked in preacher, prosecutor, or politician mode: They don't believe anything that comes from the other side. They ignore or twist facts to support their predetermined conclusions. As the Committee for Skeptical Inquiry put it in a plea to the media, skepticism is "foundationalto the scientific method," whereas denial is "the a priori rejection of ideas without objective consideration,"\*
+>
+> \*Climatologists go further, noting that within denial there are at least six different categories: arguing that (1) COa is not increasing. (2) even if CO2 is increasing, warming is not happening: (3) even if warming is happening, it's due to natural causes; (4) even if humans are causing warming, the impact is minimal; (5) even if the human impact is not trivial, it will be beneficial; and (6) before the situation becomes truly dire, we'll adapt or solve it. Experiments suggest that giving science deniers a public platform can backfire by spreading false beliefs, but rebutting their arguments or their techniques can help.
 
 
 ### Part 4: Conclusion {#part-4-conclusion}

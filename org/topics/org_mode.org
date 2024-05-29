@@ -1,6 +1,6 @@
-:PROPERTIES:
-:ID:       3614b072-a1e1-4da1-8d60-1a2880d52d66
-:END:
+:properties:
+:id:       3614b072-a1e1-4da1-8d60-1a2880d52d66
+:end:
 #+title: org-mode
 #+filetags: :emacs:
 
@@ -67,6 +67,8 @@
 ** Publishing
 - 2022-10-05 ◦ [[https://www.gibiris.org/eo-blog/posts/2022/09/28_org-reveal-and-gridded-layouts.html][Org Reveal and gridded layouts]]
 ** Properties
-- 2024-04-11 ◦ [[https://emacs.stackexchange.com/questions/60219/how-to-set-org-mode-header-properties-globally][How to set org-mode header properties globally? - Emacs Stack Exchange]] 
+- 2024-04-11 ◦ [[https://emacs.stackexchange.com/questions/60219/how-to-set-org-mode-header-properties-globally][How to set org-mode header properties globally? - Emacs Stack Exchange]]
 ** Articles
 - 2022-08-24 ◦ [[https://zzamboni.org/post/how-to-easily-create-and-use-human-readable-ids-in-org-mode-and-doom-emacs/][zzamboni.org | How to easily create and use human-readable IDs in Org mode and Doom Emacs]]
+** Productivity
+- 2024-05-23 ◦ [[https://slawomir-grochowski.com/posts/02-how-i-organize-my-life-in-org-mode-using-column-view.html][How I organize my life in ORG mode using column view]]

@@ -1,4 +1,7 @@
-:PROPERTIES:
-:ID:       d0ac1661-b81c-453d-9b49-4a08c58beafa
-:END:
+:properties:
+:id:       d0ac1661-b81c-453d-9b49-4a08c58beafa
+:end:
 #+title: Default Network
+
+- Researchers
+  - Marcus Raichle

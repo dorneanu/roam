@@ -1,6 +1,6 @@
 +++
 title = "Big Magic: Creative Living Beyond Fear"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 date = 2022-12-07
 tags = ["creativity", "book"]
 draft = false
@@ -31,7 +31,7 @@ draft = false
 >
 > But the Greeks and the Romans both believed in the idea of an external daemon of creativity as a sort of house elf, if you will, who lived within the walls of your home and who sometimes aided you in your labors. **The Romans had a specific term** for that helpful house elf. They **called it your genius** your guardian deity, the conduit of your in spiration. Which is to say, the Romans didn't believe that an exceptionally gifted person was a genius; they believed that an **exceptionally gifted person had a genius**.
 >
-> It's a subtle but important distinction (being vs. having) and, I think, it's a wise psychological construct. The idea of an **external genius helps to keep the artist's ego in check**, distancing him somewhat from the burden of taking either full credit or full blame for the outcome of his work. If your work is successful, in other words, you are obliged to thank your external genius for the help, thus holding you back from total narcissism.
+> It's a subtle but important distinction (being vs. having) and, I think, it's a wise psychological construct. The idea of an **external genius helps to keep the artist's ego in check**, distancing him somewhat from the burden of taking either full credit or full blame for the outcome of his work. If your work is successful, in other words, you are obliged to thank your external genius for the help, thus holding you back from total [narcissism](../../topics/narcissism.md).
 
 
 ## Perfectionism {#perfectionism}
@@ -75,7 +75,7 @@ draft = false
 ## Passion vs Curiosity {#passion-vs-curiosity}
 
 -   don't blindly follow your passion
-    -   as Cal Newport says in [So good they can't ignore you]({{< relref "so_good_they_can_t_ignore_you.md" >}})
+    -   as Cal Newport says in [So good they can't ignore you](so_good_they_can_t_ignore_you.md)
 
 > Perhaps you are surprised to hear this from me, but I am somewhat against passion. Or at least, I am against the preaching of passion. I don't believe in telling people, "All you need to do is to follow your passion, and thing will be fine." I think this can be an unhelpful and even cruel suggestion at times.
 >

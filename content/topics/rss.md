@@ -1,11 +1,12 @@
 +++
 title = "rss"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
 ## Resources {#resources}
 
+-   2024-05-28 ◦ [OpenOrb](https://openorb.idiot.sh/search)
 -   2023-09-04 ◦ [XRss](https://xrss.infogulch.com/)
 -   2023-09-04 ◦ [RSS Feed Extractor - Get an RSS feed of almost anything](https://rssfeedasap.com/)
 -   2023-07-17 ◦ [RSS-Bridge (c)](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)

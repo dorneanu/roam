@@ -114,3 +114,8 @@ draft = false
 ### Articles {#articles}
 
 -   2022-08-24 ◦ [zzamboni.org | How to easily create and use human-readable IDs in Org mode and Doom Emacs](https://zzamboni.org/post/how-to-easily-create-and-use-human-readable-ids-in-org-mode-and-doom-emacs/)
+
+
+### Productivity {#productivity}
+
+-   2024-05-23 ◦ [How I organize my life in ORG mode using column view](https://slawomir-grochowski.com/posts/02-how-i-organize-my-life-in-org-mode-using-column-view.html)
