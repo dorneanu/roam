@@ -1,6 +1,6 @@
-:PROPERTIES:
-:ID:       e59fa8c3-554b-47fd-adb9-a85807038a9a
-:END:
+:properties:
+:id:       e59fa8c3-554b-47fd-adb9-a85807038a9a
+:end:
 #+title: Kubernetes
 
 * Articles
@@ -21,7 +21,7 @@
 - 2022-10-24 ◦ [[https://dev.to/aksrao1998/dockerize-a-golang-http-server-and-deploy-it-on-kubernetes-592j][Dockerize a GoLang HTTP server and deploy it on Kubernetes]]
 ** k3s
 - 2024-04-18 ◦ [[https://blog.okami101.io/2023/08/a-beautiful-gitops-day-build-your-self-hosted-kubernetes-cluster/][A beautiful GitOps day - Build your self-hosted Kubernetes cluster · Okami101 Blog]]
-- 2024-04-18 ◦ [[https://blog.internetz.me/posts/my-road-to-self-hosted-kubernetes-with-k3s/][My road to self hosted kubernetes with k3s]] 
+- 2024-04-18 ◦ [[https://blog.internetz.me/posts/my-road-to-self-hosted-kubernetes-with-k3s/][My road to self hosted kubernetes with k3s]]
 - 2024-04-18 ◦ [[https://nimblehq.co/blog/provision-k3s-on-google-cloud-with-terraform-and-k3sup][Provision k3s on Google Cloud with Terraform and k3sup – Nimble]]
 ** GitOps
 - 2023-09-07 ◦ [[https://www.youtube.com/watch?v=dONzzCc0oHo&t=865s&ab_channel=ContainersfromtheCouch][GitOps with Amazon EKS Workshop | Flux and ArgoCD - YouTube]]
