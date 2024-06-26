@@ -11,7 +11,11 @@
 - 2023-09-21 ◦ [[https://dev.to/rigdev/the-risks-and-rewards-of-adopting-kubernetes-1k57][The 5 Biggest Risks and Rewards of Adopting Kubernetes]]
 - 2022-12-20 ◦ [[https://www.ibm.com/cloud/blog/top-7-benefits-of-kubernetes][Top 7 Benefits of Kubernetes | IBM]]
   #+begin_quote
-  In fact, Kubernetes is the fastest growing project in the history of open-source software, after Linux. According to a 2021 study by the Cloud Native Computing Foundation (CNCF), from 2020 to 2021, the number of Kubernetes engineers grew by 67% to 3.9 million. That’s 31% of all backend developers, an increase of 4 percentage points in a year.
+  In fact, Kubernetes is the fastest growing project in the history of
+  open-source software, after Linux. According to a 2021 study by the Cloud
+  Native Computing Foundation (CNCF), from 2020 to 2021, the number of
+  Kubernetes engineers grew by 67% to 3.9 million. That’s 31% of all backend
+  developers, an increase of 4 percentage points in a year.
   #+end_quote
 ** Deployment
 - 2022-10-19 ◦ [[https://www.innoq.com/de/articles/2022/10/helm-und-helmfile/][Helm und Helmfile — Dynamisches Duo für automatisierte Kubernetes-Deployments]]
@@ -19,6 +23,8 @@
 - 2023-03-29 ◦ [[https://www.redhat.com/architect/12-factor-app-containers][12 Factor App meets Kubernetes: Benefits for cloud-native apps | Enable Architect]]
 ** Golang
 - 2022-10-24 ◦ [[https://dev.to/aksrao1998/dockerize-a-golang-http-server-and-deploy-it-on-kubernetes-592j][Dockerize a GoLang HTTP server and deploy it on Kubernetes]]
+** Fun
+- 2024-06-06 ◦ [[https://www.reddit.com/r/kubernetes/comments/1c8uell/some_assembly_may_be_required_ideas_included/][Some assembly (K8s game as lego)]]
 ** k3s
 - 2024-04-18 ◦ [[https://blog.okami101.io/2023/08/a-beautiful-gitops-day-build-your-self-hosted-kubernetes-cluster/][A beautiful GitOps day - Build your self-hosted Kubernetes cluster · Okami101 Blog]]
 - 2024-04-18 ◦ [[https://blog.internetz.me/posts/my-road-to-self-hosted-kubernetes-with-k3s/][My road to self hosted kubernetes with k3s]]
@@ -26,6 +32,7 @@
 ** GitOps
 - 2023-09-07 ◦ [[https://www.youtube.com/watch?v=dONzzCc0oHo&t=865s&ab_channel=ContainersfromtheCouch][GitOps with Amazon EKS Workshop | Flux and ArgoCD - YouTube]]
 ** Security
+- 2024-06-04 ◦ [[https://aws.amazon.com/blogs/containers/amazon-eks-pod-identity-a-new-way-for-applications-on-eks-to-obtain-iam-credentials/][Amazon EKS Pod Identity: a new way for applications on EKS to obtain IAM credentials | Containers]]
 - 2024-01-25 ◦ [[https://blog.doyensec.com/2024/01/23/k8s-scheduling-secure-design.html][Kubernetes Scheduling and Secure Design]]
 - 2024-01-11 ◦ [[https://lucid.app/lucidchart/d034d4e7-4f8f-46c2-ad9d-276cde0e0c48/view?page=lmQ5yvIR~cw0#][Kubernetes Security: Lucidchart]]
   - Awesome charts related to the architecture and attack vectors of the components related to K8s

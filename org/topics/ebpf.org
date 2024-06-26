@@ -1,6 +1,6 @@
-:PROPERTIES:
-:ID:       b757ab31-be42-47b4-b21c-44a0efbf595b
-:END:
+:properties:
+:id:       b757ab31-be42-47b4-b21c-44a0efbf595b
+:end:
 #+title: eBPF
 
 - Kernel side
@@ -11,6 +11,7 @@
 - also Docker uses eBPF technologies under the hood
 
 * Resources
+- 2024-06-18 ◦ [[https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06][An Applied Introduction to eBPF with Go — Ozan Sazak]]
 - 2023-09-06 ◦ [[https://sysdig.com/blog/ebpf-offensive-capabilities/][eBPF Offensive Capabilities - Get Ready for Next-gen Malware – Sysdig]]
 - 2022-09-13 ◦ [[https://changelog.com/news/the-power-of-ebpf-pj2V][The power of eBPF |> Changelog]]
 - 2022-09-13 ◦ [[https://ebpf.io/][eBPF - Introduction, Tutorials & Community Resources]]

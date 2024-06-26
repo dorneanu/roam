@@ -1,4 +1,4 @@
-:PROPERTIES:
+:properties:
 :ID:       871392b8-355f-486b-badd-2a2458363ade
 :END:
 #+created: 20180822113523333
@@ -56,3 +56,5 @@ Types:
 :CUSTOM_ID: serverless-frameworks
 :END:
 - [[https://github.com/serverless/examples][serverless.com]]
+* Resources
+- https://blog.bytebytego.com/p/aws-lambda-under-the-hood

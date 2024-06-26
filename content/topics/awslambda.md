@@ -1,5 +1,6 @@
 +++
 title = "AWS/Lambda"
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -42,3 +43,8 @@ Types:
 ## Serverless frameworks {#serverless-frameworks}
 
 -   [serverless.com](https://github.com/serverless/examples)
+
+
+## Resources {#resources}
+
+-   <https://blog.bytebytego.com/p/aws-lambda-under-the-hood>

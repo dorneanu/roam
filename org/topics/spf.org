@@ -1,3 +1,6 @@
+:properties:
+:id:       adfbef48-ed07-4044-9276-9e458fa03c4b
+:end:
 #+created: 20191210120343449
 #+modified: 20210518184432994
 #+origin: https://www.dmarcanalyzer.com/spf/

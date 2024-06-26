@@ -52,9 +52,12 @@
 - 2023-10-23 ◦ [[https://dev.to/encore/building-an-event-driven-uptime-monitor-in-go-3jdd][Build an Event-Driven Uptime Monitor in Go 🚀 - DEV Community]]
 ** HTTP
 - 2022-10-25 ◦ [[https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/][Go and Proxy Servers: Part 1 - HTTP Proxies - Eli Bendersky's website]]
+** Contexts
+- 2024-06-19 ◦ [[https://blog.meain.io/2024/golang-context/][Putting Go's Context package into context]]
 ** Internals
 - 2023-03-27 ◦ [[https://www.kelche.co/blog/go/golang-scheduling/][The Golang Scheduler]]
 ** Learning
+- 2024-06-06 ◦ [[https://www.reddit.com/r/golang/comments/1ciq16b/internalize_go_programming_techniques/][Internalize Go programming techniques]]
 - 2022-11-16 ◦ [[https://github.com/mauricioabreu/golings/][github.com/mauricioabreu/golings: rustlings but for golang this time]]
 - 2022-08-29 ◦ [[https://appliedgo.com/blog/go-as-a-glue-language][How to use Go as a glue language]]
   #+begin_quote

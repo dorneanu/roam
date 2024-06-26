@@ -9,6 +9,9 @@ This is my personal book TODO list, along with the year in which I added the boo
 
 ## 2024 {#2024}
 
+-   2024-06-19 ◦ [26 Marathons: What I Learned About Faith, Identity, Running, and Life from My Marathon Career by Meb Keflezighi | Goodreads](https://www.goodreads.com/book/show/37901578-26-marathons)
+-   2024-06-19 ◦ [What I Talk About When I Talk About Running by Haruki Murakami | Goodreads](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
+-   2024-06-19 ◦ [How to Do Nothing: Resisting the Attention Economy by Jenny Odell | Goodreads](https://www.goodreads.com/book/show/42771901-how-to-do-nothing)
 -   2024-05-23 ◦ [Get Better at Anything - Scott H Young](https://www.scotthyoung.com/blog/getbetter/)
 -   2024-04-02 ◦ [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat | Goodreads](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat)
 
@@ -26,7 +29,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 ## 2022 {#2022}
 
 -   2022-09-07 ◦ [Peak: Secrets from the New Science of Expertise by K. Anders Ericsson](https://www.goodreads.com/book/show/26312997-peak)
--   2022-09-12 ◦ [Learning Domain-Driven Design [Book](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)] ([DDD]({{< relref "ddd.md" >}}))
+-   2022-09-12 ◦ [Learning Domain-Driven Design [Book](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)] ([DDD](ddd.md))
 -   2022-09-12 ◦ [Fundamentals of Software Architecture: An Engineering Approach by Mark Richards](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture)
 -   2022-09-12 ◦ [Team Topologies](https://teamtopologies.com/)
 -   2022-09-12 ◦ [This is Service Design Doing — Book / School / Methods](https://www.thisisservicedesigndoing.com/)
@@ -79,7 +82,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   [The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA](https://www.goodreads.com/book/show/995029.The_Challenger_Launch_Decision)
 -   [Civilized to Death: What Was Lost on the Way to Modernity](https://www.goodreads.com/book/show/28596619-civilized-to-death)
 -   [Keep Sharp: Build a Better Brain at Any Age](https://www.goodreads.com/en/book/show/52754076-keep-sharp)
--   ✅ [Company of one - Paul Jarvis]({{< relref "../books/company_of_one.md" >}})
+-   ✅ [Company of one - Paul Jarvis](../books/company_of_one.md)
 -   [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
 -   [Business Adventures](https://www.goodreads.com/book/show/4191136-business-adventures) (recommened by Bill Gates)
 -   [The Art of possibility](https://www.goodreads.com/ro/book/show/85697.The_Art_of_Possibility)
@@ -92,7 +95,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 ### Tech {#tech}
 
 -   [Designing Data-Intensive Applications](https://dataintensive.net/)
--   [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/work/best_book/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software) ([DDD]({{< relref "ddd.md" >}}))
+-   [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/work/best_book/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software) ([DDD](ddd.md))
 -   [Software Engineering at Google](https://abseil.io/resources/swe-book)
 
 

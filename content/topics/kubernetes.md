@@ -16,7 +16,11 @@ draft = false
 -   2023-09-21 ◦ [The 5 Biggest Risks and Rewards of Adopting Kubernetes](https://dev.to/rigdev/the-risks-and-rewards-of-adopting-kubernetes-1k57)
 -   2022-12-20 ◦ [Top 7 Benefits of Kubernetes | IBM](https://www.ibm.com/cloud/blog/top-7-benefits-of-kubernetes)
 
-    > In fact, Kubernetes is the fastest growing project in the history of open-source software, after Linux. According to a 2021 study by the Cloud Native Computing Foundation (CNCF), from 2020 to 2021, the number of Kubernetes engineers grew by 67% to 3.9 million. That’s 31% of all backend developers, an increase of 4 percentage points in a year.
+    > In fact, Kubernetes is the fastest growing project in the history of
+    > open-source software, after Linux. According to a 2021 study by the Cloud
+    > Native Computing Foundation (CNCF), from 2020 to 2021, the number of
+    > Kubernetes engineers grew by 67% to 3.9 million. That’s 31% of all backend
+    > developers, an increase of 4 percentage points in a year.
 
 
 ### Deployment {#deployment}
@@ -34,6 +38,11 @@ draft = false
 -   2022-10-24 ◦ [Dockerize a GoLang HTTP server and deploy it on Kubernetes](https://dev.to/aksrao1998/dockerize-a-golang-http-server-and-deploy-it-on-kubernetes-592j)
 
 
+### Fun {#fun}
+
+-   2024-06-06 ◦ [Some assembly (K8s game as lego)](https://www.reddit.com/r/kubernetes/comments/1c8uell/some_assembly_may_be_required_ideas_included/)
+
+
 ### k3s {#k3s}
 
 -   2024-04-18 ◦ [A beautiful GitOps day - Build your self-hosted Kubernetes cluster · Okami101 Blog](https://blog.okami101.io/2023/08/a-beautiful-gitops-day-build-your-self-hosted-kubernetes-cluster/)
@@ -48,6 +57,7 @@ draft = false
 
 ### Security {#security}
 
+-   2024-06-04 ◦ [Amazon EKS Pod Identity: a new way for applications on EKS to obtain IAM credentials | Containers](https://aws.amazon.com/blogs/containers/amazon-eks-pod-identity-a-new-way-for-applications-on-eks-to-obtain-iam-credentials/)
 -   2024-01-25 ◦ [Kubernetes Scheduling and Secure Design](https://blog.doyensec.com/2024/01/23/k8s-scheduling-secure-design.html)
 -   2024-01-11 ◦ [Kubernetes Security: Lucidchart](https://lucid.app/lucidchart/d034d4e7-4f8f-46c2-ad9d-276cde0e0c48/view?page=lmQ5yvIR~cw0#)
     -   Awesome charts related to the architecture and attack vectors of the components related to K8s
