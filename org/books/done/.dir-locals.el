@@ -3,7 +3,7 @@
              (progn
                (setq-local
                 org-agenda-files nil
-                org-hugo-base-dir "/cs/priv/repos/roam"
+                org-hugo-base-dir org-roam-directory
                 org-hugo-section "books"
                 org-export-with-tags nil
                 org-export-with-broken-links t
