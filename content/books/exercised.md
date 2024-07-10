@@ -1,6 +1,6 @@
 +++
 title = "Exercised"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 date = 2023-04-10
 tags = ["anthropology", "science", "health", "todo", "book"]
 draft = false
@@ -186,6 +186,47 @@ On [cytokine]({{< relref "../../topics/cytokine.md" >}}) and inflammations:
 > necessarily having a potbelly figure.
 
 
+## On fat {#on-fat}
+
+
+### 76 {#76}
+
+About fat in the organs:
+
+> The other major type of fat is cached in cells in and around our bellies and
+> other organs including the heart, liver, and muscles. There are many terms for
+> this fat including “\*visceral\*,” “\*abdominal\*,” “\*belly\*,” and “\*ectopic\*,” but
+> I will use the term “\*organ fat\*.” Organ fat cells are dynamic participants in
+> metabolism and, when activated, can quickly **dump fat into the bloodstream**. Organ
+> fat in moderate quantities (about 1 percent of total body weight) is thus normal
+> and beneficial as a short-term energy depot for times when we need rapid access
+> to a lot of calories such as when we walk or jog a long distance.
+
+
+### 76 {#76}
+
+About fat subcutaneos:
+
+> In healthy, normal human adults, including hunter-gatherers, fat constitutes
+> about 10 to 25 percent of body weight in men and about 15 to 30 percent in
+> women. The majority of that fat (about 90 to 95 percent) is **subcutaneous**, so
+> named because it is stored in billions of cells distributed in buttocks,
+> breasts, cheeks, feet, and other nameless places just below the skin.
+>
+> These fat-filled cells are efficient **storehouses of energy that help us cope
+> with long-term shortages of calories** (as we saw from the Minnesota Starvation
+> Experiment). Subcutaneous fat cells have other functions too, especially as
+> glands that produce **hormones regulating appetite and reproduction**.
+
+
+### 77 {#77}
+
+Burn more calories by doing nonphysical activities:
+
+> By merely engaging in low-intensity, “non-exercise” physical activities for five
+> hours a day, I could spend as much energy as if I ran for an hour.
+
+
 ## On sleep {#on-sleep}
 
 
@@ -305,6 +346,38 @@ Link between insomnia and physical activity:
 > become **chronically sleep deprived, we produce more cortisol**, especially at
 > night, which can then inhibit sleep, keeping the problem going and promoting
 > insomnia.
+
+
+## On diabetes {#on-diabetes}
+
+
+### 297 {#297}
+
+> if you were a doctor back in the old days, you’d be a pee connoisseur. As a
+> matter of routine, you would collect your patients’ “liquid gold” to examine its
+> taste, color, smell, and consistency. Much of what doctors discerned from urine
+> was nonsense, but an exception was its sweetness. The English physician Thomas
+> Willis (1621–1675) coined the term “diabetes mellitus” (Latin for “honey
+> sweetened”), what we now call diabetes, from urine that was “wonderfully sweet
+> as if it were imbued with honey or sugar.”
+
+
+### 298 {#298}
+
+> The mechanisms by which physical activity helps prevent and treat type 2
+> diabetes are well studied. Most basically, exercise (in conjunction with diet)
+> can ameliorate every characteristic of metabolic syndrome including excess organ
+> fat, high blood pressure, and high levels of blood sugar, fat, and cholesterol.
+> In addition, exercise lowers inflammation and counteracts many of the damaging
+> effects of stress. And most remarkably, exercise can reverse insulin resistance
+> by restoring blocked insulin receptors and causing muscle cells to produce more
+> of the transporter molecules that shuttle sugar out of the bloodstream.21 The
+> effect is akin to unclogging a drain and flushing out the pipes. Altogether, by
+> simultaneously improving the delivery, transport, and use of blood sugar,
+> exercise can resuscitate a once resistant muscle cell to suck up as much as
+> fiftyfold more molecules of blood sugar. No drug is so potent.
+
+exercise ad diebetes 2
 
 
 ## Energy levels {#energy-levels}
@@ -475,6 +548,201 @@ Ten thousand steps:
 > for minimal daily physical activity.
 
 
+### Heart rate {#heart-rate}
+
+
+#### 73 {#73}
+
+> One critique of these statistics is that they classify activity levels rather
+> coarsely as either sitting or not sitting. Standing isn’t exercise, and sitting
+> isn’t always totally inactive. What if I am playing a violin or making an arrow
+> while sitting? Or standing while listening to a lecture? A solution to this
+> problem is to **classify activity levels based on percentage of maximum heart
+> rate**. By convention, your heart rate during sedentary activities is between its
+> resting level and 40 percent of maximum; light activities such as cooking and
+> slow walking boost your heart rate to between 40 and 54 percent of maximum;
+> moderate activities like rapid walking, yoga, and working in the garden speed
+> your heart rate to 55 to 69 percent of maximum; vigorous activities such as
+> running, jumping jacks, and climbing a mountain demand heart rates of 70 percent
+> or higher.
+
+
+### 240 - Hormesis {#240-hormesis}
+
+> While exercise restores most structures (what biologists term homeostasis), in
+> some cases it may make things even better than before (this is termed
+> allostasis). For example, demanding physical activities can increase the
+> strength of bones and muscles, increase cells’ abilities to take up [glucose]({{< relref "../../topics/glukose.md" >}}) from
+> the blood, and both augment and replace mitochondria in muscles. In addition,
+> repair mechanisms sometimes overshoot the damage induced by exercise, leading to
+> a net benefit. It’s like scrubbing the kitchen floor so well after a spill that
+> the whole floor ends up being cleaner.
+>
+> Among other effects, while physical activity initially stimulates inflammation,
+> especially via muscles, it subsequently causes muscles to produce an even
+> stronger, more lasting, and more widespread anti-inflammatory response whose
+> long-term effect is less inflammation not just in the affected muscle but
+> elsewhere.45 As a result, physically active people tend to have lower baseline
+> levels of inflammation. In addition, exercise causes the body to produce more
+> [antioxidants]({{< relref "../../topics/antioxidants.md" >}}) than necessary, decreasing overall levels of oxidative stress.46
+> Exercise also causes cells to clean out damaged proteins, lengthen telomeres,
+> repair DNA, and more.
+>
+> All in all, the modest physiological stresses caused by exercise trigger a
+> reparative response yielding a general benefit, a phenomenon sometimes known as
+> [hormesis]({{< relref "../../topics/hormesis.md" >}}).
+
+
+### Exercise types {#exercise-types}
+
+
+#### 272 {#272}
+
+> One of the most popular is a twelve-step program, “Be as Strong as a Lioness,”
+> that alternates many repetitions of moderate weights with fewer repetitions of
+> heavier weights. Another clever prince writes “Walk, Run, and Live Forever,” a
+> ten-step plan that begins with long walks and then adds short runs that
+> gradually increase to ten miles. Other crowd favorites are “Seven Minutes or
+> Your Life,” which promises “optimal health” from just seven minutes a day of
+> high-intensity interval training, and “Live Longer than a Caveman,” which
+> replicates a paleo fitness regime with barefoot walking, tree climbing, and rock
+> lifting. Yet more plans advocate stretching, swimming, biking, jogging, dancing,
+> boxing, yoga, and even pogo sticking. Some of the prescriptions consider genetic
+> variation, others have different plans for men and women, many are designed to
+> maximize weight loss, and one is cleverly tailored to integrate with a woman’s
+> monthly cycle. While the judges ponder, journalists, bloggers, celebrities,
+> enthusiasts, and trolls fiercely argue the merits of every entry. With each day
+> it seems there is a new consensus favorite.
+
+what is the best way to exercise
+
+
+#### 288 {#288}
+
+> HIIT workouts became especially popular among runners and other endurance
+> athletes after the great Finnish middle- and long-distance runner Paavo Nurmi
+> (the “Flying Finn”) trained for and won nine Olympic gold medals in the 1920s by
+> doing short four-hundred-meter runs over and over as fast as he possibly could.
+
+
+#### Isometric contractions {#isometric-contractions}
+
+> Some exercises involve using muscles against an opposing, heavy weight that
+> resists their efforts to contract. It bears repeating that when working against
+> substantial loads, muscles can shorten (concentric contractions), but they are
+> more stressed and grow larger and stronger in response to forceful contractions
+> in which they stay the same length (isometric contractions) or stretch
+> (eccentric contractions)
+
+
+#### Dumbbells {#dumbbells}
+
+> In the eighteenth century it was fashionable to lift church bells that were
+> silenced (made “dumb”) by having their clappers removed, hence the term
+> “dumbbells.” Today’s gyms are stocked with an assortment of dumbbells, free
+> weights, and contraptions that can be adjusted to place a constant level of
+> resistance on muscles throughout their entire range of motion.
+
+
+#### Resistence {#resistence}
+
+> However you do them, resistance activities are critical for maintaining muscle
+> mass, especially fast-twitch fibers that generate strength and power. Resistance
+> exercise can also help prevent bone loss, augment muscles’ ability to use sugar,
+> enhance some metabolic functions, and improve cholesterol levels. As a result,
+> every major medical health organization recommends we supplement cardio with
+> weights, especially as we age. A consensus suggestion is two sessions per week
+> of muscle-strengthening exercises involving all major muscle groups (legs, hips,
+> back, core, shoulders, and arms).
+
+
+### 150 minutes per week {#150-minutes-per-week}
+
+> In 1995 and 1996, all three panels published essentially the same advice: to
+> reduce the overall risk of chronic disease, adults should engage in at least 30
+> minutes of moderate-intensity exercise at least five times a week. They also
+> concluded that children should engage in 60 minutes of physical activity a day.
+> Since then, these prescriptions—150 minutes per week for adults and 60 minutes a
+> day for kids—have been revisited, confirmed, and only slightly modified many
+> times.
+
+<!--quoteend-->
+
+> In the end, the 2018 HHS panel concluded that some physical activity is better
+> than none, that more physical activity provides additional health benefits, and
+> that for “substantial health benefits” adults should do at least 150 minutes per
+> week of moderate-intensity or 75 minutes per week of vigorous-intensity aerobic
+> physical activity, or an equivalent combination of the two. (Moderate-intensity
+> aerobic activity is defined as between 50 and 70 percent of your maximum heart
+> rate; vigorous-intensity aerobic activity is 70 to 85 percent of your maximum
+> heart rate.) They also reaffirmed the long-standing recommendation that children
+> need an hour of exercise a day. Finally, they recommended everyone also do some
+> weights twice a week.
+
+
+## Tarahumara {#tarahumara}
+
+
+### 26 {#26}
+
+> Ernesto told me he was a champion runner in his youth and that he still competed
+> in several races a year. **But when I asked him how he trained, he didn’t
+> understand the question**. When I described how Americans like me keep fit and
+> prepare for races by running several times a week, he seemed incredulous. As I
+> asked more questions, he made it pretty clear he thought the concept of needless
+> running was preposterous. \*“Why,” he asked me with evident disbelief, “would
+> anyone run when they didn’t have to?\*”
+
+
+### 26 {#26}
+
+> had traveled to the Sierra to do research on [Tarahumara Native Americans](https://en.wikipedia.org/wiki/Rar%C3%A1muri), famous
+> for their long-distance running. Dozens of anthropologists over the last century
+> have written about the **Tarahumara**, but in 2009 they gained an extra boost of
+> worldwide fame from the best seller Born to Run. The book portrays them as a
+> “hidden tribe” of barefoot, ultra-healthy, “superathletes” who routinely run
+> unimaginable distances.
+
+
+### 27 {#27}
+
+> Even though Ernesto never trained, and I hadn’t seen any Tarahumara running on
+> their own, I had heard and read numerous accounts about how Tarahumara men and
+> women have their own Ironman-like competitions. In the women’s race, known as
+> **ariwete**, teams of teenage girls and young women run about twenty-five miles
+> while chasing a cloth hoop. In the men’s race, the **rarájipari**, teams of men run
+> up to eighty miles while kicking an orange-sized wooden ball. If the Tarahumara
+> think needless exercise is foolish, why do some of them sometimes run insanely
+> long distances like Ironmen? Just as important, how do they accomplish these
+> feats without training?
+
+
+## Grantparent hypothesis {#grantparent-hypothesis}
+
+
+### 230 - Grandparent Hypothesis {#230-grandparent-hypothesis}
+
+> I propose a corollary to the grandmother hypothesis, which I call the active
+> grandparent hypothesis. According to this idea, human longevity was not only
+> selected for but also made possible by having to work moderately during old age
+> to help as many children, grandchildren, and other younger relatives as possible
+> to survive and thrive. That is, while there might have been selection for genes
+> (as yet unidentified) that help humans live past the age of fifty, there was
+> also selection for genes that repair and maintain our bodies when we are
+> physically active. As a result, many of the mechanisms that slow aging and
+> extend life are turned on by physical activity, especially as we get older.
+> Human health and longevity are thus extended both by and for physical activity.
+
+
+### 233 {#233}
+
+> The active grandparent hypothesis raises a classic chicken-or-egg question. How
+> much do humans live to old age so they can be active grandparents helping
+> younger generations, or how much does their hard work cause them to live long
+> lives in the first place? Is human longevity a result of physical activity or an
+> adaptation to stay physically active?
+
+
 ## Further resources {#further-resources}
 
 
@@ -521,7 +789,7 @@ On epigenetic modifications:
 > chromosomes from unraveling have become too short.
 
 
-## <span class="org-todo todo TODO">TODO</span> Notes {#notes}
+## Misc {#misc}
 
 
 ### 21 {#21}
@@ -531,106 +799,17 @@ On epigenetic modifications:
 > makes sense except in the light of anthropology**.
 
 
-### 26 {#26}
-
-> Ernesto told me he was a champion runner in his youth and that he still competed
-> in several races a year. **But when I asked him how he trained, he didn’t
-> understand the question**. When I described how Americans like me keep fit and
-> prepare for races by running several times a week, he seemed incredulous. As I
-> asked more questions, he made it pretty clear he thought the concept of needless
-> running was preposterous. \*“Why,” he asked me with evident disbelief, “would
-> anyone run when they didn’t have to?\*”
-
-
-### 26 {#26}
-
-> had traveled to the Sierra to do research on
-> [Tarahumara Native Americans](https://en.wikipedia.org/wiki/Rar%C3%A1muri),
-> famous for their long-distance running. Dozens of anthropologists over the last
-> century have written about the **Tarahumara**, but in 2009 they gained an extra
-> boost of worldwide fame from the best seller Born to Run. The book portrays them
-> as a “hidden tribe” of barefoot, ultra-healthy, “superathletes” who routinely
-> run unimaginable distances.
-
-
-### 27 {#27}
-
-> Even though Ernesto never trained, and I hadn’t seen any Tarahumara running on
-> their own, I had heard and read numerous accounts about how Tarahumara men and
-> women have their own Ironman-like competitions. In the women’s race, known as
-> **ariwete**, teams of teenage girls and young women run about twenty-five miles
-> while chasing a cloth hoop. In the men’s race, the **rarájipari**, teams of men
-> run up to eighty miles while kicking an orange-sized wooden ball. If the
-> Tarahumara think needless exercise is foolish, why do some of them sometimes run
-> insanely long distances like Ironmen? Just as important, how do they accomplish
-> these feats without training?
-
-
 ### 57 {#57}
 
 > Or to be more precise, our bodies were selected to spend enough but not too much
 > energy on **nonreproductive functions including physical activity**.
 
 
-### 73 {#73}
-
-> One critique of these statistics is that they classify activity levels rather
-> coarsely as either sitting or not sitting. Standing isn’t exercise, and sitting
-> isn’t always totally inactive. What if I am playing a violin or making an arrow
-> while sitting? Or standing while listening to a lecture? A solution to this
-> problem is to **classify activity levels based on percentage of maximum heart
-> rate**. By convention, your heart rate during sedentary activities is between its
-> resting level and 40 percent of maximum; light activities such as cooking and
-> slow walking boost your heart rate to between 40 and 54 percent of maximum;
-> moderate activities like rapid walking, yoga, and working in the garden speed
-> your heart rate to 55 to 69 percent of maximum; vigorous activities such as
-> running, jumping jacks, and climbing a mountain demand heart rates of 70 percent
-> or higher.
-
-
-### 76 {#76}
-
-About fat in the organs:
-
-> The other major type of fat is cached in cells in and around our bellies and
-> other organs including the heart, liver, and muscles. There are many terms for
-> this fat including “\*visceral\*,” “\*abdominal\*,” “\*belly\*,” and “\*ectopic\*,” but
-> I will use the term “\*organ fat\*.” Organ fat cells are dynamic participants in
-> metabolism and, when activated, can quickly **dump fat into the bloodstream**.
-> Organ fat in moderate quantities (about 1 percent of total body weight) is thus
-> normal and beneficial as a short-term energy depot for times when we need rapid
-> access to a lot of calories such as when we walk or jog a long distance.
-
-
-### 76 {#76}
-
-About fat subcutaneos:
-
-> In healthy, normal human adults, including hunter-gatherers, fat constitutes
-> about 10 to 25 percent of body weight in men and about 15 to 30 percent in
-> women. The majority of that fat (about 90 to 95 percent) is **subcutaneous**, so
-> named because it is stored in billions of cells distributed in buttocks,
-> breasts, cheeks, feet, and other nameless places just below the skin.
->
-> These fat-filled cells are efficient **storehouses of energy that help us cope
-> with long-term shortages of calories** (as we saw from the Minnesota Starvation
-> Experiment). Subcutaneous fat cells have other functions too, especially as
-> glands that produce **hormones regulating appetite and reproduction**.
-
-
-### 77 {#77}
-
-Burn more calories by doing nonphysical activities:
-
-> By merely engaging in low-intensity, “non-exercise” physical activities for five
-> hours a day, I could spend as much energy as if I ran for an hour.
-
-
 ### 79 {#79}
 
 Cortisol and [sugar]({{< relref "../../topics/zucker.md" >}}) absorption:
 
-> Cortisol shunts sugar and fats into the bloodstream, it makes us crave
+> [Cortisol]({{< relref "../../topics/cortisol.md" >}}) shunts sugar and fats into the bloodstream, it makes us crave
 > sugar-rich and fat-rich foods, and it directs us to store organ fat rather than
 > subcutaneous fat. Short bursts of cortisol are natural and normal, but **chronic
 > low levels of cortisol are damaging because they promote obesity and chronic
@@ -657,6 +836,8 @@ About **caloric excess**:
 
 
 ### 179 {#179}
+
+Walking as a default physical activity:
 
 > If there is one physical activity that most fundamentally illustrates the
 > central point of this book—that **we didn’t evolve to exercise but instead to be
@@ -705,10 +886,8 @@ On carrying stuff:
 
 ### 225 {#225}
 
-Hippocrates wrote twenty-five hundred years ago, “Eating alone will not make a
-man well; he must also take exercise.”
-
-quote
+> Hippocrates wrote twenty-five hundred years ago, “Eating alone will not make a
+> man well; he must also take exercise.”
 
 
 ### 225 {#225}
@@ -737,254 +916,89 @@ quote
 
 ### 229 {#229}
 
-Chimpanzee mothers, for example, cannot give birth to babies faster than once
-every five to six years because they forage only enough food every day to
-sustain their caloric needs plus those of one hungry youngster. Not until her
-juvenile is old enough to be fully weaned and forage for itself can she muster
-enough calories to become fertile again. Human hunter-gatherers, in contrast,
-typically wean their offspring after three years and become pregnant again long
-before their little ones are able to feed or fend for themselves, let alone stay
-out of danger. A typical hunter-gatherer mother, for example, might have a
-six-month-old infant, a four-year-old child, and an eight-year-old juvenile.
-Because she is usually capable of gathering only about two thousand calories a
-day, she cannot get enough food to provide for her own substantial caloric
-needs, which exceed two thousand calories, as well as the needs of her several
-offspring, none of whom are old enough to forage on their own.12 She needs help.
-
 animals humans pregnancy
 
-
-### 230 {#230}
-
-Grandparent Hypothesis
-
-> I propose a corollary to the grandmother hypothesis, which I call the active
-> grandparent hypothesis. According to this idea, human longevity was not only
-> selected for but also made possible by having to work moderately during old age
-> to help as many children, grandchildren, and other younger relatives as possible
-> to survive and thrive. That is, while there might have been selection for genes
-> (as yet unidentified) that help humans live past the age of fifty, there was
-> also selection for genes that repair and maintain our bodies when we are
-> physically active. As a result, many of the mechanisms that slow aging and
-> extend life are turned on by physical activity, especially as we get older.
-> Human health and longevity are thus extended both by and for physical activity.
-
-
-### 233 {#233}
-
-The active grandparent hypothesis raises a classic chicken-or-egg question. How
-much do humans live to old age so they can be active grandparents helping
-younger generations, or how much does their hard work cause them to live long
-lives in the first place? Is human longevity a result of physical activity or an
-adaptation to stay physically active?
+> Chimpanzee mothers, for example, cannot give birth to babies faster than once
+> every five to six years because they forage only enough food every day to
+> sustain their caloric needs plus those of one hungry youngster. Not until her
+> juvenile is old enough to be fully weaned and forage for itself can she muster
+> enough calories to become fertile again. Human hunter-gatherers, in contrast,
+> typically wean their offspring after three years and become pregnant again long
+> before their little ones are able to feed or fend for themselves, let alone stay
+> out of danger. A typical hunter-gatherer mother, for example, might have a
+> six-month-old infant, a four-year-old child, and an eight-year-old juvenile.
+> Because she is usually capable of gathering only about two thousand calories a
+> day, she cannot get enough food to provide for her own substantial caloric
+> needs, which exceed two thousand calories, as well as the needs of her several
+> offspring, none of whom are old enough to forage on their own.12 She needs help.
 
 
 ### 239 {#239}
 
-Costly repair hypothesis. Representation of total energy expenditure (TEE),
-resting metabolic rate (RMR), and active energy expenditure (AEE) over the
-course of a day showing how energy use changes before, during, and after a bout
-of exercise. AEE is low before exercise, goes up during exercise, and then falls
-again. However, RMR can remain elevated for several hours after exercise as the
-body recovers, replenishes energy stores, and repairs damage.
-
-
-### 240 {#240}
-
-While exercise restores most structures (what biologists term homeostasis), in
-some cases it may make things even better than before (this is termed
-allostasis). For example, demanding physical activities can increase the
-strength of bones and muscles, increase cells’ abilities to take up glucose from
-the blood, and both augment and replace mitochondria in muscles. In addition,
-repair mechanisms sometimes overshoot the damage induced by exercise, leading to
-a net benefit. It’s like scrubbing the kitchen floor so well after a spill that
-the whole floor ends up being cleaner. Among other effects, while physical
-activity initially stimulates inflammation, especially via muscles, it
-subsequently causes muscles to produce an even stronger, more lasting, and more
-widespread anti-inflammatory response whose long-term effect is less
-inflammation not just in the affected muscle but elsewhere.45 As a result,
-physically active people tend to have lower baseline levels of inflammation. In
-addition, exercise causes the body to produce more antioxidants than necessary,
-decreasing overall levels of oxidative stress.46 Exercise also causes cells to
-clean out damaged proteins, lengthen telomeres, repair DNA, and more. All in
-all, the modest physiological stresses caused by exercise trigger a reparative
-response yielding a general benefit, a phenomenon sometimes known as hormesis.
+> Costly repair hypothesis. Representation of total energy expenditure (TEE),
+> resting metabolic rate (RMR), and active energy expenditure (AEE) over the
+> course of a day showing how energy use changes before, during, and after a bout
+> of exercise. AEE is low before exercise, goes up during exercise, and then falls
+> again. However, RMR can remain elevated for several hours after exercise as the
+> body recovers, replenishes energy stores, and repairs damage.
 
 
 ### 251 {#251}
 
-The resulting paradox is that our bodies never evolved to function optimally
-without lifelong physical activity but our minds never evolved to get us moving
-unless it is necessary, pleasurable, or otherwise rewarding.
+> The resulting paradox is that our bodies never evolved to function optimally
+> without lifelong physical activity but our minds never evolved to get us moving
+> unless it is necessary, pleasurable, or otherwise rewarding.
 
 
 ### 261 {#261}
 
-Because exercise by definition isn’t necessary, we mostly do it for emotional or
-physical rewards, and on that horrid April day in 2018, the only rewards were
-emotional—all stemming from the event’s social nature. For the last few million
-years humans rarely engaged in hours of moderate to vigorous exertion alone.
-When hunter-gatherer women forage, they usually go in groups, gossiping and
-otherwise enjoying each other’s company as they walk to find food, dig tubers,
-pick berries, and more.
-
-
-### 272 {#272}
-
-One of the most popular is a twelve-step program, “Be as Strong as a Lioness,”
-that alternates many repetitions of moderate weights with fewer repetitions of
-heavier weights. Another clever prince writes “Walk, Run, and Live Forever,” a
-ten-step plan that begins with long walks and then adds short runs that
-gradually increase to ten miles. Other crowd favorites are “Seven Minutes or
-Your Life,” which promises “optimal health” from just seven minutes a day of
-high-intensity interval training, and “Live Longer than a Caveman,” which
-replicates a paleo fitness regime with barefoot walking, tree climbing, and rock
-lifting. Yet more plans advocate stretching, swimming, biking, jogging, dancing,
-boxing, yoga, and even pogo sticking. Some of the prescriptions consider genetic
-variation, others have different plans for men and women, many are designed to
-maximize weight loss, and one is cleverly tailored to integrate with a woman’s
-monthly cycle. While the judges ponder, journalists, bloggers, celebrities,
-enthusiasts, and trolls fiercely argue the merits of every entry. With each day
-it seems there is a new consensus favorite.
-
-what is the best way to exercise
+> Because exercise by definition isn’t necessary, we mostly do it for emotional or
+> physical rewards, and on that horrid April day in 2018, the only rewards were
+> emotional—all stemming from the event’s social nature. For the last few million
+> years humans rarely engaged in hours of moderate to vigorous exertion alone.
+> When hunter-gatherer women forage, they usually go in groups, gossiping and
+> otherwise enjoying each other’s company as they walk to find food, dig tubers,
+> pick berries, and more.
 
 
 ### 274 {#274}
 
-The exercise guru Jack LaLanne (who lived to ninety-six) liked to say, “People
-don’t die of old age, they die of inactivity.”2 That’s hyperbole, but ever since
-the dawn of civilization
-
-quote
-
-
-### 276 {#276}
-
-In 1995 and 1996, all three panels published essentially the same advice: to
-reduce the overall risk of chronic disease, adults should engage in at least 30
-minutes of moderate-intensity exercise at least five times a week.6 They also
-concluded that children should engage in 60 minutes of physical activity a day.
-Since then, these prescriptions—150 minutes per week for adults and 60 minutes a
-day for kids—have been revisited, confirmed, and only slightly modified many
-times.
-
-
-### 277 {#277}
-
-In the end, the 2018 HHS panel concluded that some physical activity is better
-than none, that more physical activity provides additional health benefits, and
-that for “substantial health benefits” adults should do at least 150 minutes per
-week of moderate-intensity or 75 minutes per week of vigorous-intensity aerobic
-physical activity, or an equivalent combination of the two. (Moderate-intensity
-aerobic activity is defined as between 50 and 70 percent of your maximum heart
-rate; vigorous-intensity aerobic activity is 70 to 85 percent of your maximum
-heart rate.) They also reaffirmed the long-standing recommendation that children
-need an hour of exercise a day. Finally, they recommended everyone also do some
-weights twice a week.
+> The exercise guru Jack LaLanne (who lived to ninety-six) liked to say, “People
+> don’t die of old age, they die of inactivity.”2 That’s hyperbole, but ever since
+> the dawn of civilization
 
 
 ### 281 {#281}
 
-However, many other supposedly worrisome risk factors reported in athletes
-appear to be misinterpretations of evidence by doctors who compare the hearts of
-athletes with those of “normal” sedentary individuals with no diagnosis of
-disease. As we have repeatedly seen, being sedentary is by no means normal from
-an evolutionary perspective, and such individuals are more likely to develop
-chronic illnesses and die at a younger age than more active people. The medical
-habit of erroneously considering sedentary individuals “normal” controls has led
-to some diagnostic blunders such as mistaking normal repair mechanisms for signs
-of disease. A prime example is coronary calcification.
-
-
-### 288 {#288}
-
-HIIT workouts became especially popular among runners and other endurance
-athletes after the great Finnish middle- and long-distance runner Paavo Nurmi
-(the “Flying Finn”) trained for and won nine Olympic gold medals in the 1920s by
-doing short four-hundred-meter runs over and over as fast as he possibly could.
-
-
-### 289 {#289}
-
-Some exercises involve using muscles against an opposing, heavy weight that
-resists their efforts to contract. It bears repeating that when working against
-substantial loads, muscles can shorten (concentric contractions), but they are
-more stressed and grow larger and stronger in response to forceful contractions
-in which they stay the same length (isometric contractions) or stretch
-(eccentric contractions)
-
-
-### 289 {#289}
-
-In the eighteenth century it was fashionable to lift church bells that were
-silenced (made “dumb”) by having their clappers removed, hence the term
-“dumbbells.” Today’s gyms are stocked with an assortment of dumbbells, free
-weights, and contraptions that can be adjusted to place a constant level of
-resistance on muscles throughout their entire range of motion.
-
-
-### 290 {#290}
-
-However you do them, resistance activities are critical for maintaining muscle
-mass, especially fast-twitch fibers that generate strength and power. Resistance
-exercise can also help prevent bone loss, augment muscles’ ability to use sugar,
-enhance some metabolic functions, and improve cholesterol levels. As a result,
-every major medical health organization recommends we supplement cardio with
-weights, especially as we age. A consensus suggestion is two sessions per week
-of muscle-strengthening exercises involving all major muscle groups (legs, hips,
-back, core, shoulders, and arms).
-
-
-### 297 {#297}
-
-if you were a doctor back in the old days, you’d be a pee connoisseur. As a
-matter of routine, you would collect your patients’ “liquid gold” to examine its
-taste, color, smell, and consistency. Much of what doctors discerned from urine
-was nonsense, but an exception was its sweetness. The English physician Thomas
-Willis (1621–1675) coined the term “diabetes mellitus” (Latin for “honey
-sweetened”), what we now call diabetes, from urine that was “wonderfully sweet
-as if it were imbued with honey or sugar.”
-
-debetis term
-
-
-### 298 {#298}
-
-The mechanisms by which physical activity helps prevent and treat type 2
-diabetes are well studied. Most basically, exercise (in conjunction with diet)
-can ameliorate every characteristic of metabolic syndrome including excess organ
-fat, high blood pressure, and high levels of blood sugar, fat, and cholesterol.
-In addition, exercise lowers inflammation and counteracts many of the damaging
-effects of stress. And most remarkably, exercise can reverse insulin resistance
-by restoring blocked insulin receptors and causing muscle cells to produce more
-of the transporter molecules that shuttle sugar out of the bloodstream.21 The
-effect is akin to unclogging a drain and flushing out the pipes. Altogether, by
-simultaneously improving the delivery, transport, and use of blood sugar,
-exercise can resuscitate a once resistant muscle cell to suck up as much as
-fiftyfold more molecules of blood sugar. No drug is so potent.
-
-exercise ad diebetes 2
+> However, many other supposedly worrisome risk factors reported in athletes
+> appear to be misinterpretations of evidence by doctors who compare the hearts of
+> athletes with those of “normal” sedentary individuals with no diagnosis of
+> disease. As we have repeatedly seen, being sedentary is by no means normal from
+> an evolutionary perspective, and such individuals are more likely to develop
+> chronic illnesses and die at a younger age than more active people. The medical
+> habit of erroneously considering sedentary individuals “normal” controls has led
+> to some diagnostic blunders such as mistaking normal repair mechanisms for signs
+> of disease. A prime example is coronary calcification.
 
 
 ### 342 {#342}
 
-As an example, one worldwide best-selling book claimed that wheat and other
-foods with gluten cause inflammation of the brain. The data, however, indicate
-that unless you have celiac disease, eating wheat (especially whole wheat) or
-other grains will not cause your body, including your brain, to become inflamed
-unless you eat too much and become obese. For credible, peer-reviewed,
-evidence-based studies, see Lutsey, P. L., et al. (2007), Whole grain intake and
-its cross-sectional association with obesity, insulin resistance, inflammation,
-diabetes, and subclinical CVD: The MESA Study, British Journal of Nutrition
-98:397–405; Lefevre, M., and Jonnalagadda, S. (2012), Effect of whole grains on
-markers of subclinical inflammation, Nutrition Review 70:387–96; Vitaglione, P.,
-et al. (2015), Whole-grain wheat consumption reduces inflammation in a
-randomized controlled trial on overweight and obese subjects with unhealthy
-dietary and lifestyle behaviors: Role of polyphenols bound to cereal dietary
-fiber, American Journal of Clinical Nutrition 101:251–61; Ampatzoglou, A., et
-al. (2015), Increased whole grain consumption does not affect blood
-biochemistry, body composition, or gut microbiology in healthy, low-habitual
-whole grain consumers, Journal of Nutrition 145:215–21.
+On [Gluten]({{< relref "../../topics/gluten.md" >}}):
 
-inflammation gluten sugar
+> As an example, one worldwide best-selling book claimed that wheat and other
+> foods with gluten cause inflammation of the brain. The data, however, indicate
+> that unless you have celiac disease, eating wheat (especially whole wheat) or
+> other grains will not cause your body, including your brain, to become inflamed
+> unless you eat too much and become obese. For credible, peer-reviewed,
+> evidence-based studies, see Lutsey, P. L., et al. (2007), Whole grain intake and
+> its cross-sectional association with obesity, insulin resistance, inflammation,
+> diabetes, and subclinical CVD: The MESA Study, British Journal of Nutrition
+> 98:397–405; Lefevre, M., and Jonnalagadda, S. (2012), Effect of whole grains on
+> markers of subclinical inflammation, Nutrition Review 70:387–96; Vitaglione, P.,
+> et al. (2015), Whole-grain wheat consumption reduces inflammation in a
+> randomized controlled trial on overweight and obese subjects with unhealthy
+> dietary and lifestyle behaviors: Role of polyphenols bound to cereal dietary
+> fiber, American Journal of Clinical Nutrition 101:251–61; Ampatzoglou, A., et
+> al. (2015), Increased whole grain consumption does not affect blood
+> biochemistry, body composition, or gut microbiology in healthy, low-habitual
+> whole grain consumers, Journal of Nutrition 145:215–21.

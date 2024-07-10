@@ -1,6 +1,6 @@
 +++
 title = "Golang"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 tags = ["coding", "golang"]
 draft = false
 +++
@@ -13,10 +13,19 @@ draft = false
 -   2023-10-11 ◦ [GitHub - charmbracelet/mods: AI on the command line](https://github.com/charmbracelet/mods)
 
 
+### API {#api}
+
+
+#### gRPC {#grpc}
+
+-   2024-07-02 ◦ [gRPC - What, why and How](https://www.innoq.com/en/blog/2024/06/grpc/)
+    -   how to use protobuf for a Golang project
+
+
 ### Architecture {#architecture}
 
 -   2023-01-19 ◦ [Go project written in clean code architecture : golang](https://www.reddit.com/r/golang/comments/zskzgu/go_project_written_in_clean_code_architecture/)
--   2022-10-04 ◦ [Auto-generated C4 Architecture Diagrams in Go](https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/) ([PlantUML](plantuml.md))
+-   2022-10-04 ◦ [Auto-generated C4 Architecture Diagrams in Go](https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/) ([PlantUML]({{< relref "plantuml.md" >}}))
 -   2022-08-16 ◦ [Service Discovery with Go and mDNS](https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2)
 
 
@@ -25,7 +34,7 @@ draft = false
 -   2022-10-10 ◦ [inanzzz | A simple AWS SNS example with Golang using Localstack](http://www.inanzzz.com/index.php/post/i5re/a-simple-aws-sns-example-with-golang-suing-localstack)
 -   2022-10-10 ◦ [aws sdk go - How does one programmatically subscribe an SQS queue to an SNS topic in Go? - Stack Overflow](https://stackoverflow.com/questions/54204855/how-does-one-programmatically-subscribe-an-sqs-queue-to-an-sns-topic-in-go)
 -   2022-09-96 ◦ [GO ON AWS](https://www.go-on-aws.com/)
-    -   Using Golang for writing [CDK](cdk.md) stacks for [AWS](aws.md)
+    -   Using Golang for writing [CDK]({{< relref "cdk.md" >}}) stacks for [AWS]({{< relref "aws.md" >}})
 
 
 #### Custom resources {#custom-resources}
@@ -65,8 +74,8 @@ draft = false
 
 ### Comparisons {#comparisons}
 
--   2023-01-16 ◦ [Ask HN: Should I learn Rust or Go? | Hacker News](https://news.ycombinator.com/item?id=31976407) ([Rust](rust.md))
--   2023-01-16 ◦ [Go devs that learned Rust, what are your thoughts on it?](https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/) ([Rust](rust.md))
+-   2023-01-16 ◦ [Ask HN: Should I learn Rust or Go? | Hacker News](https://news.ycombinator.com/item?id=31976407) ([Rust]({{< relref "rust.md" >}}))
+-   2023-01-16 ◦ [Go devs that learned Rust, what are your thoughts on it?](https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/) ([Rust]({{< relref "rust.md" >}}))
 
 
 ### Design Patterns {#design-patterns}
@@ -178,7 +187,7 @@ draft = false
 -   2022-10-04 ◦ [Encore Docs — Encore Flow](https://encore.dev/docs/develop/encore-flow)
     -   Visualize cloud microservices architecture
 -   2022-08-25 ◦ [go-zero](https://github.com/zeromicro/go-zero)
-    -   A cloud-native Go [Microservices](microservices.md) framework with cli tool for productivity.
+    -   A cloud-native Go [Microservices]({{< relref "microservices.md" >}}) framework with cli tool for productivity.
 
 
 ### reddit {#reddit}
@@ -213,7 +222,7 @@ A collection of interesting threads.
 
 ### Security {#security}
 
--   2022-10-04 ◦ [Simple JWT Authentication for Golang (Part 1)](https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo) ([JWT](jwt.md))
+-   2022-10-04 ◦ [Simple JWT Authentication for Golang (Part 1)](https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo) ([JWT]({{< relref "jwt.md" >}}))
 
 
 ### Serverless {#serverless}

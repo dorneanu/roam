@@ -1,6 +1,6 @@
 +++
 title = "The Minimalist Entrepreneur"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 date = 2024-02-26
 tags = ["leadership", "entrepreneurship", "book"]
 draft = false
@@ -102,24 +102,21 @@ Teach about everything you know:
 > are ready to productize, which means that you automate each individual task so that people
 > can sign up, use, and pay for your product without you being involved.
 
-<!--list-separator-->
 
--  54 Key points on Productizing your ideas
+##### 54 Key points on Productizing your ideas {#54-key-points-on-productizing-your-ideas}
 
-    <!--list-separator-->
 
-    -  Set Limits
+###### Set Limits {#set-limits}
 
-        -   Focus on doing just one thing at the start to control scope.
+-   Focus on doing just one thing at the start to control scope.
 
-    <!--list-separator-->
 
-    -  Four Critical Questions
+###### Four Critical Questions {#four-critical-questions}
 
-        -   Can I ship it in a weekend? Aim for a prototype that takes only 2-3 days.
-        -   Is it making my customers' lives better? The product should offer real benefits.
-        -   Is a customer willing to pay for it? Verify the product's value and profitability.
-        -   Can I get feedback quickly? Access to prompt feedback is crucial for improvement.
+-   Can I ship it in a weekend? Aim for a prototype that takes only 2-3 days.
+-   Is it making my customers' lives better? The product should offer real benefits.
+-   Is a customer willing to pay for it? Verify the product's value and profitability.
+-   Can I get feedback quickly? Access to prompt feedback is crucial for improvement.
 
 
 ### 4 – Sell to Your First Hundred Customers {#4-sell-to-your-first-hundred-customers}
@@ -139,22 +136,22 @@ Teach about everything you know:
 
 ## 59 {#59}
 
-Read Getting Real, a free “book” about building a web app, by Basecamp, available online at <https://basecamp.com/books/getting>-
+Read Getting Real, a free “book” about building a web app, by Basecamp, available online at <https://basecamp.com/books/getting->
 
 
 ## 74 {#74}
 
-TAKEAWAYS
-Launches are alluring, but they are one-off events I wouldn’t bet your business on. Instead, wait until you have a product with repeat, paying customers. Then launch by thanking them!
-Selling your product (or process) directly to customers may seem slow, but it is worthwhile. It will lead to a much better product because the sales process will be less about convincing and more about discovery.
-Start by selling to your family and friends before moving on to your communities and, finally, if at all, to total strangers. (The further away from you, the harder they will be to convince.)
-Learn
+> TAKEAWAYS
+> Launches are alluring, but they are one-off events I wouldn’t bet your business on. Instead, wait until you have a product with repeat, paying customers. Then launch by thanking them!
+> Selling your product (or process) directly to customers may seem slow, but it is worthwhile. It will lead to a much better product because the sales process will be less about convincing and more about discovery.
+> Start by selling to your family and friends before moving on to your communities and, finally, if at all, to total strangers. (The further away from you, the harder they will be to convince.)
+> Learn
 
 
 ## 74 {#74}
 
-Ariely.
-Read How to Win Friends and Influence People, by Dale Carnegie, the best book I’ve ever read on “sales.”
+> Ariely.
+> Read How to Win Friends and Influence People, by Dale Carnegie, the best book I’ve ever read on “sales.”
 
 
 ## 75 {#75}
@@ -188,15 +185,15 @@ We didn’t shift our priorities—we were and still are creators first—but ou
 
 ## 114 {#114}
 
-company!
-JUDGED BY THE WORK
-This value is about being real about what matters: the experience creators—and their customers—have when they use Gumroad.
-How I communicate this internally:
-Our creators don’t care about us. They care about the product, content, and community we happen to provide.
-That means a few things:
-While we often work in silos, we do not ship alone. Everything we send to creators is of the highest quality, meaning that **everything** is reviewed by multiple people on the Gumroad team, our creators (they’re first!), and other folks in our broader community. For example, I published my Work article (sahillavingia.com/work) after addressing 600 comments from 150 people. That is extreme, but it meant hundreds of thousands of people read something better.
-We are okay with employee churn (in fact, I encourage it if it helps us ship a superior product).
-Lastly, it should be considered a failure to receive feedback on something that could have made a creator’s life better **after** you shipped.
+> company!
+> JUDGED BY THE WORK
+> This value is about being real about what matters: the experience creators—and their customers—have when they use Gumroad.
+> How I communicate this internally:
+> Our creators don’t care about us. They care about the product, content, and community we happen to provide.
+> That means a few things:
+> While we often work in silos, we do not ship alone. Everything we send to creators is of the highest quality, meaning that **everything** is reviewed by multiple people on the Gumroad team, our creators (they’re first!), and other folks in our broader community. For example, I published my Work article (sahillavingia.com/work) after addressing 600 comments from 150 people. That is extreme, but it meant hundreds of thousands of people read something better.
+> We are okay with employee churn (in fact, I encourage it if it helps us ship a superior product).
+> Lastly, it should be considered a failure to receive feedback on something that could have made a creator’s life better **after** you shipped.
 
 
 ## 118 {#118}

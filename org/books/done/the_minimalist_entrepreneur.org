@@ -153,6 +153,7 @@ We didn’t shift our priorities—we were and still are creators first—but ou
 
 * 114
 
+#+begin_quote
 company!
 JUDGED BY THE WORK
 This value is about being real about what matters: the experience creators—and their customers—have when they use Gumroad.
@@ -162,6 +163,7 @@ That means a few things:
 While we often work in silos, we do not ship alone. Everything we send to creators is of the highest quality, meaning that *everything* is reviewed by multiple people on the Gumroad team, our creators (they’re first!), and other folks in our broader community. For example, I published my Work article (sahillavingia.com/work) after addressing 600 comments from 150 people. That is extreme, but it meant hundreds of thousands of people read something better.
 We are okay with employee churn (in fact, I encourage it if it helps us ship a superior product).
 Lastly, it should be considered a failure to receive feedback on something that could have made a creator’s life better *after* you shipped.
+#+end_quote
 
 * 118
 

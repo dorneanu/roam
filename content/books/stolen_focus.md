@@ -1,6 +1,6 @@
 +++
 title = "Stolen focus"
-author = ["Victor Dorneanu"]
+author = ["Cyneox"]
 date = 2024-04-27
 tags = ["health", "psychology", "book"]
 draft = false
@@ -69,7 +69,7 @@ On cognitive bandwidth:
 
 #### 47 {#47}
 
-[Narcissism](../../topics/narcissism.md) as a corruption of attention:
+[Narcissism]({{< relref "../../topics/narcissism.md" >}}) as a corruption of attention:
 
 > I felt like everywhere I went, I was surrounded by people who were broadcasting but not
 > receiving. Narcissism, it occurred to me, is a corruption of attention – it’s where your
@@ -159,7 +159,7 @@ Distraction = Not being able to put spotlight on one thing:
 > be. Activity had shifted from one part of the brain to another – but the brain was still
 > highly active. Surprised, he began to study this in detail. He named the region of the
 > brain that becomes more active when you think you’re not doing much ‘the [default mode
-> network](../../topics/default_network.md)’
+> network]({{< relref "../../topics/default_network.md" >}})’
 
 
 ##### 92 {#92}
@@ -301,7 +301,7 @@ Tendency to watch more bad news
 > the people in it were happy, and some angry, you would instinctively pick out
 > the angry faces first. Even ten-week-old babies respond differently to angry
 > faces. This has been known about in psychology for years and is based on a broad
-> body of evidence. It’s called ‘negativity [bias](../../topics/bias.md)’.
+> body of evidence. It’s called ‘negativity [bias]({{< relref "../../topics/bias.md" >}})’.
 
 
 #### Social media and addiction {#social-media-and-addiction}
@@ -443,7 +443,7 @@ Facebook and their algorithms:
 
 #### 175 {#175}
 
-[The 4Hour Work Week](the_4hour_work_week.md)
+[The 4Hour Work Week]({{< relref "the_4hour_work_week.md" >}})
 
 > Something similar has been tried in many other places, and even though the experiments are
 > quite different, they keep finding similar outcomes. In 1920s Britain, W. G. Kellogg – the
@@ -501,17 +501,19 @@ Personal responsibilty is getting us nowehere
 
 #### 142 {#142}
 
-> We could have looked instead at what does work: changing the environment in specific ways.
-> We could have used government policy to make fresh, nutritious food cheap and accessible,
-> and sugar-filled junk expensive and inaccessible. We could have reduced the factors that
-> cause people to be so stressed that they comfort eat. We could have built cities people
-> can easily walk or bike through. We could have banned the targeting of junk food ads at
-> children, shaping their tastes for life. That’s why countries that have done some of this
-> – like Norway, or Denmark, or the Netherlands – have much lower levels of obesity, and
-> countries that have focused on telling individual overweight people to pull themselves
-> together, like the US and UK, have very high levels of obesity. If all the energy people
-> like me had put into shaming and starving ourselves had been put instead into demanding
-> these political changes, there would be far less obesity now, and a lot less misery.
+> We could have looked instead at what does work: changing the environment in
+> specific ways. We could have used government policy to make fresh, nutritious
+> food cheap and accessible, and sugar-filled junk expensive and inaccessible. We
+> could have reduced the factors that cause people to be so stressed that they
+> comfort eat. We could have built cities people can easily walk or bike through.
+> We could have banned the targeting of junk food ads at children, shaping their
+> tastes for life. That’s why countries that have done some of this – like Norway,
+> or Denmark, or the Netherlands – have much lower levels of obesity, and
+> countries that have focused on telling individual overweight people to pull
+> themselves together, like the US and UK, have very high levels of obesity. If
+> all the energy people like me had put into shaming and starving ourselves had
+> been put instead into demanding these political changes, there would be far less
+> obesity now, and a lot less misery.
 
 -   Effective solutions involve modifying the environment.
 -   Government policies can influence the availability and cost of healthy and unhealthy food.
@@ -526,38 +528,41 @@ Personal responsibilty is getting us nowehere
 
 Individual restraints don't work:
 
-> There was a different way we could have reacted to the obesity crisis when it began forty
-> or so years ago. We could have listened to the evidence that purely practising individual
-> restraint – in an unchanged environment – rarely works for long, except in one in twenty
-> cases like Nir’s.
+> There was a different way we could have reacted to the obesity crisis when it
+> began forty or so years ago. We could have listened to the evidence that purely
+> practising individual restraint – in an unchanged environment – rarely works for
+> long, except in one in twenty cases like Nir’s.
 
 
 #### 186 {#186}
 
-> That’s the magic bullet – just go back to whole foods. Foods as they were originally
-> intended.’ He quoted Michael Pollan, who says we should eat only food that our
-> grandparents would have recognised as food, and we should shop primarily around the outer
-> edges of the supermarket – the fruit and veg at the front, and the meat and fish at the
-> back. The stuff in the middle, he warned, isn’t really food at
+> That’s the magic bullet – just go back to whole foods. Foods as they were
+> originally intended.’ He quoted Michael Pollan, who says we should eat only food
+> that our grandparents would have recognised as food, and we should shop
+> primarily around the outer edges of the supermarket – the fruit and veg at the
+> front, and the meat and fish at the back. The stuff in the middle, he warned,
+> isn’t really food at
 
 
 #### 188 {#188}
 
-On constant exposure to poollution:
+On constant exposure to pollution:
 
-> The form of pollution we, as ordinary citizens, know most about is in the air all around
-> us, so I interviewed Barbara Maher, who is a professor of environmental science at the
-> University of Lancaster in England, and has been carrying out potentially game-changing
-> research on how it is affecting our brains. She explained to me that if you live in a
-> major city today, every day you are breathing in a chemical soup – a mixture of many
-> different contaminants, including those spewed from car engines. Your brain did not evolve
-> to absorb these chemicals, like iron, through the respiratory system, and it doesn’t know
-> how to handle them. So just by living in a polluted city, she said, you are experiencing a
-> ‘repeated chronic insult to your brain’, and it will react by becoming inflamed. I asked
-> her: what happens if that goes on for months and years? She said it ‘is going to lead to
-> damage to the nerve cells, to the neurons. Depending on the dose [i.e. how bad the
-> pollution is], depending on your genetic susceptibility, eventually, over time, your brain
-> cells will be damaged.
+> The form of pollution we, as ordinary citizens, know most about is in the air
+> all around us, so I interviewed Barbara Maher, who is a professor of
+> environmental science at the University of Lancaster in England, and has been
+> carrying out potentially game-changing research on how it is affecting our
+> brains. She explained to me that if you live in a major city today, every day
+> you are breathing in a chemical soup – a mixture of many different contaminants,
+> including those spewed from car engines. Your brain did not evolve to absorb
+> these chemicals, like iron, through the respiratory system, and it doesn’t know
+> how to handle them. So just by living in a polluted city, she said, you are
+> experiencing a ‘repeated chronic insult to your brain’, and it will react by
+> becoming inflamed. I asked her: what happens if that goes on for months and
+> years? She said it ‘is going to lead to damage to the nerve cells, to the
+> neurons. Depending on the dose [i.e. how bad the pollution is], depending on
+> your genetic susceptibility, eventually, over time, your brain cells will be
+> damaged.
 
 -   Air pollution in cities involves a mix of contaminants, including chemicals from car exhausts.
 -   Human brains are not adapted to handle these substances.
@@ -566,24 +571,26 @@ On constant exposure to poollution:
 -   The level of damage depends on the pollution levels and an individual's genetic susceptibility.
 
 
-#### Lead pollution {#lead-pollution}
+#### Lead pollution (blei) {#lead-pollution--blei}
 
-> This seemed really daunting. It told me there’s a focus-killer literally all around us,
-> and I felt overwhelmed. How can we fight it? I began to get some clues once I had learned
-> some history. I started by looking at the effect of one specific pollutant on our
-> attention: lead. As far back as ancient Rome, it was known that lead was poisonous to
-> human beings. The architect Vitruvius, for example, begged the Roman authorities to not
-> use it to build the city’s pipes. Yet for centuries lead was used to paint homes and in
-> water pipes, and then in the early twentieth century it was added to petrol, which meant
-> it was pumped into the air of every city in the world and breathed in by its inhabitants.
-> Scientists warned almost at once that leaded gasoline was likely to produce disaster. When
-> in 1925 General Motors announced that putting lead in gasoline was a ‘gift of God’, its
-> CEO was warned by Dr Alice Hamilton, the leading expert on lead in the US, that he was
-> playing with fire. ‘Where there is lead,’ she said, ‘some case of lead poisoning sooner or
-> later develops.’ It was clear this could have a terrible effect on people’s brains: in
-> high doses, lead poisoning makes people hallucinate, lose their minds or die. The
-> factories where leaded petrol was developed had outbreaks of staff members going violently
-> insane and dying because of their exposure to it.
+> This seemed really daunting. It told me there’s a focus-killer literally all
+> around us, and I felt overwhelmed. How can we fight it? I began to get some
+> clues once I had learned some history. I started by looking at the effect of one
+> specific pollutant on our attention: lead. As far back as ancient Rome, it was
+> known that lead was poisonous to human beings. The architect Vitruvius, for
+> example, begged the Roman authorities to not use it to build the city’s pipes.
+> Yet for centuries lead was used to paint homes and in water pipes, and then in
+> the early twentieth century it was added to petrol, which meant it was pumped
+> into the air of every city in the world and breathed in by its inhabitants.
+> Scientists warned almost at once that leaded gasoline was likely to produce
+> disaster. When in 1925 General Motors announced that putting lead in gasoline
+> was a ‘gift of God’, its CEO was warned by Dr Alice Hamilton, the leading expert
+> on lead in the US, that he was playing with fire. ‘Where there is lead,’ she
+> said, ‘some case of lead poisoning sooner or later develops.’ It was clear this
+> could have a terrible effect on people’s brains: in high doses, lead poisoning
+> makes people hallucinate, lose their minds or die. The factories where leaded
+> petrol was developed had outbreaks of staff members going violently insane and
+> dying because of their exposure to it.
 
 -   Air pollution is a pervasive factor that negatively affects focus.
 -   Lead pollution is known to be harmful since ancient times.
@@ -633,21 +640,22 @@ when adhd is diagnosed early
 
 #### Environmental influence on kids {#environmental-influence-on-kids}
 
-> children who struggle to focus are like Emma the beagle, and are being medicated for what
-> is in fact an environmental problem? I learned that scientists fiercely disagree about
-> this. We do know that the huge rise in children being diagnosed with attention problems
-> has coincided with several other big changes in the way children live. Kids are now
-> allowed to run around far less – instead of playing in the streets and in their
-> neighbourhoods, they now spend almost all their time inside their homes or school
-> classrooms. Children are now fed a very different diet – one that lacks many nutrients
-> needed for brain development, and is full of sugars and dyes that negatively affect
-> attention. Children’s schooling has changed, so it now focuses almost entirely on
-> preparing them for high-stress testing, with very little space for nurturing their
-> curiosity. Is it a coincidence that ADHD diagnoses are rising at the same time as these
-> big changes, or is there a connection? I’ve already discussed the evidence that our
-> dramatic changes in diet and rise in pollution are causing a rise in children’s attention
-> problems, and I’ll come to the evidence about how the other changes might be affecting
-> children’s attention in the next chapter.
+> children who struggle to focus are like Emma the beagle, and are being medicated
+> for what is in fact an environmental problem? I learned that scientists fiercely
+> disagree about this. We do know that the huge rise in children being diagnosed
+> with attention problems has coincided with several other big changes in the way
+> children live. Kids are now allowed to run around far less – instead of playing
+> in the streets and in their neighbourhoods, they now spend almost all their time
+> inside their homes or school classrooms. Children are now fed a very different
+> diet – one that lacks many nutrients needed for brain development, and is full
+> of sugars and dyes that negatively affect attention. Children’s schooling has
+> changed, so it now focuses almost entirely on preparing them for high-stress
+> testing, with very little space for nurturing their curiosity. Is it a
+> coincidence that ADHD diagnoses are rising at the same time as these big
+> changes, or is there a connection? I’ve already discussed the evidence that our
+> dramatic changes in diet and rise in pollution are causing a rise in children’s
+> attention problems, and I’ll come to the evidence about how the other changes
+> might be affecting children’s attention in the next chapter.
 
 -   There's debate on whether the rise in attention problems among children is an environmental issue.
 -   Recent societal changes coincide with this rise in attention issues:
@@ -709,6 +717,24 @@ when adhd is diagnosed early
 > with attention problems, and Finns are among the most literate, numerate and
 > happy people in the world. Hannah told
 
+-   Grew up in a different educational system, leading to doubts about alternatives.
+-   Key fact about Finland's successful school system:
+    -   Often judged top by international league tables.
+    -   Closer to progressive models.
+-   Finnish education system details:
+    -   Children start school at seven years old.
+    -   Before seven, children just play.
+    -   From ages seven to sixteen:
+        -   School hours: 9 a.m. to 2 p.m.
+        -   Almost no homework.
+        -   Minimal tests until high school graduation.
+    -   Free play is crucial, legally mandated:
+        -   Fifteen minutes of free play for every forty-five minutes of instruction.
+-   Outcomes of Finnish educational approach:
+    -   Only 0.1% of kids diagnosed with attention problems.
+    -   Finns are highly literate and numerate.
+    -   Among the happiest people globally.
+
 
 ### Conclusion Attention Rebellion {#conclusion-attention-rebellion}
 
@@ -724,6 +750,8 @@ james willson
 
 #### 241 {#241}
 
+First layer of attention is **spotlight**:
+
 > The first layer of your attention, he said, is your spotlight. This is when you
 > focus on ‘immediate actions’, like, ‘I’m going to walk into the kitchen and make
 > a coffee.’ You want to find your glasses? You want to see what’s in the fridge?
@@ -734,6 +762,8 @@ james willson
 
 
 #### 241 {#241}
+
+2nd layer of attention is **starlight**:
 
 > The second layer of your attention is your starlight. This is, he says, the
 > focus you can apply to your ‘longer-term goals – projects over time’. You want
@@ -746,6 +776,8 @@ james willson
 
 #### 241 {#241}
 
+3rd layer of attention is **daylight**:
+
 > The third layer of your attention is your daylight. This is the form of focus
 > that makes it possible for you to know what your longer-term goals are in the
 > first place. How do you know you want to write a book? How do you know you want
@@ -756,6 +788,23 @@ james willson
 > distracted that you lose your sense of the daylight, James says, ‘In many ways
 > you may not even be able to figure out who you are, what you wanted to do, [or]
 > where you want to go.
+
+
+#### Layers of attention {#layers-of-attention}
+
+-   First layer of attention: **spotlight**
+    -   Focus on immediate actions (e.g., making coffee, finding glasses, reading a chapter).
+    -   Involves narrowing down focus.
+    -   Distraction disrupts near-term actions.
+-   Second layer of attention: **starlight**
+    -   Focus on longer-term goals (e.g., writing a book, setting up a business, being a good parent).
+    -   Acts as a guide when feeling lost, like stars in the sky.
+    -   Distraction causes loss of sight of longer-term goals.
+-   Third layer of attention: **daylight**
+    -   Enables understanding of longer-term goals.
+    -   Requires clear thinking and reflection.
+    -   Compared to daylight illuminating a scene clearly.
+    -   Distraction can lead to losing sense of personal identity and direction.
 
 
 #### 242 {#242}
@@ -776,6 +825,20 @@ Mind being DOSed:
 > you’re so distracted and figure out what to do about it. It can just colonise
 > your entire world,’ he said. You are left so depleted that ‘you don’t get the
 > space to push back against it’.
+
+-   Different metaphor to understand attention:
+    -   Hackers attack websites using a method called ‘denial-of-service attack’:
+        -   Many computers connect to a website simultaneously.
+        -   Overwhelms the site’s capacity to manage traffic.
+        -   Website becomes inaccessible and crashes.
+    -   James compares this to a denial-of-service attack on our minds:
+        -   We are like the overwhelmed server.
+        -   Numerous things constantly try to grab our attention by inundating us with information.
+        -   Undermines our capacity to respond effectively.
+        -   Leads to a state of distraction and paralysis.
+        -   Inundation fills our world, preventing clarity and action.
+        -   Colonizes our thought space, leaving us depleted.
+        -   Results in lack of space to push back against the overwhelming input.
 
 
 #### Economic growth {#economic-growth}
@@ -810,6 +873,23 @@ economic groeth and degrading attention
 > speeds up life. If the economy has to grow every year, in the absence of new
 > markets it has to get you and me to do more and more in the same amount of time.
 
+-   Question: Why has the trend of overwhelming information been happening so long?
+    -   This trend precedes Facebook and many modern factors.
+-   Discussion with Thomas Hylland Eriksen, Norwegian scientist and professor of social anthropology:
+    -   Underlying cause since the 1880s: the idea of economic growth, post-Industrial Revolution.
+    -   Definition of success:
+        -   A growing economy leads to political reelection.
+        -   Growing companies result in celebrated CEOs.
+        -   Shrinking economy or share price leads to political or CEO removal.
+    -   Economic growth as the central organizing principle of society.
+-   Two ways growth happens:
+    1.  Finding new markets (inventing or exporting new products).
+    2.  Persuading existing consumers to consume more.
+        -   Achieved by cramming more activities into the same amount of time.
+        -   Example: Watching TV while following the show on social media, leading to exposure to more ads.
+-   Implication:
+    -   Life speeds up as the economy demands more productivity within the same time frame.
+
 
 ##### 253 {#253}
 
@@ -828,7 +908,23 @@ economic groeth and degrading attention
 > steady-state economy can allow us to choose goals that don’t raid our attention,
 > and don’t raid the planet’s resources.
 
-also checkout books from hickel
+-   Dr. Jason Hickel, economic anthropologist at the University of London:
+    -   Leading critic of economic growth.
+    -   Proposes an alternative: **steady-state economy**.
+-   Concept of steady-state economy:
+    -   Move beyond economic growth as the primary goal.
+    -   Choose different, more meaningful goals.
+-   Redefining prosperity:
+    -   Current definition: Working hard to buy things, many of which don't bring happiness.
+    -   Proposed definition: Having time to spend with family, enjoy nature, sleep, dream, and have secure work.
+    -   Emphasis on a good life over a fast life.
+    -   End-of-life reflections rarely focus on contributions to economic growth.
+-   Benefits of a steady-state economy:
+    -   Allows selection of goals that:
+        -   Do not deplete attention.
+        -   Do not exhaust the planet's resources.
+
+⚠: also checkout books from hickel
 
 
 ### Groups Already Fighting to Improve Attention {#groups-already-fighting-to-improve-attention}
@@ -836,46 +932,55 @@ also checkout books from hickel
 
 #### Resources {#resources}
 
+<https://www.stolenfocusbook.com/additional-endnotes/>
 
-#### 257 {#257}
+Additional resources (per topic):
 
-> On fighting to change how the internet works Center for Humane Technology:
-> <https://www.humanetech.com> The Avaaz campaign to detoxify the algorithms:
-> <https://secure.avaaz.org/campaign/en/detox_the_algorithm_loc/> Stop Hate For
-> Profit: <https://www.stophateforprofit.org/backup-week-of-action-toolkit> On
-> fighting for a four-day week Andrew Barnes and Charlotte Lockhart have
-> co-founded this group: www.4dayweek.com In Europe, the New Economics Foundation
-> is fighting for this: <https://neweconomics.org/campaigns/euro-working-time> Four
-> Day Week Ireland: <https://fourdayweek.ie> On children being allowed to play Let
-> Grow: <https://letgrow.org> Let Our Kids Be Kids: letthekidsbekids.wordpress.com
-> The Daily Mile: www.thedailymile.co.uk The Less Testing, More Learning Campaign:
-> <https://www.citizensforpublicschools.org/less-testing-more-learning-ma-campaign/sign-the-less-testing-more-learning-petition-today/>
-> More Than A Score (opposing over-testing in the UK): www.morethanascore.org.uk
-> and www.facebook.com/parentssupportteachers/ Keeping Early Years Unique:
-> <https://www.keyu.co.uk> Upstart Scotland: www.upstart.scot On protecting kids
-> from getting hooked to tech when they are young Turning Life On:
-> <https://www.turninglifeon.org> On changing our food supply Alliance for a
-> Healthier Generation: www.healthiergeneration.org Healthy Food America:
-> www.healthyfoodamerica.org Healthy Schools Campaign:
-> <https://healthyschoolscampaign.org/issues/school-food/> Better Food Britain, and
-> the Children’s Food Campaign: <https://www.sustainweb.org/projectsandcampaigns/>
-> and <https://www.sustainweb.org/childrensfoodcampaign/> School Food Matters:
-> <https://www.schoolfoodmatters.org/campaigns> Henry: www.henry.org.uk On resisting
-> pollutants that can damage attention Little Things Matter:
-> <https://littlethingsmatter.ca> Client Earth: <https://www.clientearth.org> The
-> BreatheLife campaign:
-> <https://www.ccacoalition.org/en/activity/breathelife-campaign> or
-> <https://breathelife2030.org> HealthyAir: <https://www.healthyair.org.uk> Endocrine
-> Society (ES): <https://www.endocrine.org/> European Society of Endocrinology
-> (ESE): <https://www.ese-hormones.org/> Health and Environmental Alliance (HEAL):
-> <https://www.env-health.org/> On a universal basic income Citizen’s Basic Income
-> Trust: <https://citizensincome.org> Basic Income: <https://www.basicincome.org.uk>
+-   Fighting to change how the internet works:
+    -   Center for Humane Technology: <https://www.humanetech.com>
+    -   Avaaz campaign to detoxify the algorithms: <https://secure.avaaz.org/campaign/en/detox_the_algorithm_loc/>
+    -   Stop Hate For Profit: <https://www.stophateforprofit.org/backup-week-of-action-toolkit>
 
-resources
+-   Fighting for a four-day week:
+    -   Andrew Barnes and Charlotte Lockhart's group: www.4dayweek.com
+    -   New Economics Foundation: <https://neweconomics.org/campaigns/euro-working-time>
+    -   Four Day Week Ireland: <https://fourdayweek.ie>
 
+-   Allowing children to play:
+    -   Let Grow: <https://letgrow.org>
+    -   Let Our Kids Be Kids: <https://letthekidsbekids.wordpress.com>
+    -   The Daily Mile: www.thedailymile.co.uk
+    -   The Less Testing, More Learning Campaign:
+        <https://www.citizensforpublicschools.org/less-testing-more-learning-ma-campaign/sign-the-less-testing-more-learning-petition-today/>
+    -   More Than A Score:
+        -   Website: www.morethanascore.org.uk
+        -   Facebook: www.facebook.com/parentssupportteachers/
+    -   Keeping Early Years Unique: <https://www.keyu.co.uk>
+    -   Upstart Scotland: www.upstart.scot
 
-#### 263 {#263}
+-   Protecting kids from getting hooked to tech when they are young:
+    -   Turning Life On: <https://www.turninglifeon.org>
 
-> Please note these are partial endnotes. There are more references, background,
-> and extra explanatory material – as well as audio of the quotes in the book – at
-> www.stolenfocusbook.com/additional-endnotes/
+-   Changing our food supply:
+    -   Alliance for a Healthier Generation: www.healthiergeneration.org
+    -   Healthy Food America: www.healthyfoodamerica.org
+    -   Healthy Schools Campaign: <https://healthyschoolscampaign.org/issues/school-food/>
+    -   Better Food Britain: <https://www.sustainweb.org/projectsandcampaigns/>
+    -   Children's Food Campaign: <https://www.sustainweb.org/childrensfoodcampaign/>
+    -   School Food Matters: <https://www.schoolfoodmatters.org/campaigns>
+    -   Henry: www.henry.org.uk
+
+-   Resisting pollutants that can damage attention:
+    -   Little Things Matter: <https://littlethingsmatter.ca>
+    -   Client Earth: <https://www.clientearth.org>
+    -   BreatheLife campaign:
+        -   Website: <https://www.ccacoalition.org/en/activity/breathelife-campaign>
+        -   Alternative link: <https://breathelife2030.org>
+    -   HealthyAir: <https://www.healthyair.org.uk>
+    -   Endocrine Society (ES): <https://www.endocrine.org>
+    -   European Society of Endocrinology (ESE): <https://www.ese-hormones.org/>
+    -   Health and Environmental Alliance (HEAL): <https://www.env-health.org/>
+
+-   Universal basic income:
+    -   Citizen's Basic Income Trust: <https://citizensincome.org>
+    -   Basic Income: <https://www.basicincome.org.uk>
