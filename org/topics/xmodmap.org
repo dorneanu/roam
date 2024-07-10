@@ -1,0 +1,8 @@
+:properties:
+:id:       c55012cf-65d9-41d5-bd1e-f8ea7afa7d60
+:end:
+#+title: xmodmap
+
+* Resources
+- 2024-06-27 ◦ [[https://wiki.archlinux.org/title/xmodmap][xmodmap - ArchWiki]]
+- 2024-06-27 ◦ [[https://unix.stackexchange.com/questions/429835/advanced-key-mappings-in-linux][x11 - Advanced key mappings in linux - Unix & Linux Stack Exchange]]
