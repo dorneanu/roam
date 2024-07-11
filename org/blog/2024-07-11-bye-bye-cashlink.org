@@ -1,0 +1,71 @@
+:properties:
+:id:       236eb732-a956-411c-a100-5bfa82f8578d
+:end:
+#+title: Bye Bye Cashlink!
+#+setupfile: setup.org
+#+filetags: :byebye:
+#+created: 2024-07-03
+#+hugo_draft: false
+#+hugo_section: posts
+
+In the midst of the Corona pandemic back in 2021, I joined the team at [[https://cashlink.de/en/][Cashlink]], a company focused on *tokenization* and *digital securities*.
+#+begin_sidenote
+You can also check out their whitepaper and learn more [[https://cashlink.de/en/tokenization-explained-4-steps-of-tokenization/][here]].
+#+end_sidenote
+With little understanding of these concepts, I embarked on this new journey as a /Senior Security Engineer/ within the TECH team. Promised a /greenfield/ environment, I stepped into the unknown, excited yet uncertain about what I was expected to to.
+
+#+html: {{< gbox src="/posts/img/2024/bye-bye-cashlink/laptop.png" title="Back of my laptop" caption="I wish I had more funny stickers, like the ones I had at Scout24 🧐" pos="left" >}}
+
+As I look back on almost three years of knowledge sharing at Cashlink, I realize just how much I've learned. Embracing one of Cashlink's core values, I consistently strived to /challenge the status quo/. Throughout this journey, I've gained a deep understanding of what DevSecOps truly is about, with a particular focus on the /operational side/.
+
+
+Having said this, I'm looking forward to my newest challenge, where I'll switch focus to the /Dev/ part in DevSecOps and delve deeper into /software engineering/, but still within the Security context. I also anticipate doing more coding, particularly in /Golang/, which kind of makes me happy. I remain grateful for all that I've experienced and learned at Cashlink and hope to see you all soon again, whether in Frankfurt, Cluj, or Berlin!
+#+begin_sidenote
+Cashlink was and still is a remote first company. Also check their [[https://cashlink.de/en/career/][career page]].
+#+end_sidenote
+
+* What I've learned
+As I was implementing security in the greenfield area, I had the chance to strengthen my knowledge in specific areas but also deep-dive into new ones.
+- *AWS*
+  - One of the first things I wanted to introduce was *SSO* which mainly included configuration of the [[https://aws.amazon.com/iam/identity-center/][AWS Identity Center]] with an /external/ Identity Provider (IdP). Later I was introducing *SSO for SSH* (using [[https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html][AWS Session Manager]]) which required employees to first do /authentication/ against the *IdP* before SSHing into machines.
+  - While I had no clue about [[https://support.google.com/a/answer/6262987][SAML based SSO]] later on I've also had the chance to implement several [[https://auth0.com/docs/authenticate/login/oidc-conformant-authentication/oidc-adoption-sso][OIDC based]] workflows
+  - Back at Scout24 I've barely had to deal with IaC (Infrastructure as Code) where *CDK* was mainly used. At Cashlink I've created my first [[https://aws.amazon.com/cdk/][CDK applications]] for different setups. While being an convinced CDK is the way to go, I later on had the chance to learn /Terraform/ which is my prefered IaC solution at the moment. Using [[https://www.terraform.io/][Terraform]] I was able to quickly create PoCs and manage complex infrastructure setups
+    #+begin_sidenote
+    You can read about my latest Terraform based projects at [[https://defersec.com/][defersec.com]]
+    #+end_sidenote
+  - Personally, setting up the networking infrastrcture (several [[https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html][VPCs]], with several [[https://aws.amazon.com/transit-gateway/][TGWs]] in a [[https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html][multi-account organization]]) was the biggest challenge which taught me a lot about networking and what Network Security is about.
+- *IAM* (as a /concept/)
+  - Especially within /distributed systems/ proper and granular *access management* becomes of the most fundamental Security pillars
+  - /IAM/ (Identity & Access Management), when done properly, definitly can reduce the /blast radius/ in case of a Security incident.
+  - Besides /OIDC/ and /SAML/ I definitely learned how to setup IAM concepts which include /authentication/ and /authorization/ for different entities (people and machines, generally speaking) within an organization. Later on, while setting up the *K8s* cluster I've learned about [[https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html][IRSA]] based authentication.
+  #+begin_sidenote
+  AWS lately introduced [[https://docs.aws.amazon.com/eks/latest/userguide/pod-identities.html][EKS Pod Identities]].
+  #+end_sidenote
+- *K8s*
+  - Retrospectively, I wish I'd have started learning about the concepts way earlier. While I was learning by implementing stuff, I didn't have a proper introduction which also explained the underlying technologies. Only a few weeks ago, I've decided to take a more structured approach and purchased [[https://www.manning.com/books/kubernetes-in-action][Kubernetes in Action]] which I think is an excellent introduction with good practical examples.
+  - Nevertheless I was fortunate enough to have some close insights into [[https://aws.amazon.com/eks/][AWS EKS]], what it takes to /manage it/, how to deal with /secrets/ and /configurations/. As I already was mentioning in in the IAM section understanding [[https://kubernetes.io/docs/reference/access-authn-authz/rbac/][Kubernets RBAC system]] and how one can map AWS IAM to it, took a while (right /Aron/? 😎)
+  - As I'm reading more all the concepts suddenly make sense and I can finally grasp better how all the pieces work together. I will definitely create my own cluster soon (most probably using [[https://k3s.io/][k3s]]) for having a playground where I can safely play with [[https://helm.sh/][helm charts]], deploy applications.
+- *Smart Contract Security*
+  - Smart contracts are at the heart of Cashlink's core business. Diving deep into smart contracts, especially using Solidity, was quite a challenge as a complete beginner.
+  - Understanding all the potential attacks related to these contracts proved to be a challenging task as long as you don't have to deal with it on a daily basis. I hope that someday I'll have the time and resources to set up a playground where I can experiment with these technologies and simulate various smart contract attacks.
+* Shoutout to
+- *Cashlink Team*
+  - A 💗 thanks to everyone I had the opportunity to meet, for all the conversations we shared, and the lively kicker sessions we enjoyed in Frankfurt. Last but not least, thank you for welcoming me in Cluj, where I had the chance to say "goodbye" in person to (almost) all of you!
+- *Verena*
+  - Thank you for your kindness and patience in just listening and guiding me through some difficult times in my life. See you soon in Berlin!
+- *Dragos*
+  - You might not be able to read this as you're on your trip on the [[https://www.viatransilvanica.com/en/][Via Transilvanica]]. I hope you'll finish your tour and come back full of energy. Also thanks for our coffee sessions, our discussions and sometimes for some good advice whenever something didn't go smooth. Let's do that 🏰 thing again, once we turn 50! 🤎
+- *Mariano*
+  - You were right! Our first discussion back in Frankfurt was about working in /full-remote/ and the fact I still need a community / colleagues around me. You remembered that when we met in Cluj this year! I really enjoyed our discussoin around /nutrition/, /sports/ and life in general. Take care and see you end of August 😋
+- *Aron*
+  - Thanks for your patience and for the fact you were the one to teach me K8s! Let's keep in touch and conquer the world with Golang, Terraform and Kubernetes. I also wish you all the best with your climbing career 🧗
+- *Maik*
+  - Let's go to /Aventura/, right? I guess we both won't forget that evening. I wish you all the best becoming a 🇧🇬 and let's do the /Moldova trip/ soon again.
+- *Anca*
+  - I admire you for your discipline and perseverance! I hope to see you someday at the Olympics 🏃
+- *George*
+  - "Who's Rosa?" 🤣 I really enjoyed our discussion lately in Cluj! I hope you'll find your place and get rich soon 😎
+- *Rafael*
+  - I'm glad I've convinced you to buy a [[https://www.lapavoni.com/en/families/domestic-machines/lever-coffee-machines][La Pavoni]]. You definitely have reached nerd level 500 with all the [[https://coffee-sensor.com/product-category/la-pavoni-parts-and-accessories-custom-made-from-coffee-sensor/][mods and customizations]] 😎. I'm still looking forward meeting your home roaster.
+- *Yubikey Gang*
+  - Without mentioning any names, y'all know: It was *RDCSLY* fun spending time with you 🫶
