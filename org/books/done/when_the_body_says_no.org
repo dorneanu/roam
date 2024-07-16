@@ -3,6 +3,7 @@
 :end:
 #+title: When The Body Says No
 #+filetags: book
+#+date: 2024-06-03
 
 * Chapters
 ** 1 The Bermuda Triangle

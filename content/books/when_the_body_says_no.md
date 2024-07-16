@@ -1,6 +1,7 @@
 +++
 title = "When The Body Says No"
-author = ["Cyneox"]
+author = ["Victor Dorneanu"]
+date = 2024-06-03
 tags = ["book"]
 draft = false
 +++
