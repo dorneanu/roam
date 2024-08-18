@@ -1,5 +1,6 @@
 +++
 title = "Design Patterns"
+author = ["Victor Dorneanu"]
 draft = false
 +++
 
@@ -11,7 +12,6 @@ draft = false
     -   use pre-conceived solutions to the problem
     -   if design is composed of well-known patterns, it's easy to:
         -   share idea
-        -   communicate and discuss with other stakeholders
 -   Types
     -
     -

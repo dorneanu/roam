@@ -33,7 +33,7 @@
 - 2023-05-15 ◦ [[https://go-proverbs.github.io/][Go Proverbs]]
 ** Botnets
 - 2022-08-22 ◦ [[https://github.com/ThrillQuks/Pitraix][GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR]]
-** Books
+** Books                                                              :book:
 - 2024-05-06 ◦ [[https://katherine.cox-buday.com/concurrency-in-go/][Concurrency in Go]]
 - 2024-04-17 ◦ [[https://pragprog.com/titles/mtgo/effective-go-recipes/][Effective Go Recipes: Fast Solutions to Common Tasks by Miki Tebeka]]
 - 2023-10-11 ◦ [[https://www.manning.com/books/learn-go-with-pocket-sized-projects][Learn Go with Pocket-Sized Projects ]]
@@ -49,6 +49,7 @@
 ** Frontend
 - 2023-04-11 ◦ [[https://www.reddit.com/r/golang/comments/10nw07z/best_frontend_stack_for_golang_backend/][Best front-end stack for Golang backend]]
 ** Error handling
+- 2024-08-15 ◦ [[https://www.youtube.com/watch?v=y5utZCeHys0][5 Levels of Go Error Handling - YouTube]]
 - 2023-07-04 ◦ [[https://medium.com/@methosi/master-golang-error-handling-a-comprehensive-step-by-step-guide-to-best-practices-698a0530604f][Master Golang Error Handling: Step-by-Step Guide to Robust and Resilient Applications]]
 - 2023-06-22 ◦ [[https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/][Gopher Wrangling. Effective error handling in Go | Stephen's Tech Blog]]
 - 2022-12-22 ◦ [[https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/][New in Go 1.20: wrapping multiple errors]]
@@ -58,7 +59,7 @@
 - 2022-10-25 ◦ [[https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/][Go and Proxy Servers: Part 1 - HTTP Proxies - Eli Bendersky's website]]
 ** Contexts
 - 2024-06-19 ◦ [[https://blog.meain.io/2024/golang-context/][Putting Go's Context package into context]]
-** Internals
+** Internals                                                      :internal:
 - 2023-03-27 ◦ [[https://www.kelche.co/blog/go/golang-scheduling/][The Golang Scheduler]]
 ** Learning
 - 2024-06-06 ◦ [[https://www.reddit.com/r/golang/comments/1ciq16b/internalize_go_programming_techniques/][Internalize Go programming techniques]]

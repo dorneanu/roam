@@ -1,6 +1,9 @@
+:properties:
+:id:       4799af95-ce0b-4593-a637-678105d5a2e9
+:end:
 #+created: 20210421182319787
 #+modified: 20210601083451290
-#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]] 
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]]
 #+revision: 0
 #+tags: Definition
 #+title: Design Patterns
@@ -14,8 +17,7 @@
   - use pre-conceived solutions to the problem
   - if design is composed of well-known patterns, it's easy to:
     - share idea
-    - communicate and discuss with other stakeholders
 - Types
-  - [[#Design%20Patterns%2FCreational][Creational]]
-  - [[#Design%20Patterns%2FBehavioural][Behavioral]]
-  - [[#Design%20Patterns%2FStructural][Structural]]
+  - [[id:568cccb2-1566-44ca-9c71-1346846ada86][Design Patterns/Behavioural]]
+  - [[id:137a40b5-4d73-42be-9209-8acef6d3ab12][Design Patterns/Structural]]
+  - [[id:c0e2d3db-ffa7-4e46-b97a-b675456cfdce][Design Patterns/Creational]]

@@ -1,0 +1,192 @@
++++
+title = "Triggerpunkte: Konsens und Konflikt in der Gegenwartsgesellschaft"
+author = ["Victor Dorneanu"]
+date = 2024-07-25
+tags = ["sociology", "politics", "book", "todo"]
+draft = false
++++
+
+-   <https://www.goodreads.com/book/show/199211943-triggerpunkte>
+
+
+## Kapitel {#kapitel}
+
+
+### Einleitung {#einleitung}
+
+
+#### Cleavages {#cleavages}
+
+Cleavages are historically determined social or cultural lines that divide citizens within a society into groups with **differing political interests**. This results in political conflict among these groups. Cleavage theory argues that political cleavages mainly determine a country's party system as well as the individual voting behavior of citizens, dividing them into voting blocs.
+
+Common examples of cleavages include:
+
+-   Economic cleavages: These cleavages divide people based on their economic class or income level. For example, there might be a cleavage between workers and capitalists.
+-   Social cleavages: These cleavages divide people based on their social status, such as race, ethnicity, religion, or gender. For example, there might be a cleavage between whites and minorities.
+-   Cultural cleavages: These cleavages divide people based on their shared values, beliefs, and traditions. For example, there might be a cleavage between urban and rural dwellers.
+
+Cleavages can be a source of both conflict and cooperation in society. They can lead to political instability and violence, but they can also motivate people to organize and advocate for their interests.
+
+
+### Arenen der Ungleichheitskonflikte {#arenen-der-ungleichheitskonflikte}
+
+
+#### Warum Arenas {#warum-arenas}
+
+> Der Begriff "Arena" wurde gewählt, weil er einen Ort des (Wett-)Kampfes vor
+> Zuschauern bezeichnet. In Arenen wird gewetteifert, gestritten und angefeuert,
+> Loyalitäten bilden sich aus und vertiefen sich. Die Autoren des Buches "Arenen
+> der Ungleichheitskonflikte" verwenden den Begriff "Arena", um die verschiedenen
+> Bereiche zu beschreiben, in denen Ungleichheitskonflikte ausgetragen werden.
+> Diese Arenen können sich in der realen Welt befinden, z. B. am Arbeitsplatz, in
+> der Schule oder im öffentlichen Raum. Sie können aber auch virtuell sein, z. B.
+> in sozialen Medien oder Online-Foren. Die Wahl des Begriffs "Arena"
+> verdeutlicht, dass Ungleichheitskonflikte oft einen kompetitiven Charakter
+> haben. Es geht darum, die eigenen Interessen gegen die Interessen anderer
+> durchzusetzen. Dabei werden unterschiedliche Ressourcen eingesetzt, z. B. Macht,
+> Wissen oder Geld. Der Begriff "Arena" impliziert auch, dass
+> Ungleichheitskonflikte öffentlich ausgetragen werden. Sie finden vor den Augen
+> der Öffentlichkeit statt und werden von dieser beobachtet und kommentiert. Dies
+> kann den Druck auf die Beteiligten erhöhen und die Konflikte verschärfen.
+> Gleichzeitig bietet die Öffentlichkeit den Beteiligten aber auch die
+> Möglichkeit, sich zu vernetzen und ihre Interessen zu vertreten. In Arenen
+> können sich soziale Bewegungen bilden und für Veränderungen kämpfen.
+> Zusammenfassend lässt sich sagen, dass der Begriff "Arena" einen treffenden
+> Ausdruck für die verschiedenen Aspekte von Ungleichheitskonflikten darstellt. Er
+> verdeutlicht den kompetitiven Charakter dieser Konflikte, ihre Öffentlichkeit
+> und das Potenzial für soziale Veränderung.
+
+
+#### Typologie {#typologie}
+
+> \## Oben-Unten-Ungleichheiten
+>
+> -   Konflikttypus: Verteilungskonflikte
+> -   Einsatz: Ressourcen, Ansprüche
+> -   Politikfelder: Sozial-, Verteilungs- und Steuerpolitik
+> -   Triebkräfte: &gt;&gt;Rückkehr der Ungleichheit&lt;&lt;
+> -   Kollektivbezug: Klassen und Schichten, Reiche und Arme
+> -   Bearbeitung: Umverteilung, Absicherung
+> -   Verteilungsbilanz: Nullsummenspiel
+>
+> \## Innen-Außen-Ungleichheiten
+>
+> -   Konflikttypus: Zugehörigkeits- und Grenzkonflikte
+> -   Einsatz: Zugang, Mitgliedschaft
+> -   Politikfelder: Migrations- und Integrationspolitik
+> -   Triebkräfte: Transnationalisierung, Migration
+> -   Kollektivbezug: Inländer und Ausländer, Eingesessene u. Migranten
+> -   Bearbeitung: Inklusion, Integration
+> -   Verteilungsbilanz: Unklar
+>
+> \## Wir-Sie-Ungleichheiten
+>
+> -   Konflikttypus: Anerkennungskonflikte
+> -   Einsatz: Rechte, Anerkennung
+> -   Politikfelder: Anerkennungspolitik, Gleichstellungs- und Quotenpolitik
+> -   Triebkräfte: Wertewandel, Entkonventionalisierung
+> -   Kollektivbezug: Etablierte und Außenseiter
+> -   Bearbeitung: Gleichstellung, Quoten, Normenwandel
+> -   Verteilungsbilanz: Positivsummenspiel (aber Statusverluste möglich)
+>
+> \## Heute-Morgen-Ungleichheiten
+>
+> -   Konflikttypus: Ökologische und Zeitkonflikte
+> -   Einsatz: Umweltgüter, Zeit
+> -   Politikfelder: Umwelt- und Klimapolitik
+> -   Triebkräfte: Klimakrise, fossile Prozesse
+> -   Kollektivbezug: Verursacher und Betroffene
+> -   Bearbeitung: Transformation, Nachhaltigkeit
+> -   Verteilungsbilanz: Negativsumme bei Nichthandeln, Zielkonflikte
+
+
+#### Klassenschema nach Daniel Oesch {#klassenschema-nach-daniel-oesch}
+
+> \## Selbstständige
+>
+> \### Unabhängige Arbeitslogik
+>
+> -   Unternehmer, Zahnärztin, Notarin
+> -   Hohe Qualifikation
+> -   Arbeitgeber und freie Berufe
+>
+> \### Abhängige Arbeitslogik
+>
+> -   Architekt, Ingenieurin, Programmierer
+> -   Mittleres/oberes Management
+> -   Technische Experten
+>
+> \## Abhängig Beschäftigte
+>
+> \### Technische Arbeitslogik
+>
+> -   Produktionsarbeiter, Tischler, Maurer
+> -   Niedrige Qualifikation
+>
+> \### Organisationale Arbeitslogik
+>
+> -   Controller, CEO, Unternehmensberater
+> -   Mittleres/oberes Management
+>
+> \### Interpersonelle Arbeitslogik
+>
+> -   Lehrerin, Klinikärztin, Sozialarbeiter
+> -   Soziokulturelle Experten
+>
+> \### Dienstleistungslogik
+>
+> -   Verkäufer, Altenpflegerin, Reinigungskraft
+> -   Niedrige Qualifikation
+
+-   Anmerkungen
+    -   Die Tabelle zeigt eine idealtypische Darstellung der verschiedenen Typen von Arbeitskräften. In der Realität können sich die Tätigkeitsmerkmale und Qualifikationsanforderungen überschneiden.
+    -   Die Tabelle ist nach dem Prinzip der sozialen Hierarchie geordnet, wobei die selbstständigen Arbeitskräfte an der Spitze stehen und die abhängigen Arbeitskräfte an der Basis.
+    -   Die Tabelle zeigt, dass es innerhalb der beiden Hauptgruppen der selbstständigen und abhängigen Arbeitskräfte unterschiedliche Arbeitslogiken und Qualifikationsanforderungen gibt.
+
+-   Literatur
+    -   Oesch, Daniel (2005): Die Klassengesellschaft im 21. Jahrhundert. Suhrkamp Verlag, Frankfurt am Main.
+
+
+#### Oben-Unten-Ungleichheiten {#oben-unten-ungleichheiten}
+
+
+#### Innen-Außen-Ungleichheiten {#innen-außen-ungleichheiten}
+
+
+#### Wir-Sie-Ungleichheiten {#wir-sie-ungleichheiten}
+
+
+#### Heute-Morgen-Ungleichheiten {#heute-morgen-ungleichheiten}
+
+
+### Triggerpunkte {#triggerpunkte}
+
+
+### Der soziale Raum der Ungleichheitskonflikte {#der-soziale-raum-der-ungleichheitskonflikte}
+
+
+### Affekt und Struktur {#affekt-und-struktur}
+
+
+### Der politische Raum der Ungleichheitskonflikte {#der-politische-raum-der-ungleichheitskonflikte}
+
+
+#### Politisierung und Konflikt in der Gegenwartsgesellschaft {#politisierung-und-konflikt-in-der-gegenwartsgesellschaft}
+
+
+### Anmerkungen {#anmerkungen}
+
+
+### Literatur {#literatur}
+
+
+### Anhang {#anhang}
+
+
+#### Onlineanhang {#onlineanhang}
+
+
+#### Abbildungsverzeichnis {#abbildungsverzeichnis}
+
+
+### Dank {#dank}

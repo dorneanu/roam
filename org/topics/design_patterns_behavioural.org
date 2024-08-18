@@ -1,0 +1,23 @@
+:properties:
+:id:       568cccb2-1566-44ca-9c71-1346846ada86
+:end:
+#+created: 20210525190511283
+#+modified: 20210525190322334
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]]
+#+revision: 0
+#+tags: Definition
+#+title: Design Patterns/Behavioural
+#+type: text/vnd.tiddlywiki
+
+* Description
+- Behavioral design patterns are design patterns that identify communication patterns among objects and provide solution templates for specific situations. In doing so, these patterns increase the extensibility of the interactions 
+* Patterns
+- Command
+- Chain of Responsibility
+- Mediator
+- Memento
+- Observer
+- Visitor
+- Strategy
+* Resources
+- https://refactoring.guru/design-patterns/behavioral-patterns
