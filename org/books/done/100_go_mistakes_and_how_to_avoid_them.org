@@ -7,3 +7,137 @@
 
 - 2022-11-25 ◦ [[https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them][100 Go Mistakes and How to Avoid Them]]
 
+* TODO Error Handling
+** catch panics
+Simple example how catch a ~panic~:
+
+#+begin_src go
+import (
+	"fmt"
+)
+
+func main() {
+    defer func() {
+        if r := recover(); r != nil {
+            fmt.Println("recover", r)
+        }
+    }()
+
+    f()
+}
+
+func f() {
+    fmt.Println("a")
+    panic("foo")
+    fmt.Println("b")
+}
+#+end_src
+
+#+results:
+: a
+: recover footer
+** wrap errors
+Using the ~%w~ directive:
+
+#+begin_src go
+if err != nil {
+    return fmt.Errorf("bar failed: %w", err)
+}
+#+end_src
+
+Using the ~%v~ directive:
+
+#+caption: In this case the error is not wraped. It's transformed into another error, to add context. The original source error is no longer available.
+#+begin_src go
+if err != nil {
+    return fmt.Errorf("bar failed: %v", err)
+}
+#+end_src
+** check is an error is of a certain type (errors.As)
+#+begin_quote
+In summary, if we rely on Go 1.13 error wrapping, we must use errors.As to check whether
+an error is a specific type. This way, regardless of whether the error is returned
+directly by the function we call or wrapped inside an error, errors.As will be able to
+recursively unwrap our main error and see if one of the errors is a specific type.
+#+end_quote
+
+#+begin_src go
+func handler(w http.ResponseWriter, r *http.Request) {
+    // Get transaction ID
+
+    amount, err := getTransactionAmount(transactionID)
+    if err != nil {
+        if errors.As(err, &transientError{}) {
+            http.Error(w, err.Error(),
+                http.StatusServiceUnavailable)
+        } else {
+            http.Error(w, err.Error(),
+                http.StatusBadRequest)
+        }
+        return
+    }
+
+    // Write response
+}
+#+end_src
+** errors.Is
+#+begin_quote
+In summary, if we use error wrapping in our application with the %w directive and
+fmt.Errorf, checking an error against a specific value should be done using errors.Is
+instead of ==. Thus, even if the sentinel error is wrapped, errors.Is can recursively
+unwrap it and compare each error in the chain against the provided value.
+#+end_quote
+
+#+begin_src go
+import "errors"
+
+var ErrFoo = errors.New("foo")
+
+err := query()
+if err != nil {
+    if errors.Is(err, sql.ErrNoRows) {
+        // ...
+    } else {
+        // ...
+    }
+}
+#+end_src
+** handling defer errors
+Some example (in this example the error in the defer function is completely ignored):
+#+begin_src go
+func getBalance(db *sql.DB, clientID string) (
+    balance float32, err error) {
+    rows, err := db.Query(query, clientID)
+    if err != nil {
+        return 0, err
+    }
+    defer func() {
+        err = rows.Close()
+    }()
+
+    if rows.Next() {
+        err := rows.Scan(&balance)
+        if err != nil {
+            return 0, err
+        }
+        return balance, nil
+    }
+    // ...
+}
+#+end_src
+
+Final version:
+
+#+begin_src go
+defer func() {
+    closeErr := rows.Close()
+    if err != nil {
+        if closeErr != nil {
+            log.Printf("failed to close rows: %v", err)
+        }
+        return
+    }
+    err = closeErr
+}()
+#+end_src
+* TODO Concurrency
