@@ -1,0 +1,321 @@
+:properties:
+:id:       DD20D675-B995-4976-987E-DE1232960CF7
+:end:
+#+title: 2024-09-03
+#+date: 2024-09-03
+#+filetags: journal
+
+* LdN391 - [[https://plus.lagedernation.org/2024/07/25/ldn391-spezial-wie-koennen-sie-mit-den-gruenen-regieren-daniel-guenther-cdu-ministerpraesident-schleswig-holstein/][Spezial: Wie können Sie mit den Grünen regieren? (Daniel Günther, CDU-Ministerpräsident Schleswig-Holstein)]])
+** Zusammenfassung
+*** Zusammenarbeit zwischen CDU und Grünen in Schleswig-Holstein
+- Erfolgreiche Aspekte der Kooperation
+  - Gegenseitiges Gönnen
+    #+begin_quote
+    "Das läuft so gut, weil man sich gönnen können muss."
+    #+end_quote
+
+  - Fokus auf echte Erfolge
+    #+begin_quote
+    "Wenn man erfolgreich zusammenarbeiten will und auch auf Dauer und auch alle
+    Koalitionspartner Lust darauf haben, dann geht es nur, wenn man echte
+    Erfolge erzielt."
+    #+end_quote
+
+  - Klare Definition von Kernthemen
+    - Jede Partei hat Bereiche, in denen sie ihre Handschrift deutlich zeigen kann
+    - Beispiel: CDU bei innerer Sicherheit, Grüne bei Umweltthemen
+
+  - Vertrauensvolle Zusammenarbeit
+    #+begin_quote
+    "Indem man miteinander redet, indem man einander vertraut und in dem wir uns
+    gegenseitig aufeinander verlassen können, dass die Dinge, die wir
+    vertraulich besprechen, auch nicht nach draußen getragen werden."
+    #+end_quote
+
+  - Regelmäßiger Austausch
+    #+begin_quote
+    "Wir haben jeden Montag unsere Koalitionsrunden, wo wir immer zusammensitzen
+    und alle Konfliktthemen miteinander beraten."
+    #+end_quote
+
+  - Lösungsorientierter Ansatz
+    #+begin_quote
+    "Und wir gehen da nicht raus, ohne dass wir eine Lösung gefunden haben."
+    #+end_quote
+
+  - Vermeidung öffentlicher Konflikte
+    #+begin_quote
+    "So schaffen wir es eben immer, dass diese Konflikte gar nicht so richtig
+    hochgefahren werden, sondern wir am Ende Lösungen finden."
+    #+end_quote
+
+- Unterschiede zur Bundesebene
+  - Weniger mediale Beobachtung
+    #+begin_quote
+    "Also das ist schon immer eine andere Dimension, weil man auch eine andere
+    mediale Beobachtung dabei hat."
+    #+end_quote
+
+  - Anderer Geist der Zusammenarbeit
+    #+begin_quote
+    "In Berlin habe ich zumindest immer in den Gesprächen erlebt, ich habe ja
+    mal bei Jamaika mitverhandelt auf Berliner Ebene. Und da war von dem Geist,
+    den wir hier haben, relativ wenig zu spüren."
+    #+end_quote
+
+  - Personenabhängigkeit
+    #+begin_quote
+    "Ja, genau deswegen, weil meine Antwort wäre in der Tat wirklich, das hat
+    was mit Personen zu tun."
+    #+end_quote
+
+  - Unterschiedliche Wahrnehmung der Grünen
+    #+begin_quote
+    "Und in all den Ländern, in denen die Union mit den Grünen regiert, ist die
+    Stimmung in der Tat auch eine andere."
+    #+end_quote
+
+  - Einfluss der Bundespolitik auf die Landesebene
+    #+begin_quote
+    "Und ehrlich gesagt wirkt sich das natürlich auch ganz schön auch auf die
+    Stimmung bei uns in Schleswig-Holstein aus, wenn da eine Bundesregierung
+    nicht so richtig performt."
+    #+end_quote
+
+- Herausforderungen
+  - Veränderung der Stimmung seit 2022
+    #+begin_quote
+    "Also das, was an Begeisterung 2022 für eine schwarz grüne Koalition auch in
+    meiner Partei spürbar gewesen ist, hat sich heute auch ein bisschen
+    relativiert durch Heizungsgesetz."
+    #+end_quote
+
+    #+begin_quote
+    "Aber natürlich ist die Lage in Ostdeutschland, wo es mittlerweile den
+    Landrat gibt, der kann man ja nicht sagen, mit dem redet man überhaupt gar
+    nicht."
+    #+end_quote
+
+  - Unterschiedliche Ansätze in verschiedenen Politikbereichen
+    #+begin_quote
+    "Also wenn Sie jetzt beispielsweise sagen bei der Migrationspolitik, das
+    könnt ihr Grünen jetzt einfach so handhaben, wie ihr wollt. So weit würde
+    ich jetzt nicht gehen wollen."
+    #+end_quote
+
+*** Umgang mit Rechtsextremismus und AfD
+- Erfolgreiche Strategie gegen AfD in Schleswig-Holstein
+  - AfD ist seit 2022 nicht mehr im Landtag vertreten
+  - Gründe für den Erfolg:
+    #+begin_quote
+    "Das andere politische Klima, was wir in Schleswig-Holstein haben, was wir
+    auch natürlich durch die Jamaika Koalition auch geprägt haben, dadurch, dass
+    wir gut zusammengearbeitet haben, gut übereinander geredet haben"
+    #+end_quote
+
+  - Sachliche Auseinandersetzung mit Themen:
+    #+begin_quote
+    "bei bestimmten Themen, die die AfD für sich versucht sozusagen zu
+    vereinnahmen, dass wir die nicht auf den Leim gegangen sind, bei diesen Themen
+    trotzdem in der Sache argumentiert haben, versucht haben, diese Dinge auch zu
+    lösen"
+    #+end_quote
+
+- Klare Abgrenzung zur AfD
+  - Auf Landesebene
+    #+begin_quote
+    "Also eine Zusammenarbeit auf Ebene der Länder zwischen CDU und AfD darf es
+    an keinem Punkt geben."
+    #+end_quote
+    - Keine gemeinsame Regierung
+    - Keine Tolerierung
+
+  - Auf Bundesebene
+    - Keine Kooperation mit der AfD
+    - Bereitschaft, Regierungsverantwortung zu übernehmen, um AfD zu verhindern:
+      #+begin_quote
+      "Und da, glaube ich, ist wirklich die Haltung der Union extrem klar und auch
+      die Haltung klar, dass wir eine Regierungsbildung ermöglichen müssen, damit
+      die AfD niemals in Regierungsverantwortung kommt."
+      #+end_quote
+
+- Herausforderungen auf kommunaler Ebene
+  - Schwierigkeit der vollständigen Abgrenzung:
+    #+begin_quote
+    "Ich glaube schon, dass das auf kommunaler Ebene deutlich schwieriger ist, gar
+    nicht miteinander zu reden."
+    #+end_quote
+  - Beispiel Ostdeutschland:
+    #+begin_quote
+    "Aber natürlich ist die Lage in Ostdeutschland, wo es mittlerweile den Landrat
+    gibt, der kann man ja nicht sagen, mit dem redet man überhaupt gar nicht."
+    #+end_quote
+  - AfD als stärkste Kraft in einigen Kreistagen
+  - Unterschied zur Landespolitik:
+    #+begin_quote
+    "Und in den Kommunen wird auch natürlich anders Politik gemacht, als in den
+    Ländern das der Fall ist."
+    #+end_quote
+
+- Strategie gegen Rechtsextremismus
+  - Lösungsorientierter Ansatz bei Themen wie Migration:
+    #+begin_quote
+    "Und das haben wir wirklich völlig vermieden, auch in der Auseinandersetzung,
+    sondern gesagt, das ist ein Thema, wo wir lösungsorientiert arbeiten müssen,
+    wo es Probleme gibt, die wir auch noch nicht gelöst haben."
+    #+end_quote
+  - Vermeidung von Emotionalisierung und drastischer Sprache:
+    #+begin_quote
+    "Und dann kann man natürlich dieses Thema stark emotionalisieren, den Leuten
+    auch Riesenprobleme öffentlich beschreiben, aber den Leuten nicht erklären,
+    wie man diese Probleme eigentlich löst."
+    #+end_quote
+
+- Einschätzung der AfD
+  - Einstufung als rechtsextrem:
+    #+begin_quote
+    "Wird vom Verfassungsschutz als gesichert rechtsextrem eingeschätzt. Also von
+    daher ist das ja eine undenkbare Option."
+    #+end_quote
+  - Verstärkung des Extremismus:
+    #+begin_quote
+    "Und man muss ja auch sagen, auch bei den Wahlen, die jetzt anstehen, ist die
+    AfD natürlich noch mal zusätzliche extremer."
+    #+end_quote
+
+- Zukunftsperspektive
+  - Notwendigkeit, demokratische Mehrheiten zu bilden
+  - Bereitschaft der Union, Regierungsverantwortung zu übernehmen:
+    #+begin_quote
+    "Die Union muss immer bereit sein, dann Regierungsverantwortung zu übernehmen.
+    Das heißt, unsere Antwort kann ja nicht sein, Die AfD darf nicht regieren,
+    aber wir regieren auch nicht mit."
+    #+end_quote
+
+*** Energiewende und Windkraft in Schleswig-Holstein
+
+- Erfolgreicher Ausbau erneuerbarer Energien
+  - Schleswig-Holstein ist führend beim Windkraftausbau
+  - Produktion von Wasserstoff aus überschüssigem Windstrom
+
+- Steigerung der Akzeptanz
+  - Abstandsregelungen
+    #+begin_quote
+    "Wir haben es in einem ersten Schritt hinbekommen, das zu befrieden, weil
+    wir einfach die Abstandsregelung zu Wohnbebauung erhöht haben"
+    #+end_quote
+    - Erhöhung des Mindestabstands auf 1000 Meter
+      #+begin_quote
+      "Diese Regelung gilt immer noch, die hat zu einer deutlichen Akzeptanz geführt."
+      #+end_quote
+
+  - Wirtschaftliche Vorteile
+    #+begin_quote
+    "Und dann erkennen natürlich Menschen noch viel stärker in
+    Schleswig-Holstein, dass durch diesen zusätzlichen Strom, den wir
+    produzieren, wir eben auch wirtschaftliche Vorteile haben."
+    #+end_quote
+
+- Bürgerbeteiligung
+  - Bürgerwindparks als Schlüssel zur Akzeptanz
+  #+begin_quote
+  "Wir haben bei uns zu einem ganz großen Teil auch über Bürgerwindparks diese
+  Akzeptanz geschaffen."
+  #+end_quote
+  - Menschen profitieren direkt von den Windkraftanlagen
+
+- Finanzielle Aspekte
+  - Abgaben an Kommunen
+  #+begin_quote
+  "Und mittlerweile sind ja auch die rechtlichen Rahmen so gelegt worden, dass
+  die Windkraftanlagen Betreiber an die Kommune, in denen die Windkraftanlage
+  steht, auch eigene Beträge abführen"
+  #+end_quote
+  - Hohe Gewinne in den letzten Jahren aufgrund gestiegener Strompreise
+
+- Regionale Verankerung
+  - Viele Projektierer kommen aus dem Land
+  - Unterstützung lokaler Projekte und Initiativen durch Windkraftbetreiber
+
+- Herausforderungen
+  - Frühere Spaltung des Landes beim Thema Windkraft
+  - Unterschiedliche Wahrnehmung in städtischen und ländlichen Gebieten
+
+- Positive Auswirkungen
+  - Ansiedlung von Unternehmen wie Northvolt aufgrund des Ökostromangebots
+  - Stärkung der regionalen Infrastruktur und Bildungseinrichtungen
+
+- Zukunftsperspektiven
+  - Weitere Optimierung der Netzentgelte
+  - Fortsetzung des Ausbaus erneuerbarer Energien
+
+*** Reform der Schuldenbremse und Finanzierung von Investitionen
+
+- Notwendigkeit einer Reform
+  - Aktuelle Schuldenbremse behindert notwendige Investitionen
+  #+begin_quote
+  "Wir haben eben auch in den Ländern Herausforderungen, die wir in den jetzigen
+  Regeln der Schuldenbremse nicht bewerkstelligen können."
+  #+end_quote
+
+- Vorschläge zur Reform
+  - Sondervermögen
+    - Vorschlag von Michael Kretschmer (CDU Sachsen)
+    #+begin_quote
+    "Ich halte das für einen spannenden Vorschlag, und das meine ich jetzt nicht
+    so, wie manchmal Politiker spannend sagen, indem sie versuchen da drum
+    herumzudrücken."
+    #+end_quote
+
+  - Investitionsgesellschaften
+    - Möglichkeit, Investitionen außerhalb der Schuldenbremse zu tätigen
+    #+begin_quote
+    "Ein Weg, wie man das mit der aktuellen Schuldenbremse machen kann, sind
+    diese Investitionsgesellschaften."
+    #+end_quote
+
+- Investitionsbedarf
+  - Infrastruktur (Brücken, Schulen, Eisenbahnen)
+  - Klimaneutralität
+  - Verteidigung
+  #+begin_quote
+  "Wir haben diesen Investitionsbedarf, den bestreitet auch niemand."
+  #+end_quote
+
+- Aktuelle Situation der Schuldenbremse
+  - Strikte Regeln für Länder
+  #+begin_quote
+  "Die Länder haben gesagt, wir verzichten freiwillig darauf. Aber das bedeutet
+  eben Strukturell dürfen wir im Prinzip überhaupt keine Verschuldung auch bei
+  uns in den Ländern zulassen."
+  #+end_quote
+  - Probleme bei der Bewältigung von Notlagen
+
+- Argumente für eine Reform
+  - Flexibilität bei Notlagen
+  - Möglichkeit für langfristige Investitionen
+  - Anpassung an wirtschaftliche Realitäten
+
+- Bedenken und Gegenargumente
+  - Gefahr der übermäßigen Verschuldung
+  - Missbrauch für konsumtive Ausgaben
+  #+begin_quote
+  "Und wir müssen eben nur verhindern, dass wir ein Regelwerk schaffen, was am
+  Ende wieder dazu verleitet, dass man das Geld nicht in diese Bereiche steckt,
+  sondern sich wirklich strukturell dauerhaft verschuldet."
+  #+end_quote
+
+- Politische Aspekte
+  - Diskussion über Parteigrenzen hinweg
+  - Notwendigkeit eines breiten Konsenses für Grundgesetzänderungen
+
+- Internationale Vergleiche
+  - Deutschland hat im Vergleich niedrige Schuldenquote
+  #+begin_quote
+  "Also wenn wir uns mit anderen Ländern vergleichen, sind wir immer noch
+  vorbildlich."
+  #+end_quote
+
+- Zukunftsperspektiven
+  - Übergangsregelungen für Notlagen
+  - Mögliche Anpassung der Schuldenbremse an wirtschaftliche Zyklen
