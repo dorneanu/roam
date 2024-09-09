@@ -1,6 +1,6 @@
-:PROPERTIES:
-:ID:       f9f5fffd-d536-45c5-95ee-532d0b756766
-:END:
+:properties:
+:id:       f9f5fffd-d536-45c5-95ee-532d0b756766
+:end:
 #+title: Emacs
 #+filetags: :emacs:ide:
 
@@ -44,7 +44,7 @@ make -j 4 install
 - 2022-10-19 ◦ [[https://emacs.stackexchange.com/questions/59786/elfeed-olivetti-modes][hooks - elfeed + olivetti modes - Emacs Stack Exchange]]
 - 2022-10-19 ◦ [[https://github.com/SqrtMinusOne/dotfiles/blob/master/Emacs.org#elfeed][github.com/SqrtMinusOne/dotfiles/Emacs.org]]
 ** Functions
-#+CAPTION: Source: http://heikkil.github.io/blog/2015/05/09/notes-from-elfeed-entries/
+#+caption: Source: http://heikkil.github.io/blog/2015/05/09/notes-from-elfeed-entries/
 #+begin_src emacs-lisp
 (defun elfeed-link-title (entry)
    "Copy the entry title and URL as org link to the clipboard."
@@ -58,7 +58,7 @@ make -j 4 install
      (message "Yanked: %s" titlelink)))
 #+end_src
 
-#+CAPTION: Source: https://sqrtminusone.xyz/posts/2021-09-07-emms/
+#+caption: Source: https://sqrtminusone.xyz/posts/2021-09-07-emms/
 #+begin_src emacs-lisp
 (defun my/elfeed-search-filter-source (entry)
   "Filter elfeed search buffer by the feed under cursor."
@@ -169,6 +169,9 @@ When you are collecting text using append-to-register and prepend-to-register, y
   - for using SVG animations
 ** Tables
 - 2024-01-09 ◦ [[https://emacsconf.org/2023/talks/table/][EmacsConf - 2023 - talks - Who needs Excel? Managing your students qualifications with org-table]]
+** Terminal
+
+- 2024-09-03 ◦ [[https://whhone.com/posts/emacs-in-a-termainl/][Using Emacs in a Terminal - Wai Hon's Blog]]
 ** UI
 - 2022-12-05 ◦ [[https://codeberg.org/gopiandcode/emacs-viewer][gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org]]
 ** Yaml

@@ -261,6 +261,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
 -   2024-01-09 ◦ [EmacsConf - 2023 - talks - Who needs Excel? Managing your students qualifications with org-table](https://emacsconf.org/2023/talks/table/)
 
 
+### Terminal {#terminal}
+
+-   2024-09-03 ◦ [Using Emacs in a Terminal - Wai Hon's Blog](https://whhone.com/posts/emacs-in-a-termainl/)
+
+
 ### UI {#ui}
 
 -   2022-12-05 ◦ [gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org](https://codeberg.org/gopiandcode/emacs-viewer)

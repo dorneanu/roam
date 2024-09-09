@@ -319,3 +319,4 @@
 - Zukunftsperspektiven
   - Übergangsregelungen für Notlagen
   - Mögliche Anpassung der Schuldenbremse an wirtschaftliche Zyklen
+* 2024-09-03 ◦ [[https://research.kudelskisecurity.com/2024/08/29/careful-where-you-code-multiple-vulnerabilities-in-ai-powered-pr-agent/][Careful Where You Code: Multiple Vulnerabilities in AI-Powered PR-Agent – Kudelski Security Research]]
