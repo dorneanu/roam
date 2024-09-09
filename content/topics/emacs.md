@@ -212,6 +212,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
 -   2022-09-20 ◦ [Creative writing with Emacs – Jacmoe's Cyber Soapbox](https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/)
 
 
+### Mail {#mail}
+
+-   2024-09-09 ◦ [Reading and sending mails from within Emacs: a tutorial for mu4e](https://f-santos.gitlab.io/2020-04-24-mu4e.html)
+
+
 ### org-babel {#org-babel}
 
 -   2022-12-06 ◦ [github.com/dfeich/org-babel-examples](https://github.com/dfeich/org-babel-examples)

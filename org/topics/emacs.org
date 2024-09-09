@@ -146,6 +146,8 @@ When you are collecting text using append-to-register and prepend-to-register, y
 - 2023-12-04 ◦ [[https://takeonrules.com/2023/12/03/emacs-turbo-charges-my-writing/][Emacs Turbo-Charges My Writing // Take on Rules]]
 - 2022-11-07 ◦ [[https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/][blakewatson.com – Almost monospaced: the perfect fonts for writing]]
 - 2022-09-20 ◦ [[https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/][Creative writing with Emacs – Jacmoe's Cyber Soapbox]]
+** Mail
+- 2024-09-09 ◦ [[https://f-santos.gitlab.io/2020-04-24-mu4e.html][Reading and sending mails from within Emacs: a tutorial for mu4e]]
 ** org-babel
 - 2022-12-06 ◦ [[https://github.com/dfeich/org-babel-examples][github.com/dfeich/org-babel-examples]]
   - Examples using emacs org mode babel inline source code with different backend languages
