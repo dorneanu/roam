@@ -436,7 +436,6 @@ diese Konflikte gegen Ausländer und Zuwanderer, also nach unten und nach außen
         - >>Wir dürfen uns nicht abschotten<<; Scheitern durch Rassismus und Exklusion
 
 
-
 *** Wir-Sie-Ungleichheiten                                          :arena:
 **** Exklusive Inklusivität?
 Durch Sprache ausschließen:
@@ -537,60 +536,87 @@ Antidiskriminierungspolitik auf starke Vorbehalte trifft.
 
 |   | Forderung nach Veränderung des eigenen Alltagshandelns als Zumutung | Pflicht zur Selbsthinterfragung, Alltagshandeln zentraler Hebel für Veränderung |
 
-*** NEXT Heute-Morgen-Ungleichheiten                                :arena:
+*** Heute-Morgen-Ungleichheiten                                     :arena:
+
+- Landbewohner betonen die Notwendigkeit des Autofahrens
+- Forderungen nach Verhaltensänderungen werden oft mit begrenzten finanziellen
+  Mitteln abgelehnt
+- "Ökologie des Zwangs": Begrenzte Möglichkeiten führen automatisch zu
+  sparsamerem Verbrauch
+- Konsum und Mobilität werden weiterhin als Teil eines guten Lebens angesehen
+- Politische Steuerung (z.B. durch Steuern oder Preise) wird als Bevorteilung
+  der Wohlhabenden wahrgenommen
+- In der ökologisch bewussten oberen Mittelschicht gilt die Reduzierung des
+  eigenen ökologischen Fußabdrucks als wichtiger Ansatz für Veränderung
 
 #+begin_quote
 Gerade Landbewohner pochen etwa auf die Alternativlosigkeit des Autofahrens. Forderungen
 nach einer Umstellung des individuellen Alltags werden mit dem Hinweis auf begrenzte
-finanzielle Mittel ge- kontert. Mitunter zeichne sich hier eine Art » Ökologie des Zwangs
-ab: Eingeschränkte Möglichkeiten führten demnach ohnehin zu ei- nem sparsamen Verbrauch.
+finanzielle Mittel gekontert. Mitunter zeichne sich hier eine Art » Ökologie des Zwangs
+ab: Eingeschränkte Möglichkeiten führten demnach ohnehin zu einem sparsamen Verbrauch.
 Zugleich werden ausgiebiger Konsum und Mobilität als Bestandteile eines guten Lebens
 weiterhin angestrebt. Politische Lenkung etwa durch Steuern oder Preise erscheint als Be-
-vorteilung derer, die sich dies leisten können. In der ökologisch be- wussten oberen
-Mittelschicht hingegen gilt die verantwortungsbe- wusste Begrenzung des eigenen
+vorteilung derer, die sich dies leisten können. In der ökologisch bewussten oberen
+Mittelschicht hingegen gilt die verantwortungsbewusste Begrenzung des eigenen
 Fußabdrucks als zentraler Hebel der Veränderung.
 #+end_quote
 
 #+begin_quote
-Immerhin tragen gerade die gebildeten Fraktionen der Mittelschicht durch ihr privates und
-berufliches Reiseverhalten überproportional zum CO-Ausstoß bei." Die moralisierte
+Immerhin tragen gerade *die gebildeten Fraktionen der Mittelschicht durch ihr privates und
+berufliches Reiseverhalten überproportional zum CO-Ausstoß bei*." Die moralisierte
 Abgrenzung über einen nachhaltigen Lebensstil dient auch der Distinktion, die von den
 verursachten ökologischen Schäden konterkariert wird
 #+end_quote
 
+Konsum von westlichen Ländern ist maßgebend:
+
 #+begin_quote
-In Europa beispielsweise emittieren die unteren so Prozent der Einkommensverteilung pro
+In Europa beispielsweise emittieren die unteren so (???) Prozent der Einkommensverteilung pro
 Kopf jährlich etwa fünf Tonnen CO wahrend die obersten 10 Prozent auf 27 Tonnen kommen."
-Auch in Deutschland ist der Abstand zwischen den höchsten und den nied- rigsten
-Einkommens- und Bildungsgruppen groß. Tatsächlich müss- ten sich die ärmeren Haushalte
-selbst in den westlichen Industrie- nationen kaum umstellen, um die Pariser Klimaziele zu
+Auch in Deutschland ist der Abstand zwischen den höchsten und den niedrigsten
+Einkommens- und Bildungsgruppen groß. *Tatsächlich müssten sich die ärmeren Haushalte
+selbst in den westlichen Industrienationen kaum umstellen, um die Pariser Klimaziele zu
 erreichen; der Konsum und die Investitionen von Superreichen sind hingegen wichtige
-Emissionstreiber
+Emissionstreiber*
 #+end_quote
+
+Letfragen:
 
 #+begin_quote
 fim Folgenden blicken wir empirisch auf die komplexen Zusam menhänge von Umweltkonflikten
-und gesellschaftlicher Ungleich- heit: Stehen sich in dieser Arena Klimaschützer und
+und gesellschaftlicher Ungleichheit: Stehen sich in dieser Arena Klimaschützer und
 Klimaleugner ganz unabhängig von ihrer sozialen Position gegenüber? Oder gibt es
 tatsächlich grundverschiedene, vielleicht gar konträre Ökologien der Reichen und der
-Armen? Ist es ein Privileg der Sanftgebetteten, sich um das Ende der Welt zu sorgen,
+Armen? *Ist es ein Privileg der Sanftgebetteten, sich um das Ende der Welt zu sorgen,
 während anderen mit Blick in die Haushaltskasse das Ende des Monats bedrohlicher
-erscheint? Zieht ein Klimakonflikt der sozialen Klassen herauf? Oder kommt es
-möglicherweise zur Formierung neuer ökologischer Klassen (so cin Begriff von Nikolaj
+erscheint*? Zieht ein Klimakonflikt der sozialen Klassen herauf? Oder kommt es
+möglicherweise zur *Formierung neuer ökologischer Klassen* (so cin Begriff von Nikolaj
 Schultz und Bruno Latour
 #+end_quote
 
-
-
 **** Klimapolitische Spaltungslinien
+- Ein Drittel der Bevölkerung befürchtet, dass der Wohlstand durch
+  Klimaschutzmaßnahmen gefährdet wird
+- 40% meinen, Deutschland habe genug für den Klimaschutz getan und andere Länder
+  müssten nun nachziehen
+- Sorge um Deutschlands Wettbewerbsfähigkeit bei strengeren Klimaschutzmaßnahmen
+  im Vergleich zu anderen Ländern
+- Diese Themen sind stark polarisierend
+- Alltagseingreifende Maßnahmen (z.B. Windräder nahe Ortschaften) und Appelle zu
+  umweltbewussterem Leben führen ebenfalls zu Polarisierung
+- Die "Klimaarena" ist vielschichtig und komplex
+- Verschiedene Konflikte treffen aufeinander: Lebensweise,
+  Standortnationalismus, Gerechtigkeitsfragen und Besitzstandswahrung
+- Diese unterschiedlichen Konflikte kommen im Großkomplex "ökologische
+  Transformation" zusammen
 
 #+begin_quote
 Ein Drittel der Bevölkerung etwa sieht >>unseren Wohlstand gefährdet, wenn wir jetzt wegen
 des Klimawandels alles auf den Prüfstand stellen. Eine verwandte Befürchtung lautet,
 Deutschland könne im globalen Wettbewerb das Nachsehen haben, wenn der Klimaschutz
 hierzulande wichtiger genommen werde als anderswo: 40 Prozent sind hier der Meinung, dass
-Deutschland schon viel für den Klimawandel getan habe und nun erst einmal ande- re Länder
-nachziehen müssten. Dies sind - gemessen an unserem In- dex - stark polarisierte Themen.
+Deutschland schon viel für den Klimawandel getan habe und nun erst einmal andere Länder
+nachziehen müssten. Dies sind - gemessen an unserem Index - stark polarisierte Themen.
 In den Alltag eingreifende Maßnah- men wie der Bau von Windrädern in der Nähe von
 Ortschaften und als Zumutung empfundene Appelle, umweltbewusster zu leben erreichen
 ebenfalls vergleichsweise hohe Polarisierungswerte. Die Klimaarena ist alles andere als
@@ -598,6 +624,27 @@ eindimensional; Lebensweise und Standortnationalismus, Gerechtigkeit und
 Besitzstandwahrung evo- zieren ganz unterschiedlich gelagerte Konflikte, die im Großkom-
 plex ökologische Transformation zusammenkommen
 #+end_quote
+
+- Grundannahme: Die ökologische Frage entwickelt sich zunehmend zu einer Klassenfrage
+- Vier Hauptaspekte werden hervorgehoben:
+  - *Verursachung des Klimawandels*:
+    - Menschengemacht, aber mit bedeutenden sozialen Unterschieden
+    - Erwärmung wird "von oben befeuert"
+    - Spaltung zwischen Arm und Reich, national und global
+  - *Ungleiche Betroffenheit*:
+    - Unterschiede zwischen Generationen
+    - Klassenunterschiede in der Vulnerabilität, national und global
+    - Unterschiedliche Anpassungsmöglichkeiten
+  - *Auswirkungen des ökologischen Umbaus auf Lebenschancen*:
+    - Sozioökonomische Transformationskosten
+    - Eingriffe in individuelle Lebensweisen
+    - Bereiche wie Mobilität, Wohnen, Konsum, Arbeit, Ernährung etc. werden beeinflusst
+    - Mögliche Verteuerung durch Einpreisung ökologischer Kosten
+    - Klassenspezifische Auswirkungen dieser Kosten
+    - Potenzielle Intensivierung von Verteilungskonflikten
+  - *Symbolische Kämpfe*:
+    - Mögliche Konflikte zwischen Statusgruppen im Zusammenhang mit nachhaltigen
+      Lebensstilen
 
 #+begin_quote
 Unsere Grundannahme lautet, dass sich die ökologische Frage zu- nebmend als Klassenfrage
@@ -623,13 +670,13 @@ symbolische Kämpfe zwi schen den Statusgruppen
 **** Ungleiche Betroffenheit oder kollektive Risiken?
 
 #+begin_quote
-Perfiderweise sind die Staaten, die für die größten Emissionen verantwortlich sind,
-zugleich jene, deren Wohlstand es ihnen noch am ehesten erlaubt, sich vor den Fol- gen der
-Erderwärmung zu schützen, zum Beispiel durch die Ent- wicklung einer klimaresilienten
-Infrastruktur, den Bau von Deichen oder den Umbau der Metropolen. Zwischen
+*Perfiderweise sind die Staaten, die für die größten Emissionen verantwortlich sind,
+zugleich jene, deren Wohlstand es ihnen noch am ehesten erlaubt, sich vor den Folgen der
+Erderwärmung zu schützen, zum Beispiel durch die Entwicklung einer klimaresilienten
+Infrastruktur, den Bau von Deichen oder den Umbau der Metropolen*. Zwischen
 Umweltbelastungen und Ungleichheit ergibt sich eine Art Teufelskreis, da die Ungleich-
-heit weiter vertieft wird: Benachteiligte Gruppen sind stärker vom Klimawandel
-beeinträchtigt, ihre Möglichkeiten der Einkommens- erzielung und Subsistenz verschlechtern
+heit weiter vertieft wird: *Benachteiligte Gruppen sind stärker vom Klimawandel
+beeinträchtigt*, ihre Möglichkeiten der Einkommenserzielung und Subsistenz verschlechtern
 sich weiter, was schließlich zu einer Verfestigung und Verschärfung ihrer prekären Lage
 führt
 #+end_quote
@@ -637,88 +684,104 @@ führt
 **** Transformationslasten
 
 #+begin_quote
-Klimaschutzmaßnahmen werden hier nicht unter dem Gesichtspunkt ihrer zukünftigen Ziele
-betrachtet, sondern unter dem ihrer mögli- chen Auswirkungen für heutige
-Alltagsarrangements und den gewohn- ten Lebensstandard. Diese Umstrittenheit von
+*Klimaschutzmaßnahmen werden hier nicht unter dem Gesichtspunkt ihrer zukünftigen Ziele
+betrachtet, sondern unter dem ihrer möglichen Auswirkungen für heutige
+Alltagsarrangements und den gewohnten Lebensstandard*. Diese Umstrittenheit von
 Zeitwahrnehmungen liegt auch in einer widersprüchlichen Zeitlichkeit des Problems selbst
-begründet, wie sie die Heute-Morgen-Arena noch stärker als andere Arenen prägt. Die
-schnelle Umsetzung einer konsequenten Klima- schutzpolitik ist maßgeblich für ihre
+begründet, wie sie die Heute-Morgen-Arena noch stärker als andere Arenen prägt. *Die
+schnelle Umsetzung einer konsequenten Klimaschutzpolitik ist maßgeblich für ihre
 Erfolgsaussichten, aber eben- diese Schnelligkeit wird als Bedrohung oder sogar als
-Zumutung wahrgenommen
+Zumutung wahrgenommen*
 #+end_quote
 
 #+begin_quote
 . Wir finden in unseren Daten zwar Klassenabstufungen in der Besorgnis um den Klimawandel,
-aber in allen Klassen sind Men- schen mit einem ökologischen Krisenbewusstsein in der
-klaren Mehrheit. Die Klassenstruktur tritt in den ökologischen Einstel- lungen erst dann
+aber *in allen Klassen sind Menschen mit einem ökologischen Krisenbewusstsein in der
+klaren Mehrheit*. Die Klassenstruktur tritt in den ökologischen Einstellungen erst dann
 stärker hervor, wenn es um die Verknüpfung von Ökologie mit sozialen Fragen der
-Lastenverteilung und um mög- liche Wohlstandsverluste geht
+Lastenverteilung und um mögliche Wohlstandsverluste geht
 #+end_quote
 
 **** Ökologische Distinction
 
 #+begin_quote
 Jin Kontrast zur bereits erwähnten Ökologie der Arbeiterklasse, die sich um die Frage der
-finanziellen Verkraftbarkeit dreht, beob- achtet Huber in der Ökologie der professionellen
-Mittelklasse ei- nen starken Fokus auf die Konsumsphäre. Auch aufgrund der gro- Sen
-Distanz wissensbasierter Mittelklassejobs zur Güterproduktion reduziere sich Klimahandeln
+finanziellen Verkraftbarkeit dreht, beobachtet Huber in der Ökologie der professionellen
+Mittelklasse einen starken Fokus auf die Konsumsphäre. Auch aufgrund der großen
+Distanz wissensbasierter Mittelklassejobs zur Güterproduktion *reduziere sich Klimahandeln
 auf den Ausdruck eines ökologischen Lebensstils mittels individueller
-Konsumentscheidungen. Dies füh- te die Diskussion tendenziell weg von den strukturellen
-Hintergrün- den der Klimakrise und hin zu alltagsethischen Fragen von Verzicht und
-Verschwendung. Dies war auch in unseren Gruppendiskussio- nen präsent, etwa wenn
+Konsumentscheidungen*. Dies führte die Diskussion tendenziell *weg von den strukturellen
+Hintergründen der Klimakrise* und * hin zu alltagsethischen Fragen von Verzicht und
+Verschwendung*. Dies war auch in unseren Gruppendiskussionen präsent, etwa wenn
 Buchhalterin Mareike sagt:
 #+end_quote
 
 #+begin_quote
-Also ich habe das Gefühl, in meinem Umfeld, also die Mittel- schicht, wir tun alle im
-Moment was und schnallen den Gürtel en- ger. Leben bewusst und verzichten bewusst. Mein
+Also ich habe das Gefühl, in meinem Umfeld, also die Mittelschicht, wir tun alle im
+Moment was und schnallen den Gürtel enger. Leben bewusst und verzichten bewusst. Mein
 Handy ist zehn Jahre alt, zum Beispiel. [...] Und was mich so aufregt, ist, dass viele
 immer denken: Wenn ich auf Klimaschutz achte, dann muss ich mein Leben umkrempeln und dann
 geht es mir nicht mehr so gut. Dabei gibt es Verhaltensmuster, die wir mit ganz wenig An-
-strengung ändern können. Zum Beispiel, wie uns die Werbung im- met so suggeriert: Konsum,
+strengung ändern können. Zum Beispiel, wie uns die Werbung immer so suggeriert: Konsum,
 Konsum, Konsum [...]. Wenn man diese Prozesse einfach mal hinterfragt und anfängt, mal
-darüber nachzudenken, dann kann man ganz viel... den eigenen Fußab- druck reduzieren.
+darüber nachzudenken, dann kann man ganz viel... den eigenen Fußabdruck reduzieren.
 #+end_quote
 
 #+begin_quote
 Mareikes Aufforderung zum Nachdenken«, »Hinterfragen und bewussten Leben sowie der
 Hervorhebung der kulturellen Narrative der Werbeindustrie wird ein weiteres
-Charakteristikum der moralischen Ökologie der Akademikerklassen offenbar: die Vorstellung,
+*Charakteristikum der moralischen Ökologie der Akademikerklassen* offenbar: *die Vorstellung,
 dass vor allem Bewusstsein, Reflexivität und der Kampf um die richtigen Ideen entscheidend
-seien. Wie wiederum Huber be- merkt, kommt es hier bisweilen zu einer Überschätzung des
-Faktors Wissen in der Klimapolitik.65 Slogans wie Listen to the science (deutsch: Hört auf
-die Wissenschaft) finden vor allem bei Men- schen Resonanz, die selbst beruflich mit
-Wissen hantieren, deren so- zialer Status auf Bildung und akademischen Qualifikationen
-beruht oder die sich in Milieus bewegen, in denen Informiertheit und ein re- flexiver
-Selbstbezug (Managerin Chiara: Ich esse bewusst. Ich kau- fe bewusst ein) hohen
+seien*. Wie wiederum Huber bemerkt, kommt es hier bisweilen zu einer Überschätzung des
+Faktors Wissen in der Klimapolitik.65 Slogans wie _Listen to the science_ (deutsch: Hört auf
+die Wissenschaft) finden vor allem bei Menschen *Resonanz, die selbst beruflich mit
+Wissen hantieren, deren sozialer Status auf Bildung und akademischen Qualifikationen
+beruht oder die sich in Milieus bewegen*, in denen Informiertheit und ein reflexiver
+Selbstbezug (Managerin Chiara: Ich esse bewusst. Ich kaufe bewusst ein) hohen
 Stellenwert genießen.
 #+end_quote
 
+- Akademisch Gebildete sind in der Klimapolitik oft tonangebend, stellen aber in der Gesamtbevölkerung eine Minderheit dar
+- Klimapolitischer Ansatz der akademischen Mittelklasse:
+  - Fokus auf individuelle Akteurschaft und ethische Zurechnung
+  - Betonung von Verzicht
+  - Unbedingte Zukunftsorientierung
+  - Appell an Bewusstwerdung
+- Risiko: Dieser Ansatz könnte an den Realitäten und Sichtweisen der restlichen
+  Bevölkerung vorbeigehen
+- Perspektive der nicht-akademischen Bevölkerung:
+  - Strukturelle Notwendigkeiten stehen im Vordergrund
+  - Begrenzte finanzielle Ressourcen
+  - Fehlende Infrastrukturen als Hindernis
+  - Zweifel an der Relevanz und dem Einfluss individueller Lebensstiländerungen
+  - Wahrnehmung eines begrenzten individuellen Handlungsspielraums
+- Mögliche Folge: Reaktanz - impulsive Ablehnung moralisch-ökologischer Ansprüche an den eigenen Lebensstil
+  
 #+begin_quote
-All dies ist relevant, weil akademisch Gebildete zwar tendenziell klimapolitisch
-tonangebend sind, in der Gesamtbevölkerung aber eine Minderheit darstellen. Der
+All dies ist relevant, weil *akademisch Gebildete zwar tendenziell klimapolitisch
+tonangebend* sind, *in der Gesamtbevölkerung aber eine Minderheit* darstellen. Der
 insbesondere in der akademischen Mittelklasse verbreitete Zugang zur Klimapolitik über
-individuelle Akteurschaft und ethische Zurechnung, heroischen Verzicht, unbe dingte
+individuelle Akteurschaft und ethische Zurechnung, heroischen Verzicht, unbedingte
 Zukunftsorientierung und Bewusstwerdung läuft hier Gefahr, an gänzlich anders gelagerten
 Ökologien der restlichen Bevölkerung vorbeizureden. Bei Letzteren stehen oft strukturelle
-Notwendigkei- ten im Vordergrund der ethischen Argumentation; neben begrenz- ten
+Notwendigkei ten im Vordergrund der ethischen Argumentation; neben begrenzten
 finanziellen Ressourcen werden etwa fehlende Infrastrukturen benannt. Relevanz und
 Einfluss individueller Lebensstiländerungen werden bezweifelt, der individuelle Spielraum
 wird als eher klein er- achtet (Ludwig: Na ja, zur Arbeit muss ich. Man hat ja nicht immer
 so viele Möglichkeiten). Wie wir im nächsten Kapitel eingehender beleuchten, kann dies in
-zugespitzter Weise in Reaktanz münden, al- so cinem impulsiven Zurückweisen
-moralisch-ökologischer Ansprü- che an den eigenen Lebensstil, wie es in folgender Äußerung
-des So- zialarbeiters Jens zum Ausdruck kommt:
+zugespitzter Weise in Reaktanz münden, also cinem impulsiven Zurückweisen
+moralisch-ökologischer Ansprüche an den eigenen Lebensstil, wie es in folgender Äußerung
+des Sozialarbeiters Jens zum Ausdruck kommt:
 #+end_quote
 
 #+begin_quote
 Ich möchte mir nicht vorschreiben lassen, bis ins Kleinste, wie ich in meinem Zuhause zu
-leben habe. Ich möchte auch weiterhin ger- ne mein Stück Fleisch essen dürfen. Sicherlich
+leben habe. Ich möchte auch weiterhin gerne mein Stück Fleisch essen dürfen. Sicherlich
 kann man gern auch mal vegetarisch essen. Tue ich dann auch. Aber dass mir das alles noch
 vorgeschrieben und quasi befohlen wird, dagegen wehre ich mich!
 #+end_quote
 
-**** Argumentative Repertoires in der Heute-Morgen-Arena
+**** TODO Argumentative Repertoires in der Heute-Morgen-Arena
 
 # + Abb. 6.3: Argumentative Repertoires in der Heute-Morgen-Arena
 
@@ -766,40 +829,85 @@ vorgeschrieben und quasi befohlen wird, dagegen wehre ich mich!
 | wollen, können                                                                         | nicht müssen, dürfen                                                               |                       |
 
 ** Triggerpunkte
+- Konzept der "Triggerpunkte":
+  - Stellen, an denen Meinungsverschiedenheiten eskalieren
+  - Punkte, an denen Konsens in Dissens oder sogar Gegnerschaft umschlägt
+- Analogie zur Physiotherapie:
+  - Verhärtete oder verkrampfte Körperzonen
+  - Berührung kann Schmerz auch in anderen Körperregionen auslösen
+- Übertragung auf soziale Kontexte:
+  - Orte in der Tiefenstruktur moralischer Erwartungen und sozialer Dispositionen
+  - Lösen heftige und emotionale Reaktionen aus
+- Wirksamkeit der Triggerpunkte:
+  - Verankert in Unterstrukturen von moralischen Überzeugungen,
+    Selbstverständnissen, Alltagskosmologien und Rechtfertigungsmustern
+  - Funktionieren als impliziter Gesellschaftsvertrag
+  - Verletzung dieser Grunderwartungen setzt starke Affekte frei
+- Taxonomie von vier typischen Triggern:
+  - Ungleichbehandlungen
+  - Normalitätsverstöße
+  - Entgrenzungsbefürchtungen
+  - Verhaltenszumutungen
+- Übergreifende Muster:
+  - Menschen reagieren getriggert, wenn spezifische Erwartungen verletzt werden:
+    - Egalität (Gleichheit)
+    - Normalität
+    - Kontrolle
+    - Autonomie
 
 #+begin_quote
-Es zielt auf jene neuralgischen Stellen, an denen Meinungsverschie- denheiten
+Es zielt auf jene neuralgischen Stellen, an denen Meinungsverschiedenheiten
 hochschießen, an denen Konsens, Hinnahmebereitschaft und Indifferenz in deutlich
-artikulierten Dissens, ja sogar Gegner- schaft umschlagen. Physiotherapeuten verstehen
-unter Triggerpunk- ten verhärtete Stellen oder verkrampfte Zonen des Körpers. Im Zuge von
+artikulierten Dissens, ja sogar Gegnerschaft umschlagen. Physiotherapeuten verstehen
+unter Triggerpunkten verhärtete Stellen oder verkrampfte Zonen des Körpers. Im Zuge von
 Übertragungen kann eine Berührung solcher Punkte ein Triggern auch in ganz anderen
-Körperregionen Schmerz aus- lösen. Ohne die Analogie zu medizinischen Begriffen überdehnen
+Körperregionen Schmerz auslösen. Ohne die Analogie zu medizinischen Begriffen überdehnen
 zu wollen, verstehen wir Triggerpunkte als jene Orte innerhalb der Tiefenstruktur von
 moralischen Erwartungen und sozialen Disposi- tionen, auf deren Berührung Menschen
-besonders heftig und emo- tional reagieren
+besonders heftig und emotional reagieren
 #+end_quote
 
 #+begin_quote
-mik der Triggerpunkte deshalb so wirkungsvoll ist, weil diese in ei- ner Unterstruktur
+mik der Triggerpunkte deshalb so wirkungsvoll ist, weil diese in einer Unterstruktur
 moralischer Überzeugungen, Selbstverständnis- se, Alltagskosmologien und
 Rechtfertigungsmuster verankert sind, die im Sinne eines impliziten Gesellschaftsvertrags
 (Barrington Moore) als selbstverständlich wirksam wird. Wo derlei moralische
-Grunderwartungen verletzt werden, wird eine starke affektive La- dung freigesetzt. Konkret
-schält sich aus unserer Analyse eine Ta- xonomie von vier typischen Triggern heraus, die
-in einer ganzen Rei- he thematisch verschiedener Zusammenhänge für eine Erhitzung der
+Grunderwartungen verletzt werden, wird eine starke affektive Ladung freigesetzt. Konkret
+schält sich aus unserer Analyse eine Taxonomie von vier typischen Triggern heraus, die
+in einer ganzen Reihe thematisch verschiedener Zusammenhänge für eine Erhitzung der
 Diskussion sorgten: Ungleichbehandlungen, Normalitätsverstöße, Entgrenzungsbefürchtungen
 und Verhaltenszumutungen. Über alle Ungleichheitsarenen und politischen Orientierungen
-hinweg, so die im Folgenden entfaltete Analyse, zeigen sich Menschen getrig- gert, wann
-immer spezifische Erwartungen der Egalität, der Norma- lität, der Kontrolle und der
+hinweg, so die im Folgenden entfaltete Analyse, zeigen sich Menschen getriggert, wann
+immer spezifische Erwartungen der Egalität, der Normalität, der Kontrolle und der
 Autonomie verletzt werden.
 #+end_quote
 
-*** Ungleichbehandlungen
-*** Normalitätsverstösse
+*** NEXT Normalitätsverstösse
 
-Ein Mann kann sagen, So, ich fühle mich jetzt als Fraus, und muss von da an als Frau anerkannt werden. Und darf in meine Um kleidekabine und darf - ich sage es mal ganz deutlich - seinen Penis vor der Nase meiner zwölfjährigen Nichte in der Umkleide. kabine im Schwimmbad wedeln. Das öffnet Tür und Tor für Ver gewaltigung, für Pädophilie und so weiter. Da bin ich dagegen! Da habe ich ein ganz großes Problem damit.
+#+begin_quote
+Ein Mann kann sagen, So, ich fühle mich jetzt als Fraus, und muss von da an als
+Frau anerkannt werden. Und darf in meine Um kleidekabine und darf - ich sage es
+mal ganz deutlich - seinen Penis vor der Nase meiner zwölfjährigen Nichte in der
+Umkleide. kabine im Schwimmbad wedeln. Das öffnet Tür und Tor für Ver
+gewaltigung, für Pädophilie und so weiter. Da bin ich dagegen! Da habe ich ein
+ganz großes Problem damit.
+#+end_quote
 
-Wir sehen hier eine typische Dynamik, die der südafrikanische So ziologe Stanley Cohen » moralische Panik nennt." Anhand der bri tischen Jugendlichen-Gangs der Mods und Rocker, die sich in den sechziger Jahren Prügeleien lieferten, beschreibt Cohen das Phäno- men, dass zahlenmäßig eher kleine Gruppen, die von geltenden Nor- malitätsvorstellungen abweichen, zu umfassenden Verkörperungen sozialer Ängste um Ordnung und Werte stilisiert werden. Selektive Aufmerksamkeit vergrößert das Problem weit über seine tatsäch- liche Relevanz hinaus. Politiker müssen versprechen, etwas zu unter- nehmen, es bilden sich Mobs, die selber für Ordnung sorgen wollen, und so weiter. Cohen beschreibt, wie es hier zu einer Übersteige rung der Abweichung kommt: Das verurteilte Fehlverhalten wird in einen umfassenden moralischen Manichäismus eingereiht, in dem die eine Seite zum perfekten Bösewicht stilisiert wird, die andere Seite zum perfekten Opfer und damit auch zur perfekten Identifika- tionsfigur.
+#+begin_quote
+Wir sehen hier eine typische Dynamik, die der südafrikanische So ziologe Stanley
+Cohen » moralische Panik nennt." Anhand der bri tischen Jugendlichen-Gangs der
+Mods und Rocker, die sich in den sechziger Jahren Prügeleien lieferten,
+beschreibt Cohen das Phäno- men, dass zahlenmäßig eher kleine Gruppen, die von
+geltenden Nor- malitätsvorstellungen abweichen, zu umfassenden Verkörperungen
+sozialer Ängste um Ordnung und Werte stilisiert werden. Selektive Aufmerksamkeit
+vergrößert das Problem weit über seine tatsäch- liche Relevanz hinaus. Politiker
+müssen versprechen, etwas zu unter- nehmen, es bilden sich Mobs, die selber für
+Ordnung sorgen wollen, und so weiter. Cohen beschreibt, wie es hier zu einer
+Übersteige rung der Abweichung kommt: Das verurteilte Fehlverhalten wird in
+einen umfassenden moralischen Manichäismus eingereiht, in dem die eine Seite zum
+perfekten Bösewicht stilisiert wird, die andere Seite zum perfekten Opfer und
+damit auch zur perfekten Identifika- tionsfigur.
+#+end_quote
 
 *** Reaktanz                                                     :reaktanz:
 
