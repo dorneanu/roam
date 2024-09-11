@@ -837,26 +837,26 @@ Letfragen:
 
 ### Triggerpunkte {#triggerpunkte}
 
--   Konzept der "Triggerpunkte":
+-   _Konzept der "Triggerpunkte"_:
     -   Stellen, an denen Meinungsverschiedenheiten eskalieren
     -   Punkte, an denen Konsens in Dissens oder sogar Gegnerschaft umschlägt
--   Analogie zur Physiotherapie:
+-   _Analogie zur Physiotherapie_:
     -   Verhärtete oder verkrampfte Körperzonen
     -   Berührung kann Schmerz auch in anderen Körperregionen auslösen
--   Übertragung auf soziale Kontexte:
+-   _Übertragung auf soziale Kontexte_:
     -   Orte in der Tiefenstruktur moralischer Erwartungen und sozialer Dispositionen
     -   Lösen heftige und emotionale Reaktionen aus
--   Wirksamkeit der Triggerpunkte:
+-   _Wirksamkeit der Triggerpunkte_:
     -   Verankert in Unterstrukturen von moralischen Überzeugungen,
         Selbstverständnissen, Alltagskosmologien und Rechtfertigungsmustern
     -   Funktionieren als impliziter Gesellschaftsvertrag
     -   Verletzung dieser Grunderwartungen setzt starke Affekte frei
--   Taxonomie von vier typischen Triggern:
+-   _Taxonomie von vier typischen Triggern_:
     -   Ungleichbehandlungen
     -   Normalitätsverstöße
     -   Entgrenzungsbefürchtungen
     -   Verhaltenszumutungen
--   Übergreifende Muster:
+-   _Übergreifende Muster_:
     -   Menschen reagieren getriggert, wenn spezifische Erwartungen verletzt werden:
         -   Egalität (Gleichheit)
         -   Normalität
@@ -889,7 +889,7 @@ Letfragen:
 > Autonomie verletzt werden.
 
 
-#### <span class="org-todo todo NEXT">NEXT</span> Normalitätsverstösse {#normalitätsverstösse}
+#### Normalitätsverstösse {#normalitätsverstösse}
 
 > Ein Mann kann sagen, So, ich fühle mich jetzt als Fraus, und muss von da an als
 > Frau anerkannt werden. Und darf in meine Um kleidekabine und darf - ich sage es
@@ -898,21 +898,21 @@ Letfragen:
 > gewaltigung, für Pädophilie und so weiter. Da bin ich dagegen! Da habe ich ein
 > ganz großes Problem damit.
 
-<!--quoteend-->
+Moralische Panik:
 
 > Wir sehen hier eine typische Dynamik, die der südafrikanische So ziologe Stanley
-> Cohen » moralische Panik nennt." Anhand der bri tischen Jugendlichen-Gangs der
-> Mods und Rocker, die sich in den sechziger Jahren Prügeleien lieferten,
-> beschreibt Cohen das Phäno- men, dass zahlenmäßig eher kleine Gruppen, die von
-> geltenden Nor- malitätsvorstellungen abweichen, zu umfassenden Verkörperungen
-> sozialer Ängste um Ordnung und Werte stilisiert werden. Selektive Aufmerksamkeit
-> vergrößert das Problem weit über seine tatsäch- liche Relevanz hinaus. Politiker
-> müssen versprechen, etwas zu unter- nehmen, es bilden sich Mobs, die selber für
+> Cohen » **moralische Panik** nennt. Anhand der britischen Jugendlichen-Gangs der
+> "Mods und Rocker, die sich in den sechziger Jahren Prügeleien lieferten,
+> beschreibt Cohen das Phänomen, dass **zahlenmäßig eher kleine Gruppen, die von
+> geltenden Normalitätsvorstellungen abweichen, zu umfassenden Verkörperungen
+> sozialer Ängste um Ordnung und Werte stilisiert werden**. **Selektive Aufmerksamkeit
+> vergrößert das Problem** weit über seine tatsächliche Relevanz hinaus. Politiker
+> müssen versprechen, etwas zu unternehmen, es bilden sich Mobs, die selber für
 > Ordnung sorgen wollen, und so weiter. Cohen beschreibt, wie es hier zu einer
-> Übersteige rung der Abweichung kommt: Das verurteilte Fehlverhalten wird in
+> Übersteigerung der Abweichung kommt: **Das verurteilte Fehlverhalten wird in
 > einen umfassenden moralischen Manichäismus eingereiht, in dem die eine Seite zum
 > perfekten Bösewicht stilisiert wird, die andere Seite zum perfekten Opfer und
-> damit auch zur perfekten Identifika- tionsfigur.
+> damit auch zur perfekten Identifikationsfigur**.
 
 
 #### Reaktanz {#reaktanz}
@@ -922,12 +922,39 @@ Letfragen:
 > gezwungen! [...] Das Problem ist, dass ich sozusagen vom Staat dazu gezwungen werde, mir
 > ein Fahrzeug zu kaufen, das ich gar nicht möchte.
 
-<!--quoteend-->
+-   _Neuer Trigger: Verhaltenszumutungen_
+    -   Unterscheidet sich von vorherigen Triggern (Ungleichbehandlung, Abweichung, Kontrollverlust)
+    -   Fokus auf Verpflichtung, Zwang und Paternalismus als Auslöser
 
-> Hier geht es nicht-wie bei den vorherigen Triggern - um Ungleich- behandlung, Abweichung
+-/ Reaktionen auf Verhaltenszumutungen/:
+
+-   Forderung nach Selbstbestimmung und Eigenverantwortung
+-   Meist negative Abwehr gegen als überzogen empfundene Erwartungen
+
+-/ Konzept der Reaktanz/:
+
+-   Sozialpsychologischer Begriff
+-   Zurückweisung von Forderungen, die als Freiheitsbeschränkung wahrgenommen werden
+-   Beispiel: "Ich muss gar nichts."
+
+<!--listend-->
+
+-   _Verbindung zu anderen Phänomenen_:
+    -   Ähnliche Bewusstseinsmuster bei Querdenkern und militanten Migrationsgegnern
+    -   Von Amlinger und Nachtwey als "libertärer Autoritarismus" bezeichnet
+-   _Freiheitsverständnis in diesem Kontext_:
+    -   Freiheit als individueller Besitzstand missverstanden
+    -   Loslösung von sozialer Bedingtheit
+    -   Selbstwahrnehmung als radikal frei von gesellschaftlichen Konventionen und Erwartungen
+    -   Gleichzeitig Glaube, den "insgeheimen Common Sense" zu vertreten
+-   _Folgen von Einschränkungen_:
+    -   Erfahrene Einschränkungen (z.B. staatliche Interventionen während der Corona-Krise) führen zu Kränkungen
+    -   Mögliche Folge: Umschlagen in autoritäre Aggression
+
+> Hier geht es nicht-wie bei den vorherigen Triggern - um Ungleichbehandlung, Abweichung
 > oder Kontrollverlust, vielmehr sind hier Verpflichtung, Zwang und Paternalismus ein Stein
-> des Anstoßes, der in allen Arenen zu finden ist und an dem sich Befragte verschie- denster
-> Sozialprofile stoßen. Stellenweise wird der Verhaltenszumu- tung dabei die Forderung nach
+> des Anstoßes, der in allen Arenen zu finden ist und an dem sich Befragte verschiedenster
+> Sozialprofile stoßen. Stellenweise wird der Verhaltenszumutung dabei die Forderung nach
 > Selbstbestimmung und Eigenverant- wortung entgegengesetzt, üblicherweise bleibt es aber
 > auch hier cher bei einer negativ bestimmten Abwehr überzogener Erwartungen. Die
 > Sozialpsychologie nennt den entsprechenden Impuls Reaktanz." Gemeint ist damit eine
@@ -946,16 +973,16 @@ Letfragen:
 #### Man darf nichts mehr sagen {#man-darf-nichts-mehr-sagen}
 
 > Aus soziologischer Sicht kann man anmerken, dass die getriggerten Teilnehmer so eine
-> zentrale soziale Wahrheit aus- sprechen: Die Gültigkeit von Normen zeigt sich im Grad
+> zentrale soziale Wahrheit aussprechen: Die Gültigkeit von Normen zeigt sich im Grad
 > ihrer Sank- tionsbewehrtheit. Auch wenn Aussagen nicht im juristischen Sinne verboten
-> sind, wissen die meisten intuitiv sehr genau, wo die Gren- zen des gesellschaftlich
-> Akzeptablen verlaufen- und für was man ir- ritierte Blicke erntet. Jene, die sich
-> beschweren, dass man heutzuta- ge nichts mehr sagen darf, zielen nicht auf Gesetze ab,
-> sondern auf reale Verschiebungen im Gerüst gesellschaftlicher Normen und so- zialer
+> sind, wissen die meisten intuitiv sehr genau, wo die Grenzen des gesellschaftlich
+> Akzeptablen verlaufen- und für was man irritierte Blicke erntet. Jene, die sich
+> beschweren, dass man heutzutage nichts mehr sagen darf, zielen nicht auf Gesetze ab,
+> sondern auf reale Verschiebungen im Gerüst gesellschaftlicher Normen und sozialer
 > Missbilligung. Versuche, das Unbehagen durch den Hinweis zu widerlegen, dass rein
 > rechtlich ja alles erlaubt sei, führen so zu einem Missverständnis. Beispielhaft zeigt
-> sich das, als der klar links- liberal positionierte Ingenieur Georg in das bereits
-> anzitierte Ge- spräch interveniert:
+> sich das, als der klar links-liberal positionierte Ingenieur Georg in das bereits
+> anzitiert Gespräch interveniert:
 >
 > Walter: [zuckt mit den Schultern] Man darf ja nix mehr sagen, ne?
 >
@@ -978,22 +1005,22 @@ Letfragen:
 <!--quoteend-->
 
 > Obwohl Georg hier aufzeigt, dass die Behauptung absurd ist, wenn man sie im buchstäblichen
-> Sinne versteht - natürlich gibt es in der Regel kein offizielles Verbot diskriminierender
-> Begriffe in der All- tagssprache, verpasst er die informelle Sanktionierung und Beschä
-> mung, um die es den Getriggerten eigentlich geht.
+> Sinne versteht - **natürlich gibt es in der Regel kein offizielles Verbot diskriminierender
+> Begriffe in der Alltagssprache, verpasst er die informelle Sanktionierung und Beschä
+> mung, um die es den Getriggerten eigentlich geht**.
 
 <!--quoteend-->
 
-> Interessanterweise wird die strafende Instanz von den Getrig gerten dabei an zwei sehr
+> Interessanterweise wird die strafende Instanz von den Getriggerten dabei an zwei sehr
 > unterschiedlichen Punkten verortet. Zum einen sind es reale oder fiktive ultraradikale
-> Randgruppen wie bei- spielsweise Veganer, die ihren Lebensstil den anderen aufzwingen
+> Randgruppen wie beispielsweise Veganer, die ihren Lebensstil den anderen aufzwingen
 > wollen (Torsten), oder die schon erwähnten doch sehr kleinen Minderheiten (Ilko), wegen
-> denen alltägliche Sprechweisen auf un- naturliche Weise hinterfragt werden sollen. Zum
+> denen alltägliche Sprechweisen auf unnaturliche Weise hinterfragt werden sollen. Zum
 > anderen wird die Sanktion oft auf einer schwer greifbaren höheren Ebene verortet, die die
 > offiziellen Regeln des akzeptablen Sprechens festlegt und implizit mit beruflichen
 > Vorgesetzten oder Entscheidungsautoritä- ten assoziiert wird:
 >
-> Walter: Wenn ich einen Behörden-Brief schreibe, muss ich die Stern- chen muss ich streng nach Gender-Schreibweise
+> Walter: Wenn ich einen Behörden-Brief schreibe, muss ich die Sternchen muss ich streng nach Gender-Schreibweise
 >
 > Birgit: Seid ihr verpflichtet, ja?
 >
@@ -1002,7 +1029,7 @@ Letfragen:
 > Birgit: Männlich/weiblich/divers [lacht]. Oder was gibt's noch. Mohr. Mohr! Dit haben die ja alles jeändert. Und ich bin noch nicht mal rechts oder links. Also mir ist dis eigentlich egal.
 
 
-#### Taxonomie der Trigger {#taxonomie-der-trigger}
+#### <span class="org-todo todo TODO">TODO</span> Taxonomie der Trigger {#taxonomie-der-trigger}
 
 | Typ       | Trigger                                            | verletzte Erwartungen                                    | Beispielthemen                                                                                              |
 |-----------|----------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -1031,144 +1058,205 @@ zumutungen | irritierte Verhaltenserwartungen, Stigmatisierung von Verhalten    
 
 ### Der soziale Raum der Ungleichheitskonflikte {#der-soziale-raum-der-ungleichheitskonflikte}
 
-> Eine Repolitisierung der Sozialstruktur
->
-> . Besonders die wertemäßig konservativen, migrationsskep- tischen und rechts mobilisierten
-> Fraktionen der alten Industricar- beiterklasse wurden dabei zum Gegenstand intensiven
-> öffentlichen Interesses: Diese mehrheitlich weiße bzw. einheimische und männlich geprägte
-> Arbeiterschaft habe durch den Strukturwandel der Deindustrialisierung, Bildungsexpansion
-> und Transnationalisie- rung (sowie heute möglicherweise auch der Dekarbonisierung) einen
-> kränkenden und desorientierenden Statusverlust erlebt, den sie mit einer erklärten
-> Gegnerschaft zu progressiver Migrations-, Identitäts- und Klimapolitik beantworte. In der
-> Logik dieser Bereiche sind die Gegenspieler der Arbeiter nicht mehr ihre
-> innerbetrieblichen Kon- trahenten, die Arbeitgeber oder Kapitaleigner, sondern die grün,
-> li- beral und kosmopolitisch eingestellte kulturelle Mittelklasse, die oft
-> wissensintensive soziokulturelle Expertenberufe ausübt, vom Struk- turwandel profitiert
-> und auch diskursiv den Ton angibt. Diese drängt die Gesellschaft in Richtung
-> Liberalisierung, sie ist in Wolfgang Merkels Worten - globalisierungsaffin und weist eine
-> kosmopoli- tische Gesinnung auf.]
+-   _Alte Industriearbeiterklasse_:
+    -   Fokus auf konservative, migrationsskeptische und rechts mobilisierte Fraktionen
+    -   Mehrheitlich weiß/einheimisch und männlich geprägt
+    -   Erlebter Statusverlust durch Strukturwandel (Deindustrialisierung,
+        Bildungsexpansion, Transnationalisierung, möglicherweise Dekarbonisierung)
+    -   Gegnerschaft zu progressiver Migrations-, Identitäts- und Klimapolitik
+    -   Neue Gegenspieler: kulturelle Mittelklasse statt Arbeitgeber/Kapitaleigner
+-   _Kulturelle Mittelklasse_:
+    -   Grün, liberal und kosmopolitisch eingestellt
+    -   Oft in wissensintensiven soziokulturellen Expertenberufen
+    -   Profitiert vom Strukturwandel
+    -   Gibt diskursiv den Ton an
+    -   Drängt auf gesellschaftliche Liberalisierung
+    -   Globalisierungsaffin und kosmopolitisch gesinnt
+-   _Gender Cleavage_:
+    -   Einstellungsunterschiede zwischen Männern und Frauen
+    -   Frauen tendenziell diskriminierungssensibler, weltoffener und progressiver
+    -   Frauen machen sich größere Sorgen um den Klimawandel
+    -   Frauen zeigen tolerantere Einstellungen bezüglich sexueller Diversität
+-   _Ost-West-Unterschiede in Deutschland_:
+    -   Persistente strukturelle, politische und kulturelle Differenzierungen trotz
+        Angleichungsprozessen
+    -   Gefälle bei sozioökonomischen Kennziffern (BIP, Einkommen, Vermögen)
+    -   Unterschiede in politischen Einstellungen (Wahlverhalten,
+        Demokratiezufriedenheit, Institutionenvertrauen)
+    -   Osten als "Land der kleinen Leute" mit mehr einfachen beruflichen Positionen
+    -   Demografische Disparitäten: Osten überaltert, teilweise männerdominiert, kaum migrantisch geprägt
+    -   Stärkere migrationsskeptische Haltungen im Osten
+    -   Unterschiedliche Haltungen in Bereichen wie Geschlechtergleichstellung und
+        Anerkennung sexueller Diversität
+
+Eine Repolitisierung der Sozialstruktur
+
+> Besonders die wertemäßig konservativen, migrationsskeptischen und rechts
+>  mobilisierten Fraktionen der alten Industriearbeiterklasse wurden dabei zum
+>  Gegenstand intensiven öffentlichen Interesses: Diese mehrheitlich weiße bzw.
+>  einheimische und männlich geprägte Arbeiterschaft habe durch den Strukturwandel
+>  der Deindustrialisierung, Bildungsexpansion und Transnationalisie- rung (sowie
+>  heute möglicherweise auch der Dekarbonisierung) einen kränkenden und
+>  desorientierenden Statusverlust erlebt, den sie mit einer erklärten
+>  Gegnerschaft zu progressiver Migrations-, Identitäts- und Klimapolitik
+>  beantworte. In der Logik dieser Bereiche sind die Gegenspieler der Arbeiter
+>  nicht mehr ihre innerbetrieblichen Kon- trahenten, die Arbeitgeber oder
+>  Kapitaleigner, sondern die grün, li- beral und kosmopolitisch eingestellte
+>  kulturelle Mittelklasse, die oft wissensintensive soziokulturelle
+>  Expertenberufe ausübt, vom Struk- turwandel profitiert und auch diskursiv den
+>  Ton angibt. Diese drängt die Gesellschaft in Richtung Liberalisierung, sie ist
+>  in Wolfgang Merkels Worten - globalisierungsaffin und weist eine kosmopoli-
+>  tische Gesinnung auf.]
 
 <!--quoteend-->
 
-> In Bezug auf Einstellungsunterschiede zwischen Männern und Frauen sprechen manche gar von
-> einem gender cleavage: Frauen seien aufgrund von Sozialisationsbe- dingungen,
-> Rollenmustern, vergeschlechtlichten Hierarchien und der Verteilung von bezahlter und
-> unbezahlter Arbeit im Schnitt diskri- minierungssensibler, weltoffener und progressiver.
-> Empirisch gibt es Hinweise darauf, dass Frauen sich größere Sorgen um den Klima- wandel
-> machen, womöglich auch weil vergeschlechtlichte Rollen- muster Aspekte der
-> nichtmateriellen Lebensqualität stärker in den weiblichen Zuständigkeitsbereich verlegen.
-> Bezüglich sexueller Diversität zeigen weibliche Befragte ebenfalls regelmäßig tolerantere
-> und anerkennungsbereitere Einstellungen.
+> In Bezug auf Einstellungsunterschiede zwischen Männern und Frauen sprechen
+> manche gar von einem gender cleavage: Frauen seien aufgrund von
+> Sozialisationsbe- dingungen, Rollenmustern, vergeschlechtlichten Hierarchien und
+> der Verteilung von bezahlter und unbezahlter Arbeit im Schnitt diskri-
+> minierungssensibler, weltoffener und progressiver. Empirisch gibt es Hinweise
+> darauf, dass Frauen sich größere Sorgen um den Klima- wandel machen, womöglich
+> auch weil vergeschlechtlichte Rollen- muster Aspekte der nichtmateriellen
+> Lebensqualität stärker in den weiblichen Zuständigkeitsbereich verlegen.
+> Bezüglich sexueller Diversität zeigen weibliche Befragte ebenfalls regelmäßig
+> tolerantere und anerkennungsbereitere Einstellungen.
 
 <!--quoteend-->
 
 > In Deutschland tritt mit der Unterscheidung zwischen Osten und Westen zudem eine
-> historisch spezifische strukturelle, politische und kulturelle Differenzierungslinie
-> hinzu, die sich trotz enormer Aufhol- und Angleichungsprozesse bislang nicht verwaschen
-> hat. Auch nach über 30 Jahren deutsche Einheit existiert ein Gefälle bei den wichtigen
-> sozioökonomischen Kennziffern (Bruttoinlandsprodukt, Einkommen, Vermögen etc.), aber auch
-> in den politischen Einstel- lungen (Wahlverhalten, Demokratiezufriedenheit, Vertrauen in
-> die Institutionen usw.). Ost- und Westdeutschland sind in den Kartie- rungen
-> verschiedenster Indikatoren deutlich als zwei Teilgesellschaf- ten erkennbar. Der Osten
-> ist im Vergleich zum Westen ein » Land der kleinen Leute. Die Ränge einfacher beruflicher
-> Positionen sind stär- ker besetzt, die akademische Mittelklasse in den Wissens- und
-> Kreativberufen anteilmäßig seltener vertreten. Daneben existieren augenfällige
-> demografische Disparitäten mit Ostdeutschland als über- altertem, teilweise
-> männerdominiertem geografischen Raum, der für mehr als zweieinhalb Jahrzehnte
-> Abstromregion war und bis heute kaum migrantisch geprägt ist. Auch deshalb gilt der Osten
-> als Re- gion mit stark migrationsskeptischen Haltungen, die nicht nur auf die schlechtere
-> ökonomische Lage zurückzuführen sind, sondern auch auf Sozialisationserfahrungen, eine
-> stärkere Verbreitung autori- tärer Haltungen und eine kürzere Migrationsgeschichte. In
-> anderen Bereichen wie der Gleichstellung der Geschlechter oder der Aner- kennung diverser
-> sexueller Identitäten erwies Ostdeutschland sich hingegen bislang nicht als durch die Bank
-> traditioneller und weniger anerkennungsbereit.
+> historisch spezifische strukturelle, politische und kulturelle
+> Differenzierungslinie hinzu, die sich trotz enormer Aufhol- und
+> Angleichungsprozesse bislang nicht verwaschen hat. Auch nach über 30 Jahren
+> deutsche Einheit existiert ein Gefälle bei den wichtigen sozioökonomischen
+> Kennziffern (Bruttoinlandsprodukt, Einkommen, Vermögen etc.), aber auch in den
+> politischen Einstel- lungen (Wahlverhalten, Demokratiezufriedenheit, Vertrauen
+> in die Institutionen usw.). Ost- und Westdeutschland sind in den Kartie- rungen
+> verschiedenster Indikatoren deutlich als zwei Teilgesellschaf- ten erkennbar.
+> Der Osten ist im Vergleich zum Westen ein » Land der kleinen Leute. Die Ränge
+> einfacher beruflicher Positionen sind stär- ker besetzt, die akademische
+> Mittelklasse in den Wissens- und Kreativberufen anteilmäßig seltener vertreten.
+> Daneben existieren augenfällige demografische Disparitäten mit Ostdeutschland
+> als über- altertem, teilweise männerdominiertem geografischen Raum, der für mehr
+> als zweieinhalb Jahrzehnte Abstromregion war und bis heute kaum migrantisch
+> geprägt ist. Auch deshalb gilt der Osten als Re- gion mit stark
+> migrationsskeptischen Haltungen, die nicht nur auf die schlechtere ökonomische
+> Lage zurückzuführen sind, sondern auch auf Sozialisationserfahrungen, eine
+> stärkere Verbreitung autori- tärer Haltungen und eine kürzere
+> Migrationsgeschichte. In anderen Bereichen wie der Gleichstellung der
+> Geschlechter oder der Aner- kennung diverser sexueller Identitäten erwies
+> Ostdeutschland sich hingegen bislang nicht als durch die Bank traditioneller und
+> weniger anerkennungsbereit.
 
 
 #### Klassenspezifik, nicht Klassenpolarisierung {#klassenspezifik-nicht-klassenpolarisierung}
 
-> Dar- aus ergibt sich bereits ein zentraler Befund: Die Meinungslandschaft ist von einer
-> Klassenspezifik gekennzeichnet, aber nicht von einer Klassenpolarisierung. Damit ist
-> gemeint, dass die Einstellungen in al- len vier Arenen systematisch mit der Klassenlage
-> zusammenhängen; keine der Arenen ist aber so verfasst, dass sich zwei Klassen als An-
-> tagonisten gegenüberstehen und gleichsam in entgegengesetzte Rich- tungen ziehen. Die
+> Daraus ergibt sich bereits ein zentraler Befund: **Die Meinungslandschaft ist von einer
+> Klassenspezifik gekennzeichnet, aber nicht von einer Klassenpolarisierung**. Damit ist
+> gemeint, dass **die Einstellungen in allen vier Arenen systematisch mit der Klassenlage
+> zusammenhängen**; keine der Arenen ist aber so verfasst, dass sich zwei Klassen als An-
+> tagonisten gegenüberstehen und gleichsam in entgegengesetzte Richtungen ziehen. Die
 > Extreme der Klassen spannen sich zwischen einer eher ungleichheitskritischen Position und
-> einem unentschie- denen teils, teils auf. Dies passt bestens zu den nuancierteren Be-
+> einem unentschiedenen teils, teils auf. Dies passt bestens zu den nuancierteren Be-
 > obachtungen, die wir in den Arenenkapiteln angestellt haben
 
 <!--quoteend-->
 
-> Die stärksten Klassenunterschiede ergeben sich anhand unseres Indexes im Feld der
-> Heute-Morgen-Ungleichheiten. Wiederum ist es hier dieselbe Trias der akademischen
-> Mittelklassen, die klimapo- litischen Interventionen offener gegenübersteht als
-> Dienstleistungs- und allen voran Produktionsarbeitende. Insbesondere die letztge- nannten
-> Arbeiter, die häufig in karbonintensiven Sektoren beschäf- tigt sind, heben sich hier mit
-> ihrer klimapolitisch zurückhaltenden Position ab. Insgesamt ist dabei auch auffällig, wie
-> stark sich die klas- senspezifischen Einstellungskonstellationen in der Innen-Außen- und
-> der Heute-Morgen-Arena ähneln. Man kann vermuten, dass die po- litische Mobilisierung
-> dieser - thematisch eigentlich sehr verschie- denen - Arenen entlang ein und derselben
+> **Die stärksten Klassenunterschiede ergeben sich anhand unseres Indexes im Feld der
+> Heute-Morgen-Ungleichheiten**. Wiederum ist es hier dieselbe Trias der akademischen
+> Mittelklassen, die klimapolitischen Interventionen offener gegenübersteht als
+> Dienstleistungs- und allen voran Produktionsarbeitende. **Insbesondere die letztgenannten
+> Arbeiter, die häufig in karbonintensiven Sektoren beschäftigt sind, heben sich hier mit
+> ihrer klimapolitisch zurückhaltenden Position ab**. **Insgesamt ist dabei auch auffällig, wie
+> stark sich die klassenspezifischen Einstellungskonstellationen in der Innen-Außen- und
+> der Heute-Morgen-Arena ähneln**. Man kann vermuten, dass die politische Mobilisierung
+> dieser - thematisch eigentlich sehr verschiedenen - Arenen entlang ein und derselben
 > Konfliktsemantik hinter dieser Ähnlichkeit steht
 
 
 #### Alte weisse Männer? {#alte-weisse-männer}
 
-> in fast allen Arenen ist die Klassenposition das Merkmal, entlang Jessen sich die
-> Einstellungen besonders stark unterscheiden. In der Oben- Unten-Arena ist es gar das
-> einzige Merkmal, das Meinungsverschie denheiten zu einem nennenswerten Grad aufschlüsselt.
-> In der Innen Außen- und der Heute-Morgen-Arena tritt Bildung als zentrale Un- terscheidung
-> hinzu (und übertrifft Klasse beim Migrationsthema so- gar), in der Wir-Sie-Arena spielt
-> das Alter eine ähnlich große Rolle wie die Klasse. Alles in allem gilt aber auch hier, was
-> wir bereits↑ für die Klassenunterschiede bemerkten: Es gibt zwar spezifische Un terschiede
-> entlang der sozialstrukturellen Merkmale, aber wie schon eo bei den Klassen finden wir für
-> keines der Merkmale Hinweise auf eine klare Polarisierung, bei der bestimmte soziale
-> Großgruppen stark zum konservativen Pol neigen, andere hingegen klar zum pro- gressiven
-> Pol. Dass dies nicht einfach an unserer Messskała liegt, wird-so viel sei bereits hier
-> verraten in Kapitel 10 deutlich, wo wir zeigen, dass die Einstellungen durchaus in ganz
-> unterschiedli che Richtungen ausschlagen, wenn man nicht auf sozialstrukturelle Gruppen,
-> sondern auf die Elektorate schaut
+> **in fast allen Arenen ist die Klassenposition das Merkmal, entlang dessen sich
+> die Einstellungen besonders stark unterscheiden**. In der Oben-Unten-Arena ist es
+> gar das einzige Merkmal, das Meinungsverschiedenheiten zu einem nennenswerten
+> Grad aufschlüsselt. **In der Innen Außen- und der Heute-Morgen-Arena tritt Bildung
+> als zentrale Unterscheidung hinzu (und übertrifft Klasse beim Migrationsthema
+> sogar**), **in der Wir-Sie-Arena spielt das Alter eine ähnlich große Rolle wie die
+> Klass** e. Alles in allem gilt aber auch hier, was wir bereits für die
+> Klassenunterschiede bemerkten: **Es gibt zwar spezifische Unterschiede entlang
+> der sozialstrukturellen Merkmale, aber wie schon eo bei den Klassen finden wir
+> für keines der Merkmale Hinweise auf eine klare Polarisierung, bei der bestimmte
+> soziale Großgruppen stark zum konservativen Pol neigen, andere hingegen klar zum
+> progressiven Po** l. Dass dies nicht einfach an unserer Messskała liegt, wird-so
+> viel sei bereits hier verraten in Kapitel 10 deutlich, wo wir zeigen, dass die
+> Einstellungen durchaus in ganz unterschiedli che Richtungen ausschlagen, wenn
+> man nicht auf sozialstrukturelle Gruppen, sondern auf die Elektorate schaut
 
 
-#### Konfliktraum und soziale Landkarte {#konfliktraum-und-soziale-landkarte}
+#### <span class="org-todo todo TODO">TODO</span> Konfliktraum und soziale Landkarte {#konfliktraum-und-soziale-landkarte}
 
 Abb 8.5
 
-> Liberaler Uni- versalismus und Forderungen nach staatlicher Intervention im Sinne sozialer
-> Gerechtigkeit finden sich demnach verstärkt bei Fraktionen der Mittelschicht, deren
-> Klassenposition vor allem über kulturelles Wissenskapital bestimmt ist (idealtypisch:
-> Lehrer), Universalismus und Umverteilungsskepsis dagegen bei jenen, die zwar über
-> kulturel- les Kapital verfügen, für deren Stellung aber das ökonomische Kapi- tal
-> entscheidender ist (idealtypisch: Unternehmer). Eher partika- Laristische Orientierungen
-> und Umverteilungsskepsis vertreten jene mit wenig kulturellem und moderatem ökonomischen
-> Kapital (ideal- typisch: Ladenbesitzer); Partikularismus und Umverteilungsorien tierung
-> finden sich vor allem bei jenen mit geringem bis moderatem kulturellem und ökonomischem
+Vier verschiedene Gruppierungen basierend auf kulturellem und ökonomischem Kapital:
+
+-   _Hohe kulturelles Kapital, geringeres ökonomisches Kapital_:
+    -   Beispiel: Lehrer
+    -   Tendenzen: Liberaler Universalismus, Befürwortung staatlicher Intervention für soziale Gerechtigkeit
+-   _Hohes kulturelles und ökonomisches Kapita_ l:
+    -   Beispiel: Unternehmer
+    -   Tendenzen: Universalismus, aber Skepsis gegenüber Umverteilung
+-   _Geringes kulturelles Kapital, moderates ökonomisches Kapital_:
+    -   Beispiel: Ladenbesitzer
+    -   Tendenzen: Eher partikularistische Orientierungen, Skepsis gegenüber Umverteilung
+-   _Geringes bis moderates kulturelles und ökonomisches Kapital_:
+    -   Beispiel: Arbeiterinnen und Arbeiter
+    -   Tendenzen: Partikularismus, Befürwortung von Umverteilung
+-   _Zentrale Konzepte_:
+    -   Kulturelles Kapital: Bezieht sich auf Wissen, Bildung und kulturelle Kompetenzen
+    -   Ökonomisches Kapital: Bezieht sich auf finanzielle Ressourcen und materielle Güter
+    -   Universalismus: Orientierung an allgemeingültigen Prinzipien und Werten
+    -   Partikularismus: Fokus auf spezifische, lokale oder gruppenspezifische Interessen
+    -   Umverteilungsorientierung: Befürwortung von Maßnahmen zur Verringerung ökonomischer Ungleichheiten
+
+> Liberaler Universalismus und Forderungen nach staatlicher Intervention im Sinne
+> sozialer Gerechtigkeit finden sich demnach verstärkt bei Fraktionen der
+> Mittelschicht, deren Klassenposition vor allem über kulturelles Wissenskapital
+> bestimmt ist (idealtypisch: Lehrer), Universalismus und Umverteilungsskepsis
+> dagegen bei jenen, die zwar über kulturelles Kapital verfügen, für deren
+> Stellung aber das ökonomische Kapi- tal entscheidender ist (idealtypisch:
+> Unternehmer). Eher partikularistische Orientierungen und Umverteilungsskepsis
+> vertreten jene mit wenig kulturellem und moderatem ökonomischen Kapital (ideal-
+> typisch: Ladenbesitzer); Partikularismus und Umverteilungsorien tierung finden
+> sich vor allem bei jenen mit geringem bis moderatem kulturellem und ökonomischem
 > Kapital (idealtypisch: Arbeiterin nen und Arbeiter
 
 
 ### Affekt und Struktur {#affekt-und-struktur}
 
-> Im Folgenden weiten wir das Panorama etwas und schauen auf die sozialen und medialen
-> Wirkhebel der Affektivität, oder anders gesagt: auf die sozialen Strukturen hinter der
-> Emotionalisierung gesellschaftspolitischer Aus einandersetzungen. Wir orientieren uns
-> dabei an einer Forschungs perspektive, die affektive Polarisierung mit der Durchmischung
-> oder Abkapselung sozialer Kreise in Beziehung setzt, also mit dem Grad der sozialen
-> Sortierung. Emotionale Aufheizung, so die Annahme, wird wahrscheinlicher, wenn man in
-> sozialer und ideologischer Hin sicht nur in der eigenen Suppe schwimmt und nur wenig mit
-> Leuten Umgang hat, die ganz anders leben und denken Wenn sich die Kreise schließen - man
-> also immer weniger Andersdenkende in der eigenen Umgebung findet, nehmen politische
-> Meinungsverschiedenhei ten einen fundamentaleren Charakter an und werden emotional auf
-> schäumender verhandelt. Der Ärger richtet sich dann nicht mehr nur gegen eine fremde
-> Meinung, sondern gegen ihre typischen Träger. die als fremd, unsympathisch, ja feindlich
-> erscheinen
+> Im Folgenden weiten wir das Panorama etwas und schauen auf die sozialen und
+> medialen Wirkhebel der Affektivität, oder anders gesagt: auf die sozialen
+> Strukturen hinter der Emotionalisierung gesellschaftspolitischer
+> Auseinandersetzungen. Wir orientieren uns dabei an einer Forschungsperspektive,
+> die affektive Polarisierung mit der Durchmischung oder Abkapselung sozialer
+> Kreise in Beziehung setzt, also mit dem Grad der sozialen Sortierung.
+> **Emotionale Aufheizung, so die Annahme, wird wahrscheinlicher, wenn man in
+> sozialer und ideologischer Hinsicht nur in der eigenen Suppe schwimmt und nur
+> wenig mit Leuten Umgang hat, die ganz anders leben und denken**. Wenn sich die
+> Kreise schließen - man also immer weniger Andersdenkende in der eigenen Umgebung
+> findet, nehmen politische Meinungsverschiedenheiten einen fundamentaleren
+> Charakter an und werden emotional auf schäumender verhandelt. **Der Ärger richtet
+> sich dann nicht mehr nur gegen eine fremde Meinung, sondern gegen ihre typischen
+> Träger. die als fremd, unsympathisch, ja feindlich erscheinen**
 
 
-#### Soziale Sortierung und affektive Polarisierung {#soziale-sortierung-und-affektive-polarisierung}
+#### <span class="org-todo todo TODO">TODO</span> Soziale Sortierung und affektive Polarisierung {#soziale-sortierung-und-affektive-polarisierung}
 
 > Wenn etwa die Fridays-for-Future- Bewegung als Sekte der Anti-Demokraten bezeichnet wird,
 > wenn Klimaaktivisten als Terroristen verschrien werden oder in Bezug auf Transpersonen von
-> einer Transsexuellen-Lobby die Rede ist, werden laute Töne auf der affektiven Klaviatur
+> einer Transsexuellen-Lobby die Rede ist, werden **laute Töne auf der affektiven Klaviatur**
 > angeschlagen, für die bestimmte ideologisch vorsozialisierte Bevölkerungsteile besonders
-> empfänglich sind. Menschen und Diskurse werden auf diese Weise getriggert; die
-> arenenspezifische Polarisierung und die Wahrschein- lichkeit einer weiteren Aufschaukelung
-> des Konflikts wächst.
+> empfänglich sind. **Menschen und Diskurse werden auf diese Weise getriggert; die
+> arenenspezifische Polarisierung und die Wahrscheinlichkeit einer weiteren Aufschaukelung
+> des Konflikts wächst**.
 
 Abb 9.2
 
@@ -1178,69 +1266,104 @@ Abb 9.2
 
 ##### Echokammerthese {#echokammerthese}
 
-> Die promineme Echokammerthese geht von der Existens blasenhaft voneinander abgeschotteter
-> Teilöffentlichkeiten aus, letztlich selbstbe- züglichen und geschlossenen Kreisen der
-> Kommunikation, in denen Meinungen und Vorurteile Bestätigung finden. Dort werde die eige
-> ne Position affirmiert, gespiegelt und verstärkt; eine Konfrontation mit anderen
-> Haltungen, Informationsquellen und ideologischen Be- zügen bleibe tendenziell aus.
-> Inzwischen verdichten sich freilich die Befunde, dass die auf den ersten Blick plausible
-> Hypothese nur mit Einschränkungen zutrifft. So lässt sich zeigen, dass nicht virtuelle
-> Echokammern, sondern im Gegenteil die Konfrontation mit Anders- denkenden zu Erregung
-> führt. Weil die sozialen Medien uns dazu brin- gen, außerhalb unserer eigenen Blase zu
-> interagieren (etwas, was wir in unseren engeren sozialen Netzwerken in der Offline-Welt
-> nicht unbedingt tun), kommt es zu einer Sortierung entlang ideologischer
-> Differenzierungen: Interagiert man ausschließlich lokal in einem etab- lierten Netzwerk,
-> trifft man nur selten auf völlig neue Sichtweisen. Interagiert man aber in einem
-> heterogenen und offenen Netzwerk der unendlichen Erreichbarkeit wie in den sozialen
-> Medien, begeg nen einem mehr und vielfältigere Botschaften. Man wird zur Partei- nahme
-> verführt, aufgefordert oder angeregt. Erst dann entsteht, so die Forschung, ein Sog der
-> über Ideologien und Identitäten herge stellten Sortierung. Experimente haben ergeben, dass
-> der Drang zur Abgrenzung durch Exposition verstärkt wird." Das bedeutet, dass soziale
-> Medien uns nicht in Echokammern oder Filterblasen mit Gleichmeinenden einsperren, sondern
-> ein Handgemenge produ- zieren, indem wir uns selbst durch hoch dynamische Sortiervorgan-
-> ge voneinander abgrenzen.
+-   _Echokammerthese und ihre Revision_:
+    -   Ursprüngliche These: Existenz abgeschotteter Teilöffentlichkeiten, die
+        eigene Meinungen bestätigen
+    -   Neuere Erkenntnisse: These trifft nur eingeschränkt zu
+    -   Tatsächlicher Effekt: Konfrontation mit Andersdenkenden führt zu Erregung
+    -   Soziale Medien fördern Interaktion außerhalb der eigenen "Blase"
+    -   Folge: Sortierung entlang ideologischer Differenzierungen
+    -   Abgrenzung wird durch Exposition zu anderen Meinungen verstärkt
+-   _Mediennutzung und Einstellungen_:
+    -   Nutzer konventioneller Medien (Zeitung, TV, Radio) zeigen positivere
+        Einstellungen gegenüber progressiven Gruppen
+    -   Nutzer sozialer Medien bewerten bestimmte konservative oder kontroverse Gruppen positiver
+    -   Facebook-Nutzer: tendenziell positiver gegenüber Migrationsgegnern,
+        negativer gegenüber arabischen Einwanderern
+-   _Überforderung in der komplexen Gesellschaft_:
+    -   Gefühl der Entfremdung und Überforderung in sich schnell wandelnder Welt
+    -   Überforderung als Syndrom in komplexen, ausdifferenzierten Gesellschaften
+    -   Ursachen: Zunahme der Komplexität, Beschleunigung des sozialen Wandels,
+        gesteigerte Anforderungen an Individuen
+    -   Bewältigungsfähigkeit abhängig von kognitiven Kompetenzen, Resilienz und
+        verschiedenen Ressourcen
+    -   Ungleiche Verteilung dieser Ressourcen in der Gesellschaft
+
+> Die promineme Echokammerthese geht von der Existens blasenhaft voneinander
+> abgeschotteter Teilöffentlichkeiten aus, letztlich selbstbe- züglichen und
+> geschlossenen Kreisen der Kommunikation, in denen Meinungen und Vorurteile
+> Bestätigung finden. Dort werde die eige ne Position affirmiert, gespiegelt und
+> verstärkt; eine Konfrontation mit anderen Haltungen, Informationsquellen und
+> ideologischen Be- zügen bleibe tendenziell aus. Inzwischen verdichten sich
+> freilich die Befunde, dass die auf den ersten Blick plausible Hypothese nur mit
+> Einschränkungen zutrifft. So lässt sich zeigen, dass nicht virtuelle
+> Echokammern, sondern im Gegenteil die Konfrontation mit Andersdenkenden zu
+> Erregung führt. Weil die sozialen Medien uns dazu bringen, außerhalb unserer
+> eigenen Blase zu interagieren (etwas, was wir in unseren engeren sozialen
+> Netzwerken in der Offline-Welt nicht unbedingt tun), kommt es zu einer
+> Sortierung entlang ideologischer Differenzierungen: Interagiert man
+> ausschließlich lokal in einem etablierten Netzwerk, trifft man nur selten auf
+> völlig neue Sichtweisen. Interagiert man aber in einem heterogenen und offenen
+> Netzwerk der unendlichen Erreichbarkeit wie in den sozialen Medien, begeg nen
+> einem mehr und vielfältigere Botschaften. Man wird zur Partei- nahme verführt,
+> aufgefordert oder angeregt. Erst dann entsteht, so die Forschung, ein Sog der
+> über Ideologien und Identitäten herge stellten Sortierung. Experimente haben
+> ergeben, dass der Drang zur Abgrenzung durch Exposition verstärkt wird." Das
+> bedeutet, dass soziale Medien uns nicht in Echokammern oder Filterblasen mit
+> Gleichmeinenden einsperren, sondern ein Handgemenge produzieren, indem wir uns
+> selbst durch hoch dynamische Sortiervorgange voneinander abgrenzen.
 
 <!--quoteend-->
 
-> Anders als vermutet ist die (positive oder negative) Affektivität bei der Nutzung sozialer
-> Medien nicht generell höher, aber die Muster sind dennoch aufschlussreich. Wir sehen, dass
-> Nutzer konventionel- ler Medien progressiven Sozialfiguren sympathisierender gegenüber-
-> stehen. Wer regelmäßig eine gedruckte Zeitung liest oder TV und Ra- dio nutzt, um sich zu
-> informieren, blickt (unabhängig von Alter und Bildung) signifikant positiver auf
-> »Langzeitarbeitslose«, »Feministin- nen bzw. »Transpersonen«, »Grünen-Anhänger oder »
-> Fridays-for- Future-Aktivisten&lt;,45 Diese Personen schätzen zudem die Figur des
-> &gt;&gt;AfD-Anhängers signifikant unsympathischer ein. Wer sich über so- ziale Medien politisch
-> informiert, findet hingegen tendenziell &gt;&gt;Kon- zernlobbyisten«, »SUV-Fahrer« und
-> »AfD-Anhänger sympathischer. Facebook-Nutzer sind zudem positiver gestimmt, wenn es um den
-> &gt;&gt;Migrationsgegner geht, und negativer beim »arabischen Einwan- derer
+> Anders als vermutet ist die (positive oder negative) Affektivität bei der
+> Nutzung sozialer Medien nicht generell höher, aber die Muster sind dennoch
+> aufschlussreich. Wir sehen, dass Nutzer konventioneller Medien progressiven
+> Sozialfiguren sympathisierender gegenüberstehen. Wer regelmäßig eine gedruckte
+> Zeitung liest oder TV und Radio nutzt, um sich zu informieren, blickt
+> (unabhängig von Alter und Bildung) signifikant positiver auf
+> »Langzeitarbeitslose«, »Feministin- nen bzw. »Transpersonen«, »Grünen-Anhänger
+> oder » Fridays-for- Future-Aktivisten&lt;,45 Diese Personen schätzen zudem die
+> Figur des &gt;&gt;AfD-Anhängers signifikant unsympathischer ein. Wer sich über so-
+> ziale Medien politisch informiert, findet hingegen tendenziell &gt;&gt;Kon-
+> zernlobbyisten«, »SUV-Fahrer« und »AfD-Anhänger sympathischer. Facebook-Nutzer
+> sind zudem positiver gestimmt, wenn es um den &gt;&gt;Migrationsgegner geht, und
+> negativer beim »arabischen Einwanderer
 
 <!--quoteend-->
 
-> Die Welt ist immer weniger die Welt, die man kannte und in der man gut zurechtkam, sie
-> erscheint nun vielmehr fremd und zumutungsreich. »Ich komme da nicht mehr mit«, »Ich weiß
-> nicht mehr, was die wollen«, »Wo soll das alles hinführen? oder Das geht mir viel zu
-> schnell sind typische Ausdrucksweisen für diese Gefühlslage.5" Auf einer systematischeren
-> Ebene ist Über- forderung als Syndrom gedeutet worden, mit dem komplexe und aus-
-> differenzierte Gesellschaften unweigerlich konfrontiert sind. Die Zunahme der Komplexität,
-> die Beschleunigung des sozialen Wandels und gesteigerte Anforderungen an die Individuen,
-> mit unübersicht- lichen und widersprüchlichen Erwartungen umzugehen, machen das Risiko des
-> Überfordert-Seins in unserer Gesellschaft allgegen- wärtig. Ob man mit dieser
-> Grundkonstellation erfolgreich umgehen kann, hängt von einer Reihe von Faktoren ab:
-> kognitiven Kompeten- zen, Resilienz sowie vor allem aber ökonomischen, sozialen und kul-
-> turellen Ressourcen-und diese sind in der Gesellschaft ungleich verteilt
+> Die Welt ist immer weniger die Welt, die man kannte und in der man gut
+> zurechtkam, sie erscheint nun vielmehr fremd und zumutungsreich. »Ich komme da
+> nicht mehr mit«, »Ich weiß nicht mehr, was die wollen«, »Wo soll das alles
+> hinführen? oder Das geht mir viel zu schnell sind typische Ausdrucksweisen für
+> diese Gefühlslage.5" Auf einer systematischeren Ebene ist Überforderung als
+> Syndrom gedeutet worden, mit dem komplexe und aus- differenzierte Gesellschaften
+> unweigerlich konfrontiert sind. Die Zunahme der Komplexität, die Beschleunigung
+> des sozialen Wandels und gesteigerte Anforderungen an die Individuen, mit
+> unübersicht- lichen und widersprüchlichen Erwartungen umzugehen, machen das
+> Risiko des Überfordert-Seins in unserer Gesellschaft allgegenwärtig. Ob man mit
+> dieser Grundkonstellation erfolgreich umgehen kann, hängt von einer Reihe von
+> Faktoren ab: kognitiven Kompeten- zen, Resilienz sowie vor allem aber
+> ökonomischen, sozialen und kul- turellen Ressourcen-und diese sind in der
+> Gesellschaft ungleich verteilt
 
 
 ### Der politische Raum der Ungleichheitskonflikte {#der-politische-raum-der-ungleichheitskonflikte}
 
-> Trotz klarer ideologischer Unterschiede, so viel sei schon verraten, zeigt sich Deutschland hier als Gesellschaft mit Drang zur Mitte und einer deutlich schwächeren Lagerbildung, als man angesichts vieler populärer Diagnosen glauben könnte. Gerade die Unschärfe ideologischer Positionen und das Aufweichen von Parteibindungen öffnet jedoch Türen für eine stimmungsgetriebene Affektpolitik, die Polarisierungsunternehmer gewinnbringend zum Einsatz bringen, allen voran bei der Rechten
+> **Trotz klarer ideologischer Unterschiede, so viel sei schon verraten, zeigt sich
+> Deutschland hier als Gesellschaft mit Drang zur Mitte und einer deutlich
+> schwächeren Lagerbildung, als man angesichts vieler populärer Diagnosen glauben
+> könnte**. **Gerade die Unschärfe ideologischer Positionen und das Aufweichen von
+> Parteibindungen öffnet jedoch Türen für eine stimmungsgetriebene Affektpolitik,
+> die Polarisierungsunternehmer gewinnbringend zum Einsatz bringen, allen voran
+> bei der Rechten**
 
 
-#### Verortung in der Parteilandschaft {#verortung-in-der-parteilandschaft}
+#### <span class="org-todo todo TODO">TODO</span> Verortung in der Parteilandschaft {#verortung-in-der-parteilandschaft}
 
 Abb 10.1
 
 
-#### Affektpolitik {#affektpolitik}
+#### <span class="org-todo todo NEXT">NEXT</span> Affektpolitik {#affektpolitik}
 
 > Im Zeitverlauf haben sich die thematischen Register dessen, was politisch
 > verhandelt und zum Streitfall werden kann, massiv ausge- weitet, genau weil das
