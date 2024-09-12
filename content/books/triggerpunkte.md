@@ -1363,39 +1363,107 @@ Abb 9.2
 Abb 10.1
 
 
-#### <span class="org-todo todo NEXT">NEXT</span> Affektpolitik {#affektpolitik}
+#### Affektpolitik {#affektpolitik}
+
+-   _Ausweitung politischer Themen_:
+    -   Das Spektrum politisch verhandelbarer Themen hat sich stark erweitert
+    -   Nicht mehr nur traditionelle Interessenvertreter bestimmen die Agenda
+-   _Hyperpolitisierung_:
+    -   Jeder Medieninhalt kann potenziell zum politischen Streitfall werden
+    -   Kleine Vorfälle können schnell zu großen Kommunikationsdesastern eskalieren
+    -   Begriff der "_Hyperpolitik_": Rückgang kollektiver Organisierung bei
+        gleichzeitiger Zunahme von Politisierungsgelegenheiten im Alltag
+-   _Veränderter politischer Marktplatz_:
+    -   Kakophonisch und leicht entflammbar
+    -   Etablierte Parteien oft überfordert
+    -   Neue Akteure mit selbstdefiniertem Mandat dominieren Diskurse
+    -   Unkonventionelle Themen werden zu politischen Streitpunkten
+-   _Dynamik politischer Themen_:
+    -   Schwer nachvollziehbare Übersetzung von Affekten und Betroffenheiten in politische Themen
+    -   Parteien und Mandatsträger oft von neuen Themen überrascht
+    -   Kurzlebige, affektive Politisierung
+-   _Konsequenzen für politischen Stil_:
+    -   "Flackermodus": Gelegenheitssuchender, kurzfristiger Politikstil
+    -   Verlust der Agenda-Kontrolle durch etablierte Akteure
+    -   Schnell wechselnde Aufmerksamkeit für Themen
+-   _Rolle von Triggern_:
+    -   Wichtig im Kampf um Aufmerksamkeit
+    -   Führen zu Emotionalisierung und klaren Positionierungen
+-   _Herausforderungen für klassische Parteien_:
+    -   Gefahr der Verdrängung etablierter Programmatik durch symbolpolitisch
+        aufgeladene "Ersatzpolitiken"
+    -   HochEmotionale Themen könnten sachpolitische Inhalte überlagern
 
 > Im Zeitverlauf haben sich die thematischen Register dessen, was politisch
-> verhandelt und zum Streitfall werden kann, massiv ausge- weitet, genau weil das
-> Feld nicht mehr allein von althergebrachten In- teressenträgern im Modus der
-> Einhegung und Inobhutnahme be- stellt wird. Vielmehr kann jede Fernsehsendung,
+> verhandelt und zum Streitfall werden kann, massiv ausgeweitet, genau weil das
+> Feld nicht mehr allein von althergebrachten Interessenträgern im Modus der
+> Einhegung und Inobhutnahme bestellt wird. Vielmehr kann jede Fernsehsendung,
 > jeder Blogpost, jeder Tweet zum Zankapfel werden. Misgendert jemand in einem
 > kaum frequentierten Onlineseminar, ergibt sich daraus, geschickt skandalisiert,
 > schnell ein Kommunikationsdesaster. Der belgische Ideenhistoriker Anton Jäger¹
 > erkennt darin die Symptome einer strukturell ausgehöhlten &gt;&gt;Hyperpolitik«, bei
-> der die kollektive Or- ganisierung zurückgeht, während im Kommunikationsalltag
+> der die kollektive Organisierung zurückgeht, während im Kommunikationsalltag
 > mehr und mehr Gelegenheiten der Politisierung entstehen. Der Markt- platz des
 > Politischen ist damit zu einem kakophonischen und leicht entflammbaren Ort
 > geworden, auf dem die etablierten Parteien manchmal nur hilflos zusehen können,
 > wie andere Akteure mit selbstdefiniertem Mandat Diskurse dominieren, oftmals mit
 > The- men, die aus konventioneller Sicht eher unwahrscheinliche Gegen- stände der
-> Politik darstellen. Gleichzeitig ist oft kaum noch nachzu- vollziehen, wie
+> Politik darstellen. Gleichzeitig ist oft kaum noch nachzuvollziehen, wie
 > Affekte, Betroffenheiten und Themenkonjunkturen in den Raum des Politischen
 > übersetzt werden. Parteien und Man- datsträger werden von hochschwappenden
 > Themen immer öfter überrascht. Die Gleichzeitigkeit schwacher
 > Interessenorganisation und kurzfristiger affektiver Politisierung leistet einem
-> gelegenheit- suchenden Politikstil im Flackermodus Vorschub. Die etablierten
+> gelegenheitsuchenden Politikstil im Flackermodus Vorschub. Die etablierten
 > Akteure verlieren die Kontrolle über die Agenda; plötzlich »poppen irgendwelche
 > Themen auf - für die sich unter Umständen schon eine Woche später niemand mehr
-> interessiert. In diesem Kampf um Auf- merksamkeiten spielen Trigger eine große
+> interessiert. In diesem Kampf um Aufmerksamkeiten spielen Trigger eine große
 > Rolle, weil sie mit Emotio- nalisierungen verbunden sind und Menschen zu
-> dezidierten Posi- tionierungen des Dafür oder Dagegen verleiten. Für die
+> dezidierten Positionierungen des Dafür oder Dagegen verleiten. Für die
 > klassischen Parteien ist das mit der Gefahr verbunden, dass symbolpolitisch auf-
-> geladene Ersatzpolitiken mit hoher emotionaler Ladung die von ih- nen gesetzten
+> geladene Ersatzpolitiken mit hoher emotionaler Ladung die von ihnen gesetzten
 > Programmatiken verdrängen
 
 
 #### Polarisierungsunternehmer {#polarisierungsunternehmer}
+
+-   _Definition und Strategien von Polarisierungsunternehmern_
+    -   Politische Akteure, die sich durch Erzeugung und Nutzung polarisierter
+        Auseinandersetzungen profilieren
+    -   Verstärkung von Konflikt und politischer Frontenbildung als Kernstrategie
+    -   Können sowohl männlich als auch weiblich sein (z.B. Marine Le Pen, Giorgia Meloni)
+    -   Strategien beinhalten:
+        -   Beständiges Bespielen von Freund-Feind-Schemata
+        -   Verunglimpfung und Herabwürdigung politischer und sozialer Gegner
+        -   Entzivilisierung von Diskursen
+        -   Nutzung außerparlamentarischer und parlamentarischer Arenen
+        -   Ziel: Erzielen "elektoraler Polarisierungsdividenden"
+
+-   _Nutzung von Triggerthemen_
+    -   Funktionieren als _emotionale_ "Aufreger"
+    -   Dienen als Chiffren für weiterreichende politische Differenzen
+    -   Verbinden moralisierten Common Sense mit populistischer Politisierung
+    -   Überhöhung von Einzelthemen zu Positionslichtern des gesamten politischen
+        Feldes
+
+-   _Auswirkungen auf die politische Landschaft_
+    -   Nicht die Gesellschaft spaltet sich, sondern die Ränder werden lauter
+    -   Früher in Interessenorganisationen integrierte Gruppen entwickeln
+        eigenständige, laute Mobilisierungsformen
+    -   Breite gesellschaftliche Mitte ist entideologisiert und schwach
+        parteipolitisch gebunden
+    -   Mitte wird akustisch übertönt und weniger hörbar
+
+-   _Wahrnehmung und Folgen_
+    -   Eindruck einer in wenige klar abgrenzbare Lager zerfallenden Gesellschaft
+    -   "_False polarization_": Wahrnehmung einer gespaltenen Gesellschaft, die nicht
+        der Realität entspricht
+    -   Gefahr der selbsterfüllenden Prophezeiung: Menschen ordnen sich aufgrund
+        dieser Wahrnehmung einer Seite zu
+
+-   _Langfristige Risiken_
+    -   Kurzfristig kann eine gefestigte Demokratie dies aushalten
+    -   Langfristig können "Allmählichkeitsschäden" entstehen
+    -   Risiko der tatsächlichen Polarisierung durch falsche Wahrnehmung
 
 > (Als Polarisierungsunter- nehmer bezeichnen wir politische Akteure, deren
 > Profilierung pri- mär über die Erzeugung und Kapitalisierung polarisierter
@@ -1406,7 +1474,7 @@ Abb 10.1
 > Bespielen von Freund-Feind-Schemata, die Verunglimpfung und Herabwürdigung
 > politischer und sozialer Gegner und die Entzivilisierung von Dis- kursen spielt
 > im Instrumentenkasten dieser Akteure eine herausge- hobene Rolle. Oftmals sind
-> die Straßen und Plätze der außerparla- mentarischen Arena ihre wichtigste Bühne,
+> die Straßen und Pl ätze der außerparla- mentarischen Arena ihre wichtigste Bühne,
 > aber sie sind auch in die Parlamente hineingerückt." Ihr Spezifikum gegenüber
 > den norma- len Zuspitzungen des politischen Wettbewerbs ist, dass das konfron-
 > tative Auseinanderdividieren zum Zwecke der Erzielung elektoraler
@@ -1453,121 +1521,198 @@ Abb 10.1
 
 ### Politisierung und Konflikt in der Gegenwartsgesellschaft {#politisierung-und-konflikt-in-der-gegenwartsgesellschaft}
 
-> Die Diagnose einer gespaltenen Gesellschaft, so sahen wir eingangs, be- stimmt
-> Politikerreden ebenso wie die Kommentarspalten der Zei- tungen, Diskussionen in
-> sozialen Medien und das Bauchgefühl vieler Bürger. Der Polarisierungsdiskurs
-> zeichnet das Bild eines Groß- konflikts, in dem die Verteilung der Meinungen dem
+Zusammenfassung der aktuellen Lage:
+
+> Die Diagnose einer gespaltenen Gesellschaft, so sahen wir eingangs, bestimmt
+> Politikerreden ebenso wie die Kommentarspalten der Zeitungen, Diskussionen in
+> sozialen Medien und das Bauchgefühl vieler Bürger. **Der Polarisierungsdiskurs
+> zeichnet das Bild eines Großkonflikts, in dem die Verteilung der Meinungen dem
 > Rücken eines Kamels gleicht: links und rechts zwei Höcker, dazwischen ein
-> tiefes - und sich weiter vertiefendes - Tal: Die gesellschaftlichen Mittelpo-
-> sitionen erodieren, die Ränder wachsen. Diese Höcker stehen nicht nur für
-> ideologische Differenzen, sondern auch für soziale Groß- gruppen, die bestimmte
-> politische Positionen vertreten. Gern ge- nommene Chiffren sind hier die urbanen
-> Akademiker mit ihren ver- meintlich liberalen und kosmopolitischen Einstellungen
+> tiefes - und sich weiter vertiefendes - Tal**: **Die gesellschaftlichen Mittelpo-
+> sitionen erodieren, die Ränder wachsen**. Diese Höcker stehen nicht nur für
+> ideologische Differenzen, sondern auch für soziale Großgruppen, die bestimmte
+> politische Positionen vertreten. Gern genommene Chiffren sind hier **die urbanen
+> Akademiker mit ihren vermeintlich liberalen und kosmopolitischen Einstellungen
 > auf der einen Seite und auf der anderen niedrig gebildete Arbeiter oder Land-
-> bewohner, denen man konservative und kommunitaristische Hal- tungen zuschreibt.
+> bewohner, denen man konservative und kommunitaristische Haltungen zuschreibt**.
 > Zwischen ihnen soll sich ein Graben auftun, der die gesellschaftliche
 > Konfliktdynamik wesentlich bestimmt
 
 
 #### Nicht Kamel, sondern Dromedar {#nicht-kamel-sondern-dromedar}
 
-> Sozialstrukturell ist Deutschland auch heute noch eine mittel-
-> schichtsdominierte Gesellschaft, die stark über Erwerbsarbeit inte- griert ist
-> und deren Sozialstaat zentrale Lebensrisiken recht umfas- send kompensiert.
-> Trotz wachsender Vermögenskonzentration am oberen und Prekarisierung am unteren
-> Ende der Hierarchie, trotz drängender sozialer Fragen rund um die Themen Wohnen,
-> Integra- tion und Bildungsgerechtigkeit kann von einem Auseinanderbrechen
-> derzeit nicht die Rede sein. Politisch wirken zudem das Verhältnis- wahlrecht,
-> die Vielzahl von Koalitionsregierungen und die föderale Struktur einer starken
-> Lagerbildung entgegen. Schon die Taktik schreibt vor, dass auch nach scharfen
-> Wahlkämpfen fast alle mit al- len irgendwie können müssen. In unserer
-> Untersuchung sahen wir dies in einer starken Überlappung der Einstellungen und
-> in dem Umstand verkörpert, dass die Wählerinnen eines parteipolitischen
-> Zentrumsblocks kaum Berührungsängste gegenüber den anderen eta- blierten
-> Parteien haben. Auch die starke Stellung des öffentlichen Rundfunks und der
-> Qualitätsmedien kann als Gegengift gegen die Polarisierung gelten. Zwar
-> verbreiten sich hierzulande ebenfalls Fake News; Zeitungssterben, Prekarität und
-> Stellenabbau schwächen die journalistische Profession, doch hochwertige
-> Berichterstattung und ein relativ inklusiver Diskurs, der Kontroversen in
-> geteilten Selbst- verständigungsprozessen bearbeitbar macht, sind nach wie vor
-> vor- handen und von Bedeutung.J
+-   _Sozialstrukturelle Merkmale_
+    -   Mittelschichtsdominierte Gesellschaft
+    -   Starke Integration über Erwerbsarbeit
+    -   Umfassende Kompensation zentraler Lebensrisiken durch den Sozialstaat
+-   _Herausforderungen_
+    -   Wachsende Vermögenskonzentration am oberen Ende der Hierarchie
+    -   Prekarisierung am unteren Ende
+    -   Drängende soziale Fragen in Bereichen wie:
+        -   Wohnen
+        -   Integration
+        -   Bildungsgerechtigkeit
+-   _Politische Stabilisatoren_
+    -   Verhältniswahlrecht
+    -   Vielzahl von Koalitionsregierungen
+    -   Föderale Struktur
+    -   Diese Faktoren wirken einer starken Lagerbildung entgegen
+-   _Politische Kultur_
+    -   Notwendigkeit zur Kooperationsfähigkeit nach Wahlkämpfen
+    -   Starke Überlappung der Einstellungen
+    -   Wähler des parteipolitischen Zentrumsblocks zeigen wenig Berührungsängste
+        gegenüber anderen etablierten Parteien
+-   _Medienlandschaft als stabilisierender Faktor_
+    -   Starke Stellung des öffentlichen Rundfunks
+    -   Bedeutung der Qualitätsmedien
+    -   Hochwertige Berichterstattung
+    -   Relativ inklusiver Diskurs, der Kontroversen bearbeitbar macht
+-   _Herausforderungen für Medien_
+    -   Verbreitung von Fake News
+    -   Zeitungssterben
+    -   Prekarität und Stellenabbau in der journalistischen Profe
+
+> Sozialstrukturell ist Deutschland auch heute noch eine mittelschichtsdominierte
+> Gesellschaft, die stark über Erwerbsarbeit integriert ist und deren Sozialstaat
+> zentrale Lebensrisiken recht umfassend kompensiert. Trotz wachsender
+> Vermögenskonzentration am oberen und Prekarisierung am unteren Ende der
+> Hierarchie, trotz drängender sozialer Fragen rund um die Themen Wohnen, Integra-
+> tion und Bildungsgerechtigkeit kann von einem Auseinanderbrechen derzeit nicht
+> die Rede sein. Politisch wirken zudem das Verhältniswahlrecht, die Vielzahl von
+> Koalitionsregierungen und die föderale Struktur einer starken Lagerbildung
+> entgegen. Schon die Taktik schreibt vor, dass auch nach scharfen Wahlkämpfen
+> fast alle mit allen irgendwie können müssen. In unserer Untersuchung sahen wir
+> dies in einer starken Überlappung der Einstellungen und in dem Umstand
+> verkörpert, dass die Wählerinnen eines parteipolitischen Zentrumsblocks kaum
+> Berührungsängste gegenüber den anderen etablierten Parteien haben. Auch die
+> starke Stellung des öffentlichen Rundfunks und der Qualitätsmedien kann als
+> Gegengift gegen die Polarisierung gelten. Zwar verbreiten sich hierzulande
+> ebenfalls Fake News; Zeitungssterben, Prekarität und Stellenabbau schwächen die
+> journalistische Profession, doch hochwertige Berichterstattung und ein relativ
+> inklusiver Diskurs, der Kontroversen in geteilten Selbstverständigungsprozessen
+> bearbeitbar macht, sind nach wie vor vorhanden und von Bedeutung.
 
 
 #### Politisierung ohne Polarisierung {#politisierung-ohne-polarisierung}
 
+-   _Radikalisierte Diskursakteure und ihre Wirkung_
+    -   Fähigkeit, Themen so zu rahmen, dass sie breite Resonanz finden
+    -   Herausforderung für Menschen bis in die gesellschaftliche Mitte, sich zu
+        positionieren
+    -   Mögliche Bildung neuer Gefolgschaften
+    -   Potenzielle Verschiebung politischer Kulturen
+-   _Eigenschaften von Triggerpunkten_
+    -   Sollbruchstellen der Debatte
+    -   Auslöser für Empörung, Widerspruch und emphatische Zustimmung
+    -   Gekennzeichnet durch besondere Emotionalität
+-   _Hauptkategorien von Triggerpunkten_
+    -   Wahrnehmung ungerechter Ungleichbehandlung als Bruch des Gleichheitsgebotes
+    -   Herausforderung oder Unterlaufung von Normalitätserwartungen
+    -   Furcht vor Entgrenzung und Kontrollverlust
+    -   Empfindung politischer Maßnahmen als übergriffige Zumutungen
+
 > Allerdings gelingt es radikalisierten Diskursakteuren bisweilen sehr gut, Themen
-> mit einer Rahmung und Anspitzung so in die De- batte einzuspeisen, dass Menschen
-> bis weit in die Mitte der Gesell- schaft sich zu vehementen Positionierungen
+> mit einer Rahmung und Anspitzung so in die Debatte einzuspeisen, dass Menschen
+> bis weit in die Mitte der Gesellschaft sich zu vehementen Positionierungen
 > herausgefordert fühlen, wodurch sich neue Gefolgschaften bilden und politische
 > Kulturen verschieben können. Mit unserem Konzept der Triggerpunkte haben wir
-> versucht, genauer aufzuschlüsseln, wann und unter welchen Be- dingungen dies
+> versucht, genauer aufzuschlüsseln, wann und unter welchen Bedingungen dies
 > geschieht, was bestimmte Themen zu »Aufregern&lt;&lt;&lt;&gt; macht und wie das
-> Einverständnis auch in ansonsten eher konsen- sualen Zusammenhängen in Streit
+> Einverständnis auch in ansonsten eher konsensualen Zusammenhängen in Streit
 > umschlägt. Triggerpunkte sind Sollbruchstellen der Debatte, an denen sich
-> Empörung und Wider- spruch, aber auch emphatische Zustimmung artikuliert und die
+> Empörung und Widerspruch, aber auch emphatische Zustimmung artikuliert und die
 > durch eine besondere Emotionalität gekennzeichnet sind. Sie finden sich vor
 > allem dort, wo ungerechte Ungleichbehandlungen als Bruch des Gleichheitsgebotes
-> wahrgenommen werden, wo bestimmte Er- Wartungen von Normalität herausgefordert
-> oder unterlaufen wer- den, wo Menschen Entgrenzung und Kontrollverlust fürchten
-> und wo sie politische Maßnahmen als übergriffige Zumutungen empfin- den
+> wahrgenommen werden, wo bestimmte ErWartungen von Normalität herausgefordert
+> oder unterlaufen werden, wo Menschen Entgrenzung und Kontrollverlust fürchten
+> und wo sie politische Maßnahmen als übergriffige Zumutungen empfinden
 
-<!--quoteend-->
+-   _Historische Konfliktgeschichte der Bundesrepublik_
+    -   Oft vergessene harte Auseinandersetzungen nach 1945
+    -   Beispiele für historische Konflikte:
+        -   Aufarbeitung der Naziverbrechen
+        -   Studentenrevolte
+        -   Radikalenerlass von 1972
+        -   Debatten um Abtreibung, Pershing-Raketen, Startbahn West
+        -   Konflikte um die Treuhand
+        -   Pogrome gegen Asylbewerber und Migrantinnen nach der Wiedervereinigung
+        -   Hartz-IV-Reformen und Proteste
+-   _Bedeutung historischer Konflikte_
+    -   Teil der Konfliktgeschichte der Bundesrepublik
+    -   Historische Trigger oft verblasst und zunehmend fremd
+    -   Vehementer Streit nicht notwendigerweise Ausweis bedrohlicher Spaltungstendenzen
+    -   Konflikte können Teil wichtiger gesellschaftlicher Selbstverständigungsprozesse sein
 
 > Die harten Auseinandersetzungen, die die Bundesrepublik nach 1945 erlebte,
 > geraten dann in Vergessen-heit: die (lange unterbliebene) Aufarbeitung der
 > Naziverbrechen, die Studentenrevolte, die Wutreden von Franz Josef Strauß und
-> Herbert Wehner samt notorischem Kommunismusverdacht, der Radikalener- lass von
+> Herbert Wehner samt notorischem Kommunismusverdacht, der Radikalenerlass von
 > 1972, die Auseinandersetzungen um Abtreibung, Pershing- Raketen und die
 > Startbahn West, die Konflikte um die Treuhand mit Massendemonstrationen und
 > Hungerstreiks, die Pogrome gegen Asylbewerber und Migrantinnen nach der
 > Wiedervereinigung oder schließlich die Hartz-IV-Reformen und die Proteste gegen
-> sie, in de- ren Folge sich die Parteienlandschaft veränderte. Die Geschichte der
-> Bundesrepublik ist bei näherem Hinsehen auch eine Konfliktge- schichte, deren
+> sie, in deren Folge sich die Parteienlandschaft veränderte. Die Geschichte der
+> Bundesrepublik ist bei näherem Hinsehen auch eine Konfliktgeschichte, deren
 > historische Trigger heute freilich oft verblasst sind und uns umso fremder
 > werden, je weiter sie zurückliegen. Auch hier gilt, dass selbst vehementer
-> Streit kein Ausweis bedrohlicher Spal- tungstendenzen sein muss, sondern
-> durchaus Teil wichtiger Selbst- verständigungsprozesse sein kann
+> Streit kein Ausweis bedrohlicher Spaltungstendenzen sein muss, sondern
+> durchaus Teil wichtiger Selbstverständigungsprozesse sein kann
 
 
 #### Klassenunterschiede {#klassenunterschiede}
 
-> Plädieren wir in Klassenfragen für eine Differenzierung der Ana- lyse, räumt
-> unsere Studie im Hinblick auf andere Kategorien mit po- pulären Mythen auf, in
+-   _Allgemeine Beobachtung_
+    -   Studie plädiert für differenzierte Analyse in Klassenfragen
+    -   Räumt mit populären Mythen über soziale Schubladen und politische
+        Gesinnungen auf
+-   _Widerlegte Mythen_
+    -   "Alte weiße Männer" und reaktionäre Meinungen
+        -   Keine Hervorhebung besonders reaktionärer Meinungen in der Breite
+    -   Generationenkluft
+        -   Keine nennenswerte Strukturierung der Konfliktlandschaft durch
+            Generationenunterschiede
+        -   Selbst bei Klima- und Diversitätsfragen keine großen Unterschiede zwischen
+            Jahrgängen
+    -   Stadt-Land-Gefälle
+        -   Kein signifikanter Einfluss auf die Konfliktstruktur
+    -   Migrationshintergrund
+        -   Keine großen Einstellungsunterschiede zwischen Personen mit und ohne
+            Migrationshintergrund
+        -   Selbst bei Themen wie Zuwanderung und Rassismus keine "Welten" zwischen
+            den Gruppen
+-   _Spezifische Beobachtungen_
+    -   Klimapolitik
+        -   Ähnliche Offenheit für Veränderungen bei Jüngeren und Älteren
+    -   Akzeptanz von Transpersonen
+        -   Ähnliche Einstellungen über Generationen hinweg
+    -   Gendern
+        -   Generationsübergreifende Skepsis bezüglich der Bedeutung für
+            Gleichstellung
+-   _Schlussfolgerung_
+    -   Vermeintliche Gruppenunterschiede bleiben in den meisten Bereichen schwach
+    -   Keine starken Strukturgeber für Konflikte
+    -   Vorstellung von gesellschaftspolitischen Verkeilungen der Generationen nicht
+        haltbar
+
+> Plädieren wir in Klassenfragen für eine Differenzierung der Analyse, räumt
+> unsere Studie im Hinblick auf andere Kategorien mit populären Mythen auf, in
 > denen von sozialen Schubladen auf politische Gesinnungen geschlossen wird. Weder
 > stechen »alte weiße Männer laut unseren Daten in der Breite durch besonders
-> reaktionäre Mei- nungen hervor, noch wird die Konfliktlandschaft nennenswert
+> reaktionäre Meinungen hervor, noch wird die Konfliktlandschaft nennenswert
 > durch eine Generationenkluft oder ein Stadt-Land-Gefälle strukturiert. Selbst in
-> Klima- und Diversitätsfragen, bei denen vermeintliche Ge- nerationenkonflikte in
-> aller Munde sind, gibt es de facto keine gro- Ben Unterschiede zwischen den
+> Klima- und Diversitätsfragen, bei denen vermeintliche Generationenkonflikte in
+> aller Munde sind, gibt es de facto keine groBen Unterschiede zwischen den
 > Jahrgängen. Zu nahezu gleichen Anteilen sind Jüngere und Ältere offen für
-> klimapolitische Verände- rungen, sprechen sich für Akzeptanz gegenüber
+> klimapolitische Veränderungen, sprechen sich für Akzeptanz gegenüber
 > Transpersonen aus und verneinen, dass das Gendern ein wichtiger Beitrag zur
-> Gleich- stellung ist. Die Vorstellung, in den neuen Konfliktarenen ließen sich
-> gesellschaftspolitische Verkeilungen der Generationen beobach- ten, ist nicht
+> Gleichstellung ist. Die Vorstellung, in den neuen Konfliktarenen ließen sich
+> gesellschaftspolitische Verkeilungen der Generationen beobachten, ist nicht
 > aufrechtzuerhalten. Auch zwischen Personen mit und ohne Migrationshintergrund
 > liegen einstellungsmäßig keine Welten, selbst nicht bei Themen wie Zuwanderung
-> und Rassismus. Die ver- meintlichen Gruppenunterschiede bleiben in den meisten
+> und Rassismus. Die vermeintlichen Gruppenunterschiede bleiben in den meisten
 > Arenen schwach und sind keine starken Strukturgeber für Konflikte
 
 
-#### Eine zerklüftete Konfliktlandachaft {#eine-zerklüftete-konfliktlandachaft}
+#### <span class="org-todo todo TODO">TODO</span> Eine zerklüftete Konfliktlandachaft {#eine-zerklüftete-konfliktlandachaft}
 
-Abb 11.1
-
-
-### Anmerkungen {#anmerkungen}
-
-
-### Literatur {#literatur}
-
-
-### Anhang {#anhang}
-
-
-#### Onlineanhang {#onlineanhang}
-
-
-#### Abbildungsverzeichnis {#abbildungsverzeichnis}
-
-
-### Dank {#dank}
+Abb 11.
