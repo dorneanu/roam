@@ -480,6 +480,10 @@ Sprech- und Schreib- weisen - letztlich als Soziolekt - interpretiert werden
 - Hauptkritikpunkt:
   - Starke Vorbehalte gegen eine primär auf Sprache setzende Antidiskriminierungspolitik
 
+#+begin_details
+#+begin_summary
+Zitat
+#+end_summary
 #+begin_quote
 (Die Zurückweisung von Anerkennungsforderungen marginalisierter Gruppen speist sich
 einerseits aus diskriminierenden Affekten, andererseits aber auch aus wahrgenommenen
@@ -495,6 +499,8 @@ widersprechen. Wir sahen sowohl beim Gendern als auch bei der Tabuisierung rassi
 Begriffe und der Umbenennung von Straßen, dass eine in erster Linie auf Sprache setzende
 Antidiskriminierungspolitik auf starke Vorbehalte trifft.
 #+end_quote
+#+end_details
+
 
 **** Argumentative Repertoires in der Wir-Sie-Arena
 
@@ -548,6 +554,10 @@ Antidiskriminierungspolitik auf starke Vorbehalte trifft.
 - In der ökologisch bewussten oberen Mittelschicht gilt die Reduzierung des
   eigenen ökologischen Fußabdrucks als wichtiger Ansatz für Veränderung
 
+#+begin_details
+#+begin_summary
+Zitat 1
+#+end_summary
 #+begin_quote
 Gerade Landbewohner pochen etwa auf die Alternativlosigkeit des Autofahrens. Forderungen
 nach einer Umstellung des individuellen Alltags werden mit dem Hinweis auf begrenzte
@@ -559,13 +569,21 @@ vorteilung derer, die sich dies leisten können. In der ökologisch bewussten ob
 Mittelschicht hingegen gilt die verantwortungsbewusste Begrenzung des eigenen
 Fußabdrucks als zentraler Hebel der Veränderung.
 #+end_quote
+#+end_details
 
+
+#+begin_details
+#+begin_summary
+Zitat 2
+#+end_summary
 #+begin_quote
 Immerhin tragen gerade *die gebildeten Fraktionen der Mittelschicht durch ihr privates und
 berufliches Reiseverhalten überproportional zum CO-Ausstoß bei*." Die moralisierte
 Abgrenzung über einen nachhaltigen Lebensstil dient auch der Distinktion, die von den
 verursachten ökologischen Schäden konterkariert wird
 #+end_quote
+#+end_details
+
 
 Konsum von westlichen Ländern ist maßgebend:
 
@@ -609,6 +627,10 @@ Schultz und Bruno Latour
 - Diese unterschiedlichen Konflikte kommen im Großkomplex "ökologische
   Transformation" zusammen
 
+#+begin_details
+#+begin_summary
+Zitat
+#+end_summary
 #+begin_quote
 Ein Drittel der Bevölkerung etwa sieht >>unseren Wohlstand gefährdet, wenn wir jetzt wegen
 des Klimawandels alles auf den Prüfstand stellen. Eine verwandte Befürchtung lautet,
@@ -623,6 +645,8 @@ eindimensional; Lebensweise und Standortnationalismus, Gerechtigkeit und
 Besitzstandwahrung evo- zieren ganz unterschiedlich gelagerte Konflikte, die im Großkom-
 plex ökologische Transformation zusammenkommen
 #+end_quote
+#+end_details
+
 
 - Grundannahme: Die ökologische Frage entwickelt sich zunehmend zu einer Klassenfrage
 - Vier Hauptaspekte werden hervorgehoben:
@@ -645,6 +669,10 @@ plex ökologische Transformation zusammenkommen
     - Mögliche Konflikte zwischen Statusgruppen im Zusammenhang mit nachhaltigen
       Lebensstilen
 
+#+begin_details
+#+begin_summary
+Zitat
+#+end_summary
 #+begin_quote
 Unsere Grundannahme lautet, dass sich die ökologische Frage zu- nebmend als Klassenfrage
 stellen wird: Wir haben es hier mit einer Klassenfrage im Werden zu tun. Vier Aspekte
@@ -665,6 +693,8 @@ schlagen klassenspezifisch durch und könnten Verteilungskon- flikte intensivier
 Viertens ergeben sich im Zusammenhang mit nachhaltigen Lebensstilen möglicherweise
 symbolische Kämpfe zwi schen den Statusgruppen
 #+end_quote
+#+end_details
+
 
 **** Ungleiche Betroffenheit oder kollektive Risiken?
 
@@ -756,6 +786,10 @@ Stellenwert genießen.
   - Wahrnehmung eines begrenzten individuellen Handlungsspielraums
 - Mögliche Folge: Reaktanz - impulsive Ablehnung moralisch-ökologischer Ansprüche an den eigenen Lebensstil
   
+#+begin_details
+#+begin_summary
+Zitat 1
+#+end_summary
 #+begin_quote
 All dies ist relevant, weil *akademisch Gebildete zwar tendenziell klimapolitisch
 tonangebend* sind, *in der Gesamtbevölkerung aber eine Minderheit* darstellen. Der
@@ -772,13 +806,21 @@ zugespitzter Weise in Reaktanz münden, also cinem impulsiven Zurückweisen
 moralisch-ökologischer Ansprüche an den eigenen Lebensstil, wie es in folgender Äußerung
 des Sozialarbeiters Jens zum Ausdruck kommt:
 #+end_quote
+#+end_details
 
+
+#+begin_details
+#+begin_summary
+Zitat 2
+#+end_summary
 #+begin_quote
 Ich möchte mir nicht vorschreiben lassen, bis ins Kleinste, wie ich in meinem Zuhause zu
 leben habe. Ich möchte auch weiterhin gerne mein Stück Fleisch essen dürfen. Sicherlich
 kann man gern auch mal vegetarisch essen. Tue ich dann auch. Aber dass mir das alles noch
 vorgeschrieben und quasi befohlen wird, dagegen wehre ich mich!
 #+end_quote
+#+end_details
+
 
 **** Argumentative Repertoires in der Heute-Morgen-Arena
 - /Konsens/
@@ -852,6 +894,10 @@ vorgeschrieben und quasi befohlen wird, dagegen wehre ich mich!
     - Kontrolle
     - Autonomie
 
+#+begin_details
+#+begin_summary
+Zitat 1
+#+end_summary
 #+begin_quote
 Es zielt auf jene neuralgischen Stellen, an denen Meinungsverschiedenheiten
 hochschießen, an denen Konsens, Hinnahmebereitschaft und Indifferenz in deutlich
@@ -863,7 +909,13 @@ zu wollen, verstehen wir Triggerpunkte als jene Orte innerhalb der Tiefenstruktu
 moralischen Erwartungen und sozialen Disposi- tionen, auf deren Berührung Menschen
 besonders heftig und emotional reagieren
 #+end_quote
+#+end_details
 
+
+#+begin_details
+#+begin_summary
+Zitat 2
+#+end_summary
 #+begin_quote
 mik der Triggerpunkte deshalb so wirkungsvoll ist, weil diese in einer Unterstruktur
 moralischer Überzeugungen, Selbstverständnis- se, Alltagskosmologien und
@@ -878,6 +930,8 @@ hinweg, so die im Folgenden entfaltete Analyse, zeigen sich Menschen getriggert,
 immer spezifische Erwartungen der Egalität, der Normalität, der Kontrolle und der
 Autonomie verletzt werden.
 #+end_quote
+#+end_details
+
 
 *** Normalitätsverstösse
 
@@ -941,6 +995,10 @@ ein Fahrzeug zu kaufen, das ich gar nicht möchte.
   - Erfahrene Einschränkungen (z.B. staatliche Interventionen während der Corona-Krise) führen zu Kränkungen
   - Mögliche Folge: Umschlagen in autoritäre Aggression
 
+#+begin_details
+#+begin_summary
+Zitat
+#+end_summary
 #+begin_quote
 Hier geht es nicht-wie bei den vorherigen Triggern - um Ungleichbehandlung, Abweichung
 oder Kontrollverlust, vielmehr sind hier Verpflichtung, Zwang und Paternalismus ein Stein
@@ -960,6 +1018,8 @@ Sense hinter sich. Momente, in denen diese angestrebte Autonomie Ein-schränkung
 wie etwa im Zuge staatlicher Interventionen während der Corona-Krise, führen dann zu einer
 Kränkung. - mit der möglichen Folge eines Umschlagens in autoritäre Aggression.
 #+end_quote
+#+end_details
+
 
 *** Man darf nichts mehr sagen
 
@@ -1095,6 +1155,10 @@ Birgit: Männlich/weiblich/divers [lacht]. Oder was gibt's noch. Mohr. Mohr! Dit
     Anerkennung sexueller Diversität
 
 Eine Repolitisierung der Sozialstruktur
+#+begin_details
+#+begin_summary
+Zitat 1
+#+end_summary
 #+begin_quote
 Besonders die wertemäßig konservativen, migrationsskeptischen und rechts
  mobilisierten Fraktionen der alten Industriearbeiterklasse wurden dabei zum
@@ -1113,7 +1177,13 @@ Besonders die wertemäßig konservativen, migrationsskeptischen und rechts
  in Wolfgang Merkels Worten - globalisierungsaffin und weist eine kosmopoli-
  tische Gesinnung auf.]
 #+end_quote
+#+end_details
 
+
+#+begin_details
+#+begin_summary
+Zitat 2
+#+end_summary
 #+begin_quote
 In Bezug auf Einstellungsunterschiede zwischen Männern und Frauen sprechen
 manche gar von einem gender cleavage: Frauen seien aufgrund von
@@ -1126,7 +1196,13 @@ Lebensqualität stärker in den weiblichen Zuständigkeitsbereich verlegen.
 Bezüglich sexueller Diversität zeigen weibliche Befragte ebenfalls regelmäßig
 tolerantere und anerkennungsbereitere Einstellungen.
 #+end_quote
+#+end_details
 
+
+#+begin_details
+#+begin_summary
+Zitat 3
+#+end_summary
 #+begin_quote
 In Deutschland tritt mit der Unterscheidung zwischen Osten und Westen zudem eine
 historisch spezifische strukturelle, politische und kulturelle
@@ -1152,6 +1228,8 @@ Geschlechter oder der Aner- kennung diverser sexueller Identitäten erwies
 Ostdeutschland sich hingegen bislang nicht als durch die Bank traditioneller und
 weniger anerkennungsbereit.
 #+end_quote
+#+end_details
+
 
 *** Klassenspezifik, nicht Klassenpolarisierung
 
@@ -1223,6 +1301,10 @@ Vier verschiedene Gruppierungen basierend auf kulturellem und ökonomischem Kapi
   - Partikularismus: Fokus auf spezifische, lokale oder gruppenspezifische Interessen
   - Umverteilungsorientierung: Befürwortung von Maßnahmen zur Verringerung ökonomischer Ungleichheiten
 
+#+begin_details
+#+begin_summary
+Zitat
+#+end_summary
 #+begin_quote
 Liberaler Universalismus und Forderungen nach staatlicher Intervention im Sinne
 sozialer Gerechtigkeit finden sich demnach verstärkt bei Fraktionen der
@@ -1236,6 +1318,8 @@ typisch: Ladenbesitzer); Partikularismus und Umverteilungsorien tierung finden
 sich vor allem bei jenen mit geringem bis moderatem kulturellem und ökonomischem
 Kapital (idealtypisch: Arbeiterin nen und Arbeiter
 #+end_quote
+#+end_details
+
 
 ** Affekt und Struktur
 

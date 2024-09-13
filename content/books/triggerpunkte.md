@@ -499,6 +499,10 @@ Durch Sprache ausschließen:
 -   Hauptkritikpunkt:
     -   Starke Vorbehalte gegen eine primär auf Sprache setzende Antidiskriminierungspolitik
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > (Die Zurückweisung von Anerkennungsforderungen marginalisierter Gruppen speist sich
 > einerseits aus diskriminierenden Affekten, andererseits aber auch aus wahrgenommenen
 > Identitätsbedrohungen. Durch die anerkennungspolitische Stärkung alternativer Identitäts-
@@ -512,6 +516,8 @@ Durch Sprache ausschließen:
 > widersprechen. Wir sahen sowohl beim Gendern als auch bei der Tabuisierung rassistischer
 > Begriffe und der Umbenennung von Straßen, dass eine in erster Linie auf Sprache setzende
 > Antidiskriminierungspolitik auf starke Vorbehalte trifft.
+</div>
+</details>
 
 
 ##### Argumentative Repertoires in der Wir-Sie-Arena {#argumentative-repertoires-in-der-wir-sie-arena}
@@ -567,6 +573,10 @@ Durch Sprache ausschließen:
 -   In der ökologisch bewussten oberen Mittelschicht gilt die Reduzierung des
     eigenen ökologischen Fußabdrucks als wichtiger Ansatz für Veränderung
 
+<details>
+<summary>Zitat 1</summary>
+<div class="details">
+
 > Gerade Landbewohner pochen etwa auf die Alternativlosigkeit des Autofahrens. Forderungen
 > nach einer Umstellung des individuellen Alltags werden mit dem Hinweis auf begrenzte
 > finanzielle Mittel gekontert. Mitunter zeichne sich hier eine Art » Ökologie des Zwangs
@@ -576,13 +586,19 @@ Durch Sprache ausschließen:
 > vorteilung derer, die sich dies leisten können. In der ökologisch bewussten oberen
 > Mittelschicht hingegen gilt die verantwortungsbewusste Begrenzung des eigenen
 > Fußabdrucks als zentraler Hebel der Veränderung.
+</div>
+</details>
 
-<!--quoteend-->
+<details>
+<summary>Zitat 2</summary>
+<div class="details">
 
 > Immerhin tragen gerade **die gebildeten Fraktionen der Mittelschicht durch ihr privates und
 > berufliches Reiseverhalten überproportional zum CO-Ausstoß bei**." Die moralisierte
 > Abgrenzung über einen nachhaltigen Lebensstil dient auch der Distinktion, die von den
 > verursachten ökologischen Schäden konterkariert wird
+</div>
+</details>
 
 Konsum von westlichen Ländern ist maßgebend:
 
@@ -624,6 +640,10 @@ Leitfragen:
 -   Diese unterschiedlichen Konflikte kommen im Großkomplex "ökologische
     Transformation" zusammen
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > Ein Drittel der Bevölkerung etwa sieht &gt;&gt;unseren Wohlstand gefährdet, wenn wir jetzt wegen
 > des Klimawandels alles auf den Prüfstand stellen. Eine verwandte Befürchtung lautet,
 > Deutschland könne im globalen Wettbewerb das Nachsehen haben, wenn der Klimaschutz
@@ -636,6 +656,8 @@ Leitfragen:
 > eindimensional; Lebensweise und Standortnationalismus, Gerechtigkeit und
 > Besitzstandwahrung evo- zieren ganz unterschiedlich gelagerte Konflikte, die im Großkom-
 > plex ökologische Transformation zusammenkommen
+</div>
+</details>
 
 -   Grundannahme: Die ökologische Frage entwickelt sich zunehmend zu einer Klassenfrage
 -   Vier Hauptaspekte werden hervorgehoben:
@@ -658,6 +680,10 @@ Leitfragen:
         -   Mögliche Konflikte zwischen Statusgruppen im Zusammenhang mit nachhaltigen
             Lebensstilen
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > Unsere Grundannahme lautet, dass sich die ökologische Frage zu- nebmend als Klassenfrage
 > stellen wird: Wir haben es hier mit einer Klassenfrage im Werden zu tun. Vier Aspekte
 > dieses Zusammen- hangs wollen wir im Folgenden vertiefen. Erstens ist zwar der Klima-
@@ -676,6 +702,8 @@ Leitfragen:
 > schlagen klassenspezifisch durch und könnten Verteilungskon- flikte intensivieren.
 > Viertens ergeben sich im Zusammenhang mit nachhaltigen Lebensstilen möglicherweise
 > symbolische Kämpfe zwi schen den Statusgruppen
+</div>
+</details>
 
 
 ##### Ungleiche Betroffenheit oder kollektive Risiken? {#ungleiche-betroffenheit-oder-kollektive-risiken}
@@ -764,6 +792,10 @@ Leitfragen:
     -   Wahrnehmung eines begrenzten individuellen Handlungsspielraums
 -   Mögliche Folge: Reaktanz - impulsive Ablehnung moralisch-ökologischer Ansprüche an den eigenen Lebensstil
 
+<details>
+<summary>Zitat 1</summary>
+<div class="details">
+
 > All dies ist relevant, weil **akademisch Gebildete zwar tendenziell klimapolitisch
 > tonangebend** sind, **in der Gesamtbevölkerung aber eine Minderheit** darstellen. Der
 > insbesondere in der akademischen Mittelklasse verbreitete Zugang zur Klimapolitik über
@@ -778,13 +810,19 @@ Leitfragen:
 > zugespitzter Weise in Reaktanz münden, also cinem impulsiven Zurückweisen
 > moralisch-ökologischer Ansprüche an den eigenen Lebensstil, wie es in folgender Äußerung
 > des Sozialarbeiters Jens zum Ausdruck kommt:
+</div>
+</details>
 
-<!--quoteend-->
+<details>
+<summary>Zitat 2</summary>
+<div class="details">
 
 > Ich möchte mir nicht vorschreiben lassen, bis ins Kleinste, wie ich in meinem Zuhause zu
 > leben habe. Ich möchte auch weiterhin gerne mein Stück Fleisch essen dürfen. Sicherlich
 > kann man gern auch mal vegetarisch essen. Tue ich dann auch. Aber dass mir das alles noch
 > vorgeschrieben und quasi befohlen wird, dagegen wehre ich mich!
+</div>
+</details>
 
 
 ##### Argumentative Repertoires in der Heute-Morgen-Arena {#argumentative-repertoires-in-der-heute-morgen-arena}
@@ -863,6 +901,10 @@ Leitfragen:
         -   Kontrolle
         -   Autonomie
 
+<details>
+<summary>Zitat 1</summary>
+<div class="details">
+
 > Es zielt auf jene neuralgischen Stellen, an denen Meinungsverschiedenheiten
 > hochschießen, an denen Konsens, Hinnahmebereitschaft und Indifferenz in deutlich
 > artikulierten Dissens, ja sogar Gegnerschaft umschlagen. Physiotherapeuten verstehen
@@ -872,8 +914,12 @@ Leitfragen:
 > zu wollen, verstehen wir Triggerpunkte als jene Orte innerhalb der Tiefenstruktur von
 > moralischen Erwartungen und sozialen Disposi- tionen, auf deren Berührung Menschen
 > besonders heftig und emotional reagieren
+</div>
+</details>
 
-<!--quoteend-->
+<details>
+<summary>Zitat 2</summary>
+<div class="details">
 
 > mik der Triggerpunkte deshalb so wirkungsvoll ist, weil diese in einer Unterstruktur
 > moralischer Überzeugungen, Selbstverständnis- se, Alltagskosmologien und
@@ -887,6 +933,8 @@ Leitfragen:
 > hinweg, so die im Folgenden entfaltete Analyse, zeigen sich Menschen getriggert, wann
 > immer spezifische Erwartungen der Egalität, der Normalität, der Kontrolle und der
 > Autonomie verletzt werden.
+</div>
+</details>
 
 
 #### Normalitätsverstösse {#normalitätsverstösse}
@@ -951,6 +999,10 @@ Moralische Panik:
     -   Erfahrene Einschränkungen (z.B. staatliche Interventionen während der Corona-Krise) führen zu Kränkungen
     -   Mögliche Folge: Umschlagen in autoritäre Aggression
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > Hier geht es nicht-wie bei den vorherigen Triggern - um Ungleichbehandlung, Abweichung
 > oder Kontrollverlust, vielmehr sind hier Verpflichtung, Zwang und Paternalismus ein Stein
 > des Anstoßes, der in allen Arenen zu finden ist und an dem sich Befragte verschiedenster
@@ -968,6 +1020,8 @@ Moralische Panik:
 > Sense hinter sich. Momente, in denen diese angestrebte Autonomie Ein-schränkungen erfährt,
 > wie etwa im Zuge staatlicher Interventionen während der Corona-Krise, führen dann zu einer
 > Kränkung. - mit der möglichen Folge eines Umschlagens in autoritäre Aggression.
+</div>
+</details>
 
 
 #### Man darf nichts mehr sagen {#man-darf-nichts-mehr-sagen}
@@ -1105,6 +1159,10 @@ Moralische Panik:
 
 Eine Repolitisierung der Sozialstruktur
 
+<details>
+<summary>Zitat 1</summary>
+<div class="details">
+
 > Besonders die wertemäßig konservativen, migrationsskeptischen und rechts
 >  mobilisierten Fraktionen der alten Industriearbeiterklasse wurden dabei zum
 >  Gegenstand intensiven öffentlichen Interesses: Diese mehrheitlich weiße bzw.
@@ -1121,8 +1179,12 @@ Eine Repolitisierung der Sozialstruktur
 >  Ton angibt. Diese drängt die Gesellschaft in Richtung Liberalisierung, sie ist
 >  in Wolfgang Merkels Worten - globalisierungsaffin und weist eine kosmopoli-
 >  tische Gesinnung auf.]
+</div>
+</details>
 
-<!--quoteend-->
+<details>
+<summary>Zitat 2</summary>
+<div class="details">
 
 > In Bezug auf Einstellungsunterschiede zwischen Männern und Frauen sprechen
 > manche gar von einem gender cleavage: Frauen seien aufgrund von
@@ -1134,8 +1196,12 @@ Eine Repolitisierung der Sozialstruktur
 > Lebensqualität stärker in den weiblichen Zuständigkeitsbereich verlegen.
 > Bezüglich sexueller Diversität zeigen weibliche Befragte ebenfalls regelmäßig
 > tolerantere und anerkennungsbereitere Einstellungen.
+</div>
+</details>
 
-<!--quoteend-->
+<details>
+<summary>Zitat 3</summary>
+<div class="details">
 
 > In Deutschland tritt mit der Unterscheidung zwischen Osten und Westen zudem eine
 > historisch spezifische strukturelle, politische und kulturelle
@@ -1160,6 +1226,8 @@ Eine Repolitisierung der Sozialstruktur
 > Geschlechter oder der Aner- kennung diverser sexueller Identitäten erwies
 > Ostdeutschland sich hingegen bislang nicht als durch die Bank traditioneller und
 > weniger anerkennungsbereit.
+</div>
+</details>
 
 
 #### Klassenspezifik, nicht Klassenpolarisierung {#klassenspezifik-nicht-klassenpolarisierung}
@@ -1231,6 +1299,10 @@ Vier verschiedene Gruppierungen basierend auf kulturellem und ökonomischem Kapi
     -   Partikularismus: Fokus auf spezifische, lokale oder gruppenspezifische Interessen
     -   Umverteilungsorientierung: Befürwortung von Maßnahmen zur Verringerung ökonomischer Ungleichheiten
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > Liberaler Universalismus und Forderungen nach staatlicher Intervention im Sinne
 > sozialer Gerechtigkeit finden sich demnach verstärkt bei Fraktionen der
 > Mittelschicht, deren Klassenposition vor allem über kulturelles Wissenskapital
@@ -1242,6 +1314,8 @@ Vier verschiedene Gruppierungen basierend auf kulturellem und ökonomischem Kapi
 > typisch: Ladenbesitzer); Partikularismus und Umverteilungsorien tierung finden
 > sich vor allem bei jenen mit geringem bis moderatem kulturellem und ökonomischem
 > Kapital (idealtypisch: Arbeiterin nen und Arbeiter
+</div>
+</details>
 
 
 ### Affekt und Struktur {#affekt-und-struktur}
