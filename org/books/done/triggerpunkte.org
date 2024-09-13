@@ -1,7 +1,7 @@
 :properties:
 :id:       c74a2cc4-afe3-414a-8b74-c5826cd3365d
 :end:
-#+title: Triggerpunkte: Konsens und Konflikt in der Gegenwartsgesellschaft
+#+title: Triggerpunkte
 #+filetags: :sociology:politics:book:todo:
 #+date: 2024-07-25
 

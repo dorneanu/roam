@@ -1,5 +1,5 @@
 +++
-title = "Triggerpunkte: Konsens und Konflikt in der Gegenwartsgesellschaft"
+title = "Triggerpunkte"
 author = ["Victor Dorneanu"]
 date = 2024-07-25
 tags = ["sociology", "politics", "book", "todo"]
