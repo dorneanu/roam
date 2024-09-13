@@ -496,45 +496,44 @@ Begriffe und der Umbenennung von Straßen, dass eine in erster Linie auf Sprache
 Antidiskriminierungspolitik auf starke Vorbehalte trifft.
 #+end_quote
 
-**** TODO Argumentative Repertoires in der Wir-Sie-Arena
+**** Argumentative Repertoires in der Wir-Sie-Arena
 
-# +TITLE Argumentative Repertoires in der Wir-Sie-Arena
-
- ** Konsens **
-
- * Ablehnung von Diskriminierung: >>Es sollte egal sein.<<<
- * Erlaubnistoleranz: >>Jeder nach seiner Fasson<<<
- * Unsicherheit über Begriffe: >>Wie sagt man das heutzutage?<<<
-
- ** Dissens **
-
- ** Problemwahrnehmung **
-
-| Dringlichkeit                                                                                         | Diskriminierung weitgehend überwunden                                                                       | Diskriminierung immer noch allgegenwärtig |
-|-------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+-------------------------------------------|
-| mit Ausnahme individueller Überbleibsel der Intoleranz; weitere Antidiskriminierungsmaßnahmen unnötig | strukturelles Gruppenschicksal; Antidiskriminierung als dauerhaftes Projekt der Aufklärung und Verbesserung |                                           |
-
- ** Perspektive **
-
-|                                      | Etabliertenperspektive                  | Außenseiterperspektive |
-|--------------------------------------+-----------------------------------------+------------------------|
-| Betonung der Grenzen des Akzeptablen | Betonung des Leids der Ausgeschlossenen |                        |
-
- ** Modus der Anerkennung **
-
-|                                                                                   | stillschweigende Eingemeindung                                                               | öffentliche Umwertung |
-|-----------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+-----------------------|
-| vormals Diskriminierte als Rechtsgleiche eingeschlossen, sonst ändert sich nichts | über Rechtsgleichheit hinaus: Neujustierung der Norm, Zelebrieren von Differenz und Vielfalt |                       |
-
- ** Gleichstellung **
-
-|                           | keine Sonderrechte         | Nachteilsausgleich |
-|---------------------------+----------------------------+--------------------|
-| >>Wie alle anderen auch<< | Kompensation, Ermächtigung |                    |
-
- ** Alltagshandeln **
-
-|   | Forderung nach Veränderung des eigenen Alltagshandelns als Zumutung | Pflicht zur Selbsthinterfragung, Alltagshandeln zentraler Hebel für Veränderung |
+- Konsens
+  - Ablehnung von Diskriminierung: »Es sollte egal sein.«
+  - Erlaubnistoleranz: »Jeder nach seiner Fasson«
+  - Unsicherheit über Begriffe: »Wie sagt man das heutzutage?«
+- Dissens
+  - Problemwahrnehmung
+    - Dringlichkeit
+      - Diskriminierung weitgehend überwunden
+        - mit Ausnahme individueller Überbleibsel der Intoleranz; weitere
+          Antidiskriminierungsmaßnahmen unnötig
+      - Diskriminierung immer noch allgegenwärtig
+        - strukturelles Gruppenschicksal; Antidiskriminierung als dauerhaftes Projekt der
+          Aufklärung und Verbesserung
+    - Perspektive
+      - Etabliertenperspektive
+        - Betonung der Grenzen des Akzeptablen
+      - Außenseiterperspektive
+        - Betonung des Leids der Ausgeschlossenen
+  - Diskriminierungsabbau
+    - Modus der Anerkennung
+      - stillschweigende Eingemeidung
+        - vormals Diskriminierte als Rechtsgleiche eingeschlossen, sonst ändert sich nichts
+        - Anerkennung als Normale
+      - öffentliche Umwertung
+        - über Rechtsgleichheit hinaus: Neujustierung der Norm, Zelebrieren von Differenz
+          und Vielfalt
+        - Anerkennung als Besondere und Gleiche
+    - Gleichstellung
+      - keine Sonderrechte
+        - »Wie alle anderen auch«
+      - Nachteilsausgleich
+        - Kompensation, Ermächtigung
+    - Alltagshandeln
+      - Forderung nach Veränderung des eigenen Alltagshandelns als Zumutung
+      - Pflicht zur Selbsthinterfragung; Alltagshandeln als zentraler Hebel für
+        Veränderung
 
 *** Heute-Morgen-Ungleichheiten                                                             :arena:
 
@@ -580,7 +579,7 @@ erreichen; der Konsum und die Investitionen von Superreichen sind hingegen wicht
 Emissionstreiber*
 #+end_quote
 
-Letfragen:
+Leitfragen:
 
 #+begin_quote
 fim Folgenden blicken wir empirisch auf die komplexen Zusam menhänge von Umweltkonflikten
@@ -781,53 +780,51 @@ kann man gern auch mal vegetarisch essen. Tue ich dann auch. Aber dass mir das a
 vorgeschrieben und quasi befohlen wird, dagegen wehre ich mich!
 #+end_quote
 
-**** TODO Argumentative Repertoires in der Heute-Morgen-Arena
-
-# + Abb. 6.3: Argumentative Repertoires in der Heute-Morgen-Arena
-
-**Konsens**
-- Sorge um den Klimawandel, kein Klimaleugnertum
-- Notwendigkeit nachhaltigeren Lebens innerhalb bestehender Spielräume
-- (Dissens über Ausmaß)
-- Notwendigkeit sozialen Ausgleichs: >>Die, die mehr haben, dürfen auch mehr beitragen.<<
-
-**Dissens**
-
-**Problemwahrnehmung**
-
-| primäre Gefahr                                          | Folgen des Klimawandels                                  | Folgen der Transformation     |
-|---------------------------------------------------------+----------------------------------------------------------+-------------------------------|
-| Wetterextreme, Naturzerstörung, Schäden, Klimakonflikte | ungerechte Verwerfungen und Eingriffe in die Lebensweise |                               |
-| Gerechtigkeitsbezug                                     | Betroffene des Klimawandels                              | Betroffene der Transformation |
-| Menschheit, nächste Generation, arme Länder             | Landbewohner, Arbeitnehmer, Geringverdiener              |                               |
-
-**Zeitbezug**
-
-| Zeitlichkeit                                              | zu langsam                                                                   | zu schnell |
-|-----------------------------------------------------------+------------------------------------------------------------------------------+------------|
-| Schnelles Handeln zur Verhinderung zukünftiger Schäden    | behutsamer Wandel bei Schutz gegenwärtiger Interessen                        |            |
-| apokalyptische Zeit (>>wenn unser Haus überflutet wird<<) | Passung von Transformationstempo und Alltag (>>nicht von null auf hundert<<) |            |
-
-**Rolle Deutschlands**
-
-| Rolle Deutschlands                                       | zu wenig                                                | schon viel |
-|----------------------------------------------------------+---------------------------------------------------------+------------|
-| Deutschland als reicher Verursacher besonders gefragt    | Deutschland bereits ökologischer Vorreiter              |            |
-| Klimaschutz als ökonomische Chance (Zukunftstechnologie) | exzessiver Klimaschutz als Gefahr im Standortwettbewerb |            |
-
-**Konsequenzen**
-
-| Individuelle Spielräume                               | weite Spielräume                                          | begrenzte Spielräume |
-|-------------------------------------------------------+-----------------------------------------------------------+----------------------|
-| individuelle Entscheidbarkeit, Alltagshandeln zentral | alltägliche Notwendigkeiten, Einzelne können wenig ändern |                      |
-
-**Ethos**
-
-| Ethos                                                                                  | freiwilliger Verzicht                                                              | bedrohte Wahlfreiheit |
-|----------------------------------------------------------------------------------------+------------------------------------------------------------------------------------+-----------------------|
-| Freiheit als bewusste, reflexive Entscheidung, Einsicht in ökologische Notwendigkeiten | Freiheit als Nichteinmischung und Ermöglichung von gutem Leben und legitimem Luxus |                       |
-| wollen, können                                                                         | nicht müssen, dürfen                                                               |                       |
-
+**** Argumentative Repertoires in der Heute-Morgen-Arena
+- /Konsens/
+  - Sorge um den Klimawandel, kein Klimaleugnerturm
+  - Notwendigkeit nachhaltigen Lebens innerhalb bestehender Spielräume (Dissens über Ausmaß)
+  - Notwendigkeit sozialen Ausgleichs: »Die, die mehr haben, dürfen auch mehr beitragen.«
+- /Dissens/
+  - Problemwahrnehmung
+    - primäre Gefahr
+      - Folgen des Klimawandels
+        - Wetterextreme, Naturzerstörung, Schäden, Klimakonflikte
+      - Folgen der Transformation
+        - ungerechte Verwerfungen und Eingriffe in die Lebensweise
+    - Gerechtigkeitsbezug
+      - Betroffene des Klimawandels
+        - Menschheit, nächste Generation, arme Länder
+      - Betroffene der Transformation
+        - Landbewohner, Arbeitnehmer, Geringverdiener
+  - Zeitbezug
+    - Zeitlichkeit
+      - zu langsam
+        - Schnelles Handeln zur Verhinderung zukünftiger Schäden
+        - apokalyptische Zeit (»wenn unser Haus überflutet wird«)
+      - zu schnell
+        - behutsamerer Wandel bei Schutz gegenwärtiger Interessen
+        - Passung von Transformationstempo und Alltag (»nicht von null auf hundert«)
+    - Rolle Deutschlands
+      - zu wenig
+        - Deutschland als reicher Verursacher besonders gefragt
+        - Klimaschutz als ökonomische Chance (Zukunftstechnologie)
+      - schon viel
+        - Deutschland bereits ökologischer Vorreiter
+        - exzessiver Klimaschutz als Gefahr im Standortwettbewerb
+- /Konsequenzen/
+  - Individuelle Spielräume
+    - weite Spielräume
+      - individuelle Entscheidbarkeit, Alltagshandeln zentral
+    - begrenzte Spielräume
+      - alltägliche Notwendigkeiten, Einzelne können wenig ändern
+  - Ethos
+    - freiwilliger Verzicht
+      - Freiheit als bewusste, reflexive Entscheidung, Einsicht in ökologische Notwendigkeiten
+      - wollen, können
+    - bedrohte Wahlfreiheit
+      - Freiheit als Nichteinmischung und Ermöglichung von gutem Leben und legitimem Luxus
+      - nicht müssen, dürfen
 ** Triggerpunkte
 - /Konzept der "Triggerpunkte"/:
   - Stellen, an denen Meinungsverschiedenheiten eskalieren
@@ -1024,20 +1021,45 @@ Walter: Ja.
 Birgit: Männlich/weiblich/divers [lacht]. Oder was gibt's noch. Mohr. Mohr! Dit haben die ja alles jeändert. Und ich bin noch nicht mal rechts oder links. Also mir ist dis eigentlich egal.
 #+end_quote
 
-*** TODO Taxonomie der Trigger
+*** Taxonomie der Trigger
 
-# +BEGIN_SRC org
-| Typ       | Trigger                                            | verletzte Erwartungen                                    | Beispielthemen                                                                            |
-|-----------+----------------------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------|
-| Ungleich- | ungerechte Benachteiligungen oder Übervorteilungen | Egalität, formale Gleichheit, Verdientheit, Reziprozität | >>>Sonderrechte<<< für Minderheiten, rassistische Diskriminierung, leistungslose Vermögen |
-behandlungen |                                                                        |                                                                    |                                                                                |
-| Normalitäts- | Ordnungsverlust, Devianz, Schmutz | Normalität, Regeln, Gewohnheiten, geteilter Common Sense | >>>Scharia<<, >>Ausländerkriminalität«, dekadenter Lebensstil der Reichen, Transfrauen in Frauenumkleiden |
-verstöße    | Identitätsbedrohung durch Verschiebung des Normalen                       |                                                                    |                                                                                |
-| Entgrenzungs- | unkontrollierbare Steigerung und Beschleunigung von Veränderungen | Kontrolle, Stabilität, Steuer- und Berechenbarkeit | >>>Grenzöffnungen<«, Quoten, Folgen des Klimawandels, Ansprüche an den Sozialstaat |
-befürchtungen | Anspruchsinflation                                                    |                                                                    |                                                                                |
-| Verhaltens- | Eingriffe in Handlungsroutinen | Autonomie, (private) Selbstbestimmung, Freiheit von Vorgaben | >>>Sprechverbote<<< und Sprachreformen, Veggie-Day, Tempolimit, überkommene Geschlechterrollen |
-zumutungen | irritierte Verhaltenserwartungen, Stigmatisierung von Verhalten           |                                                                    |                                                                                |
-# +END_SRC
+- *Typ*: Ungleichbehandlungen
+  - /Trigger/
+    - ungerechte Benachteiligungen oder Übervorteilungen
+    - verletzte Anspruchshierarchien
+  - /verletzte Erwartungen/
+    - Egalität
+    - formale Gleichheit, Verdientheit, Reziprozität
+  - /Beispielthemen/
+    - »Sonderrechte« für Minderheiten, rassistische Diskriminierung, leistungslose Vermögen
+- *Typ*: Normalitätsverstöße
+  - /Trigger/
+    - Ordnungsverlust, Devianz, Schmutz
+    - Identitätsbedrohung durch Verschiebung des Normalen
+  - /verletzte Erwartungen/
+    - Normalität
+      - Regeln, Gewohnheiten, geteilter Common Sense
+  - /Beispielthemen/
+    - »Scharia«, »Ausländerkriminalität«, dekadenter Lebensstil der Reichen, Transfrauen
+      in Frauenumkleiden
+- *Typ*: Entgrenzungsbefürchtungen
+  - /Trigger/
+    - unkontrollierbare Steigerung und Beschleunigung von Veränderungen
+    - Anspruchsinflation
+  - /verletzte Erwartungen/
+    - Kontrolle
+      - Stabilität, Steuer- und Berechenbarkeit
+  - /Beispielthemen/
+    - »Grenzöffnungen«, Quoten, Folgen des Klimawandels, Ansprüche an den Sozialstaat
+- *Typ*: Verhaltenszumutungen
+  - /Trigger/
+    - Eingriffe in Handlungsroutinen
+    - irritierte Verhaltenserwartungen, Stigmatisierung von Verhalten
+  - /verletzte Erwartungen/
+    - Autonomie
+      - (private) Selbstbestimmung, Freiheit von Vorgaben
+  - /Beispielthemen/
+    - »Sprechverbote« und Sprachreformen, Veggie-Day, Tempolimit, überkommene Geschlechterrollen
 
 ** Der soziale Raum der Ungleichheitskonflikte
 
@@ -1236,6 +1258,10 @@ Träger. die als fremd, unsympathisch, ja feindlich erscheinen*
 
 *** TODO Soziale Sortierung und affektive Polarisierung
 
+#+begin_details
+#+begin_summary
+Zitat
+#+end_summary
 #+begin_quote
 Wenn etwa die Fridays-for-Future- Bewegung als Sekte der Anti-Demokraten bezeichnet wird,
 wenn Klimaaktivisten als Terroristen verschrien werden oder in Bezug auf Transpersonen von
@@ -1245,6 +1271,7 @@ empfänglich sind. *Menschen und Diskurse werden auf diese Weise getriggert; die
 arenenspezifische Polarisierung und die Wahrscheinlichkeit einer weiteren Aufschaukelung
 des Konflikts wächst*.
 #+end_quote
+#+end_details
 
 Abb 9.2
 
@@ -1706,3 +1733,8 @@ Arenen schwach und sind keine starken Strukturgeber für Konflikte
 *** TODO Eine zerklüftete Konfliktlandachaft
 
 Abb 11.
+
+# Local Variables:
+# org-id-extra-files: nil
+# org-agenda-files: nil
+# End:
