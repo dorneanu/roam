@@ -7,9 +7,10 @@
 
 - https://www.goodreads.com/book/show/199211943-triggerpunkte
 
-* Kapitel
-** Einleitung
-*** Cleavages                                                                               :cleavage:
+ Hier sind meine Notizen, teilweise Zitate aus dem Buch, aber auch größere Abschnitte mit diversen LLMs zusammengefasst:
+
+* Einleitung
+** Cleavages                                                                             :cleavage:
 
 Cleavages (Konfliktlinien) sind historisch bedingte soziale oder kulturelle Trennlinien, die Bürger innerhalb einer Gesellschaft in Gruppen mit *unterschiedlichen politischen Interessen* teilen. Dies führt zu politischen Konflikten zwischen diesen Gruppen. Die Cleavage-Theorie argumentiert, dass politische Konfliktlinien hauptsächlich das Parteiensystem eines Landes sowie das individuelle Wahlverhalten der Bürger bestimmen und sie in Wählerblöcke aufteilen.
 
@@ -19,8 +20,8 @@ Häufige Beispiele für Cleavages sind:
  - *Kulturelle Cleavages*: Diese Konfliktlinien teilen Menschen basierend auf ihren gemeinsamen Werten, Überzeugungen und Traditionen. Zum Beispiel könnte es eine Konfliktlinie zwischen Stadt- und Landbewohnern geben.
 
 Cleavages können sowohl eine Quelle von Konflikten als auch von Zusammenarbeit in der Gesellschaft sein. Sie können zu politischer Instabilität und Gewalt führen, aber sie können auch Menschen dazu motivieren, sich zu organisieren und für ihre Interessen einzutreten.
-** Arenen der Ungleichheitskonflikte
-*** Warum Arenas
+* Arenen der Ungleichheitskonflikte
+** Warum Arenas
 
 - Konzept der "Arena" in Ungleichheitskonflikten
   - Arena bezeichnet einen Ort des (Wett-)Kampfes vor Zuschauern
@@ -68,7 +69,7 @@ Ungleichheitskonflikten darstellt. Er verdeutlicht den kompetitiven Charakter di
 Konflikte, ihre Öffentlichkeit und das Potenzial für soziale Veränderung.
 #+end_quote
 
-*** Typologie
+** Typologie
 - *Oben-Unten-Ungleichheiten*
   - Konflikttypus: Verteilungskonflikte
   - Einsatz: Ressourcen, Ansprüche
@@ -105,7 +106,7 @@ Konflikte, ihre Öffentlichkeit und das Potenzial für soziale Veränderung.
   - Bearbeitung: Transformation, Nachhaltigkeit
   - Verteilungsbilanz: Negativsumme bei Nichthandeln, Zielkonflikte
 
-*** Klassenschema nach Daniel Oesch
+** Klassenschema nach Daniel Oesch
 
 - *Selbstständige*
   - Unabhängige Arbeitslogik
@@ -133,8 +134,8 @@ Konflikte, ihre Öffentlichkeit und das Potenzial für soziale Veränderung.
 
 - Literatur
   - Oesch, Daniel (2005): Die Klassengesellschaft im 21. Jahrhundert. Suhrkamp Verlag, Frankfurt am Main.
-*** Oben-Unten-Ungleichheiten                                                               :arena:
-**** Notiz 1
+** Oben-Unten-Ungleichheiten                                                             :arena:
+*** Notiz 1
 Verberbung als Reproduktion von Ungleichheit:
 
 #+begin_quote
@@ -148,7 +149,7 @@ typischerweise jene, die bereits vermögend sind und hohe Einkommen erzielen. Si
 nicht nur häufiger, die vermachten Summen sind auch besonders hoch
 #+end_quote
 
-**** Notiz 2
+*** Notiz 2
 
 Nicht imstande Widerstand zu leisten:
 
@@ -165,8 +166,8 @@ ist es jedenfalls eine bedeutsame Frage, warum aus wachsender Ungleichheit keine
 Mobilisierung folgt und warum oft rechte politische Unternehmer davon profitieren
 #+end_quote
 
-**** Märkte und Klassen
-***** Notiz 3
+*** Märkte und Klassen
+**** Notiz 3
 
 Rendite aus Kapital vs Einkommen aus Erwerbsarbeit:
 
@@ -183,8 +184,8 @@ katapultiert." Piketty zeigt, dass Renditen auf Kapital schneller wachsen als di
 Wirtschaft als Ganzes und damit schneller als Einkommen aus Erwerbsarbeit.
 #+end_quote
 
-**** Tücken der Meritokratie                                                              :meritokratie:
-***** Notiz 4
+*** Tücken der Meritokratie                                                              :meritokratie:
+**** Notiz 4
 
 Kernthese: Meritokratie, das Prinzip der Belohnung nach Leistung, ist eine verbreitete
 Legitimation von Ungleichheit. Sie suggeriert, dass Erfolg durch individuelle Anstrengung
@@ -210,7 +211,7 @@ Zusätzliche Punkte:
  - Er verweist auf die Notwendigkeit einer "neuen Erzählung" von Gerechtigkeit, die nicht
    auf Leistung und Wettbewerb, sondern auf Kooperation und Solidarität basiert.
 
-***** Das Paradox
+**** Das Paradox
 
 Meritokratie als Hemmschuh politischer Mobilisierung für mehr Gleichheit:
 
@@ -231,7 +232,7 @@ Leistungsgesellschaft ist zweifellos einer der wichtigsten Hemmschuhe politische
 Mobilisierung für mehr Gleichheit*
 #+end_quote
 
-***** Schmarotzer
+**** Schmarotzer
 
 #+begin_quote
 Man kann vermuten, dass sich oft diejenigen am eifrigsten nach unten abgrenzen, die sich
@@ -244,7 +245,7 @@ Die Disziplinierung realer oder vermeintlicher Schmarotzer dient so auch der
 Hervorhebung der eigenen, allzu oft unerkannt und nicht honoriert bleibenden Mühen.*
 #+end_quote
 
-**** Demobilisierte Klassengesellschaft
+*** Demobilisierte Klassengesellschaft
 
 #+begin_quote
 Welches Gesamtbild ergibt sich nun angesichts dieser verschiedenen Puzzleteile? Geht die
@@ -294,7 +295,7 @@ Durchsetzungsfähigkeit von Arbeitnehmerorganisationen werden von einem relative
 Bedeutungsverlust der industriellen Arbeiterschaft als Wählergruppe begleitet."
 #+end_quote
 
-**** Argumentative Repertoires in der Oben-Unten-Arena
+*** Argumentative Repertoires in der Oben-Unten-Arena
 
 - *Konsens*
   - Wohlfahrtskonsens: Abfederung ungerechter Härten und sozialer Risiken
@@ -338,8 +339,8 @@ Bedeutungsverlust der industriellen Arbeiterschaft als Wählergruppe begleitet."
         - Steuergerechtigkeit: Korrektur ungerechter Marktergebnisse; Kapital und
           Erbschaften mehr, Arbeit weniger besteuern
 
-*** Innen-Außen-Ungleichheiten                                                              :arena:
-**** Kampf um Grenzen
+** Innen-Außen-Ungleichheiten                                                            :arena:
+*** Kampf um Grenzen
 
 - Neue Konfliktachse: "*Globalisierungs-Cleavage*"
   - Strukturell und politisch mobilisierbare Auseinandersetzung
@@ -398,7 +399,7 @@ Verteilung von Lebenschancen zwischen oben und unten zu erstreiten. Vielmehr ric
 diese Konflikte gegen Ausländer und Zuwanderer, also nach unten und nach außen.
 #+end_quote
 
-**** Argumentative Repertoires in der Innen-Aussen-Arena
+*** Argumentative Repertoires in der Innen-Aussen-Arena
 
 *Migration*:
 - *Konsens*
@@ -436,8 +437,8 @@ diese Konflikte gegen Ausländer und Zuwanderer, also nach unten und nach außen
         - >>Wir dürfen uns nicht abschotten<<; Scheitern durch Rassismus und Exklusion
 
 
-*** Wir-Sie-Ungleichheiten                                                                  :arena:
-**** Exklusive Inklusivität?
+** Wir-Sie-Ungleichheiten                                                                :arena:
+*** Exklusive Inklusivität?
 Durch Sprache ausschließen:
 
 #+begin_quote
@@ -451,7 +452,7 @@ Gruppen eingebracht werden und von anderen als ausschließende und Distinktion e
 Sprech- und Schreib- weisen - letztlich als Soziolekt - interpretiert werden
 #+end_quote
 
-**** Notiz 1
+*** Notiz 1
 
 - Zurückweisung von Anerkennungsforderungen marginalisierter Gruppen:
   - Gespeist aus diskriminierenden Affekten
@@ -502,7 +503,7 @@ Antidiskriminierungspolitik auf starke Vorbehalte trifft.
 #+end_details
 
 
-**** Argumentative Repertoires in der Wir-Sie-Arena
+*** Argumentative Repertoires in der Wir-Sie-Arena
 
 - Konsens
   - Ablehnung von Diskriminierung: »Es sollte egal sein.«
@@ -541,7 +542,7 @@ Antidiskriminierungspolitik auf starke Vorbehalte trifft.
       - Pflicht zur Selbsthinterfragung; Alltagshandeln als zentraler Hebel für
         Veränderung
 
-*** Heute-Morgen-Ungleichheiten                                                             :arena:
+** Heute-Morgen-Ungleichheiten                                                           :arena:
 
 - Landbewohner betonen die Notwendigkeit des Autofahrens
 - Forderungen nach Verhaltensänderungen werden oft mit begrenzten finanziellen
@@ -611,7 +612,7 @@ möglicherweise zur *Formierung neuer ökologischer Klassen* (so cin Begriff von
 Schultz und Bruno Latour
 #+end_quote
 
-**** Klimapolitische Spaltungslinien
+*** Klimapolitische Spaltungslinien
 - Ein Drittel der Bevölkerung befürchtet, dass der Wohlstand durch
   Klimaschutzmaßnahmen gefährdet wird
 - 40% meinen, Deutschland habe genug für den Klimaschutz getan und andere Länder
@@ -696,7 +697,7 @@ symbolische Kämpfe zwi schen den Statusgruppen
 #+end_details
 
 
-**** Ungleiche Betroffenheit oder kollektive Risiken?
+*** Ungleiche Betroffenheit oder kollektive Risiken?
 
 #+begin_quote
 *Perfiderweise sind die Staaten, die für die größten Emissionen verantwortlich sind,
@@ -710,7 +711,7 @@ sich weiter, was schließlich zu einer Verfestigung und Verschärfung ihrer prek
 führt
 #+end_quote
 
-**** Transformationslasten
+*** Transformationslasten
 
 #+begin_quote
 *Klimaschutzmaßnahmen werden hier nicht unter dem Gesichtspunkt ihrer zukünftigen Ziele
@@ -731,7 +732,7 @@ stärker hervor, wenn es um die Verknüpfung von Ökologie mit sozialen Fragen d
 Lastenverteilung und um mögliche Wohlstandsverluste geht
 #+end_quote
 
-**** Ökologische Distinction
+*** Ökologische Distinction
 
 #+begin_quote
 Jin Kontrast zur bereits erwähnten Ökologie der Arbeiterklasse, die sich um die Frage der
@@ -785,7 +786,7 @@ Stellenwert genießen.
   - Zweifel an der Relevanz und dem Einfluss individueller Lebensstiländerungen
   - Wahrnehmung eines begrenzten individuellen Handlungsspielraums
 - Mögliche Folge: Reaktanz - impulsive Ablehnung moralisch-ökologischer Ansprüche an den eigenen Lebensstil
-  
+
 #+begin_details
 #+begin_summary
 Zitat 1
@@ -822,7 +823,7 @@ vorgeschrieben und quasi befohlen wird, dagegen wehre ich mich!
 #+end_details
 
 
-**** Argumentative Repertoires in der Heute-Morgen-Arena
+*** Argumentative Repertoires in der Heute-Morgen-Arena
 - /Konsens/
   - Sorge um den Klimawandel, kein Klimaleugnerturm
   - Notwendigkeit nachhaltigen Lebens innerhalb bestehender Spielräume (Dissens über Ausmaß)
@@ -867,7 +868,7 @@ vorgeschrieben und quasi befohlen wird, dagegen wehre ich mich!
     - bedrohte Wahlfreiheit
       - Freiheit als Nichteinmischung und Ermöglichung von gutem Leben und legitimem Luxus
       - nicht müssen, dürfen
-** Triggerpunkte
+* Triggerpunkte
 - /Konzept der "Triggerpunkte"/:
   - Stellen, an denen Meinungsverschiedenheiten eskalieren
   - Punkte, an denen Konsens in Dissens oder sogar Gegnerschaft umschlägt
@@ -933,7 +934,7 @@ Autonomie verletzt werden.
 #+end_details
 
 
-*** Normalitätsverstösse
+** Normalitätsverstösse
 
 #+begin_quote
 Ein Mann kann sagen, So, ich fühle mich jetzt als Fraus, und muss von da an als
@@ -964,7 +965,7 @@ damit auch zur perfekten Identifikationsfigur*.
 
 
 
-*** Reaktanz                                                                                :reaktanz:
+** Reaktanz                                                                              :reaktanz:
 
 #+begin_quote
 Sven: Stichwort E-Mobilität. [...] Wir werden dazu gezwungen genau wie mit dem Impfen.
@@ -1021,7 +1022,7 @@ Kränkung. - mit der möglichen Folge eines Umschlagens in autoritäre Aggressio
 #+end_details
 
 
-*** Man darf nichts mehr sagen
+** Man darf nichts mehr sagen
 
 #+begin_quote
 Aus soziologischer Sicht kann man anmerken, dass die getriggerten Teilnehmer so eine
@@ -1081,7 +1082,7 @@ Walter: Ja.
 Birgit: Männlich/weiblich/divers [lacht]. Oder was gibt's noch. Mohr. Mohr! Dit haben die ja alles jeändert. Und ich bin noch nicht mal rechts oder links. Also mir ist dis eigentlich egal.
 #+end_quote
 
-*** Taxonomie der Trigger
+** Taxonomie der Trigger
 
 - *Typ*: Ungleichbehandlungen
   - /Trigger/
@@ -1121,7 +1122,7 @@ Birgit: Männlich/weiblich/divers [lacht]. Oder was gibt's noch. Mohr. Mohr! Dit
   - /Beispielthemen/
     - »Sprechverbote« und Sprachreformen, Veggie-Day, Tempolimit, überkommene Geschlechterrollen
 
-** Der soziale Raum der Ungleichheitskonflikte
+* Der soziale Raum der Ungleichheitskonflikte
 
 - /Alte Industriearbeiterklasse/:
   - Fokus auf konservative, migrationsskeptische und rechts mobilisierte Fraktionen
@@ -1231,7 +1232,7 @@ weniger anerkennungsbereit.
 #+end_details
 
 
-*** Klassenspezifik, nicht Klassenpolarisierung
+** Klassenspezifik, nicht Klassenpolarisierung
 
 #+begin_quote
 Daraus ergibt sich bereits ein zentraler Befund: *Die Meinungslandschaft ist von einer
@@ -1257,7 +1258,7 @@ dieser - thematisch eigentlich sehr verschiedenen - Arenen entlang ein und derse
 Konfliktsemantik hinter dieser Ähnlichkeit steht
 #+end_quote
 
-*** Alte weisse Männer?
+** Alte weisse Männer?
 
 #+begin_quote
 *in fast allen Arenen ist die Klassenposition das Merkmal, entlang dessen sich
@@ -1277,7 +1278,7 @@ Einstellungen durchaus in ganz unterschiedli che Richtungen ausschlagen, wenn
 man nicht auf sozialstrukturelle Gruppen, sondern auf die Elektorate schaut
 #+end_quote
 
-*** TODO Konfliktraum und soziale Landkarte
+** TODO Konfliktraum und soziale Landkarte
 
 Abb 8.5
 
@@ -1320,8 +1321,7 @@ Kapital (idealtypisch: Arbeiterin nen und Arbeiter
 #+end_quote
 #+end_details
 
-
-** Affekt und Struktur
+* Affekt und Struktur
 
 #+begin_quote
 Im Folgenden weiten wir das Panorama etwas und schauen auf die sozialen und
@@ -1340,7 +1340,7 @@ sich dann nicht mehr nur gegen eine fremde Meinung, sondern gegen ihre typischen
 Träger. die als fremd, unsympathisch, ja feindlich erscheinen*
 #+end_quote
 
-*** TODO Soziale Sortierung und affektive Polarisierung
+** TODO Soziale Sortierung und affektive Polarisierung
 
 #+begin_details
 #+begin_summary
@@ -1359,8 +1359,8 @@ des Konflikts wächst*.
 
 Abb 9.2
 
-*** Alte und neue Medien
-**** Echokammerthese                                                                         :echokammer:
+** Alte und neue Medien
+*** Echokammerthese                                                                      :echokammer:
 
 - /Echokammerthese und ihre Revision/:
   - Ursprüngliche These: Existenz abgeschotteter Teilöffentlichkeiten, die
@@ -1444,7 +1444,7 @@ Faktoren ab: kognitiven Kompeten- zen, Resilienz sowie vor allem aber
 Gesellschaft ungleich verteilt
 #+end_quote
 
-** Der politische Raum der Ungleichheitskonflikte
+* Der politische Raum der Ungleichheitskonflikte
 
 #+begin_quote
 *Trotz klarer ideologischer Unterschiede, so viel sei schon verraten, zeigt sich
@@ -1456,11 +1456,11 @@ die Polarisierungsunternehmer gewinnbringend zum Einsatz bringen, allen voran
 bei der Rechten*
 #+end_quote
 
-*** TODO Verortung in der Parteilandschaft
+** TODO Verortung in der Parteilandschaft
 
 Abb 10.1
 
-*** Affektpolitik                                                                           :2share:
+** Affektpolitik                                                                         :2share:
 - /Ausweitung politischer Themen/:
   - Das Spektrum politisch verhandelbarer Themen hat sich stark erweitert
   - Nicht mehr nur traditionelle Interessenvertreter bestimmen die Agenda
@@ -1521,7 +1521,7 @@ geladene Ersatzpolitiken mit hoher emotionaler Ladung die von ihnen gesetzten
 Programmatiken verdrängen
 #+end_quote
 
-*** Polarisierungsunternehmer                                                               :2share:
+** Polarisierungsunternehmer                                                             :2share:
 
 - /Definition und Strategien von Polarisierungsunternehmern/
   - Politische Akteure, die sich durch Erzeugung und Nutzung polarisierter
@@ -1617,7 +1617,7 @@ der einen oder der anderen Seite zuzuordnen, und erzeugt so erst die Ge-
 sellschaft, die man irrtümlich zu beobachten glaubt
 #+end_quote
 
-** Politisierung und Konflikt in der Gegenwartsgesellschaft                                :2share:
+* Politisierung und Konflikt in der Gegenwartsgesellschaft                               :2share:
 
 Zusammenfassung der aktuellen Lage:
 
@@ -1638,7 +1638,7 @@ Zwischen ihnen soll sich ein Graben auftun, der die gesellschaftliche
 Konfliktdynamik wesentlich bestimmt
 #+end_quote
 
-*** Nicht Kamel, sondern Dromedar                                                           :analyse:
+** Nicht Kamel, sondern Dromedar                                                         :analyse:
 - /Sozialstrukturelle Merkmale/
   - Mittelschichtsdominierte Gesellschaft
   - Starke Integration über Erwerbsarbeit
@@ -1692,7 +1692,7 @@ inklusiver Diskurs, der Kontroversen in geteilten Selbstverständigungsprozessen
 bearbeitbar macht, sind nach wie vor vorhanden und von Bedeutung.
 #+end_quote
 
-*** Politisierung ohne Polarisierung                                                        :analyse:
+** Politisierung ohne Polarisierung                                                      :analyse:
 - /Radikalisierte Diskursakteure und ihre Wirkung/
   - Fähigkeit, Themen so zu rahmen, dass sie breite Resonanz finden
   - Herausforderung für Menschen bis in die gesellschaftliche Mitte, sich zu
@@ -1760,7 +1760,7 @@ Streit kein Ausweis bedrohlicher Spaltungstendenzen sein muss, sondern
 durchaus Teil wichtiger Selbstverständigungsprozesse sein kann
 #+end_quote
 
-*** Klassenunterschiede                                                                     :zusammenfassung:
+** Klassenunterschiede                                                                   :zusammenfassung:
 - /Allgemeine Beobachtung/
   - Studie plädiert für differenzierte Analyse in Klassenfragen
   - Räumt mit populären Mythen über soziale Schubladen und politische
@@ -1814,7 +1814,7 @@ und Rassismus. Die vermeintlichen Gruppenunterschiede bleiben in den meisten
 Arenen schwach und sind keine starken Strukturgeber für Konflikte
 #+end_quote
 
-*** TODO Eine zerklüftete Konfliktlandachaft
+** TODO Eine zerklüftete Konfliktlandachaft
 
 Abb 11.
 
