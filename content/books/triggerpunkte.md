@@ -56,6 +56,10 @@ Cleavages können sowohl eine Quelle von Konflikten als auch von Zusammenarbeit 
     -   "Arena" als treffender Ausdruck für Aspekte von Ungleichheitskonflikten
     -   Verdeutlicht kompetitiven Charakter, Öffentlichkeit und Veränderungspotenzial
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > Der Begriff "Arena" wurde gewählt, weil er einen Ort des (Wett-)Kampfes vor Zuschauern
 > bezeichnet. In Arenen wird gewetteifert, gestritten und angefeuert, Loyalitäten bilden
 > sich aus und vertiefen sich. Die Autoren des Buches "Arenen der Ungleichheitskonflikte"
@@ -75,6 +79,8 @@ Cleavages können sowohl eine Quelle von Konflikten als auch von Zusammenarbeit 
 > dass der Begriff "Arena" einen treffenden Ausdruck für die verschiedenen Aspekte von
 > Ungleichheitskonflikten darstellt. Er verdeutlicht den kompetitiven Charakter dieser
 > Konflikte, ihre Öffentlichkeit und das Potenzial für soziale Veränderung.
+</div>
+</details>
 
 
 ### Typologie {#typologie}
@@ -208,16 +214,16 @@ Legitimation von Ungleichheit. Sie suggeriert, dass Erfolg durch individuelle An
 und Talent verdient wird, und soziale Ungleichheiten daher gerechtfertigt sind. Probleme
 der Meritokratie:
 
--   Vernachlässigung struktureller Faktoren: Meritokratie ignoriert die Rolle von sozialen
-    und wirtschaftlichen Vorteilen, die den Zugang zu Bildung, Qualifikationen und guten
+-   Vernachlässigung struktureller Faktoren: Meritokratie ignoriert die **Rolle von sozialen
+    und wirtschaftlichen Vorteilen**, die den Zugang zu Bildung, Qualifikationen und guten
     Positionen begünstigen.
--   Verengung des Erfolgsbegriffs: Erfolg wird auf Leistung und Einkommen reduziert, andere
+-   Verengung des Erfolgsbegriffs: _Erfolg wird auf Leistung und Einkommen reduziert_, andere
     wichtige Lebensbereiche wie soziale Beziehungen, Gesundheit und Glück werden
     ausgeblendet.
--   Entmutigung von Solidarität: Meritokratie fördert den Wettbewerb und die Fokussierung
-    auf den eigenen Erfolg, was Solidarität und kollektives Handeln erschweren kann.
--   Legitimation von Ausgrenzung: Meritokratie kann die Abwertung und Ausgrenzung von
-    Menschen legitimieren, die als weniger leistungsfähig oder talentiert angesehen werden.
+-   Entmutigung von Solidarität: Meritokratie **fördert den Wettbewerb** und die **Fokussierung
+    auf den eigenen Erfolg**, was Solidarität und kollektives Handeln erschweren kann.
+-   Legitimation von Ausgrenzung: Meritokratie kann die Abwertung und **Ausgrenzung von
+    Menschen legitimieren, die als weniger leistungsfähig** oder talentiert angesehen werden.
 
 Fazit: Meritokratie ist ein komplexes Konzept mit fragwürdigen Implikationen. Es ist
 wichtig, die Grenzen der Meritokratie zu erkennen und ihre negativen Auswirkungen auf
@@ -383,6 +389,10 @@ Gewerkschaften verlieren an Macht:
     -   Kulturell möglicherweise "obskur"
     -   Ökonomisch potenziell rational
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > Beschrieben wird diese neue Konflik achse als der schon benannte &gt;
 > Globalisierungs-Cleavage", also als eine neue strukturell und politisch mobilisierbare
 > Auseinandersetzung zwi schen denen, die Globalisierung und Migration befürworten, und je-
@@ -404,6 +414,8 @@ Gewerkschaften verlieren an Macht:
 > Arbeitsmarkt, den Schulen sowie im Alltags- und Be rufslebens. Insofern, so meinen manche,
 > seien die Schließungs suke dieser Schichten zwar kulturell möglicherweise obskur, h auch
 > ökonomisch rational.
+</div>
+</details>
 
 Kritik immer nach "unten":
 
@@ -1156,7 +1168,7 @@ Moralische Panik:
     -   Unterschiedliche Haltungen in Bereichen wie Geschlechtergleichstellung und
         Anerkennung sexueller Diversität
 
-Eine Repolitisierung der Sozialstruktur
+Eine Repolitisierung der Sozialstruktur:
 
 <details>
 <summary>Zitat 1</summary>
@@ -1275,7 +1287,7 @@ Eine Repolitisierung der Sozialstruktur
 
 ### <span class="org-todo todo TODO">TODO</span> Konfliktraum und soziale Landkarte {#konfliktraum-und-soziale-landkarte}
 
-Abb 8.5
+👉 Abb 8.5
 
 Vier verschiedene Gruppierungen basierend auf kulturellem und ökonomischem Kapital:
 
@@ -1351,7 +1363,7 @@ Vier verschiedene Gruppierungen basierend auf kulturellem und ökonomischem Kapi
 </div>
 </details>
 
-Abb 9.2
+👉 Abb 9.2
 
 
 ### Alte und neue Medien {#alte-und-neue-medien}
@@ -1382,6 +1394,10 @@ Abb 9.2
         verschiedenen Ressourcen
     -   Ungleiche Verteilung dieser Ressourcen in der Gesellschaft
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > Die promineme Echokammerthese geht von der Existens blasenhaft voneinander
 > abgeschotteter Teilöffentlichkeiten aus, letztlich selbstbe- züglichen und
 > geschlossenen Kreisen der Kommunikation, in denen Meinungen und Vorurteile
@@ -1405,8 +1421,10 @@ Abb 9.2
 > bedeutet, dass soziale Medien uns nicht in Echokammern oder Filterblasen mit
 > Gleichmeinenden einsperren, sondern ein Handgemenge produzieren, indem wir uns
 > selbst durch hoch dynamische Sortiervorgange voneinander abgrenzen.
+</div>
+</details>
 
-<!--quoteend-->
+Nutzung von sozialen Medien:
 
 > Anders als vermutet ist die (positive oder negative) Affektivität bei der
 > Nutzung sozialer Medien nicht generell höher, aber die Muster sind dennoch
@@ -1422,22 +1440,22 @@ Abb 9.2
 > sind zudem positiver gestimmt, wenn es um den &gt;&gt;Migrationsgegner geht, und
 > negativer beim »arabischen Einwanderer
 
-<!--quoteend-->
+Überforderung als Syndrom:
 
 > Die Welt ist immer weniger die Welt, die man kannte und in der man gut
 > zurechtkam, sie erscheint nun vielmehr fremd und zumutungsreich. »Ich komme da
 > nicht mehr mit«, »Ich weiß nicht mehr, was die wollen«, »Wo soll das alles
 > hinführen? oder Das geht mir viel zu schnell sind typische Ausdrucksweisen für
 > diese Gefühlslage.5" Auf einer systematischeren Ebene ist Überforderung als
-> Syndrom gedeutet worden, mit dem komplexe und aus- differenzierte Gesellschaften
+> Syndrom gedeutet worden, mit dem komplexe und ausdifferenzierte Gesellschaften
 > unweigerlich konfrontiert sind. Die Zunahme der Komplexität, die Beschleunigung
 > des sozialen Wandels und gesteigerte Anforderungen an die Individuen, mit
-> unübersicht- lichen und widersprüchlichen Erwartungen umzugehen, machen das
+> unübersichtlichen und widersprüchlichen Erwartungen umzugehen, machen das
 > Risiko des Überfordert-Seins in unserer Gesellschaft allgegenwärtig. Ob man mit
 > dieser Grundkonstellation erfolgreich umgehen kann, hängt von einer Reihe von
-> Faktoren ab: kognitiven Kompeten- zen, Resilienz sowie vor allem aber
-> ökonomischen, sozialen und kul- turellen Ressourcen-und diese sind in der
-> Gesellschaft ungleich verteilt
+> Faktoren ab: kognitiven Kompetenzen, Resilienz sowie vor allem aber
+> ökonomischen, sozialen und kulturellen Ressourcen - und diese sind in der
+> Gesellschaft ungleich verteilt.
 
 
 ## Der politische Raum der Ungleichheitskonflikte {#der-politische-raum-der-ungleichheitskonflikte}
@@ -1453,7 +1471,7 @@ Abb 9.2
 
 ### <span class="org-todo todo TODO">TODO</span> Verortung in der Parteilandschaft {#verortung-in-der-parteilandschaft}
 
-Abb 10.1
+👉 Abb 10.1
 
 
 ### Affektpolitik {#affektpolitik}
@@ -1487,6 +1505,10 @@ Abb 10.1
         aufgeladene "Ersatzpolitiken"
     -   HochEmotionale Themen könnten sachpolitische Inhalte überlagern
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > Im Zeitverlauf haben sich die thematischen Register dessen, was politisch
 > verhandelt und zum Streitfall werden kann, massiv ausgeweitet, genau weil das
 > Feld nicht mehr allein von althergebrachten Interessenträgern im Modus der
@@ -1515,6 +1537,8 @@ Abb 10.1
 > klassischen Parteien ist das mit der Gefahr verbunden, dass symbolpolitisch auf-
 > geladene Ersatzpolitiken mit hoher emotionaler Ladung die von ihnen gesetzten
 > Programmatiken verdrängen
+</div>
+</details>
 
 
 ### Polarisierungsunternehmer {#polarisierungsunternehmer}
@@ -1558,6 +1582,10 @@ Abb 10.1
     -   Langfristig können "Allmählichkeitsschäden" entstehen
     -   Risiko der tatsächlichen Polarisierung durch falsche Wahrnehmung
 
+<details>
+<summary>Zitat 1</summary>
+<div class="details">
+
 > (Als Polarisierungsunter- nehmer bezeichnen wir politische Akteure, deren
 > Profilierung pri- mär über die Erzeugung und Kapitalisierung polarisierter
 > Auseinan- dersetzungen erfolgt. Die Verstärkung von Konflikt und politischer
@@ -1572,8 +1600,12 @@ Abb 10.1
 > den norma- len Zuspitzungen des politischen Wettbewerbs ist, dass das konfron-
 > tative Auseinanderdividieren zum Zwecke der Erzielung elektoraler
 > Polarisierungsdividenden eine zentrale Rolle spielt.).
+</div>
+</details>
 
-<!--quoteend-->
+<details>
+<summary>Zitat 2</summary>
+<div class="details">
 
 > Solche Triggerthemen oder -ereignisse fungieren einerseits als &gt;&gt;Aufreger, mit
 > denen man Menschen emotional packen kann, an- dererseits stellen sie über den
@@ -1588,8 +1620,12 @@ Abb 10.1
 > Gendersternchen als äs- thetische Zumutung oder unzulängliche Bevormundung
 > empfindet, soll sich bei rechtskonservativen oder traditionalistischen Kreisen
 > gut aufgehoben fühlen.
+</div>
+</details>
 
-<!--quoteend-->
+<details>
+<summary>Zitat 3</summary>
+<div class="details">
 
 > Nicht die Gesellschaft spaltet sich, sondern die Außenbezirke der Meinungs-
 > landschaften beschallen zunehmend das viel größere Zentrum. Wa- ren die
@@ -1610,6 +1646,8 @@ Abb 10.1
 > einer gespalte- nen Gesellschaft - verleitet unter Umständen selbst dazu, sich
 > der einen oder der anderen Seite zuzuordnen, und erzeugt so erst die Ge-
 > sellschaft, die man irrtümlich zu beobachten glaubt
+</div>
+</details>
 
 
 ## Politisierung und Konflikt in der Gegenwartsgesellschaft {#politisierung-und-konflikt-in-der-gegenwartsgesellschaft}
@@ -1665,6 +1703,10 @@ Zusammenfassung der aktuellen Lage:
     -   Zeitungssterben
     -   Prekarität und Stellenabbau in der journalistischen Profe
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > Sozialstrukturell ist Deutschland auch heute noch eine mittelschichtsdominierte
 > Gesellschaft, die stark über Erwerbsarbeit integriert ist und deren Sozialstaat
 > zentrale Lebensrisiken recht umfassend kompensiert. Trotz wachsender
@@ -1684,6 +1726,8 @@ Zusammenfassung der aktuellen Lage:
 > journalistische Profession, doch hochwertige Berichterstattung und ein relativ
 > inklusiver Diskurs, der Kontroversen in geteilten Selbstverständigungsprozessen
 > bearbeitbar macht, sind nach wie vor vorhanden und von Bedeutung.
+</div>
+</details>
 
 
 ### Politisierung ohne Polarisierung {#politisierung-ohne-polarisierung}
@@ -1704,6 +1748,10 @@ Zusammenfassung der aktuellen Lage:
     -   Furcht vor Entgrenzung und Kontrollverlust
     -   Empfindung politischer Maßnahmen als übergriffige Zumutungen
 
+<details>
+<summary>Zitat 1</summary>
+<div class="details">
+
 > Allerdings gelingt es radikalisierten Diskursakteuren bisweilen sehr gut, Themen
 > mit einer Rahmung und Anspitzung so in die Debatte einzuspeisen, dass Menschen
 > bis weit in die Mitte der Gesellschaft sich zu vehementen Positionierungen
@@ -1719,6 +1767,8 @@ Zusammenfassung der aktuellen Lage:
 > wahrgenommen werden, wo bestimmte ErWartungen von Normalität herausgefordert
 > oder unterlaufen werden, wo Menschen Entgrenzung und Kontrollverlust fürchten
 > und wo sie politische Maßnahmen als übergriffige Zumutungen empfinden
+</div>
+</details>
 
 -   _Historische Konfliktgeschichte der Bundesrepublik_
     -   Oft vergessene harte Auseinandersetzungen nach 1945
@@ -1736,6 +1786,10 @@ Zusammenfassung der aktuellen Lage:
     -   Vehementer Streit nicht notwendigerweise Ausweis bedrohlicher Spaltungstendenzen
     -   Konflikte können Teil wichtiger gesellschaftlicher Selbstverständigungsprozesse sein
 
+<details>
+<summary>Zitat 2</summary>
+<div class="details">
+
 > Die harten Auseinandersetzungen, die die Bundesrepublik nach 1945 erlebte,
 > geraten dann in Vergessen-heit: die (lange unterbliebene) Aufarbeitung der
 > Naziverbrechen, die Studentenrevolte, die Wutreden von Franz Josef Strauß und
@@ -1750,6 +1804,8 @@ Zusammenfassung der aktuellen Lage:
 > werden, je weiter sie zurückliegen. Auch hier gilt, dass selbst vehementer
 > Streit kein Ausweis bedrohlicher Spaltungstendenzen sein muss, sondern
 > durchaus Teil wichtiger Selbstverständigungsprozesse sein kann
+</div>
+</details>
 
 
 ### Klassenunterschiede {#klassenunterschiede}
@@ -1787,6 +1843,10 @@ Zusammenfassung der aktuellen Lage:
     -   Vorstellung von gesellschaftspolitischen Verkeilungen der Generationen nicht
         haltbar
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > Plädieren wir in Klassenfragen für eine Differenzierung der Analyse, räumt
 > unsere Studie im Hinblick auf andere Kategorien mit populären Mythen auf, in
 > denen von sozialen Schubladen auf politische Gesinnungen geschlossen wird. Weder
@@ -1804,8 +1864,10 @@ Zusammenfassung der aktuellen Lage:
 > liegen einstellungsmäßig keine Welten, selbst nicht bei Themen wie Zuwanderung
 > und Rassismus. Die vermeintlichen Gruppenunterschiede bleiben in den meisten
 > Arenen schwach und sind keine starken Strukturgeber für Konflikte
+</div>
+</details>
 
 
 ### <span class="org-todo todo TODO">TODO</span> Eine zerklüftete Konfliktlandachaft {#eine-zerklüftete-konfliktlandachaft}
 
-Abb 11.
+👉 Abb 11.
