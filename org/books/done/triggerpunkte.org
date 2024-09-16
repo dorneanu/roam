@@ -2,12 +2,12 @@
 :id:       c74a2cc4-afe3-414a-8b74-c5826cd3365d
 :end:
 #+title: Triggerpunkte
-#+filetags: :sociology:politics:book:todo:
+#+filetags: :sociology:politics:book:
 #+date: 2024-07-25
 
-- https://www.goodreads.com/book/show/199211943-triggerpunkte
+👉 https://www.goodreads.com/book/show/199211943-triggerpunkte
 
- Hier sind meine Notizen, teilweise Zitate aus dem Buch, aber auch größere Abschnitte mit diversen LLMs zusammengefasst:
+Hier sind meine Notizen, teilweise Zitate aus dem Buch, aber auch größere Abschnitte mit diversen LLMs zusammengefasst:
 
 * Einleitung
 ** Cleavages                                                                             :cleavage:
@@ -1286,9 +1286,10 @@ Einstellungen durchaus in ganz unterschiedli che Richtungen ausschlagen, wenn
 man nicht auf sozialstrukturelle Gruppen, sondern auf die Elektorate schaut
 #+end_quote
 
-** TODO Konfliktraum und soziale Landkarte
+** Konfliktraum und soziale Landkarte
 
-👉 Abb 8.5
+#+caption: Abb 8.5 (© Steffen Mau, Thomas Lux, Linus Westheuser)
+#+html: {{< gbox src="/img/triggerpunkte/triggerpunkte_abb_8.5.jpg" title="Abb 8.5" caption="" pos="left" >}}
 
 Vier verschiedene Gruppierungen basierend auf kulturellem und ökonomischem Kapital:
 - /Hohe kulturelles Kapital, geringeres ökonomisches Kapital/:
@@ -1348,7 +1349,7 @@ sich dann nicht mehr nur gegen eine fremde Meinung, sondern gegen ihre typischen
 Träger. die als fremd, unsympathisch, ja feindlich erscheinen*
 #+end_quote
 
-** TODO Soziale Sortierung und affektive Polarisierung
+** Soziale Sortierung und affektive Polarisierung
 
 #+begin_details
 #+begin_summary
@@ -1365,7 +1366,8 @@ des Konflikts wächst*.
 #+end_quote
 #+end_details
 
-👉 Abb 9.2
+#+caption: Abb 9.2 (© Steffen Mau, Thomas Lux, Linus Westheuser)
+#+html: {{< gbox src="/img/triggerpunkte/triggerpunkte_abb_9.2.jpg" title="Abb 9.2" caption="" pos="left" >}}
 
 ** Alte und neue Medien
 *** Echokammerthese                                                                      :echokammer:
@@ -1472,9 +1474,10 @@ die Polarisierungsunternehmer gewinnbringend zum Einsatz bringen, allen voran
 bei der Rechten*
 #+end_quote
 
-** TODO Verortung in der Parteilandschaft
+** Verortung in der Parteilandschaft                                                     :2share:
 
-👉 Abb 10.1
+#+caption: Abb 10.1 (© Steffen Mau, Thomas Lux, Linus Westheuser)
+#+html: {{< gbox src="/img/triggerpunkte/triggerpunkte_abb_10.1.jpg" title="Abb 10.1" caption="" pos="left" >}}
 
 ** Affektpolitik                                                                         :2share:
 - /Ausweitung politischer Themen/:
@@ -1868,10 +1871,10 @@ Arenen schwach und sind keine starken Strukturgeber für Konflikte
 #+end_quote
 #+end_details
 
+** Eine zerklüftete Konfliktlandachaft
 
-** TODO Eine zerklüftete Konfliktlandachaft
-
-👉 Abb 11.
+#+caption: Abb 11.1 (© Steffen Mau, Thomas Lux, Linus Westheuser)
+#+html: {{< gbox src="/img/triggerpunkte/triggerpunkte_abb_11.1.jpg" title="Abb 11.1" caption="" pos="left" >}}
 
 # Local Variables:
 # org-id-extra-files: nil

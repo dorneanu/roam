@@ -2,13 +2,13 @@
 title = "Triggerpunkte"
 author = ["Victor Dorneanu"]
 date = 2024-07-25
-tags = ["sociology", "politics", "book", "todo"]
+tags = ["sociology", "politics", "book"]
 draft = false
 +++
 
--   <https://www.goodreads.com/book/show/199211943-triggerpunkte>
+👉 <https://www.goodreads.com/book/show/199211943-triggerpunkte>
 
-    Hier sind meine Notizen, teilweise Zitate aus dem Buch, aber auch größere Abschnitte mit diversen LLMs zusammengefasst:
+Hier sind meine Notizen, teilweise Zitate aus dem Buch, aber auch größere Abschnitte mit diversen LLMs zusammengefasst:
 
 
 ## Einleitung {#einleitung}
@@ -1285,9 +1285,9 @@ Eine Repolitisierung der Sozialstruktur:
 > man nicht auf sozialstrukturelle Gruppen, sondern auf die Elektorate schaut
 
 
-### <span class="org-todo todo TODO">TODO</span> Konfliktraum und soziale Landkarte {#konfliktraum-und-soziale-landkarte}
+### Konfliktraum und soziale Landkarte {#konfliktraum-und-soziale-landkarte}
 
-👉 Abb 8.5
+{{< gbox src="/img/triggerpunkte/triggerpunkte_abb_8.5.jpg" title="Abb 8.5" caption="" pos="left" >}}
 
 Vier verschiedene Gruppierungen basierend auf kulturellem und ökonomischem Kapital:
 
@@ -1347,7 +1347,7 @@ Vier verschiedene Gruppierungen basierend auf kulturellem und ökonomischem Kapi
 > Träger. die als fremd, unsympathisch, ja feindlich erscheinen**
 
 
-### <span class="org-todo todo TODO">TODO</span> Soziale Sortierung und affektive Polarisierung {#soziale-sortierung-und-affektive-polarisierung}
+### Soziale Sortierung und affektive Polarisierung {#soziale-sortierung-und-affektive-polarisierung}
 
 <details>
 <summary>Zitat</summary>
@@ -1363,7 +1363,7 @@ Vier verschiedene Gruppierungen basierend auf kulturellem und ökonomischem Kapi
 </div>
 </details>
 
-👉 Abb 9.2
+{{< gbox src="/img/triggerpunkte/triggerpunkte_abb_9.2.jpg" title="Abb 9.2" caption="" pos="left" >}}
 
 
 ### Alte und neue Medien {#alte-und-neue-medien}
@@ -1469,9 +1469,9 @@ Nutzung von sozialen Medien:
 > bei der Rechten**
 
 
-### <span class="org-todo todo TODO">TODO</span> Verortung in der Parteilandschaft {#verortung-in-der-parteilandschaft}
+### Verortung in der Parteilandschaft {#verortung-in-der-parteilandschaft}
 
-👉 Abb 10.1
+{{< gbox src="/img/triggerpunkte/triggerpunkte_abb_10.1.jpg" title="Abb 10.1" caption="" pos="left" >}}
 
 
 ### Affektpolitik {#affektpolitik}
@@ -1868,6 +1868,6 @@ Zusammenfassung der aktuellen Lage:
 </details>
 
 
-### <span class="org-todo todo TODO">TODO</span> Eine zerklüftete Konfliktlandachaft {#eine-zerklüftete-konfliktlandachaft}
+### Eine zerklüftete Konfliktlandachaft {#eine-zerklüftete-konfliktlandachaft}
 
-👉 Abb 11.
+{{< gbox src="/img/triggerpunkte/triggerpunkte_abb_11.1.jpg" title="Abb 11.1" caption="" pos="left" >}}
