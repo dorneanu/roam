@@ -1,0 +1,322 @@
+:properties:
+:id:       5E25DF20-36A8-4B26-89A3-E9A420A41579
+:end:
+#+setupfile: setup.org
+#+title: Emacs and Go: A match made in developer heaven
+#+created: 2024-09-18
+#+hugo_draft: true
+
+* Introduction
+"Get a decent IDE!" I'm usually told whenever I mention I'm using Emacs for Golang
+development. I think folks still have this perception of a bad looking IDE, with some
+outdated UI, incapable of doing anything useful. When properly configured, it not only
+matches the capabilities of VS Code and JetBrains IDEs but also excels in many other
+aspects.
+#+begin_note
+Such as searching. I'm still amazed how many options you have to search for things in the
+current buffer, in multiple buffers, across multiple files, in multple projects...
+#+end_note
+From code completion to integrated debugging, from customizable workflows to extensibility
+that goes beyond your imagination, /Emacs has it all/.
+
+So, whether you're an Emacs /veteran/ looking to optimize your Go workflow, a Go /enthusiast/
+curious about the power of Emacs, or a skeptic who needs convincing that a "text editor"
+can rival modern IDEs, this post aims to be a roadmap.
+
+* Setting Up Emacs for Go Development
+- whether you like /vanilla/ Emacs or frameworks like Doom or Spacemacs there are plenty of
+  resource to lookup easy to understand configurations
+- for beginners I still recommand Doom as it comes with battery-included super-powers (also for Golang development)
+- for the veterans and the more experienced Emacs power-users, I'll just take for granted everything /else/ is properly configured
+- if not, you can have a look at *my configuration*
+
+Let's start by installing go-mode, the foundational package that will give Emacs its Go superpowers:
+
+#+begin_src elisp
+(use-package go-mode
+  :straight t
+  :mode "\\.go\\'"
+  :hook
+  ;; (before-save . gofmt-before-save)
+  (go-mode . apheleia-mode)
+  :bind (:map go-mode-map
+              ("M-?" . godoc-at-point)
+              ("M-." . xref-find-definitions)
+              ("M-_" . xref-find-references)
+              ;; ("M-*" . pop-tag-mark) ;; Jump back after godef-jump
+              ("C-c m r" . go-run))
+  :custom
+  (gofmt-command "goimports"))
+#+end_src
+
+Some explanations what this code block does:
+
+- It uses the ~straight~ package to manage packages and their dependencies.
+- It sets the major mode for ~.go~ files to ~go-mode~.
+- It hooks into the ~go-mode~ event and runs the ~apheleia-mode~ function when the Go major mode is activated.
+
+
+** Tooling
+
+#+begin_src emacs-lisp
+(use-package go-fill-struct
+  :straight t)
+
+(use-package go-impl
+  :straight t)
+
+(use-package go-tag
+  :straight t
+  :bind (:map go-mode-map
+              ("C-c t a" . go-tag-add)
+              ("C-c t r" . go-tag-remove))
+  :init (setq go-tag-args (list "-transform" "camelcase")))
+#+end_src
+
+** Documentation
+#+begin_src emacs-lisp
+(use-package go-eldoc
+  :straight t
+  :hook
+  (go-mode . go-eldoc-setup))
+
+(use-package go-guru
+  :straight t
+  :hook
+  (go-mode . go-guru-hl-identifier-mode))
+#+end_src
+
+** Autocompletion
+*** lsp
+- I use ~eglot~ (instead of ~lsp-mode~) and ~capf~ for autocompletion
+
+#+begin_src emacs-lisp
+(use-package company-go
+  :straight t
+  :after (company go-mode))
+#+end_src
+*** corfu
+*** capf
+/capf/ stands for "complete-as-you-type". It's a feature that allows you to /complete/ text as
+you type it, based on the context of your input. Capf can be used to completed /words/,
+/abbreviations/, /symbols/ but also entire sentences.
+
+Setup CAPFs:
+#+begin_src emacs-lisp
+;; Setup capf
+(add-hook 'go-mode-hook (lambda ()
+                          (setq-local completion-at-point-functions
+                                      (list (cape-capf-super #'cape-dabbrev #'lsp-completion-at-point (cape-company-to-capf #'company-go) (cape-company-to-capf #'company-yasnippet))))))
+#+end_src
+*** cape
+There are some [[https://github.com/minad/cape?tab=readme-ov-file#available-capfs][generic CAPFs]]:
+
+- /cape-abbrev/: Complete abbreviation (add-global-abbrev, add-mode-abbrev).
+- /cape-dabbrev/: Complete word from current buffers. See also dabbrev-capf on Emacs 29.
+- /cape-dict/: Complete word from dictionary file.
+- /cape-elisp-block/: Complete Elisp in Org or Markdown code block.
+- /cape-elisp-symbol/: Complete Elisp symbol.
+- /cape-emoji/: Complete Emoji. Available on Emacs 29 and newer.
+- /cape-file/: Complete file name.
+- /cape-history/: Complete from Eshell, Comint or minibuffer history.
+- /cape-keyword/: Complete programming language keyword.
+- /cape-line/: Complete entire line from current buffer.
+- /cape-rfc1345/: Complete Unicode char using RFC 1345 mnemonics.
+- /cape-sgml/: Complete Unicode char from SGML entity, e.g., &alpha.
+- /cape-tex/: Complete Unicode char from TeX command, e.g. \hbar.
+
+#+caption: Setup Completion at Point Extensions (CAPE)
+#+begin_src emacs-lisp
+(use-package cape
+  :straight t
+  :demand t
+  :hook ((org-mode . dorneanu/set-org-capf))
+  :custom
+  (cape-dabbrev-min-length 1))
+
+;; Apply the same completion keybindings to several modes
+(defun dorneanu/my-setup-completion-bindings ()
+  (define-key (current-local-map) (kbd "M-c .") 'completion-at-point)
+  (define-key (current-local-map) (kbd "M-c p") 'completion-at-point) ;; Duplicate, consider removing
+  (define-key (current-local-map) (kbd "M-c t") 'complete-tag)
+  (define-key (current-local-map) (kbd "M-c d") 'cape-dabbrev)
+  (define-key (current-local-map) (kbd "M-c f") 'cape-file)
+  (define-key (current-local-map) (kbd "M-c k") 'cape-keyword)
+  (define-key (current-local-map) (kbd "M-c s") 'cape-symbol)
+  (define-key (current-local-map) (kbd "M-c a") 'cape-abbrev)
+  (define-key (current-local-map) (kbd "M-c i") 'cape-ispell)
+  (define-key (current-local-map) (kbd "M-c l") 'cape-line)
+  (define-key (current-local-map) (kbd "M-c w") 'cape-dict)
+  (define-key (current-local-map) (kbd "M-c \\") 'cape-tex)
+  (define-key (current-local-map) (kbd "M-c _") 'cape-tex)
+  (define-key (current-local-map) (kbd "M-c ^") 'cape-tex)
+  (define-key (current-local-map) (kbd "M-c &") 'cape-sgml)
+  (define-key (current-local-map) (kbd "M-c r") 'cape-rfc1345))
+
+(add-hook 'prog-mode-hook 'dorneanu/my-setup-completion-bindings)
+(add-hook 'org-mode-hook 'dorneanu/my-setup-completion-bindings)
+
+;; Set capfs for different modes
+(defun dorneanu/set-lsp-capf ()
+  (setq-local completion-at-point-functions
+              (list (cape-capf-super #'lsp-completion-at-point #'cape-dabbrev #'cape-dict #'cape-keyword))))
+
+(defun dorneanu/set-go-capf ()
+  (setq-local completion-at-point-functions
+              (list (cape-capf-super #'lsp-completion-at-point (cape-company-to-capf #'company-go)))))
+#+end_src
+*** consult
+consult is a powerful tool for improving your productivity in Emacs by providing instant completion of text as you type it, based on the context of your input. It can be customized to your needs and integrated with other features (such as lsp, snippets, org mode) to provide even more efficient workflows.
+
+Here's the setup I'm using:
+
+#+caption: consult setup (mostly from the MinEmacs project)
+#+begin_src emacs-lisp
+(use-package consult
+  :straight t
+  :hook (embark-collect-mode . consult-preview-at-point-mode)
+  :hook (completion-list-mode . consult-preview-at-point-mode)
+  :bind (;; C-c bindings in `mode-specific-map'
+         ("C-c M-x" . consult-mode-command)
+         ("C-c k"   . consult-kmacro)
+         ("C-c h"   . consult-history)
+         ("C-c r"   . consult-ripgrep)
+         ("C-c c t" . consult-theme)
+         ("C-c i"   . consult-info)
+         ([remap Info-search] . consult-info)
+         ([remap recentf-open-files] . consult-recent-file)
+         ([remap recentf] . consult-recent-file)
+
+         ;; C-x bindings in `ctl-x-map'
+         ([remap repeat-complex-command] . consult-complex-command) ; C-x M-:
+         ([remap switch-to-buffer] . consult-buffer) ; C-x b
+         ([remap switch-to-buffer-other-window] . consult-buffer-other-window) ; C-x 4 b
+         ([remap switch-to-buffer-other-frame] . consult-buffer-other-frame) ; C-x 5 b
+         ([remap switch-to-buffer-other-tab] . consult-buffer-other-tab) ; C-x t b
+         ([remap bookmark-jump] . consult-bookmark) ; C-x r b
+         ([remap project-switch-to-buffer] . consult-project-buffer) ; C-x p b
+
+         ;; Custom M-# bindings for fast register access
+         ("M-#"     . consult-register-load)
+         ("M-'"     . consult-register-store) ; overwrite `abbrev-prefix-mark' (unrelated)
+         ("C-M-#"   . consult-register)
+
+         ;; Other custom bindings
+         ([remap yank-pop] . consult-yank-pop) ; M-y
+
+         ;; M-g bindings in `goto-map'
+         ("M-g e"   . consult-compile-error)
+         ("M-g f"   . consult-flymake) ; Alternative: consult-flycheck
+         ("M-g o"   . consult-outline) ; Alternative: consult-org-heading
+         ("M-g m"   . consult-mark)
+         ("M-g k"   . consult-global-mark)
+         ("M-g I"   . consult-imenu-multi)
+         ([remap imenu] . consult-imenu)
+         ([remap goto-line] . consult-goto-line) ; M-g g or M-g M-g
+
+         ;; M-s bindings in `search-map'
+         ("M-s d"   . consult-find)
+         ("M-s D"   . consult-locate)
+         ("M-s g"   . consult-grep)
+         ("M-s G"   . consult-git-grep)
+         ("M-s r"   . consult-ripgrep)
+         ("M-s l"   . consult-line)
+         ("M-s L"   . consult-line-multi)
+         ("M-s k"   . consult-keep-lines)
+         ("M-s u"   . consult-focus-lines)
+
+         ;; Isearch integration
+         ("M-s e"   . consult-isearch-history)
+
+         :map isearch-mode-map
+         ("M-e"     . consult-isearch-history) ; orig. isearch-edit-string
+         ("M-s e"   . consult-isearch-history) ; orig. isearch-edit-string
+         ("M-s l"   . consult-line) ; needed by consult-line to detect isearch
+         ("M-s L"   . consult-line-multi) ; needed by consult-line to detect isearch
+
+         ;; Minibuffer history
+         :map minibuffer-local-map
+         ("M-i" . +insert-thing-at-point)
+         ([remap next-matching-history-element] . consult-history) ; M-s
+         ([remap previous-matching-history-element] . consult-history)) ; M-r
+  :custom
+  ;; Use `consult-xref' for `xref-find-definitions'
+  ;; NOTE: You can also set `xref-show-xrefs-function' to get the same behavior
+  ;; for `xref-find-references'. However, I prefer listing references in a
+  ;; separate buffer (default `xref-show-definitions-buffer')
+  (xref-show-definitions-function #'consult-xref)
+  (register-preview-function #'consult-register-format) ; Better formatting for `view-register'
+  (consult-narrow-key "<")
+  :config
+  (setq-default completion-in-region-function #'consult-completion-in-region)
+
+  ;; Define super-project variants of `consult' find/grep commands
+  ;; Fill the initial query of `consult' commands from region or thing at point.
+  (consult-customize
+   consult-locate consult-fd consult-find
+   consult-grep consult-git-grep consult-ripgrep
+   consult-line consult-line-multi consult-keep-lines consult-focus-lines
+   consult-man
+   :initial (+region-or-thing-at-point)))
+#+end_src
+** Code navigation
+*** imenu
+- mention ~imenu-list-smart-toggle~
+- show screenshot
+* Testing
+#+begin_src emacs-lisp
+(use-package gotest
+  :straight t
+  :after go-mode
+  :bind (:map go-mode-map
+              ("C-c t f" . go-test-current-file)
+              ("C-c t t" . go-test-current-test)
+              ("C-c t j" . go-test-current-project)
+              ("C-c t b" . go-test-current-benchmark)
+              ("C-c t c" . go-test-current-coverage)
+              ("C-c t x" . go-run)))
+
+;; Install ginkgo testing framework
+(use-package ginkgo
+  :straight (:type git :host github :repo "garslo/ginkgo-mode"))
+#+end_src
+** Linters
+#+begin_src emacs-lisp
+(use-package flycheck-golangci-lint
+  :straight t
+  :hook
+  (go-mode . flycheck-golangci-lint-setup))
+#+end_src
+** Debugging
+I use ~dape~ instead of ~dap~:
+
+#+begin_src emacs-lisp
+(use-package dape
+  :straight t
+  :config
+  ;; Pulse source line (performance hit)
+  (add-hook 'dape-display-source-hook 'pulse-momentary-highlight-one-line)
+
+  ;; To not display info and/or buffers on startup
+  ;; (remove-hook 'dape-start-hook 'dape-info)
+  (remove-hook 'dape-start-hook 'dape-repl))
+#+end_src
+
+Per project I like to use local variables put in ~.dir-locals.el~ which define the different profiles for debugging. Here an example:
+#+begin_src emacs-lisp
+;; .dir-locals.el
+((nil . ((dape-configs . ((go-test
+              modes (go-mode go-ts-mode)
+              command "dlv"
+              command-args ("dap" "--listen" "127.0.0.1:55878")
+              command-cwd "/home/victor/work/repos/project"
+              compile "go build -o project main.go"
+              host "127.0.0.1"
+              port 55878
+              :request "launch"
+              :type "go"
+              :program "./"))))))
+#+end_src
+* TODO Add screenshots throughout the post
+* TODO Proofread and edit for clarity and conciseness
+* TODO Add relevant links and references
