@@ -7,6 +7,7 @@
 This is my personal book TODO list, along with the year in which I added the book to the list.
 
 * 2024
+- 2024-10-08 ◦ [[https://www.goodreads.com/book/show/60690050-engineering-in-plain-sight][Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment by Grady Hillhouse | Goodreads]]
 - 2024-06-19 ◦ [[https://www.goodreads.com/book/show/37901578-26-marathons][26 Marathons: What I Learned About Faith, Identity, Running, and Life from My Marathon Career by Meb Keflezighi | Goodreads]]
 - 2024-06-19 ◦ [[https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running][What I Talk About When I Talk About Running by Haruki Murakami | Goodreads]]
 - 2024-06-19 ◦ [[https://www.goodreads.com/book/show/42771901-how-to-do-nothing][How to Do Nothing: Resisting the Attention Economy by Jenny Odell | Goodreads]]
