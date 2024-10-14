@@ -1,0 +1,201 @@
+:properties:
+:id:       28e71538-c009-4952-8755-d4302e264cd5
+:end:
+#+setupfile: setup.org
+#+title: Book summaries: May - September 2024
+#+created: 2024-10-14
+#+hugo_draft: true
+
+Keeping with the theme I've started a few months ago, here are my own book
+summaries for the books I've read between /May/ and /September/ this year.
+
+* Social Sciences and Psychology
+** 📚 Lost Connections
+- Subtitle :: /Uncovering the Real Causes of Depression - and the Unexpected Solutions by Johann Hari/
+
+After reading "[[id:05a8e9a4-872a-45af-a7eb-52827db9a360][The Lonely Century]]" last year, which opened my eyes to the increasing
+/isolation/ in our lives, I was kind of motivated to read more on that topic. That's how
+I've found out about "Lost Connections" which is an exploration of /depression/ and its root
+causes.
+
+The book introduces the concept of "/disconnection/" as a primary cause of depression. Hari
+outlines seven types of disconnection. He talks about disconnection from /meaningful work/,
+/other people/, /meaningful values/, /childhood trauma/, /status and respect/, the /natural world/
+and from a /hopeful or secure future/.
+
+What I found particularly insightful was Hari's exploration of ways to "/reconnect/." These
+strategies offer paths to a more meaningful and enjoyable life, emphasizing our
+connections to others and reminding us that "/humans are nature/" already. This perspective
+adds a new dimension to my understanding of focus and attention, placing them within a
+broader context of human well-being and social connection.
+
+👉 Read my [[id:4addce3e-367f-4d65-a62d-976cfaf578fc][notes]]
+** 📚 Stolen Focus
+
+- Subtitle :: /Why You Can't Pay Attention - and How to Think Deeply Again by Johann Hari/
+
+After the impactful experience of reading "[[id:4addce3e-367f-4d65-a62d-976cfaf578fc][Lost Connections]]" I felt compelled to delve
+into another of Hari's works. While "[[id:4addce3e-367f-4d65-a62d-976cfaf578fc][Lost Connections]]" explored /depression/
+and our daily /micro-interactions/ with people and nature, "*Stolen Focus*" takes a more
+scientific, empirical approach to investigating various aspects of /attention/.
+
+One concept that immediately struck me was *James Willson*'s layered /model of attention/:
+
+1. *Spotlight* attention (first layer):
+   - Focuses on immediate actions like making coffee or reading a chapter.
+   - Involves narrowing down focus.
+   - Distraction at this level disrupts near-term actions.
+
+2. *Starlight* attention (second layer):
+   - Concentrates on longer-term goals such as writing a book or being a good parent.
+   - Acts as a guide when feeling lost, much like stars in the sky.
+   - Distraction here can cause us to lose sight of our longer-term objectives.
+
+3. *Daylight* attention (third layer):
+   - Enables understanding of our longer-term goals.
+   - Requires clear thinking and reflection.
+   - Compared to daylight illuminating a scene clearly.
+   - Distraction at this level can lead to losing our sense of personal identity and direction.
+
+As I continued reading, I was amazed by Hari's comprehensive approach to the *attention
+crisis*. He doesn't just point to the usual suspects like increasing /screen time/ and /social
+media usage/. Instead, he adds a more nuanced picture of our changing relationship with
+information and mental states. Therefore here are some aspects which lead to the deterioration
+of our ability to focus and pay attention:
+
+1. The decline of book reading
+   - Having learned about the benefits of reading from [[https://calnewport.com/][Cal Newport]], I found Hari's
+     exploration of how people are giving up on books particularly resonant. It's not just
+     about reading (like you do for entertainment reasons), but about the /cognitive
+     benefits/ that extended, focused reading provides.
+
+2. The loss of mind-wandering
+   - This was an eye-opening concept for me which I've first met when Cal Newport was
+     talking about the power of /solitude/ in his book "[[id:920da487-1f1a-42b9-b8df-be8ccf1795ac][Digital Minimalism]]". Hari argues
+     that we're not only losing our ability to focus but also our capacity for
+     /unstructured thought/ (aka mind-wandering, just do nothing). In our constant desire to
+     stay "productive" or entertained, we've eliminated those crucial moments of mental
+     downtime.
+
+3. The state of constant skimming
+   - Perhaps most alarmingly, Hari suggests that we're often neither focusing nor
+     mind-wandering, but exist in a state of /constant skimming/. We're processing a
+     never-ending /influx of information/ without truly processing it or allowing our minds
+     to rest and reflect.
+
+These insights have made me reconsider not just how I manage my attention, but how I conceptualize it. It's clear that reclaiming our focus isn't just about reducing screen time or blocking distractions – it's about fundamentally restructuring how we engage with information and allow our minds to work.
+
+👉 Read my [[id:447659aa-f7a1-4942-ba23-20a9110dd653][notes]]
+* History and Anthropology
+** 📚 Sapiens
+
+- Subtitle :: /A Brief History of Humankind by Yuval Noah Harari/
+
+After becoming a Harari fan through "[[id:7d417f99-d82a-4433-b1b7-48343258a4e3][21 Lessons for the 21st Century]]" I was eager to dive
+into "*Sapiens*". I consumed both books as audiobooks, each one quite long. While the audio
+format was convenient, I found myself wishing for a physical or e-book copy to take notes.
+The depth and breadth of Harari's books make me think I'll likely revisit these books in
+the future for a more in-depth study.
+
+In a nutshell "Sapiens" is about how *Homo sapiens* came to dominate the planet. Harari
+talks about the story of our species' rise, from /outcompeting other human species/ (like
+Neanderthals) to our impact on the animal kingdom, including the /extinction of many
+species/ through hunting. This narrative is a very interesting look at our species'
+historical impact on the planet.
+
+Despite some criticism (I've had some serious discussions with my mother, who strongly
+dislikes Harari), I believe the author does an excellent job explaining the /evolution of
+fundamental human developments/ like writing and reading. He delves into the motivations
+behind these advancements, providing insights into why and how they occurred.
+
+What I particularly appreciate about "Sapiens" is its /interdisciplinary approach/ (I guess
+this applies to all of his books). Harari touches on various aspects of human development,
+including /religion/, /economy/, /sociology/, and /politics/. This comprehensive view offers
+readers a deeper understanding of the society we currently live in, explaining the origins
+of our laws and different political systems.
+
+A /key takeaway/ from the book, which resonates with thoughts I've encountered in other
+sources, is Harari's explanation of what distinguishes Homo sapiens from other species:
+
+1. Our ability to /collaborate collectively/ towards a common goal.
+2. Our capacity for abstract thought and /storytelling/, which has been the foundation for
+   countless innovations. As Harari points out, everything ever built started as someone's
+   imagination - an idea also explored by Sir Ken Robinson in "[[id:7ebbc17a-9077-4b85-afcb-31f01678f79a][Imagine If]]"
+3. The development of /language/ (both written and spoken), which allowed us to exchange
+   information (across borders and generations).
+
+These unique aspects have allowed our species to create complex societies, develop
+advanced technologies, and ultimately shape the world as we know it today. I highly
+recommend "Sapiens" to anyone interested in gaining a deeper understanding of /human
+history/. While it may challenge some preconceptions, it offers a thought-provoking journey
+through the history of our species that I found both enlightening and engaging.
+
+* Sociology and Current Affairs
+** 📚 Triggerpunkte (Trigger Points) by Steffen Mau
+
+In the context of Europe's (and beyond) current political landscape, marked by a
+noticeable right-wing shift, "Triggerpunkte" offers a timely and insightful analysis of
+societal tensions in Germany. As someone who doesn't consider myself politically active, I
+found myself increasingly concerned about the polarized and extreme nature of political
+discourse in Germany. The rise of the AfD to a level of influence that seemed unthinkable
+just a few years ago exemplifies this shift.
+
+"Triggerpunkte" presents the findings of a team of sociologists who conducted empirical
+research across Germany. What struck me about their approach was the diversity of their
+subject group:
+
+- Participants came from various "political classes"
+- They represented different professions (teachers, handymen, business people, etc.)
+- The study included people from both East and West Germany
+
+The researchers posed questions on hot-button issues such as immigration, climate change,
+LGBTQ+ inclusion, and income inequality in Germany. By measuring emotional responses, they
+identified topics with high conflict potential across different groups. They also explored
+correlations between people's arguments and factors like educational background, political
+affiliation, income, age, and origin.
+
+This book had a profound impact on me. It helped me understand the frustrations many
+people have with the current German government, their fears about the impact of climate
+change countermeasures, and why some perceive immigrants as a significant threat. These
+insights are crucial for anyone trying to comprehend the current societal dynamics in
+Germany.
+
+One of the most reassuring findings from the study, in my opinion, was that overall,
+German society maintains:
+- A positive stance towards welcoming immigration policies
+- Support for better climate protection
+- A generally non-homophobic attitude
+
+However, the study also revealed a small group of individuals, some with political
+interests, who propagate extreme arguments. These actors attempt to influence mass media
+perception through fake news and whataboutism, aiming to create societal cleavages. The
+authors' discussion of these cleavages was particularly enlightening.
+
+Reading "Triggerpunkte" has given me a more nuanced understanding of the complex social
+and political landscape in contemporary Germany. It's a crucial read for anyone seeking to
+understand the underlying factors driving current political trends, not just in Germany
+but potentially in other countries facing similar challenges.
+
+👉 Read my [[id:c74a2cc4-afe3-414a-8b74-c5826cd3365d][notes]]
+* Health and Psychology
+** 📚 When the Body Says No: The Cost of Hidden Stress by Gabor Maté
+
+My journey to Gabor Maté's work began with an interview I stumbled upon between Maté and Guy Rose, host of "London Real". I was immediately captivated by Maté's clear and profound explanations on various aspects of trauma, which prompted me to delve into his book, "When the Body Says No".
+
+At the core of Maté's argument is the inseparability of body, soul, and mind - a holistic view that challenges conventional medical approaches. Throughout the book, Maté presents case studies from his medical practice, illustrating how physical ailments often have roots in (childhood) trauma that manifest as chronic stress within patients. This perspective offers a compelling argument for treating the person as a whole, rather than addressing symptoms in isolation.
+
+One of the most enlightening aspects of the book is Maté's exploration of stress, drawing on the work of Hans Selye. Maté uses Selye's definition to provide a comprehensive understanding of stress and its various facets:
+
+#+begin_quote
+In searching for a word to capture the meaning of the physical changes he observed in his experiments, Selye "stumbled upon the term stress, which had long been used in common English, and particularly in engineering, to denote the effects of a force acting against a resistance." He gives the example of changes induced in a stretched rubber band or in a steel spring under pressure. These changes may be noted with the naked eye or may be evident only on microscopic examination.
+
+Selye's analogies illustrate an important point: excessive stress occurs when the demands made on an organism exceed that organism's reasonable capacities to fulfill them. The rubber band snaps, the spring becomes deformed. The stress response can be set off by physical damage, either by infection or injury. It can also be triggered by emotional trauma or just by the threat of such trauma, even if purely imaginary. Physiological stress responses can be evoked when the threat is outside conscious awareness or even when the individual may believe himself to be stressed in a "good" way.
+#+end_quote
+
+This definition of stress provides a crucial framework for understanding how emotional and psychological experiences can manifest in physical symptoms. It underscores Maté's central thesis that our mental and emotional states have profound impacts on our physical health.
+
+What I found particularly compelling about "When the Body Says No" is how it bridges the gap between psychological understanding and physiological manifestations of stress and trauma. Maté's work challenges us to consider the long-term health implications of our emotional experiences and the importance of addressing psychological well-being as a key component of overall health.
+
+This book has not only deepened my understanding of the mind-body connection but has also prompted me to reflect on how unresolved traumas or chronic stress might be impacting my own health. It's a powerful reminder of the importance of holistic approaches to health and well-being, encouraging readers to look beyond surface symptoms to understand the deeper roots of physical ailments.
+
+*** TODO Read [[link-to-your-notes][my notes]]
