@@ -1,0 +1,532 @@
++++
+title = "Elon Musk"
+author = ["Victor Dorneanu"]
+date = 2024-10-13
+tags = ["biography", "book"]
+draft = false
++++
+
+Here are my some highlights, categorized by LLMs:
+
+
+## Childhood and early life {#childhood-and-early-life}
+
+
+### Questioning Authority {#questioning-authority}
+
+Musk's early skepticism of religious teachings
+
+> When Musk was young, his mother started taking him to Sunday school at the local Anglican
+> Church, where she was a teacher. It did not go well. ****She would tell her class stories from
+> the Bible, and he would question them.**** "What do you mean, the waters parted?" he asked.
+> "That's not possible." When she told the story of Jesus feeding the crowd with loaves and
+> fishes, he countered that ****things cannot materialize out of nothing****. Having been baptized,
+> he was expected to take communion, but he began questioning that as well. "I took the
+> blood and body of Christ, which is weird when you're a kid," he says. ****"I said, 'What the
+> hell is this? Is this a weird metaphor for cannibalism?'"**** Maye decided to let Elon stay
+> home and read on Sunday mornings.
+
+
+### Educational Goals {#educational-goals}
+
+Musk's motivation for studying both physics and business
+
+> He decided to ****major in physics**** because, like his father, he was drawn to engineering. The
+> essence of being an engineer, he felt, was to ****address any problem by drilling down to the
+> most fundamental tenets of physics****. He also decided to ****pursue a joint degree in business****.
+> "I was concerned that if I didn't study business, I would be forced to work for someone
+> who did," he says. ****"My goal was to engineer products by having a feel for the physics and
+> never have to work for a boss with a business degree."****
+
+
+### Early Interest in Sustainable Energy {#early-interest-in-sustainable-energy}
+
+Musk's senior paper on solar power
+
+> Musk also became convinced that ****solar power****, which in 1994 was just taking off, ****was the
+> best path toward sustainable energy****. His senior paper was titled "The Importance of Being
+> Solar." He was motivated not just by the dangers of climate change but also by the fact
+> that ****fossil fuel reserves would start to dwindle****. "Society will soon have no option but to
+> focus on renewable power sources," he wrote. His final page showed a "****power station of the
+> future****," involving a satellite with mirrors that would concentrate sunlight onto solar
+> panels and send the resulting electricity back to Earth via a microwave beam. The
+> professor gave him a grade of 98, saying it was a "very interesting and well written
+> paper, except the last figure that comes out of the blue."
+
+
+### Life Vision {#life-vision}
+
+Musk's early focus on impactful areas
+
+> He had conceived by then a life vision that he would repeat like a mantra. ****"I thought
+> about the things that will truly affect humanity," he says. "I came up with three: the
+> internet, sustainable energy, and space travel."**** In the summer of 1995, it became clear to
+> him that the first of these, the internet, was not going to wait for him to finish
+> graduate school. The web had just been opened up for commercial use, and that August the
+> browser startup Netscape went public, soaring within a day to a market value of $2.9
+> billion.
+
+
+### Psychological Impact {#psychological-impact}
+
+The lasting effects of Musk's childhood experiences
+
+> When he felt dinged up, cornered, bullied, either online or in person, ****it took him back to
+> a place that was super painful, where he was dissed by his father and bullied by his
+> classmates****. But now he could own the playground.
+
+
+## Management style and work ethic {#management-style-and-work-ethic}
+
+
+### Demanding Work Environment {#demanding-work-environment}
+
+Musk's expectations for himself and his employees
+
+> From the very beginning of his career, ****Musk was a demanding manager, contemptuous of the
+> concept of work-life balance****. At Zip2 and every subsequent company, ****he drove himself
+> relentlessly all day and through much of the night, without vacations, and he expected
+> others to do the same****. His only indulgence was allowing breaks for intense video-game
+> binges. The Zip2 team won second place in a national Quake competition. They would have
+> come in first, he says, but one of them crashed his computer by pushing it too hard.
+
+
+### Self-Awareness {#self-awareness}
+
+Musk's acknowledgment of his obsessive nature
+
+> Musk responded with a very self-aware email. ****"I am by nature obsessive-compulsive," he
+> wrote Fricker. "What matters to me is winning, and not in a small way.**** God knows why… it's
+> probably rooted in some very disturbing psychoanalytical black hole or neural short
+> circuit."
+
+
+### Extreme Deadlines {#extreme-deadlines}
+
+Musk's tactic of setting unrealistic deadlines
+
+> ****One of Musk's management tactics, then as later, was to set an insane deadline and drive
+> colleagues to meet it.**** He did that in the fall of 1999 by announcing, in what one engineer
+> called "a dick move," that X.com would launch to the public on Thanksgiving weekend. In
+> the weeks leading up to that, ****Musk prowled the office each day, including Thanksgiving, in
+> a nervous and nervous-making frenzy, and slept under his desk most nights****. One of the
+> engineers who went home at 2 a.m. Thanksgiving morning got a call from Musk at 11 a.m.
+> asking him to come back in because another engineer had worked all night and was "not
+> running on full thrusters anymore." Such behavior produced drama and resentments, but also
+> success. When the product went live that weekend, all the employees marched to a nearby
+> ATM, where Musk inserted an X.com debit card. Cash whirred out and the team celebrated.
+
+
+### Engineering-Centric Structure {#engineering-centric-structure}
+
+Musk's approach to organizational structure
+
+> ****Musk restructured the company so that there was not a separate engineering department.
+> Instead, engineers would team up with product managers.**** It was a philosophy that he would
+> carry through to Tesla, SpaceX, and then Twitter. ****Separating the design of a product from
+> its engineering was a recipe for dysfunction. Designers had to feel the immediate pain if
+> something they devised was hard to engineer.**** He also had a corollary that worked well for
+> rockets but less so for Twitter: ****engineers rather than the product managers should lead
+> the team****.
+
+
+### Questioning Requirements {#questioning-requirements}
+
+Musk's approach to challenging established norms
+
+> One reason was that rocket components were subject to hundreds of specifications and
+> requirements mandated by the military and NASA. At big aerospace companies, engineers
+> followed these religiously. ****Musk did the opposite: he made his engineers question all
+> specifications****. This would later become step one in a five-point checklist, dubbed "the
+> algorithm," that became his oft-repeated mantra when developing products. ****Whenever one of
+> his engineers cited "a requirement" as a reason for doing something, Musk would grill
+> them: Who made that requirement?**** And answering "The military" or "The legal department"
+> was not good enough. Musk would insist that they know the name of the actual person who
+> made the requirement.
+
+
+### The Algorithm {#the-algorithm}
+
+Musk's five-step approach to problem-solving
+
+> At any given production meeting, whether at Tesla or SpaceX, there is a nontrivial chance
+> that Musk will intone, like a mantra, what he calls "the algorithm." It was shaped by the
+> lessons he learned during the production hell surges at the Nevada and Fremont factories.
+> His executives sometimes move their lips and mouth the words, like they would chant the
+> liturgy along with their priest. "I became a broken record on the algorithm," Musk says.
+> "But I think it's helpful to say it to an annoying degree." \*\*It had five commandments:
+>
+> 1.  Question every requirement.\*\* Each should come with the name of the person who made it.
+>     You should never accept that a requirement came from a department, such as from "the
+>     legal department" or "the safety department." You need to know the name of the real
+>     person who made that requirement. Then you should question it, no matter how smart that
+>     person is. Requirements from smart people are the most dangerous, because people are
+>     less likely to question them. Always do so, even if the requirement came from me. Then
+>     make the requirements less dumb.
+>
+> ****2. Delete any part or process you can.**** You may have to add them back later. In fact, if
+>    you do not end up adding back at least 10% of them, then you didn't delete enough.
+> ****3. Simplify and optimize.**** This should come after step two. A common mistake is to simplify
+>    and optimize a part or a process that should not exist.
+> ****4. Accelerate cycle time.**** Every process can be speeded up. But only do this after you have
+>    followed the first three steps. In the Tesla factory, I mistakenly spent a lot of time
+>    accelerating processes that I later realized should have been deleted.
+> ****5. Automate.**** That comes last. The big mistake in Nevada and at Fremont was that I began by
+>    trying to automate every step. We should have waited until all the requirements had
+>    been questioned, parts and processes deleted, and the bugs were shaken out.
+
+
+### Management Principles {#management-principles}
+
+Additional guidelines for Musk's management approach
+
+> The algorithm was sometimes accompanied by a few corollaries, among them:
+>
+> -   ****All technical managers must have hands-on experience.**** For example, managers of software
+>     teams must spend at least 20% of their time coding. Solar roof managers must spend time
+>     on the roofs doing installations. Otherwise, they are like a cavalry leader who can't
+>     ride a horse or a general who can't use a sword.
+> -   ****Comradery is dangerous.**** It makes it hard for people to challenge each other's work.
+>     There is a tendency to not want to throw a colleague under the bus. That needs to be
+>     avoided.
+> -   ****It's OK to be wrong. Just don't be confident and wrong.****
+> -   ****Never ask your troops to do something you're not willing to do.****
+> -   Whenever there are problems to solve, don't just meet with your managers. ****Do a skip
+>     level, where you meet with the level right below your managers.****
+> -   When hiring, ****look for people with the right attitude. Skills can be taught. Attitude changes require a brain transplant.****
+> -   ****A maniacal sense of urgency is our operating principle.****
+> -   ****The only rules are the ones dictated by the laws of physics. Everything else is a recommendation.****
+
+
+## Tesla {#tesla}
+
+
+### Tesla's Founding {#tesla-s-founding}
+
+Musk's role in Tesla's early days
+
+> The pieces thus came together for what would become the world's most valuable and
+> transformative automobile company: ****Eberhard as CEO, Tarpenning as president, Straubel as
+> chief technology officer, Wright as chief operating officer, and Musk as the chair of the
+> board and primary funder****. Years later, after many bitter disputes and a lawsuit, ****they
+> agreed that all five of them would be called cofounders****.
+
+
+### Vertical Integration {#vertical-integration}
+
+Musk's strategy for Tesla's manufacturing
+
+> One of the most important decisions that Elon Musk made about Tesla—the defining imprint
+> that led to its success and its impact on the auto industry—was that ****it should make its
+> own key components, rather than piecing together a car with hundreds of components from
+> independent suppliers****. ****Tesla would control its own destiny—and quality and costs and
+> supply chain—by being vertically integrated****. Creating a good car was important. Even more
+> important was creating the manufacturing processes and factories that could mass-produce
+> them, from the battery cells to the body.
+
+
+### The Machine That Builds the Machine {#the-machine-that-builds-the-machine}
+
+Musk's focus on manufacturing processes
+
+> He learned one very big lesson from these ventures: ****"It's not the product that leads to
+> success. It's the ability to make the product efficiently. It's about building the machine
+> that builds the machine. In other words, how do you design the factory?"**** It was a guiding
+> principle that Musk would make his own.
+
+
+### Government Loans {#government-loans}
+
+Clarification on Tesla's funding
+
+> Over the years, one criticism of Tesla has been that the company was "bailed out" or
+> "subsidized" by the government in 2009. In fact, ****Tesla did not get money from the Treasury
+> Department's Troubled Asset Relief Program (TARP), commonly known as "the bailout."**** Under
+> that program, the government lent $18.4 billion to General Motors and Chrysler as they
+> went through bankruptcy restructuring. Tesla did not apply for any TARP or stimulus
+> package money. ****What Tesla did get in June 2009 was $465 million in interest-bearing loans
+> from a Department of Energy program****. The Advanced Technology Vehicles Manufacturing Loan
+> Program lent money to companies to make electric or fuel-efficient cars. Ford, Nissan, and
+> Fisker Automotive also got loans.
+
+
+### Domestic Manufacturing {#domestic-manufacturing}
+
+Tesla's approach to manufacturing in contrast to industry trends
+
+> Beginning with the theology of globalization in the 1980s, and relentlessly driven by
+> cost-cutting CEOs and their activist investors, ****American companies shut down domestic
+> factories and offshored manufacturing****. The trend accelerated in the early 2000s, when
+> Tesla was getting started. Between 2000 and 2010, the U.S. lost one-third of its
+> manufacturing jobs. By sending their factories abroad, American companies saved labor
+> costs, but they lost the daily feel for ways to improve their products. ****Musk bucked this
+> trend, largely because he wanted to have tight control of the manufacturing process****. He
+> believed that designing the factory to build a car—"the machine that builds the
+> machine"—was as important as designing the car itself. ****Tesla's design-manufacturing
+> feedback loop gave it a competitive advantage, allowing it to innovate on a daily basis****.
+
+
+### Becoming the World's Richest Person {#becoming-the-world-s-richest-person}
+
+Tesla's stock price surge and Musk's wealth
+
+> Tesla's stock price, which had been knocked down to $25 when COVID began to spread in
+> early 2020, ****rebounded ten-fold by the beginning of 2021****. On January 7 it hit $260. That
+> day ****Musk became the richest person in the world, with $190 billion, vaulting him past Jeff
+> Bezos****. Under the extraordinary compensation bet he had made with his Tesla board in
+> February 2018, amid Tesla's worst production problems, he got no guaranteed salary.
+> Instead, his compensation would depend on hitting very aggressive revenue, profit, and
+> market value targets, which included Tesla's market valuation increasing ten-fold to $650
+> billion. News articles at the time predicted that most targets would be impossible to
+> achieve. But ****in October 2021, Tesla became the sixth company in U.S. history to be worth
+> more than $1 trillion****. Its market value was greater than its five biggest rivals—Toyota,
+> Volkswagen, Daimler, Ford, and GM—combined. And ****in April 2022, it reported a profit of $5
+> billion on revenue of $19 billion, an 81 percent increase from the year before****. The result
+> was that ****Musk's payout from the 2018 compensation deal was around $56 billion and his net
+> worth at the start of 2022 increased to $304 billion****.
+
+
+### The Toll of Success {#the-toll-of-success}
+
+Musk's reflection on the challenges of running Tesla
+
+> ****From 2007 onwards, until maybe last year, it's been nonstop pain. There's a gun to your
+> head, make Tesla work, pull a rabbit out of your hat, then pull another rabbit out of the
+> hat. A stream of rabbits flying through the air. If the next rabbit does not come out,
+> you're dead.**** It takes a toll. You can't be in a constant fight for survival, always in
+> adrenaline mode, and not have it hurt you. But there's something else I've found this
+> year. It's that ****fighting to survive keeps you going for quite a while. When you are no
+> longer in a survive-or-die mode, it's not that easy to get motivated every day****.
+
+
+## SpaceX {#spacex}
+
+
+### Vision for Space Exploration {#vision-for-space-exploration}
+
+Musk's motivation behind founding SpaceX
+
+> ****Musk had founded SpaceX, he liked to say, to increase the chances for the survival of
+> human consciousness by making us a multiplanetary species****.
+
+
+### Questioning Requirements {#questioning-requirements}
+
+Musk's approach to challenging aerospace industry norms
+
+> One reason was that rocket components were subject to hundreds of specifications and
+> requirements mandated by the military and NASA. At big aerospace companies, engineers
+> followed these religiously. ****Musk did the opposite: he made his engineers question all
+> specifications****. This would later become step one in a five-point checklist, dubbed "the
+> algorithm," that became his oft-repeated mantra when developing products. ****Whenever one of
+> his engineers cited "a requirement" as a reason for doing something, Musk would grill
+> them: Who made that requirement?**** And answering "The military" or "The legal department"
+> was not good enough. ****Musk would insist that they know the name of the actual person who
+> made the requirement****. "We would talk about how we were going to qualify an engine or
+> certify a fuel tank, and he would ask, 'Why do we have to do that?' " says Tim Buzza, a
+> refugee from Boeing who would become SpaceX's vice president of launch and testing. "And
+> we would say, 'There is a military specification that says it's a requirement.' And he'd
+> reply, 'Who wrote that? Why does it make sense?' " ****All requirements should be treated as
+> recommendations, he repeatedly instructed. The only immutable ones were those decreed by
+> the laws of physics****.
+
+
+## Twitter {#twitter}
+
+
+### Twitter as a Playground {#twitter-as-a-playground}
+
+Musk's perspective on Twitter's appeal
+
+> ****Twitter is an ideal—almost too ideal—playground for Musk. It rewards players who are
+> impulsive, irreverent, and unfiltered, like a flamethrower for the thumbs****. It has many of
+> the attributes of a school yard, including taunting and bullying. But in the case of
+> Twitter, the clever kids win followers rather than get pushed down the concrete steps. And
+> ****if you're the richest and cleverest of all, you can even decide, unlike back when you were
+> a kid, to become king of the school yard****.
+
+
+### Concern for Free Speech {#concern-for-free-speech}
+
+Musk's motivation for acquiring Twitter
+
+> By early 2022, a new ingredient had been added to this combustible cauldron: ****Musk's
+> swelling concern with the dangers of the "woke-mind virus" that he believed was infecting
+> America****. He disdained Donald Trump, but ****he felt it was absurd to ban permanently a former
+> president, and he became increasingly riled up by complaints from those on the Right who
+> were being suppressed on Twitter****. "He saw the direction Twitter was heading, which was
+> that if you were on the wrong end of the spectrum you were censored," says Birchall.
+
+
+### Vision for Twitter {#vision-for-twitter}
+
+Musk's plans for Twitter's future
+
+> Musk had already formulated the business case for why he was seeking to buy Twitter. He
+> believed that ****he could quintuple Twitter's revenue to $26 billion by 2028, even as he
+> reduced its reliance on advertising from 90 percent of the revenue to 45 percent****. The new
+> revenue would come from user subscriptions and data licensing. He also projected revenue
+> from enabling users to make payments, including small ones for newspaper articles and
+> other content through Twitter, like they could on WeChat.
+
+
+### Culture Clash {#culture-clash}
+
+The contrast between Twitter's and Musk's workplace philosophies
+
+> The issue was not merely the facilities. Between Twitterland and the Muskverse was a
+> radical divergence in outlook that reflected two different mindsets about the American
+> workplace. ****Twitter prided itself on being a friendly place where coddling was considered a
+> virtue****. "We were definitely very high-empathy, very caring about inclusion and diversity;
+> everyone needs to feel safe here," says Leslie Berland, who was chief marketing and people
+> officer until she was fired by Musk. The company had instituted a permanent work-from-home
+> option and allowed a mental "day of rest" each month. ****One of the commonly used buzzwords
+> at the company was "psychological safety."**** Musk let loose a bitter laugh when he heard
+> the phrase "psychological safety." It made him recoil. ****He considered it to be the enemy of
+> urgency, progress, orbital velocity. His preferred buzzword was "hardcore."**** Discomfort,
+> he believed, was a good thing. It was a weapon against the scourge of complacency.
+> Vacations, flower-smelling, work-life balance, and days of "mental rest" were not his
+> thing. Let that sink in.
+
+
+### Content Moderation Challenges {#content-moderation-challenges}
+
+The difficulties faced in managing free speech on Twitter
+
+> Twitter was being inundated with racist and anti-Semitic posts. ****Musk had declared his
+> opposition to censorship, and now swarms of trolls and provocateurs were testing the
+> limits****. Use of the N-word went up 500 percent in the twelve hours after Musk took control.
+> ****Unfettered free speech, the new team quickly discovered, had a downside****.
+
+
+### Twitter Blue Verification {#twitter-blue-verification}
+
+The challenges of implementing a paid verification system
+
+> When Twitter Blue began rolling out on the morning of Wednesday, November 9, ****the
+> impersonation problem was as bad as Musk and Roth had feared. There was a tsunami of fake
+> accounts with blue checks pretending to be famous politicians and, worse yet, big
+> advertisers****. One purporting to be the drugmaker Eli Lilly tweeted, "We are excited to
+> announce insulin is free now." The company's stock price fell more than 4 percent in an
+> hour. A Coca-Cola impersonator said, "If this gets 1000 retweets we will put cocaine back
+> in Coca-Cola." (It did, but Coke didn't.) A Nintendo impostor showed Mario flipping the
+> bird. Nor was Tesla spared. "Our cars do not respect school zone speed limits. Fuck them
+> kids," read one tweet from a blue-checked account purporting to be Tesla. Another tweeted,
+> "BREAKING: A second Tesla has hit the World Trade Center."
+
+
+### The Twitter Files {#the-twitter-files}
+
+Revelations about Twitter's previous content moderation practices
+
+> Taibbi's initial thirty-seven-tweet thread showed how ****Twitter had set up special systems
+> for politicians, the FBI, and intelligence agencies to provide input on what tweets should
+> be considered for deletion****. Most notably, Taibbi included messages from 2020, when Yoel
+> Roth and others at Twitter debated whether to block links to a New York Post story about
+> what was purported to be (correctly, as it turned out) a laptop abandoned by Joe Biden's
+> son Hunter. The messages showed ****many of them scrambling to find rationales for banning
+> mention of the story, such as claiming that it violated policies against using hacked
+> material or might be part of a Russian disinformation plot****. Those were flimsy covers for
+> censoring a story, and both Roth and Jack Dorsey would later concede that doing so was a
+> mistake.
+
+
+### Journalist Suspensions {#journalist-suspensions}
+
+Musk's controversial decision to suspend journalists
+
+> Worse yet, especially from the vantage of making the site a haven for free speech, ****Musk
+> arbitrarily suspended a handful of journalists who wrote about what he had done to
+> @elonjet****. His ostensible reason was that their stories had linked to the @elonjet account
+> and were thus also doxing him, but in fact @elonjet was no longer available and the links
+> simply led to a page that said "Account suspended." It thus ****seemed that Musk had acted
+> partly out of pique, retaliating against journalists whose stories had been critical of
+> him****. These included Ryan Mac of the New York Times, Drew Harwell and Taylor Lorenz of the
+> Washington Post, and at least eight others.
+
+
+### @elonjet Account Suspension {#elonjet-account-suspension}
+
+Musk's decision to suspend an account tracking his private jet
+
+> Then, after the incident involving X, ****Musk made the unilateral decision to suspend
+> @elonjet altogether. He justified it by saying that Twitter now had a policy against
+> doxing people's location****.
+
+
+## Artificial Intelligence {#artificial-intelligence}
+
+
+### AI Projects {#ai-projects}
+
+Musk's various ventures in AI and related technologies
+
+> Musk's interest in artificial intelligence would lead him to launch an array of related
+> projects. These include ****Neuralink, which aims to plant microchips in human brains****;
+> ****Optimus, a humanlike robot****; and ****Dojo, a supercomputer that can use millions of videos to
+> train an artificial neural network to simulate a human brain****. It also spurred him to
+> become obsessed with ****pushing to make Tesla cars self-driving****. At first these endeavors
+> were rather independent, but eventually ****Musk would tie them all together, along with a new
+> chatbot company he founded called X.AI, to pursue the goal of artificial general
+> intelligence****.
+
+
+### AI Safety Concerns {#ai-safety-concerns}
+
+Musk's motivations for AI development
+
+> ****Optimus and Neuralink were launched to create human-machine interfaces that would protect
+> us from evil artificial intelligence****.
+
+
+## Philanthropy and worldview {#philanthropy-and-worldview}
+
+
+### Views on Philanthropy {#views-on-philanthropy}
+
+Musk's skepticism towards traditional philanthropy
+
+> At the end of the tour, the conversation turned to philanthropy. ****Musk expressed his view
+> that most of it was "bullshit." There was only a twenty-cent impact for every dollar put
+> in, he estimated. He could do more good for climate change by investing in Tesla****.
+
+
+### Conflict with Bill Gates {#conflict-with-bill-gates}
+
+Disagreement over Tesla stock shorting
+
+> The dispute reflected different mindsets. When I asked Gates why he had shorted Tesla, he
+> explained that he had calculated that the supply of electric cars would get ahead of
+> demand, causing prices to fall. I nodded but still had the same question: Why had he
+> shorted the stock? ****Gates looked at me as if I had not understood what he just explained
+> and then replied as if the answer was obvious: he thought that by shorting Tesla he could
+> make money****. That way of thinking was alien to Musk. ****He believed in the mission of moving
+> the world to electric vehicles, and he put all of his available money toward that goal,
+> even when it did not seem like a safe investment****. "How can someone say they are passionate
+> about fighting climate change and then do something that reduced the overall investment in
+> the company doing the most?" he asked me a few days after Gates's visit. ****"It's pure
+> hypocrisy. Why make money on the failure of a sustainable energy car company?"****
+
+
+### Mission-Driven Approach {#mission-driven-approach}
+
+Musk's focus on impactful ventures
+
+> ****Musk had founded SpaceX, he liked to say, to increase the chances for the survival of
+> human consciousness by making us a multiplanetary species. The grand rationale for Tesla
+> and SolarCity was to lead the way to a sustainable energy future. Optimus and Neuralink
+> were launched to create human-machine interfaces that would protect us from evil
+> artificial intelligence****.
+
+
+### Twitter's Role in Civilization {#twitter-s-role-in-civilization}
+
+Musk's perspective on Twitter's importance
+
+> "At first I thought it didn't fit into my primary large missions," he told me in April.
+> "But ****I've come to believe it can be part of the mission of preserving civilization, buying
+> our society more time to become multiplanetary****." How so? Partly it involved free speech.
+> "****There seems to be more and more group-think in the media, toeing the line, so if you
+> weren't in step, you're just going to be ostracized or your voice will be shut off****." For
+> democracy to survive, it was important, he felt, ****to purge Twitter's woke culture and root
+> out its biases, so people had the perception that it was an open space for all opinions****.
