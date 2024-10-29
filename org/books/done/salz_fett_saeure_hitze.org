@@ -2,7 +2,7 @@
 :id:       28aae429-94b8-4dfc-8650-00814f1faa35
 :end:
 #+title: Salz.Fett.Säure.Hitze
-#+filetags: :nutrition:book:
+#+filetags: :cooking:nutrition:book:
 #+date: 2024-10-26
 
 👉 https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat

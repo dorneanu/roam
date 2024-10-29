@@ -2,7 +2,7 @@
 title = "Salz.Fett.Säure.Hitze"
 author = ["Victor Dorneanu"]
 date = 2024-10-26
-tags = ["nutrition", "book"]
+tags = ["cooking", "nutrition", "book"]
 draft = false
 +++
 
