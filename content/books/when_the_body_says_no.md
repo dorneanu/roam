@@ -2,9 +2,12 @@
 title = "When The Body Says No"
 author = ["Victor Dorneanu"]
 date = 2024-06-03
-tags = ["book"]
+tags = ["health", "psychology", "book"]
 draft = false
 +++
+
+👉 <https://www.goodreads.com/book/show/450534.When_the_Body_Says_No>
+
 
 ## Chapters {#chapters}
 

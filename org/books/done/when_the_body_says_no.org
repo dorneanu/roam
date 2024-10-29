@@ -2,8 +2,10 @@
 :id:       cbf3b1dd-96f8-4f72-9daf-883029156227
 :end:
 #+title: When The Body Says No
-#+filetags: book
+#+filetags: :health:psychology:book:
 #+date: 2024-06-03
+
+👉 https://www.goodreads.com/book/show/450534.When_the_Body_Says_No
 
 * Chapters
 ** 1 The Bermuda Triangle
