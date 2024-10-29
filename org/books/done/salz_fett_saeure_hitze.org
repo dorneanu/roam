@@ -3,8 +3,11 @@
 :end:
 #+title: Salz.Fett.Säure.Hitze
 #+filetags: :nutrition:book:
+#+date: 2024-10-26
 
-* SALZ - Grundprinzipien und Anwendung
+👉 https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat
+
+* Salz
 ** Fundamentale Bedeutung
 - Einer von vier Grundfaktoren für guten Geschmack
 - Vertieft und verbessert Geschmack
@@ -228,12 +231,8 @@ von karamellisierten Zwiebeln, Balsamico-Vinaigrette oder geschmorten Äpfeln zu
 --, verbessert Salz umgekehrt süße Desserts." (S.49)
 #+end_quote
 
-* FETT - Grundprinzipien und Anwendung
+* Fett
 ** Fundamentale Bedeutung
-*** Kernaussagen:
-:properties:
-:custom_id: kernaussagen
-:end:
 - Einer der vier Grundbausteine der Nahrung
 - Wichtig für Energiespeicherung und Stoffwechsel
 - Drei Hauptrollen: Zutat, Garmedium und Würzmittel
@@ -258,7 +257,6 @@ und, wie Salz, als Würzmittel." (S.58)
 #+end_quote
 
 ** Geschmacksträger
-*** Kernaussagen:
 - Fett überträgt und verstärkt Aromen
 - Manche Fette haben eigenen charakteristischen Geschmack
 
@@ -271,7 +269,6 @@ Geschmacksnoten verstärken --, die andernfalls unbemerkt blieben." (S.59)
 
 ** Verschiedene Fettsorten
 *** Olivenöl
-**** Kernaussagen:
 - Qualität leicht erkennbar an negativen Merkmalen
 - Saisonales Produkt
 - Begrenzte Haltbarkeit
@@ -298,7 +295,6 @@ milderem Klima entsprechend sanfter schmeckt." (S.56)
 #+end_quote
 
 *** Butter und Buttervarianten
-**** Kernaussagen:
 - Braune Butter entwickelt nussiges Aroma
 - Verschiedene kulturelle Variationen (Ghee, Smen)
 - Butter ist eine natürliche Emulsion
@@ -328,7 +324,6 @@ Schmelzpunkt (32 °C)." (S.75)
 #+end_quote
 
 *** Neutrale Öle und Spezialöle
-**** Kernaussagen:
 - Neutrale Öle wichtig für Hochtemperaturzubereitung
 - Spezialöle für Aromaverstärkung
 - Kokosnussöl gibt tropischen Duft
@@ -343,555 +338,290 @@ Temperaturen aus, die nötig sind, um Essen knusprig braun zu braten." (S.63)
 #+end_quote
 
 #+begin_quote
-"Besondere Kern- und Nussöle kann man dank ihrer lebhaften Aromen zum
-Würzen verwenden. [...] Ein wenig geröstetes Haselnussöl in der
-Vinaigrette gibt einem einfachen Salat aus Rucola und Haselnüssen durch
-seinen nussigen Nachklang Tiefe." (S.64)
+"Besondere Kern- und Nussöle kann man dank ihrer lebhaften Aromen zum Würzen verwenden.
+[...] Ein wenig geröstetes Haselnussöl in der Vinaigrette gibt einem einfachen Salat aus
+Rucola und Haselnüssen durch seinen nussigen Nachklang Tiefe." (S.64)
 #+end_quote
 
 #+begin_quote
-"Einen Hauch von Tropenduft gibt Kokosöl jedem Gericht, für das man es
-verwendet. Besonders gut schmeckt es in selbst gemachten Knuspermüslis
-oder als Kochfett für im Ofen gebackenes Wurzelgemüse." (S.63)
+"Einen Hauch von Tropenduft gibt Kokosöl jedem Gericht, für das man es verwendet.
+Besonders gut schmeckt es in selbst gemachten Knuspermüslis oder als Kochfett für im Ofen
+gebackenes Wurzelgemüse." (S.63)
 #+end_quote
 
 ** Technische Aspekte
-:properties:
-:custom_id: technische-aspekte
-:end:
+
 *** Hitzebeständigkeit und Rauchpunkte
-:properties:
-:custom_id: hitzebeständigkeit-und-rauchpunkte
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-5
-:end:
 - Unterschiedliche Rauchpunkte je nach Fettart
 - Reine Öle vertragen höhere Temperaturen
 - Unreine Fette für niedrigere Temperaturen geeignet
 
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-1
-:end:
-
 #+begin_quote
-"Reine, raffinierte Pflanzenöle wie Traubenkern-, Raps- und Erdnussöl
-beginnen erst ab etwa 200 °C zu rauchen und sind deshalb die ideale Wahl
-bei Hochtemperatur-Garmethoden für frittierte oder pfannengerührte
-Gerichte. Unreine Fette vertragen extreme Hitze nicht so gut; die
-Schwebstoffe in ungefiltertem Olivenöl und die Molkefeststoffe in Butter
-erreichen schon bei ungefähr 175 °C ihren Rauchpunkt oder verbrennen."
-(S.71)
-
+"Reine, raffinierte Pflanzenöle wie Traubenkern-, Raps- und Erdnussöl beginnen erst ab
+etwa 200 °C zu rauchen und sind deshalb die ideale Wahl bei Hochtemperatur-Garmethoden für
+frittierte oder pfannengerührte Gerichte. Unreine Fette vertragen extreme Hitze nicht so
+gut; die Schwebstoffe in ungefiltertem Olivenöl und die Molkefeststoffe in Butter
+erreichen schon bei ungefähr 175 °C ihren Rauchpunkt oder verbrennen." (S.71)
 #+end_quote
 
 *** Emulsionen
-:properties:
-:custom_id: emulsionen
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-6
-:end:
 - Emulgatoren verbinden Öl und Wasser
 - Eigelb als natürlicher Emulgator
 - Spezifische Mengenverhältnisse bei Mayonnaise
 
 **** Originalzitate:
-:properties:
-:custom_id: originalzitate-4
-:end:
-
 #+begin_quote
-"Wenn eine Emulsion gerinnt, vereinigen sich Fett und Wasser wieder mit
-ihren jeweils eigenen Truppen. Um Emulsionen stabiler zu machen,
-verwenden Sie einen Emulgator -- er umschließt das Öl und ermöglicht es
-ihm, zufrieden zwischen den Essigtröpfchen zu existieren. Ein Emulgator
-ist wie ein drittes Glied in der Kette, ein Vermittler, der zwei ehemals
-verfeindete Parteien an sich zieht und vereint. Senf spielt in einer
-Vinaigrette oft die Rolle des Emulgators, während in einer Mayonnaise
-das Eigelb die emulgierenden Eigenschaften hat." (S.73)
-
+"Wenn eine Emulsion gerinnt, vereinigen sich Fett und Wasser wieder mit ihren jeweils
+eigenen Truppen. Um Emulsionen stabiler zu machen, verwenden Sie einen Emulgator -- er
+umschließt das Öl und ermöglicht es ihm, zufrieden zwischen den Essigtröpfchen zu
+existieren. Ein Emulgator ist wie ein drittes Glied in der Kette, ein Vermittler, der zwei
+ehemals verfeindete Parteien an sich zieht und vereint. Senf spielt in einer Vinaigrette
+oft die Rolle des Emulgators, während in einer Mayonnaise das Eigelb die emulgierenden
+Eigenschaften hat." (S.73)
 #+end_quote
 
 #+begin_quote
-"Jedes Eigelb nimmt bequem etwa 175 Milliliter Öl in einer stabilen
-Emulsion auf." (S.74)
-
+"Jedes Eigelb nimmt bequem etwa 175 Milliliter Öl in einer stabilen Emulsion auf." (S.74)
 #+end_quote
 
 *** Rolle beim Backen
-:properties:
-:custom_id: rolle-beim-backen
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-7
-:end:
 - Öl verhindert Glutenbildung
 - Ergibt saftigere Kuchen als Butter
 - Beeinflusst Textur von Gebäck
 
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-2
-:end:
-
 #+begin_quote
-"Die Antwort entstammt der Naturwissenschaft. Öl ummantelt die
-Mehlproteine besonders effizient und verhindert, dass sich starke
-Glutennetze bilden, ähnlich wie weiche Butter bei Shortbread. Für die
-Glutenbildung wird Wasser benötigt, deshalb hemmt diese Ölbarriere die
-Entstehung von Gluten erheblich und produziert eine eher zarte als
-elastische Konsistenz. Ein weiterer Vorteil ist, dass weniger Gluten
-mehr Wasser im Teig bedeutet -- und damit letztendlich einen saftigeren
-Kuchen." (S.83)
-
+"Die Antwort entstammt der Naturwissenschaft. Öl ummantelt die Mehlproteine besonders
+effizient und verhindert, dass sich starke Glutennetze bilden, ähnlich wie weiche Butter
+bei Shortbread. Für die Glutenbildung wird Wasser benötigt, deshalb hemmt diese Ölbarriere
+die Entstehung von Gluten erheblich und produziert eine eher zarte als elastische
+Konsistenz. Ein weiterer Vorteil ist, dass weniger Gluten mehr Wasser im Teig bedeutet --
+und damit letztendlich einen saftigeren Kuchen." (S.83)
 #+end_quote
 
 *** Fett als Kochmedium
-:properties:
-:custom_id: fett-als-kochmedium
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-8
-:end:
 - Ermöglicht gleichmäßigen Kontakt zwischen Lebensmittel und Hitze
 - Wichtig für Krustenbildung
 - Erreicht höhere Temperaturen als Wasser
 
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-3
-:end:
-
 #+begin_quote
-"Wenn das auf der gesamten Oberfläche der Fall sein soll, benötigt das
-Nahrungsmittel direkten, gleichmäßigen Kontakt mit einer Hitzequelle,
-beispielsweise einer Pfanne, die weitaus heißer ist als der Siedepunkt
-von Wasser. Aber kein Nahrungsmittel ist perfekt glatt, und Pfannen sind
-es im Mikrobereich ebenso wenig. Um gleichmäßigen Kontakt zwischen Essen
-und Kochgefäß herzustellen, brauchen wir einen Mittler, ein Medium:
-Fett. Kochfette können bis auf 180 °C und höher erhitzt werden, bevor
-sie anfangen zu rauchen, deshalb sind sie ideal, um jene
-knusprig-goldbraune Kruste zu produzieren, die unseren Gaumen so
+"Wenn das auf der gesamten Oberfläche der Fall sein soll, benötigt das Nahrungsmittel
+direkten, gleichmäßigen Kontakt mit einer Hitzequelle, beispielsweise einer Pfanne, die
+weitaus heißer ist als der Siedepunkt von Wasser. Aber kein Nahrungsmittel ist perfekt
+glatt, und Pfannen sind es im Mikrobereich ebenso wenig. Um gleichmäßigen Kontakt zwischen
+Essen und Kochgefäß herzustellen, brauchen wir einen Mittler, ein Medium: Fett. Kochfette
+können bis auf 180 °C und höher erhitzt werden, bevor sie anfangen zu rauchen, deshalb
+sind sie ideal, um jene knusprig-goldbraune Kruste zu produzieren, die unseren Gaumen so
 entzückt." (S.67)
-
 #+end_quote
 
-* SÄURE - Grundprinzipien und Anwendung
-:properties:
-:custom_id: säure---grundprinzipien-und-anwendung
-:end:
+* Säure
 ** Fundamentale Bedeutung
-:properties:
-:custom_id: fundamentale-bedeutung
-:end:
-*** Kernaussagen:
-:properties:
-:custom_id: kernaussagen
-:end:
 - Gegenspieler zu Salz
 - Balanciert Aromen aus
 - Kontrastiert zu Salz, Fett, Zucker und Stärke
 - Essentiell für ausgewogenen Geschmack
 
 *** Originalzitate:
-:properties:
-:custom_id: originalzitate
-:end:
-
 #+begin_quote
-"Genau wie ich gelernt hatte, ein Gericht ständig auf Salz hin zu
-prüfen, wusste ich nun, dass ich beim Kosten auch immer auf Säure achten
-musste. Endlich war mir klar: Säure ist das Alter Ego des Salzes.
-Während Salz vertiefend auf Aromen wirkt, balanciert Säure sie aus.
-Indem sie als Kontrast zu Salz, Fett, Zucker und Stärke dient, macht
-Säure sich bei allem, was wir kochen, unentbehrlich." (S.92)
-
+"Genau wie ich gelernt hatte, ein Gericht ständig auf Salz hin zu prüfen, wusste ich nun,
+dass ich beim Kosten auch immer auf Säure achten musste. Endlich war mir klar: Säure ist
+das Alter Ego des Salzes. Während Salz vertiefend auf Aromen wirkt, balanciert Säure sie
+aus. Indem sie als Kontrast zu Salz, Fett, Zucker und Stärke dient, macht Säure sich bei
+allem, was wir kochen, unentbehrlich." (S.92)
 #+end_quote
 
 ** Wirkung auf Lebensmittel
-:properties:
-:custom_id: wirkung-auf-lebensmittel
-:end:
 *** Farbe und Oxidation
-:properties:
-:custom_id: farbe-und-oxidation
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-1
-:end:
 - Unterschiedliche Wirkung auf verschiedene Farben
 - Verhindert Oxidation
 - Erhält Farbe bei roten/violetten Gemüsen
 - Dämpft grüne Farben
 
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat
-:end:
-
 #+begin_quote
-"Säure macht leuchtendes Grün matter; warten Sie also bis zum letzten
-Moment, wenn Sie einen Salat anmachen, Essig in Kräutersalsas rühren
-oder Zitrone über gekochtes Blattgemüse wie Spinat träufeln. Rot- und
-Lilatöne dagegen hält Säure lebendig. Rotkohl, rote Mangoldstiele oder
-Rote Beten bewahren ihre Farbe am besten, wenn sie mit etwas leicht
-Säuerlichem wie Äpfeln, Zitrone oder Essig gegart werden. Rohes Obst und
-Gemüse, das zum Oxidieren neigt -- jener enzymatischen Bräunung, die
-beim Kontakt mit Sauerstoff entsteht --, wie geschnittene Äpfel,
-Artischocken, Bananen und Avocados, behalten ihre natürliche Farbe, wenn
-sie bis zum Kochen oder Essen mit ein wenig Säure bestrichen oder in
-Wasser mit ein paar Tropfen Zitronensaft oder Essig gelegt werden."
-(S.96)
-
+"Säure macht leuchtendes Grün matter; warten Sie also bis zum letzten Moment, wenn Sie
+einen Salat anmachen, Essig in Kräutersalsas rühren oder Zitrone über gekochtes
+Blattgemüse wie Spinat träufeln. Rot- und Lilatöne dagegen hält Säure lebendig. Rotkohl,
+rote Mangoldstiele oder Rote Beten bewahren ihre Farbe am besten, wenn sie mit etwas
+leicht Säuerlichem wie Äpfeln, Zitrone oder Essig gegart werden. Rohes Obst und Gemüse,
+das zum Oxidieren neigt -- jener enzymatischen Bräunung, die beim Kontakt mit Sauerstoff
+entsteht --, wie geschnittene Äpfel, Artischocken, Bananen und Avocados, behalten ihre
+natürliche Farbe, wenn sie bis zum Kochen oder Essen mit ein wenig Säure bestrichen oder
+in Wasser mit ein paar Tropfen Zitronensaft oder Essig gelegt werden." (S.96)
 #+end_quote
 
 *** Gemüse und Hülsenfrüchte
-:properties:
-:custom_id: gemüse-und-hülsenfrüchte
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-2
-:end:
 - Beeinflusst Garprozess
 - Natron kann Säurewirkung ausgleichen
 - Verlängert die Garzeit
 
 **** Originalzitate:
-:properties:
-:custom_id: originalzitate-1
-:end:
-
 #+begin_quote
-"Säure hält Gemüse und Hülsenfrüchte länger hart. Alles, was Zellulose
-oder Pektin enthält -- unter anderem Hülsenfrüchte, Obst und Gemüse --,
-gart viel langsamer, wenn Säure im Spiel ist." (S.97)
-
+"Säure hält Gemüse und Hülsenfrüchte länger hart. Alles, was Zellulose oder Pektin enthält
+-- unter anderem Hülsenfrüchte, Obst und Gemüse --, gart viel langsamer, wenn Säure im
+Spiel ist." (S.97)
 #+end_quote
 
 #+begin_quote
-"Wenn Sie Bohnen oder andere Hülsenfrüchte kochen, etwa auch die
-Kichererbsen für Hummus, verschiebt eine Prise Natron den pH-Wert des
-Bohnenwassers sanft von sauer zu alkalisch und sorgt dafür, dass alles
-zart wird." (S.97)
-
+"Wenn Sie Bohnen oder andere Hülsenfrüchte kochen, etwa auch die Kichererbsen für Hummus,
+verschiebt eine Prise Natron den pH-Wert des Bohnenwassers sanft von sauer zu alkalisch
+und sorgt dafür, dass alles zart wird." (S.97)
 #+end_quote
 
 *** Eier
-:properties:
-:custom_id: eier
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-3
-:end:
 - Beschleunigt Gerinnung
 - Beeinflusst Textur
 - Wichtig für pochierte Eier
-
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-1
-:end:
-
 #+begin_quote
-"Säure bewirkt außerdem, dass das Eiweiß von Eiern schneller, aber mit
-geringerer Dichte fest wird oder gerinnt als sonst. Normalerweise
-entfalten und festigen sich Proteinstränge beim Erhitzen. Dabei geben
-sie Wasser ab, sodass die Eier härter und trockener werden. Säure zieht
-die Eierproteine zusammen, bevor sie sich entfalten, dadurch können Sie
-sich nicht allzu dicht aneinanderlegen. Ein paar heimliche Tropfen
-Zitronensaft produzieren cremigere, zartere Rühreier. Für perfekt
-pochierte Eier geben Sie einen guten Schuss Essig ins kochende Wasser,
-damit das Eiweiß schneller gerinnt und eine feste Außenhaut bildet, die
-das flüssige Eigelb schützt." (S.98)
-
+"Säure bewirkt außerdem, dass das Eiweiß von Eiern schneller, aber mit geringerer Dichte
+fest wird oder gerinnt als sonst. Normalerweise entfalten und festigen sich Proteinstränge
+beim Erhitzen. Dabei geben sie Wasser ab, sodass die Eier härter und trockener werden.
+Säure zieht die Eierproteine zusammen, bevor sie sich entfalten, dadurch können Sie sich
+nicht allzu dicht aneinanderlegen. Ein paar heimliche Tropfen Zitronensaft produzieren
+cremigere, zartere Rühreier. Für perfekt pochierte Eier geben Sie einen guten Schuss Essig
+ins kochende Wasser, damit das Eiweiß schneller gerinnt und eine feste Außenhaut bildet,
+die das flüssige Eigelb schützt." (S.98)
 #+end_quote
 
 *** Marmeladen und Gelees
-:properties:
-:custom_id: marmeladen-und-gelees
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-4
-:end:
 - Unterstützt Gelierung
 - Wichtig für Pektinbildung
 - Essentiell bei bestimmten Früchten
-
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-2
-:end:
-
 #+begin_quote
-"Säure fördert auch die Bindung von Pektinen -- den Geliermitteln im
-Obst --, sodass sie Wasser binden und das Gelieren von Marmelade oder
-Gelee unterstützen können. Manche Früchte wie Äpfel oder Blaubeeren
-enthalten nicht genügend Säure, um Pektinketten zu bilden, deshalb
-helfen wir nach, indem wir ein wenig frischen Zitronensaft in den
-Marmeladentopf oder in die Obstfüllungen von Pies und Aufläufen geben,
-damit sie besser gelieren." (S.98)
-
+"Säure fördert auch die Bindung von Pektinen -- den Geliermitteln im Obst --, sodass sie
+Wasser binden und das Gelieren von Marmelade oder Gelee unterstützen können. Manche
+Früchte wie Äpfel oder Blaubeeren enthalten nicht genügend Säure, um Pektinketten zu
+bilden, deshalb helfen wir nach, indem wir ein wenig frischen Zitronensaft in den
+Marmeladentopf oder in die Obstfüllungen von Pies und Aufläufen geben, damit sie besser
+gelieren." (S.98)
 #+end_quote
 
 *** Proteine
-:properties:
-:custom_id: proteine
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-5
-:end:
 - Denaturiert Proteine
 - "Gart" Fleisch oder Fisch chemisch
 - Verändert Proteinstruktur
 
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-3
-:end:
-
 #+begin_quote
-"Stellen Sie sich Proteine als verdrehte Stränge vor, die zu Bündeln
-gefaltet sind. Wenn Säure diese Bündel berührt, entfalten sie sich.
-Dieser Prozess wird Denaturierung genannt. Die denaturierten Proteine
-stoßen aneinander und koagulieren (»gerinnen«), wobei sie sich zu einem
-dichten Netz verbinden. Der gleiche Vorgang passiert beim Erhitzen von
-Proteinen, deshalb sagt man manchmal, Säure »gare« Fleisch oder Fisch."
-(S.99)
-
+"Stellen Sie sich Proteine als verdrehte Stränge vor, die zu Bündeln gefaltet sind. Wenn
+Säure diese Bündel berührt, entfalten sie sich. Dieser Prozess wird Denaturierung genannt.
+Die denaturierten Proteine stoßen aneinander und koagulieren (»gerinnen«), wobei sie sich
+zu einem dichten Netz verbinden. Der gleiche Vorgang passiert beim Erhitzen von Proteinen,
+deshalb sagt man manchmal, Säure »gare« Fleisch oder Fisch." (S.99)
 #+end_quote
 
 ** Säure in Saucen und Würzmitteln
-:properties:
-:custom_id: säure-in-saucen-und-würzmitteln
-:end:
+
 *** Umami und Würzsaucen
-:properties:
-:custom_id: umami-und-würzsaucen
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-6
-:end:
 - Saucen enthalten oft Säure und Salz
 - Quelle von Umami
 - Wichtig für Geschmacksverstärkung
 
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-4
-:end:
-
 #+begin_quote
-"Würzsaucen und Umami: Cervantes schrieb zwar, »Das beste Gewürz von der
-Welt ist der Hunger«, aber ich möchte behaupten, Sauce ist das beste
-Gewürz -- weil Sauce ein Gericht vollenden kann. Saucen liefern, wie die
-meisten Würzmittel, sowohl Säure als auch Salz und sind deshalb ein
-ziemlich narrensicheres Mittel zur Geschmacksverbesserung. Ihr
-Zusatzvorteil ist, dass sie oft hervorragende Quellen von Umami sind --
-das ist die aus dem Japanischen stammende Bezeichnung für die fünfte
-Geschmacksqualität, die wir wahrnehmen können, neben süß, sauer, salzig
-und bitter. Die wörtliche Übersetzung dafür ist so etwas wie
-»Schmackhaftigkeit« oder »Würzigkeit«." (S.106)
-
+"Würzsaucen und Umami: Cervantes schrieb zwar, »Das beste Gewürz von der Welt ist der
+Hunger«, aber ich möchte behaupten, Sauce ist das beste Gewürz -- weil Sauce ein Gericht
+vollenden kann. Saucen liefern, wie die meisten Würzmittel, sowohl Säure als auch Salz und
+sind deshalb ein ziemlich narrensicheres Mittel zur Geschmacksverbesserung. Ihr
+Zusatzvorteil ist, dass sie oft hervorragende Quellen von Umami sind -- das ist die aus
+dem Japanischen stammende Bezeichnung für die fünfte Geschmacksqualität, die wir
+wahrnehmen können, neben süß, sauer, salzig und bitter. Die wörtliche Übersetzung dafür
+ist so etwas wie »Schmackhaftigkeit« oder »Würzigkeit«." (S.106)
 #+end_quote
 
 *** Praktisches Beispiel: Suppe verbessern
-:properties:
-:custom_id: praktisches-beispiel-suppe-verbessern
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-7
-:end:
 - Säure als finaler Geschmacksgeber
 - Kleine Menge kann große Wirkung haben
 
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-5
-:end:
-
 #+begin_quote
-"Ich brachte einen Löffel zu Russ, dem ewig jungenhaften Küchenchef, als
-er zur Menübesprechung mit den Bedienungen nach oben eilte. Er kostete
-und sagte, ohne innezuhalten oder sich umzudrehen: »Gib einen Schuss
-Essig in den Topf, bevor du ihn hochbringst!" (S.91)
-
+"Ich brachte einen Löffel zu Russ, dem ewig jungenhaften Küchenchef, als er zur
+Menübesprechung mit den Bedienungen nach oben eilte. Er kostete und sagte, ohne
+innezuhalten oder sich umzudrehen: »Gib einen Schuss Essig in den Topf, bevor du ihn
+hochbringst!" (S.91)
 #+end_quote
 
-* HITZE - Grundprinzipien und Anwendung
-:properties:
-:custom_id: hitze---grundprinzipien-und-anwendung
-:end:
+* Hitze
+
 ** Fundamentale Bedeutung
-:properties:
-:custom_id: fundamentale-bedeutung
-:end:
-*** Kernaussagen:
-:properties:
-:custom_id: kernaussagen
-:end:
 - Bestimmt die Textur des Essens
 - Timing und Temperatur entscheidend
 - Gleichmäßiges Garen innen und außen wichtig
-
 *** Originalzitat:
-:properties:
-:custom_id: originalzitat
-:end:
-
 #+begin_quote
-"Als ich Köche in aller Welt beobachtete, habe ich gelernt, dass das
-Ziel immer dasselbe ist, egal, was man auf welcher Hitzequelle kocht:
-Hitze im richtigen Maß und im richtigen Tempo einzusetzen, damit das
-Essen außen und innen zur gleichen Zeit fertig ist." (S.114)
-
+"Als ich Köche in aller Welt beobachtete, habe ich gelernt, dass das Ziel immer dasselbe
+ist, egal, was man auf welcher Hitzequelle kocht: Hitze im richtigen Maß und im richtigen
+Tempo einzusetzen, damit das Essen außen und innen zur gleichen Zeit fertig ist." (S.114)
 #+end_quote
 
 ** Beobachtung und Kontrolle
-:properties:
-:custom_id: beobachtung-und-kontrolle
-:end:
-*** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-1
-:end:
 - Aufmerksamkeit als Schlüssel zum Erfolg
 - Beste Köche sind gute Beobachter
 - Kontinuierliche Überwachung wichtig
-
 *** Originalzitat:
-:properties:
-:custom_id: originalzitat-1
-:end:
-
 #+begin_quote
-"Von der amerikanischen Dichterin Mary Oliver stammt der Satz:
-»Aufmerksam sein, das ist unsere niemals endende und wahre Aufgabe«.
-Wahrscheinlich ist sie eine großartige Köchin. Tatsächlich sind die
-besten Köche, die ich kennengelernt habe -- ob Amateure oder Profis --
-sorgfältige Beobachter." (S.161)
-
+"Von der amerikanischen Dichterin Mary Oliver stammt der Satz: »Aufmerksam sein, das ist
+unsere niemals endende und wahre Aufgabe«. Wahrscheinlich ist sie eine großartige Köchin.
+Tatsächlich sind die besten Köche, die ich kennengelernt habe -- ob Amateure oder Profis
+-- sorgfältige Beobachter." (S.161)
 #+end_quote
 
 ** Technische Aspekte
-:properties:
-:custom_id: technische-aspekte
-:end:
 *** Kochgefäße
-:properties:
-:custom_id: kochgefäße
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-2
-:end:
 - Form beeinflusst Garmethode
 - Unterschiedliche Gefäße für unterschiedliche Zwecke
-
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-2
-:end:
-
 #+begin_quote
-"Tiefe Töpfe und Pfannen sind wunderbar zum Anschwitzen von Zwiebeln
-oder zum Köcheln von Suppen, aber nicht ideal für Gerichte, die durch
-scharfes Anbraten schnell braun werden sollen, wie Jakobsmuscheln oder
-Steaks." (S.117)
-
+"Tiefe Töpfe und Pfannen sind wunderbar zum Anschwitzen von Zwiebeln oder zum Köcheln von
+Suppen, aber nicht ideal für Gerichte, die durch scharfes Anbraten schnell braun werden
+sollen, wie Jakobsmuscheln oder Steaks." (S.117)
 #+end_quote
-
 *** Temperaturverhalten
-:properties:
-:custom_id: temperaturverhalten
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-3
-:end:
 - Unterschied zwischen Wasser und Fett
 - Fett erreicht höhere Temperaturen
 - Wichtig für Krustenbildung
-
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-3
-:end:
-
 #+begin_quote
-"Während Wasser bei 100 °C kocht und verdampft, können Fette
-verblüffende Temperaturen weit jenseits dieses Niveaus erklimmen, bevor
-sie sich in Rauch verwandeln. Weil sich Wasser und Fett nicht mischen,
-lösen sich Nahrungsmittel, die Wasser enthalten (also praktisch alle),
-in Fett nicht auf. Wenn sie mit sehr heißem Fett in Berührung kommen,
-erreichen sie stattdessen so hohe Oberflächentemperaturen, dass sie
-knusprig werden, weil das Wasser verdampft." (S.119)
-
+"Während Wasser bei 100 °C kocht und verdampft, können Fette verblüffende Temperaturen
+weit jenseits dieses Niveaus erklimmen, bevor sie sich in Rauch verwandeln. Weil sich
+Wasser und Fett nicht mischen, lösen sich Nahrungsmittel, die Wasser enthalten (also
+praktisch alle), in Fett nicht auf. Wenn sie mit sehr heißem Fett in Berührung kommen,
+erreichen sie stattdessen so hohe Oberflächentemperaturen, dass sie knusprig werden, weil
+das Wasser verdampft." (S.119)
 #+end_quote
-
 *** Backofen-Charakteristika
-:properties:
-:custom_id: backofen-charakteristika
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-4
-:end:
 - Temperaturschwankungen normal
 - Öffnen verändert Temperatur drastisch
 - Tatsächliche Temperatur weicht oft von Einstellung ab
-
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-4
-:end:
-
 #+begin_quote
-"Stellen Sie den durchschnittlichen Haushaltsbackofen auf 175 °C, und er
-heizt bis auf ungefähr 190 °C auf, bevor das Heizelement abschaltet. Je
-nach Empfindlichkeit des Thermostats kann die Temperatur bis auf 165 °C
-fallen, bevor das Heizelement wieder anspringt. Wenn Sie die Ofentür
-öffnen, um nach den Plätzchen zu sehen, strömt kalte Luft hinein und
-heiße heraus, was die Temperatur noch weiter senkt. Sobald das
-Thermostat ausgelöst wird, steigt die Temperatur wieder auf 190 °C, und
-der Zyklus beginnt von Neuem, bis die Plätzchen fertig sind. Die
-Zeitspanne, die der Backofen tatsächlich 175 °C heiß ist, ist minimal."
-(S.129)
-
+"Stellen Sie den durchschnittlichen Haushaltsbackofen auf 175 °C, und er heizt bis auf
+ungefähr 190 °C auf, bevor das Heizelement abschaltet. Je nach Empfindlichkeit des
+Thermostats kann die Temperatur bis auf 165 °C fallen, bevor das Heizelement wieder
+anspringt. Wenn Sie die Ofentür öffnen, um nach den Plätzchen zu sehen, strömt kalte Luft
+hinein und heiße heraus, was die Temperatur noch weiter senkt. Sobald das Thermostat
+ausgelöst wird, steigt die Temperatur wieder auf 190 °C, und der Zyklus beginnt von Neuem,
+bis die Plätzchen fertig sind. Die Zeitspanne, die der Backofen tatsächlich 175 °C heiß
+ist, ist minimal." (S.129)
 #+end_quote
 
 ** Garmethoden
-:properties:
-:custom_id: garmethoden
-:end:
+
 *** Dämpfen
-:properties:
-:custom_id: dämpfen
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-5
-:end:
+
+
+
 - Effektive und schonende Methode
 - Hohe Energieübertragung durch Dampf
 - Ideal für empfindliche Zutaten
 
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-5
-:end:
+
 
 #+begin_quote
 "In einem Topf, einer Pfanne oder einem Päckchen eingefangener Dampf
@@ -905,21 +635,15 @@ Wasser, weil er mehr Energie enthält." (S.144)
 #+end_quote
 
 *** Dampfsautieren
-:properties:
-:custom_id: dampfsautieren
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-6
-:end:
+
+
+
 - Kombination aus Dämpfen und Bräunen
 - Ideal für hartes Gemüse
 - Zweistufiger Prozess
 
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-6
-:end:
+
 
 #+begin_quote
 "Eine Methode, die ich gerne »Dampfsautieren« nenne, kombiniert Dämpfen
@@ -934,21 +658,15 @@ hochschalten und die Maillard-Reaktion beginnen lassen." (S.145)
 #+end_quote
 
 *** Anschwitzen
-:properties:
-:custom_id: anschwitzen
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-7
-:end:
+
+
+
 - Sanfte Methode für Gemüse
 - Minimale Fettmenge
 - Keine Bräunung erwünscht
 
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-7
-:end:
+
 
 #+begin_quote
 "Anschwitzen ist eine sanfte Methode, um Gemüse mit einer minimalen
@@ -962,21 +680,15 @@ annimmt." (S.146)
 #+end_quote
 
 *** Braten und Frittieren
-:properties:
-:custom_id: braten-und-frittieren
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-8
-:end:
+
+
+
 - Optimale Öltemperatur wichtig
 - Menge beeinflusst Temperatur
 - Unterschiedliche Techniken für verschiedene Lebensmittel
 
 **** Originalzitate:
-:properties:
-:custom_id: originalzitate
-:end:
+
 
 #+begin_quote
 "Welche Art des Bratens auch immer Sie einsetzen -- die Temperatur des
@@ -998,21 +710,15 @@ bevor es ordentlich braun werden konnte." (S.149)
 #+end_quote
 
 *** Grillen und Backen
-:properties:
-:custom_id: grillen-und-backen
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-9
-:end:
+
+
+
 - Unterschiedliche Brennstoffe, unterschiedliche Temperaturen
 - Backofengrill als Alternative
 - Verschiedene Temperaturzonen wichtig
 
 **** Originalzitate:
-:properties:
-:custom_id: originalzitate-1
-:end:
+
 
 #+begin_quote
 "Verschiedene Brennstoffe -- Obstbaumholz, Hartholz, Holzkohle oder Gas
@@ -1034,30 +740,18 @@ Hitze von oben strahlt." (S.153)
 #+end_quote
 
 *** Backofentemperaturen
-:properties:
-:custom_id: backofentemperaturen
-:end:
-**** Kernaussagen:
-:properties:
-:custom_id: kernaussagen-10
-:end:
+
 - Vier Temperaturkategorien
 - 180°C als Grundtemperatur
 - Unterschiedliche Temperaturen für verschiedene Backwaren
 
 **** Originalzitat:
-:properties:
-:custom_id: originalzitat-8
-:end:
-
 #+begin_quote
-"Es gibt vier Kategorien von Ofentemperaturen: niedrig (80 bis 135 °C),
-niedrig bis mittel (135 bis 180 °C), mittel bis hoch (180 bis 220 °C)
-und hoch (220 °C und mehr). Innerhalb dieser Kategorien gart Essen auf
-ungefähr die gleiche Art. Wenn Sie sich nicht sicher sind, was Sie
-einstellen sollen, nehmen Sie 180 °C, das ist der »Grundton« des
-Backens. Hier ist Ihr Ausgangspunkt, wenn Sie Ihr Rezept verlegt haben.
-180 °C ist heiß genug zum Bräunen, aber sanft genug, um die meisten
-Gerichte durchzubacken, ohne sie zu verbrennen." (S.153)
-
+"Es gibt vier Kategorien von Ofentemperaturen: niedrig (80 bis 135 °C), niedrig bis mittel
+(135 bis 180 °C), mittel bis hoch (180 bis 220 °C) und hoch (220 °C und mehr). Innerhalb
+dieser Kategorien gart Essen auf ungefähr die gleiche Art. Wenn Sie sich nicht sicher
+sind, was Sie einstellen sollen, nehmen Sie 180 °C, das ist der »Grundton« des Backens.
+Hier ist Ihr Ausgangspunkt, wenn Sie Ihr Rezept verlegt haben. 180 °C ist heiß genug zum
+Bräunen, aber sanft genug, um die meisten Gerichte durchzubacken, ohne sie zu verbrennen."
+(S.153)
 #+end_quote
