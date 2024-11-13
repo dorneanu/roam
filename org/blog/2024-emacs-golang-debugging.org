@@ -1,0 +1,757 @@
+#+title: Mastering Golang Debugging in Emacs
+#+author: Victor Dorneanu
+#+date: 2024-11-05
+#+draft: true
+#+property: header-args :mkdirp yes
+#+macro: imglocal http://127.0.0.1:8888/public/img/$1
+
+* Introduction
+
+Since I've started developing in Golang I didn't use quite use the debugger. Instead I was naively adding ~fmt.Print~ statements everywhere to validate my code 🙈. While print statements and logs might be also your first debugging instinct, they often fall short when dealing with large and complex code base, with sophisticated runtime behaviour and (of course!) complex concurrency issues that seem impossible to reproduce.
+
+After starting working on more complex projects I had to force myself to have a deeper look at ~delve~ (the Golang debugger) and see what Emacs offers for interacting with it. While the Go ecosystem offers excellent debugging tools (TODO: Add here list), integrating them into a comfortable development workflow can be challenging. 
+
+In this post I'll elaborate the powerful combination of Emacs, Delve, and dape. Together, these tools create a debugging experience that mimics (and often surpasses) traditional IDEs, while preserving the flexibility and extensibility that Emacs is famous for.
+
+This is what you can expect:
+- Set up and configure [[https://github.com/go-delve/delve][Delve]] with [[https://github.com/svaante/dape][dape]]
+- Debug both standard applications and [[https://github.com/onsi/ginkgo][Ginkgo]] tests (this is what I'm using at the moment 🤷)
+- Utilize advanced debugging features like conditional breakpoints 
+- Optimize your debugging workflow with Emacs specific customizations
+
+* Setting Up the Development Environment
+
+In this post I assume you already have some Emacs experience and now how to configure packages and write small ~Elisp~  snippets. I personally use [[https://github.com/radian-software/straight.el][straight.el]] as a package manager, [[https://github.com/jamescherti/minimal-emacs.d][minimal-emacs.d]] as a minimal vanilla Emacs configuration (along with my own [[https://github.com/dorneanu/dotfiles/blob/master/minimal-emacs/config.org][custommizations)]], [[https://github.com/svaante/dape][dape]] as the debug adapter client and [[https://github.com/joaotavora/eglot][eglot]] as my LSP client.
+
+** Required Emacs Packages
+
+For Emacs 29+ users, ~eglot~ is built-in.
+#+begin_sidenote
+Check out [[https://github.com/golang/tools/blob/master/gopls/doc/emacs.md#configuring-eglot][configuring eglot for gopls]] and some more advanced [[https://github.com/golang/tools/blob/master/gopls/doc/settings.md][gopls settings]].
+#+end_sidenote
+
+We'll first add ~dape~:
+
+#+begin_src elisp
+(use-package dape
+  :straight t
+  :config
+  ;; Pulse source line (performance hit)
+  (add-hook 'dape-display-source-hook 'pulse-momentary-highlight-one-line)
+
+  ;; To not display info and/or buffers on startup
+  ;; (remove-hook 'dape-start-hook 'dape-info)
+  (remove-hook 'dape-start-hook 'dape-repl))
+#+end_src
+
+and ~go-mode~:
+
+#+begin_src elisp
+(use-package go-mode
+  :straight t
+  :mode "\\.go\\'"
+  :hook ((before-save . gofmt-before-save))
+  :bind (:map go-mode-map
+              ("M-?" . godoc-at-point)
+              ("M-." . xref-find-definitions)
+              ("M-_" . xref-find-references)
+              ;; ("M-*" . pop-tag-mark) ;; Jump back after godef-jump
+              ("C-c m r" . go-run))
+  :custom
+  (gofmt-command "goimports"))
+#+end_src
+
+** Installing Required Go Tools
+
+Install Delve and [[https://pkg.go.dev/golang.org/x/tools/gopls][gopls]], the LSP server:
+
+#+caption: Install the Golang debugger and LSP server
+#+begin_src bash
+# Install Delve
+go install github.com/go-delve/delve/cmd/dlv@latest
+
+# Install gopls
+go install golang.org/x/tools/gopls@latest
+#+end_src
+
+Additionally I have a bunch of other tools which I use from time to time:
+
+#+caption: Additional tools
+#+begin_src bash
+go install github.com/golangci/golangci-lint/cmd/golangci-lint@latest
+go install github.com/onsi/ginkgo/v2/ginkgo@latest
+
+go install -v golang.org/x/tools/cmd/godoc@latest
+go install -v golang.org/x/tools/cmd/goimports@latest
+go install -v github.com/stamblerre/gocode@latest
+go install -v golang.org/x/tools/cmd/gorename@latest
+go install -v golang.org/x/tools/cmd/guru@latest
+go install -v github.com/cweill/gotests/...@latest
+
+go install -v github.com/davidrjenni/reftools/cmd/fillstruct@latest
+go install -v github.com/fatih/gomodifytags@latest
+go install -v github.com/godoctor/godoctor@latest
+go install -v github.com/haya14busa/gopkgs/cmd/gopkgs@latest
+go install -v github.com/josharian/impl@latest
+go install -v github.com/rogpeppe/godef@latest
+#+end_src
+
+Then you need to configure the corresponding Emacs packages:
+
+#+begin_src elisp
+(use-package ginkgo
+  :straight (:type git :host github :repo "garslo/ginkgo-mode")
+  :init
+  (setq ginkgo-use-pwd-as-test-dir t
+        ginkgo-use-default-keys t))
+
+(use-package gotest
+  :straight t
+  :after go-mode
+  :bind (:map go-mode-map
+              ("C-c t f" . go-test-current-file)
+              ("C-c t t" . go-test-current-test)
+              ("C-c t j" . go-test-current-project)
+              ("C-c t b" . go-test-current-benchmark)
+              ("C-c t c" . go-test-current-coverage)
+              ("C-c t x" . go-run)))
+
+(use-package go-guru
+  :straight t
+  :hook
+  (go-mode . go-guru-hl-identifier-mode))
+
+(use-package go-projectile
+  :straight t
+  :after (projectile go-mode))
+
+(use-package flycheck-golangci-lint
+  :straight t
+  :hook
+  (go-mode . flycheck-golangci-lint-setup))
+
+(use-package go-eldoc
+  :straight t
+  :hook
+  (go-mode . go-eldoc-setup))
+
+(use-package go-tag
+  :straight t
+  :bind (:map go-mode-map
+              ("C-c t a" . go-tag-add)
+              ("C-c t r" . go-tag-remove))
+  :init (setq go-tag-args (list "-transform" "camelcase")))
+
+(use-package go-fill-struct
+  :straight t)
+
+(use-package go-impl
+  :straight t)
+
+(use-package go-playground
+  :straight t)
+
+#+end_src
+
+** Dape Configuration
+
+There is no particular reason why I use ~dape~ instead of [[https://github.com/emacs-lsp/dap-mode][dap]]. When I was still using [[https://github.com/abougouffa/minemacs][MinEmacs]] it was part of it and I just got used to it. As the [[https://github.com/svaante/dape?tab=readme-ov-file#differences-with-dap-mode][documentation]] states:
+
+#+begin_quote
+- Dape does not support launch.json files, if per project configuration is
+  needed use dir-locals and dape-command.
+- Dape enhances ergonomics within the minibuffer by allowing users to modify or
+  add PLIST entries to an existing configuration using options. For example
+  dape-config :cwd default-directory :program ＂/home/user/b.out＂ compile ＂gcc
+  -g -o b.out main.c＂.
+- No magic, no special variables like ${workspaceFolder}. Instead, functions and
+  variables are resolved before starting a new session.
+- Tries to envision how debug adapter configurations would be implemented in
+  Emacs if vscode never existed.
+#+end_quote
+
+If you ever worked with VSCode you already know that it uses a ~launch.json~ to store different debugging profiles. 
+
+#+caption: Sample configuration to debug the current file
+#+begin_src json
+{
+	"name": "Launch file",
+	"type": "go",
+	"request": "launch",
+	"mode": "auto",
+	"program": "${file}"
+}
+#+end_src
+
+You have different fields/properties which according to [[https://github.com/microsoft/vscode-go/blob/master/docs/Debugging-Go-code-using-VS-Code.md][this page]] you can tweak in your debugging configuration:
+
+#+caption: Properties to use for the Golang debugger
+| Property   | Description                                                                                                                                                                                         |
+|------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| name       | Name for your configuration that appears in the drop down in the Debug viewlet                                                                                                                      |
+| type       | Always set to "go". This is used by VS Code to figure out which extension should be used for debugging your code                                                                                    |
+| request    | Either of `launch` or `attach`. Use `attach` when you want to attach to an already running process.                                                                                                 |
+| mode       | For launch requests, either of `auto`, `debug`, `remote`, `test`, `exec`. For attach requests, use either `local` or `remote`                                                                       |
+| program    | Absolute path to the package or file to debug when in `debug` & `test` mode, or to the pre-built binary file to debug in `exec` mode. Not applicable to attach requests.                            |
+| env        | Environment variables to use when debugging. Example: `{ "ENVNAME": "ENVVALUE" }`                                                                                                                   |
+| envFile    | Absolute path to a file containing environment variable definitions. The environment variables passed in the `env` property overrides the ones in this file.                                        |
+| args       | Array of command line arguments that will be passed to the program being debugged.                                                                                                                  |
+| showLog    | Boolean indicating if logs from delve should be printed in the debug console                                                                                                                        |
+| logOutput  | Comma separated list of delve components (`debugger`, `gdbwire`, `lldbout`, `debuglineerr`, `rpc`) that should produce debug output when `showLog` is set to `true`.                                |
+| buildFlags | Build flags to be passed to the Go compiler                                                                                                                                                         |
+| remotePath | Absolute path to the file being debugged on the remote machine in case of remote debugging i.e when `mode` is set to `remote`. See the section on [Remote Debugging](#remote-debugging) for details |
+| processId  | Applicable only when using the `attach` request with `local` mode. This is the id of the process that is running your executable which needs debugging.                                             |
+
+In ~dape~ you can use these properties to setup ~dape-configs~:
+
+#+begin_src elisp
+;; Basic dape configuration
+(with-eval-after-load 'dape
+  ;; Add Go debug configuration
+  (add-to-list 'dape-configs
+               `(go-debug-main
+                 modes (go-mode go-ts-mode)
+                 command "dlv"
+                 command-args ("dap" "--listen" "127.0.0.1::autoport")
+                 command-cwd dape-command-cwd
+                 port :autoport
+                 :type "debug"
+                 :request "launch"
+                 :name "Debug Go Program"
+                 :cwd "."
+                 :program "."
+                 :args [])))
+#+end_src
+
+Usually I like to store my different debugging profiles in [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Directory-Variables.html][directory variables]] (stored in ~.dir-locals.el~). At the root of each project (you can as well have different configs per folder/package) I store my debugging profiles like this:
+
+#+caption: Debugging profiles in ~.dir-locals.el~
+#+begin_src elisp
+((go-mode . ((dape-configs .
+        ((go-debug-main
+          modes (go-mode go-ts-mode)
+          command "dlv"
+          command-args ("dap" "--listen" "127.0.0.1:55878" "--log-dest" "/tmp/dlv.log")
+          command-cwd "/home/victor/projects/repo1"
+          host "127.0.0.1"
+          port 55878
+          :request "launch"
+          :mode "debug"
+          :type "go"
+          :showLog "true"
+          :program "/home/victor/projects/repo1/main.go")
+         (go-test
+          modes (go-mode go-ts-mode)
+          command "dlv"
+          command-args ("dap" "--listen" "127.0.0.1:55878")
+          command-cwd "/home/victor/projects/repo1"
+          host "127.0.0.1"
+          port 55878
+          :request "launch"
+          :mode "test"
+          :type "go"
+          :program "/home/victor/projects/repo1/test/some_file_test.go")
+         (go-test-ginkgo
+          modes (go-mode go-ts-mode)
+          command "dlv"
+          command-args ("dap" "--listen" "127.0.0.1:55878")
+          command-cwd "/home/victor/projects/repo1/"
+          host "127.0.0.1"
+          port 55878
+          :request "launch"
+          :mode "test"
+          :type "go"
+          :showLog "true"
+          :args ["-ginkgo.v" "-ginkgo.focus" "MyGinkgoTest*"]
+          :program "/home/victor/projects/repo1/package/"))))))
+#+end_src
+
+* Sample Application
+Now let's put our knowledge into practice by debugging a real application implementint a REST API. 
+** Project Structure
+
+Our example is a REST API for task management with the following structure:
+
+#+begin_src
+task-api/
+├── go.mod
+├── go.sum
+├── main.go
+├── task_store.go
+└── task_test.go
+#+end_src
+
+** Core Components
+
+Let's have a look at the *core components*.
+
+The ~Task~ represents our core domain model which we'll use to demonstrate different debugging scenarios:
+
+#+caption: task_store.go: Task entity
+#+begin_src go :tangle (org-sbe code-dir (filename \"task_store.go\")))
+type Task struct {
+    ID          int    `json:"id"`
+    Title       string `json:"title"`
+    Description string `json:"description"`
+    Done        bool   `json:"done"`
+}
+#+end_src
+
+The ~TaskStore~ handles our in-memory data operations:
+
+#+caption: task_store.go: The TaskStore storing multiple tasks
+#+begin_src go :tangle (org-sbe code-dir (filename \"task_store.go\")))
+type TaskStore struct {
+    tasks  map[int]Task
+    nextID int
+}
+#+end_src
+
+*** REST API
+The API should expose following endpoints: 
+- =POST /task/create= - Creates a new task
+- =GET /task/get?id=<id>= - Retrieves a task by ID
+** main package
+
+#+caption: main.go
+#+begin_src go :tangle (org-sbe code-dir (filename \"main.go\")))
+package main
+
+import (
+	"encoding/json"
+	"fmt"
+	"log"
+	"net/http"
+)
+
+type Task struct {
+	ID          int    json:"id"
+	Title       string json:"title"
+	Description string json:"description"
+	Done        bool   json:"done"
+}
+
+type TaskStore struct {
+	tasks  map[int]Task
+	nextID int
+}
+
+func NewTaskStore() *TaskStore {
+	return &TaskStore{
+		tasks:  make(map[int]Task),
+		nextID: 1,
+	}
+}
+
+// CreateTask stores a given Task internally
+func (ts *TaskStore) CreateTask(task Task) Task {
+	task.ID = ts.nextID
+	ts.tasks[task.ID] = task
+	ts.nextID++
+	return task
+}
+
+// GetTask retrieves a Task by ID
+func (ts *TaskStore) GetTask(id int) (Task, error) {
+	task, exists := ts.tasks[id]
+	if !exists {
+		return Task{}, fmt.Errorf("task with id %d not found", id)
+	}
+	return task, nil
+}
+
+// UpdateTask updates task ID with a new Task object
+func (ts *TaskStore) UpdateTask(id int, task Task) error {
+	if _, exists := ts.tasks[id]; !exists {
+		return fmt.Errorf("task with id %d not found", id)
+	}
+	task.ID = id
+	ts.tasks[id] = task
+	return nil
+}
+
+// Server implements a web application for managing tasks
+type Server struct {
+	store *TaskStore
+}
+
+func (s *Server) handleCreateTask(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodPost {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+	var task Task
+	if err := json.NewDecoder(r.Body).Decode(&task); err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		return
+	}
+
+	createdTask := s.store.CreateTask(task)
+	w.Header().Set("Content-Type", "application/json")
+	json.NewEncoder(w).Encode(createdTask)
+}
+
+func (s *Server) handleGetTask(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodGet {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+	// For demonstration, we'll extract ID from query parameter
+	id := 0
+	fmt.Sscanf(r.URL.Query().Get("id"), "%d", &id)
+
+	task, err := s.store.GetTask(id)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusNotFound)
+		return
+	}
+
+	w.Header().Set("Content-Type", "application/json")
+	json.NewEncoder(w).Encode(task)
+}
+
+func main() {
+	store := NewTaskStore()
+	server := &Server{store: store}
+	Copyhttp.HandleFunc("/task/create", server.handleCreateTask)
+	http.HandleFunc("/task/get", server.handleGetTask)
+
+	log.Printf("Starting server on :8080")
+	log.Fatal(http.ListenAndServe(":8080", nil))
+}
+#+end_src
+** go.mod
+#+caption: go.mod
+#+begin_src go :tangle (org-sbe code-dir (filename \"go.mod\")))
+module taskapi
+go 1.21
+require (
+	github.com/onsi/ginkgo/v2 v2.13.0
+	github.com/onsi/gomega v1.29.0
+)
+#+end_src
+** tests
+#+caption: task_test.go
+#+begin_src go :tangle (org-sbe code-dir (filename \"task_test.go\")))
+package main_test
+import (
+	"bytes"
+	"encoding/json"
+	"net/http"
+	"net/http/httptest"
+	. "github.com/onsi/ginkgo/v2"
+	. "github.com/onsi/gomega"
+	"testing"
+)
+func TestTasks(t *testing.T) {
+	RegisterFailHandler(Fail)
+	RunSpecs(t, "Task API Suite")
+}
+var _ = Describe("Task API", func() {
+	var (
+		store  *TaskStore
+		server *Server
+	)
+	CopyBeforeEach(func() {
+		store = NewTaskStore()
+		server = &Server{store: store}
+	})
+
+	Describe("POST /task/create", func() {
+		Context("when creating a new task", func() {
+			It("should create and return a task with an ID", func() {
+				task := Task{
+					Title:       "Test Task",
+					Description: "Test Description",
+					Done:        false,
+				}
+
+				payload, err := json.Marshal(task)
+				Expect(err).NotTo(HaveOccurred())
+
+				req := httptest.NewRequest(http.MethodPost, "/task/create",
+					bytes.NewBuffer(payload))
+				w := httptest.NewRecorder()
+
+				server.handleCreateTask(w, req)
+
+				Expect(w.Code).To(Equal(http.StatusOK))
+
+				var response Task
+				err = json.NewDecoder(w.Body).Decode(&response)
+				Expect(err).NotTo(HaveOccurred())
+				Expect(response.ID).To(Equal(1))
+				Expect(response.Title).To(Equal("Test Task"))
+			})
+
+			It("should handle invalid JSON payload", func() {
+				req := httptest.NewRequest(http.MethodPost, "/task/create",
+					bytes.NewBufferString("invalid json"))
+				w := httptest.NewRecorder()
+
+				server.handleCreateTask(w, req)
+
+				Expect(w.Code).To(Equal(http.StatusBadRequest))
+			})
+		})
+	})
+
+	Describe("GET /task/get", func() {
+		Context("when fetching an existing task", func() {
+			var createdTask Task
+
+			BeforeEach(func() {
+				task := Task{
+					Title:       "Test Task",
+					Description: "Test Description",
+					Done:        false,
+				}
+				createdTask = store.CreateTask(task)
+			})
+
+			It("should return the correct task", func() {
+				req := httptest.NewRequest(http.MethodGet, "/task/get?id=1", nil)
+				w := httptest.NewRecorder()
+
+				server.handleGetTask(w, req)
+
+				Expect(w.Code).To(Equal(http.StatusOK))
+
+				var response Task
+				err := json.NewDecoder(w.Body).Decode(&response)
+				Expect(err).NotTo(HaveOccurred())
+				Expect(response).To(Equal(createdTask))
+			})
+		})
+
+		Context("when fetching a non-existent task", func() {
+			It("should return a 404 error", func() {
+				req := httptest.NewRequest(http.MethodGet, "/task/get?id=999", nil)
+				w := httptest.NewRecorder()
+
+				server.handleGetTask(w, req)
+
+				Expect(w.Code).To(Equal(http.StatusNotFound))
+			})
+		})
+
+		Context("when using invalid task ID", func() {
+			It("should handle non-numeric ID gracefully", func() {
+				req := httptest.NewRequest(http.MethodGet, "/task/get?id=invalid", nil)
+				w := httptest.NewRecorder()
+
+				server.handleGetTask(w, req)
+
+				Expect(w.Code).To(Equal(http.StatusNotFound))
+			})
+		})
+	})
+})
+#+end_src
+
+* Basic Debugging with Delve and Dape
+
+** Starting a Debug Session
+
+*** Direct Application Debugging
+
+#+begin_src elisp
+(add-to-list 'dape-configs
+             `(debug-task-api
+               modes (go-mode)
+               command "dlv"
+               command-args ("dap" "--listen" "127.0.0.1:${:port}")
+               command-cwd dape-cwd-fn
+               port :autoport
+               :type "debug"
+               :request "launch"
+               :name "Debug Task API"
+               :program ,(expand-file-name "./main.go")
+               :args nil))
+#+end_src
+
+*** Attach to Running Process
+
+#+begin_src elisp
+(add-to-list 'dape-configs
+             `(attach-task-api
+               modes (go-mode)
+               command "dlv"
+               command-args ("dap" "--listen" "127.0.0.1:${:port}")
+               port :autoport
+               :type "debug"
+               :request "attach"
+               :name "Attach Task API"
+               :processId :pick))
+#+end_src
+
+** Managing Breakpoints
+
+Common breakpoint commands:
+- F9 :: Toggle breakpoint at current line
+- C-u F9 :: Toggle breakpoint with condition
+- M-x dape-breakpoint-remove :: Remove specific breakpoint
+- M-x dape-breakpoint-remove-all :: Remove all breakpoints
+
+* Advanced Debugging Techniques
+
+** Extended Debug Configurations
+
+#+begin_src elisp
+;; Configuration for debugging with environment variables
+(add-to-list 'dape-configs
+             `(debug-task-api-with-env
+               modes (go-mode)
+               command "dlv"
+               command-args ("dap" "--listen" "127.0.0.1:${:port}")
+               command-cwd dape-cwd-fn
+               port :autoport
+               :type "debug"
+               :request "launch"
+               :name "Debug with Environment"
+               :program ,(expand-file-name "./main.go")
+               :env ((list "APP_ENV" "development")
+                    (list "DEBUG_LEVEL" "debug"))))
+#+end_src
+
+** Remote Debugging
+
+*** Setting Up Remote Debugging
+
+1. On remote machine:
+#+begin_src bash
+dlv debug --headless --listen=:2345 --api-version=2 --accept-multiclient ./main.go
+#+end_src
+
+2. Local configuration:
+#+begin_src elisp
+(add-to-list 'dape-configs
+             `(remote-debug-config
+               modes (go-mode)
+               command nil  ; No local command needed
+               :type "debug"
+               :request "attach"
+               :name "Remote Debug"
+               :mode "remote"
+               :host "remote-host"
+               :port 2345
+               :substitutePath [("/remote/path" "/local/path")]))
+#+end_src
+
+* Debugging Ginkgo Tests
+
+** Dape Configuration for Ginkgo
+
+#+begin_src elisp
+(add-to-list 'dape-configs
+             `(debug-ginkgo-tests
+               modes (go-mode)
+               command "dlv"
+               command-args ("dap" "--listen" "127.0.0.1:${:port}")
+               command-cwd dape-cwd-fn
+               port :autoport
+               :type "debug"
+               :request "launch"
+               :name "Debug Ginkgo Tests"
+               :mode "test"
+               :program ,(expand-file-name "./")
+               :args ["ginkgo" "--v" "--focus" "${focusString}"]
+               :buildFlags ["-tags=testing"]))
+#+end_src
+
+** Helper Functions
+
+#+begin_src elisp
+(defun my/dape-debug-ginkgo-focus (focus-string)
+  "Start debugging Ginkgo tests with a specific focus string."
+  (interactive "sEnter focus string: ")
+  (let ((dape-configs (list
+                      `(debug-focused-test
+                        modes (go-mode)
+                        command "dlv"
+                        command-args ("dap" "--listen" "127.0.0.1:${:port}")
+                        command-cwd dape-cwd-fn
+                        port :autoport
+                        :type "debug"
+                        :request "launch"
+                        :name "Debug Focused Test"
+                        :mode "test"
+                        :program ,(expand-file-name "./")
+                        :args ["ginkgo" "--v" "--focus" ,focus-string]))))
+    (dape)))
+#+end_src
+
+** Common Test Debugging Patterns
+
+#+begin_src elisp
+;; Watch expression for test setup
+(defun my/watch-test-setup ()
+  (interactive)
+  (dape-watch-dwim "store")
+  (dape-watch-dwim "server")
+  (dape-watch-dwim "server.store.tasks"))
+
+;; Watch expression for test data
+(defun my/watch-test-task ()
+  (interactive)
+  (dape-watch-dwim "task")
+  (dape-watch-dwim "payload")
+  (dape-watch-dwim "string(payload)"))
+#+end_src
+
+* Best Practices and Tips
+
+- Always use version control to track your debugging configurations
+- Keep debug configurations in a separate file (e.g., =.dir-locals.el=)
+- Use meaningful names for debug configurations
+- Consider creating project-specific debugging helper functions
+- Document common debugging workflows for your team
+
+* Troubleshooting
+
+** Common Issues
+
+1. Dape connection issues:
+   #+begin_src elisp
+   ;; Try setting explicit port
+   (setq dape-default-port 2345)
+   #+end_src
+
+2. Delve not found:
+   #+begin_src bash
+   # Add to your shell configuration
+   export PATH=$PATH:$(go env GOPATH)/bin
+   #+end_src
+
+3. Project recognition:
+   - Ensure valid =go.mod= file exists
+   - Check if in Git repository (recommended)
+   - Try restarting eglot
+
+* Resources and References
+
+- [[https://github.com/svaante/dape][Dape GitHub Repository]]
+- [[https://github.com/go-delve/delve][Delve Debugger]]
+- [[https://github.com/joaotavora/eglot][Eglot Documentation]]
+- [[https://onsi.github.io/ginkgo/][Ginkgo Testing Framework]]
+#+end_src
+* Config                                                           :noexport:
+This are some configuration variables:
+
+#+name: code-dir
+#+begin_src emacs-lisp :exports none :var filename=""
+(princ (concat "~/repos/priv/blog/static/code/2024/emacs-golang-debugging/" filename))
+#+end_src
+
+#+name: image-dir
+#+begin_src emacs-lisp :exports none :var filename=""
+(princ (concat "~/repos/priv/blog/static/posts/img/2024/emacs-golang-debugging/" filename))
+#+end_src
+
+# Local variables:
+# eval: org-hugo-auto-export-mode
+# after-save-hook: org-babel-tangle
+# org-download-screenshot-basename: ".png"
+# org-download-heading-lvl: nil
+# org-agenda-files: nil
+# end:
