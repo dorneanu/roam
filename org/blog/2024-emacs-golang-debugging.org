@@ -273,7 +273,7 @@ Now let's put our knowledge into practice by debugging a real application implem
 Our example is a REST API for task management with the following structure:
 
 #+begin_src
-task-api/
+taskapi/
 ├── go.mod
 ├── go.sum
 ├── main.go
@@ -282,13 +282,16 @@ task-api/
 #+end_src
 
 ** Core Components
+:properties:
+:header-args:go: :tangle (org-sbe code-dir (filename \"task_store.go\")) :main no
+:end:
 
 Let's have a look at the *core components*.
 
 The ~Task~ represents our core domain model which we'll use to demonstrate different debugging scenarios:
 
 #+caption: task_store.go: Task entity
-#+begin_src go :tangle (org-sbe code-dir (filename \"task_store.go\")))
+#+begin_src go
 type Task struct {
     ID          int    `json:"id"`
     Title       string `json:"title"`
@@ -297,43 +300,14 @@ type Task struct {
 }
 #+end_src
 
+
 The ~TaskStore~ handles our in-memory data operations:
 
 #+caption: task_store.go: The TaskStore storing multiple tasks
-#+begin_src go :tangle (org-sbe code-dir (filename \"task_store.go\")))
+#+begin_src go
 type TaskStore struct {
     tasks  map[int]Task
     nextID int
-}
-#+end_src
-
-*** REST API
-The API should expose following endpoints: 
-- =POST /task/create= - Creates a new task
-- =GET /task/get?id=<id>= - Retrieves a task by ID
-** main package
-
-#+caption: main.go
-#+begin_src go :tangle (org-sbe code-dir (filename \"main.go\")))
-package main
-
-import (
-	"encoding/json"
-	"fmt"
-	"log"
-	"net/http"
-)
-
-type Task struct {
-	ID          int    json:"id"
-	Title       string json:"title"
-	Description string json:"description"
-	Done        bool   json:"done"
-}
-
-type TaskStore struct {
-	tasks  map[int]Task
-	nextID int
 }
 
 func NewTaskStore() *TaskStore {
@@ -343,6 +317,19 @@ func NewTaskStore() *TaskStore {
 	}
 }
 
+#+end_src
+
+*** REST API
+:properties:
+:header-args:go: :tangle (org-sbe code-dir (filename \"task_store.go\")) :main no
+:end:
+
+The API should expose following endpoints: 
+- =POST /task/create= - Creates a new task
+- =GET /task/get?id=<id>= - Retrieves a task by ID
+
+#+caption: task_store.go: Rest API handlers
+#+begin_src go
 // CreateTask stores a given Task internally
 func (ts *TaskStore) CreateTask(task Task) Task {
 	task.ID = ts.nextID
@@ -369,6 +356,17 @@ func (ts *TaskStore) UpdateTask(id int, task Task) error {
 	ts.tasks[id] = task
 	return nil
 }
+
+#+end_src
+**** Server
+:properties:
+:header-args:go: :tangle (org-sbe code-dir (filename \"task_server.go\")) :main no
+:end:
+
+Let's continue with the server:
+
+#+begin_src go
+package main
 
 // Server implements a web application for managing tasks
 type Server struct {
@@ -409,11 +407,25 @@ func (s *Server) handleGetTask(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 	json.NewEncoder(w).Encode(task)
 }
+#+end_src
+** main package
+:properties:
+:header-args:go: :tangle (org-sbe code-dir (filename \"main.go\")) :main no
+:end:
+
+#+caption: main.go
+#+begin_src go
+package main
+
+import (
+	"log"
+    "net/http"
+)
 
 func main() {
 	store := NewTaskStore()
 	server := &Server{store: store}
-	Copyhttp.HandleFunc("/task/create", server.handleCreateTask)
+	http.HandleFunc("/task/create", server.handleCreateTask)
 	http.HandleFunc("/task/get", server.handleGetTask)
 
 	log.Printf("Starting server on :8080")
@@ -421,18 +433,69 @@ func main() {
 }
 #+end_src
 ** go.mod
-#+caption: go.mod
-#+begin_src go :tangle (org-sbe code-dir (filename \"go.mod\")))
-module taskapi
-go 1.21
-require (
-	github.com/onsi/ginkgo/v2 v2.13.0
-	github.com/onsi/gomega v1.29.0
-)
+Create Go module:
+
+#+begin_src shell :dir (org-sbe code-dir (filename \"\")) :results code
+go mod init taskapi
 #+end_src
+
+#+RESULTS:
+#+begin_src shell
+go: creating new go.mod: module taskapi
+go: to add module requirements and sums:
+	go mod tidy
+#+end_src
+
+Add dependencies:
+#+begin_src shell :dir (org-sbe code-dir (filename \"\")) :results code
+go mod tidy
+cat go.mod
+#+end_src
+
+#+RESULTS:
+#+begin_src shell
+module taskapi
+
+go 1.23.0
+#+end_src
+
+** Build application
+Let's start the server:
+
+#+begin_src shell :dir (org-sbe code-dir (filename \"\")) :results code
+go build -o taskapi *.go
+ls -c
+#+end_src
+
+#+RESULTS:
+#+begin_src shell
+go.mod
+main.go
+task_server.go
+task_store.go
+taskapi
+#+end_src
+
+Now run it:
+#+begin_src shell 
+$ ./taskapi
+2024/11/14 07:03:48 Starting server on :8080
+
+#+end_src
+
+Now from a different terminal create a new task:
+#+begin_src shell
+curl -X POST -s http://localhost:8080/task/create \
+-H "Content-Type: application/json" \
+-d '{"title":"Learn Debugging","description":"Master Emacs debugging with dape","done":false}'
+#+end_src
+
+#+RESULTS:
+| {"id":1 | title:"Learn Debugging" | description:"Master Emacs debugging with dape" | done:false} |
+
 ** tests
 #+caption: task_test.go
-#+begin_src go :tangle (org-sbe code-dir (filename \"task_test.go\")))
+#+begin_src go
 package main_test
 import (
 	"bytes"
@@ -749,8 +812,6 @@ This are some configuration variables:
 #+end_src
 
 # Local variables:
-# eval: org-hugo-auto-export-mode
-# after-save-hook: org-babel-tangle
 # org-download-screenshot-basename: ".png"
 # org-download-heading-lvl: nil
 # org-agenda-files: nil
