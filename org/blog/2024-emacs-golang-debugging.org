@@ -1,6 +1,7 @@
 #+title: Mastering Golang Debugging in Emacs
 #+author: Victor Dorneanu
 #+date: 2024-11-05
+#+setupfile: setup.org
 #+draft: true
 #+property: header-args :mkdirp yes
 #+macro: imglocal http://127.0.0.1:8888/public/img/$1
@@ -433,30 +434,56 @@ func main() {
 }
 #+end_src
 ** go.mod
+:properties:
+:header-args:go: :export both
+:end:
 Create Go module:
 
-#+begin_src shell :dir (org-sbe code-dir (filename \"\")) :results code
+#+begin_src shell :dir (org-sbe code-dir (filename \"\"))
 go mod init taskapi
+go mod tidy
 #+end_src
 
 #+RESULTS:
+#+caption: Results
 #+begin_src shell
 go: creating new go.mod: module taskapi
 go: to add module requirements and sums:
 	go mod tidy
+go: finding module for package github.com/onsi/gomega
+go: finding module for package github.com/onsi/ginkgo/v2
+go: found github.com/onsi/ginkgo/v2 in github.com/onsi/ginkgo/v2 v2.21.0
+go: found github.com/onsi/gomega in github.com/onsi/gomega v1.35.1
 #+end_src
 
-Add dependencies:
+Check dependencies:
 #+begin_src shell :dir (org-sbe code-dir (filename \"\")) :results code
-go mod tidy
 cat go.mod
 #+end_src
 
 #+RESULTS:
+#+caption: Results
 #+begin_src shell
 module taskapi
 
 go 1.23.0
+
+require (
+	github.com/onsi/ginkgo/v2 v2.21.0
+	github.com/onsi/gomega v1.35.1
+)
+
+require (
+	github.com/go-logr/logr v1.4.2 // indirect
+	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/google/pprof v0.0.0-20241029153458-d1b30febd7db // indirect
+	golang.org/x/net v0.30.0 // indirect
+	golang.org/x/sys v0.26.0 // indirect
+	golang.org/x/text v0.19.0 // indirect
+	golang.org/x/tools v0.26.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
+)
 #+end_src
 
 ** Build application
@@ -483,20 +510,41 @@ $ ./taskapi
 
 #+end_src
 
-Now from a different terminal create a new task:
-#+begin_src shell
+Now from a different terminal *create* a new task:
+#+begin_src shell :results output :wrap "src json" 
 curl -X POST -s http://localhost:8080/task/create \
 -H "Content-Type: application/json" \
 -d '{"title":"Learn Debugging","description":"Master Emacs debugging with dape","done":false}'
 #+end_src
 
 #+RESULTS:
-| {"id":1 | title:"Learn Debugging" | description:"Master Emacs debugging with dape" | done:false} |
+#+caption: Results
+#+begin_src json
+{"id":3,"title":"Learn Debugging","description":"Master Emacs debugging with dape","done":false}
+#+end_src
 
-** tests
+Let's see if we can fetch it:
+
+#+begin_src shell :results output :wrap "src json" 
+curl -X GET -s "http://localhost:8080/task/get?id=1"
+#+end_src
+
+#+RESULTS:
+#+caption: Results
+#+begin_src json
+{"id":1,"title":"Learn Debugging","description":"Master Emacs debugging with dape","done":false}
+#+end_src
+
+
+** Unit tests
+:properties:
+:header-args:go: :tangle (org-sbe code-dir (filename \"task_store_test.go\")) :main no
+:end:
+Below are some unit tests (writen in Ginkgo) for the ~TaskStore~:
+
 #+caption: task_test.go
 #+begin_src go
-package main_test
+package main
 import (
 	"bytes"
 	"encoding/json"
@@ -506,16 +554,19 @@ import (
 	. "github.com/onsi/gomega"
 	"testing"
 )
+
 func TestTasks(t *testing.T) {
 	RegisterFailHandler(Fail)
 	RunSpecs(t, "Task API Suite")
 }
+
+
 var _ = Describe("Task API", func() {
 	var (
 		store  *TaskStore
 		server *Server
 	)
-	CopyBeforeEach(func() {
+	BeforeEach(func() {
 		store = NewTaskStore()
 		server = &Server{store: store}
 	})
@@ -612,7 +663,73 @@ var _ = Describe("Task API", func() {
 })
 #+end_src
 
-* Basic Debugging with Delve and Dape
+Add the Ginkgo dependencies to our ~go.mod~ file:
+#+begin_src shell :dir (org-sbe code-dir (filename \"\")) :results code
+go get github.com/onsi/ginkgo/v2@latest
+go get github.com/onsi/gomega
+#+end_src
+
+Now we should have a full list of dependencies in our ~go.mod~ file:
+
+#+begin_src shell :dir (org-sbe code-dir (filename \"\")) :results code
+cat go.mod
+#+end_src
+
+#+RESULTS:
+#+caption: Results
+#+begin_src shell
+module taskapi
+
+go 1.23.0
+
+require (
+	github.com/onsi/ginkgo/v2 v2.21.0
+	github.com/onsi/gomega v1.35.1
+)
+
+require (
+	github.com/go-logr/logr v1.4.2 // indirect
+	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/google/pprof v0.0.0-20241029153458-d1b30febd7db // indirect
+	golang.org/x/net v0.30.0 // indirect
+	golang.org/x/sys v0.26.0 // indirect
+	golang.org/x/text v0.19.0 // indirect
+	golang.org/x/tools v0.26.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
+)
+#+end_src
+
+Let's run the tests:
+
+#+begin_src shell :dir (org-sbe code-dir (filename \"\")) :results code
+go test -v
+#+end_src
+
+#+RESULTS:
+#+caption: Results
+#+begin_src shell
+=== RUN   TestTasks
+Running Suite: Task API Suite - /home/victor/repos/priv/blog/static/code/2024/emacs-golang-debugging
+======================================================================================================
+Random Seed: [1m1731647885[0m
+
+Will run [1m5[0m of [1m5[0m specs
+[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m
+
+[38;5;10m[1mRan 5 of 5 Specs in 0.001 seconds[0m
+[38;5;10m[1mSUCCESS![0m -- [38;5;10m[1m5 Passed[0m | [38;5;9m[1m0 Failed[0m | [38;5;11m[1m0 Pending[0m | [38;5;14m[1m0 Skipped[0m
+--- PASS: TestTasks (0.00s)
+PASS
+ok  	taskapi	0.193s
+#+end_src
+
+
+In Emacs I would then call ~ginkgo-run-this-container~ as shown in this screenshot: 
+
+[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-ginkgo.png]]
+
+* TODO Basic Debugging with Delve and Dape
 
 ** Starting a Debug Session
 
@@ -656,7 +773,7 @@ Common breakpoint commands:
 - M-x dape-breakpoint-remove :: Remove specific breakpoint
 - M-x dape-breakpoint-remove-all :: Remove all breakpoints
 
-* Advanced Debugging Techniques
+* TODO Advanced Debugging Techniques
 
 ** Extended Debug Configurations
 
@@ -701,7 +818,7 @@ dlv debug --headless --listen=:2345 --api-version=2 --accept-multiclient ./main.
                :substitutePath [("/remote/path" "/local/path")]))
 #+end_src
 
-* Debugging Ginkgo Tests
+* TODO Debugging Ginkgo Tests
 
 ** Dape Configuration for Ginkgo
 
@@ -762,7 +879,7 @@ dlv debug --headless --listen=:2345 --api-version=2 --accept-multiclient ./main.
   (dape-watch-dwim "string(payload)"))
 #+end_src
 
-* Best Practices and Tips
+* TODO Best Practices and Tips
 
 - Always use version control to track your debugging configurations
 - Keep debug configurations in a separate file (e.g., =.dir-locals.el=)
@@ -770,7 +887,7 @@ dlv debug --headless --listen=:2345 --api-version=2 --accept-multiclient ./main.
 - Consider creating project-specific debugging helper functions
 - Document common debugging workflows for your team
 
-* Troubleshooting
+* TODO Troubleshooting
 
 ** Common Issues
 
@@ -791,7 +908,7 @@ dlv debug --headless --listen=:2345 --api-version=2 --accept-multiclient ./main.
    - Check if in Git repository (recommended)
    - Try restarting eglot
 
-* Resources and References
+* TODO Resources and References
 
 - [[https://github.com/svaante/dape][Dape GitHub Repository]]
 - [[https://github.com/go-delve/delve][Delve Debugger]]
@@ -812,7 +929,9 @@ This are some configuration variables:
 #+end_src
 
 # Local variables:
+# org-download-image-dir: "~/repos/priv/blog/static/posts/img/2024/emacs-golang-debugging/"
 # org-download-screenshot-basename: ".png"
 # org-download-heading-lvl: nil
 # org-agenda-files: nil
+# org-export-babel-evaluate: nil
 # end:
