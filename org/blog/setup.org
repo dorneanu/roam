@@ -1,6 +1,6 @@
 #+author: Victor Dorneanu
 #+startup: indent fold hideblocks
-#+hugo_base_dir: ~/work/projects/blog
+#+hugo_base_dir: ~/repos/priv/blog
 #+hugo_section: posts
 #+hugo_auto_set_lastmod: t
 #+hugo_paired_shortcodes: %sidenote
