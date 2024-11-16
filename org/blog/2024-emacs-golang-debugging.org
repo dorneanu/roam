@@ -369,6 +369,12 @@ Let's continue with the server:
 #+begin_src go
 package main
 
+import (
+	"encoding/json"
+	"fmt"
+	"net/http"
+)
+
 // Server implements a web application for managing tasks
 type Server struct {
 	store *TaskStore
@@ -729,28 +735,62 @@ In Emacs I would then call ~ginkgo-run-this-container~ as shown in this screensh
 
 [[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-ginkgo.png]]
 
-* TODO Basic Debugging with Delve and Dape
+* WIP Basic Debugging with Delve and Dape
+In order to debug our Task API we have 2 approaches
+- we can debug the application directly
+- we can attach to a running process
 
-** Starting a Debug Session
+Now let's delve into each workflow. 
+** Direct Application Debugging
 
-*** Direct Application Debugging
+As I've mentioned at the beginning I like to keep my debugging profiles in ~.dir-locals~ for each propject:
 
-#+begin_src elisp
-(add-to-list 'dape-configs
-             `(debug-task-api
-               modes (go-mode)
-               command "dlv"
-               command-args ("dap" "--listen" "127.0.0.1:${:port}")
-               command-cwd dape-cwd-fn
-               port :autoport
-               :type "debug"
-               :request "launch"
-               :name "Debug Task API"
-               :program ,(expand-file-name "./main.go")
-               :args nil))
+#+caption: .dir-locals.el
+#+begin_src emacs-lisp :tangle (org-sbe code-dir (filename \".dir-locals.el\"))
+((go-mode . ((dape-configs .
+   ((go-debug-taskapi
+     modes (go-mode go-ts-mode)
+     command "dlv"
+     command-args ("dap" "--listen" "127.0.0.1:55878")
+     command-cwd default-directory
+     host "127.0.0.1"
+     port 55878
+     :request "launch"
+     :mode "debug"
+     :type "go"
+     :showLog "true"
+     :program "."))))))
+
 #+end_src
 
-*** Attach to Running Process
+You may want to use a different value for ~command-cwd~ (the default setting is ~dape-cwd-fn~). In my case I wanted to start the debugger in a directory which currently is not a project. ~default-directory~ is a variable which holds the working directory for the current buffer you're currently in.
+
+Start debugging:
+- Run ~dape-info~ to show debugging information
+  
+  #+caption: Show debugging related buffers (on the left)
+  [[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-dape-info.png]]
+
+- Create breakpoint using ~dape-breakpoint-toggle~:
+
+  #+caption: Set breakpoint
+  [[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-dape-breakpoint.png]]
+
+- Launch ~dape~
+
+  In the ~dape-repl~ buffer you should something like:
+  #+begin_src shell
+  Available Dape commands: debug, next, continue, pause, step, out, up, down, restart, kill, disconnect, quit
+  Empty input will rerun last command.
+
+  DAP server listening at: 127.0.0.1:55878
+  debugserver-@(#)PROGRAM:LLDB  PROJECT:lldb-1600.0.36.3
+   for arm64.
+  Got a connection, launched process /home/victor/repos/priv/blog/static/code/2024/emacs-golang-debugging/__debug_bin3666561508 (pid = 43984).
+  Type 'dlv help' for list of commands.
+  #+end_src
+  
+** Attach to Running Process
 
 #+begin_src elisp
 (add-to-list 'dape-configs
