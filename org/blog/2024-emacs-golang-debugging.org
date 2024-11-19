@@ -740,8 +740,10 @@ In order to debug our Task API we have 2 approaches
 - we can debug the application directly
 - we can attach to a running process
 
-Now let's delve into each workflow. 
-** Direct Application Debugging
+Now let's delve into each workflow.
+
+TODO: Describe different approaches described [[https://github.com/emacs-lsp/dap-mode/issues/318#issuecomment-1104813373][here]]. 
+** Direct application debugging
 
 As I've mentioned at the beginning I like to keep my debugging profiles in ~.dir-locals~ for each propject:
 
@@ -760,7 +762,6 @@ As I've mentioned at the beginning I like to keep my debugging profiles in ~.dir
      :type "go"
      :showLog "true"
      :program "."))))))
-
 #+end_src
 
 You may want to use a different value for ~command-cwd~ (the default setting is ~dape-cwd-fn~). In my case I wanted to start the debugger in a directory which currently is not a project. ~default-directory~ is a variable which holds the working directory for the current buffer you're currently in.
@@ -790,29 +791,50 @@ Start debugging:
   Type 'dlv help' for list of commands.
   #+end_src
   
-** Attach to Running Process
+** Attach to running process
 
-#+begin_src elisp
-(add-to-list 'dape-configs
-             `(attach-task-api
-               modes (go-mode)
-               command "dlv"
-               command-args ("dap" "--listen" "127.0.0.1:${:port}")
-               port :autoport
-               :type "debug"
-               :request "attach"
-               :name "Attach Task API"
-               :processId :pick))
+Let's say you now want to attach the debugger to a running process (remotely or locally):
+
+#+captionn: Additional config for attaching to a running process
+#+begin_src emacs-lisp :tangle (org-sbe code-dir (filename \".dir-locals.el\"))
+((go-mode . ((dape-configs .
+   ((go-debug-taskapi
+     modes (go-mode go-ts-mode)
+     command "dlv"
+     command-args ("dap" "--listen" "127.0.0.1:55878")
+     command-cwd default-directory
+     host "127.0.0.1"
+     port 55878
+     :request "launch"
+     :mode "debug"
+     :type "go"
+     :showLog "true"
+     :program ".")
+    ;; New profile for attaching to running processes
+    (go-attach-taskapi
+     modes (go-mode go-ts-mode)
+     command "dlv"
+     command-cwd default-directory
+     host "127.0.0.1"   ;; can also be skipped
+     port 55878
+     :request "attach"  ;; this will run "dlv attach ..."  
+     :mode "remote"     ;; connect to a running debugger session
+     :type "go"
+     :showLog "true"))))))
 #+end_src
 
-** Managing Breakpoints
+Now let's start the *debugger*:
+#+begin_src shell
+~/repos/priv/blog/static/code/2024/emacs-golang-debugging $ go build -o taskapi *.go
+~/repos/priv/blog/static/code/2024/emacs-golang-debugging $ dlv debug taskapi --listen=localhost:55878 --headless
+API server listening at: 127.0.0.1:55878
+debugserver-@(#)PROGRAM:LLDB  PROJECT:lldb-1600.0.36.3
+ for arm64.
+Got a connection, launched process /home/victor/repos/priv/blog/static/code/2024/emacs-golang-debugging/__debug_bin794004190 (pid = 23979).
+#+end_src
 
-Common breakpoint commands:
-- F9 :: Toggle breakpoint at current line
-- C-u F9 :: Toggle breakpoint with condition
-- M-x dape-breakpoint-remove :: Remove specific breakpoint
-- M-x dape-breakpoint-remove-all :: Remove all breakpoints
 
+** TODO Launch debug server independently
 * TODO Advanced Debugging Techniques
 
 ** Extended Debug Configurations
@@ -949,7 +971,8 @@ dlv debug --headless --listen=:2345 --api-version=2 --accept-multiclient ./main.
    - Try restarting eglot
 
 * TODO Resources and References
-
+- 2024-11-19 ◦ [[https://github.com/golang/vscode-go/blob/master/docs/debugging.md][vscode-go/docs/debugging.md at master · golang/vscode-go · GitHub]]
+- 2024-11-19 ◦ [[https://github.com/emacs-lsp/dap-mode/issues/318][support delve/dlv dap-mode directly · Issue #318 · emacs-lsp/dap-mode · GitHub]]
 - [[https://github.com/svaante/dape][Dape GitHub Repository]]
 - [[https://github.com/go-delve/delve][Delve Debugger]]
 - [[https://github.com/joaotavora/eglot][Eglot Documentation]]
