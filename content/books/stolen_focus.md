@@ -1,6 +1,5 @@
 +++
 title = "Stolen focus"
-author = ["Cyneox"]
 date = 2024-04-27
 tags = ["health", "psychology", "book"]
 draft = false
@@ -161,15 +160,16 @@ Distraction = Not being able to put spotlight on one thing:
 > brain that becomes more active when you think you’re not doing much ‘the [default mode
 > network]({{< relref "../../topics/default_network.md" >}})’
 
+<!--list-separator-->
 
-##### 92 {#92}
+-  92
 
-Stimulus-driven, stimulus-bound environment:
+    Stimulus-driven, stimulus-bound environment:
 
-> All this frenetic digital interruption is ‘pulling our attention away from our thoughts’,
-> and ‘suppressing your default mode network… I think we’re almost in this constant
-> stimulus-driven, stimulus-bound environment, moving from one distraction to the next.’ If
-> you don’t remove yourself from that, it will ‘suppress whatever train of thought you had’.
+    > All this frenetic digital interruption is ‘pulling our attention away from our thoughts’,
+    > and ‘suppressing your default mode network… I think we’re almost in this constant
+    > stimulus-driven, stimulus-bound environment, moving from one distraction to the next.’ If
+    > you don’t remove yourself from that, it will ‘suppress whatever train of thought you had’.
 
 
 #### What happens during mind-wandering {#what-happens-during-mind-wandering}
@@ -843,88 +843,90 @@ Mind being DOSed:
 
 #### Economic growth {#economic-growth}
 
+<!--list-separator-->
 
-##### 252 {#252}
+-  252
 
-economic groeth and degrading attention
+    economic groeth and degrading attention
 
-> puzzling away at this question. Why? Why has this been happening so long? This
-> trend far precedes Facebook, or most of the factors I have written about here.
-> What’s the underlying cause stretching back to the 1880s? I discussed it with
-> many people, and the most persuasive answer came from the Norwegian scientist
-> Thomas Hylland Eriksen, who is a professor of social anthropology. Ever since
-> the Industrial Revolution, he said, our economies have been built around a new
-> and radical idea – economic growth. This is the belief that every year, the
-> economy – and each individual company in it – should get bigger and bigger.
-> That’s how we now define success. If a country’s economy grows, its politicians
-> are likely to be reelected. If a company grows, its CEOs are likely garlanded.
-> If a country’s economy or a company’s share price shrinks, politicians or CEOs
-> face a greater risk of being booted out. Economic growth is the central
-> organising principle of our society. It is at the heart of how we see the world.
-> Thomas explained that growth can happen in one of two ways. The first is that a
-> corporation can find new markets – by inventing something new, or exporting
-> something to a part of the world that doesn’t have it yet. The second is that a
-> corporation can persuade existing consumers to consume more. If you can get
-> people to eat more, or to sleep less, then you have found a source of economic
-> growth. Mostly, he believes, we achieve growth today primarily through this
-> second option. Corporations are constantly finding ways to cram more stuff into
-> the same amount of time. To give one example: they want you to watch TV and
-> follow the show on social media. Then you see twice as many ads. This inevitably
-> speeds up life. If the economy has to grow every year, in the absence of new
-> markets it has to get you and me to do more and more in the same amount of time.
+    > puzzling away at this question. Why? Why has this been happening so long? This
+    > trend far precedes Facebook, or most of the factors I have written about here.
+    > What’s the underlying cause stretching back to the 1880s? I discussed it with
+    > many people, and the most persuasive answer came from the Norwegian scientist
+    > Thomas Hylland Eriksen, who is a professor of social anthropology. Ever since
+    > the Industrial Revolution, he said, our economies have been built around a new
+    > and radical idea – economic growth. This is the belief that every year, the
+    > economy – and each individual company in it – should get bigger and bigger.
+    > That’s how we now define success. If a country’s economy grows, its politicians
+    > are likely to be reelected. If a company grows, its CEOs are likely garlanded.
+    > If a country’s economy or a company’s share price shrinks, politicians or CEOs
+    > face a greater risk of being booted out. Economic growth is the central
+    > organising principle of our society. It is at the heart of how we see the world.
+    > Thomas explained that growth can happen in one of two ways. The first is that a
+    > corporation can find new markets – by inventing something new, or exporting
+    > something to a part of the world that doesn’t have it yet. The second is that a
+    > corporation can persuade existing consumers to consume more. If you can get
+    > people to eat more, or to sleep less, then you have found a source of economic
+    > growth. Mostly, he believes, we achieve growth today primarily through this
+    > second option. Corporations are constantly finding ways to cram more stuff into
+    > the same amount of time. To give one example: they want you to watch TV and
+    > follow the show on social media. Then you see twice as many ads. This inevitably
+    > speeds up life. If the economy has to grow every year, in the absence of new
+    > markets it has to get you and me to do more and more in the same amount of time.
 
--   Question: Why has the trend of overwhelming information been happening so long?
-    -   This trend precedes Facebook and many modern factors.
--   Discussion with Thomas Hylland Eriksen, Norwegian scientist and professor of social anthropology:
-    -   Underlying cause since the 1880s: the idea of economic growth, post-Industrial Revolution.
-    -   Definition of success:
-        -   A growing economy leads to political reelection.
-        -   Growing companies result in celebrated CEOs.
-        -   Shrinking economy or share price leads to political or CEO removal.
-    -   Economic growth as the central organizing principle of society.
--   Two ways growth happens:
-    1.  Finding new markets (inventing or exporting new products).
-    2.  Persuading existing consumers to consume more.
-        -   Achieved by cramming more activities into the same amount of time.
-        -   Example: Watching TV while following the show on social media, leading to exposure to more ads.
--   Implication:
-    -   Life speeds up as the economy demands more productivity within the same time frame.
+    -   Question: Why has the trend of overwhelming information been happening so long?
+        -   This trend precedes Facebook and many modern factors.
+    -   Discussion with Thomas Hylland Eriksen, Norwegian scientist and professor of social anthropology:
+        -   Underlying cause since the 1880s: the idea of economic growth, post-Industrial Revolution.
+        -   Definition of success:
+            -   A growing economy leads to political reelection.
+            -   Growing companies result in celebrated CEOs.
+            -   Shrinking economy or share price leads to political or CEO removal.
+        -   Economic growth as the central organizing principle of society.
+    -   Two ways growth happens:
+        1.  Finding new markets (inventing or exporting new products).
+        2.  Persuading existing consumers to consume more.
+            -   Achieved by cramming more activities into the same amount of time.
+            -   Example: Watching TV while following the show on social media, leading to exposure to more ads.
+    -   Implication:
+        -   Life speeds up as the economy demands more productivity within the same time frame.
 
+<!--list-separator-->
 
-##### 253 {#253}
+-  253
 
-> My friend Dr Jason Hickel, who is an economic anthropologist at the University
-> of London, is perhaps the leading critic of the concept of economic growth in
-> the world – and he has been explaining for a long time that there is an
-> alternative. When I went to see him, he explained that we need to move beyond
-> the idea of growth to something called a ‘steady-state economy’. We would
-> abandon economic growth as the driving principle of the economy and instead
-> choose a different set of goals. At the moment we think we’re prosperous if we
-> are working ourselves ragged to buy things – most of which don’t even make us
-> happy. He said we could redefine prosperity to mean having time to spend with
-> our children, or to be in nature, or to sleep, or to dream, or to have secure
-> work. Most people don’t want a fast life – they want a good life. Nobody lies on
-> their deathbed and thinks about all that they contributed to economic growth. A
-> steady-state economy can allow us to choose goals that don’t raid our attention,
-> and don’t raid the planet’s resources.
+    > My friend Dr Jason Hickel, who is an economic anthropologist at the University
+    > of London, is perhaps the leading critic of the concept of economic growth in
+    > the world – and he has been explaining for a long time that there is an
+    > alternative. When I went to see him, he explained that we need to move beyond
+    > the idea of growth to something called a ‘steady-state economy’. We would
+    > abandon economic growth as the driving principle of the economy and instead
+    > choose a different set of goals. At the moment we think we’re prosperous if we
+    > are working ourselves ragged to buy things – most of which don’t even make us
+    > happy. He said we could redefine prosperity to mean having time to spend with
+    > our children, or to be in nature, or to sleep, or to dream, or to have secure
+    > work. Most people don’t want a fast life – they want a good life. Nobody lies on
+    > their deathbed and thinks about all that they contributed to economic growth. A
+    > steady-state economy can allow us to choose goals that don’t raid our attention,
+    > and don’t raid the planet’s resources.
 
--   Dr. Jason Hickel, economic anthropologist at the University of London:
-    -   Leading critic of economic growth.
-    -   Proposes an alternative: **steady-state economy**.
--   Concept of steady-state economy:
-    -   Move beyond economic growth as the primary goal.
-    -   Choose different, more meaningful goals.
--   Redefining prosperity:
-    -   Current definition: Working hard to buy things, many of which don't bring happiness.
-    -   Proposed definition: Having time to spend with family, enjoy nature, sleep, dream, and have secure work.
-    -   Emphasis on a good life over a fast life.
-    -   End-of-life reflections rarely focus on contributions to economic growth.
--   Benefits of a steady-state economy:
-    -   Allows selection of goals that:
-        -   Do not deplete attention.
-        -   Do not exhaust the planet's resources.
+    -   Dr. Jason Hickel, economic anthropologist at the University of London:
+        -   Leading critic of economic growth.
+        -   Proposes an alternative: **steady-state economy**.
+    -   Concept of steady-state economy:
+        -   Move beyond economic growth as the primary goal.
+        -   Choose different, more meaningful goals.
+    -   Redefining prosperity:
+        -   Current definition: Working hard to buy things, many of which don't bring happiness.
+        -   Proposed definition: Having time to spend with family, enjoy nature, sleep, dream, and have secure work.
+        -   Emphasis on a good life over a fast life.
+        -   End-of-life reflections rarely focus on contributions to economic growth.
+    -   Benefits of a steady-state economy:
+        -   Allows selection of goals that:
+            -   Do not deplete attention.
+            -   Do not exhaust the planet's resources.
 
-⚠: also checkout books from hickel
+    ⚠: also checkout books from hickel
 
 
 ### Groups Already Fighting to Improve Attention {#groups-already-fighting-to-improve-attention}
