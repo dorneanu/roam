@@ -742,29 +742,30 @@ In order to debug our Task API we have following approaches
 - we can /attach/ to a running debugging session
 
 #+caption: Options for different request types ([[https://github.com/go-delve/delve/blob/master/Documentation/api/dap/README.md][source]])
-| request | mode   | required            | optional                                                                        |
-|---------+--------+--------------------+---------------------------------------------------------------------------------|
-| /launch/  | debug  | program            | dlvCwd, env, backend, args, cwd, buildFlags, output, noDebug                    |
-|         | test   | program            | dlvCwd, env, backend, args, cwd, buildFlags, output, noDebug                    |
-|         | exec   | program            | dlvCwd, env, backend, args, cwd, noDebug                                        |
-|         | core   | program            | dlvCwd, env                                                                     |
-|         |        | corefilePath       |                                                                                 |
-|         | replay | traceDirPath       | dlvCwd, env                                                                     |
-|---------+--------+--------------------+---------------------------------------------------------------------------------|
-| /attach/  | local  | processId          | backend                                                                         |
-|         | remote |                    |                                                                                 |
-|---------+--------+--------------------+---------------------------------------------------------------------------------|
+| request | mode   | required     | optional                                                     |
+|---------+--------+--------------+--------------------------------------------------------------|
+| /launch/  | debug  | program      | dlvCwd, env, backend, args, cwd, buildFlags, output, noDebug |
+|         | test   | program      | dlvCwd, env, backend, args, cwd, buildFlags, output, noDebug |
+|         | exec   | program      | dlvCwd, env, backend, args, cwd, noDebug                     |
+|         | core   | program      | dlvCwd, env                                                  |
+|         |        | corefilePath |                                                              |
+|         | replay | traceDirPath | dlvCwd, env                                                  |
+|---------+--------+--------------+--------------------------------------------------------------|
+| /attach/  | local  | processId    | backend                                                      |
+|         | remote |              |                                                              |
+|---------+--------+--------------+--------------------------------------------------------------|
 
 So for each ~request~ we have different ~modes~. For the ~attach~ request type I'll only focus on the ~remote~ mode which requires you to start the debugger externally and then use the DAP client (within Emacs) to connect to it. I couldn't find any way how to interactively select the process ID before starting the debugger client. Now let's delve into each workflow.
 
 TODO: Describe different approaches described [[https://github.com/emacs-lsp/dap-mode/issues/318#issuecomment-1104813373][here]]. 
-** Launch application
+** Profile 1: Launch application
 
 As I've mentioned at the beginning I like to keep my debugging profiles in ~.dir-locals~ for each propject:
 
 #+caption: .dir-locals.el (only the launch debug profile is configured)
 #+begin_src emacs-lisp :tangle (org-sbe code-dir (filename \".dir-locals.el\"))
 ((go-mode . ((dape-configs .
+   ;; Profile 1: Launch application and start DAP server
    ((go-debug-taskapi
      modes (go-mode go-ts-mode)
      command "dlv"
@@ -815,13 +816,14 @@ Start debugging:
   go build -gcflags=all="-N -l" .
   #+end_src
   
-** Attach to an external debugger
+** Profile 2: Attach to an external debugger
 
 Let's say you now want to connect to an existing debugging session: 
 
 #+caption: Additional config for attaching to a running process
 #+begin_src emacs-lisp :tangle (org-sbe code-dir (filename \".dir-locals.el\"))
 ((go-mode . ((dape-configs .
+   ;; Profile 1: Launch application and start DAP server
    ((go-debug-taskapi
      modes (go-mode go-ts-mode)
      command "dlv"
@@ -834,7 +836,7 @@ Let's say you now want to connect to an existing debugging session:
      :type "go"
      :showLog "true"
      :PROGRAM ".")
-    ;; Attach to external debugger
+    ;; Profile 2: Attach to external debugger   
     (go-attach-taskapi
      modes (go-mode go-ts-mode)
      command "dlv"
@@ -865,7 +867,7 @@ Now within Emacs you can launch ~dape~ and select the ~go-attach-taskapi~ profil
 [[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-attach-to-external-debugger.png]]
 
 
-** Attach to a running process
+** Profile 3: Attach to a running process
  
 In this scenario the application is /already/ running but you want to /attach/ the debugger to it and use Emacs to connect to the debugger session. First we launch the application:
 
@@ -893,25 +895,71 @@ $ dlv attach 54854 --listen=localhost:55878 --headless
 API server listening at: 127.0.0.1:55878
 #+end_src
 
+Now let's add a 3rd debug profile:
+
 #+begin_src emacs-lisp :tangle (org-sbe code-dir (filename \".dir-locals.el\"))
-((nil . ((eval . (progn
-                   
-                   ;; Define the function
-                   (defun get-process-id-by-name (process-name)
-                     "Return the process ID of a process specified by PROCESS-NAME. Works on Unix-like systems (Linux, MacOS)."
-                     (let ((pid nil))
-                       (cond
-                        ((memq system-type '(gnu/linux darwin))
-                         (setq pid (shell-command-to-string 
-                                    (format "pgrep -f %s" 
-                                            (shell-quote-argument process-name)))))
-                        (t
-                         (error "Unsupported system type: %s" system-type)))
-                       
-                       ;; Clean up the output and return first PID
-                       (when (and pid (not (string-empty-p pid)))
-                         (car (split-string pid "\n" t))))))))))
+((go-mode . ((dape-configs .
+   ;; Profile 1: Launch application and start DAP server
+   ((go-debug-taskapi
+     modes (go-mode go-ts-mode)
+     command "dlv"
+     command-args ("dap" "--listen" "127.0.0.1:55878")
+     command-cwd default-directory
+     host "127.0.0.1"
+     port 55878
+     :request "launch"
+     :mode "debug"
+     :type "go"
+     :showLog "true"
+     :program ".")
+     
+    ;; Profile 2: Attach to external debugger   
+    (go-attach-taskapi
+     modes (go-mode go-ts-mode)
+     command "dlv"
+     command-cwd default-directory
+     host "127.0.0.1"   ;; can also be skipped
+     port 55878
+     :request "attach"  ;; this will run "dlv attach ..."  
+     :mode "remote"     ;; connect to a running debugger session
+     :type "go"
+     :showLog "true")
+     
+    ;; Profile 3: Attach to running process (by PID)
+    (go-attach-pid
+     modes (go-mode go-ts-mode)
+     command "dlv"
+     command-args ("dap" "--listen" "127.0.0.1:55878" "--log")
+     command-cwd default-directory
+     host "127.0.0.1"   
+     port 55878
+     :request "attach"  
+     :mode "local"      ;; Attach to a running process local to the server     
+     :type "go"
+     :processId (+get-process-id-by-name "taskapi")
+     :showLog "true")))
+
+     ;; Add helpful function 
+     (eval . (progn
+               (defun +get-process-id-by-name (process-name)
+                 "Return the process ID of a process specified by PROCESS-NAME. Works on Unix-like systems (Linux, MacOS)."
+                 (interactive)
+                 (let ((pid nil))
+                   (cond
+                    ((memq system-type '(gnu/linux darwin))
+                     (setq pid (shell-command-to-string 
+                                (format "pgrep -f %s" 
+                                        (shell-quote-argument process-name)))))
+                    (t
+                     (error "Unsupported system type: %s" system-type)))
+
+                   ;; Clean up the output and return first PID
+                   (when (and pid (not (string-empty-p pid)))
+                     (car (split-string pid "\n" t))))))))))
+
 #+end_src
+
+I've also added ~+get-process-id-by-name~ which will return the process ID for the ~taskapi~ application. 
 Now you can use the same debug profile (~go-attach-taskapi~) to connect to the debugger:
 
 
