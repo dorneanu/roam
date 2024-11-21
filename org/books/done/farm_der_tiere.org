@@ -2,7 +2,161 @@
 :ID:       2AC8D3DF-EAB5-4417-AE8F-25A4D9043EA5
 :END:
 #+title: Farm der Tiere
-#+filetags: :book:history:
+#+filetags: :scifi:book:
 #+date: 2024-11-19
 
 👉 https://www.goodreads.com/book/show/1476642
+
+** Notiz 1 (S. 7)
+:PROPERTIES:
+:CUSTOM_ID: notiz-1-s.-7
+:END:
+Grundsätzliche Kritik an der Ausbeutung der Tiere
+
+#+begin_quote
+Denn was ist der Sinn unseres Lebens, Genossen? Machen wir uns doch nichts vor, unser
+Leben ist elend, mühselig und kurz. Wir werden geboren und bekommen gerade genug Futter,
+um unsere Leiber am Leben zu erhalten; wer von uns dazu imstande ist, wird gezwungen, bis
+zum Umfallen zu arbeiten; und wenn wir ausgedient haben, werden wir unverzüglich mit
+scheußlicher Grausamkeit geschlachtet.
+#+end_quote
+
+** Notiz 2 (S. 7)
+:PROPERTIES:
+:CUSTOM_ID: notiz-2-s.-7
+:END:
+Kritik am parasitären Charakter des Menschen
+
+#+begin_quote
+Der Mensch ist das einzige Geschöpf, das verzehrt, ohne zu erzeugen. Er gibt keine Milch,
+er legt keine Eier, er ist zu schwach, um den Pflug zu ziehen, er kann nicht schnell genug
+laufen, um Kaninchen zu fangen. Und doch herrscht er über alle Tiere. Er treibt sie zur
+Arbeit an, gibt ihnen nur so viel zu fressen, dass sie nicht verhungern, und den Rest
+behält er für sich.
+#+end_quote
+
+** Notiz 3 (S. 24)
+:PROPERTIES:
+:CUSTOM_ID: notiz-3-s.-24
+:END:
+Einführung der vereinfachten Ideologie des Animalismus
+
+#+begin_quote
+Nach langem Überlegen verkündete Schneeball, die Sieben Gebote ließen sich faktisch in
+einem einzigen Leitspruch zusammenfassen, und der laute: «Vier Beine gut, zwei Beine
+schlecht.» Das sei der Grundgedanke des Animalismus, sagte er.
+#+end_quote
+
+** Notiz 4 (S. 26)
+:PROPERTIES:
+:CUSTOM_ID: notiz-4-s.-26
+:END:
+Manipulation durch Propaganda und Angstmache
+
+#+begin_quote
+«Genossen!», quiekte er, «ihr glaubt doch hoffentlich nicht, wir Schweine würden uns
+selbstsüchtig Sonderrechte herausnehmen! [...] Milch und Äpfel (das hat die Wissenschaft
+bewiesen, Genossen) enthalten Substanzen, die für das Wohlergehen eines Schweins
+unabdingbar sind. [...] Wisst ihr, was passieren würde, wenn wir Schweine unsere Pflichten
+vernachlässigen würden? Jones käme zurück!»
+#+end_quote
+
+** Notiz 5 (S. 83)
+:PROPERTIES:
+:CUSTOM_ID: notiz-5-s.-83
+:END:
+Verrat an den ursprünglichen revolutionären Idealen
+
+#+begin_quote
+Aber niemand sprach mehr von den Schwelgereien, von denen Schneeball den Tieren einst
+vorgeträumt hatte, von den Boxen mit elektrischem Licht und heißem und kaltem Wasser oder
+von der Dreitagewoche. Napoleon hatte solche Ideen als Verrat am Geist des Animalismus
+gebrandmarkt.
+#+end_quote
+
+** Notiz 6 (S. 83)
+:PROPERTIES:
+:CUSTOM_ID: notiz-6-s.-83
+:END:
+Entstehung einer neuen privilegierten Klasse
+
+#+begin_quote
+Irgendwie hatte es den Anschein, als wäre die Farm reicher geworden, ohne die Tiere
+reicher zu machen -- bis auf die Schweine und Hunde natürlich. [...] Petzwutz erklärte
+ihnen beispielsweise, die Schweine verwendeten jeden Tag sehr viel Arbeit auf die
+Erstellung von geheimnisvollen Dingen namens «Akten», «Berichten», «Protokollen» und
+«Memoranden».
+#+end_quote
+
+** Notiz 7 (S. 87)
+:PROPERTIES:
+:CUSTOM_ID: notiz-7-s.-87
+:END:
+Perversion der ursprünglichen Gleichheitsidee
+
+#+begin_quote
+Es gab nur noch ein einziges Gebot. Es lautete: > ALLE TIERE SIND GLEICH, > ABER MANCHE
+TIERE SIND > GLEICHER ALS ANDERE.
+#+end_quote
+
+** Notiz 8 (S. 96)
+:PROPERTIES:
+:CUSTOM_ID: notiz-8-s.-96
+:END:
+Kritik an Selbstzensur in der Gesellschaft
+
+#+begin_quote
+Wenn Verleger und Redakteure sich scheuen, bestimmte Themen zum Druck zuzulassen, dann
+haben sie keine Angst vor der Strafverfolgung, sondern vor der öffentlichen Meinung.
+#+end_quote
+
+** Notiz 9 (S. 112-114)
+:PROPERTIES:
+:CUSTOM_ID: notiz-9-s.-112-114
+:END:
+Warnung vor der Macht totalitärer Propaganda
+
+#+begin_quote
+Ich lernte daraus, wie leicht totalitäre Propaganda die Einstellung aufgeklärter Menschen
+in demokratischen Ländern manipulieren kann. [...] In einem solchen Klima versteht der
+Mann auf der Straße einfach nicht, was Konzentrationslager, Massendeportationen,
+Gefängnisstrafen ohne Gerichtsverfahren, Pressezensur und so weiter sind.
+#+end_quote
+
+** Notiz 10 (S. 127)
+:PROPERTIES:
+:CUSTOM_ID: notiz-10-s.-127
+:END:
+Universalität der Geschichte von Macht und Korruption
+
+#+begin_quote
+Es ist eine archaische Geschichte und eine universale, eine, die sich immerzu wiederholt,
+von Beginn der Menschheit an. Jeder große Sieg, jeder revolutionäre Akt zerfasert schnell
+und meist gewaltsam im Klein-Klein konkurrierender Interessen.
+#+end_quote
+
+** Notiz 11 (S. 128)
+:PROPERTIES:
+:CUSTOM_ID: notiz-11-s.-128
+:END:
+Historische Allegorie und Symbolik
+
+#+begin_quote
+Der politisch alerte, und umso mehr der damalige zeitgenössische Leser erkennt zwar auf
+jeder Seite die historischen Bezüge: Napoleon für Stalin, Schneeball für Trotzki, Old
+Major für Lenin, Boxer für die gläubige Arbeiterklasse, die Hunde als Geheimpolizei, der
+Rabe für die orthodoxe Kirche.
+#+end_quote
+
+** Notiz 12 (S. 130)
+:PROPERTIES:
+:CUSTOM_ID: notiz-12-s.-130
+:END:
+Verbindung zu "1984" und moralische Dimension
+
+#+begin_quote
+1984, Orwells letzter, der Krankheit abgerungener und wahrscheinlich berühmtester Roman,
+ist die thematische Fortsetzung der Animal Farm, nur mit ganz anderen Mitteln. [...] Die
+beiden Bücher gehören ebenso sehr zusammen, wie sie sich in ihrem Charakter, ihrer
+Tonalität und Machart eklatant unterscheiden.
+#+end_quote
