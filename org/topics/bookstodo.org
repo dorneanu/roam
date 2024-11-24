@@ -1,21 +1,21 @@
 #+created: 20200918184135289
 #+modified: 20220424180131801
 #+revision: 0
-#+tags: TODO
 #+title: Books/TODO
 #+type: text/vnd.tiddlywiki
 This is my personal book TODO list, along with the year in which I added the book to the list.
 
 * 2024
+- 2024-11-22 ◦ [[https://www.goodreads.com/book/show/60878390-earth-for-all?from_search=true&from_srp=true&qid=Iy5nhrUUux&rank=1][Earth for All: A Survival Guide for Humanity by Sandrine Dixson-Decleve | Goodreads]]
 - 2024-10-08 ◦ [[https://www.goodreads.com/book/show/60690050-engineering-in-plain-sight][Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment by Grady Hillhouse | Goodreads]]
 - 2024-06-19 ◦ [[https://www.goodreads.com/book/show/37901578-26-marathons][26 Marathons: What I Learned About Faith, Identity, Running, and Life from My Marathon Career by Meb Keflezighi | Goodreads]]
 - 2024-06-19 ◦ [[https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running][What I Talk About When I Talk About Running by Haruki Murakami | Goodreads]]
 - 2024-06-19 ◦ [[https://www.goodreads.com/book/show/42771901-how-to-do-nothing][How to Do Nothing: Resisting the Attention Economy by Jenny Odell | Goodreads]]
 - 2024-05-23 ◦ [[https://www.scotthyoung.com/blog/getbetter/][Get Better at Anything - Scott H Young]]
-- 2024-04-02 ◦ [[https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat][Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat | Goodreads]]
+- ✅ 2024-04-02 ◦ [[https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat][Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat | Goodreads]] ([[id:28aae429-94b8-4dfc-8650-00814f1faa35][Notes of Salz.Fett.Säure.Hitze]])
 * 2023
 - 2023-01-24 ◦ [[https://www.goodreads.com/book/show/396931.The_Origins_of_Totalitarianism][The Origins of Totalitarianism by Hannah Arendt]]
-- 2023-01-25 ◦ [[https://www.goodreads.com/en/book/show/50998056-the-ministry-for-the-future][The Ministry for the Future by Kim Stanley Robinson]]
+- ✅ 2023-01-25 ◦ [[https://www.goodreads.com/en/book/show/50998056-the-ministry-for-the-future][The Ministry for the Future by Kim Stanley Robinson]]
 - 2023-02-02 ◦ [[https://www.goodreads.com/book/show/13542827-words-can-change-your-brain][Words Can Change Your Brain: 12 Conversation Strategies to Build Trust, Resolve Conflict, and Increase Intimacy by Andrew B. Newberg | Goodreads]]
 - 2023-02-02 ◦ [[https://www.goodreads.com/book/show/11324722-the-righteous-mind][The Righteous Mind: Why Good People Are Divided by Politics and Religion by Jonathan Haidt | Goodreads]]
 - 2023-10-31 ◦ [[https://www.goodreads.com/en/book/show/35804366][Jaws: The Story of a Hidden Epidemic by Sandra Kahn | Goodreads]]
