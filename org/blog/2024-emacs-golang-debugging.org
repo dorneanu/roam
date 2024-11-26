@@ -291,8 +291,13 @@ Let's have a look at the *core components*.
 
 The ~Task~ represents our core domain model which we'll use to demonstrate different debugging scenarios:
 
+#+name: task_store_task
 #+caption: task_store.go: Task entity
-#+begin_src go
+#+begin_src go :tangle no
+import (
+    "fmt"
+)
+
 type Task struct {
     ID          int    `json:"id"`
     Title       string `json:"title"`
@@ -304,8 +309,9 @@ type Task struct {
 
 The ~TaskStore~ handles our in-memory data operations:
 
+#+name: task_store_store
 #+caption: task_store.go: The TaskStore storing multiple tasks
-#+begin_src go
+#+begin_src go :tangle no
 type TaskStore struct {
     tasks  map[int]Task
     nextID int
@@ -329,8 +335,9 @@ The API should expose following endpoints:
 - =POST /task/create= - Creates a new task
 - =GET /task/get?id=<id>= - Retrieves a task by ID
 
+#+name: task_store_api
 #+caption: task_store.go: Rest API handlers
-#+begin_src go
+#+begin_src go :tangle no
 // CreateTask stores a given Task internally
 func (ts *TaskStore) CreateTask(task Task) Task {
 	task.ID = ts.nextID
@@ -358,6 +365,12 @@ func (ts *TaskStore) UpdateTask(id int, task Task) error {
 	return nil
 }
 
+#+end_src
+
+#+begin_src go :noweb yes :exports none
+<<task_store_task>>
+<<task_store_store>>
+<<task_store_api>>
 #+end_src
 **** Server
 :properties:
@@ -735,7 +748,7 @@ In Emacs I would then call ~ginkgo-run-this-container~ as shown in this screensh
 
 [[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-ginkgo.png]]
 
-* WIP Basic Debugging with Delve and Dape
+* Basic Debugging with Delve and Dape
 In order to debug our Task API we have following approaches
 - we can /launch/ the application directly and debug it
 - we can /attach/ to a running process
@@ -762,11 +775,11 @@ TODO: Describe different approaches described [[https://github.com/emacs-lsp/dap
 
 As I've mentioned at the beginning I like to keep my debugging profiles in ~.dir-locals~ for each propject:
 
+#+name: debug-profile1
 #+caption: .dir-locals.el (only the launch debug profile is configured)
-#+begin_src emacs-lisp :tangle (org-sbe code-dir (filename \".dir-locals.el\"))
-((go-mode . ((dape-configs .
+#+begin_src emacs-lisp :tangle no
    ;; Profile 1: Launch application and start DAP server
-   ((go-debug-taskapi
+   (go-debug-taskapi
      modes (go-mode go-ts-mode)
      command "dlv"
      command-args ("dap" "--listen" "127.0.0.1:55878")
@@ -777,8 +790,9 @@ As I've mentioned at the beginning I like to keep my debugging profiles in ~.dir
      :mode "debug"
      :type "go"
      :showLog "true"
-     :program "."))))))
+     :program ".")
 #+end_src
+
 
 💡 You may want to use a different value for ~command-cwd~ (the default setting is ~dape-cwd-fn~). In my case I wanted to start the debugger in a directory which currently is not a project. ~default-directory~ is a variable which holds the working directory for the current buffer you're currently in.
 
@@ -820,22 +834,9 @@ Start debugging:
 
 Let's say you now want to connect to an existing debugging session: 
 
+#+name: debug-profile2
 #+caption: Additional config for attaching to a running process
-#+begin_src emacs-lisp :tangle (org-sbe code-dir (filename \".dir-locals.el\"))
-((go-mode . ((dape-configs .
-   ;; Profile 1: Launch application and start DAP server
-   ((go-debug-taskapi
-     modes (go-mode go-ts-mode)
-     command "dlv"
-     command-args ("dap" "--listen" "127.0.0.1:55878")
-     command-cwd default-directory
-     host "127.0.0.1"
-     port 55878
-     :request "launch"
-     :mode "debug"
-     :type "go"
-     :showLog "true"
-     :PROGRAM ".")
+#+begin_src emacs-lisp :tangle no
     ;; Profile 2: Attach to external debugger   
     (go-attach-taskapi
      modes (go-mode go-ts-mode)
@@ -846,7 +847,7 @@ Let's say you now want to connect to an existing debugging session:
      :request "attach"  ;; this will run "dlv attach ..."  
      :mode "remote"     ;; connect to a running debugger session
      :type "go"
-     :showLog "true"))))))
+     :showLog "true")
 #+end_src
 
 Now let's start the *debugger* on the CLI:
@@ -863,9 +864,7 @@ Got a connection, launched process /home/victor/repos/priv/blog/static/code/2024
 Now within Emacs you can launch ~dape~ and select the ~go-attach-taskapi~ profile:
 
 
-#+DOWNLOADED: screenshot @ 2024-11-20 06:28:30
 [[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-attach-to-external-debugger.png]]
-
 
 ** Profile 3: Attach to a running process
  
@@ -888,43 +887,10 @@ ps -A | grep -m1 taskapi | awk '{print $1}'
 56491
 #+end_src
 
-Now attach debugger to the running process:
-#+caption: Attach debugger to running process and start DAP server
-#+begin_src shell
-$ dlv attach 54854 --listen=localhost:55878 --headless
-API server listening at: 127.0.0.1:55878
-#+end_src
-
 Now let's add a 3rd debug profile:
 
-#+begin_src emacs-lisp :tangle (org-sbe code-dir (filename \".dir-locals.el\"))
-((go-mode . ((dape-configs .
-   ;; Profile 1: Launch application and start DAP server
-   ((go-debug-taskapi
-     modes (go-mode go-ts-mode)
-     command "dlv"
-     command-args ("dap" "--listen" "127.0.0.1:55878")
-     command-cwd default-directory
-     host "127.0.0.1"
-     port 55878
-     :request "launch"
-     :mode "debug"
-     :type "go"
-     :showLog "true"
-     :program ".")
-     
-    ;; Profile 2: Attach to external debugger   
-    (go-attach-taskapi
-     modes (go-mode go-ts-mode)
-     command "dlv"
-     command-cwd default-directory
-     host "127.0.0.1"   ;; can also be skipped
-     port 55878
-     :request "attach"  ;; this will run "dlv attach ..."  
-     :mode "remote"     ;; connect to a running debugger session
-     :type "go"
-     :showLog "true")
-     
+#+name: debug-profile3
+#+begin_src emacs-lisp :tangle no
     ;; Profile 3: Attach to running process (by PID)
     (go-attach-pid
      modes (go-mode go-ts-mode)
@@ -937,8 +903,11 @@ Now let's add a 3rd debug profile:
      :mode "local"      ;; Attach to a running process local to the server     
      :type "go"
      :processId (+get-process-id-by-name "taskapi")
-     :showLog "true")))
+     :showLog "true")
+#+end_src
 
+#+name: get-process-id-by-name
+#+begin_src emacs-lisp :tangle no
      ;; Add helpful function 
      (eval . (progn
                (defun +get-process-id-by-name (process-name)
@@ -955,80 +924,99 @@ Now let's add a 3rd debug profile:
 
                    ;; Clean up the output and return first PID
                    (when (and pid (not (string-empty-p pid)))
-                     (car (split-string pid "\n" t))))))))))
-
+                     (car (split-string pid "\n" t)))))))
 #+end_src
 
 I've also added ~+get-process-id-by-name~ which will return the process ID for the ~taskapi~ application. 
-Now you can use the same debug profile (~go-attach-taskapi~) to connect to the debugger:
+Now you can use the same debug profile (~go-attach-taskapi~) to start a new DAP server and let it attach to a running processs.
 
 
-* TODO Advanced Debugging Techniques
+#+caption: Set breakpoint to CreateTask
+[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-attach-running-process-breakpoint.png]]
 
-** Extended Debug Configurations
+Now I start the debugger:
 
-#+begin_src elisp
-;; Configuration for debugging with environment variables
-(add-to-list 'dape-configs
-             `(debug-task-api-with-env
-               modes (go-mode)
-               command "dlv"
-               command-args ("dap" "--listen" "127.0.0.1:${:port}")
-               command-cwd dape-cwd-fn
-               port :autoport
-               :type "debug"
-               :request "launch"
-               :name "Debug with Environment"
-               :program ,(expand-file-name "./main.go")
-               :env ((list "APP_ENV" "development")
-                    (list "DEBUG_LEVEL" "debug"))))
+#+caption: Specify PID
+[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-attach-running-process-pid.png]]
+
+If I now send a POST request like this one:
+
+#+begin_src shell
+curl -X POST -s http://localhost:8080/task/create \
+-H "Content-Type: application/json" \
+-d '{"title":"Learn Debugging","description":"Master Emacs debugging with dape","done":false}'
 #+end_src
 
-** Remote Debugging
+The debugger should automatically halt at the set breakpoint:
 
-*** Setting Up Remote Debugging
 
-1. On remote machine:
-#+begin_src bash
-dlv debug --headless --listen=:2345 --api-version=2 --accept-multiclient ./main.go
+#+caption: Running debugger
+[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-attach-running-process-debugging.png]]
+
+
+** Tangling                                                        :noexport:
+#+begin_src emacs-lisp :noweb yes :tangle (org-sbe code-dir (filename \".dir-locals.el\")) :exports none
+((go-mode . ((dape-configs . (
+   ;; Beginning of debug profiles
+   <<debug-profile1>>
+   <<debug-profile2>>
+   <<debug-profile3>>
+   <<debug-profile4>>
+   ))
+   ;; End of dape-configs
+   <<get-process-id-by-name>>
+)))
+
 #+end_src
-
-2. Local configuration:
-#+begin_src elisp
-(add-to-list 'dape-configs
-             `(remote-debug-config
-               modes (go-mode)
-               command nil  ; No local command needed
-               :type "debug"
-               :request "attach"
-               :name "Remote Debug"
-               :mode "remote"
-               :host "remote-host"
-               :port 2345
-               :substitutePath [("/remote/path" "/local/path")]))
-#+end_src
-
 * TODO Debugging Ginkgo Tests
 
 ** Dape Configuration for Ginkgo
-
-#+begin_src elisp
-(add-to-list 'dape-configs
-             `(debug-ginkgo-tests
-               modes (go-mode)
-               command "dlv"
-               command-args ("dap" "--listen" "127.0.0.1:${:port}")
-               command-cwd dape-cwd-fn
-               port :autoport
-               :type "debug"
-               :request "launch"
-               :name "Debug Ginkgo Tests"
-               :mode "test"
-               :program ,(expand-file-name "./")
-               :args ["ginkgo" "--v" "--focus" "${focusString}"]
-               :buildFlags ["-tags=testing"]))
+This is the basic configuration for debugging Ginkgo tests:
+#+name: debug-profile4
+#+begin_src emacs-lisp :tangle no
+    ;; Profile 4: Debug Ginkgo tests
+    (go-test-ginkgo
+     modes (go-mode go-ts-mode)
+     command "dlv"
+     command-args ("dap" "--listen" "127.0.0.1:55878" "--log")
+     command-cwd default-directory
+     host "127.0.0.1"   
+     port 55878
+     :request "launch"  
+     :mode "test"      ;; Debug tests
+     :type "go"
+     :args ["-ginkgo.v" "-ginkgo.focus" "should create and return a task with an ID"]
+     :program ".")
 #+end_src
 
+For running ginkgo tests I use [[https://github.com/garslo/ginkgo-mode][ginkgo-mode]] which has several features:
+
+
+#+DOWNLOADED: screenshot @ 2024-11-26 06:57:49
+[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-ginkgo-mode-options.png]]
+
+
+#+DOWNLOADED: screenshot @ 2024-11-26 06:55:40
+[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-ginkgo-focus-on-container.png]]
+
+And as an output I get:
+
+#+caption: Ginkgo output
+#+begin_src shell
+Running Suite: Task API Suite - /home/victor/repos/priv/blog/static/code/2024/emacs-golang-debugging
+======================================================================================================
+Random Seed: 1732600680
+
+Will run 1 of 5 specs
+•SSSS
+
+Ran 1 of 5 Specs in 0.001 seconds
+SUCCESS! -- 1 Passed | 0 Failed | 0 Pending | 4 Skipped
+PASS
+
+Ginkgo ran 1 suite in 1.481440083s
+Test Suite Passed
+#+end_src
 ** Helper Functions
 
 #+begin_src elisp
@@ -1050,6 +1038,7 @@ dlv debug --headless --listen=:2345 --api-version=2 --accept-multiclient ./main.
                         :args ["ginkgo" "--v" "--focus" ,focus-string]))))
     (dape)))
 #+end_src
+
 
 ** Common Test Debugging Patterns
 
@@ -1124,5 +1113,5 @@ This are some configuration variables:
 # org-download-screenshot-basename: ".png"
 # org-download-heading-lvl: nil
 # org-agenda-files: nil
-# org-export-babel-evaluate: nil
+# org-export-babel-evaluate: t
 # end:
