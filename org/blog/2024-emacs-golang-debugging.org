@@ -5,6 +5,7 @@
 #+draft: true
 #+property: header-args :mkdirp yes
 #+macro: imglocal http://127.0.0.1:8888/public/img/$1
+#+macro: repolink @@html:<a href="https://github.com/dorneanu/blog/tree/master/static/code/2024/emacs-golang-debugging/$1">$1</a>@@
 
 * Introduction
 
@@ -292,7 +293,7 @@ Let's have a look at the *core components*.
 The ~Task~ represents our core domain model which we'll use to demonstrate different debugging scenarios:
 
 #+name: task_store_task
-#+caption: task_store.go: Task entity
+#+caption: {{{repolink(task_store.go)}}}: Task entity
 #+begin_src go :tangle no
 import (
     "fmt"
@@ -310,7 +311,7 @@ type Task struct {
 The ~TaskStore~ handles our in-memory data operations:
 
 #+name: task_store_store
-#+caption: task_store.go: The TaskStore storing multiple tasks
+#+caption: {{{repolink(task_store.go)}}}: The TaskStore storing multiple tasks
 #+begin_src go :tangle no
 type TaskStore struct {
     tasks  map[int]Task
@@ -318,10 +319,10 @@ type TaskStore struct {
 }
 
 func NewTaskStore() *TaskStore {
-	return &TaskStore{
-		tasks:  make(map[int]Task),
-		nextID: 1,
-	}
+    return &TaskStore{
+        tasks:  make(map[int]Task),
+        nextID: 1,
+    }
 }
 
 #+end_src
@@ -336,42 +337,37 @@ The API should expose following endpoints:
 - =GET /task/get?id=<id>= - Retrieves a task by ID
 
 #+name: task_store_api
-#+caption: task_store.go: Rest API handlers
+#+caption: {{{repolink(task_store.go)}}}: Rest API handlers
 #+begin_src go :tangle no
 // CreateTask stores a given Task internally
 func (ts *TaskStore) CreateTask(task Task) Task {
-	task.ID = ts.nextID
-	ts.tasks[task.ID] = task
-	ts.nextID++
-	return task
+    task.ID = ts.nextID
+    ts.tasks[task.ID] = task
+    ts.nextID++
+    return task
 }
 
 // GetTask retrieves a Task by ID
 func (ts *TaskStore) GetTask(id int) (Task, error) {
-	task, exists := ts.tasks[id]
-	if !exists {
-		return Task{}, fmt.Errorf("task with id %d not found", id)
-	}
-	return task, nil
+    task, exists := ts.tasks[id]
+    if !exists {
+        return Task{}, fmt.Errorf("task with id %d not found", id)
+    }
+    return task, nil
 }
 
 // UpdateTask updates task ID with a new Task object
 func (ts *TaskStore) UpdateTask(id int, task Task) error {
-	if _, exists := ts.tasks[id]; !exists {
-		return fmt.Errorf("task with id %d not found", id)
-	}
-	task.ID = id
-	ts.tasks[id] = task
-	return nil
+    if _, exists := ts.tasks[id]; !exists {
+        return fmt.Errorf("task with id %d not found", id)
+    }
+    task.ID = id
+    ts.tasks[id] = task
+    return nil
 }
 
 #+end_src
 
-#+begin_src go :noweb yes :exports none
-<<task_store_task>>
-<<task_store_store>>
-<<task_store_api>>
-#+end_src
 **** Server
 :properties:
 :header-args:go: :tangle (org-sbe code-dir (filename \"task_server.go\")) :main no
@@ -379,53 +375,55 @@ func (ts *TaskStore) UpdateTask(id int, task Task) error {
 
 Let's continue with the server:
 
+#+name: task_server_api_handlers
+#+caption: {{{repolink(task_server.go)}}}: API handlers
 #+begin_src go
 package main
 
 import (
-	"encoding/json"
-	"fmt"
-	"net/http"
+    "encoding/json"
+    "fmt"
+    "net/http"
 )
 
 // Server implements a web application for managing tasks
 type Server struct {
-	store *TaskStore
+    store *TaskStore
 }
 
 func (s *Server) handleCreateTask(w http.ResponseWriter, r *http.Request) {
-	if r.Method != http.MethodPost {
-		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
-		return
-	}
-	var task Task
-	if err := json.NewDecoder(r.Body).Decode(&task); err != nil {
-		http.Error(w, err.Error(), http.StatusBadRequest)
-		return
-	}
+    if r.Method != http.MethodPost {
+        http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+        return
+    }
+    var task Task
+    if err := json.NewDecoder(r.Body).Decode(&task); err != nil {
+        http.Error(w, err.Error(), http.StatusBadRequest)
+        return
+    }
 
-	createdTask := s.store.CreateTask(task)
-	w.Header().Set("Content-Type", "application/json")
-	json.NewEncoder(w).Encode(createdTask)
+    createdTask := s.store.CreateTask(task)
+    w.Header().Set("Content-Type", "application/json")
+    json.NewEncoder(w).Encode(createdTask)
 }
 
 func (s *Server) handleGetTask(w http.ResponseWriter, r *http.Request) {
-	if r.Method != http.MethodGet {
-		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
-		return
-	}
-	// For demonstration, we'll extract ID from query parameter
-	id := 0
-	fmt.Sscanf(r.URL.Query().Get("id"), "%d", &id)
+    if r.Method != http.MethodGet {
+        http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+        return
+    }
+    // For demonstration, we'll extract ID from query parameter
+    id := 0
+    fmt.Sscanf(r.URL.Query().Get("id"), "%d", &id)
 
-	task, err := s.store.GetTask(id)
-	if err != nil {
-		http.Error(w, err.Error(), http.StatusNotFound)
-		return
-	}
+    task, err := s.store.GetTask(id)
+    if err != nil {
+        http.Error(w, err.Error(), http.StatusNotFound)
+        return
+    }
 
-	w.Header().Set("Content-Type", "application/json")
-	json.NewEncoder(w).Encode(task)
+    w.Header().Set("Content-Type", "application/json")
+    json.NewEncoder(w).Encode(task)
 }
 #+end_src
 ** main package
@@ -433,23 +431,24 @@ func (s *Server) handleGetTask(w http.ResponseWriter, r *http.Request) {
 :header-args:go: :tangle (org-sbe code-dir (filename \"main.go\")) :main no
 :end:
 
-#+caption: main.go
+#+name: main-function
+#+caption: {{{repolink(main.go)}}}
 #+begin_src go
 package main
 
 import (
-	"log"
+    "log"
     "net/http"
 )
 
 func main() {
-	store := NewTaskStore()
-	server := &Server{store: store}
-	http.HandleFunc("/task/create", server.handleCreateTask)
-	http.HandleFunc("/task/get", server.handleGetTask)
+    store := NewTaskStore()
+    server := &Server{store: store}
+    http.HandleFunc("/task/create", server.handleCreateTask)
+    http.HandleFunc("/task/get", server.handleGetTask)
 
-	log.Printf("Starting server on :8080")
-	log.Fatal(http.ListenAndServe(":8080", nil))
+    log.Printf("Starting server on :8080")
+    log.Fatal(http.ListenAndServe(":8080", nil))
 }
 #+end_src
 ** go.mod
@@ -476,32 +475,31 @@ go: found github.com/onsi/gomega in github.com/onsi/gomega v1.35.1
 #+end_src
 
 Check dependencies:
-#+begin_src shell :dir (org-sbe code-dir (filename \"\")) :results code
+#+begin_src shell :dir (org-sbe code-dir (filename \"\"))
 cat go.mod
 #+end_src
 
-#+RESULTS:
-#+caption: Results
-#+begin_src shell
+#+caption: {{{repolink(go.mod)}}}
+#+begin_src go
 module taskapi
 
 go 1.23.0
 
 require (
-	github.com/onsi/ginkgo/v2 v2.21.0
-	github.com/onsi/gomega v1.35.1
+    github.com/onsi/ginkgo/v2 v2.21.0
+    github.com/onsi/gomega v1.35.1
 )
 
 require (
-	github.com/go-logr/logr v1.4.2 // indirect
-	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
-	github.com/google/go-cmp v0.6.0 // indirect
-	github.com/google/pprof v0.0.0-20241029153458-d1b30febd7db // indirect
-	golang.org/x/net v0.30.0 // indirect
-	golang.org/x/sys v0.26.0 // indirect
-	golang.org/x/text v0.19.0 // indirect
-	golang.org/x/tools v0.26.0 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
+    github.com/go-logr/logr v1.4.2 // indirect
+    github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
+    github.com/google/go-cmp v0.6.0 // indirect
+    github.com/google/pprof v0.0.0-20241029153458-d1b30febd7db // indirect
+    golang.org/x/net v0.30.0 // indirect
+    golang.org/x/sys v0.26.0 // indirect
+    golang.org/x/text v0.19.0 // indirect
+    golang.org/x/tools v0.26.0 // indirect
+    gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 #+end_src
 
@@ -536,7 +534,6 @@ curl -X POST -s http://localhost:8080/task/create \
 -d '{"title":"Learn Debugging","description":"Master Emacs debugging with dape","done":false}'
 #+end_src
 
-#+RESULTS:
 #+caption: Results
 #+begin_src json
 {"id":3,"title":"Learn Debugging","description":"Master Emacs debugging with dape","done":false}
@@ -548,7 +545,6 @@ Let's see if we can fetch it:
 curl -X GET -s "http://localhost:8080/task/get?id=1"
 #+end_src
 
-#+RESULTS:
 #+caption: Results
 #+begin_src json
 {"id":1,"title":"Learn Debugging","description":"Master Emacs debugging with dape","done":false}
@@ -561,7 +557,8 @@ curl -X GET -s "http://localhost:8080/task/get?id=1"
 :end:
 Below are some unit tests (writen in Ginkgo) for the ~TaskStore~:
 
-#+caption: task_test.go
+#+name: task_test
+#+caption: {{{repolink(task_test.go)}}}
 #+begin_src go
 package main
 import (
@@ -694,9 +691,8 @@ Now we should have a full list of dependencies in our ~go.mod~ file:
 cat go.mod
 #+end_src
 
-#+RESULTS:
 #+caption: Results
-#+begin_src shell
+#+begin_src go
 module taskapi
 
 go 1.23.0
@@ -725,7 +721,6 @@ Let's run the tests:
 go test -v
 #+end_src
 
-#+RESULTS:
 #+caption: Results
 #+begin_src shell
 === RUN   TestTasks
@@ -770,13 +765,12 @@ In order to debug our Task API we have following approaches
 
 So for each ~request~ we have different ~modes~. For the ~attach~ request type I'll only focus on the ~remote~ mode which requires you to start the debugger externally and then use the DAP client (within Emacs) to connect to it. I couldn't find any way how to interactively select the process ID before starting the debugger client. Now let's delve into each workflow.
 
-TODO: Describe different approaches described [[https://github.com/emacs-lsp/dap-mode/issues/318#issuecomment-1104813373][here]]. 
 ** Profile 1: Launch application
 
 As I've mentioned at the beginning I like to keep my debugging profiles in ~.dir-locals~ for each propject:
 
 #+name: debug-profile1
-#+caption: .dir-locals.el (only the launch debug profile is configured)
+#+caption: {{{repolink(.dir-locals.el)}}} (only the launch debug profile is configured)
 #+begin_src emacs-lisp :tangle no
    ;; Profile 1: Launch application and start DAP server
    (go-debug-taskapi
@@ -835,7 +829,7 @@ Start debugging:
 Let's say you now want to connect to an existing debugging session: 
 
 #+name: debug-profile2
-#+caption: Additional config for attaching to a running process
+#+caption: {{{repolink(.dir-locals.el)}}}: Additional config for attaching to a running process
 #+begin_src emacs-lisp :tangle no
     ;; Profile 2: Attach to external debugger   
     (go-attach-taskapi
@@ -890,6 +884,7 @@ ps -A | grep -m1 taskapi | awk '{print $1}'
 Now let's add a 3rd debug profile:
 
 #+name: debug-profile3
+#+caption: {{{repolink(.dir-locals.el)}}}: Attach to running process (by pid)
 #+begin_src emacs-lisp :tangle no
     ;; Profile 3: Attach to running process (by PID)
     (go-attach-pid
@@ -907,6 +902,7 @@ Now let's add a 3rd debug profile:
 #+end_src
 
 #+name: get-process-id-by-name
+#+caption: {{{repolink(.dir-locals.el)}}}: Helper function
 #+begin_src emacs-lisp :tangle no
      ;; Add helpful function 
      (eval . (progn
@@ -964,33 +960,16 @@ The debugger should automatically halt at the set breakpoint:
    <<debug-profile4>>
    ))
    ;; End of dape-configs
+
+   ;; Helper functions
    <<get-process-id-by-name>>
 )))
 
 #+end_src
-* TODO Debugging Ginkgo Tests
+* Debugging Ginkgo Tests
 
 ** Dape Configuration for Ginkgo
-This is the basic configuration for debugging Ginkgo tests:
-#+name: debug-profile4
-#+begin_src emacs-lisp :tangle no
-    ;; Profile 4: Debug Ginkgo tests
-    (go-test-ginkgo
-     modes (go-mode go-ts-mode)
-     command "dlv"
-     command-args ("dap" "--listen" "127.0.0.1:55878" "--log")
-     command-cwd default-directory
-     host "127.0.0.1"   
-     port 55878
-     :request "launch"  
-     :mode "test"      ;; Debug tests
-     :type "go"
-     :args ["-ginkgo.v" "-ginkgo.focus" "should create and return a task with an ID"]
-     :program ".")
-#+end_src
-
 For running ginkgo tests I use [[https://github.com/garslo/ginkgo-mode][ginkgo-mode]] which has several features:
-
 
 #+DOWNLOADED: screenshot @ 2024-11-26 06:57:49
 [[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-ginkgo-mode-options.png]]
@@ -1017,47 +996,97 @@ PASS
 Ginkgo ran 1 suite in 1.481440083s
 Test Suite Passed
 #+end_src
-** Helper Functions
 
-#+begin_src elisp
+This is the basic configuration for debugging Ginkgo tests:
+
+#+name: debug-profile4
+#+begin_src emacs-lisp :tangle no
+    ;; Profile 4: Debug Ginkgo tests
+    (go-test-ginkgo
+     modes (go-mode go-ts-mode)
+     command "dlv"
+     command-args ("dap" "--listen" "127.0.0.1:55878" "--log")
+     command-cwd default-directory
+     host "127.0.0.1"   
+     port 55878
+     :request "launch"  
+     :mode "test"      ;; Debug tests
+     :type "go"
+     :args ["-ginkgo.v" "-ginkgo.focus" "should create and return a task with an ID"]
+     :program ".")
+#+end_src
+
+If I chose the ~go-test-ginkgo~ debug profile I should be able to debug the tests as shown in this screenshot:
+
+#+DOWNLOADED: screenshot @ 2024-11-27 06:12:15
+[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-ginkgo-debug-profile.png]]
+
+Now the configuration is quite static and therefore you cannot preselect the unit test / container. We need to somehow make the parameter ~-ginkgo.focus~ dynamic. 
+
+
+#+name: debug-ginkgo-focus
+#+begin_src emacs-lisp :tangle no
 (defun my/dape-debug-ginkgo-focus (focus-string)
   "Start debugging Ginkgo tests with a specific focus string."
   (interactive "sEnter focus string: ")
-  (let ((dape-configs (list
-                      `(debug-focused-test
-                        modes (go-mode)
-                        command "dlv"
-                        command-args ("dap" "--listen" "127.0.0.1:${:port}")
-                        command-cwd dape-cwd-fn
-                        port :autoport
-                        :type "debug"
-                        :request "launch"
-                        :name "Debug Focused Test"
-                        :mode "test"
-                        :program ,(expand-file-name "./")
-                        :args ["ginkgo" "--v" "--focus" ,focus-string]))))
-    (dape)))
+  (make-local-variable 'dape-configs)  ; Make buffer-local copy of dape-configs
+  (setq dape-configs
+        (list
+         `(debug-focused-test
+           modes (go-mode)
+           command "dlv"
+           command-args ("dap" "--listen" "127.0.0.1:55878")
+           command-cwd default-directory
+           port 55878
+           :request "launch"
+           :name "Debug Focused Test"
+           :mode "test"
+           :program "."
+           :args ["-ginkgo.v" "-ginkgo.focus" ,focus-string]))))
 #+end_src
 
+#+caption: Call my/dape-debug-ginkgo-focus
+[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-debug-ginkgo-call-function.png]]
 
-** Common Test Debugging Patterns
+#+caption: Set Ginkgo focus string
+[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-debug-ginkgo-set-focus-string.png]]
 
-#+begin_src elisp
-;; Watch expression for test setup
-(defun my/watch-test-setup ()
-  (interactive)
-  (dape-watch-dwim "store")
-  (dape-watch-dwim "server")
-  (dape-watch-dwim "server.store.tasks"))
+Afterwards If I have a look at the ~dape-configs~ variable I should see this value:
 
-;; Watch expression for test data
-(defun my/watch-test-task ()
-  (interactive)
-  (dape-watch-dwim "task")
-  (dape-watch-dwim "payload")
-  (dape-watch-dwim "string(payload)"))
+#+begin_src emacs-lisp :tangle no
+Value:
+((debug-focused-test modes
+                     (go-mode)
+                     command "dlv" command-args
+                     ("dap" "--listen" "127.0.0.1:55878")
+                     command-cwd default-directory port 55878 :request "launch" :name "Debug Focused Test" :mode "test" :program "." :args
+                     ["-ginkgo.v" "-ginkgo.focus" "when using invalid*"]))
 #+end_src
 
+After starting the debugger (with the ~debug-focused-test~ profile) in the dape-repl buffer I get:
+
+#+begin_src shell
+Welcome to Dape REPL!
+Available Dape commands: debug, next, continue, pause, step, out, up, down, restart, kill, disconnect, quit
+Empty input will rerun last command.
+
+DAP server listening at: 127.0.0.1:55878
+debugserver-@(#)PROGRAM:LLDB  PROJECT:lldb-1600.0.39.3
+ for arm64.
+Got a connection, launched process /home/victor/repos/priv/blog/static/code/2024/emacs-golang-debugging/__debug_bin2799839715 (pid = 31882).
+Type 'dlv help' for list of commands.
+Running Suite: Task API Suite - /home/victor/repos/priv/blog/static/code/2024/emacs-golang-debugging
+======================================================================================================
+Random Seed: 1732685749
+
+❶ Will run 1 of 5 specs 
+SSSS
+------------------------------
+❷ Task API GET /task/get when using invalid task ID should handle non-numeric ID gracefully
+/home/victor/repos/priv/blog/static/code/2024/emacs-golang-debugging/task_store_test.go:108
+#+end_src
+
+💡Notice that just "1 of 5 specs" (❶) were ran, meaning that ~ginkgo~ only focussed on the container we have specified (❷). 
 * TODO Best Practices and Tips
 
 - Always use version control to track your debugging configurations
@@ -1066,35 +1095,13 @@ Test Suite Passed
 - Consider creating project-specific debugging helper functions
 - Document common debugging workflows for your team
 
-* TODO Troubleshooting
-
-** Common Issues
-
-1. Dape connection issues:
-   #+begin_src elisp
-   ;; Try setting explicit port
-   (setq dape-default-port 2345)
-   #+end_src
-
-2. Delve not found:
-   #+begin_src bash
-   # Add to your shell configuration
-   export PATH=$PATH:$(go env GOPATH)/bin
-   #+end_src
-
-3. Project recognition:
-   - Ensure valid =go.mod= file exists
-   - Check if in Git repository (recommended)
-   - Try restarting eglot
-
-* TODO Resources and References
+* Resources and References
 - 2024-11-19 ◦ [[https://github.com/golang/vscode-go/blob/master/docs/debugging.md][vscode-go/docs/debugging.md at master · golang/vscode-go · GitHub]]
 - 2024-11-19 ◦ [[https://github.com/emacs-lsp/dap-mode/issues/318][support delve/dlv dap-mode directly · Issue #318 · emacs-lsp/dap-mode · GitHub]]
 - [[https://github.com/svaante/dape][Dape GitHub Repository]]
 - [[https://github.com/go-delve/delve][Delve Debugger]]
 - [[https://github.com/joaotavora/eglot][Eglot Documentation]]
 - [[https://onsi.github.io/ginkgo/][Ginkgo Testing Framework]]
-#+end_src
 * Config                                                           :noexport:
 This are some configuration variables:
 
