@@ -1,29 +1,49 @@
+:PROPERTIES:
+:ID:       259B201B-8C3F-4EA9-9BFB-1A2A7A6E728B
+:END:
 #+title: Mastering Golang Debugging in Emacs
+#+filetags: :debug:emacs:golang:
 #+author: Victor Dorneanu
-#+date: 2024-11-05
+#+date: 2024-11-28
 #+setupfile: setup.org
-#+draft: true
+#+draft: false
 #+property: header-args :mkdirp yes
 #+macro: imglocal http://127.0.0.1:8888/public/img/$1
 #+macro: repolink @@html:<a href="https://github.com/dorneanu/blog/tree/master/static/code/2024/emacs-golang-debugging/$1">$1</a>@@
 
 * Introduction
+Since I've started developing in Golang I didn't really use the /debugger/. Instead I was
+naively adding ~fmt.Print~ statements everywhere to validate my code 🙈. While print
+statements and logs might be also your first debugging instinct, they often fall short
+when dealing with large and complex code base, with sophisticated runtime behaviour and
+(of course!) complex concurrency issues that seem impossible to reproduce.
 
-Since I've started developing in Golang I didn't use quite use the debugger. Instead I was naively adding ~fmt.Print~ statements everywhere to validate my code 🙈. While print statements and logs might be also your first debugging instinct, they often fall short when dealing with large and complex code base, with sophisticated runtime behaviour and (of course!) complex concurrency issues that seem impossible to reproduce.
+After starting working on more complex projects
+#+begin_sidenote
+Like this one: https://github.com/cloudoperators/heureka
+#+end_sidenote
+I had to force myself to have a deeper look at ~delve~ (the Golang debugger) and
+see what Emacs offers for interacting with it. While the Go ecosystem offers
+excellent debugging tools, integrating them into a comfortable development
+workflow can be challenging.
 
-After starting working on more complex projects I had to force myself to have a deeper look at ~delve~ (the Golang debugger) and see what Emacs offers for interacting with it. While the Go ecosystem offers excellent debugging tools (TODO: Add here list), integrating them into a comfortable development workflow can be challenging. 
-
-In this post I'll elaborate the powerful combination of Emacs, Delve, and dape. Together, these tools create a debugging experience that mimics (and often surpasses) traditional IDEs, while preserving the flexibility and extensibility that Emacs is famous for.
+In this post I'll elaborate the powerful combination of {{{zk_topic(Emacs,Emacs)}}},
+[[https://github.com/go-delve/delve][Delve]], and [[https://github.com/svaante/dape][dape]]. Together, these tools create a debugging experience that mimics
+(and often surpasses) traditional IDEs, while preserving the flexibility and
+extensibility that Emacs is famous for.
 
 This is what you can expect:
 - Set up and configure [[https://github.com/go-delve/delve][Delve]] with [[https://github.com/svaante/dape][dape]]
-- Debug both standard applications and [[https://github.com/onsi/ginkgo][Ginkgo]] tests (this is what I'm using at the moment 🤷)
-- Utilize advanced debugging features like conditional breakpoints 
+- Debug both standard applications and [[https://github.com/onsi/ginkgo][Ginkgo]] tests (this is what I'm using at
+  the moment 🤷)
 - Optimize your debugging workflow with Emacs specific customizations
 
 * Setting Up the Development Environment
 
-In this post I assume you already have some Emacs experience and now how to configure packages and write small ~Elisp~  snippets. I personally use [[https://github.com/radian-software/straight.el][straight.el]] as a package manager, [[https://github.com/jamescherti/minimal-emacs.d][minimal-emacs.d]] as a minimal vanilla Emacs configuration (along with my own [[https://github.com/dorneanu/dotfiles/blob/master/minimal-emacs/config.org][custommizations)]], [[https://github.com/svaante/dape][dape]] as the debug adapter client and [[https://github.com/joaotavora/eglot][eglot]] as my LSP client.
+In this post I assume you already have some Emacs experience and now how to configure
+packages and write small ~Elisp~ snippets. I personally use [[https://github.com/radian-software/straight.el][straight.el]] as a package
+manager, [[https://github.com/jamescherti/minimal-emacs.d][minimal-emacs.d]] as a minimal vanilla Emacs configuration (along with my own
+[[https://github.com/dorneanu/dotfiles/blob/master/minimal-emacs/config.org][custommizations)]], [[https://github.com/svaante/dape][dape]] as the debug adapter client and [[https://github.com/joaotavora/eglot][eglot]] as my /LSP client/.
 
 ** Required Emacs Packages
 
@@ -34,6 +54,7 @@ Check out [[https://github.com/golang/tools/blob/master/gopls/doc/emacs.md#confi
 
 We'll first add ~dape~:
 
+#+caption: Configure dape
 #+begin_src elisp
 (use-package dape
   :straight t
@@ -48,6 +69,7 @@ We'll first add ~dape~:
 
 and ~go-mode~:
 
+#+caption: Configure go-mode
 #+begin_src elisp
 (use-package go-mode
   :straight t
@@ -78,8 +100,8 @@ go install golang.org/x/tools/gopls@latest
 
 Additionally I have a bunch of other tools which I use from time to time:
 
-#+caption: Additional tools
-#+begin_src bash
+#+caption: Additional Golang tools
+#+begin_src shell
 go install github.com/golangci/golangci-lint/cmd/golangci-lint@latest
 go install github.com/onsi/ginkgo/v2/ginkgo@latest
 
@@ -100,6 +122,7 @@ go install -v github.com/rogpeppe/godef@latest
 
 Then you need to configure the corresponding Emacs packages:
 
+#+caption: Configure additional Golang related Emacs packages
 #+begin_src elisp
 (use-package ginkgo
   :straight (:type git :host github :repo "garslo/ginkgo-mode")
@@ -157,7 +180,9 @@ Then you need to configure the corresponding Emacs packages:
 
 ** Dape Configuration
 
-There is no particular reason why I use ~dape~ instead of [[https://github.com/emacs-lsp/dap-mode][dap]]. When I was still using [[https://github.com/abougouffa/minemacs][MinEmacs]] it was part of it and I just got used to it. As the [[https://github.com/svaante/dape?tab=readme-ov-file#differences-with-dap-mode][documentation]] states:
+There is no particular reason why I use ~dape~ instead of [[https://github.com/emacs-lsp/dap-mode][dap]]. When I was still
+using [[https://github.com/abougouffa/minemacs][MinEmacs]] it was part of it and I just got used to it. As the [[https://github.com/svaante/dape?tab=readme-ov-file#differences-with-dap-mode][documentation]]
+states:
 
 #+begin_quote
 - Dape does not support launch.json files, if per project configuration is
@@ -172,7 +197,8 @@ There is no particular reason why I use ~dape~ instead of [[https://github.com/e
   Emacs if vscode never existed.
 #+end_quote
 
-If you ever worked with VSCode you already know that it uses a ~launch.json~ to store different debugging profiles. 
+If you ever worked with VSCode you already know that it uses a ~launch.json~ to
+store different debugging profiles.
 
 #+caption: Sample configuration to debug the current file
 #+begin_src json
@@ -185,7 +211,8 @@ If you ever worked with VSCode you already know that it uses a ~launch.json~ to 
 }
 #+end_src
 
-You have different fields/properties which according to [[https://github.com/microsoft/vscode-go/blob/master/docs/Debugging-Go-code-using-VS-Code.md][this page]] you can tweak in your debugging configuration:
+You have different fields/properties which according to [[https://github.com/microsoft/vscode-go/blob/master/docs/Debugging-Go-code-using-VS-Code.md][this page]] you can tweak
+in your debugging configuration:
 
 #+caption: Properties to use for the Golang debugger
 | Property   | Description                                                                                                                                                                                         |
@@ -206,6 +233,7 @@ You have different fields/properties which according to [[https://github.com/mic
 
 In ~dape~ you can use these properties to setup ~dape-configs~:
 
+#+caption: Basic dape config
 #+begin_src elisp
 ;; Basic dape configuration
 (with-eval-after-load 'dape
@@ -225,7 +253,9 @@ In ~dape~ you can use these properties to setup ~dape-configs~:
                  :args [])))
 #+end_src
 
-Usually I like to store my different debugging profiles in [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Directory-Variables.html][directory variables]] (stored in ~.dir-locals.el~). At the root of each project (you can as well have different configs per folder/package) I store my debugging profiles like this:
+Usually I like to store my different debugging profiles in [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Directory-Variables.html][directory variables]]
+(stored in ~.dir-locals.el~). At the root of each project (you can as well have
+different configs per folder/package) I store my debugging profiles like this:
 
 #+caption: Debugging profiles in ~.dir-locals.el~
 #+begin_src elisp
@@ -269,12 +299,14 @@ Usually I like to store my different debugging profiles in [[https://www.gnu.org
 #+end_src
 
 * Sample Application
-Now let's put our knowledge into practice by debugging a real application implementint a REST API. 
+Now let's put our knowledge into practice by debugging a real application implementint a
+REST API.
 ** Project Structure
 
 Our example is a REST API for task management with the following structure:
 
-#+begin_src
+#+caption: Basic code structure
+#+begin_src 
 taskapi/
 ├── go.mod
 ├── go.sum
@@ -368,12 +400,12 @@ func (ts *TaskStore) UpdateTask(id int, task Task) error {
 
 #+end_src
 
-**** Server
+*** Server
 :properties:
 :header-args:go: :tangle (org-sbe code-dir (filename \"task_server.go\")) :main no
 :end:
 
-Let's continue with the server:
+Let's continue with the *server*:
 
 #+name: task_server_api_handlers
 #+caption: {{{repolink(task_server.go)}}}: API handlers
@@ -555,7 +587,7 @@ curl -X GET -s "http://localhost:8080/task/get?id=1"
 :properties:
 :header-args:go: :tangle (org-sbe code-dir (filename \"task_store_test.go\")) :main no
 :end:
-Below are some unit tests (writen in Ginkgo) for the ~TaskStore~:
+Below are some unit tests (writen in [[https://pkg.go.dev/github.com/onsi/ginkgo][Ginkgo]]) for the ~TaskStore~:
 
 #+name: task_test
 #+caption: {{{repolink(task_test.go)}}}
@@ -741,7 +773,7 @@ ok  	taskapi	0.193s
 
 In Emacs I would then call ~ginkgo-run-this-container~ as shown in this screenshot: 
 
-[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-ginkgo.png]]
+#+html: {{< gbox src="/posts/img/2024/emacs-golang-debugging/emacs-ginkgo.png" title="Ginkgo functions in Emacs" caption="Comfortable way of running different ginkgo container with Emacs" pos="left" >}}
 
 * Basic Debugging with Delve and Dape
 In order to debug our Task API we have following approaches
@@ -793,13 +825,12 @@ As I've mentioned at the beginning I like to keep my debugging profiles in ~.dir
 Start debugging:
 - Run ~dape-info~ to show debugging information
   
-  #+caption: Show debugging related buffers (on the left)
-  [[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-dape-info.png]]
+  #+html: {{< gbox src="/posts/img/2024/emacs-golang-debugging/emacs-dape-info.png" title="Show debugging related buffers" caption="" pos="left" >}}
+
 
 - Create breakpoint using ~dape-breakpoint-toggle~:
 
-  #+caption: Set breakpoint
-  [[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-dape-breakpoint.png]]
+  #+html: {{< gbox src="/posts/img/2024/emacs-golang-debugging/emacs-dape-breakpoint.png" title="Set breakpoint" caption="" pos="left" >}}
 
 - Launch ~dape~
 
@@ -857,8 +888,8 @@ Got a connection, launched process /home/victor/repos/priv/blog/static/code/2024
 
 Now within Emacs you can launch ~dape~ and select the ~go-attach-taskapi~ profile:
 
+#+html: {{< gbox src="/posts/img/2024/emacs-golang-debugging/emacs-attach-to-external-debugger.png" title="Attach to external debugger" caption="" pos="left" >}}
 
-[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-attach-to-external-debugger.png]]
 
 ** Profile 3: Attach to a running process
  
@@ -926,14 +957,11 @@ Now let's add a 3rd debug profile:
 I've also added ~+get-process-id-by-name~ which will return the process ID for the ~taskapi~ application. 
 Now you can use the same debug profile (~go-attach-taskapi~) to start a new DAP server and let it attach to a running processs.
 
-
-#+caption: Set breakpoint to CreateTask
-[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-attach-running-process-breakpoint.png]]
+#+html: {{< gbox src="/posts/img/2024/emacs-golang-debugging/emacs-attach-running-process-breakpoint.png" title="Set breakpoint to CreateTask" caption="" pos="left" >}}
 
 Now I start the debugger:
 
-#+caption: Specify PID
-[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-attach-running-process-pid.png]]
+#+html: {{< gbox src="/posts/img/2024/emacs-golang-debugging/emacs-attach-running-process-pid.png" title="Specify PID" caption="" pos="left" >}}
 
 If I now send a POST request like this one:
 
@@ -945,10 +973,7 @@ curl -X POST -s http://localhost:8080/task/create \
 
 The debugger should automatically halt at the set breakpoint:
 
-
-#+caption: Running debugger
-[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-attach-running-process-debugging.png]]
-
+#+html: {{< gbox src="/posts/img/2024/emacs-golang-debugging/emacs-attach-running-process-debugging.png" title="Running debugger" caption="" pos="left" >}}
 
 ** Tangling                                                        :noexport:
 #+begin_src emacs-lisp :noweb yes :tangle (org-sbe code-dir (filename \".dir-locals.el\")) :exports none
@@ -967,16 +992,16 @@ The debugger should automatically halt at the set breakpoint:
 
 #+end_src
 * Debugging Ginkgo Tests
-
+  Being able to debug tests in Golang is a crucial step in the development
+  process. Until recently it was still a struggle for me, until I've decided to
+  look into ~dape-mode~ and some other details.
+  
 ** Dape Configuration for Ginkgo
 For running ginkgo tests I use [[https://github.com/garslo/ginkgo-mode][ginkgo-mode]] which has several features:
 
-#+DOWNLOADED: screenshot @ 2024-11-26 06:57:49
-[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-ginkgo-mode-options.png]]
+#+html: {{< gbox src="/posts/img/2024/emacs-golang-debugging/emacs-ginkgo-mode-options.png" title="Ginkgo options in Emacs" caption="" pos="left" >}}
 
-
-#+DOWNLOADED: screenshot @ 2024-11-26 06:55:40
-[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-ginkgo-focus-on-container.png]]
+#+html: {{< gbox src="/posts/img/2024/emacs-golang-debugging/emacs-ginkgo-focus-on-container.png" title="Focus on specific container" caption="" pos="left" >}}
 
 And as an output I get:
 
@@ -1000,6 +1025,7 @@ Test Suite Passed
 This is the basic configuration for debugging Ginkgo tests:
 
 #+name: debug-profile4
+#+caption: Debug profile for Ginkgo tests
 #+begin_src emacs-lisp :tangle no
     ;; Profile 4: Debug Ginkgo tests
     (go-test-ginkgo
@@ -1018,13 +1044,12 @@ This is the basic configuration for debugging Ginkgo tests:
 
 If I chose the ~go-test-ginkgo~ debug profile I should be able to debug the tests as shown in this screenshot:
 
-#+DOWNLOADED: screenshot @ 2024-11-27 06:12:15
-[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-ginkgo-debug-profile.png]]
+#+html: {{< gbox src="/posts/img/2024/emacs-golang-debugging/emacs-ginkgo-debug-profile.png" title="Debugging profile for Ginkgo tests" caption="" pos="left" >}}
 
 Now the configuration is quite static and therefore you cannot preselect the unit test / container. We need to somehow make the parameter ~-ginkgo.focus~ dynamic. 
 
-
 #+name: debug-ginkgo-focus
+#+caption: Helper function
 #+begin_src emacs-lisp :tangle no
 (defun my/dape-debug-ginkgo-focus (focus-string)
   "Start debugging Ginkgo tests with a specific focus string."
@@ -1045,14 +1070,13 @@ Now the configuration is quite static and therefore you cannot preselect the uni
            :args ["-ginkgo.v" "-ginkgo.focus" ,focus-string]))))
 #+end_src
 
-#+caption: Call my/dape-debug-ginkgo-focus
-[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-debug-ginkgo-call-function.png]]
+#+html: {{< gbox src="/posts/img/2024/emacs-golang-debugging/emacs-debug-ginkgo-call-function.png" title="Call my/dape-debug-ginkgo-focus" caption="" pos="left" >}}
 
-#+caption: Set Ginkgo focus string
-[[file:../../../blog/static/posts/img/2024/emacs-golang-debugging/emacs-debug-ginkgo-set-focus-string.png]]
+#+html: {{< gbox src="/posts/img/2024/emacs-golang-debugging/emacs-debug-ginkgo-set-focus-string.png" title="Set Ginkgo focus string" caption="" pos="left" >}}
 
 Afterwards If I have a look at the ~dape-configs~ variable I should see this value:
 
+#+caption: Value of dape-configs in the buffer
 #+begin_src emacs-lisp :tangle no
 Value:
 ((debug-focused-test modes
@@ -1063,8 +1087,10 @@ Value:
                      ["-ginkgo.v" "-ginkgo.focus" "when using invalid*"]))
 #+end_src
 
-After starting the debugger (with the ~debug-focused-test~ profile) in the dape-repl buffer I get:
+After starting the debugger (with the ~debug-focused-test~ profile) in the dape-repl buffer
+I get:
 
+#+caption: The dape-repl buffer
 #+begin_src shell
 Welcome to Dape REPL!
 Available Dape commands: debug, next, continue, pause, step, out, up, down, restart, kill, disconnect, quit
@@ -1087,17 +1113,21 @@ SSSS
 #+end_src
 
 💡Notice that just "1 of 5 specs" (❶) were ran, meaning that ~ginkgo~ only focussed on the container we have specified (❷). 
-* TODO Best Practices and Tips
-
-- Always use version control to track your debugging configurations
-- Keep debug configurations in a separate file (e.g., =.dir-locals.el=)
-- Use meaningful names for debug configurations
-- Consider creating project-specific debugging helper functions
-- Document common debugging workflows for your team
+* Best Practices and Tips
+Throughout my debugging experience, I have come to appreciate the importance of *version
+control*, as it enables me to track my debugging configurations and their evolution over
+time. To streamline this process, I now maintain my debug configurations in a separate
+file, such as =.dir-locals.el=, which helps keep them organized and easily accessible.
+Additionally, I make sure to use *meaningful names* for these configurations to avoid
+confusion and ensure that the correct settings are used when needed. Moreover, I have
+found it useful to create *project-specific* debugging *helper functions* that can be easily
+customized to suit my needs. Finally, by making *customizations locally* (bound to a
+specific buffer), I can ensure that these settings apply only to the relevant context and
+do not interfere with other parts of my workflow.
 
 * Resources and References
-- 2024-11-19 ◦ [[https://github.com/golang/vscode-go/blob/master/docs/debugging.md][vscode-go/docs/debugging.md at master · golang/vscode-go · GitHub]]
-- 2024-11-19 ◦ [[https://github.com/emacs-lsp/dap-mode/issues/318][support delve/dlv dap-mode directly · Issue #318 · emacs-lsp/dap-mode · GitHub]]
+- [[https://github.com/golang/vscode-go/blob/master/docs/debugging.md][vscode-go/docs/debugging.md at master · golang/vscode-go]]
+- [[https://github.com/emacs-lsp/dap-mode/issues/318][support delve/dlv dap-mode directly · Issue #318 · emacs-lsp/dap-mode]]
 - [[https://github.com/svaante/dape][Dape GitHub Repository]]
 - [[https://github.com/go-delve/delve][Delve Debugger]]
 - [[https://github.com/joaotavora/eglot][Eglot Documentation]]
