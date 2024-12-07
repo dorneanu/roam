@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       286A5D76-30C9-423C-A6AF-B1EC4FB177B1
+:END:
+#+title: The Effective Executive
+#+filetags: :management:book:
+#+date: 2024-11-30
+
+👉 https://www.goodreads.com/book/show/48019.The_Effective_Executive
+
+After reading Cal Newport’s book on "[[id:abd6a1c6-fad0-4396-94f8-edc87fe19a0d][deep work]]", listening to his podcast on productivity
+and time management, this book felt like a waste of time. There are tons of other good
+books on productivity, time management/self-management. This one is definitely not a good
+one.
+
+
