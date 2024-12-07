@@ -4,6 +4,7 @@
 #+title: Kubernetes
 
 * Articles
+- 2024-12-06 ◦ [[https://bilbof.com/posts/kubernetes-on-hetzner][Kubernetes on Hetzner]]
 - 2022-11-14 ◦ [[https://github.com/javiramos1/CKAD-exercises][GitHub - javiramos1/CKAD-exercises: A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation]]
 - 2022-10-06 ◦ [[https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF][Kubernetes Hardening Guidance]]
 - 2022-09-30 ◦ [[https://dev.to/castai/kubernetes-security-10-best-practices-from-the-industry-and-community-1bp6][Kubernetes Security: 10 Best Practices from the Industry and Community]]
