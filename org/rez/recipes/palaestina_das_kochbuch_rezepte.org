@@ -1,0 +1,2205 @@
+#+startup: indent fold
+#+title: Palästina - Das Kochbuch
+
+* Salate & Vorspeisen
+** Grünes Tabbouleh (Tabbouleh khadra)
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  4
+:Category:  Gemüsebeilagen & Salate
+:Meal:      Beilage, Salat
+:END:
+
+*** Einführung
+Tabbouleh ist in der gesamten Levante so allgegenwärtig, dass wir keinen Anlass sahen,
+Ihnen unsere eigene traditionelle Lesart dieses bekannten Salates zu servieren. Statt die
+klassische Version mit Bulgur und Petersilie zu frisieren, stellen wir lieber drei neue
+Varianten vor – eine grüne mit Grünkohl, eine weitere mit Reis statt Bulgur (siehe rechte
+Seite) sowie eine winterliche mit Zitrusfrüchten (siehe Seite 104).
+
+Samis Mutter pflegte im Sommer Tabbouleh für die Picknicks in Jericho zu machen. Mit
+einigen in Zeitungspapier eingewickelten Eiswürfeln im Picknickkorb wurde der Salat frisch
+gehalten. Picknicks waren in der Regel eine aufwendige Angelegenheit. Die Vorbereitungen
+begannen schon am Tag zuvor und alle halfen beim Schnippeln und Zubereiten des tragbaren
+Festmahls.
+
+Diese Variante schmeckt bei einem Picknick im Freien ebenso gut wie als Beilage oder Mezze
+zu jeder anderen Jahreszeit. Das spritzig-zitronige Dressing harmoniert besonders gut mit
+fettreichen Fischen und deftigen Fleischklößen.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                                     |
+|-------+---------+-------------------------------------------------------------------------------------------|
+|    50 | g       | Bulgur (gewöhnlicher oder extragrober Vollkornbulgur)                                     |
+|   180 | g       | Grünkohl, die Blätter von den Stängeln gestreift und in feine Streifen geschnitten (110g) |
+|    75 | g       | Petersilie (überwiegend Blätter, nicht Stiele), fein geschnitten                          |
+|    35 | g       | Minzeblätter, fein geschnitten                                                            |
+|     3 | Stück   | große (oder 6 gewöhnliche) Frühlingszwiebeln, in ganz feine Ringe geschnitten (60g)       |
+
+Dressing:
+| Menge | Einheit | Zutat                                        |
+|-------+---------+----------------------------------------------|
+|    80 | ml      | Zitronensaft (von etwa 2 Zitronen)           |
+|    35 | ml      | Olivenöl                                     |
+|     1 | Prise   | Zimt                                         |
+|     ¼ | TL      | gemahlener Piment                            |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer |
+
+*** Zubereitung
+1. Den Bulgur in einer kleinen Schüssel mit 70ml kochendem Wasser übergießen und etwa 20
+   Minuten quellen lassen, bis er das Wasser aufgenommen hat.
+
+2. Für das Dressing sämtliche Zutaten verrühren, mit 3/4 TL Salz und reichlich Pfeffer
+   würzen und beiseitestellen.
+
+3. Den Bulgur in eine große Schüssel füllen und die restlichen Salatzutaten dazugeben. Mit
+   dem Dressing übergießen, alles sorgfältig vermengen und servieren.
+
+*** Notizen
+- Vorausplanen: Der Salat lässt sich vorbereiten, geben Sie das Dressing aber erst vor dem
+  Servieren dazu. Die Kräuter sollte man besser schneiden als hacken, damit sie nicht zu
+  breiig werden und ihre Farbe verlieren. Beim Hacken trifft die Klinge viel häufiger und
+  unsanfter auf die zarten Blätter, während sie beim Schneiden mit einer gleichmäßigen
+  wiegenden Bewegung durchtrennt werden und ihre Struktur bewahren.
+- Alternativen: Der Grünkohl lässt sich durch viele andere Kohlsorten ersetzen, je nach
+  saisonalem Angebot. Weißkohl, Spitzkohl, Frühkohl und sogar Blumenkohl mit seinen zarten
+  Hüllblättern sind allesamt gute Alternativen.
+** Römersalat mit Auberginenjoghurt, gequetschten Gurken und Shatta
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  4
+:Category:  Gemüsebeilagen & Salate
+:Meal:      Vorspeise, Beilage
+:END:
+
+*** Einführung
+Ein Salat, der sich ideal als eigenständige Vorspeise eignet, als Teil einer größeren Auswahl von Speisen oder als Beilage. Fabelhaft schmeckt er auch mit geräuchertem Lachs oder Forelle. Gequetschte Gurke klingt vielleicht seltsam, es geht aber nur darum, sie ein bisschen in die Mangel zu nehmen, damit sie danach die Aromen besser aufnimmt. Einen Dank an Craig Tregonning für diesen Salat.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                                                     |
+|-------+---------+-----------------------------------------------------------------------------------------------------------|
+| 5-6   | Stück   | Römersalat (500g), Strunk entfernt                                                                        |
+| 1½    | EL      | Shatta (rot oder grün, siehe Seite 73; oder Rosen-Harissa)                                                |
+| ½     | TL      | Isot-Biber (türkische Chiliflocken aus Urfa, oder 1 kleine Prise Schwarzkümmelsamen oder schwarzer Sesam) |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                                                              |
+
+Auberginenjoghurt:
+| Menge | Einheit | Zutat                   |
+|-------+---------+-------------------------|
+| 2     | Stück   | Auberginen (500g)       |
+| 35    | g       | griechischer Joghurt    |
+| ½     | Zehe    | Knoblauch, grob gehackt |
+| 1½    | EL      | Zitronensaft            |
+| 1½    | EL      | Tahin (25g)             |
+
+Gequetschte Gurken:
+| Menge | Einheit | Zutat                                                    |
+|-------+---------+----------------------------------------------------------|
+|     1 | Stück   | Salatgurke, geschält, längs halbiert und entkernt (180g) |
+|    25 | g       | Petersilie, grob gehackt                                 |
+|    25 | g       | Minzeblätter, grob gehackt                               |
+|     ½ | Zehe    | Knoblauch, grob gehackt                                  |
+|    50 | ml      | Olivenöl                                                 |
+
+*** Zubereitung
+1. Für den Auberginenjoghurt zuerst die Auberginen rösten. Ausführliche Anleitungen dazu finden Sie auf Seite 334. Nach dem Rösten und Auslösen sollten etwa 160g Fruchtfleisch verbleiben. Dieses im Mixer mit dem Joghurt, dem Knoblauch, dem Zitronensaft, dem Tahin und ½ TL Salz etwa 1 Minute pürieren, bis die Masse ganz glatt ist. Bis zur Verwendung beiseitestellen.
+
+2. Für die gequetschten Gurken die Gurkenhälften mit der Schnittfläche nach unten auf ein Brett legen und mit der flachen Klinge eines großen Messers quetschen, sodass sie leicht zerdrückt werden, jedoch noch einigermaßen die Form bewahren. Anschließend in etwa 1cm große Würfel schneiden und beiseitelegen.
+
+3. Den Mixer säubern, Petersilie, Minze, Knoblauch, Öl und ¼ TL Salz hineingeben und alles in etwa 2 Minuten zu einer glatten Paste verarbeiten. Falls nötig, zwischendurch den Rand des Mixbechers säubern. Die Kräutermasse unter die Gurkenwürfel ziehen und das Ganze mindestens 20 Minuten stehen lassen (oder bis zu 1 Tag im Kühlschrank), damit die Aromen durchziehen.
+
+4. Kurz vor dem Servieren die Salatherzen der Länge nach in je acht Spalten schneiden (pro Salat). Sobald Sie startbereit sind, die Salatspalten auf einer großen runden Platte im Kreis arrangieren. Mit etwas Salz und Pfeffer würzen und dann den Auberginenjoghurt in Klecksen darauf verteilen. Die Gurken und das Shatta dazugeben, alles mit Chiliflocken bestreuen und servieren.
+
+*** Notizen
+- Vorausplanen: Wer möchte, kann sämtliche Bestandteile zeitig vorbereiten – die Gurken und den Auberginenjoghurt bis zu 1 Tag vorher. Und das Shatta muss sogar im Voraus zubereitet werden, damit sie alles griffbereit zur Hand haben.
+- Alternativen: Ein paar Würfel Feta machen sich gut auf dem Salat, und wenn Sie keine Isot-Biber-Chiliflocken bekommen, nehmen Sie einfach eine Prise Schwarzkümmelsamen oder etwas schwarzen Sesam.
+** Rote-Bete-Süßkartoffel-Dip mit Pistazien-Bulgur-Salsa
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  4 (als Teil einer Mezze-Auswahl)
+:Category:  Snacks, Dips & Saucen
+:Meal:      Vorspeise, Beilage
+:END:
+
+*** Einführung
+Sami ist nicht mit Roter Bete aufgewachsen. So demonstriert dieses Gericht, wie Zutaten,
+die seinen Geschmack geprägt haben – Piment und Zimt, salziger Feta und Labneh, Bulgur und
+Olivenöl –, auf erfrischend neue Weise verwendet werden können. Der Dip schmeckt köstlich
+als Teil einer Mezze-Auswahl, man kann ihn aber auch als Beilage zu fettreichen Fischen
+wie Lachs oder Makrele servieren.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                                  |
+|-------+---------+----------------------------------------------------------------------------------------|
+|   500 | g       | Rote Bete (etwa 4 mittelgroße Knollen), ungeschält                                     |
+|     1 | Stück   | mittelgroße Süßkartoffel (240g)                                                        |
+|    70 | g       | Bulgur                                                                                 |
+|    75 | g       | Pistazienkerne, leicht geröstet (siehe Seite 340) und fein gehackt                     |
+|    15 | g       | Petersilie, fein gehackt                                                               |
+|    15 | g       | Minze, fein gehackt, plus einige Blätter zum Servieren                                 |
+|    1½ | EL      | Zitronensaft                                                                           |
+|   105 | ml      | Olivenöl                                                                               |
+|     4 | Zehen   | Knoblauchzehen, zerdrückt                                                              |
+|     ½ | TL      | gemahlener Zimt                                                                        |
+|     ¼ | TL      | gemahlener Piment                                                                      |
+|     1 | Stück   | Medjool-Dattel (20g), entsteint und 20 Minuten in 50ml kochendem Wasser eingeweicht    |
+|     2 | EL      | Apfelessig                                                                             |
+|   100 | g       | Labneh (fertig gekauft oder selbst gemacht, siehe Seite 48; oder griechischer Joghurt) |
+|    35 | g       | Feta, grob zerkrümelt                                                                  |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                                           |
+
+*** Zubereitung
+1. Den Backofen auf 220°C (Umluft) vorheizen.
+
+2. Die Rote-Bete-Knollen und die Süßkartoffel einzeln in Alufolie wickeln und im Ofen etwa
+   1 Stunde backen, bis sich die Knollen mit einem Messer mühelos einstechen lassen. Je
+   nach Größe kann die Garzeit ein wenig variieren. Aus dem Ofen nehmen, etwas abkühlen
+   lassen, bis man sie anfassen kann, anschließend schälen; Sie sollten etwa 180-200g
+   gegartes Süßkartoffelfleisch und 400g Rote Bete erhalten. Die Rote Bete grob in Stücke
+   schneiden und beiseitestellen. Die Süßkartoffel kann vorerst so bleiben.
+
+3. Den Bulgur und 75ml Wasser in einen kleinen Topf mit passendem Deckel geben und mit 1
+   Prise Salz würzen. Bei starker Hitze aufkochen, vom Herd nehmen und zugedeckt etwa 20
+   Minuten quellen lassen. Anschließend den Bulgur mit einer Gabel auflockern und in einer
+   Schüssel 20 Minuten abkühlen lassen. Pistazien, Petersilie, Minze, Zitronensaft, 3 EL
+   Öl sowie ½ TL Salz und 1 kräftige Prise Pfeffer untermengen und die
+   Pistazien-Bulgur-Salsa bis zur Verwendung beiseitestellen.
+
+4. In einer kleinen Pfanne 3 EL Öl bei mittlerer bis hoher Temperatur erhitzen und den
+   Knoblauch darin 2 Minuten anschwitzen, bis er leicht gebräunt ist. Die Gewürze
+   dazugeben, einige Sekunden unter Rühren anrösten und vom Herd nehmen. Etwas abkühlen
+   lassen und dann in den Mixer geben. Die Rote Bete, 1 TL Salz und 1 Prise Pfeffer sowie
+   die abgetropfte Dattel dazugeben und etwa 1 Minute mixen, bis die Mischung glatt ist.
+   Die Süßkartoffel hinzufügen und etwa 20 Sekunden nur eben untermixen.
+
+5. Das Püree in eine Schüssel umfüllen. Den Essig und die Hälfte des Labneh dazugeben und
+   grob unterheben – es dürfen noch ein paar Spuren von Labneh sichtbar bleiben. Den Dip
+   auf einer großen Platte oder in einer flachen Schale anrichten, mit einem Löffelrücken
+   glatt streichen und in der Mitte eine Mulde hineindrücken. Den restlichen Labneh (50g)
+   hinzufügen und nur ganz grob unterziehen. Die Salsa in die Mitte häufen und das Ganze
+   mit dem Feta und den restlichen Minzeblättern garnieren. Mit dem restlichen Öl (1 EL)
+   beträufeln und servieren.
+
+*** Notizen
+- Zeit sparen: Der Dip überzeugt auch ohne die Salsa, wenn Sie die Dinge einfach halten
+  wollen. In diesem Fall erhöhen Sie die Menge an Pistazien auf 100g. Für eine glutenfreie
+  Salsa ersetzen Sie den Bulgur durch Quinoa.
+- Vorausplanen: Wenn Sie das Labneh selbst machen (siehe Seite 48), müssen Sie damit
+  mindestens 24 Stunden vor dem Servieren beginnen. Der Dip hält sich im Kühlschrank
+  problemlos 3 Tage. Die Salsa können Sie am Vortag zubereiten und bis zum Servieren kalt
+  stellen. Wie immer sollten Sie jedoch beides rechtzeitig herausnehmen, damit es nicht
+  ganz so kalt ist.
+** Paprika-Walnuss-Dip (Muhammara)
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  4 (als Teil einer Mezze-Auswahl)
+:Category:  Snacks, Dips & Saucen
+:Meal:      Vorspeise, Beilage
+:END:
+
+*** Einführung
+Muhammara kann sowohl »geröstet« als auch »rot« bedeuten, und es kann sich (wenn auch
+nicht hier) auf die Verwendung von Paprika beziehen, um Gerichten eine rauchige Note und
+rote Farbe zu verleihen. Muhammara stammt ursprünglich aus Syrien und reiste ungehindert
+nach Palästina und in den Libanon, als die Levante noch ein einheitliches Territorium war.
+Noch heute reist dieser Dip ungehindert quer über jeden Tisch und dient als Dip, als
+Aufstrich oder wo für auch immer. Man kann das Püree zum Beispiel mit gerösteter Pita
+essen, zu weißen Bohnen, Linsen oder auch zu jeder Art von gebratenem Fleisch reichen, mit
+cremigem Hummus oder Käse kombinieren oder als Teil einer Mezze-Auswahl. Es passt
+eigentlich immer.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                     |
+|-------+---------+-----------------------------------------------------------|
+|  1100 | g       | Walnusskerne                                              |
+|     6 | Stück   | rote Paprikaschoten (1kg)                                 |
+|    80 | ml      | Olivenöl                                                  |
+|     1 | Stück   | rote Zwiebel, fein gewürfelt (120g)                       |
+|     4 | Zehen   | Knoblauchzehen, zerdrückt                                 |
+|     2 | TL      | Tomatenmark                                               |
+|     2 | TL      | gemahlener Kreuzkümmel                                    |
+|     2 | TL      | Aleppo-Chiliflocken (oder 1 TL herkömmliche Chiliflocken) |
+|    35 | g       | Panko (japanische Semmelbrösel)                           |
+|    1½ | EL      | Granatapfelsirup                                          |
+|     2 | TL      | Zitronensaft                                              |
+|     1 | EL      | grob gehackte Petersilie                                  |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer              |
+
+*** Zubereitung
+1. Den Backofen auf 160°C (Umluft) vorheizen.
+2. Die Walnusskerne auf einem mit Backpapier bedecktem Blech verteilen und im Ofen etwa 8
+   Minuten leicht rösten. Zum Abkühlen beiseitestellen.
+3. Die Ofentemperatur auf 220°C (Umluft) erhöhen. Die Paprikaschoten auf ein mit
+   Backpapier bedecktes Blech legen, mit 1 TL Öl einreiben und im Ofen 40 Minuten rösten,
+   bis sie ganz und gar weich und geschwärzt sind. In eine Schüssel legen, mit einem
+   Geschirrtuch oder einem Teller abdecken und etwa 20 Minuten abkühlen lassen. Sobald man
+   die Schoten anfassen kann, die Haut abziehen, Stiele und Samen entfernen und wegwerfen
+   – es sollten etwa 380g Fruchtfleisch verbleiben.
+4. In einer mittelgroßen Pfanne 2 EL Öl bei mittlerer bis hoher Temperatur erhitzen und
+   die Zwiebelwürfel darin 7 Minuten anschwitzen, bis sie weich und gebräunt sind. Ab und
+   zu umrühren. Den Knoblauch, das Tomatenmark und die Gewürze dazugeben und unter
+   ständigem Rühren 30 Sekunden mitbraten. Den Pfanneninhalt in den Mixer geben, Paprika,
+   Panko-Brösel, Granatapfelsirup, Zitronensaft, 1 EL Öl, 1 TL Salz und 1 großzügige Prise
+   Pfeffer hinzufügen und alles zu einer groben, stückigen Paste verarbeiten. 90g der
+   Walnüsse hineingeben und noch etwa 20 Sekunden mixen, nicht länger – die Walnüsse
+   sollen nur grob zerkleinert und nicht zu einer Paste verarbeitet werden. Den Dip auf
+   einer Platte anrichten und mit dem restlichen Öl (2 EL) beträufeln. Die restlichen
+   Walnüsse (20g) darüberkrümeln und das Ganze mit der Petersilie bestreuen.
+
+*** Notizen
+- Vorausplanen: Muhammara hält sich im Kühlschrank bis zu 3 Tage.
+- Glutenfrei: Das Panko-Mehl sorgt dafür, dass die Mischung etwas fester und schön trocken
+  wird. Verwenden Sie für eine glutenfreie Version die gleiche Menge gemahlene Mandeln
+  oder erhöhen Sie die Menge an Walnüssen um 20g.
+** Auberginendip mit Tahin und Kräutern (M'tabbal)
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  4-6 (als Teil einer Mezze-Auswahl)
+:Category:  Snacks, Dips & Saucen
+:Meal:      Vorspeise, Beilage
+:END:
+
+*** Einführung
+Fragt man Tara, welche zehn Dinge sie auf die berühmte einsame Insel mitnehmen würde, um
+auf ewig davon zu leben, dann sähe die Liste so aus: Auberginen, Tahin, Knoblauch,
+Zitronen, Olivenöl, Granatapfelkerne, frische Minze, getrocknete Minze, Petersilie und
+Salz. M'tabbal, gewissermaßen ein Zählappell ihrer Top Ten, ist folglich eines ihrer
+Lieblingsgerichte. Servieren Sie es zu in der Pfanne gebratenem Fisch oder Fleisch oder
+als Teil einer größeren Auswahl an Vorspeisen. Wie man Auberginen zu rauchiger Perfektion
+röstet, lesen Sie auf Seite 334.
+
+*** Zutaten
+| Menge | Einheit | Zutat                           |
+|-------+---------+---------------------------------|
+|     4 | Stück   | große Auberginen (1kg)          |
+|    50 | g       | Tahin                           |
+|     2 | Zehen   | große Knoblauchzehen, zerdrückt |
+|    60 | ml      | Zitronensaft                    |
+|       |         | Salz                            |
+
+Zum Servieren:
+
+| Menge | Einheit | Zutat                                        |
+|-------+---------+----------------------------------------------|
+|     2 | EL      | Granatapfelkerne (von ½ kleinen Granatapfel) |
+|     ¼ | TL      | getrocknete Minze                            |
+|    10 | Blätter | Minzeblätter                                 |
+|     5 | g       | Petersilie, grob gehackt                     |
+|     1 | EL      | Olivenöl                                     |
+
+*** Zubereitung
+1. Zuerst die Auberginen rösten. Dafür gibt es zwei Möglichkeiten, die Sie im Glossar auf
+   Seite 334 beschrieben finden. Egal wie Sie vorgehen, Sie sollten am Ende etwa 500g
+   Fruchtfleisch erhalten. Es muss in einem Sieb oder auf einer Schüssel mindestens 1
+   Stunde (oder über Nacht im Kühlschrank) abtropfen.
+
+2. Das abgetropfte Auberginenfleisch in einer großen Schüssel mit den Händen zerdrücken
+   und in lange dünne Streifen teilen. Tahin, Knoblauch, Zitronensaft und 1 TL Salz
+   dazugeben und gleichmäßig untermengen. Den Dip auf einem tiefen Teller (oder in einer
+   Schale) anrichten und mit den Granatapfelkernen, der getrockneten Minze und den
+   frischen Kräutern bestreuen. Zum Schluss mit dem Olivenöl beträufeln.
+
+*** Notizen
+- Aufbewahren: Dieser Auberginendip hält sich im Kühlschrank 4-5 Tage. Wie immer unbedingt
+  daran denken, ihn rechtzeitig aus dem Kühlschrank zu nehmen, damit er bei
+  Zimmertemperatur auf den Tisch kommt.
+** Hummus auf zweierlei Art
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  6
+:Category:  Frühstück
+:Meal:      Vorspeise, Beilage
+:END:
+
+*** Einführung
+Wenn etwas bis zum Mittagessen bei Kräften hält, dann eine Portion Hummus zum Auftakt des Tages. Hummus ist sättigend, herzhaft und passt zu allem Möglichen. Wer Fleischbällchen zum Frühstück ein bisschen zu mächtig findet (wobei sie nicht mächtiger sind als der gebratene Speck zu den Spiegeleiern, bei dem wir nicht zögern würden), probiert die Variante mit Auberginen. Mit ihrer »fleischigen« Beschaffenheit bringen sie die idealen Voraussetzungen für einen Fleischersatz mit.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                          |
+|-------+---------+--------------------------------------------------------------------------------|
+|   250 | g       | getrocknete Kichererbsen, über Nacht in der doppelten Menge Wasser eingeweicht |
+|     1 | TL      | Backnatron                                                                     |
+|   270 | g       | Tahin                                                                          |
+|    60 | ml      | Zitronensaft                                                                   |
+|     4 | Zehen   | Knoblauch, zerdrückt                                                           |
+|   100 | ml      | eiskaltes Wasser                                                               |
+|       |         | Salz                                                                           |
+
+Fleischbällchen (für die Kofta-Version):
+| Menge | Einheit | Zutat                                             |
+|-------+---------+---------------------------------------------------|
+|   500 | g       | Rinder- oder Kalbshack                            |
+|     1 | Stück   | kleine Zwiebel, geschält und grob gerieben (120g) |
+|     1 | Stück   | große Tomate, enthäutet und grob gerieben (65g)   |
+|    20 | g       | Petersilie, fein gehackt                          |
+|     1 | Stück   | rote Chilischote, entkernt und fein gehackt       |
+|    45 | ml      | Olivenöl zum Braten                               |
+|       |         | frisch gemahlener schwarzer Pfeffer               |
+
+Topping (für die Kofta-Version):
+| Menge | Einheit | Zutat                                                       |
+|-------+---------+-------------------------------------------------------------|
+|     1 | EL      | Olivenöl                                                    |
+|    25 | g       | Pinienkerne                                                 |
+|     5 | g       | Petersilie, grob gehackt                                    |
+|   1/2 | TL      | Aleppo-Chiliflocken (oder 1/2 TL herkömmliche Chiliflocken) |
+|       |         | einige kleine Minzeblätter (nach Belieben)                  |
+
+Auberginen (für die Auberginenversion):
+| Menge | Einheit | Zutat                                                         |
+|-------+---------+---------------------------------------------------------------|
+|     2 | Stück   | große Auberginen, in etwa 2cm große Würfel geschnitten (500g) |
+|   300 | ml      | Sonnenblumenöl zum Frittieren                                 |
+|   160 | g       | Walnusskerne, grob gehackt                                    |
+|    10 | g       | Minzeblätter, grob gehackt                                    |
+|    10 | g       | Petersilienblätter, grob gehackt                              |
+|     2 | EL      | Zitronensaft                                                  |
+|     2 | EL      | Olivenöl                                                      |
+|   1/2 | TL      | Aleppo-Chiliflocken                                           |
+
+*** Zubereitung
+1. Für das Hummus die Kichererbsen abtropfen lassen, mit dem Backnatron in einen mittelgroßen Topf geben und bei starker Hitze etwa 3 Minuten unter ständigem Rühren anrösten. Nun 1,5l Wasser dazugießen, zum Kochen bringen und die Kichererbsen etwa 30 Minuten garen – je nach Alter der Kichererbsen kann die Garzeit 20-40 Minuten betragen. Regelmäßig abschäumen. Die Kichererbsen sind fertig, wenn man sie mühelos zwischen Daumen und Zeigefinger zerdrücken kann.
+
+2. Die Kichererbsen abtropfen lassen und im Mixer zu einer festen Paste zerkleinern. Anschließend bei laufendem Gerät das Tahini, den Zitronensaft, den Knoblauch und 1½ TL Salz einarbeiten. Zuletzt langsam das eiskalte Wasser dazugießen und weitere 5 Minuten mixen – das klingt nach einer Ewigkeit, ist aber nötig, damit das Hummus ganz glatt und cremig wird. In eine Schüssel umfüllen und bis zur Verwendung beiseitestellen.
+
+3. Die Fleischbällchen lassen sich am Tag zuvor formen und bratfertig im Kühlschrank aufbewahren. Dazu verstaut man sie luftdicht in einer Frischhaltebox, so halt es sich bis zu 1 Monat einfrieren. Wandern sie tiefgefroren in die Pfanne, brauchen sie anschließend im Ofen ein paar Minuten länger.
+
+*** Notizen
+- Vorausplanen: Hummus sollte im Idealfall frisch zubereitet und noch warm serviert werden. Für alle, die mit Hummus in kleinen Plastikbechern aus dem Kühlregal des Supermarktes groß geworden sind, ist ein cremiges Hummus, ganz frisch und warm genossen, eine Offenbarung. Wer es im Voraus zubereiten möchte, nur zu. Aber lagern Sie es in einer Frischhaltebox im Kühlschrank, so hält es sich bis zu 4 Tage. Bildet sich eine Haut darauf, einfach vor dem Servieren kurz durchrühren. Ganz wichtig: man muss das Hummus rechtzeitig aus dem Kühlschrank nehmen, damit es sich erwärmt und geschmeidig wird.
+- Wir bereiten gern die doppelte Menge Hummus und beide Toppings zu, damit für jeden etwas dabei ist (und für manche beides!). Warmes Pitabrot gehört in jedem Fall dazu (fertig gekauft oder selbst gebacken, siehe Seite 278) sowie ein Arabischer Salat (siehe Seite 92) zur Auflockerung. Und wem das immer noch zu opulent für ein Frühstück ist – macht nichts, es schmeckt auch mittags oder als Abendessen.* Gebackene Kofta mit Aubergine und Tomate (Kofta bil batinjan)
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  6
+:Category:  Hauptgericht
+:Meal:      Mittag-/Abendessen
+:END:
+
+Kofta - eine Art Frikadellen - sind im Nahen Osten allgegenwärtig. Gebacken, gebraten,
+gegrillt, geschmort, in Pitabrot gesteckt und mit Tahin beträufelt oder in Tomatensauce
+gegart und mit Reis serviert. Wir bieten hier zwei Versionen an: eine mit Tomaten und die
+andere, etwas reichhaltigere, mit Tahin-Sauce (siehe Seite 234). Beides simple, wohltuende
+Gerichte - nichts, womit man Eindruck schinden könnte, aber ideal für ein einfaches Essen
+unter der Woche. Etwas Reis dazu oder Brot zum Auftunken der Sauce - fertig.
+
+Vorausplanen: Die Tomatensauce (von der man gut die doppelte oder dreifache Menge kochen
+kann, falls man einen Vorrat einfrieren möchte) hält sich im Kühlschrank bis zu 4 Tage.
+Die Hackfleischmasse kann man 1 Tag im Voraus machen und bis zur Verwendung im Kühlschrank
+aufbewahren. Die fertig gebackenen Kofta schmecken auch am nächsten Tag noch gut (oder
+sogar besser, wie das ja bei Fleischklößchen oft der Fall ist), sei es aufgewärmt oder bei
+Zimmertemperatur.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                                                                                                                       |
+|-------+---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     2 | Stk     | sehr große (oder 3 große), möglichst dicke Auberginen (850g), streifig geschält (um »Zebrastreifen« zu erzielen), dann quer in zwölf etwa 2,5 cm dicke Scheiben geschnitten |
+|    60 | ml      | Olivenöl                                                                                                                                                                    |
+|     3 | Stk     | große Fleischtomaten, quer in 12 etwa 1 cm dicke Scheiben geschnitten (500g)                                                                                                |
+|     1 | Stk     | große grüne Chilischote, in feine Ringe geschnitten (20g)                                                                                                                   |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                                                                                                                                |
+
+**** Tomatensauce
+| Menge | Einheit | Zutat                                                       |
+|-------+---------+-------------------------------------------------------------|
+|     2 | EL      | Olivenöl                                                    |
+|     1 | Stk     | Zwiebel, fein gewürfelt (150g)                              |
+|     6 | Stk     | Knoblauchzehen, zerdrückt                                   |
+|     2 | TL      | Tomatenmark                                                 |
+|     1 | Dose    | gehackte Tomaten (400g)                                     |
+|   1/4 | TL      | Zucker                                                      |
+|     1 | TL      | getrocknete Minze                                           |
+|   1/2 | TL      | Aleppo-Chiliflocken (oder 1/4 TL herkömmliche Chiliflocken) |
+
+**** Kofta
+| Menge | Einheit | Zutat                                                       |
+|-------+---------+-------------------------------------------------------------|
+|   350 | g       | Rinderhackfleisch (15-20% Fettanteil)                       |
+|   350 | g       | Lammhackfleisch (15-20% Fettanteil)                         |
+|    30 | g       | Petersilie, sehr fein gehackt                               |
+|     1 | Stk     | Zwiebel, grob gerieben (120g)                               |
+|     2 | Stk     | Knoblauchzehen, zerdrückt                                   |
+|   3-4 | Stk     | Eiertomaten, enthäutet (siehe Seite 129) und grob gerieben  |
+|     1 | TL      | Tomatenmark                                                 |
+|     2 | TL      | gemahlener Zimt                                             |
+|     1 | EL      | gemahlener Piment                                           |
+|   1/4 | TL      | geriebene Muskatnuss                                        |
+|   1/2 | TL      | Aleppo-Chiliflocken (oder 1/4 TL herkömmliche Chiliflocken) |
+|     1 | EL      | Olivenöl                                                    |
+
+*** Zubereitung
+1. Den Backofen auf 220°C (Umluft) vorheizen.
+
+2. Die Auberginenscheiben in eine große Schüssel geben. Mit 1/2 TL Salz und reichlich
+   Pfeffer würzen und mit dem Olivenöl übergießen. Alles gut mischen, dann die Scheiben
+   auf einem großen mit Backpapier bedeckten Blech verteilen. 25 Minuten rösten, bis sie
+   goldbraun und durchgegart sind. Aus dem Ofen nehmen und beiseitestellen.
+
+3. Die Backofentemperatur auf 200°C (Umluft) reduzieren.
+
+4. Während die Auberginen im Ofen sind, die Tomatensauce zubereiten: Das Öl in einem Topf
+   bei mittlerer bis hoher Temperatur erhitzen. Die Zwiebelwürfel darin etwa 6 Minuten
+   unter gelegentlichem Rühren braten, bis sie weich und leicht gebräunt sind. Knoblauch
+   und Tomatenmark hinzufügen und 30 Sekunden mitbraten. Die Dosentomaten, Zucker, Minze,
+   Chiliflocken, 60 ml Wasser, 1/4 TL Salz und reichlich Pfeffer unterrühren. Aufkochen,
+   dann bei mittlerer bis schwacher Hitze 20 Minuten köcheln lassen, bis die Sauce
+   dickflüssig und kräftig ist; gelegentlich umrühren. Vom Herd nehmen und bis zur
+   Verwendung beiseitestellen.
+
+5. Die Zutaten für die Kofta mit 1½ TL Salz und reichlich Pfeffer in eine große Schüssel
+   geben. Gut mischen, dann aus dem Teig zwölf große Kugeln formen. Diese zu Frikadellen
+   mit etwa 7 cm Durchmesser flach drücken und beiseitestellen.
+
+*** Notizen
+- Die Tomatensauce kann im Voraus zubereitet und bis zu 4 Tage im Kühlschrank aufbewahrt
+  werden
+- Die Hackfleischmasse kann einen Tag im Voraus zubereitet werden
+- Die fertigen Kofta schmecken am nächsten Tag oft noch besser
+- Die Menge der Tomatensauce kann verdoppelt oder verdreifacht und eingefroren werden
+** Warmes Hummus mit gerösteter Pita und Pinienkernen (Fatteh hummus)
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  6
+:Category:  Frühstück
+:Meal:      Hauptgericht, Beilage
+:END:
+
+*** Einführung
+Fatteh bedeutet so viel wie »zerstoßen« oder »zerbrösel« und bezieht sich auf eine Reihe
+von Gerichten, bei denen Stücke von Fladenbrot (altbackenes, das weg muss, oder auch
+frisches) mit verschiedenen anderen Zutaten in eine Form geschichtet werden. Fatteh
+Hummus, bei dem die Schichten aus Kichererbsen, Tahin und einer Joghurtbasis bestehen,
+gleicht einem würzigen Kichererbsen-Brotpudding. Er ist wohltuend, herzhaft und gehaltvoll
+und schmeckt zum Frühstück ebenso wie mittags oder abends.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                                                                                                    |
+|-------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     3 | Stück   | Pitabrote (etwa 200g, fertig gekauft oder selbst gebacken, siehe Seite 278), in 2-3cm große Stücke gezupft                                               |
+|    90 | ml      | Olivenöl                                                                                                                                                 |
+| 1 1/2 | TL      | gemahlener Kreuzkümmel                                                                                                                                   |
+|    10 | g       | Petersilienblätter, fein gehackt                                                                                                                         |
+|     2 | Stück   | Bio-Zitronen, 1 TL Schale abgerieben, dann der Saft von beiden Früchten ausgepresst (60ml)                                                               |
+|   250 | g       | getrocknete Kichererbsen, über Nacht in der doppelten Menge Wasser mit 1 TL Backnatron eingeweicht (oder 600g Kichererbsen aus der Dose – knapp 3 Dosen) |
+|   1/4 | TL      | Backnatron (entfällt, wenn Sie Kichererbsen aus der Dose verwenden)                                                                                      |
+|     5 | Zehen   | Knoblauch, vier geschält, eine zerstoßen                                                                                                                 |
+|   200 | g       | griechischer Joghurt                                                                                                                                     |
+|   150 | g       | Tahin                                                                                                                                                    |
+|    60 | g       | Pinienkerne, leicht geröstet (siehe Seite 340)                                                                                                           |
+|   1/2 | TL      | gemahlener Sumach                                                                                                                                        |
+|   1/2 | TL      | Paprikapulver                                                                                                                                            |
+|       |         | Salz                                                                                                                                                     |
+
+*** Zubereitung
+1. Den Backofen auf 160°C (Umluft) vorheizen.
+2. Die Pita-Stücke in einer Schüssel mit 2 EL Öl, 1/2 TL Kreuzkümmel und 1/4 TL Salz
+   sorgfältig vermengen, sodass sie rundherum damit überzogen sind. Auf einem mit
+   Backpapier bedeckten Blech verteilen und im Ofen 20-25 Minuten rösten, bis sie
+   goldbraun und knusprig sind. Zwei Drittel der Brotstücke in eine 30 x 20cm große Form
+   mit einem etwa 8cm hohen Rand geben (oder auf tiefe Teller, falls Sie einzelne
+   Portionen möchten), das letzte Drittel beiseitestellen.
+3. In einer kleinen Schale die Petersilie mit der Zitronenschale, dem restlichen Öl (60ml)
+   und 1 Prise Salz vermengen; beiseitestellen.
+4. Die abgetropften Kichererbsen mit dem Backnatron, den vier ganzen Knoblauchzehen und
+   dem restlichen Kreuzkümmel (1 TL) in einen großen Topf mit passendem Deckel geben, 1l
+   Wasser dazugießen und bei starker Hitze zum Kochen bringen. Den Deckel nicht ganz
+   auflegen und die Kichererbsen bei schwacher bis mittlerer Hitze 30-40 Minuten garen. Ab
+   und zu umrühren und abschäumen. Bei Bedarf noch etwas Wasser dazugießen, sodass die
+   Kichererbsen stets bedeckt und am Ende ganz weich und durchgegart sind.
+5. Nun 1/2 TL Salz unterrühren und dann (ohne abzugießen, das Kochwasser wird noch
+   benötigt) knapp die Hälfte der Kichererbsen (200g) in den Mixer schöpfen. Den Joghurt,
+   das Tahini, den Zitronensaft, die zerstoßene Knoblauchzehe sowie 3/4 TL Salz und 100ml
+   des heißen Kochwassers hinzufügen und pürieren, bis die Masse glatt ist. Das Püree und
+   die restlichen Kichererbsen im Topf warm stellen.
+6. Unmittelbar vor dem Servieren die geröstete Pita in der Form (oder auf den Tellern) mit
+   der Hälfte der Pinienkerne, zwei Dritteln der verbliebenen Kichererbsen und 100ml ihres
+   Kochwassers bedecken, mit dem Kichererbsen-Tahini-Püree übergießen und umrühren. Die
+   restlichen Brotstücke, Kichererbsen (ohne Flüssigkeit) und Pinienkerne darauf verteilen
+   und alles mit dem Petersilienöl beträufeln. Mit Sumach und Paprika bestreuen und sofort
+   servieren.
+
+*** Notizen
+- Kichererbsen - getrocknet kontra Konserven: Die Anleitung bezieht sich auf getrocknete
+  Kichererbsen. Wenn Sie zu Dosenware greifen, die Kichererbsen abgießen, in einen Topf
+  geben, 600ml Wasser, 1 TL gemahlenen Kreuzkümmel und die vier ganzen Knoblauchzehen
+  hinzufügen. Zum Kochen bringen und die Kichererbsen etwa 8-10 Minuten köcheln lassen.
+  Anschließend wie im Rezept beschrieben mit Joghurt, Tahini, Zitronensaft und dem
+  restlichen Knoblauch im Mixer pürieren.
+* Suppen
+** Zitronige Auberginensuppe
+:PROPERTIES:
+:Source:    Suppen
+:Portions:  4 Personen
+:Category:  Suppen
+:Meal:      Hauptgericht
+:END:
+
+Je kräftiger und dunkler man die Auberginen röstet, desto rauchiger und besser schmeckt
+diese Suppe. Mehr zu den Wundern und Wegen des Auberginen-röstens auf Seite 334.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                           |
+|-------+---------+-------------------------------------------------|
+|     6 | Stück   | Auberginen (1,5kg)                              |
+|     1 | l       | Hühner- oder Gemüsebrühe                        |
+|    90 | ml      | Zitronensaft (von etwa 4 Zitronen)              |
+|     4 | Stück   | Knoblauchzehen, zerdrückt                       |
+|     1 | TL      | gemahlener Zimt                                 |
+|     2 | TL      | gemahlener Kreuzkümmel, plus ½ TL zum Servieren |
+|     3 | EL      | Olivenöl                                        |
+|   300 | ml      | Sonnenblumenöl zum Frittieren                   |
+|     1 | Stück   | rote Chilischote, fein gehackt (10g)            |
+|    10 | g       | Korianderblätter, fein gehackt                  |
+|   100 | g       | Walnusskerne, grob gehackt                      |
+|   150 | g       | griechischer Joghurt                            |
+|     2 | Stück   | Eigelb                                          |
+|     2 | TL      | Speisestärke                                    |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer    |
+
+*** Zubereitung
+1. Zwei der Auberginen in etwa 2cm große Würfel schneiden und in einem Sieb über einer
+   Schüssel oder in der Spüle mit 1 TL Salz bestreuen. Gut durchmischen und 30 Minuten
+   abtropfen lassen. Anschließend mit Küchenpapier trocken tupfen.
+
+2. Die restlichen vier Auberginen über der offenen Herdflamme rösten (falls Sie einen
+   Gasherd haben) oder in einer Grillpfanne bei starker Hitze auf dem Herd. Genaue
+   Anleitungen zum Rösten von Auberginen finden Sie auf Seite 334. Das Fruchtfleisch
+   anschließend herauslösen, abtropfen lassen und fein hacken – es sollten etwa 400g sein.
+
+3. Das gehackte Auberginenfleisch in einen großen Topf geben. Brühe, 60ml Zitronensaft,
+   Knoblauch, Zimt und Kreuzkümmel sowie 2 EL Olivenöl, 2 TL Salz und 1 kräftige Prise
+   Pfeffer hinzugeben und das Ganze bei mittlerer bis starker Hitze zum Kochen bringen.
+
+4. Die Hitze ein wenig herunterstellen und das Ganze 30 Minuten köcheln lassen – die
+   Flüssigkeit kocht etwa um ein Drittel ein.
+
+5. Inzwischen das Sonnenblumenöl in einer mittelgroßen Pfanne bei mittlerer bis hoher
+   Temperatur erhitzen. Sobald es heiß ist, einige Auberginenwürfel hineingeben (in drei
+   oder vier Portionen aufteilen, damit es kein Gedränge in der Pfanne gibt) und 5-6
+   Minuten frittieren, bis sie kräftig gebräunt sind.
+
+6. Auf einem Teller mit Küchenpapier abtropfen lassen, während Sie die nächste Portion
+   frittieren.
+
+7. Die frittierten Auberginen in einer Schüssel mit den restlichen 2 EL Zitronensaft, 1 EL
+   Olivenöl, dem Chili, dem Koriandergrün und den Walnüssen vermengen und das Topping
+   beiseitestellen.
+
+8. In einer mittelgroßen Schüssel den Joghurt mit den Eigelben und der Speisestärke
+   verquirlen. Eine Kelle der heißen Suppe hineinschöpfen und glatt rühren.
+
+9. Eine weitere Kelle einarbeiten, dann die gesamte Mischung in den Topf geben und unter
+   die Suppe rühren, so gerinnt der Joghurt nicht.
+
+10. Das Ganze bei schwacher bis mittlerer Hitze unter ständigem Rühren noch einmal 2
+    Minuten erhitzen, bis alles gleichmäßig vermengt und die Suppe dicklich ist.
+
+11. Die Suppe in vier Schalen schöpfen und mit ½ TL gemahlenem Kreuzkümmel bestreuen.
+
+12. Die Auberginen-Walnuss-Topping darauf verteilen und sofort servieren.
+
+*** Notizen
+- Vorausplanen: Beide Elemente – die Suppe selbst und die Einlage aus frittierten
+  Auberginen – kann man 1-2 Tage zuvor zubereiten und getrennt im Kühlschrank lagern,
+  sodass man sie nur noch kurz erwärmen muss.
+- Abbildung siehe folgende Doppelseite (links)
+** Mangold-Linsen-Suppe mit eingelegter Zitrone (Shorbet adass w sliq)
+:PROPERTIES:
+:Source:    Suppen
+:Portions:  4 Personen
+:Category:  Suppen
+:Meal:      Hauptgericht
+:END:
+
+Wenn etwas in der Küche allzu brav daherkommt, streuen wir gern ein paar knusprige
+Röstzwiebeln darüber. Besonders gut harmonieren sie mit der tugendhaftesten aller
+Zutaten - der bescheidenen Linse! Wie etwa bei Mjaddara l-burghul (siehe Seite 176),
+Rummanyya (siehe Seite 176) wie hier in Form einer Suppe. Wer jedoch ein bisschen Reinheit
+gern zur Schau stellt, kann die Suppe auch so servieren, sie schmeckt ohne die Zwiebeln
+nicht weniger gut. Ist dennoch etwas Biss gefragt, kommen geröstete Kürbiskerne (siehe
+Seite 93), pikanter Kräutersalat, oder Seite 149, Kalte Gurkensüppchen), karamellisierte
+Pistazien (siehe Seite 153) oder Croûtons nicht ungelegen.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                           |
+|-------+---------+---------------------------------------------------------------------------------|
+|   200 | g       | grüne oder braune Linsen                                                        |
+|     2 | EL      | Olivenöl                                                                        |
+|     1 | Stück   | Zwiebel, fein gehackt (150g)                                                    |
+|     3 | Stück   | Knoblauchzehen, zerdrückt                                                       |
+|   1.5 | TL      | Kreuzkümmelkörner                                                               |
+|     1 | TL      | Korianderkörner, im Mörser grob zerstoßen                                       |
+|   0.5 | TL      | gemahlene Kurkuma                                                               |
+|   0.5 | TL      | Chiliflocken                                                                    |
+|   250 | g       | Mangold, Stiele abgetrennt und fein gewürfelt, Blätter grob zerpflückt          |
+|   750 | ml      | Hühner- oder Gemüsebrühe                                                        |
+|     1 | Stück   | eingelegte Zitrone, Schale und Fruchtfleisch fein gehackt (20g), Kerne entfernt |
+|     1 | Stück   | Zitrone, in Spalten geschnitten, zum Servieren (nach Belieben)                  |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                                    |
+
+Röstzwiebeln
+| Menge | Einheit | Zutat                                                   |
+|-------+---------+---------------------------------------------------------|
+|   200 | ml      | Sonnenblumenöl zum Braten                               |
+|     1 | Stück   | Zwiebel, halbiert und in dünne Ringe geschnitten (150g) |
+|   2.5 | TL      | Speisestärke                                            |
+
+*** Zubereitung
+1. Die Linsen in reichlich kaltem Wasser waschen und in einem mittelgroßen Topf mit 1l
+   Wasser bedecken.
+2. Bei starker Hitze zum Kochen bringen und dann bei schwacher Hitze 30 Minuten köcheln
+   lassen, bis die Linsen eben gar sind.
+3. Abgießen und beiseitestellen.
+
+4. Das Öl in einem mittelgroßen Topf (Ø etwa 22cm) bei mittlerer Temperatur erhitzen.
+5. Die Zwiebel hineingeben und unter gelegentlichem Rühren 10 Minuten anbraten, bis sie
+   goldbraun und weich ist.
+6. Knoblauch, Kreuzkümmel und Koriander unterrühren, nach 1 weiteren Minute Kurkuma, Chili
+   und die Mangoldstiele hinzufügen und mit 1½ TL Salz und 1 kräftigen Prise Pfeffer
+   würzen.
+7. Gut umrühren, die Linsen und die Brühe dazugeben, zum Kochen bringen und bei schwacher
+   bis mittlerer Hitze 10 Minuten garen.
+8. Die Mangoldblätter und die eingelegte Zitrone unterrühren und die Suppe weitere 4
+   Minuten köcheln lassen.
+9. Vom Herd nehmen.
+
+10. Etwa die Hälfte der Suppe in den Mixer schöpfen (oder in eine große Schüssel, wenn Sie
+    einen Stabmixer verwenden) und pürieren, bis sie glatt ist.
+11. Zurück zu dem unpürierten Rest in den Topf gießen und beiseitestellen.
+
+12. Für die Röstzwiebeln das Sonnenblumenöl in einer großen Pfanne bei mittlerer
+    Temperatur erhitzen.
+13. Sobald es heiß ist, die Hitze etwas reduzieren.
+14. Die Zwiebeln mit der Speisestärke vermischen und portionsweise (in zwei oder drei
+    Portionen) 10-15 Minuten in dem heißen Öl braten, bis sie schön knusprig und goldbraun
+    sind.
+15. Auf einem Teller auf Küchenpapier abtropfen lassen - ein wenig verteilen, damit sie
+    nicht durchweichen - leicht salzen und beiseitestellen, während Sie die den Rest
+    braten.
+
+16. Die Suppe noch einmal erwärmen und auf vier Schalen verteilen.
+17. Mit den Röstzwiebeln garnieren und nach Belieben mit Zitronenspalten zum Auspressen
+    servieren.
+
+*** Notizen
+- Vorausplanen: Die Suppe lässt sich bis zu 3 Tage im Voraus kochen und im Kühlschrank
+  aufbewahren, tiefgefroren hält sie sich noch länger.
+- Die Zwiebeln halten sich luftdicht verpackt bei Zimmertemperatur einige Tage.
+- Machen Sie am besten gleich ein paar mehr, sie schmecken hervorragend über alle
+  möglichen Dinge gestreut – Linsen mit Reis zum Beispiel, Ofengemüse oder gegrilltes
+  Fleisch.
+* Hauptgerichte
+** Reis mit Joghurt, geröstetem Blumenkohl und frittiertem Knoblauch (Labaniet alzahar)
+:PROPERTIES:
+:Source:    Hauptgerichte mit Gemüse
+:Portions:  Für 4 Personen als Hauptgericht oder für 6 Personen als Beilage
+:Category:  Hauptgerichte mit Gemüse
+:Meal:      Hauptgericht, Beilage
+:END:
+
+Der Reis erinnert an einen cremigen Risotto oder an ein dickes Congee, zumal dann, wenn
+man wie unten vorgeschlagen die Garnitur variiert. So oder so ist es ein ungemein
+wohltuendes Gericht, das man wie Sami früher zu Hause als Hauptmahlzeit aus einer Schale
+löffelt, aber auch als Beilage zu geschmortem Lamm oder Rind servieren oder zu einem
+Wurzelgemüse aus dem Ofen reichen kann.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                       |
+|-------+---------+-------------------------------------------------------------|
+|     1 | Stück   | großer Blumenkohl, in etwa 6cm große Röschen geteilt (650g) |
+|     2 | EL      | Olivenöl                                                    |
+|   400 | g       | griechischer Joghurt                                        |
+|     1 | Stück   | Eigelb                                                      |
+|   1.5 | TL      | Speisestärke                                                |
+|   700 | ml      | Milch                                                       |
+|   200 | g       | Rundkorn- oder Risottoreis, gewaschen und abgetropft        |
+|     5 | g       | Petersilienblätter zum Garnieren (nach Belieben)            |
+|       |         | Salz und frisch gemahlener weißer Pfeffer                   |
+
+Adha
+| Menge | Einheit | Zutat                                                 |
+|-------+---------+-------------------------------------------------------|
+|     5 | Stück   | große Knoblauchzehen, in dünne Scheibchen geschnitten |
+|    60 | ml      | Olivenöl                                              |
+|     2 | TL      | Korianderkörner, im Mörser leicht zerstoßen           |
+
+*** Zubereitung
+1. Den Backofen auf 200°C (Umluft) vorheizen.
+
+2. Die Blumenkohlröschen in einer großen Schüssel mit dem Öl und ½ TL Salz sorgfältig
+   vermengen.
+3. Auf einem großen, mit Backpapier bedeckten Blech verteilen und im Ofen 25-27 Minuten
+   rösten, bis der Blumenkohl goldbraun und weich ist.
+
+4. Während der Blumenkohl im Ofen gart, im Mixer den Joghurt, das Eigelb und die
+   Speisestärke bei mittlerer Geschwindigkeit 1 Minute mixen, bis die Mischung glatt und
+   dickflüssig ist.
+5. Sie können das auch von Hand mit dem Schneebesen erledigen, wichtig ist nur, dass die
+   Zutaten wirklich gut verquirlt werden, damit die Sauce beim Garen nicht gerinnt.
+6. Beiseitestellen.
+
+7. Die Milch und den Reis in einen großen Topf mit passendem Deckel geben und mit 1 TL
+   Salz und 1 Prise weißem Pfeffer würzen.
+8. Bei starker Hitze zum Kochen bringen und dann bei schwacher bis mittlerer Hitze
+   zugedeckt 20 Minuten köcheln lassen, bis der Reis fast weich ist.
+9. Ab und zu umrühren.
+10. Die Joghurtmischung unterrühren und den Reis in weiteren 7 Minuten fertig garen.
+
+11. Für das Adha sämtliche Zutaten in einem kleinen Topf vermengen und bei niedriger bis
+    mittlerer Temperatur 2 Minuten erhitzen, bis der Knoblauch goldbraun ist.
+12. Beiseitestellen.
+
+13. Zum Servieren den Reis auf einer Platte oder in Schalen anrichten.
+14. Die Blumenkohlröschen kreuz und quer darauf verteilen und mit dem Adha überziehen.
+15. Nach Belieben mit Petersilie garnieren und sofort auf den Tisch bringen.
+
+*** Notizen
+- Vorausplanen: Idealerweise sollte man Blumenkohl, Reis und Adha parallel zubereiten
+  (nicht nacheinander, sodass die anderen Bestandteile warten müssen), damit alles
+  gleichzeitig warm und servierfertig ist.
+- Alternativen: Probieren Sie anstelle von Blumenkohl (oder zusätzlich) geröstete kleine
+  Rübchen oder Kürbisspalten dazu. Oder, um das Congee-Thema aufzunehmen, servieren Sie
+  alle möglichen Toppings und Garnituren getrennt in Schalen dazu - klein geschnittene
+  Frühlingszwiebeln zum Beispiel, ein wenig Shatta, in der Pfanne gebratenes Lammhack,
+  gegrillte Kirschtomaten, dünne Scheibchen von goldbräunlich frittiertem Knoblauch... So
+  kann sich jeder seinen Teller selbst zusammenstellen.
+** Kofta mit Tahin, Kartoffel und Zwiebel                        :kartoffel:
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  4
+:Category:  Hauptgericht
+:Meal:      Mittag-/Abendessen
+:END:
+
+Alternativen: Tahin, das gehaltvolle Sesammus, setzt hier einen Akzent. Wenn es etwas
+leichter werden soll, kann man die Kartoffeln durch Blumenkohlröschen ersetzen. Auch
+andere Gemüsesorten eignen sich, etwa gewürfeltes Fruchtfleisch von Butternut- oder
+Muskatkürbis. Sollten Sie so etwas vorhaben: Blumenkohl ist im Ofen 5 Minuten schneller
+gar als die Kartoffeln, Kürbis braucht 5 Minuten länger.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                                               |
+|-------+---------+-----------------------------------------------------------------------------------------------------|
+|     3 | Stk     | große mehligkochende Kartoffeln (500g), geschält und in etwa 1,5 cm große Würfel geschnitten (470g) |
+|     3 | EL      | Olivenöl                                                                                            |
+|   125 | g       | Tahin                                                                                               |
+|    80 | g       | griechischer Joghurt                                                                                |
+|    1½ | EL      | Zitronensaft                                                                                        |
+|     ¾ | TL      | Apfelessig                                                                                          |
+|     2 | Stk     | Knoblauchzehen, zerdrückt                                                                           |
+|     1 | Stk     | Zwiebel, in dünne Ringe geschnitten (150g)                                                          |
+|     5 | g       | Petersilienblätter                                                                                  |
+|    25 | g       | Pinienkerne, leicht geröstet (siehe Seite 240)                                                      |
+|     ½ | TL      | Aleppo-Chiliflocken (oder ¼ TL herkömmliche Chiliflocken)                                           |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                                                        |
+
+**** Kofta
+| Menge | Einheit | Zutat                                                           |
+|-------+---------+-----------------------------------------------------------------|
+|   250 | g       | Lammhackfleisch (mindestens 20% Fettanteil)                     |
+|   250 | g       | Rinderhackfleisch (mindestens 20% Fettanteil)                   |
+|     ½ | Stk     | Zwiebel, grob gerieben (75g)                                    |
+|     1 | Stk     | große Eiertomate, enthäutet (siehe Seite 129) und grob gerieben |
+|     1 | TL      | Tomatenmark                                                     |
+|     2 | TL      | Olivenöl                                                        |
+|     ¾ | TL      | gemahlener Piment                                               |
+|     ¾ | TL      | gemahlener Zimt                                                 |
+|     1 | TL      | Aleppo-Chiliflocken (oder ½ TL herkömmliche Chiliflocken)       |
+|    10 | g       | Petersilie, grob gehackt                                        |
+|     2 | Stk     | Knoblauchzehen, zerdrückt                                       |
+
+*** Zubereitung
+1. Den Backofen auf 220°C (Umluft) vorheizen.
+
+2. Die Kartoffeln in einer Schüssel mit 2 EL Öl, ¾ TL Salz und reichlich Pfeffer mischen.
+   Auf einem mit Backpapier bedeckten Blech verteilen und im Ofen 25 Minuten backen, bis
+   sie goldbraun und durchgegart sind; nach der Hälfte der Zeit einmal durchheben.
+   Herausnehmen und beiseitestellen.
+
+3. Die Backofentemperatur auf 230°C (Umluft) erhöhen.
+
+4. Inzwischen alle Zutaten für die Kofta mit 1 TL Salz und reichlich Pfeffer in eine
+   zweite Schüssel geben. Verkneten, dann in zwölf Portionen teilen und zu kleinen
+   länglichen Klößchen (à 55-60 g) formen. Beiseitestellen.
+
+5. Für die Sauce Tahin, Joghurt, Zitronensaft, Essig und Knoblauch mit 125 ml Wasser, ¾ TL
+   Salz und reichlich Pfeffer in eine Schüssel geben. Mit einem Schneebesen verrühren, bis
+   die Sauce glatt und recht flüssig ist; bis zur Verwendung beiseitestellen.
+
+6. Das restliche Öl (1 EL) in einer großen ofenfesten Pfanne mit hohem Rand bei mittlerer
+   bis hoher Temperatur erhitzen. Die Fleischklößchen und die Zwiebelringe darin etwa 5
+   Minuten braten, bis die Kofta etwas Farbe angenommen haben und die Zwiebelringe weich
+   sind. Für etwa 4 Minuten in den Backofen stellen, bis die Kofta durchgegart und die
+   Zwiebelringe leicht gebräunt sind. Aus dem Ofen nehmen. Die Kartoffeln unterrühren und
+   das Ganze mit der Tahin-Sauce übergießen. Die Pfanne schwenken, um die Sauce zu
+   verteilen, dann für weitere 4 Minuten zurück in den Ofen stellen. Wenn die Sauce Blasen
+   wirft, die Pfanne herausnehmen und für 5 Minuten zum Abkühlen beiseitestellen. Das
+   Gericht mit Petersilienblättern, Pinienkernen und Chiliflocken bestreuen und direkt aus
+   der Pfanne servieren.
+
+*** Notizen
+- Als leichtere Alternative können die Kartoffeln ersetzt werden durch:
+  - Blumenkohlröschen (5 Minuten kürzer backen)
+  - Gewürfelten Butternut- oder Muskatkürbis (5 Minuten länger backen)
+- Der Tahin (Sesammus) gibt dem Gericht eine besondere Note
+** Fleischtäschchen in Joghurtsauce (Shush barak)
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  4
+:Category:  Hauptgericht
+:Meal:      Mittag-/Abendessen
+:END:
+
+Diese ravioliartigen Täschchen, die in einer reichhaltigen Joghurtsauce gegart werden,
+haben noch einige andere Namen: Taqyet etyahoodi, was »Judenhut« bedeutet, oder Dinein
+qtat, »Katzenohren«. Egal, welche Form sie haben - Hüte oder Ohren -, es gibt kaum etwas,
+das Sami so schnell wieder in seine Kindheit zurückversetzt. Was für Proust die berühmten
+Madeleines waren, war für Sami sind es diese Fleischtäschchen. Sie zu machen, ist wahre
+Liebesmüh, doch wie so oft bei Speisen, die uns an daheim erinnern, ist das Ergebnis
+reinstes Seelenfutter und Wohlbehagen.
+
+Vorausplanen: Die Teigtäschchen kann man im Voraus herstellen, weil sie sich gut
+einfrieren lassen. Geben Sie sie gefroren in die Joghurtsauce: Sie müssen nur 2 Minuten
+länger im Topf bleiben.
+
+*** Zutaten
+**** Füllung
+| Menge | Einheit | Zutat                                                                  |
+|-------+---------+------------------------------------------------------------------------|
+| 1     | EL      | Olivenöl                                                               |
+| 1/2   | Stk     | Zwiebel, fein gewürfelt (10g)                                          |
+| 200   | g       | Rinderhackfleisch (oder Lammhackfleisch oder eine Mischung aus beidem) |
+| 1/2   | TL      | Baharat (siehe Seite 190)                                              |
+| 1/4   | TL      | gemahlene Kurkuma                                                      |
+| 5     | g       | Korianderblätter, fein gehackt                                         |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                           |
+
+**** Teig
+| Menge | Einheit | Zutat                         |
+|-------+---------+-------------------------------|
+|   150 | g       | Mehl, plus mehr zum Bestäuben |
+|     1 | EL      | Sonnenblumenöl                |
+|    65 | ml      | lauwarmes Wasser              |
+|   1/4 | TL      | Salz                          |
+
+**** Joghurtsauce
+| Menge | Einheit | Zutat                |
+|-------+---------+----------------------|
+|     1 | kg      | griechischer Joghurt |
+|     1 | Stk     | Eigelb               |
+|     1 | EL      | Speisestärke         |
+|   300 | ml      | Hühnerbrühe          |
+
+**** Adha
+| Menge | Einheit | Zutat                                                       |
+|-------+---------+-------------------------------------------------------------|
+|    60 | ml      | Olivenöl                                                    |
+|     5 | Stk     | Knoblauchzehen, zerdrückt                                   |
+|    30 | g       | Korianderblätter, grob gehackt                              |
+|     1 | TL      | Aleppo-Chiliflocken (oder 1/4 TL herkömmliche Chiliflocken) |
+
+*** Zubereitung
+1. Für die Füllung das Olivenöl in einer Pfanne bei mittlerer Temperatur erhitzen. Die
+   Zwiebelwürfel darin etwa 6 Minuten anschwitzen, bis sie etwas Farbe angenommen haben;
+   gelegentlich umrühren. Das Hackfleisch, Baharat, Kurkuma, 1/4 TL Salz und etwas Pfeffer
+   hinzufügen. Alles weitere 5 Minuten anbraten, dabei mit einem Kochlöffel rühren und das
+   Fleisch zerkleinern, bis es gar und alle Flüssigkeit verdampft ist. Die
+   Korianderblätter unterrühren und die Mischung zum Auskühlen beiseitestellen.
+2. Für den Teig das Mehl mit dem Sonnenblumenöl, etwa 65 ml lauwarmem Wasser und 1/4 TL
+   Salz in eine Rührschüssel geben. Mit den Händen zu einer ungleichmäßigen, etwas
+   klebrigen Kugel zusammendrücken. Den Teig dann auf einer dünn bemehlten Arbeitsfläche
+   etwa 4 Minuten kneten, bis er elastisch und glatt ist. Wieder zu einer Kugel formen,
+   mit einem Geschirrtuch bedecken und etwa 10 Minuten bei Zimmertemperatur ruhen lassen.
+3. Den Teig auf einer dünn bemehlten Arbeitsfläche zu einem Rechteck ausrollen (35 × 45
+   cm). Es sollte recht dünn sein, etwa 3 mm. Mit einem Ausstecherförmchen (Ø 7 cm) Kreise
+   ausstechen. Die Teigreste wieder zusammenkneten und erneut ausrollen, bis 25 Kreise
+   beisammen sind. Jeweils einen Teigkreis aufnehmen und wenden, sodass die klebrige,
+   mehlfreie Unterseite nun oben ist. Das ist wichtig, weil sich die Täschchen dann besser
+   verschließen lassen.
+4. Etwa 1/2 TL Fleischfüllung mittig auf jeden Kreis geben. Den Teig zur Hälfte
+   zusammenklappen und die Ränder rundherum fest zusammenpressen. Anschließend die Ecken
+   wie für Tortellini leicht überlappend zusammendrücken. Am besten stellen Sie eine
+   Schüssel mit Wasser bereit, in das Sie ab und zu die Finger tauchen, damit sie nicht
+   klebrig werden. Oder Sie streichen mit einem sauberen Pinsel Wasser auf die Ecken,
+   damit sie besser zusammenhalten. Fertige Teigtäschchen auf ein mit Backpapier bedecktes
+   Blech setzen.
+5. Den Backofen(grill) vorheizen.
+6. Sobald alle fertig sind, die Teigtäschchen 8 Minuten grillen - das Blech auf der
+   mittleren Schiene und nicht direkt unter dem Grill einschieben, damit sie nicht
+   verbrennen -, bis sie etwas Farbe angenommen haben.
+
+*** Notizen
+- Die Teigtäschchen können im Voraus hergestellt und eingefroren werden
+- Bei Verwendung von gefrorenen Teigtäschchen: 2 Minuten länger in der Joghurtsauce garen
+  lassen
+- Alternative Namen: Taqyet etyahoodi ("Judenhut") oder Dinein qtat ("Katzenohren")
+** Auberginenauflauf mit Kichererbsen und Tomaten (Musaqa'a)    :auberginen:
+:PROPERTIES:
+:Source:    Hauptgerichte mit Gemüse
+:Portions:  4 Personen als Hauptgericht, für 6 Personen als Beilage
+:Category:  Hauptgerichte mit Gemüse
+:Meal:      Hauptgericht, Beilage
+:END:
+
+Wer dabei an griechische Moussaka denkt, liegt gar nicht so falsch. Es handelt sich um
+eine vegetarische Auslegung des bekannten Auflaufs - herzhaft, einfach, gesund und absolut
+lecker. Er lässt sich als Hauptgericht ebenso genießen wie als Beilage zu allem Möglichen,
+etwa zu gegrilltem Fleisch, Fisch oder Tofu oder als Füllung für Ofenkartoffeln. Es ist
+eines dieser Gerichte, die man sich im Kühlschrank wünscht, wenn man abends nach Hause
+kommt. Der Auflauf schmeckt auch kalt, beste Voraussetzungen also, um ihn in einer
+Tupperdose mit zur Arbeit zu nehmen.
+
+Zutaten
+| Menge | Einheit | Zutat                                                                     |
+|-------+---------+---------------------------------------------------------------------------|
+|     5 | Stück   | mittelgroße Auberginen (1,25kg)                                           |
+|   120 | ml      | Olivenöl                                                                  |
+|     1 | Stück   | Zwiebel, fein gewürfelt (150g)                                            |
+|     6 | Stück   | Knoblauchzehen, zerdrückt                                                 |
+|     1 | TL      | Chiliflocken                                                              |
+|     1 | TL      | gemahlener Kreuzkümmel                                                    |
+|   0.5 | TL      | gemahlener Zimt                                                           |
+|   1.5 | TL      | Tomatenmark                                                               |
+|     2 | Stück   | grüne Paprikaschoten, entkernt und in 3cm große Stücke geschnitten (200g) |
+|     1 | Dose    | Kichererbsen (400g), abgespült und abgetropft (240g)                      |
+|     1 | Dose    | gehackte Tomaten (400g)                                                   |
+|   1.5 | TL      | Zucker                                                                    |
+|    15 | g       | Koriandergrün, grob gehackt, plus 5g zum Servieren                        |
+|     4 | Stück   | Eiertomaten, in 1,5cm dicke Scheiben geschnitten (350g)                   |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                              |
+
+*** Zubereitung
+1. Den Backofen auf 220°C (Umluft) vorheizen.
+2. Die Schale der Auberginen mit einem Sparschäler der Länge nach streifen­weise
+   abschälen, sodass ein Zebrastreifenmuster entsteht.
+3. Die Auberginen anschließend quer in 2cm dicke Scheiben schneiden und in einer großen
+   Schüssel mit 75ml Öl, 1 TL Salz und reichlich Pfeffer sorgfältig vermengen.
+4. Auf zwei mit Backpapier bedeckte Bleche verteilen und im Ofen etwa 30 Minuten rösten,
+   bis das Gemüse ganz weich und leicht gebräunt ist.
+5. Aus dem Ofen nehmen und beiseitestellen.
+6. Die Ofentemperatur auf 180°C (Umluft) reduzieren.
+7. Während die Auberginen im Ofen garen, die Sauce vorbereiten:
+8. In einer großen Pfanne 2 EL Öl bei mittlerer bis hoher Temperatur erhitzen und die
+   Zwiebel darin etwa 7 Minuten anbraten, bis sie weich und leicht gebräunt ist.
+9. Knoblauch, Chili, Kreuzkümmel, Zimt und Tomatenmark unterrühren und 1 Minute mitbraten.
+10. Paprikaschoten, Kichererbsen, Dosentomaten, Zucker sowie 200ml Wasser, 1¼ TL Salz und
+    1 kräftige Prise Pfeffer hinzufügen.
+11. Das Ganze bei mittlerer Hitze 15 Minuten köcheln lassen, bis die Paprikaschoten
+    durchgegart sind.
+12. Das Koriandergrün unterrühren und die Sauce beiseitestellen.
+13. Den Boden einer großen ofenfesten Form (etwa 20 x 30cm) mit der Hälfte der Eiertomaten
+    und der Hälfte der Auberginen auslegen.
+14. Die Sauce darauf verteilen und die restlichen Tomaten und Auberginen einschichten.
+15. Noch 1 EL Öl über das Gemüse träufeln, die Form mit Alufolie verschließen und für 30
+    Minuten in den Ofen schieben.
+16. Die Folie entfernen und den Auflauf weitere 20 Minuten backen, bis die Sauce Blasen
+    wirft und die Tomaten weich sind.
+17. Die Musaqa'a aus dem Ofen nehmen und 20 Minuten abkühlen lassen.
+18. Mit dem restlichen Koriandergrün garnieren und warm oder abgekühlt servieren.
+
+*** Notizen
+- Vorausplanen: Sie können diesen Auflauf im Voraus zubereiten, er hält sich im
+  Kühlschrank bis zu 3 Tage, man muss ihn nur kurz wieder aufwärmen.
+** Blumenkohlküchlein mit Kreuzkümmel und Minzjoghurt
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  4-6 (ergibt 10 Stück)
+:Category:  Snacks, Dips & Saucen
+:Meal:      Snack, Beilage
+:END:
+
+*** Einführung
+Eine Version dieser Küchlein findet sich auch in Samis erstem Kochbuch Ottolenghi: Das
+Kochbuch. Wir haben ein bisschen mit ihnen herumexperimentiert, zum Beispiel Brokkoli
+unter die Masse gemengt, sind am Ende aber zu dem bewährten Rezept zurückgekehrt.
+
+Samis Mutter pflegte diese Küchlein ihren Kindern zur Schule mitzugeben, und Sami liebt
+sie noch immer, sei es frisch aus der Pfanne oder später, wenn sie abgekühlt sind. Reste
+schmecken kalt oder einige Minuten im Ofen wieder aufgewärmt noch am nächsten Tag. Und in
+einem Fladenbrot verstaut gehören sie zum Besten, was man mittags auf die Schnelle essen
+kann. Doch auch solo als Appetithappen vor dem Abendessen eignen sie sich großartig. In
+diesem Fall sollte man sie jedoch nur halb so groß machen, damit sie mit wenigen Bissen
+vernascht werden können.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                       |
+|-------+---------+-------------------------------------------------------------|
+|     1 | Stück   | kleiner Blumenkohl, in 4-5cm große Röschen geteilt (300g)   |
+|   120 | g       | Mehl                                                        |
+|    20 | g       | Petersilie, fein gehackt                                    |
+|     1 | Stück   | Zwiebel, fein gehackt (100g)                                |
+|     2 | Stück   | Eier                                                        |
+| 1 1/2 | TL      | gemahlener Kreuzkümmel                                      |
+|   3/4 | TL      | gemahlener Zimt                                             |
+|   1/2 | TL      | gemahlene Kurkuma                                           |
+|   1/2 | TL      | Aleppo-Chiliflocken (oder 1/2 TL herkömmliche Chiliflocken) |
+|   1/4 | TL      | Backpulver                                                  |
+|   250 | ml      | Sonnenblumenöl zum Braten                                   |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                |
+
+Sauce (nach Belieben):
+| Menge | Einheit | Zutat                |
+|-------+---------+----------------------|
+|   250 | g       | griechischer Joghurt |
+|   1/2 | TL      | getrocknete Minze    |
+|     2 | EL      | Zitronensaft         |
+|     1 | EL      | Olivenöl             |
+
+*** Zubereitung
+1. Für die Sauce (falls verwendet) sämtliche Zutaten in einer Schüssel mit 1/2 TL Salz
+   sorgfältig verrühren und bis zur Verwendung in den Kühlschrank stellen.
+
+2. In einem mittelgroßen Topf gesalzenes Wasser zum Kochen bringen und die
+   Blumenkohlröschen darin 4 Minuten blanchieren. In ein Sieb abgießen (3-4 EL des
+   Kochwassers auffangen) und den Blumenkohl mit einer Gabel oder einem Kartoffelstampfer
+   leicht zerdrücken. In einer großen Schüssel mit den restlichen Zutaten (außer dem
+   Sonnenblumenöl) vermengen und die Masse mit 1¼ TL Salz und 1 kräftigen Prise Pfeffer
+   würzen. Etwa 3 EL des Kochwassers unterrühren, sodass eine leicht flüssige Masse
+   entsteht.
+
+3. In einer großen Pfanne (Ø etwa 22cm) das Öl erhitzen. Sobald es sehr heiß ist (120°C,
+   falls Sie ein Küchenthermometer besitzen), pro Küchlein vorsichtig 2-3 EL Teig
+   hineingeben. Sie müssen portionsweise vorgehen, vier bis fünf Küchlein pro Durchgang,
+   damit es in der Pfanne kein Gedränge gibt, und sie mit einem Pfannenwender auf Abstand
+   halten. Die Küchlein etwa 5 Minuten braten und nach der Hälfte der Zeit umdrehen, bis
+   sie von beiden Seiten goldbraun sind. Auf einem Teller auf Küchenpapier abtropfen
+   lassen, während Sie die nächste Portion braten. Warm oder kalt servieren, nach Belieben
+   mit der Joghurtsauce.
+
+*** Notizen
+- Vorausplanen: Der Teig hält sich fix und fertig zubereitet 1 Tag im Kühlschrank, wenn
+  Sie Zeit gewinnen wollen.
+- Zeit sparen: Der Minzjoghurt ist eine leckere Zugabe, aber geschmacklich haben die
+  Küchlein genug zu bieten, sodass sie auch lediglich mit einem Spritzer Zitronensaft
+  auskommen.
+
+** Ful medames                                                      :bohnen:
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  2 (4 mit Ei und Pita)
+:Category:  Frühstück
+:Meal:      Hauptgericht
+:END:
+*** Einführung
+Ful medames ist als Leib- und Magenspeise der Ägypter bekannt, doch genauso beliebt in
+Palästina, vor allem während des Ramadans, wenn es zum sahur, dem letzten Mahl vor Beginn
+des Fastens, serviert wird. Wie alle Gerichte mit Hülsenfrüchten macht es am Morgen fit
+für den Tag und sorgt an seinem Ende als einfaches Abendessen für wohlige Behaglichkeit.
+Warme Pita dazu ist wie immer ein Muss.
+*** Zutaten
+| Menge | Einheit | Zutat                                                        |
+|-------+---------+--------------------------------------------------------------|
+|     3 | Dosen   | Dicke Bohnen (à 400g), abgespült und abgetropft (470g)       |
+|     3 | Stück   | Zitronen (2 ausgepresst (60ml), 1 in Spalten zum Servieren)  |
+|     4 | Zehen   | Knoblauch, zerdrückt                                         |
+|   1/2 | TL      | grüne Chilischote, fein gehackt                              |
+| 1 1/2 | TL      | gemahlener Kreuzkümmel                                       |
+|   1/2 | Stück   | kleine rote Zwiebel, in dünne Streifen geschnitten (60g)     |
+|   3/4 | TL      | gemahlener Sumach                                            |
+|     5 | g       | Petersilienblätter                                           |
+|     1 | Stück   | große Avocado, Fruchtfleisch in 5mm große Würfel geschnitten |
+|     1 | Stück   | Tomate, in 5mm große Würfel geschnitten (70g)                |
+|     2 | EL      | Olivenöl                                                     |
+|     4 | Stück   | weich gekochte Eier zum Servieren (nach Belieben)            |
+|       |         | warmes Pitabrot (fertig gekauft oder selbst gebacken)        |
+|       |         | Salz                                                         |
+
+*** Zubereitung
+1. In einem mittelgroßen Topf 1l Wasser zum Kochen bringen. Die Bohnen hineingeben und bei
+   mittlerer Hitze 5 Minuten köcheln lassen, bis sie eben warm und noch etwas weicher
+   geworden sind. Abgießen, 50ml des Wassers auffangen und die Bohnen zurück in den Topf
+   geben. Die 60ml Wasser sowie 2½ EL Zitronensaft, Knoblauch, Chili, Kreuzkümmel und ¾ TL
+   Salz dazugeben. Die Bohnen mit einer Gabel grob zerdrücken und bis zur Verwendung
+   beiseitestellen (oder warm stellen).
+2. Die Zwiebelstreifen in einer Schüssel mit ¼ TL Salz bestreuen. Das Salz ein wenig
+   einmassieren und die Zwiebelstreifen 10 Minuten stehen lassen, damit sie etwas weicher
+   werden. Sumach und Petersilie untermengen. Bis zur weiteren Verwendung beiseitestellen.
+3. Für die Salsa die Avocado- und Tomatenwürfel in einer Schüssel mit 2 EL Zitronensaft
+   und ¼ TL Salz vermengen und beiseitestellen.
+4. Unmittelbar vor dem Servieren die Bohnen, falls nötig, wieder erwärmen und auf einer
+   großen Platte anrichten. Die Oberfläche ein wenig glätten und in der Mitte eine Mulde
+   hineindrücken. Zuerst die Salsa, dann die Zwiebelstreifen in die Mulde häufen und mit
+   etwas Öl beträufeln. Das Gericht entweder nur mit Zitronenspalten zum Auspressen
+   servieren oder mit einem weich gekochten Ei und warmem Pitabrot reichen.
+
+*** Notizen
+- Dicke Bohnen - getrocknet kontra Konserve: Hier werden Dicke Bohnen aus der Dose
+  verwendet, weil sie leichter zu finden sind und beim Garen gleichmäßiger in der
+  Konsistenz bleiben. Außerdem müssen getrocknete Dicke Bohnen enthäutet werden, was sie
+  als schnelle Option am Morgen disqualifiziert.
+- Alternativen: Als Garnitur haben wir ein paar Sumach-Zwiebeln, eine einfache Salsa und
+  ein weich gekochtes Ei gewählt. Sie können sich jedoch in jede erdenkliche Richtung
+  treiben lassen: Spiegeleier, gehackte Petersilie oder Frühlingszwiebeln, grob geriebene
+  harte Eier - sie alle erfüllen ihren Zweck.
+** Pasta mit Joghurt und Petersilienbröseln (Ma'caroneh bil laban)
+:PROPERTIES:
+:Source:    Unbekannt
+:Portions:  4
+:Category:  Hauptgericht
+:Meal:      Abendessen
+:END:
+
+Pasta war ein Lieblingsessen von Sami und seinem Bruder Azam, als sie Kinder waren. Na'ama
+bereitete sie auf zwei Arten zu. Die eine war Ma'caroneh bil ferun, die palästinensische
+Antwort auf Pasta al Forno - dicke Makkaroni in einer fleischigen Tomatensauce. Zuerst
+stritten sich Azam und Sami um die knusprigsten Bissen obendrauf, dann schlürften sie die
+langen Nudeln um die Wette. Na'amas zweite Standardpasta war leichter, erfrischender und
+wurde mit Joghurt und Nüssen getoppt. Hier ist unsere Interpretation. Man kann sie warm
+oder abgekühlt genießen.
+
+Vorausplanen: Die Petersilienbrösel lassen sich am Vortag zubereiten und ungekühlt in
+einem gut verschlossenen Behälter lagern. Alles andere sollte frisch gemacht werden. Das
+geht ganz schnell, ideal also für ein Abendessen unter der Woche.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                            |
+|-------+---------+--------------------------------------------------|
+|    75 | ml      | Olivenöl                                         |
+|    65 | g       | Butter                                           |
+|    40 | g       | Panko (japanische Semmelbrösel)                  |
+|    15 | g       | Petersilie, grob gehackt                         |
+|   1/2 | TL      | Chiliflocken                                     |
+|    50 | g       | Pinienkerne                                      |
+|   1/4 | TL      | geriebenes Paprikapulver                         |
+|   500 | g       | griechischer Joghurt                             |
+|     3 | Stk     | Knoblauchzehen, zerdrückt                        |
+|     1 | TL      | gemahlener Kreuzkümmel                           |
+|     2 | Stk     | Eigelb                                           |
+|   500 | g       | Orecchiette (oder Penne bzw. Conchiglie)         |
+|     5 | g       | Basilikumblätter, grob zerpflückt, zum Garnieren |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer     |
+
+*** Zubereitung
+1. In einer mittelgroßen Pfanne 1 EL Olivenöl und 15 g Butter bei mittlerer Temperatur
+   erhitzen. Sobald die Butter schäumt, die Panko-Brösel einrühren, mit 1 Prise Salz und
+   Pfeffer würzen und in etwa 8 Minuten unter häufigem Rühren goldbraun rösten. Ein
+   Drittel der Petersilie und die Chiliflocken unterrühren und weitere 5 Minuten rösten,
+   bis die Mischung richtig knusprig und goldbraun ist. Die Brösel auf einem Teller auf
+   Küchenpapier zum Abtropfen beiseitestellen (oder bis zur Verwendung in einem gut
+   verschlossenen Behälter aufbewahren).
+2. Die Pfanne auswischen und die restliche Butter (50g) bei mittlerer Hitze aufschäumen
+   lassen. Die Pinienkerne hineingeben und unter Rühren 3 Minuten anrösten, dann das
+   Paprikapulver hinzufügen und die Pinienkerne weitere 3 Minuten unter Rühren rösten, bis
+   sie goldbraun sind. In eine Schüssel umfüllen und beiseitestellen.
+3. Den Joghurt in einer großen Schüssel (in der später auch die Nudeln Platz finden) mit
+   dem Knoblauch, dem Kreuzkümmel, den Eigelben und dem restlichen Öl (60ml) verquirlen.
+   Beiseitestellen.
+4. In einem Topf gesalzenes Wasser zum Kochen bringen und die Nudeln darin in etwa 10
+   Minuten (oder nach Packungsangabe) al dente garen. Etwa 60ml des Kochwasser abnehmen
+   und die Nudeln in einem Sieb abtropfen lassen.
+5. Die heiße Pasta und die 60ml Kochwasser zu dem Joghurt in die Schüssel geben und die
+   restliche Petersilie unterziehen. Alles gut vermengen und auf vier Schalen verteilen.
+   Die Nudeln mit der Pinienkernbutter, den Petersilienbröseln und dem Basilikum garnieren
+   und sofort servieren.
+
+*** Notizen
+- Das Gericht kann warm oder abgekühlt genossen werden
+- Die Petersilienbrösel können am Vortag zubereitet und in einem gut verschlossenen
+  Behälter aufbewahrt werden
+- Ideal für ein schnelles Abendessen unter der Woche
+** Rote-Bete-Tarte mit Feta, Honig und Za'atar
+:PROPERTIES:
+:Source:    Hauptgerichte mit Gemüse
+:Portions:  4 Personen
+:Category:  Hauptgerichte mit Gemüse
+:Meal:      Hauptgericht
+:END:
+
+Rote Bete, Feta, Ricotta, Honig und Thymian - manche Aromen sind einfach wie füreinander
+geschaffen. Alles in einem blättrigen, mürben goldbraun gebackenen Teig verpackt - zum
+Anbeißen! Servieren Sie dazu einen grünen Salat (zum Beispiel den Pikanten Kräutersalat
+auf Seite 93).
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                                                      |
+|-------+---------+------------------------------------------------------------------------------------------------------------|
+|   2-3 | Stück   | kleine Rote Beten (200g)                                                                                   |
+|     1 | Stück   | mittelgroße Gelbe Bete (100g, oder einfach insgesamt 300g Rote Bete, wenn Sie die Gelbe Bete nicht finden) |
+|     2 | EL      | Olivenöl                                                                                                   |
+|    15 | g       | Butter                                                                                                     |
+|     1 | Stück   | große rote Zwiebel, in 5mm dicke Ringe geschnitten (170g)                                                  |
+|     2 | TL      | Zucker                                                                                                     |
+|     2 | EL      | Apfelessig                                                                                                 |
+|     1 | EL      | Za'atar                                                                                                    |
+|     5 | g       | Petersilienblätter, fein gehackt                                                                           |
+|     5 | g       | Oreganoblätter, fein gehackt                                                                               |
+|    60 | g       | Ricotta                                                                                                    |
+|     2 | Stück   | Knoblauchzehen, zerdrückt                                                                                  |
+|    90 | g       | Feta, in etwa 2cm große Stücke gebrockelt                                                                  |
+|     1 | Stück   | Ei, verquirlt                                                                                              |
+|    15 | g       | flüssiger Honig                                                                                            |
+|   0.5 | TL      | Thymianblätter zum Garnieren                                                                               |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                                                               |
+
+*Teigboden*
+
+| Menge | Einheit | Zutat                                           |
+|-------+---------+-------------------------------------------------|
+|    80 | g       | Mehl, plus mehr zum Bestäuben                   |
+|    35 | g       | Vollkornmehl                                    |
+|   1.5 | TL      | Zucker                                          |
+|   0.5 | TL      | Meersalzflocken                                 |
+|     1 | EL      | fein gehackter Oregano                          |
+|   1.5 | TL      | fein gehackter Thymian                          |
+|   115 | g       | kalte Butter, in 1,5cm große Würfel geschnitten |
+|    60 | ml      | eiskaltes Wasser                                |
+
+**** Zubereitung
+1. Den Backofen auf 220°C (Umluft) vorheizen.
+2. Die Roten und Gelben Beten einzeln in Alufolie wickeln und 1-1½ Stunden im Ofen backen,
+   bis sie ganz weich und durchgegart sind.
+3. Je nach Größe der Knollen kann die Garzeit erheblich variieren.
+4. Aus dem Ofen nehmen und 10 Minuten abkühlen lassen.
+5. Anschließend mit einem alten Geschirrtuch oder einem Lappen vorsichtig die Schale
+   abreiben.
+6. Die Knollen in 2-3mm dicke Scheiben schneiden und in getrennte Schüsseln geben, wenn
+   Sie beide Sorten verwenden.
+7. Gelbe Beten mit 1 kräftigen Prise Salz und Pfeffer und ½ TL Öl, die Roten mit ¼ TL
+   Salz, reichlich Pfeffer und 1 TL Öl würzen.
+8. Beiseitestellen und den Ofen vorerst wieder ausschalten.
+9. Für den Teig beide Mehle in einer großen Schüssel mit dem Zucker, dem Salz und den
+   Kräutern vermengen.
+10. Die Butter dazugeben und mit den Fingern in die Mehlmischung reiben – nicht zu
+    intensiv, es sollen noch Spuren von Butter sichtbar bleiben.
+11. Das Wasser dazugießen und alles mit den Händen grob zu einer Kugel zusammendrücken.
+12. Den Teig auf der gut bemehlten Arbeitsfläche zu einem Rechteck von etwa 20 x 18cm
+    ausrollen.
+13. Er ist recht feucht und klebrig, also Hände, Nudelholz und Arbeitsfläche immer wieder
+    gut mit Mehl bestäuben.
+14. Der Teig ist einfach so, dafür wird er wunderbar mürbe und blättrig.
+15. Die kurzen Seiten des Teigrechtecks so nach innen umschlagen, dass sie sich in der
+    Mitte treffen, dann den Teig wie ein Buch zusammenklappen.
+16. Einmal mit dem Nudelholz darüberrollen und erneut wie ein Buch zusammenklappen.
+17. Den Teig in Frischhaltefolie einschlagen (siehe Seite 342) und 1 Stunde (oder über
+    Nacht) in den Kühlschrank legen.
+18. Mit der Füllung fortfahren. Die Butter und 1 EL Öl in einer mittelgroßen Pfanne bei
+    mittlerer bis hoher Temperatur erhitzen und die Zwiebel darin etwa 10 Minuten
+    anbraten, bis sie weich und gebräunt ist.
+19. Gelegentlich umrühren.
+20. Den Zucker, den Essig und 1 Prise Salz dazugeben und 1 weitere Minute garen, bis die
+    Flüssigkeit fast verkocht ist.
+21. Beiseitestellen und 15 Minuten abkühlen lassen.
+22. Anschließend 1 TL Za'atar sowie die Petersilie und Oregano unterrühren.
+23. Ricotta, Joghurt, 60g Feta, Zitronenschale und -saft und die restliche Knoblauchzehe
+    in eine Schüssel geben und mit 1 Prise Salz und Pfeffer würzen.
+24. Alles mit einem Schneebesen kräftig verquirlen, bis sich der Feta fast aufgelöst hat
+    und die Mischung glatt ist.
+    
+**** Notizen
+
+- Vorausplanen: Hier lässt sich einiges im Voraus erledigen. Die Rote Bete kann man am
+  Vortag backen und klein schneiden.
+- Auch die Zwiebel lässt sich einen ganzen Tag vorher vorbereiten.
+- Der Teigboden hält sich im Kühlschrank bis zu 3 Tage (tiefgekühlt noch länger).
+- Die fertig belegte Tarte kann vor dem Backen 6 Stunden im Kühlschrank ausharren.
+- Einmal gebacken genießt man sie am besten noch leicht warm oder abgekühlt am selben Tag.
+- Zutatentipp: Eine Mischung aus Roten und Gelben Beten sieht hübsch aus, aber wenn Sie
+  die gelbe Sorte nicht bekommen, ist das auch kein Problem - nehmen Sie dann einfach 300g
+  Rote Bete.
+** Rotes Shakshuka à la Rührei
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  2
+:Category:  Frühstück
+:Meal:      Hauptgericht
+:END:
+
+*** Einführung
+Shakshuka – das typische Frühstück im Nahen Osten. Ein herrlich zwangloses Gericht, das
+man direkt in der Pfanne serviert, in der es zubereitet wurde. Es gibt zig verschiedene
+Versionen von Shakshuka, allesamt Variationen desselben Themas – in einer schönen dicken
+Sauce gegarte Eier. Gewöhnlich werden sie wie Setzeier in der Sauce gegart, wie bei dem
+grünen Shakshuka auf der rechten Seite. Hier werden sie jedoch leicht verquirlt und wie
+ein Rührei zubereitet.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                      |
+|-------+---------+----------------------------------------------------------------------------|
+|    45 | g       | Feta, grob zerkrümelt                                                      |
+|     5 | g       | Petersilienblätter, grob gehackt                                           |
+|   3/4 | TL      | Aleppo-Chililflocken (oder 1/2 TL herkömmliche Chiliflocken)               |
+|    75 | ml      | Olivenöl                                                                   |
+| 1 1/2 | TL      | Korianderkörner, leicht geröstet und im Mörser grob zerstoßen              |
+|     1 | Stück   | Zwiebel, in dünne Ringe geschnitten (150g)                                 |
+|     1 | Stück   | rote Paprikaschote, entkernt und in 1cm breite Streifen geschnitten (140g) |
+|     3 | Zehen   | Knoblauchzehen, zerdrückt                                                  |
+|   1/2 | TL      | Kreuzkümmel, leicht geröstet und im Mörser grob zerstoßen                  |
+|     1 | TL      | Tomatenmark                                                                |
+|   1/4 | TL      | Paprikapulver                                                              |
+|   5-6 | Stück   | Tomaten, grob gehackt (500g)                                               |
+|    75 | g       | Kirschtomaten                                                              |
+|     2 | TL      | Shatta (siehe Seite 73) oder Rosen-Harissa                                 |
+|     4 | Stück   | Eier, leicht verquirlt                                                     |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                               |
+
+*** Zubereitung
+1. Den Feta in einer Schüssel mit der Petersilie, 1/2 TL Chiliflocken, 3 EL Öl und 1/2 TL
+   zerstoßenen Korianderkörnern sorgfältig vermengen und bis zur weiteren Verwendung
+   beiseitestellen (oder in den Kühlschrank, wenn er länger warten muss).
+2. Die restlichen 2 EL Öl in einer großen Pfanne mit passendem Deckel bei mittlerer bis
+   hoher Temperatur erhitzen und die Zwiebelringe darin 5 Minuten anschwitzen, bis sie
+   weich und leicht gebräunt sind. Die Paprikastreifen dazugeben und 5 Minuten mitgaren,
+   anschließend den Knoblauch sowie den Kreuzkümmel, das Tomatenmark, das Paprikapulver
+   und die restlichen zerstoßenen Korianderkörner (1TL) unterrühren. Wenn die Gewürze nach
+   1 Minute zu duften beginnen, sämtliche Tomaten, das Shatta (oder die Harissa), 80 ml
+   Wasser, 1 TL Salz und reichlich Pfeffer hinzufügen und alles bei mittlerer Hitze etwa
+   15 Minuten köcheln lassen, bis die Tomaten zerfallen sind und die Sauce eingedickt ist.
+   Hin und wieder umrühren.
+3. Die Eier mit 1 Prise Salz und Pfeffer würzen und sorgfältig verquirlen. Behutsam in die
+   Tomatensauce gießen, die Pfanne vorsichtig schwenken und das Ei nur grob untermischen.
+   Die Hitze ein wenig reduzieren, die Pfanne zudecken und alles 4 Minuten garen.
+4. Die Pfanne vom Herd nehmen und den eingelegten Feta auf dem Gericht verteilen. Das
+   Ganze mit den restlichen Chiliflocken (1/4 TL) bestreuen und sofort servieren.
+
+*** Notizen
+- Vorausplanen: Die Sauce lässt sich 1-2 Tage vorher so weit vorbereiten, dass später nur
+  noch die Eier hinzukommen. Den Feta kann man 3 Tage im Voraus marinieren. Wer möchte,
+  kann gleich ein bisschen mehr einlegen, der Käse schmeckt auch köstlich über goldbraun
+  gebackene Süßkartoffeln und alle möglichen Salate gekrümelt.
+- Alternativen: Die Shakshuka-Basis kann alle erdenklichen Richtungen einschlagen und
+  verschiedene Farben annehmen. Rot, wie hier, mit Tomaten und roter Paprika oder grün mit
+  jeder Art von Blattgemüse oder Kräutern, die verwertet werden müssen. So oder so ist es
+  ein äußerst wandlungsfähiges und rustikales Gericht, probieren Sie ruhig verschiedene
+  Gewürze und Toppings aus. Bei den Gewürzen machen sich etwa gemahlener Paprika und grob
+  zerstoßener Kümmel anstelle von Kreuzkümmel und gewöhnlichem Paprika gut. Und als
+  Topping bieten sich für beide Versionen würziger Feta, schwarze Oliven oder fein
+  gehackte Schale von eingelegten Zitronen an. Ein Klecks Tahini oder ein Löffel Joghurt
+  kommt immer gelegen, ebenso wie frisches knuspriges Brot und ein knackiger grüner Salat.
+* Beilagen
+** Geröstete neue Kartoffeln mit Zitrone und Kräutern (Batata bil filfil)
+:PROPERTIES:
+:Source:    Gemüsebeilagen & Salate
+:Portions:  4 Personen als Beilage
+:Category:  Gemüsebeilagen & Salate
+:Meal:      Beilage
+:END:
+
+Manchmal – oft sogar! – sind ein paar neue Kartoffeln aus dem Ofen alles, was ein Gericht
+noch braucht. Und das ist das passende Rezept.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                 |
+|-------+---------+-----------------------------------------------------------------------|
+|     3 | EL      | Olivenöl                                                              |
+|     1 | TL      | Kreuzkümmelkörner, im Mörser leicht zerstoßen                         |
+|     1 | TL      | Korianderkörner, im Mörser leicht zerstoßen                           |
+|     7 | Stück   | große Knoblauchzehen, in dünne Scheibchen geschnitten (20g)           |
+|     1 | Stück   | große rote Chilischote, in feine Ringe geschnitten (20g)              |
+|   200 | g       | Kirschtomaten, halbiert                                               |
+|   750 | g       | kleine neue Kartoffeln, geviertelt                                    |
+|   0.5 | TL      | Zucker                                                                |
+|     1 | Stück   | große Bio-Zitrone, 2 TL Schale abgerieben, dann 2 EL Saft ausgepresst |
+|    10 | g       | Korianderblätter, grob gehackt                                        |
+|     5 | g       | Dillspitzen, grob gehackt                                             |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                          |
+
+*** Zubereitung
+1. Den Backofen auf 200°C (Umluft) vorheizen.
+2. Das Öl in einer großen Pfanne bei hoher Temperatur erhitzen.
+3. Die Kreuzkümmelkörner und die Korianderkörner hineingeben und unter häufigem Rühren 1
+   Minute anrösten.
+4. Den Knoblauch hinzufügen und 1 Minute leicht Farbe annehmen lassen.
+5. Den Chili und die Tomaten dazugeben und alles weitere 2 Minuten anschwitzen, bis die
+   Tomaten allmählich weich werden.
+6. Hin und wieder umrühren.
+7. Die Kartoffeln, den Zucker, 1 TL Salz und 1 kräftige Prise Pfeffer hinzufügen, gut
+   umrühren.
+8. Das Ganze auf ein mit Backpapier bedecktes Blech geben.
+9. Im Ofen 40 Minuten rösten, bis die Kartoffeln knusprig und gar und die Tomaten
+   zerfallen sind.
+10. Nach der Hälfte der Zeit alles einmal umwenden.
+11. Aus dem Ofen nehmen und 5 Minuten abkühlen lassen.
+12. Anschließend Zitronenschale und -saft sowie gehackten Koriander und Dill dazugeben,
+    behutsam durchheben und servieren.
+
+*** Notizen
+- Vorausplanen: Bereiten Sie alles bis zu dem Punkt vor, an dem die Kartoffeln in den Ofen
+  sollen, wenn Sie Zeit gewinnen wollen; Kartoffeln und Tomaten können ruhig ein paar
+  Stunden auf dem Blech warten. Nur nicht zu früh hineinschieben, sie sollten frisch aus
+  dem Ofen auf den Tisch kommen.
+** Geschmorte Dicke Bohnen mit Olivenöl und Zitrone (Foul akdar)    :bohnen:
+:PROPERTIES:
+:Source:    Gemüsebeilagen & Salate
+:Portions:  4 Personen als Beilage oder Teil einer Mezze-Auswahl
+:Category:  Gemüsebeilagen & Salate
+:Meal:      Beilage, Mezze
+:END:
+
+Ein denkbar simples Gericht, doch dank der großzügigen Dosis Zitronensaft und der noch
+großzügigeren Dosis Olivenöl herrlich spritzig und aromatisch. Ob warm oder kalt, es
+schmeckt fabelhaft mit einer Schale Reis Joghurt dazu, aber auch als Beilage oder Teil
+einer Mezze-Auswahl. Selbst ein Rest mundet noch köstlich und hält sich einige Tage, also
+bereiten Sie ruhig die doppelte oder dreifache Menge zu, falls im Garten gerade eine
+Bohnenschwemme heranreift.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                                                                         |
+|-------+---------+-------------------------------------------------------------------------------------------------------------------------------|
+|    50 | ml      | Olivenöl                                                                                                                      |
+|     1 | Stück   | Zwiebel, fein gewürfelt (150g)                                                                                                |
+|     3 | Stück   | Knoblauchzehen, zerdrückt                                                                                                     |
+|   600 | g       | frische Dicke Bohnen in der Schote, von Stielen und faserigen Partien befreit und schräg in etwa 4cm lange Stücke geschnitten |
+|   200 | ml      | Hühner- oder Gemüsebrühe                                                                                                      |
+|     1 | Stück   | Bio-Zitrone, ½ TL Schale abgerieben, dann 2 EL Saft ausgepresst                                                               |
+|   0.5 | TL      | getrocknete Minze                                                                                                             |
+|    10 | g       | Petersilienblätter, grob gehackt                                                                                              |
+|    10 | g       | Minzeblätter, grob gehackt                                                                                                    |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                                                                                  |
+
+*** Zubereitung
+1. Das Öl in eine große Pfanne mit passendem Deckel gießen und bei mittlerer bis hoher
+   Temperatur erhitzen.
+2. Die Zwiebel darin etwa 7 Minuten unter gelegentlichem Rühren anbraten, bis sie weich
+   und goldbraun ist.
+3. Den Knoblauch unterrühren und 30 Sekunden anschwitzen, bis er aromatisch duftet.
+4. Dann die Dicken Bohnen und die Brühe dazugeben und mit 1½ TL Salz und etwas Pfeffer
+   würzen.
+5. Zum Kochen bringen, dann die Bohnen zugedeckt bei schwacher bis mittlerer Hitze etwa 25
+   Minuten schmoren, bis sie sehr weich sind.
+6. Den Zitronensaft und die getrocknete Minze unterrühren und das Gemüse etwa 10 Minuten
+   abkühlen lassen, wenn Sie es noch warm auf den Tisch bringen möchten.
+7. Man kann es aber auch bei Zimmertemperatur servieren.
+8. Mit der Petersilie, der Minze und der Zitronenschale bestreuen und servieren.
+
+*** Notizen
+- Zutatentipp: Wo sonst nur die enthäuteten Bohnenkerne verwendet wird, überrascht sein,
+  wie die Dicken Bohnen im Ganzen geschmort schmecken. Je jünger und zarter sie sind,
+  desto besser - sie zergehen förmlich auf der Zunge.
+
+** Zucchini, Knoblauch und Joghurt (M'tawameh)
+:PROPERTIES:
+:Source:    Gemüsebeilagen & Salate
+:Portions:  4 Personen als Dip oder Beilage
+:Category:  Gemüsebeilagen & Salate
+:Meal:      Dip, Beilage
+:END:
+
+Traditionell wird M'tawameh aus dem Fruchtfleisch zubereitet, das beim Aushöhlen von
+Zucchini anfällt, die man zum Füllen vorbereitet. Hier nehmen wir jedoch die Abkürzung und
+greifen zu ganzen Zucchini, samt Schale und allem. Das Ergebnis hat etwas mehr Struktur,
+was uns entgegenkommt, sodass es eher einer Gemüsebeilage als einem glatten Dip gleicht.
+Es ist vollmundig, leicht und wohltuend zugleich.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                                    |
+|-------+---------+------------------------------------------------------------------------------------------|
+|     2 | EL      | Olivenöl, plus mehr zum Servieren                                                        |
+|     1 | Stück   | Zwiebel, fein gewürfelt (150g)                                                           |
+|     4 | Stück   | große Zucchini, in 1cm große Würfel geschnitten (800g)                                   |
+|   200 | g       | griechischer Joghurt                                                                     |
+|     3 | Stück   | große Knoblauchzehen, zerdrückt                                                          |
+|   0.5 | TL      | getrocknete Minze                                                                        |
+|     1 | TL      | getrocknete rosa Pfefferkörner (nicht die in Lake eingelegten), im Mörser grob zerstoßen |
+|       |         | Salz                                                                                     |
+
+*** Zubereitung
+1. Das Öl in einer mittelgroßen Pfanne bei mittlerer bis hoher Temperatur erhitzen und die
+   Zwiebel darin etwa 5 Minuten anschwitzen, bis sie weich zu werden beginnt.
+2. Ab und zu umrühren.
+3. Die Zucchini und ½ TL Salz dazugeben und alles weitere 10 Minuten garen, bis das Gemüse
+   weich ist.
+4. Regelmäßig umrühren.
+5. Vom Herd nehmen und abkühlen lassen.
+6. In einer großen Schüssel den Joghurt mit dem Knoblauch und ¼ TL Salz verrühren.
+7. Die Zucchini, sobald sie abgekühlt sind, unter den Joghurt ziehen.
+8. Auf einer flachen Platte (mit Rand) oder in einer Schale anrichten und mit der
+   getrockneten Minze und den Pfefferkörnern bestreuen.
+9. Mit Olivenöl beträufeln und servieren.
+
+*** Notizen
+- Vorausplanen/Aufbewahren: Hält sich im Kühlschrank bis zu 3 Tage.
+- Serviervorschlag: Servieren Sie das Gericht entweder mit warmer Pita und ein paar
+  schwarzen Oliven als leichtes Mittagessen oder als Beilage, etwa zu in der Pfanne
+  gebratenem Fisch, gegrilltem Hähnchen oder gerösteter Roter Bete - passt bestens.
+** Gerösteter Blumenkohl und Auberginen mit Tomatensalsa
+:PROPERTIES:
+:Source:    Restaurant Fattoush, Haifa
+:Portions:  4 Personen, großzügig bemessen
+:Category:  Gemüsebeilagen & Salate
+:Meal:      Hauptgericht, Beilage
+:END:
+
+Auf einer unserer Reisen verbrachten wir drei Nächte in Haifa und aßen zwei Abende
+hintereinander im Restaurant Fattoush. Dass wir zweimal dort aßen, lag an diesem Salat,
+den wir am ersten Abend probiert hatten, um dann nachts davon zu träumen. Also gingen wir
+tags darauf erneut hin und bestellten jeder eine ausgewachsene Portion. Sämtliche
+Bestandteile schmecken schon für sich köstlich, doch alle drei zusammen sind geradezu
+himmlisch.
+
+Zutaten
+| Menge | Einheit | Zutat                                                                            |
+|-------+---------+----------------------------------------------------------------------------------|
+|     4 | Stück   | große Auberginen, mit einem kleinen scharfen Messer mehrmals eingestochen (1 kg) |
+|     1 | Stück   | Knoblauchzehe, zerdrückt                                                         |
+|   1.5 | TL      | Zitronensaft                                                                     |
+|     2 | EL      | Apfelessig                                                                       |
+|     1 | Stück   | großer Blumenkohl (oder mittelgroße), in etwa 3cm große Röschen geteilt (800g)   |
+|     3 | EL      | Olivenöl                                                                         |
+|     1 | TL      | Korianderkörner                                                                  |
+|  0.75 | TL      | gemahlene Kurkuma                                                                |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                                     |
+
+Tomatensalsa
+| Menge | Einheit | Zutat                                                 |
+|-------+---------+-------------------------------------------------------|
+|     3 | Stück   | große Tomaten, in 5mm große Würfel geschnitten (240g) |
+|    10 | g       | Petersilie, grob gehackt                              |
+|     1 | EL      | Oreganoblätter, grob gehackt                          |
+|     2 | EL      | Olivenöl                                              |
+|     2 | EL      | Zitronensaft                                          |
+
+Zum Servieren
+| Menge | Einheit | Zutat                                                                |
+|-------+---------+----------------------------------------------------------------------|
+|     5 | g       | Minzeblätter (am besten kleine; große Blätter in Streifen schneiden) |
+|     5 | g       | Petersilienblätter, grob gehackt                                     |
+
+Zubereitung
+1. Zuerst die Auberginen rösten. Dafür gibt es auf Seite 334 eine genaue Anleitung.
+2. Nach dem Rösten das Fruchtfleisch der Auberginen herauslösen, es sollten etwa 500g
+   sein. Das Fruchtfleisch in einem Sieb über einer Schüssel mindestens 1 Stunde (oder
+   über Nacht im Kühlschrank) abtropfen lassen.
+3. Das abgetropfte Fruchtfleisch in eine mittelgroße Schüssel geben und mit den Händen in
+   lange dünne Streifen zerteilen.
+4. Mit dem Knoblauch, dem Zitronensaft, dem Essig und 1 TL Salz vermengen und
+   beiseitestellen (in den Kühlschrank, wenn Sie am Vortag beginnen).
+5. Den Backofen auf 200°C (Umluft) vorheizen.
+6. Den Blumenkohl in einer großen Schüssel mit dem Olivenöl, den Korianderkörnern, der
+   Kurkuma sowie 3/4 TL Salz und reichlich Pfeffer gründlich vermengen.
+7. Alles auf einem mit Backpapier bedeckten Blech verteilen und 30 Minuten im Ofen rösten,
+   bis der Blumenkohl goldbraun und weich ist.
+8. Aus dem Ofen nehmen und abkühlen lassen.
+9. Während der Blumenkohl im Ofen ist, sämtliche Zutaten für die Salsa in einer Schüssel
+   vermengen und mit 1/4 TL Salz würzen.
+10. Zum Servieren die Auberginen auf einer Platte verteilen und den Blumenkohl darauf
+    anrichten.
+11. Die Salsa über das Gemüse löffeln und alles mit der Minze und der Petersilie
+    bestreuen.
+
+Notizen
+- Vorausplanen: Sie können die Auberginen 1-2 Tage im Voraus rösten und marinieren und am
+  Tag selbst dann alles fertigstellen.
+- Eine genaue Anleitung zum Rösten der Auberginen findet sich auf Seite 334.
+- Abbildung siehe folgende Doppelseite (links)
+** Kürbis und Zucchini aus dem Ofen mit Joghurt-Feta-Creme und Pistazien
+:PROPERTIES:
+:Source:    Gemüsebeil*** gen & Salate
+:Portions:  4 Personen
+:Category:  Gemüsebeilagen & Salate
+:Meal:      Vorspeise, Beilage
+:END:
+
+Ein Gemüse, das sich gut als Vorspeise macht, aber auch als Teil einer größeren Auswahl an
+Gerichten oder als Beilage zu Fleischbällchen oder Brathähnchen. Nehmen Sie gelbe
+Zucchini, wenn möglich, sie passen farblich besonders gut zu dem Kürbis.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                                                        |
+|-------+---------+--------------------------------------------------------------------------------------------------------------|
+|   0.5 | Stück   | kleiner Butternusskürbis, längs halbiert, entkernt, dann quer in 1,5cm dicke Scheiben geschnitten (550g)     |
+|   2.5 | EL      | Olivenöl                                                                                                     |
+|   3-4 | Stück   | gelbe (oder grüne) Zucchini (500g), je einmal längs und quer halbiert (4 Stücke), dann erneut längs halbiert |
+|    25 | g       | flüssiger Honig                                                                                              |
+|     2 | Stück   | Knoblauchzehen, zerdrückt                                                                                    |
+|     1 | EL      | Apfelessig                                                                                                   |
+|     5 | g       | Estragonblätter, grob gehackt                                                                                |
+|   250 | g       | Ricotta                                                                                                      |
+|    50 | g       | griechischer Joghurt                                                                                         |
+|   100 | g       | Feta, grob zerkrümelt                                                                                        |
+|     1 | Stück   | Bio-Zitrone, 1 TL Schale abgerieben, dann 1½ EL Saft ausgepresst                                             |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                                                                 |
+
+Zum Servieren
+| Menge | Einheit | Zutat                                                       |
+|-------+---------+-------------------------------------------------------------|
+|    50 | g       | Pistazienkerne, geröstet (siehe Seite 340) und grob gehackt |
+|   1.5 | TL      | Korianderkörner, geröstet und im Mörser grob zerstoßen      |
+|  0.75 | TL      | Aleppo-Chili­flocken (oder ½ TL herkömmliche Chiliflocken)  |
+|       | etwa    | 5g Minzeblätter                                             |
+
+*** Zubereitung
+1. Den Backofen auf 230°C (Umluft) vorheizen.
+2. Die Kürbisstücke in einer großen Schüssel mit 1½ EL Öl, 3/4 TL Salz und 1 großzügigen
+   Prise Pfeffer sorgfältig vermengen.
+3. Auf einem mit Backpapier bedeckten Blech verteilen und im Ofen 25 Minuten rösten, nach
+   der Hälfte der Zeit wenden, damit beide Seiten etwas Farbe annehmen.
+4. Herausnehmen und abkühlen lassen. Den Ofen nicht ausschalten.
+5. Während der Kürbis im Ofen ist, eine Grillpfanne fetten und bei hoher Temperatur
+   erhitzen.
+6. Die Zucchini in einer großen Schüssel mit dem restlichen Öl (1 EL) und ½ TL Salz und
+   reichlich Pfeffer würzen.
+7. Sobald die Pfanne sengend heiß ist, die Zucchinispalten hineinlegen – portionsweise,
+   falls nötig – und etwa 3 Minuten grillen.
+8. Die Stücke regelmäßig wenden, bis sie rundherum kräftig gebräunt sind.
+9. Auf ein mit Backpapier bedecktes Blech geben und im Ofen weitere 5 Minuten backen, bis
+   sie durchgegrillt sind, aber noch etwas Biss haben.
+10. In einer großen Schüssel den Honig, eine Knoblauchzehe, den Essig, den Estragon und 1
+    Prise Salz verrühren.
+11. Die Kürbis- und Zucchinistücke hineingeben und behutsam in der Mischung wenden.
+    Beiseitestellen.
+12. Ricotta, Joghurt, 60g Feta, Zitronenschale und -saft und die restliche Knoblauchzehe
+    in eine Schüssel geben und mit 1 Prise Salz und Pfeffer würzen.
+13. Alles mit einem Schneebesen kräftig verquirlen, bis sich der Feta fast aufgelöst hat
+    und die Mischung glatt ist.
+14. Die Joghurt-Feta-Creme auf einer großen Platte verstreichen und das geröstete Gemüse
+    darauf anrichten.
+15. Den restlichen Feta (40g) dazugeben, dann die Pistazien, die Korianderkörner und die
+    Chiliflocken.
+16. Mit Minzeblättern garnieren und servieren.
+
+*** Notizen
+- Vorausplanen: Kürbis und Zucchini können Sie einige Stunden vorher rösten und mit dem
+  Dressing vermischen, wenn Sie Zeit gewinnen wollen. Das Gemüse hält es bei
+  Zimmertemperatur problemlos 3-4 Stunden aus bis zum Servieren.
+- Die Joghurt-Feta-Creme lässt sich ebenfalls am Tag vorher zubereiten und bis zum
+  Servieren kalt stellen.
+- Alternativen: Sie müssen nicht Kürbis und Zucchini kombinieren, man kann auch nur eines
+  der beiden Gemüse verwenden. Und wenn Sie experimentieren wollen: auch mit Karotten
+  statt Kürbis funktioniert das Rezept zum Beispiel sehr gut.
+** Würzige Hähnchen-Arayes
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  4
+:Category:  Snack
+:Meal:      Vorspeise
+:END:
+
+Arayes ist der Plural des arabischen Worts für »Braut«, aroos. Um die Frage, warum dieser
+Snack so heißt, ranken sich zahlreiche Legenden. Eine besagt, dass das weiße Brot das
+Brautkleid symbolisiert, das sich in inniger (!) Umarmung um einen dunklen Smoking
+(typischerweise eine Lammfleischfüllung) schmiegt. Etwas praktischer gedacht: Für Hungrige
+sind Arayes in der Pfanne gebratene Pitabrot-Sandwiches. Man kann sie als Snack servieren
+oder mit frischem Arabischem Salat (siehe Seite 92) und etwas Sumach-Joghurt (siehe
+Seite 259) als Hauptmahlzeit genießen.
+
+Vorausplanen: Die Füllung lässt sich im Voraus zubereiten – bis zu 3 Tage, wenn Sie nur
+die Tomatensauce machen, bis zu 1 Tag, wenn Sie das Fleisch hinzufügen. Dann müssen die
+Arayes nur noch gefüllt und dann gebraten werden.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                                                           |
+|-------+---------+-----------------------------------------------------------------------------------------------------------------|
+|    60 | ml      | Olivenöl                                                                                                        |
+|     2 | Stk     | Zwiebeln, fein gewürfelt (300g)                                                                                 |
+|     6 | Stk     | Knoblauchzehen, zerdrückt                                                                                       |
+|    1½ | TL      | Kümmelsamen, im Mörser grob zerstoßen                                                                           |
+|    1½ | TL      | Kreuzkümmel, im Mörser grob zerstoßen                                                                           |
+|     ¾ | TL      | gemahlener Zimt                                                                                                 |
+|     ½ | TL      | Chiliflocken                                                                                                    |
+|     2 | TL      | Tomatenmark                                                                                                     |
+|   2-3 | Stk     | Eiertomaten (250g), enthäutet (siehe Seite 129) und grob gerieben (200g)                                        |
+|   350 | g       | Hähnchenhackfleisch (oder Hähnchenoberkeulen ohne Haut und Knochen, im Mixer kurz zerkleinert; siehe Seite 156) |
+|    25 | g       | Korianderblätter, grob gehackt                                                                                  |
+|     4 | Stk     | Pitabrote, fertig gekauft oder selbst gebacken (siehe Seite 278)                                                |
+|    20 | g       | Butter                                                                                                          |
+|       |         | Salz und frisch gemahlener schwarzer Pfeffer                                                                    |
+
+**** Zum Servieren
+| Menge | Einheit | Zutat                                       |
+|-------+---------+---------------------------------------------|
+|     1 | Stk     | Zitrone, in Spalten geschnitten             |
+|       |         | Tahin-Sauce (siehe Seite 87; nach Belieben) |
+
+*** Zubereitung
+1. In einer großen Pfanne mit hohem Rand 2 EL Öl bei mittlerer bis hoher Temperatur
+   erhitzen. Die Zwiebeln mit ½ TL Salz darin unter häufigem Rühren etwa 8 Minuten braten,
+   bis sie weich und goldgelb sind. Knoblauch, Gewürze und Tomatenmark hinzufügen und 1
+   Minute mitbraten, bis Duft aufsteigt.
+2. Die Tomaten unterrühren. Alles noch etwa 8 Minuten garen, bis die Tomaten vollständig
+   zerfallen sind und die Sauce recht dickflüssig ist, dabei häufig umrühren. Vom Herd
+   nehmen und abkühlen lassen.
+3. Die kalte Sauce in eine Schüssel umfüllen, das Fleisch, die Korianderblätter, 1 TL Salz
+   und reichlich Pfeffer dazugeben. Sorgfältig mischen, dann beiseitestellen.
+
+4. Den Backofen auf 180°C (Umluft) vorheizen.
+
+5. Die Pitabrote mit einem Sägemesser so aufschneiden, dass jeweils zwei separate runde
+   Scheiben entstehen. Mit der Schnittfläche nach oben auf die Arbeitsfläche legen. Eine
+   der Scheiben mit 140-150 g Fleischfüllung bestreichen (etwa 7,5 cm hoch). Eine
+   unbestrichene Scheibe darauflegen und behutsam andrücken. Mit der restlichen Füllung
+   und den restlichen Pitascheiben ebenso verfahren, sodass vier Sandwiches entstehen.
+
+6. In einer großen Pfanne 10 g Butter mit 1 EL Öl bei mittlerer bis hoher Temperatur
+   erhitzen. Zwei Sandwiches darin 2-3 Minuten braten; nach etwa 1 Minute wenden, damit
+   beide Seiten etwas Farbe annehmen. Auf ein großes mit Backpapier bedecktes Blech legen
+   und behutsam mit Küchenpapier abtupfen, um überschüssiges Fett zu entfernen. Mit den
+   beiden restlichen Sandwiches ebenso verfahren, zuvor aber erneut 10 g Butter und 1 EL
+   Öl in die Pfanne geben.
+
+7. Das Blech mit allen fertig gebratenen Sandwiches für etwa 7 Minuten in den Backofen
+   schieben, bis alles durchgegart ist. Herausnehmen und 5 Minuten abkühlen lassen, dann
+   die Sandwiches in je vier Stücke schneiden. Warm servieren, Zitronenspalten und nach
+   Belieben etwas Tahin-Sauce zum Dippen dazu reichen.
+
+*** Notizen
+- Kann als Snack oder als Hauptgericht serviert werden
+- Als Hauptgericht mit Arabischem Salat und Sumach-Joghurt servieren
+- Die Füllung kann vorbereitet werden:
+  - Nur Tomatensauce: bis zu 3 Tage im Voraus
+  - Mit Fleisch: bis zu 1 Tag im Voraus
+* Gebäck & Teig
+** Arabische Samosas (Sambousek)
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  12 Samosas
+:Category:  Gebäck
+:Meal:      Snack/Vorspeise
+:END:
+
+Indische Samosas, hispanische Empanadas, Cornish Pasties, bosnischer Börek: Es gibt so
+viele Arten, diverse Füllungen vor dem Backen, Braten oder Frittieren mit Teig zu
+ummanteln. Sambousek ist die palästinensische Variante. Traditionell werden sie frittiert,
+aber wir haben unsere hier im Ofen gebacken.
+
+Vorausplanen: Diese Samosas können Sie im Voraus komplett fertigstellen und dann
+einfrieren. Sie müssen aufgetaut werden (einfach am Abend vor dem Backtag in den
+Kühlschrank legen) und werden dann gebacken wie unten angegeben.
+
+*** Zutaten
+**** Teig
+| Menge | Einheit | Zutat                             |
+|-------+---------+-----------------------------------|
+|    1½ | TL      | Trockenhefe                       |
+|     1 | TL      | Zucker                            |
+|   320 | g       | Mehl, plus mehr zum Verarbeiten   |
+|     1 | EL      | Magermilchpulver                  |
+|     1 | Prise   | gemahlene Kurkuma                 |
+|     3 | EL      | Sonnenblumenöl                    |
+|     3 | EL      | Olivenöl, plus mehr zum Ausfetten |
+|       |         | Salz                              |
+
+**** Füllung
+| Menge | Einheit | Zutat                                                                     |
+|-------+---------+---------------------------------------------------------------------------|
+|     1 | Dose    | Kichererbsen (400g), abgespült und abgetropft (240g)                      |
+|     3 | EL      | Olivenöl                                                                  |
+|     1 | Stk     | Zwiebel, fein gewürfelt (150g)                                            |
+|     4 | Stk     | Knoblauchzehen, zerdrückt                                                 |
+|     1 | Stk     | Sirloin-Steak (250g), von sichtbarem Fett befreit und fein gehackt (180g) |
+|     1 | TL      | gemahlener Kreuzkümmel                                                    |
+|     ½ | TL      | gemahlener Ingwer                                                         |
+|     ¾ | TL      | Baharat (siehe Seite 190)                                                 |
+|     ½ | TL      | gemahlener Zimt                                                           |
+|     ¼ | TL      | Aleppo-Chiliflocken (oder herkömmliche Chiliflocken)                      |
+|     ¼ | TL      | gemahlene Kurkuma                                                         |
+|    10 | g       | Petersilie, fein gehackt                                                  |
+|     1 | EL      | mit 1 EL Wasser verquirlt                                                 |
+|     2 | TL      | Schwarzkümmelsamen                                                        |
+|     1 | TL      | heller Sesam                                                              |
+
+**** Minzjoghurt (nach Belieben)
+| Menge | Einheit | Zutat                      |
+|-------+---------+----------------------------|
+|   180 | g       | griechischer Joghurt       |
+|     1 | TL      | getrocknete Minze          |
+|     1 | EL      | Olivenöl                   |
+|     1 | EL      | Zitronensaft               |
+|     5 | g       | Minzeblätter, grob gehackt |
+
+*** Zubereitung
+1. Für den Teig die Hefe und den Zucker in einer Schüssel mit 170 ml lauwarmem Wasser
+   verquirlen. Für 5-10 Minuten beiseitestellen, bis sich Bläschen bilden.
+2. Mehl, Milchpulver, Kurkuma und ¾ TL Salz in die Rührschüssel der Küchenmaschine geben.
+   Mit dem Knethaken 1 Minute vermischen, dann erst die Hefemischung, anschließend beide
+   Öle hinzufügen. Den Teig auf mittlerer Stufe 6 Minuten kneten, bis er weich, klebrig
+   und elastisch ist. Auf die Arbeitsfläche geben und zu einer Kugel zusammenfassen. Die
+   Schüssel mit 1 EL Olivenöl ausfetten, den Teig wieder in die Schüssel geben. Ein
+   paarmal darin hin- und herrollen, bis er vollständig mit Öl überzogen ist, dann mit
+   einem Geschirrtuch zudecken. An einem warmen Platz 1 Stunde gehen lassen, bis der Teig
+   sein Volumen verdoppelt hat.
+3. Inzwischen für die Füllung die Kichererbsen grob mit einer Gabel zerdrücken; etwa die
+   Hälfte sollte ganz bleiben. Das Öl in einem Topf bei mittlerer bis hoher Temperatur
+   erhitzen. Die Zwiebel und den Knoblauch darin 8 Minuten unter gelegentlichem Rühren
+   braten, bis sie weich und gebräunt sind. Das Fleisch, die Gewürze und ¾ TL Salz
+   dazugeben. Alles unter ständigem Rühren 90 Sekunden weiterbraten. Die Kichererbsen
+   hinzufügen und 2 Minuten mitbraten. Vom Herd nehmen und die Petersilie unterrühren.
+   Abkühlen lassen.
+4. Für den Minzjoghurt die Zutaten in einer Schüssel mit ¼ TL Salz verrühren. Den
+   Minzjoghurt bis zum Servieren in den Kühlschrank stellen.
+5. Den Teig in zwölf Portionen (à etwa 45 g) schneiden. Die Stücke zu Kugeln rollen. Mit
+   einem Geschirrtuch bedecken und 20 Minuten ruhen lassen. Den Backofen auf 180°C
+   (Umluft) vorheizen.
+6. Eine Kugel zu einem Kreis (Ø etwa 12 cm) ausrollen. 2 EL Füllung (etwa 35-40g) mittig
+   daraufgeben und den Teig darüber zur Hälfte zusammenklappen. Die Ränder des
+   entstehenden Halbmondes mit den Fingern zusammendrücken, dann mit einer Gabel
+   versiegeln. Mit den restlichen Teigkugeln und der restlichen Füllung ebenso verfahren.
+   Die Sambousek mit reichlich Abstand zueinander auf zwei große, mit Backpapier bedeckte
+   Bleche legen.
+7. Mit dem verquirlten Ei bestreichen und gleichmäßig mit Schwarzkümmel und Sesam
+   bestreuen. Etwa 20 Minuten backen, bis sie durchgegart und goldbraun sind. Etwa 10
+   Minuten abkühlen lassen, dann warm oder bei Zimmertemperatur servieren, nach Belieben
+   mit dem Minzjoghurt.
+
+*** Notizen
+- Können im Voraus zubereitet und eingefroren werden
+- Zum Backen vorher auftauen lassen (über Nacht im Kühlschrank)
+- Traditionell werden sie frittiert, diese Version wird gebacken
+- Warm oder bei Zimmertemperatur servieren
+- Optional mit Minzjoghurt servieren
+** Spinat-Taschen (Fatayer sabanekh)
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  12 Stück, für 4-6 Personen
+:Category:  Gebäck
+:Meal:      Leichte Mahlzeit/Snack
+:END:
+
+Und noch eine Erinnerung an Kindertage. Sami bekam solche Teigtaschen ein-, zweimal pro
+Woche, frisch aus dem Backofen, sobald er aus der Schule nach Hause gekommen war. Die
+Füllung konnte variieren - Käse, Hackfleisch, Wurzelgemüse -, doch Spinat war immer der
+klare Favorit. Wenn Sie die Taschen als Hauptmahlzeit servieren möchten, sollten Sie dazu
+einen frischen Arabischen Salat (siehe Seite 92) und etwas Joghurt servieren.
+
+Vorbereiten: Der Teig hier ist der gleiche, aus dem auch Sfiha (siehe Seite 226) und
+Za'atar-Brötchen (siehe Seite 285) gebacken werden. Machen Sie also gleich mehr davon und
+frieren Sie den restlichen Teig für später ein.
+
+Vorausplanen: Sowohl Teig als auch Füllung können bis zu 3 Tage im Voraus hergestellt und,
+getrennt voneinander, im Kühlschrank aufbewahrt werden. Fertig gefüllte Taschen lassen
+sich gut einfrieren und können tiefgekühlt in den Backofen wandern. Die Backzeit
+verlängert sich dann um etwa 1 Minute.
+
+*** Zutaten
+**** Teig
+| Menge | Einheit | Zutat                                                                                           |
+|-------+---------+-------------------------------------------------------------------------------------------------|
+|    1½ | TL      | Trockenhefe                                                                                     |
+|    1½ | TL      | Zucker                                                                                          |
+|   375 | g       | Mehl, mit 3 TL Backpulver (15g) gemischt, plus mehr zum Verarbeiten                             |
+|     2 | Stk     | große Eier, einzeln verquirlt, eins für den Teig und das andere zum Bestreichen der Teigtaschen |
+|    75 | ml      | Olivenöl, plus mehr zum Ausfetten                                                               |
+|       |         | Salz                                                                                            |
+
+**** Füllung
+| Menge | Einheit | Zutat                                                                                       |
+|-------+---------+---------------------------------------------------------------------------------------------|
+|     3 | EL      | Olivenöl                                                                                    |
+|     2 | Stk     | Zwiebeln, fein gewürfelt (350g)                                                             |
+|   500 | g       | TK-Spinat, aufgetaut und gut ausgedrückt, um möglichst viel Flüssigkeit zu entfernen (300g) |
+|    2½ | TL      | gemahlener Sumach                                                                           |
+|     2 | EL      | Zitronensaft                                                                                |
+|     ½ | TL      | Chiliflocken                                                                                |
+|     4 | TL      | Granatapfelsirup (nach Belieben)                                                            |
+
+*** Zubereitung
+1. Die Hefe und den Zucker in einer Schüssel mit 100 ml lauwarmem Wasser verquirlen. Für
+   5-10 Minuten beiseitestellen, bis die Mischung zu schäumen beginnt. Mehl, 1 Ei, Öl,
+   Hefemischung und ¾ TL Salz in die Rührschüssel der Küchenmaschine geben. Mit dem
+   Knethaken auf niedriger Stufe etwa 2 Minuten mischen, dann auf mittlerer bis hoher
+   Stufe 5-6 Minuten kneten, bis der Teig weich und elastisch ist. (Soll der Teig
+   eingefroren werden, ist jetzt der richtige Zeitpunkt.) Die Schüssel mit einem
+   Geschirrtuch bedecken und an einen warmen Platz stellen, bis der Teig etwa aufgegangen
+   ist. Den Teig zu einer etwa 30 cm langen Rolle formen und diese in zwölf gleich große
+   Stücke schneiden. Die Stücke zu Kugeln formen und auf einen großen Teller setzen. Mit
+   einem Geschirrtuch bedecken und 1 Stunde ruhen lassen.
+2. Inzwischen für die Füllung das Öl in einer Pfanne bei mittlerer bis hoher Temperatur
+   erhitzen. Die Zwiebelwürfel darin 4-5 Minuten unter häufigem Rühren anschwitzen, bis
+   sie weich sind, aber keine Farbe angenommen haben. Vom Herd nehmen und 10 Minuten
+   abkühlen lassen, dann Spinat, Sumach, Zitronensaft, Chiliflocken, Granatapfelsirup
+   (nach Belieben) und 1 TL Salz untermischen.
+3. Den Backofen auf 200°C (Umluft) vorheizen und zwei Backbleche (je etwa 30 × 40 cm) dünn
+   mit Öl fetten.
+4. Eine Teigkugel nehmen, flach drücken und rund ausrollen (Ø etwa 14 cm, 2-3 mm dick).
+   Falls nötig, etwas Mehl auf die Arbeitsfläche streuen, damit der Teig nicht anklebt.
+5. Von der Füllung 3 EL (etwa 45 g) mittig auf den Teig geben und zu einem Dreieck mit 11
+   cm Seitenlänge verstreichen. Den Teig von drei Seiten so über die Füllung ziehen, dass
+   ein Dreieck entsteht. Die Ränder zusammendrücken, dann die Ecken fest zusammenkneifen.
+   Die Spinattasche auf ein Backblech legen. Mit dem übrigen Teig und der restlichen
+   Füllung ebenso verfahren. Auf dem Blech zwischen den Teigtaschen reichlich Abstand
+   lassen. Die Taschen mit verquirltem Ei bestreichen. 12 Minuten backen, bis sie
+   goldbraun sind.
+6. Aus dem Ofen nehmen und für etwa 15 Minuten beiseitestellen - sie sollen eher warm als
+   heiß auf den Tisch kommen.
+
+*** Notizen
+- Teig und Füllung können bis zu 3 Tage im Voraus zubereitet werden
+- Fertige Taschen können eingefroren werden
+- Aus dem Gefrierfach direkt in den Ofen geben (+1 Minute Backzeit)
+- Als Hauptgericht mit Arabischem Salat und Joghurt servieren
+- Der Teig kann auch für Sfiha und Za'atar-Brötchen verwendet werden
+** Hefeschnecken mit Sumach-Zwiebeln und Kräuteröl
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  12 Stück
+:Category:  Gebäck
+:Meal:      Snack/Beilage
+:END:
+
+Diese Hefeschnecken sind weniger traditionell als die Sumach-Zwiebeln, die uns hier
+inspiriert haben - eine der süßen, sauren und himmlischen Geschmackskomponenten des sehr
+traditionellen Hähnchen-Musakhan (siehe Seite 247).
+
+Vorausplanen: Beginnen Sie mit der Zubereitung schon am Vortag, damit der Teig über Nacht
+im Kühlschrank ruhen kann. Die fertigen Schnecken können bis zu 2 Tage warm oder bei
+Zimmertemperatur gegessen werden.
+
+*** Zutaten
+**** Teig
+| Menge | Einheit | Zutat                                          |
+|-------+---------+------------------------------------------------|
+|   530 | g       | Mehl, plus mehr zum Verarbeiten                |
+|    35 | g       | Zucker                                         |
+|     2 | TL      | Trockenhefe (5g)                               |
+|     3 | Stk     | große Eier                                     |
+|   150 | g       | weiche Butter, in 2cm große Würfel geschnitten |
+|       |         | Sonnenblumenöl zum Ausfetten                   |
+|       |         | Salz                                           |
+
+**** Sumach-Zwiebel-Füllung
+| Menge | Einheit | Zutat                                      |
+|-------+---------+--------------------------------------------|
+|   100 | ml      | Olivenöl                                   |
+|     3 | Stk     | Zwiebeln, fein gewürfelt (600g)            |
+|     2 | TL      | gemahlener Zimt                            |
+|   1/2 | TL      | gemahlener Sumach, plus 1 TL zum Bestreuen |
+|    30 | g       | Oreganoblätter, grob gehackt               |
+|    15 | g       | Thymianblätter, grob gehackt               |
+|     1 | TL      | Zucker                                     |
+
+**** Kräuteröl
+| Menge | Einheit | Zutat                                             |
+|-------+---------+---------------------------------------------------|
+|    15 | g       | Petersilienblätter, fein gehackt                  |
+|     1 | Stk     | rote Chilischote, entkernt und fein gehackt (15g) |
+|     1 | TL      | abgeriebene Schale von einer Bio-Zitrone          |
+|   120 | ml      | Olivenöl                                          |
+
+*** Zubereitung
+1. Mehl, Zucker und Hefe in die Rührschüssel der Küchenmaschine geben und mit dem
+   Knethaken 1 Minute auf niedriger Stufe vermischen. Die Eier mit 120 ml Wasser
+   verquirlen und die Mischung in die Schüssel gießen. Einige Sekunden auf niedriger Stufe
+   unterrühren, dann das Gerät auf mittlerer Stufe 2 Minuten laufen lassen, bis der Teig
+   bindet. Erst ½ TL Salz, dann nach und nach die Butterwürfel hinzugeben und vollständig
+   unterarbeiten. Den Teig auf mittlerer Stufe etwa 10 Minuten weiterkneten, bis er glatt
+   und elastisch ist und glänzt.
+2. Den Teig in eine mit Sonnenblumenöl ausgefettete Schüssel geben, mit einem Geschirrtuch
+   bedecken und für mindestens 4 Stunden, vorzugsweise aber über Nacht in den Kühlschrank
+   stellen. Sein Volumen wird sich um etwa weniger als 50 Prozent vergrößern.
+3. Für die Füllung 3 EL Öl in einer Pfanne bei mittlerer bis niedriger Temperatur
+   erhitzen. Die Zwiebelwürfel darin unter häufigem Rühren 15 Minuten braten, bis sie ganz
+   weich und goldbraun sind. Den Zimt hinzufügen und 1 Minute mitrösten. Vom Herd nehmen
+   und abkühlen lassen, dann das restliche Olivenöl (55 ml) sowie Sumach, Oregano,
+   Thymian, Zucker und 1 TL Salz untermischen.
+4. Ein Backblech (20 × 30 cm) fetten und mit Backpapier auslegen. Den Teig auf einer dünn
+   bemehlten Arbeitsfläche zu einem etwa 55 × 35 cm großen Rechteck ausrollen. Die
+   Sumach-Zwiebeln darauf bis zum Rand verteilen.
+5. An einer Längsseite beginnend, den Teig mit beiden Händen aufrollen, dabei sanften
+   Druck ausüben. Von den Enden jeweils 2 cm abschneiden, dann die Rolle quer in zwölf
+   etwa 4 cm dicke Scheiben schneiden. Die Scheiben sorgfältig mit gleichem Abstand
+   zueinander flach auf das Backblech legen, mit einem leicht angefeuchteten Geschirrtuch
+   bedecken und an einem warmen Ort (z.B. in der Nähe der Heizung) 1½ Stunde gehen lassen.
+   Die Schnecken gehen um 20-30 Prozent auf.
+6. Etwa 30 Minuten vor Ende der Gehzeit den Backofen auf 180°C (Umluft) vorheizen.
+7. Das Tuch entfernen und die Schnecken in den Ofen schieben (mittlere Schiene). 30
+   Minuten backen, bis sie goldbraun sind. Herausnehmen, locker mit Alufolie bedecken und
+   für weitere 20 Minuten in den Ofen schieben, bis der Teig durchgebacken ist.
+8. Die Schnecken aus dem Ofen nehmen und 30 Minuten abkühlen lassen. Inzwischen die
+   Zutaten für das Kräuteröl mit 1 kleinen Prise Salz verrühren. Die abgekühlten Schnecken
+   gleichmäßig mit dem Kräuteröl übergießen, mit Sumach bestreuen und servieren.
+
+*** Notizen
+- Der Teig sollte über Nacht im Kühlschrank ruhen
+- Die fertigen Schnecken halten sich bis zu 2 Tage
+- Können warm oder bei Zimmertemperatur serviert werden
+- Inspiration kommt vom traditionellen Hähnchen-Musakhan
+* Süßes
+** Süße Tahin-Schnecken (Kubez el tahineh)
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  10 Stück
+:Category:  Gebäck
+:Meal:      Süßspeise/Dessert
+:END:
+
+Die Reise dieses Gebäcks lässt sich über den Libanon bis nach Armenien zurückverfolgen,
+von wo es stammt. Es ist einfach zu machen, es sieht eindrucksvoll aus und ist allseits
+beliebt, besonders bei den Kindern. Man isst die Schnecken pur oder schneidet sie auf und
+bestreicht sie mit dibs w tahin, der palästinensischen Entsprechung zu Erdnussbutter und
+Konfitüre, für die Tahin mit etwas Trauben- oder Dattelsirup gemischt wird (siehe Seite
+336).
+
+Aufbewahren: Die Schnecken schmecken frisch aus dem Ofen am besten. Doch aufgebacken sind
+sie selbst nach 2-3 Tagen noch gut. Sie lassen sich auch frisch gebacken und abgekühlt
+prima einfrieren. Man kann sie tiefgekühlt in den Ofen schieben, bis sie durch und durch
+warm sind.
+
+*** Zutaten
+**** Teig
+| Menge | Einheit | Zutat                           |
+|-------+---------+---------------------------------|
+|    1½ | TL      | Trockenhefe                     |
+|     1 | TL      | Zucker                          |
+|   110 | ml      | lauwarme Milch                  |
+|   300 | g       | Mehl, plus mehr zum Verarbeiten |
+|    75 | g       | Butter, zerlassen               |
+|     1 | EL      | verquirltes Ei                  |
+|       |         | Olivenöl zum Ausfetten          |
+|       |         | Salz                            |
+
+**** Füllung
+| Menge | Einheit | Zutat           |
+|-------+---------+-----------------|
+|   100 | g       | Zucker          |
+|     1 | TL      | gemahlener Zimt |
+|   120 | g       | Tahin           |
+
+**** Topping
+| Menge | Einheit | Zutat             |
+|-------+---------+-------------------|
+|     1 | Stk     | Eigelb, verquirlt |
+|     1 | EL      | heller Sesam      |
+
+*** Zubereitung
+1. Für den Teig die Hefe und den Zucker in einer kleinen Schüssel mit der Milch verrühren.
+   Für etwa 5 Minuten beiseitestellen, bis sich Bläschen bilden.
+2. Inzwischen das Mehl mit ½ TL Salz in die Rührschüssel der Küchenmaschine geben. Mit dem
+   Knethaken auf niedriger Stufe vermischen, dann langsam die Hefemischung dazugeben. Die
+   zerlassene Butter hinzufügen und 1 Minute kneten.
+3. Das Ei dazugeben und den Teig auf mittlerer Stufe weitere 5 Minuten kneten. Den Teig
+   mit den Händen zu einer Kugel formen; er klebt etwas und ist elastisch. In eine dünn
+   ausgeölte Schüssel geben und ein paarmal darin hin- und herrollen, bis er rundherum mit
+   Öl überzogen ist. Die Schüssel mit einem Geschirrtuch bedecken und für etwa 1 Stunde an
+   einen warmen Ort stellen, bis der Teig sein Volumen fast verdoppelt hat.
+4. Für die Füllung Zucker und Zimt in eine kleine Schüssel geben und gut mischen.
+   Beiseitestellen.
+5. Den Teig auf einer dünn bemehlten Arbeitsfläche zu einem großen Rechteck (etwa 35 × 50
+   cm) ausrollen. Das Tahin daraufträufeln und mit einem Löffelrücken oder einer Palette
+   gleichmäßig verstreichen, dabei an den kurzen Seiten jeweils einen 1 cm breiten Rand
+   frei lassen. Den Teig gleichmäßig mit dem Zimt-Zucker bestreuen und 10 Minuten ruhen
+   lassen, bis der Zucker feucht aussieht.
+6. An einer Längsseite beginnend, den Teig aufrollen. Von jedem Ende etwa 2 cm
+   abschneiden, dann die Rolle in zehn etwa 4,5 cm dicke Scheiben schneiden. Die Scheiben
+   mit der Schnittfläche nach oben hinlegen und mit den Händen behutsam zu Kreisen (Ø 8
+   cm) flach drücken. Mit einem feuchten Geschirrtuch bedecken und 15 Minuten ruhen
+   lassen.
+7. Den Backofen auf 160°C (Umluft) vorheizen.
+8. Die Schnecken mit 2-3 cm Abstand auf ein mit Backpapier bedecktes Blech legen.
+   Oberseite und Rand mit verquirltem Eigelb bestreichen und mit Sesam bestreuen. Im
+   heißen Ofen etwa 18 Minuten backen, bis die Schnecken durchgegart und goldbraun sind.
+   Herausnehmen und vor dem Servieren etwa 20 Minuten abkühlen lassen.
+
+*** Notizen
+- Die Schnecken schmecken am besten frisch aus dem Ofen
+- Halten sich 2-3 Tage
+- Können frisch gebacken und abgekühlt eingefroren werden
+- Können direkt aus dem Gefrierfach in den Ofen geschoben werden
+** Schoko-Qahwa-Kuchen ohne Mehl
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  10-12
+:Category:  Kuchen
+:Meal:      Dessert
+:END:
+
+Qahwa ist das arabische Wort für »Kaffee«. Arabischer Kaffee ist tendenziell sehr stark
+und intensiv und wird aus winzigen Tässchen getrunken, üblicherweise zu etwas Süßem wie
+ein, zwei Datteln. »Arabischer Kaffee« ist hier das Leitmotiv, und deshalb ist dieser
+Kuchen unglaublich aromatisch. Man braucht nur ein kleines Stück mit etwas Crème fraîche,
+Vanilleeis oder Joghurt dazu. Noch mehr Koffein ist unnötig.
+
+Aufbewahren: Der Kuchen hält sich nach dem Backen im Kühlschrank bis zu 3 Tage.
+
+*** Zutaten
+| Menge | Einheit | Zutat                                                                                                |
+|-------+---------+------------------------------------------------------------------------------------------------------|
+|   220 | g       | weiche Butter, in 1 cm große Stücke geschnitten, plus mehr zum Ausfetten                             |
+|   200 | g       | Zartbitterkuvertüre (50% Kakaoanteil), in etwa 1 cm große Stücke gebrochen                           |
+|    50 | g       | Zartbitterkuvertüre (70% Kakaoanteil), in etwa 1 cm große Stücke gebrochen                           |
+|     2 | EL      | Instant-Espressopulver, plus ½ TL zum Garnieren                                                      |
+|     1 | Prise   | Safranfäden, im Mörser grob zerstoßen (nach Belieben)                                                |
+|    10 | Stk     | Kardamomkapseln, die Samen herausgelöst und im Mörser grob zerstoßen (oder ¾ TL gemahlener Kardamom) |
+|   270 | g       | Zucker                                                                                               |
+|     1 | EL      | Rosenwasser                                                                                          |
+|     5 | Stk     | Eier                                                                                                 |
+|     ¼ | TL      | Meersalzflocken                                                                                      |
+|     2 | TL      | Kakaopulver zum Garnieren                                                                            |
+|       |         | Vanilleeis (oder Crème fraîche oder Joghurt) zum Servieren                                           |
+
+*** Zubereitung
+1. Den Backofen auf 170°C (Umluft) vorheizen. Eine Springform (Ø 23 cm) ausfetten und mit
+   Backpapier auskleiden.
+2. Die Butter und die gesamte Kuvertüre in eine große hitzebeständige Schüssel geben.
+   Espressopulver, Safran (nach Belieben), Kardamom, Zucker, Rosenwasser und 2 EL Wasser
+   in einen kleinen Topf geben. Bei mittlerer bis starker Hitze unter ständigem Rühren zum
+   Kochen bringen - das dauert etwa 5 Minuten -, dann zu Butter und Kuvertüre gießen.
+   Alles verrühren, bis die Kuvertüre geschmolzen ist.
+3. Drei Eier trennen, die Eiweiße in einer Schüssel beiseitestellen, die Eigelbe und die
+   restlichen beiden Eier einzeln zu der Schokoladenmasse geben und unterrühren.
+4. Die drei Eiweiße mit den Meersalzflocken in die Rührschüssel der Küchenmaschine geben.
+   Mit dem Schneebesen auf mittlerer Stufe schlagen, bis sich fast steife Spitzen bilden.
+   Den Eischnee in zwei Portionen behutsam unter die Schokomasse heben, bis er gerade eben
+   verteilt ist, nicht länger.
+5. Die Masse in die vorbereitete Form gießen und etwa 50 Minuten backen, bis ein in die
+   Mitte eingestochener Holzspieß sauber wieder herauskommt. Den Kuchen etwa 1 Stunde
+   abkühlen lassen, dann für mindestens 2 Stunden, vorzugsweise über Nacht, kalt stellen.
+6. Den Kuchen mindestens 30 Minuten vor dem Servieren aus dem Kühlschrank nehmen und
+   Zimmertemperatur annehmen lassen, dann aus der Form lösen und auf eine Servierplatte
+   setzen.
+7. Den Kakao in einer kleinen Schüssel mit dem Espressopulver mischen. Durch ein feines
+   Sieb großzügig auf den Kuchen stäuben, bis er gleichmäßig davon bedeckt ist. Den Kuchen
+   mit Eiscreme, Crème fraîche oder Joghurt servieren.
+
+*** Notizen
+- Zutaten-Alternativen:
+  - Wenn Sie Safran nicht so gern mögen, können Sie ihn durch 1 Prise Zimt ersetzen
+  - Die Menge an Rosenwasser können Sie nach Belieben reduzieren oder das Rosenwasser ganz
+    weglassen (oder stattdessen das Mark von 1 Vanilleschote verwenden)
+- Der Kuchen hält sich im Kühlschrank bis zu 3 Tage
+- Es wurden zwei Sorten Zartbitterkuvertüre verwendet: eine mit 70 Prozent und eine mit
+  etwa 50 Prozent Kakaoanteil
+- Man kann auch nur 70-prozentige Kuvertüre verwenden, dann wird das Aroma allerdings noch
+  intensiver
+* Grundrezepte
+** Tahin-Sauce
+:PROPERTIES:
+:Source:    Palästina - Das Kochbuch
+:Portions:  1 mittelgroßes Glas
+:Category:  Snacks, Dips & Saucen
+:Meal:      Beilage, Sauce
+:END:
+
+*** Einführung
+Tahin-Sauce, die nussig-cremige Begleitung zu so manchem Snack, Gericht oder Gelage. Sie
+steht auf jedem Esstisch in Palästina bereit, sei es zum Dippen, sei es, um sie über alle
+möglichen Dinge zu träufeln – geröstetes Gemüse, Fisch oder Fleisch und alle erdenklichen
+Blatt- oder sonstigen Salate mit Hülsenfrüchten oder Körnern. Tahin-Sauce hält sich im
+Kühlschrank 3-4 Tage, also am besten immer die komplette Menge zubereiten, auch wenn Sie
+gerade nur ein paar Löffel benötigen.
+
+*** Zutaten
+| Menge | Einheit | Zutat                |
+|-------+---------+----------------------|
+|   150 | g       | Tahin                |
+|     2 | EL      | Zitronensaft         |
+|     1 | Zehe    | Knoblauch, zerdrückt |
+|       |         | Salz                 |
+
+*** Zubereitung
+1. Sämtliche Zutaten mit 120ml Wasser und ¼ TL Salz gründlich verrühren.
+2. Ist die Mischung zu flüssig, noch ein wenig Tahin dazugeben. Ist sie zu dick, noch
+   etwas Zitronensaft oder Wasser untermixen.
+3. Die Konsistenz sollte an flüssiges Nussmus erinnern. Die Sauce dickt leicht ein, wenn
+   man sie stehen lässt; in diesem Fall einfach kurz durchrühren und vor jeder Verwendung
+   noch etwas Zitronensaft oder Wasser dazugeben, falls nötig.
+
+*** Variante: Tahin-Sauce mit Petersilie (Baqdunsieh)
+Ergibt 1 kleines Glas
+
+Zutaten:
+| Menge | Einheit | Zutat                    |
+|-------+---------+--------------------------|
+|    75 | g       | Tahin                    |
+|     2 | EL      | Zitronensaft             |
+|     2 | Zehen   | Knoblauch, zerdrückt     |
+|    20 | g       | Petersilie, fein gehackt |
+|       |         | Salz                     |
+
+Zubereitung:
+1. Tahin, Zitronensaft, Knoblauch, 60ml Wasser und ¼ TL Salz in eine Schüssel geben. Die
+   Mischung sorgfältig glatt rühren, dann die Petersilie unterrühren.
+2. Falls nötig, mit 1 zusätzlichen EL Wasser oder Zitronensaft verdünnen – die Sauce
+   sollte die Konsistenz von flüssigem Nussmus haben.
+
+*** Notizen
+- Wie die Tahin-Sauce oben hält sich auch diese gut im Kühlschrank, darum stets die volle
+  Menge zubereiten, selbst wenn ein Rezept nach weniger verlangt. Sie werden sehen, die
+  Sauce passt praktisch zu allem, was an den folgenden Tagen auf den Tisch kommt.
+
