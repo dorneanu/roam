@@ -38,12 +38,38 @@
   (while (re-search-forward "<div class=\"src-block-caption\">\\([\n\r[:space:]]*\\)<span class=\"src-block-number\">\\(.*?\\)</span>\\([\n\r[:space:]]*\\)\\(.*?\\)\\([\n\r[:space:]]*</div>)" nil nil)
     (replace-match "<center><small>\\2: \\4</small></center>")))
 
-
+(defun transform-org-image-to-gbox ()
+  "Transform an Org-mode image with caption to gbox shortcode format."
+  (interactive)
+  (let* ((region-content (buffer-substring-no-properties (region-beginning) (region-end)))
+         (caption-regexp "^\\s-*#\\+caption:\\s-*\\(.*\\)$")
+         (file-regexp "\\[\\[file:\\(.*\\)\\]\\]")
+         caption
+         filepath)
+    
+    ;; Extract caption
+    (when (string-match caption-regexp region-content)
+      (setq caption (match-string 1 region-content)))
+    
+    ;; Extract file path
+    (when (string-match file-regexp region-content)
+      (setq filepath (match-string 1 region-content)))
+    
+    ;; Transform path by removing '../../../blog/static'
+    (when filepath
+      (setq filepath (replace-regexp-in-string "^\\.\\./\\.\\./\\.\\./blog/static" "" filepath)))
+    
+    ;; Replace region with new format
+    (delete-region (region-beginning) (region-end))
+    (insert (format "#+html: {{< gbox src=\"%s\" title=\"%s\" caption=\"\" pos=\"left\" >}}"
+                   filepath
+                   caption))))
 #+end_src
 
 #+name: setup
 #+begin_src emacs-lisp :results silent :exports none
 (defun blog/execute-startup-block ()
+  (interactive)
   (org-hugo-auto-export-mode)
 
   ;; set buffer variable
