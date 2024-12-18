@@ -1,0 +1,451 @@
+:PROPERTIES:
+:ID:       F7456CFB-FFE1-43F1-B14E-D2B4A2E067E7
+:END:
+#+SETUPFILE: setup.org
+#+TITLE: My 2024 review
+#+CREATED: 2024-12-11
+#+HUGO_DRAFT: false
+
+
+* TODO Introduction
+* Goals
+
+As another year comes to an end, it's time to look back at the [[/2024/01/02/my-2023-review/#goals][goals I set for 2024]] and
+think about what lies ahead. This reflection helps me understand not just what I've
+achieved, but also how my interests and priorities have evolved throughout the year.
+
+** 2024 goals recap
+*** Projects
+Back in 2023 i wrote: 
+#+caption: My planned projects for this year (as writen down in 2023)
+#+begin_quote
+- Play with {{{zk_topic(htmx,HTMX)}}} and {{{zk_topic(golang,Golang)}}}
+
+  I'd definitely love to do something /front-end/ related and therefore I'd like to play
+  a little bit with [[https://htmx.org/][htmx]]. But first I need an idea for a small application. This way I
+  plan to code again in Golang (this year I didn't manage to code anything useful).
+
+- Security of Github repositories
+
+  While dealing with /Github/ and the /security settings/ of /repositories/, I wanted to
+  have a small tool at hand which will check for different settings (for each repository
+  in an organization) and report (via Slack, E-Mail) if some settings are not
+  /compliant/.
+
+- Finish "Documentation as Code" series
+
+  This year I've started writing about several documentation techniques (as code) in my
+  [[/2023/07/18/documentation-as-code-for-cloud/][Documentation as Code]] series. I definitely want to add at least [[https://d2lang.com/][D2Lang]] to it.
+#+end_quote
+
+Some goals remained aspirational. The tool for auditing GitHub repository security
+settings is still on the drawing board. I've been thinking whether to develop it as a
+standalone application or integrate it into existing frameworks like Steampipe.
+#+begin_sidenote
+Which already has some [[https://github.com/turbot/steampipe-plugin-github][Github integrations]]
+#+end_sidenote
+
+My "[[/2023/07/18/documentation-as-code-for-cloud/][Documentation as Code]]" series took an unexpected turn. While I initially was a
+{{{zk_topic(plantuml,Plantuml)}}} advocate, I found myself gravitating more and more towards
+[[https://mermaid.js.org/][Mermaid charts]] (also after having to write some ADRs where, of course, I've added some
+diagrams). Its seamless integration with GitHub - automatic rendering in Markdown
+documents 😎 - proved to be a killer feature. This shift made me reconsider my plans to
+explore [[https://d2lang.com/][D2Lang]], as /Mermaid/ seems to better align with my current needs.
+
+*** Music
+
+Back in 2023 my thoughts were: 
+#+caption: My thoughts last year
+#+begin_quote
+Besides playing the *Djembe* this year I've started learning how to play the *Bongos*. With
+the help of ChatGPT I was able to read notes again and therefore play some easy to more
+advanced rhythms on the Bongos. Next year I'd like to keep practicing and get more
+insights into Latin rhythms (Salsa, Bachata, Merengue, Mambo, Rumba etc.)
+
+I have played an *acoustic* guitar for a while, although not with the same proficiency as I
+have with hand drums. For motivation, I would like to learn to play the *electric* guitar
+and make progress in *live looping*.
+#+end_quote
+
+This year marked a significant milestone in my /musical journey/. After starting with /Bongos/
+last year, I dove deeper into /Latin percussion/ by taking Rumba classes on /Congas/. The
+world of /digital music/ also opened up to me: I've experimented with /live looping/ and
+learned my way around [[https://www.reaper.fm/][Reaper]], a cross-platform /DAW/ (Digital Audio Workstation). A
+particular highlight was discovering [[https://www.koalasampler.com/][Koala Sampler]], which completely transformed my
+approach to /live looping/ and /sampling/.
+
+** Goals for 2025
+*** Technical Projects
+Looking ahead, I've identified several key areas for /technical growth/:
+**** *Kubernetes exploration*
+K8s remains a knowledge gap I'm more than determined to address. I'll again follow a "slow
+productivity" approach:
+- Start with small-scale experiments using [[https://k3s.io/][k3s]]/[[https://k3d.io/stable/][k3d]]
+- Work towards deploying my own little cluster, either on a VPS or locally
+- Build practical experience through hands-on projects
+
+And I still need to finish [[https://www.goodreads.com/book/show/34013922-kubernetes-in-action][Kubernetes in Action]] which is really a great about if you want to learn about Kubernetes.
+
+**** *Golang deep dive*
+With my recent transition towards more /Software Engineering/-focused tasks, I'm planning to
+strengthen my {{{zk_topic(golang,Golang)}}} expertise. There are 2 specific areas I'd like to
+know more about:
+- /Generics/: This remains somewhat of a black box that I need to illuminate more
+- /Concurrency/: Beyond basic understanding, I want to explore and implement common patterns
+  that can be applied across different problems
+
+**** *Security tooling*
+The GitHub repository security checker is still on my radar. With the rise of LLMs, I
+believe much of the /foundational work/ (authentication, API interactions) can be
+implemented easily. The key focus will be on defining comprehensive /security and compliance
+checks/ that provide real value to the users.
+
+*** Music
+My percussion journey continues with a focus on /Congas/. I've already invested in some
+"Compact Congas" (Giovanni Hidalgo model) that fit perfectly in my space. I believe Congas
+offer more "flexibility" than Bongos for song accompaniment (and solos!), and I'm
+particularly excited to explore /Salsa/ music, though I'm keeping my options open for other
+styles.
+
+The /acoustic guitar/ hasn't been forgotten - I still pick it up regularly. However, I'm
+considering taking formal lessons to improve, especially in finger-style playing. But who
+knows if I'll ever get the chance to do this at all 🤷
+
+* Productivity
+
+After years of experimenting with various productivity systems, 2024 was the year where
+things finally clicked into place. Countless hours of listening to [[https://calnewport.com/podcasts/][Cal Newport's podcast]]
+on [[https://www.goodreads.com/book/show/197773418-slow-productivity][slow productivity]] helped me internalize key concepts like *multi-scale planning*, *time
+blocking*, and {{{zk_topic(deep-work,deep work)}}}. This evolution in my approach has
+fundamentally changed how I structure my days and manage my projects.
+
+** Analog Tools still a thing
+
+The return to my /bullet journal/ has been transformative. While digital tools have their
+place, there's something uniquely effective about /pen and paper/ for certain tasks. Just
+the simple physical act of writing helps me process information differently and creates a
+stronger connection to my plans and ideas. This way I also don't fully rely on laptops &
+PCs.
+
+*** Time blocking in practice
+One of the most significant changes has been implementing /regular time blocking/. This
+practice has helped me:
+- /Visualize/ my daily resources more effectively
+- Be more realistic about what can be accomplished
+- /Mentally prepare/ for the day ahead before diving into tasks
+
+#+begin_comment
+TODO: Insert time blocking images
+#+end_comment
+
+*** The power of paper
+Despite our digital age, collecting ideas, notes, and TODOs using pen and paper remains
+unbeatable for several reasons:
+- Meeting notes can be quickly written down easily and fast
+- Spontaneous ideas can be captured immediately
+- No need to open a laptop for quick captures
+- The tactile experience helps with memory and processing
+
+*** Weekly planning with Frankenlog
+My weekly planning has evolved with the adoption of a "[[https://frankenlog.com/how-it-works/][Frankenlog]]" style structure. This
+system allows me to:
+- Assign specific days to tasks and appointments
+- Maintain a clear overview of the week
+- Review daily what needs to be accomplished that week
+- Adjust plans flexibly as circumstances change
+
+** Digital organization with ORG mode
+
+While embracing analog tools, I've also refined my digital organization using [[https://orgmode.org/][ORG mode]] in
+[[https://www.gnu.org/software/emacs/][Emacs]]. The system has evolved to become more structured and efficient.
+
+- *Project structure*
+  
+  My current project organization follows a clear pattern:
+
+  #+caption: Project structure 
+  #+begin_src org
+  ,* PROJ Project 1
+    * Tasks
+      * TODO Do this and that 
+    * Resources
+  ,* PROJ Project 2
+    * Tasks
+      * TODO Do something else
+    * Resources
+  #+end_src
+
+  This structure provides a clear separation between active tasks and reference materials,
+  making it easier to focus on what needs to be done while keeping relevant resources
+  readily accessible.
+
+- *Multi-Scale Planning in Practice*
+  
+  The implementation of multi-scale planning has become more sophisticated:
+
+  #+caption: Multi-Scale planning in ORG mode
+  #+begin_src org
+  ,* 2024
+    * 2024-10
+    * 2024-11
+    * 2024-12
+      * wk49
+        * DONE I've done this!
+        * DONE Also this is done. 
+      * wk50
+        * TODO Do this
+  #+end_src
+
+  This hierarchical approach offers several benefits:
+  - Tasks can be easily organized by week numbers
+  - Simple refiling between months and weeks
+  - Historical tracking of completed work
+  - Clear visibility of upcoming commitments
+
+* Habits
+
+2024 marked a significant shift in how I approach /habit tracking/ and personal development.
+While previous years were characterized by meticulous tracking using [[https://loophabits.org/][Loop Habit Tracker]],
+this year I found myself gravitating towards a more intuitive approach. Sometimes, the
+very act of tracking can add unnecessary mental stress to activities that should be
+enjoyable and natural.
+
+#+html: {{< gbox src="/posts/img/2024/my-2024-review/garmin-intensity-minutes.png" title="Garmin intensity minutes" caption="" pos="left" >}}
+
+#+html: {{< gbox src="/posts/img/2024/my-2024-review/garmin-steps.png" title="Garmin Steps" caption="" pos="left" >}}
+
+** Sports
+
+The year started with ambitious goals - I aimed to engage in sports twice weekly and
+incorporate *20-minute daily exercise* sessions. Reality, however, had different plans. The
+transition from a 30-hour to a 40-hour work week significantly impacted my exercise
+routine, particularly affecting my regular Friday bouldering sessions.
+
+The challenge with short daily exercise sessions wasn't about motivation alone - it was
+more about the context switch I needed when working primarily /indoors/ (either at home or
+in the office). The mental barrier of changing environments for a brief workout proved
+to be more challenging than I thought.
+
+One bright spot in my physical activity journey was discovering /rope flow/, a dynamic form
+of movement that combines coordination, rhythm, and exercise. This practice has become an
+engaging way to stay active while learning new skills.
+
+** Reading
+
+My reading habit remains strong, though I've moved away from strict tracking. [[https://www.goodreads.com/user/show/121423977-victor-dorneanu][Goodreads]]
+continues to serve as my primary platform for keeping track of books, while the [[https://libbyapp.com/][Libby App]]
+remains invaluable for accessing e-books and audiobooks from [[https://voebb.de/][VOEBB]] (my local library). My
+trusty [[https://pocketbook.de/inkpad-3-dark-brown][Pocketbook Inkpad 3]], purchased in 2018, continues to be a reliable companion for
+digital reading.
+
+Here is reading list for [[https://brainfck.org/books/#2024][2024]]:
+
+- Think Again (Adam Grant)
+- Domain Driven Design Quickly (Eric Evans & various contributors)
+- Company of One (Paul Jarvis)
+- The Startup CTO's Handbook (Zach Goldberg)
+- The Minimalist Entrepreneur (Sahil Lavingia)
+- Lost Connections (Johann Hari)
+- Sapiens: A Brief History of Humankind (Yuval Noah Harari)
+- Stolen Focus (Johann Hari)
+- When The Body Says No (Gabor Maté)
+- Triggerpunkte (Christian Häfele)
+- The Ministry of the Future (Kim Stanley Robinson)
+- Elon Musk (Walter Isaacson)
+- Salz.Fett.Säure.Hitze (Samin Nosrat)
+- Die Geschichte der Bienen (Maja Lunde)
+- Farm der Tiere (George Orwell - original title: Animal Farm)
+- The Effective Executive (Peter F. Drucker)
+- Warum Demokratien sterben (Steven Levitsky & Daniel Ziblatt - original title: How Democracies Die)
+
+I've also covered some book summaries:
+- [[/2024/05/05/book-summaries-january-april-2024/][Book Summaries: January - April 2024]]
+- [[/2024/10/16/book-summaries-may-september-2024/][Book Summaries: May - September 2024]]
+
+There will be a last one (October - December) soon after this post. For a detailed look at
+my 2024 reading journey, you can visit my [[https://brainfck.org/books/#2024][reading list]].
+
+** Breathing techniques
+
+This year was somehow an unintentional pause in my breathing practice. After actively
+engaging with {{{zk_book(the-wim-hof-method,Wim Hof)}}} and {{{zk_topic(buteyko,Buteyko)}}} methods
+last year, 2024 has been, ironically, a "breathless" year. The same applies to /cold
+showers/, which I previously used in conjunction with breathing techniques for preparation.
+
+The change in my /morning routine/ might be responsible: I've adopted a gentler start to the
+day (meditation, maté tea) which, while peaceful, hasn't included the more challenging
+breathing practices. There's potential to incorporate Buteyko breathing during walks,
+something I might explore in the coming year.
+
+** Meditation
+
+My meditation practice had two distinct phases this year. The first half was notably
+quiet, with barely any formal practice. However, the second half brought a significant
+change with the discovery of the "[[https://www.wakingup.com/][Waking Up]]" app (a recommendation from the
+[[https://www.hubermanlab.com/podcast][Huberman Lab podcast]]).
+
+After previous experiences with [[https://www.7mind.de/][7Mind]] (primarily German content), "Waking Up" offered a
+refreshingly direct approach to meditation. What sets it apart:
+- A "/bullshit-free/" approach to mindfulness
+- Diverse collection of /guided sessions/ from various speakers
+- Structured courses exploring /different techniques/
+- Thoughtful /discussions/ on philosophy, life, and meditation practice
+
+
+#+html: {{< gbox src="/posts/img/2024/my-2024-review/waking-up-dashboard.png" title="Waking Up " caption="" pos="left" >}}
+
+#+html: {{< gbox src="/posts/img/2024/my-2024-review/waking-up-stats.png" title="Waking Up Statistics" caption="" pos="left" >}}
+
+#+html: {{< gbox src="/posts/img/2024/my-2024-review/waking-up-explore.png" title="Waking Up Explore" caption="" pos="left" >}}
+
+The impact has been profound: It helped me /regain focus/ and develop a healthier
+relationship with my thoughts. Where before I struggled with an /overactive mind/ constantly
+processing various thoughts and todos, I now find myself better able to maintain calm and
+observe thoughts without getting engaged in them.
+
+This evolution in my habits reflects a broader shift towards /quality over quantity/, and
+authenticity over rigid tracking. While some practices have fallen away, others have
+deepened, and new ones have emerged. It's a reminder that our habits should serve our
+well-being rather than become another source of stress.
+* Software I use
+Inspired by [[https://daryl.wakatara.com/tags/tools/][Software Tools I use]] I thought I'll also start mentioning my tools I use daily
+for work and personally. This year I've continued to refine my digital toolkit, focusing
+on tools that enhance productivity while maintaining simplicity and efficiency in my
+workflows.
+** Daily drivers
+- [[https://www.gnu.org/software/emacs/][Emacs]]
+
+  Yes, of course. I've decided to go down the Emacs /rabbit-hole/ and have thoroughly
+  "Emacsified" my workflows. While I'm fully aware of spending perhaps too much time
+  tweaking my configuration, the result is a /system/ that perfectly aligns with my needs
+  and working style. A significant milestone this year was transitioning to a /fully
+  vanilla setup/, giving me complete control over my configuration.
+
+- [[https://www.alfredapp.com/][Alfred]]
+
+  Being on a Mac, I found myself returning to Alfred. Its snippet management and clipboard
+  functionality have become indispensable parts of my daily workflow.
+- [[https://claude.ai/][Claude AI]]
+
+  Claude has evolved into my virtual assistant for practically everything:
+
+  - Coding assistance
+  - Text summarization
+  - Recipe collection
+  - General writing assistance
+
+    #+html: {{< gbox src="/posts/img/2024/my-2024-review/claude-emacs-discussions.png" title="Organize topic specific conversations into projects" caption="" pos="left" >}}
+
+    #+html: {{< gbox src="/posts/img/2024/my-2024-review/claude-discussions-artefacts.png" title="Claude AI artefacts" caption="" pos="left" >}}
+
+  As a premium user, I work directly with the interface rather than the API. While I
+  occasionally use [[https://ollama.com/][Ollama]] (integrated into Emacs via [[https://github.com/karthink/gptel][gptel]]), Claude remains my primary AI
+  assistant.
+
+- [[https://syncthing.net/][Syncthing]]
+
+  As an ORG mode power user, synchronizing my files between devices is crucial. [[https://syncthing.net/][Syncthing]]
+  elegantly handles this task, enabling seamless sync between:
+
+  - Multiple laptops
+  - Android smartphone
+  - Various ORG mode files and notes
+
+  It's particularly useful for processing smartphone-collected notes and links on my
+  laptop later.
+
+** Sports
+- [[https://www.garmin.com/en-US/p/741137/pn/010-02562-01][Garmin Forerunner 55]]
+
+    #+html: {{< gbox src="/posts/img/2024/my-2024-review/garmin-watch-forerunner55.png" title="Garmin Forerunner 55" caption="Small and very handy" pos="left" >}}
+
+  My touchscreen-free sports watch that perfectly meets my needs.
+
+- [[https://www.gymrun.app/][GymRun]]
+
+  This app's integration with my Garmin watch has transformed my workout experience:
+  - Create custom routines/workouts
+  - Start workouts directly from the watch
+  - Train without smartphone dependency
+  - Eliminate decision fatigue before workouts
+
+    #+html: {{< gbox src="/posts/img/2024/my-2024-review/gymrun-on-garmin.png" title="GymRun app on the Garmin watch" caption="" pos="left" >}}
+
+  And the Android application:
+    
+    #+html: {{< gbox src="/posts/img/2024/my-2024-review/gymrun-workout-overview.png" title="GymRun Workout overview" caption="" pos="left" >}}
+
+** Services
+- [[https://www.overdrive.com/][Overdrive]] / [[https://libbyapp.com/][Libbyapp]]
+
+  An invaluable resource that I can't praise enough:
+
+  - Integration with local library membership
+  - Access to vast e-book and audiobook collections
+  - Magazine and newspaper availability
+  - Waitlist system for popular titles
+
+    #+html: {{< gbox src="/posts/img/2024/my-2024-review/libby-hoalds.png" title="Libby Loans" caption="" pos="left" >}}
+
+- [[https://www.goodreads.com/][Goodreads]]
+  
+  The kind of social media we need more of:
+
+  - Book discovery platform
+  - Reading progress tracking
+  - Community reviews and recommendations
+** Applications
+- [[https://f-droid.org/en/][F-Droid]]
+  - an open source app store which contains applications, many of which are not available on the Play Store 
+  - unline Google Play Store, F-Droid does not track user activity or collect data
+- [[https://antennapod.org/][AntennaPod]]
+  - it's open source
+  - this is my main driver for listening to podcasts
+  - it has a very intuitive UI
+    
+    #+html: {{< gbox src="/posts/img/2024/my-2024-review/antennapod-favorite-podcasts.png" title="AntennaPod - Favorite podcasts" caption="" pos="left" >}}
+
+    #+html: {{< gbox src="/posts/img/2024/my-2024-review/antennapod-statistics.png" title="AntennaPod - Statistics" caption="" pos="left" >}}
+
+- [[https://f-droid.org/en/packages/InfinityLoop1309.NewPipeEnhanced/][PipePipe]]
+  - allows you to access Youtube videos
+  - you can play videos in the background (@Google: When do you finally acknowledge people don't want to see silly ads?)
+  - but the killer feature is still: /download/ videos
+    - I often do this to learn new Conga/Bongos patterns
+    - it's way easier to learn this way rather than coming back again and again to Youtube
+
+    #+html: {{< gbox src="/posts/img/2024/my-2024-review/pipe-download-video.png" title="PipePipe - Download video" caption="" pos="left" >}}
+
+- [[http://www.sdfp-studio.com/][ABMT Music Trainer]]
+  - this app allows you to play local music/video files and create cue points, loops  
+  - this way yo can easily jump to a certain point in the file
+    - very useful for jumping to specific portions of a video if you want to learn something
+    - I use it often to break down specific parts of a percurssion pattern and play them individually
+
+    #+html: {{< gbox src="/posts/img/2024/my-2024-review/abmt-cue-points.png" title="ABMT Music Trainer" caption="" pos="left" >}}
+
+- [[https://github.com/Docile-Alligator/Infinity-For-Reddit][Infinity]] (reddit client)
+  - if you use reddit a lot this app offers you the most seamless experience
+  - you can customize your feed with filters, themes and more to tailor your reading experience
+  - no ads!
+  - what I like most is the "Hide Read Posts" which allows you to easily check /new/ posts (no infinite scrolling anymore)
+  
+** Devices
+- *[[https://www.yubico.com/us/product/yubikey-5-nfc/][Yubikey 5 NFC]]*
+
+  While not software per se, this tool is central to my digital security:
+  - Primary use as a smartcard for encryption/decryption and signing
+    - Encrypt/Decrypt ORG mode files
+    - Sign git commits
+    - Store authentication keys (e.g. for SSH)
+  - GPG agent proxying capability
+    - Access to emails on remote machines
+    - No need to copy GPG keys to remote systems
+* Config                                                           :noexport:
+# Local variables:
+# org-download-image-dir: "~/repos/priv/blog/static/posts/img/2024/my-2024-review/"
+# org-download-screenshot-basename: ".png"
+# org-download-heading-lvl: nil
+# org-agenda-files: nil
+# org-export-babel-evaluate: t
+# end:
