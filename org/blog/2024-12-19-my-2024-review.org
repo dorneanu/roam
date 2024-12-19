@@ -3,11 +3,37 @@
 :END:
 #+SETUPFILE: setup.org
 #+TITLE: My 2024 review
-#+CREATED: 2024-12-11
+#+CREATED: 2024-12-19
 #+HUGO_DRAFT: false
 
+As another year comes to an end, it's time for my annual [[/tags/review][review]] (check out [[/2021/12/13/my-2021-review/][2021]], [[/2024/01/02/my-2023-review/][2023]]) - a
+tradition where I reflect on the past twelve months, examining what I've *learned*, how I've
+*grown*, and whether I've managed to stick to my *goals*. These reviews serve as a personal
+chronicle but also a way to share experiences that might resonate with others on similar
+journeys.
 
-* TODO Introduction
+2024 has been a year of significant transitions and new beginnings. Perhaps the most
+noteworthy change came in my professional life, where I stepped into a more /software
+engineering-focused role/. This transition brought an exciting opportunity to contribute to
+a large open-source [[https://github.com/cloudoperators/heureka][project]] - something that has opened new horizons for learning and
+collaboration.
+
+In an effort to share knowledge and best practices, I launched [[https://defersec.com][defersec.com]], a platform
+dedicated to *DevSecOps* principles with a particular focus on the {{{zk_topic(golang,Golang)}}}
+ecosystem. This project has allowed me to combine my passion for security with practical
+implementation guidance. Along this journey, I've had the chance to deepen my expertise in
+infrastructure as code, particularly with {{{zk_topic(terraform,Terraform)}}}, while also
+exploring the world of {{{zk_topic(kubernetes,Kubernetes)}}}.
+
+Beyond the technical realm, this year brought musical adventures I hadn't anticipated.
+Learning to play the *bongos* evolved into taking Afro-Cuban Rumba classes for *congas* - a
+journey that has added new rhythms and joy to my life.
+
+Looking back, 2024 has been remarkably fulfilling - a year characterized by growth,
+learning, and shared experiences with wonderful people. As we dive into the details of
+this year's journey, I'll explore how various aspects of my life have evolved, from
+productivity systems to daily habits, and from technical skills to creative pursuits.
+
 * Goals
 
 As another year comes to an end, it's time to look back at the [[/2024/01/02/my-2023-review/#goals][goals I set for 2024]] and
@@ -441,6 +467,23 @@ workflows.
   - GPG agent proxying capability
     - Access to emails on remote machines
     - No need to copy GPG keys to remote systems
+* Looking back, moving forward
+The evolution in my approach to [[*Productivity][productivity]] and [[*Habits][habits]] reflects a broader theme this
+year - finding balance between structure and flexibility. Moving away from rigid tracking
+towards more intuitive systems hasn't meant losing focus; rather, it allowed to naturally
+integrate these habits into daily life.
+
+My musical journey with *percussion* has added an entirely new dimension to my life, proving
+that growth doesn't always have to be technical or career-focused. The rhythm and joy of
+playing congas and bongos has become a welcome counterpoint to the digital world.
+
+Looking ahead to 2025, I'm excited about the possibilities that lie ahead - from deepening
+my {{{zk_topic(kubernetes,Kubernetes)}}} knowledge to mastering new rhythms on the congas. But
+perhaps more importantly, I'm grateful for the community of people who have been part of
+this journey, sharing knowledge, experiences, and moments of joy along the way. As always,
+these reviews serve not just as personal milestones, but as reminders of how we grow
+through both the /challenges we face/ and the /opportunities we embrace/. Here's to another
+year of learning, creating, and growing together.
 * Config                                                           :noexport:
 # Local variables:
 # org-download-image-dir: "~/repos/priv/blog/static/posts/img/2024/my-2024-review/"
