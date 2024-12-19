@@ -1,6 +1,6 @@
 +++
 title = "Emacs"
-author = ["Victor Dorneanu"]
+author = ["Dorneanu"]
 tags = ["emacs", "ide"]
 draft = false
 +++
@@ -26,20 +26,20 @@ make -j 4 install
 -   2022-10-24 ◦ [A workflow for reading, managing and discovering ML research papers with Emacs | Koustuv Sinha](https://koustuvsinha.com/post/emacs_research_workflow/)
 -   2022-10-24 ◦ [Add org-store-link Entry for elfeed - Yiming Chen](https://yiming.dev/blog/2016/01/28/add-org-store-link-entry-for-elfeed/)
     ```emacs-lisp
-      ;; ---------------------
-      ;; org capture in elfeed
-      ;; ---------------------
-      (defun private/org-elfeed-entry-store-link ()
-        (when elfeed-show-entry
-          (let* ((link (elfeed-entry-link elfeed-show-entry))
-                 (title (elfeed-entry-title elfeed-show-entry)))
-            (org-store-link-props
-             :link link
-             :description title)
-            )))
+    ;; ---------------------
+    ;; org capture in elfeed
+    ;; ---------------------
+    (defun private/org-elfeed-entry-store-link ()
+      (when elfeed-show-entry
+        (let* ((link (elfeed-entry-link elfeed-show-entry))
+               (title (elfeed-entry-title elfeed-show-entry)))
+          (org-store-link-props
+           :link link
+           :description title)
+          )))
 
-      (add-hook 'org-store-link-functions
-                'private/org-elfeed-entry-store-link)
+    (add-hook 'org-store-link-functions
+              'private/org-elfeed-entry-store-link)
     ```
     <div class="src-block-caption">
       <span class="src-block-number">Code Snippet 1:</span>
@@ -225,6 +225,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 ### Performance {#performance}
 
+-   2024-12-18 ◦ [Is there a way to allow GNU emacs (29.4) to be more performant?](https://www.reddit.com/r/emacs/comments/1gv556t/is_there_a_way_to_allow_gnu_emacs_294_to_be_more/)
 -   2024-01-04 ◦ [Why is Emacs/Doom slow? - #6 by hlissner - Performance - Doom Emacs Discourse](https://discourse.doomemacs.org/t/why-is-emacs-doom-slow/83/6)
 
 
@@ -271,6 +272,11 @@ When you are collecting text using append-to-register and prepend-to-register, y
 -   2024-09-03 ◦ [Using Emacs in a Terminal - Wai Hon's Blog](https://whhone.com/posts/emacs-in-a-termainl/)
 
 
+### Templating {#templating}
+
+-   2024-12-09 ◦ [writing-go-templ-with-emacs](https://drshapeless.com/blog/posts/writing-go-templ-with-emacs.html)
+
+
 ### UI {#ui}
 
 -   2022-12-05 ◦ [gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org](https://codeberg.org/gopiandcode/emacs-viewer)
@@ -287,3 +293,8 @@ Almost everything Emacs can do without any further packages
 
 -   2024-04-18 ◦ [Batteries included with Emacs | Karthinks](https://karthinks.com/software/batteries-included-with-emacs/)
 -   2024-04-18 ◦ [More batteries included with emacs | Karthinks](https://karthinks.com/software/more-batteries-included-with-emacs/)
+
+
+### Web {#web}
+
+-   2024-12-09 ◦ [Modern Emacs Typescript Web (React) Config with lsp-mode, treesitter, tailwind, TSX &amp; more - Ovi Stoica](https://www.ovistoica.com/blog/2024-7-05-modern-emacs-typescript-web-tsx-config)

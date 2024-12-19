@@ -152,6 +152,7 @@ When you are collecting text using append-to-register and prepend-to-register, y
 - 2022-12-06 ◦ [[https://github.com/dfeich/org-babel-examples][github.com/dfeich/org-babel-examples]]
   - Examples using emacs org mode babel inline source code with different backend languages
 ** Performance
+- 2024-12-18 ◦ [[https://www.reddit.com/r/emacs/comments/1gv556t/is_there_a_way_to_allow_gnu_emacs_294_to_be_more/][Is there a way to allow GNU emacs (29.4) to be more performant?]]
 - 2024-01-04 ◦ [[https://discourse.doomemacs.org/t/why-is-emacs-doom-slow/83/6][Why is Emacs/Doom slow? - #6 by hlissner - Performance - Doom Emacs Discourse]]
 ** Reports
 - 2023-01-05 ◦ [[https://www.adventuresinwhy.com/post/org-mode-timekeeping/][Timekeeping with Emacs and Org-Mode | Adventures in Why]]
@@ -174,6 +175,8 @@ When you are collecting text using append-to-register and prepend-to-register, y
 ** Terminal
 
 - 2024-09-03 ◦ [[https://whhone.com/posts/emacs-in-a-termainl/][Using Emacs in a Terminal - Wai Hon's Blog]]
+** Templating
+- 2024-12-09 ◦ [[https://drshapeless.com/blog/posts/writing-go-templ-with-emacs.html][writing-go-templ-with-emacs]]
 ** UI
 - 2022-12-05 ◦ [[https://codeberg.org/gopiandcode/emacs-viewer][gopiandcode/emacs-viewer: A web frontend for your Org-mode  - emacs-viewer - Codeberg.org]]
 ** Yaml
@@ -182,3 +185,5 @@ When you are collecting text using append-to-register and prepend-to-register, y
 Almost everything Emacs can do without any further packages
 - 2024-04-18 ◦ [[https://karthinks.com/software/batteries-included-with-emacs/][Batteries included with Emacs | Karthinks]]
 - 2024-04-18 ◦ [[https://karthinks.com/software/more-batteries-included-with-emacs/][More batteries included with emacs | Karthinks]] 
+** Web
+- 2024-12-09 ◦ [[https://www.ovistoica.com/blog/2024-7-05-modern-emacs-typescript-web-tsx-config][Modern Emacs Typescript Web (React) Config with lsp-mode, treesitter, tailwind, TSX & more - Ovi Stoica]]
