@@ -7,6 +7,12 @@ draft = false
 This is my personal book TODO list, along with the year in which I added the book to the list.
 
 
+## 2025 {#2025}
+
+-   2025-01-06 ◦ [Tao Te Ching by Lao Tzu | Goodreads](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)
+-   2025-01-06 ◦ [The Enigma of Reason by Hugo Mercier | Goodreads](https://www.goodreads.com/book/show/32336635-the-enigma-of-reason)
+
+
 ## 2024 {#2024}
 
 -   2024-11-22 ◦ [Earth for All: A Survival Guide for Humanity by Sandrine Dixson-Decleve | Goodreads](https://www.goodreads.com/book/show/60878390-earth-for-all?from_search=true&from_srp=true&qid=Iy5nhrUUux&rank=1)
@@ -63,7 +69,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   TODO Der alte König in seinem Exil
 -   TODO Die Klimaschmutzlobby
 -   TODO Nichts ist wie es scheint
--   how demcrocacies die
+-   ✅ how demcrocacies die
     -   <https://www.goodreads.com/book/show/35356384-how-democracies-die>
 -   [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/book/show/6667514-the-checklist-manifesto)
 -   [Sursa](https://www.amazon.com/Sursa-Romanian-Tara-Swart/dp/6067223929)
