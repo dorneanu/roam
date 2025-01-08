@@ -1,10 +1,12 @@
 +++
 title = "Elon Musk"
-author = ["Victor Dorneanu"]
+author = ["Dorneanu"]
 date = 2024-10-13
 tags = ["biography", "book"]
 draft = false
 +++
+
+👉 <https://www.goodreads.com/book/show/122765395-elon-musk>
 
 Here are my some highlights, categorized by LLMs:
 
