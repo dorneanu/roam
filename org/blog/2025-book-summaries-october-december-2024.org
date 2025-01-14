@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       92783F53-B405-4A0F-A72A-E06FFDBD7838
+:END:
+#+title: Book Summaries: October - September 2024
+#+filetags: :summary:books:
+#+date: 2025-01-14 Tue
+
+Continuing with my tradition of quarterly book summaries, here are my reflections on
+the books I've read between /October/ and /December/ last year.
+
+* Biographies
+** 📚 Elon Musk
+👉 [[https://www.goodreads.com/book/show/123471711-elon-musk][Elon Musk by Walter Isaacson]]
+
+I must admit I'm definitely *not* a fan of Elon Musk and had some curiosity to learn more
+about the person behind the public façade. I wanted to learn more about all the aspects
+that shaped him and his mindset. As I learned, his childhood and his relationship to his
+father have had a profound impact on his thinking and behavioral tendencies.
+
+Overall, I was fascinated by Musk's intelectual breadth which spans multiple domains. He
+decided to major in physics because, like his father, he was drawn to engineering. He also
+decided to learn about business because he didn't want to work for others:
+
+#+begin_quote
+"I was concerned that if I didn't study business, I would be forced to work for someone
+who did," he says. **"My goal was to engineer products by having a feel for the physics and
+never have to work for a boss with a business degree."**
+#+end_quote
+
+It was exactly this combination of technical depth and business knowledge that would serve
+as a fundament for his future ventures. As for his visions he had very concrete
+expectations:
+
+#+begin_quote
+He had conceived by then a life vision that he would repeat like a mantra. **"I thought
+about the things that will truly affect humanity," he says. "I came up with three: the
+internet, sustainable energy, and space travel."** In the summer of 1995, it became clear to
+him that the first of these, the internet, was not going to wait for him to finish
+graduate school. The web had just been opened up for commercial use, and that August the
+browser startup Netscape went public, soaring within a day to a market value of $2.9
+billion.
+#+end_quote
+
+Given our planet's burning challanges (climate crisis, poverty, low education, war) I
+still question his Mars colonization plans which are driven by his will to save humanity
+and our species once there will be no life possible anymore on Mother Earth. The biography
+not only revelead controversial aspects about his visions but also about his leadership
+style and work ethics:
+
+#+begin_quote
+Musk responded with a very self-aware email. **"I am by nature obsessive-compulsive," he
+wrote Fricker. "What matters to me is winning, and not in a small way.** God knows why… it's
+probably rooted in some very disturbing psychoanalytical black hole or neural short
+circuit."
+#+end_quote
+
+While he is undoubtly a visionaire and leaded to the success of multiple multi-billion
+companies, I still find his management practices problematic: From arbitrary dismissals to
+creating unsustainable work environments.
+
+📓 Read my [[https://brainfck.org/book/elon-musk/][notes]]
+
+* Climate
+** 📚 The Ministry of the Future
+👉 [[https://www.goodreads.com/book/show/50998056-the-ministry-of-future][The Ministry of the Future by Kim Stanley Robinson]]
