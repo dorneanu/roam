@@ -2,6 +2,7 @@
 :ID:       92783F53-B405-4A0F-A72A-E06FFDBD7838
 :END:
 #+title: Book Summaries: October - September 2024
+#+SETUPFILE: setup.org
 #+filetags: :summary:books:
 #+date: 2025-01-14 Tue
 
@@ -59,7 +60,120 @@ companies, I still find his management practices problematic: From arbitrary dis
 creating unsustainable work environments.
 
 📓 Read my [[https://brainfck.org/book/elon-musk/][notes]]
+* Business & Productivity
+** 📚 The Effective Executive
+👉 [[https://www.goodreads.com/book/show/48019.The_Effective_Executive][The Effective Executive by Peter F. Drucker]]
+
+Drucker's "The Effective Executive" was originally published in 1966 during his tenure as
+a management professor at the New York University. At least for me this book proved to be
+a dissapointment: I cannot recommend reading this book as there are plenty of more
+valuable works on management and productivity. 
+
+The book's approach sounds kind of odd to me especially after engaging (through books and
+podcasts) with Cal Newport's modern frameworks around "deep work", "slow productivity",
+multi-scale planning and time blocking. Till now these methodologies have been quite
+effective in my own work. While Drucker is often considered a management thinking pioneer,
+this particular book (I haven't read any others yet) offers little practical value for
+someone working as a /knowledge worker/. Perhaps in 1966 and the decades after this book has
+been revolutionary. However, I'd recommend looking to more current works that better
+reflect today's work environment and challenges.
 
 * Climate
 ** 📚 The Ministry of the Future
 👉 [[https://www.goodreads.com/book/show/50998056-the-ministry-of-future][The Ministry of the Future by Kim Stanley Robinson]]
+* Politics
+** 📚 How Democracies Die
+👉 [[https://www.goodreads.com/book/show/35356384-how-democracies-die][How Democracies Die by Steven Levitsky, Daniel Ziblatt]] (read in German)
+
+Unless you have been living under a rock for the last years, you certainly have noticed
+the rising /authoritarian tendencies/ worldwide. While this book's focus is the United
+States' constitutional framework, it has provided me with with good analysis of /democratic
+decline/ globally and important insights how democratic systems can be systemcally
+undermined.
+
+One of the most important revelation to me was the fact that most totalitarian leaders
+(Hitler, Mussolini, Trump, Erdogan, Orban, Chavez, Fujimori) throuhout history more or
+less followed the same pattern to gain power. As the authors note (translated from German
+using LLM):
+
+#+caption: From "How Democracies Die"
+#+begin_quote
+This story has played out in various forms around the world over the past century. A
+series of political outsiders, from Adolf Hitler in Germany to Getúlio Vargas in Brazil,
+Alberto Fujimori in Peru, and Hugo Chávez in Venezuela, all came to power the same way:
+from within, through elections or alliances with powerful political figures. Each time,
+elites believed that including the outsider in government would contain them and restore
+mainstream politicians' power. This belief proved deceptive. A fatal mixture of ambition,
+fear, and miscalculation led them to make the same fateful mistake: they knowingly handed
+over the keys of power to an aspiring autocrat.
+#+end_quote
+
+What also resonated with me of the crucial role of /institutional safeguards/ in democratic
+systems. As the book mentiones also political parties have a responsibility in preserving
+democracy:
+
+#+caption: From "How Democracies Die"
+#+begin_quote
+While mass response to extremist temptations is important, what matters more is whether
+political elites, and especially parties, serve as filters. Simply put, parties are the
+guardians of democracy.
+#+end_quote
+
+Perhaps most disturbing is how autocratic forces often use democratic institutions and
+rules to gain power while simultaneously undermining democratic values. They often call
+for "real" or "more" democracy while at the same time working to dismantle it.
+
+** 📚 Animal Farm
+👉 [[https://www.goodreads.com/book/show/170448.Animal_Farm][Animal Farm by George Orwell]] (read in German)
+
+My first George Orwell reading was {{{zk_book(1984,1984)}}} making "Animal Farm" (its
+chronological predecessor) particularly interesting as it reveals the evolutionof Orwell's
+thoughts on /authoritarian systems/. Without knowing Orwell's personal background and
+political influences that shaped his perspective (on comunism and failed socialist ideals)
+one cannot truly appreciate his work.
+
+The book's central message is perhaps best captured in its famous principle: 
+
+#+caption: "Animal Farm"
+#+begin_quote
+"All animals are equal, but some animals are more equal than others" 
+
+(German: *"ALLE TIERE SIND GLEICH, ABER MANCHE TIERE SIND GLEICHER ALS ANDERE"*)
+#+end_quote
+
+This simple statement encapsulates the entire tragedy of how /egalitarian ideals/ can be
+corrupted by those in power (in this case, represented by the /pigs/ which gradually take
+over control of the farm). What makes this book particularly relevant today is its
+brilliant illustration of how /manipulation/, /fear/, /propaganda/ and /ideology/ can facilitate
+the establishment of /authoritarian systems/. Orwell did a great job to show (through farm
+animals) how revolutionary ideals can be gradually misinterpreted and misused to serve the
+interests of a new elite. As our world becomes more and more dominated by both autocrats
+and technocrats, the warnings embedded in the book feel more present than ever.
+* Food Science
+** 📚 Salt Fat Acid Heat
+👉 [[https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat][Salt Fat Acid Heat by Samin Nosrat]] (read in German)
+
+I think that in another life I might have been a cook 🙈 - at least that's how I explain
+my passion for cooking and culinary arts. While I explored different techniques from slow
+cooking to steam preparation, it is Samin Nosrat's "Salt Fact Acid Heat" that slowly
+transforms my approach to cooking.
+
+What's so cool about this book is the way it deconstructs the /fundamental elements/ we
+often take for granted in cooking. Salt, oil, fat are such common ingredients that we
+don't really think about their actual purpose in our dishes. Nosrat breaks down (in a
+semi-scientific approach) the chemical interactions between these elements and various
+ingredients. This (technical) depth adds a new dimension to understanding how and why
+certain cooking techniques work the way they do.
+
+Along the technical explanations Nosrat also shares personal anecdotes and tips making
+complex cooking techniques accessible and memorable. Personally I struggled for a long
+time to remember all the ingredients one needs to make a good sauce. The books has a
+comprehensive section on sauce-making (which oil depending on the what type of food you
+want to prepare etc.) and definitely helped me created balanced flavours. After all it's
+not a rocket science but it feels this way when you don't know the basics.
+
+At the end of the book you'll find a recipe collection which also serves as a pratical
+demonstration of the principles discussed in the book. These recipes are not only just
+some steps you should follow, but more like practical lessons in applying (Nosrat's)
+science of cooking.
+
