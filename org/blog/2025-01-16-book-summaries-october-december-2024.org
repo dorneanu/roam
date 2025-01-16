@@ -4,14 +4,14 @@
 #+title: Book Summaries: October - September 2024
 #+SETUPFILE: setup.org
 #+filetags: :summary:books:
-#+date: 2025-01-14 Tue
+#+date: 2025-01-16 
 
 Continuing with my tradition of quarterly book summaries, here are my reflections on
 the books I've read between /October/ and /December/ last year.
 
 * Biographies
 ** 📚 Elon Musk
-👉 [[https://www.goodreads.com/book/show/123471711-elon-musk][Elon Musk by Walter Isaacson]]
+👉 [[https://www.goodreads.com/book/show/122765395-elon-musk][Elon Musk by Walter Isaacson]]
 
 I must admit I'm definitely *not* a fan of Elon Musk and had some curiosity to learn more
 about the person behind the public façade. I wanted to learn more about all the aspects
@@ -60,27 +60,6 @@ companies, I still find his management practices problematic: From arbitrary dis
 creating unsustainable work environments.
 
 📓 Read my [[https://brainfck.org/book/elon-musk/][notes]]
-* Business & Productivity
-** 📚 The Effective Executive
-👉 [[https://www.goodreads.com/book/show/48019.The_Effective_Executive][The Effective Executive by Peter F. Drucker]]
-
-Drucker's "The Effective Executive" was originally published in 1966 during his tenure as
-a management professor at the New York University. At least for me this book proved to be
-a dissapointment: I cannot recommend reading this book as there are plenty of more
-valuable works on management and productivity. 
-
-The book's approach sounds kind of odd to me especially after engaging (through books and
-podcasts) with Cal Newport's modern frameworks around "deep work", "slow productivity",
-multi-scale planning and time blocking. Till now these methodologies have been quite
-effective in my own work. While Drucker is often considered a management thinking pioneer,
-this particular book (I haven't read any others yet) offers little practical value for
-someone working as a /knowledge worker/. Perhaps in 1966 and the decades after this book has
-been revolutionary. However, I'd recommend looking to more current works that better
-reflect today's work environment and challenges.
-
-* Climate
-** 📚 The Ministry of the Future
-👉 [[https://www.goodreads.com/book/show/50998056-the-ministry-of-future][The Ministry of the Future by Kim Stanley Robinson]]
 * Politics
 ** 📚 How Democracies Die
 👉 [[https://www.goodreads.com/book/show/35356384-how-democracies-die][How Democracies Die by Steven Levitsky, Daniel Ziblatt]] (read in German)
@@ -145,10 +124,64 @@ This simple statement encapsulates the entire tragedy of how /egalitarian ideals
 corrupted by those in power (in this case, represented by the /pigs/ which gradually take
 over control of the farm). What makes this book particularly relevant today is its
 brilliant illustration of how /manipulation/, /fear/, /propaganda/ and /ideology/ can facilitate
-the establishment of /authoritarian systems/. Orwell did a great job to show (through farm
+the establishment of /authoritarian systems/. Orwell did a good job to show (through farm
 animals) how revolutionary ideals can be gradually misinterpreted and misused to serve the
 interests of a new elite. As our world becomes more and more dominated by both autocrats
 and technocrats, the warnings embedded in the book feel more present than ever.
+
+📓 Read my {{{zk_book(farm-der-tiere,notes)}}} (German)
+* Climate
+** 📚 The Ministry of the Future
+👉 [[https://www.goodreads.com/book/show/50998056-the-ministry-of-future][The Ministry of the Future by Kim Stanley Robinson]]
+
+I've listened to "The Ministry of the Future" through an audiobook which, in retrospect,
+might not have been the optimal choice for absorbing the depth and complexity of this
+work. I think I'll purchase a physical copy or the e-book version of this book as it
+deserves a more deliberate pace. The audiobook doesn't really allow you to revisit key
+passages, make notes and reflect on certain aspects.
+
+What sets this book apart is its quite realistic approach to climate science fiction. Far
+from dystopian extremes and far-fetched solutions it offers a quite realistic scenario of
+how humanity might struggle with the all the challenges of the climate crisis. The main
+idea of the book, a /global governance institution/ particularly resonated to me as it
+demonstrates the need for global actions instead of letting individual nations handle
+climate actions in isolation. These actions usually have unforeseeable effects on other
+regions weather conditions which definitely might lead to conflict between countries.
+
+Apart from that there were two economic concepts that seem crucial solving global
+problems. First, the role of /corporate funding/ in environmental projects and secondly the
+idea of a /carbon coin/, a global financial instrument designed to fund climate crisis
+initiatives. This creates investment opportunities for corporations while maintaining
+focus on environment goals. And of course, the ROI (return of investment) will be way
+lower than usual rates.
+
+As I've mentioned already I'm planning to revisit this work in either e-book or physical
+format. The book has several detail layers that require a more /traditional/ reading
+approach allowing me to engage with the complex ideas in a more deeper manner.
+** 📚 History of Bees
+👉 [[https://www.goodreads.com/book/show/34730052-die-geschichte-der-bienen][The History of Bees by Maja Lunde]]
+
+I came to this book through my wife's recommendation and despite /not/ being a regular novel
+reader I became quite interested about the potential consequences of a /global bee
+extinction/. Like "The Ministry of the Future" this work presents a realistic scenario of
+how environmental crisis could reshape human society, but focusses specially on the
+critical role of bees in our ecosystem.
+
+Through the book you'll get to read stories from different epochs that initially seem
+distinct but at the end reveal their interconnections. Through these parallel stories, the
+author illustrates the historial, present and potential future significance of /apiculture/
+(beekeeping).
+
+If you study bees you'll get to understand their important for our food systems. Almost
+without human intervention /natural pollination/ of trees (through bees) takes place which
+is crucial for fruit production. This again is vital for continuous /harvests/ and therefore
+for /food security/. As you delve into the book's chapters it becomes clear how these small
+insects play a vital role in maintaining our already fragile /ecological balance/.
+
+The use of multiple timelines and connected stories effectively highlights the scientific
+importance of bees (for agriculture) but also the potential costs (for humans) of their
+potential loss.
+
 * Food Science
 ** 📚 Salt Fat Acid Heat
 👉 [[https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat][Salt Fat Acid Heat by Samin Nosrat]] (read in German)
@@ -176,4 +209,24 @@ At the end of the book you'll find a recipe collection which also serves as a pr
 demonstration of the principles discussed in the book. These recipes are not only just
 some steps you should follow, but more like practical lessons in applying (Nosrat's)
 science of cooking.
+
+📓 Read my {{{zk_book(salz.fett.säure.hitze,notes)}}} (German)
+
+* Business & Productivity
+** 📚 The Effective Executive
+👉 [[https://www.goodreads.com/book/show/48019.The_Effective_Executive][The Effective Executive by Peter F. Drucker]]
+
+Drucker's "The Effective Executive" was originally published in 1966 during his tenure as
+a management professor at the New York University. At least for me this book proved to be
+a dissapointment: I /cannot recommend/ reading this book as there are plenty of more
+valuable works on [[https://brainfck.org/tags/management/][management]] and [[https://brainfck.org/tags/productivity/][productivity]]. 
+
+The book's approach sounds kind of odd to me especially after engaging (through books and
+podcasts) with Cal Newport's modern frameworks around {{{zk_topic(deep-work,deep work)}}}, "slow
+productivity", [[/2024/12/19/my-2024-review/#productivity][multi-scale planning and time blocking]]. Till now these methodologies have
+been quite effective in my own work. While Drucker is often considered a management
+thinking pioneer, this particular book (I haven't read any others yet) offers little
+practical value for someone working as a /knowledge worker/. Perhaps in 1966 and the decades
+after this book has been revolutionary. However, I'd recommend looking to more current
+works that better reflect today's work environment and challenges.
 
