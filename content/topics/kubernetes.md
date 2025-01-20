@@ -6,7 +6,7 @@ draft = false
 
 ## Articles {#articles}
 
--   2024-12-06 ◦ [Kubernetes on Hetzner](https://bilbof.com/posts/kubernetes-on-hetzner)
+-   2024-12-06 ◦ [Kubernetes on HetzOner](https://bilbof.com/posts/kubernetes-on-hetzner)
 -   2022-11-14 ◦ [GitHub - javiramos1/CKAD-exercises: A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation](https://github.com/javiramos1/CKAD-exercises)
 -   2022-10-06 ◦ [Kubernetes Hardening Guidance](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
 -   2022-09-30 ◦ [Kubernetes Security: 10 Best Practices from the Industry and Community](https://dev.to/castai/kubernetes-security-10-best-practices-from-the-industry-and-community-1bp6)

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       92783F53-B405-4A0F-A72A-E06FFDBD7838
 :END:
-#+title: Book Summaries: October - September 2024
+#+title: Book Summaries: October - December 2024
 #+SETUPFILE: setup.org
 #+filetags: :summary:books:
 #+date: 2025-01-16 

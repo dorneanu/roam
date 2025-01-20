@@ -86,7 +86,7 @@ The lasting effects of Musk's childhood experiences
 Musk's expectations for himself and his employees
 
 > From the very beginning of his career, ****Musk was a demanding manager, contemptuous of the
-> concept of work-life balance****. At Zip2 and every subsequent company, ****he drove himself
+> concept of work-life balance****. At Zip2 and every subsequent company, ****he drove
 > relentlessly all day and through much of the night, without vacations, and he expected
 > others to do the same****. His only indulgence was allowing breaks for intense video-game
 > binges. The Zip2 team won second place in a national Quake competition. They would have

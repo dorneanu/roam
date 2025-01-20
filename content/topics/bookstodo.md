@@ -9,6 +9,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 
 ## 2025 {#2025}
 
+-   2025-01-20 ◦ [An Autobiography: The Story of My Experiments with Truth by Mahatma Gandhi | Goodreads](https://www.goodreads.com/book/show/873384)
 -   2025-01-06 ◦ [Tao Te Ching by Lao Tzu | Goodreads](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)
 -   2025-01-06 ◦ [The Enigma of Reason by Hugo Mercier | Goodreads](https://www.goodreads.com/book/show/32336635-the-enigma-of-reason)
 
