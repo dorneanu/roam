@@ -7,3 +7,263 @@
 
 👉 https://www.goodreads.com/book/show/35356384-how-democracies-die
 
+These are my notes (clustered and analysed using LLMs):
+
+* Aufstieg autoritärer Herrscher
+** Mechanismen der Machtübernahme
+#+BEGIN_QUOTE
+Wenn ein charismatischer Außenseiter auftaucht und an Beliebtheit gewinnt, indem er die
+alte Ordnung in Frage stellt, ist es für Politiker des Establishments, denen die Zügel aus
+den Händen zu gleiten scheinen, verlockend, sich mit ihm zu arrangieren. *Wenn ein Insider
+aus den Reihen ausbricht und dem Aufrührer die Hand reicht, bevor seine Rivalen es tun,
+kann er die Energie und die Basis des Außenseiters nutzen, um diese auszumanövrieren.*
+#+END_QUOTE
+
+** Historische Parallelen
+#+BEGIN_QUOTE
+*Trotz aller großen Unterschiede gelangten Hitler, Mussolini und Chávez auf erstaunlich
+ ähnliche Weise an die Macht.* Nicht nur waren sie allesamt Außenseiter mit einem Gespür
+ für öffentlichkeitswirksame Auftritte, sondern sie kamen alle drei auch an die Macht,
+ weil etablierte Politiker die Warnzeichen übersahen.
+#+END_QUOTE
+
+** Rolle der Bevölkerung
+#+BEGIN_QUOTE
+Diese Ansicht ist falsch. *Sie erwartet zu viel von der Demokratie – dass »das Volk« die
+Art ihrer Regierung gestalten könne.* Es dürfte kaum Belege dafür geben, dass in
+Deutschland und Italien in den 1920er Jahren eine Mehrheit für eine autoritäre
+Regierungsform war.
+#+END_QUOTE
+
+** Getarnte Autokraten
+#+BEGIN_QUOTE
+*Aber nicht alle autokratischen Politiker enthüllen vor ihrem Machtantritt das ganze Ausmaß
+ ihres Autoritarismus.* Manche halten sich in der ersten Phase ihrer Karriere an
+ demokratische Spielregeln und geben sie erst später auf. Ein Beispiel dafür ist der
+ ungarische Ministerpräsident Viktor Orbán.
+#+END_QUOTE
+
+* Institutionelle Kontrolle und deren Aushöhlung
+** Rolle der Parteien
+#+BEGIN_QUOTE
+*Obwohl es auch wichtig ist, wie die breite Masse auf extremistische Verlockungen reagiert,
+ ist es doch wichtiger, ob politische Eliten, und insbesondere Parteien, als Filter
+ dienen.* Einfach gesagt, Parteien sind die Wächter der Demokratie.
+#+END_QUOTE
+
+** Parteizugehörigkeit als Indikator                                                     :trump:
+#+BEGIN_QUOTE
+*Während Bush, Rubio, Cruz, Christie, Walker und Kasich in der Republikanischen Partei
+ verwurzelt waren, hatte Trump seine Parteimitgliedschaft mehrmals gewechselt* und sogar
+ für Hillary Clintons Senatswahlkampf gespendet.
+#+END_QUOTE
+
+** Kollektive Abdankung
+#+BEGIN_QUOTE
+*Die kollektive Abdankung – der Autoritätstransfer an einen Führer, der eine Gefahr für die
+ Demokratie darstellt – lässt sich für gewöhnlich auf zwei Ursachen zurückführen: erstens
+ auf den irregeleiteten Glauben, dass autoritäre Führer unter Kontrolle gehalten oder
+ gemäßigt werden können, und zweitens auf das, was der Soziologe Ivan Ermankoff
+ »ideologische Kollusion« nennt.*
+#+END_QUOTE
+
+** Herausforderungen der Demokratie
+#+BEGIN_QUOTE
+*Demokratie macht Arbeit.* Während Familienunternehmen und Armeen mit Befehlen geführt
+ werden können, erfordert die Demokratie Verhandlungen, Kompromisse und Konzessionen.
+ Rückschläge sind unvermeidlich, Siege stets bruchstückhaft.
+#+END_QUOTE
+
+* Wirtschaftliche Kontrolle und Machtkonzentration
+** Kontrolle der Wirtschaftseliten                                                       :putin:
+#+BEGIN_QUOTE
+*Auch führende Unternehmer, die über die Mittel verfügen, um die Opposition zu finanzieren,
+ werden von gewählten Autokraten zu schwächen versucht.* Dies war eines der Hauptmittel,
+ mit denen Putin seine Macht in Russland festigte. Im Juli 2000, keine drei Monate nach
+ seinem Amtsantritt als Präsident, lud er 21 der reichsten russischen Unternehmer in den
+ Kreml ein.
+#+END_QUOTE
+
+* Krisen als Machtwerkzeuge
+** Missbrauch von Krisen
+#+BEGIN_QUOTE
+*Eine der großen Ironien des Untergangs von Demokratien besteht darin, dass häufig ihr
+ Schutz als Vorwand für ihre Aushöhlung angeführt wird.* In vielen Fällen nutzen
+ Möchtegern-Autokraten Wirtschaftskrisen, Naturkatastrophen und insbesondere
+ Sicherheitsbedrohungen als Rechtfertigung für ihre antidemokratischen Maßnahmen.
+#+END_QUOTE
+
+** Verfassungsrechtliche Aspekte
+#+BEGIN_QUOTE
+*Die meisten Verfassungen erlauben in Krisenzeiten die Ausweitung der Exekutivgewalt.*
+ Infolgedessen können auch demokratisch gewählte Präsidenten in einem Krieg leicht die
+ Macht konzentrieren und die bürgerlichen Freiheiten bedrohen.
+#+END_QUOTE
+
+** Historische Beispiele von Krisenmissbrauch
+#+BEGIN_QUOTE
+*Das wohl bekannteste Beispiel ist Adolf Hitlers Reaktion auf den Reichstagsbrand am 27.
+ Februar 1933*, nur einen knappen Monat nach seiner Vereidigung als Reichskanzler. Die
+ Frage, ob ein junger Holländer mit kommunistischen Neigungen oder die NS-Führung selbst
+ das Feuer gelegt hat, ist unter Historikern weiterhin umstritten.
+#+END_QUOTE
+
+** Putins Aufstieg
+#+BEGIN_QUOTE
+*Auch Putins autoritäre Wende wurde durch eine Krise ermöglicht.* Im September 1999, kurz
+ nach seiner Ernennung zum Ministerpräsidenten, wurden bei mehreren Bombenanschlägen in
+ Moskau und anderen Städten – die vermutlich von tschetschenischen Terroristen verübt
+ wurden – annähernd dreihundert Menschen getötet.
+#+END_QUOTE
+
+* Polarisierung als Gefahr
+** Grundlegende Mechanismen
+#+BEGIN_QUOTE
+*Polarisierung kann demokratische Normen zerstören.* Wenn sozioökonomische, ethnische oder
+ religiöse Differenzen extrem parteilich werden, sodass sich die Gesellschaft in
+ politische Lager spaltet, deren Weltanschauungen nicht nur unterschiedlich sind, sondern
+ sich gegenseitig ausschließen, sind Toleranz und Achtung kaum noch aufrechtzuerhalten.
+#+END_QUOTE
+
+** Radikalisierung der Rhetorik
+#+BEGIN_QUOTE
+Palin griff die Ayers-Story auf und unterstellte Obama, er sei »mit Terroristen
+befreundet«. *Im Wahlkampfzug sagte sie zu ihren Anhängern, Obama habe »seine politische
+Laufbahn im Wohnzimmer eines einheimischen Terroristen« begonnen.*
+#+END_QUOTE
+* Gesellschaftliche Spaltung
+** Zunehmende Polarisierung
+#+BEGIN_QUOTE
+*1960 fragten Politologen Amerikaner, wie sie es fänden, wenn ihr Kind jemanden heiratete,
+ der sich mit der anderen Partei identifizierte. Vier Prozent der Demokraten und fünf
+ Prozent der Republikaner erklärten, dass es ihnen »missfallen« würde. 2010 bekundeten
+ hingegen 33 Prozent der Demokraten und 49 Prozent der Republikaner, sie wären über eine
+ Eheschließung über die Parteigrenzen hinweg »ziemlich oder sehr unglücklich«.*
+#+END_QUOTE
+
+** Demographischer Wandel
+#+BEGIN_QUOTE
+*Die ethnische Diversität der amerikanischen Gesellschaft ist nicht auf Weiße und Schwarze
+ beschränkt.* Seit den 1960er Jahren haben die Vereinigten Staaten eine massive
+ Einwanderung erlebt, zuerst aus Lateinamerika und dann aus Asien. Diese Einwanderung hat
+ die demographische Landkarte dramatisch verändert.
+#+END_QUOTE
+
+** Statusangst und Polarisierung
+#+BEGIN_QUOTE
+*1964 beschrieb der Historiker Richard Hofstadter unter der Überschrift »Der paranoide Stil
+ in der amerikanischen Politik« das Phänomen der »Statusangst«*, das nach seiner Ansicht
+ immer dann mit großer Wahrscheinlichkeit auftritt, wenn die soziale Stellung, Identität
+ und Zugehörigkeit einer Gruppe existentiell gefährdet zu sein scheinen.
+#+END_QUOTE
+
+* Trumps Präsidentschaft als Fallstudie                                                   :trump:
+** Erste Amtshandlungen
+#+BEGIN_QUOTE
+*Donald Trump folgte in seinem ersten Amtsjahr als amerikanischer Präsident einem bekannten
+ Drehbuch. Wie Alberto Fujimori, Hugo Chávez und Recep Tayyip Erdoğan begann Amerikas
+ neuer Präsident seine Amtszeit mit scharfen rhetorischen Angriffen auf seine Gegner.*
+#+END_QUOTE
+
+** Umgang mit Institutionen
+#+BEGIN_QUOTE
+*Präsident Trumps Verhalten gegenüber Gerichten, Strafverfolgungsbehörden,
+ Nachrichtendiensten und anderen unabhängigen Institutionen entsprach dem Lehrbuch für
+ autoritäre Politiker.* So kündigte er unverblümt an, mit Hilfe von Justizministerium und
+ FBI gegen Demokraten, allen voran Hillary Clinton, vorgehen zu wollen.
+#+END_QUOTE
+
+** Wahlrechtsverschärfungen
+#+BEGIN_QUOTE
+*Angesichts der Gefahr brachten führende Republikaner eine Lösung ins Gespräch, die
+ Erinnerungen an den Jim-Crow-Süden weckte: Sie wollten es Minderheitenangehörigen mit
+ geringem Einkommen erschweren, ihr Wahlrecht auszuben.*
+#+END_QUOTE
+
+** Wahlbetrugsnarrative
+#+BEGIN_QUOTE
+Als Grund für den Erlass eines Wähleridentifikationsgesetzes diente die falsche
+Behauptung, dass in den Vereinigten Staaten Wahlbetrug weit verbreitet sei. *Nach allen
+verlässlichen Untersuchungen ist das Ausmaß des Wahlbetrugs in diesem Land gering.*
+#+END_QUOTE
+
+** Entwicklung der Präsidentschaft
+#+BEGIN_QUOTE
+*Der Niedergang der Demokratie vollzieht sich häufig schrittweise und macht sich erst nach
+ und nach bemerkbar.* Vergleicht man Trumps erstes Amtsjahr mit demjenigen anderer
+ Möchtegern-Autokraten, ergibt sich ein gemischtes Bild.
+#+END_QUOTE
+
+* Rolle der öffentlichen Meinung
+** Bedeutung der Zustimmung
+#+BEGIN_QUOTE
+*Ein weiterer Faktor, von dem das Schicksal der amerikanischen Demokratie abhängt, ist die
+ öffentliche Meinung.* Wenn Möchtegern-Autokraten sich nicht auf das Militär stützen und
+ keine Massengewalt organisieren können, müssen sie andere Mittel finden.
+#+END_QUOTE
+
+** Krisen und Zustimmung
+#+BEGIN_QUOTE
+*Große Sicherheitskrisen – Kriege oder schwere Terrorangriffe – verändern das politische
+ Klima.* Sehr wahrscheinlich steigt die Zustimmung zur Regierung.
+#+END_QUOTE
+
+* Erosion demokratischer Normen
+** Normalisierung von Normbrüchen                                                        :trump:
+#+BEGIN_QUOTE
+*Wie der Kolumnist David Brooks schreibt, hat Trump »die Verhaltensmaßstäbe, die einst das
+ öffentliche Leben bestimmten, zerschmettert«.* Seine Partei hat ihn dafür mit der
+ Nominierung zum Präsidentschaftskandidaten belohnt.
+#+END_QUOTE
+
+** Manipulation der Wahrheit
+#+BEGIN_QUOTE
+*In den Vereinigten Staaten waren die Zahlen sogar noch dramatischer. Vor der Wahl von 2016
+ waren 84 Prozent der befragten republikanischen Wähler der Ansicht, dass in
+ amerikanischen Wahlen »in erheblichem Umfang« betrogen würde.*
+#+END_QUOTE
+
+** Wahrheitsverdrehung
+#+BEGIN_QUOTE
+*Die Neigung, öffentlich zu lügen, trat schon 2016 im Wahlkampf zutage.* PolitiFact stufte
+ 69 Prozent seiner öffentlichen Äußerungen als »überwiegend falsch« (21 Prozent), »falsch«
+ (33 Prozent) oder »himmelschreiend« (15 Prozent) ein.
+#+END_QUOTE
+
+** Gewöhnung an Normbrüche
+#+BEGIN_QUOTE
+*Menschen können nur in begrenztem Umfang mit Verhaltensweisen umgehen, die von gemeinsamen
+ Maßstäben abweichen.* Werden ungeschriebene Regeln ein ums andere Mal gebrochen, neigen
+ Gesellschaften, laut Moynihan, dazu, »Abweichung wegzudefinieren«.
+#+END_QUOTE
+
+* Zukunft der Demokratie
+** Bedeutung der Leitplanken
+#+BEGIN_QUOTE
+*Normen sind die weichen Leitplanken der Demokratie.* Werden sie zur Seite geräumt, weitet
+ sich der Bereich akzeptablen politischen Verhaltens aus und ermöglicht Worte und Taten,
+ die der Demokratie gefährlich werden können.
+#+END_QUOTE
+
+** Wahrscheinliches Zukunftsszenario                                                     :trump:
+#+BEGIN_QUOTE
+*Das dritte Szenario für eine Zukunft nach Trump, das wir für das wahrscheinlichste halten,
+ ist gekennzeichnet durch Polarisierung, die weitere Abkehr von ungeschriebenen
+ politischen Konventionen und eine sich verschärfende institutionelle Kriegführung.*
+#+END_QUOTE
+
+** Grundlegende demokratische Normen
+#+BEGIN_QUOTE
+*Dieses betrübliche Szenario unterstreicht eine Grundaussage dieses Buchs: Wann immer die
+ amerikanische Demokratie funktionierte, hat sie sich auf zwei Normen gestützt, die man
+ lange für selbstverständlich gehalten hat – gegenseitige Achtung und institutionelle
+ Zurückhaltung.*
+#+END_QUOTE
+
+** Definition von Demokratie
+#+BEGIN_QUOTE
+*Demokratie ist die wiederkehrende Vermutung, dass mehr als die Hälfte der Leute in mehr
+ als der Hälfte der Fälle recht hat.* Sie ist das Gefühl der Ungestörtheit in der
+ Wahlkabine, das Gefühl der Verbundenheit in der Bibliothek, das Gefühl der Lebendigkeit
+ überall.
+#+END_QUOTE
