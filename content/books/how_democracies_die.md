@@ -47,6 +47,25 @@ These are my notes (clustered and analysed using LLMs):
 >  ungarische Ministerpräsident Viktor Orbán.
 
 
+### Tolerierung von Gewalt {#tolerierung-von-gewalt}
+
+> **Trump brach mit dieser Tradition. In seinem Wahlkampf tolerierte er die Gewaltausübung
+> durch seine Anhänger und schien sich gelegentlich sogar an ihr zu weiden.** In einem
+> radikalen Bruch mit etablierten Normen des menschlichen Anstands billigte Trump es nicht
+> nur, wenn seine Anhänger gewaltsam gegen Demonstranten vorgingen, er ermunterte sie auch
+> dazu. Er bot an, die Rechtskosten für einen seiner Anhänger zu übernehmen, der bei einer
+> Kundgebung in Fayetteville in North Carolina auf einen Demonstranten einschlug und ihn mit
+> dem Tod bedrohte.
+>
+> **»Wenn ihr jemanden seht, der eine Tomate werfen will, prügelt ihn windelweich, klar?
+>  Ernsthaft. Macht ihn fertig. Ich verspreche euch, die Rechtskosten zu bezahlen.
+>  Versprochen.«** (1. Februar 2016, Iowa)
+>
+> **»In der guten alten Zeit hätte man ihn in null Komma nichts vom Sitz gezerrt. Aber
+> heutzutage ist man politisch korrekt. Unser Land geht vor lauter politischer Korrektheit
+> zum Teufel.«** (26. Februar 2016, Oklahoma)
+
+
 ## Institutionelle Kontrolle und deren Aushöhlung {#institutionelle-kontrolle-und-deren-aushöhlung}
 
 
@@ -90,6 +109,22 @@ These are my notes (clustered and analysed using LLMs):
 >  mit denen Putin seine Macht in Russland festigte. Im Juli 2000, keine drei Monate nach
 >  seinem Amtsantritt als Präsident, lud er 21 der reichsten russischen Unternehmer in den
 >  Kreml ein.
+
+
+### Das Beispiel Chodorkowski {#das-beispiel-chodorkowski}
+
+> **Auch Michail Chodorkowski, Chef des riesigen Erdölkonzerns Yukos, ignorierte Putins
+> Warnung. Als reichster Mann Russlands – mit einem Vermögen von 15 Milliarden Dollar (laut
+> Forbes) – galt er als unantastbar.** Aber er überreizte sein Blatt. Als Liberaler, der Putin
+> ablehnte, begann er Oppositionsparteien, einschließlich der prowestlichen Jabloko,
+> großzügig zu unterstützen. Es kam so weit, dass nicht weniger als hundert Duma-Abgeordnete
+> in seinem Sinn abstimmten. Es ging das Gerücht um, dass er sich um das Präsidentenamt
+> bewerben wolle. **Angesichts dieser Gefahr ließ Putin seinen Widersacher 2003 unter dem
+> Vorwurf von Steuerhinterziehung, Unterschlagung und Betrug verhaften. Chodorkowski blieb
+> fast zehn Jahre im Gefängnis. Die Botschaft an die Oligarchen war klar: Haltet euch von
+> der Politik fern!** Fast alle taten es. Ihrer Geldquellen beraubt, wurden die
+> Oppositionsparteien immer schwächer, bis viele von ihnen schließlich ganz von der
+> politischen Bühne verschwanden.
 
 
 ## Krisen als Machtwerkzeuge {#krisen-als-machtwerkzeuge}
@@ -182,6 +217,25 @@ These are my notes (clustered and analysed using LLMs):
 >  neuer Präsident seine Amtszeit mit scharfen rhetorischen Angriffen auf seine Gegner.**
 
 
+### Detaillierte Medienattacken {#detaillierte-medienattacken}
+
+> **Im Februar 2017 bezeichnete Trump die Medien in einem Tweet als »Feinde des amerikanischen
+> Volks«, ein Begriff, der, wie Kritiker anmerkten, an einen von Stalin und Mao benutzten
+> Topos erinnerte.** Trumps Sprache hat häufig einen drohenden Unterton. Einige Tage nach dem
+> »Volksfeind«-Tweet sagte er vor dem Konservativen Politischen Aktionskomitee:
+>
+> »Ich liebe den ersten Verfassungszusatz; niemand liebt ihn mehr als ich. Niemand ... \*Aber
+> wie man während des ganzen Wahlkampfs gesehen hat und sogar jetzt noch [sieht], sagen die
+> fake news nicht die Wahrheit ... ich sage, sie repräsentieren nicht das Volk. Sie werden
+> niemals das Volk repräsentieren, und wir werden etwas dagegen tun.\*«
+>
+> **Auf die Frage eines Reporters, ob die Regierung dies tatsächlich vorhabe, erklärte der
+>  damalige Stabschef des Weißen Hauses Reince Priebus: »Ich denke, das ist etwas, das wir
+>  uns angesehen haben.«** Der ecuadorianische Präsident Rafael Correa hat einen solchen Weg
+>  eingeschlagen, und seine Multimillionen-Dollar-Verleumdungsklagen und die Verhaftung von
+>  Journalisten haben sich lähmend auf die Medien ausgewirkt.
+
+
 ### Umgang mit Institutionen {#umgang-mit-institutionen}
 
 > **Präsident Trumps Verhalten gegenüber Gerichten, Strafverfolgungsbehörden,
@@ -195,6 +249,27 @@ These are my notes (clustered and analysed using LLMs):
 > **Angesichts der Gefahr brachten führende Republikaner eine Lösung ins Gespräch, die
 >  Erinnerungen an den Jim-Crow-Süden weckte: Sie wollten es Minderheitenangehörigen mit
 >  geringem Einkommen erschweren, ihr Wahlrecht auszuben.**
+
+
+### Detaillierte Analyse der Wahlrechtseinschränkungen {#detaillierte-analyse-der-wahlrechtseinschränkungen}
+
+> **Die Gesetze wurden ausschließlich in Bundesstaaten verabschiedet, in denen die
+> Republikaner beide Häuser des Kongresses beherrschten, und abgesehen von Arkansas war auch
+> der Gouverneur in all diesen Staaten ein Republikaner.** Es kann kaum ein Zweifel daran
+> bestehen, dass die Gesetze sich hauptsächlich gegen Minderheiten richteten.
+> **Wähleridentifikationsgesetze haben fast sicher eine unverhältnismäßig große Wirkung auf
+> Minderheitenwähler mit geringem Einkommen: Laut einer Studie haben 37 Prozent der
+> Afroamerikaner und 27 Prozent der Latinos angegeben, keine gültige Fahrerlaubnis zu
+> besitzen, während es bei Weißen nur 16 Prozent waren**, und nach einer Untersuchung des
+> Brennan Center for Justice verfügen schätzungsweise elf Prozent der Amerikaner – oder 21
+> Millionen Wahlberechtigte – über keinen vom Staat ausgegebenen Identitätsnachweis; bei
+> Afroamerikanern sind es 25 Prozent.
+>
+> **Von den elf Bundesstaaten, in denen 2008 die Wahlbeteiligung von Afroamerikanern am
+>  höchsten war, haben sieben strengere Wähleridentifikationsgesetze beschlossen, und von
+>  den zwölf Bundesstaaten, in denen zwischen 2000 und 2010 das höchste Wachstum der
+>  hispanischen Bevölkerung verzeichnet wurde, haben neun Gesetze verabschiedet, die den
+>  Gang an die Wahlurne erschweren.**
 
 
 ### Wahlbetrugsnarrative {#wahlbetrugsnarrative}
