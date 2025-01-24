@@ -9,29 +9,32 @@ This is my personal book TODO list, along with the year in which I added the boo
 
 ## 2025 {#2025}
 
--   2025-01-20 ◦ [An Autobiography: The Story of My Experiments with Truth by Mahatma Gandhi | Goodreads](https://www.goodreads.com/book/show/873384)
--   2025-01-06 ◦ [Tao Te Ching by Lao Tzu | Goodreads](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)
--   2025-01-06 ◦ [The Enigma of Reason by Hugo Mercier | Goodreads](https://www.goodreads.com/book/show/32336635-the-enigma-of-reason)
+-   2025-01-23 ◦ [In Defense of Food: An Eater's Manifesto by Michael Pollan | Goodreads](https://www.goodreads.com/book/show/315425.In_Defense_of_Food)
+-   2025-01-23 ◦ [Academy of Nutrition and Dietetics Complete Food &amp; Nutrition Guide by Roberta Larson Duyff ](https://www.goodreads.com/book/show/34875667-academy-of-nutrition-and-dietetics-complete-food-nutrition-guide)
+-   2025-01-23 ◦ [Eat, Drink, and Be Healthy: The Harvard Medical School Guide to Healthy Eating by Walter C. Willett ](https://www.goodreads.com/book/show/5579.Eat_Drink_and_Be_Healthy)
+-   2025-01-20 ◦ [An Autobiography: The Story of My Experiments with Truth by Mahatma Gandhi ](https://www.goodreads.com/book/show/873384)
+-   2025-01-06 ◦ [Tao Te Ching by Lao Tzu ](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)
+-   2025-01-06 ◦ [The Enigma of Reason by Hugo Mercier ](https://www.goodreads.com/book/show/32336635-the-enigma-of-reason)
 
 
 ## 2024 {#2024}
 
--   2024-11-22 ◦ [Earth for All: A Survival Guide for Humanity by Sandrine Dixson-Decleve | Goodreads](https://www.goodreads.com/book/show/60878390-earth-for-all?from_search=true&from_srp=true&qid=Iy5nhrUUux&rank=1)
--   2024-10-08 ◦ [Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment by Grady Hillhouse | Goodreads](https://www.goodreads.com/book/show/60690050-engineering-in-plain-sight)
--   2024-06-19 ◦ [26 Marathons: What I Learned About Faith, Identity, Running, and Life from My Marathon Career by Meb Keflezighi | Goodreads](https://www.goodreads.com/book/show/37901578-26-marathons)
--   2024-06-19 ◦ [What I Talk About When I Talk About Running by Haruki Murakami | Goodreads](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
--   2024-06-19 ◦ [How to Do Nothing: Resisting the Attention Economy by Jenny Odell | Goodreads](https://www.goodreads.com/book/show/42771901-how-to-do-nothing)
+-   2024-11-22 ◦ [Earth for All: A Survival Guide for Humanity by Sandrine Dixson-Decleve ](https://www.goodreads.com/book/show/60878390-earth-for-all?from_search=true&from_srp=true&qid=Iy5nhrUUux&rank=1)
+-   2024-10-08 ◦ [Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment by Grady Hillhouse ](https://www.goodreads.com/book/show/60690050-engineering-in-plain-sight)
+-   2024-06-19 ◦ [26 Marathons: What I Learned About Faith, Identity, Running, and Life from My Marathon Career by Meb Keflezighi ](https://www.goodreads.com/book/show/37901578-26-marathons)
+-   2024-06-19 ◦ [What I Talk About When I Talk About Running by Haruki Murakami ](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
+-   2024-06-19 ◦ [How to Do Nothing: Resisting the Attention Economy by Jenny Odell ](https://www.goodreads.com/book/show/42771901-how-to-do-nothing)
 -   2024-05-23 ◦ [Get Better at Anything - Scott H Young](https://www.scotthyoung.com/blog/getbetter/)
--   ✅ 2024-04-02 ◦ [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat | Goodreads](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat) ([Notes of Salz.Fett.Säure.Hitze]({{< relref "../books/salz_fett_saeure_hitze.md" >}}))
+-   ✅ 2024-04-02 ◦ [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat ](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat) ([Notes of Salz.Fett.Säure.Hitze]({{< relref "../books/salz_fett_saeure_hitze.md" >}}))
 
 
 ## 2023 {#2023}
 
 -   2023-01-24 ◦ [The Origins of Totalitarianism by Hannah Arendt](https://www.goodreads.com/book/show/396931.The_Origins_of_Totalitarianism)
 -   ✅ 2023-01-25 ◦ [The Ministry for the Future by Kim Stanley Robinson](https://www.goodreads.com/en/book/show/50998056-the-ministry-for-the-future)
--   2023-02-02 ◦ [Words Can Change Your Brain: 12 Conversation Strategies to Build Trust, Resolve Conflict, and Increase Intimacy by Andrew B. Newberg | Goodreads](https://www.goodreads.com/book/show/13542827-words-can-change-your-brain)
--   2023-02-02 ◦ [The Righteous Mind: Why Good People Are Divided by Politics and Religion by Jonathan Haidt | Goodreads](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
--   2023-10-31 ◦ [Jaws: The Story of a Hidden Epidemic by Sandra Kahn | Goodreads](https://www.goodreads.com/en/book/show/35804366)
+-   2023-02-02 ◦ [Words Can Change Your Brain: 12 Conversation Strategies to Build Trust, Resolve Conflict, and Increase Intimacy by Andrew B. Newberg ](https://www.goodreads.com/book/show/13542827-words-can-change-your-brain)
+-   2023-02-02 ◦ [The Righteous Mind: Why Good People Are Divided by Politics and Religion by Jonathan Haidt ](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
+-   2023-10-31 ◦ [Jaws: The Story of a Hidden Epidemic by Sandra Kahn ](https://www.goodreads.com/en/book/show/35804366)
 -   Amplifying Our Humanity Through AI]]
 
 
