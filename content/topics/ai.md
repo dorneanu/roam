@@ -1,8 +1,13 @@
 +++
 title = "AI"
-author = ["Cyneox"]
+author = ["Dorneanu"]
 draft = false
 +++
+
+## LLM {#llm}
+
+-   2025-01-30  [Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223)
+
 
 ## Tools {#tools}
 

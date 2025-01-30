@@ -3,6 +3,8 @@
 :END:
 #+title: AI
 
+* LLM
+- 2025-01-30  [[https://arxiv.org/pdf/2501.09223][Foundations of Large Language Models]]
 * Tools
 ** For writing
 - [[https://jenni.ai/][Jenni Al]]

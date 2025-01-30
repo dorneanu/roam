@@ -1,6 +1,6 @@
 +++
 title = "Golang"
-author = ["Victor Dorneanu"]
+author = ["Dorneanu"]
 tags = ["coding", "golang"]
 draft = false
 +++
@@ -44,21 +44,6 @@ draft = false
 -   2023-01-20 ◦ [GitHub - lifadev/archive_aws-cloudformation-go-customres: Author your AWS CloudFormation Custom Resources in Go.](https://github.com/lifadev/archive_aws-cloudformation-go-customres)
 
 
-### Fun {#fun}
-
--   2023-11-30 ◦ [A chalk bag (gopher style)](https://www.reddit.com/r/climbing/comments/182v1rd/i_made_a_chalk_bag_for_my_husband)
--   2023-09-13 ◦ [GitHub - MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack)
-    -   ✨ This pack of 100+ gopher pictures and elements will help you to build own
-        design of almost anything related to Go Programming Language: presentations,
-        posts in blogs or social media, courses, videos and many, many more.
--   2023-05-15 ◦ [Go Proverbs](https://go-proverbs.github.io/)
-
-
-### Botnets {#botnets}
-
--   2022-08-22 ◦ [GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR](https://github.com/ThrillQuks/Pitraix)
-
-
 ### Books {#books}
 
 -   2024-05-06 ◦ [Concurrency in Go](https://katherine.cox-buday.com/concurrency-in-go/)
@@ -66,10 +51,9 @@ draft = false
 -   2023-10-11 ◦ [Learn Go with Pocket-Sized Projects ](https://www.manning.com/books/learn-go-with-pocket-sized-projects)
 
 
-### Concurrency {#concurrency}
+### Botnets {#botnets}
 
--   2023-12-07 ◦ [Learn Concurrent Programming with Go](https://www.manning.com/books/learn-concurrent-programming-with-go?utm_source=cutajarj&utm_medium=affiliate&utm_campaign=book_cutajar_learn_12_14_22&a_aid=cutajarj&a_bid=4360d6bb) (Book)
--   2023-03-27 ◦ [CodePilot | Synchronization Patterns in Go](https://code-pilot.me/synchronization-patterns-in-go)
+-   2022-08-22 ◦ [GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR](https://github.com/ThrillQuks/Pitraix)
 
 
 ### Comparisons {#comparisons}
@@ -78,15 +62,26 @@ draft = false
 -   2023-01-16 ◦ [Go devs that learned Rust, what are your thoughts on it?](https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/) ([Rust]({{< relref "rust.md" >}}))
 
 
+### Concurrency {#concurrency}
+
+-   2023-12-07 ◦ [Learn Concurrent Programming with Go](https://www.manning.com/books/learn-concurrent-programming-with-go?utm_source=cutajarj&utm_medium=affiliate&utm_campaign=book_cutajar_learn_12_14_22&a_aid=cutajarj&a_bid=4360d6bb) (Book)
+-   2023-03-27 ◦ [CodePilot | Synchronization Patterns in Go](https://code-pilot.me/synchronization-patterns-in-go)
+
+
+### Contexts {#contexts}
+
+-   2024-06-19 ◦ [Putting Go's Context package into context](https://blog.meain.io/2024/golang-context/)
+
+
 ### Design Patterns {#design-patterns}
 
 -   2023-12-04 ◦ [Favourite Golang Design Patterns](https://www.reddit.com/r/golang/comments/1887y1b/favorite_golang_design_patterns/)
 -   2022-09-05 ◦ [GoF Design patterns that still make sense in Go](https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5)
 
 
-### Frontend {#frontend}
+### EDA {#eda}
 
--   2023-04-11 ◦ [Best front-end stack for Golang backend](https://www.reddit.com/r/golang/comments/10nw07z/best_frontend_stack_for_golang_backend/)
+-   2023-10-23 ◦ [Build an Event-Driven Uptime Monitor in Go 🚀 - DEV Community](https://dev.to/encore/building-an-event-driven-uptime-monitor-in-go-3jdd)
 
 
 ### Error handling {#error-handling}
@@ -97,19 +92,24 @@ draft = false
 -   2022-12-22 ◦ [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
 
 
-### EDA {#eda}
+### Frontend {#frontend}
 
--   2023-10-23 ◦ [Build an Event-Driven Uptime Monitor in Go 🚀 - DEV Community](https://dev.to/encore/building-an-event-driven-uptime-monitor-in-go-3jdd)
+-   2023-04-11 ◦ [Best front-end stack for Golang backend](https://www.reddit.com/r/golang/comments/10nw07z/best_frontend_stack_for_golang_backend/)
+
+
+### Fun {#fun}
+
+-   2023-11-30 ◦ [A chalk bag (gopher style)](https://www.reddit.com/r/climbing/comments/182v1rd/i_made_a_chalk_bag_for_my_husband)
+-   2023-09-13 ◦ [GitHub - MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack)
+    -   ✨ This pack of 100+ gopher pictures and elements will help you to build own
+        design of almost anything related to Go Programming Language: presentations,
+        posts in blogs or social media, courses, videos and many, many more.
+-   2023-05-15 ◦ [Go Proverbs](https://go-proverbs.github.io/)
 
 
 ### HTTP {#http}
 
 -   2022-10-25 ◦ [Go and Proxy Servers: Part 1 - HTTP Proxies - Eli Bendersky's website](https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/)
-
-
-### Contexts {#contexts}
-
--   2024-06-19 ◦ [Putting Go's Context package into context](https://blog.meain.io/2024/golang-context/)
 
 
 ### Internals {#internals}
@@ -136,12 +136,9 @@ draft = false
     -   Some good recommendation for advanced Go learning resources
 
 
-### Plugins {#plugins}
+### Kubernetes {#kubernetes}
 
--   2023-05-09 ◦ [RPC-based plugins in Go - Eli Bendersky's website](https://eli.thegreenplace.net/2023/rpc-based-plugins-in-go/)
-    -   shows how to use [go-plugin](https://github.com/hashicorp/go-plugin) from Hashicorp
-    -   talks about pros and cons between shared libraries (RPC based) and Golang's
-        built-in [plugin](https://pkg.go.dev/plugin)
+-   2025-01-30 ◦ [So you wanna write Kubernetes controllers?](https://ahmet.im/blog/controller-pitfalls/)
 
 
 ### Malware {#malware}
@@ -189,6 +186,14 @@ draft = false
     -   Visualize cloud microservices architecture
 -   2022-08-25 ◦ [go-zero](https://github.com/zeromicro/go-zero)
     -   A cloud-native Go [Microservices]({{< relref "microservices.md" >}}) framework with cli tool for productivity.
+
+
+### Plugins {#plugins}
+
+-   2023-05-09 ◦ [RPC-based plugins in Go - Eli Bendersky's website](https://eli.thegreenplace.net/2023/rpc-based-plugins-in-go/)
+    -   shows how to use [go-plugin](https://github.com/hashicorp/go-plugin) from Hashicorp
+    -   talks about pros and cons between shared libraries (RPC based) and Golang's
+        built-in [plugin](https://pkg.go.dev/plugin)
 
 
 ### reddit {#reddit}
