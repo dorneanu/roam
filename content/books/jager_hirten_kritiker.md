@@ -11,16 +11,16 @@ draft = false
 
 ## Der erste Kontakt {#der-erste-kontakt}
 
-Über Marx und Engels Vision des Kommunismus
+Über Marx und Engels Vision des **Kommunismus**
 
 > Berühmter noch ist das Urbild, das Karl Marx und Friedrich Engels entwarfen. Besoffen von
 > ihren Ideen, ihrer noch jungen Freundschaft und reichlich gutem Wein definieren sie 1845
-> in ihrem Brüsseler Exil das erste Mal, was »Kommu-nismus sein soll: eine Gesellschaft, die
+> in ihrem Brüsseler Exil das erste Mal, was » **Kommunismus** sein soll: **eine Gesellschaft, die
 > es jedem ermögliche, heute dies, morgen jenes zu tun, morgens zu jagen, nach-mittags zu
 > fischen, abends Viehzucht zu treiben, nach dem Essen zu kritisieren, wie ich gerade Lust
-> habe, ohne je Jäger, Fischer, Hirt oder Kritiker zu werden. Die klassenlose Ge-sellschaft,
+> habe, ohne je Jäger, Fischer, Hirt oder Kritiker zu werden. Die klassenlose Gesellschaft,
 > träumen die beiden jungen Männer, werde den totalen Menschen schaffen. Und aus
-> gesellschaftlicher Ar-beit wird freie Tätigkeit. (S.8)
+> gesellschaftlicher Arbeit wird freie Tätigkeit**. (S.8)
 
 
 ## DIE REVOLUTION {#die-revolution}
@@ -31,31 +31,31 @@ draft = false
 Entwicklung zum **Prosumenten**
 
 > Was früher Ausbildungsberufe waren, erledigen in Zukunft Roboter. Und vieles, was ehedem
-> Fachkräfte machten, erledi gen die Kunden an ihren Flachbildschirmen selbst. Die
-> Ent-wicklung zum Prosumenten, zum produzierenden Konsu menten, ist älter als die
+> Fachkräfte machten, erledigen die Kunden an ihren Flachbildschirmen selbst. Die
+> Entwicklung zum Prosumenten, zum produzierenden Konsumenten, ist älter als die
 > Digitalisierung. Man erinnere sich, wie in Deutschland seit den Sechzigerjahren
 > Supermärkte den Einzelhandel mit Lebensmitteln ersetzten. Der Discounter war nicht nur
-> billiger, weil er größer war, sondern auch, weil Kun-den sich nun selbst bedienten und
+> billiger, weil er größer war, sondern auch, weil Kunden sich nun selbst bedienten und
 > damit Personal eingespart wurde. Das Gleiche gilt für den Kaffee- wie den
-> Fahrkarten-automaten in den Achtziger- und Neunzigerjahren und für die Selbstbaukünste des
-> IKEA-Käufers. Das Prinzip des arbeiten-den Kunden im digitalen Zeitalter ist nichts als
-> die konse quente Fortführung dieser Selbstbedienung: Reisen buchen, am Flughafen
-> einchecken, Kleider und Bücher bestellen, Uber-weisungen ausführen und so weiter. (S.25)
+> Fahrkartenautomaten in den Achtziger- und Neunzigerjahren und für die Selbstbaukünste des
+> IKEA-Käufers. **Das Prinzip des arbeitenden Kunden im digitalen Zeitalter ist nichts als
+> die konsequente Fortführung dieser Selbstbedienung: Reisen buchen, am Flughafen
+> einchecken, Kleider und Bücher bestellen, Uberweisungen ausführen und so weiter**. (S.25)
 
 
 ### Wir dekorieren auf der Titanic die Liegestühle um {#wir-dekorieren-auf-der-titanic-die-liegestühle-um}
 
 Über Individualität im digitalen Zeitalter
 
-> Fine Wirtschaftsform, die man aufgrund ihrer Erfolge verständli-cherweise bejaht, paart
-> sich mit einem Kultur- und Wertever lust, den man ebenso nachvollziehbar betrauert. Was
-> soll In-dividualität - also wörtlich: Unteilbarkeit sein, wenn der Mensch in Millionen
+> Fine Wirtschaftsform, die man aufgrund ihrer Erfolge verständlicherweise bejaht, paart
+> sich mit einem Kultur- und Werteverlust, den man ebenso nachvollziehbar betrauert. **Was
+> soll Individualität - also wörtlich: Unteilbarkeit sein, wenn der Mensch in Millionen
 > Daten zerlegt und als so gewonnenes Profil eingetütet und an die Meistbietenden verkauft
-> wird, um ihn zu manipulieren, käufliche Dinge zu begehren? Spürbarer und sichtbarer noch
+> wird, um ihn zu manipulieren, käufliche Dinge zu begehren?** **Spürbarer und sichtbarer noch
 > sind der Lärm, die Geschwindigkeit, die Dauerwerbung und der Aufmerksamkeitsraub, die in
-> die so-zialen Räume eindringen, ins gemeinsame Essen mit Kindern am Tisch, die
+> die sozialen Räume eindringen, ins gemeinsame Essen mit Kindern am Tisch, die
 > Verbundenheit auflösen und Geborgenheit, Stille, Zurückgezogenheit und das Bei-sich-Sein-
-> zerschneiden. (S.38)
+> zerschneiden.** (S.38)
 
 
 ### Der Palo-Alto-Kapitalismus regiert die Welt {#der-palo-alto-kapitalismus-regiert-die-welt}
@@ -63,13 +63,13 @@ Entwicklung zum **Prosumenten**
 Über technische Abhängigkeit
 
 > Die Menschen haben verlernt Auto zu fahren, Karten zu lesen, sich alleine in der Welt
-> zurechtzufin-den. Sie müssen sich nichts mehr merken, weil elektronische Geräte uns an
+> zurechtzufinden. Sie müssen sich nichts mehr merken, weil elektronische Geräte uns an
 > alles erinnern, und speichern immer weniger Wissen über die Welt, weil Geräte dies für uns
-> übernehmen. Die meisten Menschen sind wieder zu Kleinkindern geworden, in ihrem Wissen
-> über die Welt, ihrer Abhängigkeit von (tech-nischer) Fürsorge und ihrem mangelnden
-> Lebensmut, ohne Hilfsgerät (oder bald einem Chip im Kopf) das Haus zu verlas-sen.
+> übernehmen. **Die meisten Menschen sind wieder zu Kleinkindern geworden, in ihrem Wissen
+> über die Welt, ihrer Abhängigkeit von (technischer) Fürsorge und ihrem mangelnden
+> Lebensmut, ohne Hilfsgerät (oder bald einem Chip im Kopf) das Haus zu verlassen.
 > Kommunizieren tun sie durch steinzeitliche Piktogramme, und infantil teilen sie die Welt
-> in Likes und Dislikes. (S.73)
+> in Likes und Dislikes.** (S.73)
 
 
 ## DIE UTOPIE {#die-utopie}
@@ -77,8 +77,8 @@ Entwicklung zum **Prosumenten**
 
 ### Grundsätzliche These zur Arbeit {#grundsätzliche-these-zur-arbeit}
 
-> Zu arbeiten, etwas zu gestalten, sich selbst zu verwirklichen liegt in der Natur des
-> Menschen. Von neun bis fünf in einem Büro zu sitzen und dafür Lohn zu bekommen nicht!
+> **Zu arbeiten, etwas zu gestalten, sich selbst zu verwirklichen liegt in der Natur des
+> Menschen. Von neun bis fünf in einem Büro zu sitzen und dafür Lohn zu bekommen nicht!**
 > (S.114)
 
 
@@ -86,30 +86,33 @@ Entwicklung zum **Prosumenten**
 
 Über den Leistungsmythos
 
-> Dosch gerade für viele Menschen in der Bundesrepublik Deutschland ist der Leistungs Mythos
-> fur ihr Selbstbewust lem entscheidend. Wer als Kind eines Arbeiters, Bauern oder
+> Dosch gerade für viele Menschen in der Bundesrepublik Deutschland ist der Leistungsmythos
+> fur ihr Selbstbewust lem entscheidend. **Wer als Kind eines Arbeiters, Bauern oder
 > Handwerkers in der zweiten Hälfte des 20. Jahrhunderts durch Fleiß, Beharrlichkeit und
-> Studium Ingenieur, Elektro-reshniker, Kleinunternehmer, Manager oder Verbandspräsi det
-> wurde, sieht sich selbst als lebenden Beweis fur das Funk-nonieren der
-> Leistungsgesellschaft. Und doch, so scheint es, war die Zeit des kollektiven Aufstiegs in
-> der alten Bundes-republik cher ein Ausnahmefenster als die Regel. Dass die Karriere nur
-> etwas mit innerer Einstellung und Moral zu tun haben soll, ist ein lieb gewonnenes
-> Märchen, das dem eige nen Werdegang besonderen Glanz gibt. Tatsächlich aber war das
-> kulturelle Umfeld damals ein anderes als heute, und die Aufstiegschancen und Anreize waren
-> besser. Und wenn heu-te in Deutschland pro Jahr 400 Milliarden Euro schlichtweg vererbt
-> werden, ist der Begriff Leistungsgesellschaft- kaum mehr als ein Euphemismus." Die
-> Leistungsgesellschaft ist eine Fiktion; allerdings für je den, den sie motiviert, eine
-> nützliche. Sie erzeugt ein gesell-schaftliches Klima und eine Haltung und sei es auch
-> einzig durch die normative Kraft des Fiktiven. Man sollte die Leis-tungsgesellschaft
+> Studium Ingenieur, Elektrotechiker, Kleinunternehmer, Manager oder Verbandspräsident
+> wurde, sieht sich selbst als lebenden Beweis fur das Funknonieren der
+> Leistungsgesellschaft.**
+>
+> Und doch, so scheint es, war die Zeit des kollektiven Aufstiegs in der alten
+> Bundesrepublik eher ein Ausnahmefenster als die Regel. **Dass die Karriere nur etwas mit
+> innerer Einstellung und Moral zu tun haben soll, ist ein lieb gewonnenes Märchen, das dem
+> eige nen Werdegang besonderen Glanz gibt.** Tatsächlich aber war das kulturelle Umfeld
+> damals ein anderes als heute, und die Aufstiegschancen und Anreize waren besser. Und wenn
+> heute in Deutschland pro Jahr 400 Milliarden Euro schlichtweg vererbt werden, ist der
+> Begriff Leistungsgesellschaft- kaum mehr als ein Euphemismus."
+>
+> Die Leistungsgesellschaft ist eine Fiktion; allerdings für jeden, den sie motiviert, eine
+> nützliche. Sie erzeugt ein gesellschaftliches Klima und eine Haltung und sei es auch
+> einzig durch die normative Kraft des Fiktiven. Man sollte die Leistungsgesellschaft
 > deshalb nicht völlig kleinreden. Aber über höhen sollte man sie auch nicht. Denn man
-> stelle sich nur ein-mal vor, wir unterzögen das hehre Prinzip der Leistung einem echten
+> stelle sich nur einmal vor, wir unterzögen das hehre Prinzip der Leistung einem echten
 > Belastungstest. Wie viel Leistungsgerechtigkeit verträgt unsere Gesellschaft? Der
-> englische Soziologe Michael Dunlop Young erfand 1958 augenzwinkernd die Idee einer
-> Merito-kratie einer Herrschaft der Verdienste." Jeder Mensch sollte aufgrund seiner
-> tatsächlichen Leistung beurteilt und ent-lohnt werden. Alle anderen Kriterien - Herkunft,
-> Beziehun-gen, Protektion und Glück gehörten eliminiert. Natürlich ist das völlig
-> unrealistisch. Was ich leiste, ist ja nicht nur eine Frage meiner Verdienste, sondern
-> ebenso ein Verdienst ande rer. Meiner Eltern zum Beispiel, die mir Talente vererbt ha ben
+> englische **Soziologe Michael Dunlop Young erfand 1958 augenzwinkernd die Idee einer
+> Meritokratie, einer Herrschaft der Verdienste**." **Jeder Mensch sollte aufgrund seiner
+> tatsächlichen Leistung beurteilt und entlohnt werden. Alle anderen Kriterien - Herkunft,
+> Beziehun-gen, Protektion und Glück gehörten eliminiert.** Natürlich ist das völlig
+> **unrealistisch. Was ich leiste, ist ja nicht nur eine Frage meiner Verdienste, sondern
+> ebenso ein Verdienst anderer.** Meiner Eltern zum Beispiel, die mir Talente vererbt ha ben
 > und mich durch ihre Erziehung prägten. Meiner Lehrer vielleicht noch und meines sozialen
 > Umfelds. Keiner ist seiner Leistung alleiniger Urheber. Aber trotzdem, noch einmal fragt,
 > wäre eine echte Leistungsgesellschaft wünschenswert? (S.115)
@@ -117,16 +120,16 @@ Entwicklung zum **Prosumenten**
 
 ### Frei leben {#frei-leben}
 
-Über das bedingungslose Grundeinkommen
+Über das bedingungslose **Grundeinkommen**
 
-> Wirbt man in Deutschland für das BGE, das bedingungslo-se Grundeinkommen, das jeder Bürger
-> unabhängig von seiner Bedürftigkeit erhalten soll, kommt als Erstes reflexartig die Frage:
-> Wer soll das bezahlen? Die Frage - so automatisiert, dass augenscheinlich keiner danach
-> fragt, warum man sie so-gleich stellt - ist befremdlich. Warum sollte sich das BGE nicht
-> finanzieren lassen? Schließlich leben wir im reichsten Deutsch-land, das es je gab. Und
-> die Produktivität steigt durch die Di-gitalisierung noch einmal rasant an. Computer und
-> Roboter kosten keine Sozialabgaben, beziehen keine Rente, kein Ur-laubs- oder Müttergeld.
-> Sie schlafen nicht, sondern arbeiten ohne Mühen Tag und Nacht. (S.129)
+> Wirbt man in Deutschland für das BGE, das bedingungslose Grundeinkommen, das jeder Bürger
+> unabhängig von seiner Bedürftigkeit erhalten soll, kommt **als Erstes reflexartig die Frage**:
+> **Wer soll das bezahlen?** Die Frage - so automatisiert, dass augenscheinlich keiner danach
+> fragt, warum man sie sogleich stellt - ist befremdlich. **Warum sollte sich das BGE nicht
+> finanzieren lassen? Schließlich leben wir im reichsten Deutschland, das es je gab. Und
+> die Produktivität steigt durch die Digitalisierung noch einmal rasant an. Computer und
+> Roboter kosten keine Sozialabgaben, beziehen keine Rente, kein Urlaubs- oder Müttergeld.
+> Sie schlafen nicht, sondern arbeiten ohne Mühen Tag und Nacht.** (S.129)
 
 Über die negative Einkommenssteuer
 
@@ -209,68 +212,68 @@ Entwicklung zum **Prosumenten**
 
 Über Liberalismus und Sozialismus
 
-> Für eines Liberalen ist es gerecht, wenn jeder die gleiche Chance hn, zu Wohlstand zu
+> **Für eines Liberalen ist es gerecht, wenn jeder die gleiche Chance hat, zu Wohlstand zu
 > gelangen, unbegrenzt nach oben. Für eines Sozialisten ist es gerecht, wenn jeder das
-> gleiche Stück sus Kuchen abbekommt. Keine dieser Vorstellungen ist, philos phisch
+> gleiche Stück ausm Kuchen abbekommt.** Keine dieser Vorstellungen ist, philosophisch
 > betrachtet, von Natur aus gerechter als die andere Kein Wunder, dass die soziale
 > Marktwirtschaft sich stets um einen Ausgleich beider Vorstellungen bemüht, allerdings un
 > ter sich wandelnden ökonomischen Bedingungen. Wenn der Wohlfahrtsstaat bedroht ist, dann
-> deshalb, weil sich die glo bale Ökonomie rasant verändert. (S.142)
+> deshalb, weil sich die globale Ökonomie rasant verändert. (S.142)
 
 
 ### Gute Ideen für den Tag {#gute-ideen-für-den-tag}
 
 Über die Entfremdung durch Technologie
 
-> Die Aufgabe ist damit klar markiert: in einer Zeit radi kaliserten Effizienzdenkens das
-> Andere der Effizienz wiedes zuentdecken! Denn die technische Entwicklung, so wie das
+> Die Aufgabe ist damit klar markiert: in einer Zeit radikaliserten Effizienzdenkens das
+> Andere der Effizienz wieder zuentdecken! \* Denn die technische Entwicklung, so wie das
 > Silicon Valley sie erträumt und predigt, macht uns nicht Supermenschen, sondern zu Wesen,
-> die ohne Hilfsminel nichts mehr können. Unser handwerkliches Können erlischt, unser
-> sprachlicher Ausdruck reduziert sich, unser Gedächt nis, ausgelagert in Memory-Funktionen,
-> lässt nach, unsere Fantasie besteht aus vorgefertigten Bildern, unsere Kreati tät folgt
+> die ohne Hilfsmittel nichts mehr können.\* **Unser handwerkliches Können erlischt, unser
+> sprachlicher Ausdruck reduziert sich, unser Gedächtnis, ausgelagert in Memory-Funktionen,
+> lässt nach, unsere Fantasie besteht aus vorgefertigten Bildern, unsere Kreatität folgt
 > ausschließlich technischen Mustern, unsere Neugier weicht der Bequemlichkeit, unsere
-> Geduld permanenter Us geduld; den Zustand der Nicht-Bespaßung halten wir niche mehr aus.
-> Wenn so der Supermensch aussicht-wer wollte dann einer sein? (S.154)
+> Geduld permanenter Ungeduld; den Zustand der Nicht-Bespaßung halten wir niche mehr aus.
+> Wenn so der Supermensch aussicht - wer wollte dann einer sein?** (S.154)
 
 Über den Wert repetitiver Tätigkeiten
 
-> Wenn Google-Vi-zepräsident Sebastian Thrun sagt: Wir Menschen sollten kei-ne repetitiven
-> Dinge tun. Dafür sind wir doch zu schade, scheint er nicht zu wissen, was ein Mensch ist.
-> Das menschli-che Leben ist voller repetitiver Dinge, für die man sich nicht zu schade sein
-> sollte: Essen, Trinken, Schlafen, Sich-den-Tag-Er-zählen, Sich-Umarmen, Kochen,
-> Miteinander-ins-Bett-Gehen. Zu einem erfüllten Leben gehören für die meisten Menschen ein
-> Maß an Gleichförmigkeit und lieb gewordene Rituale. Das Besondere daran ist: Nicht jede
-> dieser Tätigkeiten hat ein äußeres Ziel. Man braucht es nicht tun, um zu überleben, und
+> Wenn Google-Vizepräsident Sebastian Thrun sagt: **Wir Menschen sollten keine repetitiven
+> Dinge tun.** Dafür sind wir doch zu schade, scheint er nicht zu wissen, was ein Mensch ist.
+> Das menschliche Leben ist voller repetitiver Dinge, für die man sich nicht zu schade sein
+> sollte: Essen, Trinken, Schlafen, Sich-den-Tag-Erzählen, Sich-Umarmen, Kochen,
+> Miteinander-ins-Bett-Gehen. **Zu einem erfüllten Leben gehören für die meisten Menschen ein
+> Maß an Gleichförmigkeit und lieb gewordene Rituale.** **Das Besondere daran ist: Nicht jede
+> dieser Tätigkeiten hat ein äußeres Ziel.** Man braucht es nicht tun, um zu überleben, und
 > man verdient damit auch kein Geld. Karten oder Fußball zu spielen, seinen Garten zu
 > verschönern, sein Aquarium zu pilegen, einen Hund zu halten oder sich gemeinsam zu
-> betrin-ken ist weder überlebensförderlich, noch macht es im finan-ziellen Sinne reich (von
+> betrin-ken ist weder überlebensförderlich, noch macht es im finanziellen Sinne reich (von
 > Berufszockern, Hundezüchtern usw. einmal abgesehen). All das gilt in der Gesellschaft auch
-> nicht als Leistung; im Gegensatz zu Tätigkeiten wie ein Versiche-rungsimperium aufzubauen
-> oder gefährliche Pflanzenschutz-mittel in alle Welt zu verkaufen.
+> nicht als Leistung; im Gegensatz zu Tätigkeiten wie ein Versicherungsimperium aufzubauen
+> oder gefährliche Pflanzenschutzmittel in alle Welt zu verkaufen.
 >
-> Wertvoll wird eine Tätigkeit für Menschen nicht zwangs-läufig dadurch, dass sie einem
-> gesellschaftlich als wichtig crachteten Ziel dient. Vieles hat seinen Zweck schlichtweg in
-> sich selbst: Ich tue etwas, weil ich es gerne tue. Eine sol-che Zweckmäßigkeit ohne Zweck
+> **Wertvoll wird eine Tätigkeit für Menschen nicht zwangsläufig dadurch, dass sie einem
+> gesellschaftlich als wichtig erachteten Ziel dient. Vieles hat seinen Zweck schlichtweg in
+> sich selbst: Ich tue etwas, weil ich es gerne tue.** Eine solche Zweckmäßigkeit ohne Zweck
 > erachtete Immanuel Kant schon vor mehr als zweihundert Jahren als das Wesen der Kunst.
 > Nichts anderes meinte Oscar Wilde, als er den Menschen der Zukunft als Künstler beschrieb
 > (S.157)
 
-Kritik am Konzept des Übermenschen
+Kritik am **Konzept des Übermenschen**
 
 > Wer den Menschen überwinden und einen Supermenschen hervorbringen will, dem fehlt es an
-> Menschenliebe oder an sittlicher Reife-oder an beidem. Eigentlich gehört er auf die Couch.
-> Doch wer soll ihm sagen, dass er einer Therapie be darf, wenn man mit diesem Denken und
-> Streben so formida bel Geld verdienen kann? So lässt man dem Mythos freien Lauf, die
-> Geschichte der Menschheit sei bereits evolutionar vorgezeichnet. Und am Ende steht das
-> Technozän mit seiner Verschmelzung von Mensch und Maschine, oder aber, im un günstigeren
-> Fall, die Diktatur der autonom gewordenen Ma-schinen. Nicht anders hatten schon die
+> Menschenliebe oder an sittlicher Reife -oder an beidem. Eigentlich gehört er auf die Couch.
+> Doch wer soll ihm sagen, dass er einer Therapie bedarf, wenn man mit diesem Denken und
+> Streben so formidabel Geld verdienen kann? So lässt man dem Mythos freien Lauf, die
+> Geschichte der Menschheit sei bereits evolutionär vorgezeichnet. Und am Ende steht das
+> **Technozän** mit seiner Verschmelzung von Mensch und Maschine, oder aber, im un günstigeren
+> Fall, die Diktatur der autonom gewordenen Maschinen. Nicht anders hatten schon die
 > Christen im Mittelalter ein Tausendjahriges Reich Gottes auf Erden vorausgesagt und die
 > Nationalsozialisten die Vorsehung bemüht, die ihusen gleichsam naturgesetzlich ein solches
-> bescheren sollte. Aber man darf sich beruhigen: Einen wirklich perfekten Superme schen hat
-> das Silicon Valley zu keinem Zeitpunkt im Auge Nur unperfekte Menschen garantieren, dass
+> bescheren sollte. **Aber man darf sich beruhigen: Einen wirklich perfekten Supermeschen hat
+> das Silicon Valley zu keinem Zeitpunkt im Auge. Nur unperfekte Menschen garantieren, dass
 > sie sich auch Zukunft von jeder Kaufempfehlung anreizen, von jeder Manipulation verführen
-> lassen. Ein perfekter Mensch, Herr sei-ner Antriebe und Durchschauer seiner Umwelt, ist
-> des Valleys Tod... (S.162)
+> lassen. Ein perfekter Mensch, Herr seiner Antriebe und Durchschauer seiner Umwelt, ist
+> des Valleys Tod...** (S.162)
 
 Über Zeit und Geld
 
