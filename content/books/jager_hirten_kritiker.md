@@ -15,12 +15,12 @@ draft = false
 
 > Berühmter noch ist das Urbild, das Karl Marx und Friedrich Engels entwarfen. Besoffen von
 > ihren Ideen, ihrer noch jungen Freundschaft und reichlich gutem Wein definieren sie 1845
-> in ihrem Brüsseler Exil das erste Mal, was » **Kommunismus** sein soll: **eine Gesellschaft, die
-> es jedem ermögliche, heute dies, morgen jenes zu tun, morgens zu jagen, nach-mittags zu
-> fischen, abends Viehzucht zu treiben, nach dem Essen zu kritisieren, wie ich gerade Lust
-> habe, ohne je Jäger, Fischer, Hirt oder Kritiker zu werden. Die klassenlose Gesellschaft,
-> träumen die beiden jungen Männer, werde den totalen Menschen schaffen. Und aus
-> gesellschaftlicher Arbeit wird freie Tätigkeit**. (S.8)
+> in ihrem Brüsseler Exil das erste Mal, was » **Kommunismus** sein soll: **eine Gesellschaft,
+> die es jedem ermögliche, heute dies, morgen jenes zu tun, morgens zu jagen, nach-mittags
+> zu fischen, abends Viehzucht zu treiben, nach dem Essen zu kritisieren, wie ich gerade
+> Lust habe, ohne je Jäger, Fischer, Hirt oder Kritiker zu werden. Die klassenlose
+> Gesellschaft, träumen die beiden jungen Männer, werde den totalen Menschen schaffen. Und
+> aus gesellschaftlicher Arbeit wird freie Tätigkeit**. (S.8)
 
 
 ## DIE REVOLUTION {#die-revolution}
@@ -84,7 +84,16 @@ Entwicklung zum **Prosumenten**
 
 ### Die Maschinen arbeiten – die Arbeiter singen {#die-maschinen-arbeiten-die-arbeiter-singen}
 
-Über den Leistungsmythos
+Über den Leistungsmythos:
+
+-   Das Konzept der Leistungsgesellschaft ist eine Fiktion, die jedoch für viele Menschen
+    motivierend wirkt.
+-   Sie erzeugt ein gesellschaftliches Klima und eine Haltung durch ihre normative Kraft.
+-   Die Idee einer Meritokratie, einer Herrschaft der Verdienste, ist unrealistisch, da
+    niemand alleine Urheber seiner Leistung ist.
+-   Es zählen auch Faktoren wie Herkunft, Beziehungen, Protektion und Glück.
+-   Eine echte Leistungsgesellschaft wäre nicht wünschenswert, sondern es sollte vielmehr
+    ein realistisches Verständnis von Leistung und Erfolg entwickelt werden.
 
 > Dosch gerade für viele Menschen in der Bundesrepublik Deutschland ist der Leistungsmythos
 > fur ihr Selbstbewust lem entscheidend. **Wer als Kind eines Arbeiters, Bauern oder
@@ -126,12 +135,25 @@ Entwicklung zum **Prosumenten**
 > unabhängig von seiner Bedürftigkeit erhalten soll, kommt **als Erstes reflexartig die Frage**:
 > **Wer soll das bezahlen?** Die Frage - so automatisiert, dass augenscheinlich keiner danach
 > fragt, warum man sie sogleich stellt - ist befremdlich. **Warum sollte sich das BGE nicht
-> finanzieren lassen? Schließlich leben wir im reichsten Deutschland, das es je gab. Und
-> die Produktivität steigt durch die Digitalisierung noch einmal rasant an. Computer und
-> Roboter kosten keine Sozialabgaben, beziehen keine Rente, kein Urlaubs- oder Müttergeld.
-> Sie schlafen nicht, sondern arbeiten ohne Mühen Tag und Nacht.** (S.129)
+> finanzieren lassen? Schließlich leben wir im reichsten Deutschland, das es je gab. Und die
+> Produktivität steigt durch die Digitalisierung noch einmal rasant an. Computer und Roboter
+> kosten keine Sozialabgaben, beziehen keine Rente, kein Urlaubs- oder Müttergeld. Sie
+> schlafen nicht, sondern arbeiten ohne Mühen Tag und Nacht.** (S.129)
 
 Über die negative Einkommenssteuer
+
+-   Das Ulmer Transfergrenzenmodell (TGM) und das Solidarische Bürgergeld sind Varianten
+    einer negativen Einkommensteuer in Deutschland.
+-   Die meisten Modelle setzen das Grundeinkommen auf um die 1000 Euro an, auch bei
+    Hartz-IV-Empfängern eine Verschlechterung der Bezüge vor.
+-   Das Ziel ist ein Abbau der Bürokratie und finanziell bessere Anreize für den Erwerb von
+    Einkommen.
+-   Die Idee der negativen Einkommenssteuer stammt aus den Vierzigerjahren und wurde von
+    Milton Friedman in den Sechzigern populär gemacht.
+-   Das Konzept wird als abstrus betrachtet, wenn die Erwerbsarbeit in Zukunft für Millionen
+    Menschen verloren gehen wird.
+-   Die alte Idee der negativen Einkommenssteuer enthält keine Lösung für diese neue
+    Situation.
 
 > Ein ebenfalls beliebtes Konzept ist die negative Einkom-menssteuer, zu der in Deutschland
 > mehrere Varianten disku-nert werden, etwa das Ulmer Transfergrenzenmodell (TGM) oder das
@@ -158,6 +180,17 @@ Entwicklung zum **Prosumenten**
 > Lösung. (S.133)
 
 Über die Finanztransaktionssteuer
+
+-   Die Finanztransaktionssteuer soll die Spekulation auf den Finanzmärkten reduzieren und
+    Investitionen in die Realwirtschaft fördern.
+-   Der Vorteil überwiegt bei Weitem den Nachteil.
+-   Eine solche Steuer würde die Finanzmärkte stabiler machen und die Zockerei im
+    Börsencasino verringern.
+-   Die einzige erhebliche Einwendung ist die Furcht, dass die Finanzspekulanten sich immer
+    noch Möglichkeiten zum Umgehen der Steuer finden würden.
+-   Einrechnen müssten auch die mutmaßlichen Folgen für die Spekulation.
+-   Die Mikrosteur auf Finanztransaktionen könnte das Grundeinkommen in den reichen Ländern
+    sicher finanzieren.
 
 > Die Finanztransaktionssteuer wird vor allem deshalb disku-bert, um zu verhindern, dass
 > Spekulationen sich mehr lohnen als Investitionen in die Realwirtschaft. Angesichts des
@@ -261,9 +294,9 @@ Entwicklung zum **Prosumenten**
 Kritik am **Konzept des Übermenschen**
 
 > Wer den Menschen überwinden und einen Supermenschen hervorbringen will, dem fehlt es an
-> Menschenliebe oder an sittlicher Reife -oder an beidem. Eigentlich gehört er auf die Couch.
-> Doch wer soll ihm sagen, dass er einer Therapie bedarf, wenn man mit diesem Denken und
-> Streben so formidabel Geld verdienen kann? So lässt man dem Mythos freien Lauf, die
+> Menschenliebe oder an sittlicher Reife -oder an beidem. Eigentlich gehört er auf die
+> Couch. Doch wer soll ihm sagen, dass er einer Therapie bedarf, wenn man mit diesem Denken
+> und Streben so formidabel Geld verdienen kann? So lässt man dem Mythos freien Lauf, die
 > Geschichte der Menschheit sei bereits evolutionär vorgezeichnet. Und am Ende steht das
 > **Technozän** mit seiner Verschmelzung von Mensch und Maschine, oder aber, im un günstigeren
 > Fall, die Diktatur der autonom gewordenen Maschinen. Nicht anders hatten schon die
@@ -272,10 +305,19 @@ Kritik am **Konzept des Übermenschen**
 > bescheren sollte. **Aber man darf sich beruhigen: Einen wirklich perfekten Supermeschen hat
 > das Silicon Valley zu keinem Zeitpunkt im Auge. Nur unperfekte Menschen garantieren, dass
 > sie sich auch Zukunft von jeder Kaufempfehlung anreizen, von jeder Manipulation verführen
-> lassen. Ein perfekter Mensch, Herr seiner Antriebe und Durchschauer seiner Umwelt, ist
-> des Valleys Tod...** (S.162)
+> lassen. Ein perfekter Mensch, Herr seiner Antriebe und Durchschauer seiner Umwelt, ist des
+> Valleys Tod...** (S.162)
 
 Über Zeit und Geld
+
+-   Der Leitspruch "Zeit ist Geld" wird kaum hinterfragt, obwohl er irrig ist.
+-   Geld kann die menschliche Lebenszeit nicht verlängern.
+-   Zeit und Geld haben äußerst verschiedene Eigenschaften: Geld kann geteilt werden, Zeit
+    nicht.
+-   Eine Zeitsparkasse gibt es nur in Michael Endes Momo.
+-   Verhaltensweisen wie Fast Food, Speed Dating, Power Napping oder Multitasking sparen uns
+    keine Zeit, sondern nur andere Art der Verwendung derselben Lebenszeit.
+-   "Immer mehr ist oft immer weniger".
 
 > Dabei wird kaum hinterfragt, dass der Leitspruch Zeit ist Geld ziemlich irrig ist. Mit
 > Geld lässt sich die menschliche Lebenszeit oft nicht verlängern. Auch so haben Zeit und
@@ -289,6 +331,17 @@ Kritik am **Konzept des Übermenschen**
 > weniger. (S.165)
 
 Über Bildung in der digitalen Gesellschaft
+
+-   Es geht nicht nur um digitales Know-how: Es geht um die Persönlichkeitsbildung und die
+    Fähigkeit, ein erfülltes Leben zu leben.
+-   Die Ziele von Bildung sollten nicht allein am Arbeitsmarkt ausgerichtet sein, sondern
+    auch an der Förderung von Traditionen, Händen und Werten.
+-   Es braucht Menschen, die sich für andere Menschen einsetzen, sich kümmern und
+    alternative Gesellschaftsmodelle entwickeln.
+-   Eine Gesellschaft, die nur auf Erfolg im digitalen Umfeld abzielt, ist weder möglich
+    noch wunschenswert.
+-   Die Bildung soll nicht dazu dienen, die höchstmöglichen Unternehmergewinne zu erzielen,
+    sondern Menschen heranzuziehen, die ihre Werte und Hände bewahren.
 
 > Deutschland muss mehr für die Bildung tun! Doch was ist damit gemeint? Vereinfacht gesagt,
 > treffen hier zwei Posi tionen aufermander, die gegensätzlicher nicht sein können. Für
@@ -330,12 +383,20 @@ Kritik am **Konzept des Übermenschen**
 
 Kritik an der Effizienzoptimierung
 
+-   Viele visionäre Ideen aus Silicon Valley sind bei näherer Hinsicht keine.
+-   Manche entwickeln Technologie ohne Menschenkenntnis und Beachtung von gesellschaftlichen
+    Bedürfnissen.
+-   Effizienz sollte nicht als höchster Maßstab angesehen werden, da sie den Tod bedeuten
+    würde (den Zustand, in dem sich nichts mehr verändern lässt).
+-   Das Leben ist wider-ständig, unberechenbar und unausgegoren, was es lebenswert und
+    aufregend macht.
+
 > Viele visionäre Ideen, die aus dem Silicon Valley kommen, sind bei näherer Hinsicht keine.
 > Nicht wenigen mangelt es an Menschenkenntnis. Und ersonnen wird, was die Technologie
 > hergibt, und nicht, was viele Menschen oder die Gesellschaft dringend brauchen. Vieles,
 > was sich technisch perfektionie-ren lässt, muss und sollte, wie gesagt, gar nicht
 > perfektioniert werden jedenfalls nicht, ohne damit Folgen zu produzieren, die niemand im
-> Sinn hat und keiner tragen will. Man stel-le sich des Ernstes halber einmal eine
+> Sinn hat und keiner tragen will. Man stelle sich des Ernstes halber einmal eine
 > Gesellschaft vor, in der alles effizient und perfekt optimiert ist was kommt eigent-lich
 > dann? Nichts kann mehr verändert oder variiert werden, ohne die Dinge weniger effizient zu
 > machen. Und was bedeu-tet es eigentlich, Effizienz als höchsten Maßstab anzulegen Der
@@ -347,6 +408,14 @@ Kritik an der Effizienzoptimierung
 > unausgegoren und uneindeutig-und gerade das macht es lebenswert und aufregend! (S.182)
 
 Über Freiheit und Verantwortung
+
+-   Philosophen der Aufklärung wie Kant, Schiller und Herder argumentierten gegen ein Leben
+    ohne Erleben von Außergewöhnlichem.
+-   Sie strebten nach einer Gesellschaft, in der sich Menschen im Fortschritt ihrer Kultur
+    tätig am Leben abarbeiten und reifen.
+-   Freiheit bedeutet Verantwortung gegenüber sich selbst und anderen übernehmen, nicht
+    betreuen lassen werden.
+-   Technischer Fortschritt muss Verantwortung nicht verringern, sondern erhöhen.
 
 > Ein betreutes Leben jedenfallh, in dem einem alles abgenommen wird, das Praktische ebenso
 > wie das Erleben von Außergewöhnlichem, ist kein Mensch heitsfortschritt. Statt mit
@@ -377,6 +446,18 @@ Kritik an der Effizienzoptimierung
 
 Über soziale Normen und Transparenz
 
+-   Kein System sozialer Normen kann perfekte Verhaltenstransparenz ohne sich zu Tode erenn.
+-   Eine Gesellschaft, die jede Verhaltensabweichung aufdeckt, würde die Geltung ihrer
+    Normen ruinieren.
+-   Normen haben zwangsläufig etwas Starres, Unverbindliches, Fixiertes und stets auch etwas
+    Überforderndes.
+-   Grauzonen sind notwendig für Sozialleben und Moral; Regelverstöße gehören zum
+    menschlichen Leben dazu.
+-   Der Begriff "Regelverstoß" ist hochgradig kulturell bedingt.
+-   Wenn alle gegen die Norm verstoßen, wird der Normverstoß belangloser.
+-   Je mehr wir über die Verstöße der anderen wissen, umso gerechtfertigter erscheint unser
+    eigenes Fehlverhalten.
+
 > Kein System sozialer Normen könnte einer perfekten Verhaltenstransparenz ausgesetzt
 > werden, ohne sich zu Tode zu eren, schreibt der Soziologe Heinrich Popitz. Eine
 > Gesellschaft, die jede Verhaltensabweichung aufdeckte, würde gesch die Geltung ihrer
@@ -402,6 +483,12 @@ Kritik an der Effizienzoptimierung
 
 Über den Konsumenten-Zuschauer-Bürger
 
+-   Der Konsumenten-Zuschauer-Bürger wird seine demokratische Macht an die großen
+    Digitalkonzerne abtreten?
+-   Robert Reich: Verbraucher und Anleger bekommen immer mehr Macht, Arbeitnehmer und Bürger
+    dagegen immer weniger
+-   Ist dieser Prozess alternativlos?
+
 > Wird der &gt;&gt;Konsumenten-Zuschauer-Bürger, wie Richard Sennett ihn nennt, seine
 > demokratische Macht an die großen Digitalkonzerne abtreten und sich seine Freiheit für
 > Annehmlichkeiten abkaufen lassen? Und stimmt es, was der ehemalige US-amerikanische
@@ -410,6 +497,17 @@ Kritik an der Effizienzoptimierung
 > dieser Prozess alternativlos? Oder lässt sich das ändern? (S.212)
 
 Über den Wandel des politischen Denkens
+
+-   Die Bindung an den Staat und die Parteien ist in den letzten Jahrzehnten abgenommen.
+-   Viele Menschen übertragen ihre Konditionierung als Konsumenten auf den Staat.
+-   Sie fragen nach direkten Vorteilen und Lösungen für Probleme, wie z.B.
+    Flüchtlingsproblem oder Umweltproblem.
+-   Wer von der Politik nur Lebenskomfort und Lösungen erwartet, hat sich vom politischen
+    Denken entfernt.
+-   Sozialtechnische Lösungen können sich hier durchsetzen.
+-   Die Vision einer "Smart City" basiert auf der Überwachung mit Sensoren und Kameras.
+-   Die Technologie kann alle Daten in einer Cloud verfügbar machen und die Menschen in
+    permanente Interaktion mit ihr bringen.
 
 > In den letzten Jahrzehnten ist die Bindung an den Staat, ins-besondere an die Parteien,
 > die die staatsbürgerliche Willensbil-dung mit verantworten sollen, stets geringer
