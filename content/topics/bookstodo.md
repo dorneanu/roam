@@ -9,7 +9,8 @@ This is my personal book TODO list, along with the year in which I added the boo
 
 ## 2025 {#2025}
 
--   2025-01-23 ◦ [In Defense of Food: An Eater's Manifesto by Michael Pollan | Goodreads](https://www.goodreads.com/book/show/315425.In_Defense_of_Food)
+-   2025-02-04 ◦ [Tito Puente and the Making of Latin Music by Steven Loza](https://www.goodreads.com/book/show/1311471.Tito_Puente_and_the_Making_of_Latin_Music)
+-   2025-01-23 ◦ [In Defense of Food: An Eater's Manifesto by Michael Pollan](https://www.goodreads.com/book/show/315425.In_Defense_of_Food)
 -   2025-01-23 ◦ [Academy of Nutrition and Dietetics Complete Food &amp; Nutrition Guide by Roberta Larson Duyff ](https://www.goodreads.com/book/show/34875667-academy-of-nutrition-and-dietetics-complete-food-nutrition-guide)
 -   2025-01-23 ◦ [Eat, Drink, and Be Healthy: The Harvard Medical School Guide to Healthy Eating by Walter C. Willett ](https://www.goodreads.com/book/show/5579.Eat_Drink_and_Be_Healthy)
 -   2025-01-20 ◦ [An Autobiography: The Story of My Experiments with Truth by Mahatma Gandhi ](https://www.goodreads.com/book/show/873384)
