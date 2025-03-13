@@ -9,6 +9,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 
 ## 2025 {#2025}
 
+-   2025-03-13 ◦ [Supercommunicators: How to Unlock the Secret Language of Connection by Charles Duhigg](https://www.goodreads.com/book/show/157981748-supercommunicators)
 -   2025-02-04 ◦ [Tito Puente and the Making of Latin Music by Steven Loza](https://www.goodreads.com/book/show/1311471.Tito_Puente_and_the_Making_of_Latin_Music)
 -   2025-01-23 ◦ [In Defense of Food: An Eater's Manifesto by Michael Pollan](https://www.goodreads.com/book/show/315425.In_Defense_of_Food)
 -   2025-01-23 ◦ [Academy of Nutrition and Dietetics Complete Food &amp; Nutrition Guide by Roberta Larson Duyff ](https://www.goodreads.com/book/show/34875667-academy-of-nutrition-and-dietetics-complete-food-nutrition-guide)
@@ -110,6 +111,3 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   [Designing Data-Intensive Applications](https://dataintensive.net/)
 -   [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/work/best_book/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software) ([DDD]({{< relref "ddd.md" >}}))
 -   [Software Engineering at Google](https://abseil.io/resources/swe-book)
-
-
-### Society {#society}
