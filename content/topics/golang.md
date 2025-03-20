@@ -308,5 +308,6 @@ A collection of interesting threads.
 
 ### Blogs {#blogs}
 
+-   2025-03-13 ◦ [Mohamed Said](https://themsaid.com/)
 -   2024-03-27 ◦ [Ozan Sazak](https://sazak.io/)
 -   2024-03-27 ◦ [Learning Go in 2024; From Beginner to Senior](https://www.bytesizego.com/blog/learning-golang-2024)
