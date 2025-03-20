@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       E0696062-6C03-42BB-9C88-EBB2DBF3F057
+:END:
+#+title: Roland MC-101
+
+* Resources
+- 2025-03-20 ◦ [[https://sites.google.com/view/rolandmc101/home][Roland MC-101 Tips & Tricks]]
+* Youtube Channels
