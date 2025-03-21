@@ -24,6 +24,7 @@ draft = false
 
 ### Architecture {#architecture}
 
+-   2025-03-20 ◦ [GitHub - fe3dback/go-arch-lint: GoLang architecture linter (checker) tool](https://github.com/fe3dback/go-arch-lint) ([from this reddit discussion)](https://www.reddit.com/r/golang/comments/1j4tfe8/how_to_avoid_boilerplate_when_initializing/)
 -   2023-01-19 ◦ [Go project written in clean code architecture : golang](https://www.reddit.com/r/golang/comments/zskzgu/go_project_written_in_clean_code_architecture/)
 -   2022-10-04 ◦ [Auto-generated C4 Architecture Diagrams in Go](https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/) ([PlantUML]({{< relref "plantuml.md" >}}))
 -   2022-08-16 ◦ [Service Discovery with Go and mDNS](https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2)

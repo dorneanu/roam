@@ -12,6 +12,7 @@
 - 2024-07-02 ◦ [[https://www.innoq.com/en/blog/2024/06/grpc/][gRPC - What, why and How]]
   - how to use protobuf for a Golang project
 ** Architecture
+- 2025-03-20 ◦ [[https://github.com/fe3dback/go-arch-lint][GitHub - fe3dback/go-arch-lint: GoLang architecture linter (checker) tool]] ([[https://www.reddit.com/r/golang/comments/1j4tfe8/how_to_avoid_boilerplate_when_initializing/][from this reddit discussion)]]
 - 2023-01-19 ◦ [[https://www.reddit.com/r/golang/comments/zskzgu/go_project_written_in_clean_code_architecture/][Go project written in clean code architecture : golang]]
 - 2022-10-04 ◦ [[https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/][Auto-generated C4 Architecture Diagrams in Go]] ([[id:ecaa327d-ead3-4e0c-80e4-af9343f68e66][PlantUML]])
 - 2022-08-16 ◦ [[https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2][Service Discovery with Go and mDNS]]
