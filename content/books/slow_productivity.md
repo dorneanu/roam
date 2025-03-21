@@ -1,7 +1,5 @@
 +++
-title = """
-  Slow Productivity Organized Highlights from "Slow Productivity"
-  """
+title = "Slow Productivity"
 author = ["Dorneanu"]
 date = 2025-03-12
 tags = ["productivity", "book"]
