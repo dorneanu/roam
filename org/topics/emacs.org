@@ -158,6 +158,55 @@ When you are collecting text using append-to-register and prepend-to-register, y
 - 2023-01-05 ◦ [[https://www.adventuresinwhy.com/post/org-mode-timekeeping/][Timekeeping with Emacs and Org-Mode | Adventures in Why]]
 ** Searching
 - 2023-12-19 ◦ [[http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html][nfdn: Improving Emacs isearch Usability with Transient]]
+*** isearch
+**** Emacs Isearch Commands
+From https://emacsredux.com/blog/2025/03/18/you-have-no-idea-how-powerful-isearch-is/
+
+#+CAPTION: Isearch Commands
+| Command              | Description                                                         |
+|----------------------+---------------------------------------------------------------------|
+| =C-s=                  | Start incremental search forward                                    |
+| =C-r=                  | Start incremental search backward                                   |
+| =C-s= (during search)  | Find next match forward                                             |
+| =C-r= (during search)  | Find next match backward                                            |
+| =DEL=                  | Cancel last input item from end of search string                    |
+| =RET=                  | Exit search, leaving point at location found                        |
+| =C-j= (LFD)            | Match end of line                                                   |
+| =M-s M-<=              | Go to the first match                                               |
+| =M-s M->=              | Go to the last match                                                |
+| =C-w=                  | Yank next word or character in buffer onto the end of search string |
+| =C-M-d=                | Delete character from end of search string                          |
+| =C-M-y=                | Yank character from buffer onto end of search string                |
+| =C-M-z=                | Yank from point until next instance of specified character          |
+| =M-s C-e=              | Yank rest of line onto end of search string                         |
+| =C-y=                  | Yank the last string of killed text                                 |
+| =M-y=                  | Replace string just yanked with string killed before it             |
+| =C-q=                  | Quote control character to search for it                            |
+| =C-x 8 RET=            | Add a character to search by Unicode name (with completion)         |
+| =C-g= (search fails)   | Cancel input back to what has been found successfully               |
+| =C-g= (search success) | Abort and move point to starting point                              |
+| =M-s c=                | Toggle search case-sensitivity                                      |
+| =M-s i=                | Toggle search in invisible text                                     |
+| =M-s r=                | Toggle regular-expression mode                                      |
+| =M-s w=                | Toggle word mode                                                    |
+| =M-s _=                | Toggle symbol mode                                                  |
+| =M-s '=                | Toggle character folding                                            |
+| =M-s SPC=              | Toggle whitespace matching                                          |
+| =M-s e=                | Edit the search string in the minibuffer                            |
+| =M-n=                  | Search for next item in the search ring                             |
+| =M-p=                  | Search for previous item in the search ring                         |
+| =C-M-i=                | Complete search string using the search ring                        |
+| =M-s .=                | Search for the symbol at point                                      |
+| =M-s M-.=              | Search for the thing (word/symbol/region) at point                  |
+| =C-h b=                | Show all available keybindings during isearch                       |
+
+**** Additional Features
+- *Search Ring*: Isearch maintains a ring of the previous 16 search strings that you can cycle through.
+- *Region Search*: You can mark a region and use =M-s M-.= to search for other instances of that text.
+- *Isearch Customization*: Over 30 options available via =M-x customize-group isearch=.
+- *Motion commands in isearch*: Enable with =(setq isearch-allow-motion t
+  isearch-motion-changes-direction t)= to use navigation commands like =M-<=, =M->=, =C-v=, and
+  =M-v= during search.
 ** Productivity
 - 2023-09-06 ◦ [[https://zck.org/emacs-repeat-mode-emacs-repeat-mode][Easily repeat Emacs functions: a repeat post]]
 - 2023-04-25 ◦ [[https://github.com/karthink/project-x][GitHub - karthink/project-x: Ehancements to Emacs' built in project library.]]
