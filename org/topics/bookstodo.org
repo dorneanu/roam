@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       402CFA24-E7D7-424D-807C-7EC2309DA2EB
+:END:
 #+created: 20200918184135289
 #+modified: 20220424180131801
 #+revision: 0
@@ -6,6 +9,8 @@
 This is my personal book TODO list, along with the year in which I added the book to the list.
 
 * 2025
+- 2025-04-01 ◦ [[https://www.goodreads.com/book/show/37510504-werde-bernat-rlich?from_search=true&from_srp=true&qid=SusRcalO7r&rank=1][Werde übernatürlich: Wie gewöhnliche Menschen das Ungewöhnliche erreichen by Joe Dispenza]]
+- 2025-04-01 ◦ [[https://www.goodreads.com/en/book/show/216843823-sustain-me][Sustain Me: A Handbook of Natural Remedies, The 9 Foundational Pillars for Health by Barbara O’neill]]
 - 2025-03-13 ◦ [[https://www.goodreads.com/book/show/157981748-supercommunicators][Supercommunicators: How to Unlock the Secret Language of Connection by Charles Duhigg]]
 - 2025-02-04 ◦ [[https://www.goodreads.com/book/show/1311471.Tito_Puente_and_the_Making_of_Latin_Music][Tito Puente and the Making of Latin Music by Steven Loza]]
 - 2025-01-23 ◦ [[https://www.goodreads.com/book/show/315425.In_Defense_of_Food][In Defense of Food: An Eater's Manifesto by Michael Pollan]]
