@@ -1,0 +1,11 @@
+<!-- Updated social links -->
+<!-- Using .Site.Params.Social instead of .Site.Social -->
+{{ with .Site.Params.Social }}
+<div class="social-links">
+  {{ range . }}
+  <a href="{{ .url }}" target="_blank" class="social-link">
+    <i class="fab fa-{{ .name }}"></i>
+  </a>
+  {{ end }}
+</div>
+{{ end }}

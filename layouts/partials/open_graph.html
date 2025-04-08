@@ -1,0 +1,57 @@
+<!-- Updated Open Graph tags with new Hugo syntax -->
+<meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+
+{{- if .IsPage }}
+{{- if not .PublishDate.IsZero }}
+<meta property="article:published_time" content="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }}">
+{{- else if not .Date.IsZero }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}">
+{{- end }}
+{{- if not .Lastmod.IsZero }}
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}">
+{{- end }}
+{{- else }}
+{{- if not .Date.IsZero }}
+<meta property="og:updated_time" content="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}">
+{{- end }}
+{{- end }}
+
+{{- with .Params.images }}
+{{- range first 6 . }}
+<meta property="og:image" content="{{ . | absURL }}">
+{{- end }}
+{{- else }}
+{{- with .Site.Params.images }}
+<meta property="og:image" content="{{ index . 0 | absURL }}">
+{{- end }}
+{{- end }}
+
+<!-- Using .Site.Params.Social instead of .Site.Social -->
+{{- with .Site.Params.Social }}
+{{- range . }}
+{{- if .name }}
+<meta property="article:author" content="{{ .name }}">
+{{- end }}
+{{- end }}
+{{- end }}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+
+<!-- Using .Site.Params.Author instead of .Site.Authors -->
+{{- with .Site.Params.Author }}
+<meta name="twitter:site" content="@{{ . }}">
+{{- end }}
+
+{{- with .Params.images }}
+<meta name="twitter:image" content="{{ index . 0 | absURL }}">
+{{- else }}
+{{- with .Site.Params.images }}
+<meta name="twitter:image" content="{{ index . 0 | absURL }}">
+{{- end }}
+{{- end }}
