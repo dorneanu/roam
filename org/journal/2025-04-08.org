@@ -1,0 +1,111 @@
+:PROPERTIES:
+:ID:       CB115AE4-C4BE-4792-9DD1-8C3756F359FD
+:END:
+#+TITLE: 2025-04-08
+#+DATE: 2025-04-08
+#+FILETAGS: :architecture:golang:journal:
+
+* Podcast on Clean Architecture
+Today I was listening to
+https://threedots.tech/episode/is-clean-architecture-overengineering/ where the authors
+were discussing the pros & cons of "Clean Architecture / Hexagonal Architecture / Ports &
+Adapters". The summarization (through notebook LLM):
+
+#+begin_quote
+While the sources primarily discuss Clean Architecture, they note that Hexagonal
+Architecture (also known as Ports and Adapters) shares a similar core idea of separating
+domain from infrastructure. Therefore, the benefits attributed to Clean Architecture in
+the sources can also be considered benefits of Hexagonal Architecture. Here are the
+highlighted benefits:
+
+- *Separation of concerns*: Clean Architecture, and by extension Hexagonal Architecture,
+  aims to separate the "interesting code" (domain logic) from the "boring code"
+  (implementation details like databases or external APIs). This separation makes the
+  codebase easier to understand and maintain.
+- *Improved maintainability*: By isolating the domain logic, changes to infrastructure or
+  external dependencies are less likely to impact the core business rules, leading to more
+  maintainable code.
+- *Easier testing*: The separation of concerns facilitates testing. Domain logic can be
+  tested in isolation without relying on external systems, making tests faster and more
+  reliable. Implementation details can be tested separately through integration tests.
+- *Flexibility and replaceability of dependencies*: The Dependency Inversion Principle, a
+  core concept in these architectures, allows for the use of interfaces to define
+  dependencies. This makes it easier to replace one implementation detail with another,
+  such as switching databases or external services.
+- *Better organization for complex projects with larger teams*: Clean Architecture is
+  particularly beneficial for organizing work in complex projects that will grow over time
+  and involve larger teams. The layered structure and separation of concerns provide a
+  clear framework for collaboration.
+- *Parallel development*: By agreeing on interfaces between layers, different team members
+  can work on separate parts of a feature concurrently, speeding up development time.
+- *Reduced cognitive overload*: A well-structured architecture makes it easier to reason
+  about the codebase because the responsibilities of different parts of the application
+  are clearly defined.
+- *Onboarding new team members*: The clear structure can make it easier for new developers
+  to understand the codebase and contribute more quickly.
+- *Extensibility*: The architecture facilitates the addition of new features and
+  functionalities over time with a lower risk of introducing side effects.
+- *Improved team communication*: A shared understanding of the architectural patterns
+  provides a common vocabulary for discussing design and implementation details.
+- *Insulation of changes*: Modifications in one layer are less likely to affect other
+  layers, reducing the risk of unintended consequences.
+- *Improved navigation*: The consistent structure makes it easier to locate specific parts
+  of the code, such as entry points or data access logic. However, the sources also
+  caution that it's easy to go too far with these architectures, leading to
+  overengineering, especially for small projects or teams. Understanding the "why" behind
+  the pattern is crucial to avoid unnecessary complexity. Starting simple and evolving the
+  architecture as needed is recommended.
+#+end_quote
+
+How to do that in [[id:b2831721-165d-4943-a41a-da770d96be41][Golang]]:
+
+#+begin_quote
+Drawing on the sources, the authors suggest a pragmatic approach to layering in Go
+projects, rather than a strict, fixed number of layers. They highlight that Clean
+Architecture, which shares core ideas with Hexagonal and Onion Architectures, typically
+involves three or four layers depending on the complexity of your application.
+
+The layers they commonly discuss are:
+
+- *Adapters*: This layer handles external communication and includes things like databases,
+  API clients, and entry points to your application such as HTTP handlers, gRPC handlers,
+  message queues, and CLIs. The authors note this layer is usually quite "boring" and maps
+  your code onto external code.
+- *Application/Use Cases/Controllers (or Entry Points/Ports/Interfaces)*: This layer
+  contains the logic or orchestration of your application. It defines HTTP handlers, gRPC
+  handlers, message handlers, and even CLI entry points. A key benefit of this layer is
+  that it allows you to have different entry points for the same underlying operation.
+- *Domain*: This is an optional layer containing the pure business logic, free of any
+  database or adapter concerns. The authors suggest this layer is more useful for complex
+  domains and that it's often better to see in code than to just talk about.
+#+end_quote
+
+The authors emphasize the following key points regarding layers in Go projects:
+
+#+begin_quote
+- *Start Simple and Evolve*: Don't force a complex architecture from the beginning if your
+  project doesn't need it yet. It's better to let the architecture evolve over time.
+- *Focus on Separation of Concerns*: The core idea is to separate your "interesting code"
+  (domain logic) from the "boring code" (implementation details).
+- *Inversion of Control*: Use interfaces to achieve inversion of control of dependencies.
+- *Layers as Concepts, Not Just Directories*: The layers are more conceptual groupings of
+  code rather than strict directory structures, although they often manifest as such.
+- *Be Cautious with Too Many Layers*: If you find yourself with more than four layers, be
+  very careful and question their necessity.
+- *Consider Project Complexity*: Clean Architecture is most beneficial for complex projects
+  with larger teams. For smaller, simpler projects, it can be overengineering. Sometimes
+  even within the same project, different modules might have varying levels of domain
+  complexity and may not require all the layers.
+- *Go-Specific Considerations*: Go's implicit interfaces are a valuable feature that aligns
+  well with Clean Architecture. You can define interfaces close to where they are used,
+  making implementation convenient. Be wary of the anti-pattern of using a single model
+  for everything; different layers might benefit from having their own distinct data
+  structures, especially in more complex domains.
+#+end_quote
+
+* Good example of implementing Clean Architecture
+
+Also, I came across
+https://www.reddit.com/r/golang/comments/1jr7vya/built_a_full_ecommerce_backend_in_go_using_grpc/
+which mentions https://github.com/rasadov/EcommerceAPI. Here is the discussion I had with
+[[https://claude.site/artifacts/b6e97383-df90-4df1-aab5-d7a04f9f41f0][Claude]].
