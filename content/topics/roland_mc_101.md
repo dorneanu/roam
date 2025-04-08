@@ -6,6 +6,7 @@ draft = false
 
 ## Resources {#resources}
 
+-   2025-04-08 ◦ [Discover &amp; share drum machine patterns.](https://drumpatterns.onether.com/)
 -   2025-03-20 ◦ [Roland MC-101 Tips &amp; Tricks](https://sites.google.com/view/rolandmc101/home)
 
 
