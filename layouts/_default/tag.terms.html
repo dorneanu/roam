@@ -1,0 +1,39 @@
+{{ define "main" }}
+<main class="center mv4 content-width ph3">
+  <h1 class="f2 fw6 heading-font">{{ .Title }}</h1>
+  {{ .Content }}
+  
+  {{ $paginator := .Paginate .Data.Pages 20 }}
+  
+  <ul class="list-pages">
+    {{ range $paginator.Pages }}
+      <li class="lh-copy"><a href="{{ .Permalink | relURL }}" class="link f5">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+  
+  <!-- Simple Pagination controls -->
+  {{ if gt $paginator.TotalPages 1 }}
+  <div class="pagination-controls flex justify-center items-center mt4 pt3 bt b--light-gray">
+    {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray mr2">« Prev</a>
+    {{ else }}
+      <span class="f6 ba ph3 pv2 mb2 dib moon-gray o-30 mr2">« Prev</span>
+    {{ end }}
+    
+    <span class="f6 gray mh2">
+      Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
+    </span>
+    
+    {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray ml2">Next »</a>
+    {{ else }}
+      <span class="f6 ba ph3 pv2 mb2 dib moon-gray o-30 ml2">Next »</span>
+    {{ end }}
+  </div>
+  {{ end }}
+</main>
+
+<div class="pagination tc db fixed-l bottom-2-l right-2-l mb3 mb0-l">
+{{ partial "back-to-top.html" . }}
+</div>
+{{ end }}

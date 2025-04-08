@@ -8,8 +8,8 @@ CanonifyUrls =  true
 BuildDrafts =  true
 # Updated pagination settings for Hugo v0.128.0+
 [pagination]
-path = "p"
-pagerSize = 8
+path = "page"
+pagerSize = 20
 DisablePathToLower =  false
 HasCJKLanguage = true
 PreserveTaxonomyNames = false
@@ -130,7 +130,7 @@ books = "/book/:title"
   Weight = 20
 [[Menu.Main]]
   Name = "Journal"
-  URL = "/tags/journal"
+  URL = "/journal"
   Weight = 30
 [[Menu.Main]]
   Name = "Tags"

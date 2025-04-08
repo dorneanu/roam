@@ -1,0 +1,153 @@
+{{ define "main" }}
+<main class="center mv4 content-width ph3">
+  <header class="mb4">
+    <h1 class="f2 fw6 heading-font green"><span class="dark-green">#</span> {{ .Title }}</h1>
+    <div class="pl3 f5 mid-gray">
+      {{ .Content }}
+    </div>
+  </header>
+
+  <!-- Year Navigation -->
+  <div class="year-nav sticky top-0 z-1 bg-white-90 pt2 pb3 mb4">
+    <div class="flex flex-wrap justify-center">
+      {{ range .Data.Pages.GroupByDate "2006" }}
+        <a href="#year-{{ .Key }}" 
+           class="year-btn link dib pv1 ph2 ma1 br2 bg-light-gray hover-bg-green hover-white dark-gray f6 no-underline">
+          {{ .Key }}
+          <span class="f7 normal-ns">({{ len .Pages }})</span>
+        </a>
+      {{ end }}
+    </div>
+  </div>
+
+  <!-- Timeline View with Pagination -->
+  <div class="journal-timeline relative">
+    <!-- Paginated Content -->
+    {{ $paginator := .Paginate .Data.Pages 20 }}
+    
+    {{ range $index, $page := $paginator.Pages }}
+      <article class="timeline-entry relative {{ if ne $index 0 }}mt4{{ end }}">
+        <div class="flex">
+          <!-- Date column -->
+          <div class="w-30 w-20-ns pr3 tr">
+            <div class="sticky top-2 date-block">
+              <span class="f4 fw6 green db">{{ .Date.Format "02 Jan" }}</span>
+              <span class="f5 moon-gray">{{ .Date.Format "2006" }}</span>
+              <div id="year-{{ .Date.Format "2006" }}" class="year-anchor"></div>
+            </div>
+          </div>
+          
+          <!-- Content column -->
+          <div class="w-70 w-80-ns pl3 bl b--light-green relative">
+            <div class="absolute top-0 left-0 ml-2-neg bg-white br-100 ba b--light-green h1 w1"></div>
+            <div class="journal-card ba b--moon-gray br2 bg-white pa3 shadow-4">
+              <a href="{{ .Permalink | relURL }}" class="link near-black no-underline hover-blue">
+                <h3 class="f4 fw5 mt0 mb2">{{ .Title }}</h3>
+                {{ if .Description }}
+                <p class="f5 gray mt0 mb2">{{ .Description }}</p>
+                {{ end }}
+                <div class="flex justify-between items-center mt3">
+                  <time class="f6 moon-gray">{{ .Date.Format "15:04" }}</time>
+                  {{ if .Params.tags }}
+                  <div class="tags">
+                    {{ range first 3 .Params.tags }}
+                      <span class="f7 bg-light-gray br-pill ph2 pv1 mr1">{{ . }}</span>
+                    {{ end }}
+                    {{ if gt (len .Params.tags) 3 }}
+                      <span class="f7 moon-gray">+{{ sub (len .Params.tags) 3 }}</span>
+                    {{ end }}
+                  </div>
+                  {{ end }}
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </article>
+    {{ end }}
+    
+    <!-- Timeline vertical line -->
+    <div class="absolute top-0 bottom-0 left-30 left-20-ns ml1 bl b--light-green timeline-line"></div>
+    
+    <!-- Simple Pagination controls -->
+    {{ if gt $paginator.TotalPages 1 }}
+    <div class="pagination-controls flex justify-center items-center mt4 pt3 bt b--light-gray">
+      {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray mr2">« Prev</a>
+      {{ else }}
+        <span class="f6 ba ph3 pv2 mb2 dib moon-gray o-30 mr2">« Prev</span>
+      {{ end }}
+      
+      <span class="f6 gray mh2">
+        Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
+      </span>
+      
+      {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray ml2">Next »</a>
+      {{ else }}
+        <span class="f6 ba ph3 pv2 mb2 dib moon-gray o-30 ml2">Next »</span>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</main>
+
+<div class="pagination tc db fixed-l bottom-2-l right-2-l mb3 mb0-l">
+  {{ partial "back-to-top.html" . }}
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Smooth scrolling for year navigation
+    document.querySelectorAll('.year-btn').forEach(button => {
+      button.addEventListener('click', function(e) {
+        e.preventDefault();
+        const targetId = this.getAttribute('href');
+        const targetElement = document.querySelector(targetId);
+        
+        if (targetElement) {
+          // Scroll to the year anchor with offset for the sticky header
+          const yOffset = -100; 
+          const y = targetElement.getBoundingClientRect().top + window.pageYOffset + yOffset;
+          window.scrollTo({top: y, behavior: 'smooth'});
+        }
+      });
+    });
+  });
+</script>
+
+<style>
+  .ml-2-neg {
+    margin-left: -0.5rem;
+  }
+  .left-30 {
+    left: 30%;
+  }
+  @media screen and (min-width: 30em) {
+    .left-20-ns {
+      left: 20%;
+    }
+  }
+  .timeline-line {
+    z-index: -1;
+  }
+  .journal-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .journal-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+  }
+  .year-nav {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+  .year-btn {
+    transition: all 0.2s ease;
+  }
+  .year-anchor {
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+  }
+</style>
+{{ end }}

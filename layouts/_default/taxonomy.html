@@ -1,0 +1,62 @@
+{{ define "main" }}
+<main class="center mv4 content-width ph3">
+  <h1 class="f2 fw6 heading-font">{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $paginator := .Paginate .Data.Pages 20 }}
+  
+  <ul class="list-pages">
+    {{ range $paginator.Pages }}
+      <li class="lh-copy"><a href="{{ .Permalink | relURL }}" class="link f5">{{ .Title }}</a> - <time>{{ .Date.Format "02 Jan 2006" }}</time></li>
+    {{ end }}
+  </ul>
+  
+  <!-- Pagination controls -->
+  {{ if gt $paginator.TotalPages 1 }}
+  <div class="pagination-controls flex justify-between items-center mt5 pt4 bt b--light-gray">
+    {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" class="f5 no-underline pv2 ph3 bg-light-gray hover-bg-green hover-white dark-gray br2 shadow-4 flex items-center">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr2" style="height: 1em;"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        Previous
+      </a>
+    {{ else }}
+      <span class="f5 pv2 ph3 bg-light-gray o-30 dark-gray br2 flex items-center">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr2" style="height: 1em;"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        Previous
+      </span>
+    {{ end }}
+    
+    <div class="pagination-info tc">
+      <span class="f6 gray">
+        Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
+      </span>
+      <div class="pagination-dots mt2">
+        {{ range $paginator.Pagers }}
+          {{ if eq .PageNumber $paginator.PageNumber }}
+            <span class="dib w1 h1 br-100 bg-green mr1"></span>
+          {{ else }}
+            <a href="{{ .URL }}" class="dib w1 h1 br-100 bg-light-gray hover-bg-green mr1"></a>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+    
+    {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" class="f5 no-underline pv2 ph3 bg-light-gray hover-bg-green hover-white dark-gray br2 shadow-4 flex items-center">
+        Next
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ml2" style="height: 1em;"><polyline points="9 18 15 12 9 6"></polyline></svg>
+      </a>
+    {{ else }}
+      <span class="f5 pv2 ph3 bg-light-gray o-30 dark-gray br2 flex items-center">
+        Next
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ml2" style="height: 1em;"><polyline points="9 18 15 12 9 6"></polyline></svg>
+      </span>
+    {{ end }}
+  </div>
+  {{ end }}
+</main>
+
+<div class="pagination tc db fixed-l bottom-2-l right-2-l mb3 mb0-l">
+{{ partial "back-to-top.html" . }}
+</div>
+{{ end }}

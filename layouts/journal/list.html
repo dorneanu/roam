@@ -1,0 +1,366 @@
+{{ define "main" }}
+<main class="journal-container mv4 ph3">
+  <header class="mb4">
+    <h1 class="f2 fw6 heading-font green"># {{ .Title }}</h1>
+    <div class="pl3 f5 mid-gray">
+      {{ .Content }}
+    </div>
+  </header>
+
+  <div class="flex-l flex-wrap">
+  <div class="w-30-l pr3-l journal-timeline relative">
+    {{ $pages := .Paginate (.Data.Pages) 10 }}
+    {{ range $index, $page := $pages.Pages }}
+      <article class="timeline-entry relative {{ if ne $index 0 }}mt4{{ end }}">
+        <div class="flex">
+          <!-- Date column -->
+          <div class="w-40 w-30-ns pr3 tr">
+            <div class="sticky top-2 date-block">
+              <span class="f4 fw6 green db">{{ .Date.Format "02 Jan" }}</span>
+              <span class="f5 moon-gray">{{ .Date.Format "2006" }}</span>
+            </div>
+          </div>
+          
+          <!-- Content column -->
+          <div class="w-60 w-70-ns pl3 bl b--light-green relative">
+            <div class="absolute top-0 left-0 ml-2-neg bg-white br-100 ba b--light-green h1 w1"></div>
+            <div class="journal-card ba b--moon-gray br2 bg-white pa3 shadow-4">
+              <a href="javascript:void(0)" data-url="{{ .Permalink }}" class="journal-entry-link link near-black no-underline hover-blue" data-id="{{ .File.UniqueID }}">
+                <h3 class="f4 fw5 mt0 mb2">{{ .Title }}</h3>
+                {{ if .Description }}
+                <p class="f5 gray mt0 mb2">{{ .Description }}</p>
+                {{ end }}
+                <div class="flex justify-between items-center mt3">
+                  <time class="f6 moon-gray">{{ .Date.Format "15:04" }}</time>
+                  {{ if .Params.tags }}
+                  <div class="tags">
+                    {{ range first 3 .Params.tags }}
+                      <span class="f7 bg-light-gray br-pill ph2 pv1 mr1">{{ . }}</span>
+                    {{ end }}
+                    {{ if gt (len .Params.tags) 3 }}
+                      <span class="f7 moon-gray">+{{ sub (len .Params.tags) 3 }}</span>
+                    {{ end }}
+                  </div>
+                  {{ end }}
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </article>
+    {{ end }}
+    <!-- Timeline vertical line -->
+    <div class="absolute top-0 bottom-0 left-40 left-30-ns ml1 bl b--light-green timeline-line"></div>
+    
+    <!-- Pagination controls -->
+    {{ if gt $pages.TotalPages 1 }}
+    <div class="pagination-controls flex justify-center items-center mt4 pt3 bt b--light-gray">
+      {{ if $pages.HasPrev }}
+        <a href="{{ $pages.Prev.URL }}" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray mr2">« Prev</a>
+      {{ else }}
+        <span class="f6 ba ph3 pv2 mb2 dib moon-gray o-30 mr2">« Prev</span>
+      {{ end }}
+      
+      <span class="f6 gray mh2">
+        Page {{ $pages.PageNumber }} of {{ $pages.TotalPages }}
+      </span>
+      
+      {{ if $pages.HasNext }}
+        <a href="{{ $pages.Next.URL }}" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray ml2">Next »</a>
+      {{ else }}
+        <span class="f6 ba ph3 pv2 mb2 dib moon-gray o-30 ml2">Next »</span>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  
+  <!-- Journal content panel -->
+  <div class="w-70-l pl3-l journal-content-panel relative dn db-l">
+    <div id="journal-content-wrapper" class="sticky-l top-2-l ba b--moon-gray br2 bg-white pa4 shadow-4 min-vh-50-l flex flex-column">
+      <div id="journal-content" class="overflow-auto flex-auto">
+        <div class="empty-state tc gray">
+          <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+          <p class="mt3">Select a journal entry to view its content here</p>
+        </div>
+      </div>
+      <div id="view-original-link" class="dn tc mt3 pt3 bt b--light-gray">
+        <a id="original-post-link" href="#" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr1" style="vertical-align: text-bottom;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+          View Original Post
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+</main>
+
+<!-- Mobile journal content overlay -->
+<div id="mobile-journal-overlay" class="fixed top-0 left-0 w-100 h-100 bg-white z-999 dn pa4">
+  <button id="close-overlay" class="absolute top-1 right-1 bn bg-transparent pointer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+  </button>
+  <div class="mobile-content-container flex flex-column h-100 pt4">
+    <div id="mobile-journal-content" class="overflow-auto flex-auto"></div>
+    <div id="mobile-view-original-link" class="dn tc mt3 pt3 bt b--light-gray">
+      <a id="mobile-original-post-link" href="#" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr1" style="vertical-align: text-bottom;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+        View Original Post
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="pagination tc db fixed-l bottom-2-l right-2-l mb3 mb0-l">
+  {{ partial "back-to-top.html" . }}
+</div>
+
+<style>
+  .ml-2-neg {
+    margin-left: -0.5rem;
+  }
+  .left-40 {
+    left: 40%;
+  }
+  .left-30 {
+    left: 30%;
+  }
+  @media screen and (min-width: 30em) {
+    .left-30-ns {
+      left: 30%;
+    }
+  }
+  .timeline-line {
+    z-index: -1;
+  }
+  .journal-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .journal-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+  }
+  
+  .journal-container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .sticky-l {
+    position: sticky;
+  }
+  
+  .min-vh-50-l {
+    min-height: 50vh;
+  }
+  
+  #journal-content {
+    max-height: calc(100vh - 20rem);
+  }
+  
+  @media screen and (min-height: 800px) {
+    #journal-content {
+      max-height: calc(100vh - 15rem);
+    }
+  }
+  
+  #mobile-journal-content {
+    max-height: calc(100vh - 10rem);
+  }
+  
+  .z-999 {
+    z-index: 999;
+  }
+  
+  .journal-entry-link.active .journal-card {
+    border-color: #19a974;
+    border-width: 2px;
+  }
+  
+  #journal-content.loading:before,
+  #mobile-journal-content.loading:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255,255,255,0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #journal-content.loading:after,
+  #mobile-journal-content.loading:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 30px;
+    height: 30px;
+    border: 3px solid #f3f3f3;
+    border-top: 3px solid #19a974;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: translate(-50%, -50%) rotate(0deg); }
+    100% { transform: translate(-50%, -50%) rotate(360deg); }
+  }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Get DOM elements
+  const journalLinks = document.querySelectorAll('.journal-entry-link');
+  const journalContent = document.getElementById('journal-content');
+  const mobileJournalOverlay = document.getElementById('mobile-journal-overlay');
+  const mobileJournalContent = document.getElementById('mobile-journal-content');
+  const closeOverlayBtn = document.getElementById('close-overlay');
+  
+  // Get additional DOM elements for the original post links
+  const viewOriginalLink = document.getElementById('view-original-link');
+  const originalPostLink = document.getElementById('original-post-link');
+  const mobileViewOriginalLink = document.getElementById('mobile-view-original-link');
+  const mobileOriginalPostLink = document.getElementById('mobile-original-post-link');
+
+  // Function to fetch journal content
+  async function fetchJournalContent(url) {
+    journalContent.classList.add('loading');
+    mobileJournalContent.classList.add('loading');
+    
+    try {
+      const response = await fetch(url);
+      const html = await response.text();
+      
+      // Create a temporary element to parse the HTML
+      const tempDiv = document.createElement('div');
+      tempDiv.innerHTML = html;
+      
+      // Debug the HTML structure
+      console.log('HTML structure:', tempDiv.innerHTML.substring(0, 500) + '...');
+      
+      // Extract the main content (adjust selector based on your HTML structure)
+      const mainContent = tempDiv.querySelector('.post-content') || 
+                          tempDiv.querySelector('.lh-copy.post-content') ||
+                          tempDiv.querySelector('main') || 
+                          tempDiv.querySelector('.content');
+      
+      // Debug content extraction
+      console.log('Found main content?', mainContent ? 'Yes' : 'No');
+      
+      if (mainContent) {
+        // Update content in both desktop and mobile views
+        journalContent.innerHTML = mainContent.innerHTML;
+        mobileJournalContent.innerHTML = mainContent.innerHTML;
+        
+        // Show the original post links and set the URLs
+        viewOriginalLink.classList.remove('dn');
+        mobileViewOriginalLink.classList.remove('dn');
+        originalPostLink.href = url;
+        mobileOriginalPostLink.href = url;
+      } else {
+        journalContent.innerHTML = '<p class="red">Error: Could not load content.</p>';
+        mobileJournalContent.innerHTML = '<p class="red">Error: Could not load content.</p>';
+        
+        // Hide the original post links if there's an error
+        viewOriginalLink.classList.add('dn');
+        mobileViewOriginalLink.classList.add('dn');
+      }
+    } catch (error) {
+      console.error('Error fetching content:', error);
+      journalContent.innerHTML = '<p class="red">Error: Could not load content.</p>';
+      mobileJournalContent.innerHTML = '<p class="red">Error: Could not load content.</p>';
+      
+      // Hide the original post links if there's an error
+      viewOriginalLink.classList.add('dn');
+      mobileViewOriginalLink.classList.add('dn');
+    } finally {
+      journalContent.classList.remove('loading');
+      mobileJournalContent.classList.remove('loading');
+    }
+  }
+  
+  // Add click event listeners to journal links
+  journalLinks.forEach(link => {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      
+      // Remove active class from all links
+      journalLinks.forEach(l => l.classList.remove('active'));
+      
+      // Add active class to clicked link
+      this.classList.add('active');
+      
+      const url = this.getAttribute('data-url');
+      
+      // Fetch and display content
+      fetchJournalContent(url);
+      
+      // Show mobile overlay on small screens
+      if (window.innerWidth < 960) {
+        mobileJournalOverlay.classList.remove('dn');
+        document.body.style.overflow = 'hidden'; // Prevent scrolling
+      }
+      
+      // Update URL without navigation (for bookmarking)
+      history.pushState({}, '', url);
+      
+      // Store the current selection in sessionStorage
+      sessionStorage.setItem('activeJournalEntry', url);
+    });
+  });
+  
+  // Close overlay button
+  closeOverlayBtn.addEventListener('click', function() {
+    mobileJournalOverlay.classList.add('dn');
+    document.body.style.overflow = ''; // Restore scrolling
+  });
+  
+  // Add click event listeners to pagination links to preserve the selected journal entry
+  const paginationLinks = document.querySelectorAll('.pagination-controls a');
+  paginationLinks.forEach(link => {
+    link.addEventListener('click', function(e) {
+      // Only handle these links if we have an active journal entry
+      const activeEntry = document.querySelector('.journal-entry-link.active');
+      if (activeEntry) {
+        // Store the current active entry URL in sessionStorage
+        sessionStorage.setItem('activeJournalEntry', activeEntry.getAttribute('data-url'));
+        sessionStorage.setItem('scrollPosition', window.scrollY);
+      }
+    });
+  });
+  
+  // Check for a stored active entry when the page loads (after pagination)
+  const storedEntryUrl = sessionStorage.getItem('activeJournalEntry');
+  const currentUrl = window.location.href;
+  
+  if (storedEntryUrl) {
+    // If we have a stored URL, check if it's on the current page
+    const matchingLink = document.querySelector(`.journal-entry-link[data-url="${storedEntryUrl}"]`);
+    if (matchingLink) {
+      // If the entry is on this page, click it to load the content
+      matchingLink.click();
+      // Restore scroll position
+      const scrollPosition = sessionStorage.getItem('scrollPosition');
+      if (scrollPosition) {
+        window.scrollTo(0, parseInt(scrollPosition));
+      }
+    } else {
+      // If not on this page but we still have a stored URL, load the content anyway
+      fetchJournalContent(storedEntryUrl);
+    }
+  } else {
+    // If no stored URL, check if the current URL matches any journal entry
+    journalLinks.forEach(link => {
+      if (link.getAttribute('data-url') === currentUrl) {
+        link.click(); // Simulate click on the matching entry
+      }
+    });
+  }
+});
+</script>
+{{ end }}
