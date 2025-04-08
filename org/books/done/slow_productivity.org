@@ -71,7 +71,7 @@ them with time to spare. Leverage this reduced load to more fully embrace and ad
 small number of projects that matter most.
 #+END_QUOTE
 
-* Page 48: Knowledge Work vs. Factory Work
+** Page 48: Knowledge Work vs. Factory Work
 
 The author contrasts factory work with knowledge work, noting that increasing workload in
 knowledge work can actually reduce both quantity and quality of output.
@@ -82,7 +82,7 @@ In knowledge work, by contrast, pushing employees into larger workloads can decr
 the quantity and quality of what they produce.
 #+END_QUOTE
 
-* Page 50: Pseudo-productivity
+** Page 50: Pseudo-productivity
 
 The author acknowledges that simply recognizing the inefficiency of overwork isn't enough
 to transform one's professional life because the knowledge sector still operates on
@@ -94,7 +94,7 @@ professional life. The knowledge sector remains defined by the demands of
 pseudo-productivity.
 #+END_QUOTE
 
-* Page 56: Scheduling Reality
+** Page 56: Scheduling Reality
 
 The author recommends a practical approach to new projects: estimate the time required and
 actually schedule it on your calendar to ensure you have the capacity to take it on.
@@ -109,7 +109,7 @@ room. The power of this approach is that you're dealing with the reality of your
 a gut feeling about how busy you are at the moment.
 #+END_QUOTE
 
-* Page 57: One Project Per Day
+** Page 57: One Project Per Day
 
 For daily work management, the author recommends focusing on at most one significant
 project per day, while still handling routine tasks and meetings.
@@ -125,7 +125,7 @@ small). But when it comes to expending efforts on important, bigger initiatives,
 focused on just one target per day.
 #+END_QUOTE
 
-* Page 72: Pseudo-productivity and Parents
+** Page 72: Pseudo-productivity and Parents
 
 The author describes how pseudo-productivity particularly impacts parents (especially
 mothers), creating an ongoing battle between work and family demands with no clear
@@ -147,24 +147,7 @@ wants to be a teacher, explaining, "because then at least I'll be able to spend 
 my kids.
 #+END_QUOTE
 
-* Page 82: Arbitrary Nature of Grinding
-
-The second principle of Slow Productivity suggests that constant grinding without relief
-is arbitrary and often self-imposed through our own anxieties rather than external
-demands.
-
-#+BEGIN_QUOTE
-The second principle of slow productivity argues that these famous scientists were onto
-something. Our exhausting tendency to grind without relief, hour after hour, day after
-day, month after month, is more arbitrary than we recognize. It's true that many of us
-have bosses or clients making demands, but they don't always dictate the details of our
-daily schedules—it's often our own anxieties that play the role of the fiercest
-taskmaster. We suffer from overly ambitious timelines and poorly managed workloads due to
-a fundamental uneasiness with ever stepping back from the numbing exhaustion of jittery
-busyness.
-#+END_QUOTE
-
-* Page 82 (continued): Alternative Approach
+** Page 82 (continued): Alternative Approach
 
 The author presents an alternative approach where important work is given more breathing
 room and allowed to unfold at varying intensities over time, which can be more sustainable
@@ -190,7 +173,24 @@ Don't rush your most important work. Allow it instead to unfold along a sustaina
 timeline, with variations in intensity, in settings conducive to brilliance.
 #+END_QUOTE
 
-* Page 87: Historical Work Patterns
+** Page 82: Arbitrary Nature of Grinding
+
+The second principle of Slow Productivity suggests that constant grinding without relief
+is arbitrary and often self-imposed through our own anxieties rather than external
+demands.
+
+#+BEGIN_QUOTE
+The second principle of slow productivity argues that these famous scientists were onto
+something. Our exhausting tendency to grind without relief, hour after hour, day after
+day, month after month, is more arbitrary than we recognize. It's true that many of us
+have bosses or clients making demands, but they don't always dictate the details of our
+daily schedules—it's often our own anxieties that play the role of the fiercest
+taskmaster. We suffer from overly ambitious timelines and poorly managed workloads due to
+a fundamental uneasiness with ever stepping back from the numbing exhaustion of jittery
+busyness.
+#+END_QUOTE
+
+** Page 87: Historical Work Patterns
 
 The author contrasts modern work patterns with historical ones, noting how the shift from
 hunting and gathering to agriculture introduced continuous monotonous work that was
@@ -206,7 +206,7 @@ humanity into a state similar to that of the rice-farming Agta, grappling with s
 new: the continuous monotony of unvarying work, all day long, day after day.
 #+END_QUOTE
 
-* Page 94: Poor Time Estimation
+** Page 94: Poor Time Estimation
 
 The author discusses how humans are poor at estimating time for cognitive tasks, as we're
 wired for tangible efforts and tend to imagine best-case timelines that feel good in the
@@ -223,7 +223,7 @@ I'd really be ahead of schedule!" It feels good in the moment but sets us up for
 scrambling and disappointment in the days that follow.
 #+END_QUOTE
 
-* Page 95: One for You, One for Me Strategy
+** Page 95: One for You, One for Me Strategy
 
 The author suggests balancing scheduled meetings with equal amounts of protected time for
 yourself on the same day.
@@ -235,7 +235,7 @@ day to protect. If I schedule thirty minutes for a call on Tuesday, I'll also fi
 thirty minutes that day to block off on my calendar as protected for myself.
 #+END_QUOTE
 
-* Page 106: Work in Cycles
+** Page 106: Work in Cycles
 
 The author describes Basecamp's practice of working in 6-8 week "cycles" followed by
 2-week "cooldown" periods, emphasizing the importance of respecting these recovery
@@ -267,7 +267,7 @@ the short term. Leverage the value of these results to gain more and more freedo
 efforts over the long term.
 #+END_QUOTE
 
-* Page 127: Quality as Leverage
+** Page 127: Quality as Leverage
 
 The author shares examples of how obsessing over quality can provide leverage for greater
 control over one's schedule, and how this doesn't necessarily require becoming a superstar
@@ -289,7 +289,7 @@ the fruits of pursuing quality can also be harvested in the form of a more susta
 lifestyle.
 #+END_QUOTE
 
-* Page 140: Progress vs. Perfection
+** Page 140: Progress vs. Perfection
 
 The author provides a strategy for balancing obsession and perfectionism: give yourself
 enough time to create something great but not unlimited time, and focus on making progress
