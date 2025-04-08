@@ -18,6 +18,7 @@
                     ;;       org-startup-align-all-tables t)
                     (setq org-agenda-files nil)
                     (org-hugo-auto-export-mode)
+                    (org-modern-mode)
                     ;; Disable diff-hl mode (causes delays)
                     (diff-hl-mode -1)
                     (setq-local org-tags-column 90)

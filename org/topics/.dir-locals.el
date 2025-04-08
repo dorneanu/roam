@@ -2,6 +2,7 @@
                    (progn
                      (org-hugo-auto-export-mode)
                      (add-to-list 'org-hugo-special-block-type-properties '("sidenote" . (:trim-pre t :trim-post t)))
+                     (org-modern-mode)
                      (setq-local
                       org-agenda-files nil
                       org-hugo-base-dir org-roam-directory
