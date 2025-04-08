@@ -5,7 +5,7 @@
 		<generator>hugo</generator>
 		<language>en-us</language>
 		<author>{{ .Site.Params.Author }}</author>
-		<rights>Copyright (c) {{ .Site.LastChange.Year }}</rights>
+		<rights>Copyright (c) {{ .Site.Lastmod.Year }}</rights>
 		<updated>{{ .Date }}</updated>
 		{{ range first 20 (where (where .Site.RegularPages "Section" "books") ".Params.skip" "ne" "true") }}
 		<item>

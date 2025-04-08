@@ -6,8 +6,10 @@ Theme =  "er"
 MetaDataFormat =  "yaml"
 CanonifyUrls =  true
 BuildDrafts =  true
-PaginatePath =  "p"
-Paginate = 8
+# Updated pagination settings for Hugo v0.128.0+
+[pagination]
+path = "p"
+pagerSize = 8
 DisablePathToLower =  false
 HasCJKLanguage = true
 PreserveTaxonomyNames = false
@@ -86,6 +88,18 @@ books = "/book/:title"
   # description = ""
   # images = [""]
   themeColor = "#1d1d1d"
+  
+  # Social links - moved from .Site.Social to .Site.Params.Social
+  # Add your social links here
+  # [[Params.Social]]
+  # name = "twitter"
+  # url = "https://twitter.com/yourusername"
+  # [[Params.Social]]
+  # name = "github"
+  # url = "https://github.com/yourusername"
+  
+  # Author information - moved from .Site.Authors to .Site.Params.Author
+  Author = "Victor Dorneanu"
 
   homeSubtitle = "braindumps about almost everything"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
