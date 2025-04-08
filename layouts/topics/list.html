@@ -9,167 +9,196 @@
             </div>
         </div>
 
-        <!-- Search and Filter Section -->
-        <div class="bg-near-white pa3 br2 mb4 shadow-4">
-            <div class="flex flex-wrap items-center">
-                <div class="w-100 w-50-l pr2-l mb2 mb0-l">
+        <!-- Combined Search and Alphabet Navigation -->
+        <div class="filter-container bg-near-white pa3 br2 mb4 shadow-4">
+            <!-- Search Row -->
+            <div class="flex flex-wrap items-center mb3">
+                <div class="w-100 w-80-l pr2-l mb2 mb0-l">
                     <label for="topic-search" class="f6 b db mb2">Search Topics:</label>
                     <input type="text" id="topic-search" class="input-reset ba b--black-20 pa2 mb2 db w-100" placeholder="Type to search...">
                 </div>
-                <div class="w-100 w-30-l pr2-l mb2 mb0-l">
-                    <label for="category-filter" class="f6 b db mb2">Filter by Category:</label>
-                    <select id="category-filter" class="input-reset ba b--black-20 pa2 mb2 db w-100">
-                        <option value="">All Categories</option>
-                        <option value="programming">Programming & Development</option>
-                        <option value="cloud">Cloud & DevOps</option>
-                        <option value="security">Security</option>
-                        <option value="networking">Networking</option>
-                        <option value="software-architecture">Software Architecture</option>
-                        <option value="health">Health & Wellness</option>
-                        <option value="nutrition">Nutrition & Diet</option>
-                        <option value="biology">Biology & Medicine</option>
-                        <option value="philosophy">Philosophy & Spirituality</option>
-                        <option value="productivity">Productivity</option>
-                        <option value="economics">Finance & Economics</option>
-                        <option value="parenting">Family & Parenting</option>
-                        <option value="tools">Tools & Technology</option>
-                        <option value="society">Society & Politics</option>
-                        <option value="psychology">Psychology</option>
-                        <option value="books">Books & Literature</option>
-                        <option value="other">Other</option>
-                    </select>
-                </div>
                 <div class="w-100 w-20-l">
-                    <button id="clear-filters" class="button-reset dib ph3 pv2 br2 white bg-dark-blue pointer f6 bn mt4">Clear Filters</button>
+                    <button id="clear-filters" class="button-reset dib ph3 pv2 br2 white bg-main-color pointer f6 bn mt4 hover-bg-secondary-color">Clear Search</button>
+                </div>
+            </div>
+            
+            <!-- Alphabet Navigation (now inside the same box) -->
+            <div class="bt b--black-10 pt3 pb1 mt2">
+                <div class="mb2">
+                    <span class="f6 b db">Browse by Letter:</span>
+                </div>
+                <div class="alphabet-container nowrap overflow-x-auto">
+                    {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+                    {{ range $letters }}
+                    <a href="#{{ . | lower }}" class="alphabet-link" data-letter="{{ . | lower }}">{{ . }}</a>
+                    {{ end }}
                 </div>
             </div>
         </div>
 
-        <!-- Alphabet Navigation -->
-        <div class="bg-near-white pa2 br2 mb4 sticky top-1 z-5 shadow-4 overflow-x-auto whitespace-nowrap">
-            <div class="tc">
-                {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
-                {{ range $letters }}
-                <a href="#{{ . | lower }}" class="dib w1 h1 f7 fw6 bg-light-blue white br-100 tc lh-title no-underline ma1 hover-bg-blue alphabet-link" data-letter="{{ . | lower }}">{{ . }}</a>
-                {{ end }}
-            </div>
-        </div>
-
-        <div id="topics-list">
+        <!-- Topic list container with matching styles -->
+        <div id="topics-list" class="bg-near-white pa3 br2 shadow-4">
             <!-- create a list with all uppercase letters -->
             {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
 
-            <!-- range all pages sorted by their title -->
+            <!-- Range through all letters and create topic sections -->
+            {{ $.Scratch.Set "curLetter" "" }}
             {{ range $letter := $letters }}
-            {{ range $.Data.Pages.ByTitle }}
-                {{ $firstChar := substr .Title 0 1 | upper }}
-                {{ if eq $firstChar $letter }}
-                    {{ if eq $firstChar ($.Scratch.Get "curLetter") }}
-                    {{ else }}
-                        {{ if $.Scratch.Get "curLetter" }}
-                        </div>
-                        </div>
+                {{ $hasLetter := false }}
+                {{ range $.Data.Pages.ByTitle }}
+                    {{ $firstChar := substr .Title 0 1 | upper }}
+                    {{ if eq $firstChar $letter }}
+                        {{ $hasLetter = true }}
+                        {{ if ne $firstChar ($.Scratch.Get "curLetter") }}
+                            {{ if ne ($.Scratch.Get "curLetter") "" }}
+                                </div><!-- close flex-wrap -->
+                                </div><!-- close topic-category -->
+                            {{ end }}
+                            {{ $.Scratch.Set "curLetter" $firstChar }}
+                            <div class="topic-category mb4 bl bw2 b--main-color pl3" id="{{ $firstChar | lower }}" data-letter="{{ $firstChar | lower }}">
+                                <h2 class="f3 heading-font mb3 pb2 bb b--light-gray">{{ $firstChar }}</h2>
+                                <div class="flex flex-wrap">
                         {{ end }}
-                        {{ $.Scratch.Set "curLetter" $firstChar }}
-                        <div class="topic-category mb4 bl bw2 b--blue pl3" id="{{ $firstChar | lower }}" data-letter="{{ $firstChar | lower }}">
-                        <h2 class="f3 blue mb3 pb2 bb b--light-gray">{{ $firstChar }}</h2>
-                        <div class="flex flex-wrap">
-                    {{ end }}
-                    {{ $category := "other" }}
-                    
-                    {{/* Programming & Development */}}
-                    {{ if or (in .Title "golang") (in .Title "python") (in .Title "javascript") (in .Title "typescript") (in .Title "rust") (in .Title "lisp") (in .Title "c_lang") (in .Title "lua") (in .Title "programming") (in .Title "functional_programming") (in .Title "oop") (in .Title "concurrency") (in .Title "htmx") (in .Title "tailwind") (in .Title "git") (in .Title "github") }}
-                        {{ $category = "programming" }}
-                    
-                    {{/* Cloud & DevOps */}}
-                    {{ else if or (in .Title "aws") (in .Title "azure") (in .Title "cloud") (in .Title "kubernetes") (in .Title "docker") (in .Title "devops") (in .Title "devsecops") (in .Title "microservices") (in .Title "serverless") (in .Title "terraform") (in .Title "infrastructure") (in .Title "prometheus") (in .Title "cdn") (in .Title "lambda") }}
-                        {{ $category = "cloud" }}
-                    
-                    {{/* Security */}}
-                    {{ else if or (in .Title "security") (in .Title "appsec") (in .Title "vulnerability") (in .Title "auth") (in .Title "oauth") (in .Title "openid") (in .Title "tls") (in .Title "xss") (in .Title "csrf") (in .Title "sca") (in .Title "zero_trust") (in .Title "cryptography") (in .Title "jwt") (in .Title "vulnerabilities") (in .Title "pentest") (in .Title "hmac") (in .Title "dkim") (in .Title "dmarc") (in .Title "spf") (in .Title "beyond") (in .Title "ssh") (in .Title "scim") (in .Title "threat") (in .Title "tor") (in .Title "vpn") }}
-                        {{ $category = "security" }}
-                    
-                    {{/* Networking */}}
-                    {{ else if or (in .Title "networking") (in .Title "tcp") (in .Title "udp") (in .Title "ip_protocol") (in .Title "arp") (in .Title "dns") (in .Title "vlan") (in .Title "ethernet") (in .Title "cidr") (in .Title "routing") (in .Title "layer_") (in .Title "osi") (in .Title "mac") (in .Title "switches") (in .Title "spanning") (in .Title "qos") (in .Title "wan") (in .Title "ios") (in .Title "cisco") (in .Title "mpls") (in .Title "csma") (in .Title "vtp") (in .Title "p2p") (in .Title "route53") }}
-                        {{ $category = "networking" }}
-                    
-                    {{/* Software Architecture & Design */}}
-                    {{ else if or (in .Title "architecture") (in .Title "design_patterns") (in .Title "soa") (in .Title "microservices") (in .Title "ddd") (in .Title "domain") (in .Title "distributed") (in .Title "layered") (in .Title "hexagonal") (in .Title "clean") (in .Title "component") (in .Title "conway") (in .Title "cqrs") (in .Title "event_sourcing") (in .Title "solid") (in .Title "dry") (in .Title "scs") (in .Title "messaging") (in .Title "circuit_breaker") (in .Title "broker") (in .Title "rpc") (in .Title "grpc") (in .Title "continuous_delivery") (in .Title "continuous_integration") (in .Title "api") (in .Title "design") (in .Title "solid") (in .Title "testing") (in .Title "tdd") (in .Title "data_transfer") (in .Title "system_design") (in .Title "adr") (in .Title "c4_model") }}
-                        {{ $category = "software-architecture" }}
-                    
-                    {{/* Health & Wellness */}}
-                    {{ else if or (in .Title "health") (in .Title "blood") (in .Title "breathing") (in .Title "meditation") (in .Title "exercise") (in .Title "fitness") (in .Title "sleep") (in .Title "yoga") (in .Title "breathing") (in .Title "kriya") (in .Title "pratyahara") (in .Title "pranayama") (in .Title "breath") (in .Title "vagus") (in .Title "hrv") (in .Title "bouldering") (in .Title "vo2") (in .Title "stress") (in .Title "depression") (in .Title "diabetes") (in .Title "fasting") (in .Title "cgm") (in .Title "addiction") (in .Title "holotropic") (in .Title "resonant") (in .Title "buteyko") (in .Title "tummo") (in .Title "diaphragm") (in .Title "schlafmangel") (in .Title "spo2") (in .Title "hormesis") (in .Title "hypocapnia") (in .Title "hypoxia") }}
-                        {{ $category = "health" }}
-                    
-                    {{/* Nutrition & Diet */}}
-                    {{ else if or (in .Title "nutrition") (in .Title "diet") (in .Title "food") (in .Title "vitamin") (in .Title "mineral") (in .Title "protein") (in .Title "fat") (in .Title "carb") (in .Title "sugar") (in .Title "keto") (in .Title "fasting") (in .Title "bulletproof") (in .Title "fruktose") (in .Title "magnesium") (in .Title "polyphenole") (in .Title "folat") (in .Title "melatonin") (in .Title "omega") (in .Title "sulforaphane") (in .Title "protein") (in .Title "zink") (in .Title "jod") (in .Title "kalzium") (in .Title "iod") (in .Title "dha") (in .Title "gluten") (in .Title "eisen") (in .Title "kaffee") (in .Title "mct") (in .Title "ketone") (in .Title "atkins") (in .Title "low-") (in .Title "zucker") (in .Title "brot") (in .Title "reis") (in .Title "kohlenhydrate") (in .Title "milch") (in .Title "kase") (in .Title "fettsauren") (in .Title "olivenol") (in .Title "matcha") (in .Title "mate_tea") (in .Title "espresso") (in .Title "transfette") (in .Title "antioxidants") (in .Title "coq10") (in .Title "spermidin") (in .Title "umami") (in .Title "harissa") (in .Title "rapamycin") (in .Title "phytates") (in .Title "mtor") (in .Title "tee") }}
-                        {{ $category = "nutrition" }}
-                    
-                    {{/* Philosophy & Spirituality */}}
-                    {{ else if or (in .Title "philosophy") (in .Title "ethics") (in .Title "religion") (in .Title "spirituality") (in .Title "spiritualitat") (in .Title "consciousness") (in .Title "buddhismus") (in .Title "guru") (in .Title "hinduismus") (in .Title "platon") (in .Title "nirwana") (in .Title "sophisten") (in .Title "sadhu") (in .Title "satsang") (in .Title "tantra") (in .Title "walsch") (in .Title "universelle") (in .Title "prana") (in .Title "prakriti") (in .Title "universum") (in .Title "kollektivbewusstsein") (in .Title "bewusstsein") (in .Title "yama") (in .Title "niyama") (in .Title "gunas") (in .Title "politik_vs") (in .Title "law_of_attraction") }}
-                        {{ $category = "philosophy" }}
-                    
-                    {{/* Productivity & Personal Development */}}
-                    {{ else if or (in .Title "productivity") (in .Title "gtd") (in .Title "work") (in .Title "efficiency") (in .Title "focus") (in .Title "second_brain") (in .Title "zettelkasten") (in .Title "organization") (in .Title "deliberate_practice") (in .Title "deep_work") (in .Title "shallow_work") (in .Title "bullet_journal") (in .Title "essentialism") (in .Title "multi_scale_planning") (in .Title "pomodoro") (in .Title "2minute") (in .Title "brainstorming") (in .Title "progressive_summarization") (in .Title "attention_economy") (in .Title "digital_minimalism") (in .Title "generation_effect") (in .Title "pareto") (in .Title "goldilock") (in .Title "reading") (in .Title "writing") (in .Title "distributed_practice") (in .Title "mere_exposure") (in .Title "kill_your_darlings") (in .Title "boredom") (in .Title "zeigarnik") (in .Title "wysiati") (in .Title "dunniger-kruger") (in .Title "leisure") (in .Title "solitude") (in .Title "work_the_system") (in .Title "basb") (in .Title "ledger") }}
-                        {{ $category = "productivity" }}
-                    
-                    {{/* Family & Parenting */}}
-                    {{ else if or (in .Title "familie") (in .Title "eltern") (in .Title "kind") (in .Title "kinder") (in .Title "juul") (in .Title "babys") (in .Title "trotzalter") (in .Title "gefuhlsstarke") (in .Title "erziehung") (in .Title "slow_family") (in .Title "pflege") (in .Title "status_von_kindern") (in .Title "jeromekagan") }}
-                        {{ $category = "parenting" }}
-                    
-                    {{/* Finance & Economics */}}
-                    {{ else if or (in .Title "economics") (in .Title "economy") (in .Title "finance") (in .Title "fire") (in .Title "etf") (in .Title "investment") (in .Title "immo") (in .Title "eiweisseffekt") (in .Title "inflation") (in .Title "doughnut") (in .Title "esop") (in .Title "capitalism") (in .Title "kapitalismus") (in .Title "immobilien") (in .Title "wohnimmobilien") (in .Title "deficit") (in .Title "aktien") (in .Title "mckinsey") (in .Title "mietmarkt") (in .Title "lebensversicherung") (in .Title "blackrock") (in .Title "share_deals") (in .Title "thoreau") (in .Title "exxonmobil") (in .Title "geld") (in .Title "blockchain") (in .Title "nft") (in .Title "ethereum") }}
-                        {{ $category = "economics" }}
-                    
-                    {{/* Biology & Medicine */}}
-                    {{ else if or (in .Title "biology") (in .Title "medicine") (in .Title "disease") (in .Title "neural") (in .Title "brain") (in .Title "cognitive") (in .Title "dna") (in .Title "glycolysis") (in .Title "respiration") (in .Title "hemoglobin") (in .Title "anaerobic") (in .Title "aerobic") (in .Title "autonomic") (in .Title "parasympathetic") (in .Title "sympathetic") (in .Title "hormone") (in .Title "cortisol") (in .Title "oxytocin") (in .Title "dopamine") (in .Title "serotonin") (in .Title "igf") (in .Title "insulin") (in .Title "lactate") (in .Title "myelin") (in .Title "mitochondrial") (in .Title "oxidative") (in .Title "atp") (in .Title "epo") (in .Title "neurotrophic") (in .Title "cytokine") (in .Title "muskel") (in .Title "faszie") (in .Title "benzodiazepine") (in .Title "antidepressiva") (in .Title "ssri") (in .Title "mao") (in .Title "pcr") (in .Title "dht") (in .Title "glukose") (in .Title "glykogen") (in .Title "brown_fat") (in .Title "coronavirus") (in .Title "covid") (in .Title "autophagie") (in .Title "free_radicals") (in .Title "hepatitis") }}
-                        {{ $category = "biology" }}
-                    
-                    {{/* Tools & Technology */}}
-                    {{ else if or (in .Title "tools") (in .Title "emacs") (in .Title "vim") (in .Title "tmux") (in .Title "cli") (in .Title "unix") (in .Title "plantuml") (in .Title "revealjs") (in .Title "tiddlywiki") (in .Title "org_mode") (in .Title "org_roam") (in .Title "hugo") (in .Title "grep") (in .Title "sed") (in .Title "e_ink") (in .Title "rk61") (in .Title "yubikey") (in .Title "chatgpt") (in .Title "doom_emacs") (in .Title "hackernews") (in .Title "xmodmap") (in .Title "alfred") (in .Title "keyboards") (in .Title "reaper") (in .Title "rss") (in .Title "video") (in .Title "la_pavoni") (in .Title "drums") (in .Title "roland") }}
-                        {{ $category = "tools" }}
-                    
-                    {{/* Society & Politics */}}
-                    {{ else if or (in .Title "society") (in .Title "politik") (in .Title "government") (in .Title "law") (in .Title "social") (in .Title "great_reset") (in .Title "globale_regierung") (in .Title "lage_der_nation") (in .Title "mckinsey-gesellschaft") (in .Title "konsum_und_aufmerksamkeit") (in .Title "klimakrise") (in .Title "pegasus") (in .Title "wahlkampf") (in .Title "kenjebsen") (in .Title "cia") (in .Title "dpa") (in .Title "bias") (in .Title "wemgehortdiestadt") (in .Title "vocea_natiei") (in .Title "liebesgrue_aus_nordkorea") (in .Title "umweltschutz") (in .Title "was_ist_information") (in .Title "anthropozan") }}
-                        {{ $category = "society" }}
-                    
-                    {{/* Psychology & Cognitive Science */}}
-                    {{ else if or (in .Title "psychology") (in .Title "cognitive") (in .Title "bias") (in .Title "thinking") (in .Title "hebbs_law") (in .Title "duncker") (in .Title "polanyi") (in .Title "confirmation_bias") (in .Title "flow") (in .Title "default_network") (in .Title "narcissism") (in .Title "suggestion") (in .Title "selbstwertgefuhl") (in .Title "selbstvertrauen") (in .Title "verantwortung") (in .Title "grenzen") (in .Title "kooperation") }}
-                        {{ $category = "psychology" }}
-                    
-                    {{/* Books & Literature */}}
-                    {{ else if or (in .Title "book") (in .Title "books") (in .Title "_my_daughter_about") (in .Title "chasing_the_scream") (in .Title "blank_slate") (in .Title "talking_to") (in .Title "vier_tausend_wochen") (in .Title "four_thousand_weeks") (in .Title "practicing_mind") (in .Title "das_kompetente_kind") (in .Title "mineral_fix") (in .Title "vermessung_der_welt") (in .Title "doughnut_economics") (in .Title "deficit_myth") (in .Title "carti_romanesti") (in .Title "full_engagement") }}
-                        {{ $category = "books" }}
-                    {{ end }}
-                    
-                    <div class="w-100 w-third-l pa2 topic-item" data-category="{{ $category }}" data-letter="{{ $firstChar | lower }}">
-                        <div class="ba b--black-10 br2 pa3 bg-white shadow-4 hover-shadow-5 h-100">
-                            <a class="link dark-blue hover-blue f5 fw6 mb2 db" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
-                            <span class="f7 white bg-gray br-pill ph2 pv1 dib mt2 category-tag" data-category="{{ $category }}">{{ $category }}</span>
+                        <div class="w-100 w-third-l pa2 topic-item" data-letter="{{ $firstChar | lower }}">
+                            <div class="ba b--black-10 br2 pa3 bg-white shadow-4 hover-shadow-5 h-100">
+                                <a class="topic-link heading-font mb2 db" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+                            </div>
                         </div>
-                    </div>
+                    {{ end }}
                 {{ end }}
             {{ end }}
+            <!-- Close the last section if exists -->
+            {{ if ne ($.Scratch.Get "curLetter") "" }}
+                </div><!-- close flex-wrap -->
+                </div><!-- close topic-category -->
             {{ end }}
         </div>
+    </div>
+    
+    <!-- Scroll to top button -->
+    <div id="scroll-to-top" class="fixed bottom-2 right-2 bg-main-color white br-100 pa3 shadow-5 pointer z-5 o-0" style="transition: all 0.3s ease; opacity: 0; visibility: hidden;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 19V5M5 12l7-7 7 7"/>
+        </svg>
     </div>
 </main>
 
 <style>
     /* Just a few minimal custom styles that can't be easily done with Tachyons */
+    .alphabet-container {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        overflow-x: auto;
+        white-space: nowrap;
+        padding: 0.8rem 0;
+        margin: 0 auto;
+        -webkit-overflow-scrolling: touch;
+        scroll-behavior: smooth;
+        position: relative;
+    }
+    
+    .alphabet-container:after {
+        content: '';
+        pointer-events: none;
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        width: 40px;
+        background: linear-gradient(to right, rgba(249,249,249,0), rgba(249,249,249,1));
+    }
+    
+    .alphabet-container:before {
+        content: '';
+        pointer-events: none;
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        width: 40px;
+        background: linear-gradient(to left, rgba(249,249,249,0), rgba(249,249,249,1));
+        z-index: 1;
+    }
+    
+    .alphabet-link {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 2.2rem;
+        width: 2.2rem;
+        height: 2.2rem;
+        font-size: 1rem;
+        font-weight: 600;
+        background-color: var(--main-color, #357edd);
+        color: white;
+        border-radius: 50%;
+        text-decoration: none;
+        margin: 0.25rem 0.3rem;
+        flex-shrink: 0;
+        transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        border-bottom: none !important;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        position: relative;
+    }
+    
+    .alphabet-link:hover {
+        background-color: var(--secondary-color, #19a974);
+        transform: translateY(-5px) scale(1.15);
+        border-bottom: none !important;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    }
+    
+    .alphabet-link:active {
+        transform: translateY(-2px) scale(1.05);
+        transition: all 0.1s;
+    }
+    
     .alphabet-link.disabled {
         background-color: #e0e0e0;
         color: #a0a0a0;
         cursor: not-allowed;
+        box-shadow: none;
+        transform: none;
     }
-    .category-tag[data-category="programming"] { background-color: #357edd; }
-    .category-tag[data-category="cloud"] { background-color: #5e2ca5; }
-    .category-tag[data-category="security"] { background-color: #e7040f; }
-    .category-tag[data-category="health"] { background-color: #19a974; }
-    .category-tag[data-category="science"] { background-color: #ff6300; }
-    .category-tag[data-category="philosophy"] { background-color: #6b5b95; }
-    .category-tag[data-category="productivity"] { background-color: #a463f2; }
-    .category-tag[data-category="nutrition"] { background-color: #137752; }
+    
+    .alphabet-link.is-active {
+        background-color: var(--secondary-color, #19a974);
+        box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    }
+    
+    .topic-item {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .topic-item:hover {
+        transform: translateY(-3px);
+    }
+    
+    .topic-link {
+        font-size: 1rem;
+        font-weight: 600;
+        color: var(--main-color, #357edd);
+        text-decoration: none;
+        border-bottom: none !important;
+        transition: color 0.2s ease;
+    }
+    
+    .topic-link:hover {
+        color: var(--secondary-color, #19a974) !important;
+        border-bottom: none !important;
+    }
+    
+    .topic-category h2 {
+        color: var(--main-color, #357edd);
+        font-family: "Source Sans Pro", sans-serif;
+    }
+    
+    #topics-list, .filter-container {
+        background-color: #f9f9f9;
+        box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+    }
+    
     .sticky { position: sticky; top: 1rem; z-index: 5; }
 </style>
 
@@ -177,16 +206,14 @@
     document.addEventListener('DOMContentLoaded', function() {
         // References to the DOM elements
         const searchInput = document.getElementById('topic-search');
-        const categoryFilter = document.getElementById('category-filter');
         const topicItems = document.querySelectorAll('.topic-item');
         const topicCategories = document.querySelectorAll('.topic-category');
         const alphabetLinks = document.querySelectorAll('.alphabet-link');
         const clearButton = document.getElementById('clear-filters');
 
-        // Function to filter topics based on search input and category selection
+        // Function to filter topics based on search input
         function filterTopics() {
             const searchTerm = searchInput.value.toLowerCase();
-            const categoryTerm = categoryFilter.value;
             
             // Hide all topics initially
             topicItems.forEach(item => {
@@ -198,17 +225,15 @@
                 category.style.display = 'none';
             });
 
-            // Show topics that match both the search term and category filter
+            // Show topics that match the search term
             topicItems.forEach(item => {
                 const title = item.querySelector('a').textContent.toLowerCase();
-                const category = item.getAttribute('data-category');
                 const letter = item.getAttribute('data-letter');
 
-                // Check if the topic matches both filters
+                // Check if the topic matches the search
                 const matchesSearch = title.includes(searchTerm);
-                const matchesCategory = categoryTerm === '' || category === categoryTerm;
 
-                if (matchesSearch && matchesCategory) {
+                if (matchesSearch) {
                     item.style.display = 'block';
                     
                     // Show the parent category
@@ -249,10 +274,41 @@
             });
         }
 
+        // Function to handle the active link highlighting based on scroll position
+        function highlightActiveLetterOnScroll() {
+            const scrollPosition = window.scrollY + 150; // Offset to account for header
+            const categories = Array.from(document.querySelectorAll('.topic-category'));
+            
+            // Find the category that's currently most visible in the viewport
+            let activeCategory = null;
+            for (let category of categories) {
+                const rect = category.getBoundingClientRect();
+                if (rect.top <= 150 && rect.bottom >= 150) {
+                    activeCategory = category;
+                    break;
+                }
+            }
+            
+            // If we found an active category, highlight its letter
+            if (activeCategory) {
+                const activeLetter = activeCategory.getAttribute('data-letter');
+                
+                // Remove active class from all letters
+                alphabetLinks.forEach(link => {
+                    link.classList.remove('is-active');
+                });
+                
+                // Add active class to current letter
+                const activeLink = document.querySelector(`.alphabet-link[data-letter="${activeLetter}"]`);
+                if (activeLink) {
+                    activeLink.classList.add('is-active');
+                }
+            }
+        }
+
         // Function to clear all filters
         function clearFilters() {
             searchInput.value = '';
-            categoryFilter.value = '';
             
             topicItems.forEach(item => {
                 item.style.display = 'block';
@@ -272,10 +328,6 @@
             searchInput.addEventListener('input', filterTopics);
         }
         
-        if (categoryFilter) {
-            categoryFilter.addEventListener('change', filterTopics);
-        }
-        
         if (clearButton) {
             clearButton.addEventListener('click', clearFilters);
         }
@@ -285,12 +337,43 @@
                 link.addEventListener('click', function(e) {
                     e.preventDefault();
                     if (!this.classList.contains('disabled')) {
+                        // Remove active class from all links
+                        alphabetLinks.forEach(l => l.classList.remove('is-active'));
+                        // Add active class to clicked link
+                        this.classList.add('is-active');
+                        
                         const letter = this.getAttribute('data-letter');
                         scrollToLetter(letter);
                     }
                 });
             });
         }
+        
+        // Handle scroll-to-top button
+        const scrollTopBtn = document.getElementById('scroll-to-top');
+        
+        window.addEventListener('scroll', function() {
+            if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
+                scrollTopBtn.style.opacity = '1';
+                scrollTopBtn.style.visibility = 'visible';
+            } else {
+                scrollTopBtn.style.opacity = '0';
+                scrollTopBtn.style.visibility = 'hidden';
+            }
+        });
+        
+        scrollTopBtn.addEventListener('click', function() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+        
+        // Add scroll event listener to highlight active letter
+        window.addEventListener('scroll', highlightActiveLetterOnScroll, { passive: true });
+        
+        // Initial highlight
+        highlightActiveLetterOnScroll();
     });
 </script>
 {{ end }}
