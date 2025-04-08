@@ -4,65 +4,64 @@
 #+title: Golang
 #+filetags: :coding:golang:
 
-* Articles
-** AI
+* AI
 - 2023-10-11 ◦ [[https://github.com/charmbracelet/mods][GitHub - charmbracelet/mods: AI on the command line]]
-** API
-*** gRPC
+* API
+** gRPC
 - 2024-07-02 ◦ [[https://www.innoq.com/en/blog/2024/06/grpc/][gRPC - What, why and How]]
   - how to use protobuf for a Golang project
-** Architecture
+* Architecture
 - 2025-03-20 ◦ [[https://github.com/fe3dback/go-arch-lint][GitHub - fe3dback/go-arch-lint: GoLang architecture linter (checker) tool]] ([[https://www.reddit.com/r/golang/comments/1j4tfe8/how_to_avoid_boilerplate_when_initializing/][from this reddit discussion)]]
 - 2023-01-19 ◦ [[https://www.reddit.com/r/golang/comments/zskzgu/go_project_written_in_clean_code_architecture/][Go project written in clean code architecture : golang]]
 - 2022-10-04 ◦ [[https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/][Auto-generated C4 Architecture Diagrams in Go]] ([[id:ecaa327d-ead3-4e0c-80e4-af9343f68e66][PlantUML]])
 - 2022-08-16 ◦ [[https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2][Service Discovery with Go and mDNS]]
-** AWS
+* AWS
 - 2022-10-10 ◦ [[http://www.inanzzz.com/index.php/post/i5re/a-simple-aws-sns-example-with-golang-suing-localstack][inanzzz | A simple AWS SNS example with Golang using Localstack]]
 - 2022-10-10 ◦ [[https://stackoverflow.com/questions/54204855/how-does-one-programmatically-subscribe-an-sqs-queue-to-an-sns-topic-in-go][aws sdk go - How does one programmatically subscribe an SQS queue to an SNS topic in Go? - Stack Overflow]]
 - 2022-09-96 ◦ [[https://www.go-on-aws.com/][GO ON AWS]]
   - Using Golang for writing [[id:61b1e794-8d3a-45f1-b414-612b6ad4dad4][CDK]] stacks for [[id:be5bebfe-5df9-4db2-af87-7e80e11723c7][AWS]]
-*** Custom resources
+** Custom resources
 - 2023-01-24 ◦ [[https://cloudninja.cloud/post/building-cloudformation-custom-resources-in-go/][Cloud Ninja: Building CloudFormation Custom Resources in Go]]
 - 2023-01-20 ◦ [[https://github.com/masgari/aws-custom-resources][GitHub - masgari/aws-custom-resources: A Lambda for creating custom resources in CloudFormation.]]
 - 2023-01-20 ◦ [[https://github.com/lifadev/archive_aws-cloudformation-go-customres][GitHub - lifadev/archive_aws-cloudformation-go-customres: Author your AWS CloudFormation Custom Resources in Go.]]
-** Books                                                              :book:
+* Books                                                                                       :book:
 - 2024-05-06 ◦ [[https://katherine.cox-buday.com/concurrency-in-go/][Concurrency in Go]]
 - 2024-04-17 ◦ [[https://pragprog.com/titles/mtgo/effective-go-recipes/][Effective Go Recipes: Fast Solutions to Common Tasks by Miki Tebeka]]
 - 2023-10-11 ◦ [[https://www.manning.com/books/learn-go-with-pocket-sized-projects][Learn Go with Pocket-Sized Projects ]]
-** Botnets
+* Botnets
 - 2022-08-22 ◦ [[https://github.com/ThrillQuks/Pitraix][GitHub - ThrillQuks/Pitraix: Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR]]
-** Comparisons
+* Comparisons
 - 2023-01-16 ◦ [[https://news.ycombinator.com/item?id=31976407][Ask HN: Should I learn Rust or Go? | Hacker News]] ([[id:cdf2a03e-f080-4e6f-8636-7c0f582d91fc][Rust]])
 - 2023-01-16 ◦ [[https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/][Go devs that learned Rust, what are your thoughts on it?]] ([[id:cdf2a03e-f080-4e6f-8636-7c0f582d91fc][Rust]])
-** Concurrency
+* Concurrency
 - 2023-12-07 ◦ [[https://www.manning.com/books/learn-concurrent-programming-with-go?utm_source=cutajarj&utm_medium=affiliate&utm_campaign=book_cutajar_learn_12_14_22&a_aid=cutajarj&a_bid=4360d6bb][Learn Concurrent Programming with Go]] (Book)
 - 2023-03-27 ◦ [[https://code-pilot.me/synchronization-patterns-in-go][CodePilot | Synchronization Patterns in Go]]
-** Contexts
+* Contexts
 - 2024-06-19 ◦ [[https://blog.meain.io/2024/golang-context/][Putting Go's Context package into context]]
-** Design Patterns
+* Design Patterns
 - 2023-12-04 ◦ [[https://www.reddit.com/r/golang/comments/1887y1b/favorite_golang_design_patterns/][Favourite Golang Design Patterns]]
 - 2022-09-05 ◦ [[https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5][GoF Design patterns that still make sense in Go]]
-** EDA
+* EDA
 - 2023-10-23 ◦ [[https://dev.to/encore/building-an-event-driven-uptime-monitor-in-go-3jdd][Build an Event-Driven Uptime Monitor in Go 🚀 - DEV Community]]
-** Error handling
+* Error handling
 - 2024-08-15 ◦ [[https://www.youtube.com/watch?v=y5utZCeHys0][5 Levels of Go Error Handling - YouTube]]
 - 2023-07-04 ◦ [[https://medium.com/@methosi/master-golang-error-handling-a-comprehensive-step-by-step-guide-to-best-practices-698a0530604f][Master Golang Error Handling: Step-by-Step Guide to Robust and Resilient Applications]]
 - 2023-06-22 ◦ [[https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/][Gopher Wrangling. Effective error handling in Go | Stephen's Tech Blog]]
 - 2022-12-22 ◦ [[https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/][New in Go 1.20: wrapping multiple errors]]
-** Frontend
+* Frontend
 - 2023-04-11 ◦ [[https://www.reddit.com/r/golang/comments/10nw07z/best_frontend_stack_for_golang_backend/][Best front-end stack for Golang backend]]
-** Fun
+* Fun
 - 2023-11-30 ◦ [[https://www.reddit.com/r/climbing/comments/182v1rd/i_made_a_chalk_bag_for_my_husband][A chalk bag (gopher style)]]
 - 2023-09-13 ◦ [[https://github.com/MariaLetta/free-gophers-pack][GitHub - MariaLetta/free-gophers-pack]]
   - ✨ This pack of 100+ gopher pictures and elements will help you to build own
     design of almost anything related to Go Programming Language: presentations,
     posts in blogs or social media, courses, videos and many, many more.
 - 2023-05-15 ◦ [[https://go-proverbs.github.io/][Go Proverbs]]
-** HTTP
+* HTTP
 - 2022-10-25 ◦ [[https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/][Go and Proxy Servers: Part 1 - HTTP Proxies - Eli Bendersky's website]]
-** Internals                                                      :internal:
+* Internals                                                                               :internal:
 - 2023-03-27 ◦ [[https://www.kelche.co/blog/go/golang-scheduling/][The Golang Scheduler]]
-** Learning
+* Learning
 - 2024-06-06 ◦ [[https://www.reddit.com/r/golang/comments/1ciq16b/internalize_go_programming_techniques/][Internalize Go programming techniques]]
 - 2022-11-16 ◦ [[https://github.com/mauricioabreu/golings/][github.com/mauricioabreu/golings: rustlings but for golang this time]]
 - 2022-08-29 ◦ [[https://appliedgo.com/blog/go-as-a-glue-language][How to use Go as a glue language]]
@@ -81,9 +80,9 @@
   #+end_quote
 - 2022-08-17 ◦ [[https://www.reddit.com/r/golang/comments/wlw5bj/preferred_resource_for_advanced_go/][Preferred resource for 'advanced' Go? : golang]]
   - Some good recommendation for advanced Go learning resources
-** Kubernetes
+* Kubernetes
 - 2025-01-30 ◦ [[https://ahmet.im/blog/controller-pitfalls/][So you wanna write Kubernetes controllers?]]
-** Malware
+* Malware
 - 2023-05-30 ◦ [[https://blogs.jpcert.or.jp/en/2023/05/gobrat.html][GobRAT malware written in Go language targeting Linux routers - JPCERT/CC Eyes | JPCERT Coordination Center official Blog]]
 - 2023-03-21 ◦ [[https://www.akamai.com/blog/security-research/hinatabot-uncovering-new-golang-ddos-botnet][Uncovering HinataBot: A Deep Dive into a Go-Based Threat | Akamai]]
 - 2022-11-01 ◦ [[https://changelog.com/gotime/251][Hacking with Go: Part 2 with Ivan Kwiatkowski (Go Time #251)]]
@@ -118,19 +117,20 @@
         - /InterPlanetary Storm/
           - Uses IPFS
   #+end_quote
-** Microservices
+* Microservices
+- 2025-04-08 ◦ [[https://github.com/rasadov/EcommerceAPI][GitHub - rasadov/EcommerceAPI: Modular e-commerce backend with a GraphQL gateway and gRPC microservices for accounts, products, orders, and recommendations.]]
 - 2024-02-28 ◦ [[https://github.com/stefanprodan/podinfo][GitHub - stefanprodan/podinfo: Go microservice template for Kubernetes]]
 - 2023-04-05 ◦ [[https://www.youtube.com/watch?v=byHGNUqIONw&ab_channel=Synadia][Micro-services with auto discovery, observability and load balancing. | Rethink Connectivity Ep 9 - YouTube (using nats.io)]]
 - 2022-10-04 ◦ [[https://encore.dev/docs/develop/encore-flow][Encore Docs — Encore Flow]]
   - Visualize cloud microservices architecture
 - 2022-08-25 ◦ [[https://github.com/zeromicro/go-zero][go-zero]]
   - A cloud-native Go [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]] framework with cli tool for productivity.
-** Plugins
+* Plugins
 - 2023-05-09 ◦ [[https://eli.thegreenplace.net/2023/rpc-based-plugins-in-go/][RPC-based plugins in Go - Eli Bendersky's website]]
   - shows how to use [[https://github.com/hashicorp/go-plugin][go-plugin]] from Hashicorp
   - talks about pros and cons between shared libraries (RPC based) and Golang's
     built-in [[https://pkg.go.dev/plugin][plugin]]
-** reddit
+* reddit
 A collection of interesting threads.
 
 - 2023-11-22 ◦ [[https://www.reddit.com/r/golang/comments/17wpc37/expectations_for_senior_go_dev/?rdt=57699][Expectations for Senior Go Dev]]
@@ -157,20 +157,20 @@ A collection of interesting threads.
   - understanding advantages and disadvantages of go and it's history (will help you understand why it was designed that way and avoid a huge ton of pitfalls)
   #+end_quote
 - 2023-03-27 ◦ [[https://www.reddit.com/r/golang/comments/1221z1i/my_believe_that_golang_will_grow_in_demand_and/][My believe that Golang will grow in demand and how maybe this is ruining my pay increase]]
-** Security
+* Security
 - 2022-10-04 ◦ [[https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo][Simple JWT Authentication for Golang (Part 1)]] ([[id:8b4bec8f-ec46-4edf-b236-2d295089f94d][JWT]])
-** Serverless
+* Serverless
 - 2023-06-22 ◦ [[https://dev.to/aws-builders/lambda-extension-with-golang-35a9][Lambda Extension with Golang - DEV Community]]
   - Shows how to use [[https://docs.aws.amazon.com/lambda/latest/dg/lambda-extensions.html][AWS Lambda extensions]]
 - 2022-10-04 ◦ [[https://blog.gendocu.com/posts/grpc-on-google-cloud/][gRPC and gRPC Web on Google Cloud Run (serverless) - GenDocu Blog]]
-** SSH
+* SSH
 - 2022-11-21 ◦ [[https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/][SSH port forwarding with Go - Eli Bendersky's website]]
-** Styling
+* Styling
 - 2023-11-22 ◦ [[https://google.github.io/styleguide/go/index][Go Style (Google)]]
-** Success stories
+* Success stories
 - 2024-05-23 ◦ [[https://i-admin.cetico.org/posts/early-days-golang-google/][From Ground Zero to Production: Go's Journey at Google - Yves Junqueira's blog]]
 - 2022-10-19 ◦ [[https://www.reddit.com/r/golang/comments/y6hg08/have_you_moved_from_java_to_go_or_another_popular/][Have you moved from Java to Go (or another popular language)]]
-** Tooling
+* Tooling
 - 2023-10-04 ◦ [[https://jtarchie.com/posts/2023-09-30-my-preferred-go-stack][My Preferred Go Stack]]
 * Products
 - 2024-03-01 ◦ [[https://solomoneseme.gumroad.com/l/go-essentials][Go Essentials]]
