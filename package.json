@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "prebuild": "rm -rf public",
+    "build": "hugo && npx pagefind --site public",
+    "serve": "hugo server"
+  },
+  "devDependencies": {
+    "pagefind": "^1.3.0"
+  }
+}

@@ -1,2 +1,19 @@
+[build]
+  command = "hugo && npx pagefind --site public"
+  publish = "public"
+
 [build.environment]
   HUGO_VERSION = "0.145.0"
+  NODE_VERSION = "20"
+
+[[headers]]
+  for = "/pagefind/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+    Content-Type = "application/javascript; charset=utf-8"
+
+[[headers]]
+  for = "/pagefind/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+    Content-Type = "text/css; charset=utf-8"

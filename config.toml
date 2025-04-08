@@ -78,6 +78,9 @@ books = "/book/:title"
   # showTagCloud = true
   showtoc = true
 
+  # Enable pagefind
+  enablePagefind = true
+
   # For hermit theme
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -112,7 +115,7 @@ books = "/book/:title"
   justifyContent = false  # Set "text-align: justify" to `.content`.
   relatedPosts = true  # Add a related content section to all single posts page
   code_copy_button = false # Turn on/off the code-copy-button for code-fields
-  customCSS = ["css/custom.css", "css/syntax.css"]
+  customCSS = ["css/custom.css", "css/syntax.css", "css/pagefind.css"]
 
 
 [Author]
@@ -137,11 +140,11 @@ books = "/book/:title"
   Pre = "book"
   URL = "/tags"
   Weight = 40
-# [[Menu.Main]]
-#   Name = "Notes"
-#   Pre = "sticky-note"
-#   URL = "/notes"
-#   Weight = 20
+[[Menu.Main]]
+  Name = "Search"
+  Pre = "search"
+  URL = "/search"
+  Weight = 50
 
 
 [deployment]
