@@ -4,97 +4,57 @@
 site: public
 output_subdir: pagefind
 
-# Make sure all content is included
-exclude_selectors: []
-include_selectors:
-  - "body"
-
 # Add date-based metadata for sorting
 indexing_options:
-  # Add date as metadata for all pages - global settings
+  # Add date as metadata for all pages
   - metadata_date_field: date
     metadata_date_format: iso
-  
+
   # Global metadata fields for all pages
   - metadata_fields:
-    # Try to get title from various potential locations
-    - { tag: "meta[property='og:title']", as: "title", content_attr: "content", optional: true }
-    - { tag: "title", as: "title", optional: true }
-    - { selector: ".f3.fw6.heading-color.heading-font", as: "title", optional: true }
-    - { selector: ".f2.fw6.heading-font", as: "title", optional: true }
-    - { selector: ".post-title", as: "title", optional: true }
-    - { selector: "h1.post-title", as: "title", optional: true }
-    - { selector: "h1", as: "title", optional: true }
-    
-    # Other metadata
-    - { tag: "meta[property='og:type']", as: "type", content_attr: "content", optional: true }
-    - { selector: "time", as: "date", content_attr: "datetime", optional: true }
-    - { selector: "[data-pagefind-sort-date]", as: "sort-date", optional: true }
-    - { tag: "meta[name='date']", as: "date", content_attr: "content", optional: true }
-    - { tag: "meta[property='article:published_time']", as: "published", content_attr: "content", optional: true }
-    
-  # Special case for /t/ URLs - individual topic pages
-  - page_path_filter: "/t/*"
-    metadata_fields:
-      - { tag: "meta[property='og:title']", as: "title", content_attr: "content" }
-      - { selector: ".f3.fw6.heading-color.heading-font.post-title", as: "title", optional: true }
+      # Primary metadata sources
+      - {
+          tag: "meta[property='og:title']",
+          as: "title",
+          content_attr: "content",
+          optional: true,
+        }
       - { selector: ".post-title", as: "title", optional: true }
       - { selector: "h1", as: "title", optional: true }
 
-  # Special case for topics list page
-  - page_path_filter: "/topics/*"
-    metadata_fields:
-      - { tag: "meta[property='og:title']", as: "title", content_attr: "content" }
-      - { selector: ".f2.fw6.heading-font", as: "title", optional: true }
-      - { selector: "h1", as: "title", optional: true }
-
-  # Special case for journal entries
-  - page_path_filter: "/j/*"
-    metadata_fields:
-      - { tag: "meta[property='og:title']", as: "title", content_attr: "content" }
-      - { selector: ".post-title", as: "title", optional: true }
-      - { selector: "h1", as: "title", optional: true }
-      - { tag: "meta[property='article:published_time']", as: "date", content_attr: "content", optional: true }
-
-  # Special case for book pages - expanded selectors for book pages
-  - page_path_filter: "/book/*"
-    metadata_fields:
-      - { tag: "meta[property='og:title']", as: "title", content_attr: "content" }
-      - { selector: "h1", as: "title", optional: true }
-      - { selector: ".f3.fw6.heading-color.heading-font", as: "title", optional: true }
-      - { selector: ".post-title", as: "title", optional: true }
-      - { selector: ".f2.fw6.heading-font", as: "title", optional: true }
-      - { tag: "meta[name='title']", as: "title", content_attr: "content", optional: true }
-      - { tag: "meta[property='article:published_time']", as: "date", content_attr: "content", optional: true }
-
-  # Special case for books list page
-  - page_path_filter: "/books/*"
-    metadata_fields:
-      - { tag: "meta[property='og:title']", as: "title", content_attr: "content" }
-      - { selector: ".f2.fw6.heading-font", as: "title", optional: true }
-      - { selector: "h1", as: "title", optional: true }
-
-# Force processing of all files
-process_all_files: true
+      # Date and other metadata
+      - {
+          tag: "meta[property='og:type']",
+          as: "type",
+          content_attr: "content",
+          optional: true,
+        }
+      - {
+          tag: "meta[name='date']",
+          as: "date",
+          content_attr: "content",
+          optional: true,
+        }
+      - {
+          tag: "meta[property='article:published_time']",
+          as: "published",
+          content_attr: "content",
+          optional: true,
+        }
+      - {
+          selector: "time",
+          as: "date",
+          content_attr: "datetime",
+          optional: true,
+        }
 
 # Added languages
 language:
   code: en
   stemming: true
 
-# Search options to avoid undefined values
+# Search options
 search_options:
   ignore_missing_metadata_fields: true
-  strip_html_selectors: [
-    ".github-comment-sha", 
-    "script", 
-    ".pagination", 
-    ".sidebar", 
-    "footer"
-  ]
-  
-  # Improve relevance of search results
   boost_exact_matches: true
   boost_title: 5.0
-  boost_heading: 2.0
-  min_characters: 2
