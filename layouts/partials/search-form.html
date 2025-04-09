@@ -1,11 +1,8 @@
-<form id="search-form" class="tr" data-language-prefix="{{ site.LanguagePrefix }}">
+<form id="search-form" class="tr" action="/search/" method="get">
 	<div class="measure search-bar">
 		<small class="f8 black-60">Search</small></br>
 		<input id="search-input" class="search--display input-reset ba b--black-20 pa1 mb1 db w-100" type="text"
-			name="q" aria-describedby="name-desc" />
-		<small id="search-submit" class="f8 black-60 db mb2" type="submit"></small>
+			name="q" aria-describedby="name-desc" placeholder="Search..." />
+		<small id="search-submit" class="f8 black-60 db mb2">Press Enter to search</small>
 	</div>
 </form>
-<ul id="search-results" class=""></ul>
-<script src="{{ " /js/fuse.js" | relURL }}"></script>
-<script src="{{ " /js/fixedsearch.js" | relURL }}"></script>

@@ -2,12 +2,12 @@
 <main class="center mv4 content-width ph3">
   <div class="f3 fw6 heading-color heading-font">{{ .Title }}</div>
   <div class="lh-copy mt4">
-    <p>Search across all content in your Zettelkasten.</p>
-    
+    <p>Search across all content.</p>
+
     <!-- Load Pagefind scripts -->
-    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
     <script src="/pagefind/pagefind-ui.js"></script>
-    
+
     <!-- Create the search container with your site's styling -->
     <div id="search" class="w-100 mb4"></div>
 
@@ -17,13 +17,24 @@
         bundlePath: "/pagefind/",
         processTerm: (term) => {
           // Simple processing to remove undefined text from search results
-          return term.replace(/undefined/g, '');
-        }
+          return term.replace(/undefined/g, "");
+        },
       };
-      
+
+      // Function to get URL parameters
+      function getUrlParameter(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        const regex = new RegExp("[\\?&]" + name + "=([^&#]*)");
+        const results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+      }
+
       // Initialize the search UI when the DOM is loaded
-      document.addEventListener('DOMContentLoaded', function() {
-        new PagefindUI({ 
+      document.addEventListener("DOMContentLoaded", function () {
+        // Get the search query from URL parameter 'q' if it exists
+        const initialQuery = getUrlParameter("q");
+
+        const searchUI = new PagefindUI({
           element: "#search",
           showSubResults: true,
           showImages: false,
@@ -31,18 +42,63 @@
             // Enable sorting by date (newest first) and relevance
             options: [
               { key: "date", label: "Date (Newest First)", order: "desc" },
-              { key: "default", label: "Relevance" }
+              { key: "default", label: "Relevance" },
             ],
             // Use date as the default sorting method
-            default: "date"
+            default: "date",
           },
           translations: {
             placeholder: "Search your notes...",
             zero_results: "No results found",
             many_results: "Found {results} results",
-            sort_by: "Sort by:"
-          }
+            sort_by: "Sort by:",
+          },
         });
+
+        // Set up a listener to watch for changes in the search input
+        setTimeout(() => {
+          // Find the search input after PagefindUI has initialized
+          const searchInput = document.querySelector(
+            ".pagefind-ui__search-input",
+          );
+          const searchForm = document.querySelector(".pagefind-ui__form");
+
+          if (searchInput) {
+            // Update URL when the search input changes
+            searchInput.addEventListener("input", function () {
+              updateSearchUrl(this.value);
+            });
+
+            // Also capture form submission (when user presses Enter)
+            if (searchForm) {
+              searchForm.addEventListener("submit", function (e) {
+                // Don't prevent default as we want the search to execute
+                updateSearchUrl(searchInput.value);
+              });
+            }
+          }
+
+          // Helper function to update the URL with the search query
+          function updateSearchUrl(query) {
+            const url = new URL(window.location);
+
+            if (query && query.trim() !== "") {
+              url.searchParams.set("q", query);
+            } else {
+              url.searchParams.delete("q");
+            }
+
+            window.history.pushState({}, "", url);
+          }
+        }, 500); // Short delay to ensure PagefindUI has initialized
+
+        // If there's an initial query, set it and trigger the search
+        if (initialQuery) {
+          // Use a small timeout to ensure PagefindUI is fully initialized
+          setTimeout(() => {
+            searchUI.triggerSearch(initialQuery);
+          }, 100);
+        }
       });
     </script>
   </div>
