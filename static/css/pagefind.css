@@ -42,3 +42,9 @@
   padding: 0.5rem 1rem !important;
   cursor: pointer !important;
 }
+
+/* Simple fix for undefined text */
+.pagefind-ui__result-excerpt:contains('undefined'),
+.pagefind-ui__result-title:contains('undefined') {
+  visibility: hidden;
+}

@@ -14,7 +14,11 @@
     <script>
       // Set configuration for pagefind
       window.pagefindConfig = {
-        bundlePath: "/pagefind/"
+        bundlePath: "/pagefind/",
+        processTerm: (term) => {
+          // Simple processing to remove undefined text from search results
+          return term.replace(/undefined/g, '');
+        }
       };
       
       // Initialize the search UI when the DOM is loaded
