@@ -3,8 +3,8 @@
 :END:
 #+title: Roland MC-101
 
+Also check [[id:a7dec13a-1eba-476e-8cb0-36baa9ad7fc7][Drums]]. 
 * Resources
-- 2025-04-08 ◦ [[https://drumpatterns.onether.com/][Discover & share drum machine patterns.]]
 - 2025-03-20 ◦ [[https://sites.google.com/view/rolandmc101/home][Roland MC-101 Tips & Tricks]]
 * Youtube
 - 2025-03-26 ◦ [[https://www.youtube.com/watch?v=45PRdsj0158&list=RD45PRdsj0158&start_radio=1][Roland MC-101 | Techno/House (No Talking)]]
