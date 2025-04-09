@@ -25,6 +25,7 @@
 - 2023-01-20 ◦ [[https://github.com/masgari/aws-custom-resources][GitHub - masgari/aws-custom-resources: A Lambda for creating custom resources in CloudFormation.]]
 - 2023-01-20 ◦ [[https://github.com/lifadev/archive_aws-cloudformation-go-customres][GitHub - lifadev/archive_aws-cloudformation-go-customres: Author your AWS CloudFormation Custom Resources in Go.]]
 * Books                                                                                       :book:
+- 2025-04-09 ◦ [[https://www.goodreads.com/book/show/58655212-ultimate-go-notebook][Ultimate Go Notebook by William Kennedy]] (as mentioned in [[id:7BAE6878-45EB-4DFE-BDE0-44E488C5F146][2025-04-09]])
 - 2024-05-06 ◦ [[https://katherine.cox-buday.com/concurrency-in-go/][Concurrency in Go]]
 - 2024-04-17 ◦ [[https://pragprog.com/titles/mtgo/effective-go-recipes/][Effective Go Recipes: Fast Solutions to Common Tasks by Miki Tebeka]]
 - 2023-10-11 ◦ [[https://www.manning.com/books/learn-go-with-pocket-sized-projects][Learn Go with Pocket-Sized Projects ]]

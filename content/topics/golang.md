@@ -44,6 +44,7 @@ draft = false
 
 ## Books {#books}
 
+-   2025-04-09 ◦ [Ultimate Go Notebook by William Kennedy](https://www.goodreads.com/book/show/58655212-ultimate-go-notebook) (as mentioned in [2025-04-09]({{< relref "../journal/2025-04-09.md" >}}))
 -   2024-05-06 ◦ [Concurrency in Go](https://katherine.cox-buday.com/concurrency-in-go/)
 -   2024-04-17 ◦ [Effective Go Recipes: Fast Solutions to Common Tasks by Miki Tebeka](https://pragprog.com/titles/mtgo/effective-go-recipes/)
 -   2023-10-11 ◦ [Learn Go with Pocket-Sized Projects ](https://www.manning.com/books/learn-go-with-pocket-sized-projects)
