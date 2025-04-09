@@ -1,19 +1,29 @@
 [build]
-  command = "hugo && npx pagefind --site public"
   publish = "public"
+  command = "hugo && npx pagefind --site public --output-subdir pagefind"
 
 [build.environment]
-  HUGO_VERSION = "0.145.0"
-  NODE_VERSION = "20"
+  HUGO_VERSION = "0.145.0"  # Replace with your current Hugo version
+  NODE_VERSION = "18"       # Ensure we have a recent Node version for Pagefind
 
-[[headers]]
-  for = "/pagefind/*.js"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-    Content-Type = "application/javascript; charset=utf-8"
+[context.production.environment]
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
 
+[context.deploy-preview]
+  command = "hugo --buildFuture -b $DEPLOY_PRIME_URL && npx pagefind --site public --output-subdir pagefind"
+
+[context.branch-deploy]
+  command = "hugo --buildFuture -b $DEPLOY_PRIME_URL && npx pagefind --site public --output-subdir pagefind"
+
+# Redirect for Netlify
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+
+# Cache control for Pagefind files
 [[headers]]
-  for = "/pagefind/*.css"
+  for = "/pagefind/*"
   [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-    Content-Type = "text/css; charset=utf-8"
+    Cache-Control = "public, max-age=604800"

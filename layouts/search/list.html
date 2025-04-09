@@ -1,0 +1,46 @@
+{{ define "main" }}
+<main class="center mv4 content-width ph3">
+  <div class="f3 fw6 heading-color heading-font">{{ .Title }}</div>
+  <div class="lh-copy mt4">
+    <p>Search across all content in your Zettelkasten.</p>
+    
+    <!-- Load Pagefind scripts -->
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <script src="/pagefind/pagefind-ui.js"></script>
+    
+    <!-- Create the search container with your site's styling -->
+    <div id="search" class="w-100 mb4"></div>
+
+    <script>
+      // Set configuration for pagefind
+      window.pagefindConfig = {
+        bundlePath: "/pagefind/"
+      };
+      
+      // Initialize the search UI when the DOM is loaded
+      document.addEventListener('DOMContentLoaded', function() {
+        new PagefindUI({ 
+          element: "#search",
+          showSubResults: true,
+          showImages: false,
+          sort: {
+            // Enable sorting by date (newest first) and relevance
+            options: [
+              { key: "date", label: "Date (Newest First)", order: "desc" },
+              { key: "default", label: "Relevance" }
+            ],
+            // Use date as the default sorting method
+            default: "date"
+          },
+          translations: {
+            placeholder: "Search your notes...",
+            zero_results: "No results found",
+            many_results: "Found {results} results",
+            sort_by: "Sort by:"
+          }
+        });
+      });
+    </script>
+  </div>
+</main>
+{{ end }}

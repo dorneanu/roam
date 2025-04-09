@@ -1,0 +1,35 @@
+# Pagefind configuration
+
+# Basic options (using Pagefind 1.0 naming)
+site: public
+output_subdir: pagefind
+
+# Make sure journal content is included
+exclude_selectors: []
+include_selectors:
+  - "body"
+
+# Add date-based metadata for sorting
+indexing_options:
+  # Add date as metadata for all pages
+  - metadata_date_field: date
+    metadata_date_format: iso
+  
+  # Filter/section content based on content types
+  - metadata_fields:
+    - { tag: "meta[property='og:type']", as: "type", content_attr: "content" }
+    - { selector: "time", as: "date", content_attr: "datetime" }
+    - { selector: "[data-pagefind-sort-date]", as: "sort-date" }
+    - { tag: "meta[name='date']", as: "date", content_attr: "content" }
+    - { tag: "meta[property='article:published_time']", as: "published", content_attr: "content" }
+    
+  # Special case for journal entries
+  - page_path_filter: "/j/*" # Assuming journal pages are at /j/
+    metadata_fields:
+      - { selector: "h1", as: "title" }  # Get title from h1
+      - { tag: "meta[property='article:published_time']", as: "date", content_attr: "content" }
+
+# Added languages
+language:
+  code: en
+  stemming: true
