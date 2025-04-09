@@ -1,6 +1,6 @@
 {{ define "main" }}
-<main class="center mv4 content-width ph3">
-	<div class="f3 fw6 heading-color heading-font post-title">{{ .Title }}</div>
+<main class="center mv4 content-width ph3" data-pagefind-body>
+	<h1 class="f3 fw6 heading-color heading-font post-title">{{ .Title }}</h1>
 	<p class="silver f6 mt1 mb4 post-meta">
 		{{ if not .Date.IsZero }}<time>{{ .Date.Format "02 Jan 2006" }}</time> {{ end }}
 		{{ if or .Params.tags .Params.categories .Params.series }} | {{ end }}
