@@ -424,7 +424,10 @@ The ~package.json~ file provides several convenient npm scripts that streamline 
     and then starts the development server. This is ideal when you need to test search
     functionality locally.
 * Resources
+- 2025-04-10 ◦ [[https://gohugo.io/tools/search/][Hugo Search tools]]
+- 2025-04-10 ◦ [[https://pagefind.app/][Pagefind | Pagefind — Static low-bandwidth search at scale]]
 - 2025-04-10 ◦ [[https://blog.jverkamp.com/2023/09/25/adding-local-search-to-hugo-with-pagefind/][Adding local search to Hugo with Pagefind – jverkamp.com]]
+  This is where I got the idea with the q parameter (e.g. ~/search/q=string~)
 - 2025-04-10 ◦ [[https://michael-le.dev/posts/pagefind-hugo/][Search with Pagefind - michael-le.dev]]
 * Config                                                                                 :noexport:
 # Local variables:
