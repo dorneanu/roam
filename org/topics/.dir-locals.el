@@ -14,6 +14,7 @@
                      (defun replace-in-string (what with in)
                        (replace-regexp-in-string (regexp-quote what) with in nil 'literal))
 
+
                      (defun zeeros/fix-doc-path (path)
                        ;; (replace-in-string "../../topics/" "" (replace-in-string "../../topics/" "" path)
                        (replace-in-string "../../topics/" "../topics/" path)
