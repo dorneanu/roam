@@ -23,7 +23,7 @@ draft = false
 
 -   2025-03-20 ◦ [GitHub - fe3dback/go-arch-lint: GoLang architecture linter (checker) tool](https://github.com/fe3dback/go-arch-lint) ([from this reddit discussion)](https://www.reddit.com/r/golang/comments/1j4tfe8/how_to_avoid_boilerplate_when_initializing/)
 -   2023-01-19 ◦ [Go project written in clean code architecture : golang](https://www.reddit.com/r/golang/comments/zskzgu/go_project_written_in_clean_code_architecture/)
--   2022-10-04 ◦ [Auto-generated C4 Architecture Diagrams in Go](https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/) ([PlantUML]({{< relref "plantuml.md" >}}))
+-   2022-10-04 ◦ [Auto-generated C4 Architecture Diagrams in Go](https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/) ([PlantUML](plantuml.md))
 -   2022-08-16 ◦ [Service Discovery with Go and mDNS](https://betterprogramming.pub/service-discovery-with-go-17b44011bcb2)
 
 
@@ -32,7 +32,7 @@ draft = false
 -   2022-10-10 ◦ [inanzzz | A simple AWS SNS example with Golang using Localstack](http://www.inanzzz.com/index.php/post/i5re/a-simple-aws-sns-example-with-golang-suing-localstack)
 -   2022-10-10 ◦ [aws sdk go - How does one programmatically subscribe an SQS queue to an SNS topic in Go? - Stack Overflow](https://stackoverflow.com/questions/54204855/how-does-one-programmatically-subscribe-an-sqs-queue-to-an-sns-topic-in-go)
 -   2022-09-96 ◦ [GO ON AWS](https://www.go-on-aws.com/)
-    -   Using Golang for writing [CDK]({{< relref "cdk.md" >}}) stacks for [AWS]({{< relref "aws.md" >}})
+    -   Using Golang for writing [CDK](cdk.md) stacks for [AWS](aws.md)
 
 
 ### Custom resources {#custom-resources}
@@ -44,7 +44,7 @@ draft = false
 
 ## Books {#books}
 
--   2025-04-09 ◦ [Ultimate Go Notebook by William Kennedy](https://www.goodreads.com/book/show/58655212-ultimate-go-notebook) (as mentioned in [2025-04-09]({{< relref "../journal/2025-04-09.md" >}}))
+-   2025-04-09 ◦ [Ultimate Go Notebook by William Kennedy](https://www.goodreads.com/book/show/58655212-ultimate-go-notebook) (as mentioned in [2025-04-09](../journal/2025-04-09.md))
 -   2024-05-06 ◦ [Concurrency in Go](https://katherine.cox-buday.com/concurrency-in-go/)
 -   2024-04-17 ◦ [Effective Go Recipes: Fast Solutions to Common Tasks by Miki Tebeka](https://pragprog.com/titles/mtgo/effective-go-recipes/)
 -   2023-10-11 ◦ [Learn Go with Pocket-Sized Projects ](https://www.manning.com/books/learn-go-with-pocket-sized-projects)
@@ -57,12 +57,13 @@ draft = false
 
 ## Comparisons {#comparisons}
 
--   2023-01-16 ◦ [Ask HN: Should I learn Rust or Go? | Hacker News](https://news.ycombinator.com/item?id=31976407) ([Rust]({{< relref "rust.md" >}}))
--   2023-01-16 ◦ [Go devs that learned Rust, what are your thoughts on it?](https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/) ([Rust]({{< relref "rust.md" >}}))
+-   2023-01-16 ◦ [Ask HN: Should I learn Rust or Go? | Hacker News](https://news.ycombinator.com/item?id=31976407) ([Rust](rust.md))
+-   2023-01-16 ◦ [Go devs that learned Rust, what are your thoughts on it?](https://www.reddit.com/r/golang/comments/106hi38/go_devs_that_learned_rust_what_are_your_thoughts/) ([Rust](rust.md))
 
 
 ## Concurrency {#concurrency}
 
+-   2025-04-23 ◦ [The Cards of Concurrency in Go](https://blog.cubed.run/the-cards-of-concurrency-in-go-0d7582cecb79)
 -   2023-12-07 ◦ [Learn Concurrent Programming with Go](https://www.manning.com/books/learn-concurrent-programming-with-go?utm_source=cutajarj&utm_medium=affiliate&utm_campaign=book_cutajar_learn_12_14_22&a_aid=cutajarj&a_bid=4360d6bb) (Book)
 -   2023-03-27 ◦ [CodePilot | Synchronization Patterns in Go](https://code-pilot.me/synchronization-patterns-in-go)
 
@@ -185,7 +186,7 @@ draft = false
 -   2022-10-04 ◦ [Encore Docs — Encore Flow](https://encore.dev/docs/develop/encore-flow)
     -   Visualize cloud microservices architecture
 -   2022-08-25 ◦ [go-zero](https://github.com/zeromicro/go-zero)
-    -   A cloud-native Go [Microservices]({{< relref "microservices.md" >}}) framework with cli tool for productivity.
+    -   A cloud-native Go [Microservices](microservices.md) framework with cli tool for productivity.
 
 
 ## Plugins {#plugins}
@@ -228,7 +229,7 @@ A collection of interesting threads.
 
 ## Security {#security}
 
--   2022-10-04 ◦ [Simple JWT Authentication for Golang (Part 1)](https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo) ([JWT]({{< relref "jwt.md" >}}))
+-   2022-10-04 ◦ [Simple JWT Authentication for Golang (Part 1)](https://dev.to/omnisyle/simple-jwt-authentication-for-golang-part-1-3kfo) ([JWT](jwt.md))
 
 
 ## Serverless {#serverless}
