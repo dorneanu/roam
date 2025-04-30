@@ -4,6 +4,7 @@
 #+title: Drums
 
 * Resources
+- 2025-04-25 ◦ [[https://www.musicradar.com/tuition/tech/how-to-program-a-basic-latin-rhythm-with-congas-and-bongos-634917][How to program a basic Latin rhythm with congas and bongos | MusicRadar]]
 - 2025-04-08 ◦ [[https://drumpatterns.onether.com/][Discover & share drum machine patterns.]]
 - 2025-04-09 ◦ [[https://splice.com/][Royalty-Free Sounds, FX, Presets & More | Splice]]
 - 2024-04-16 ◦ [[https://www.mikeslessons.com/groove][Groove Scribe]]
