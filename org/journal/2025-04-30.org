@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9718F786-37DD-41CD-AC15-2F322F77388D
+:END:
+#+TITLE: 2025-04-30
+#+DATE: 2025-04-30
+#+FILETAGS: journal
+
+- https://www.scotthyoung.com/blog/2025/04/29/sleep-month-end-update/
+  #+begin_quote
+  One idea that I found particularly helpful was Jade Wu’s comment that tiredness is not the
+  same as sleepiness. Sleepiness is a lack of sleep. Tiredness is a lack of energy. The two
+  are not interchangeable.
+  #+end_quote
+
