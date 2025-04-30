@@ -9,6 +9,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 
 ## 2025 {#2025}
 
+-   2025-04-30 ◦ [Hello Sleep: The Science and Art of Overcoming Insomnia Without Medications by Jade Wu](https://www.goodreads.com/book/show/60784603-hello-sleep)
 -   2025-04-01 ◦ [Werde übernatürlich: Wie gewöhnliche Menschen das Ungewöhnliche erreichen by Joe Dispenza](https://www.goodreads.com/book/show/37510504-werde-bernat-rlich?from_search=true&from_srp=true&qid=SusRcalO7r&rank=1)
 -   2025-04-01 ◦ [Sustain Me: A Handbook of Natural Remedies, The 9 Foundational Pillars for Health by Barbara O’neill](https://www.goodreads.com/en/book/show/216843823-sustain-me)
 -   2025-03-13 ◦ [Supercommunicators: How to Unlock the Secret Language of Connection by Charles Duhigg](https://www.goodreads.com/book/show/157981748-supercommunicators)
