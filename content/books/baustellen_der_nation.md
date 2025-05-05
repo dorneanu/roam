@@ -1,12 +1,12 @@
 +++
-title = "Baustellen der Nation Baustellen der Nation - Zusammenfassung"
-author = ["Philip Banse und Ulf Buermeyer"]
+title = "Baustellen der Nation"
+author = ["Dorneanu"]
 date = 2025-04-23
 tags = ["TODO", "politics", "book"]
 draft = false
 +++
 
-<https://www.goodreads.com/book/show/125083585-baustellen-der-nation>
+👉 <https://www.goodreads.com/book/show/125083585-baustellen-der-nation>
 
 
 ## Vorwort {#vorwort}

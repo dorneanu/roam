@@ -5,11 +5,8 @@
 #+filetags: :TODO:politics:book:
 #+date: 2025-04-23
 
-https://www.goodreads.com/book/show/125083585-baustellen-der-nation
+👉 https://www.goodreads.com/book/show/125083585-baustellen-der-nation
 
-#+TITLE: Baustellen der Nation - Zusammenfassung
-#+AUTHOR: Philip Banse und Ulf Buermeyer
-#+DATE: 2024
 
 * Vorwort
 ** Grundsätzliche Positionen der Autoren
