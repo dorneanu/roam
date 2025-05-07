@@ -1,0 +1,658 @@
+#+TITLE: Slowcooker Suppen-Rezepte
+#+AUTHOR: slowcooker.de
+#+DATE: 2025-05-07
+
+Eine Sammlung leckerer Suppen-Rezepte für den Slowcooker von slowcooker.de.
+
+* Gemüsesuppen
+** Brokkoli-Cheddar-Suppe
+:PROPERTIES:
+:URL: https://slowcooker.de/brokkoli-cheddar-suppe-slowcooker/
+:END:
+
+*** Zutaten
+- 500 g Brokkoli, geputzt
+- 1 Zwiebel
+- 1 Knoblauchzehe, zerdrückt
+- 1 l Hühner- oder Gemüsefond
+- 2 Kartoffeln, geschält, in cm-großen Würfeln
+- Salz, Pfeffer, Prise Muskatnuss
+- 100 ml Sahne
+- 100 g Cheddar, scharf gerieben (oder anderer würziger Käse)
+
+** Samtige Tomatensuppe
+:PROPERTIES:
+:URL: https://slowcooker.de/samtige-tomatensuppe-slowcooker/
+:END:
+
+*** Zutaten
+- 4 EL Olivenöl
+- 2 kl. Zwiebeln, fein gehackt
+- 1 Knoblauchzehe, zerdrückt
+- 1/2 rote Paprika, in Würfeln
+- 250 g Möhren, geschält, fein gewürfelt
+- 3 kl. Dosen Tomaten (a 400 g)
+- 400 - 600 ml Gemüsebrühe (bevorzugt selbst gekocht)
+- Salz, Pfeffer
+- Chilipulver (optional)
+- 1/4 TL Natron
+- 100 ml Sahne
+- Basilikumblätter, zum Garnieren
+
+#+BEGIN_NOTE
+Perfekt mit einem Käsetoast (Grilled Cheese Sandwich) servieren!
+#+END_NOTE
+
+** Sellerie-Cremesuppe
+:PROPERTIES:
+:URL: https://slowcooker.de/sellerie-cremesuppe-mit-kaesetoasts-slowcooker/
+:END:
+
+*** Zutaten
+**** Für die Suppe
+- 500 g Knollensellerie, geputzt
+- 1 Zwiebel, weiß
+- 2 Kartoffeln, groß
+- 800 ml Gemüsebrühe
+-.200 – 300 ml Milch
+- Salz, Pfeffer
+
+**** Zum Anrichten
+- 1 Baguettebrot, in 12 Scheiben geschnitten
+- 100 g Roquefort, zerbröckelt (oder anderer Blauschimmelkäse)
+- 50 g Gouda, gerieben
+- 1 Frühlingszwiebel, in Ringen
+- Petersilie, gehackt
+
+#+BEGIN_NOTE
+Statt Blauschimmelkäse kann auch einfach Cheddar, Bergkäse oder Gouda verwendet werden.
+#+END_NOTE
+
+** Minestrone
+:PROPERTIES:
+:URL: https://slowcooker.de/minestrone/
+:END:
+
+*** Zutaten
+- 3 EL Olivenöl
+- 1 Zwiebel, gehackt
+- 1 Stange Staudensellerie, gehackt (optional)
+- 1 Knoblauchzehe, in Würfeln
+- 2 Möhren, in Scheibchen
+- 200 g grüne Bohnen, frisch, in Stücken
+- 500 ml passierte Tomaten (Tetra-Pak)
+- 400 g stückige Tomaten (Dose)
+- 500 ml Wasser oder Gemüsefond
+- 1 Dose Riesenbohnen (Abtropfgewicht 210 g)
+- 1 Lorbeerblatt
+- 1 Kräuterstrauß mit Thymian, Majoran, Rosmarin
+- Salz, Pfeffer
+- 1 Paprikaschote, geputzt, in Streifen
+- 1 Zucchini, längs halbiert, in feinen Scheibchen (optional)
+- 100 g feine Suppennudeln
+
+#+BEGIN_NOTE
+Die Nudeln können auch separat gekocht und erst kurz vor dem Servieren hinzugegeben werden, damit sie nicht zu weich werden.
+#+END_NOTE
+
+** Steckrübeneintopf
+:PROPERTIES:
+:URL: https://slowcooker.de/steckruebeneintopf-nach-tim-maelzer-slowcooker-rezept/
+:END:
+
+*** Zutaten
+- 1 Steckrübe (ca. 700 g geschält gewogen)
+- 300 g Möhren
+- 1 Gemüsezwiebel (oder 2 kl. Zwiebeln / Schalotten)
+- 500 g Kartoffeln (mehlig kochende Sorte)
+- 2 EL Gänseschmalz (oder Schweine- bzw. Butterschmalz)
+- 100 g Speck (gewürfelt)
+- 1 l Wasser oder Gemüsebrühe
+- 1 Lorbeerblatt
+- Salz, schwarzer Pfeffer (aus der Mühle)
+- Zucker
+- Essig (optional)
+
+#+BEGIN_NOTE
+Der Eintopf lässt sich auch rein pflanzlich zubereiten - einfach statt Speck Räuchertofu verwenden.
+#+END_NOTE
+
+** Rotkohlsüppchen mit Nüssen
+:PROPERTIES:
+:URL: https://slowcooker.de/rotkohlsueppchen-mit-nuessen-aus-dem-slowcooker/
+:END:
+
+*** Zutaten
+- 1 Zwiebel, groß, gehackt
+- 1 Knoblauchzehe, zerdrückt
+- 1 EL Öl
+- 1 kleiner Rotkohl (800 - 1000 g, geputzt gewogen)
+- 500 g Kartoffeln, mehlig kochend, geschält
+- 1,5 - 1,7 l Gemüsebrühe
+- 200 g Crème fraîche
+- 4 EL Milch
+- 2 EL Walnusskerne
+- 2 EL Pistazienkerne
+- Salz, Pfeffer
+- 1 EL Honig
+- Himbeeressig zum Abschmecken
+
+* Hülsenfruchtsuppen
+** Schwarzbohnen-Suppe a la TGI Friday's
+:PROPERTIES:
+:URL: https://slowcooker.de/schwarzbohnen-suppe-slowcooker/
+:END:
+
+*** Zutaten
+**** Für die Suppe
+- 400 g schwarze Bohnen, getrocknet (alternativ drei Dosen vorgegarte schwarze Bohnen, abgegossen)
+- 2 EL Olivenöl
+- 3 Zwiebeln, gehackt
+- 2 Stangen Staudensellerie, in Scheibchen
+- 1 Möhre, groß, in Würfeln
+- 2 Paprikaschoten, rot und grün, gewürfelt
+- 1 Knoblauchzehe, zerdrückt
+- 500 ml Gemüsebrühe (eigener Fond oder aus Instant)
+- 500 ml passierte Tomaten
+- 1 Jalapeno-Schote
+- Salz, Pfeffer
+- 1/2 TL Oregano, getrocknet
+- 1 TL Kreuzkümmel
+- Cayenne-Pfeffer nach Geschmack
+
+**** Zum Garnieren
+- saure Sahne, Käse, Tortillachips, grüne Zwiebeln (optional)
+
+** Erbsensuppe westfälisch
+:PROPERTIES:
+:URL: https://slowcooker.de/aus-dem-crockpot-erbsensuppe-westfalisch/
+:END:
+
+*** Zutaten
+- 500 g grüne Schälerbsen, getrocknet
+- 1 groß. Zwiebel
+- 1 Bund Suppengrün, fein gehackt
+- 400 g Kasseler Nacken
+- 2 Mettwürstchen, geräuchert
+- 1 Lorbeerblatt
+- 1 Teel. Majoran, getrocknet
+- 500 g Kartoffeln, mehlig kochend, in 1cm-Würfeln
+- 4 Wiener Würstchen
+- Salz, Pfeffer, gekörnte Brühe
+- 1/2 Bund Petersilie
+
+#+BEGIN_NOTE
+Vegetarische Variante: Statt Kasseler und Wurst können Räuchertofu-Würfel verwendet werden.
+#+END_NOTE
+
+** Kürbis-Chili
+:PROPERTIES:
+:URL: https://slowcooker.de/saisonal-schmeckts-besser-kuerbis-chili/
+:END:
+
+*** Zutaten
+- 500 g Butternuss-Kürbis, geschält, in Würfeln
+- 1 rote Paprikschote, gehackt
+- 1 grüne Paprikschote, gehackt
+- 1 Dose Kidneybohnen (250 g Abtropfgewicht)
+- 1 Dose weiße Bohnen (250 g Abtropfgewicht)
+- 1 Zwiebel, fein gehackt
+- 2 Knoblauchzehen, zerdrückt
+- 1 Chilischote, fein gewürfelt (optional)
+- 2 Dosen gehackte Tomaten (je 425 ml)
+- 400 ml Gemüsebrühe (selbst gekocht oder Instant)
+- 50 g Tomatenmark
+- 1 TL Zucker
+- 1 TL Kreuzkümmel, gemahlen
+- Salz, Pfeffer, Paprikapulver & Oregano
+
+#+BEGIN_NOTE
+Mit saurer Sahne, Käse und gehacktem Koriander servieren.
+#+END_NOTE
+
+** Bauerntopf
+:PROPERTIES:
+:URL: https://slowcooker.de/rezept-bauerntopf-mit-und-ohne-hack/
+:END:
+
+*** Zutaten
+- 600 g Kartoffeln, geschält, mehlig kochende Sorte
+- 2 Paprikaschoten, rot
+- 2 Stangen Staudensellerie, in 5 mm großen Stücken
+- 2 EL Öl
+- 500 g gemischtes Hackfleisch (alternativ 1 Paket "veganes Hack", 200 - 300 g)
+- 1 Zwiebel, fein gehackt
+- 1 Knoblauchzehe, zerdrückt
+- Salz, Pfeffer
+- 70 g Tomatenmark
+- 800 ml Gemüsebrühe (idealerweise selbst gekocht)
+- 1 - 2 TL Paprika (edelsüß oder scharf, nach Geschmack)
+- je 1/2 TL Thymian, Majoran, Oregano (getrocknet)
+
+#+BEGIN_NOTE
+Mit einem Klecks saurer Sahne servieren.
+#+END_NOTE
+
+* Kürbis- und Süßkartoffelsuppen
+** Kürbispüree & Kürbissuppe
+:PROPERTIES:
+:URL: https://slowcooker.de/kuerbispueree-kuerbissuppe-slowcooker/
+:END:
+
+*** Zutaten für die Kürbissuppe
+- 2 EL Öl
+- 1 Zwiebel, feinstgehackt
+- 1 Knoblauchzehe, zerdrückt
+- 1 Stück Ingwer, knapp walnussgroß, feinst gehackt
+- 1 - 2 TL Thai-Currypaste (je nach Wunsch gelb oder rot)
+- 500 g Butternut-Kürbispüree (im Slowcooker oder Backofen gegart)
+- 400 ml Kokosmilch (aus der Dose, fettreduziert oder vollfett)
+- 100 - 200 ml Gemüsefond (nach Wunsch)
+- Salz, Pfeffer
+- 1 - 2 TL Limettensaft
+- 100 ml Hafer- oder andere Pflanzenmilch (optional)
+
+#+BEGIN_NOTE
+Auch Muskatkürbis oder Hokkaido eignen sich hervorragend für diese Suppe.
+#+END_NOTE
+
+** Thai-Curry-Kürbissuppe
+:PROPERTIES:
+:URL: https://slowcooker.de/aus-dem-slowcooker-thai-curry-kuerbissuppe/
+:END:
+
+*** Zutaten
+- 1 kg Butternuss-Kürbis (vorbereitet gewogen, geschält, in Würfeln)
+- 1 Stück Ingwer, walnussgroß, geschält und gehackt
+- 1 gr. Zwiebel gehackt
+- 1 Knoblauchzehe, zerdrückt
+- 1 - 2 EL Thai-Currypaste (rot oder gelb)
+- 1 Dose Kokosmilch (400 ml)
+- 800 ml Hühnerbrühe (auch aus Instant)
+- 2 EL Fischsauce
+- 1 TL Limettensaft
+- 1 TL brauner Zucker
+- Salz & Pfeffer nach Geschmack
+- frischer Koriander
+
+#+BEGIN_NOTE
+Wer nicht gerne scharf isst, sollte weniger Currypaste verwenden.
+#+END_NOTE
+
+** Süßkartoffel-Kokos-Suppe
+:PROPERTIES:
+:URL: https://slowcooker.de/aus-dem-slowcooker-suesskartoffel-kokos-suppe/
+:END:
+
+*** Zutaten
+- 2 EL Öl
+- 1 Stück Ingwer (2 cm), gewürfelt
+- 2 Knoblauchzehen, zerdrückt
+- 1 Zwiebel, groß, gehackt
+- 1 - 2 TL Currypaste, rot
+- 2 Süßkartoffeln, geputzt und gewürfelt, ca. 800 g
+- 2 Dosen Kokosmilch (a 400 g)
+- 400 ml Gemüsebrühe (selbst gekocht oder aus Instant)
+- 2 EL Limettensaft
+- Salz, Pfeffer
+
+**** Zum Garnieren
+- frischer Koriander
+- Kokoschips oder Kokosflocken
+
+** Süßkartoffelsuppe mit Crunch
+:PROPERTIES:
+:URL: https://slowcooker.de/aus-dem-slowcooker-suesskartoffelsuppe-mit-crunch-werbung/
+:END:
+
+*** Zutaten
+- 2 EL Ghee oder Öl
+- 150 g Porree, gehackt
+- 150 g Möhre, gehackt
+- 100 g Knollensellerie, gehackt
+- 1/2 Nashi-Birne, geschält, in Würfeln
+- 600 g Süßkartoffel, in Würfeln, geputzt gewogen
+- 1,2 l Gemüsebrühe
+- 200 ml Kokosmilch
+- 3 - 4 Zweige Thymian
+- Salz, Pfeffer, Zucker, Spritzer Zitronensaft
+- 1/2 TL Kurkuma
+
+**** Für den Crunch
+- 1 EL Walnüsse
+- 1 TL getrocknete Steinpilze
+- 1 EL Sesamsamen (schwarz und weiß)
+
+**** Zum Servieren
+- 1/2 Nashi-Birne, in Würfeln
+
+* Fleischsuppen
+** Magische Kohlsuppe
+:PROPERTIES:
+:URL: https://slowcooker.de/aus-dem-crockpot-meine-magische-kohlsuppe/
+:END:
+
+*** Zutaten
+- 500 g Weiß- oder Jaroma-Kohl, in feinen Streifen
+- 1 TL Olivenöl
+- 1 Zwiebel, gehackt
+- 3 Knoblauchzehen, gestiftelt
+- 500 g Hackfleisch, mager
+- 50 g Reis, roh
+- 500 g passierte Tomaten
+- 3 EL Tomatenmark
+- 1,2 l Gemüsefond (oder Wasser bzw. Instantbrühe)
+- 1 TL Zucker
+- 1-2 EL Paprika, edelsüß
+- Salz, Pfeffer, Chilipulver
+- 1 TL gekörnte Brühe (optional)
+
+** Chicken Tortilla Soup
+:PROPERTIES:
+:URL: https://slowcooker.de/chicken-tortilla-soup-slowcooker/
+:END:
+
+*** Zutaten
+**** Für die Suppe
+- 1 EL Öl
+- 1 Zwiebel, fein gehackt
+- 1 Knoblauchzehe, zerdrückt
+- 1 (Jalapeno-)Chilischote, fein gewürfelt (optional)
+- 350 g Pollo Fino (entbeinte Hähnchen-Oberschenkel, alternativ 1 - 2 Hähnchenschenkel ohne Haut)
+- 600 ml Hühnerbrühe
+- 500 g passierte Tomaten (TetraPak)
+- 1/2 Paket Taco-Gewürzmischung (15 g)
+- Salz, Pfeffer, Chilipulver nach Geschmack
+- 1 Dose Mais (Abtropfgewicht 140 g, abgegossen)
+- 1 Dose schwarze Bohnen (Abtropfgewicht 240 g, abgegossen)
+- 1 Dose Kidneybohnen (Abtropfgewicht 255 g, abgegossen)
+- 75 g Frischkäse
+- 100 g Cheddar, gerieben
+
+**** Zum Garnieren
+- 2 EL Öl
+- 2 gr. Weizenmehl-Wraps (oder 4 Maistortillas)
+- 1 Avocado, in Scheibchen (optional)
+- 50 g Cheddar, gerieben
+- 1 Bund Koriander, gehackt
+
+#+BEGIN_NOTE
+Vegetarische Variante: Statt Hähnchen weitere Hülsenfrüchte wie Wachtelbohnen oder Kichererbsen verwenden und Gemüsebrühe statt Hühnerbrühe nutzen.
+#+END_NOTE
+
+** Geflügel-Reis-Suppe
+:PROPERTIES:
+:URL: https://slowcooker.de/gefluegel-reis-suppe-slowcooker/
+:END:
+
+*** Zutaten
+- 2 EL Öl
+- 350 g Suppengemüse (Lauch, Sellerie, Möhren)
+- 1 Zwiebel, in Würfeln
+- 100 g Reis-Wildreis-Mischung, roh
+- 100 g Erbsen (TK)
+- 2 Hühnerkeulen mit Rückenstück, ohne Haut
+- 1,2 l Hühnerbrühe
+- 200 ml Kaffeesahne (10 Prozent) oder Vollmilch
+- 1 EL Mehl, gestrichen
+- Salz, Pfeffer
+- 1 EL Sherry
+- Petersilie, gehackt
+
+#+BEGIN_NOTE
+Wer mehr Fleischeinlage möchte, kann auch Hühnerbrust am Knochen mitgaren. Die Haut sollte in jedem Fall entfernt werden, da sie sehr viel Fett abgibt.
+#+END_NOTE
+
+** Asia-Hühnersuppe
+:PROPERTIES:
+:URL: https://slowcooker.de/asia-huehnersuppe-slowcooker/
+:END:
+
+*** Zutaten
+- 500 g Hühnerbrustfilet (oder 2 Hähnchenschenkel)
+- 1 l Hühnerfond (selbst gemacht oder aus Instant)
+- 2 Möhren, in feinste Scheibchen geschnitten
+- 1⁄2 Stange Porree, in feinen Ringen
+- 100 g grüne Bohnen, in Stücken
+- 2 Zehen Knoblauch
+- 1 Stängel Zitronengras, in 2cm-Stücke geschnitten
+- 1–2 TL rote Currypaste
+- 1 Dose Kokosmilch (400 ml)
+- 1⁄2 Paprikaschote, rot, in feinsten Würfeln
+- Salz, Pfeffer
+- 1 EL Sojasauce
+- 100 g Glasnudeln
+- 50 g Mungobohnen-Sprossen
+- 1⁄2 Bund Koriander, gehackt
+
+#+BEGIN_NOTE
+Variationen: Statt Paprikaschoten können auch Erbsen oder Zuckerschoten (in feine Streifen geschnitten) verwendet werden.
+#+END_NOTE
+
+** Chorizo-Kartoffelsuppe
+:PROPERTIES:
+:URL: https://slowcooker.de/chorizo-kartoffelsuppe-slowcooker/
+:END:
+
+*** Zutaten
+- 2 EL Olivenöl
+- 1 gr. Zwiebel, gehackt
+- 1 Knoblauchzehe, zerdrückt
+- 50 g Tomatenmark
+- 2 EL Paprika (mild oder scharf, nach Wunsch)
+- 1/2 TL Kümmel
+- 1 TL Majoran, getrocknet
+- 2 EL dunkler Balsamico
+- 800 ml Gemüsebrühe (selbst gekocht oder aus Instant)
+- Salz, Pfeffer
+- 800 g vorw. festkochende Kartoffeln, in 1cm-großen Würfeln
+- 2 Paprikaschoten (orange oder rot, nicht grün), in mundgerechten Stücken
+- 200 g Chorizo am Stück (mild oder scharf, Haut entfernt)
+
+#+BEGIN_NOTE
+Tipp: Wenn keine Chorizo verfügbar ist, können auch Debrecziner oder Mettwurst verwendet werden.
+#+END_NOTE
+
+** Hühnersuppe mit Klößchen
+:PROPERTIES:
+:URL: https://slowcooker.de/guenstig-kochen-huehnersuppe-mit-kloesschen/
+:END:
+
+*** Zutaten
+**** Für die Suppe
+- 1,2 kg Hähnchenkeulen mit Oberschenkel (ca. 4 Stück)
+- 1 Zwiebel
+- 2 Bund Suppengrün
+- 1 Lorbeerblatt, Pfefferkörner, Salz
+- 3,5 - 4 l Wasser
+- 125 g feine Nudeln, separat nach Packungsanleitung gekocht
+- 1/2 Bund Petersilie
+
+**** Für die Klößchen
+- 7 Zwiebäcke, zu sehr feinen Bröseln zerdrückt
+- 50 g Butter, geschmolzen
+- 2 Eier
+- ½ Bund Schnittlauch
+- Salz, Pfeffer, Muskatnuss
+
+#+BEGIN_NOTE
+Tipp: Als Suppeneinlage können auch übrig gebliebene Nudeln oder Reis vom Vortag verwendet werden.
+#+END_NOTE
+
+** Rosół - Polnische Hühnersuppe
+:PROPERTIES:
+:URL: https://slowcooker.de/kulinarische-weltreise-rosol-polnische-huehnersuppe/
+:END:
+
+*** Zutaten
+**** Für die Suppe
+- 1 Bio-Suppenhuhn
+- 6 gr. Möhren
+- 1/2 Stange Lauch
+- 1 gr. Zwiebel, halbiert und angeröstet
+- 3 Stangen Staudensellerie
+- 2 Lorbeerblätter
+- 8 Pfefferkörner
+- 1 Pimentkorn (optional)
+- 1 EL getrocknete Steinpilze (optional)
+- Salz, Wasser, Gemüsenbrühenpulver (Vegeta)
+
+**** Für die Nudeln
+- 200 g Mehl (Typ 405, alternativ Tipo 00)
+- 2 Eier
+- Prise Salz
+
+**** Zum Servieren
+- gehackte Petersilie
+
+** Bacon Chicken Chowder
+:PROPERTIES:
+:URL: https://slowcooker.de/bacon-chicken-chowder-kartoffelsuppe-mit-huhn-und-speck/
+:END:
+
+*** Zutaten
+- 250 g Hühnerbrustfilet, in Würfeln
+- 1 Zwiebel, gehackt
+- 1 Knoblauchzehe, zerdrückt
+- 300 g Kartoffeln, in 1x1 cm Würfeln
+- 150 g Möhren, in schmalen Scheiben
+- Salz, Pfeffer
+- Prise Thymian und Oregano
+- 500 ml Hühnerbrühe (bevorzugt) oder Wasser
+- 100 g Frühstücksspeck, gewürfelt
+- 60 g Frischkäse (vollfett)
+- 50 g Sahne
+- 1 TL Speisestärke
+
+** Krautrouladentopf
+:PROPERTIES:
+:URL: https://slowcooker.de/krautrouladentopf-aus-dem-slowcooker/
+:END:
+
+*** Zutaten
+- 1 EL Öl
+- 500 g Rinderhack (mager)
+- 1 gr. Zwiebel, fein gehackt
+- 1 Knoblauchzehe, zerdrückt
+- 500 g Weißkohl, geputzt, in schmalen Streifen
+- 1 Dose gehackte Tomaten (400 g)
+- 2 EL Tomatenmark
+- 1 EL Ajvar (milde oder scharfe Paprikapaste)
+- 400 ml Gemüse- oder Fleischbrühe
+- 1 TL Paprikapulver
+- Salz und Pfeffer nach Geschmack
+
+#+BEGIN_NOTE
+Nach Geschmack mit einem Klecks saure Sahne und einer Scheibe Graubrot servieren.
+#+END_NOTE
+
+** Cheeseburger-Suppe
+:PROPERTIES:
+:URL: https://slowcooker.de/cheeseburger-suppe-instant-pot-rezept/
+:END:
+
+*** Zutaten
+**** Für die Suppe
+- 1 EL Öl
+- 500g Rinderhack
+- 1 Zwiebel, fein gehackt
+- 2 Knoblauchzehen, zerdrückt
+- 800 ml Rinderfond oder Gemüsebrühe (auch aus Instant)
+- 400g mehlig kochende Kartoffeln, in 1x1cm-Würfeln
+- 1 Dose Pizzatomaten (400 g)
+- 70 g Tomatenmark
+- 1 Tl Honig
+- 50 ml Gurkenbrühe
+- 1 EL Senf
+- 125 ml Sahne
+- Salz, Pfeffer
+- 100 g Cheddar, gerieben
+
+**** Als Toppings
+- gehackte Gurken, gehackte Zwiebeln, geriebener Cheddar
+
+**** Zum Servieren
+- 3 Hamburgerbrötchen, halbiert, getoastet
+
+#+BEGIN_NOTE
+Mit Knoblauchbutter bestrichene und mit Käse überbackene Hamburgerbrötchen sind die perfekte Beilage.
+#+END_NOTE
+
+* Pasta- und Nudelsuppen
+** Tortellinisuppe
+:PROPERTIES:
+:URL: https://slowcooker.de/tortellinisuppe-multikocher-slowcooker/
+:END:
+
+*** Zutaten
+- 1 - 2 Möhren, feinst gewürfelt (ca. 200 g)
+- 1 Paprikaschote, groß, fein gehackt (ca. 250 g)
+- 1 Gemüsezwiebel, feinst gehackt
+- 1 Zehe Knoblauch, zerdrückt
+- 200 g frische Champignons, geputzt, in Scheibchen
+- 1500 g passierte Tomaten ((Tetra-Pak)
+- 1000 ml Gemüsebrühe (selbst gekocht oder aus Instant)
+- 3 EL Tomatenmark
+- 1 EL Zucker, braun
+- je ½ TL getr. Oregano und Basilikum
+- Salz, Pfeffer
+- 1 Zucchini, in sehr dünnen Scheibchen (alternativ: 100 g aufgetauter Blattspinat)
+- 2 Packung Käse- oder Fleisch-Tortellini (die vorgegarte Variante aus der Kühltheke, je 400 g)
+
+** Zuppa Toscana
+:PROPERTIES:
+:URL: https://slowcooker.de/zuppa-toscana-olive-garden-slowcooker/
+:END:
+
+*** Zutaten
+**** Für die Suppe
+- 500 g grobe Bratwurst
+- 125 g geräucherte Speckwürfel
+- 1 Gemüsezwiebel, in feinen Würfeln
+- 1 Knoblauchzehe, zerdrückt
+- 1,2 l Hühner- oder Gemüsebrühe
+- 800 - 1000 g mehlig kochende Kartoffeln, in 1 cm-großen Würfeln
+- Salz und Pfeffer
+
+**** Zum Fertigstellen
+- 50 - 150 ml Sahne
+- 1 EL Mehl
+- 250 g TK-Blattspinat, aufgetaut und abgetropft
+
+#+BEGIN_NOTE
+Mit geröstetem Brot servieren.
+#+END_NOTE
+
+** Pho - Nudelsuppe aus Vietnam
+:PROPERTIES:
+:URL: https://slowcooker.de/aus-dem-slowcooker-pho-nudelsuppe-aus-vietnam/
+:END:
+
+*** Zutaten
+**** Für die Brühe
+- 600 g Hähnchen-Oberschenkelfleisch mit Knochen
+- 3,5 l Wasser
+- 2 Zwiebeln, in Scheiben
+- 4 cm Ingwer, geschält
+- 4 Knoblauchzehen, gepellt und halbiert
+- 6 Nelken
+- 2 Sternanis
+- 2 Zimtstangen
+- 2 TL Koriandersamen, ganz
+- 4 EL dunkle Sojasauce
+- 1 EL Salz
+- 1 EL brauner Zucker
+- 1 Stängel Zitronengras, angeklopft
+- 3 Shiitakepilze, getrocknet, zerbröselt
+- 1 Bund Koriander (die Stiele, Grün zurückbehalten)
+
+**** Zum Servieren
+- vorgegarte Reis- oder Sobanudeln
+- gehackte grüne Zwiebeln
+- Koriandergrün
+- 1 Chilischote, in Ringen (optional)
+- 1 Limette, in Scheiben
+
+#+BEGIN_NOTE
+Variationen: Pho schmeckt auch gut mit Rind (Beinscheibe scharf anbraten und mitgaren) oder vegetarisch (Fleisch weglassen und Tofustreifen hinzugeben)
+#+END_NOTE
