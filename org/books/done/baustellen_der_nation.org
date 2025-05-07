@@ -19,22 +19,7 @@
   neu justiert werden. Um dem Handeln von Menschen und Unternehmen eine neue Richtung zu
   geben, *muss der Staat eine aktivere Rolle übernehmen als bisher*.
   #+END_QUOTE
-
-- Die Autoren vertreten einen "transformativen Pragmatismus":
-  - Klare Benennung von Problemen und strukturellen Ursachen
-  - Konkrete Lösungsvorschläge statt ideologischer Debatten
-  - Grundlegende Reformen innerhalb des bestehenden Systems
-
-- Die Position der Autoren ist moderat-progressiv:
-  - Sie bleiben im Rahmen der sozialen Marktwirtschaft
-  - Fordern jedoch eine deutlich aktivere Rolle des Staates
-  - Betonen die Notwendigkeit langfristiger Investitionen
-  - Kritisieren die Sparlogik der vergangenen Jahrzehnte
-
 * Das Land der bröselnden Brücken
-:PROPERTIES:
-:CUSTOM_ID: kapitel1
-:END:
 
 ** Die Infrastrukturkrise in Deutschland
 - Ausmaß der Probleme
@@ -117,9 +102,6 @@
 - Gerechte Verteilung der Finanzierungslast auf alle Generationen
 
 * Wenn der Förster den Admin macht
-:PROPERTIES:
-:CUSTOM_ID: kapitel2
-:END:
 
 ** Die Digitalisierungskrise der deutschen Verwaltung
 - Deutschland im internationalen Vergleich
@@ -186,9 +168,6 @@
 - Attraktive IT-Dienstleister in öffentlicher Hand
 
 * Die Baustelle Deutsche Bahn
-:PROPERTIES:
-:CUSTOM_ID: kapitel3
-:END:
 
 ** Der Niedergang des Schienennetzes
 *** Drastischer Rückbau des Netzes
@@ -251,22 +230,16 @@ Kilometer Schiene neu in Betrieb genommen worden, bilanziert das NEE 2021. Zum V
   Deutschland verursacht.
   #+END_QUOTE
   
-* Die Windkraft-Baustelle: Wege aus der Flaute
-:PROPERTIES:
-:CUSTOM_ID: kapitel-windkraft
-:END:
+* Die Windkraft-Baustelle
 
-*** Windkraftausbau als alternativlose Lösung
-:PROPERTIES:
-:CUSTOM_ID: windkraftausbau-alternativlos
-:END:
+** Windkraftausbau als alternativlose Lösung
 
 #+begin_quote
 "Windenergie ist das Rückgrat der Energiewende. Ohne Windenergie geht nichts. Aber bei der
 Windenergie geht zu wenig."
 #+end_quote
 
-**** Die klimaneutrale Transformation der Energieversorgung
+*** Die klimaneutrale Transformation der Energieversorgung
 
 Deutschland hat sich verpflichtet, bis 2045 klimaneutral zu werden. Dies erfordert einen
 massiven Umstieg auf erneuerbare Energien, vor allem auf Wind- und Solarenergie. Das
@@ -281,7 +254,7 @@ wird. Vieles, was bislang durch Öl und Gas befeuert wird, muss auf elektrische 
 umgestellt werden: Autos und Heizungen ebenso wie die Herstellung von Stahl und Zement."
 #+end_quote
 
-**** Aktuelle Lage und Herausforderungen
+*** Aktuelle Lage und Herausforderungen
 
 Aktuell stammt erst knapp die Hälfte des deutschen Stroms aus erneuerbaren Quellen - ein
 Ergebnis, für das 20 Jahre gebraucht wurden. Die Autoren betonen die Dringlichkeit des
@@ -298,10 +271,7 @@ Während der Solarausbau vergleichsweise gut läuft, hinkt die Windkraft hinterh
 der von Bundeskanzler Scholz geforderten vier bis fünf Windräder pro Tag werden aktuell
 nur etwa zwei täglich gebaut.
 
-*** Verzögerungsfaktoren beim Windkraftausbau
-:PROPERTIES:
-:CUSTOM_ID: verzoegerungsfaktoren
-:END:
+** Verzögerungsfaktoren beim Windkraftausbau
 
 Die Autoren identifizieren nach umfangreichen Recherchen und Gesprächen mit Beteiligten
 die Hauptgründe für den schleppenden Ausbau:
@@ -313,7 +283,7 @@ geht nicht schnell genug voran, weil die Anforderungen zu hoch und die
 Genehmigungsverfahren zu komplex sind."
 #+end_quote
 
-**** Langwierige Genehmigungsverfahren
+*** Langwierige Genehmigungsverfahren
 
 Die Genehmigungsverfahren verzögern den Windkraftausbau dramatisch:
 
@@ -327,7 +297,7 @@ Bundes-Immissionsschutzgesetz, bei denen eine Vielzahl von Rechtsfragen aus vers
 Bereichen geklärt werden müssen. Besonders leistungsstarke moderne Windkraftanlagen mit
 über 50 Metern Höhe benötigen umfangreiche Prüfungen.
 
-**** Das Bürokratiemonster zähmen
+*** Das Bürokratiemonster zähmen
 
 Die Autoren beschreiben die vielfältigen Prüfungen, die ein Windkraftprojekt durchlaufen muss:
 
@@ -344,12 +314,9 @@ stellt ein erhebliches Hindernis dar. Besonders deutlich wird dies am Beispiel
 Brandenburg, wo jahrelang vier von fünf Regionen keinen gültigen Regionalplan hatten, was
 zu einem zweijährigen Genehmigungsstopp führte.
 
-*** Besondere Barrieren für die Windkraft
-:PROPERTIES:
-:CUSTOM_ID: barrieren
-:END:
+** Besondere Barrieren für die Windkraft
 
-**** Abstandsregeln als Hauptproblem
+*** Abstandsregeln als Hauptproblem
 
 Die Autoren identifizieren die Abstandsregeln als besonders problematisch:
 
@@ -367,7 +334,7 @@ von 2 Kilometern. Das hat dazu geführt, dass in Bayern lange so gut wie keine W
 mehr gebaut wurden."
 #+end_quote
 
-**** NIMBY-Politik: Not In My Backyard
+*** NIMBY-Politik: Not In My Backyard
 
 Die Autoren analysieren die psychologischen und politischen Hintergründe des Widerstands:
 
@@ -385,7 +352,7 @@ Diese Haltung führt zu einem klassischen "Trittbrettfahrerproblem":
 noch Anlagen gebaut. Und genau das erleben wir bisher."
 #+end_quote
 
-**** Artenschutz als Stolperstein
+*** Artenschutz als Stolperstein
 
 Die Autoren beschreiben anschaulich, wie aufwändig die Naturschutzprüfungen sind:
 
@@ -402,12 +369,9 @@ Sie kritisieren den übertriebenen Fokus auf den Schutz einzelner Tiere:
 Planung eines Windparks auf Jahre hinaus ausbremsen."
 #+end_quote
 
-*** Klagevereine und Verwaltungsverfahren als Bremse
-:PROPERTIES:
-:CUSTOM_ID: klagevereine-verwaltung
-:END:
+** Klagevereine und Verwaltungsverfahren als Bremse
 
-**** Organisierte Klagevereine
+*** Organisierte Klagevereine
 
 Ein weiteres Hindernis sind organisierte Klagevereine:
 
@@ -422,7 +386,7 @@ Artenschutz & Biodiversität e.V.), der trotz angeblicher Unterstützung der Ene
 den "maßlosen Windkraftausbau" kritisiert und hauptsächlich ästhetische Einwände gegen
 Windräder vorbringt.
 
-**** Langsame Verwaltungsverfahren
+*** Langsame Verwaltungsverfahren
 
 Personalmangel und komplizierte Verwaltungsabläufe führen zu extremen Verzögerungen:
 
@@ -438,12 +402,9 @@ arbeitsintensiven Abläufe, mit denen die zuständigen Sachbearbeiter:innen ande
 mitwirkende Behörden zur Mitarbeit bewegen müssen und dabei oft scheitern."
 #+end_quote
 
-*** Lösungsansätze für den beschleunigten Ausbau
-:PROPERTIES:
-:CUSTOM_ID: loesungsansaetze
-:END:
+** Lösungsansätze für den beschleunigten Ausbau
 
-**** Wind-an-Land-Gesetz: Hoffnungsschimmer
+*** Wind-an-Land-Gesetz: Hoffnungsschimmer
 
 Die Autoren sehen im neuen Wind-an-Land-Gesetz einen wichtigen Fortschritt:
 
@@ -463,7 +424,7 @@ Kritiker."
 
 Dennoch zeigt sich bereits Bewegung: Nach einer Umfrage des Spiegel wollte im März 2023 jedes zweite Bundesland die Flächenziele früher erreichen.
 
-**** Genehmigungsfiktionen: Schweigen sollte Ja bedeuten
+*** Genehmigungsfiktionen: Schweigen sollte Ja bedeuten
 
 Die Autoren schlagen vor, die "Genehmigungsfiktion" auf die Windkraftgenehmigung anzuwenden:
 
@@ -479,7 +440,7 @@ Dies würde behördliche Verschleppungstaktiken erschweren:
 auszusitzen. Debatten würde es nur noch geben, wo es wirklich etwas zu debattieren gibt."
 #+end_quote
 
-**** Gestärkte Bürgerbeteiligung und finanzielle Teilhabe
+*** Gestärkte Bürgerbeteiligung und finanzielle Teilhabe
 
 Die Autoren erläutern, dass der Stadt-Land-Konflikt ein wichtiger Faktor beim Windkraft-Widerstand ist:
 
@@ -505,12 +466,9 @@ und die Bürger:innen können sich kostenlos E-Autos sowie Lasten- und Elektror�
 ausleihen."
 #+end_quote
 
-*** Wirtschaftliche Perspektiven und Fazit
-:PROPERTIES:
-:CUSTOM_ID: wirtschaftliche-perspektiven
-:END:
+** Wirtschaftliche Perspektiven und Fazit
 
-**** Windkraft als Wirtschaftsmotor
+*** Windkraft als Wirtschafsmotor
 
 Die Autoren beschreiben weitere wirtschaftliche Vorteile für Windkraftregionen:
 
@@ -525,7 +483,7 @@ ist."
 Auch indirekte Vorteile werden genannt: verbesserte digitale Infrastruktur, lokale
 Wertschöpfung durch Wartungsarbeiten und mehr.
 
-**** Auf dem Weg zum grünen Strom
+*** Auf dem Weg zum grünen Strom
 
 Die Autoren bilanzieren die bisherigen Fortschritte und verbleibenden Herausforderungen:
 
@@ -544,7 +502,7 @@ Ebenen müssen mitziehen."
 Sie fordern weitere rechtliche Vereinfachungen, besonders bei immissionsrechtlichen
 Verfahren und Beteiligungsfristen.
 
-**** Ausblick
+*** Ausblick
 
 Das Kapitel schließt mit einem vorsichtig optimistischen Ausblick:
 
@@ -562,9 +520,6 @@ Andererseits: Wenn wir es nicht schaffen, die Erhitzung der Erde zu bändigen, w
 Folgen Menschen, Tieren und Pflanzen weit mehr schaden als jedes Windrad."
 #+end_quote
 * Die ungleiche Vermögensverteilung
-:PROPERTIES:
-:CUSTOM_ID: kapitel-vermögensverteilung
-:END:
 
 *** Das Demokratieversprechen und seine Gefährdung
 :PROPERTIES:
@@ -599,13 +554,18 @@ Strich die gigantische Zahl von 7617 Milliarden Euro allein an Bargeld, Bankeinl
 Wertpapieren und Ansprüchen gegen Versicherungen und Pensionseinrichtungen."
 #+end_quote
 
-Mit Immobilien und abzüglich der Schulden ergibt sich ein durchschnittliches Privatvermögen von etwa 215.000 Euro pro Person oder 420.000 Euro pro Haushalt. Doch dieser Reichtum ist extrem ungleich verteilt:
+Mit Immobilien und abzüglich der Schulden ergibt sich ein durchschnittliches
+Privatvermögen von etwa 215.000 Euro pro Person oder 420.000 Euro pro Haushalt. Doch
+dieser Reichtum ist extrem ungleich verteilt:
 
 #+begin_quote
 "Die Schere sieht also eher aus wie der Schnabel eines Pelikans."
 #+end_quote
 
-In Deutschland haben einige wenige Menschen sehr viel, während viele andere kaum etwas besitzen. Nach Statistiken des DIW besaßen 2017 die reichsten zehn Prozent der Bevölkerung 56 Prozent des gesamten Privatvermögens, während die ärmere Hälfte der Bevölkerung zusammen nur 1,3 Prozent des Gesamtvermögens besaß.
+In Deutschland haben einige wenige Menschen sehr viel, während viele andere kaum etwas
+besitzen. Nach Statistiken des DIW besaßen 2017 die reichsten zehn Prozent der Bevölkerung
+56 Prozent des gesamten Privatvermögens, während die ärmere Hälfte der Bevölkerung
+zusammen nur 1,3 Prozent des Gesamtvermögens besaß.
 
 #+begin_quote
 "Das heißt, zehn Prozent reiche Menschen hatten gemeinsam mehr als die übrigen 90 Prozent
@@ -624,9 +584,13 @@ Prozent des gesamten Privatvermögens."
 :CUSTOM_ID: gini-koeffizient
 :END:
 
-Der "Gini-Koeffizient" misst die Ungleichverteilung des Vermögens oder Einkommens. In Deutschland liegt er für das Vermögen bei 0,77 – weit über dem europäischen Durchschnitt. Auch der Gini-Koeffizient für das Einkommen ist gestiegen, von 28,3 im Jahr 2012 auf 30,9 im Jahr 2021.
+Der "Gini-Koeffizient" misst die Ungleichverteilung des Vermögens oder Einkommens. In
+Deutschland liegt er für das Vermögen bei 0,77 – weit über dem europäischen Durchschnitt.
+Auch der Gini-Koeffizient für das Einkommen ist gestiegen, von 28,3 im Jahr 2012 auf 30,9
+im Jahr 2021.
 
-Die Autoren betonen, dass nicht nur die Superreichen und die sehr Armen für die Stabilität einer Gesellschaft relevant sind, sondern vor allem die Mittelschicht:
+Die Autoren betonen, dass nicht nur die Superreichen und die sehr Armen für die Stabilität
+einer Gesellschaft relevant sind, sondern vor allem die Mittelschicht:
 
 #+begin_quote
 "Dramatischer ist, dass die Polarisierung immer weiter in die Mitte der Gesellschaft
@@ -647,7 +611,8 @@ Millionen Menschen in Deutschland sind von konkreter Armut bedroht."
 :CUSTOM_ID: historische-entwicklung
 :END:
 
-Die Vermögensverteilung in Deutschland war nicht immer so ungleich. Die Autoren beschreiben den Lastenausgleich, den die Regierung Adenauer 1952 einführte:
+Die Vermögensverteilung in Deutschland war nicht immer so ungleich. Die Autoren
+beschreiben den Lastenausgleich, den die Regierung Adenauer 1952 einführte:
 
 #+begin_quote
 "Jeder Haushalt und alle Unternehmen mussten die Hälfte ihres Vermögens abgeben, damit
@@ -655,7 +620,9 @@ etwa diejenigen entschädigt werden konnten, die im Krieg zum Beispiel als Ausge
 Vertriebene besonders hohe Verluste erlitten hatten."
 #+end_quote
 
-Diese Vermögensabgabe wurde über 30 Jahre in Raten gezahlt. Bis 1982 nahm die Bundesrepublik dadurch 115 Milliarden D-Mark ein. Der Lastenausgleich trug wesentlich zur sozialen Gerechtigkeit in der jungen Bundesrepublik bei.
+Diese Vermögensabgabe wurde über 30 Jahre in Raten gezahlt. Bis 1982 nahm die
+Bundesrepublik dadurch 115 Milliarden D-Mark ein. Der Lastenausgleich trug wesentlich zur
+sozialen Gerechtigkeit in der jungen Bundesrepublik bei.
 
 #+begin_quote
 "Die Umverteilung funktionierte: 1969 waren nur noch 20 Prozent des gesamten
@@ -664,23 +631,29 @@ der Bundesrepublik bot die Gesellschaft damit für eine Weile gerechte Chancen f
 allermeisten Menschen."
 #+end_quote
 
-In den letzten Jahrzehnten hat die Ungleichheit jedoch wieder zugenommen. Das Vermögen der oberen Mittelschicht und der Superreichen wuchs ständig, während das Vermögen der weniger wohlhabenden Hälfte der Bevölkerung stagnierte.
+In den letzten Jahrzehnten hat die Ungleichheit jedoch wieder zugenommen. Das Vermögen der
+oberen Mittelschicht und der Superreichen wuchs ständig, während das Vermögen der weniger
+wohlhabenden Hälfte der Bevölkerung stagnierte.
 
 *** Die Rolle der Steuerpolitik bei der Ungleichverteilung
 :PROPERTIES:
 :CUSTOM_ID: steuerpolitik
 :END:
 
-Die Steuerpolitik in Deutschland zementiert die Ungleichheit, statt sie abzumildern. Die Autoren zeigen auf, dass in Deutschland:
+Die Steuerpolitik in Deutschland zementiert die Ungleichheit, statt sie abzumildern. Die
+Autoren zeigen auf, dass in Deutschland:
 
 #+begin_quote
 "Im Vergleich zu anderen Ländern zahlen wir auf Arbeitseinkünfte besonders hohe Steuern,
 auf Vermögen als solche, Schenkungen und Erbschaften dagegen besonders niedrige."
 #+end_quote
 
-Arbeitseinkommen werden progressiv besteuert, mit Steuersätzen von bis zu 42 Prozent, zuzüglich Sozialabgaben. Wer sehr wenig verdient, zahlt zwar kaum Einkommensteuer, muss aber immer noch mehr als 20 Prozent seines Einkommens als Sozialabgaben entrichten.
+Arbeitseinkommen werden progressiv besteuert, mit Steuersätzen von bis zu 42 Prozent,
+zuzüglich Sozialabgaben. Wer sehr wenig verdient, zahlt zwar kaum Einkommensteuer, muss
+aber immer noch mehr als 20 Prozent seines Einkommens als Sozialabgaben entrichten.
 
-Im Gegensatz dazu werden Erben und Beschenkte steuerlich deutlich bevorzugt, obwohl etwa 50 Prozent der Vermögen in Deutschland aus Erbschaften und Schenkungen stammen.
+Im Gegensatz dazu werden Erben und Beschenkte steuerlich deutlich bevorzugt, obwohl etwa
+50 Prozent der Vermögen in Deutschland aus Erbschaften und Schenkungen stammen.
 
 #+begin_quote
 "Rund 400 Milliarden Euro werden in Deutschland jedes Jahr vererbt und verschenkt --,
@@ -699,21 +672,26 @@ Die Autoren kritisieren besonders die Ausgestaltung der Erbschaftssteuer in Deut
 Erbe, desto niedriger der Steuersatz."
 #+end_quote
 
-Dies liegt vor allem an den großzügigen Ausnahmeregelungen für Betriebsvermögen. Die Studie zeigt auf, dass zwischen 2009 und 2021:
+Dies liegt vor allem an den großzügigen Ausnahmeregelungen für Betriebsvermögen. Die
+Studie zeigt auf, dass zwischen 2009 und 2021:
 
-"3630 Personen insgesamt 260 Milliarden Euro steuerfrei [erhielten] [...] – das ist etwa ein halber Bundeshaushalt. Im Durchschnitt konnten diese Menschen eine Erbschaft von mehr als 71 Millionen Euro pro Person verbuchen."
+"3630 Personen insgesamt 260 Milliarden Euro steuerfrei [erhielten] [...] – das ist etwa
+ein halber Bundeshaushalt. Im Durchschnitt konnten diese Menschen eine Erbschaft von mehr
+als 71 Millionen Euro pro Person verbuchen."
 
-Besonders krass: 
+Besonders krass:
 
 #+begin_quote
 "Allein 43 Milliarden Euro gingen an 220 Kinder unter 14 Jahren, im Durchschnitt also fast
 200 Millionen Euro pro Kind."
 #+end_quote
 
-Die Verschonungsregelungen für Betriebsvermögen führen dazu, dass gerade die größten Vermögen kaum besteuert werden:
+Die Verschonungsregelungen für Betriebsvermögen führen dazu, dass gerade die größten
+Vermögen kaum besteuert werden:
 
 #+begin_quote
-"Menschen, die zwischen 2009 und 2020 Erbschaften und Schenkungen von mehr als 20 Millionen erhielten, [bekamen] diese in 87 Prozent der Fälle komplett steuerfrei."
+"Menschen, die zwischen 2009 und 2020 Erbschaften und Schenkungen von mehr als 20
+Millionen erhielten, [bekamen] diese in 87 Prozent der Fälle komplett steuerfrei."
 #+end_quote
 
 *** Weitere steuerliche Privilegien für Vermögende
@@ -721,7 +699,8 @@ Die Verschonungsregelungen für Betriebsvermögen führen dazu, dass gerade die 
 :CUSTOM_ID: steuerliche-privilegien
 :END:
 
-Neben der problematischen Erbschaftssteuer weisen die Autoren auf weitere steuerliche Vorteile für Vermögende hin:
+Neben der problematischen Erbschaftssteuer weisen die Autoren auf weitere steuerliche
+Vorteile für Vermögende hin:
 
 - Bei Immobilien profitieren Besitzer von drei "Geschenken":
    a) Die Abschreibung als fiktiver Wertverlust
@@ -735,16 +714,19 @@ Auch bei Kapitalerträgen zeigt sich eine Bevorzugung:
 [werden] lediglich mit der sogenannten Abgeltungssteuer von 25 Prozent belegt."
 #+end_quote
 
-Dies steht im krassen Gegensatz zum Spitzensteuersatz von 42 bzw. 45 Prozent auf Arbeitseinkommen.
+Dies steht im krassen Gegensatz zum Spitzensteuersatz von 42 bzw. 45 Prozent auf
+Arbeitseinkommen.
 
-Eine Vermögenssteuer, die von 1923 bis 1996 erhoben wurde, existiert in Deutschland nicht mehr, obwohl sie verfassungsrechtlich zulässig wäre.
+Eine Vermögenssteuer, die von 1923 bis 1996 erhoben wurde, existiert in Deutschland nicht
+mehr, obwohl sie verfassungsrechtlich zulässig wäre.
 
 *** Politik und Vermögensverteilung
 :PROPERTIES:
 :CUSTOM_ID: politik-und-vermögen
 :END:
 
-Warum werden diese Ungerechtigkeiten nicht politisch bekämpft? Die Autoren sehen einen Grund in der Zusammensetzung der politischen Elite:
+Warum werden diese Ungerechtigkeiten nicht politisch bekämpft? Die Autoren sehen einen
+Grund in der Zusammensetzung der politischen Elite:
 
 #+begin_quote
 "Ungefähr die Hälfte aller Politiker:innen in Spitzenpositionen stammt nach Untersuchungen
@@ -752,13 +734,18 @@ des Soziologen Michael Hartmann aus einer politisch-wirtschaftlichen Elite, den 
 vier Prozent«."
 #+end_quote
 
-Diese Politiker haben "keine realistische Vorstellung vom Leben und Denken der Durchschnittsbevölkerung."
+Diese Politiker haben "keine realistische Vorstellung vom Leben und Denken der
+Durchschnittsbevölkerung."
 
-Die Konsequenzen der Ungleichheit sind jedoch gravierend, insbesondere für Menschen am unteren Ende der Skala:
+Die Konsequenzen der Ungleichheit sind jedoch gravierend, insbesondere für Menschen am
+unteren Ende der Skala:
 
+#+begin_quote
 "Armut verringert die Lebenserwartung."
+#+end_quote
 
-Anhaltender Stress und schlechtere Ernährung führen zu mehr Krankheiten. Die Interessen dieser Menschen werden im politischen Prozess kaum vertreten.
+Anhaltender Stress und schlechtere Ernährung führen zu mehr Krankheiten. Die Interessen
+dieser Menschen werden im politischen Prozess kaum vertreten.
 
 *** Lösungsansätze für mehr Gerechtigkeit
 :PROPERTIES:
@@ -769,21 +756,865 @@ Die Autoren stellen verschiedene Lösungsansätze vor, um die Ungleichheit zu ve
 
 Ein "Lastenausgleich 2.0" nach dem Vorbild des Lastenausgleichs der Nachkriegszeit:
 
-"Reiche Menschen und Unternehmen sollen eine geringe prozentuale Abgabe auf ihr Vermögen zahlen. [...] Die ersten zwei Millionen Euro -- bei Firmen sind es fünf Millionen Euro -- sollen nicht besteuert werden. Erst Vermögen, das darüber liegt, würde besteuert."
+#+begin_quote
+"Reiche Menschen und Unternehmen sollen eine geringe prozentuale Abgabe auf ihr Vermögen
+zahlen. [...] Die ersten zwei Millionen Euro -- bei Firmen sind es fünf Millionen Euro --
+sollen nicht besteuert werden. Erst Vermögen, das darüber liegt, würde besteuert."
+#+end_quote
 
-Diese Abgabe könnte, wie beim historischen Vorbild, über viele Jahre abgezahlt werden und dennoch bis zu 310 Milliarden Euro in die Staatskasse spülen.
+Diese Abgabe könnte, wie beim historischen Vorbild, über viele Jahre abgezahlt werden und
+dennoch bis zu 310 Milliarden Euro in die Staatskasse spülen.
 
-Auch eine Reform der Erbschaftssteuer wird vorgeschlagen. Interessanterweise gibt es mittlerweile sogar eine Initiative von Vermögenden selbst ("taxmenow"), die eine höhere Besteuerung von Erbschaften und Schenkungen fordern.
+Auch eine Reform der Erbschaftssteuer wird vorgeschlagen. Interessanterweise gibt es
+mittlerweile sogar eine Initiative von Vermögenden selbst ("[[https://www.taxmenow.eu/][taxmenow]]"), die eine höhere
+Besteuerung von Erbschaften und Schenkungen fordern.
 
 *** Fazit: Ungleichheit als Gefahr für die Demokratie
 :PROPERTIES:
 :CUSTOM_ID: fazit
 :END:
 
-Die Autoren betonen den Zusammenhang zwischen sozialer Ungleichheit und dem Schwinden des Vertrauens in die Demokratie:
+Die Autoren betonen den Zusammenhang zwischen sozialer Ungleichheit und dem Schwinden des
+Vertrauens in die Demokratie:
 
-"Wir müssen wieder mehr ökonomische Fairness wagen. Denn das Wohlstandsversprechen wird unglaubwürdig, wenn gesellschaftliche Ungleichheit wächst und sich verhärtet. Und diese Ungleichheit ist die größte innere Gefahr für eine Demokratie."
+#+begin_quote
+"Wir müssen wieder mehr ökonomische Fairness wagen. Denn das Wohlstandsversprechen wird
+unglaubwürdig, wenn gesellschaftliche Ungleichheit wächst und sich verhärtet. Und diese
+Ungleichheit ist die größte innere Gefahr für eine Demokratie."
+#+end_quote
 
-Um die Demokratie in Deutschland zu stärken, muss die Schere zwischen Arm und Reich ein Stück geschlossen werden. Die Initiative "taxmenow" bringt es auf den Punkt:
+Um die Demokratie in Deutschland zu stärken, muss die Schere zwischen Arm und Reich ein
+Stück geschlossen werden. Die Initiative "taxmenow" bringt es auf den Punkt:
 
-"Vermögensungleichheit, wie sie heute existiert, untergräbt die Demokratie und schadet der Gesellschaft."
+#+begin_quote
+"Vermögensungleichheit, wie sie heute existiert, untergräbt die Demokratie und schadet der
+Gesellschaft."
+#+end_quote
+* Die Bildungsungerechtigkeit in Deutschland
+*** Bildung als Glücksspiel: Die ungleichen Startchancen
+:PROPERTIES:
+:CUSTOM_ID: ungleiche-startchancen
+:END:
+
+Die Autoren beginnen mit einer persönlichen Reflexion über ihre eigenen privilegierten
+Bildungswege:
+
+#+begin_quote
+"Wir beide hatten Glück bei dieser Lotterie der Lebenschancen. Wir stammen aus der
+sogenannten Mittelschicht, aus »bildungsbürgerlichen« Familien. Bei jedem von uns standen
+zu Hause ziemlich viele Bücher, abends sahen wir die Tagesschau, und wenn wir in der
+Schule Hausaufgaben aufbekommen hatten, hat meist jemand darauf geachtet, dass wir sie
+auch erledigten."
+#+end_quote
+
+Diese Unterstützung und die stabile familiäre Situation haben ihren schulischen Erfolg
+begünstigt und sie gegen die Unzulänglichkeiten des Bildungssystems "immunisiert". Doch
+wie sie betonen:
+
+#+begin_quote
+"In keinem anderen Land in Europa hängt eine gute Bildung nämlich so sehr davon ab, wie
+gebildet und wohlhabend die Eltern sind."
+#+end_quote
+
+Die Autoren stellen das *Wohlstandsversprechen* als eine der wichtigsten Grundlagen für den
+sozialen Zusammenhalt in Deutschland vor. Dieses Versprechen basiert auf dem
+Leistungsprinzip: Der Anteil am Wohlstand soll von der persönlichen Leistung abhängen,
+nicht von der sozialen Herkunft oder dem Einkommen der Eltern.
+
+Bildung ist dabei der Schlüsselfaktor:
+
+#+begin_quote
+"Damit das funktionieren kann, muss der Staat das Bildungssystem so gestalten, dass allen
+jungen Menschen, unabhängig von Herkunft und Status der Eltern, tatsächlich die Chance auf
+eine gute Bildung bekommt."
+#+end_quote
+
+*** Der PISA-Schock und seine Folgen
+:PROPERTIES:
+:CUSTOM_ID: pisa-schock
+:END:
+
+Ein Wendepunkt in der deutschen Bildungsdiskussion war der sogenannte PISA-Schock im
+Jahr 2001. Die internationale Studie brachte Deutschland drei ernüchternde Erkenntnisse:
+
+1. Die 15-Jährigen lagen in allen drei Bereichen Lesen, Mathematik und Naturwissenschaften
+   unter dem OECD-Durchschnitt.
+
+2. Die Leistungsunterschiede zwischen den stärksten und schwächsten Schülern waren im
+   internationalen Vergleich überdurchschnittlich groß.
+
+3. Es gab einen "straffen Zusammenhang zwischen Sozialschichtzugehörigkeit und erworbenen
+   Kompetenzen über alle untersuchten Domänen hinweg".
+
+Besonders alarmierend war, dass etwa 23 Prozent der Jugendlichen nur auf elementarem
+Niveau lesen konnten, was auch ihre Fähigkeit beeinträchtigte, Mathematik und
+naturwissenschaftliche Zusammenhänge zu verstehen. Ein volles Viertel wurde als
+"Risikogruppe" eingestuft.
+
+Die Autoren betonen, dass auch 20 Jahre nach dem PISA-Schock kaum Verbesserungen zu
+verzeichnen sind. Der IQB-Bildungstrend von 2022 zeigte sogar eine Verschlechterung im
+Vergleich zu früheren Untersuchungen von 2011 und 2016:
+
+#+begin_quote
+"Der Anteil der Schüler:innen, die den Mindeststandard nicht erreichen und damit ein hohes
+Risiko für einen weniger erfolgreichen Bildungsweg aufweisen, habe in allen Bereichen
+teils deutlich zugenommen."
+#+end_quote
+
+*** Die Systemprobleme des deutschen Bildungswesens
+:PROPERTIES:
+:CUSTOM_ID: systemprobleme
+:END:
+
+***** Das mehrgliedrige Schulsystem und seine Filtermechanismen
+
+In Deutschland werden alle Kinder zunächst in die Grundschule eingeschult und kommen dann,
+je nach Bundesland, nach vier oder sechs Jahren auf unterschiedliche weiterführende
+Schulen der Sekundarstufe I, traditionell im "dreigliedrigen Schulsystem" mit Hauptschule,
+Realschule und Gymnasium.
+
+Ein kritischer Punkt ist die Gymnasialempfehlung am Ende der Grundschule. Die Autoren
+zitieren eine Studie, die zeigt, dass *Kinder aus bildungsnahen Elternhäusern eine 3,5-mal
+höhere Chance auf eine Gymnasialempfehlung haben als Kinder aus bildungsfernen Familien* -
+selbst bei gleicher Leistung:
+
+#+begin_quote
+"Bei gleicher Leistung haben Kinder aus ressourcenreichen Familien deutlich bessere
+Chancen auf eine Gymnasialempfehlung. [...] Kinder aus sozial schwachen Familien [mussten]
+für die gleiche gymnasiale Schullaufbahnempfehlung beim IGLU-Test 77 Testpunkte mehr
+erreichen."
+#+end_quote
+
+Noch problematischer: "Zwischen 2006 und 2016 ist [die Differenz] auf 102 Punkte
+gestiegen."
+
+Diese frühe Filterung der Schüler:innen ist ein zentraler Mechanismus, durch den die
+Herkunft der Kinder deren Bildungschancen verschlechtert:
+
+"Je früher differenziert wird, so der Bildungsforscher Jürgen Baumert, desto länger wirken
+die unterschiedlichen Milieus, die sich in den Schulformen herausbilden."
+
+***** Die Postleitzahl entscheidet über Bildungschancen
+
+Ein weiteres strukturelles Problem ist die "Verräumlichung sozialer Ungleichheit". Schulen
+in ärmeren Stadtvierteln haben oft eine "sozioökonomisch benachteiligte Schülerschaft" und
+leiden unter materiellen und personellen Defiziten:
+
+#+begin_quote
+"In Mangellagen hätten sie häufiger Ausstattungs- und Personalmängel als der
+OECD-Durchschnitt. Gegenüber Schulen in begünstigten Lagen zeigten Problemschulen häufiger
+Personalmangel, größere Führungskräftefluktuation, mehr Geflüchtete und eine stärkere
+Konzentration leistungsschwacher Schüler."
+#+end_quote
+
+*** Der Bildungsföderalismus als Hemmschuh
+:PROPERTIES:
+:CUSTOM_ID: bildungsföderalismus
+:END:
+
+Die Bildungshoheit der Länder erweist sich als problematisch für eine gerechte und
+effiziente Bildungspolitik:
+
+#+begin_quote
+"Schule und Bildung sind -- neben der Polizei -- eine zentrale Angelegenheit der Länder.
+Mehr als 90 Prozent aller Bildungskosten werden von Ländern und Kommunen getragen. Der
+Bund darf sich nur in sehr eng umrissenen Einzelfällen überhaupt in die Bildung einklinken
+-- meist mit Sonderprogrammen."
+#+end_quote
+
+Diese föderale Struktur führt zu verschiedenen Problemen:
+
+1. Uneinheitliche Finanzierung: Der sogenannte [[https://de.wikipedia.org/wiki/K%C3%B6nigsteiner_Schl%C3%BCssel][Königsteiner Schlüssel]] verteilt Gelder
+   nicht nach Bedürftigkeit, sondern nach Steueraufkommen und Bevölkerungszahl:
+
+#+begin_quote
+"Das heißt, Länder mit einem hohen Steueraufkommen bekommen automatisch mehr Geld als
+Länder mit einem geringen Steueraufkommen -- und zwar auch dann, wenn es eigentlich darum
+gehen soll, ärmere Länder zu unterstützen."
+#+end_quote
+
+2. Fehlende einheitliche Daten: In Deutschland gibt es 16 verschiedene Schulstatistiken,
+   die kaum vergleichbar sind:
+
+#+begin_quote
+"Es gibt in Deutschland zurzeit 16 verschiedene Schulstatistiken -- von denen kaum zwei
+dieselben Merkmale erfassen. Niemand kann auf dieser Basis einen belastbaren Überblick
+über Situation und Verteilung sozial benachteiligter Schüler:innen in Deutschland
+bekommen."
+#+end_quote
+
+3. Die [[https://www.kmk.org/][Kultusministerkonferenz]] (KMK) als schwerfälliges Koordinationsgremium:
+
+#+begin_quote
+"Meist sind das quälende Runden, weil die Vorstellungen je nach parteipolitischem
+Hintergrund sehr unterschiedlich sind."
+#+end_quote
+
+*** Die Krise des Lehrermangels
+:PROPERTIES:
+:CUSTOM_ID: lehrermangel
+:END:
+
+Die Unterfinanzierung des Bildungswesens und der dramatische Fachkräftemangel überlagern
+alle anderen Probleme oder lösen diese aus. *In Deutschland fehlen mindestens 25.000
+Lehrkräfte, nach anderen Berechnungen könnten es auch 40.000 sein*.
+
+#+begin_quote
+"In zehn Jahren dürften 70.000 Stellen unbesetzt sein. Laut GEW fehlen bis 2035 sogar
+500.000 Lehrer:innen."
+#+end_quote
+
+Die Situation ist bereits so dramatisch, dass Sachsen-Anhalt ein Modell mit "4 Tage pro
+Woche normaler Unterricht, ein Tag Projektzeit oder Distanzlernen" testete.
+
+Der Lehrermangel wirkt sich besonders stark auf Schulen in benachteiligten Gebieten aus:
+
+#+begin_quote
+"Wenn ein Berufsanfänger aus 25 Angeboten wählen kann, muss er schon sehr idealistisch
+sein, um zu uns zu kommen."
+#+end_quote
+
+Die Reaktionen der Kultusministerkonferenz auf dieses Problem werden als "lauwarm,
+hilflos, panisch, mindestens zehn Jahre zu spät -- und stellenweise auch zynisch"
+beschrieben.
+
+*** Lösungsansätze für mehr Bildungsgerechtigkeit
+:PROPERTIES:
+:CUSTOM_ID: lösungsansätze
+:END:
+
+Die Autoren stellen verschiedene Lösungsansätze vor:
+
+1. Das [[https://www.bmbf.de/DE/Bildung/Schule/Startchancen-Programm/startchancen-programm_node.html]["Startchancen"-Programm]] der Ampel-Koalition:
+
+   #+begin_quote
+   "4000 Schulen mit einem hohen Anteil sozial benachteiligter Schülerinnen und Schüler
+   sollen vom Bund etwa ein sogenanntes Chancenbudget zur freien Verfügung bekommen."
+   #+end_quote
+
+2. Förderung von Gemeinschaftsschulen, in denen Kinder unterschiedlicher Leistungsniveaus
+   gemeinsam unterrichtet werden: 
+
+   #+begin_quote
+   "Wenn man die starken Schüler betrachtet, dann werden sie nicht gebremst, sondern
+   gewinnen zum einen an Sozialkompetenz. [...] Die Leistungsschwächeren sind davon nicht
+   etwa demotiviert, sondern sehen ganz im Gegenteil, was alles möglich ist."
+   #+end_quote
+
+3. Frühe Sprachförderung durch Sprach-Kitas: 
+
+   #+begin_quote
+   "Dort werden vor allem fremdsprachige Kinder mit zusätzlichen Fachkräften betreut und
+   in Zusammenarbeit mit den Eltern beim Deutschlernen unterstützt."
+   #+end_quote
+
+4. Reform der Mittelverteilung durch einen "[[https://www.zeitfuerdieschule.de/schulleitung/gegen-die-ungerechte-verteilung-von-bildungsgeldern/#:~:text=Der%20Multiple%20Benachteiligungsindex%20(MBI)&text=Der%20MBI%20eines%20Landes%20ergibt,also%20die%20Anzahl%20der%20Dimensionen.https://www.zeitfuerdieschule.de/schulleitung/gegen-die-ungerechte-verteilung-von-bildungsgeldern/#:~:text=Der%20Multiple%20Benachteiligungsindex%20(MBI)&text=Der%20MBI%20eines%20Landes%20ergibt,also%20die%20Anzahl%20der%20Dimensionen.][Multiplen Benachteiligungsindex]]" (MBI): 
+
+   #+begin_quote
+   "Darin werden alle Faktoren der möglichen Benachteiligung zu sogenannten Dimensionen
+   zusammengefasst: Wirtschafts- und Finanzkraft des Landes, soziale Bedürftigkeit,
+   Bildungsstand der Bevölkerung und der Anteil Jugendlicher unter 18 Jahren mit
+   Migrationshintergrund."
+   #+end_quote
+
+5. Professionalisierung der Schulleitung als Managementaufgabe: 
+
+   #+begin_quote
+   "Die Leitung einer Schule sei eine Managementaufgabe, die unbedingt professionalisiert
+   werden müsse. Dafür brauche es länderübergreifende Qualitätsstandards, kompatible
+   Ausbildungswege und größere Zeit- und Geldbudgets."
+   #+end_quote
+
+6. Reform des Bildungsföderalismus: 
+
+   #+begin_quote
+   "Es ist sehr sinnvoll, Bildungspolitik über Staatsverträge zu steuern und das
+   Kooperationsverbot für eine gemeinsame Finanzierung aller Ebenen aufzuheben."
+   #+end_quote
+
+*** Fazit: Bildung als gesellschaftliche Investition
+:PROPERTIES:
+:CUSTOM_ID: fazit-bildung
+:END:
+
+Die Autoren schließen mit einem klaren Appell:
+
+#+begin_quote
+"Gute Bildungspolitik ist ein langfristiges, kleinteiliges und vielschichtiges Investment
+in eine funktionierende demokratische Gesellschaft und eine florierende Wirtschaft."
+#+end_quote
+
+Die messbare Wirkung einer chancengerechteren Bildung wäre keine plötzliche Sensation,
+sondern:
+
+#+begin_quote
+"Ein langsames Absinken struktureller Benachteiligung und messbarer Ungerechtigkeit, das
+zugleich deren Symptome reduzieren würde: beispielsweise Armutskriminalität, hohe
+Gesundheitskosten und, ja, auch Rechtsextremismus."
+#+end_quote
+
+Sie betonen, dass es keinen Königsweg zu einer besseren Bildung gibt, aber konkrete
+Stellschrauben, an denen gedreht werden kann. Besonders wichtig ist die Einsicht:
+
+#+begin_quote
+"*Wir sind eine Einwanderungsgesellschaft -- face it!* Das ist eine große Chance, wenn wir
+sie denn nutzen."
+#+end_quote
+* Das deutsche Rentensystem
+
+*** Die Unsicherheit der gesetzlichen Rente
+:PROPERTIES:
+:CUSTOM_ID: unsicherheit-rente
+:END:
+
+Das Kapitel beginnt mit der Geschichte von Burkhard Schröder, einem angesehenen
+Journalisten, der trotz jahrzehntelanger Berufstätigkeit als Freelancer im Alter nur 400
+Euro Rente erhält:
+
+#+begin_quote
+"Was kümmert mich das heute? Bis 67 habe ich fünf Bestseller geschrieben, im Lotto
+gewonnen, geerbt, selbst Karriere gemacht oder bin längst tot. Kann alles sein, aber
+verlassen solltet ihr euch darauf lieber nicht."
+#+end_quote
+
+Diese Anekdote verdeutlicht ein zentrales Problem: Der Slogan "*Die Rente ist sicher*", den
+die Bundesregierung unter Norbert Blüm 1986 plakatierte, hat mit der Realität vieler
+Menschen wenig zu tun. Zwar wird die gesetzliche Rentenkasse immer irgendeine Summe
+überweisen, wenn mindestens fünf Jahre lang eingezahlt wurde, aber eine auskömmliche
+Altersversorgung ist damit nicht garantiert.
+
+*Besonders problematisch: Fast 83 Prozent der arbeitenden und arbeitssuchenden Bevölkerung
+sind auf die gesetzliche Rentenversicherung angewiesen. Bei den restlichen 17 Prozent
+haben Beamte ihre eigene Pension, während viele Selbstständige ohne entsprechende Vorsorge
+im Alter zu verarmen drohen.*
+
+*** Die Funktionsweise des Umlagesystems
+:PROPERTIES:
+:CUSTOM_ID: umlagesystem
+:END:
+
+Das deutsche Rentensystem basiert seit 1957 auf dem [[https://www.bpb.de/kurz-knapp/lexika/lexikon-der-wirtschaft/20886/umlageverfahren/][Umlageverfahren]], bei dem die
+Einzahlungen der aktuell Berufstätigen direkt zur Finanzierung der laufenden Renten
+verwendet werden:
+
+#+begin_quote
+"Die Rentenkasse funktioniert seitdem eher wie die Haushaltskasse einer Familie: Ein Teil
+der Bevölkerung zahlt monatlich Geld ein, das im selben Monat an einen anderen Teil wieder
+ausgezahlt wird."
+#+end_quote
+
+Die aktuelle Beitragshöhe liegt bei 18,6 Prozent des Bruttolohns, wobei die Hälfte direkt
+vom Lohn abgezogen wird und die andere Hälfte vom Arbeitgeber übernommen wird. Im Jahr
+2021 nahm die Deutsche Rentenversicherung monatlich durchschnittlich etwa 21 Milliarden
+Euro ein.
+
+Dieser "Generationenvertrag" funktioniert allerdings nur, solange die Rentenversicherung
+mindestens so viel Geld einnimmt, wie sie auszahlen muss. Hier liegt das Kernproblem:
+
+#+begin_quote
+"Nach dem Zweiten Weltkrieg ging die Rechnung noch auf: *Die Rente eines Rentners wurde im
+Schnitt von sechs arbeitenden Menschen erwirtschaftet*. [...] Im Jahr 2021 hingegen gab es
+in Deutschland nur noch rund 39 Millionen Versicherte, die einzahlten, aber etwa 18
+Millionen Rentner:innen, die Geld bekamen. *Statistisch gesehen finanzieren heute also nur
+noch rund zwei Lohnempfänger:innen gemeinsam einem Menschen die Rente*."
+#+end_quote
+
+*** Die 100-Milliarden-Rentenlücke und ihre Ursachen
+:PROPERTIES:
+:CUSTOM_ID: rentenlücke
+:END:
+
+Die Einnahmen aus Beiträgen reichen bei weitem nicht aus, um die Ausgaben der Rentenkassen
+zu decken. Die Rentenkasse kann nur funktionieren, weil der Bund jährlich Milliarden aus
+dem Bundeshaushalt überweist:
+
+#+begin_quote
+"2023 waren es über 100 Milliarden, Tendenz steigend. [...] Der gesamte Bundeszuschuss
+beläuft sich auf knapp ein Viertel des gesamten Bundeshaushalts und deckt ein knappes
+Drittel der gesamten Ausgaben der Rentenkasse."
+#+end_quote
+
+Die Hauptursache für dieses Ungleichgewicht ist der *demografische Wandel*:
+
+1. Die geburtenstarken Jahrgänge (Babyboomer) gehen in den kommenden Jahren in Rente
+2. Immer weniger Menschen zahlen in die Rentenkasse ein
+3. Die Menschen leben immer länger und beziehen entsprechend länger Rente
+
+Die Folgen sind dramatisch: 
+
+#+begin_quote
+"Wenn wir es so laufen lassen, müsste der Bund in 25 Jahren mehr als die Hälfte des
+Haushalts dafür ausgeben. Das kann nicht funktionieren."
+#+end_quote
+
+Gleichzeitig muss Deutschland in den kommenden Jahren Hunderte Milliarden Euro für andere
+wichtige Zukunftsaufgaben aufbringen: Digitalisierung, bessere Bildung, Ausrüstung der
+Bundeswehr, Bekämpfung des Klimawandels und Investitionen in die öffentliche
+Infrastruktur.
+
+*** Die Berechnung der individuellen Rente
+:PROPERTIES:
+:CUSTOM_ID: rentenberechnung
+:END:
+
+Die Rentenformel basiert auf vier Faktoren:
+
+1. **Entgeltpunkte**: Einen Rentenpunkt erhält man für jedes Jahr, in dem genau das
+   bundesweite Durchschnittseinkommen verdient wurde. Bei höherem oder niedrigerem
+   Einkommen ändert sich die Punktzahl entsprechend.
+
+2. **Zugangsfaktor**: Dieser Faktor berücksichtigt, ob man früher, später oder genau zum
+   gesetzlichen Renteneintrittsalter in Rente geht. Früherer Renteneintritt bedeutet
+   Abschläge, späterer bringt Zuschläge.
+
+3. **Aktueller Rentenwert**: Der Wert eines Entgeltpunkts in Euro, der jährlich neu
+   festgelegt wird. 2023 lag er bei 37,60 Euro.
+
+4. **Rentenartfaktor**: Dieser Faktor hängt davon ab, warum jemand in Rente geht
+   (Altersrente, Erwerbsminderungsrente usw.).
+
+Eine kritische Erkenntnis: Das oft diskutierte "*Rentenniveau*" von 48 Prozent bezieht sich
+nicht auf das letzte eigene Gehalt, sondern auf einen fiktiven "*Eckrentner*", der 45 Jahre
+lang genau das Durchschnittseinkommen verdient hat:
+
+#+begin_quote
+"Die meisten Menschen bekommen damit jedoch wesentlich weniger als 48 Prozent ihres
+letzten Einkommens. *So lag die real ausgezahlte Durchschnittsrente 2022 bei 1276 Euro im
+Monat für Männer*. Frauen bekommen im Schnitt sogar nur 1060 Euro."
+#+end_quote
+
+*Nur rund 4,7 Millionen der etwa 21 Millionen Rentner bekommen überhaupt eine Rente in Höhe
+des "Eckrentners" oder darüber - also nur etwa jeder Fünfte.*
+
+*** Private Vorsorge als unverzichtbare Ergänzung
+:PROPERTIES:
+:CUSTOM_ID: private-vorsorge
+:END:
+
+Angesichts der Probleme der gesetzlichen Rente betonen die Autoren die Notwendigkeit
+*privater Vorsorge*. Sie stellen verschiedene Optionen vor:
+
+1. **Private Rentenversicherungen**: Die staatlich geförderte Riester-Rente hat die
+   Erwartungen nicht erfüllt, aber andere private Rentenversicherungen können ein Baustein
+   der Altersvorsorge sein - besonders wenn die Beiträge in Aktien investiert werden.
+
+2. **ETF-Sparpläne**: Als besonders empfehlenswert werden ETF-Sparpläne dargestellt:
+
+#+begin_quote
+"Der wichtigste Baustein fürs Sparen im Alter heißt aber: Dinge kaufen, deren Wert mit den
+Jahren wahrscheinlich steigt. Zum Beispiel Immobilien oder Aktien. Wesentlich flexibler
+und oft auch mit mehr Rendite als in einer privaten Rentenversicherung könnt ihr euer Geld
+in einem ETF-Sparplan anlegen."
+#+end_quote
+
+Die Autoren betonen, dass selbst kleine monatliche Beträge über ein langes Arbeitsleben zu
+einer ordentlichen Zusatzversorgung führen können, und ermutigen dazu, frühzeitig mit dem
+Sparen zu beginnen.
+
+*** Lösungsansätze für die Rentenkrise
+:PROPERTIES:
+:CUSTOM_ID: lösungsansätze
+:END:
+
+Um das Rentensystem in Deutschland zu stabilisieren, diskutieren die Autoren verschiedene Reformmöglichkeiten, die an drei zentralen Stellschrauben ansetzen:
+
+**** 1. Das Rentenniveau
+
+Die erste Möglichkeit wäre, das allgemeine Rentenniveau zu senken oder zumindest die
+jährlichen *Rentenerhöhungen zu begrenzen*:
+
+#+begin_quote
+"Die Renten sollten nicht mehr so stark steigen wie die Löhne."
+#+end_quote
+
+Einige Ökonomen, wie die Wirtschaftsweise [[https://www.sachverstaendigenrat-wirtschaft.de/ueber-uns/ratsmitglieder/prof-dr-monika-schnitzer.html][Monika Schnitzer]], stellen sogar das
+Äquivalenzprinzip in Frage, wonach doppelte Einzahlung zu doppelter Rente führt:
+
+"Wir sollten besonders hohe Renten künftig abschmelzen. Wer üppige Rentenansprüche
+erarbeitet hat, bekäme dann etwas weniger."
+
+**** 2. Die Lebensarbeitszeit
+
+Eine weitere Stellschraube ist die *Verlängerung der Lebensarbeitszeit*:
+
+#+begin_quote
+"Je länger wir leben, desto länger müssen wir arbeiten."
+#+end_quote
+
+Obwohl das gesetzliche Renteneintrittsalter bis 2031 auf 67 Jahre steigen soll,
+argumentieren Experten, dass es darüber hinaus erhöht werden müsste. Dies würde das
+Verhältnis zwischen Einzahlenden und Empfängern verbessern, da Menschen länger einzahlen
+und kürzer Rente beziehen.
+
+**** 3. Mehr Beiträge für die Rentenkasse
+
+Die dritte Stellschraube betrifft die *Einnahmen der Rentenkasse*:
+
+a) **Erwerbstätigenversicherung**: Ein Vorschlag ist die *Umwandlung der gesetzlichen Rentenversicherung in eine Erwerbstätigenversicherung, bei der alle Menschen, die in irgendeiner Weise Geld verdienen, in die gesetzliche Rentenversicherung einzahlen müssten* - auch Beamte, Selbstständige und andere bisher nicht Versicherungspflichtige.
+
+b) **Aktienrente/Generationenkapital**: Die im März 2024 vorgestellte Rentenreform der Ampel-Koalition sieht ein "[[https://www.bundesregierung.de/breg-de/service/archiv/rentenpaket-2-2281902][Generationenkapital]]" vor, bei dem eine unabhängige Stiftung jährlich Milliarden Euro aus dem Bundeshaushalt in Aktien und andere Wertpapiere investieren soll. Die Autoren kritisieren jedoch, dass die geplanten Summen zu gering sind, um wirklich eine spürbare Entlastung zu bringen:
+
+#+begin_quote
+"Bei einem Beschäftigen mit einem Monatsbrutto von 3000 Euro entspräche das einer
+Entlastung von 4,50 Euro pro Monat -- je für den Arbeitnehmer und den Arbeitgeber. Also
+eher ein Tropfen auf den heißen Stein."
+#+end_quote
+
+Sie bevorzugen eine "echte" *Aktienrente nach schwedischem Vorbild*, bei der ein Teil der Rentenbeiträge direkt in Aktienfonds investiert wird.
+
+c) **Weitere Ventile**: Zusätzlich werden noch andere Maßnahmen vorgeschlagen, wie mehr *Einwanderung junger Menschen*, *bessere Verdienste durch höhere Qualifikation* und die Stärkung der betrieblichen Altersvorsorge.
+
+*** Fazit: Die Zukunft der Rente
+:PROPERTIES:
+:CUSTOM_ID: fazit-rente
+:END:
+
+Die Autoren ziehen ein nüchternes Fazit zur Zukunft der Rente in Deutschland:
+
+#+begin_quote
+"Damit es in Deutschland auch in Zukunft noch so etwas wie eine funktionierende
+gesetzliche Rentenversicherung gibt, muss das System grundlegend modernisiert werden. Das
+Umlagesystem funktioniert heute schon nicht mehr und wird nur mit Milliarden aus dem
+Haushalt am Leben gehalten."
+#+end_quote
+
+Sie fordern mutige Reformen, bei denen alle Beteiligten Abstriche machen müssen:
+
+#+begin_quote
+"Rentner:innen (vor allem reiche) werden Abstriche machen müssen. Die Renten können nicht
+mehr mit den Löhnen wachsen, sondern nur noch mit der Inflation. Wir werden umso länger
+arbeiten müssen, je höher die Lebenserwartung steigt."
+#+end_quote
+
+Zugleich wird betont, dass eine vollständige Absicherung allein durch die gesetzliche
+Rente nicht mehr realistisch ist:
+
+#+begin_quote
+"Allen Versicherten muss klar sein, dass die gesetzliche Rente in Zukunft nur noch ein
+Beitrag zu den Lebenskosten im Alter sein wird und allein nicht zu einem guten Leben
+reicht."
+#+end_quote
+
+Am Ende steht die persönliche Verantwortung jedes Einzelnen:
+
+#+begin_quote
+"Eine existenzsichernde Rente, wie wir sie von Oma und Opa kennen, gibt es schon heute
+nicht mehr. Wenn die nächsten Reformen gelingen, kriegen wir aus der gesetzlichen
+Rentenversicherung einen Zuschuss für die elementaren Bedürfnisse. Um den Rest müssen wir
+uns selbst kümmern -- und zwar schon heute."
+#+end_quote
+* Mehr Macht wagen
+
+Der *bundesdeutsche Föderalismus* bremst Reformen aus und funktioniert nicht mehr wie
+ursprünglich gedacht. Notwendige Gesetzesänderungen werden systematisch verzögert oder
+verhindert.
+
+#+BEGIN_QUOTE
+"Ein entscheidender Teil ihrer Lösung besteht meistens darin, die Rechtslage zu ändern.
+Doch leider ist die Art und Weise der Gesetzgebung in Deutschland ihrerseits eine
+Großbaustelle."
+#+END_QUOTE
+
+** Föderalismus auf Abwegen
+:PROPERTIES:
+:CUSTOM_ID: foederalismus-abwege
+:END:
+
+Deutschland besteht aus 16 Bundesländern mit eigener Staatlichkeit. Der Bundesrat sollte
+ursprünglich als sachliches Gremium fungieren, hat sich aber zu einem politischen
+*Blockadeinstrument* entwickelt.
+
+#+BEGIN_QUOTE
+"Als 1948/49 das Grundgesetz formuliert wurde, sollte der Bundesrat als objektive und
+sachorientierte Kammer ein Gegengewicht zum politisierten Bundestag bilden. Von dieser
+Sachorientierung ist nach 75 Jahren nicht viel übrig."
+#+END_QUOTE
+
+** Von der Reform zum Reförmchen
+:PROPERTIES:
+:CUSTOM_ID: reform-refoermchen
+:END:
+
+Die Bürgergeld-Reform zeigt exemplarisch, wie eine grundlegende Reform durch den Bundesrat
+zu einem "Reförmchen" wird. *Trotz Mehrheit im Bundestag wurden zentrale Reformelemente
+blockiert*.
+
+#+BEGIN_QUOTE
+"Der Bundestag stimmte dem Entwurf zu. Doch vier Tage später schmetterte der Bundesrat das
+vom Bundestag beschlossene Gesetz wie angekündigt ab. Die Streichungen, auf die sich der
+Vermittlungsausschuss geeinigt hatte, betrafen die Kernpunkte der geplanten Reform."
+#+END_QUOTE
+
+** Die Opposition regiert mit
+:PROPERTIES:
+:CUSTOM_ID: opposition-regiert-mit
+:END:
+
+Selbst wenn eine Partei die Bundestagswahl verliert, kann sie *über den Bundesrat Einfluss*
+auf die Gesetzgebung nehmen, wenn sie in *ausreichend vielen Ländern mitregiert*.
+
+#+BEGIN_QUOTE
+"Der Politikwissenschaftler Prof. Dr. Christian Stecker sieht es als eine der 'kaum
+hinterfragten Grundkonstanten des politischen Systems der Bundesrepublik, dass die
+Opposition mit Hilfe des Bundesratsvetos mitregieren kann.'"
+#+END_QUOTE
+
+** Wie Gesetze im Bund beschlossen werden
+:PROPERTIES:
+:CUSTOM_ID: gesetzgebungsprozess
+:END:
+
+Alle Bundesgesetze müssen vom Bundestag verabschiedet werden. *Bei Zustimmungsgesetzen
+(etwa 40% aller Gesetze) ist zusätzlich die Zustimmung des Bundesrats erforderlich*.
+
+#+BEGIN_QUOTE
+"Ganz egal, mit welcher Mehrheit der Bundestag einem Entwurf zustimmt, wenn nicht auch im
+Bundesrat eine Mehrheit zustimmt, kann das Gesetz nicht in Kraft treten."
+#+END_QUOTE
+
+** Die Mathematik der Macht
+:PROPERTIES:
+:CUSTOM_ID: macht-mathematik
+:END:
+
+*Im Bundesrat zählen nur Ja-Stimmen, und jedes Land muss seine Stimmen einheitlich abgeben.
+Eine Enthaltung wirkt faktisch wie ein Nein*, was kleinen Koalitionspartnern in den Ländern
+unverhältnismäßig viel Macht gibt.
+
+#+BEGIN_QUOTE
+"Jede Stimme, die nicht Ja lautet, ist daher de facto eine Stimme gegen das Gesetz. Wenn
+Länder sich im Bundesrat enthalten, stimmen sie also in Wirklichkeit nicht neutral,
+sondern gegen das Gesetz."
+#+END_QUOTE
+
+** Der Sündenfall des Bundesverfassungsgerichts
+:PROPERTIES:
+:CUSTOM_ID: bverfg-suendenfall
+:END:
+
+1958 traf das Bundesverfassungsgericht eine folgenschwere Entscheidung, die die Vetomacht
+des Bundesrats deutlich vergrößerte.
+
+#+BEGIN_QUOTE
+"Wenn ein Gesetz auch nur einen Satz enthält, der der Zustimmung des Bundesrats bedarf -
+beispielsweise, weil er die Verwaltung der Länder betrifft -, dann macht dieser eine Satz
+das ganze Gesetz, also womöglich Hunderte von Paragrafen, im Bundesrat
+zustimmungspflichtig."
+#+END_QUOTE
+
+** Wann ist ein Veto legitim?
+:PROPERTIES:
+:CUSTOM_ID: legitimitaet-veto
+:END:
+
+Die demokratische Legitimation der Vetoposition ist zweifelhaft. *Heute können Parteien mit
+nur 12-20% der Wählerstimmen auf Landesebene Bundesgesetze blockieren*.
+
+#+BEGIN_QUOTE
+"Christian Stecker rechnete 2021 vor: 'Die Grünen kommen derzeit mit zwölf Prozent der
+bundesweiten Wählerunterstützung besonders günstig an föderale Vetomacht.' Grund dafür ist
+die Tendenz zu immer breiteren Koalitionen in den Landesregierungen."
+#+END_QUOTE
+
+** Wie der Zwang zum Kompromiss die Demokratie aushöhlt
+:PROPERTIES:
+:CUSTOM_ID: kompromisszwang-demokratie
+:END:
+
+Die Notwendigkeit für breite Kompromisse über Parteigrenzen hinweg führt dazu, dass *Wähler
+nicht mehr erkennen können, wer für welche Politik verantwortlich ist*.
+
+#+BEGIN_QUOTE
+"Bei Kompromissen, die von einer informellen Koalition quer über das politische Spektrum
+ausgehandelt werden, können Wähler:innen nämlich oft nicht mehr erkennen, wer welche
+Aspekte durchgesetzt oder aber verhindert hat. Damit fehlt in letzter Konsequenz die
+Orientierung, wen sie für gute oder schlechte Entscheidungen jeweils verantwortlich machen
+können."
+#+END_QUOTE
+
+** Wie wir unseren Föderalismus reparieren können
+:PROPERTIES:
+:CUSTOM_ID: reparatur-foederalismus
+:END:
+
+Die Autoren schlagen eine einfache Lösung vor: Eine Enthaltung sollte als echte Enthaltung
+zählen, nicht als Nein. Ein Land sollte ein Gesetz nur blockieren, wenn alle
+Koalitionspartner darin einig sind.
+
+#+BEGIN_QUOTE
+"Die verfassungsrechtlich sauberste und sicherste Lösung wäre eine Änderung von Art. 52
+Abs. 3 Satz 1 des Grundgesetzes: 'Der Bundesrat fasst einen Beschluss, wenn die Zahl der
+für eine Vorlage abgegebenen Ja-Stimmen die Zahl der abgegebenen Nein-Stimmen
+übersteigt.'"
+#+END_QUOTE
+
+Noch einfacher wäre eine Änderung der Staatspraxis in den Ländern:
+
+#+BEGIN_QUOTE
+"Es würde schon ausreichen, wenn die Parteien die Staatspraxis in den Ländern änderten.
+Sie müssten nur vereinbaren, dass sich das jeweilige Land in Zukunft im Falle einer
+Meinungsverschiedenheit zwischen den Koalitionsparteien nicht mehr enthält, sondern
+standardmäßig Ja sagt."
+#+END_QUOTE
+* Bye, bye, Happyland
+
+Ein abschließender Appell an die Weiße Mehrheit. Während viele der Baustellen in diesem
+Buch mit politisch-juristischen Werkzeugen des Staates zu beheben sind, gibt es tiefere
+gesellschaftliche Probleme, die einer kulturellen Erneuerung bedürfen.
+
+** Die alltägliche Realität von Rassismus
+:PROPERTIES:
+:CUSTOM_ID: alltag-rassismus
+:END:
+
+*Alltagsrassismus* ist ein großes Problem in Deutschland. Menschen werden täglich
+benachteiligt und herabgewürdigt, weil sie als "anders" wahrgenommen werden.
+
+#+BEGIN_QUOTE
+"Jeden Tag werden Menschen in Deutschland benachteiligt, beleidigt, offen oder subtil
+herabgewürdigt und - mitunter wohlmeinend - ausgegrenzt, weil sie etwa aufgrund ihres
+Aussehens, ihres Namens oder ihrer Kleidung als »anders« gelesen werden als die Weiße
+Mehrheit im Land."
+#+END_QUOTE
+
+Fast die gesamte Bevölkerung (90 Prozent) erkennt Rassismus als Realität in Deutschland
+an. Rassistische Diskriminierung findet sich strukturell in der Polizeiarbeit, im
+Bildungswesen und im Gesundheitssystem.
+
+** Das Leben im "Happyland"
+:PROPERTIES:
+:CUSTOM_ID: leben-happyland
+:END:
+
+Die Autoren wenden sich als weiße Mittelstandsmänner vor allem an die privilegierte
+Mehrheitsgesellschaft, die nicht direkt von Rassismus betroffen ist und sich daher nicht
+gezwungen sieht, sich damit auseinanderzusetzen.
+
+#+BEGIN_QUOTE
+"Wir leben, wie die Autorin und Trainerin Tupoka Ogette es in ihrem Buch [[https://www.goodreads.com/book/show/35213270-exit-racism][Exit Racism]]
+nennt, im »Happyland«. Das ist der Teil Deutschlands, in dem Rassismus immer ein
+Charakterfehler der anderen ist: der Nazis, der rechten Schläger, der AfD."
+#+END_QUOTE
+
+*Die Wirklichkeit ist jedoch, dass rassistische Denkmuster auch in gebildeten, aufgeklärten
+Menschen wirken - meist unbewusst und entgegen dem eigenen Selbstbild*.
+
+** Die historischen Wurzeln
+:PROPERTIES:
+:CUSTOM_ID: historische-wurzeln
+:END:
+
+*Rassistische Ideologien wirken in europäischen Gesellschaften seit Jahrhunderten und haben
+die Kolonisierung, Versklavung und Völkermorde legitimiert*.
+
+#+BEGIN_QUOTE
+"Diese über Jahrhunderte implementierten Vorstellungen von einer angeblich natürlichen
+Hierarchie unter Menschen verschwinden leider nicht, nur weil sich die Staatsform
+demokratisiert. Rassistische Denkfiguren überleben bis heute in unserer Kultur und unserem
+Verhalten."
+#+END_QUOTE
+
+Eine Befragung unter Leitung der Migrationsforscherin Naika Foroutan zeigte, dass bei
+jeder zweiten bis dritten befragten Person "biologistische Kategorisierungen, kulturelle
+Hierarchisierungen und [die] Legitimierung von sozialen Ungleichheiten" zu finden sind.
+
+** Die konkreten Auswirkungen
+:PROPERTIES:
+:CUSTOM_ID: konkrete-auswirkungen
+:END:
+
+Die Folgen von Rassismus sind allgegenwärtig und messbar: Schwarze oder asiatisch
+aussehende Menschen haben schlechtere Chancen bei Bewerbungen, besonders wenn sie für
+muslimisch gehalten werden. Menschen mit fremd klingenden Namen werden bei
+Wohnungsbewerbungen aussortiert.
+
+Der Afrozensus, eine Befragung von etwa 6000 Schwarzen und afrodiasporischen Menschen,
+listet über 40 Alltagssituationen auf, die als rassistisch und diskriminierend empfunden
+werden. Über 60 Prozent der Befragten meiden bestimmte Reiseziele in Deutschland aus Angst
+vor rassistischer Gewalt.
+
+#+BEGIN_QUOTE
+"Wenn ich dauernd gefragt werde, wo ich herkomme, komisch angeschaut werde, wenn ich ein
+Restaurant betrete, ich fragen muss, ob ich die Wohnung nicht bekommen habe, weil mein
+Name nicht deutsch klingt -- dann habe ich keine Wahl. Rassismus ist Alltag, keine
+Option."
+#+END_QUOTE
+
+** Wege zur Veränderung
+:PROPERTIES:
+:CUSTOM_ID: wege-veraenderung
+:END:
+
+Um Rassismus zu bekämpfen, schlagen die Autoren mehrere Schritte vor:
+
+- *Selbstbeobachtung* 
+
+  Wir müssen unsere eigenen rassistischen Impulse erkennen und reflektieren.
+
+  #+BEGIN_QUOTE
+  "Viele von uns haben täglich rassistische Impulse, oft genug, ohne dass es uns bewusst
+  ist, und selbst dann, wenn wir in bester Absicht handeln. Entscheidend ist jedoch nicht
+  das Motiv, sondern die Wirkung einer Handlung."
+  #+END_QUOTE
+
+- *Perspektivwechsel* 
+
+  Wir sollten versuchen zu verstehen, wie ein Leben ohne die Privilegien der
+  Mehrheitsgesellschaft aussieht und wie unser Verhalten bei anderen ankommt.
+
+  #+BEGIN_QUOTE
+  "Diese kleinen Momente, sie wirken wie Mückenstiche. Kaum sichtbar, im Einzelnen
+  auszuhalten, doch in schierer Summe wird der Schmerz unerträglich. Diese Mückenstiche
+  haben einen Namen: Mikroaggressionen."
+  #+END_QUOTE
+
+- *Bewusster Sprachgebrauch*
+
+  Mit Sprache beschreiben und gestalten wir unsere Welt. Wir müssen unsere Worte sorgsam
+  wählen und überprüfen, welche Annahmen darin stecken.
+
+  #+BEGIN_QUOTE
+  "»*Wir riefen Arbeitskräfte, und es kamen Menschen*«, sagte Max Frisch mit Blick auf jene
+  Männer und Frauen aus der Türkei, die lange »Gastarbeiter« genannt wurden. Diese
+  Begriffe verdeutlichen die Macht der Sprache."
+  #+END_QUOTE
+
+- *Widerspruch* 
+
+  Wir sollten rassistischen Äußerungen widersprechen, auch im privaten Umfeld. Ein
+  ausbleibender Widerspruch enthält immer eine implizite Zustimmung.
+
+  #+BEGIN_QUOTE
+  "Natürlich drohen in solchen Situationen hitzige und persönliche Debatten, doch ein
+  ausbleibender Widerspruch enthält immer eine implizite Zustimmung -- Rassismen bleiben
+  dann im Raum stehen und werden bestärkt."
+  #+END_QUOTE
+
+- *Vielfalt fördern* 
+
+  Die gesellschaftliche Vielfalt sollte überall sichtbar gemacht werden: in der Schule, in
+  den Medien, in Unternehmen und in der Öffentlichkeit.
+
+  #+BEGIN_QUOTE
+  "Repräsentation ist wirkungsvoll, sie kann Abwehr hervorbringen, aber auch abbauen. Was
+  als normal und alltäglich empfunden wird, macht uns keine Angst. Unsere Gesellschaft ist
+  vielfältig, das ist normal -- und das sollte sich in den Bildern spiegeln, die wir uns
+  von uns machen."
+  #+END_QUOTE
+
+** Fazit
+:PROPERTIES:
+:CUSTOM_ID: fazit-rassismus
+:END:
+
+Die Autoren schließen mit einem Appell zur Selbstreflexion und Anerkennung des Problems:
+
+#+BEGIN_QUOTE
+"Beginnen wir also damit, dass wir unser Problem anerkennen. Reflektieren wir unsere
+Impulse und wagen wir den Perspektivwechsel. Das löst nicht alle Probleme, aber ohne uns
+geht es nicht."
+#+END_QUOTE
+
+Rassismus ist ein gesellschaftliches Problem, das nicht allein durch staatliche Maßnahmen
+gelöst werden kann. Es erfordert das aktive Engagement und die Selbstreflexion jedes
+Einzelnen, insbesondere der nicht direkt betroffenen Mehrheitsgesellschaft.
