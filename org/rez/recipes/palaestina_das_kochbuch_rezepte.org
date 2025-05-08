@@ -1,7 +1,7 @@
 #+startup: indent fold
 #+title: Palästina - Das Kochbuch
 
-* Salate & Vorspeisen
+* Salate & Vorspeisen                                                                        :salat:
 ** Grünes Tabbouleh (Tabbouleh khadra)
 :PROPERTIES:
 :Source:    Palästina - Das Kochbuch
@@ -523,7 +523,7 @@ und schmeckt zum Frühstück ebenso wie mittags oder abends.
   hinzufügen. Zum Kochen bringen und die Kichererbsen etwa 8-10 Minuten köcheln lassen.
   Anschließend wie im Rezept beschrieben mit Joghurt, Tahini, Zitronensaft und dem
   restlichen Knoblauch im Mixer pürieren.
-* Suppen
+* Suppen                                                                                     :suppe:
 ** Zitronige Auberginensuppe
 :PROPERTIES:
 :Source:    Suppen
@@ -686,7 +686,7 @@ Röstzwiebeln
 - Machen Sie am besten gleich ein paar mehr, sie schmecken hervorragend über alle
   möglichen Dinge gestreut – Linsen mit Reis zum Beispiel, Ofengemüse oder gegrilltes
   Fleisch.
-* Hauptgerichte
+* Hauptgerichte                                                                       :hauptgericht:
 ** Reis mit Joghurt, geröstetem Blumenkohl und frittiertem Knoblauch (Labaniet alzahar)
 :PROPERTIES:
 :Source:    Hauptgerichte mit Gemüse
@@ -761,7 +761,7 @@ Adha
   Frühlingszwiebeln zum Beispiel, ein wenig Shatta, in der Pfanne gebratenes Lammhack,
   gegrillte Kirschtomaten, dünne Scheibchen von goldbräunlich frittiertem Knoblauch... So
   kann sich jeder seinen Teller selbst zusammenstellen.
-** Kofta mit Tahin, Kartoffel und Zwiebel                        :kartoffel:
+** Kofta mit Tahin, Kartoffel und Zwiebel                                               :kartoffel:
 :PROPERTIES:
 :Source:    Palästina - Das Kochbuch
 :Portions:  4
@@ -931,7 +931,7 @@ länger im Topf bleiben.
 - Bei Verwendung von gefrorenen Teigtäschchen: 2 Minuten länger in der Joghurtsauce garen
   lassen
 - Alternative Namen: Taqyet etyahoodi ("Judenhut") oder Dinein qtat ("Katzenohren")
-** Auberginenauflauf mit Kichererbsen und Tomaten (Musaqa'a)    :auberginen:
+** Auberginenauflauf mit Kichererbsen und Tomaten (Musaqa'a)                           :auberginen:
 :PROPERTIES:
 :Source:    Hauptgerichte mit Gemüse
 :Portions:  4 Personen als Hauptgericht, für 6 Personen als Beilage
@@ -1071,7 +1071,7 @@ Sauce (nach Belieben):
   Küchlein genug zu bieten, sodass sie auch lediglich mit einem Spritzer Zitronensaft
   auskommen.
 
-** Ful medames                                                      :bohnen:
+** Ful medames                                                                             :bohnen:
 :PROPERTIES:
 :Source:    Palästina - Das Kochbuch
 :Portions:  2 (4 mit Ei und Pita)
@@ -1363,7 +1363,7 @@ ein Rührei zubereitet.
   Topping bieten sich für beide Versionen würziger Feta, schwarze Oliven oder fein
   gehackte Schale von eingelegten Zitronen an. Ein Klecks Tahini oder ein Löffel Joghurt
   kommt immer gelegen, ebenso wie frisches knuspriges Brot und ein knackiger grüner Salat.
-* Beilagen
+* Beilagen                                                                                 :beilage:
 ** Geröstete neue Kartoffeln mit Zitrone und Kräutern (Batata bil filfil)
 :PROPERTIES:
 :Source:    Gemüsebeilagen & Salate
@@ -1415,7 +1415,7 @@ noch braucht. Und das ist das passende Rezept.
   sollen, wenn Sie Zeit gewinnen wollen; Kartoffeln und Tomaten können ruhig ein paar
   Stunden auf dem Blech warten. Nur nicht zu früh hineinschieben, sie sollten frisch aus
   dem Ofen auf den Tisch kommen.
-** Geschmorte Dicke Bohnen mit Olivenöl und Zitrone (Foul akdar)    :bohnen:
+** Geschmorte Dicke Bohnen mit Olivenöl und Zitrone (Foul akdar)                            :bohnen:
 :PROPERTIES:
 :Source:    Gemüsebeilagen & Salate
 :Portions:  4 Personen als Beilage oder Teil einer Mezze-Auswahl

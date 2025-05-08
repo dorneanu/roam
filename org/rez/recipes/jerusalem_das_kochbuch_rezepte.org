@@ -672,7 +672,7 @@ Gemüse kann natürlich auch auf dem Holzkohlengrill zubereitet werden.
 - Traditionell wird das Gericht im Tonofen (Tabun) gegart
 - Als Beilage wird knuspriges Brot empfohlen
 - Eignet sich auch als Belag für Crostini
-* Suppen
+* Suppen                                                                                     :suppe:
 ** Auberginensuppe mit Mograbieh
 :PROPERTIES:
 :Source:    Jerusalem - Das Kochbuch
@@ -786,7 +786,7 @@ ausgesprochen köstliche Suppe zuzubereiten.
 - Der Text erwähnt zusätzliches Olivenöl zum Beträufeln am Ende
 - Die Konsistenz sollte relativ dick sein und noch Tomatenstücke enthalten
 - Nach Bedarf kann die Suppe mit Wasser verdünnt werden
-* Hauptgerichte
+* Hauptgerichte                                                                      :hauptgerichte:
 ** Auberginen mit Chermoula, Bulgur & Joghurt
 :PROPERTIES:
 :Source:    Jerusalem - Das Kochbuch
@@ -1338,7 +1338,7 @@ Weißbrot.
   - Sommer und Frühherbst: klassische Version mit Tomaten
 - Als Beilage wird gutes Weißbrot empfohlen
 - Die Schärfe kann nach persönlichem Geschmack angepasst werden
-* Beilagen
+* Beilagen                                                                                 :beilage:
 ** Couscous mit Tomate & Zwiebel
 :PROPERTIES:
 :Source:    Jerusalem - Das Kochbuch
@@ -1927,7 +1927,6 @@ warm mit Zucker bestreuen und mit saurer Sahne servieren.
   - Als Vorspeise
   - Zu gebratenem Rindfleisch
   - Mit süßen Beilagen
-* Süßes
 * Grundrezepte
 ** Grundrezept für Hummus
 :PROPERTIES:

@@ -2,7 +2,7 @@
 #+AUTHOR: Gabi Frankemölle (Originalrezepte)
 #+DATE: 2025-05-07
 
-* Suppen
+* Suppen                                                                                     :suppe:
 ** Schwarzbohnen-Suppe a la TGI Friday's
 :PROPERTIES:
 :LINK: https://slowcooker.de/schwarzbohnen-suppe-slowcooker/
@@ -311,7 +311,7 @@
 - 3/4 l Gemüsebrühe
 - Salz/Öl
 
-* Eintöpfe und Hauptgerichte
+* Eintöpfe und Hauptgerichte                                                          :hauptgericht:
 ** Gemüsebolo aus dem Slowcooker
 :PROPERTIES:
 :LINK: https://slowcooker.de/blogevent-einfach-gut-essen-gemuesebolo-aus-dem-slowcooker/
@@ -671,7 +671,7 @@
 - Knoblauch, zerdrückt
 - Gewürze nach Geschmack
 
-* Beilagen und Saucen
+* Beilagen und Saucen                                                                     :beilagen:
 ** Rote-Bete-Carpaccio mit Ziegenkäse und Nüssen
 :PROPERTIES:
 :LINK: https://slowcooker.de/rote-bete-carpaccio-mit-ziegenkaese-und-nuessen-slowcooker/
@@ -904,7 +904,7 @@
 - 1 EL frische Kräuter (Thymian, Petersilie)
 - 1 Ei, verschlagen
 
-* Frühstück und Desserts
+* Frühstück und Desserts                                                                 :breakfast:
 ** Schoko-Erdnuss-Knuspermüsli
 :PROPERTIES:
 :LINK: https://slowcooker.de/whats-for-breakfast-schoko-erdnuss-knuspermuesli/
@@ -1026,7 +1026,7 @@
 - 1 Vanilleschote
 - 4 EL Zucker
 - 2 EL Magermilchpulver (optional, sorgt für festere Konsistenz)
-
+  
 ** Dampfnudeln
 :PROPERTIES:
 :LINK: https://slowcooker.de/dampfnudeln-aus-dem-crockpot/
