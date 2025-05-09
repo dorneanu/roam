@@ -61,7 +61,8 @@ Wenn Sie keinen Slow Cooker haben, kann dieses Suppenrezept leicht angepasst wer
 
 *** Anweisungen zum Kochen
 1. Den Slow Cooker bei Bedarf vorheizen. Das Öl in einer großen Bratpfanne erhitzen und die Zwiebel anbraten, bis sie beginnt, braun zu werden, dann den Knoblauch hinzufügen und 1 Minute kochen. Den Essig und den Zucker hinzufügen und 1 Minute köcheln lassen. Die Bohnen und Passata unterrühren und mit schwarzem Pfeffer würzen. Alles in den Slow Cooker geben.
-2. 5 Stunden auf niedriger Stufe kochen. Wenn die Sauce ein wenig dünn erscheint, die Hitze auf hohe Stufe stellen und noch einige Minuten kochen. Den Koriander unterrühren.
+2. 5 Stunden auf niedriger Stufe kochen. Wenn die Sauce ein wenig dünn erscheint, die
+   Hitze auf hohe Stufe stellen und noch einige Minuten kochen. Den Koriander unterrühren.
 
 * Gemüse und Beilagen                                                                      :beilage:
 ** Slow Cooker Aubergines
@@ -195,7 +196,8 @@ Auf einer hohen Einstellung sollte der Kohl 2-3 Stunden brauchen. Kleinere Slow 
 1. Den Ofen auf 150°C/130°C Umluft/Gasstufe 2 vorheizen. Die Tomaten und den Knoblauch in eine Auflaufform geben, die eng anliegt. Gut würzen. Das Olivenöl darüber gießen und mit Folie abdecken. 1¼ Stunden backen, dann den Knoblauch zerdrücken und in das Öl rühren. Warm mit knusprigem Brot servieren. *Hält sich in einem luftdichten Behälter im Kühlschrank bis zu zwei Wochen. Vorher abkühlen lassen.*
 
 **** Tipps
-Die Tomaten durch heiße Pasta mischen für eine schnelle Sauce oder als Pizzabelag verwenden.
+Die Tomaten durch heiße Pasta mischen für eine schnelle Sauce oder als Pizzabelag
+verwenden.
 
 * Frühstück und Grundnahrungsmittel                                                      :breakfast:
 ** Slow Cooker Bread
@@ -306,10 +308,23 @@ Die Tomaten durch heiße Pasta mischen für eine schnelle Sauce oder als Pizzabe
 - Eiscreme zum Servieren
 
 *** Anweisungen zum Kochen
-1. Die Datteln in eine hitzebeständige Schüssel geben, mit 150ml kochendem Wasser übergießen und 30 Minuten einweichen lassen. Eine 1-Liter-Puddingform mit Butter einfetten und den Boden mit Backpapier auslegen.
-2. Die Hälfte der Butter, die Hälfte des Zuckerrübensirups, die Vanille, 75g Zucker und die Sahne in einen Topf bei mittlerer Hitze geben. 4-5 Minuten unter Rühren kochen, bis sich der Zucker auflöst. Die Hitze erhöhen, 3 Minuten köcheln lassen und dann eine Prise Salz unterrühren. Ein Drittel der Sauce in die Form gießen.
-3. Die restliche Butter, den Zuckerrübensirup, den Zucker und die Eier zusammen schlagen, dann das Mehl, das Natron, ¼ TL Salz, die Datteln und deren Einweichflüssigkeit unterheben. In die Form füllen und die Oberfläche glätten, wobei ein 1 cm großer Abstand zum Rand bleiben sollte. Mit einer doppelten Lage Backpapier und Folie abdecken, in der Mitte eine Falte machen, damit der Pudding aufgehen kann. Mit Küchengarn sichern.
-4. Den Slow Cooker auf niedrige Stufe stellen. Die Form hineinstellen und kochendes Wasser einfüllen, so dass es bis zur Hälfte der Form reicht. Abdecken und 7-8 Stunden kochen. Mit einem Messer um den Rand des Puddings fahren und auf einen Teller stürzen. Die restliche Sauce wieder erhitzen und darüber gießen. Mit Eiscreme servieren.
+1. Die Datteln in eine hitzebeständige Schüssel geben, mit 150ml kochendem Wasser
+   übergießen und 30 Minuten einweichen lassen. Eine 1-Liter-Puddingform mit Butter
+   einfetten und den Boden mit Backpapier auslegen.
+2. Die Hälfte der Butter, die Hälfte des Zuckerrübensirups, die Vanille, 75g Zucker und
+   die Sahne in einen Topf bei mittlerer Hitze geben. 4-5 Minuten unter Rühren kochen, bis
+   sich der Zucker auflöst. Die Hitze erhöhen, 3 Minuten köcheln lassen und dann eine
+   Prise Salz unterrühren. Ein Drittel der Sauce in die Form gießen.
+3. Die restliche Butter, den Zuckerrübensirup, den Zucker und die Eier zusammen schlagen,
+   dann das Mehl, das Natron, ¼ TL Salz, die Datteln und deren Einweichflüssigkeit
+   unterheben. In die Form füllen und die Oberfläche glätten, wobei ein 1 cm großer
+   Abstand zum Rand bleiben sollte. Mit einer doppelten Lage Backpapier und Folie
+   abdecken, in der Mitte eine Falte machen, damit der Pudding aufgehen kann. Mit
+   Küchengarn sichern.
+4. Den Slow Cooker auf niedrige Stufe stellen. Die Form hineinstellen und kochendes Wasser
+   einfüllen, so dass es bis zur Hälfte der Form reicht. Abdecken und 7-8 Stunden kochen.
+   Mit einem Messer um den Rand des Puddings fahren und auf einen Teller stürzen. Die
+   restliche Sauce wieder erhitzen und darüber gießen. Mit Eiscreme servieren.
 
 ** Slow Cooker Banana Bread
 :PROPERTIES:
@@ -317,9 +332,18 @@ Die Tomaten durch heiße Pasta mischen für eine schnelle Sauce oder als Pizzabe
 :END:
 
 *** Anweisungen zum Kochen
-1. Den Boden und 5 cm der Seite Ihres Slow Cookers mit Folie auskleiden, um eine Art Kuchenform zu schaffen, dann die Folie mit Backpapier auslegen. Die Bananen in einer Schüssel zerdrücken, bis sie zerkleinert sind, dann beiseite stellen.
-2. Die Butter und beide Zuckerarten zusammen schlagen, bis sie hell und cremig sind, etwa 5 Minuten. 1 Ei mit einem Löffel Mehl einschlagen, bis es vermischt ist. Wiederholen, bis alle Eier eingearbeitet sind.
-3. Das restliche Mehl und Backpulver unterheben, gefolgt von der zerdrückten Banane. In den Slow Cooker geben, den Deckel aufsetzen und 4 Stunden auf hoher Stufe kochen. Den Deckel mindestens 3 Stunden 30 Minuten nicht abnehmen, dann prüfen, ob der Kuchen fertig ist. Ein in die Mitte gesteckter Spieß sollte sauber herauskommen. Wenn nicht, den Deckel wieder aufsetzen und weitere 15 Minuten kochen, dann erneut prüfen. Auf ein Brett stürzen und vor dem Servieren abkühlen lassen, mit etwas Butter oder einfach so.
+1. Den Boden und 5 cm der Seite Ihres Slow Cookers mit Folie auskleiden, um eine Art
+   Kuchenform zu schaffen, dann die Folie mit Backpapier auslegen. Die Bananen in einer
+   Schüssel zerdrücken, bis sie zerkleinert sind, dann beiseite stellen.
+2. Die Butter und beide Zuckerarten zusammen schlagen, bis sie hell und cremig sind, etwa
+   5 Minuten. 1 Ei mit einem Löffel Mehl einschlagen, bis es vermischt ist. Wiederholen,
+   bis alle Eier eingearbeitet sind.
+3. Das restliche Mehl und Backpulver unterheben, gefolgt von der zerdrückten Banane. In
+   den Slow Cooker geben, den Deckel aufsetzen und 4 Stunden auf hoher Stufe kochen. Den
+   Deckel mindestens 3 Stunden 30 Minuten nicht abnehmen, dann prüfen, ob der Kuchen
+   fertig ist. Ein in die Mitte gesteckter Spieß sollte sauber herauskommen. Wenn nicht,
+   den Deckel wieder aufsetzen und weitere 15 Minuten kochen, dann erneut prüfen. Auf ein
+   Brett stürzen und vor dem Servieren abkühlen lassen, mit etwas Butter oder einfach so.
 
 ** Slow Cooker Fudge
 :PROPERTIES:
@@ -335,7 +359,12 @@ Die Tomaten durch heiße Pasta mischen für eine schnelle Sauce oder als Pizzabe
 - Pflanzenöl für die Form
 
 *** Anweisungen zum Kochen
-1. Den Slow Cooker auf niedrige Stufe stellen (wir haben einen 6-Liter-Cooker verwendet). Die Kondensmilch, beide Schokoladen, den Zucker, die Vanille und eine Prise Salz hineingeben. 1 Stunde kochen lassen, alle 15 Minuten mit einem Spatel gut umrühren, um zu mischen und alle Teile abzukratzen, die am Topf kleben bleiben, bis die Masse dick und glatt ist. Eine 20 cm große quadratische Form einölen, dann mit Backpapier auslegen. Die Fudge-Mischung in die Form gießen und 4 Stunden kühlen lassen.
+1. Den Slow Cooker auf niedrige Stufe stellen (wir haben einen 6-Liter-Cooker verwendet).
+   Die Kondensmilch, beide Schokoladen, den Zucker, die Vanille und eine Prise Salz
+   hineingeben. 1 Stunde kochen lassen, alle 15 Minuten mit einem Spatel gut umrühren, um
+   zu mischen und alle Teile abzukratzen, die am Topf kleben bleiben, bis die Masse dick
+   und glatt ist. Eine 20 cm große quadratische Form einölen, dann mit Backpapier
+   auslegen. Die Fudge-Mischung in die Form gießen und 4 Stunden kühlen lassen.
 2. Das Fudge mit einem scharfen Messer in 36 Quadrate schneiden. *Hält sich in einem luft
 
 ** Slow Cooker Clotted Cream Fudge
@@ -344,8 +373,20 @@ Die Tomaten durch heiße Pasta mischen für eine schnelle Sauce oder als Pizzabe
 :END:
 
 *** Anweisungen zum Kochen
-1. Streuzucker, goldenen Sirup, Clotted Cream, Vanille und eine Prise Meersalzflocken in einen Slow Cooker geben. Rühren, bis alles gut vermischt und glatt ist. 4-5 Stunden auf hoher Stufe kochen, alle 30 Minuten umrühren, oder bis es eine goldene Karamellfarbe hat und glänzend aussieht. Wenn Ihr Slow Cooker mit abgenommenem Deckel funktioniert, unbedeckt kochen, um den Kochvorgang zu beschleunigen. Es dauert etwa 5 Stunden, wenn Sie einen Multifunktionskocher mit einem verschlossenen Deckel verwenden, den Sie immer wieder öffnen und umrühren müssen.
-2. Eine 20 cm Backform einölen und mit Backpapier auslegen. Die Schüssel des Slow Cookers vorsichtig abnehmen und auf eine hitzebeständige Matte oder ein Schneidebrett stellen. Mit einem Holzlöffel oder Spatel 10-15 Minuten kräftig mischen, um das Fudge abzukühlen und große Zuckerkristalle zu zerbrechen. Das Fudge wird beim Abkühlen dicker und beginnt, matt auszusehen. In die Form geben und mit einem Spatel die Oberfläche glätten. Mit etwas mehr Salz bestreuen und kühlen, bis es fest ist, etwa 1 Stunde. In Stücke schneiden. *Hält sich fünf Tage in einem luftdichten Behälter*.
+1. Streuzucker, goldenen Sirup, Clotted Cream, Vanille und eine Prise Meersalzflocken in
+   einen Slow Cooker geben. Rühren, bis alles gut vermischt und glatt ist. 4-5 Stunden auf
+   hoher Stufe kochen, alle 30 Minuten umrühren, oder bis es eine goldene Karamellfarbe
+   hat und glänzend aussieht. Wenn Ihr Slow Cooker mit abgenommenem Deckel funktioniert,
+   unbedeckt kochen, um den Kochvorgang zu beschleunigen. Es dauert etwa 5 Stunden, wenn
+   Sie einen Multifunktionskocher mit einem verschlossenen Deckel verwenden, den Sie immer
+   wieder öffnen und umrühren müssen.
+2. Eine 20 cm Backform einölen und mit Backpapier auslegen. Die Schüssel des Slow Cookers
+   vorsichtig abnehmen und auf eine hitzebeständige Matte oder ein Schneidebrett stellen.
+   Mit einem Holzlöffel oder Spatel 10-15 Minuten kräftig mischen, um das Fudge abzukühlen
+   und große Zuckerkristalle zu zerbrechen. Das Fudge wird beim Abkühlen dicker und
+   beginnt, matt auszusehen. In die Form geben und mit einem Spatel die Oberfläche
+   glätten. Mit etwas mehr Salz bestreuen und kühlen, bis es fest ist, etwa 1 Stunde. In
+   Stücke schneiden. *Hält sich fünf Tage in einem luftdichten Behälter*.
 
 ** Slow Cooker Hot Chocolate Fondant Cake
 :PROPERTIES:
@@ -372,8 +413,17 @@ Die Tomaten durch heiße Pasta mischen für eine schnelle Sauce oder als Pizzabe
 - ½ TL Vanilleextrakt
 
 *** Anweisungen zum Kochen
-1. Den Boden und die Seiten der Schüssel eines Slow Cookers buttern. Die Butter und beide Zuckerarten in einer Küchenmaschine mit dem Schneebesen-Aufsatz oder mit einem elektrischen Schneebesen schlagen, bis sie hell und flaumig sind. Die Eier einzeln hinzufügen, dann das Mehl, Kakaopulver, Backpulver, Espresso, eine Prise Salz und die Schokolade unterheben. Gerade genug Milch hinzufügen, so dass der Teig in großen Klumpen vom Spatel fällt. In den vorbereiteten Slow Cooker geben.
-2. Die Sauce-Zutaten in einer hitzebeständigen Schüssel mit 300ml kochendem Wasser mischen, dann vorsichtig über den Teig im Slow Cooker gießen. Abdecken und 5-6 Stunden auf niedriger Stufe oder 3 Stunden auf hoher Stufe kochen, bis der Kuchen beim Drücken zurückfedert und gut aufgegangen ist. Mit Crème fraîche, geschlagener Sahne oder Vanilleeis servieren.
+1. Den Boden und die Seiten der Schüssel eines Slow Cookers buttern. Die Butter und beide
+   Zuckerarten in einer Küchenmaschine mit dem Schneebesen-Aufsatz oder mit einem
+   elektrischen Schneebesen schlagen, bis sie hell und flaumig sind. Die Eier einzeln
+   hinzufügen, dann das Mehl, Kakaopulver, Backpulver, Espresso, eine Prise Salz und die
+   Schokolade unterheben. Gerade genug Milch hinzufügen, so dass der Teig in großen
+   Klumpen vom Spatel fällt. In den vorbereiteten Slow Cooker geben.
+2. Die Sauce-Zutaten in einer hitzebeständigen Schüssel mit 300ml kochendem Wasser
+   mischen, dann vorsichtig über den Teig im Slow Cooker gießen. Abdecken und 5-6 Stunden
+   auf niedriger Stufe oder 3 Stunden auf hoher Stufe kochen, bis der Kuchen beim Drücken
+   zurückfedert und gut aufgegangen ist. Mit Crème fraîche, geschlagener Sahne oder
+   Vanilleeis servieren.
 
 ** Slow Cooker Christmas Cake
 :PROPERTIES:
@@ -381,8 +431,16 @@ Die Tomaten durch heiße Pasta mischen für eine schnelle Sauce oder als Pizzabe
 :END:
 
 *** Anweisungen zum Kochen
-1. Eine 20 cm tiefe, runde Kuchenform buttern und mit zwei Lagen Backpapier auslegen. Den Slow Cooker 30 Minuten lang auf hoher Stufe vorheizen. In der Zwischenzeit in einer großen Schüssel die Butter, den Zucker, den goldenen Sirup und die Eier vermischen, dann die restlichen Zutaten unterheben, gefolgt von den eingeweichten getrockneten Früchten und jeglicher Flüssigkeit.
-2. 9 Std. 30 Min. - 10 Std. auf niedriger Stufe kochen, bis ein in den Kuchen gesteckter Spieß sauber herauskommt. Die Temperaturen von Slow Cookern können variieren, überprüfen Sie den Kuchen daher nach 5 Stunden und achten Sie darauf, den Deckel nicht zu lange abzunehmen. Die Innentemperatur sollte etwa 92°C betragen. Vollständig in der Form abkühlen lassen. *Hält sich bis zu zwei Monate in einer verschlossenen Kuchendose*.
+1. Eine 20 cm tiefe, runde Kuchenform buttern und mit zwei Lagen Backpapier auslegen. Den
+   Slow Cooker 30 Minuten lang auf hoher Stufe vorheizen. In der Zwischenzeit in einer
+   großen Schüssel die Butter, den Zucker, den goldenen Sirup und die Eier vermischen,
+   dann die restlichen Zutaten unterheben, gefolgt von den eingeweichten getrockneten
+   Früchten und jeglicher Flüssigkeit.
+2. 9 Std. 30 Min. - 10 Std. auf niedriger Stufe kochen, bis ein in den Kuchen gesteckter
+   Spieß sauber herauskommt. Die Temperaturen von Slow Cookern können variieren,
+   überprüfen Sie den Kuchen daher nach 5 Stunden und achten Sie darauf, den Deckel nicht
+   zu lange abzunehmen. Die Innentemperatur sollte etwa 92°C betragen. Vollständig in der
+   Form abkühlen lassen. *Hält sich bis zu zwei Monate in einer verschlossenen Kuchendose*.
 
 ** Slow Cooker Rice Pudding
 :PROPERTIES:
@@ -398,7 +456,10 @@ Die Tomaten durch heiße Pasta mischen für eine schnelle Sauce oder als Pizzabe
 - Eine Handvoll geröstete, gehobelte Mandeln und Obst zum Servieren
 
 *** Anweisungen zum Kochen
-1. Den Slow Cooker überall am Boden und zur Hälfte an den Seiten buttern. Die Milch zum Siedepunkt erhitzen. Den Puddingreis mit der Milch mischen und in den Slow Cooker gießen. Eine Prise Muskatnuss oder Zimt hinzufügen. 2½ Stunden auf hoher Stufe kochen und ein- oder zweimal umrühren, wenn möglich.
+1. Den Slow Cooker überall am Boden und zur Hälfte an den Seiten buttern. Die Milch zum
+   Siedepunkt erhitzen. Den Puddingreis mit der Milch mischen und in den Slow Cooker
+   gießen. Eine Prise Muskatnuss oder Zimt hinzufügen. 2½ Stunden auf hoher Stufe kochen
+   und ein- oder zweimal umrühren, wenn möglich.
 2. Mit Honig oder gehobelten Mandeln und Obst servieren, wenn Sie möchten.
 
 ** Slow Cooker Self Saucing Pud
@@ -407,9 +468,17 @@ Die Tomaten durch heiße Pasta mischen für eine schnelle Sauce oder als Pizzabe
 :END:
 
 *** Anweisungen zum Kochen
-1. Den Slow Cooker 20 Minuten lang auf hoher Stufe vorheizen. Das Innere Ihres Slow Cookers vorsichtig mit Butter einreiben. Den Teig herstellen, indem Sie die geschmolzene Butter mit beiden Zuckerarten, den Eiern und der Milch vermischen, dann das Mehl, Backpulver, Ingwer und Zimt unterheben. Bei Bedarf schlagen, um alle Klumpen zu entfernen, dann in Ihren Slow Cooker gießen.
-2. Für die Sauce die Speisestärke mit 1 TL Wasser mischen, dann beiseite stellen. Zucker und Ingwer mit 350 ml kochendem Wasser vermischen, bis sich der Zucker aufgelöst hat. Die Speisestärke-Paste einrühren, dann über den Teig gießen.
-3. 1 Std. 30 Min. - 2 Std. 30 Min. auf hoher Stufe kochen (dies variiert je nach Ihrem Slow Cooker), bis der Teig fest geworden ist und sich fest anfühlt. Zum Servieren nach Belieben etwas Sahne darüber gießen.
+1. Den Slow Cooker 20 Minuten lang auf hoher Stufe vorheizen. Das Innere Ihres Slow
+   Cookers vorsichtig mit Butter einreiben. Den Teig herstellen, indem Sie die
+   geschmolzene Butter mit beiden Zuckerarten, den Eiern und der Milch vermischen, dann
+   das Mehl, Backpulver, Ingwer und Zimt unterheben. Bei Bedarf schlagen, um alle Klumpen
+   zu entfernen, dann in Ihren Slow Cooker gießen.
+2. Für die Sauce die Speisestärke mit 1 TL Wasser mischen, dann beiseite stellen. Zucker
+   und Ingwer mit 350 ml kochendem Wasser vermischen, bis sich der Zucker aufgelöst hat.
+   Die Speisestärke-Paste einrühren, dann über den Teig gießen.
+3. 1 Std. 30 Min. - 2 Std. 30 Min. auf hoher Stufe kochen (dies variiert je nach Ihrem
+   Slow Cooker), bis der Teig fest geworden ist und sich fest anfühlt. Zum Servieren nach
+   Belieben etwas Sahne darüber gießen.
 
 * Hauptgerichte
 ** Slow Cooker Vegetable Lasagne
@@ -634,7 +703,10 @@ Restlichen Mac & Cheese in die Vertiefungen einer Antihaft-Muffinform füllen un
 *** Anweisungen zum Kochen
 1. Den Slow Cooker bei Bedarf vorheizen. Die Zwiebel in dem Öl in einer Bratpfanne mit einem Spritzer Wasser 10 Minuten anbraten oder bis sie weich, aber nicht gefärbt ist. Die Pilzscheiben hinzufügen und umrühren, bis sie beginnen, weich zu werden und ihre Säfte freizusetzen.
 2. In der Zwischenzeit die Brühe in einen Topf gießen und die Steinpilze hinzufügen, zum Kochen bringen und dann einweichen lassen. Die Zwiebeln und Pilze in den Slow Cooker geben und den Reis hinzufügen, gut unterrühren. Die Brühe und die Steinpilze darüber gießen, wobei alle Sedimente im Topf zurückbleiben sollten (oder die Mischung durch ein feines Sieb gießen).
-3. 3 Stunden auf hoher Stufe kochen, nach der Hälfte der Zeit umrühren und dann die Konsistenz prüfen – der Reis sollte gar sein. Wenn er noch etwas mehr Flüssigkeit benötigt, einen Schuss Brühe unterrühren. Die Petersilie unterrühren und würzen. Mit dem Parmesan servieren.
+3. 3 Stunden auf hoher Stufe kochen, nach der Hälfte der Zeit umrühren und dann die
+   Konsistenz prüfen – der Reis sollte gar sein. Wenn er noch etwas mehr Flüssigkeit
+   benötigt, einen Schuss Brühe unterrühren. Die Petersilie unterrühren und würzen. Mit
+   dem Parmesan servieren.
 
 * Suppen und Eintöpfe
 ** Slow Cooker Broccoli & Cheese Soup
