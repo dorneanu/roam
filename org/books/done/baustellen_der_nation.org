@@ -2,7 +2,7 @@
 :ID:       CB5C6BF5-44D5-4113-AB09-CE5A56FB4412
 :END:
 #+title: Baustellen der Nation
-#+filetags: :TODO:politics:book:
+#+filetags: :politics:book:
 #+date: 2025-04-23
 
 👉 https://www.goodreads.com/book/show/125083585-baustellen-der-nation

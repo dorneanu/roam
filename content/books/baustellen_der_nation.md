@@ -2,7 +2,7 @@
 title = "Baustellen der Nation"
 author = ["Dorneanu"]
 date = 2025-04-23
-tags = ["TODO", "politics", "book"]
+tags = ["politics", "book"]
 draft = false
 +++
 
