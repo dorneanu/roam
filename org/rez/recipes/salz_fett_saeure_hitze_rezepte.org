@@ -2,21 +2,13 @@
 :id:       fa1498b2-8473-4450-9aa7-7800ac5334ce
 :end:
 #+title: Salz.Fett.Säure.Hitze (Rezepte)
+#+author: Samin Nosrat
 #+filetags: :nutrition:book:
 
-* Salate                                                             :salate:
-:properties:
-:custom_id: salate
-:end:
+* Salate                                                                                    :salate:
 ** Krautsalate
 *** Erfrischender Krautsalat (für mindestens 4 Personen)
-:properties:
-:custom_id: erfrischender-krautsalat-für-mindestens-4-personen
-:end:
 **** Zutaten
-:properties:
-:custom_id: zutaten
-:end:
 - ½ mittelgroßer Kopf Rot- oder Weißkohl (ca. 700g)
 - ½ kleine rote Zwiebel, in dünne Ringe geschnitten
 - 4 EL Zitronensaft
@@ -26,9 +18,6 @@
 - 6 EL Olivenöl Extra Vergine
 
 **** Zubereitung
-:properties:
-:custom_id: zubereitung
-:end:
 1. Kohl durch den Strunk vierteln. Mit scharfem Messer Strunk schräg herausschneiden
 2. Kohl quer in feine Streifen schneiden, in Salatsieb über große Schüssel hängen
 3. Mit zwei großzügigen Prisen Salz würzen, gründlich wenden und beiseitestellen
@@ -40,15 +29,9 @@
 9. Gekühlt oder zimmerwarm servieren
 
 **** Aufbewahrung
-:properties:
-:custom_id: aufbewahrung
-:end:
 - Hält sich bis zu zwei Tage im Kühlschrank
 
 **** Varianten
-:properties:
-:custom_id: varianten
-:end:
 - *Etwas anderer Krautsalat*: Statt Kohl ein großes Bündel Grünkohlblätter, 600g Rosenkohl oder 600g Kohlrabi verwenden
 - *Mexikanischer Krautsalat*:
   - Olivenöl durch neutrales Öl ersetzen
@@ -68,13 +51,7 @@
   - 1 fein geschnittener/geraspelter säuerlicher Apfel
 
 *** Karottensalat mit Ingwer und Limette (für 6 Personen)
-:properties:
-:custom_id: karottensalat-mit-ingwer-und-limette-für-6-personen
-:end:
 **** Zutaten
-:properties:
-:custom_id: zutaten-1
-:end:
 - 250g goldgelbe oder schwarze Rosinen
 - 1 EL Kreuzkümmelsamen
 - 900g Karotten
@@ -86,9 +63,6 @@
 - 1 Portion Limettenvinaigrette
 
 **** Zubereitung
-:properties:
-:custom_id: zubereitung-1
-:end:
 1. Rosinen mit kochendem Wasser übergießen, 15 Minuten ziehen lassen, abgießen
 2. Kreuzkümmelsamen in trockener Pfanne rösten bis erste Samen aufplatzen (ca. 3 Min)
 3. Sofort in Mörser geben und mit Prise Salz zerstoßen
@@ -98,13 +72,7 @@
 7. 30 Minuten kühl stellen
 8. Vor Servieren durchmischen und mit Korianderzweigen garnieren
 *** Fenchelsalat mit Radieschen (für 4 bis 6 Personen)
-:properties:
-:custom_id: fenchelsalat-mit-radieschen-für-4-bis-6-personen
-:end:
 **** Zutaten
-:properties:
-:custom_id: zutaten-2
-:end:
 - 3 mittelgroße Fenchelknollen (ca. 500g)
 - 1 Bund Radieschen, geputzt und gewaschen (etwa 8 Radieschen)
 - 1 kleine Handvoll Petersilienblätter
@@ -114,9 +82,6 @@
 - 80ml Zitronenvinaigrette
 
 **** Zubereitung
-:properties:
-:custom_id: zubereitung-2
-:end:
 1. Fenchel putzen: Stiele und unteres Ende entfernen, Knollen ganz lassen
 2. Knollen durch Strunk halbieren, faserige Außenschichten entfernen
 3. Mit Gemüsehobel oder scharfem Messer quer in papierdünne Streifen schneiden
@@ -129,17 +94,8 @@
 10. In flacher Schale anrichten und sofort servieren
 
 *** Panzanella für jede Jahreszeit
-:properties:
-:custom_id: panzanella-für-jede-jahreszeit
-:end:
 **** Sommer-Version (für mindestens 4 Personen)
-:properties:
-:custom_id: sommer-version-für-mindestens-4-personen
-:end:
 **** Zutaten
-:properties:
-:custom_id: zutaten-3
-:end:
 - ½ mittelgroße rote Zwiebel, in dünne Ringe geschnitten
 - 1 EL Rotweinessig
 - 200g Hausgemachte Croûtons
@@ -151,9 +107,6 @@
 - Meersalzflocken
 
 **** Zubereitung
-:properties:
-:custom_id: zubereitung-3
-:end:
 1. Zwiebelringe mit Essig vermischen und 20 Minuten mazerieren
 2. Hälfte der Croûtons in großer Salatschüssel mit 120ml Tomatenvinaigrette vermengen
 3. Kirschtomaten und Tomatenschnitze darüber verteilen und salzen
@@ -164,13 +117,7 @@
 8. Nach Geschmack mit Salz, Vinaigrette und/oder Zwiebelessig nachwürzen
 
 **** Herbst-Version
-:properties:
-:custom_id: herbst-version
-:end:
 **** Zutaten
-:properties:
-:custom_id: zutaten-4
-:end:
 - 400g Schwarzkohlblätter (Lacinato/Cavolo Nero)
 - 1 großer Butternusskürbis (ca. 1kg), geschält
 - Olivenöl Extra Vergine
@@ -183,9 +130,6 @@
 - 100g Haselnüsse, geröstet und grob gehackt
 
 **** Zubereitung
-:properties:
-:custom_id: zubereitung-4
-:end:
 1. Backofen auf 220°C vorheizen, Backblech mit Küchenpapier auslegen
 2. Kohl entstielen und in fingerbreite Streifen schneiden
 3. Butternusskürbis halbieren, entkernen, in Scheiben schneiden und braten
@@ -200,19 +144,10 @@
 9. Mit restlicher Vinaigrette anmachen und abschmecken
 
 **** Aufbewahrung
-:properties:
-:custom_id: aufbewahrung-1
-:end:
 - Reste halten sich über Nacht im Kühlschrank
 
 *** Panzanella Winter-Version (für mindestens 4 Personen)
-:properties:
-:custom_id: panzanella-winter-version-für-mindestens-4-personen
-:end:
 **** Zutaten
-:properties:
-:custom_id: zutaten-5
-:end:
 - 2 Köpfe Radicchio
 - Olivenöl Extra Vergine
 - Salz
@@ -226,9 +161,6 @@
 - Rotweinessig nach Geschmack
 
 **** Zubereitung
-:properties:
-:custom_id: zubereitung-5
-:end:
 1. Backofen auf 220°C vorheizen
 2. Radicchioköpfe durch Wurzel halbieren und vierteln
 3. Großzügig mit Olivenöl beträufeln und salzen
@@ -244,48 +176,31 @@
 10. Mit Zimmertemperatur servieren
 
 **** Aufbewahrung
-:properties:
-:custom_id: aufbewahrung-2
-:end:
 - Hält sich abgedeckt im Kühlschrank über Nacht
-
+  
 * Saucen und Vinaigrettes
-:properties:
-:custom_id: saucen-und-vinaigrettes
-:end:
 ** Vinaigrette mit Rotweinessig (ca. 120ml)
-:properties:
-:custom_id: vinaigrette-mit-rotweinessig-ca.-120ml
-:end:
-**** Zutaten
-:properties:
-:custom_id: zutaten-6
-:end:
+
+*** Zutaten
 - 1 EL Schalotten, fein gewürfelt
 - 2 EL Rotweinessig
 - 6 EL Olivenöl Extra Vergine
 - Salz
 - Schwarzer Pfeffer, frisch gemahlen
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-6
-:end:
+
+*** Zubereitung
 1. Schalotten und Essig in Schälchen/Schraubglas 15 Minuten mazerieren
 2. Olivenöl, großzügige Prise Salz und kleine Prise Pfeffer zugeben
 3. Umrühren oder schütteln, mit Salatblatt kosten
 4. Mit Salz und Säure abschmecken
 
-**** Aufbewahrung
-:properties:
-:custom_id: aufbewahrung-3
-:end:
+
+*** Aufbewahrung
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
-:properties:
-:custom_id: verwendung
-:end:
+
+*** Verwendung
 - Für Blattsalate, Rucola, Endivien, Chicorée
 - Für Salatherzen und Romanasalat
 - Für Rote Bete, Tomaten
@@ -293,17 +208,13 @@
 - Für Erfrischenden Krautsalat, Fattoush, Getreide- oder Bohnensalat
 - Für Griechischen Salat und Frühlingspanzanella
 
-**** Variante: Vinaigrette mit Senf und Honig
-:properties:
-:custom_id: variante-vinaigrette-mit-senf-und-honig
-:end:
+
+*** Variante: Vinaigrette mit Senf und Honig
 - 1 EL Dijonsenf und 1 TL Honig einrühren
 
+
 ** Zitronenvinaigrette (ca. 120ml)
-:properties:
-:custom_id: zitronenvinaigrette-ca.-120ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-7
 :end:
@@ -315,7 +226,7 @@
 - Salz
 - Schwarzer Pfeffer, frisch gemahlen
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-7
 :end:
@@ -324,13 +235,13 @@
 3. Mindestens 10 Minuten ziehen lassen
 4. Vor Verwendung Knoblauchzehe entfernen
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-4
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu zwei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-1
 :end:
@@ -341,7 +252,7 @@
 - Für Fenchelsalat mit Radieschen
 - Für Langsam gebratenen Lachs
 
-**** Variante: Mit Sardellen
+*** Variante: Mit Sardellen
 :properties:
 :custom_id: variante-mit-sardellen
 :end:
@@ -349,11 +260,9 @@
 - Im Mörser zu feiner Paste zerreiben
 - Mit ½ zerdrückter Knoblauchzehe einrühren
 
+
 ** Tomatenvinaigrette (ca. 240ml)
-:properties:
-:custom_id: tomatenvinaigrette-ca.-240ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-8
 :end:
@@ -365,8 +274,8 @@
 - 4 EL Olivenöl Extra Vergine
 - 1 Knoblauchzehe
 - Salz
-
-**** Zubereitung
+  
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-8
 :end:
@@ -378,13 +287,13 @@
 6. Alles vermischen und 10 Minuten ziehen lassen
 7. Vor Verwendung Knoblauch entfernen
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-5
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu zwei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-2
 :end:
@@ -396,10 +305,7 @@
 - Für Sommerlichen Tomatensalat mit Kräutern
 
 ** Limettenvinaigrette (ca. 110ml)
-:properties:
-:custom_id: limettenvinaigrette-ca.-110ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-9
 :end:
@@ -408,7 +314,7 @@
 - 1 Knoblauchzehe
 - Salz
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-9
 :end:
@@ -417,13 +323,13 @@
 3. Vermischen und 10 Minuten ziehen lassen
 4. Vor Verwendung Knoblauch entfernen
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-6
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-3
 :end:
@@ -435,17 +341,14 @@
 - Für Persischen Shirazi-Salat
 - Für Langsam gebratenen Lachs
 
-**** Variante
+*** Variante
 :properties:
 :custom_id: variante
 :end:
 - Für Schärfe: 1 TL fein gehackte Jalapeño-Chilis einrühren
 
 ** Caesar-Dressing (ca. 360ml)
-:properties:
-:custom_id: caesar-dressing-ca.-360ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-10
 :end:
@@ -459,7 +362,7 @@
 - Schwarzer Pfeffer, frisch gemahlen
 - Salz
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-10
 :end:
@@ -468,7 +371,7 @@
 3. Mit Salatblatt abschmecken
 4. Mit Salz und Säure nach Geschmack anpassen
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-4
 :end:
@@ -478,17 +381,14 @@
 - Für fein gehobelten Rosenkohl
 - Für Chicorée
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-7
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
 ** Cremiges Kräuter-Dressing (ca. 300ml)
-:properties:
-:custom_id: cremiges-kräuter-dressing-ca.-300ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-11
 :end:
@@ -505,10 +405,7 @@
 - Schwarzer Pfeffer, frisch gemahlen
 
 ** Cremiges Kräuter-Dressing (Fortsetzung)
-:properties:
-:custom_id: cremiges-kräuter-dressing-fortsetzung
-:end:
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-11
 :end:
@@ -518,13 +415,13 @@
 3. Mit großzügiger Prise Salz und Pfeffer würzen
 4. Mit Salatblatt abschmecken, Salz und Säure anpassen
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-8
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-5
 :end:
@@ -535,10 +432,7 @@
 - Als Sauce zu Frittiertem
 
 ** Dressing mit Blauschimmelkäse (ca. 300ml)
-:properties:
-:custom_id: dressing-mit-blauschimmelkäse-ca.-300ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-12
 :end:
@@ -549,7 +443,7 @@
 - 1 kleine Knoblauchzehe, fein gerieben
 - Salz
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-12
 :end:
@@ -557,13 +451,13 @@
 2. Mit Salatblatt abschmecken
 3. Salz und Säure anpassen
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-9
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-6
 :end:
@@ -573,10 +467,7 @@
 - Als Dip für Karotten und Gurken
 
 ** Tahin-Dressing (ca. 240ml)
-:properties:
-:custom_id: tahin-dressing-ca.-240ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-13
 :end:
@@ -589,7 +480,7 @@
 - ¼ TL Cayennepfeffer
 - 2-4 EL Eiswasser
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-13
 :end:
@@ -601,20 +492,20 @@
 4. Mit Wasser zur gewünschten Konsistenz verdünnen
 5. Abschmecken und anpassen
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-10
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-7
 :end:
 - Als Dip unverdünnt lassen
 - Für Salate, Gemüse oder Fleisch mit Wasser verdünnen
 
-**** Variante: Goma-Ae (Japanisches Sesamdressing)
+*** Variante: Goma-Ae (Japanisches Sesamdressing)
 :properties:
 :custom_id: variante-goma-ae-japanisches-sesamdressing
 :end:
@@ -625,10 +516,7 @@
   - 1 TL Mirin zugeben
 
 ** Miso-Dressing mit Senf (180ml)
-:properties:
-:custom_id: miso-dressing-mit-senf-180ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-14
 :end:
@@ -638,7 +526,7 @@
 - 4 EL Reisessig
 - 1 TL Ingwer, fein gerieben
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-14
 :end:
@@ -646,7 +534,7 @@
 2. Mit Salatblatt abschmecken
 3. Säure nach Bedarf anpassen
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-8
 :end:
@@ -658,10 +546,7 @@
 - Für gebratenes Gemüse
 
 ** Limetten-Erdnuss-Dressing (ca. 400ml)
-:properties:
-:custom_id: limetten-erdnuss-dressing-ca.-400ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-15
 :end:
@@ -676,7 +561,7 @@
 - 1 Knoblauchzehe, in Scheiben geschnitten
 - 4 EL Korianderblätter, grob gehackt (optional)
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-15
 :end:
@@ -687,13 +572,13 @@
 3. Mit Salatblatt abschmecken
 4. Salz und Säure anpassen
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-11
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-9
 :end:
@@ -704,10 +589,7 @@
 - Zu Steak oder Schweinefleisch
 
 ** Salsa Verde (Grundrezept, ca. 180ml)
-:properties:
-:custom_id: salsa-verde-grundrezept-ca.-180ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-16
 :end:
@@ -717,7 +599,7 @@
 - 4 EL Olivenöl Extra Vergine
 - Salz
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-16
 :end:
@@ -729,13 +611,13 @@
 4. Mit Essig abschmecken
 5. Salz nachjustieren
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-12
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-10
 :end:
@@ -747,7 +629,7 @@
 - Zu Extraknusprigem Schmetterlingshuhn
 - Zu Kufteh Kebab
 
-**** Varianten
+*** Varianten
 :properties:
 :custom_id: varianten-1
 :end:
@@ -770,10 +652,7 @@
    - Hälfte der Petersilie durch 2 EL gehackte Minze ersetzen
 
 ** Klassische französische Kräutersalsa (ca. 180ml)
-:properties:
-:custom_id: klassische-französische-kräutersalsa-ca.-180ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-17
 :end:
@@ -787,7 +666,7 @@
 - 4 EL Olivenöl Extra Vergine
 - Salz
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-17
 :end:
@@ -797,13 +676,13 @@
 4. Abschmecken und Essig nach Bedarf zugeben
 5. Salz nachjustieren
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-13
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-11
 :end:
@@ -815,7 +694,7 @@
 - Zu Thunfisch-Confit
 - Zu Hühnerschnitzeln oder Hühner-Confit
 
-**** Varianten
+*** Varianten
 :properties:
 :custom_id: varianten-2
 :end:
@@ -826,10 +705,7 @@
    - ½ TL Zitronenschale zugeben
 
 ** Südostasiatisch inspirierte Kräutersalsa (ca. 300ml)
-:properties:
-:custom_id: südostasiatisch-inspirierte-kräutersalsa-ca.-300ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-18
 :end:
@@ -842,7 +718,7 @@
 - 5 EL geschmacksneutrales Öl
 - Salz
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-18
 :end:
@@ -853,13 +729,13 @@
    geben
 4. Mit Limettensaft und Salz abschmecken
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-14
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-12
 :end:
@@ -876,10 +752,7 @@
 - Zu gegrilltem Skirt- oder Rib-Eye-Steak
 
 ** Mexikanisch inspirierte Kräutersalsa (ca. 240ml)
-:properties:
-:custom_id: mexikanisch-inspirierte-kräutersalsa-ca.-240ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-19
 :end:
@@ -891,7 +764,7 @@
 - 4 EL geschmacksneutrales Öl
 - Salz
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-19
 :end:
@@ -901,13 +774,13 @@
 3. Vor Servieren Schalotten aus Limettensaft ins Kräuteröl geben
 4. Mit Limettensaft und Salz abschmecken
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-15
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-13
 :end:
@@ -923,7 +796,7 @@
 - Zu Huhn vom Fließband
 - Zu geschmortem Schweinefleisch mit Chilis
 
-**** Varianten
+*** Varianten
 :properties:
 :custom_id: varianten-3
 :end:
@@ -940,10 +813,7 @@
    - 3 EL gehackte geröstete Kürbiskerne unterziehen
 
 ** Japanisch inspirierte Kräutersalsa (ca. 240ml)
-:properties:
-:custom_id: japanisch-inspirierte-kräutersalsa-ca.-240ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-20
 :end:
@@ -957,7 +827,7 @@
 - ¾ TL Zucker
 - Salz
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-20
 :end:
@@ -967,13 +837,13 @@
 3. Vor Servieren Essig-Zucker-Mischung zugeben
 4. Mit Salz und Säure abschmecken
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-16
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-14
 :end:
@@ -988,13 +858,13 @@
 - Zu scharf mariniertem Schweinskarree
 - Zu gegrilltem Skirt- oder Rib-Eye-Steak
 
-[Fortsetzung folgt...]## Nordafrikanische Chermoula (ca. 240ml) ####
+** Nordafrikanische Chermoula (ca. 240ml) ####
 Zutaten - ½ TL Kreuzkümmelsamen - 8 EL Olivenöl Extra Vergine - 50g
 Korianderblätter und zarte Stiele, grob gehackt - 1 Knoblauchzehe - 1
 Stück Ingwer (ca. 3cm), geschält und in Scheiben geschnitten - ½ kleine
 Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-21
 :end:
@@ -1007,13 +877,13 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 6. Bei Bedarf mit Wasser verdünnen
 7. Bis zum Servieren kalt stellen
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-17
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-15
 :end:
@@ -1031,10 +901,7 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 - Zu Kufteh Kebab
 
 ** Salmoriglio - Sizilianische Oreganosauce (ca. 120ml)
-:properties:
-:custom_id: salmoriglio---sizilianische-oreganosauce-ca.-120ml
-:end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-21
 :end:
@@ -1045,7 +912,7 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 - 2 EL Zitronensaft
 - Salz
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-22
 :end:
@@ -1054,13 +921,13 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 2. Vor Servieren Zitronensaft zugeben
 3. Mit Salz abschmecken
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-18
 :end:
 - Hält sich verschlossen im Kühlschrank bis zu drei Tage
 
-**** Verwendung
+*** Verwendung
 :properties:
 :custom_id: verwendung-16
 :end:
@@ -1070,7 +937,7 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 - Zu Thunfisch-Confit
 - Zu extraknusprigem Schmetterlingshuhn
 
-**** Variante: Argentinisches Chimichurri
+*** Variante: Argentinisches Chimichurri
 :properties:
 :custom_id: variante-argentinisches-chimichurri
 :end:
@@ -1081,7 +948,7 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 :properties:
 :custom_id: kirschtomaten-confit-ca.-1-liter
 :end:
-**** Zutaten
+*** Zutaten
 :properties:
 :custom_id: zutaten-22
 :end:
@@ -1091,7 +958,7 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 - Salz
 - 500ml Olivenöl Extra Vergine
 
-**** Zubereitung
+*** Zubereitung
 :properties:
 :custom_id: zubereitung-23
 :end:
@@ -1103,7 +970,7 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 6. Tomaten sind fertig wenn sie beim Anstechen weich sind
 7. Basilikum vor Verwendung entfernen
 
-**** Aufbewahrung
+*** Aufbewahrung
 :properties:
 :custom_id: aufbewahrung-19
 :end:
@@ -1111,7 +978,7 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 - Öl kann gefiltert für zweite Portion oder Tomatenvinaigrette verwendet
   werden
 
-**** Varianten
+*** Varianten
 :properties:
 :custom_id: varianten-4
 :end:
@@ -1128,16 +995,9 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
      - Als Aufstrich mit Minze/Knoblauch
      - Kalt als Antipasto
 
-[Fortsetzung folgt...]# Pasta-Gerichte
-
+* Pasta-Gerichte
 ** Pasta mit Brokkoli und gerösteten Brotkrümeln (für 4-6 Personen)
-:properties:
-:custom_id: pasta-mit-brokkoli-und-gerösteten-brotkrümeln-für-4-6-personen
-:end:
-**** Zutaten
-:properties:
-:custom_id: zutaten-23
-:end:
+*** Zutaten
 - Salz
 - 900g Brokkoli (Röschen und geschälte Stiele)
 - Olivenöl Extra Vergine
@@ -1148,10 +1008,7 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 - 50g Geröstete Brotkrümel
 - Parmesan, sehr fein gerieben
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-24
-:end:
+*** Zubereitung
 1. Großen Topf Wasser zum Kochen bringen, stark salzen
 2. Brokkoliröschen in 1,5cm Stücke, Stiele in 0,5cm Scheiben schneiden
 3. Großen Schmortopf erhitzen, Öl zugeben
@@ -1167,10 +1024,7 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 12. Mit Öl und Nudelwasser zur gewünschten Konsistenz bringen
 13. Mit Brotkrümeln und Parmesan servieren
 
-**** Varianten
-:properties:
-:custom_id: varianten-5
-:end:
+*** Varianten
 1. *Mit Sardellen*:
    - 6 gehackte Sardellenfilets mit Knoblauch zugeben
 2. *Mit Bohnen*:
@@ -1190,13 +1044,7 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
      - Lang gekochtes Gemüse (Artischocken, Fenchel, Zucchini)
 
 ** Pasta alla Pomarola (ca. 1,8L Sauce; Nudelrezept für 4 Personen)
-:properties:
-:custom_id: pasta-alla-pomarola-ca.-18l-sauce-nudelrezept-für-4-personen
-:end:
-**** Zutaten
-:properties:
-:custom_id: zutaten-24
-:end:
+*** Zutaten
 - Olivenöl Extra Vergine
 - 2 mittelgroße rote/gelbe Zwiebeln, in dünne Ringe
 - Salz
@@ -1206,10 +1054,7 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 - 500g Spaghetti/Bucatini/Penne/Rigatoni
 - Parmesan/Pecorino Romano/Ricotta Salata zum Bestreuen
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-25
-:end:
+*** Zubereitung
 1. Großen Topf bei mittlerer-hoher Hitze ölen
 2. Zwiebeln mit Salz bei mittlerer Hitze 15 Min dünsten
 3. Knoblauch in Scheiben schneiden
@@ -1227,26 +1072,18 @@ Jalapeño-Chili, entstielt - 4 TL Limettensaft - Salz
 13. Nudeln in Sauce schwenken
 14. Mit Käse servieren
 
-**** Aufbewahrung
-:properties:
-:custom_id: aufbewahrung-20
-:end:
+*** Aufbewahrung
 - Im Kühlschrank: 1 Woche
 - Im Gefrierschrank: bis 3 Monate
 - Einkochen: 20 Min im Wasserbad, binnen 1 Jahr verbrauchen
 
-[Fortsetzung folgt...]## Varianten zur Pasta alla Pomarola ####
-Cremigere Version - 120ml Crème fraîche mit 500ml Pomarola verrühren
-oder - 120g frischen Ricotta in Klecksen über die fertigen Nudeln geben
 
-**** Pasta alla Puttanesca
-:properties:
-:custom_id: pasta-alla-puttanesca
-:end:
+** Varianten zur Pasta alla Pomarola
+- Cremigere Version - 120ml Crème fraîche mit 500ml Pomarola verrühren
+- oder - 120g frischen Ricotta in Klecksen über die fertigen Nudeln geben
+
+*** Pasta alla Puttanesca
 **** Zutaten für die Variation
-:properties:
-:custom_id: zutaten-für-die-variation
-:end:
 - 2 Knoblauchzehen, fein gehackt
 - 10 Sardellenfilets, fein gehackt
 - 500ml Pomarola
@@ -1257,9 +1094,6 @@ oder - 120g frischen Ricotta in Klecksen über die fertigen Nudeln geben
 - Petersilie zum Garnieren
 
 **** Zubereitung
-:properties:
-:custom_id: zubereitung-26
-:end:
 1. Knoblauch und Sardellen kurz andünsten
 2. Pomarola, Oliven, Kapern zugeben
 3. Mit Chiliflocken und Salz würzen
@@ -1267,14 +1101,8 @@ oder - 120g frischen Ricotta in Klecksen über die fertigen Nudeln geben
 5. Mit al dente gekochten Nudeln vermischen
 6. Mit Petersilie garnieren
 
-**** Pasta all'Amatriciana
-:properties:
-:custom_id: pasta-allamatriciana
-:end:
+*** Pasta all'Amatriciana
 **** Zutaten für die Variation
-:properties:
-:custom_id: zutaten-für-die-variation-1
-:end:
 - 1 gelbe Zwiebel, fein gewürfelt
 - 180g Guanciale/Pancetta/Speck in Streifen
 - 2 Knoblauchzehen
@@ -1284,9 +1112,6 @@ oder - 120g frischen Ricotta in Klecksen über die fertigen Nudeln geben
 - Pecorino Romano/Parmesan
 
 **** Zubereitung
-:properties:
-:custom_id: zubereitung-27
-:end:
 1. Zwiebeln 15 Min dünsten
 2. Speck knusprig braten
 3. Knoblauch kurz mitbraten
@@ -1296,28 +1121,16 @@ oder - 120g frischen Ricotta in Klecksen über die fertigen Nudeln geben
 7. Mit Nudeln vermischen
 8. Mit Käse servieren
 
-* Suppen                                                                                  :suppen:
-:properties:
-:custom_id: suppen
-:end:
+* Suppen                                                                                    :suppen:
 ** Seidige Zuckermaissuppe (2,3L, für 6-8 Personen)
-:properties:
-:custom_id: seidige-zuckermaissuppe-23l-für-6-8-personen
-:end:
-**** Zutaten
-:properties:
-:custom_id: zutaten-25
-:end:
+*** Zutaten
 - 8-10 Kolben Zuckermais
 - 8 EL Butter
 - 2 mittelgroße gelbe Zwiebeln, in Ringe geschnitten
 - Salz
 - Weißweinessig oder Zitronensaft
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-28
-:end:
+*** Zubereitung
 1. Mais von Kolben schneiden (Kolben aufbewahren)
 2. Schnelle Maisbrühe:
    - Kolben mit 2L Wasser aufkochen
@@ -1343,17 +1156,17 @@ oder - 120g frischen Ricotta in Klecksen über die fertigen Nudeln geben
    - Mit Salz
    - Mit Essig/Zitronensaft für Balance
 
-**** Serviervorschläge
-:properties:
-:custom_id: serviervorschläge
-:end:
+*** Serviervorschläge
 - Kalt in Schalen mit Salsa oder
 - Heiß mit säuerlicher Garnierung:
   - Mexikanische Kräutersalsa
   - Indisches Kokos-Koriander-Chutney
 
-[Fortsetzung folgt...]## Toskanische Bohnensuppe mit Grünkohl (2,3L, für
-6-8 Personen) #### Zutaten - Olivenöl Extra Vergine - 50g Pancetta oder
+
+** Toskanische Bohnensuppe mit Grünkohl (2,3L, für 6-8 Personen)
+
+*** zutaten
+Olivenöl Extra Vergine - 50g Pancetta oder
 Speck, gewürfelt (optional) - 1 mittelgroße gelbe Zwiebel, gewürfelt - 2
 Stangen Staudensellerie, gewürfelt - 3 mittelgroße Karotten, geschält
 und gewürfelt - 2 Lorbeerblätter - Salz - Schwarzer Pfeffer - 2
@@ -1363,10 +1176,7 @@ Parmesan, frisch gerieben, Rinde aufbewahrt - 700-900ml Hühnerbrühe oder
 Wasser - 350g Grünkohl, in feine Streifen - ½ kleiner Kopf
 Weißkohl/Wirsing, ohne Strunk, in Streifen
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-29
-:end:
+*** Zubereitung
 1. Großen Suppentopf bei mittlerer-hoher Temperatur erhitzen:
    - 1 EL Olivenöl zugeben
    - Optional Pancetta 1 Min anbraten
@@ -1398,17 +1208,11 @@ Weißkohl/Wirsing, ohne Strunk, in Streifen
    - Parmesanrinde und Lorbeer entfernen
    - Mit bestem Olivenöl und Parmesan servieren
 
-**** Aufbewahrung
-:properties:
-:custom_id: aufbewahrung-21
-:end:
+*** Aufbewahrung
 - Im Kühlschrank: bis 5 Tage
 - Eingefroren: bis 2 Monate
 
-**** Varianten
-:properties:
-:custom_id: varianten-6
-:end:
+*** Varianten
 1. *Pasta e Fagioli*:
    - 75g kleine Röhrennudeln mit Bohnen zugeben
    - Oft umrühren (Stärke setzt sich ab)
@@ -1419,15 +1223,15 @@ Weißkohl/Wirsing, ohne Strunk, in Streifen
    - 20 Min köcheln bis Brot zerfällt
    - Konsistenz: sehr dick, keine Brotstücke sichtbar
 
-[Fortsetzung folgt...]## Stracciatella - Römische Eierflockensuppe
-(2,3L, für 6-8 Personen) #### Zutaten - 2L Hühnerbrühe - Salz - 6 große
+
+** Stracciatella - Römische Eierflockensuppe (2,3L, für 6-8 Personen)
+
+*** Zutaten 
+- 2L Hühnerbrühe - Salz - 6 große
 Eier - Schwarzer Pfeffer, frisch gemahlen - 25g Parmesan, fein gerieben,
 plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-30
-:end:
+*** Zubereitung
 1. Brühe zum Köcheln bringen und salzen
 2. In Messbecher vermischen:
    - Eier
@@ -1445,21 +1249,12 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
    - Mit Parmesan bestreuen
    - Sofort servieren
 
-**** Aufbewahrung
-:properties:
-:custom_id: aufbewahrung-22
-:end:
+*** Aufbewahrung
 - Im Kühlschrank: bis 3 Tage
 - Zum Aufwärmen sanft erhitzen
 
-**** Variante: Chinesische Eierblumensuppe
-:properties:
-:custom_id: variante-chinesische-eierblumensuppe
-:end:
-**** Zutaten für die Variation
-:properties:
-:custom_id: zutaten-für-die-variation-2
-:end:
+** Variante: Chinesische Eierblumensuppe
+*** Zutaten für die Variation
 - 2L Hühnerbrühe
 - 2 EL Sojasauce
 - 3 Knoblauchzehen in Scheiben
@@ -1470,10 +1265,7 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
 - 6 Eier
 - Frühlingszwiebeln zum Garnieren
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-31
-:end:
+*** Zubereitung
 1. Brühe mit Gewürzen 20 Min köcheln
 2. Durch Sieb gießen
 3. Abschmecken und salzen
@@ -1482,28 +1274,16 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
 6. In köchelnde Brühe tropfen
 7. Mit Frühlingszwiebeln garnieren
 
-* Fischgerichte                                                                           :fisch:
-:properties:
-:custom_id: fischgerichte
-:end:
+* Fischgerichte                                                                              :fisch:
 ** Langsam gebratener Lachs (für 6 Personen)
-:properties:
-:custom_id: langsam-gebratener-lachs-für-6-personen
-:end:
-**** Zutaten
-:properties:
-:custom_id: zutaten-26
-:end:
+*** Zutaten
 - 1 große Handvoll zarter Kräuter (Petersilie/Koriander/Dill/Fenchelgrün
   oder 3 Feigenblätter)
 - 1 Lachsfilet, enthäutet (ca. 1kg)
 - Salz
 - Olivenöl Extra Vergine
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-32
-:end:
+*** Zubereitung
 1. Ofen auf 110°C vorheizen
 
 2. Vorbereitung:
@@ -1529,16 +1309,10 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
    - Besonders gut: Salsa mit Kumquats oder Meyer-Zitronen
    - Beilagen: Weiße Bohnen oder Kartoffeln und Fenchelsalat
 
-[Fortsetzung folgt...]## Varianten zum langsam gebratenen Lachs
 
-*** Lachs mit Sojaglasur
-:properties:
-:custom_id: lachs-mit-sojaglasur
-:end:
-**** Glasur-Zutaten
-:properties:
-:custom_id: glasur-zutaten
-:end:
+* Varianten zum langsam gebratenen Lachs
+** Lachs mit Sojaglasur
+*** Glasur-Zutaten
 - 250ml Sojasauce
 - 2 EL gerösteter Sesam
 - 120g brauner Zucker
@@ -1546,10 +1320,7 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
 - 1 Knoblauchzehe, zerdrückt oder gerieben
 - 1 EL Ingwer, fein gerieben
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-33
-:end:
+*** Zubereitung
 1. Glasurzutaten (außer Knoblauch/Ingwer) in heißem Topf auf
    Ahornsirupkonsistenz einkochen
 2. Knoblauch und Ingwer zugeben
@@ -1557,35 +1328,20 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
 4. Lachs vor dem Garen mit Glasur bestreichen
 5. Alle 15 Min erneut bestreichen
 
-*** Erfrischender Zitruslachs
-:properties:
-:custom_id: erfrischender-zitruslachs
-:end:
-**** Zusätzliche Zutaten
-:properties:
-:custom_id: zusätzliche-zutaten
-:end:
+** Erfrischender Zitruslachs
+*** Zusätzliche Zutaten
 - Zitrusschale, fein gerieben
 - Blutorangenscheiben oder Meyer-Zitronen in Scheiben
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-34
-:end:
+*** Zubereitung
 1. Lachs salzen
 2. Mit Mischung aus 1 EL Zitrusschale und 2 EL Olivenöl einreiben
 3. Statt Kräuterbett Zitrusscheiben verwenden
 4. Wie Grundrezept garen
 5. Auf Avocadosalat mit Zitrusfrüchten servieren
 
-*** Indisch gewürzter Lachs
-:properties:
-:custom_id: indisch-gewürzter-lachs
-:end:
-**** Gewürzmischung
-:properties:
-:custom_id: gewürzmischung
-:end:
+** Indisch gewürzter Lachs
+*** Gewürzmischung
 - 2 TL Kreuzkümmelsamen
 - 2 TL Koriandersamen
 - 2 TL Fenchelsamen
@@ -1595,10 +1351,7 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
 - Salz
 - 2 EL Ghee/Butterschmalz/neutrales Öl
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-35
-:end:
+*** Zubereitung
 1. Gewürze rösten und mahlen
 2. Mit übrigen Zutaten zu Paste verarbeiten
 3. Lachs salzen und mit Würzpaste einreiben
@@ -1607,22 +1360,13 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
 6. Ohne Kräuterbett wie Grundrezept garen
 
 ** Dampfsautieren: Grüne Bohnen mit Knoblauch (für mindestens 6 Personen)
-:properties:
-:custom_id: dampfsautieren-grüne-bohnen-mit-knoblauch-für-mindestens-6-personen
-:end:
-**** Zutaten
-:properties:
-:custom_id: zutaten-27
-:end:
+*** Zutaten
 - 900g grüne Bohnen/gelbe Wachsbohnen/Prinzessbohnen
 - Salz
 - 2 EL Olivenöl Extra Vergine
 - 3 Knoblauchzehen, fein gehackt
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-36
-:end:
+*** Zubereitung
 1. Große Bratpfanne mit 125ml Wasser zum Köcheln bringen
 2. Bohnen zugeben, salzen, Deckel aufsetzen
 3. Etwa jede Minute umrühren
@@ -1636,10 +1380,7 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
 9. Mit Bohnen vermischen bevor er Farbe annimmt
 10. Abschmecken und sofort servieren
 
-**** Varianten
-:properties:
-:custom_id: varianten-7
-:end:
+*** Varianten
 1. *Klassische französische Version*:
    - Öl durch Butter ersetzen
    - Ohne Knoblauch
@@ -1648,16 +1389,10 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
    - Öl durch Ghee/Butter ersetzen
    - 1 EL gehackten Ingwer zum Knoblauch geben
 
-[Fortsetzung folgt...]# Gemüsegerichte
 
+* Gemüsegerichte
 ** Butternusskürbis und Rosenkohl in Agrodolce (für 4-6 Personen)
-:properties:
-:custom_id: butternusskürbis-und-rosenkohl-in-agrodolce-für-4-6-personen
-:end:
-**** Zutaten
-:properties:
-:custom_id: zutaten-28
-:end:
+*** Zutaten
 - 1 großer Butternusskürbis (ca. 1kg), geschält, längs halbiert und
   entkernt
 - Olivenöl Extra Vergine
@@ -1670,10 +1405,7 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
 - 1 Knoblauchzehe, zu Paste verarbeitet
 - 16 frische Minzeblätter
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-37
-:end:
+*** Zubereitung
 1. Ofen auf 220°C vorheizen
 
 2. Kürbis vorbereiten:
@@ -1715,24 +1447,12 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
    - Warm oder zimmerwarm servieren
 
 * Grundrezepte
-:properties:
-:custom_id: grundrezepte
-:end:
 ** Hausgemachte Croûtons (ergibt 400g)
-:properties:
-:custom_id: hausgemachte-croûtons-ergibt-400g
-:end:
-**** Zutaten
-:properties:
-:custom_id: zutaten-29
-:end:
+*** Zutaten
 - 1 Laib Bauern- oder Sauerteigbrot vom Vortag (ca. 500g)
 - 80ml Olivenöl Extra Vergine
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-38
-:end:
+*** Zubereitung
 1. Backofen auf 200°C vorheizen
 
 2. Brot vorbereiten:
@@ -1762,87 +1482,51 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
 
    - Nebeneinander auf Blech abkühlen lassen
 
-**** Aufbewahrung
-:properties:
-:custom_id: aufbewahrung-23
-:end:
+*** Aufbewahrung
 - Sofort verwenden oder
 - Bis zu 2 Tage luftdicht lagern
 - Altbackene 3-4 Min bei 200°C aufbacken
 - Eingefroren bis zu 2 Monate (für Ribollita)
 
-[Fortsetzung folgt...]## Varianten zu den Croûtons
 
+** Varianten zu den Croûtons
 *** Klassische Croûtons
-:properties:
-:custom_id: klassische-croûtons
-:end:
 **** Zusätzliche Zutaten
-:properties:
-:custom_id: zusätzliche-zutaten-1
-:end:
 - 2 Knoblauchzehen, fein gerieben
 - 1 EL getrockneter Oregano
 - ½ TL Chiliflocken
 
 **** Zubereitung
-:properties:
-:custom_id: zubereitung-39
-:end:
 1. Knoblauch mit Olivenöl verrühren
 2. Croûtons darin wenden
 3. Oregano und Chiliflocken vor dem Rösten untermischen
 
 *** Croûtons mit Käse
-:properties:
-:custom_id: croûtons-mit-käse
-:end:
 **** Zusätzliche Zutaten
-:properties:
-:custom_id: zusätzliche-zutaten-2
-:end:
 - 80g Parmesan, sehr fein gerieben
 - Schwarzer Pfeffer, grob gemahlen
 
 **** Zubereitung
-:properties:
-:custom_id: zubereitung-40
-:end:
 1. Brot mit Olivenöl vermischen
 2. Parmesan und reichlich Pfeffer zugeben
 3. Gründlich vermengen
 4. Wie Grundrezept rösten
 
-*** Geröstete Brotkrümel
-:properties:
-:custom_id: geröstete-brotkrümel
-:end:
-**** Abweichende Zubereitung
-:properties:
-:custom_id: abweichende-zubereitung
-:end:
+**** Geröstete Brotkrümel
+***** Abweichende Zubereitung
 1. Trockene Brotscheiben (5cm dick) in Küchenmaschine zu erbsengroßen
    Krümeln zerkleinern
 2. Olivenölmenge auf 120ml erhöhen
 3. Brotkrümel flach ausgebreitet 16-18 Min goldbraun rösten
 
 ** Perfektes Spiegelei
-:properties:
-:custom_id: perfektes-spiegelei
-:end:
-**** Zutaten
-:properties:
-:custom_id: zutaten-30
-:end:
+*** Zutaten
 - Ei
 - Fett zum Braten
 - Butter
 - Salz
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-41
-:end:
+*** Zubereitung
 1. Kleine Pfanne bei hoher Temperatur erhitzen (stärker als üblich)
 2. Pfannenboden mit Fett bedecken
 3. Ei hineinschlagen
@@ -1853,26 +1537,14 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
    - Eigelb stockt kaum
 
 ** Reis-Zubereitungen
-:properties:
-:custom_id: reis-zubereitungen
-:end:
 *** Gedämpfter Reis (Grundrezept)
-:properties:
-:custom_id: gedämpfter-reis-grundrezept
-:end:
 **** Wichtige Prinzipien
-:properties:
-:custom_id: wichtige-prinzipien
-:end:
 1. Reis gründlich waschen bis Wasser klar bleibt
 2. Wasser stark salzen (wie Meerwasser)
 3. Al dente kochen
 4. Nach dem Abgießen mit kaltem Wasser abschrecken
 
 *** Reis kochen für Tahdig
-:properties:
-:custom_id: reis-kochen-für-tahdig
-:end:
 1. Wasser zum Kochen bringen
 2. Kräftig salzen (ca. 6 EL feines Meersalz oder 90g koscheres Salz)
 3. Gewaschenen Reis zugeben
@@ -1880,49 +1552,30 @@ plus extra zum Garnieren - 1 EL Petersilie, fein gehackt
 5. Abgießen und kalt abspülen
 6. Eine Tasse Reis mit Joghurt vermischen für die Kruste
 
-[Fortsetzung folgt mit weiteren Grundrezepten und Techniken...]##
-Grundlegende Kochtechniken
 
-*** Dämpfen
-:properties:
-:custom_id: dämpfen
-:end:
-**** Prinzipien
-:properties:
-:custom_id: prinzipien
-:end:
+* Grundlegende Kochtechniken
+** Dämpfen
+*** Prinzipien
 - Effektive und schonende Methode
 - Dampf überträgt mehr Energie als kochendes Wasser
 - Ideal für empfindliche Zutaten
 - Temperatur im Gargefäß bleibt unter 100°C
 - Erhält Klarheit des Geschmacks
 
-**** Methode
-:properties:
-:custom_id: methode
-:end:
+*** Methode
 1. Wenig Wasser zum Kochen bringen
 2. Dampfdurchlässigen Einsatz verwenden
 3. Lebensmittel nicht zu dicht legen
 4. Deckel aufsetzen
 5. Bei mittlerer Hitze dämpfen
 
-*** Dampfsautieren
-:properties:
-:custom_id: dampfsautieren
-:end:
-**** Prinzipien
-:properties:
-:custom_id: prinzipien-1
-:end:
+** Dampfsautieren
+*** Prinzipien
 - Kombination aus Dämpfen und Bräunen
 - Ideal für hartes Gemüse
 - Zweistufiger Prozess
 
-**** Methode
-:properties:
-:custom_id: methode-1
-:end:
+*** Methode
 1. Fingerbreit Wasser in Pfanne geben
 2. Salz zugeben
 3. Großzügig Olivenöl oder Butter zugeben
@@ -1933,45 +1586,27 @@ Grundlegende Kochtechniken
 8. Überschüssiges Wasser abgießen
 9. Temperatur hochschalten für Bräunung
 
-*** Anschwitzen
-:properties:
-:custom_id: anschwitzen
-:end:
-**** Prinzipien
-:properties:
-:custom_id: prinzipien-2
-:end:
+** Anschwitzen
+*** Prinzipien
 - Sanfte Methode für Gemüse
 - Minimale Fettmenge
 - Keine Bräunung erwünscht
 - Gemüse wird glasig
 
-**** Methode
-:properties:
-:custom_id: methode-2
-:end:
+*** Methode
 1. Wenig Fett erhitzen
 2. Gemüse zugeben
 3. Bei mittlerer Hitze glasig dünsten
 4. Bei Bedarf etwas Wasser zugeben
 5. Regelmäßig rühren
 
-*** Braten und Frittieren
-:properties:
-:custom_id: braten-und-frittieren
-:end:
-**** Wichtige Temperaturen
-:properties:
-:custom_id: wichtige-temperaturen
-:end:
+** Braten und Frittieren
+*** Wichtige Temperaturen
 - Optimale Öltemperatur: 185°C
 - Zu niedrig: wird matschig
 - Zu hoch: verbrennt außen, bleibt innen roh
 
-**** Grundregeln
-:properties:
-:custom_id: grundregeln
-:end:
+*** Grundregeln
 1. Öl auf richtige Temperatur bringen
 2. Nicht zu viel auf einmal frittieren
 3. Temperatur konstant halten
@@ -1980,14 +1615,8 @@ Grundlegende Kochtechniken
    - Auf 160°C reduzieren
    - 15-20 Min garen lassen
 
-*** Grillen
-:properties:
-:custom_id: grillen
-:end:
-**** Brennstoffe und ihre Eigenschaften
-:properties:
-:custom_id: brennstoffe-und-ihre-eigenschaften
-:end:
+** Grillen
+*** Brennstoffe und ihre Eigenschaften
 - Harthölzer (Eiche, Mandel):
   - Schnelle Entzündung
   - Langsames Abbrennen
@@ -1997,13 +1626,9 @@ Grundlegende Kochtechniken
   - Gut für schnelle Bräunung
   - Nicht: Weichholz wie Kiefer/Fichte/Tanne
 
-[Fortsetzung folgt mit weiteren Techniken...]### Backofen-Temperaturen
-und Techniken
 
-**** Temperaturzonen
-:properties:
-:custom_id: temperaturzonen
-:end:
+* Backofen-Temperaturen und Techniken
+** Temperaturzonen
 1. *Niedrig (80-135°C)*
    - Für Baisers
    - Trocknen ohne Bräunung
@@ -2025,32 +1650,20 @@ und Techniken
    - Blätterteig
    - Soufflés
 
-**** Praktische Tipps
-:properties:
-:custom_id: praktische-tipps
-:end:
+** Praktische Tipps
 - 180°C als Grundtemperatur verwenden
 - Nach ersten 15-20 Min Ofentür nicht öffnen
 - Bei Umluft Temperatur um 15°C reduzieren
 - Bleche drehen für gleichmäßige Bräunung
 
-*** Im Ofen getrocknete Tomaten
-:properties:
-:custom_id: im-ofen-getrocknete-tomaten
-:end:
-**** Zutaten
-:properties:
-:custom_id: zutaten-31
-:end:
+** Im Ofen getrocknete Tomaten
+*** Zutaten
 - Kleine aromatische Tomaten
 - Salz
 - Zucker
 - Olivenöl Extra Vergine
 
-**** Zubereitung
-:properties:
-:custom_id: zubereitung-42
-:end:
+*** Zubereitung
 1. Tomaten halbieren
 2. Mit Schnittfläche nach oben auf Backpapier legen
 3. Mit Salz und wenig Zucker bestreuen
@@ -2058,22 +1671,13 @@ und Techniken
 5. Zwischendurch kontrollieren
 6. Fertig wenn keine mehr suppig/feucht
 
-**** Aufbewahrung
-:properties:
-:custom_id: aufbewahrung-24
-:end:
+*** Aufbewahrung
 - In Schraubglas mit Olivenöl im Kühlschrank oder
 - In wiederverschließbarem Beutel einfrieren
 - Innerhalb von 6 Monaten verwenden
 
-*** Grundlegende Gartechniken für verschiedene Lebensmittel
-:properties:
-:custom_id: grundlegende-gartechniken-für-verschiedene-lebensmittel
-:end:
-**** Fleisch
-:properties:
-:custom_id: fleisch
-:end:
+* Grundlegende Gartechniken für verschiedene Lebensmittel
+** Fleisch
 - Zeitiges Salzen wichtig
 - Am besten einen Tag vor dem Kochen
 - Mindestens am Morgen des Kochtags
@@ -2081,20 +1685,14 @@ und Techniken
 - Bessere Wasserbindung beim Garen
 - Ergebnis: zarter und saftiger
 
-**** Fisch & Meeresfrüchte
-:properties:
-:custom_id: fisch-meeresfrüchte
-:end:
+** Fisch & Meeresfrüchte
 - Kurzes Timing beim Salzen wichtig
 - Blättriger Fisch: 15 Min vor Garen salzen
 - Fleischiger Fisch: bis 30 Min vorher
 - Meeresfrüchte: erst beim Garen salzen
 - Zu frühes Salzen macht zäh/trocken
 
-**** Eier
-:properties:
-:custom_id: eier
-:end:
+** Eier
 - Salz beschleunigt Proteinstockung
 - Vor dem Kochen salzen bei:
   - Rührei
@@ -2104,25 +1702,14 @@ und Techniken
 - Wasser salzen bei pochierten Eiern
 - Gekochte/Spiegeleier erst am Ende salzen
 
-[Fortsetzung folgt...]### Grundlegende Gartechniken (Fortsetzung)
-
-**** Gemüse und Obst
-:properties:
-:custom_id: gemüse-und-obst
-:end:
-***** Allgemeine Regeln
-:properties:
-:custom_id: allgemeine-regeln
-:end:
+** Gemüse und Obst
+*** Allgemeine Regeln
 - 15 Minuten vor dem Kochen salzen
 - Zu langes Salzen macht gummiartig
 - Kochwasser großzügig salzen
 - Salz schwächt Pektin, macht Zellwände weicher
 
-***** Spezielle Behandlung für verschiedene Gemüsearten:
-:properties:
-:custom_id: spezielle-behandlung-für-verschiedene-gemüsearten
-:end:
+*** Spezielle Behandlung für verschiedene Gemüsearten:
 1. *Pilze*
    - Erst salzen wenn sie in der Pfanne braun werden
    - Bestehen zu 80% aus Wasser
@@ -2137,22 +1724,13 @@ und Techniken
    - Bei Salaten erst beim Anmachen
    - Säure erst zum Schluss zugeben
 
-**** Getreide
-:properties:
-:custom_id: getreide
-:end:
-***** Grundprinzipien
-:properties:
-:custom_id: grundprinzipien
-:end:
+** Getreide
+*** Grundprinzipien
 - Weniger Salz als bei Gemüse nötig
 - Lange Kochzeit ermöglicht gleichmäßige Salzverteilung
 - Vorsicht bei vollständiger Wasseraufnahme
 
-***** Spezifische Techniken:
-:properties:
-:custom_id: spezifische-techniken
-:end:
+*** Spezifische Techniken:
 1. *Reis*
    - Wasser wie Meerwasser salzen
    - Nach dem Kochen abgießen
@@ -2164,14 +1742,8 @@ und Techniken
    - Gar wenn Körner aufplatzen
    - Salzmenge dem längeren Garvorgang anpassen
 
-*** Emulsionen herstellen
-:properties:
-:custom_id: emulsionen-herstellen
-:end:
-**** Grundprinzipien
-:properties:
-:custom_id: grundprinzipien-1
-:end:
+** Emulsionen herstellen
+*** Grundprinzipien
 1. Mayonnaise (Öl-in-Wasser-Emulsion)
    - Eigelb als natürlicher Emulgator
    - Öl sehr langsam zugeben
@@ -2181,10 +1753,7 @@ und Techniken
    - Öl langsam einrühren
    - Vor Servieren nochmals aufschlagen
 
-**** Praktische Tipps
-:properties:
-:custom_id: praktische-tipps-1
-:end:
+*** Praktische Tipps
 1. *Für Mayonnaise*
    - Feuchtes Geschirrtuch unter Schüssel
    - Öl anfangs tropfenweise zugeben
@@ -2193,126 +1762,74 @@ und Techniken
    - Schalotten in Säure mazerieren
    - Öl erst kurz vor Servieren zugeben
    - Kräuter zuletzt untermischen
-
-[Fortsetzung folgt...]### Erkennungsmerkmale für perfekt gegarte Speisen
-
-**** Visuelle Hinweise
-:properties:
-:custom_id: visuelle-hinweise
-:end:
-***** Backwaren
-:properties:
-:custom_id: backwaren
-:end:
+* Erkennungsmerkmale für perfekt gegarte Speisen
+** Visuelle Hinweise
+*** Backwaren
 - Goldbraune Farbe
 - Lösen sich von Formrändern
 - Zahnstocher kommt sauber/mit wenigen Krümeln heraus
 - Je nach Art des Kuchens unterschiedliche Krümelkonsistenz
 
-***** Fisch
-:properties:
-:custom_id: fisch
-:end:
+*** Fisch
 - Wechsel von glasig zu milchig
 - Fisch mit Gräten löst sich von diesen
 - Blättriger Fisch zerfällt in Schichten
 - Jakobsmuscheln innen glasig lassen
 
-***** Meeresfrüchte
-:properties:
-:custom_id: meeresfrüchte
-:end:
+*** Meeresfrüchte
 - Muscheln öffnen sich
 - Hummer-/Krebsfleisch löst sich aus Schalen
 - Garnelen rollen sich ein und ändern Farbe
 
-***** Getreide/Nudeln
-:properties:
-:custom_id: getreidenudeln
-:end:
+*** Getreide/Nudeln
 - Quinoa: Keim ragt als "Schwänzchen" heraus
 - Vollkorngetreide beginnt aufzuplatzen
 - Frische Nudeln werden schlaff und heller
 - Getrocknete Nudeln: al dente wenn in der Mitte noch weiß
 
-**** Geruchshinweise
-:properties:
-:custom_id: geruchshinweise
-:end:
-***** Allgemein
-:properties:
-:custom_id: allgemein
-:end:
+** Geruchshinweise
+*** Allgemein
 - Bratzwiebeln in verschiedenen Stadien kennenlernen
 - Karamellisierender Zucker
 - Angeröstete Gewürze duften vor Farbänderung
 - Bei Brandgeruch sofort reagieren
 
-***** Praktische Tipps
-:properties:
-:custom_id: praktische-tipps-2
-:end:
+*** Praktische Tipps
 - Nase als ersten Indikator nutzen
 - Bei Ofengerichten regelmäßig kontrollieren
 - Verbranntes sofort umfüllen ohne Bodensatz
 
-**** Weitere Garprobe-Methoden
-:properties:
-:custom_id: weitere-garprobe-methoden
-:end:
-***** Fleisch und Geflügel
-:properties:
-:custom_id: fleisch-und-geflügel
-:end:
+** Weitere Garprobe-Methoden
+*** Fleisch und Geflügel
 - Fleisch wechselt von rosa zu milchig
 - Noch saftig aber nicht mehr roh
 - Bei Brathuhn: klarer Saft beim Einstechen
 - An dickster Stelle testen
 
-***** Eierspeisen
-:properties:
-:custom_id: eierspeisen
-:end:
+*** Eierspeisen
 - Eier-Milch-Cremes: Mitte wackelt noch
 - Ränder fest
 - Eiweiß nicht mehr glibberig
 - Bei Rührei: cremig aber gestockt
 
-**** Wichtige Temperaturen
-:properties:
-:custom_id: wichtige-temperaturen-1
-:end:
-***** Öl und Fett
-:properties:
-:custom_id: öl-und-fett
-:end:
+** Wichtige Temperaturen
+*** Öl und Fett
 - Frittieren: 185°C optimal
 - Rauchpunkt beachten:
   - Raffinierte Öle: ca. 200°C
   - Natives Olivenöl: ca. 175°C
   - Butter: ca. 175°C
 
-***** Backofen
-:properties:
-:custom_id: backofen
-:end:
+*** Backofen
 - Grundtemperatur: 180°C
 - Niedrig: 80-135°C
 - Mittel: 135-180°C
 - Hoch: 180-220°C
 - Sehr hoch: über 220°C
 
-[Fortsetzung folgt mit weiteren praktischen Küchentipps...]# Praktische
-Küchentipps
-
+* Praktische Küchentipps
 ** Zutatenauswahl und Einkauf
-:properties:
-:custom_id: zutatenauswahl-und-einkauf
-:end:
 *** Frische und Qualität
-:properties:
-:custom_id: frische-und-qualität
-:end:
 - Lokale, saisonale Produkte bevorzugen
 - Auf Frische achten bei:
   - Obst und Gemüse
@@ -2325,9 +1842,6 @@ Küchentipps
   - Auf dem Höhepunkt der Reife geerntet
 
 *** Olivenöl
-:properties:
-:custom_id: olivenöl
-:end:
 - Saisonales Produkt (typisch November)
 - Haltbarkeit 12-14 Monate nach Pressung
 - Nicht zu lange aufbewahren
@@ -2336,66 +1850,39 @@ Küchentipps
   - Küstenregionen: milderes Öl
 
 ** Aufbewahrung
-:properties:
-:custom_id: aufbewahrung-25
-:end:
 *** Kräuter
-:properties:
-:custom_id: kräuter
-:end:
 - In feuchtem Tuch einschlagen
 - Im Kühlschrank lagern
 - Basilikum bei Raumtemperatur
 - Regelmäßig Tuch befeuchten
 
 *** Öle und Fette
-:properties:
-:custom_id: öle-und-fette
-:end:
 - Olivenöl dunkel und kühl lagern
 - Nussöle nach Öffnung im Kühlschrank
 - Butterschmalz kühl und dunkel
 - Kokosfett bei Raumtemperatur
 
 *** Gemüse
-:properties:
-:custom_id: gemüse
-:end:
 - Wurzelgemüse kühl und dunkel
 - Tomaten nie im Kühlschrank
 - Kartoffeln dunkel und trocken
 - Zwiebeln getrennt von Kartoffeln
 
 ** Mengenumrechnungen
-:properties:
-:custom_id: mengenumrechnungen
-:end:
 *** Standardmaße
-:properties:
-:custom_id: standardmaße
-:end:
 - 1 EL = 15ml
 - 1 TL = 5ml
 - 1 Tasse = 240ml
 - 1 Prise = 1/8 TL
 
 *** Gewichtsäquivalente
-:properties:
-:custom_id: gewichtsäquivalente
-:end:
 - 1 Tasse Mehl = ca. 120g
 - 1 Tasse Zucker = ca. 200g
 - 1 Tasse Reis = ca. 185g
 - 1 EL Butter = ca. 15g
 
 * Vorratshaltung und Haltbarmachung
-:properties:
-:custom_id: vorratshaltung-und-haltbarmachung
-:end:
 ** Einkochen und Konservieren
-:properties:
-:custom_id: einkochen-und-konservieren
-:end:
 *** Tomatenconfit
 :properties:
 :custom_id: tomatenconfit
@@ -2420,13 +1907,7 @@ Küchentipps
 - Haltbarkeit: 6 Monate
 
 ** Einfrieren
-:properties:
-:custom_id: einfrieren
-:end:
 *** Kräuter
-:properties:
-:custom_id: kräuter-1
-:end:
 1. Waschen und trocknen
 2. Grob hacken
 3. In Eiswürfelformen mit:
@@ -2436,9 +1917,6 @@ Küchentipps
 5. Haltbarkeit: bis zu 6 Monate
 
 *** Suppen
-:properties:
-:custom_id: suppen-1
-:end:
 - In Portionsgrößen einfrieren
 - Beschriften mit:
   - Datum
@@ -2449,86 +1927,55 @@ Küchentipps
   - Bohnensuppen: 2 Monate
 
 *** Brot und Teigwaren
-:properties:
-:custom_id: brot-und-teigwaren
-:end:
 - Croûtons: bis zu 2 Monate
 - Teig: bis zu 1 Monat
 - Brot in Scheiben: bis zu 3 Monate
 
 ** Kühlschrank-Aufbewahrung
-:properties:
-:custom_id: kühlschrank-aufbewahrung
-:end:
 *** Saucen und Dressings
-:properties:
-:custom_id: saucen-und-dressings
-:end:
 - Vinaigrettes: 2-3 Tage
 - Mayonnaise: 3-4 Tage
 - Kräutersaucen: 2-3 Tage
 - Joghurtsaucen: 3 Tage
 
 *** Gekochte Gerichte
-:properties:
-:custom_id: gekochte-gerichte
-:end:
 - Suppen: 4-5 Tage
 - Gemüsegerichte: 3-4 Tage
 - Fischgerichte: 1-2 Tage
 - Fleischgerichte: 3-4 Tage
 
 *** Frische Kräuter
-:properties:
-:custom_id: frische-kräuter
-:end:
 - In feuchtem Tuch: 4-5 Tage
 - In Wasser gestellt: 1 Woche
 - Basilikum: bei Raumtemperatur
 
 ** Tipps zur Resteverwertung
-:properties:
-:custom_id: tipps-zur-resteverwertung
-:end:
 *** Brot
-:properties:
-:custom_id: brot
-:end:
 - Alte Croûtons für Ribollita
 - Brotkrümel zum Überbacken
 - Brotchips aus altem Brot
 
 *** Gemüse
-:properties:
-:custom_id: gemüse-1
-:end:
 - Strünke und Stiele für Brühen
 - Gemüsereste für Suppen
 - Karottenschalen für Gemüsebrühe
 
 *** Käse
-:properties:
-:custom_id: käse
-:end:
 - Parmesan-Rinden für Suppen
 - Käsereste für Aufläufe
 - Harte Käseenden reiben und einfrieren
 
 *** Kräuter
-:properties:
-:custom_id: kräuter-2
-:end:
 - Stiele für Brühen
 - Überschüssige Kräuter trocknen
 - In Öl oder Butter einlegen
 
 ** Allgemeine Grundsätze
-:properties:
-:custom_id: allgemeine-grundsätze
-:end:
 1. Immer beschriften und datieren
 2. First-in-first-out Prinzip
 3. Regelmäßige Kontrolle der Vorräte
 4. Richtige Temperatur beachten
 5. Kreuzkontamination vermeiden
 6. Saubere, luftdichte Behälter verwenden
+   
+   
