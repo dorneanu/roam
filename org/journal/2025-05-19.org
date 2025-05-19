@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       98640BA5-D0D7-4042-957F-66EF380CCB9D
+:END:
+#+TITLE: 2025-05-19
+#+DATE: 2025-05-19
+#+FILETAGS: journal
+
+- 2025-05-19 ◦ [[https://www.carbonbrief.org/analysis-clean-energy-just-put-chinas-co2-emissions-into-reverse-for-first-time/][Analysis: Clean energy just put China’s CO2 emissions into reverse for first time - Carbon Brief]]
+  #+begin_quote
+  23 gigawatts of solar and 13GW of wind were added in March 2025 alone, up 80% and 110%
+  from previous records for the month
+  #+end_quote
+  #+begin_quote
+  The China Wind Energy Association expects a new record of 105-115GW installed in 2025,
+  up from the record-breaking 80GW in 2024
+  #+end_quote
+
+  #+begin_quote
+  China’s nuclear construction also keeps accelerating, with another 10GW of reactor
+  projects approved in April, on top of 10GW approved in each of the previous two years.
+  These projects will contribute to clean power supply towards 2030 as they are compl
+  #+end_quote
