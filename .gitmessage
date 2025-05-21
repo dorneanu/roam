@@ -1,0 +1,19 @@
+# <type>(<scope>): <subject>
+# |<----  Using a Maximum Of 50 Characters  ---->|
+
+# Explain *what* and *why* (not *how*). Include task ID if relevant.
+# |<----   Try To Limit Each Line to a Maximum Of 72 Characters   ---->|
+
+# --- COMMIT END ---
+# Types:
+#   feat     (new feature or content)
+#   update   (update existing content)
+#   fix      (bug fix or correction)
+#   refactor (restructuring existing content)
+#   style    (formatting, missing semi colons, etc; no content change)
+#   docs     (changes to documentation)
+#   chore    (maintenance tasks, configs, etc)
+# --------------------
+# Scopes:
+#   books, journal, topics, recipes, blog, hugo, emacs, structure, workflow
+# --------------------
