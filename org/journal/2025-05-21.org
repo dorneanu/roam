@@ -1,0 +1,282 @@
+:PROPERTIES:
+:ID:       112C11B6-45B9-46E8-815E-CB957A4D3A1E
+:END:
+#+TITLE: 2025-05-21
+#+DATE: 2025-05-21
+#+FILETAGS: journal
+
+* 2025-05-21 ◦ [[https://plus.lagedernation.org/2025/05/07/ldn430-merz-nach-2-wahlgang-kanzler-spd-ministerinnen-warum-israel-den-gaza-streifen-besetzen-will-ofer-waldman-journalist-afd-gesichert-rechtsextremistisch-und-die-folgen-papst-wahl/][LdN430 Merz nach 2. Wahlgang Kanzler, SPD-Minister:innen, Warum Israel den Gaza-Streifen besetzen will (Ofer Waldman, Journalist), AfD gesichert rechtsextremistisch und die Folgen, Papst-Wahl – Lage der Nation Plus]]
+** Neue Bundesregierung unter Friedrich Merz
+*** Wahl des Bundeskanzlers
+- Historischer Fehlschlag im ersten Wahlgang: Merz verfehlte die erforderliche Mehrheit von 316 Stimmen
+  #+BEGIN_QUOTE
+  "Das war eine riesige Überraschung in dieser Woche, dass der erste Wahlgang von Merz in die Hose gegangen ist. Damit hatte niemand gerechnet."
+  #+END_QUOTE
+
+- Knapper Ausgang: Von 621 abgegebenen Stimmen erhielt Merz nur 310 Ja-Stimmen
+  #+BEGIN_QUOTE
+  "Es gab dann halt 310 Ja-Stimmen, das hat dann nicht gereicht. Nein, Stimmen waren 307, 5 mehr als die Opposition eigentlich Stimmen hat, drei Enthaltungen, eine ungültig. Es fehlten Friedrich Merz im ersten Wahlgang also 6 Ja-Stimmen."
+  #+END_QUOTE
+
+- Erfolg im zweiten Wahlgang: Nach einer Tagesordnungsänderung (mit Stimmen von Grünen und Linken) wurde Merz im zweiten Wahlgang gewählt
+  #+BEGIN_QUOTE
+  "Mit Ja haben gestimmt 325 Abgeordnete. Mit Nein haben gestimmt 289 und Enthaltung eine."
+  #+END_QUOTE
+
+- Politische Symbolik: Erstmaliger Durchfall eines Kanzlerkandidaten im ersten Wahlgang
+  #+BEGIN_QUOTE
+  "...aber dass eben der Kandidat für den Posten des Bundeskanclers nicht im ersten Wahlgang gewählt wird, das gab's noch nie in der Bundesrepublik."
+  #+END_QUOTE
+
+*** Koalitionsdynamik und Machtkämpfe
+- Fehlende Geschlossenheit der Koalition: Abweichler in den eigenen Reihen zeigen Bruchlinien auf
+  #+BEGIN_QUOTE
+  "...die Koalition kann nicht mal ihren Kanzler unfallfrei wählen. Und dieses Signal muss man schon senden wollen, wenn man da mit Nein stimmt, würde ich sagen."
+  #+END_QUOTE
+
+- Problematische Mehrheitsverhältnisse: Die Koalition hat nur eine knappe Mehrheit von 12 Stimmen
+  #+BEGIN_QUOTE
+  "Die Koalition hat eben nur 12 Stimmen über den Durst, eine 12-Stimmen-Mehrheit. Eine substanzielle Zahl dieser Menschen hat offenbar gegen Friedrich Merz gestimmt."
+  #+END_QUOTE
+
+- Machtposition von Lars Klingbeil (SPD): Trotz historischer Wahlniederlage zum Vizekanzler und Finanzminister aufgestiegen
+  #+BEGIN_QUOTE
+  "...er hat es geschafft, wie gesagt, mit seinem Power Grap sich sofort am Abend der Wahlkatastrophe zum Fraktionsvorsitzenden auszurufen. Damit hat er irgendwie, das muss man sich mal erinnern, das ist eigentlich schon ein ganz geiler Move..."
+  #+END_QUOTE
+
+- Härte innerhalb der SPD: Klingbeil hat führende SPD-Mitglieder kaltgestellt
+  #+BEGIN_QUOTE
+  "Er hat Hubertus Heil, den in vielen Augen durchaus erfolgreichen Arbeitsminister der Ampel, abgesägt. Er hat Saskia Esken, seine Co-Vorsitzende bei der SPD, kaltgestellt, die eigentlich gerne im Ministeramt gehabt hätte, hat sie nicht bekommen. Rolf Mützenich hat er als Fraktionschef abgesägt und durch seinen eng vertrauten Matthias Miersch ersetzt."
+  #+END_QUOTE
+
+- Koalitionsvertrag: Kritik an zu konservativem Programm, das zu wenig für soziale Gerechtigkeit tut
+  #+BEGIN_QUOTE
+  "Er hat einen Koalitionsvertrag durchgesetzt, als gäbe es in Deutschland eine konservative Mehrheit. Er hat die größte Fraktion, aber es gibt eben keine konservative Mehrheit, dieser Koalionsvertrag, der bietet eben diesen kleinen, sogenannten kleinen Leuten, also Leuten mit wenig finanziellen und bildungstechnischen Ressourcen, der bietet ihnen eben kaum etwas."
+  #+END_QUOTE
+
+*** Das neue Bundeskabinett
+- Ministerposten der Union: Die wichtigsten Ämter gingen an erfahrene CDU/CSU-Politiker
+- SPD-Minister: Sieben Ministerposten für die SPD, darunter wichtige Positionen
+  #+BEGIN_QUOTE
+  "Naja, ich sage nicht, er hat gar nichts rausgeholt. Er hat ja immerhin sieben Minister für die SPD rausgeholt."
+  #+END_QUOTE
+
+- Wichtige Personalentscheidungen:
+  - Lars Klingbeil (SPD): Vizekanzler und Finanzminister
+  - Bärbel Bas (SPD): Arbeits- und Sozialministerin
+  - Boris Pistorius (SPD): Verteidigungsminister
+  - Carsten Schneider (SPD): Umweltminister
+  - Verena Hubertz (SPD): Bauministerin
+  - Stefanie Hubig (SPD): Justizministerin
+  - Reem Alabali-Radovan (SPD): Entwicklungsministerin
+  - Jens Spahn (CDU): Fraktionsvorsitzender der Union
+  - Matthias Miersch (SPD): Fraktionsvorsitzender der SPD
+
+- Kritik an der Zusammensetzung: Nicht immer war inhaltliche Kompetenz entscheidend
+  #+BEGIN_QUOTE
+  "Auffällig: Nicht immer war die inhaltliche Kompetenz bei der Auswahl handlungsleitend. Maßgeblich für den SPD-Chef war vor allem der Proporz, der Alters- und der Geschlechtsspezifische und natürlich der regionale Proporz."
+  #+END_QUOTE
+
+*** Internationale Ausrichtung
+- Erste Reisen nach Frankreich und Polen: Merz signalisiert Verbesserung der Beziehungen zu Nachbarländern
+  #+BEGIN_QUOTE
+  "Der ist nämlich schon heute nach Paris geflogen, fliegt dann nachher nach Warschau weiter. Und das finde ich ist eine bewusste Abkehr von der, will nicht sagen Verachtung, aber auch von der Geringschätzung, die Olaf Scholz unseren beiden Nachbarländern Frankreich und Polen hat angedeihen lassen."
+  #+END_QUOTE
+
+- Europa als Schwerpunkt: Anerkennung der Bedeutung europäischer Zusammenarbeit
+  #+BEGIN_QUOTE
+  "Europa kommt einfach in den nächsten Jahren eine Schlüsselfunktion zu, wirtschaftlich, aber natürlich gerade auch, was unsere äußere Sicherheit angeht."
+  #+END_QUOTE
+** Nahost-Konflikt und Situation in Gaza
+*** Eskalation der Lage
+- Humanitäre Katastrophe: Blockade des Gazastreifens durch Israel seit über zwei Monaten
+  #+BEGIN_QUOTE
+  "Keine humanitären Hilfslieferungen mehr [...] Kein Wasser, kein Strom, einfach mangels Treibstoff. Hilfsorganisationen beklagen da inzwischen katastrophale humanitäre Zustände"
+  #+END_QUOTE
+
+- Militärische Intensivierung: Einberufung zehntausender Reservisten durch Israel
+  #+BEGIN_QUOTE
+  "Ziel laut Regierung soll es sein, große Teile des Gazastreifens zu besetzen und die Bevölkerung dabei aus dem Norden in den Süden, wie es heißt, 'umzusiedeln'."
+  #+END_QUOTE
+
+- Vertreibungsvorwürfe: Befürchtungen einer geplanten Vertreibung der palästinensischen Bevölkerung
+  #+BEGIN_QUOTE
+  "Also eine Besetzung des Gazastreifens durch Israel erscheint das offizielle Ziel dieser Politik zu sein. Und eine Vertreibung der Menschen aus dem gesamten Gazastreifen ist so wahrscheinlich wie nie zuvor."
+  #+END_QUOTE
+
+*** Interview mit Ofer Waldmann (israelischer Journalist)
+- Einschätzung der Lage: Zunehmend katastrophale Situation im Gazastreifen
+  #+BEGIN_QUOTE
+  "Man verwendet immer ein Adjektiv desolat, katastrophal, aber wir sehen mit jeder Woche, mit jedem Monat, die vorbeigehen, dass die Lage desolater, katostrophaler wird."
+  #+END_QUOTE
+
+- Kritik an der Netanjahu-Regierung: Vorwurf der unverhältnismäßigen Reaktion
+  #+BEGIN_QUOTE
+  "Wir reden schon jetzt von über 50.000 Opfern unter der palästinensischen Bevölkerung. Einige von den Hamas-Kämpfern, aber die große Mehrheit Zivilisten und Zivilistinnen."
+  #+END_QUOTE
+
+- 7. Oktober als Einschnitt: Anerkennung des schlimmsten Tages für das jüdische Volk seit 1945
+  #+BEGIN_QUOTE
+  "Der verlussreichste Tag für das jüdische Volk seit 1945 bezeichnet jetzt 80 Jahre nach Kriegsende. Und das muss man erst mal sich vor Augen führen, dass der 7.Oktober in der Tat der schlimmste, der verlussreiste Tag für des jüdischen Volks seit 1945 war."
+  #+END_QUOTE
+
+- Notwendige Verteidigung gegen Hamas: Anerkennung des israelischen Rechts auf Verteidigung
+  #+BEGIN_QUOTE
+  "Und dass Israel sich wehren muss, steht ebenfalls außer Frage gegen die Hamas, aber eben gegen die Hamas, nicht gegen die gesamte palästinensische Zivilbevölkerung."
+  #+END_QUOTE
+
+- Lösungsansätze: Plädoyer für eine regionale, international unterstützte Zweistaatenlösung
+  #+BEGIN_QUOTE
+  "...muss eine regionale Lösung sein und muss vor allem eine Lösung sein, die internationale Unterstützung erfährt, sowohl aus europäischer Seite als auch aus amerikanischer Seite..."
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE
+  "Aber noch habe ich keine bessere Lösung gehört als die Zwei-Staaten-Lösung als ein souveräner Israel und daneben ein souveräner palästinesischer Staat, die dann hoffentlich in Frieden miteinander leben können."
+  #+END_QUOTE
+
+- Internationale Dimension: Kritik an der internationalen Unterstützung für Netanjahu
+  #+BEGIN_QUOTE
+  "...wir müssen verstehen, die israelische Regierung agiert als Teil eines Netzwerkes. Sie hätten diese Pläne nicht so vorantreiben können, ohne zu wissen, dass sie diesen Rückenwind haben."
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE
+  "Wir sehen, dass antidemokratische Kräfte sich weltweit vernetzen. Das ist ja kein spezifisches israelisches Problem."
+  #+END_QUOTE
+
+- Persönliche Motive Netanjahus: Spekulationen über Zusammenhang mit Netanjahus juristischen Problemen
+  #+BEGIN_QUOTE
+  "Es gibt Äußerungen, die in die Richtung gehen, dass eigentlich die Verlängerung des Krieges zusammenhängt mit politischen Krisen innerhalb der israelischen Regierung. Vielleicht sogar mit der persönlichen Misere, mit der juristischen persönlichen Misere Benjamin Netanyahus."
+  #+END_QUOTE
+
+- Annexion des Westjordanlands: Parallele Problematik zur Gaza-Situation
+  #+BEGIN_QUOTE
+  "...die Intensivierung der Besatzung des Westjordanlandes, die Intensvierung des Besiedlungsprojekts des Westjordanlandes propagieren."
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE
+  "Die sind genau da, die werden dort gebaut, um eben die Zwei-Staaten-Lösung zu erschweren."
+  #+END_QUOTE
+
+- Deutsche Verantwortung: Plädoyer für eine differenzierte Haltung
+  #+BEGIN_QUOTE
+  "Mich wird niemals keiner überreden können, dass es ein Entweder-Oder ist. Entweder ist man solidarisch mit Israel unter dem Titel Staatsräson oder man setzt sich ein für die Wahrung universell geltenden Menschenrechte. Ich bin ein Verfechter des Sowohl als auch."
+  #+END_QUOTE
+
+** AfD als "gesichert rechtsextremistisch"
+*** Entscheidung des Verfassungsschutzes
+- Einstufung als gesichert rechtsextremistisch: Nach drei Jahren Beobachtung stuft der Verfassungsschutz die AfD nun bundesweit als rechtsextrem ein
+  #+BEGIN_QUOTE
+  "Der gegen die AfD bestehende Verdacht habe sich, 'bestätigt und in wesentlichen Teilen zur Gewissheit verdichtet.'"
+  #+END_QUOTE
+
+- Begründung: Ethnisch-abstammungsmäßiges Volksverständnis widerspricht der freiheitlich-demokratischen Grundordnung
+  #+BEGIN_QUOTE
+  "Das in der Partei vorherrschende ethnisch-abstammungsmäßige Volksverständnis ist nicht mit der freiheitlichen demokratischen Grundordnung vereinbar. Es zielt darauf ab, bestimmte Bevölkerungsgruppen von einer gleichberechtigten gesellschaftlichen Teilhabe auszuschließen..."
+  #+END_QUOTE
+
+- Konkrete Vorwürfe: Ausgrenzung und Verächtlichmachung bestimmter Bevölkerungsgruppen
+  #+BEGIN_QUOTE
+  "Konkret betrachtet die AfD zum Beispiel deutsche Staatsangehörige mit Migrationsgeschichte aus muslimisch geprägten Ländern nicht als gleichwertige Angehörige des durch die Partei ethnisch definierten deutschen Volkes."
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE
+  "Dieses, wie sie das nennen, ausgrenzende Volksverständnis, sei der Ausgangspunkt und die ideologische Grundlage mehr oder weniger für alles, was dann kommt, nämlich für die Verachtung und Ausgrenzung bestimmter Personen und Personengruppen, etwa würden Muslime und Migranten pauschal verächtlich gemacht, die AfD schüre Ängste, Ressentiments, Vorurteile..."
+  #+END_QUOTE
+
+- Beweisgrundlage: 1100-seitiger Bericht mit Zitaten und Quellen, der jedoch nicht öffentlich ist
+  #+BEGIN_QUOTE
+  "Das Bundesamt für Verfassungsschutz sagt, naja, auf 1100 Seiten belegen wir Vorwürfe mit Zitaten und Quellen, und zwar nicht nur von irgendwelchen Randfiguren, sondern wirklich von zentralen Protagonisten der AfD in ganz Deutschland quer durch alle Parteistränge."
+  #+END_QUOTE
+
+- Problematischer Beleg: Kritik an der Qualität einiger angeführter Beispiele
+  #+BEGIN_QUOTE
+  "Chrupalla hatte demnach Außenminister Annalena Baerbock, CDU-Chef Friedrich Merz und dessen Partei von Norbert Röttgen, als 'Vasallen Amerikas' beschimpft, die das Land ins 'Verderben führen würden.' Ja also da würde ich sagen Hallo Meinungsfreiheit."
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE
+  "Da würde ich auch große Bedenken anmelden, das tatsächlich als Beleg anzuführen. [...] Natürlich in einem Gesamtbild mag das so zur Illustration noch irgendwie angeführt werden, aber im Kern ist es natürlich möglich, im politischen Meinungsstreit Menschen auch hart anzugreifen..."
+  #+END_QUOTE
+
+*** Konsequenzen der Einstufung
+- Nachrichtendienstliche Überwachung: Möglichkeit des "vollen Bestecks" nachrichtendienstlicher Mittel
+  #+BEGIN_QUOTE
+  "Also das Bundesamt für Verfassungsschutz kann nun quasi das volle Besteck der nachrichtendienstlichen Mittel einsetzen. Sie können grundsätzlich Telefone abhören. Sie können Spione anwerben und so weiter und so weiter."
+  #+END_QUOTE
+
+- Kein automatisches Verbot: Parteiverbot kann nur durch das Bundesverfassungsgericht erfolgen
+  #+BEGIN_QUOTE
+  "...unmittelbar verboten ist die AfD deswegen noch lange nicht, denn eine Partei verbieten kann eben nur das Bundesverfassungsgericht."
+  #+END_QUOTE
+
+- Beamtenrecht: Mitgliedschaft in der AfD könnte mit Beamtenstatus unvereinbar sein
+  #+BEGIN_QUOTE
+  "Die Bereitschaft jederzeit für die freiheitlich-demokratische Grundordnung einzutreten, ist nach Artikel 33 Absatz 5 Grundgesetz Einstellungsvoraussetzung für den Eintritt in den öffentlichen Dienst."
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE
+  "Wenn natürlich die AfD die freiheitlich-demokratische Grundordnung aktiv bekämpft, so jedenfalls das Urteil des BfV, dann darf man sich als Beamter, als Beamtin nicht mehr für die AfD engagieren."
+  #+END_QUOTE
+
+- Waffenrecht: Erste Gerichtsentscheidungen zur Unzuverlässigkeit von AfD-nahen Personen im Waffenrecht
+  #+BEGIN_QUOTE
+  "... wonach eben Menschen mit Nähe zur AfD einfach nicht die Zuverlässigkeit bieten, die man braucht, um eine Waffe haben zu dürfen."
+  #+END_QUOTE
+
+*** Strategien gegen die AfD
+- Verbotsdebatte: Rund die Hälfte der Deutschen befürwortet ein AfD-Verbot
+  #+BEGIN_QUOTE
+  "Ungefähr die über die Hälfte der Deutschen ist für ein Verbot, schreibt die Zeit."
+  #+END_QUOTE
+
+- Politische Bekämpfung: Alternative Strategie der inhaltlichen Auseinandersetzung
+  #+BEGIN_QUOTE
+  "Gegner dieses Verbots, die es natürlich auch zahlreich gibt, die sagen, wir können den Geist der AfD nicht verbieten. Merz hat es nochmal jetzt gesagt, auch in einem Interview, man kann 10 Millionen AfD-Wähler und Wählerinnen nicht verbieten."
+  #+END_QUOTE
+
+- Themenvermeidung als Strategie: Empfehlung, bestimmte Themen von der Agenda zu nehmen
+  #+BEGIN_QUOTE
+  "Ganz einfach, Migration und Kriminalität möglichst von der Agenda nehmen. Jedenfalls mal von der rhetorischen Agenda. Das heißt ja nicht, dass man sich nicht inhaltlich darum kümmern kann, aber jedenfalls nicht mehr so viel drüber reden."
+  #+END_QUOTE
+
+*** Umfragewerte und Wählermotivation
+- Aktuelle Stärke: AfD führt in aktuellen Umfragen mit 26% vor der Union mit 25%
+  #+BEGIN_QUOTE
+  "Also die neueste Forsa-Umfrage, die wird von der AfD jetzt sogar angeführt. Danach kriegt die AfD in dieser sogenannten Sonntagsfrage, also wen würden sie wählen, wenn Sonntagwahlen wären, 26 Prozent."
+  #+END_QUOTE
+
+- Wählermotive: Überwiegend ideologische statt reine Protestgründe
+  #+BEGIN_QUOTE
+  "Das Protestmotiv war mal sehr wichtig für die AfD, aber das ist wenn man ehrlich ist weitgehend Geschichte."
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE
+  "35% sagen, ich stimme mit dem AfD-Programm überein, 35% der AfD-Wählenden, 24% Viertel sagt, bin mit der Ampel unzufrieden, 15% ich lehne Merz ab."
+  #+END_QUOTE
+
+- Kompetenzattribution der Parteien: Studie zeigt unterschiedliche Kompetenzfelder
+  #+BEGIN_QUOTE
+  "Die höchsten Kompetenzen bekommt die AfD bei den Themen Kriminalitätsbekämpfung, da sagen 23% der Befragten, die AfD ist da für die richtige Partei, hat die höchste Kompetenz und Asyl- und Flüchtlingspolitik. Da sagen ein Fünftel, 22% der Befragtem, ja die AfD da ist für die Partei die das am besten kann."
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE
+  "Da sagen nämlich immerhin 39 Prozent: Die Union ist die kompetentste Partei für Wirtschaft. Afd nur zwölf Prozent. Also wenn man sich das überlegt, fast 30 Prozentpunkte Kompetenzvorsprung der Union vor der AfD im bereich Wirtschaft."
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE
+  "Ähnlich groß, wie bei der Wirtschaft ist der Vorsprung der Union, bei der Außenpolitik, da sagen ein Drittel der Leute, Union ist die besten Partei um Außenpolitik voranzubringen und für die AfD sagen das nur 12% der Befragten, also auch hier über 20% Punkte Vorsprung für die Union."
+  #+END_QUOTE
+
+- Agendasetzung und Themenwahl: These, dass die Fokussierung auf Migration und Kriminalität der AfD nutzt
+  #+BEGIN_QUOTE
+  "Wenn die Union hingegen über Migration und Kriminalität redet, dann stärkt sie in der Tendenz die AfD, weil diese Partei dort für relativ kompetent oder sogar für am kompetentesten gehalten wird."
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE
+  "Das heißt konsequenterweise, wo die Menschen davon ausgehen, dass die AfD davon keine Ahnung hat."
+  #+END_QUOTE
+
+- Allgemeines Vertrauensdefizit in Parteien:
+  #+BEGIN_QUOTE
+  "47% der Leute trauen es keiner Partei zu, die Probleme des Landes zu lösen. 47%, also fast die Hälfte der Leute."
+  #+END_QUOTE
+```
