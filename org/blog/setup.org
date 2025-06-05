@@ -78,8 +78,7 @@
   ;; set-fill-column
   (setq-local fill-column 9000)
 
-  (add-to-list 'org-hugo-special-block-type-properties '("sidenote" . (:trim-pre t :trim-post t)))
-  )
+  (add-to-list 'org-hugo-special-block-type-properties '("sidenote" . (:trim-pre t :trim-post t))))
 #+end_src
 
 # Local Variables:

@@ -4,9 +4,9 @@
 ((org-mode . ((eval .
                     (progn
                       (setq-local
-                       org-confirm-babel-evaluate nil
+                       org-confirm-babel-evaluate t
                        org-agenda-files nil
-                       org-id-extra-files (directory-files-recursively org-roam-directory "\.org$")
+                       ;; org-id-extra-files (directory-files-recursively org-roam-directory "\.org$")
                        )
                       ;; https://github.com/kaushalmodi/ox-hugo/issues/500#issuecomment-1006674469
                       (defun replace-in-string (what with in)
