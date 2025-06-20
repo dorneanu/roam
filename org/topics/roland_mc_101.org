@@ -5,6 +5,126 @@
 
 Also check [[id:a7dec13a-1eba-476e-8cb0-36baa9ad7fc7][Drums]]. 
 
+* Chords progressions
+** Emotional Chord Progressions for EDM
+Mostly from https://www.youtube.com/watch?v=_yw85rAb6cw
+
+
+Quick reference:  
+
+| Name                        | Scale       | Progression          | Chords                               |
+|-----------------------------+-------------+----------------------+--------------------------------------|
+| Uplifting, joyful, euphoric | D# minor    | 5,6,7,1              | Bbmin - Bmaj - C#maj - D#min         |
+| Deep and serious            | B minor     | 6,7,1,7              | Gmaj - Amaj - Bmin - Amaj            |
+| Tense and suspenseful       | G major     | Just one chord       | Gmaj                                 |
+| Sad like really sad         | G minor     | 1,7,4,6              | Gmin - Fmaj - Cmin - Ebmaj           |
+| Feel good, euphoric         | B minor     | 6,3,7,1              | Gmaj - Dmaj - Amaj - Bmin            |
+| Feel good but kinda sad     | G# minor    | 6,1,7,5              | Emaj - G#min - F#maj - D#min         |
+| Pump up                     | G minor     | 1 (for 2 bars), 6, 4 | Gmin (2 bars) - Ebmaj - Cmin         |
+| Pump up but kinda happy     | G minor     | 1 (for 2 bars), 3, 6 | Gmin (2 bars) - Bbmaj - Ebmaj        |
+| Chill and relaxed           | C# minor    | 6,1,7,1              | Amaj - C#min - Bmaj - C#min          |
+| Happy                       | Every major | 4,5,1 (for 2 bars)   | IV - V - I (e.g. Fmaj - Gmaj - Cmaj) |
+
+1) Uplifting, joyful and euphoric
+   - Scale: D# minor
+   - Notes: D# - E# - F# - G# - A# - B - C# - D#
+   - Progression: 5,6,7,1
+   - Chords: Bbmin - Bmaj - C#maj - D#min
+   - Roman numerals: v - bVI - bVII - i
+   - Tips: 
+     - Add pedal notes
+     - Put 3rds one octave higher
+
+2) Deep and serious
+   - Scale: B minor
+   - Notes: B - C# - D - E - F# - G - A - B
+   - Progression: 6,7,1,7
+   - Chords: Gmaj - Amaj - Bmin - Amaj
+   - Roman numerals: bVI - bVII - i - bVII
+
+3) Tense and suspenseful
+   - Scale: G major
+   - Notes: G - A - B - C - D - E - F# - G
+   - Progression: Just one chord
+   - Chord: Gmaj (held as drone/pedal)
+   - Note: Consider adding tensions (sus2, sus4, add9)
+
+4) Sad like really sad
+   - Scale: G minor
+   - Notes: G - A - Bb - C - D - Eb - F - G
+   - Progression: 1,7,4,6
+   - Chords: Gmin - Fmaj - Cmin - Ebmaj
+   - Roman numerals: i - bVII - iv - bVI
+   - Tips: Add pedal tone tonic
+
+5) Feel good, euphoric
+   - Scale: B minor
+   - Notes: B - C# - D - E - F# - G - A - B
+   - Progression: 6,3,7,1
+   - Chords: Gmaj - Dmaj - Amaj - Bmin
+   - Roman numerals: bVI - III - bVII - i
+   - Tips: Add pedal tone on the 3rds
+
+6) Feel good but kinda sad
+   - Scale: G# minor
+   - Notes: G# - A# - B - C# - D# - E - F# - G#
+   - Progression: 6,1,7,5
+   - Chords: Emaj - G#min - F#maj - D#min
+   - Roman numerals: bVI - i - bVII - v
+   - Tips: 
+     - Pedal tone on 3rd tone
+     - Pedal note 7 steps above 3rd
+
+7) Pump up
+   - Scale: G minor
+   - Notes: G - A - Bb - C - D - Eb - F - G
+   - Progression: 1 (for 2 bars), 6, 4
+   - Chords: Gmin (2 bars) - Ebmaj - Cmin
+   - Roman numerals: i - bVI - iv
+   - Tips: Double 3rd note using another instrument (after putting it one octave higher)
+
+8) Pump up but kinda happy
+   - Scale: G minor
+   - Notes: G - A - Bb - C - D - Eb - F - G
+   - Progression: 1 (for 2 bars), 3, 6
+   - Chords: Gmin (2 bars) - Bbmaj - Ebmaj
+   - Roman numerals: i - bIII - bVI
+     
+9) Chill and relaxed
+  - Scale: C# minor
+  - Notes: C# - D# - E - F# - G# - A - B - C#
+  - Progression: 6,1,7,1
+  - Chords: Amaj - C#min - Bmaj - C#min
+  - Roman numerals: bVI - i - bVII - i
+  - Tips: Add note on the tonic of the scale
+
+10) Happy
+  - Scale: Every major scale
+  - Notes: Works in any major scale (example: C - D - E - F - G - A - B - C)
+  - Progression: 4,5,1 (for 2 bars)
+  - Chords: IV - V - I (example: Fmaj - Gmaj - Cmaj)
+  - Roman numerals: IV - V - I
+  - Tips:
+    - Add pedal tone on the tonic
+    - Get rid of the 5ths and the 3rds
+    - Get base tones and put them up an octave
+    - Double the pedal tone
+      
+** Production Notes
+- Common Techniques
+  - Pedal tones create harmonic tension and richness
+  - Octave doubling of thirds adds brightness and presence
+  - Extended tonic chords build anticipation
+  - Major chords in minor progressions create emotional contrast
+- Scale Degree Reference
+  In minor keys:
+  - i = minor tonic
+  - bII = diminished supertonic  
+  - bIII = major mediant (relative major)
+  - iv = minor subdominant
+  - v = minor dominant (natural minor)
+  - bVI = major submediant
+  - bVII = major subtonic
 * Resources
 - 2025-04-15 ◦ [[https://www.youtube.com/watch?v=cQrRZZPR8TE][Roland MC-101 Help: How To Use "SYS-CTRL" - YouTube]]
 - 2025-04-15 ◦ [[https://www.reddit.com/r/rolandmc101/comments/1buvsle/additional_track_mfx_controls_on_control_knobs/][Additional track MFX controls on Control knobs using Sys-ctrl settings]]
