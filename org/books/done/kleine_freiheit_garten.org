@@ -708,6 +708,9 @@ auflockern und vor dem Pflanzen zusätzlich etwas Sand einarbeiten."
     #+END_QUOTE
 
 ** Spezifische Heilkräuter und ihre Wirkungen
+:PROPERTIES:
+:ATTR_HTML: :width 100%
+:END:
 
 *** Brennnessel
 | Aspekt         | Details                                                                                    |
