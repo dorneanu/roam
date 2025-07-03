@@ -60,7 +60,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   2022-11-03 ◦ [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence by Michael Pollan](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind)
 -   2022-11-29 ◦ [The Future Is Analog: How to Create a More Human World by David Sax](https://www.goodreads.com/book/show/60568520-the-future-is-analog)
 -   2022-12-08 ◦ [Nu tot ei! : România în ghearele imposturii by Valeriu Nicolae](https://www.goodreads.com/book/show/55853540-nu-tot-ei)
--   2022-12-14 ◦ [Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions)
+-   ✅ 2022-12-14 ◦ [Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions) ([notes]({{< relref "../books/brief_answers_to_the_big_questions.md" >}}))
 -   2023-01-02 ◦ [Why We Sleep: Unlocking the Power of Sleep and Dreams by Matthew Walker](https://www.goodreads.com/book/show/34466963-why-we-sleep)
 -   2023-01-02 ◦ [Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling by Matthew Dicks](https://www.goodreads.com/en/book/show/37786022-storyworthy)
 -   ✅ 2023-01-02 ◦ [The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia](https://www.goodreads.com/en/book/show/56913172-the-minimalist-entrepreneur)

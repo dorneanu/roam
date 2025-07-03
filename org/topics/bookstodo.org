@@ -51,7 +51,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 - 2022-11-03 ◦ [[https://www.goodreads.com/book/show/36613747-how-to-change-your-mind][How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence by Michael Pollan]]
 - 2022-11-29 ◦ [[https://www.goodreads.com/book/show/60568520-the-future-is-analog][The Future Is Analog: How to Create a More Human World by David Sax]]
 - 2022-12-08 ◦ [[https://www.goodreads.com/book/show/55853540-nu-tot-ei][Nu tot ei! : România în ghearele imposturii by Valeriu Nicolae]]
-- 2022-12-14 ◦ [[https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions][Brief Answers to the Big Questions by Stephen Hawking]]
+- ✅ 2022-12-14 ◦ [[https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions][Brief Answers to the Big Questions by Stephen Hawking]] ([[id:9C5F5D97-3143-4248-BE3D-B006085CF214][notes]])
 - 2023-01-02 ◦ [[https://www.goodreads.com/book/show/34466963-why-we-sleep][Why We Sleep: Unlocking the Power of Sleep and Dreams by Matthew Walker]]
 - 2023-01-02 ◦ [[https://www.goodreads.com/en/book/show/37786022-storyworthy][Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling by Matthew Dicks]]
 - ✅ 2023-01-02 ◦ [[https://www.goodreads.com/en/book/show/56913172-the-minimalist-entrepreneur][The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia]]
