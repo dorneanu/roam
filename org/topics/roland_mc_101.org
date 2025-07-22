@@ -126,6 +126,7 @@ Quick reference:
   - bVI = major submediant
   - bVII = major subtonic
 * Resources
+- 2025-07-22 ◦ [[https://songgalaxy.com/][Song Galaxy]] (download MIDI files)
 - 2025-04-15 ◦ [[https://www.youtube.com/watch?v=cQrRZZPR8TE][Roland MC-101 Help: How To Use "SYS-CTRL" - YouTube]]
 - 2025-04-15 ◦ [[https://www.reddit.com/r/rolandmc101/comments/1buvsle/additional_track_mfx_controls_on_control_knobs/][Additional track MFX controls on Control knobs using Sys-ctrl settings]]
 - 2025-04-15 ◦ [[https://drolez.com/blog/music/roland-mc-101-effects.php][Roland MC-101 effects and live performance guide]]

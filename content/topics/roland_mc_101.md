@@ -135,6 +135,7 @@ Quick reference:
 
 ## Resources {#resources}
 
+-   2025-07-22 ◦ [Song Galaxy](https://songgalaxy.com/) (download MIDI files)
 -   2025-04-15 ◦ [Roland MC-101 Help: How To Use "SYS-CTRL" - YouTube](https://www.youtube.com/watch?v=cQrRZZPR8TE)
 -   2025-04-15 ◦ [Additional track MFX controls on Control knobs using Sys-ctrl settings](https://www.reddit.com/r/rolandmc101/comments/1buvsle/additional_track_mfx_controls_on_control_knobs/)
 -   2025-04-15 ◦ [Roland MC-101 effects and live performance guide](https://drolez.com/blog/music/roland-mc-101-effects.php)
