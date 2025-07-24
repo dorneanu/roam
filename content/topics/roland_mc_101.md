@@ -135,6 +135,8 @@ Quick reference:
 
 ## Resources {#resources}
 
+-   2025-07-22 ◦ [hooktheory.com / Songs DB](https://www.hooktheory.com/theorytab)
+    Awesome DB to search for chords, chords progressions. They also provide an API.
 -   2025-07-22 ◦ [Song Galaxy](https://songgalaxy.com/) (download MIDI files)
 -   2025-04-15 ◦ [Roland MC-101 Help: How To Use "SYS-CTRL" - YouTube](https://www.youtube.com/watch?v=cQrRZZPR8TE)
 -   2025-04-15 ◦ [Additional track MFX controls on Control knobs using Sys-ctrl settings](https://www.reddit.com/r/rolandmc101/comments/1buvsle/additional_track_mfx_controls_on_control_knobs/)
@@ -146,5 +148,22 @@ Quick reference:
 
 ## Youtube {#youtube}
 
+
+### Live performance {#live-performance}
+
 -   2025-03-26 ◦ [Roland MC-101 | Techno/House (No Talking)](https://www.youtube.com/watch?v=45PRdsj0158&list=RD45PRdsj0158&start_radio=1)
 -   2025-03-26 ◦ [Christopher Kah | Producing 'Tenor' on Roland MC-101](https://www.youtube.com/watch?v=vtQam53V6lo&ab_channel=ChristopherKah%28ChristophePicou%29)
+
+
+### Tutorials {#tutorials}
+
+-   2025-07-23 ◦ [#MC707 HOW MAKE A TECHNO TRACK FROM SCRATCH](https://www.youtube.com/watch?v=yA7MFhi7y9E&list=PLYZenHwtJrKE3pw9F-1xED1qFl1zwq5Q9&index=18&ab_channel=AlexFain)
+-   2025-07-23 ◦ [MC-707 Tutorial: Side-chain Compression Effect](https://www.youtube.com/watch?v=oNczQLCocSY&list=PLYZenHwtJrKE3pw9F-1xED1qFl1zwq5Q9&index=19&ab_channel=Unit%3AE)
+    Add pumping bass line. Also applies to the MC-101.
+    Settings for the Motion Designer:
+    -   C1 Form type: SQr
+    -   C2 Step length: 4
+    -   C3 Min Value: 40
+    -   C4 Max Value: 90
+-   2025-07-23 ◦ [Roland MC101 generative rhythm trick. Mc707 Zen-core glitch style.](https://www.youtube.com/watch?v=AzYv0_dDOf0&list=WL&index=89&ab_channel=MyLittleSynths)
+    Using Motion designer

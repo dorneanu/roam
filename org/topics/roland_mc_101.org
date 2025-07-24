@@ -126,6 +126,8 @@ Quick reference:
   - bVI = major submediant
   - bVII = major subtonic
 * Resources
+- 2025-07-22 ◦ [[https://www.hooktheory.com/theorytab][hooktheory.com / Songs DB]]
+  Awesome DB to search for chords, chords progressions. They also provide an API. 
 - 2025-07-22 ◦ [[https://songgalaxy.com/][Song Galaxy]] (download MIDI files)
 - 2025-04-15 ◦ [[https://www.youtube.com/watch?v=cQrRZZPR8TE][Roland MC-101 Help: How To Use "SYS-CTRL" - YouTube]]
 - 2025-04-15 ◦ [[https://www.reddit.com/r/rolandmc101/comments/1buvsle/additional_track_mfx_controls_on_control_knobs/][Additional track MFX controls on Control knobs using Sys-ctrl settings]]
@@ -134,5 +136,17 @@ Quick reference:
   - [[https://www.amazon.de/Roland-GO-Smartphones-Livestreams-Compatible/dp/B097H2HK5B/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=14N4191TZGMCR&dib=eyJ2IjoiMSJ9.GqlORMKlheJvcs3Sk7URVr5W0H0FgV3rZa5Yd9hWNvdD3_xrZ_h5_d8OTeixybX_qFmP_oLbtdjSFW4fVVM0zu0i4S1gZaiwMfVQPwWk0Eu9X4oQEn9K1UzKhqz-6S4_qbg_Wy5pESjQJWU1ytk9vJBrRZacyhwCJGwFKePDfnoAZr0oUqzbx9c7Oe5bfrKrOOrFlx3LzuiifACXRrCZ2HXutHqI1_uwDrmigdh4ur7sKMU0-L6tggK-9xBOGorrcgIXZqJ1CKPy9qdTqsIvMUiNzNMlE4xJa8iyxlI0ICI.ZjIiIbdjjdGo0s6CBXkTiG4zdQSd8GDXERNVOBBzb_g&dib_tag=se&keywords=GO%3AMixer+Pro-X&qid=1744689029&sprefix=go+mixer+pro-x%2Caps%2C108&sr=8-2&ufe=app_do%3Aamzn1.fos.1d0000e1-44b8-40d1-a25b-0cacf650cfb8][Roland GO:MIXER PRO-X]]
 - 2025-03-20 ◦ [[https://sites.google.com/view/rolandmc101/home][Roland MC-101 Tips & Tricks]]
 * Youtube
+** Live performance
 - 2025-03-26 ◦ [[https://www.youtube.com/watch?v=45PRdsj0158&list=RD45PRdsj0158&start_radio=1][Roland MC-101 | Techno/House (No Talking)]]
 - 2025-03-26 ◦ [[https://www.youtube.com/watch?v=vtQam53V6lo&ab_channel=ChristopherKah%28ChristophePicou%29][Christopher Kah | Producing 'Tenor' on Roland MC-101]]
+** Tutorials
+- 2025-07-23 ◦ [[https://www.youtube.com/watch?v=yA7MFhi7y9E&list=PLYZenHwtJrKE3pw9F-1xED1qFl1zwq5Q9&index=18&ab_channel=AlexFain][#MC707 HOW MAKE A TECHNO TRACK FROM SCRATCH]]
+- 2025-07-23 ◦ [[https://www.youtube.com/watch?v=oNczQLCocSY&list=PLYZenHwtJrKE3pw9F-1xED1qFl1zwq5Q9&index=19&ab_channel=Unit%3AE][MC-707 Tutorial: Side-chain Compression Effect]]
+  Add pumping bass line. Also applies to the MC-101.
+  Settings for the Motion Designer:
+  - C1 Form type: SQr
+  - C2 Step length: 4
+  - C3 Min Value: 40
+  - C4 Max Value: 90
+- 2025-07-23 ◦ [[https://www.youtube.com/watch?v=AzYv0_dDOf0&list=WL&index=89&ab_channel=MyLittleSynths][Roland MC101 generative rhythm trick. Mc707 Zen-core glitch style.]]
+  Using Motion designer
