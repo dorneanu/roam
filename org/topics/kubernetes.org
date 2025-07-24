@@ -33,6 +33,7 @@
 ** GitOps
 - 2023-09-07 ◦ [[https://www.youtube.com/watch?v=dONzzCc0oHo&t=865s&ab_channel=ContainersfromtheCouch][GitOps with Amazon EKS Workshop | Flux and ArgoCD - YouTube]]
 ** Security
+- 2025-07-23 ◦ [[https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-7/][Kubernetes security fundamentals: PKI | Datadog Security Labs]]
 - 2025-01-30 ◦ [[https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-6/][Kubernetes security fundamentals: Networking | Datadog Security Labs]]
 - 2024-06-04 ◦ [[https://aws.amazon.com/blogs/containers/amazon-eks-pod-identity-a-new-way-for-applications-on-eks-to-obtain-iam-credentials/][Amazon EKS Pod Identity: a new way for applications on EKS to obtain IAM credentials | Containers]]
 - 2024-01-25 ◦ [[https://blog.doyensec.com/2024/01/23/k8s-scheduling-secure-design.html][Kubernetes Scheduling and Secure Design]]

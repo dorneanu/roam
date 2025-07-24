@@ -58,6 +58,7 @@ draft = false
 
 ### Security {#security}
 
+-   2025-07-23 ◦ [Kubernetes security fundamentals: PKI | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-7/)
 -   2025-01-30 ◦ [Kubernetes security fundamentals: Networking | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-6/)
 -   2024-06-04 ◦ [Amazon EKS Pod Identity: a new way for applications on EKS to obtain IAM credentials | Containers](https://aws.amazon.com/blogs/containers/amazon-eks-pod-identity-a-new-way-for-applications-on-eks-to-obtain-iam-credentials/)
 -   2024-01-25 ◦ [Kubernetes Scheduling and Secure Design](https://blog.doyensec.com/2024/01/23/k8s-scheduling-secure-design.html)
