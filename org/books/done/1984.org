@@ -1,18 +1,13 @@
 :PROPERTIES:
 :ID:       9e09fbac-65ad-4d7e-9bdc-4c75cfd230d6
 :END:
+#+title: 1984
 #+created: 20210510172839454
 #+filetags: :scifi:book:
-#+finished_month: 05
-#+finished_year: 2021
-#+genres: Sci-Fi 
-#+goodreads: https://www.goodreads.com/book/show/40961427-1984
-#+lang: de
 #+date: 2021-09-22
-#+revision: 0
-#+tags: 2021 TODO Book Source
-#+title: 1984
 #+type: text/vnd.tiddlywiki
+
+👉 https://www.goodreads.com/book/show/40961427-1984
 
 * Description
 - Theorie und Praxis des oligarchischen Kollektivismus
@@ -21,10 +16,6 @@
   - Kapitel 3: [[* Krieg ist Frieden][Krieg ist Frieden]]
 * Notes
 ** 3 Arten von Menschen                                                   :note:
-:PROPERTIES:
-:CREATED:  Tue Aug 24 2021 20:14:47 GMT+0200 (Central European Summer Time)
-:TAGS:     Definition
-:END:
 - die Oberen
   - Ziel: dort zu bleiben, wo sie jetzt sind
 - die Mittleren
@@ -36,10 +27,6 @@
   - Ziel: Alle Unterschiede abschaffen und eine Gesellschaft errichten, in der alle Menschen gleich sind
 
 ** Aufteilung der Welt                                                    :note:
-:PROPERTIES:
-:CREATED:  Tue Aug 24 2021 20:30:13 GMT+0200 (Central European Summer Time)
-:TAGS:     Stub
-:END:
 - in 3 große Superstaaten
   - Eurasien
     - Europa + Russland
@@ -67,10 +54,6 @@
     - die permanente [[* Krieg][Kriegsführung]]
 
 ** Der Große Bruder                                                       :note:
-:PROPERTIES:
-:CREATED:  Wed Sep 22 2021 11:45:43 GMT+0200 (Central European Summer Time)
-:TAGS:
-:END:
 - an der Spitz der Pyramide steht der "Große Bruder"
 - niemand hat ihn je gesehen
   - er ist nur ein Gesicht auf den Reklamewänden
@@ -80,10 +63,6 @@
   - es gibt Unsicherheiten darüber wann er überhaupt geboren wurde
 
 ** Doppeldenk                                                             :note:
-:PROPERTIES:
-:CREATED:  Wed Sep 22 2021 11:49:33 GMT+0200 (Central European Summer Time)
-:TAGS:
-:END:
 - bedeutet die Fähigkeit, gleichzeitig zwei einander widersprechende Überzeugungen zu hegen und beide gelten zu lassen
 - es werden bewusst Lügen erzählt, an die man ehrlich glaubt
 - jede unbequem gewordene Tatsache wird vergessen
@@ -91,10 +70,6 @@
 - schon der Gebrauch des Wortes Doppeldenk ist Doppeldenk
 
 ** Krieg                                                                  :note:
-:PROPERTIES:
-:CREATED:  Tue Aug 24 2021 20:18:01 GMT+0200 (Central European Summer Time)
-:TAGS:
-:END:
 - Hauptwerk des Krieges ist Zerstörung, aber nicht die von Menschenleben, aber die von Produkten menschlicher Arbeit
 - Krieg ist ein Mittel, Materialien/Ressourcen zu vernichten, die sonst dazu benutzt werden könnten, es den Massen zu bequem und sie somit auf lange Sicht intelligent zu machen
 - betrifft nur eine geringe Anzahl von Menschen, meistens hochtrainierte Spezialisten und fordert (wenn überhaupt) nur wenig Verluste
@@ -104,10 +79,6 @@
 - der Krieg führt mehr einen Krieg um die Arbeitskräfte (siehe auch [[* Versklavung][Versklavung]])
 
 ** Krieg ist Frieden                                                      :note:
-:PROPERTIES:
-:CREATED:  Mon Sep 20 2021 21:02:06 GMT+0200 (Central European Summer Time)
-:TAGS:
-:END:
 - der Krieg als solcher existiert nicht mehr wirklich
   - die Superstaaten bekämpfen einander nicht mehr
   - es geht nicht mehr darum Gebietseroberungen zu machen oder zu verhindern
@@ -119,10 +90,6 @@
   #+end_quote
 
 ** Kulturelle Integrität                                                  :note:
-:PROPERTIES:
-:CREATED:  Wed Sep 22 2021 11:34:02 GMT+0200 (Central European Summer Time)
-:TAGS:
-:END:
 - Für alle Superstaaten (siehe [[* Aufteilung der Welt][Aufteilung der Welt]]) ist es wichtig, dass die Bewohner nicht mit Ausländern in Kontakt kommen
   - außer mit Kriegsgefangenen und farbigen Sklaven
 - wäre der Kontakt erlaubt, würden die Bürger feststellen, dass die Ausländer ähnliche Menschen sind und dass das meiste, was sie über sie gehört haben, Lügen waren
@@ -130,10 +97,6 @@
   - die Kampfmoral, der Haß würden dann verfliegen
 
 ** Rolle der Partei                                                       :note:
-:PROPERTIES:
-:CREATED:  Wed Sep 22 2021 11:30:26 GMT+0200 (Central European Summer Time)
-:TAGS:
-:END:
 - Die Partei kennt 2 Ziele
   - die Eroberung des gesamten Erdballs
   - die endgültige Tilgung jeder Möglichkeit unabhängigen Denkens
@@ -142,10 +105,6 @@
   - wie lassen sich mehrere hunder Millionen Menschen in ein paar Sekunden ohne Vorwarnung umbringen
 
 ** Versklavung                                                            :note:
-:PROPERTIES:
-:CREATED:  Mon Sep 20 2021 20:55:51 GMT+0200 (Central European Summer Time)
-:TAGS:
-:END:
 - alle im Krieg involvierten Territorien verfügen über hochwertige Ressourcen
 - den Superstaaten steht ein unerschöpfliches Reservoir billiger Arbeitskräfte zur Verfügung
 - die in den Gebieten arbeitenden Menschen sind schon lange zu Sklaven degradiert und wechseln laufend unter den Eroberern ihren Besitzer
@@ -154,10 +113,6 @@
   - das Hauptziel der *modernen Kriegsführung* besteht darin, die maschinellen Produkte zu verbrauchen, ohne den allgemeinen Lebensstandard zu heben
 
 ** Wohlstand                                                              :note:
-:PROPERTIES:
-:CREATED:  Mon Sep 20 2021 21:07:15 GMT+0200 (Central European Summer Time)
-:TAGS:
-:END:
 - Definition
   - eher im materiellen Sinne (Luxus und persönlicher Besitz)
   - während die Macht in den Händen einer privilegierten Kaste blieb
