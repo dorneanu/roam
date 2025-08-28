@@ -719,6 +719,11 @@ Stück geschlossen werden. Die Initiative "taxmenow" bringt es auf den Punkt:
 > Gesellschaft."
 
 
+#### Links {#links}
+
+-   2025-08-28 ◦ [»Wir leben in einer Erbengesellschaft, keiner Leistungsgesellschaft« | JACOBIN Magazin](https://jacobin.de/artikel/martyna-linartas-ungleichheit-erbengesellschaft-vermoegensteuer-erbschaftssteuer-grunderbe)
+
+
 ## Die Bildungsungerechtigkeit in Deutschland {#die-bildungsungerechtigkeit-in-deutschland}
 
 

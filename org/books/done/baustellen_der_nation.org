@@ -790,6 +790,8 @@ Stück geschlossen werden. Die Initiative "taxmenow" bringt es auf den Punkt:
 "Vermögensungleichheit, wie sie heute existiert, untergräbt die Demokratie und schadet der
 Gesellschaft."
 #+end_quote
+*** Links
+- 2025-08-28 ◦ [[https://jacobin.de/artikel/martyna-linartas-ungleichheit-erbengesellschaft-vermoegensteuer-erbschaftssteuer-grunderbe][»Wir leben in einer Erbengesellschaft, keiner Leistungsgesellschaft« | JACOBIN Magazin]]
 * Die Bildungsungerechtigkeit in Deutschland
 *** Bildung als Glücksspiel: Die ungleichen Startchancen
 :PROPERTIES:
