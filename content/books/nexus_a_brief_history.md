@@ -558,15 +558,18 @@ Key quote (p. 174):
     -   These three systems watch each other to prevent anyone from challenging central power
     -   Going against the center becomes very risky because everyone is being watched
 
-Chernobyl example (p. 175):
+
+### Chernobyl example (p. 175): {#chernobyl-example--p-dot-175}
 
 > For example, when the Chernobyl nuclear reactor exploded on April 26, 1986, Soviet authorities suppressed all news of the disaster. Both Soviet citizens and foreign countries were kept oblivious of the danger, and so took no steps to protect themselves from radiation. When some Soviet officials in Chernobyl and the nearby town of Pripyat requested to immediately evacuate nearby population centers, their superiors' chief concern was to avoid the spread of alarming news, so they not only forbade evacuation but also cut the phone lines and warned employees in the nuclear facility not to talk about the disaster.
 
-Questions and trouble (p. 176):
+
+### Questions and trouble (p. 176): {#questions-and-trouble--p-dot-176}
 
 > In 2019, I went on a tour of Chernobyl. The Ukrainian guide who explained what led to the nuclear accident said something that stuck in my mind. **'Americans grow up with the idea that questions lead to answers,' he said. 'But Soviet citizens grew up with the idea that questions lead to trouble.'**
 
-Soviet Kulak campaign (p. 167):
+
+### Soviet Kulak campaign (p. 167): {#soviet-kulak-campaign--p-dot-167}
 
 <details>
 <summary>Original quote</summary>
@@ -593,7 +596,8 @@ Soviet Kulak campaign (p. 167):
     -   Stalin's people said kulaks were destroying the economy on purpose
     -   Both groups invented enemies to explain real problems they couldn't fix
 
-Kulak identification (p. 168):
+
+### Kulak identification (p. 168): {#kulak-identification--p-dot-168}
 
 <details>
 <summary>Original quote</summary>
@@ -619,7 +623,8 @@ Kulak identification (p. 168):
     -   Anyone the community saw as disposable
     -   This was similar to how people picked "witches" in old Europe
 
--   Intersubjective labels (p. 170):
+
+### Intersubjective labels (p. 170): {#intersubjective-labels--p-dot-170}
 
 <details>
 <summary>Original quote</summary>
@@ -644,15 +649,18 @@ Kulak identification (p. 168):
     -   Even though the label was completely fake
     -   The made-up category still affected how people were treated
 
--   Family control joke (p. 171):
+
+### Family control joke (p. 171): {#family-control-joke--p-dot-171}
 
 > The Soviet attempt to control the family was reflected in a dark joke told in Stalin's day. Stalin visits a factory undercover, and conversing with a worker, he asks the man, 'Who is your father?' 'Stalin,' replies the worker. 'Who is your mother?' 'The Soviet Union,' the man responds. 'And what do you want to be?' 'An orphan.' At the time you could easily lose your liberty or your life for telling this joke, even if you told it in your own home to your closest family members.
 
-Revolutionary parties (p. 173):
+
+### Revolutionary parties (p. 173): {#revolutionary-parties--p-dot-173}
 
 > Unlike premodern churches, which developed slowly over many centuries and therefore tended to be conservative and suspicious of rapid changes, modern totalitarian parties like the Nazi Party and the Soviet Communist Party were organized within a single generation around the promise to quickly revolutionize society. They didn't have centuries-old traditions and structures to defend. When their leaders conceived some ambitious plan to smash existing traditions and structures, party members typically fell in line.
 
-Stalin's death (p. 180):
+
+### Stalin's death (p. 180): {#stalin-s-death--p-dot-180}
 
 <details>
 <summary>Original quote</summary>
