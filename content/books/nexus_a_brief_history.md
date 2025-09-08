@@ -119,6 +119,10 @@ Intelligence vs. Consciousness (p. 194):
 
 Unfathomability (p. 304):
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > Second, move 37 demonstrated the unfathomability of AI. Even after AlphaGo played it to
 > achieve victory, Suleyman and his team couldn't explain how AlphaGo decided to play it.
 > Even if a court had ordered DeepMind to provide Lee Sedol with an explanation, nobody
@@ -132,6 +136,22 @@ Unfathomability (p. 304):
 > prediction. Engineers can't peer beneath the hood and easily explain in granular detail
 > what caused something to happen. GPT-4, AlphaGo, and the rest are black boxes, their
 > outputs and decisions based on opaque and impossibly intricate chains of minute signals.'
+</div>
+</details>
+
+-   AlphaGo's move 37 showed how mysterious AI can be
+    -   Even the people who made it couldn't explain why it chose that move
+    -   Not even a court order could force them to explain it because nobody actually knew
+
+-   We're facing a new problem with AI systems
+    -   In the past, inventors could always explain how their creations worked
+    -   Now many technologies are too complex for any single person to fully understand
+    -   This is especially true for AI systems
+
+-   Modern AI works like black boxes
+    -   You can't trace through the steps to see why AI made a specific choice
+    -   Engineers can't look inside and explain exactly what caused something to happen
+    -   Systems like GPT-4 and AlphaGo make decisions through incredibly complex chains of tiny signals that we can't follow
 
 
 ## Information networks and social reality {#information-networks-and-social-reality}
@@ -202,7 +222,7 @@ Evolutionary adaptation (p. 62):
 > very large quantities of information when they are shaped into a story.
 
 
-## Populism and Information Warfare {#populism-and-information-warfare}
+## Populism and information warfare {#populism-and-information-warfare}
 
 Information as Weapon Populist movements view information primarily as a tool for power
 rather than truth-seeking, undermining democratic discourse.
@@ -319,7 +339,7 @@ Simplification appeal (p. 139):
 > would ever be inspired by the value of truth or justice to correct itself.
 
 
-## Democratic Principles and Challenges {#democratic-principles-and-challenges}
+## Democratic principles and challenges {#democratic-principles-and-challenges}
 
 Democracy vs. Populism Democracy requires complex institutional checks rather than
 simple majority rule, distinguishing it from populist conceptions of "**the will of the
@@ -367,7 +387,7 @@ Genocide example (p. 130):
 Rights baskets (p. 131):
 
 <details>
-<summary>Zitat</summary>
+<summary>Original quote</summary>
 <div class="details">
 
 > But in a democracy, there are _two baskets_ of rights that are protected from the majority's
@@ -436,7 +456,7 @@ Scale problems (p. 145):
 Network changes (p. 311):
 
 <details>
-<summary>Zitat</summary>
+<summary>Original quote</summary>
 <div class="details">
 
 > Before the advent of newspapers, radios, and other modern information technology, no large-scale society managed to combine free debates with institutional trust, so large-scale democracy was impossible. Now, with the rise of the new computer network, might large-scale democracy again become impossible? One difficulty is that the computer network makes it easier to join the debate. In the past, organizations like newspapers, radio stations, and established political parties acted as gatekeepers, deciding who was heard in the public sphere. Social media undermined the power of these gatekeepers, leading to a more open but also more anarchical public conversation. Whenever new groups join the conversation, they bring with them new viewpoints and interests, and often The rules of discussion must be negotiated anew. This is a potentially positive development, one that can lead to a more inclusive democratic system. After all, correcting previous biases and allowing previously disenfranchised people to join the public discussion is a vital part of democracy. However, in the short term this creates disturbances and disharmony. If no agreement is reached on how to conduct the public debate and how to reach decisions, the result is anarchy rather than democracy.
@@ -470,7 +490,7 @@ Network changes (p. 311):
 AI Manipulation (p. 312):
 
 <details>
-<summary>Zitat</summary>
+<summary>Original quote</summary>
 <div class="details">
 
 > If I engage online in a political debate with an AI, it is a _waste of time for me to try
@@ -507,14 +527,14 @@ AI Manipulation (p. 312):
     -   Scale of intimate manipulation has unprecedented potential reach
 
 
-## Totalitarian Information Control {#totalitarian-information-control}
+## Totalitarian information control {#totalitarian-information-control}
 
 Totalitarian systems concentrate information flow through **central hubs**, while democratic systems encourage **distributed information** processing.
 
 Key quote (p. 174):
 
 <details>
-<summary>Zitat</summary>
+<summary>Original quote</summary>
 <div class="details">
 
 > We see then that the new information technology of the late modern era gave rise to both large-scale democracy and large-scale totalitarianism. But there were crucial differences between how the two systems used information technology. As noted earlier, democracy encourages information to flow through many independent channels rather than only through the center, and it allows many independent nodes to process the information and make decisions by themselves. Information freely circulates between private businesses, private media organizations, municipalities, sports associations, charities, families, and individuals—without ever passing through the office of a government minister. In contrast, totalitarianism wants all information to pass through the central hub and doesn't want any independent institutions making decisions on their own. True, totalitarianism does have its tripartite apparatus of government, party, and secret police. But the whole point of this parallel apparatus is to prevent the emergence of any independent power that might challenge the center. When government officials, party members, and secret police agents constantly keep tabs on one another, opposing the center is extremely dangerous.
@@ -549,7 +569,7 @@ Questions and trouble (p. 176):
 Soviet Kulak campaign (p. 167):
 
 <details>
-<summary>Zitat</summary>
+<summary>Original quote</summary>
 <div class="details">
 
 > When their efforts to collectivize farming encountered resistance and led to economic disaster, Moscow bureaucrats and mythmakers took a page from Kramer's Hammer of the Witches. I don't wish to imply that the Soviets actually read the book, but they too invented a global conspiracy and created an entire nonexistent category of enemies. In the 1930s Soviet authorities repeatedly blamed the disasters afflicting the Soviet economy on a counterrevolutionary cabal whose chief agents were the 'kulaks,' or capitalist farmers. Just as in Kramer's imagination witches serving Satan conjured hailstorms that destroyed crops, so in the Stalinist imagination kulaks beholden to global capitalism sabotaged the Soviet economy.
@@ -576,7 +596,7 @@ Soviet Kulak campaign (p. 167):
 Kulak identification (p. 168):
 
 <details>
-<summary>Zitat</summary>
+<summary>Original quote</summary>
 <div class="details">
 
 > How exactly did Soviet officials tell who was a kulak? In some villages, local party members made a conscientious effort to identify kulaks by objective measures, such as the amount of property they owned. It was often the most hardworking and efficient farmers who were stigmatized and expelled. In some villages local communists used the opportunity to get rid of their personal enemies. Some villages simply drew lots on who would be considered a kulak. Other villages held communal meetings to vote on the matter and often chose isolated farmers, widows, old people, and other 'expendables' (exactly the sorts of people who in early modern Europe were most likely to be branded witches)
@@ -599,10 +619,10 @@ Kulak identification (p. 168):
     -   Anyone the community saw as disposable
     -   This was similar to how people picked "witches" in old Europe
 
-Intersubjective labels (p. 170):
+-   Intersubjective labels (p. 170):
 
 <details>
-<summary>Zitat</summary>
+<summary>Original quote</summary>
 <div class="details">
 
 > Like the ten-year-old 'witch' Hansel Pappenheimer, the eleven-year-old 'kulak' Antonina Golovina found herself cast into an intersubjective category invented by human mythmakers and imposed by ubiquitous bureaucrats. The mountains of information collected by Soviet bureaucrats about the kulaks wasn't the objective truth about them, but it imposed a new intersubjective Soviet truth. Knowing that someone was labeled a kulak was a very important thing to know about a Soviet person, even though the label was entirely bogus.
@@ -624,7 +644,7 @@ Intersubjective labels (p. 170):
     -   Even though the label was completely fake
     -   The made-up category still affected how people were treated
 
-Family control joke (p. 171):
+-   Family control joke (p. 171):
 
 > The Soviet attempt to control the family was reflected in a dark joke told in Stalin's day. Stalin visits a factory undercover, and conversing with a worker, he asks the man, 'Who is your father?' 'Stalin,' replies the worker. 'Who is your mother?' 'The Soviet Union,' the man responds. 'And what do you want to be?' 'An orphan.' At the time you could easily lose your liberty or your life for telling this joke, even if you told it in your own home to your closest family members.
 
@@ -635,7 +655,7 @@ Revolutionary parties (p. 173):
 Stalin's death (p. 180):
 
 <details>
-<summary>Zitat</summary>
+<summary>Original quote</summary>
 <div class="details">
 
 > In 1951–53 the U.S.S.R. experienced yet another witch hunt. Soviet mythmakers fabricated a conspiracy theory that Jewish doctors were systematically murdering leading regime members, under the guise of giving them medical care. The theory alleged that the doctors were the agents of a global American-Zionist plot, working in collaboration with traitors in the secret police. By early 1953 hundreds of doctors and secret police officials, including the head of the secret police himself, were arrested, tortured, and forced to name accomplices. The conspiracy theory—a Soviet twist on the Protocols of the Elders of Zion—merged with age-old blood-libel accusations, and rumors began circulating that Jewish doctors were not just murdering Soviet leaders but also killing babies in hospitals. Since a large proportion of Soviet doctors were Jews, people began fearing doctors in general. Just as the hysteria about 'the doctors' plot' was reaching its climax, Stalin had a stroke on March 1, 1953. He collapsed in his dacha, wet himself, and lay for hours in his soiled pajamas, unable to call for help. At around 10:30 p.m. a guard found the courage to enter the inner sanctum of world communism, where he discovered the leader on the floor. By 3:00 a.m. on March 2, Politburo members arrived at the dacha and debated what to do. For several hours more, nobody dared call a doctor. What if Stalin were to regain consciousness, and open his eyes only to see a doctor—a doctor!—hovering over his bed? He would surely think this was a plot to murder him and would have those responsible shot. Stalin's personal physician wasn't present, because he was at the time in a basement cell of the Lubyanka prison—undergoing torture for suggesting that Stalin needed more rest. By the time the Politburo members decided to bring in medical experts, the danger had passed. Stalin never woke up.
