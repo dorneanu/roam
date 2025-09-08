@@ -33,29 +33,29 @@ Harari argues that information's power lies not in its accuracy but in its abili
 forge human networks. Even false information can be highly effective at creating social
 formations.
 
-Supporting evidence (p. 37):
+-   Supporting evidence (p. 37):
 
-> Let us pause to digest the implications of this. Information is something that creates new
-> realities by connecting different points into a network. This still includes the view of
-> information as representation. Sometimes, a truthful representation of reality can connect
-> humans, as when 600 million people sat glued to their television sets in July 1969,
-> watching Neil Armstrong and Buzz Aldrin walking on the moon. The images on the screens
-> accurately represented what was happening 384,000 kilometers away, and seeing them gave
-> rise to feelings of awe, pride, and human brotherliness that helped connect people.
+    > Let us pause to digest the implications of this. Information is something that creates new
+    > realities by connecting different points into a network. This still includes the view of
+    > information as representation. Sometimes, a truthful representation of reality can connect
+    > humans, as when 600 million people sat glued to their television sets in July 1969,
+    > watching Neil Armstrong and Buzz Aldrin walking on the moon. The images on the screens
+    > accurately represented what was happening 384,000 kilometers away, and seeing them gave
+    > rise to feelings of awe, pride, and human brotherliness that helped connect people.
 
-Final principle (p. 39):
+-   Final principle (p. 39):
 
-> To conclude, **information sometimes represents reality, and sometimes doesn't. But it
-> always connects**. This is its fundamental characteristic. Therefore, when examining the
-> role of information in history, although it sometimes makes sense to ask 'How well does it
-> represent reality? Is it true or false?' **often the more crucial questions are 'How well
-> does it connect people? What new network does it create?'**
+    > To conclude, **information sometimes represents reality, and sometimes doesn't. But it
+    > always connects**. This is its fundamental characteristic. Therefore, when examining the
+    > role of information in history, although it sometimes makes sense to ask 'How well does it
+    > represent reality? Is it true or false?' **often the more crucial questions are 'How well
+    > does it connect people? What new network does it create?'**
 
-Naive view critique (p. 34):
+-   Naive view critique (p. 34):
 
-> If all information is an attempt to represent reality, then as the amount of information
-> in the world grows, we can expect the flood of information to expose the occasional lies
-> and errors and to ultimately provide us with a more truthful understanding of the world.
+    > If all information is an attempt to represent reality, then as the amount of information
+    > in the world grows, we can expect the flood of information to expose the occasional lies
+    > and errors and to ultimately provide us with a more truthful understanding of the world.
 
 
 ## AI as unprecedented technology {#ai-as-unprecedented-technology}
@@ -78,7 +78,8 @@ This distinction between tools and agents marks a fundamental shift in human-tec
 relations. Previous technologies extended human capabilities while keeping humans in
 control of decisions.
 
-Alien intelligence concept (p. 208):
+
+### Alien intelligence concept (p. 208): {#alien-intelligence-concept--p-dot-208}
 
 > Traditionally, AI has been an abbreviation for 'artificial intelligence.' But for reasons
 > already evident from the previous discussion, it is perhaps better to think of it as
@@ -96,7 +97,8 @@ Historical magnitude (p. 360):
 > printing press, or even writing, because AI is the first technology that is capable of
 > making decisions and generating ideas by itself.
 
-Intelligence vs. Consciousness (p. 194):
+
+### Intelligence vs. Consciousness (p. 194): {#intelligence-vs-dot-consciousness--p-dot-194}
 
 -   **Intelligence**
     -   Ability to attain goals
@@ -117,7 +119,8 @@ Intelligence vs. Consciousness (p. 194):
 > engineers rely on their feelings in order to make decisions, solve problems, and attain
 > their goals.
 
-Unfathomability (p. 304):
+
+### Unfathomability (p. 304): {#unfathomability--p-dot-304}
 
 <details>
 <summary>Zitat</summary>
@@ -188,38 +191,38 @@ Key Quote (p. 46):
 This three-level framework explains how human cooperation scales beyond personal
 relationships through shared narratives that create binding social realities.
 
-Practical application (p. 48):
+-   Practical application (p. 48):
 
-> Disagreements about the existence of states cannot be resolved by an objective test, such
-> as a DNA survey or a sonar scan. Unlike animals, states are not an objective reality. **When
-> we ask whether a particular state exists, we are raising a question about intersubjective
-> reality. If enough people agree that a particular state exists, then it does**. It can then
-> do things like sign legally binding agreements with other states as well as NGOs and
-> private corporations.
+    > Disagreements about the existence of states cannot be resolved by an objective test, such
+    > as a DNA survey or a sonar scan. Unlike animals, states are not an objective reality. **When
+    > we ask whether a particular state exists, we are raising a question about intersubjective
+    > reality. If enough people agree that a particular state exists, then it does**. It can then
+    > do things like sign legally binding agreements with other states as well as NGOs and
+    > private corporations.
 
-Human cooperation (p. 41):
+-   Human cooperation (p. 41):
 
-> **We Sapiens rule the world not because we are so wise but because we are the only animals
-> that can cooperate flexibly in large numbers**
+    > **We Sapiens rule the world not because we are so wise but because we are the only animals
+    > that can cooperate flexibly in large numbers**
 
-Story networks (p. 41):
+-   Story networks (p. 41):
 
-> Instead of building a network from human-to-human chains alone—as the Neanderthals, for
-> example, did — stories provided Homo sapiens with a new type of chain: human-to-story
-> chains. **In order to cooperate, Sapiens no longer had to know each other personally; they
-> just had to know the same story. And the same story can be familiar to billions of
-> individuals. A story can thereby serve like a central connector, with an unlimited number
-> of outlets into which an unlimited number of people can plug**.
+    > Instead of building a network from human-to-human chains alone—as the Neanderthals, for
+    > example, did — stories provided Homo sapiens with a new type of chain: human-to-story
+    > chains. **In order to cooperate, Sapiens no longer had to know each other personally; they
+    > just had to know the same story. And the same story can be familiar to billions of
+    > individuals. A story can thereby serve like a central connector, with an unlimited number
+    > of outlets into which an unlimited number of people can plug**.
 
-Ideological power (p. 53):
+-   Ideological power (p. 53):
 
-> If you build a bomb and ignore the facts of physics, the bomb will not explode. **But if you
-> build an ideology and ignore the facts, the ideology may still prove explosive**.
+    > If you build a bomb and ignore the facts of physics, the bomb will not explode. **But if you
+    > build an ideology and ignore the facts, the ideology may still prove explosive**.
 
-Evolutionary adaptation (p. 62):
+-   Evolutionary adaptation (p. 62):
 
-> Evolution has adapted our brains to be good at absorbing, retaining, and processing even
-> very large quantities of information when they are shaped into a story.
+    > Evolution has adapted our brains to be good at absorbing, retaining, and processing even
+    > very large quantities of information when they are shaped into a story.
 
 
 ## Populism and information warfare {#populism-and-information-warfare}
@@ -267,14 +270,16 @@ Key Quote (p. 19):
 This weaponization of information creates a crisis of trust in institutions and shared
 reality, making democratic consensus increasingly difficult.
 
-Binary worldview (p. 20):
+
+### Binary worldview (p. 20) {#binary-worldview--p-dot-20}
 
 > **This binary interpretation of history implies that every human interaction is a power
 > struggle between oppressors and oppressed. Accordingly, whenever anyone says anything,
 > the question to ask isn't, "What is being said? Is it true?" but rather, "Who is saying
 > this? Whose privileges does it serve?"**
 
-Balanced view (p. 23):
+
+### Balanced view (p. 23) {#balanced-view--p-dot-23}
 
 > If we wish to avoid relinquishing power to a charismatic leader or an inscrutable AI, we
 > must first gain a better understanding of **what information is**, how it helps to build
@@ -285,7 +290,8 @@ Balanced view (p. 23):
 > these extremes for a more nuanced and hopeful view of human information networks and of
 > our ability to handle power wisely.
 
-Mystical people (p. 136):
+
+### Mystical people (p. 136) {#mystical-people--p-dot-136}
 
 > A fundamental part of this populist credo is the belief that "the people" is not a
 > collection of flesh-and-blood individuals with various interests and opinions, but
@@ -295,7 +301,8 @@ Mystical people (p. 136):
 > One Leader." **Nazi ideology posited that the Volk (people) had a single will**, whose sole
 > authentic representative was the Führer (leader)
 
-Populist definition (p. 136):
+
+### Populist definition (p. 136) {#populist-definition--p-dot-136}
 
 > The term "populism" derives from the Latin populus, which means "the people." In
 > democracies, **"the people" is considered the sole legitimate source of political
@@ -305,14 +312,16 @@ Populist definition (p. 136):
 > power. In a curious political alchemy, populists manage to base a totalitarian pursuit
 > of unlimited power on a seemingly impeccable democratic principle.
 
-Elite opposition (p. 137):
+
+### Elite opposition (p. 137) {#elite-opposition--p-dot-137}
 
 > **However, many populist parties and politicians deny that "the people" might contain a
 > diversity of opinions and interest groups. They insist that the real people has only one
 > will and that they alone represent this will. In contrast, their political rivals—even
 > when the latter enjoy substantial popular support—are depicted as "alien elites."**
 
-Authority monopoly (p. 138):
+
+### Authority monopoly (p. 138) {#authority-monopoly--p-dot-138}
 
 > Populism undermines democracy in another, more subtle, but equally dangerous way. Having
 > claimed that they alone represent the people, **populists argue that the people is not
@@ -324,7 +333,8 @@ Authority monopoly (p. 138):
 > and universities. By taking the democratic principle of "people's power" to its extreme,
 > populists turn totalitarian.
 
-Simplification appeal (p. 139):
+
+### Simplification appeal (p. 139) {#simplification-appeal--p-dot-139}
 
 > In all, it's a rather sordid view of humanity, but two things nevertheless make it
 > appealing to many. First, since it reduces all interactions to power struggles, it
@@ -559,17 +569,17 @@ Key quote (p. 174):
     -   Going against the center becomes very risky because everyone is being watched
 
 
-### Chernobyl example (p. 175): {#chernobyl-example--p-dot-175}
+### Chernobyl example (p. 175) {#chernobyl-example--p-dot-175}
 
 > For example, when the Chernobyl nuclear reactor exploded on April 26, 1986, Soviet authorities suppressed all news of the disaster. Both Soviet citizens and foreign countries were kept oblivious of the danger, and so took no steps to protect themselves from radiation. When some Soviet officials in Chernobyl and the nearby town of Pripyat requested to immediately evacuate nearby population centers, their superiors' chief concern was to avoid the spread of alarming news, so they not only forbade evacuation but also cut the phone lines and warned employees in the nuclear facility not to talk about the disaster.
 
 
-### Questions and trouble (p. 176): {#questions-and-trouble--p-dot-176}
+### Questions and trouble (p. 176) {#questions-and-trouble--p-dot-176}
 
 > In 2019, I went on a tour of Chernobyl. The Ukrainian guide who explained what led to the nuclear accident said something that stuck in my mind. **'Americans grow up with the idea that questions lead to answers,' he said. 'But Soviet citizens grew up with the idea that questions lead to trouble.'**
 
 
-### Soviet Kulak campaign (p. 167): {#soviet-kulak-campaign--p-dot-167}
+### Soviet Kulak campaign (p. 167) {#soviet-kulak-campaign--p-dot-167}
 
 <details>
 <summary>Original quote</summary>
@@ -597,7 +607,7 @@ Key quote (p. 174):
     -   Both groups invented enemies to explain real problems they couldn't fix
 
 
-### Kulak identification (p. 168): {#kulak-identification--p-dot-168}
+### Kulak identification (p. 168) {#kulak-identification--p-dot-168}
 
 <details>
 <summary>Original quote</summary>
@@ -624,7 +634,7 @@ Key quote (p. 174):
     -   This was similar to how people picked "witches" in old Europe
 
 
-### Intersubjective labels (p. 170): {#intersubjective-labels--p-dot-170}
+### Intersubjective labels (p. 170) {#intersubjective-labels--p-dot-170}
 
 <details>
 <summary>Original quote</summary>
@@ -650,17 +660,17 @@ Key quote (p. 174):
     -   The made-up category still affected how people were treated
 
 
-### Family control joke (p. 171): {#family-control-joke--p-dot-171}
+### Family control joke (p. 171) {#family-control-joke--p-dot-171}
 
 > The Soviet attempt to control the family was reflected in a dark joke told in Stalin's day. Stalin visits a factory undercover, and conversing with a worker, he asks the man, 'Who is your father?' 'Stalin,' replies the worker. 'Who is your mother?' 'The Soviet Union,' the man responds. 'And what do you want to be?' 'An orphan.' At the time you could easily lose your liberty or your life for telling this joke, even if you told it in your own home to your closest family members.
 
 
-### Revolutionary parties (p. 173): {#revolutionary-parties--p-dot-173}
+### Revolutionary parties (p. 173) {#revolutionary-parties--p-dot-173}
 
 > Unlike premodern churches, which developed slowly over many centuries and therefore tended to be conservative and suspicious of rapid changes, modern totalitarian parties like the Nazi Party and the Soviet Communist Party were organized within a single generation around the promise to quickly revolutionize society. They didn't have centuries-old traditions and structures to defend. When their leaders conceived some ambitious plan to smash existing traditions and structures, party members typically fell in line.
 
 
-### Stalin's death (p. 180): {#stalin-s-death--p-dot-180}
+### Stalin's death (p. 180) {#stalin-s-death--p-dot-180}
 
 <details>
 <summary>Original quote</summary>
