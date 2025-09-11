@@ -8,7 +8,7 @@ draft = false
 
 A brief history of information networks from the stone age to AI
 
-👉 <https://www.goodreads.com/book/show/204927599-nexus?from_search=true&from_srp=true&qid=ZVpu0jWMeE&rank=1>
+👉 [Goodreads](https://www.goodreads.com/book/show/204927599-nexus?from_search=true&from_srp=true&qid=ZVpu0jWMeE&rank=1)
 
 
 ## Information as connection vs. representation {#information-as-connection-vs-dot-representation}
@@ -81,15 +81,35 @@ control of decisions.
 
 ### Alien intelligence concept (p. 208): {#alien-intelligence-concept--p-dot-208}
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > Traditionally, AI has been an abbreviation for 'artificial intelligence.' But for reasons
 > already evident from the previous discussion, it is perhaps better to think of it as
-> 'alien intelligence.' **As AI evolves, it becomes less artificial (in the sense of
+> 'alien intelligence.' As AI evolves, it becomes less artificial (in the sense of
 > depending on human designs) and more alien. It should also be noted that people often
-> define and evaluate AI through the metric of 'human-level intelligence,'** and there is
+> define and evaluate AI through the metric of 'human-level intelligence,' and there is
 > much debate about when we can expect AIs to reach 'human-level intelligence.' The use of
 > this metric, however, is deeply confusing. It is like defining and evaluating airplanes
-> through the metric of 'bird-level flight.' **AI isn't progressing toward human-level
-> intelligence**. It is evolving an entirely different type of intelligence.
+> through the metric of 'bird-level flight.' AI isn't progressing toward human-level
+> intelligence. It is evolving an entirely different type of intelligence.
+</div>
+</details>
+
+-   We should think of AI as "alien intelligence" instead of "artificial intelligence"
+    -   AI becomes less artificial as it grows
+    -   It depends less on human designs over time
+    -   It becomes more alien-like in how it works
+
+-   Using "human-level intelligence" as a measurement for AI doesn't make sense
+    -   People often debate when AI will reach human-level thinking
+    -   This is confusing because it's the wrong way to measure AI
+    -   It's like judging airplanes by how well they fly like birds
+
+-   AI is not trying to copy human intelligence
+    -   It's developing its own completely different kind of intelligence
+    -   It's evolving in its own unique direction
 
 Historical magnitude (p. 360):
 
@@ -193,12 +213,12 @@ relationships through shared narratives that create binding social realities.
 
 -   Practical application (p. 48):
 
-    > Disagreements about the existence of states cannot be resolved by an objective test, such
-    > as a DNA survey or a sonar scan. Unlike animals, states are not an objective reality. **When
-    > we ask whether a particular state exists, we are raising a question about intersubjective
-    > reality. If enough people agree that a particular state exists, then it does**. It can then
-    > do things like sign legally binding agreements with other states as well as NGOs and
-    > private corporations.
+    > Disagreements about the existence of states cannot be resolved by an objective test,
+    > such as a DNA survey or a sonar scan. Unlike animals, states are not an objective
+    > reality. **When we ask whether a particular state exists, we are raising a question about
+    > intersubjective reality. If enough people agree that a particular state exists, then it
+    > does**. It can then do things like sign legally binding agreements with other states as
+    > well as NGOs and private corporations.
 
 -   Human cooperation (p. 41):
 
@@ -209,15 +229,15 @@ relationships through shared narratives that create binding social realities.
 
     > Instead of building a network from human-to-human chains alone—as the Neanderthals, for
     > example, did — stories provided Homo sapiens with a new type of chain: human-to-story
-    > chains. **In order to cooperate, Sapiens no longer had to know each other personally; they
-    > just had to know the same story. And the same story can be familiar to billions of
-    > individuals. A story can thereby serve like a central connector, with an unlimited number
-    > of outlets into which an unlimited number of people can plug**.
+    > chains. **In order to cooperate, Sapiens no longer had to know each other personally;
+    > they just had to know the same story. And the same story can be familiar to billions of
+    > individuals. A story can thereby serve like a central connector, with an unlimited
+    > number of outlets into which an unlimited number of people can plug**.
 
 -   Ideological power (p. 53):
 
-    > If you build a bomb and ignore the facts of physics, the bomb will not explode. **But if you
-    > build an ideology and ignore the facts, the ideology may still prove explosive**.
+    > If you build a bomb and ignore the facts of physics, the bomb will not explode. **But if
+    > you build an ideology and ignore the facts, the ideology may still prove explosive**.
 
 -   Evolutionary adaptation (p. 62):
 
@@ -230,23 +250,9 @@ relationships through shared narratives that create binding social realities.
 Information as Weapon Populist movements view information primarily as a tool for power
 rather than truth-seeking, undermining democratic discourse.
 
-Key Quote (p. 19):
-
--   **Core populist claims:**
-    -   Institutions (media, academia, government) deliberately spread disinformation for power
-    -   These elites don't seek truth but only self-interest at "the people's" expense
-
--   **Information as weapon:**
-    -   Extreme populism rejects objective truth entirely
-    -   Everyone has "their own truth" used to defeat opponents
-    -   Power becomes the only reality; all interactions are power struggles
-    -   Claims about truth/justice are just power plays
-
-**Consequences:**
-
--   Language itself breaks down
--   Words like "facts," "accurate," and "truthful" lose shared meaning
--   Any truth claim prompts the question: "Whose truth?"
+<details>
+<summary>Zitat</summary>
+<div class="details">
 
 > gather information and discover truth are simply lying. Bureaucrats, judges, doctors,
 > mainstream journalists, and academic experts are elite cabals that have no interest in the
@@ -266,6 +272,32 @@ Key Quote (p. 19):
 > "truthful" become elusive. Such words are not taken as pointing to a common objective
 > reality. Rather, any talk of "facts" or "truth" is bound to prompt at least some people to
 > ask, "Whose facts and whose truth are you referring to?"
+</div>
+</details>
+
+-   Populists don't trust authority figures
+    -   They think bureaucrats, judges, doctors, journalists, and academic experts are lying
+    -   These groups supposedly spread false information on purpose to gain power for themselves
+    -   They claim these elites work against regular people
+
+-   Populism as a way of thinking existed before Trump
+    -   Trump and QAnon are recent examples from the late 2010s in America
+    -   This anti-establishment view has appeared throughout history
+    -   It will likely show up again in the future
+
+-   Populists see information as a weapon
+    -   In extreme cases, they believe there's no real truth at all
+    -   Everyone has their own version of truth that they use to fight others
+    -   Power is the only thing that matters in this view
+
+-   Everything becomes about power struggles
+    -   All human interactions are seen as fights for control
+    -   When people claim to care about truth or justice, populists think it's just a trick to get power
+
+-   This view damages language itself
+    -   Words like "facts," "accurate," and "truthful" lose their meaning
+    -   These words stop pointing to shared reality
+    -   When someone mentions facts or truth, people ask "whose facts?" and "whose truth?"
 
 This weaponization of information creates a crisis of trust in institutions and shared
 reality, making democratic consensus increasingly difficult.
@@ -336,17 +368,39 @@ reality, making democratic consensus increasingly difficult.
 
 ### Simplification appeal (p. 139) {#simplification-appeal--p-dot-139}
 
+<details>
+<summary>Zitat</summary>
+<div class="details">
+
 > In all, it's a rather sordid view of humanity, but two things nevertheless make it
 > appealing to many. First, since it reduces all interactions to power struggles, it
 > simplifies reality and makes events like wars, economic crises, and natural disasters
-> easy to understand. **Anything that happens—even a pandemic—is about elites pursuing
-> power. Second, the populist view is attractive because it is sometimes correct**. **Every
-> human institution is indeed fallible and suffers from some level of corruption**. Some
+> easy to understand. Anything that happens—even a pandemic—is about elites pursuing
+> power. Second, the populist view is attractive because it is sometimes correct. Every
+> human institution is indeed fallible and suffers from some level of corruption. Some
 > judges do take bribes. Some journalists do intentionally mislead the public. Academic
 > disciplines are occasionally plagued by bias and nepotism. That is why every institution
 > needs self-correcting mechanisms. But since populists are convinced that power is the
 > only reality, they cannot accept that a court, a media outlet, or an academic discipline
 > would ever be inspired by the value of truth or justice to correct itself.
+</div>
+</details>
+
+-   The populist worldview sees humanity in a dark way but attracts people for two main reasons
+    -   It makes complex events simple to understand by saying everything is just about power
+        -   Wars, economic problems, and disasters all get explained the same way
+        -   Even pandemics become about elites wanting more control
+    -   It contains some truth that makes it believable
+        -   All human organizations do have flaws and some corruption
+        -   Some judges really do take bribes
+        -   Some reporters really do lie to people on purpose
+        -   Schools and universities sometimes play favorites or show bias
+
+-   The problem with the populist view is what it can't accept
+    -   It thinks power is the only thing that matters
+    -   It can't believe that courts, news outlets, or schools would ever try to fix themselves
+    -   It refuses to see that organizations might actually care about truth or fairness
+    -   This is why institutions need ways to correct their own mistakes
 
 
 ## Democratic principles and challenges {#democratic-principles-and-challenges}
@@ -366,7 +420,8 @@ people**."
 True democracy balances **central authority** with individual freedom through
 **institutional safeguards** and **self-correcting mechanisms**.
 
-Fallibility Principle (p. 129):
+
+### Fallibility Principle (p. 129): {#fallibility-principle--p-dot-129}
 
 > Another crucial characteristic of democracies is that they assume everyone is **fallible**.
 > Therefore, **while democracies give the center the authority to make some vital decisions,
@@ -376,7 +431,8 @@ Fallibility Principle (p. 129):
 > errors, such as holding regular elections, protecting the freedom of the press, and
 > separating the executive, legislative, and judicial branches of government**.
 
-Strongman tactics (p. 130):
+
+### Strongman tactics (p. 130): {#strongman-tactics--p-dot-130}
 
 > Of course, most assaults on democracy are more subtle. The careers of strongmen like
 > Vladimir Putin, Viktor Orbán, Recep Tayyip Erdoğan, Rodrigo Duterte, Jair Bolsonaro, and
@@ -384,7 +440,8 @@ Strongman tactics (p. 130):
 > use his power to undermine democracy. **As Erdoğan once put it, "Democracy is like a tram.
 > You ride it until you arrive at your destination, then you step off."**
 
-Genocide example (p. 130):
+
+### Genocide example (p. 130): {#genocide-example--p-dot-130}
 
 > Suppose that in a free and fair election 51 percent of voters choose a government that
 > subsequently sends 1 percent of voters to be exterminated in death camps, because they
@@ -394,7 +451,8 @@ Genocide example (p. 130):
 > not a system in which a majority of any size can decide to exterminate unpopular
 > minorities; it is a system in which there are clear limits on the power of the center**.
 
-Rights baskets (p. 131):
+
+### Rights baskets (p. 131): {#rights-baskets--p-dot-131}
 
 <details>
 <summary>Original quote</summary>
@@ -430,57 +488,76 @@ Rights baskets (p. 131):
         -   Creates mechanisms for democratic accountability and change
 -   These rights are primary targets for authoritarian leaders seeking to undermine democracy
 
-Democracy: Core definition (p. 131):
+
+### Democracy: Core definition (p. 131): {#democracy-core-definition--p-dot-131}
 
 > However, **democracy doesn't mean majority rule**; rather, **it means freedom and equality for
 > all**. Democracy is a system that guarantees everyone certain liberties, which even the
 > majority cannot take away.
 
-Elections and truth (p. 133):
+-   Elections and truth (p. 133):
 
-> It is particularly crucial to remember that elections are not a method for discovering
-> truth. Rather, they are a method for maintaining order by adjudicating between people's
-> conflicting desires. **Elections establish what the majority of people desire, rather than
-> what the truth is. And people often desire the truth to be other than what it is.
-> Democratic netw
-> \#+BEGIN_QUOTE
-> If all this sounds complicated, it is \*because democracy should be complicated**.
-> **Simplicity is a characteristic of dictatorial information networks in which the center
-> dictates everything and everybody silently obeys**. It's easy to follow this dictatorial
-> monologue. **In contrast, democracy is a conversation with numerous participants, many of
-> them talking at the same time. It can be hard to follow such a conversation**.
+    > It is particularly crucial to remember that elections are not a method for discovering
+    > truth. Rather, they are a method for maintaining order by adjudicating between people's
+    > conflicting desires. \*Elections establish what the majority of people desire, rather than
+    > what the truth is. And people often desire the truth to be other than what it is.
+    > Democratic netw
+    >
+    > **Simplicity is a characteristic of dictatorial information networks in which the center
+    > dictates everything and everybody silently obeys**. It's easy to follow this dictatorial
+    > monologue. **In contrast, democracy is a conversation with numerous participants, many of
+    > them talking at the same time. It can be hard to follow such a conversation**.
 
-Scale problems (p. 145):
+-   Scale problems (p. 145):
 
-> The key **misconception** here is **equating democracy with elections**. Tens of millions of
-> Roman citizens could theoretically vote for this or that imperial candidate. But the
-> real question is whether tens of millions of Romans could have held an ongoing
-> empire-wide political conversation. In present-day North Korea no democratic
-> conversation takes place because people aren't free to talk, yet we could well imagine a
-> situation when this freedom is guaranteed—as it is in South Korea. In the present-day
-> United States the democratic conversation is endangered by people's inability to listen
-> to and respect their political rivals, yet this can presumably still be fixed. By
-> contrast, in the Roman Empire there was simply no way to conduct or sustain a democratic
-> conversation, because the technological means to hold such a conversation did not exist.
+    > The key **misconception** here is **equating democracy with elections**. Tens of millions of
+    > Roman citizens could theoretically vote for this or that imperial candidate. But the
+    > real question is whether tens of millions of Romans could have held an ongoing
+    > empire-wide political conversation. In present-day North Korea no democratic
+    > conversation takes place because people aren't free to talk, yet we could well imagine a
+    > situation when this freedom is guaranteed—as it is in South Korea. In the present-day
+    > United States the democratic conversation is endangered by people's inability to listen
+    > to and respect their political rivals, yet this can presumably still be fixed. By
+    > contrast, in the Roman Empire there was simply no way to conduct or sustain a democratic
+    > conversation, because the technological means to hold such a conversation did not exist.
 
-Network changes (p. 311):
+
+### Network changes (p. 311): {#network-changes--p-dot-311}
 
 <details>
 <summary>Original quote</summary>
 <div class="details">
 
-> Before the advent of newspapers, radios, and other modern information technology, no large-scale society managed to combine free debates with institutional trust, so large-scale democracy was impossible. Now, with the rise of the new computer network, might large-scale democracy again become impossible? One difficulty is that the computer network makes it easier to join the debate. In the past, organizations like newspapers, radio stations, and established political parties acted as gatekeepers, deciding who was heard in the public sphere. Social media undermined the power of these gatekeepers, leading to a more open but also more anarchical public conversation. Whenever new groups join the conversation, they bring with them new viewpoints and interests, and often The rules of discussion must be negotiated anew. This is a potentially positive development, one that can lead to a more inclusive democratic system. After all, correcting previous biases and allowing previously disenfranchised people to join the public discussion is a vital part of democracy. However, in the short term this creates disturbances and disharmony. If no agreement is reached on how to conduct the public debate and how to reach decisions, the result is anarchy rather than democracy.
+\#+begin_quote Before the advent of newspapers, radios, and other modern information technology, no
+large-scale society managed to combine free debates with institutional trust, so
+large-scale democracy was impossible. Now, with the rise of the new computer network,
+might large-scale democracy again become impossible? One difficulty is that the computer
+network makes it easier to join the debate. In the past, organizations like newspapers,
+radio stations, and established political parties acted as gatekeepers, deciding who was
+heard in the public sphere. Social media undermined the power of these gatekeepers,
+leading to a more open but also more anarchical public conversation. Whenever new groups
+join the conversation, they bring with them new viewpoints and interests, and often The
+rules of discussion must be negotiated anew. This is a potentially positive development,
+one that can lead to a more inclusive democratic system. After all, correcting previous
+biases and allowing previously disenfranchised people to join the public discussion is a
+vital part of democracy. However, in the short term this creates disturbances and
+disharmony. If no agreement is reached on how to conduct the public debate and how to
+reach decisions, the result is anarchy rather than democracy. #+end_quote
 </div>
 </details>
 
 -   Historical context of democracy and information technology
-    -   Pre-modern societies could not achieve large-scale democracy due to inability to combine free debate with institutional trust
-    -   Modern information technology (newspapers, radio) enabled large-scale democracy for the first time
+    -   Pre-modern societies could not achieve large-scale democracy due to inability to
+        combine free debate with institutional trust
+    -   Modern information technology (newspapers, radio) enabled large-scale democracy for
+        the first time
 
 -   Current challenges posed by computer networks and social media
     -   Digital networks may threaten large-scale democracy by making participation too easy
-    -   Traditional gatekeepers (newspapers, radio stations, political parties) previously controlled public discourse
-    -   Social media has undermined these gatekeepers, creating more open but chaotic conversations
+    -   Traditional gatekeepers (newspapers, radio stations, political parties) previously
+        controlled public discourse
+    -   Social media has undermined these gatekeepers, creating more open but chaotic
+        conversations
 
 -   Impact of increased participation in public debate
     -   New groups bring diverse viewpoints and interests to discussions
@@ -494,10 +571,12 @@ Network changes (p. 311):
 
 -   Short-term risks and consequences
     -   Expanded participation creates immediate disturbances and disharmony
-    -   Without agreed-upon rules for debate and decision-making, anarchy may result instead of democracy
+    -   Without agreed-upon rules for debate and decision-making, anarchy may result instead
+        of democracy
     -   The challenge is establishing new frameworks for conducting public discourse
 
-AI Manipulation (p. 312):
+
+### AI Manipulation (p. 312): {#ai-manipulation--p-dot-312}
 
 <details>
 <summary>Original quote</summary>
@@ -508,11 +587,11 @@ AI Manipulation (p. 312):
 > politics, and it cannot vote in the elections_. But the more I talk with the AI, the
 > better it gets to know me, so it can gain my trust, hone its arguments, and gradually
 > change my views. In the battle for hearts and minds, intimacy is an extremely powerful
-> weapon. Previously, political parties could command our attention, but they had
-> difficulty mass-producing intimacy. Radio sets could broadcast a leader's speech to
-> millions, but they could not befriend the listeners. _Now a political party, or even a
-> foreign government, could deploy an army of bots that build friendships with millions of
-> citizens and then use that intimacy to influence their worldview_.
+> weapon. Previously, political parties could command our attention, but they had difficulty
+> mass-producing intimacy. Radio sets could broadcast a leader's speech to millions, but
+> they could not befriend the listeners. _Now a political party, or even a foreign
+> government, could deploy an army of bots that build friendships with millions of citizens
+> and then use that intimacy to influence their worldview_.
 </div>
 </details>
 
@@ -539,7 +618,8 @@ AI Manipulation (p. 312):
 
 ## Totalitarian information control {#totalitarian-information-control}
 
-Totalitarian systems concentrate information flow through **central hubs**, while democratic systems encourage **distributed information** processing.
+Totalitarian systems concentrate information flow through **central hubs**, while democratic
+systems encourage **distributed information** processing.
 
 Key quote (p. 174):
 
@@ -547,7 +627,20 @@ Key quote (p. 174):
 <summary>Original quote</summary>
 <div class="details">
 
-> We see then that the new information technology of the late modern era gave rise to both large-scale democracy and large-scale totalitarianism. But there were crucial differences between how the two systems used information technology. As noted earlier, democracy encourages information to flow through many independent channels rather than only through the center, and it allows many independent nodes to process the information and make decisions by themselves. Information freely circulates between private businesses, private media organizations, municipalities, sports associations, charities, families, and individuals—without ever passing through the office of a government minister. In contrast, totalitarianism wants all information to pass through the central hub and doesn't want any independent institutions making decisions on their own. True, totalitarianism does have its tripartite apparatus of government, party, and secret police. But the whole point of this parallel apparatus is to prevent the emergence of any independent power that might challenge the center. When government officials, party members, and secret police agents constantly keep tabs on one another, opposing the center is extremely dangerous.
+> We see then that the new information technology of the late modern era gave rise to both
+> large-scale democracy and large-scale totalitarianism. But there were crucial differences
+> between how the two systems used information technology. As noted earlier, democracy
+> encourages information to flow through many independent channels rather than only through
+> the center, and it allows many independent nodes to process the information and make
+> decisions by themselves. Information freely circulates between private businesses, private
+> media organizations, municipalities, sports associations, charities, families, and
+> individuals—without ever passing through the office of a government minister. In contrast,
+> totalitarianism wants all information to pass through the central hub and doesn't want any
+> independent institutions making decisions on their own. True, totalitarianism does have
+> its tripartite apparatus of government, party, and secret police. But the whole point of
+> this parallel apparatus is to prevent the emergence of any independent power that might
+> challenge the center. When government officials, party members, and secret police agents
+> constantly keep tabs on one another, opposing the center is extremely dangerous.
 </div>
 </details>
 
@@ -558,7 +651,8 @@ Key quote (p. 174):
 -   Democracy spreads information through many separate paths
     -   Information flows through independent channels, not just government ones
     -   Many different groups can make their own decisions
-    -   Private businesses, media, local governments, clubs, charities, families, and individuals all share information freely
+    -   Private businesses, media, local governments, clubs, charities, families, and
+        individuals all share information freely
     -   Government ministers don't control all information flow
 
 -   Totalitarianism forces all information through one central point
@@ -571,12 +665,22 @@ Key quote (p. 174):
 
 ### Chernobyl example (p. 175) {#chernobyl-example--p-dot-175}
 
-> For example, when the Chernobyl nuclear reactor exploded on April 26, 1986, Soviet authorities suppressed all news of the disaster. Both Soviet citizens and foreign countries were kept oblivious of the danger, and so took no steps to protect themselves from radiation. When some Soviet officials in Chernobyl and the nearby town of Pripyat requested to immediately evacuate nearby population centers, their superiors' chief concern was to avoid the spread of alarming news, so they not only forbade evacuation but also cut the phone lines and warned employees in the nuclear facility not to talk about the disaster.
+> For example, when the Chernobyl nuclear reactor exploded on April 26, 1986, Soviet
+> authorities suppressed all news of the disaster. Both Soviet citizens and foreign
+> countries were kept oblivious of the danger, and so took no steps to protect themselves
+> from radiation. When some Soviet officials in Chernobyl and the nearby town of Pripyat
+> requested to immediately evacuate nearby population centers, their superiors' chief
+> concern was to avoid the spread of alarming news, so they not only forbade evacuation but
+> also cut the phone lines and warned employees in the nuclear facility not to talk about
+> the disaster.
 
 
 ### Questions and trouble (p. 176) {#questions-and-trouble--p-dot-176}
 
-> In 2019, I went on a tour of Chernobyl. The Ukrainian guide who explained what led to the nuclear accident said something that stuck in my mind. **'Americans grow up with the idea that questions lead to answers,' he said. 'But Soviet citizens grew up with the idea that questions lead to trouble.'**
+> In 2019, I went on a tour of Chernobyl. The Ukrainian guide who explained what led to the
+> nuclear accident said something that stuck in my mind. **'Americans grow up with the idea
+> that questions lead to answers,' he said. 'But Soviet citizens grew up with the idea that
+> questions lead to trouble.'**
 
 
 ### Soviet Kulak campaign (p. 167) {#soviet-kulak-campaign--p-dot-167}
@@ -585,7 +689,15 @@ Key quote (p. 174):
 <summary>Original quote</summary>
 <div class="details">
 
-> When their efforts to collectivize farming encountered resistance and led to economic disaster, Moscow bureaucrats and mythmakers took a page from Kramer's Hammer of the Witches. I don't wish to imply that the Soviets actually read the book, but they too invented a global conspiracy and created an entire nonexistent category of enemies. In the 1930s Soviet authorities repeatedly blamed the disasters afflicting the Soviet economy on a counterrevolutionary cabal whose chief agents were the 'kulaks,' or capitalist farmers. Just as in Kramer's imagination witches serving Satan conjured hailstorms that destroyed crops, so in the Stalinist imagination kulaks beholden to global capitalism sabotaged the Soviet economy.
+> When their efforts to collectivize farming encountered resistance and led to economic
+> disaster, Moscow bureaucrats and mythmakers took a page from Kramer's Hammer of the
+> Witches. I don't wish to imply that the Soviets actually read the book, but they too
+> invented a global conspiracy and created an entire nonexistent category of enemies. In the
+> 1930s Soviet authorities repeatedly blamed the disasters afflicting the Soviet economy on
+> a counterrevolutionary cabal whose chief agents were the 'kulaks,' or capitalist farmers.
+> Just as in Kramer's imagination witches serving Satan conjured hailstorms that destroyed
+> crops, so in the Stalinist imagination kulaks beholden to global capitalism sabotaged the
+> Soviet economy.
 </div>
 </details>
 
@@ -613,7 +725,14 @@ Key quote (p. 174):
 <summary>Original quote</summary>
 <div class="details">
 
-> How exactly did Soviet officials tell who was a kulak? In some villages, local party members made a conscientious effort to identify kulaks by objective measures, such as the amount of property they owned. It was often the most hardworking and efficient farmers who were stigmatized and expelled. In some villages local communists used the opportunity to get rid of their personal enemies. Some villages simply drew lots on who would be considered a kulak. Other villages held communal meetings to vote on the matter and often chose isolated farmers, widows, old people, and other 'expendables' (exactly the sorts of people who in early modern Europe were most likely to be branded witches)
+> How exactly did Soviet officials tell who was a kulak? In some villages, local party
+> members made a conscientious effort to identify kulaks by objective measures, such as the
+> amount of property they owned. It was often the most hardworking and efficient farmers who
+> were stigmatized and expelled. In some villages local communists used the opportunity to
+> get rid of their personal enemies. Some villages simply drew lots on who would be
+> considered a kulak. Other villages held communal meetings to vote on the matter and often
+> chose isolated farmers, widows, old people, and other 'expendables' (exactly the sorts of
+> people who in early modern Europe were most likely to be branded witches)
 </div>
 </details>
 
@@ -640,7 +759,12 @@ Key quote (p. 174):
 <summary>Original quote</summary>
 <div class="details">
 
-> Like the ten-year-old 'witch' Hansel Pappenheimer, the eleven-year-old 'kulak' Antonina Golovina found herself cast into an intersubjective category invented by human mythmakers and imposed by ubiquitous bureaucrats. The mountains of information collected by Soviet bureaucrats about the kulaks wasn't the objective truth about them, but it imposed a new intersubjective Soviet truth. Knowing that someone was labeled a kulak was a very important thing to know about a Soviet person, even though the label was entirely bogus.
+> Like the ten-year-old 'witch' Hansel Pappenheimer, the eleven-year-old 'kulak' Antonina
+> Golovina found herself cast into an intersubjective category invented by human mythmakers
+> and imposed by ubiquitous bureaucrats. The mountains of information collected by Soviet
+> bureaucrats about the kulaks wasn't the objective truth about them, but it imposed a new
+> intersubjective Soviet truth. Knowing that someone was labeled a kulak was a very
+> important thing to know about a Soviet person, even though the label was entirely bogus.
 </div>
 </details>
 
@@ -662,12 +786,22 @@ Key quote (p. 174):
 
 ### Family control joke (p. 171) {#family-control-joke--p-dot-171}
 
-> The Soviet attempt to control the family was reflected in a dark joke told in Stalin's day. Stalin visits a factory undercover, and conversing with a worker, he asks the man, 'Who is your father?' 'Stalin,' replies the worker. 'Who is your mother?' 'The Soviet Union,' the man responds. 'And what do you want to be?' 'An orphan.' At the time you could easily lose your liberty or your life for telling this joke, even if you told it in your own home to your closest family members.
+> The Soviet attempt to control the family was reflected in a dark joke told in Stalin's
+> day. Stalin visits a factory undercover, and conversing with a worker, he asks the man,
+> 'Who is your father?' 'Stalin,' replies the worker. 'Who is your mother?' 'The Soviet
+> Union,' the man responds. 'And what do you want to be?' 'An orphan.' At the time you could
+> easily lose your liberty or your life for telling this joke, even if you told it in your
+> own home to your closest family members.
 
 
 ### Revolutionary parties (p. 173) {#revolutionary-parties--p-dot-173}
 
-> Unlike premodern churches, which developed slowly over many centuries and therefore tended to be conservative and suspicious of rapid changes, modern totalitarian parties like the Nazi Party and the Soviet Communist Party were organized within a single generation around the promise to quickly revolutionize society. They didn't have centuries-old traditions and structures to defend. When their leaders conceived some ambitious plan to smash existing traditions and structures, party members typically fell in line.
+> Unlike premodern churches, which developed slowly over many centuries and therefore tended
+> to be conservative and suspicious of rapid changes, modern totalitarian parties like the
+> Nazi Party and the Soviet Communist Party were organized within a single generation around
+> the promise to quickly revolutionize society. They didn't have centuries-old traditions
+> and structures to defend. When their leaders conceived some ambitious plan to smash
+> existing traditions and structures, party members typically fell in line.
 
 
 ### Stalin's death (p. 180) {#stalin-s-death--p-dot-180}
@@ -676,7 +810,28 @@ Key quote (p. 174):
 <summary>Original quote</summary>
 <div class="details">
 
-> In 1951–53 the U.S.S.R. experienced yet another witch hunt. Soviet mythmakers fabricated a conspiracy theory that Jewish doctors were systematically murdering leading regime members, under the guise of giving them medical care. The theory alleged that the doctors were the agents of a global American-Zionist plot, working in collaboration with traitors in the secret police. By early 1953 hundreds of doctors and secret police officials, including the head of the secret police himself, were arrested, tortured, and forced to name accomplices. The conspiracy theory—a Soviet twist on the Protocols of the Elders of Zion—merged with age-old blood-libel accusations, and rumors began circulating that Jewish doctors were not just murdering Soviet leaders but also killing babies in hospitals. Since a large proportion of Soviet doctors were Jews, people began fearing doctors in general. Just as the hysteria about 'the doctors' plot' was reaching its climax, Stalin had a stroke on March 1, 1953. He collapsed in his dacha, wet himself, and lay for hours in his soiled pajamas, unable to call for help. At around 10:30 p.m. a guard found the courage to enter the inner sanctum of world communism, where he discovered the leader on the floor. By 3:00 a.m. on March 2, Politburo members arrived at the dacha and debated what to do. For several hours more, nobody dared call a doctor. What if Stalin were to regain consciousness, and open his eyes only to see a doctor—a doctor!—hovering over his bed? He would surely think this was a plot to murder him and would have those responsible shot. Stalin's personal physician wasn't present, because he was at the time in a basement cell of the Lubyanka prison—undergoing torture for suggesting that Stalin needed more rest. By the time the Politburo members decided to bring in medical experts, the danger had passed. Stalin never woke up.
+> In 1951–53 the U.S.S.R. experienced yet another witch hunt. Soviet mythmakers fabricated a
+> conspiracy theory that Jewish doctors were systematically murdering leading regime
+> members, under the guise of giving them medical care. The theory alleged that the doctors
+> were the agents of a global American-Zionist plot, working in collaboration with traitors
+> in the secret police. By early 1953 hundreds of doctors and secret police officials,
+> including the head of the secret police himself, were arrested, tortured, and forced to
+> name accomplices. The conspiracy theory—a Soviet twist on the Protocols of the Elders of
+> Zion—merged with age-old blood-libel accusations, and rumors began circulating that Jewish
+> doctors were not just murdering Soviet leaders but also killing babies in hospitals. Since
+> a large proportion of Soviet doctors were Jews, people began fearing doctors in general.
+> Just as the hysteria about 'the doctors' plot' was reaching its climax, Stalin had a
+> stroke on March 1, 1953. He collapsed in his dacha, wet himself, and lay for hours in his
+> soiled pajamas, unable to call for help. At around 10:30 p.m. a guard found the courage to
+> enter the inner sanctum of world communism, where he discovered the leader on the floor.
+> By 3:00 a.m. on March 2, Politburo members arrived at the dacha and debated what to do.
+> For several hours more, nobody dared call a doctor. What if Stalin were to regain
+> consciousness, and open his eyes only to see a doctor—a doctor!—hovering over his bed? He
+> would surely think this was a plot to murder him and would have those responsible shot.
+> Stalin's personal physician wasn't present, because he was at the time in a basement cell
+> of the Lubyanka prison—undergoing torture for suggesting that Stalin needed more rest. By
+> the time the Politburo members decided to bring in medical experts, the danger had passed.
+> Stalin never woke up.
 </div>
 </details>
 
