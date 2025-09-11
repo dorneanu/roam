@@ -82,7 +82,7 @@ control of decisions.
 ### Alien intelligence concept (p. 208): {#alien-intelligence-concept--p-dot-208}
 
 <details>
-<summary>Zitat</summary>
+<summary>Original quote</summary>
 <div class="details">
 
 > Traditionally, AI has been an abbreviation for 'artificial intelligence.' But for reasons
@@ -143,7 +143,7 @@ Historical magnitude (p. 360):
 ### Unfathomability (p. 304): {#unfathomability--p-dot-304}
 
 <details>
-<summary>Zitat</summary>
+<summary>Original quote</summary>
 <div class="details">
 
 > Second, move 37 demonstrated the unfathomability of AI. Even after AlphaGo played it to
@@ -251,7 +251,7 @@ Information as Weapon Populist movements view information primarily as a tool fo
 rather than truth-seeking, undermining democratic discourse.
 
 <details>
-<summary>Zitat</summary>
+<summary>Original quote</summary>
 <div class="details">
 
 > gather information and discover truth are simply lying. Bureaucrats, judges, doctors,
@@ -369,7 +369,7 @@ reality, making democratic consensus increasingly difficult.
 ### Simplification appeal (p. 139) {#simplification-appeal--p-dot-139}
 
 <details>
-<summary>Zitat</summary>
+<summary>Original quote</summary>
 <div class="details">
 
 > In all, it's a rather sordid view of humanity, but two things nevertheless make it
@@ -421,7 +421,7 @@ True democracy balances **central authority** with individual freedom through
 **institutional safeguards** and **self-correcting mechanisms**.
 
 
-### Fallibility Principle (p. 129): {#fallibility-principle--p-dot-129}
+### Fallibility Principle (p. 129) {#fallibility-principle--p-dot-129}
 
 > Another crucial characteristic of democracies is that they assume everyone is **fallible**.
 > Therefore, **while democracies give the center the authority to make some vital decisions,
@@ -432,7 +432,7 @@ True democracy balances **central authority** with individual freedom through
 > separating the executive, legislative, and judicial branches of government**.
 
 
-### Strongman tactics (p. 130): {#strongman-tactics--p-dot-130}
+### Strongman tactics (p. 130) {#strongman-tactics--p-dot-130}
 
 > Of course, most assaults on democracy are more subtle. The careers of strongmen like
 > Vladimir Putin, Viktor Orbán, Recep Tayyip Erdoğan, Rodrigo Duterte, Jair Bolsonaro, and
@@ -441,7 +441,7 @@ True democracy balances **central authority** with individual freedom through
 > You ride it until you arrive at your destination, then you step off."**
 
 
-### Genocide example (p. 130): {#genocide-example--p-dot-130}
+### Genocide example (p. 130) {#genocide-example--p-dot-130}
 
 > Suppose that in a free and fair election 51 percent of voters choose a government that
 > subsequently sends 1 percent of voters to be exterminated in death camps, because they
@@ -452,7 +452,7 @@ True democracy balances **central authority** with individual freedom through
 > minorities; it is a system in which there are clear limits on the power of the center**.
 
 
-### Rights baskets (p. 131): {#rights-baskets--p-dot-131}
+### Rights baskets (p. 131) {#rights-baskets--p-dot-131}
 
 <details>
 <summary>Original quote</summary>
@@ -489,7 +489,7 @@ True democracy balances **central authority** with individual freedom through
 -   These rights are primary targets for authoritarian leaders seeking to undermine democracy
 
 
-### Democracy: Core definition (p. 131): {#democracy-core-definition--p-dot-131}
+### Democracy: Core definition (p. 131) {#democracy-core-definition--p-dot-131}
 
 > However, **democracy doesn't mean majority rule**; rather, **it means freedom and equality for
 > all**. Democracy is a system that guarantees everyone certain liberties, which even the
@@ -522,7 +522,7 @@ True democracy balances **central authority** with individual freedom through
     > conversation, because the technological means to hold such a conversation did not exist.
 
 
-### Network changes (p. 311): {#network-changes--p-dot-311}
+### Network changes (p. 311) {#network-changes--p-dot-311}
 
 <details>
 <summary>Original quote</summary>
@@ -576,7 +576,7 @@ reach decisions, the result is anarchy rather than democracy. #+end_quote
     -   The challenge is establishing new frameworks for conducting public discourse
 
 
-### AI Manipulation (p. 312): {#ai-manipulation--p-dot-312}
+### AI Manipulation (p. 312) {#ai-manipulation--p-dot-312}
 
 <details>
 <summary>Original quote</summary>

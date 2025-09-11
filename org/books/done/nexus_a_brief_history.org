@@ -81,7 +81,7 @@ control of decisions.
 ** Alien intelligence concept (p. 208):
 #+begin_details
 #+begin_summary
-Zitat
+Original quote
 #+end_summary
 #+begin_quote
 Traditionally, AI has been an abbreviation for 'artificial intelligence.' But for reasons
@@ -143,7 +143,7 @@ their goals.
 ** Unfathomability (p. 304):
 #+begin_details
 #+begin_summary
-Zitat
+Original quote
 #+end_summary
 #+begin_quote
 Second, move 37 demonstrated the unfathomability of AI. Even after AlphaGo played it to
@@ -175,7 +175,7 @@ outputs and decisions based on opaque and impossibly intricate chains of minute 
   - You can't trace through the steps to see why AI made a specific choice
   - Engineers can't look inside and explain exactly what caused something to happen
   - Systems like GPT-4 and AlphaGo make decisions through incredibly complex chains of tiny signals that we can't follow
-
+    
 * Information networks and social reality
 
 Human societies operate on *three levels* of reality: objective, subjective, and crucially,
@@ -256,7 +256,7 @@ rather than truth-seeking, undermining democratic discourse.
 
 #+begin_details
 #+begin_summary
-Zitat
+Original quote
 #+end_summary
 #+begin_quote
 gather information and discover truth are simply lying. Bureaucrats, judges, doctors,
@@ -375,7 +375,7 @@ populists turn totalitarian.
 
 #+begin_details
 #+begin_summary
-Zitat
+Original quote
 #+end_summary
 #+begin_quote
 In all, it's a rather sordid view of humanity, but two things nevertheless make it
@@ -407,7 +407,7 @@ would ever be inspired by the value of truth or justice to correct itself.
   - It can't believe that courts, news outlets, or schools would ever try to fix themselves
   - It refuses to see that organizations might actually care about truth or fairness
   - This is why institutions need ways to correct their own mistakes
-
+    
 * Democratic principles and challenges
 
 Democracy vs. Populism Democracy requires complex institutional checks rather than
@@ -427,7 +427,7 @@ devices.
 True democracy balances *central authority* with individual freedom through
 *institutional safeguards* and *self-correcting mechanisms*.
 
-** Fallibility Principle (p. 129):
+** Fallibility Principle (p. 129)
 #+BEGIN_QUOTE
 Another crucial characteristic of democracies is that they assume everyone is *fallible*.
 Therefore, *while democracies give the center the authority to make some vital decisions,
@@ -438,7 +438,7 @@ errors, such as holding regular elections, protecting the freedom of the press, 
 separating the executive, legislative, and judicial branches of government*.
 #+END_QUOTE
 
-** Strongman tactics (p. 130):
+** Strongman tactics (p. 130)
 #+BEGIN_QUOTE
 Of course, most assaults on democracy are more subtle. The careers of strongmen like
 Vladimir Putin, Viktor Orbán, Recep Tayyip Erdoğan, Rodrigo Duterte, Jair Bolsonaro, and
@@ -447,7 +447,7 @@ use his power to undermine democracy. *As Erdoğan once put it, "Democracy is li
 You ride it until you arrive at your destination, then you step off."*
 #+END_QUOTE
 
-** Genocide example (p. 130):
+** Genocide example (p. 130)
 #+BEGIN_QUOTE
 Suppose that in a free and fair election 51 percent of voters choose a government that
 subsequently sends 1 percent of voters to be exterminated in death camps, because they
@@ -458,7 +458,7 @@ not a system in which a majority of any size can decide to exterminate unpopular
 minorities; it is a system in which there are clear limits on the power of the center*.
 #+END_QUOTE
 
-** Rights baskets (p. 131):
+** Rights baskets (p. 131)
 #+begin_details
 #+begin_summary
 Original quote
@@ -494,7 +494,7 @@ violate.
     - Creates mechanisms for democratic accountability and change
 - These rights are primary targets for authoritarian leaders seeking to undermine democracy
 
-** Democracy: Core definition (p. 131):
+** Democracy: Core definition (p. 131)
 #+BEGIN_QUOTE
 However, *democracy doesn't mean majority rule*; rather, *it means freedom and equality for
 all*. Democracy is a system that guarantees everyone certain liberties, which even the
@@ -529,7 +529,7 @@ majority cannot take away.
   conversation, because the technological means to hold such a conversation did not exist.
   #+END_QUOTE
 
-** Network changes (p. 311):
+** Network changes (p. 311)
 #+begin_details
 #+begin_summary
 Original quote
@@ -580,7 +580,7 @@ reach decisions, the result is anarchy rather than democracy. #+end_quote
     of democracy
   - The challenge is establishing new frameworks for conducting public discourse
 
-** AI Manipulation (p. 312):
+** AI Manipulation (p. 312)
 #+begin_details
 #+begin_summary
 Original quote
