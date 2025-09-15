@@ -1,0 +1,324 @@
+:PROPERTIES:
+:ID:       9609060D-58B6-4364-89EF-60178F760200
+:END:
+#+TITLE: 2025-09-15
+#+DATE: 2025-09-15
+#+FILETAGS: journal
+
+* LdN443 - Warum bekommen Bauern ein bedingungsloses Grundeinkommen – und zerstören die Artenvielfalt? (Christine Chemnitz, Agora Agrar)
+** Überblick
+- *Sendung:* Lage der Nation #443 - Sommerinterview mit Christine Chemnitz
+- *Gast:* Dr. Christine Chemnitz, Co-Direktorin von Agora Agrar
+- *Moderatoren:* Ulf Buermeyer und Philip Banse
+- https://lagedernation.org/podcast/ldn443-warum-bekommen-bauern-ein-bedingungsloses-grundeinkommen-und-zerstoeren-die-artenvielfalt-christine-chemnitz-agora-agrar/
+** Struktur und Größe der deutschen Landwirtschaft
+- Betriebsstruktur und Zahlen
+  - *255.000 landwirtschaftliche Betriebe* in Deutschland
+  - Weniger als die Hälfte wirtschaftet im *Haupterwerb* (ca. 120.000 Betriebe)
+  - Andere Hälfte: *Nebenerwerbslandwirte* mit zusätzlichen Einkommensquellen
+  - Etwa *850.000 Menschen* in der Landwirtschaft beschäftigt
+  - Mix aus *Familienarbeitskräften* und *Saisonarbeitskräften*
+- Regionale und strukturelle Vielfalt
+  - *50% der Landfläche* Deutschlands wird landwirtschaftlich genutzt
+  - Durchschnittliche Betriebsgröße: *über 60 Hektar* pro Betrieb
+  - *Süddeutschland:* Kleinstrukturierte Betriebe, oft unter 20 Kühe, meist Nebenerwerb mit Tourismus
+  - *Nordwestdeutschland:* Veredelungsbetriebe, Schweinemast in Niedersachsen und NRW
+  - *Ostdeutschland:* Große Ackerbaubetriebe mit mehreren tausend Hektar (ehemalige LPGs)
+  - Strukturwandel seit Jahrzehnten: Weniger, aber größere Betriebe
+- Diversifizierung der Landwirtschaft
+  - Kombination mit *Tourismus*, *erneuerbarer Energieproduktion*
+  - Nebenerwerbslandwirte: Lehrer, andere Berufe außerhalb der Landwirtschaft
+  - *Multifunktionale Betriebe* als Trend
+** Wirtschaftliche Situation und Einkommen
+- Einkommensstrukturen
+  - Durchschnittliches landwirtschaftliches Einkommen: *etwa 50.000 Euro* pro
+    Arbeitskraft/Jahr
+  - *Extreme Schwankungen* je nach Betriebstyp, -größe und Jahr
+  - Abhängigkeit von *Erzeugerpreisen* vs. *Produktionskosten* (Futtermittel, Dünger,
+    Pflanzenschutz)
+  - Problem: Keine Daten zu *Haushaltseinkommen* verfügbar
+
+  #+BEGIN_QUOTE
+  "Ganz ganz grob gesagt, liegt das landwirtschaftliche Einkommen pro
+  landwirtschaftlicher Arbeitskraft ungefähr bei 50.000, etwas mehr, mal in
+  manchen Jahren etwas drüber, in manchen Jahren etwas drunter, Euro pro Jahr." -
+  Christine Chemnitz
+  #+END_QUOTE
+
+  #+BEGIN_QUOTE
+  "Wozu es keine Daten gibt, sind die Haushaltseinkommen. Und das ist ja das,
+  worüber viele Betriebe zusätzlich auch Einkommen erwirtschaften." - Christine
+  Chemnitz
+  #+END_QUOTE
+- Bodenmarkt und Strukturwandel
+  - *Steigende Bodenpreise* als Spekulationsobjekt
+  - Landwirtschaftliche Fläche nicht vermehrbar bei steigender Nachfrage
+  - *Konzentration des Landbesitzes* erschwert Neugründungen
+  - Schwierigkeiten für *junge Unternehmer ohne landwirtschaftlichen Hintergrund*
+  - Verpachtung als gängiges Modell, aber mit Risiken der Konzentration
+
+  #+BEGIN_QUOTE
+  "Die Nachfrage nach Lebensmitteln wird steigen, die Nachfrage an Agrarrohstoffen
+  perspektivisch eben auch. Landwirtschaftliche Fläche ist ja nicht vermehrbar." -
+  Christine Chemnitz
+  #+END_QUOTE
+
+- Herausforderungen für kleine Betriebe
+  - Von kleinen Betrieben mit wenigen Tieren *kann kein Haushalt mehr gut leben*
+  - Große, professionell bewirtschaftete Ackerbaubetriebe ermöglichen gutes Auskommen
+  - Dorfsterben: Von 15-20 Bauern auf einen Betrieb reduziert
+** EU-Agrarpolitik und Subventionssystem
+- Größenordnung der Förderung
+  - *30% des EU-Haushalts* fließen in die Landwirtschaft
+  - *387 Milliarden Euro* bis 2027 geplant
+  - *6 Milliarden Euro* jährlich in Deutschland
+  - Landwirte haben eigenes *Ministerium* und eigene *Rentenkasse* (80% staatlich finanziert)
+- Historische Entwicklung der GAP
+  - Ursprung: *Ernährungssicherheit* nach Kriegs- und Nachkriegszeit
+  - Früher: *Produktionsgebundene Preisgarantien* (Mindestpreise pro Liter Milch etc.)
+  - Problem der 80er: *Milchseen und Butterberge* durch Überproduktion
+  - *Entkopplung Anfang 2000er:* Von Produktions- zu Flächenprämien
+  #+BEGIN_QUOTE
+  "Als die gemeinsame Agrarpolitik entstanden ist, hatte man noch, sagen, diese
+  Hungerjahre der Kriegs- und Nachkriegszeit auch wirklich im Nacken." -
+  Christine Chemnitz
+  #+END_QUOTE
+- Aktuelles Flächenprämien-System
+  - Aktuell etwa *150 Euro pro Hektar* und Jahr (früher über 200 Euro)
+  - *Bedingungsloses Grundeinkommen* nur für Flächenbesitz
+  - Bei 4.000 Hektar: *600.000 Euro* jährlich allein aus Flächenprämien
+  - Problem: *Gießkannenprinzip* ohne Steuerungswirkung
+
+  #+BEGIN_QUOTE
+  "Das klingt ja erstmal total unverständlich, dass so viel öffentliches Geld in
+  die Landwirtschaft geht. Und was unverständlicher ist, heute noch aus meiner
+  Sicht, ist, dass wir dieses Geld nicht zielgerichteter einsetzen." - Christine
+  Chemnitz
+  #+END_QUOTE
+- Zwei-Säulen-System
+  - *Erste Säule:* Direktzahlungen (etwa 50% der Mittel) - noch nicht zielgerichtet
+  - *Zweite Säule:* Bereits für *Agrarumweltmaßnahmen* - wird immer größer
+  - Trend hin zu *zielgerichteten Zahlungen* für gesellschaftliche Leistungen
+** Klimawandel und Treibhausgasemissionen
+- Emissionsquellen in der Landwirtschaft
+  - *14% der deutschen Treibhausgasemissionen* aus Landwirtschaft plus Moornutzung
+  - Zwei Hauptquellen:
+    - *Methanemissionen* aus der Rinderhaltung (Verdauung)
+    - *Entwässerte Moore:* *7% der Gesamtemissionen* Deutschlands
+
+  #+BEGIN_QUOTE
+  "Sieben Prozent der deutschen Treibhausgasemissionen, der gesamten deutschen
+  Treiberhausgasemissionen. Jedes Jahr. Sieben Prozent kommen aus diesen
+  landwirtschaftlich genutzten Mooren." - Christine Chemnitz
+  #+END_QUOTE
+
+- Moore als Klimaproblem
+  - *Trockenlegung vor 2-4 Generationen* für landwirtschaftliche Nutzung
+  - Organisches Material *mineralisiert* bei Sauerstoffkontakt
+  - *Kontinuierliche jährliche Emissionen* durch Zersetzung des Torfkörpers
+  - Besonders betroffen: *Emsland, Landkreis Osnabrück, Oldenburg*
+  - Torfkörper *senken sich ab* durch fortlaufenden Verlust
+- Entwicklung der Emissionen
+  - Nur *5% Reduktion seit 2005* (vs. 34% in anderen Sektoren)
+  - *Emissionen aus Mooren völlig konstant* - keine ambitionierte Politik
+  - *Emissionen aus Rinderhaltung* ebenfalls konstant
+- Klimaneutralität: Grenzen und Potenziale
+  - Landwirtschaft kann *nicht klimaneutral* werden (einziger Sektor)
+  - *Restemissionen* müssen kompensiert werden
+  - Mögliche *60% Reduktion bis 2045* laut Agora-Studie (gegenüber 2020)
+  - *Negative Emissionen* durch Senken möglich, aber nicht permanent
+  #+BEGIN_QUOTE
+  "Die Landwirtschaft kann nicht klimaneutral werden, das ist ganz wichtig. Also,
+  weil alle anderen Sektoren können das ja, aber die Landwirtschaft, solange wir
+  Böden bewirtschaften, solang wir Tiere halten, wird die Landwirtschaft auch
+  Treibhausgasemissionen produzieren." - Christine Chemnitz
+  #+END_QUOTE
+** Moorwiedervernässung als Klimaschutzmaßnahme
+- Technische Möglichkeiten
+  - *Wiedervernässung* stoppt jährliche Emissionen
+  - Moore können wieder als *CO₂-Senken* funktionieren
+  - Abhängig von noch vorhandenem *Torfkörper*
+  - [[id:0CE14525-33EA-46E3-B753-C3D33E6B1398][Paludikulturen]]: Nasse Bewirtschaftung für Biomasse-Produktion
+- Wirtschaftliche Perspektiven
+  - *Wiedervernässungsprämien* für Landwirte nötig
+  - *Neue Wertschöpfungsketten* für Paludi-Biomasse
+  - Abnehmer: *Bauwirtschaft* (klimaneutrale Dämmstoffe statt Styropor)
+  - *Verpackungsindustrie:* 5% der Kartonage aus Paludikulturen
+  - Beispiel Niedersachsen: Will 2040 klimaneutral werden, *18% der Emissionen* aus trockenen Mooren
+  #+BEGIN_QUOTE
+  "Heute sagen ganz viele Landwirte, Mensch, wenn ich diese Fläche nass
+  bewirtschafte, wer will schon diese nasse Biomasse haben? Und die Bauwirtschaft
+  sagt, wenn es Palludikultur-Biomasse gäbe, wir würden sie übrigens kaufen. Aber
+  was es im Moment noch nicht gibt, sind die Wertschöpfungsketten." - Christine
+  Chemnitz
+  #+END_QUOTE
+
+- Politischer Handlungsbedarf
+  - Investitionen in *Aufbau von Wertschöpfungsketten*
+  - Kooperation zwischen *Landwirtschaft*, *Bauwirtschaft* und *Verpackungsindustrie*
+  - *Wirtschaftliche Perspektiven* statt Bestrafung für historische Entscheidungen
+** Biodiversität und Umweltschutz
+- Problematik des Artensterbens
+  - Landwirtschaft als *größter Zerstörer von Artenvielfalt* in der EU und weltweit
+  - Ursachen: *Pestizideinsatz* und *Ausweitung landwirtschaftlicher Flächen*
+  - *Rapide Abnahme* der Arten- und Pflanzenvielfalt
+
+  #+BEGIN_QUOTE
+  "Genau. Und das stimmt auch nicht nur EU-weit, das stimmt auch weltweit. Also
+  und zwar sowohl durch den Einfluss von Pflanzenschutzmitteln, Pestiziden, aber
+  eben auch durch die Ausweitung von landwirtschaftlichen Flächen." - Christine
+  Chemnitz
+  #+END_QUOTE
+
+- Dilemma der Flächennutzung
+  - *Effizienzsteigerung vs. Flächenausweitung:* Weniger intensive Nutzung führt zu Ausweitung anderswo
+  - *Indirekte Landnutzungsänderungen:* Import führt zu Regenwald-Rodung
+  - *Hohe Hektarerträge* in Deutschland werden verbraucht, nicht gelagert
+- Lösungsansätze
+  - *Weniger Pestizide* notwendig
+  - *Blühstreifen* und *Heckenlandschaften* fördern
+  - *Gehölzstrukturen* in der Agrarlandschaft
+  - Bezahlung für *Biodiversitätsleistungen* am Markt nicht entlohnt
+  - Zentral: *Nachhaltigere Ernährung* mit weniger tierischen Produkten
+** Tierwohl und Tierhaltung
+- Aktuelle Problematik
+  - *Massentierhaltung* mit schlechten Haltungsbedingungen
+  - *3000 Kühe*-Betriebe in Norddeutschland als Beispiel für große Strukturen
+  - *Tierkrankheiten* als Indikator für Probleme
+  - *Kontinuierliche Überwachung* bereits vorhanden: Jeder Schlachtkörper und jede Milchcharge untersucht
+- Kontroverse um Bewertungsmethoden
+  - *Debatte:* Haltungsstandards vs. Ergebnis-Monitoring
+  - *Management-Qualität* entscheidend in allen Haltungsformen
+  - Kranke Tiere in *Bio* und *konventionell* möglich
+  - *Zugang zu Frischluft*, *Beschäftigungsmaterial*, *verschiedenes Wetter* nicht am Schlachtkörper erkennbar
+  #+BEGIN_QUOTE
+  "Also ein gutes Management ist in jeder Form der Haltung das A und O. Und
+  gleichzeitig hängt es eben auch das Tierwohl nicht nur vom Management." -
+  Christine Chemnitz
+  #+END_QUOTE
+- Reform-Ansätze
+  - *Tierwohlprämien* für bessere Haltungsstandards
+  - *Weniger Tiere* zu *höheren Tierwohl-Standards*
+  - Kombination aus *Stallbau-Förderung* und *Krankheits-Monitoring*
+  - *Gesellschaftlich akzeptierte Haltungsformen* definieren und fördern
+
+  #+BEGIN_QUOTE
+  "Fleisch und tierische Produkte sind ja gute Lebensmittel und die sind auch
+  wichtig, aber wir konsumieren im Moment viel zu viel davon." - Christine
+  Chemnitz
+  #+END_QUOTE
+** Ernährungspolitik und Konsumverhalten
+- Zentrale Rolle der Ernährung
+  - *Nachhaltigere Ernährung* als *Schlüssel* für klimafreundliche Landwirtschaft
+  - *Weniger tierische Produkte* notwendig für Klimaschutz
+  - Problem: *Importverlagerung* bei nationaler Reduktion ohne Konsumänderung
+  
+- Ernährungsumgebungen gestalten
+  - *Verfügbarkeit*, *Attraktivität* und *Erschwinglichkeit* nachhaltiger Lebensmittel
+  - Nicht nur *Information*, sondern *strukturelle Bedingungen* ändern
+  - *Mehrwertsteuer-Reform:* Ermäßigter Satz für Gemüse, regulärer für tierische Produkte
+  - *Öffentliche Kantinen* umstellen (Kitas, Krankenhäuser, Schulen)
+
+  #+BEGIN_QUOTE
+  "Es geht nämlich nicht nur darum Menschen zu sagen, tu mal das und das oder sie
+  zu informieren, sondern es geht darum, es gibt so den schönen Begriff der
+  Ernährungsumgebung." - Christine Chemnitz
+  #+END_QUOTE
+
+- Politische Herausforderungen
+  - *Polarisierung* vermeiden: Nicht "Fleischesser vs. Vegetarier"
+  - *Identitätspolitik* um Ernährung kontraproduktiv
+  - *Verbotspolitik*-Vorwürfe als politische Falle
+  - *Sozialpolitische Dimension:* Ärmere Haushalte haben schlechteren Zugang zu gesunden Lebensmitteln
+
+  #+BEGIN_QUOTE
+  "Und wir nehmen uns damit ganz viel politischen Gestaltungsspielraum. Das ist,
+  wenn es von der Politik polarisiert wird, dass Ernährungspolitik was Schlechtes
+  ist, und dass es so eine Verbots- oder Ernährungsdiktatur gäbe." - Christine
+  Chemnitz
+  #+END_QUOTE
+** Politische Rahmenbedingungen und Regulierung
+- Bürokratie-Problematik
+  - *Viele kleinteilige Auflagen:* Tierhaltung, Tierseuchenschutz, Gülle-Ausbringung, Gewässerabstände
+  - *Arbeitsschutz:* "Leiterbeauftragte" als Symbol für Überregulierung
+  - *Nicht abschaffen*, sondern *handhabbar machen*
+  - Regeln haben *begründete Ziele:* Arbeits-, Umwelt-, Tierschutz
+
+  #+BEGIN_QUOTE
+  "Es ist in der Tat so, dass bäuerliches Wirtschaften, landwirtschaftliches
+  Wirtschaften ganz stark von Regeln heute beeinflusst ist." - Christine Chemnitz
+  #+END_QUOTE
+
+- Fehlende Klimapolitik
+  - *Keine Klimaziele für Landwirtschaft nach 2030*
+  - Andere Sektoren: -90% bis 2040, klimaneutral 2045
+  - *CO₂-Bepreisung* für Landwirtschaft nötig
+  - *Carbon Border Adjustment* für klimaintensive Importe (Rindfleisch, Butter, Milchpulver)
+  - *Eigener Emissionshandel* für Landwirtschaft sinnvoller als Integration in bestehende Systeme
+
+- Herausforderung nicht-permanenter Senken
+  - *Wald* kann abbrennen, *gespeichertes CO₂* wieder freisetzen
+  - Problem für *Zertifikate-Handel* mit negativen Emissionen
+  - *Kleiner Sektor* rechtfertigt eigenes System
+** Agora Agrar: Organisation und Arbeitsweise
+- Struktur und Geschichte
+  - *17 Mitarbeitende* in Berlin, seit *3 Jahren* aktiv
+  - Gegründet von *Christine Chemnitz* und *Harald Grete*
+  - Teil der *Agora Think Tanks* mit Energiewende, Industrie, Verkehrswende
+  - *Gemeinsames Ziel:* Klimaneutrale Transformation verschiedener Sektoren
+
+- Interdisziplinäre Zusammenarbeit
+  - *Schnittstellen* zwischen Sektoren wichtig
+  - Klimaneutrale *Industrie* braucht mehr *nachwachsende Rohstoffe*
+  - *Biodiesel* aus Raps ineffizient - besser *Elektrifizierung* des Verkehrs
+  - *Sektorübergreifende Lösungen* entwickeln
+
+- Finanzierung und Unabhängigkeit
+  - Ausschließlich *stiftungsfinanziert*
+  - *Robert Bosch Stiftung*, *Umweltstiftung Michael Otto*, *European Climate Foundation*
+  - *Zweckgebundene Mittel* nur für Agrar-Arbeit verwendbar
+  - *Keine Bundesregierungs-Gelder* für Deutschland-Arbeit
+
+- Beirat und Beratung
+  - *Jochen Flasbarth* (BMU), *Sylvia Bender* (Staatssekretärin a.D.)
+  - *Bauernverband*, *Landfrauen*, *Landjugend*, *Wissenschaft* (Thünen-Institut)
+  - *NABU* (Jörg-Andreas Krüger)
+  - *Beratende Funktion*, keine Weisungsbefugnis
+  - *Zweimal jährlich* Austausch
+
+  #+BEGIN_QUOTE
+  "Dieser Beirat hat wirklich eine beratende Funktion für uns. [...] Der kann
+  sagen, was er gut findet, was er nicht gut findet, aber er ist ihn überhaupt
+  nicht weisungsbefugt, die sagen auch nicht, was wir tun oder lassen sollen." -
+  Christine Chemnitz
+  #+END_QUOTE
+** Zentrale Reformforderungen und Lösungsansätze
+- Kurzfristige Maßnahmen
+  1. *Zielgerichtete Verwendung* der bestehenden 6 Milliarden Euro EU-Agrargelder
+  2. *Weg vom Gießkannenprinzip* hin zur *Entlohnung öffentlicher Leistungen*
+  3. *Moorwiedervernässung* mit Prämien und Aufbau von Wertschöpfungsketten
+  4. *Agrarumweltmaßnahmen* ausbauen statt Flächenprämien
+
+- Mittelfristige Reformen
+  1. *Klimaziele für Landwirtschaft* nach 2030 definieren
+  2. *CO₂-Bepreisung* mit *Carbon Border Adjustment* für Importe
+  3. *Ernährungspolitik* als eigenständiges Politikfeld etablieren
+  4. *Tierwohlprämien* statt allgemeine Subventionen
+
+- Langfristige Transformation
+  1. *60% Reduktion* der Treibhausgasemissionen bis 2045
+  2. *Strukturwandel* zu nachhaltiger, kleinerer aber qualitativ besserer Tierhaltung
+  3. *Agrarwende* als integraler Teil der Klimatransformation
+  4. *Biodiversitäts-Landwirtschaft* als neues Leitbild
+
+- Systemische Ansätze
+  - *Internationale Koordination* bei Handelsstandards nötig
+  - *Sektorübergreifende Kooperation* (Bau-, Verpackungsindustrie)
+  - *Gesellschaftlicher Konsens* über gewünschte Landwirtschaft
+  - *Planungssicherheit* für Landwirte durch klare Ziele
+
+  #+BEGIN_QUOTE
+  "Wir sollten das zielgerichtet einsetzen. Wir sollten das zielgerichtet
+  einsetzen [...] Wir machen nämlich Biodiversitätsschutz. Aber, liebe
+  Gesellschaft, dann müsst ihr uns auch dafür bezahlen." - Christine Chemnitz
+  #+END_QUOTE
