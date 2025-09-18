@@ -157,6 +157,7 @@ Quick reference:
 
 ### Tutorials {#tutorials}
 
+-   2025-09-18 ◦ [MC 707 deep Explanation:How I set for LONG LIVE SET with EXT. Gears](https://www.youtube.com/watch?v=J5J-SmjuVX4&t=720s&ab_channel=AlexFain)
 -   2025-07-23 ◦ [#MC707 HOW MAKE A TECHNO TRACK FROM SCRATCH](https://www.youtube.com/watch?v=yA7MFhi7y9E&list=PLYZenHwtJrKE3pw9F-1xED1qFl1zwq5Q9&index=18&ab_channel=AlexFain)
 -   2025-07-23 ◦ [MC-707 Tutorial: Side-chain Compression Effect](https://www.youtube.com/watch?v=oNczQLCocSY&list=PLYZenHwtJrKE3pw9F-1xED1qFl1zwq5Q9&index=19&ab_channel=Unit%3AE)
     Add pumping bass line. Also applies to the MC-101.
