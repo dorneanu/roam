@@ -9,6 +9,7 @@
 This is my personal book TODO list, along with the year in which I added the book to the list.
 
 * 2025
+- 2025-09-22 ◦ [[https://www.goodreads.com/book/show/41436213-sandworm][Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers]]
 - 2025-08-07 ◦ [[https://www.goodreads.com/book/show/210943348-patriot][Patriot: A Memoir by Alexei Navalny]]
 - 2025-08-07 ◦ [[https://www.goodreads.com/book/show/217217007-war][War by Bob Woodward]]
 - 2025-06-24 ◦ [[https://www.goodreads.com/book/show/54938047-mind-management-not-time-management][Mind Management, Not Time Management: Productivity When Creativity Matters by David Kadavy]]
