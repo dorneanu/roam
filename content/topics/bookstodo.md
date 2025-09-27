@@ -18,7 +18,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   2025-05-14 ◦ [The Stoic Challenge: A Philosopher's Guide to Becoming Tougher, Calmer, and More Resilient by William B. Irvine](https://www.goodreads.com/book/show/43726564-the-stoic-challenge)
 -   2025-05-07 ◦ [Coridorul îngust. State, societăți și soarta libertății by Daron Acemoğlu](https://www.goodreads.com/book/show/55900397)
 -   2025-04-30 ◦ [Hello Sleep: The Science and Art of Overcoming Insomnia Without Medications by Jade Wu](https://www.goodreads.com/book/show/60784603-hello-sleep)
--   2025-04-01 ◦ [Werde übernatürlich: Wie gewöhnliche Menschen das Ungewöhnliche erreichen by Joe Dispenza](https://www.goodreads.com/book/show/37510504-werde-bernat-rlich?from_search=true&from_srp=true&qid=SusRcalO7r&rank=1)
+-   ✅ 2025-04-01 ◦ [Werde übernatürlich: Wie gewöhnliche Menschen das Ungewöhnliche erreichen by Joe Dispenza](https://www.goodreads.com/book/show/37510504-werde-bernat-rlich?from_search=true&from_srp=true&qid=SusRcalO7r&rank=1)
 -   2025-04-01 ◦ [Sustain Me: A Handbook of Natural Remedies, The 9 Foundational Pillars for Health by Barbara O’neill](https://www.goodreads.com/en/book/show/216843823-sustain-me)
 -   2025-03-13 ◦ [Supercommunicators: How to Unlock the Secret Language of Connection by Charles Duhigg](https://www.goodreads.com/book/show/157981748-supercommunicators)
 -   2025-02-04 ◦ [Tito Puente and the Making of Latin Music by Steven Loza](https://www.goodreads.com/book/show/1311471.Tito_Puente_and_the_Making_of_Latin_Music)
