@@ -1,0 +1,230 @@
+#+startup: indent fold
+#+title: Backrezepte
+
+* Kuchen und Süße Backwaren                                                              :kuchen:
+** Superschneller Apfelkuchen
+:PROPERTIES:
+:LINK: https://slowcooker.de/super-schneller-apfelkuchen/
+:END:
+
+*** Zutaten
+- 2 Äpfel, fein gewürfelt
+- 1 EL Vanillezucker
+- 3 EL Rum (oder auch mehr)
+- 100 g Butter
+- 100 g Zucker
+- 2 Eier
+- 60 g gemahlene Mandeln (oder Haselnüsse)
+- 1 EL Kakaopulver
+- 1/2 TL Zimt
+- 100 g Mehl
+- 1/2 TL Backpulver
+- Gehackte Mandeln (Mandelblättchen) zum Garnieren
+- Puderzucker zum Bestäuben
+
+*** Zubereitung
+1. Gewürfelte Äpfel mit Rum und Vanillezucker vermischen, etwa eine Stunde ziehen lassen.
+2. Butter, Zucker und Eier sehr gründlich schaumig rühren.
+3. Mandeln, Kakao und Zimt zugeben.
+4. Backpulver mit Mehl vermischen, in die Masse sieben und verrühren.
+5. Zum Schluss die Äpfel mit Flüssigkeit unterheben.
+6. In eine gefettete 20-cm-Springform füllen und nach Wunsch mit gehackten Mandeln oder Mandelblättchen bestreuen.
+7. Im vorgeheizten Backofen bei 175 °C Ober-/Unterhitze etwa 35 bis 40 Minuten backen.
+8. Mit Puderzucker bestäuben.
+
+*** Notizen
+- Bei anderen Backformen, in die der Teig höher eingefüllt wird, die Backzeiten um 5 bis 10 Minuten verlängern
+- Je säuerlicher der Apfel, desto besser passt er in den süßen Mandelteig
+- Bei sehr harten, knackigen Äpfeln diese in möglichst kleine Stücke schneiden
+- Falläpfel eignen sich gut für dieses Rezept (faule Stellen gründlich ausschneiden)
+- Boskoop-Äpfel müssen nicht besonders klein geschnitten werden
+- Für größere Formen: 28er-Form = doppelte Menge, Fettpfanne = dreifache Menge
+
+** Schnelle Apfelteilchen
+:PROPERTIES:
+:LINK: https://slowcooker.de/einfache-schnelle-apfelteilchen/
+:END:
+
+*** Einführung
+Diese schnellen Apfelteilchen aus Quark-Öl-Teig sind ganz einfach zu backen,
+schön saftig und stehen schnell auf dem Tisch. Auch gut mit Birnen oder
+Pflaumen! Der Quark-Öl-Teig benötigt im Gegensatz zum Hefeteig keine Wartephase.
+Es gibt zwei Varianten: aufwendigere "Schiffchen" oder schnelle "Taler" - beide
+superlecker!
+
+*** Zutaten
+**** Für den Teig:
+- 350 g Mehl
+- 1 Paket Backpulver
+- 80 g Zucker
+- 1 Paket Vanillezucker
+- 170 g Magerquark
+- 1 Ei + 1 Eiweiß
+- 5 EL geschmacksneutrales Öl
+- 4-5 EL Milch oder Buttermilch
+
+**** Für die Füllung:
+- 400 g Äpfel, geschält, in feine Würfel geschnitten
+- 1 TL Zimt
+- 1-2 EL brauner Zucker
+
+**** Zum Bestreichen:
+- 1 Eigelb
+- Hagelzucker
+
+*** Zubereitung
+1. Alle Teigzutaten von Mehl bis Öl in eine Schüssel geben und mit der Küchenmaschine oder den Knethaken des Mixers zu einem glatten Teig verkneten.
+2. Soviel Milch dazugeben, dass er schön elastisch ist, aber nicht klebt. Kalt stellen.
+3. Die Apfelwürfel vorbereiten und mit Zucker und Zimt vermischen.
+4. Zwei Backbleche mit Backpapier auslegen. Backofen auf 180 Grad Ober-/Unterhitze vorheizen.
+
+**** Für Apfelteilchen:
+5. Teig etwa 5 mm dick ausrollen und in Quadrate von etwa 10 x 10 cm schneiden.
+6. Je 1-2 EL Apfelwürfel diagonal in die Mitte geben, zwei Enden in der Mitte
+   übereinanderlegen und etwas fest drücken.
+
+**** Für Apfeltaler:
+5. Die Apfelwürfel in den Teig kneten.
+6. Teig in 12 Portionen teilen, diese zu flachen Talern formen und auf die
+   Bleche legen.
+
+**** Fertigstellung:
+7. Teilchen mit Eigelb bestreichen und mit Hagelzucker bestreuen.
+8. Auf der mittleren Schiene etwa 17 bis 20 Minuten lang hellbraun backen.
+
+*** Notizen
+- Der Teig hält sich ein, zwei Tage, aber am saftigsten ist das Gebäck am Backtag
+- Auch gut mit Pflaumen oder Birnen möglich
+- Quark-Öl-Teig benötigt keine Wartezeit wie Hefeteig
+- Zwei Varianten möglich: aufwendigere Schiffchen oder schnelle Taler
+- Bei Falläpfeln faule Stellen gründlich entfernen
+
+** Apfelkuchen Multikulti
+:PROPERTIES:
+:LINK: https://slowcooker.de/ich-backs-mir-apfelkuchen-multikulti/
+:END:
+
+*** Einführung
+Dieser Apfelkuchen ist eine Eigenentwicklung aus all dem, was mir an den
+Apfelkuchen der Welt so gut gefällt: Deutscher Boden (3-2-1 Mürbeteig),
+amerikanische Füllung (viele Äpfel mit Cranberries, Mandeln und Ahornsirup),
+französischer Guss (Eier-Sahne-Guss) und holländische Äpfel (Boskoop). Durch das
+Teiggitter und den Hagelzucker sieht er auch sehr hübsch aus.
+
+*** Zutaten
+**** Für den Teig:
+- 300 g Mehl
+- 200 g Butter
+- 100 g Zucker
+- 1 Prise Salz
+- 1 Ei
+
+**** Für die Füllung:
+- 0,8-1 kg Äpfel (Boskoop)
+- 2 EL Zitronensaft
+- 40 g gehackte Mandeln
+- 50 g Rosinen oder Cranberries, in 2 EL Rum eingeweicht
+- 2 EL Ahornsirup
+- 2-4 EL brauner Zucker (je nach Säuregrad der Äpfel)
+- 1 TL Speisestärke
+- 1/2 TL Zimt
+
+**** Für den Guss:
+- 2 Eier
+- 100 ml Sahne
+- 50 g Zucker
+- 15 g Vanillezucker (selbst gemacht)
+
+**** Zum Bestreichen:
+- 1 Eigelb
+- Hagelzucker
+
+*** Zubereitung
+1. Teigzutaten mit den Knethaken (oder rasch mit der Hand) zu einem glatten Teig
+   verkneten.
+2. In Folie verpackt kalt stellen (mindestens eine Stunde), während die Füllung
+   vorbereitet wird.
+3. Eine Springform (26-28 cm) ausfetten.
+4. Für die Füllung die Äpfel schälen und in feine Schnitze schneiden, sofort mit
+   dem Zitronensaft beträufeln.
+5. Mandeln, Rosinen, Speisestärke, Ahornsirup und Zimt untermischen und nach
+   Geschmack mit braunem Zucker süßen.
+6. Den Backofen auf 180 Grad vorheizen.
+7. 2/3 des Teiges ausrollen und die Springform damit auskleiden.
+8. Die Füllung hineingeben.
+9. Die Zutaten für den Guss verrühren und darüber gießen.
+10. Den restlichen Teig ebenfalls rund ausrollen und mit dem Teigrollen in
+    Streifen schneiden.
+11. Die Streifen gitterartig über den Kuchen legen.
+12. Den Kuchen 35 Minuten backen, dann mit dem Eigelb bestreichen und mit
+    Hagelzucker bestreuen.
+13. Weitere 10 bis 15 Minuten backen.
+14. Erst nach vollständigem Abkühlen aus der Form nehmen und anschneiden.
+
+*** Notizen
+- Der klassische 3-2-1 Mürbeteig lässt sich gut verarbeiten und ist leckerer als
+  bröseliger Pie-Teig
+- Boskoop-Äpfel sind die besten zum Backen
+- Das Teiggitter macht den Kuchen besonders hübsch
+- Teig muss mindestens eine Stunde kühl stehen
+- Erst nach vollständigem Abkühlen anschneiden, sonst zerläuft der Guss
+- Springform sollte 26-28 cm Durchmesser haben
+
+** Applesauce Coffee Cake
+:PROPERTIES:
+:LINK: https://slowcooker.de/urlaubs-mitbringsel-applesauce-coffee-cake/
+:END:
+
+*** Einführung
+Dieser amerikanische Coffee Cake ist ein fluffiger Rührteig mit Apfelmus, der
+sich gut einige Tage hält. Er kommt mit der typischen Zimtwürze daher und hat
+eine leckere Streuseldecker. Das Rezept stammt aus "The Martha Stewart Living
+Cookbook - the New Classics" und wurde in der Zuckermenge reduziert, da die
+ursprünglichen Streusel sehr süß ausfielen.
+
+*** Zutaten
+**** Für den Teig:
+- 125 g Butter
+- 75 g Zucker, weiß
+- 75 g Zucker, braun
+- 1 Pack. Vanillezucker
+- 3 Eier
+- 200 g Apfelmus
+- Je 1/2 TL Backpulver und Natron
+- 275 g Mehl
+
+**** Für die Streusel:
+- 60 g Butter, sehr weich
+- 60 g Zucker, braun
+- 30 g Haferflocken, kernig
+- 50 g Pecannüsse, gehackt
+- 1 EL Mehl, gehäuft
+- 1 Prise Salz
+- 1/2 TL Zimt
+
+**** Sonstiges:
+- 2 Äpfel, geschält, in sehr dünne Schnitze geschnitten
+- Zitronensaft
+
+*** Zubereitung
+1. Ofen auf 175 Grad vorheizen, eine Springform von 26 oder 28 cm Durchmesser
+   fetten.
+2. Für die Streusel alle Zutaten in einer Schüssel mit einer Gabel vermengen,
+   bis sich feine Streusel formen. Beiseite stellen.
+3. Für den Teig Butter und Zuckersorten sehr schaumig rühren.
+4. Die Eier nach und nach unterrühren.
+5. Dann das Apfelmus untermengen.
+6. Anschließend das mit Backpulver und Natron gemischte Mehl einarbeiten.
+7. Teig in die Form streichen.
+8. Mit den Apfelschnitzen belegen, diese mit Zitronensaft bestreichen.
+9. Die Streusel darüber krümeln.
+10. Kuchen etwa 50 bis 60 Minuten backen.
+
+*** Notizen
+- Amerikanische Coffee Cakes sind fluffige Rührteige, die sich gut einige Tage
+  halten
+- Zuckermenge wurde gegenüber dem Original reduziert
+- Pecannüsse können durch Walnüsse ersetzt werden (sind etwas bitterer)
+- Auch in einer viereckigen Form backbar (amerikanischer Stil)
+- Supersaftig und hält sich mehrere Tage
+- Rezept stammt aus Martha Stewart Living Cookbook
