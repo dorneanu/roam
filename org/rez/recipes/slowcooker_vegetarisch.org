@@ -904,7 +904,43 @@
 - 1 EL frische Kräuter (Thymian, Petersilie)
 - 1 Ei, verschlagen
 
-* Frühstück und Desserts                                                                 :breakfast:
+** Cinnamon Apple Butter
+:PROPERTIES:
+:LINK: https://slowcooker.de/aus-dem-slow-cooker-cinnamon-apple-butter/
+:PORTIONS: 3 Gläser
+:GARZEIT: 6 Stunden
+:GESAMTZEIT: 6 Stunden
+:END:
+
+*** Zutaten
+- 1 kg Äpfel (oder mehr, bis der Topf zu 2/3 gefüllt ist)
+- 75-100 g brauner Zucker
+- 1 EL Zitronensaft
+- 1 TL Zimt
+- Mark einer Vanillestange (optional)
+
+*** Zubereitung
+1. Äpfel schälen, entkernen und in Stücke schneiden (nicht zu groß, ca. 1-2 cm
+   dick). In den Keramikeinsatz des Slowcookers schichten.
+2. Braunen Zucker, Zimt, Vanillemark und Zitronensaft darüber geben, gut durchrühren.
+3. Deckel aufsetzen und auf Stufe LOW etwa sechs bis acht Stunden garen, bis die Äpfel sehr weich sind.
+4. Die Fruchtmasse mit einem Stabmixer im Slowcooker pürieren. Optional mit weiterem Zucker abschmecken.
+5. Ist die Masse flüssig und tropft von einem Löffel (zum Beispiel, weil die
+   Äpfel zu saftig waren), das Mus auf Stufe HIGH mit geöffnetem Deckel weiter
+   garen lassen - etwa zwei bis vier Stunden. Dabei alle 30 Minuten durchrühren.
+6. In Gläser portionieren und abkühlen lassen.
+
+*** Notizen
+- Im Kühlschrank hält sich Apple Butter etwa zwei Wochen lang
+- Man kann das Mus auch gut portionsweise einfrieren
+- Für längere Haltbarkeit richtig einkochen im Backofen oder Einkochautomaten
+- Beste Apfelsorten: Boskoop (säuerlich, zerfällt gut), Elstar (aromatisch), Cox (mehlig)
+- Eine Mischung verschiedener Apfelsorten ergibt das beste Ergebnis
+- "Rettertüte" angeschlagener Äpfel aus dem Supermarkt eignet sich gut (Faulstellen gut ausschneiden)
+- Apple Butter ist konzentriertes Apfelmus und sollte dick genug sein, um nicht vom Löffel zu tropfen
+- Serviervorschläge: pur, zu Pfannkuchen, über Eis, als Schichtdessert mit Keksen und Quarkcreme
+
+* Frühstück und Desserts                                                                   :dessert:
 ** Schoko-Erdnuss-Knuspermüsli
 :PROPERTIES:
 :LINK: https://slowcooker.de/whats-for-breakfast-schoko-erdnuss-knuspermuesli/
@@ -1033,20 +1069,20 @@
 :END:
 
 *** Zutaten
-**** Teig:
-- 500 g Mehl
-- 1 Würfel Hefe
-- 75 g Zucker
-- 200 ml Milch, lauwarm
-- 1 Päck. Vanillezucker
-- 50 g Butter, geschmolzen
-- 1 Ei
-- 1/4 TL Salz
+- Teig:
+  - 500 g Mehl
+  - 1 Würfel Hefe
+  - 75 g Zucker
+  - 200 ml Milch, lauwarm
+  - 1 Päck. Vanillezucker
+  - 50 g Butter, geschmolzen
+  - 1 Ei
+  - 1/4 TL Salz
 
-**** Vanillemilch:
-- 200 ml Milch
-- 50 g Butter
-- 2 Päck. Vanillezucker
+- Vanillemilch:
+  - 200 ml Milch
+  - 50 g Butter
+  - 2 Päck. Vanillezucker
 
 ** Honig-Mandel-Knuspermüsli
 :PROPERTIES:
@@ -1054,20 +1090,20 @@
 :END:
 
 *** Zutaten
-**** Trockene Zutaten:
-- 500 g Haferflocken, kernig
-- 100 g Mandelblättchen
-- 100 g Kokosraspeln
-- 150 g Wal- oder Pecannüsse, grob gehackt
+- Trockene Zutaten:
+  - 500 g Haferflocken, kernig
+  - 100 g Mandelblättchen
+  - 100 g Kokosraspeln
+  - 150 g Wal- oder Pecannüsse, grob gehackt
 
-**** Feuchte Zutaten:
-- 100 ml Honig, flüssig
-- 100 g Zucker, braun
-- 100 ml Sonnenblumenöl
-- 75 ml Wasser
-- 1 TL Zimt
-- 1/4 TL Salz
-
-**** Sonstige Zutaten:
-- 250 g Rosinen
-- 25 g Weizenkleie
+- Feuchte Zutaten:
+  - 100 ml Honig, flüssig
+  - 100 g Zucker, braun
+  - 100 ml Sonnenblumenöl
+  - 75 ml Wasser
+  - 1 TL Zimt
+  - 1/4 TL Salz
+- Sonstige Zutaten:
+  - 250 g Rosinen
+  - 25 g Weizenkleie
+  
