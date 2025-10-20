@@ -248,6 +248,7 @@ Quick reference:
 
 ### Tutorials {#tutorials}
 
+-   2025-10-20 ◦ [How to Make House Music (edmprod)](https://www.youtube.com/watch?v=fWlh_yXFooQ)
 -   2025-09-18 ◦ [How I Make a Dub techno long live set from scratch ( first two tracks ) with #mc707 NO TALKING](https://www.youtube.com/watch?v=XReb0bCo_uU&t=781s&ab_channel=AlexFain)
     -   awesome work-through shown on the MC-707 (most of the settings also apply for the MC-101)
 -   2025-09-18 ◦ [Roland MC-101 Looper Workflow: Build Clip Collections for Future Tracks](https://www.youtube.com/watch?v=YZ1w7Y82apY&list=PLYZenHwtJrKH1eEGHFim1zVxQ4i15GIOQ&index=2&pp=gAQBiAQB)
