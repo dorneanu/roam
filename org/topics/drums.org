@@ -9,3 +9,18 @@
 - 2025-04-09 ◦ [[https://splice.com/][Royalty-Free Sounds, FX, Presets & More | Splice]]
 - 2024-04-16 ◦ [[https://www.mikeslessons.com/groove][Groove Scribe]]
 - 2024-04-16 ◦ [[https://daily-drum.com/][Daily Drum - Drum challenges every week]]
+** Patterns
+General guide:
+- 2025-10-23 ◦ [[https://www.edmprod.com/drums-guide/][Drum Patterns: The Ultimate Guide to Drum Programming]]
+- 2025-10-23 ◦ [[https://www.attackmagazine.com/technique/beat-dissected/][Beat Dissected - Attack Magazine]]
+*** House
+- 2025-10-23 ◦ [[https://www.studiobrootle.com/house-drum-patterns/][House Drum Patterns - Studio Brootle]]
+- 2025-10-23 ◦ [[https://www.edmprod.com/how-to-make-house-music/][How To Make House Music: An Easy Guide (2025) - EDMProd]]
+*** Deep House
+- 2025-10-23 ◦ [[https://www.edmprod.com/how-to-make-classic-deep-house/][How to Make Classic Deep House: The Ultimate Guide for Producers (2025)]]
+- 2025-10-23 ◦ [[https://www.studiobrootle.com/deep-house-drum-patterns/][Deep House Drum Patterns - Studio Brootle]]
+- 2025-10-23 ◦ [[https://www.attackmagazine.com/technique/beat-dissected/deep-afro-house/][Drum Programming: Deep Afro House - Attack Magazine]]
+*** Tech House
+- 2025-10-23 ◦ [[https://www.attackmagazine.com/technique/beat-dissected/deep-tech-house/][Deep Tech House - Attack Magazine]]
+*** Bossa Nova
+- 2025-10-23 ◦ [[https://www.attackmagazine.com/technique/beat-dissected/bossa-nova-vibes/][Bossa Nova Vibes - Attack Magazine]]
