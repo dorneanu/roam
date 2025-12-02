@@ -12,13 +12,100 @@ draft = false
 ## Notes {#notes}
 
 
+### Core principles {#core-principles}
+
+According to Jonas Salzgeber, the core principles of Stoicism are represented visually as
+the **Stoic Happiness Triangle**. This triangle provides a simple overview of the most
+important aspects of Stoicism.
+
+
+#### The Core Goal: Eudaimonia {#the-core-goal-eudaimonia}
+
+At the core of the triangle is **Eudaimonia**.
+
+-   Eudaimonia is the ultimate goal of life shared by all ancient philosophies.
+-   It is the main promise of Stoic philosophy and is defined as **living a supremely happy
+    and smoothly flowing life**. It is about thriving in our lives.
+-   The Greek origin of the word means being on good terms (_eu_) with your inner _daimon_ (your
+    highest self).
+-   This state of thriving and living optimally well results from bringing one's
+    moment-to-moment actions into harmony with one's highest self.
+
+
+#### The three core principles {#the-three-core-principles}
+
+The corners of the triangle define how one achieves _eudaimonia_:
+
+<!--list-separator-->
+
+-  Live with **Arete** (express your highest self in every moment)
+
+    -   To be on good terms with your highest self, you must **close the gap between what you are
+        capable of and what you are actually doing**.
+    -   _Arete_ translates as "virtue" or "excellence". It means expressing the highest version
+        of yourself moment to moment.
+    -   Living with _arete_ requires using reason in your actions and living in harmony with
+        deep values.
+    -   **Virtue** acts as a form of wisdom or strength that helps you perform the appropriate
+        action at all times.
+    -   The pursuit of _arete_ is also referred to as **living in agreement with nature**. For
+        humans, nature is perfected by the application of reason.
+
+    The Stoics classified virtue into four cardinal virtues:
+
+    -   **Wisdom:** Understanding how to act and feel appropriately, including deliberation,
+        healthy judgment, perspective, and good sense.
+    -   **Justice:** Knowing how to act and feel well in relationships, including
+        good-heartedness, integrity, public service, and fairness.
+    -   **Courage:** Knowing how to act and feel correctly when facing fearful situations,
+        including bravery, perseverance, honesty, and confidence.
+    -   **Self-Discipline (Temperance):** Knowing how to act and feel right despite strong desire,
+        inner resistance, or lust, including orderliness, self-control, forgiveness, and
+        humility.
+
+<!--list-separator-->
+
+-  Focus on What You Control (accept whatever happens and make the best of it)
+
+    -   This is considered the **most prominent principle in Stoicism**.
+    -   The principle requires focusing solely on the things that are **within our power**.
+    -   The only things we have full control over are our **voluntary judgments and actions**.
+    -   Everything else (such as the weather, other people's actions, health, wealth, or
+        outcomes of our behaviors) is either partially or not at all under our control.
+    -   External things that are not up to us are classified as **indifferent**; they cannot
+        ultimately help or harm our flourishing. They must be accepted, and we should focus on
+        making the best of the situation.
+    -   The goal is to focus on the **process** (effort and preparation) rather than the outcome,
+        allowing one to achieve success regardless of external results.
+
+<!--list-separator-->
+
+-  Take Responsibility (get good from yourself)
+
+    -   This principle states that **good and bad come solely from yourself**.
+    -   Because living with _arete_ is sufficient for a happy life (Corner 1) and external factors
+        are not relevant (Corner 2), we are responsible for our own flourishing.
+    -   We should not let outside circumstances determine our well-being.
+    -   It is crucial in Stoicism that it is **not external events that make us happy or
+        miserable, but our interpretation (judgment) of those events**. Every external event, even
+        if uncontrollable, offers an area we can control: how we choose to respond to it.
+    -   Taking responsibility and focusing on self-improvement helps overcome the "victim
+        mentality"—blaming external circumstances for unhappiness—and is necessary for attaining
+        _eudaimonia_.
+
+        In essence, Salzgeber presents the core of Stoicism as the recognition that happiness
+        (_Eudaimonia_) is achieved internally by striving for excellence (_Arete_), by diligently
+        focusing energy only on what we can influence, and by accepting full responsibility for
+        our own character and responses.
+
+
 ### Stoic practices {#stoic-practices}
 
 Jonas Salzgeber organizes the Stoic methods for practical living into ****55 Stoic
-Practices****, which are intended to help people gain resilience, confidence, and
-calmness. Stoicism is described as a philosophy requiring little theory and a
-lot of practice, akin to surfing or wrestling. Salzgeber categorizes these
-practices into three main types for everyday application:
+Practices****, which are intended to help people gain resilience, confidence, and calmness.
+Stoicism is described as a philosophy requiring little theory and a lot of practice, akin
+to surfing or wrestling. Salzgeber categorizes these practices into three main types for
+everyday application:
 
 1.  Preparing Practices: Exercises done for oneself, often without needing a specific life situation to train on.
 2.  Situational Practices (Dealing with Self): Strategies for handling oneself in tough or challenging life situations.
