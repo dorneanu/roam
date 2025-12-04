@@ -18,7 +18,18 @@
   /* Remove the search icon */
   background-image: none !important;
   padding-right: 16px !important;
-  padding-left: 16px !important;
+  padding-left: 50px !important;
+  text-indent: 0 !important;
+}
+
+/* Hide the search icon/magnifying glass */
+.pagefind-ui__search-icon,
+.pagefind-ui__form svg {
+  opacity: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  position: absolute !important;
+  pointer-events: none !important;
 }
 
 /* Adjust clear button position */
