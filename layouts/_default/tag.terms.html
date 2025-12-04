@@ -1,39 +1,243 @@
 {{ define "main" }}
-<main class="center mv4 content-width ph3">
-  <h1 class="f2 fw6 heading-font">{{ .Title }}</h1>
-  {{ .Content }}
-  
-  {{ $paginator := .Paginate .Data.Pages 20 }}
-  
-  <ul class="list-pages">
-    {{ range $paginator.Pages }}
-      <li class="lh-copy"><a href="{{ .Permalink | relURL }}" class="link f5">{{ .Title }}</a></li>
-    {{ end }}
-  </ul>
-  
-  <!-- Simple Pagination controls -->
-  {{ if gt $paginator.TotalPages 1 }}
-  <div class="pagination-controls flex justify-center items-center mt4 pt3 bt b--light-gray">
-    {{ if $paginator.HasPrev }}
-      <a href="{{ $paginator.Prev.URL }}" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray mr2">« Prev</a>
-    {{ else }}
-      <span class="f6 ba ph3 pv2 mb2 dib moon-gray o-30 mr2">« Prev</span>
-    {{ end }}
-    
-    <span class="f6 gray mh2">
-      Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
-    </span>
-    
-    {{ if $paginator.HasNext }}
-      <a href="{{ $paginator.Next.URL }}" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray ml2">Next »</a>
-    {{ else }}
-      <span class="f6 ba ph3 pv2 mb2 dib moon-gray o-30 ml2">Next »</span>
+<main class="center ph3 ph4-l mw8">
+  <!-- Header with refined spacing -->
+  <div class="mt5 mb4">
+    <h1 class="f1 fw3 heading-font near-black lh-title mb2">{{ .Title }}</h1>
+    {{ if .Content }}
+    <div class="post-content f5 lh-copy mid-gray">
+      {{ .Content }}
+    </div>
     {{ end }}
   </div>
-  {{ end }}
+
+  <!-- Sticky Search Container -->
+  <div class="sticky-search-container bg-white br3 pa4 mb4 shadow-3" style="position: sticky; top: 1rem; z-index: 100;">
+    <div class="flex items-center">
+      <div class="flex-auto">
+        <input
+          type="text"
+          id="tag-search"
+          class="input-reset bn pa3 w-100 br2 bg-near-white f5 lh-copy"
+          placeholder="Search tags..."
+          autocomplete="off">
+      </div>
+      <button
+        id="clear-search"
+        class="button-reset bn ph4 pv3 ml3 br2 bg-near-black white f6 fw5 pointer dim flex-shrink-0"
+        style="transition: all 0.2s ease;">
+        Clear
+      </button>
+    </div>
+    <div class="mt2 f6 gray" id="tag-count"></div>
+  </div>
+
+  <!-- Tags Grid -->
+  <div id="tags-grid">
+    <!-- Empty state (hidden by default) -->
+    <div id="empty-state" class="dn tc pv5 ph4">
+      <div class="f3 gray mb3">
+        <svg class="w3 h3" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+        </svg>
+      </div>
+      <p class="f4 gray fw5">No tags found</p>
+      <p class="f6 gray">Try adjusting your search</p>
+    </div>
+
+    <!-- Tags list -->
+    <div class="tags-container">
+      {{ range .Data.Terms.Alphabetical }}
+        <div class="tag-item" data-title="{{ .Page.Title }}" data-count="{{ .Count }}">
+          <a href="{{ .Page.Permalink }}" class="db bg-white br2 pa3 no-underline tag-card">
+            <div class="flex items-center justify-between">
+              <h3 class="f5 fw5 near-black ma0 lh-title flex-auto pr2">#{{ .Page.Title }}</h3>
+              <span class="f6 fw5 gray flex-shrink-0 tag-count-badge">{{ .Count }}</span>
+            </div>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  </div>
 </main>
 
-<div class="pagination tc db fixed-l bottom-2-l right-2-l mb3 mb0-l">
-{{ partial "back-to-top.html" . }}
+<!-- Scroll to top button -->
+<div id="scroll-to-top" class="fixed bottom-2 right-2 bg-near-black white br-100 pa3 shadow-5 pointer z-5 o-0" style="transition: all 0.3s ease; opacity: 0; visibility: hidden;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 19V5M5 12l7-7 7 7"/>
+  </svg>
 </div>
+
+<style>
+  /* Modern/Minimal Custom Styles for Tags */
+
+  /* Sticky search container */
+  .sticky-search-container {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+  }
+
+  /* Tags grid layout */
+  .tags-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+
+  /* Tag cards */
+  .tag-card {
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+  }
+
+  .tag-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border-color: rgba(0, 0, 0, 0.1);
+  }
+
+  .tag-card:active {
+    transform: translateY(0);
+    transition-duration: 0.1s;
+  }
+
+  /* Tag count badge */
+  .tag-count-badge {
+    background-color: #f4f4f4;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* Search input focus */
+  #tag-search:focus {
+    outline: 2px solid #111;
+    outline-offset: 2px;
+  }
+
+  /* Clear button hover */
+  #clear-search:hover {
+    background-color: #000;
+  }
+
+  #clear-search:active {
+    transform: scale(0.98);
+  }
+
+  /* Scroll to top button */
+  #scroll-to-top {
+    background-color: #111;
+    transition: all 0.3s ease;
+  }
+
+  #scroll-to-top:hover {
+    background-color: #000;
+    transform: scale(1.1);
+  }
+
+  #scroll-to-top.visible {
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .tags-container {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // References to DOM elements
+    const searchInput = document.getElementById('tag-search');
+    const tagItems = document.querySelectorAll('.tag-item');
+    const clearButton = document.getElementById('clear-search');
+    const tagCount = document.getElementById('tag-count');
+    const emptyState = document.getElementById('empty-state');
+    const scrollTopBtn = document.getElementById('scroll-to-top');
+
+    const totalTags = tagItems.length;
+    let totalPosts = 0;
+
+    // Calculate total posts across all tags
+    tagItems.forEach(item => {
+      const count = parseInt(item.getAttribute('data-count'), 10);
+      totalPosts += count;
+    });
+
+    // Update tag count display
+    function updateTagCount(visibleCount, visiblePosts) {
+      if (searchInput.value.trim() === '') {
+        tagCount.textContent = `${totalTags} tags`;
+      } else {
+        tagCount.textContent = `${visibleCount} of ${totalTags} tags`;
+      }
+
+      // Show/hide empty state
+      if (visibleCount === 0) {
+        emptyState.classList.remove('dn');
+      } else {
+        emptyState.classList.add('dn');
+      }
+    }
+
+    // Filter tags based on search input
+    function filterTags() {
+      const searchTerm = searchInput.value.toLowerCase().trim();
+      let visibleCount = 0;
+      let visiblePosts = 0;
+
+      tagItems.forEach(item => {
+        const title = item.getAttribute('data-title').toLowerCase();
+        const count = parseInt(item.getAttribute('data-count'), 10);
+
+        if (title.includes(searchTerm)) {
+          item.style.display = 'block';
+          visibleCount++;
+          visiblePosts += count;
+        } else {
+          item.style.display = 'none';
+        }
+      });
+
+      updateTagCount(visibleCount, visiblePosts);
+    }
+
+    // Clear search
+    function clearSearch() {
+      searchInput.value = '';
+      tagItems.forEach(item => item.style.display = 'block');
+      updateTagCount(totalTags, totalPosts);
+      emptyState.classList.add('dn');
+    }
+
+    // Event Listeners
+    searchInput.addEventListener('input', filterTags);
+    clearButton.addEventListener('click', clearSearch);
+
+    // Scroll to top button
+    window.addEventListener('scroll', function() {
+      if (window.pageYOffset > 500) {
+        scrollTopBtn.classList.add('visible');
+      } else {
+        scrollTopBtn.classList.remove('visible');
+      }
+    }, { passive: true });
+
+    scrollTopBtn.addEventListener('click', function() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // Initialize
+    updateTagCount(totalTags, totalPosts);
+  });
+</script>
 {{ end }}

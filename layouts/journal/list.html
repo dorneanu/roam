@@ -1,90 +1,79 @@
 {{ define "main" }}
-<main class="journal-container mv4 ph3">
-  <header class="mb4">
-    <h1 class="f2 fw6 heading-font green"># {{ .Title }}</h1>
-    <div class="pl3 f5 mid-gray">
+<main class="journal-container mw8 center ph3 ph4-l">
+  <!-- Header with refined spacing -->
+  <header class="mt5 mb4">
+    <h1 class="f1 fw3 heading-font near-black lh-title mb2"># {{ .Title }}</h1>
+    {{ if .Content }}
+    <div class="f5 lh-copy mid-gray">
       {{ .Content }}
     </div>
+    {{ end }}
   </header>
 
   <div class="flex-l flex-wrap">
-  <div class="w-30-l pr3-l journal-timeline relative">
+  <div class="w-30-l pr4-l journal-timeline relative">
     {{ $pages := .Paginate (.Data.Pages) 10 }}
     {{ range $index, $page := $pages.Pages }}
-      <article class="timeline-entry relative {{ if ne $index 0 }}mt4{{ end }}">
-        <div class="flex">
-          <!-- Date column -->
-          <div class="w-40 w-30-ns pr3 tr">
-            <div class="sticky top-2 date-block">
-              <span class="f4 fw6 green db">{{ .Date.Format "02 Jan" }}</span>
-              <span class="f5 moon-gray">{{ .Date.Format "2006" }}</span>
+      <article class="timeline-entry relative {{ if ne $index 0 }}mt3{{ end }}">
+        <a href="javascript:void(0)" data-url="{{ .Permalink }}" class="journal-entry-link db no-underline" data-id="{{ .File.UniqueID }}">
+          <div class="journal-card bg-white br2 pa3">
+            <div class="flex items-start mb2">
+              <time class="f6 fw5 near-black flex-shrink-0 pr3" style="min-width: 5rem;">
+                {{ .Date.Format "02 Jan" }}
+              </time>
+              <h3 class="f5 fw5 near-black ma0 lh-title flex-auto">{{ .Title }}</h3>
             </div>
-          </div>
-          
-          <!-- Content column -->
-          <div class="w-60 w-70-ns pl3 bl b--light-green relative">
-            <div class="absolute top-0 left-0 ml-2-neg bg-white br-100 ba b--light-green h1 w1"></div>
-            <div class="journal-card ba b--moon-gray br2 bg-white pa3 shadow-4">
-              <a href="javascript:void(0)" data-url="{{ .Permalink }}" class="journal-entry-link link near-black no-underline hover-blue" data-id="{{ .File.UniqueID }}">
-                <h3 class="f4 fw5 mt0 mb2">{{ .Title }}</h3>
-                {{ if .Description }}
-                <p class="f5 gray mt0 mb2">{{ .Description }}</p>
-                {{ end }}
-                <div class="flex justify-between items-center mt3">
-                  <time class="f6 moon-gray">{{ .Date.Format "15:04" }}</time>
-                  {{ if .Params.tags }}
-                  <div class="tags">
-                    {{ range first 3 .Params.tags }}
-                      <span class="f7 bg-light-gray br-pill ph2 pv1 mr1">{{ . }}</span>
-                    {{ end }}
-                    {{ if gt (len .Params.tags) 3 }}
-                      <span class="f7 moon-gray">+{{ sub (len .Params.tags) 3 }}</span>
-                    {{ end }}
-                  </div>
-                  {{ end }}
-                </div>
-              </a>
+            {{ if .Description }}
+            <p class="f6 gray mt2 mb0 lh-copy">{{ .Description }}</p>
+            {{ end }}
+            {{ if .Params.tags }}
+            <div class="tags mt2 flex flex-wrap">
+              {{ range first 3 .Params.tags }}
+                <span class="f7 gray ph2 pv1 mr1 mb1 ba b--black-10 br2">#{{ . }}</span>
+              {{ end }}
+              {{ if gt (len .Params.tags) 3 }}
+                <span class="f7 gray pv1">+{{ sub (len .Params.tags) 3 }}</span>
+              {{ end }}
             </div>
+            {{ end }}
           </div>
-        </div>
+        </a>
       </article>
     {{ end }}
-    <!-- Timeline vertical line -->
-    <div class="absolute top-0 bottom-0 left-40 left-30-ns ml1 bl b--light-green timeline-line"></div>
-    
+
     <!-- Pagination controls -->
     {{ if gt $pages.TotalPages 1 }}
-    <div class="pagination-controls flex justify-center items-center mt4 pt3 bt b--light-gray">
+    <div class="pagination-controls flex justify-center items-center mt4 pt3">
       {{ if $pages.HasPrev }}
-        <a href="{{ $pages.Prev.URL }}" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray mr2">« Prev</a>
+        <a href="{{ $pages.Prev.URL }}" class="f6 no-underline bn bg-near-black white ph3 pv2 br2 dib pointer dim mr2">← Prev</a>
       {{ else }}
-        <span class="f6 ba ph3 pv2 mb2 dib moon-gray o-30 mr2">« Prev</span>
+        <span class="f6 bn bg-black-10 gray ph3 pv2 br2 dib mr2">← Prev</span>
       {{ end }}
-      
+
       <span class="f6 gray mh2">
         Page {{ $pages.PageNumber }} of {{ $pages.TotalPages }}
       </span>
-      
+
       {{ if $pages.HasNext }}
-        <a href="{{ $pages.Next.URL }}" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray ml2">Next »</a>
+        <a href="{{ $pages.Next.URL }}" class="f6 no-underline bn bg-near-black white ph3 pv2 br2 dib pointer dim ml2">Next →</a>
       {{ else }}
-        <span class="f6 ba ph3 pv2 mb2 dib moon-gray o-30 ml2">Next »</span>
+        <span class="f6 bn bg-black-10 gray ph3 pv2 br2 dib ml2">Next →</span>
       {{ end }}
     </div>
     {{ end }}
   </div>
-  
+
   <!-- Journal content panel -->
-  <div class="w-70-l pl3-l journal-content-panel relative dn db-l">
-    <div id="journal-content-wrapper" class="sticky-l top-2-l ba b--moon-gray br2 bg-white pa4 shadow-4 min-vh-50-l flex flex-column">
+  <div class="w-70-l pl4-l journal-content-panel relative dn db-l">
+    <div id="journal-content-wrapper" class="sticky-l top-2-l br2 bg-white pa4 min-vh-50-l flex flex-column journal-preview-panel">
       <div id="journal-content" class="overflow-auto flex-auto">
-        <div class="empty-state tc gray">
-          <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
-          <p class="mt3">Select a journal entry to view its content here</p>
+        <div class="empty-state tc gray pv5">
+          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+          <p class="mt3 f5">Select a journal entry to view its content here</p>
         </div>
       </div>
-      <div id="view-original-link" class="dn tc mt3 pt3 bt b--light-gray">
-        <a id="original-post-link" href="#" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray">
+      <div id="view-original-link" class="dn tc mt3 pt3 bt b--black-10">
+        <a id="original-post-link" href="#" class="f6 no-underline bn bg-near-black white ph3 pv2 br2 dib pointer dim">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr1" style="vertical-align: text-bottom;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
           View Original Post
         </a>
@@ -96,13 +85,13 @@
 
 <!-- Mobile journal content overlay -->
 <div id="mobile-journal-overlay" class="fixed top-0 left-0 w-100 h-100 bg-white z-999 dn pa4">
-  <button id="close-overlay" class="absolute top-1 right-1 bn bg-transparent pointer">
+  <button id="close-overlay" class="absolute top-1 right-1 bn bg-transparent pointer pa2 dim">
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
   </button>
   <div class="mobile-content-container flex flex-column h-100 pt4">
     <div id="mobile-journal-content" class="overflow-auto flex-auto"></div>
-    <div id="mobile-view-original-link" class="dn tc mt3 pt3 bt b--light-gray">
-      <a id="mobile-original-post-link" href="#" class="f6 link dim ba ph3 pv2 mb2 dib mid-gray">
+    <div id="mobile-view-original-link" class="dn tc mt3 pt3 bt b--black-10">
+      <a id="mobile-original-post-link" href="#" class="f6 no-underline bn bg-near-black white ph3 pv2 br2 dib pointer dim">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr1" style="vertical-align: text-bottom;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
         View Original Post
       </a>
@@ -110,89 +99,93 @@
   </div>
 </div>
 
-<div class="pagination tc db fixed-l bottom-2-l right-2-l mb3 mb0-l">
-  {{ partial "back-to-top.html" . }}
+<!-- Scroll to top button -->
+<div id="scroll-to-top" class="fixed bottom-2 right-2 bg-near-black white br-100 pa3 shadow-5 pointer z-5 o-0" style="transition: all 0.3s ease; opacity: 0; visibility: hidden;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 19V5M5 12l7-7 7 7"/>
+  </svg>
 </div>
 
 <style>
-  .ml-2-neg {
-    margin-left: -0.5rem;
-  }
-  .left-40 {
-    left: 40%;
-  }
-  .left-30 {
-    left: 30%;
-  }
-  @media screen and (min-width: 30em) {
-    .left-30-ns {
-      left: 30%;
-    }
-  }
-  .timeline-line {
-    z-index: -1;
-  }
+  /* Modern/Minimal Journal Styles */
+
+  /* Journal card styling */
   .journal-card {
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
   }
-  .journal-card:hover {
+
+  .journal-entry-link:hover .journal-card {
     transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border-color: rgba(0, 0, 0, 0.1);
   }
-  
-  .journal-container {
-    max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
+
+  .journal-entry-link.active .journal-card {
+    border-color: #111;
+    border-width: 2px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
   }
-  
+
+  /* Content preview panel */
+  .journal-preview-panel {
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+  }
+
   .sticky-l {
     position: sticky;
   }
-  
+
   .min-vh-50-l {
     min-height: 50vh;
   }
-  
+
   #journal-content {
-    max-height: calc(100vh - 20rem);
+    max-height: calc(100vh - 16rem);
+    overflow-y: auto;
+    overflow-x: hidden;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
-  
+
+  #journal-content * {
+    max-width: 100%;
+  }
+
   @media screen and (min-height: 800px) {
     #journal-content {
-      max-height: calc(100vh - 15rem);
+      max-height: calc(100vh - 12rem);
     }
   }
-  
+
   #mobile-journal-content {
     max-height: calc(100vh - 10rem);
+    overflow-y: auto;
+    overflow-x: hidden;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
-  
+
+  #mobile-journal-content * {
+    max-width: 100%;
+  }
+
   .z-999 {
     z-index: 999;
   }
-  
-  .journal-entry-link.active .journal-card {
-    border-color: #19a974;
-    border-width: 2px;
+
+  /* Loading states */
+  #journal-content.loading,
+  #mobile-journal-content.loading {
+    position: relative;
+    opacity: 0.5;
+    pointer-events: none;
   }
-  
+
   #journal-content.loading:before,
   #mobile-journal-content.loading:before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(255,255,255,0.8);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  #journal-content.loading:after,
-  #mobile-journal-content.loading:after {
     content: "";
     position: absolute;
     top: 50%;
@@ -200,15 +193,36 @@
     transform: translate(-50%, -50%);
     width: 30px;
     height: 30px;
-    border: 3px solid #f3f3f3;
-    border-top: 3px solid #19a974;
+    border: 2px solid #f3f3f3;
+    border-top: 2px solid #111;
     border-radius: 50%;
-    animation: spin 1s linear infinite;
+    animation: spin 0.8s linear infinite;
   }
-  
+
   @keyframes spin {
     0% { transform: translate(-50%, -50%) rotate(0deg); }
     100% { transform: translate(-50%, -50%) rotate(360deg); }
+  }
+
+  /* Scroll to top button */
+  #scroll-to-top {
+    background-color: #111;
+    transition: all 0.3s ease;
+  }
+
+  #scroll-to-top:hover {
+    background-color: #000;
+    transform: scale(1.1);
+  }
+
+  #scroll-to-top.visible {
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
   }
 </style>
 
@@ -361,6 +375,21 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     });
   }
+
+  // Scroll to top button functionality
+  const scrollTopBtn = document.getElementById('scroll-to-top');
+
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > 500) {
+      scrollTopBtn.classList.add('visible');
+    } else {
+      scrollTopBtn.classList.remove('visible');
+    }
+  }, { passive: true });
+
+  scrollTopBtn.addEventListener('click', function() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
 });
 </script>
 {{ end }}

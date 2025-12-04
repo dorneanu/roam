@@ -1,78 +1,97 @@
 {{ define "main" }}
-<main class="center ph3 ph4-l">
-    <div class="mw8 center">
-        <!-- Header -->
-        <div class="mv4">
-            <h1 class="f2 fw6 heading-font">{{ .Title }}</h1>
-            <div class="post-content">
-                {{ .Content }}
+<main class="center ph3 ph4-l mw8">
+    <!-- Header with refined spacing -->
+    <div class="mt5 mb4">
+        <h1 class="f1 fw3 heading-font near-black lh-title mb2">{{ .Title }}</h1>
+        {{ if .Content }}
+        <div class="post-content f5 lh-copy mid-gray">
+            {{ .Content }}
+        </div>
+        {{ end }}
+    </div>
+
+    <!-- Sticky Search Container -->
+    <div class="sticky-search-container bg-white br3 pa4 mb4 shadow-3" style="position: sticky; top: 1rem; z-index: 100;">
+        <!-- Search Input -->
+        <div class="mb3">
+            <div class="flex items-center">
+                <div class="flex-auto">
+                    <input
+                        type="text"
+                        id="topic-search"
+                        class="input-reset bn pa3 w-100 br2 bg-near-white f5 lh-copy"
+                        placeholder="Search topics..."
+                        autocomplete="off">
+                </div>
+                <button
+                    id="clear-filters"
+                    class="button-reset bn ph4 pv3 ml3 br2 bg-near-black white f6 fw5 pointer dim flex-shrink-0"
+                    style="transition: all 0.2s ease;">
+                    Clear
+                </button>
             </div>
+            <div class="mt2 f6 gray" id="search-count"></div>
         </div>
 
-        <!-- Combined Search and Alphabet Navigation -->
-        <div class="filter-container bg-near-white pa3 br2 mb4 shadow-4">
-            <!-- Search Row -->
-            <div class="flex flex-wrap items-center mb3">
-                <div class="w-100 w-80-l pr2-l mb2 mb0-l">
-                    <label for="topic-search" class="f6 b db mb2">Search Topics:</label>
-                    <input type="text" id="topic-search" class="input-reset ba b--black-20 pa2 mb2 db w-100" placeholder="Type to search...">
-                </div>
-                <div class="w-100 w-20-l">
-                    <button id="clear-filters" class="button-reset dib ph3 pv2 br2 white bg-main-color pointer f6 bn mt4 hover-bg-secondary-color">Clear Search</button>
-                </div>
-            </div>
-            
-            <!-- Alphabet Navigation (now inside the same box) -->
-            <div class="bt b--black-10 pt3 pb1 mt2">
-                <div class="mb2">
-                    <span class="f6 b db">Browse by Letter:</span>
-                </div>
-                <div class="alphabet-container nowrap overflow-x-auto">
-                    {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
-                    {{ range $letters }}
-                    <a href="#{{ . | lower }}" class="alphabet-link" data-letter="{{ . | lower }}">{{ . }}</a>
-                    {{ end }}
-                </div>
+        <!-- Minimal Alphabet Navigation -->
+        <div class="bt b--black-10 pt3">
+            <div class="alphabet-container-minimal flex flex-wrap justify-center items-center">
+                {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+                {{ range $letters }}
+                <a href="#{{ . | lower }}" class="alphabet-link-minimal" data-letter="{{ . | lower }}">{{ . }}</a>
+                {{ end }}
             </div>
         </div>
+    </div>
 
-        <!-- Topic list container with matching styles -->
-        <div id="topics-list" class="bg-near-white pa3 br2 shadow-4">
-            <!-- create a list with all uppercase letters -->
-            {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+    <!-- Topics List -->
+    <div id="topics-list">
+        <!-- Empty state (hidden by default) -->
+        <div id="empty-state" class="dn tc pv5 ph4">
+            <div class="f3 gray mb3">
+                <svg class="w3 h3" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+            </div>
+            <p class="f4 gray fw5">No topics found</p>
+            <p class="f6 gray">Try adjusting your search</p>
+        </div>
 
-            <!-- Range through all letters and create topic sections -->
-            {{ $.Scratch.Set "curLetter" "" }}
-            {{ range $letter := $letters }}
-                {{ $hasLetter := false }}
-                {{ range $.Data.Pages.ByTitle }}
-                    {{ $firstChar := substr .Title 0 1 | upper }}
-                    {{ if eq $firstChar $letter }}
-                        {{ $hasLetter = true }}
-                        {{ if ne $firstChar ($.Scratch.Get "curLetter") }}
-                            {{ if ne ($.Scratch.Get "curLetter") "" }}
-                                </div><!-- close flex-wrap -->
-                                </div><!-- close topic-category -->
-                            {{ end }}
-                            {{ $.Scratch.Set "curLetter" $firstChar }}
-                            <div class="topic-category mb4 bl bw2 b--main-color pl3" id="{{ $firstChar | lower }}" data-letter="{{ $firstChar | lower }}">
-                                <h2 class="f3 heading-font mb3 pb2 bb b--light-gray">{{ $firstChar }}</h2>
-                                <div class="flex flex-wrap">
+        <!-- Topic sections -->
+        {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+        {{ $.Scratch.Set "curLetter" "" }}
+        {{ range $letter := $letters }}
+            {{ $hasLetter := false }}
+            {{ range $.Data.Pages.ByTitle }}
+                {{ $firstChar := substr .Title 0 1 | upper }}
+                {{ if eq $firstChar $letter }}
+                    {{ $hasLetter = true }}
+                    {{ if ne $firstChar ($.Scratch.Get "curLetter") }}
+                        {{ if ne ($.Scratch.Get "curLetter") "" }}
+                            </div><!-- close grid -->
+                            </div><!-- close topic-category -->
                         {{ end }}
-                        <div class="w-100 w-third-l pa2 topic-item" data-letter="{{ $firstChar | lower }}">
-                            <div class="ba b--black-10 br2 pa3 bg-white shadow-4 hover-shadow-5 h-100">
-                                <a class="topic-link heading-font mb2 db" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+                        {{ $.Scratch.Set "curLetter" $firstChar }}
+                        <div class="topic-category mb5" id="{{ $firstChar | lower }}" data-letter="{{ $firstChar | lower }}">
+                            <div class="flex items-center mb3">
+                                <h2 class="f2 fw2 heading-font near-black ma0 lh-solid">{{ $firstChar }}</h2>
+                                <div class="ml3 f6 fw5 gray topic-count" data-letter="{{ $firstChar | lower }}"></div>
                             </div>
-                        </div>
+                            <div class="topic-grid">
                     {{ end }}
+                    <div class="topic-item" data-letter="{{ $firstChar | lower }}" data-title="{{ .Title }}">
+                        <a class="db bg-white br2 pa3 no-underline topic-card" href="{{ .Params.externalLink | default .RelPermalink }}">
+                            <h3 class="f5 fw5 near-black ma0 lh-title">{{ .Title }}</h3>
+                        </a>
+                    </div>
                 {{ end }}
             {{ end }}
-            <!-- Close the last section if exists -->
-            {{ if ne ($.Scratch.Get "curLetter") "" }}
-                </div><!-- close flex-wrap -->
-                </div><!-- close topic-category -->
-            {{ end }}
-        </div>
+        {{ end }}
+        <!-- Close the last section if exists -->
+        {{ if ne ($.Scratch.Get "curLetter") "" }}
+            </div><!-- close grid -->
+            </div><!-- close topic-category -->
+        {{ end }}
     </div>
     
     <!-- Scroll to top button -->
@@ -84,159 +103,188 @@
 </main>
 
 <style>
-    /* Just a few minimal custom styles that can't be easily done with Tachyons */
-    .alphabet-container {
-        display: flex;
-        flex-wrap: nowrap;
-        justify-content: center;
-        overflow-x: auto;
-        white-space: nowrap;
-        padding: 0.8rem 0;
-        margin: 0 auto;
-        -webkit-overflow-scrolling: touch;
-        scroll-behavior: smooth;
-        position: relative;
+    /* Modern/Minimal Custom Styles */
+
+    /* Sticky search container with subtle backdrop blur */
+    .sticky-search-container {
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        border: 1px solid rgba(0, 0, 0, 0.05);
     }
-    
-    .alphabet-container:after {
-        content: '';
-        pointer-events: none;
-        position: absolute;
-        right: 0;
-        top: 0;
-        bottom: 0;
-        width: 40px;
-        background: linear-gradient(to right, rgba(249,249,249,0), rgba(249,249,249,1));
+
+    /* Refined alphabet navigation */
+    .alphabet-container-minimal {
+        gap: 0.25rem;
     }
-    
-    .alphabet-container:before {
-        content: '';
-        pointer-events: none;
-        position: absolute;
-        left: 0;
-        top: 0;
-        bottom: 0;
-        width: 40px;
-        background: linear-gradient(to left, rgba(249,249,249,0), rgba(249,249,249,1));
-        z-index: 1;
-    }
-    
-    .alphabet-link {
+
+    .alphabet-link-minimal {
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        min-width: 2.2rem;
-        width: 2.2rem;
-        height: 2.2rem;
-        font-size: 1rem;
-        font-weight: 600;
-        background-color: var(--main-color, #357edd);
+        width: 2rem;
+        height: 2rem;
+        font-size: 0.875rem;
+        font-weight: 500;
+        color: #666;
+        text-decoration: none;
+        border-radius: 0.25rem;
+        transition: all 0.15s ease;
+        border-bottom: none !important;
+    }
+
+    .alphabet-link-minimal:hover {
+        background-color: #f4f4f4;
+        color: #111;
+        border-bottom: none !important;
+    }
+
+    .alphabet-link-minimal.is-active {
+        background-color: #111;
         color: white;
-        border-radius: 50%;
-        text-decoration: none;
-        margin: 0.25rem 0.3rem;
-        flex-shrink: 0;
-        transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-        border-bottom: none !important;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        position: relative;
     }
-    
-    .alphabet-link:hover {
-        background-color: var(--secondary-color, #19a974);
-        transform: translateY(-5px) scale(1.15);
-        border-bottom: none !important;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-    }
-    
-    .alphabet-link:active {
-        transform: translateY(-2px) scale(1.05);
-        transition: all 0.1s;
-    }
-    
-    .alphabet-link.disabled {
-        background-color: #e0e0e0;
-        color: #a0a0a0;
+
+    .alphabet-link-minimal.disabled {
+        color: #ddd;
         cursor: not-allowed;
-        box-shadow: none;
-        transform: none;
+        pointer-events: none;
     }
-    
-    .alphabet-link.is-active {
-        background-color: var(--secondary-color, #19a974);
-        box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+
+    /* Modern topic grid */
+    .topic-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 1rem;
     }
-    
-    .topic-item {
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+    /* Minimal topic cards with subtle interactions */
+    .topic-card {
+        border: 1px solid rgba(0, 0, 0, 0.06);
+        transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
     }
-    
-    .topic-item:hover {
-        transform: translateY(-3px);
+
+    .topic-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        border-color: rgba(0, 0, 0, 0.1);
     }
-    
-    .topic-link {
-        font-size: 1rem;
-        font-weight: 600;
-        color: var(--main-color, #357edd);
-        text-decoration: none;
-        border-bottom: none !important;
-        transition: color 0.2s ease;
+
+    .topic-card:active {
+        transform: translateY(0);
+        transition-duration: 0.1s;
     }
-    
-    .topic-link:hover {
-        color: var(--secondary-color, #19a974) !important;
-        border-bottom: none !important;
+
+    /* Search input focus state */
+    #topic-search:focus {
+        outline: 2px solid #111;
+        outline-offset: 2px;
     }
-    
-    .topic-category h2 {
-        color: var(--main-color, #357edd);
-        font-family: "Source Sans Pro", sans-serif;
+
+    /* Clear button hover */
+    #clear-filters:hover {
+        background-color: #000;
     }
-    
-    #topics-list, .filter-container {
-        background-color: #f9f9f9;
-        box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+
+    #clear-filters:active {
+        transform: scale(0.98);
     }
-    
-    .sticky { position: sticky; top: 1rem; z-index: 5; }
+
+    /* Scroll to top button */
+    #scroll-to-top {
+        background-color: #111;
+        transition: all 0.3s ease;
+    }
+
+    #scroll-to-top:hover {
+        background-color: #000;
+        transform: scale(1.1);
+    }
+
+    #scroll-to-top.visible {
+        opacity: 1 !important;
+        visibility: visible !important;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+        .topic-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .alphabet-link-minimal {
+            width: 1.75rem;
+            height: 1.75rem;
+            font-size: 0.8125rem;
+        }
+    }
+
+    /* Smooth scrolling */
+    html {
+        scroll-behavior: smooth;
+    }
 </style>
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        // References to the DOM elements
+        // References to DOM elements
         const searchInput = document.getElementById('topic-search');
         const topicItems = document.querySelectorAll('.topic-item');
         const topicCategories = document.querySelectorAll('.topic-category');
-        const alphabetLinks = document.querySelectorAll('.alphabet-link');
+        const alphabetLinks = document.querySelectorAll('.alphabet-link-minimal');
         const clearButton = document.getElementById('clear-filters');
+        const searchCount = document.getElementById('search-count');
+        const emptyState = document.getElementById('empty-state');
+        const scrollTopBtn = document.getElementById('scroll-to-top');
 
-        // Function to filter topics based on search input
-        function filterTopics() {
-            const searchTerm = searchInput.value.toLowerCase();
-            
-            // Hide all topics initially
-            topicItems.forEach(item => {
-                item.style.display = 'none';
-            });
+        const totalTopics = topicItems.length;
 
-            // Hide all category sections initially
+        // Initialize topic counts for each letter
+        function initializeTopicCounts() {
             topicCategories.forEach(category => {
-                category.style.display = 'none';
+                const letter = category.getAttribute('data-letter');
+                const items = category.querySelectorAll('.topic-item');
+                const countEl = category.querySelector('.topic-count');
+                if (countEl) {
+                    countEl.textContent = `(${items.length})`;
+                }
             });
+        }
 
-            // Show topics that match the search term
+        // Update search count and empty state
+        function updateSearchCount(visibleCount) {
+            if (searchInput.value.trim() === '') {
+                searchCount.textContent = `${totalTopics} topics`;
+            } else {
+                searchCount.textContent = `${visibleCount} of ${totalTopics} topics`;
+            }
+
+            // Show/hide empty state
+            if (visibleCount === 0) {
+                emptyState.classList.remove('dn');
+            } else {
+                emptyState.classList.add('dn');
+            }
+        }
+
+        // Filter topics based on search input
+        function filterTopics() {
+            const searchTerm = searchInput.value.toLowerCase().trim();
+            let visibleCount = 0;
+
+            // Reset visibility
+            topicItems.forEach(item => item.style.display = 'none');
+            topicCategories.forEach(category => category.style.display = 'none');
+
+            // Filter and show matching topics
             topicItems.forEach(item => {
-                const title = item.querySelector('a').textContent.toLowerCase();
+                const title = item.getAttribute('data-title').toLowerCase();
                 const letter = item.getAttribute('data-letter');
 
-                // Check if the topic matches the search
-                const matchesSearch = title.includes(searchTerm);
-
-                if (matchesSearch) {
+                if (title.includes(searchTerm)) {
                     item.style.display = 'block';
-                    
-                    // Show the parent category
+                    visibleCount++;
+
+                    // Show parent category
                     const parentCategory = document.querySelector(`.topic-category[data-letter="${letter}"]`);
                     if (parentCategory) {
                         parentCategory.style.display = 'block';
@@ -244,26 +292,32 @@
                 }
             });
 
-            // Update active state of alphabet links
+            // Update UI
+            updateSearchCount(visibleCount);
             updateAlphabetLinks();
+            updateCategoryCounts();
         }
 
-        // Function to scroll to a specific letter section
-        function scrollToLetter(letter) {
-            const section = document.getElementById(letter.toLowerCase());
-            if (section) {
-                window.scrollTo({
-                    top: section.offsetTop - 100,
-                    behavior: 'smooth'
-                });
-            }
+        // Update category counts based on visible items
+        function updateCategoryCounts() {
+            topicCategories.forEach(category => {
+                const visibleItems = Array.from(category.querySelectorAll('.topic-item'))
+                    .filter(item => item.style.display !== 'none');
+                const countEl = category.querySelector('.topic-count');
+                if (countEl) {
+                    countEl.textContent = `(${visibleItems.length})`;
+                }
+            });
         }
 
-        // Function to update the active state of alphabet links
+        // Update alphabet navigation state
         function updateAlphabetLinks() {
-            const visibleCategories = Array.from(document.querySelectorAll('.topic-category[style="display: block;"]'));
-            const visibleLetters = visibleCategories.map(cat => cat.getAttribute('data-letter').toLowerCase());
-            
+            const visibleCategories = Array.from(topicCategories)
+                .filter(cat => cat.style.display !== 'none');
+            const visibleLetters = visibleCategories.map(cat =>
+                cat.getAttribute('data-letter').toLowerCase()
+            );
+
             alphabetLinks.forEach(link => {
                 const letter = link.getAttribute('data-letter').toLowerCase();
                 if (visibleLetters.includes(letter)) {
@@ -274,105 +328,93 @@
             });
         }
 
-        // Function to handle the active link highlighting based on scroll position
+        // Scroll to specific letter section
+        function scrollToLetter(letter) {
+            const section = document.getElementById(letter.toLowerCase());
+            if (section) {
+                const offset = 120;
+                const elementPosition = section.getBoundingClientRect().top;
+                const offsetPosition = elementPosition + window.pageYOffset - offset;
+
+                window.scrollTo({
+                    top: offsetPosition,
+                    behavior: 'smooth'
+                });
+            }
+        }
+
+        // Highlight active letter based on scroll position
         function highlightActiveLetterOnScroll() {
-            const scrollPosition = window.scrollY + 150; // Offset to account for header
-            const categories = Array.from(document.querySelectorAll('.topic-category'));
-            
-            // Find the category that's currently most visible in the viewport
+            const categories = Array.from(topicCategories).filter(cat =>
+                cat.style.display !== 'none'
+            );
+
             let activeCategory = null;
             for (let category of categories) {
                 const rect = category.getBoundingClientRect();
-                if (rect.top <= 150 && rect.bottom >= 150) {
+                if (rect.top <= 200 && rect.bottom >= 200) {
                     activeCategory = category;
                     break;
                 }
             }
-            
-            // If we found an active category, highlight its letter
+
+            alphabetLinks.forEach(link => link.classList.remove('is-active'));
+
             if (activeCategory) {
                 const activeLetter = activeCategory.getAttribute('data-letter');
-                
-                // Remove active class from all letters
-                alphabetLinks.forEach(link => {
-                    link.classList.remove('is-active');
-                });
-                
-                // Add active class to current letter
-                const activeLink = document.querySelector(`.alphabet-link[data-letter="${activeLetter}"]`);
-                if (activeLink) {
+                const activeLink = document.querySelector(
+                    `.alphabet-link-minimal[data-letter="${activeLetter}"]`
+                );
+                if (activeLink && !activeLink.classList.contains('disabled')) {
                     activeLink.classList.add('is-active');
                 }
             }
         }
 
-        // Function to clear all filters
+        // Clear all filters
         function clearFilters() {
             searchInput.value = '';
-            
-            topicItems.forEach(item => {
-                item.style.display = 'block';
-            });
-            
-            topicCategories.forEach(category => {
-                category.style.display = 'block';
-            });
-            
-            alphabetLinks.forEach(link => {
-                link.classList.remove('disabled');
-            });
+            topicItems.forEach(item => item.style.display = 'block');
+            topicCategories.forEach(category => category.style.display = 'block');
+            alphabetLinks.forEach(link => link.classList.remove('disabled'));
+            updateSearchCount(totalTopics);
+            initializeTopicCounts();
+            emptyState.classList.add('dn');
         }
 
-        // Event listeners
-        if (searchInput) {
-            searchInput.addEventListener('input', filterTopics);
-        }
-        
-        if (clearButton) {
-            clearButton.addEventListener('click', clearFilters);
-        }
-        
-        if (alphabetLinks) {
-            alphabetLinks.forEach(link => {
-                link.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    if (!this.classList.contains('disabled')) {
-                        // Remove active class from all links
-                        alphabetLinks.forEach(l => l.classList.remove('is-active'));
-                        // Add active class to clicked link
-                        this.classList.add('is-active');
-                        
-                        const letter = this.getAttribute('data-letter');
-                        scrollToLetter(letter);
-                    }
-                });
+        // Event Listeners
+        searchInput.addEventListener('input', filterTopics);
+        clearButton.addEventListener('click', clearFilters);
+
+        alphabetLinks.forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                if (!this.classList.contains('disabled')) {
+                    const letter = this.getAttribute('data-letter');
+                    scrollToLetter(letter);
+                }
             });
-        }
-        
-        // Handle scroll-to-top button
-        const scrollTopBtn = document.getElementById('scroll-to-top');
-        
+        });
+
+        // Scroll to top button
         window.addEventListener('scroll', function() {
-            if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
-                scrollTopBtn.style.opacity = '1';
-                scrollTopBtn.style.visibility = 'visible';
+            if (window.pageYOffset > 500) {
+                scrollTopBtn.classList.add('visible');
             } else {
-                scrollTopBtn.style.opacity = '0';
-                scrollTopBtn.style.visibility = 'hidden';
+                scrollTopBtn.classList.remove('visible');
             }
-        });
-        
+        }, { passive: true });
+
         scrollTopBtn.addEventListener('click', function() {
-            window.scrollTo({
-                top: 0,
-                behavior: 'smooth'
-            });
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         });
-        
-        // Add scroll event listener to highlight active letter
+
+        // Highlight active letter on scroll
         window.addEventListener('scroll', highlightActiveLetterOnScroll, { passive: true });
-        
-        // Initial highlight
+
+        // Initialize
+        initializeTopicCounts();
+        updateSearchCount(totalTopics);
         highlightActiveLetterOnScroll();
     });
 </script>
