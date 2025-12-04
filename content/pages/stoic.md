@@ -1,6 +1,6 @@
 ---
 title: "Daily Stoic Practice"
-date: 2024-12-04
+date: 2025-12-04
 url: "/stoic/"
 layout: "stoic"
 description: "Your daily reminder of Stoic practices from The Little Book of Stoicism"
