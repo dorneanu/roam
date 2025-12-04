@@ -1,0 +1,127 @@
+{{ define "main" }}
+<main class="center mv4 content-width ph3">
+  <div class="f2 fw6 heading-color heading-font mb4">{{ .Title }}</div>
+
+  <div id="stoic-practice" class="lh-copy">
+    <div class="tc pv5 silver">
+      <p class="f4">Loading your Stoic practice...</p>
+    </div>
+  </div>
+
+  <!-- Navigation Buttons -->
+  <div class="mt4 flex justify-between items-center">
+    <button id="prev-practice" class="button-nav pointer dim">← Previous</button>
+    <div class="practice-counter silver f6"></div>
+    <button id="next-practice" class="button-nav pointer dim">Next →</button>
+  </div>
+
+  <div class="mt5 silver f6 lh-copy bt b--moon-gray pt4">
+    <p>Based on the 55 Stoic practices from
+    <a href="https://brainfck.org/book/the-little-book-of-stoicism/" class="link silver dim">The Little Book of Stoicism</a> by Jonas Salzgeber.</p>
+    <p class="mt2">Each day brings a new practice to integrate Stoic wisdom into your life.</p>
+  </div>
+</main>
+
+<style>
+/* Minimal custom styles - mostly use Tachyons */
+.practice-container {
+  background: var(--practice-bg, #f9f9f9);
+  border-left: 4px solid var(--practice-border, #2c3e50);
+}
+
+.dark-mode {
+  --practice-bg: #1a1a1a;
+  --practice-border: #5dade2;
+  --practice-title-color: #ecf0f1;
+  --practice-subtitle-color: #95a5a6;
+  --practice-text-color: #bdc3c7;
+  --practice-action-bg: #2c3e50;
+  --practice-action-border: #5dade2;
+  --practice-action-text: #5dade2;
+  --practice-reflection-border: #34495e;
+}
+
+:root {
+  --practice-bg: #f9f9f9;
+  --practice-border: #2c3e50;
+  --practice-title-color: #2c3e50;
+  --practice-subtitle-color: #34495e;
+  --practice-text-color: #34495e;
+  --practice-action-bg: #ecf0f1;
+  --practice-action-border: #3498db;
+  --practice-action-text: #2980b9;
+  --practice-reflection-border: #ecf0f1;
+}
+
+.practice-category {
+  color: #7f8c8d;
+  letter-spacing: 0.1em;
+}
+
+.practice-title {
+  color: var(--practice-title-color);
+  line-height: 1.2;
+}
+
+.practice-subtitle {
+  color: var(--practice-subtitle-color);
+}
+
+.practice-description {
+  color: var(--practice-text-color);
+}
+
+.practice-action {
+  background: var(--practice-action-bg);
+  border-left: 3px solid var(--practice-action-border);
+}
+
+.practice-action strong {
+  color: var(--practice-action-text);
+}
+
+.practice-reflection {
+  color: #7f8c8d;
+  border-top: 1px solid var(--practice-reflection-border);
+}
+
+.practice-reflection strong {
+  color: #95a5a6;
+}
+
+.button-nav {
+  background: transparent;
+  color: #2c3e50;
+  border: 2px solid #2c3e50;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+  font-weight: 600;
+}
+
+.button-nav:hover {
+  background: #2c3e50;
+  color: white;
+}
+
+.dark-mode .button-nav {
+  color: #ecf0f1;
+  border-color: #5dade2;
+}
+
+.dark-mode .button-nav:hover {
+  background: #5dade2;
+  color: #1a1a1a;
+}
+
+@media (max-width: 768px) {
+  .button-nav {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.85rem;
+  }
+}
+</style>
+
+<script src="/js/stoic.js"></script>
+{{ end }}

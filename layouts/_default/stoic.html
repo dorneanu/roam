@@ -1,0 +1,296 @@
+{{ define "main" }}
+<main class="center mv4 content-width ph3">
+  <div class="f2 fw6 heading-color heading-font mb3">{{ .Title }}</div>
+  
+  <div id="stoic-practice" class="lh-copy">
+    <div class="practice-loading tc pv5 silver">
+      <p class="f4">Loading your Stoic practice...</p>
+    </div>
+  </div>
+
+  <!-- Navigation Buttons -->
+  <div class="mt4 flex justify-between items-center">
+    <button id="prev-practice" class="button-nav pointer dim">← Previous</button>
+    <div class="practice-counter silver f6"></div>
+    <button id="next-practice" class="button-nav pointer dim">Next →</button>
+  </div>
+
+  <!-- Action Buttons -->
+  <div class="mt3 flex flex-wrap gap3">
+    <button id="refresh-practice" class="button-stoic pointer dim">🎲 Random</button>
+    <button id="quote-card" class="button-stoic pointer dim">🖼️ Quote Card</button>
+  </div>
+
+  <!-- Related Practices Section (will be populated by JS) -->
+  <div id="related-practices" class="mt4"></div>
+
+  <div class="mt5 silver f6 lh-copy">
+    <p>Based on the 55 Stoic practices from 
+    <a href="https://brainfck.org/book/the-little-book-of-stoicism/" class="link silver underline-hover">The Little Book of Stoicism</a> by Jonas Salzgeber.</p>
+    <p class="mt2">Each day brings a new practice to integrate Stoic wisdom into your life.</p>
+  </div>
+</main>
+
+<style>
+.practice-container {
+  background: #f9f9f9;
+  border-left: 4px solid #2c3e50;
+  padding: 2rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.dark-mode .practice-container {
+  background: #1a1a1a;
+  border-left-color: #5dade2;
+}
+
+.practice-category {
+  color: #7f8c8d;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 1.5px;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.practice-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}
+
+.dark-mode .practice-title {
+  color: #ecf0f1;
+}
+
+.practice-subtitle {
+  color: #34495e;
+  font-size: 1.1rem;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.dark-mode .practice-subtitle {
+  color: #95a5a6;
+}
+
+.practice-description {
+  line-height: 1.7;
+  color: #34495e;
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+}
+
+.dark-mode .practice-description {
+  color: #bdc3c7;
+}
+
+.practice-action {
+  background: #ecf0f1;
+  padding: 1.25rem;
+  border-radius: 4px;
+  margin-top: 1.5rem;
+  border-left: 3px solid #3498db;
+}
+
+.dark-mode .practice-action {
+  background: #2c3e50;
+  border-left-color: #5dade2;
+}
+
+.practice-action strong {
+  color: #2980b9;
+  font-size: 1rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.dark-mode .practice-action strong {
+  color: #5dade2;
+}
+
+.practice-reflection {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  font-style: italic;
+  color: #7f8c8d;
+  border-top: 1px solid #ecf0f1;
+}
+
+.dark-mode .practice-reflection {
+  border-top-color: #34495e;
+}
+
+.practice-reflection strong {
+  color: #95a5a6;
+  font-style: normal;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.button-stoic {
+  background: #2c3e50;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  transition: background 0.2s ease;
+  font-weight: 600;
+}
+
+.button-stoic:hover {
+  background: #34495e;
+}
+
+.dark-mode .button-stoic {
+  background: #34495e;
+}
+
+.dark-mode .button-stoic:hover {
+  background: #5dade2;
+}
+
+.practice-loading {
+  text-align: center;
+  padding: 3rem;
+  color: #7f8c8d;
+}
+
+.gap3 {
+  gap: 1rem;
+}
+
+.button-nav {
+  background: transparent;
+  color: #2c3e50;
+  border: 2px solid #2c3e50;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+  font-weight: 600;
+}
+
+.button-nav:hover {
+  background: #2c3e50;
+  color: white;
+}
+
+.dark-mode .button-nav {
+  color: #ecf0f1;
+  border-color: #5dade2;
+}
+
+.dark-mode .button-nav:hover {
+  background: #5dade2;
+  color: #1a1a1a;
+}
+
+.related-practices-container {
+  background: #f0f4f8;
+  padding: 1.5rem;
+  border-radius: 4px;
+  margin-top: 2rem;
+}
+
+.dark-mode .related-practices-container {
+  background: #2c3e50;
+}
+
+.related-practice-link {
+  display: block;
+  padding: 0.75rem;
+  margin: 0.5rem 0;
+  background: white;
+  border-left: 3px solid #3498db;
+  border-radius: 3px;
+  text-decoration: none;
+  color: #2c3e50;
+  transition: all 0.2s ease;
+}
+
+.related-practice-link:hover {
+  transform: translateX(5px);
+  border-left-width: 5px;
+}
+
+.dark-mode .related-practice-link {
+  background: #1a1a1a;
+  color: #ecf0f1;
+  border-left-color: #5dade2;
+}
+
+.quote-card {
+  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+  padding: 3rem 2rem;
+  border-radius: 8px;
+  color: white;
+  text-align: center;
+  margin: 2rem 0;
+  position: relative;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.quote-card-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  line-height: 1.3;
+}
+
+.quote-card-subtitle {
+  font-size: 1rem;
+  font-style: italic;
+  opacity: 0.9;
+  margin-bottom: 2rem;
+}
+
+.quote-card-action {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  font-weight: 400;
+}
+
+.quote-card-footer {
+  font-size: 0.85rem;
+  opacity: 0.7;
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .practice-container {
+    padding: 1.5rem;
+  }
+
+  .practice-title {
+    font-size: 1.5rem;
+  }
+
+  .button-stoic {
+    flex: 1;
+    min-width: 120px;
+  }
+
+  .button-nav {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.85rem;
+  }
+
+  .quote-card {
+    padding: 2rem 1.5rem;
+  }
+
+  .quote-card-title {
+    font-size: 1.25rem;
+  }
+}
+</style>
+
+<script src="/js/stoic.js"></script>
+{{ end }}
