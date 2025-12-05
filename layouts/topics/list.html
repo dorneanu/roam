@@ -1005,6 +1005,9 @@
             bookmarksModal.style.display = 'flex';
         }
 
+        // Make showBookmarksModal available globally for FAB menu
+        window.showBookmarksModal = showBookmarksModal;
+
         // Close bookmarks modal
         function closeBookmarksModal() {
             bookmarksModal.style.display = 'none';
