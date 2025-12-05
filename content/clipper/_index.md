@@ -1,8 +1,8 @@
----
-title: "Web Clipper Setup"
-date: 2024-12-05
-draft: false
----
++++
+title = "Web Clipper Setup"
+tags = ["page"]
+draft = false
++++
 
 # Web Clipper Bookmarklet
 
