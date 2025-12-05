@@ -79,21 +79,33 @@
                             </div>
                             <div class="topic-grid">
                     {{ end }}
-                    <div class="topic-item" data-letter="{{ $firstChar | lower }}" data-title="{{ .Title }}" data-filename="{{ .File.LogicalName }}">
+                    <div class="topic-item" data-letter="{{ $firstChar | lower }}" data-title="{{ .Title }}" data-filename="{{ .File.LogicalName }}" data-url="{{ .Params.externalLink | default .RelPermalink }}">
                         <div class="topic-card-wrapper relative">
                             <a class="db bg-white br2 pa3 no-underline topic-card" href="{{ .Params.externalLink | default .RelPermalink }}">
                                 <h3 class="f5 fw5 near-black ma0 lh-title">{{ .Title }}</h3>
                             </a>
-                            <button class="delete-marker bn bg-transparent pointer absolute top-0 right-0 pa2"
-                                    title="Mark for deletion"
-                                    style="opacity: 0.5; transition: opacity 0.2s;"
-                                    onmouseover="this.style.opacity='1'"
-                                    onmouseout="this.style.opacity='0.5'">
-                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
-                                    <path d="M2 4h12M5 4V3a1 1 0 011-1h4a1 1 0 011 1v1M13 4v9a1 1 0 01-1 1H4a1 1 0 01-1-1V4h10z"/>
-                                    <path d="M6.5 7v4M9.5 7v4"/>
-                                </svg>
-                            </button>
+                            <div class="topic-actions absolute top-0 right-0 flex items-center pa2" style="gap: 0.25rem;">
+                                <button class="preview-btn bn bg-transparent pointer"
+                                        title="Preview content"
+                                        style="opacity: 0.5; transition: opacity 0.2s;"
+                                        onmouseover="this.style.opacity='1'"
+                                        onmouseout="this.style.opacity='0.5'">
+                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M1 8s3-5 7-5 7 5 7 5-3 5-7 5-7-5-7-5z"/>
+                                        <circle cx="8" cy="8" r="2"/>
+                                    </svg>
+                                </button>
+                                <button class="delete-marker bn bg-transparent pointer"
+                                        title="Mark for deletion"
+                                        style="opacity: 0.5; transition: opacity 0.2s;"
+                                        onmouseover="this.style.opacity='1'"
+                                        onmouseout="this.style.opacity='0.5'">
+                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M2 4h12M5 4V3a1 1 0 011-1h4a1 1 0 011 1v1M13 4v9a1 1 0 01-1 1H4a1 1 0 01-1-1V4h10z"/>
+                                        <path d="M6.5 7v4M9.5 7v4"/>
+                                    </svg>
+                                </button>
+                            </div>
                         </div>
                     </div>
                 {{ end }}
@@ -128,6 +140,34 @@
             <button id="clear-all" class="button-reset bn ph3 pv2 br2 bg-light-red near-black f6 fw5 pointer dim flex-auto">
                 Clear All
             </button>
+        </div>
+    </div>
+
+    <!-- Preview Modal -->
+    <div id="preview-modal" class="fixed top-0 left-0 w-100 h-100 flex items-center justify-center" style="display: none; z-index: 9999; background-color: rgba(0, 0, 0, 0.7);">
+        <div class="bg-white br3 shadow-5 relative" style="width: 90%; max-width: 900px; max-height: 90vh; display: flex; flex-direction: column;">
+            <!-- Modal Header -->
+            <div class="flex items-center justify-between pa3 bb b--black-10">
+                <h3 id="preview-title" class="f4 fw5 near-black ma0"></h3>
+                <button id="close-modal" class="bn bg-transparent pointer f3 gray lh-solid" style="line-height: 1;">&times;</button>
+            </div>
+
+            <!-- Modal Content -->
+            <div id="preview-content" class="pa4 overflow-y-auto flex-auto" style="max-height: calc(90vh - 150px);">
+                <div class="flex items-center justify-center pv5">
+                    <div class="spinner"></div>
+                </div>
+            </div>
+
+            <!-- Modal Footer -->
+            <div class="flex items-center justify-between pa3 bt b--black-10">
+                <button id="mark-from-preview" class="button-reset bn ph3 pv2 br2 bg-light-red near-black f6 fw5 pointer dim">
+                    Mark for Deletion
+                </button>
+                <a id="visit-topic" href="#" target="_blank" class="button-reset bn ph3 pv2 br2 bg-near-black white f6 fw5 pointer dim no-underline">
+                    Visit Page →
+                </a>
+            </div>
         </div>
     </div>
 </main>
@@ -219,9 +259,17 @@
         transform: scale(0.98);
     }
 
-    /* Delete marker styles */
+    /* Delete marker and preview button styles */
     .topic-card-wrapper {
         position: relative;
+    }
+
+    .preview-btn {
+        color: #999;
+    }
+
+    .preview-btn:hover {
+        color: #3498db;
     }
 
     .delete-marker {
@@ -246,6 +294,64 @@
     /* Deletion panel */
     #deletion-panel {
         border: 1px solid rgba(0, 0, 0, 0.1);
+    }
+
+    /* Preview Modal */
+    #preview-modal {
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+    }
+
+    /* Loading spinner */
+    .spinner {
+        border: 3px solid #f3f3f3;
+        border-top: 3px solid #3498db;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+    }
+
+    /* Preview content styling */
+    #preview-content {
+        line-height: 1.6;
+    }
+
+    #preview-content h1,
+    #preview-content h2,
+    #preview-content h3 {
+        margin-top: 1.5rem;
+        margin-bottom: 0.75rem;
+    }
+
+    #preview-content p {
+        margin-bottom: 1rem;
+    }
+
+    #preview-content ul,
+    #preview-content ol {
+        margin-bottom: 1rem;
+        padding-left: 2rem;
+    }
+
+    #preview-content code {
+        background-color: #f5f5f5;
+        padding: 0.125rem 0.25rem;
+        border-radius: 0.25rem;
+        font-size: 0.9em;
+    }
+
+    #preview-content pre {
+        background-color: #f5f5f5;
+        padding: 1rem;
+        border-radius: 0.25rem;
+        overflow-x: auto;
+        margin-bottom: 1rem;
     }
 
     /* Scroll to top button */
@@ -594,6 +700,105 @@
         // Initialize marked topics on page load
         applyMarkedStates();
         updateDeletionPanel();
+
+        // ===== Preview Feature =====
+        const previewModal = document.getElementById('preview-modal');
+        const previewTitle = document.getElementById('preview-title');
+        const previewContent = document.getElementById('preview-content');
+        const closeModalBtn = document.getElementById('close-modal');
+        const visitTopicBtn = document.getElementById('visit-topic');
+        const markFromPreviewBtn = document.getElementById('mark-from-preview');
+        let currentPreviewItem = null;
+
+        // Open preview modal
+        async function openPreview(topicItem) {
+            currentPreviewItem = topicItem;
+            const title = topicItem.getAttribute('data-title');
+            const url = topicItem.getAttribute('data-url');
+
+            // Set title and link
+            previewTitle.textContent = title;
+            visitTopicBtn.href = url;
+
+            // Show modal with loading state
+            previewModal.style.display = 'flex';
+            previewContent.innerHTML = '<div class="flex items-center justify-center pv5"><div class="spinner"></div></div>';
+
+            // Update mark button text based on current state
+            updateMarkButton();
+
+            // Fetch content
+            try {
+                const response = await fetch(url);
+                const html = await response.text();
+
+                // Parse HTML and extract main content
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, 'text/html');
+
+                // Try to find the main content area (adjust selector based on your layout)
+                const mainContent = doc.querySelector('main') || doc.querySelector('.post-content') || doc.querySelector('article');
+
+                if (mainContent) {
+                    previewContent.innerHTML = mainContent.innerHTML;
+                } else {
+                    previewContent.innerHTML = '<p class="gray">Could not load preview content.</p>';
+                }
+            } catch (error) {
+                previewContent.innerHTML = '<p class="red">Error loading content. Please try visiting the page directly.</p>';
+            }
+        }
+
+        // Close preview modal
+        function closePreview() {
+            previewModal.style.display = 'none';
+            currentPreviewItem = null;
+        }
+
+        // Update mark button text
+        function updateMarkButton() {
+            if (!currentPreviewItem) return;
+            const filename = currentPreviewItem.getAttribute('data-filename');
+            const marked = getMarkedTopics();
+            const isMarked = marked.some(m => m.filename === filename);
+            markFromPreviewBtn.textContent = isMarked ? 'Unmark' : 'Mark for Deletion';
+            markFromPreviewBtn.style.backgroundColor = isMarked ? '#ddd' : '#ffebe9';
+        }
+
+        // Event listeners for preview buttons
+        document.querySelectorAll('.preview-btn').forEach(button => {
+            button.addEventListener('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                const topicItem = this.closest('.topic-item');
+                openPreview(topicItem);
+            });
+        });
+
+        // Close modal
+        closeModalBtn.addEventListener('click', closePreview);
+
+        // Close on background click
+        previewModal.addEventListener('click', function(e) {
+            if (e.target === previewModal) {
+                closePreview();
+            }
+        });
+
+        // Close on ESC key
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && previewModal.style.display === 'flex') {
+                closePreview();
+            }
+        });
+
+        // Mark from preview
+        markFromPreviewBtn.addEventListener('click', function() {
+            if (currentPreviewItem) {
+                toggleMarked(currentPreviewItem);
+                updateMarkButton();
+            }
+        });
     });
 </script>
 {{ end }}
