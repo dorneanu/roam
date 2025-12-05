@@ -791,11 +791,20 @@ document.addEventListener('DOMContentLoaded', function() {
     // ===== Bookmarklet Clip Import =====
     // Check for clips from bookmarklet and import them
     function importBookmarkletClips() {
+        console.log('🔍 Checking for bookmarklet clips...');
         const queue = localStorage.getItem('web-clipper-queue');
-        if (!queue) return;
+
+        if (!queue) {
+            console.log('ℹ️ No clips in queue');
+            return;
+        }
+
+        console.log('📦 Found queue:', queue);
 
         try {
             const clips = JSON.parse(queue);
+            console.log('📋 Parsed clips:', clips.length, 'items');
+
             if (clips.length === 0) return;
 
             // Import each clip
