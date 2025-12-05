@@ -81,7 +81,7 @@
                     {{ end }}
                     <div class="topic-item" data-letter="{{ $firstChar | lower }}" data-title="{{ .Title }}" data-filename="{{ .File.LogicalName }}" data-url="{{ .Params.externalLink | default .RelPermalink }}">
                         <div class="topic-card-wrapper relative">
-                            <a class="db bg-white br2 pa3 no-underline topic-card" href="{{ .Params.externalLink | default .RelPermalink }}" style="padding-right: 5rem;">
+                            <a class="db bg-white br2 pa3 no-underline topic-card" href="{{ .Params.externalLink | default .RelPermalink }}" style="padding-right: 4rem;">
                                 <h3 class="f5 fw5 near-black ma0 lh-title">{{ .Title }}</h3>
                             </a>
                             <div class="topic-actions absolute top-0 right-0 flex items-center pa2" style="gap: 0.125rem;">
