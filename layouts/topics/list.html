@@ -79,10 +79,22 @@
                             </div>
                             <div class="topic-grid">
                     {{ end }}
-                    <div class="topic-item" data-letter="{{ $firstChar | lower }}" data-title="{{ .Title }}">
-                        <a class="db bg-white br2 pa3 no-underline topic-card" href="{{ .Params.externalLink | default .RelPermalink }}">
-                            <h3 class="f5 fw5 near-black ma0 lh-title">{{ .Title }}</h3>
-                        </a>
+                    <div class="topic-item" data-letter="{{ $firstChar | lower }}" data-title="{{ .Title }}" data-filename="{{ .File.LogicalName }}">
+                        <div class="topic-card-wrapper relative">
+                            <a class="db bg-white br2 pa3 no-underline topic-card" href="{{ .Params.externalLink | default .RelPermalink }}">
+                                <h3 class="f5 fw5 near-black ma0 lh-title">{{ .Title }}</h3>
+                            </a>
+                            <button class="delete-marker bn bg-transparent pointer absolute top-0 right-0 pa2"
+                                    title="Mark for deletion"
+                                    style="opacity: 0.5; transition: opacity 0.2s;"
+                                    onmouseover="this.style.opacity='1'"
+                                    onmouseout="this.style.opacity='0.5'">
+                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M2 4h12M5 4V3a1 1 0 011-1h4a1 1 0 011 1v1M13 4v9a1 1 0 01-1 1H4a1 1 0 01-1-1V4h10z"/>
+                                    <path d="M6.5 7v4M9.5 7v4"/>
+                                </svg>
+                            </button>
+                        </div>
                     </div>
                 {{ end }}
             {{ end }}
@@ -99,6 +111,24 @@
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M12 19V5M5 12l7-7 7 7"/>
         </svg>
+    </div>
+
+    <!-- Marked for deletion panel -->
+    <div id="deletion-panel" class="fixed bottom-2 left-2 bg-white br3 pa3 shadow-5 z-5" style="max-width: 300px; display: none;">
+        <div class="flex items-center justify-between mb2">
+            <h4 class="f6 fw6 near-black ma0">Marked for Deletion</h4>
+            <button id="close-panel" class="bn bg-transparent pointer f5 gray">×</button>
+        </div>
+        <div id="marked-count" class="f6 gray mb2">0 topics marked</div>
+        <div id="marked-list" class="f7 overflow-y-auto" style="max-height: 200px;"></div>
+        <div class="flex gap2 mt3">
+            <button id="export-list" class="button-reset bn ph3 pv2 br2 bg-near-black white f6 fw5 pointer dim flex-auto">
+                Export List
+            </button>
+            <button id="clear-all" class="button-reset bn ph3 pv2 br2 bg-light-red near-black f6 fw5 pointer dim flex-auto">
+                Clear All
+            </button>
+        </div>
     </div>
 </main>
 
@@ -187,6 +217,35 @@
 
     #clear-filters:active {
         transform: scale(0.98);
+    }
+
+    /* Delete marker styles */
+    .topic-card-wrapper {
+        position: relative;
+    }
+
+    .delete-marker {
+        color: #999;
+    }
+
+    .delete-marker:hover {
+        color: #e74c3c;
+    }
+
+    .topic-item.marked-for-deletion .topic-card {
+        border: 2px solid #e74c3c;
+        opacity: 0.6;
+        background-color: #fff5f5;
+    }
+
+    .topic-item.marked-for-deletion .delete-marker {
+        color: #e74c3c;
+        opacity: 1 !important;
+    }
+
+    /* Deletion panel */
+    #deletion-panel {
+        border: 1px solid rgba(0, 0, 0, 0.1);
     }
 
     /* Scroll to top button */
@@ -418,6 +477,123 @@
         initializeTopicCounts();
         updateSearchCount(totalTopics);
         highlightActiveLetterOnScroll();
+
+        // ===== Mark for Deletion Feature =====
+        const STORAGE_KEY = 'topics-marked-for-deletion';
+        const deletionPanel = document.getElementById('deletion-panel');
+        const markedCountEl = document.getElementById('marked-count');
+        const markedListEl = document.getElementById('marked-list');
+        const exportBtn = document.getElementById('export-list');
+        const clearAllBtn = document.getElementById('clear-all');
+        const closePanelBtn = document.getElementById('close-panel');
+
+        // Load marked topics from localStorage
+        function getMarkedTopics() {
+            const stored = localStorage.getItem(STORAGE_KEY);
+            return stored ? JSON.parse(stored) : [];
+        }
+
+        // Save marked topics to localStorage
+        function saveMarkedTopics(topics) {
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(topics));
+        }
+
+        // Update the deletion panel UI
+        function updateDeletionPanel() {
+            const marked = getMarkedTopics();
+            markedCountEl.textContent = `${marked.length} topic${marked.length !== 1 ? 's' : ''} marked`;
+
+            if (marked.length > 0) {
+                deletionPanel.style.display = 'block';
+                markedListEl.innerHTML = marked.map(item =>
+                    `<div class="pv1 bb b--black-10">${item.title}</div>`
+                ).join('');
+            } else {
+                deletionPanel.style.display = 'none';
+            }
+        }
+
+        // Apply marked state to topic cards
+        function applyMarkedStates() {
+            const marked = getMarkedTopics();
+            const markedFilenames = new Set(marked.map(m => m.filename));
+
+            topicItems.forEach(item => {
+                const filename = item.getAttribute('data-filename');
+                if (markedFilenames.has(filename)) {
+                    item.classList.add('marked-for-deletion');
+                } else {
+                    item.classList.remove('marked-for-deletion');
+                }
+            });
+        }
+
+        // Toggle marked state for a topic
+        function toggleMarked(topicItem) {
+            const filename = topicItem.getAttribute('data-filename');
+            const title = topicItem.getAttribute('data-title');
+            const marked = getMarkedTopics();
+            const index = marked.findIndex(m => m.filename === filename);
+
+            if (index > -1) {
+                // Unmark
+                marked.splice(index, 1);
+            } else {
+                // Mark
+                marked.push({ filename, title });
+            }
+
+            saveMarkedTopics(marked);
+            applyMarkedStates();
+            updateDeletionPanel();
+        }
+
+        // Export marked topics as text file
+        function exportMarkedTopics() {
+            const marked = getMarkedTopics();
+            if (marked.length === 0) return;
+
+            const content = marked.map(m => m.filename).join('\n');
+            const blob = new Blob([content], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'topics-to-delete.txt';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        // Clear all marked topics
+        function clearAllMarked() {
+            if (confirm('Clear all marked topics?')) {
+                saveMarkedTopics([]);
+                applyMarkedStates();
+                updateDeletionPanel();
+            }
+        }
+
+        // Event listeners for delete markers
+        document.querySelectorAll('.delete-marker').forEach(button => {
+            button.addEventListener('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                const topicItem = this.closest('.topic-item');
+                toggleMarked(topicItem);
+            });
+        });
+
+        // Event listeners for panel buttons
+        exportBtn.addEventListener('click', exportMarkedTopics);
+        clearAllBtn.addEventListener('click', clearAllMarked);
+        closePanelBtn.addEventListener('click', () => {
+            deletionPanel.style.display = 'none';
+        });
+
+        // Initialize marked topics on page load
+        applyMarkedStates();
+        updateDeletionPanel();
     });
 </script>
 {{ end }}
