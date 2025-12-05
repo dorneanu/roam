@@ -19,7 +19,7 @@ draft = false
 
 ### tail-stack-events {#tail-stack-events}
 
-Watch [AWS/CloudFormation]({{< relref "awscloudformation.md" >}}) events on the CLI using [tail-stack-events](https://www.npmjs.com/package/tail-stack-events).
+Watch AWS/CloudFormation events on the CLI using [tail-stack-events](https://www.npmjs.com/package/tail-stack-events).
 
 ```sh
 tail-stack-events -f -s <stack name>

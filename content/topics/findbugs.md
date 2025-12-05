@@ -1,4 +1,0 @@
-+++
-title = "FindBugs"
-draft = false
-+++

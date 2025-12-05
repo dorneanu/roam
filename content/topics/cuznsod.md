@@ -1,4 +1,0 @@
-+++
-title = "CuZnSOD"
-draft = false
-+++

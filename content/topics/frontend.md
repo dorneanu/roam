@@ -1,4 +1,0 @@
-+++
-title = "Frontend"
-draft = false
-+++

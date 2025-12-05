@@ -1,4 +1,0 @@
-+++
-title = "Pratyahara"
-draft = false
-+++
