@@ -11,30 +11,30 @@
     </div>
 
     <!-- Sticky Search Container -->
-    <div class="sticky-search-container bg-white br3 pa4 mb4 shadow-3" style="position: sticky; top: 1rem; z-index: 100;">
+    <div class="sticky-search-container bg-white br3 pa2 pa4-ns mb3 mb4-ns shadow-3" style="position: sticky; top: 1rem; z-index: 100;">
         <!-- Search Input -->
-        <div class="mb3">
+        <div class="mb2 mb3-ns">
             <div class="flex items-center">
                 <div class="flex-auto">
                     <input
                         type="text"
                         id="topic-search"
-                        class="input-reset bn pa3 w-100 br2 bg-near-white f5 lh-copy"
-                        placeholder="Search topics..."
+                        class="input-reset bn pa2 pa3-ns w-100 br2 bg-near-white f7 f5-ns lh-copy"
+                        placeholder="Search..."
                         autocomplete="off">
                 </div>
                 <button
                     id="clear-filters"
-                    class="button-reset bn ph4 pv3 ml3 br2 bg-near-black white f6 fw5 pointer dim flex-shrink-0"
+                    class="button-reset bn ph2 ph4-ns pv2 pv3-ns ml2 ml3-ns br2 bg-near-black white f7 f6-ns fw5 pointer dim flex-shrink-0"
                     style="transition: all 0.2s ease;">
                     Clear
                 </button>
             </div>
-            <div class="mt2 f6 gray" id="search-count"></div>
+            <div class="mt1 mt2-ns f7 f6-ns gray" id="search-count"></div>
         </div>
 
         <!-- Minimal Alphabet Navigation -->
-        <div class="bt b--black-10 pt3">
+        <div class="bt b--black-10 pt2 pt3-ns">
             <div class="alphabet-container-minimal flex flex-wrap justify-center items-center">
                 {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
                 {{ range $letters }}
@@ -332,7 +332,9 @@
         function scrollToLetter(letter) {
             const section = document.getElementById(letter.toLowerCase());
             if (section) {
-                const offset = 120;
+                // Calculate offset based on search container height + some padding
+                const searchContainer = document.querySelector('.sticky-search-container');
+                const offset = searchContainer ? searchContainer.offsetHeight + 20 : 150;
                 const elementPosition = section.getBoundingClientRect().top;
                 const offsetPosition = elementPosition + window.pageYOffset - offset;
 
