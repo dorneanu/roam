@@ -134,12 +134,36 @@
         <div id="marked-count" class="f6 gray mb2">0 topics marked</div>
         <div id="marked-list" class="f7 overflow-y-auto" style="max-height: 200px;"></div>
         <div class="flex gap2 mt3">
-            <button id="export-list" class="button-reset bn ph3 pv2 br2 bg-near-black white f6 fw5 pointer dim flex-auto">
-                Export List
+            <button id="show-filenames" class="button-reset bn ph3 pv2 br2 bg-near-black white f6 fw5 pointer dim flex-auto">
+                Show Files
             </button>
             <button id="clear-all" class="button-reset bn ph3 pv2 br2 bg-light-red near-black f6 fw5 pointer dim flex-auto">
                 Clear All
             </button>
+        </div>
+    </div>
+
+    <!-- Filenames Modal -->
+    <div id="filenames-modal" class="fixed top-0 left-0 w-100 h-100 flex items-center justify-center" style="display: none; z-index: 9999; background-color: rgba(0, 0, 0, 0.7);">
+        <div class="bg-white br3 shadow-5 relative" style="width: 90%; max-width: 600px; max-height: 80vh; display: flex; flex-direction: column;">
+            <!-- Modal Header -->
+            <div class="flex items-center justify-between pa3 bb b--black-10">
+                <h3 class="f5 fw5 near-black ma0">Files to Delete</h3>
+                <button id="close-filenames-modal" class="bn bg-transparent pointer f3 gray lh-solid" style="line-height: 1;">&times;</button>
+            </div>
+
+            <!-- Modal Content -->
+            <div class="pa3 overflow-y-auto flex-auto">
+                <p class="f6 gray mb3">Copy this list to delete these files:</p>
+                <pre id="filenames-content" class="f7 pa3 bg-near-white br2 overflow-x-auto" style="white-space: pre-wrap; word-break: break-all;"></pre>
+            </div>
+
+            <!-- Modal Footer -->
+            <div class="flex items-center justify-end pa3 bt b--black-10" style="gap: 0.5rem;">
+                <button id="copy-filenames" class="button-reset bn ph3 pv2 br2 bg-near-black white f6 fw5 pointer dim">
+                    Copy to Clipboard
+                </button>
+            </div>
         </div>
     </div>
 
@@ -296,10 +320,17 @@
         border: 1px solid rgba(0, 0, 0, 0.1);
     }
 
-    /* Preview Modal */
-    #preview-modal {
+    /* Modals */
+    #preview-modal,
+    #filenames-modal {
         backdrop-filter: blur(4px);
         -webkit-backdrop-filter: blur(4px);
+    }
+
+    #filenames-content {
+        font-family: 'Monaco', 'Menlo', 'Courier New', monospace;
+        font-size: 0.875rem;
+        line-height: 1.5;
     }
 
     /* Loading spinner */
@@ -589,9 +620,13 @@
         const deletionPanel = document.getElementById('deletion-panel');
         const markedCountEl = document.getElementById('marked-count');
         const markedListEl = document.getElementById('marked-list');
-        const exportBtn = document.getElementById('export-list');
+        const showFilenamesBtn = document.getElementById('show-filenames');
         const clearAllBtn = document.getElementById('clear-all');
         const closePanelBtn = document.getElementById('close-panel');
+        const filenamesModal = document.getElementById('filenames-modal');
+        const filenamesContent = document.getElementById('filenames-content');
+        const closeFilenamesModalBtn = document.getElementById('close-filenames-modal');
+        const copyFilenamesBtn = document.getElementById('copy-filenames');
 
         // Load marked topics from localStorage
         function getMarkedTopics() {
@@ -654,21 +689,37 @@
             updateDeletionPanel();
         }
 
-        // Export marked topics as text file
-        function exportMarkedTopics() {
+        // Show filenames in modal
+        function showFilenamesModal() {
             const marked = getMarkedTopics();
             if (marked.length === 0) return;
 
             const content = marked.map(m => m.filename).join('\n');
-            const blob = new Blob([content], { type: 'text/plain' });
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = 'topics-to-delete.txt';
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
-            URL.revokeObjectURL(url);
+            filenamesContent.textContent = content;
+            filenamesModal.style.display = 'flex';
+        }
+
+        // Close filenames modal
+        function closeFilenamesModal() {
+            filenamesModal.style.display = 'none';
+        }
+
+        // Copy filenames to clipboard
+        async function copyFilenames() {
+            const content = filenamesContent.textContent;
+            try {
+                await navigator.clipboard.writeText(content);
+                // Visual feedback
+                const originalText = copyFilenamesBtn.textContent;
+                copyFilenamesBtn.textContent = 'Copied!';
+                copyFilenamesBtn.style.backgroundColor = '#27ae60';
+                setTimeout(() => {
+                    copyFilenamesBtn.textContent = originalText;
+                    copyFilenamesBtn.style.backgroundColor = '';
+                }, 2000);
+            } catch (err) {
+                alert('Failed to copy to clipboard. Please copy manually.');
+            }
         }
 
         // Clear all marked topics
@@ -691,10 +742,28 @@
         });
 
         // Event listeners for panel buttons
-        exportBtn.addEventListener('click', exportMarkedTopics);
+        showFilenamesBtn.addEventListener('click', showFilenamesModal);
         clearAllBtn.addEventListener('click', clearAllMarked);
         closePanelBtn.addEventListener('click', () => {
             deletionPanel.style.display = 'none';
+        });
+
+        // Event listeners for filenames modal
+        closeFilenamesModalBtn.addEventListener('click', closeFilenamesModal);
+        copyFilenamesBtn.addEventListener('click', copyFilenames);
+
+        // Close filenames modal on background click
+        filenamesModal.addEventListener('click', function(e) {
+            if (e.target === filenamesModal) {
+                closeFilenamesModal();
+            }
+        });
+
+        // Close filenames modal on ESC key (only if preview modal is not open)
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && filenamesModal.style.display === 'flex' && previewModal.style.display !== 'flex') {
+                closeFilenamesModal();
+            }
         });
 
         // Initialize marked topics on page load
