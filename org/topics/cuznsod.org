@@ -1,7 +1,0 @@
-#+created: 20210829111134183
-#+modified: 20210829111053879
-#+revision: 0
-#+title: CuZnSOD
-#+type: text/vnd.tiddlywiki
-
-

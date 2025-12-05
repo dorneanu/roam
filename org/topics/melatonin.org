@@ -1,9 +1,0 @@
-#+created: 20201006072822253
-#+modified: 20210518184431071
-#+revision: 0
-#+tags: TODO
-#+title: Melatonin
-#+tmap.id: 020d5bbd-566d-4164-bbf1-f68cdc3d0b0c
-#+type: text/vnd.tiddlywiki
-
-

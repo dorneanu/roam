@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       92250527-2f19-44ca-b84d-7b77b3f91af8
-:END:
-#+title: Continuous Deployment

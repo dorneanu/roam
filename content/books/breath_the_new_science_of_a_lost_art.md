@@ -41,7 +41,7 @@ draft = false
             -   on inhalation: negative pressure pumps blood into the heart
             -   on exhalation: blood shoots into body and lungs
                 -   blood recirculates
-            -   at the power of the thoracic pump is the [Diaphragm]({{< relref "../../topics/diaphragm.md" >}})
+            -   at the power of the thoracic pump is the Diaphragm
                 -   typical adult engages it less than 10%
                 -   refered to as "2nd heart" because affects rate and strength of heart rate
             -   Also check out his [breathing coordination exercise](https://optimalbreathing.com/blogs/breathing-methods-and-breathing-work/breathing-coordination)
@@ -98,7 +98,7 @@ draft = false
                 -   moods
             -   Breathing is like a power switch to the [Autonomic Nervous System]({{< relref "../../topics/autonomic_nervous_system.md" >}})
                 -   Lungs are connected with nerves that connect to both systems
-                    -   nerves connected to the [Parasympathetic Nervous System]({{< relref "../../topics/parasympathetic_nervous_system.md" >}}) are in the lower lobes
+                    -   nerves connected to the Parasympathetic Nervous System are in the lower lobes
                     -   nerves connect to the are the top region of the lungs
                         -   causes sympathetic stress
         -   on [Tummo]({{< relref "../../topics/tummo.md" >}})
@@ -160,7 +160,7 @@ draft = false
                         -   they begin to **rust** (same way as metal or leaves when they turn brown)
                         -   but in humans we call it [cancer](#breath-the-new-science-of-a-lost-art-note-21)
             -   breathing slow, less and through the nose will send the maximum amount of oxygen to the tissues so our cells don't lose the electron excitability
-        -   [The Yoga Sutras of Patanjali]({{< relref "../../topics/the_yoga_sutras_of_patanjali.md" >}})
+        -   The Yoga Sutras of Patanjali
         -   [So many breathing techniques](#breath-the-new-science-of-a-lost-art-note-23)
 -   Researchers
     -   [Anders Olsson](https://www.consciousbreathing.com/meet-anders-olsson/)

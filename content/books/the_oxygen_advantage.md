@@ -102,7 +102,7 @@ Mostly from <https://oxygenadvantage.com/wim-hof/>
 
 ### On hormesis {#on-hormesis}
 
-> "Short-term [hypoxia]({{< relref "../../topics/hypoxia.md" >}}) stresses the body at a cellular level. This type of stress is called [hormesis]({{< relref "../../topics/hormesis.md" >}}) — **“good” stress that causes the body to adapt, strengthen and build resilience**. The [sympathetic]({{< relref "../../topics/parasympathetic_nervous_system.md" >}}) response (your fight, flight or freeze stress mechanism) is activated. According to [Hof]({{< relref "the_wim_hof_method.md" >}}), concentration of red blood cells increases (boosting your blood’s oxygen carrying capacity). Lung capacity and circulation improve, and your metabolism becomes more efficient."
+> "Short-term [hypoxia]({{< relref "../../topics/hypoxia.md" >}}) stresses the body at a cellular level. This type of stress is called [hormesis]({{< relref "../../topics/hormesis.md" >}}) — **“good” stress that causes the body to adapt, strengthen and build resilience**. The sympathetic response (your fight, flight or freeze stress mechanism) is activated. According to [Hof]({{< relref "the_wim_hof_method.md" >}}), concentration of red blood cells increases (boosting your blood’s oxygen carrying capacity). Lung capacity and circulation improve, and your metabolism becomes more efficient."
 
 
 ### On adrenaline {#on-adrenaline}

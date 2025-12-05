@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       8edd3a8c-2486-421e-b554-5bba90c178c4
-:END:
-#+title: Test-Driven Security

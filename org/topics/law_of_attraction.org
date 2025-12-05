@@ -1,9 +1,0 @@
-#+created: 20200930183431062
-#+modified: 20210518184430854
-#+revision: 0
-#+tags: TODO
-#+title: Law of attraction
-#+tmap.id: 1a11abf2-9462-4802-ba97-d3b6478bc116
-#+type: text/vnd.tiddlywiki
-
-

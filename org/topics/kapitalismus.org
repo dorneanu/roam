@@ -1,8 +1,0 @@
-#+created: 20210608104039491
-#+modified: 20210608104048620
-#+revision: 0
-#+tags: TODO
-#+title: Kapitalismus
-#+type: text/vnd.tiddlywiki
-
-

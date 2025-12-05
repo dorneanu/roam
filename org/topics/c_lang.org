@@ -1,8 +1,0 @@
-#+created: 20210913042654125
-#+modified: 20210913043458951
-#+revision: 0
-#+tags: ProgrammingLanguage
-#+title: C Lang
-#+type: text/vnd.tiddlywiki
-
-

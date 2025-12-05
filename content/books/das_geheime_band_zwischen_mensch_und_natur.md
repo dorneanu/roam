@@ -238,7 +238,7 @@ Hauptthesen:
 -   **Stressreduktion**
 
     Das Buch betont, wie Waldbaden dazu beitragen kann, das Nervensystem zu
-    beruhigen, den [Cortisol]({{< relref "../../topics/cortisol.md" >}})spiegel (ein Stresshormon) zu senken und das allgemeine
+    beruhigen, den Cortisolspiegel (ein Stresshormon) zu senken und das allgemeine
     Wohlbefinden zu steigern.
 
 -   **Achtsamkeit und Verbindung zur Natur**

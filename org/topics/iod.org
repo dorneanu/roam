@@ -1,7 +1,0 @@
-#+created: 20210829111134177
-#+modified: 20210829111053716
-#+revision: 0
-#+title: Iod
-#+type: text/vnd.tiddlywiki
-
-

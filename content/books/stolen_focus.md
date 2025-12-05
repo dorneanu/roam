@@ -1,9 +1,12 @@
 +++
 title = "Stolen focus"
+author = ["Dorneanu"]
 date = 2024-04-27
 tags = ["health", "psychology", "book"]
 draft = false
 +++
+
+:id:       447659aa-f7a1-4942-ba23-20a9110dd653
 
 👉 <https://www.goodreads.com/en/book/show/57933306>
 

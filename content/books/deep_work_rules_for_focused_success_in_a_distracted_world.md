@@ -367,7 +367,7 @@ Cal explains why **Deep Work** is essential for acquiring new skills and mention
     When focusing intensely on a task without distraction, the related neuronal
     circuit in the brain is repeatedly activated in a clean, focused manner, with
     minimal noise or distractions. This repeated firing of the same neural circuit
-    in isolation prompts certain cells to build [myelin]({{< relref "../../topics/myelin.md" >}}) sheaths around the neurons,
+    in isolation prompts certain cells to build myelin sheaths around the neurons,
     acting as insulators. This process allows neurons to fire more easily and
     quickly, enhancing the brain's efficiency. This mechanism is crucial for
     cementing new skills, whether cognitive or physical, into our neural processes

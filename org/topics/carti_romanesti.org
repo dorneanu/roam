@@ -1,8 +1,0 @@
-#+created: 20220428065551366
-#+modified: 20220428065556674
-#+revision: 0
-#+tags: 
-#+title: Carti romanesti
-#+type: text/vnd.tiddlywiki
-
-

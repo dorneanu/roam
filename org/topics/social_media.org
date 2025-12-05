@@ -1,8 +1,0 @@
-#+created: 20220419084856144
-#+modified: 20220419084900226
-#+revision: 0
-#+tags: 
-#+title: Social Media
-#+type: text/vnd.tiddlywiki
-
-

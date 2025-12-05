@@ -442,7 +442,7 @@ Wirtschaftskrise von 2008:
 > Fabriken. Und wenn in den Fabriken mehr Männer arbeiten, in den Haushalten aber mehr
 > Frauen, ahnen wir schon, worauf es hinausläuft
 
-Sie auch [Polanyi's Paradox]({{< relref "../../topics/polanyi_s_paradox.md" >}})
+Sie auch Polanyi's Paradox
 
 
 ### Teil 5: Zukunft {#teil-5-zukunft}
@@ -507,7 +507,7 @@ Drei Berecieh für den Einsatz von KI:
 
 > Hier werden meist drei Bereiche genannt, und über den ersten haben wir in Kapitel 8
 > gesprochen: Roboter haben Probleme mit vielen Bewegungsabläufen, die wir Menschen
-> vollführen, ohne nachzudenken. Das [Polanyi-Paradoxon]({{< relref "../../topics/polanyi_s_paradox.md" >}}) ist auch auf dem Arbeitsmarkt von
+> vollführen, ohne nachzudenken. Das Polanyi-Paradoxon ist auch auf dem Arbeitsmarkt von
 > Bedeutung. **Es ist einfacher, Garri Kasparows Form von Intelligenz zu automatisieren als
 > die von Serena Williams**.
 >

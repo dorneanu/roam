@@ -1,8 +1,0 @@
-#+created: 20210817091405975
-#+modified: 20210817091406300
-#+revision: 0
-#+tags: Topics
-#+title: CLI
-#+type: text/vnd.tiddlywiki
-
-

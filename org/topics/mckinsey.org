@@ -1,8 +1,0 @@
-#+created: 20201117114442890
-#+modified: 20210518184431040
-#+revision: 0
-#+title: McKinsey
-#+tmap.id: 4ef34715-5786-40bb-bc14-85530d668eec
-#+type: text/vnd.tiddlywiki
-
-

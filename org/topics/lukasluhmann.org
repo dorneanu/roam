@@ -1,8 +1,0 @@
-#+created: 20210518201441901
-#+modified: 20210518201455133
-#+revision: 0
-#+tags: Person
-#+title: LukasLuhmann
-#+type: text/vnd.tiddlywiki
-
-

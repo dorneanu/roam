@@ -1,8 +1,0 @@
-#+created: 20201005075048353
-#+modified: 20210518184430224
-#+revision: 0
-#+title: FindBugs
-#+tmap.id: edf4725e-9b2a-46fc-addc-c34662f156eb
-#+type: text/vnd.tiddlywiki
-
-

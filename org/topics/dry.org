@@ -1,7 +1,0 @@
-#+created: 20210128120514452
-#+modified: 20210518184430058
-#+revision: 0
-#+title: DRY
-#+type: text/vnd.tiddlywiki
-
-

@@ -1,8 +1,0 @@
-#+created: 20210608085445423
-#+modified: 20210608085449878
-#+revision: 0
-#+tags: 
-#+title: Data Driven
-#+type: text/vnd.tiddlywiki
-
-

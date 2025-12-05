@@ -1,9 +1,0 @@
-#+created: 20210622083252336
-#+modified: 20210622083324199
-#+origin: [[<<. bibliography "The Clean Architecture">>]]
-#+revision: 0
-#+tags: Stub
-#+title: Functional Programming
-#+type: text/vnd.tiddlywiki
-
-

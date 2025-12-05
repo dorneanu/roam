@@ -1,8 +1,0 @@
-#+created: 20201019085650970
-#+modified: 20210518184431261
-#+revision: 0
-#+title: Niyama
-#+tmap.id: a49239fa-743a-47c6-adbc-39960d01d829
-#+type: text/vnd.tiddlywiki
-
-

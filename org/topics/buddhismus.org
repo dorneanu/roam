@@ -1,8 +1,0 @@
-#+created: 20201019084728606
-#+modified: 20210518184428712
-#+revision: 0
-#+title: Buddhismus
-#+tmap.id: 7651a29e-625d-4783-9726-58528b4bab2a
-#+type: text/vnd.tiddlywiki
-
-

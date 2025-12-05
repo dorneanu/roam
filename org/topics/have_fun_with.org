@@ -1,9 +1,0 @@
-#+created: 20201201184740392
-#+modified: 20210518184430540
-#+revision: 0
-#+title: Have fun with
-#+tmap.edges: {"8e3f7d0e-9448-401d-bc38-f63686e8e3b4":{"to":"43d1b4be-eb19-4dd5-874d-02073b3a83ff","type":"tmap:unknown"}}
-#+tmap.id: d502e12e-9bad-420d-a1ea-a32f29e45d5e
-#+type: text/vnd.tiddlywiki
-
-

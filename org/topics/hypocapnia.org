@@ -1,8 +1,0 @@
-#+created: 20220711124126259
-#+modified: 20220711124137380
-#+revision: 0
-#+tags: Definition TODO
-#+title: Hypocapnia
-#+type: text/vnd.tiddlywiki
-
-

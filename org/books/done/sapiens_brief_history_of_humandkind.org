@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       5ed09af1-89a8-46e2-a959-356693890837
-:END:
-#+title: Sapiens: A Brief History of Humandkind
-#+filetags: :anthropology:philosophy:history:book:
-#+date: 2024-04-16
-
-
-

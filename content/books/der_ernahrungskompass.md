@@ -386,7 +386,7 @@ draft = false
     -   Abends: fettreiche Lebensmittel (Avocados, Nüsse, Olivenöl, Käse)
 -   Die Sache mit dem Naschen
     -   Zellen werden ununterbrochen mit Nahrung und Energie überschüttet
-    -   Angefeuert von , [IGF-1]({{< relref "../../topics/igf_1.md" >}}) und führt das zu Wachstumsmodus
+    -   Angefeuert von , IGF-1 und führt das zu Wachstumsmodus
         in der Zelle: die Zelle altert
 -   Fasten
     -   Tipp: Tage vorm Fasten mit einer kohlenhydratarmen, fettreichen Kost

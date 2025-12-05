@@ -1,9 +1,0 @@
-#+created: 20191128080716732
-#+modified: 20210519093828515
-#+revision: 0
-#+tags: Topics
-#+title: CTF
-#+tmap.id: 16909f04-0cf7-4d41-b0ad-0b8fbc35d720
-#+type: text/vnd.tiddlywiki
-
-

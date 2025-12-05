@@ -22,7 +22,7 @@ draft = false
         -   Wird von Psychologen Elaboration genannt
             -   Man elaboriert das Gelesene, versucht es zu verstehen und mit altem wissen zu verknüpfen
 
-    -   Den [Mere-Exposure Effect]({{< relref "mere_exposure_effect.md" >}}) beachten
+    -   Den Mere-Exposure Effect beachten
         -   [Das Zettelkasten-Prinzip]({{< relref "../books/das_zettelkasten_prinzip.md" >}}) (Note 6)
 
 -   **3) Verzetteln**

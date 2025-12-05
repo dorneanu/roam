@@ -1,9 +1,0 @@
-#+created: 20191128085802094
-#+modified: 20210519093529478
-#+revision: 0
-#+tags: Topics
-#+title: Resource
-#+tmap.id: b7734c60-9b0f-4d4a-b9d2-4b2f19aaa95e
-#+type: text/vnd.tiddlywiki
-
-

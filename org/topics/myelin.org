@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       c2bbb018-15e5-4a0d-a071-aee390d0a6fe
-:END:
-#+title: Myelin

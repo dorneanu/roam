@@ -1,9 +1,0 @@
-#+color: #0540f0
-#+created: 20201201185815418
-#+list-before: Tools
-#+modified: 20210611092958876
-#+revision: 0
-#+title: Journal
-#+type: text/vnd.tiddlywiki
-
-

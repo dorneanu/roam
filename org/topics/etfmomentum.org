@@ -1,8 +1,0 @@
-#+created: 20220224120053235
-#+modified: 20220224120057753
-#+revision: 0
-#+tags: 
-#+title: ETF/Momentum
-#+type: text/vnd.tiddlywiki
-
-

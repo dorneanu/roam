@@ -1,8 +1,0 @@
-#+created: 20201019085650977
-#+modified: 20210518184431060
-#+revision: 0
-#+title: Meditation
-#+tmap.id: bbbcdb8d-3a28-4962-b8f8-d94d71018a2b
-#+type: text/vnd.tiddlywiki
-
-

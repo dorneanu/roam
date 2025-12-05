@@ -1,8 +1,0 @@
-#+created: 20201015123358751
-#+modified: 20210518184431272
-#+revision: 0
-#+title: Noradrenalin
-#+tmap.id: 46946d12-faef-4e55-9b26-d77ec0736ad6
-#+type: text/vnd.tiddlywiki
-
-

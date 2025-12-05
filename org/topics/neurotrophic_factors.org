@@ -1,8 +1,0 @@
-#+created: 20201109115335817
-#+modified: 20210518184431208
-#+revision: 0
-#+title: Neurotrophic factors
-#+tmap.id: 5393e2e5-9379-4274-aede-b5016a1e77d1
-#+type: text/vnd.tiddlywiki
-
-

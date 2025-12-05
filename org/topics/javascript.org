@@ -1,9 +1,0 @@
-#+created: 20201005075048358
-#+modified: 20210830181605558
-#+revision: 0
-#+tags: ProgrammingLanguage
-#+title: JavaScript
-#+tmap.id: 819bd29f-454c-42d7-93e8-4a6604f9c9b0
-#+type: text/vnd.tiddlywiki
-
-

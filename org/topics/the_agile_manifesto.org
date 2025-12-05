@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       56ff0fc9-4a1f-41c8-9164-5bcf0d07e915
-:END:
-#+title: The Agile Manifesto

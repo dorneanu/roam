@@ -1,9 +1,0 @@
-#+created: 20201202204601701
-#+modified: 20210518184430291
-#+origin: [[<<. bibliography "Gespräche mit Gott Band 2">>]]
-#+revision: 0
-#+tags: TODO
-#+title: Globale Regierung
-#+type: text/vnd.tiddlywiki
-
-

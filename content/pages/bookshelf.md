@@ -36,7 +36,7 @@ This is my list.
 -   02
     -   [Black Hat Go]({{< relref "books/black_hat_go.md" >}})
     -   [The Clean Architecture]({{< relref "books/the_clean_architecture.md" >}})
-    -   [The Clean Code]({{< relref "books/the_clean_code.md" >}})
+    -   The Clean Code
     -   [The Clean Coder]({{< relref "books/the_clean_coder.md" >}})
 -   03
     -   [Factfulness]({{< relref "books/factfulness.md" >}})

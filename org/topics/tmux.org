@@ -1,8 +1,0 @@
-#+created: 20210817094131856
-#+modified: 20210817094137438
-#+revision: 0
-#+tags: Tool
-#+title: tmux
-#+type: text/vnd.tiddlywiki
-
-

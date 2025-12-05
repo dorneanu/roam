@@ -1,8 +1,0 @@
-#+color: #94ec4b
-#+created: 20210518192704731
-#+modified: 20210518192704760
-#+revision: 0
-#+title: Traveling
-#+type: text/vnd.tiddlywiki
-
-

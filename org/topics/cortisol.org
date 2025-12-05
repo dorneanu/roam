@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       1d07c84f-0920-4fda-9fcb-1dac5b4e69e3
-:END:
-#+title: Cortisol

@@ -18,7 +18,7 @@ draft = false
 ### Neurological aspects {#neurological-aspects}
 
 > As the journalist Daniel Coyle surveys in his 2009 book, _The Talent Code_, these scientists
-> increasingly believe the answer includes [myelin]({{< relref "myelin.md" >}}) --- a layer of fatty tissue that grows
+> increasingly believe the answer includes myelin --- a layer of fatty tissue that grows
 > around neurons, acting like an insulator that allows the cells to fire faster andcleaner.
 > To understand the role of myelin in improvement, keep in mindthat skills, be they
 > intellectual or physical, eventually reduce down tobrain circuits. This new science of

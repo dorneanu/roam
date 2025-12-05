@@ -1,9 +1,0 @@
-#+color: #0540f0
-#+created: 20210518193804351
-#+modified: 20220708193919648
-#+revision: 0
-#+tags: Definition
-#+title: Definition
-#+type: text/vnd.tiddlywiki
-
-

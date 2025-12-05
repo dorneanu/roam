@@ -1,8 +1,0 @@
-#+created: 20210518200226638
-#+modified: 20210518200228915
-#+revision: 0
-#+tags: Software
-#+title: GitHub
-#+type: text/vnd.tiddlywiki
-
-

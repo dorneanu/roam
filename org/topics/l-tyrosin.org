@@ -1,7 +1,0 @@
-#+created: 20210829111134178
-#+modified: 20210829111053747
-#+revision: 0
-#+title: L-Tyrosin
-#+type: text/vnd.tiddlywiki
-
-

@@ -122,7 +122,7 @@ In esență, Ideologiile Răului împărtăşesc patru credințe principale:
 
 <!--quoteend-->
 
-> Întruparea - Regulatorii centrali ai sistemului nostru nervos [parasimpatic]({{< relref "../../topics/parasympathetic_nervous_system.md" >}}) şi [simpatic]({{< relref "../../topics/sympathetic_nervous_system.md" >}}) joacă un rol uriaș în sănătatea, bunăstarea şi reziliența noastră la stres. Ei sunt metronomul fiziologiei noastre care stabileşte ritmul experiențelor trăite.
+> Întruparea - Regulatorii centrali ai sistemului nostru nervos parasimpatic şi [simpatic]({{< relref "../../topics/sympathetic_nervous_system.md" >}}) joacă un rol uriaș în sănătatea, bunăstarea şi reziliența noastră la stres. Ei sunt metronomul fiziologiei noastre care stabileşte ritmul experiențelor trăite.
 
 <!--quoteend-->
 

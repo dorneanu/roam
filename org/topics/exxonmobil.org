@@ -1,8 +1,0 @@
-#+created: 20200922083058425
-#+modified: 20210518184430129
-#+revision: 0
-#+title: ExxonMobil
-#+tmap.id: 5cc974b5-6370-4d06-a39e-2a88887c552f
-#+type: text/vnd.tiddlywiki
-
-

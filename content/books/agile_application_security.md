@@ -107,15 +107,15 @@ draft = false
 
 ### Continuous Delivery VS Continuous Deployment {#continuous-delivery-vs-continuous-deployment}
 
--   [Continuous Delivery]({{< relref "../../topics/continuous_delivery.md" >}})
+-   Continuous Delivery
     -   Changes are always ready to be deployed to production by automation, building, testing, packaging and deployment steps so that they are executed for every change
--   [Continuous Deployment]({{< relref "../../topics/continuous_deployment.md" >}})
+-   Continuous Deployment
     -   Changes automatically run through the same build and test stages and are immediately sent to production if all steps pass
 
 
 ## Welcome to the Agile Revolution {#welcome-to-the-agile-revolution}
 
--   [The Agile Manifesto]({{< relref "../../topics/the_agile_manifesto.md" >}})
+-   The Agile Manifesto
     -   The Agile principles
 -   Scrum
 -   [Extreme Programming]({{< relref "../../topics/extreme_programming.md" >}})
@@ -274,7 +274,7 @@ draft = false
 -   Secure Software Supply Chain
     -   Tools
         -   Sonatype free supply chain costs and risks calculator
--   [Test-Driven Security]({{< relref "../../topics/test_driven_security.md" >}})
+-   Test-Driven Security
     -   Write test (unit test acceptance test) that checks if a vulnerability has been closed
     -   The test will fail until the vulnerability gets fixed
     -   Tools
@@ -422,7 +422,7 @@ draft = false
     -   RASP (Runtime Application Self-Protection)
 -   More about refactoring
     -   Books
-        -   [The Clean Code]({{< relref "the_clean_code.md" >}}) by Bob Martin
+        -   The Clean Code by Bob Martin
         -   Refactoring: Improving the Design of Existing Code (Kent Beck and Martin Fowler)
         -   Working Effectively with Legacy Code
 

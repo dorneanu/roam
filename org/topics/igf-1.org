@@ -1,9 +1,0 @@
-#+created: 20201116181129049
-#+modified: 20210601084651249
-#+revision: 0
-#+tags: TODO Definition
-#+title: IGF-1
-#+tmap.id: 82c498f3-49b9-4a44-b867-66313d598dea
-#+type: text/vnd.tiddlywiki
-
-

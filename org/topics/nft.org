@@ -1,7 +1,0 @@
-#+created: 20210816130502831
-#+modified: 20210816130503040
-#+revision: 0
-#+title: NFT
-#+type: text/vnd.tiddlywiki
-
-

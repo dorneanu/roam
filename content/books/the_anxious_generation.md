@@ -119,7 +119,9 @@ childhood, resulting in an epidemic of mental illness among young people.
 
     -   Hit harder by visual/image-based platforms (Instagram)
     -   Front-facing cameras + filters increased social comparison
-    -   "The reflection each girl saw in the mirror got less and less attractive relative to the girls she saw on her phone"
+
+    > "The reflection each girl saw in the mirror got less and less attractive relative to the girls she saw on her phone"
+
     -   Social media companies inflicted greatest damage on girls
 
     _Boys_:
@@ -171,15 +173,6 @@ These reforms:
     -   AI and spatial computing (Apple Vision Pro) about to make virtual world "far more immersive and addictive"
     -   Generative AI enabling "super-realistic and fabricated photographs, videos, news stories"
     -   Life online "likely to get far more confusing"
-
-
-### Key terms defined {#key-terms-defined}
-
--   Gen Z: Generation born after 1995 (follows Millennials born 1981-1995)
--   The Anxious Generation: Gen Z—will not have end date "until we change the conditions of childhood"
--   The Great Rewiring of Childhood: The transformation of childhood from play-based to phone-based between 2010-2015
--   Phone-based childhood: Childhood dominated by smartphones, social media, constant connectivity
--   Play-based childhood: Traditional childhood with unsupervised outdoor play, in-person socializing, physical activities
 
 
 ## Chapter 1: The surge of suffering {#chapter-1-the-surge-of-suffering}
@@ -249,11 +242,7 @@ hardest—particularly preteen girls—across multiple developed nations simulta
 
 <!--listend-->
 
--   Technology timeline: the great rewiring (2010-2015)
-
-    \#### The Two-Wave Internet Era
-
-    Figure 1.6 - Household Technology Adoption:
+-   Technology timeline: the great **rewiring** (2010-2015)
 
     First Wave (1990s-2000s):
 
@@ -267,8 +256,6 @@ hardest—particularly preteen girls—across multiple developed nations simulta
     -   Social media + smartphones reached majority adoption by 2012-2013
     -   This is when girls' mental health began to collapse
     -   Boys' mental health changed in "more diffuse set of ways"
-
-    \#### The Smartphone Transformation
 
     Basic Phones vs. Smartphones:
 
@@ -295,7 +282,7 @@ hardest—particularly preteen girls—across multiple developed nations simulta
 
     Key Quote (Sherry Turkle, MIT professor, 2015): "We are forever elsewhere"
 
-    \#### Critical Technology Milestones
+-   Critical Technology Milestones
 
     June 2010: iPhone 4 and Samsung Galaxy S
 
@@ -312,9 +299,10 @@ hardest—particularly preteen girls—across multiple developed nations simulta
     Subsequent Years: Filters and Editing
 
     -   Instagram filters, Facetune, other editing apps
-    -   "The reflection each girl saw in the mirror got less and less attractive relative to the girls she saw on her phone"
 
-    \#### Screen Time Data
+    > "The reflection each girl saw in the mirror got less and less attractive relative to the girls she saw on her phone"
+
+-   Screen Time Data
 
     2015 Common Sense Report:
 
@@ -331,7 +319,7 @@ hardest—particularly preteen girls—across multiple developed nations simulta
 
     Definition: Birth of phone-based childhood; definitive end of play-based childhood
 
-    \#### Gender-Specific Patterns
+-   Gender-Specific Patterns
 
     Girls:
 
@@ -347,247 +335,128 @@ hardest—particularly preteen girls—across multiple developed nations simulta
 
     Universal Impact: Changed social life for everyone, "even for the small minority that did not use these platforms"
 
+-   scale and scope of the crisis
 
-#### 7. refuting alternative explanations {#7-dot-refuting-alternative-explanations}
+    ****The Uncontrolled Experiment:****
 
-\#### A. Economic Events (Financial Crisis, Student Debt)
+    -   "Children born in the late 1990s were the first generation in history who ****went through puberty in the virtual world****"
+    -   "It's as though we sent Gen Z to grow up on Mars when we gave them smartphones in the early 2010s"
+    -   ****"The largest uncontrolled experiment humanity has ever performed on its own children"****
 
-****The "Generation Disaster" Argument:****
+    ****Five-Year Transformation (2010-2015):****
 
--   9/11, wars in Afghanistan/Iraq
--   Global financial crisis
--   School shootings
--   Climate change
--   Political polarization
--   Rising student debt
-
-****Counter-Evidence:****
-
-****Figure 1.7 - Depression vs. Unemployment:****
-
--   Unemployment spiked 2008-2009 during financial crisis
--   Then ****steady decline 2010-2019**** (hit historic low 3.6% in 2019)
--   Teen depression ****rose continuously**** as unemployment fell
--   ****No correlation between economic conditions and teen mental health****
-
-****Timing Problems:****
-
--   Events from 9/11 through 2009 crisis would have affected ****Millennials most**** (born 1981-1995)
--   But Millennial teen mental health ****did not worsen**** during their teenage years
--   If economic crisis was cause, depression would have ****spiked in 2009**** and ****improved through 2010s****
--   Opposite pattern occurred
-
-****Gender Pattern Unexplained:****
-
--   Why would economic crisis harm girls more than boys?
--   Why preteen girls most of all?
-
-****Conclusion****: "Just no way to pin the surge of adolescent anxiety and depression on any economic event or trend"
-
-\#### B. Climate Change
-
-****Legitimate Concern, Wrong Explanation:****
-
-****Historical Context of Threats:****
-
--   Nations under attack or threat typically show:
-    -   Citizens rally around flag and each other
-    -   Strong sense of purpose
-    -   ****Suicide rates drop****
-    -   Later show higher trust and cooperation
--   Every generation faces disasters/threats (Great Depression, WWII, nuclear annihilation, environmental degradation, overpopulation)
-
-****Quote****: "People don't get depressed when they face threats collectively; they get depressed when they feel isolated, lonely, or useless. As I'll show in later chapters, this is what the Great Rewiring did to Gen Z."
-
-****Previous Activism vs. Current:****
-
--   ****1960s-1990s activism**** (Vietnam War, earlier climate activism): Young people became ****energized, not dispirited****
--   ****2009 study****: College activists were ****happier and more flourishing**** than average
--   ****Recent studies****: Young activists including climate activists have ****worse mental health****
-
-****Key Difference****: Previous activism carried out in ****real world****; current activism mostly in ****virtual world****, affecting them very differently
-
-****Collective Anxiety Can Be Positive:****
-
--   Can bind people together
--   Motivates action
--   "Collective action is thrilling, especially when it is carried out in person"
-
-****Problems with Climate Hypothesis:****
-
-1.  ****Demographic Pattern Unexplained:****
-    -   Why biggest increases among ****preteen girls****?
-    -   Wouldn't oldest teens/college students be more aware of global issues?
-
-2.  ****Timing Doesn't Fit:****
-    -   Why spike in ****early 2010s**** across many countries?
-    -   Greta Thunberg (born 2003) only galvanized movement after 2018 UN conference
-
-3.  ****Not About Events Getting Worse:****
-    -   World problems existed in 1970s (author's youth) and 1930s (parents' youth)
-    -   "If world events played a role...it's not because world events suddenly got worse around 2012"
-    -   ****"It's because world events were suddenly being pumped into adolescents' brains through their phones, not as news stories, but as social media posts in which other young people expressed their emotions about a collapsing world, emotions that are contagious on social media"****
-
-
-#### 8. the only plausible explanation {#8-dot-the-only-plausible-explanation}
-
-****Process of Elimination:****
-
--   Global financial crisis: ****Ruled out**** (timing wrong, pattern opposite)
--   American school shootings: ****Ruled out**** (can't explain international pattern)
--   American politics: ****Ruled out**** (can't explain other countries)
--   Climate change: ****Ruled out**** (wrong demographics, timing, pattern)
--   Economic conditions generally: ****Ruled out**** (all evidence contradicts)
-
-****What Remains:****
-"The only plausible theory I have found that can explain the international decline in teen mental health is the ****sudden and massive change in the technology that teens were using to connect with each other****."
-
-
-#### 9. scale and scope of the crisis {#9-dot-scale-and-scope-of-the-crisis}
-
-****The Uncontrolled Experiment:****
-
--   "Children born in the late 1990s were the first generation in history who ****went through puberty in the virtual world****"
--   "It's as though we sent Gen Z to grow up on Mars when we gave them smartphones in the early 2010s"
--   ****"The largest uncontrolled experiment humanity has ever performed on its own children"****
-
-****Five-Year Transformation (2010-2015):****
-
--   Social patterns fundamentally recast
--   Role models changed
--   Emotions altered
--   Physical activity reduced
--   Sleep patterns disrupted
--   "The daily life, consciousness, and social relationships of 13-year-olds with iPhones in 2013 (born 2000) were ****profoundly different**** from those of 13-year-olds with flip phones in 2007 (born 1994)"
+    -   Social patterns fundamentally recast
+    -   Role models changed
+    -   Emotions altered
+    -   Physical activity reduced
+    -   Sleep patterns disrupted
+    -   "The daily life, consciousness, and social relationships of 13-year-olds with iPhones in 2013 (born 2000) were ****profoundly different**** from those of 13-year-olds with flip phones in 2007 (born 1994)"
 
 
 ### Chapter summary points (as provided by author) {#chapter-summary-points--as-provided-by-author}
 
-1.  ****Between 2010 and 2015****, social lives of American teens moved largely onto smartphones with continuous access to social media, video games, internet-based activities. This ****Great Rewiring of Childhood**** is the ****single largest reason**** for tidal wave of adolescent mental illness beginning in early 2010s.
-
-2.  ****First generation**** to go through puberty with smartphones (and entire internet) in their hands became ****more anxious, depressed, self-harming, and suicidal****. Now called ****Gen Z**** (vs. Millennials who finished puberty when Great Rewiring began in 2010).
-
-3.  Tidal wave of anxiety, depression, self-harm hit ****girls harder than boys****, and ****preteen girls hardest of all****.
-
-4.  Mental health crisis also hit boys—rates of depression and anxiety increased a lot, though usually not as much as girls. Boys' technology use and difficulties somewhat different (addressed in Chapter 7).
-
-5.  ****Suicide rates**** began rising around 2008 for adolescent boys and girls; rose much higher in 2010s.
-
-6.  Increase in suffering ****not limited to United States****. Same pattern at roughly same time in U.K., Canada, other major Anglosphere countries, and five Nordic nations. Feelings of ****alienation in school rose after 2012 across Western world****. Data less abundant in non-Western nations.
-
-7.  ****No other theory**** has been able to explain why rates of anxiety and depression surged among adolescents in so many countries at same time in same way. Other factors contribute to poor mental health, but unprecedented rise between 2010 and 2015 ****cannot be explained**** by global financial crisis or any set of events in U.S. or any other particular country.
-
-
-### Key terminology {#key-terminology}
-
--   ****Internalizing disorders****: Disorders where person feels distress and experiences symptoms inwardly (anxiety, fear, sadness, hopelessness, rumination, social withdrawal). More common in girls/women.
-
--   ****Externalizing disorders****: Disorders where person feels distress and turns symptoms outward at other people (conduct disorder, anger management issues, violence, excessive risk-taking). More common in boys/men.
-
--   ****The Great Rewiring (2010-2015)****: The five-year period when adolescent social life moved from real world to virtual world via smartphones and social media.
-
--   ****Phone-based childhood****: Childhood dominated by smartphones, social media, constant connectivity, virtual interactions.
-
--   ****Play-based childhood****: Traditional childhood with unsupervised outdoor play, in-person socializing, embodied interactions.
-
--   ****"Forever elsewhere"****: State where even when physically present, substantial attention is monitoring virtual world/social media.
-
-
-### Critical data visualization pattern {#critical-data-visualization-pattern}
-
-****The "If You Stop at 2010" Pattern:****
-Repeatedly across multiple countries and measures:
-
--   Data through 2010: No concerning trends visible
--   Data through 2015: Clear crisis emerging
--   This consistent pattern across independent datasets strengthens causal inference
-
-
-### Implications for causation {#implications-for-causation}
-
-While ****correlation doesn't prove causation****, the convergence of evidence is compelling:
-
-1.  ****Temporal alignment****: Mental health decline begins precisely when smartphone/social media adoption reaches critical mass
-2.  ****International synchronization****: Same pattern across multiple countries with different cultures/policies
-3.  ****Dose-response relationship****: Heavier users show worse outcomes
-4.  ****Specificity****: Concentrated in age group that adopted technology first (Gen Z)
-5.  ****Elimination of alternatives****: Other proposed causes don't fit timing, demographics, or international pattern
-6.  ****Mechanism specificity****: Internalizing disorders specifically (not externalizing)
-7.  ****Gender patterns****: Different technology use patterns (social media vs. gaming) correlate with different manifestations
-
-****Next Question****: **How** does phone-based childhood interfere with child development and produce/exacerbate mental illness? Part 2 will examine what childhood is and what children need to develop into healthy adults.
+1.  ****Between 2010 and 2015****, social lives of American teens moved largely onto
+    smartphones with continuous access to social media, video games,
+    internet-based activities. This ****Great Rewiring of Childhood**** is the ****single
+    largest reason**** for tidal wave of adolescent mental illness beginning in
+    early 2010s.
+2.  ****First generation**** to go through puberty with smartphones (and entire
+    internet) in their hands became ****more anxious, depressed, self-harming, and
+    suicidal****. Now called ****Gen Z**** (vs. Millennials who finished puberty when
+    Great Rewiring began in 2010).
+3.  Tidal wave of anxiety, depression, self-harm hit ****girls harder than boys****,
+    and ****preteen girls hardest of all****.
+4.  Mental health crisis also hit boys—rates of depression and anxiety increased
+    a lot, though usually not as much as girls. Boys' technology use and
+    difficulties somewhat different (addressed in Chapter 7).
+5.  ****Suicide rates**** began rising around 2008 for adolescent boys and girls; rose
+    much higher in 2010s.
+6.  Increase in suffering ****not limited to United States****. Same pattern at roughly
+    same time in U.K., Canada, other major Anglosphere countries, and five Nordic
+    nations. Feelings of ****alienation in school rose after 2012 across Western
+    world****. Data less abundant in non-Western nations.
+7.  ****No other theory**** has been able to explain why rates of anxiety and
+    depression surged among adolescents in so many countries at same time in same
+    way. Other factors contribute to poor mental health, but unprecedented rise
+    between 2010 and 2015 ****cannot be explained**** by global financial crisis or any
+    set of events in U.S. or any other particular country.
 
 
 ## Chapter 2: what children need to do in childhood {#chapter-2-what-children-need-to-do-in-childhood}
 
-
-#### Main thesis {#main-thesis}
-
-Human childhood evolved to be an extended ****"cultural apprenticeship"**** requiring three core developmental experiences: ****free play, attunement, and social learning****. The phone-based childhood directly blocks these essential activities, depriving children of the experiences their brains "expect" during sensitive developmental periods, particularly ages 9-15.
+Human childhood evolved to be an extended ****"cultural apprenticeship"**** requiring
+three core developmental experiences: ****free play, attunement, and social
+learning****. The phone-based childhood directly blocks these essential activities,
+depriving children of the experiences their brains "expect" during sensitive
+developmental periods, particularly ages 9-15.
 
 
 #### Key arguments {#key-arguments}
 
-<!--list-separator-->
+1.  why human childhood is uniquely long
 
--  1. why human childhood is uniquely long
+    The Growth Paradox:
 
-    ****The Growth Paradox:****
-
-    -   Humans: grow fast (0-2 years) → ****slow down (7-10 years)**** → fast again (puberty)
+    -   Humans: grow fast (0-2 years) → **slow down (7-10 years)** → fast again (puberty)
     -   Chimps: steady growth until sexual maturity, then reproduce
-    -   Human brain: ****90% full size by age 5****, yet childhood continues for many more years
+    -   Human brain: **90% full size by age 5**, yet childhood continues for many more years
 
-    ****Evolutionary Reason: Cultural Learning****
+    Evolutionary Reason: Cultural Learning
 
-    -   Between 1-3 million years ago, **Homo** genus became ****cultural creatures****
+    -   Between 1-3 million years ago, Homo genus became cultural creatures
     -   Tool-making, fire use reshaped evolution
-    -   "Race for survival was won no longer by the fastest or strongest but by those ****most adept at learning****"
-    -   Key trait: ****"ability to learn from each other"**** and tap into communal knowledge pool
+
+    > "Race for survival was won no longer by the fastest or strongest but by those **most adept at learning**"
+
+    -   Key trait: "ability to learn from each other" and tap into communal knowledge pool
     -   Extended childhood gives time for this cultural apprenticeship
 
-    ****Three Core Motivations Installed by Evolution:****
+    💡 Three core motivations installed by evolution:
 
     1.  Free play
     2.  Attunement
     3.  Social learning
 
-    ****The Problem:**** "Designers of smartphones, video game systems, social media, and other addictive technologies ****lured kids into the virtual world****, where they no longer got the full benefit of acting on these three motivations"
+    The Problem:
 
-<!--list-separator-->
+    > "Designers of smartphones, video game systems, social media, and other
+    > addictive technologies **lured kids into the virtual world**, where they no
+    > longer got the full benefit of acting on these three motivations"
 
--  2. free play: "the work of childhood"
+2.  free play: "the work of childhood"
 
-    ****Universal Mammalian Need:****
+    Universal mammalian need:
 
-    -   Young mammals ****want, need, and come out impaired**** when deprived of play
+    -   Young mammals want, need, and come out impaired when deprived of play
     -   Hundreds of studies on rats, monkeys, humans confirm this
     -   Play = low-stakes environment for repeated activity with feedback
 
-    ****What Play Teaches:****
+    What play teaches:
 
     -   Physical skills (running, climbing, coordination)
     -   Social skills: conflict resolution, self-governance, joint decision making, accepting loss
     -   Emotional regulation and relationship repair
-    -   ****Peter Gray****: "Play requires suppression of the drive to dominate and enables formation of long-lasting cooperative bonds"
+    -   Peter Gray: "Play requires suppression of the drive to dominate and enables formation of long-lasting cooperative bonds"
 
-    ****Definition of "Free Play" (Peter Gray):****
+    Definition of "**Free Play**" (Peter Gray):
 
-    -   "Activity that is ****freely chosen and directed by participants****"
-    -   "Undertaken ****for its own sake****"
+    -   "Activity that is freely chosen and directed by participants"
+    -   "Undertaken for its own sake"
     -   "Not consciously pursued to achieve ends distinct from the activity itself"
-    -   ****Physical play, outdoors, mixed ages**** = healthiest form
-    -   ****Play with physical risk**** essential for learning self-protection
+    -   Physical play, outdoors, mixed ages = healthiest form
+    -   Play with physical risk essential for learning self-protection
     -   Adults' involvement makes it "less free, less playful, less beneficial"
 
-    ****Key Insight: Mistakes Are Not Very Costly****
+    Key Insight: Mistakes are not very costly
 
     -   Experience, not information, is key to emotional development
-    -   "Children can only learn how to **not** get hurt in situations where it is possible to get hurt"
+
+    > "Children can only learn how to **not** get hurt in situations where it is possible to get hurt"
+
     -   Trial and error with direct feedback from playmates
     -   Intrinsically motivated to acquire skills to stay included in playgroup
 
-    ****Play-Based vs. Phone-Based Childhood:****
+    Play-Based vs. Phone-Based Childhood:
 
     | Play-Based                          | Phone-Based                       |
     |-------------------------------------|-----------------------------------|
@@ -597,192 +466,167 @@ Human childhood evolved to be an extended ****"cultural apprenticeship"**** requ
     | Communities with cost to join/leave | Easy to join/leave virtual groups |
     | Real-world interactions             | Virtual interactions              |
 
-    ****Historical Context:****
+    Historical Context:
 
     -   Hunter-gatherer childhood = enormous free play
-    -   1959 UN Declaration: Play is a ****basic human right****
+    -   1959 UN Declaration: Play is a basic human right
     -   Industrial Revolution brought work-based childhood (why rights were needed)
 
-    ****Smartphones as "Experience Blockers":****
+    Smartphones as "**Experience Blockers**":
 
     -   Reduce time for face-to-face play
     -   Like giving infants movies about walking "so engrossing that kids never put in the time or effort to practice walking"
     -   Video games are forms of play, but at cost of reducing embodied social experiences
 
-    ****Social Media ≠ Play:****
+    **Social Media ≠ Play**:
 
     -   Opposite of Gray's definition
     -   Forces young people to be "their own brand managers"
     -   Every action is strategic: "consciously pursued to achieve ends distinct from the activity itself"
     -   Even non-posters harmed by: chronic social comparison, unachievable beauty standards, time taken from everything else
 
-    ****The Data: Meeting Friends in Person****
+<!--listend-->
 
-    ****Figure 2.1 - Students Who Meet Friends "Almost Every Day":****
+1.  attunement: synchronizing with others
 
-    -   Slow decline 1990s-early 2000s
-    -   ****Faster decline in 2010s**** (Great Rewiring period)
-    -   This IS the Great Rewiring: "generation moving away from real world and into virtual"
+    What is attunement?
 
-<!--list-separator-->
-
--  3. attunement: synchronizing with others
-
-    ****What Is Attunement?****
-
-    -   ****Synchrony**** = being "in sync" with someone (movements, emotions, music, conversation)
+    -   Synchrony = being "in sync" with someone (movements, emotions, music, conversation)
     -   Deeply connected to relationship quality and mental health
     -   Creates trust, cooperation, bonding
 
-    ****Physiological Basis:****
+    Physiological Basis:
 
     -   Newborns: mothers' heart rates sync with baby's
-    -   Conversations: ****instantaneous biological synchrony**** (pupil dilation, breathing, gestures)
-    -   Brain regions fire ****simultaneously**** during face-to-face interaction
-    -   ****Quote****: "Our brains are designed to couple with the brains of others"
+    -   Conversations: instantaneous biological synchrony (pupil dilation, breathing, gestures)
+    -   Brain regions fire simultaneously during face-to-face interaction
 
-    ****Historical/Cultural Evidence:****
+    > "Our brains are designed to couple with the brains of others"
+
+    Historical/Cultural Evidence:
 
     -   Every continent performed rituals: drumming, chanting, synchronized movement
-    -   Émile Durkheim: "****social electricity****" generated by such rituals
+    -   Émile Durkheim: "social electricity" generated by such rituals
     -   Rituals "renew trust and mend frayed social relations"
 
-    ****Experimental Evidence:****
+    Experimental Evidence:
 
     -   Study: Students swaying to music with beer mugs
-    -   In-sync groups: ****trusted more, cooperated more, made more money**** in trust games
+    -   In-sync groups: trusted more, cooperated more, made more money in trust games
     -   Out-of-sync groups: lower cooperation
 
-    ****The Virtual World Problem:****
+    The **virtual world problem**:
 
-    -   Social media = ****asynchronous interaction****
-    -   Teens spend ****2+ hours/day**** on social media
-    -   By 2014: nearly ****1/3 of teen girls spending 20+ hours/week**** on social media (half a full-time job)
+    -   Social media = asynchronous interaction
+    -   Teens spend 2+ hours/day on social media
+    -   By 2014: nearly 1/3 of teen girls spending 20+ hours/week on social media (half a full-time job)
     -   Time no longer available for in-person interaction
-    -   Creates ****shallow connections**** (asynchronous, public, disembodied)
-    -   "Gen Z is learning to pick emojis instead"
+    -   Creates shallow connections (asynchronous, public, disembodied)
 
-    ****Result:**** "Is it any wonder that so many teens found themselves ****lonely and starved for connection**** starting in early 2010s?"
+    > "Gen Z is learning to pick emojis instead"
 
-<!--list-separator-->
+    Result:
 
--  4. social learning: choosing who to copy
+    > "Is it any wonder that so many teens found themselves lonely and starved for connection
+    > starting in early 2010s?"
 
-    ****Why Not Just Copy Parents?****
+2.  social learning: choosing who to copy
+
+    Why not just copy parents?
 
     -   No reason to assume own parents are most skilled in community
-    -   Need to learn how to be successful ****older child**** in particular community
+    -   Need to learn how to be successful older child in particular community
 
-    ****Two Key Evolutionary "Strategies" (Boyd &amp; Richerson):****
+    Two key evolutionary "Strategies" (Boyd &amp; Richerson):
 
-    <!--list-separator-->
+    1.  Conformist bias
 
-    -  A. conformist bias
-
-        -   ****Do whatever most people are doing**** = safest strategy
+        -   Do whatever most people are doing = safest strategy
         -   "When in Rome, do as Romans do"
         -   Particularly strong when newcomer to society
-        -   Not necessarily "peer pressure"—better termed ****"conformity attraction"****
+        -   Not necessarily "peer pressure"—better termed "conformity attraction"
         -   Example: Middle school kids discover "most classmates have Instagram account"
 
-        ****Social Media as Conformity Engine:****
+        Social Media as **conformity engine**:
 
         -   In real life: takes weeks to observe common behaviors
-        -   On social media: scroll through ****1000 data points in one hour**** (3 seconds per post)
+        -   On social media: scroll through 1000 data points in one hour (3 seconds per post)
         -   Each accompanied by numerical evidence (likes) and comments
-        -   ****"Social media platforms are the most efficient conformity engines ever invented"****
-        -   "Can shape an adolescent's mental models of acceptable behavior in ****a matter of hours****"
+
+        > "Social media platforms are the most efficient conformity engines ever invented"
+        >
+        > "Can shape an adolescent's mental models of acceptable behavior in a matter of hours"
+
         -   Parents struggle for years; they "don't get to use the power of conformity bias"
 
-    <!--list-separator-->
+    2.  prestige bias
 
-    -  B. prestige bias
-
-        -   ****Copy the prestigious**** (those with achieved excellence)
+        -   Copy the prestigious (those with achieved excellence)
         -   Alternative to dominance hierarchy (based on violence)
         -   Humans confer prestige willingly to those with excellence in valued domains
         -   People become deferential to maximize learning and raise own prestige by association
 
-        ****Platform Exploitation:****
+        Platform Exploitation:
 
-        -   ****Sean Parker (Facebook)****: Admitted goal was "social-validation feedback loop...exploiting a vulnerability in human psychology"
-        -   Platforms ****quantified prestige**** based on clicks
-        -   ****Severed ancient link between excellence and prestige****
+        -   Sean Parker (Facebook): Admitted goal was "social-validation feedback loop...exploiting a vulnerability in human psychology"
+        -   Platforms quantified prestige based on clicks
+        -   Severed ancient link between excellence and prestige
         -   "Famous for being famous" taken to extreme
 
-        ****The Kim Kardashian Effect:****
+        The Kim Kardashian Effect:
 
         -   Path to prestige: sex tape → reality TV → 364 million Instagram followers
         -   Sister Kylie: 400 million followers
-        -   ****"Millions of Gen Z girls collectively aimed their most powerful learning systems at a small number of young women whose main excellence seems to be amassing followers"****
+        -   "Millions of Gen Z girls collectively aimed their most powerful learning systems at a small number of young women whose main excellence seems to be amassing followers"
         -   Gen Z boys aimed at "extreme" masculine influencers "potentially inapplicable to their daily lives"
 
-        ****Consequence:**** Time, attention, copying behavior diverted away from real-world role models and mentoring relationships
+        Consequence: Time, attention, copying behavior diverted away from real-world role models and mentoring relationships
 
-<!--list-separator-->
+3.  sensitive periods and "experience-expectant development"
+    Critical vs. Sensitive Periods:
 
--  5. sensitive periods and "experience-expectant development"
+    -   Critical period: **Must** learn something in window, or nearly impossible later (e.g., goslings imprinting on Konrad Lorenz's boots)
+    -   Sensitive period: Very easy to learn in window, more difficult outside
 
-    ****Critical vs. Sensitive Periods:****
+    Human Sensitive Periods:
 
-    -   ****Critical period****: **Must** learn something in window, or nearly impossible later (e.g., goslings imprinting on Konrad Lorenz's boots)
-    -   ****Sensitive period****: Very easy to learn in window, more difficult outside
-
-    ****Human Sensitive Periods:****
-
-    <!--list-separator-->
-
-    -  Language learning
-
+    -   Language learning
         -   Children learn multiple languages easily
-        -   Ability ****drops off sharply**** during first few years of puberty
+        -   Ability drops off sharply during first few years of puberty
         -   Kids ≤12: become native speakers with no accent
         -   Kids ≥14: retain accent for life
 
-    <!--list-separator-->
+    -   Cultural learning (ages 9-15)
 
-    -  Cultural learning (ages 9-15)
-
-        -   ****Minoura's Study****: Japanese children in California (1970s)
+        -   Minoura's Study: Japanese children in California (1970s)
         -   Ages 9-14/15: came to "feel American," struggled returning to Japan after 15
         -   Before 9 or after 15: no such difficulty
-        -   During sensitive period: "cultural meaning system for interpersonal relationships appears to become ****salient part of self-identity**** to which they are ****emotionally attached****"
+        -   During sensitive period: "cultural meaning system for interpersonal relationships appears to become salient part of self-identity to which they are emotionally attached"
 
-        ****The Smartphone Timing Problem:****
+        The Smartphone Timing Problem:
 
-        -   Average first smartphone: ****age 11****
+        -   Average first smartphone: age 11
         -   Then socialized into Instagram, TikTok, video games for rest of teen years
-        -   ****Sequential, age-appropriate experiences replaced**** by "whirlpool of adult content and experiences that arrive in no particular order"
-        -   Identity, selfhood, emotions, relationships develop ****online rather than in real life****
-        -   "Any child who spends her sensitive period as a heavy user of social media ****will be shaped by the cultures of those sites****"
+        -   Sequential, age-appropriate experiences replaced by "whirlpool of adult content and experiences that arrive in no particular order"
+        -   Identity, selfhood, emotions, relationships develop online rather than in real life
+        -   "Any child who spends her sensitive period as a heavy user of social media will be shaped by the cultures of those sites"
 
-        ****British Study Evidence (Amy Orben):****
+        British Study Evidence (Amy Orben):
 
-        -   Negative correlation between social media use and life satisfaction ****larger for ages 10-15**** than 16-21 or other ages
+        -   Negative correlation between social media use and life satisfaction larger for ages 10-15 than 16-21 or other ages
         -   Longitudinal data: Increased social media use → worse mental health **following year**
-        -   ****Worst years for girls: 11-13****
-        -   ****Worst years for boys: 14-15****
+        -   Worst years for girls: 11-13
+        -   Worst years for boys: 14-15
 
-        ****Policy Implication:**** Current minimum age of 13 for social media is \*\*too low\*\*—it's precisely when brains are most vulnerable
+        Policy Implication: Current minimum age of 13 for social media is too low—it's precisely when brains are most vulnerable
 
+4.  Chapter summary
 
-#### Chapter summary {#chapter-summary}
+The Deprivation:
 
-****The Deprivation:****
-
--   "Gen Z is the first generation to have gone through puberty ****hunched over smartphones and tablets****"
--   "Having ****fewer face-to-face conversations**** and shoulder-to-shoulder adventures"
--   "Children are, in a sense, ****deprived of childhood****"
-
-****What Replaced What:****
-
-| Lost              | Replaced By                      |
-|-------------------|----------------------------------|
-| Free play         | Screen time                      |
-| Attunement        | Asynchronous interaction         |
-| Local role models | Influencers chosen by algorithms |
-
-****The Result:**** Between 2010-2015, as childhood was rewired, "adolescents became more anxious, depressed, and fragile"
+-   "Gen Z is the first generation to have gone through puberty hunched over smartphones and tablets"
+-   "Having fewer face-to-face conversations and shoulder-to-shoulder adventures"
+-   "Children are, in a sense, deprived of childhood"
 
 
 #### Key chapter bullet points {#key-chapter-bullet-points}

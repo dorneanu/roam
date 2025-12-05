@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       b86fae9d-477b-4a16-b958-2308bfb986e9
-:END:
-#+title: Lactate

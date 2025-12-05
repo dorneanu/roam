@@ -25,13 +25,13 @@ draft = false
     -   Chapter 5
         -   on [Default Network]({{< relref "../../topics/default_network.md" >}})
             -   [why we're social beings](#digital-minimalism-note-5)
-        -   on [Conversation-Centric Communication]({{< relref "../../topics/conversation_centric_communication.md" >}})
+        -   on Conversation-Centric Communication
             -   [Why no digital invention cannot ever replace our sociality](#digital-minimalism-note-6)
             -   [What it means to stay in touch](#digital-minimalism-note-7)
         -   [Don't click the Like button](https://www.attentiveman.com/blog-1/2019/3/1/cal-newport-on-avoiding-the-like-button)
     -   Chapter 6
         -   How does one live a good life?
-        -   on [High-Quality Leisure]({{< relref "../../topics/high_quality_leisure.md" >}}) and
+        -   on High-Quality Leisure and
     -   Chapter 7
         -   on the [Attention Economy]({{< relref "../../topics/attention_economy.md" >}})
 
@@ -43,7 +43,7 @@ draft = false
 -   digital minimalists transform innovations from a source of distraction into tools to support their lives well lived
 -   Principles
     -   **Clutter is costly**
-        -   also check [Thoreau's Economy]({{< relref "../../topics/thoreau_s_economy.md" >}})
+        -   also check Thoreau's Economy
     -   **Optimization is important**
         -   deciding which technology to use is only the first step
         -   how to use it to fully extract its potential is even more important

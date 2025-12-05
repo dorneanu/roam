@@ -15,7 +15,7 @@ draft = false
 ## Notes {#notes}
 
 
-### [Clean Code]({{< relref "../../topics/clean_code.md" >}}) {#clean-code--dot-dot-dot-dot-topics-clean-code-dot-md}
+### Clean Code {#clean-code--dot-dot-dot-dot-topics-clean-code-dot-md}
 
 
 ## Quotes {#quotes}

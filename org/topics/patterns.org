@@ -1,9 +1,0 @@
-#+created: 20191128064915024
-#+modified: 20210519093605193
-#+revision: 0
-#+tags: Topics
-#+title: Patterns
-#+tmap.id: 423cde7f-2f65-4987-8d37-1d610dd4b702
-#+type: text/vnd.tiddlywiki
-
-

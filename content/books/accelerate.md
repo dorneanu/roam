@@ -14,7 +14,7 @@ draft = false
 -   organizations should focus on [capabilities, rather than maturity](#capabilities-vs-maturity)
 -   Research has found 24 key capabilities that drive improvement in [software delivery performance](#software-delivery-performance)
     -   The capabilities were classified into these categories
-        -   [Continuous Delivery]({{< relref "../../topics/continuous_delivery.md" >}}) (CD)
+        -   Continuous Delivery (CD)
         -   Architecture / [Architectural characteristics](#architectural-characteristics)
             -   architectural decissions and effective architecture enable teams to easily test and deploy individual components/services also when the organization grows or the amount of services changes
             -   architectural characteristics rather than implementation details were more important

@@ -70,14 +70,14 @@ draft = false
 ### The Wim Hof Method - Note 4 {#the-wim-hof-method-note-4}
 
 > People come to me with questions like, "Should I breathe through the nose?" or
-> "The [Diaphragm]({{< relref "../../topics/diaphragm.md" >}}) this or that", and I just say, "Yeah, breathe, motherfuckers!
+> "The Diaphragm this or that", and I just say, "Yeah, breathe, motherfuckers!
 > Don't think, just do it! Get into the depth of your own lungs!"
 
 
 ### The Wim Hof Method - Note 5 {#the-wim-hof-method-note-5}
 
 > Yoga means connection; it comes from the verb _yug_, and _yug_ is "to connect". This
-> is what the author of [The Yoga Sutras of Patanjali]({{< relref "../../topics/the_yoga_sutras_of_patanjali.md" >}}) write 16 hundred years ago
+> is what the author of The Yoga Sutras of Patanjali write 16 hundred years ago
 > or so, more or less. It still holds. "Yoga is silencing the modifications of the
 > mind, then the seer dwells in his own nature".
 
@@ -86,6 +86,6 @@ draft = false
 
 > People get hung up on getting the breathing right. They think it is too simple
 > to work. They ask me, "How do you do it, Wim? Is it with the nose, or the mouth?
-> Do i fill the belly, the [Diaphragm]({{< relref "../../topics/diaphragm.md" >}})? Or do you have to close one nostril and then
+> Do i fill the belly, the Diaphragm? Or do you have to close one nostril and then
 > the other? Do I fill the lungs all the way, or not too much, or ... " And I say:
 > "It doesn't matter what kind of hole you use here, just get it in".

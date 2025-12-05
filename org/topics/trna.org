@@ -1,7 +1,0 @@
-#+created: 20210223193309507
-#+modified: 20210518184433729
-#+revision: 0
-#+title: tRNA
-#+type: text/vnd.tiddlywiki
-
-

@@ -1,8 +1,0 @@
-#+color: #94ec4b
-#+created: 20210518192323340
-#+modified: 20210518192323374
-#+revision: 0
-#+title: Philosophy
-#+type: text/vnd.tiddlywiki
-
-

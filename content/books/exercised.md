@@ -155,7 +155,7 @@ On the history of chairs:
 
 ### 75 {#75}
 
-On [cytokine]({{< relref "../../topics/cytokine.md" >}}) and inflammations:
+On cytokine and inflammations:
 
 > The answer has recently become apparent thanks to new technologies that
 > accurately measure minuscule quantities of the more than one thousand tiny
@@ -412,13 +412,13 @@ About ATP and ADP:
 > each sugar, molecules known as pyruvates, accumulate faster than cells can
 > handle. As **pyruvates** pile up to intolerable levels, enzymes **convert each
 > pyruvate into a molecule called
-> [lactate]({{< relref "../../topics/lactate.md" >}}) along with a hydrogen ion**
-> (H+). Although **[lactate]({{< relref "../../topics/lactate.md" >}}) is harmless
+> lactate along with a hydrogen ion**
+> (H+). Although **lactate is harmless
 > and eventually used to recharge ATPs, those hydrogen ions make muscle cells
 > increasingly acidic, causing fatigue, pain, and decreased function**. Within
 > about thirty seconds, a sprinter’s legs feel as if they are burning. It then
 > takes a lengthy period of time to slowly neutralize the acid and shuttle the
-> surplus [lactate]({{< relref "../../topics/lactate.md" >}}) into the third,
+> surplus lactate into the third,
 > final, but long-term aerobic energy process.
 
 
@@ -809,7 +809,7 @@ On epigenetic modifications:
 
 Cortisol and [sugar]({{< relref "../../topics/zucker.md" >}}) absorption:
 
-> [Cortisol]({{< relref "../../topics/cortisol.md" >}}) shunts sugar and fats into the bloodstream, it makes us crave
+> Cortisol shunts sugar and fats into the bloodstream, it makes us crave
 > sugar-rich and fat-rich foods, and it directs us to store organ fat rather than
 > subcutaneous fat. Short bursts of cortisol are natural and normal, but **chronic
 > low levels of cortisol are damaging because they promote obesity and chronic

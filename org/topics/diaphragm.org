@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       44c42914-2c5e-42b8-b1ae-de8beceed00c
-:END:
-#+title: Diaphragm

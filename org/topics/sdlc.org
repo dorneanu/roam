@@ -1,9 +1,0 @@
-#+created: 20191128080139900
-#+modified: 20210519093517451
-#+revision: 0
-#+tags: Topics
-#+title: SDLC
-#+tmap.id: f96abc72-dbd3-496a-9884-866e88c624fe
-#+type: text/vnd.tiddlywiki
-
-
