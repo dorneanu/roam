@@ -197,6 +197,12 @@
 		const closeBacklinkModalBtn = document.getElementById('close-backlink-modal');
 		const visitBacklinkBtn = document.getElementById('visit-backlink');
 
+		// Safety check: only initialize if all elements exist
+		if (!backlinkPreviewModal || !backlinkPreviewTitle || !backlinkPreviewContent || !closeBacklinkModalBtn || !visitBacklinkBtn) {
+			console.error('Backlink preview modal elements not found');
+			return;
+		}
+
 		// Open backlink preview modal
 		async function openBacklinkPreview(backlinkCard) {
 			const title = backlinkCard.getAttribute('data-backlink-title');
@@ -213,6 +219,11 @@
 			// Fetch content
 			try {
 				const response = await fetch(url);
+
+				if (!response.ok) {
+					throw new Error(`HTTP error! status: ${response.status}`);
+				}
+
 				const html = await response.text();
 
 				// Parse HTML and extract main content
@@ -228,6 +239,7 @@
 					backlinkPreviewContent.innerHTML = '<p class="gray">Could not load preview content.</p>';
 				}
 			} catch (error) {
+				console.error('Error loading backlink preview:', error);
 				backlinkPreviewContent.innerHTML = '<p class="red">Error loading content. Please try visiting the page directly.</p>';
 			}
 		}
@@ -238,12 +250,21 @@
 		}
 
 		// Event listeners for backlink preview buttons
-		document.querySelectorAll('.backlink-preview-btn').forEach(button => {
+		const previewButtons = document.querySelectorAll('.backlink-preview-btn');
+		if (previewButtons.length === 0) {
+			console.warn('No backlink preview buttons found');
+		}
+
+		previewButtons.forEach(button => {
 			button.addEventListener('click', function(e) {
 				e.preventDefault();
 				e.stopPropagation();
 				const backlinkCard = this.closest('.backlink-card');
-				openBacklinkPreview(backlinkCard);
+				if (backlinkCard) {
+					openBacklinkPreview(backlinkCard);
+				} else {
+					console.error('Could not find backlink card');
+				}
 			});
 		});
 
