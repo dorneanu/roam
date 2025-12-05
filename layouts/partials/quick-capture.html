@@ -788,18 +788,78 @@ document.addEventListener('DOMContentLoaded', function() {
         URL.revokeObjectURL(url);
     });
 
+    // Show notification when clips are imported
+    function showClipImportedNotification(count) {
+        const notification = document.createElement('div');
+        notification.innerHTML = `
+            <div style="position: fixed; top: 20px; right: 20px; background: #2c3e50; color: white; padding: 1rem 1.5rem; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); z-index: 10000; font-family: -apple-system, sans-serif; animation: slideIn 0.3s ease;">
+                <div style="display: flex; align-items: center; gap: 0.5rem;">
+                    <span style="font-size: 1.5rem;">📎</span>
+                    <div>
+                        <div style="font-weight: 600;">Clip${count !== 1 ? 's' : ''} Imported</div>
+                        <div style="font-size: 0.875rem; opacity: 0.9;">${count} item${count !== 1 ? 's' : ''} added to Quick Capture</div>
+                    </div>
+                </div>
+            </div>
+        `;
+        document.body.appendChild(notification);
+
+        setTimeout(() => {
+            notification.style.animation = 'slideOut 0.3s ease';
+            setTimeout(() => notification.remove(), 300);
+        }, 4000);
+    }
+
     // ===== Bookmarklet Clip Import =====
-    // Check for clips from bookmarklet and import them
+    // Check for clips from bookmarklet (URL parameter)
     function importBookmarkletClips() {
         console.log('🔍 Checking for bookmarklet clips...');
-        const queue = localStorage.getItem('web-clipper-queue');
 
+        // Check URL parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const clipParam = urlParams.get('clip');
+
+        if (clipParam) {
+            console.log('📦 Found clip in URL parameter');
+            try {
+                const clip = JSON.parse(decodeURIComponent(clipParam));
+                console.log('📋 Parsed clip:', clip);
+
+                // Import the clip
+                const captures = getCaptures();
+                const clipContent = `> ${clip.text}\n\n**Source:** ${clip.title}\n**URL:** ${clip.url}\n\n**Notes:**\n`;
+
+                const capture = {
+                    id: Date.now().toString(),
+                    content: clipContent,
+                    timestamp: clip.timestamp,
+                    pageUrl: clip.url,
+                    pageTitle: clip.title,
+                    selectedText: clip.text
+                };
+
+                captures.clips.push(capture);
+                saveCaptures(captures);
+
+                // Clean URL
+                window.history.replaceState({}, document.title, window.location.pathname);
+
+                showClipImportedNotification(1);
+                console.log('✅ Imported 1 clip from bookmarklet');
+                return;
+            } catch (e) {
+                console.error('Error importing clip from URL:', e);
+            }
+        }
+
+        // Also check localStorage for legacy support
+        const queue = localStorage.getItem('web-clipper-queue');
         if (!queue) {
             console.log('ℹ️ No clips in queue');
             return;
         }
 
-        console.log('📦 Found queue:', queue);
+        console.log('📦 Found queue in localStorage:', queue);
 
         try {
             const clips = JSON.parse(queue);
