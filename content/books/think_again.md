@@ -78,7 +78,7 @@ The concept of the "impostor" centers around the feeling of inadequacy or the fe
 
 ##### The Narcissist Test {#the-narcissist-test}
 
--   [Narcissism](../../topics/narcissism.md)
+-   Narcissism
 -   2024-02-21 ◦ [The Narcissist Test](https://www.savagechickens.com/2009/06/the-narcissist-test.html)
 
 

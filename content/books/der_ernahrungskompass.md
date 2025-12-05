@@ -111,7 +111,7 @@ draft = false
 
 -   Blutzucker
     -   Hoher Blutzuckerspiegel ist nicht gut, da der Zucker im Blut dazu
-        neigt, sich mit dem Eiweiß (z. B. [Hemoglobin]({{< relref "../../topics/hemoglobin.md" >}})) im Körper zu verkleben
+        neigt, sich mit dem Eiweiß (z. B. Hemoglobin) im Körper zu verkleben
 -   [Insulinresistenz]({{< relref "../../topics/insulinresistenz.md" >}})
 -   [Insulin]({{< relref "../../topics/insulin.md" >}})
 
@@ -167,7 +167,7 @@ draft = false
 -   [Kaffee]({{< relref "../../topics/kaffee.md" >}})
 -   Tee
     -   Grüner Tee
-        -   Enthält [Polyphenole]({{< relref "../../topics/polyphenole.md" >}})
+        -   Enthält Polyphenole
             -   Pflanzen schützen sich damit gegen UV-Strahlung
             -   EGCG (Epigallocatechin-Gallat)
                 -   Krebshemmend

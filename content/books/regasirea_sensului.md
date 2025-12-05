@@ -427,7 +427,7 @@ Un catalizator al experientei:
 > romantice ale unei persoane**.
 >
 > -   **Exploratorul**: aventurierul căutător de nou care exprimă în primul rând
->     trăsăturile asociate cu sistemul [dopaminei]({{< relref "../../topics/dopamine.md" >}}).
+>     trăsăturile asociate cu sistemul dopaminei.
 >
 > -   **Constructorul**: persoana prudentă care se conformează regulilor sociale şi care
 >     exprimă în primul rând trăsăturile asociate cu sistemul [serotoninei]({{< relref "../../topics/serotonin.md" >}}).
@@ -578,7 +578,7 @@ In cercetarea **Marilor Cinci** tehnici - respirație, intrupare, sexualitate,
 substanţe şi muzică - există o rețetă amăgitor de - simplă care apare în mod
 repetat.
 
-> -   Maximizează **endocanabinoidele**, endorfinele, [dopamina]({{< relref "../../topics/dopamine.md" >}}), [monoxidul de azot]({{< relref "../../topics/nitric_oxide.md" >}}),
+> -   Maximizează **endocanabinoidele**, endorfinele, dopamina, [monoxidul de azot]({{< relref "../../topics/nitric_oxide.md" >}}),
 >     [oxitocina]({{< relref "../../topics/oxytocin.md" >}}) şi [serotonina]({{< relref "../../topics/serotonin.md" >}}).
 >
 > -   Creşte tonul [nervului vag]({{< relref "../../topics/vagusnerv.md" >}}) şi [variabilitatea ritmului cardiac]({{< relref "../../topics/hrv.md" >}})

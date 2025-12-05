@@ -87,7 +87,7 @@ Mostly from <https://oxygenadvantage.com/wim-hof/>
 
 ### Hypoxia {#hypoxia}
 
-> "[CO2]({{< relref "../../topics/carbon_dioxide.md" >}}) is the **catalyst** that causes [hemoglobin]({{< relref "../../topics/hemoglobin.md" >}}) in red blood cells to **release oxygen** to the cells. When levels of carbon dioxide are low, the red blood cells can’t release oxygen. **The result is [hypoxia]({{< relref "../../topics/hypoxia.md" >}})— a shortage of oxygen in the cells and tissues of the body.**"
+> "[CO2]({{< relref "../../topics/carbon_dioxide.md" >}}) is the **catalyst** that causes hemoglobin in red blood cells to **release oxygen** to the cells. When levels of carbon dioxide are low, the red blood cells can’t release oxygen. **The result is [hypoxia]({{< relref "../../topics/hypoxia.md" >}})— a shortage of oxygen in the cells and tissues of the body.**"
 
 
 ### Hyperventilation {#hyperventilation}

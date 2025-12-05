@@ -16,7 +16,7 @@ Von Viktor E. Frankl:
 
 -   The Will to Meaning
 
-    In diesem Buch erklärt Frankl seine Theorie der [Logotherapie]({{< relref "../../journal/2023-04-26.md" >}}) und wie sie dazu
+    In diesem Buch erklärt Frankl seine Theorie der Logotherapie und wie sie dazu
     beitragen kann, dass Menschen ihre Lebenskrise bewältigen und ein erfülltes
     Leben führen können.
 

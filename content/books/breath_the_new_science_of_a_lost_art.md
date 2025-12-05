@@ -11,8 +11,8 @@ draft = false
     -   Worst Breathers in the animal kingdom
         -   Oxygen
             -   Oxygen produces 16 times more energy than carbon dioxide
-                -   That's why [aerobic]({{< relref "../../topics/aerobic_respiration.md" >}}) life flourished
-            -   also [Anaerobic respiration]({{< relref "../../topics/anaerobic_respiration.md" >}})
+                -   That's why aerobic life flourished
+            -   also Anaerobic respiration
         -   Talks about evolution but also [dysevolution](https://www.goodreads.com/en/book/show/17736859-the-story-of-the-human-body)
             -   [Breath - The New Science of a Lost Art - Note 2](#breath-the-new-science-of-a-lost-art-note-2)
             -   [how our life style affects the way we breath](#breath-the-new-science-of-a-lost-art-note-3)
@@ -78,7 +78,7 @@ draft = false
         -   [Our ancestors had fewer respiratory diseases](#breath-the-new-science-of-a-lost-art-note-12)
         -   Weston Price (1930)
             -   did research how nutrition affects airways and mouths ("Nutrition and Physical Degeneration")
-            -   cause of shriking mouths and obstructed airways was not just of [Vitamin D]({{< relref "../../topics/vitamin_d.md" >}}) or [Vitamin C]({{< relref "../../topics/vitamin_c.md" >}}) deficiency but all essential vitamins
+            -   cause of shriking mouths and obstructed airways was not just of [Vitamin D]({{< relref "../../topics/vitamin_d.md" >}}) or Vitamin C deficiency but all essential vitamins
             -   but Price was half right
                 -   if our ancestors consumed a full spectrum of vitamins and minerals every day, their mouths would still grow too small, airways would become obstructed
                     -   **chewing** was the problem
@@ -152,7 +152,7 @@ draft = false
                 -   eventually it just stayed there, mucking around without ever doing much (for millions and millions of years)
             -   oxygen was a byproduct of that muck (accumulated in the atmosphere)
                 -   it was a stron electron acceptor
-                -   new muck evolved to consume oxygen, and therefore attracted and exchanged many more electrons than [anaerobic life]({{< relref "../../topics/anaerobic_respiration.md" >}})
+                -   new muck evolved to consume oxygen, and therefore attracted and exchanged many more electrons than anaerobic life
                 -   with this surplus of energy, early life evolved into plants, insects and everything else
             -   "the more oxygen life can consume, the more electron excitability it gains, the more animated it becomes"
                 -   health is all about absorbing and transfering electrons in a controlled way

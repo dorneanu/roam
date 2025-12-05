@@ -71,7 +71,7 @@ On cognitive bandwidth:
 
 #### 47 {#47}
 
-[Narcissism]({{< relref "../../topics/narcissism.md" >}}) as a corruption of attention:
+Narcissism as a corruption of attention:
 
 > I felt like everywhere I went, I was surrounded by people who were broadcasting but not
 > receiving. Narcissism, it occurred to me, is a corruption of attention – it’s where your

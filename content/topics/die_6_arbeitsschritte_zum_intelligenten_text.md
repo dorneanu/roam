@@ -17,7 +17,7 @@ draft = false
         -   Aufgaben vielleicht dem Gehirn für später überlassen ([Der Zeigarnik-Effekt]({{< relref "der_zeigarnik-effekt.md" >}}))
 -   **2) Lesen und Verstehen**
     -   In eigenen Worten die wichtigsten Aspekte des Textes aufschreiben (nicht "protokollieren")
-    -   Offen sein für alle möglichen Richtungen (gerade bei der Recherche) - siehe auch [Confirmation bias]({{< relref "confirmation_bias.md" >}})
+    -   Offen sein für alle möglichen Richtungen (gerade bei der Recherche) - siehe auch Confirmation bias
     -   Das Herausschreiben sorgt für früheren Lerneffekt
         -   Wird von Psychologen Elaboration genannt
             -   Man elaboriert das Gelesene, versucht es zu verstehen und mit altem wissen zu verknüpfen

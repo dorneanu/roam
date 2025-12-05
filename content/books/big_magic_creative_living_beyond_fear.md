@@ -31,7 +31,7 @@ draft = false
 >
 > But the Greeks and the Romans both believed in the idea of an external daemon of creativity as a sort of house elf, if you will, who lived within the walls of your home and who sometimes aided you in your labors. **The Romans had a specific term** for that helpful house elf. They **called it your genius** your guardian deity, the conduit of your in spiration. Which is to say, the Romans didn't believe that an exceptionally gifted person was a genius; they believed that an **exceptionally gifted person had a genius**.
 >
-> It's a subtle but important distinction (being vs. having) and, I think, it's a wise psychological construct. The idea of an **external genius helps to keep the artist's ego in check**, distancing him somewhat from the burden of taking either full credit or full blame for the outcome of his work. If your work is successful, in other words, you are obliged to thank your external genius for the help, thus holding you back from total [narcissism](../../topics/narcissism.md).
+> It's a subtle but important distinction (being vs. having) and, I think, it's a wise psychological construct. The idea of an **external genius helps to keep the artist's ego in check**, distancing him somewhat from the burden of taking either full credit or full blame for the outcome of his work. If your work is successful, in other words, you are obliged to thank your external genius for the help, thus holding you back from total narcissism.
 
 
 ## Perfectionism {#perfectionism}
