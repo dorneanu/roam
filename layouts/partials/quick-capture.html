@@ -787,5 +787,85 @@ document.addEventListener('DOMContentLoaded', function() {
         document.body.removeChild(a);
         URL.revokeObjectURL(url);
     });
+
+    // ===== Bookmarklet Clip Import =====
+    // Check for clips from bookmarklet and import them
+    function importBookmarkletClips() {
+        const queue = localStorage.getItem('web-clipper-queue');
+        if (!queue) return;
+
+        try {
+            const clips = JSON.parse(queue);
+            if (clips.length === 0) return;
+
+            // Import each clip
+            const captures = getCaptures();
+            let imported = 0;
+
+            clips.forEach(clip => {
+                const clipContent = `> ${clip.text}\n\n**Source:** ${clip.title}\n**URL:** ${clip.url}\n\n**Notes:**\n`;
+
+                const capture = {
+                    id: Date.now().toString() + '-' + imported,
+                    content: clipContent,
+                    timestamp: clip.timestamp,
+                    pageUrl: clip.url,
+                    pageTitle: clip.title,
+                    selectedText: clip.text
+                };
+
+                captures.clips.push(capture);
+                imported++;
+            });
+
+            // Save and clear queue
+            saveCaptures(captures);
+            localStorage.removeItem('web-clipper-queue');
+
+            // Notify user
+            if (imported > 0) {
+                console.log(`✅ Imported ${imported} clip(s) from bookmarklet`);
+
+                // Show a subtle notification
+                const notification = document.createElement('div');
+                notification.innerHTML = `
+                    <div style="position: fixed; top: 20px; right: 20px; background: #2c3e50; color: white; padding: 1rem 1.5rem; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); z-index: 10000; font-family: -apple-system, sans-serif; animation: slideIn 0.3s ease;">
+                        <div style="display: flex; align-items: center; gap: 0.5rem;">
+                            <span style="font-size: 1.5rem;">📎</span>
+                            <div>
+                                <div style="font-weight: 600;">Clips Imported</div>
+                                <div style="font-size: 0.875rem; opacity: 0.9;">${imported} item(s) added to Quick Capture</div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                document.body.appendChild(notification);
+
+                setTimeout(() => {
+                    notification.style.animation = 'slideOut 0.3s ease';
+                    setTimeout(() => notification.remove(), 300);
+                }, 4000);
+            }
+        } catch (e) {
+            console.error('Error importing bookmarklet clips:', e);
+        }
+    }
+
+    // Add animations
+    const style = document.createElement('style');
+    style.textContent = `
+        @keyframes slideIn {
+            from { transform: translateX(400px); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+        }
+        @keyframes slideOut {
+            from { transform: translateX(0); opacity: 1; }
+            to { transform: translateX(400px); opacity: 0; }
+        }
+    `;
+    document.head.appendChild(style);
+
+    // Import clips on page load
+    importBookmarkletClips();
 });
 </script>
