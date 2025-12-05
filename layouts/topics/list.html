@@ -85,6 +85,15 @@
                                 <h3 class="f5 fw5 near-black ma0 lh-title">{{ .Title }}</h3>
                             </a>
                             <div class="topic-actions absolute top-0 right-0 flex items-center pa2" style="gap: 0.25rem;">
+                                <button class="bookmark-btn bn bg-transparent pointer"
+                                        title="Bookmark"
+                                        style="opacity: 0.5; transition: opacity 0.2s;"
+                                        onmouseover="this.style.opacity='1'"
+                                        onmouseout="this.style.opacity='0.5'">
+                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M3 2h10a1 1 0 011 1v12l-6-3-6 3V3a1 1 0 011-1z"/>
+                                    </svg>
+                                </button>
                                 <button class="preview-btn bn bg-transparent pointer"
                                         title="Preview content"
                                         style="opacity: 0.5; transition: opacity 0.2s;"
@@ -118,11 +127,20 @@
         {{ end }}
     </div>
     
-    <!-- Scroll to top button -->
-    <div id="scroll-to-top" class="fixed bottom-2 right-2 bg-main-color white br-100 pa3 shadow-5 pointer z-5 o-0" style="transition: all 0.3s ease; opacity: 0; visibility: hidden;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M12 19V5M5 12l7-7 7 7"/>
-        </svg>
+    <!-- Floating action buttons -->
+    <div class="fixed bottom-2 right-2 flex flex-column items-end" style="gap: 0.5rem; z-index: 100;">
+        <!-- Bookmarks button -->
+        <div id="bookmarks-btn" class="bg-near-black white br-100 pa3 shadow-5 pointer" style="transition: all 0.3s ease; display: none;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+            </svg>
+        </div>
+        <!-- Scroll to top button -->
+        <div id="scroll-to-top" class="bg-main-color white br-100 pa3 shadow-5 pointer" style="transition: all 0.3s ease; opacity: 0; visibility: hidden;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 19V5M5 12l7-7 7 7"/>
+            </svg>
+        </div>
     </div>
 
     <!-- Marked for deletion panel -->
@@ -162,6 +180,33 @@
             <div class="flex items-center justify-end pa3 bt b--black-10" style="gap: 0.5rem;">
                 <button id="copy-filenames" class="button-reset bn ph3 pv2 br2 bg-near-black white f6 fw5 pointer dim">
                     Copy to Clipboard
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bookmarks Modal -->
+    <div id="bookmarks-modal" class="fixed top-0 left-0 w-100 h-100 flex items-center justify-center" style="display: none; z-index: 9999; background-color: rgba(0, 0, 0, 0.7);">
+        <div class="bg-white br3 shadow-5 relative" style="width: 90%; max-width: 700px; max-height: 80vh; display: flex; flex-direction: column;">
+            <!-- Modal Header -->
+            <div class="flex items-center justify-between pa3 bb b--black-10">
+                <h3 class="f5 fw5 near-black ma0">
+                    <span class="mr2">⭐</span>
+                    Bookmarks
+                    <span id="bookmarks-count" class="f6 fw4 gray ml2">(0)</span>
+                </h3>
+                <button id="close-bookmarks-modal" class="bn bg-transparent pointer f3 gray lh-solid" style="line-height: 1;">&times;</button>
+            </div>
+
+            <!-- Modal Content -->
+            <div id="bookmarks-list" class="pa3 overflow-y-auto flex-auto">
+                <p class="gray tc pv4">No bookmarks yet</p>
+            </div>
+
+            <!-- Modal Footer -->
+            <div class="flex items-center justify-end pa3 bt b--black-10" style="gap: 0.5rem;">
+                <button id="clear-all-bookmarks" class="button-reset bn ph3 pv2 br2 bg-light-red near-black f6 fw5 pointer dim">
+                    Clear All
                 </button>
             </div>
         </div>
@@ -283,9 +328,26 @@
         transform: scale(0.98);
     }
 
-    /* Delete marker and preview button styles */
+    /* Action button styles */
     .topic-card-wrapper {
         position: relative;
+    }
+
+    .bookmark-btn {
+        color: #999;
+    }
+
+    .bookmark-btn:hover {
+        color: #f39c12;
+    }
+
+    .topic-item.bookmarked .bookmark-btn {
+        color: #f39c12;
+        opacity: 1 !important;
+    }
+
+    .topic-item.bookmarked .bookmark-btn svg {
+        fill: #f39c12;
     }
 
     .preview-btn {
@@ -320,9 +382,35 @@
         border: 1px solid rgba(0, 0, 0, 0.1);
     }
 
+    /* Bookmarks modal */
+    #bookmarks-btn:hover {
+        background-color: #000;
+        transform: scale(1.1);
+    }
+
+    .bookmark-item {
+        border: 1px solid rgba(0, 0, 0, 0.06);
+        transition: all 0.2s ease;
+    }
+
+    .bookmark-item:hover {
+        border-color: rgba(0, 0, 0, 0.1);
+        background-color: #fafafa;
+    }
+
+    .remove-bookmark-btn {
+        color: #999;
+        transition: color 0.2s ease;
+    }
+
+    .remove-bookmark-btn:hover {
+        color: #e74c3c;
+    }
+
     /* Modals */
     #preview-modal,
-    #filenames-modal {
+    #filenames-modal,
+    #bookmarks-modal {
         backdrop-filter: blur(4px);
         -webkit-backdrop-filter: blur(4px);
     }
@@ -769,6 +857,187 @@
         // Initialize marked topics on page load
         applyMarkedStates();
         updateDeletionPanel();
+
+        // ===== Bookmarks Feature =====
+        const BOOKMARKS_STORAGE_KEY = 'topics-bookmarks';
+
+        // Load bookmarks from localStorage
+        function getBookmarks() {
+            const stored = localStorage.getItem(BOOKMARKS_STORAGE_KEY);
+            return stored ? JSON.parse(stored) : [];
+        }
+
+        // Save bookmarks to localStorage
+        function saveBookmarks(bookmarks) {
+            localStorage.setItem(BOOKMARKS_STORAGE_KEY, JSON.stringify(bookmarks));
+        }
+
+        // Apply bookmarked state to topic cards
+        function applyBookmarkedStates() {
+            const bookmarks = getBookmarks();
+            const bookmarkedUrls = new Set(bookmarks.map(b => b.url));
+
+            topicItems.forEach(item => {
+                const url = item.getAttribute('data-url');
+                if (bookmarkedUrls.has(url)) {
+                    item.classList.add('bookmarked');
+                } else {
+                    item.classList.remove('bookmarked');
+                }
+            });
+        }
+
+        // Toggle bookmark for a topic
+        function toggleBookmark(topicItem) {
+            const url = topicItem.getAttribute('data-url');
+            const title = topicItem.getAttribute('data-title');
+            const filename = topicItem.getAttribute('data-filename');
+            const bookmarks = getBookmarks();
+            const index = bookmarks.findIndex(b => b.url === url);
+
+            if (index > -1) {
+                // Remove bookmark
+                bookmarks.splice(index, 1);
+            } else {
+                // Add bookmark
+                bookmarks.push({ url, title, filename, addedAt: new Date().toISOString() });
+            }
+
+            saveBookmarks(bookmarks);
+            applyBookmarkedStates();
+        }
+
+        // Event listeners for bookmark buttons
+        document.querySelectorAll('.bookmark-btn').forEach(button => {
+            button.addEventListener('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                const topicItem = this.closest('.topic-item');
+                toggleBookmark(topicItem);
+            });
+        });
+
+        // Initialize bookmarked states on page load
+        applyBookmarkedStates();
+
+        // Bookmarks modal management
+        const bookmarksBtn = document.getElementById('bookmarks-btn');
+        const bookmarksModal = document.getElementById('bookmarks-modal');
+        const bookmarksList = document.getElementById('bookmarks-list');
+        const bookmarksCount = document.getElementById('bookmarks-count');
+        const closeBookmarksModalBtn = document.getElementById('close-bookmarks-modal');
+        const clearAllBookmarksBtn = document.getElementById('clear-all-bookmarks');
+
+        // Update bookmarks button visibility
+        function updateBookmarksButton() {
+            const bookmarks = getBookmarks();
+            if (bookmarks.length > 0) {
+                bookmarksBtn.style.display = 'block';
+            } else {
+                bookmarksBtn.style.display = 'none';
+            }
+        }
+
+        // Render bookmarks list
+        function renderBookmarksList() {
+            const bookmarks = getBookmarks();
+            bookmarksCount.textContent = `(${bookmarks.length})`;
+
+            if (bookmarks.length === 0) {
+                bookmarksList.innerHTML = '<p class="gray tc pv4">No bookmarks yet</p>';
+                return;
+            }
+
+            // Sort by addedAt descending (most recent first)
+            const sorted = [...bookmarks].sort((a, b) =>
+                new Date(b.addedAt) - new Date(a.addedAt)
+            );
+
+            bookmarksList.innerHTML = sorted.map(bookmark => `
+                <div class="bookmark-item bg-white br2 pa3 mb2 flex items-center justify-between" data-url="${bookmark.url}">
+                    <a href="${bookmark.url}" class="link near-black no-underline flex-auto">
+                        <div class="f5 fw5">${bookmark.title}</div>
+                        <div class="f7 gray mt1">${new Date(bookmark.addedAt).toLocaleDateString()}</div>
+                    </a>
+                    <button class="remove-bookmark-btn bn bg-transparent pointer pa2" data-url="${bookmark.url}" title="Remove bookmark">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 4L4 12M4 4l8 8"/>
+                        </svg>
+                    </button>
+                </div>
+            `).join('');
+
+            // Add event listeners for remove buttons
+            document.querySelectorAll('.remove-bookmark-btn').forEach(btn => {
+                btn.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    const url = this.getAttribute('data-url');
+                    removeBookmark(url);
+                });
+            });
+        }
+
+        // Remove a single bookmark
+        function removeBookmark(url) {
+            const bookmarks = getBookmarks();
+            const filtered = bookmarks.filter(b => b.url !== url);
+            saveBookmarks(filtered);
+            applyBookmarkedStates();
+            renderBookmarksList();
+            updateBookmarksButton();
+        }
+
+        // Clear all bookmarks
+        function clearAllBookmarks() {
+            if (confirm('Clear all bookmarks?')) {
+                saveBookmarks([]);
+                applyBookmarkedStates();
+                renderBookmarksList();
+                updateBookmarksButton();
+                bookmarksModal.style.display = 'none';
+            }
+        }
+
+        // Show bookmarks modal
+        function showBookmarksModal() {
+            renderBookmarksList();
+            bookmarksModal.style.display = 'flex';
+        }
+
+        // Close bookmarks modal
+        function closeBookmarksModal() {
+            bookmarksModal.style.display = 'none';
+        }
+
+        // Event listeners
+        bookmarksBtn.addEventListener('click', showBookmarksModal);
+        closeBookmarksModalBtn.addEventListener('click', closeBookmarksModal);
+        clearAllBookmarksBtn.addEventListener('click', clearAllBookmarks);
+
+        // Close on background click
+        bookmarksModal.addEventListener('click', function(e) {
+            if (e.target === bookmarksModal) {
+                closeBookmarksModal();
+            }
+        });
+
+        // Close on ESC key
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && bookmarksModal.style.display === 'flex') {
+                closeBookmarksModal();
+            }
+        });
+
+        // Update toggle to also update button visibility
+        const originalToggleBookmark = toggleBookmark;
+        toggleBookmark = function(topicItem) {
+            originalToggleBookmark(topicItem);
+            updateBookmarksButton();
+        };
+
+        // Initialize button visibility
+        updateBookmarksButton();
 
         // ===== Preview Feature =====
         const previewModal = document.getElementById('preview-modal');
