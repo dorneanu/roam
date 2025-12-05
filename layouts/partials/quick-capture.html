@@ -216,6 +216,17 @@
                     </div>
                 </div>
             </button>
+            <button class="capture-mode-btn button-reset bn pa3 br2 bg-light-gray near-black f6 fw5 pointer" data-mode="clip" id="clip-mode-btn">
+                <div class="flex items-center" style="gap: 0.5rem;">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21.44 11.05l-9.19 9.19a6 6 0 0 1-8.49-8.49l9.19-9.19a4 4 0 0 1 5.66 5.66l-9.2 9.19a2 2 0 0 1-2.83-2.83l8.49-8.48"/>
+                    </svg>
+                    <div class="tl">
+                        <div class="fw6">Clip Selection</div>
+                        <div class="f7 gray" id="clip-selection-preview">Capture highlighted text with URL</div>
+                    </div>
+                </div>
+            </button>
             <button class="capture-mode-btn button-reset bn pa3 br2 bg-light-gray near-black f6 fw5 pointer" data-mode="annotation">
                 <div class="flex items-center" style="gap: 0.5rem;">
                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -276,6 +287,7 @@
                 <div style="display: flex; gap: 0.5rem;">
                     <button id="filter-notes" class="button-reset bn ph2 pv1 br2 bg-light-gray near-black f7 fw5 pointer" data-active="true">Notes</button>
                     <button id="filter-journal" class="button-reset bn ph2 pv1 br2 bg-light-gray near-black f7 fw5 pointer" data-active="true">Journal</button>
+                    <button id="filter-clips" class="button-reset bn ph2 pv1 br2 bg-light-gray near-black f7 fw5 pointer" data-active="true">Clips</button>
                     <button id="filter-annotations" class="button-reset bn ph2 pv1 br2 bg-light-gray near-black f7 fw5 pointer" data-active="true">Annotations</button>
                 </div>
             </div>
@@ -375,24 +387,52 @@ document.addEventListener('DOMContentLoaded', function() {
     // Update current page info
     currentPageTitle.textContent = `Note for: ${currentPageName}`;
 
+    // Text selection tracking
+    let selectedText = '';
+    let selectionUpdated = false;
+
+    // Track text selection
+    document.addEventListener('mouseup', function() {
+        const selection = window.getSelection();
+        const text = selection.toString().trim();
+        if (text.length > 0) {
+            selectedText = text;
+            selectionUpdated = true;
+            updateClipModeButton();
+        }
+    });
+
+    // Update clip mode button to show selection preview
+    function updateClipModeButton() {
+        const clipModeBtn = document.getElementById('clip-mode-btn');
+        const clipPreview = document.getElementById('clip-selection-preview');
+        if (selectedText && clipModeBtn) {
+            const preview = selectedText.length > 50 ? selectedText.substring(0, 50) + '...' : selectedText;
+            clipPreview.textContent = `"${preview}"`;
+            clipModeBtn.style.backgroundColor = '#e8f4fd';
+            clipModeBtn.style.borderLeft = '3px solid #3498db';
+        }
+    }
+
     // Storage functions
     function getCaptures() {
         const stored = localStorage.getItem(STORAGE_KEY);
-        return stored ? JSON.parse(stored) : { notes: [], journal: [], annotations: [] };
+        return stored ? JSON.parse(stored) : { notes: [], journal: [], annotations: [], clips: [] };
     }
 
     function saveCaptures(captures) {
         localStorage.setItem(STORAGE_KEY, JSON.stringify(captures));
     }
 
-    function addCapture(mode, content, pageUrl = null, pageTitle = null) {
+    function addCapture(mode, content, pageUrl = null, pageTitle = null, selectedText = null) {
         const captures = getCaptures();
         const capture = {
             id: Date.now().toString(),
             content: content,
             timestamp: new Date().toISOString(),
             pageUrl: pageUrl,
-            pageTitle: pageTitle
+            pageTitle: pageTitle,
+            selectedText: selectedText
         };
 
         if (mode === 'note') {
@@ -401,6 +441,8 @@ document.addEventListener('DOMContentLoaded', function() {
             captures.journal.push(capture);
         } else if (mode === 'annotation') {
             captures.annotations.push(capture);
+        } else if (mode === 'clip') {
+            captures.clips.push(capture);
         }
 
         saveCaptures(captures);
@@ -415,6 +457,8 @@ document.addEventListener('DOMContentLoaded', function() {
             captures.journal = captures.journal.filter(c => c.id !== id);
         } else if (mode === 'annotation') {
             captures.annotations = captures.annotations.filter(c => c.id !== id);
+        } else if (mode === 'clip') {
+            captures.clips = captures.clips.filter(c => c.id !== id);
         }
         saveCaptures(captures);
     }
@@ -452,6 +496,17 @@ document.addEventListener('DOMContentLoaded', function() {
         } else if (mode === 'annotation') {
             modalTitle.textContent = 'Page Annotation';
             captureTextarea.placeholder = `Write a note about "${currentPageName}"...`;
+        } else if (mode === 'clip') {
+            modalTitle.textContent = 'Clip Selection';
+            // Pre-fill with selected text and URL
+            const clipTemplate = `> ${selectedText}\n\n**Source:** ${currentPageName}\n**URL:** ${currentPageUrl}\n\n**Notes:**\n`;
+            captureTextarea.value = clipTemplate;
+            captureTextarea.placeholder = 'Add your notes about this clip...';
+            // Position cursor after "Notes:"
+            setTimeout(() => {
+                captureTextarea.selectionStart = clipTemplate.length;
+                captureTextarea.selectionEnd = clipTemplate.length;
+            }, 0);
         }
 
         captureTextarea.focus();
@@ -470,6 +525,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const filterNotes = document.getElementById('filter-notes').dataset.active === 'true';
         const filterJournal = document.getElementById('filter-journal').dataset.active === 'true';
         const filterAnnotations = document.getElementById('filter-annotations').dataset.active === 'true';
+        const filterClips = document.getElementById('filter-clips').dataset.active === 'true';
 
         let allCaptures = [];
 
@@ -481,6 +537,9 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         if (filterAnnotations) {
             allCaptures = allCaptures.concat(captures.annotations.map(c => ({...c, type: 'annotation', icon: '📝'})));
+        }
+        if (filterClips) {
+            allCaptures = allCaptures.concat(captures.clips.map(c => ({...c, type: 'clip', icon: '📎'})));
         }
 
         // Sort by timestamp descending
@@ -554,6 +613,9 @@ document.addEventListener('DOMContentLoaded', function() {
         } else if (type === 'annotation') {
             capture = captures.annotations.find(c => c.id === id);
             currentMode = 'annotation';
+        } else if (type === 'clip') {
+            capture = captures.clips.find(c => c.id === id);
+            currentMode = 'clip';
         }
 
         if (!capture) return;
@@ -572,6 +634,8 @@ document.addEventListener('DOMContentLoaded', function() {
             modalTitle.textContent = 'Edit Journal Entry';
         } else if (type === 'annotation') {
             modalTitle.textContent = 'Edit Annotation';
+        } else if (type === 'clip') {
+            modalTitle.textContent = 'Edit Clip';
         }
 
         captureTextarea.focus();
@@ -589,6 +653,9 @@ document.addEventListener('DOMContentLoaded', function() {
         } else if (type === 'annotation') {
             const index = captures.annotations.findIndex(c => c.id === id);
             if (index > -1) captures.annotations[index].content = newContent;
+        } else if (type === 'clip') {
+            const index = captures.clips.findIndex(c => c.id === id);
+            if (index > -1) captures.clips[index].content = newContent;
         }
 
         saveCaptures(captures);
@@ -664,6 +731,8 @@ document.addEventListener('DOMContentLoaded', function() {
             // Create new capture
             if (currentMode === 'annotation') {
                 addCapture(currentMode, content, currentPageUrl, currentPageName);
+            } else if (currentMode === 'clip') {
+                addCapture(currentMode, content, currentPageUrl, currentPageName, selectedText);
             } else {
                 addCapture(currentMode, content);
             }
@@ -672,7 +741,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Filter toggles
-    ['filter-notes', 'filter-journal', 'filter-annotations'].forEach(id => {
+    ['filter-notes', 'filter-journal', 'filter-clips', 'filter-annotations'].forEach(id => {
         document.getElementById(id).addEventListener('click', function() {
             const isActive = this.dataset.active === 'true';
             this.dataset.active = (!isActive).toString();
