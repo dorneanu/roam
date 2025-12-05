@@ -127,21 +127,6 @@
         {{ end }}
     </div>
     
-    <!-- Floating action buttons -->
-    <div class="fixed bottom-2 right-2 flex flex-column items-end" style="gap: 0.5rem; z-index: 100;">
-        <!-- Bookmarks button -->
-        <div id="bookmarks-btn" class="bg-near-black white br-100 pa3 shadow-5 pointer" style="transition: all 0.3s ease; display: none;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
-            </svg>
-        </div>
-        <!-- Scroll to top button -->
-        <div id="scroll-to-top" class="bg-main-color white br-100 pa3 shadow-5 pointer" style="transition: all 0.3s ease; opacity: 0; visibility: hidden;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M12 19V5M5 12l7-7 7 7"/>
-            </svg>
-        </div>
-    </div>
 
     <!-- Marked for deletion panel -->
     <div id="deletion-panel" class="fixed bottom-2 left-2 bg-white br3 pa3 shadow-5 z-5" style="max-width: 300px; display: none;">
@@ -383,11 +368,6 @@
     }
 
     /* Bookmarks modal */
-    #bookmarks-btn:hover {
-        background-color: #000;
-        transform: scale(1.1);
-    }
-
     .bookmark-item {
         border: 1px solid rgba(0, 0, 0, 0.06);
         transition: all 0.2s ease;
@@ -474,21 +454,6 @@
     }
 
     /* Scroll to top button */
-    #scroll-to-top {
-        background-color: #111;
-        transition: all 0.3s ease;
-    }
-
-    #scroll-to-top:hover {
-        background-color: #000;
-        transform: scale(1.1);
-    }
-
-    #scroll-to-top.visible {
-        opacity: 1 !important;
-        visibility: visible !important;
-    }
-
     /* Responsive adjustments */
     @media (max-width: 768px) {
         .topic-grid {
@@ -518,7 +483,6 @@
         const clearButton = document.getElementById('clear-filters');
         const searchCount = document.getElementById('search-count');
         const emptyState = document.getElementById('empty-state');
-        const scrollTopBtn = document.getElementById('scroll-to-top');
 
         const totalTopics = topicItems.length;
 
@@ -683,17 +647,6 @@
         });
 
         // Scroll to top button
-        window.addEventListener('scroll', function() {
-            if (window.pageYOffset > 500) {
-                scrollTopBtn.classList.add('visible');
-            } else {
-                scrollTopBtn.classList.remove('visible');
-            }
-        }, { passive: true });
-
-        scrollTopBtn.addEventListener('click', function() {
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-        });
 
         // Highlight active letter on scroll
         window.addEventListener('scroll', highlightActiveLetterOnScroll, { passive: true });
@@ -921,22 +874,11 @@
         applyBookmarkedStates();
 
         // Bookmarks modal management
-        const bookmarksBtn = document.getElementById('bookmarks-btn');
         const bookmarksModal = document.getElementById('bookmarks-modal');
         const bookmarksList = document.getElementById('bookmarks-list');
         const bookmarksCount = document.getElementById('bookmarks-count');
         const closeBookmarksModalBtn = document.getElementById('close-bookmarks-modal');
         const clearAllBookmarksBtn = document.getElementById('clear-all-bookmarks');
-
-        // Update bookmarks button visibility
-        function updateBookmarksButton() {
-            const bookmarks = getBookmarks();
-            if (bookmarks.length > 0) {
-                bookmarksBtn.style.display = 'block';
-            } else {
-                bookmarksBtn.style.display = 'none';
-            }
-        }
 
         // Render bookmarks list
         function renderBookmarksList() {
@@ -985,7 +927,9 @@
             saveBookmarks(filtered);
             applyBookmarkedStates();
             renderBookmarksList();
-            updateBookmarksButton();
+            if (typeof window.updateGlobalBookmarks === 'function') {
+                window.updateGlobalBookmarks();
+            }
         }
 
         // Clear all bookmarks
@@ -994,7 +938,9 @@
                 saveBookmarks([]);
                 applyBookmarkedStates();
                 renderBookmarksList();
-                updateBookmarksButton();
+                if (typeof window.updateGlobalBookmarks === 'function') {
+                    window.updateGlobalBookmarks();
+                }
                 bookmarksModal.style.display = 'none';
             }
         }
@@ -1014,7 +960,6 @@
         }
 
         // Event listeners
-        bookmarksBtn.addEventListener('click', showBookmarksModal);
         closeBookmarksModalBtn.addEventListener('click', closeBookmarksModal);
         clearAllBookmarksBtn.addEventListener('click', clearAllBookmarks);
 
@@ -1032,15 +977,8 @@
             }
         });
 
-        // Update toggle to also update button visibility
-        const originalToggleBookmark = toggleBookmark;
-        toggleBookmark = function(topicItem) {
-            originalToggleBookmark(topicItem);
-            updateBookmarksButton();
-        };
-
-        // Initialize button visibility
-        updateBookmarksButton();
+        // Note: toggleBookmark already calls window.updateGlobalBookmarks()
+        // No need for additional wrapper here
 
         // ===== Preview Feature =====
         const previewModal = document.getElementById('preview-modal');
