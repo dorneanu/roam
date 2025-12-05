@@ -8,28 +8,81 @@
 	{{ end }}
 {{ end }}
 
-<hr>
 {{ if gt (len $backlinks) 0 }}
-	<div class="bl-section">
-		<h3>Links to this note</h3>
-		<div class="backlinks">
-		<ul>
+<div class="backlinks-section mt5 pt4 bt b--black-10">
+	<h3 class="f4 fw5 near-black mb3">
+		<span class="mr2">🔗</span>
+		Links to this note
+		<span class="f6 fw4 gray ml2">({{ len $backlinks }})</span>
+	</h3>
+
+	<div class="backlinks-grid">
 		{{ range $backlinks }}
 			{{ $matches := findRE $content_re .RawContent}}
-			<li class="lh-copy"><a class="link f5" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-			{{ if $matches }}
-				<blockquote>
-					{{ range $backlink := $matches }}
-						{{ $.page.RenderString (dict "markup" "goldmark" "display" "inline") $backlink }}
+			<div class="backlink-card bg-white br2 pa3 mb3">
+				<a class="link near-black no-underline db" href="{{ .RelPermalink }}">
+					<div class="f5 fw5 mb2 bb-hover">{{ .Title }}</div>
+					{{ if $matches }}
+						<div class="f6 gray lh-copy mt2">
+							{{ range first 1 $matches }}
+								{{ $.page.RenderString (dict "markup" "goldmark" "display" "inline") . }}
+							{{ end }}
+						</div>
 					{{ end }}
-				</blockquote>
-			{{ end }}
+				</a>
+			</div>
 		{{ end }}
-		</ul>
-		</div>
 	</div>
+</div>
+
+<style>
+	.backlinks-section {
+		max-width: 100%;
+	}
+
+	.backlink-card {
+		border: 1px solid rgba(0, 0, 0, 0.06);
+		transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+		box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+	}
+
+	.backlink-card:hover {
+		transform: translateY(-2px);
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+		border-color: rgba(0, 0, 0, 0.1);
+	}
+
+	.bb-hover {
+		border-bottom: 1px solid transparent;
+		transition: border-color 0.2s ease;
+	}
+
+	.backlink-card:hover .bb-hover {
+		border-bottom-color: rgba(0, 0, 0, 0.2);
+	}
+
+	.backlink-card .gray {
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	/* Remove default list styling from rendered content */
+	.backlink-card ul {
+		list-style: none;
+		padding-left: 0;
+	}
+
+	.backlink-card blockquote {
+		margin: 0;
+		padding: 0;
+		border: none;
+	}
+</style>
 {{ else }}
-	<div class="bl-section">
-		<h4>No notes link to this note</h4>
-	</div>
+<div class="backlinks-section mt5 pt4 bt b--black-10">
+	<h3 class="f5 fw4 gray tc pv3">No notes link to this note yet</h3>
+</div>
 {{ end }}
