@@ -1,4 +1,0 @@
-+++
-title = "Hypocapnia"
-draft = false
-+++

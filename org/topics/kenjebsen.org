@@ -1,8 +1,0 @@
-#+created: 20210622064820337
-#+modified: 20210622064854475
-#+revision: 0
-#+tags: Person
-#+title: KenJebsen
-#+type: text/vnd.tiddlywiki
-
-- [[https://www.ardaudiothek.de/cui-bono-wtf-happened-to-ken-jebsen/89991466][WTF happened to Ken Jebsen]]

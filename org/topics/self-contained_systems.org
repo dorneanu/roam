@@ -1,8 +1,0 @@
-#+created: 20210520073723537
-#+modified: 20210520073740373
-#+revision: 0
-#+tags: Stub
-#+title: Self-Contained Systems
-#+type: text/vnd.tiddlywiki
-
-- [[https://scs-architecture.org/]]

@@ -14,7 +14,7 @@ draft = false
 ## What is Security {#what-is-security}
 
 -   Is the intersection between tech and people
--   [Security]({{< relref "../../topics/security.md" >}}) is about risk
+-   Security is about risk
     -   Vulnerability = Likelihood + Impact
         -   Likelihood
             -   Factors which lead to the calculation

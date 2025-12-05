@@ -1,4 +1,0 @@
-+++
-title = "Camping"
-draft = false
-+++

@@ -1,4 +1,0 @@
-+++
-title = "Definition"
-draft = false
-+++

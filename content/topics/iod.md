@@ -1,4 +1,0 @@
-+++
-title = "Iod"
-draft = false
-+++

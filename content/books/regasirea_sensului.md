@@ -581,7 +581,7 @@ repetat.
 > -   Maximizează **endocanabinoidele**, endorfinele, dopamina, [monoxidul de azot]({{< relref "../../topics/nitric_oxide.md" >}}),
 >     [oxitocina]({{< relref "../../topics/oxytocin.md" >}}) şi [serotonina]({{< relref "../../topics/serotonin.md" >}}).
 >
-> -   Creşte tonul [nervului vag]({{< relref "../../topics/vagusnerv.md" >}}) şi [variabilitatea ritmului cardiac]({{< relref "../../topics/hrv.md" >}})
+> -   Creşte tonul [nervului vag]({{< relref "../../topics/vagusnerv.md" >}}) şi variabilitatea ritmului cardiac
 >
 > -   Schimbă modul de operare al creierul tău în activitatea alfa şi teta de bază,
 >     cu scufundări în undele gamma sau delta.

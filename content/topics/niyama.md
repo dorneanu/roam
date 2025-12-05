@@ -1,4 +1,0 @@
-+++
-title = "Niyama"
-draft = false
-+++
