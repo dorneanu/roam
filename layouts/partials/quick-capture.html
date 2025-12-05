@@ -129,6 +129,14 @@
         border-color: rgba(0, 0, 0, 0.1);
         background-color: #fafafa;
     }
+
+    .hover-blue:hover {
+        color: #3498db;
+    }
+
+    .hover-red:hover {
+        color: #e74c3c;
+    }
 </style>
 
 <!-- Main Floating Action Button -->
@@ -493,16 +501,32 @@ document.addEventListener('DOMContentLoaded', function() {
                             <div class="f7 gray">${new Date(capture.timestamp).toLocaleString()}</div>
                         </div>
                     </div>
-                    <button class="delete-capture-btn bn bg-transparent pointer gray hover-red pa1" data-type="${capture.type}" data-id="${capture.id}">
-                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
-                            <path d="M12 4L4 12M4 4l8 8"/>
-                        </svg>
-                    </button>
+                    <div style="display: flex; gap: 0.5rem;">
+                        <button class="edit-capture-btn bn bg-transparent pointer gray hover-blue pa1" data-type="${capture.type}" data-id="${capture.id}" title="Edit">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M11 2L14 5 5 14H2V11L11 2Z"/>
+                            </svg>
+                        </button>
+                        <button class="delete-capture-btn bn bg-transparent pointer gray hover-red pa1" data-type="${capture.type}" data-id="${capture.id}" title="Delete">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M12 4L4 12M4 4l8 8"/>
+                            </svg>
+                        </button>
+                    </div>
                 </div>
                 ${capture.pageTitle ? `<div class="f7 gray mb2">📄 ${capture.pageTitle}</div>` : ''}
                 <div class="f6 lh-copy" style="white-space: pre-wrap;">${capture.content}</div>
             </div>
         `).join('');
+
+        // Add edit event listeners
+        document.querySelectorAll('.edit-capture-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                const type = this.dataset.type;
+                const id = this.dataset.id;
+                editCapture(type, id);
+            });
+        });
 
         // Add delete event listeners
         document.querySelectorAll('.delete-capture-btn').forEach(btn => {
@@ -515,6 +539,59 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             });
         });
+    }
+
+    function editCapture(type, id) {
+        const captures = getCaptures();
+        let capture = null;
+
+        if (type === 'note') {
+            capture = captures.notes.find(c => c.id === id);
+            currentMode = 'note';
+        } else if (type === 'journal') {
+            capture = captures.journal.find(c => c.id === id);
+            currentMode = 'journal';
+        } else if (type === 'annotation') {
+            capture = captures.annotations.find(c => c.id === id);
+            currentMode = 'annotation';
+        }
+
+        if (!capture) return;
+
+        // Store the ID for updating
+        captureTextarea.dataset.editingId = id;
+        captureTextarea.value = capture.content;
+
+        // Show the capture form
+        viewCaptures.style.display = 'none';
+        captureForm.style.display = 'flex';
+
+        if (type === 'note') {
+            modalTitle.textContent = 'Edit Note';
+        } else if (type === 'journal') {
+            modalTitle.textContent = 'Edit Journal Entry';
+        } else if (type === 'annotation') {
+            modalTitle.textContent = 'Edit Annotation';
+        }
+
+        captureTextarea.focus();
+    }
+
+    function updateCapture(type, id, newContent) {
+        const captures = getCaptures();
+
+        if (type === 'note') {
+            const index = captures.notes.findIndex(c => c.id === id);
+            if (index > -1) captures.notes[index].content = newContent;
+        } else if (type === 'journal') {
+            const index = captures.journal.findIndex(c => c.id === id);
+            if (index > -1) captures.journal[index].content = newContent;
+        } else if (type === 'annotation') {
+            const index = captures.annotations.findIndex(c => c.id === id);
+            if (index > -1) captures.annotations[index].content = newContent;
+        }
+
+        saveCaptures(captures);
     }
 
     // Event listeners - FAB menu
@@ -576,13 +653,22 @@ document.addEventListener('DOMContentLoaded', function() {
             return;
         }
 
-        if (currentMode === 'annotation') {
-            addCapture(currentMode, content, currentPageUrl, currentPageName);
+        // Check if we're editing
+        const editingId = captureTextarea.dataset.editingId;
+        if (editingId) {
+            // Update existing capture
+            updateCapture(currentMode, editingId, content);
+            delete captureTextarea.dataset.editingId;
+            closeModal();
         } else {
-            addCapture(currentMode, content);
+            // Create new capture
+            if (currentMode === 'annotation') {
+                addCapture(currentMode, content, currentPageUrl, currentPageName);
+            } else {
+                addCapture(currentMode, content);
+            }
+            closeModal();
         }
-
-        closeModal();
     });
 
     // Filter toggles
