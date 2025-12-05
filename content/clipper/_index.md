@@ -13,7 +13,7 @@ The Web Clipper lets you capture highlighted text from any website and save it t
 **Drag this button to your bookmarks bar:**
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="javascript:(function(){var s=window.getSelection().toString().trim();if(!s){alert('Please select some text first!');return;}var d=encodeURIComponent(JSON.stringify({text:s,title:document.title,url:window.location.href,timestamp:new Date().toISOString()}));window.open('https://brainfck.org/clipper/?clip='+d,'_blank');})();"
+  <a href="javascript:(function(){var s=window.getSelection().toString().trim();if(!s){alert('Please select some text first!');return;}var clip={text:s,title:document.title,url:window.location.href,timestamp:new Date().toISOString()};localStorage.setItem('pending-clip',JSON.stringify(clip));window.open('https://brainfck.org/','_blank');})();"
      style="display: inline-block; padding: 1rem 2rem; background: #2c3e50; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: move;">
     📎 Clip to Roam
   </a>
@@ -23,7 +23,7 @@ The Web Clipper lets you capture highlighted text from any website and save it t
 
 1. **Install**: Drag the button above to your bookmarks bar
 2. **Clip**: On any website, highlight text and click the bookmarklet
-3. **Save**: Return to this site - clips will automatically sync
+3. **View**: The site will open automatically and import your clip
 
 ## What Gets Captured
 
@@ -32,13 +32,13 @@ The Web Clipper lets you capture highlighted text from any website and save it t
 - ✅ Page URL
 - ✅ Timestamp
 
-All clips are stored temporarily until you visit this site, where they're automatically imported into your Quick Capture library.
+Clips are automatically saved to your Quick Capture library and can be viewed via the floating menu button.
 
 ## Tips
 
-- You can clip multiple items before returning to the site
-- Clips are stored in your browser's localStorage
-- Make sure to return to this site periodically to save your clips
+- Each clip opens the site in a new tab and saves automatically
+- View all your clips via the floating menu → Quick Capture → View All Captures → Clips filter
+- Edit or delete clips anytime from the captures view
 
 ---
 
