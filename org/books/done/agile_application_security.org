@@ -378,7 +378,7 @@
 - Get off the happy path
   - But attackers don't stay on the happy path l
   - That's why a Hacker mindset is important
-- [[id:4f80c135-2897-4ba6-bb22-6d5b5702c5e3][BDD]]
+- BDD
   - Integration tests l
   - Service level tests against the [[id:54bec2ff-12ea-444a-9c79-e33dbdb75d48][API]]s
   - Tools

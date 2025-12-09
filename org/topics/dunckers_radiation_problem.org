@@ -9,6 +9,6 @@
 #+title: Duncker's radiation problem
 #+type: text/vnd.tiddlywiki
 
-- This problems belongs to the [[id:7edf3e3e-42c0-4ec6-b8dc-a3e71210d116][Analogical thinking]] where information in one domain is used to solve a problem in another one
+- This problems belongs to the Analogical thinking where information in one domain is used to solve a problem in another one
 - The problem itself:
   - In this problem, a doctor has a patient with a malignant tumour. The patient cannot be operated upon, but the doctor can use a particular type of ray to destroy the tumour. However, the ray will also destroy healthy tissue. At a lower intensity the rays would not damage the healthy tissue but would also not destroy the tumour. What can be done to destroy the tumour?
