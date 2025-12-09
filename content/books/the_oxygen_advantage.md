@@ -37,7 +37,7 @@ draft = false
 
 ### Breathing exercises to simulate high altitude training {#breathing-exercises-to-simulate-high-altitude-training}
 
-> Breathing exercises to simulate high altitude training (intermittent hypoxic/hypercapnic training). These breath-hold techniques involve temporarily increasing levels of arterial carbon dioxide from the normal concentration of 40mmHg to 50mmHg or more (hypercapnia) and reducing SPO2 to around 85% ([hypoxia]({{< relref "../../topics/hypoxia.md" >}}))."
+> Breathing exercises to simulate high altitude training (intermittent hypoxic/hypercapnic training). These breath-hold techniques involve temporarily increasing levels of arterial carbon dioxide from the normal concentration of 40mmHg to 50mmHg or more (hypercapnia) and reducing SPO2 to around 85% (hypoxia)."
 > -- <https://oxygenadvantage.com/wim-hof/>
 
 
@@ -87,7 +87,7 @@ Mostly from <https://oxygenadvantage.com/wim-hof/>
 
 ### Hypoxia {#hypoxia}
 
-> "[CO2]({{< relref "../../topics/carbon_dioxide.md" >}}) is the **catalyst** that causes hemoglobin in red blood cells to **release oxygen** to the cells. When levels of carbon dioxide are low, the red blood cells can’t release oxygen. **The result is [hypoxia]({{< relref "../../topics/hypoxia.md" >}})— a shortage of oxygen in the cells and tissues of the body.**"
+> "[CO2]({{< relref "../../topics/carbon_dioxide.md" >}}) is the **catalyst** that causes hemoglobin in red blood cells to **release oxygen** to the cells. When levels of carbon dioxide are low, the red blood cells can't release oxygen. **The result is hypoxia— a shortage of oxygen in the cells and tissues of the body.**"
 
 
 ### Hyperventilation {#hyperventilation}
@@ -102,7 +102,7 @@ Mostly from <https://oxygenadvantage.com/wim-hof/>
 
 ### On hormesis {#on-hormesis}
 
-> "Short-term [hypoxia]({{< relref "../../topics/hypoxia.md" >}}) stresses the body at a cellular level. This type of stress is called [hormesis]({{< relref "../../topics/hormesis.md" >}}) — **“good” stress that causes the body to adapt, strengthen and build resilience**. The sympathetic response (your fight, flight or freeze stress mechanism) is activated. According to [Hof]({{< relref "the_wim_hof_method.md" >}}), concentration of red blood cells increases (boosting your blood’s oxygen carrying capacity). Lung capacity and circulation improve, and your metabolism becomes more efficient."
+> "Short-term hypoxia stresses the body at a cellular level. This type of stress is called [hormesis]({{< relref "../../topics/hormesis.md" >}}) — **"good" stress that causes the body to adapt, strengthen and build resilience**. The sympathetic response (your fight, flight or freeze stress mechanism) is activated. According to [Hof]({{< relref "the_wim_hof_method.md" >}}), concentration of red blood cells increases (boosting your blood's oxygen carrying capacity). Lung capacity and circulation improve, and your metabolism becomes more efficient."
 
 
 ### On adrenaline {#on-adrenaline}

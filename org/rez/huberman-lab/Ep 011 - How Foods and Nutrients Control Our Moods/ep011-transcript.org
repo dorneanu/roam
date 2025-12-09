@@ -791,7 +791,7 @@ can't have a discussion about [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Seroton
 about antidepressants because during the late 80s and early 90s, there
 was this explosion in the number of prescription drugs that were
 released things like first one and most famous one is *Prozac, Zoloft,
-and Paxil* a number of other ones that are so called [[id:3d005ae3-3b1f-426b-bfb0-cc76178f7f88][SSRI]], Selective
+and Paxil* a number of other ones that are so called SSRI, Selective
 [[Id:2b6e8820-A254-4138-Ad80-Dc71c97a8082][Serotonin]] Reuptake inhibitors. That's a long acronym. But basically
 those drugs work by *preventing the gobbling up of [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]]*, or *reuptake
 of [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]] into neurons after it's been released*, which leads to more
@@ -1151,9 +1151,9 @@ saying maybe not so much.
 But the effects on mood are really profound. And now there are lots of
 studies, if you go into PubMed, and you were to put EPA or fish oil and
 depression, you would find that there were a number of really impressive
-results showing that it's at least as effective as certain [[id:3d005ae3-3b1f-426b-bfb0-cc76178f7f88][SSRI]]s
+results showing that it's at least as effective as certain SSRIs
 antidepressants at these dosages. And it can amplify or improve the
-effect of low dosages of some of these [[id:3d005ae3-3b1f-426b-bfb0-cc76178f7f88][SSRI]]. So I feel like more people
+effect of low dosages of some of these SSRI. So I feel like more people
 should know about this. This is nutrition, but it's profoundly affecting
 mood. And depression is terrible, right? depression can have a component
 of anxiety in some cases where people are they feel lousy and very

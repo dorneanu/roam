@@ -160,8 +160,8 @@ Distraction = Not being able to put spotlight on one thing:
 > Their brains, it seemed, were not inactive, as his med-school tutors had said they should
 > be. Activity had shifted from one part of the brain to another – but the brain was still
 > highly active. Surprised, he began to study this in detail. He named the region of the
-> brain that becomes more active when you think you’re not doing much ‘the [default mode
-> network]({{< relref "../../topics/default_network.md" >}})’
+> brain that becomes more active when you think you're not doing much 'the default mode
+> network'
 
 <!--list-separator-->
 

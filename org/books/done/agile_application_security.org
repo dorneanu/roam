@@ -361,7 +361,7 @@
   - Oracle's Java SE coding guidelines
   - OWASP Sécure Coding Practices
   - Mozilla's Web Application Secure Coding Guidelines
-- Alternative to [[id:bd6f6a08-ee7b-4c0f-8129-69083673049c][SCA]]
+- Alternative to SCA
   - IAST (Interactive or Instrumented Application Security Testing)
   - RASP (Runtime Application Self-Protection)
 - More about refactoring

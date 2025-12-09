@@ -1,8 +1,0 @@
-#+created: 20220805232939561
-#+modified: 20220805232939561
-#+revision: 0
-#+tags: TODO
-#+title: gRPC
-#+type: text/vnd.tiddlywiki
-
-tbd

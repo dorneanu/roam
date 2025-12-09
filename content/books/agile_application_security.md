@@ -249,7 +249,7 @@ draft = false
     -   Regulatory compliance
     -   Encryption
         -   At rest
-        -   In transport (SSL /[TLS]({{< relref "../../topics/tls.md" >}}))
+        -   In transport (SSL /TLS)
 
 
 ## Agile Vulnerability Management {#agile-vulnerability-management}
@@ -390,7 +390,7 @@ draft = false
                     -   Time-sensitiv Tokens
                     -   Use of authentication server
                     -   Use of Crypto safe keys
-            -   Use [TLS]({{< relref "../../topics/tls.md" >}}) for network communication
+            -   Use TLS for network communication
             -   Revalidate and check inputs from core services and other services
                 -   Validate all headers
                 -   And every field of every request
@@ -417,7 +417,7 @@ draft = false
     -   Oracle's Java SE coding guidelines
     -   OWASP Sécure Coding Practices
     -   Mozilla's Web Application Secure Coding Guidelines
--   Alternative to [SCA]({{< relref "../../topics/sca.md" >}})
+-   Alternative to SCA
     -   IAST (Interactive or Instrumented Application Security Testing)
     -   RASP (Runtime Application Self-Protection)
 -   More about refactoring

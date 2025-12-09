@@ -1,4 +1,0 @@
-+++
-title = "DRY"
-draft = false
-+++

@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       3d005ae3-3b1f-426b-bfb0-cc76178f7f88
-:END:
-#+title: SSRI
-
-- Selective Serotonin Reuptake Inhibitors

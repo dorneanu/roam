@@ -23,7 +23,7 @@ draft = false
 -   Part 2
     -   on [Solitude]({{< relref "../../topics/solitude.md" >}})
     -   Chapter 5
-        -   on [Default Network]({{< relref "../../topics/default_network.md" >}})
+        -   on Default Network
             -   [why we're social beings](#digital-minimalism-note-5)
         -   on Conversation-Centric Communication
             -   [Why no digital invention cannot ever replace our sociality](#digital-minimalism-note-6)

@@ -1,8 +1,0 @@
-#+created: 20220805232927825
-#+modified: 20220805232927825
-#+revision: 0
-#+tags: TODO
-#+title: RPC
-#+type: text/vnd.tiddlywiki
-
-tbd

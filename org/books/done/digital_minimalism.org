@@ -23,7 +23,7 @@
 - Part 2
   - on [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]]
   - Chapter 5
-    - on [[id:d0ac1661-b81c-453d-9b49-4a08c58beafa][Default Network]]
+    - on Default Network
       - [[* Digital Minimalism - Note 5][why we're social beings]]
     - on [[id:88bb9daf-d2bb-4398-8844-e04cb1047968][Conversation-Centric Communication]]
       - [[* Digital Minimalism - Note 6][Why no digital invention cannot ever replace our sociality]]

@@ -27,7 +27,7 @@ draft = false
 
 -   Google implemented a centralized policy enforcement front-end Access Proxy (AP) to handle coarse-grained company policies.
 -   implemented for HTTP and
-    -   wrap traffic in HTTP over [TLS]({{< relref "tls.md" >}}) (by using ProxyCommand)
+    -   wrap traffic in HTTP over TLS (by using ProxyCommand)
     -   they developed a local proxy, similar to Corkscrew
 -   The main components of Google’s front-end infrastructure are a f leet of HTTP/HTTPS reverse proxies called Google Front Ends
 -   authentication:

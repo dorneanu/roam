@@ -147,8 +147,8 @@ that, right?*
 Their brains, it seemed, were not inactive, as his med-school tutors had said they should
 be. Activity had shifted from one part of the brain to another – but the brain was still
 highly active. Surprised, he began to study this in detail. He named the region of the
-brain that becomes more active when you think you’re not doing much ‘the [[id:d0ac1661-b81c-453d-9b49-4a08c58beafa][default mode
-network]]’
+brain that becomes more active when you think you're not doing much 'the default mode
+network'
 #+end_quote
 
 
