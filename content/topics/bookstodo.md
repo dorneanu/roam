@@ -7,6 +7,15 @@ draft = false
 This is my personal book TODO list, along with the year in which I added the book to the list.
 
 
+## 2026 {#2026}
+
+-   2026-01-13 ◦ [Walden or, Life in the Woods by Henry David Thoreau](https://www.goodreads.com/book/show/16902.Walden_or_Life_in_the_Woods)
+-   2026-01-13 ◦ [Lincoln's Virtues: An Ethical Biography by William Lee Miller](https://www.goodreads.com/book/show/216570.Lincoln_s_Virtues)
+-   2026-01-13 ◦ [The Case for God by Karen Armstrong](https://www.goodreads.com/book/show/6359293-the-case-for-god)
+-   2026-01-13 ◦ [You Are Not a Gadget by Jaron Lanier](https://www.goodreads.com/en/book/show/6683549-you-are-not-a-gadget)
+-   2026-01-13 ◦ [Falling Upward: A Spirituality for the Two Halves of Life -- A Companion Journal by Richard Rohr](https://www.goodreads.com/book/show/19309816-falling-upward)
+
+
 ## 2025 {#2025}
 
 -   2025-09-22 ◦ [Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers](https://www.goodreads.com/book/show/41436213-sandworm)
