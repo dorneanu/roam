@@ -9,6 +9,7 @@
 This is my personal book TODO list, along with the year in which I added the book to the list.
 
 * 2026
+- 2026-01-20 ◦ [[https://www.goodreads.com/book/show/123025953-breaking-through][Breaking Through: My Life in Science by Katalin Karikó]]
 - 2026-01-13 ◦ [[https://www.goodreads.com/book/show/16902.Walden_or_Life_in_the_Woods][Walden or, Life in the Woods by Henry David Thoreau]]
 - 2026-01-13 ◦ [[https://www.goodreads.com/book/show/216570.Lincoln_s_Virtues][Lincoln's Virtues: An Ethical Biography by William Lee Miller]]
 - 2026-01-13 ◦ [[https://www.goodreads.com/book/show/6359293-the-case-for-god][The Case for God by Karen Armstrong]]
