@@ -12,6 +12,7 @@
 - everything on 1 page
   - [[https://www.hakaran.com/]]
 * Search engines
+- https://hackerbook.dosaygo.com/ ([[https://news.ycombinator.com/item?id=46435308][source]])
 - https://hackersearch.net/
 - [[http://hnapp.com]]
 - [[http://hnpaper.forge.partlab.io]]

@@ -1,6 +1,6 @@
 +++
 title = "HackerNews"
-author = ["Victor Dorneanu"]
+author = ["Dorneanu"]
 draft = false
 +++
 
@@ -20,6 +20,7 @@ draft = false
 
 ## Search engines {#search-engines}
 
+-   <https://hackerbook.dosaygo.com/> ([source](https://news.ycombinator.com/item?id=46435308))
 -   <https://hackersearch.net/>
 -   <http://hnapp.com>
 -   <http://hnpaper.forge.partlab.io>
