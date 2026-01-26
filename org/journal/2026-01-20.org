@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       0C1446F7-C608-4566-BC16-C58EC554E543
+:END:
+#+TITLE: 2026-01-20
+#+DATE: 2026-01-20
+#+FILETAGS: journal
+
+Some interesting readings:
+- https://www.afterbabel.com/p/dont-give-your-child-an-ai-companion (by Jonathan Haidt)
+- 2026-01-20 ◦ [[https://calnewport.com/be-wary-of-digital-deskilling/][Be Wary of Digital Deskilling - Cal Newport]]
+- 2026-01-20 ◦ [[https://www.scotthyoung.com/blog/2025/12/16/the-most-underrated-productivity-technique/][The Most Underrated Productivity Technique - Scott H Young]]
+
+Some audio tools:
+- 2026-01-20 ◦ [[https://voice.ai/tools][Free Unlimited Audio Tools - Start Editing Now - Voice.ai]] 
+
+  The stem splitter is cool. Once the stems are created you can easily import
+  them into Reaper.
