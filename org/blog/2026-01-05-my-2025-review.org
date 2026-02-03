@@ -1,0 +1,557 @@
+:PROPERTIES:
+:ID:       D24BEF7A-CD6D-4642-8858-127AD84E3CCD
+:END:
+#+SETUPFILE: setup.org
+#+TITLE: My 2025 review
+#+CREATED: 2026-01-05
+#+HUGO_DRAFT: false
+
+Although it has been a while since my last post here, I don't want to break with
+the *tradition* of doing my annual [[/tags/review/][review]] (make sure to check out the previous
+years: [[/2021/12/13/my-2021-review/][2021]], [[/2024/01/02/my-2023-review/][2023]], [[/2024/12/19/my-2024-review/][2024]]).
+
+Coming back to writing again feels like something I should have done months ago,
+but hey, it's never too late. I used to have this habit of writing, especially
+in the morning, but this year most of the time I didn't really feel like I
+wanted to write. I was also increasingly engaged in other hobbies (such as music
+...more on that later), so I kind of forgot the positive effects of reflecting
+on my own thoughts and putting them into words.
+
+As I sit down here (again in the morning), it feels very hard to remember all
+the things that happened this year. Whenever this happens, I sometimes wonder if
+all the AI/GenAI usage has already impacted my brain, making me less capable of
+remembering things 🫠.
+
+Professionally, I was constantly switching between {{{zk_topic(golang,Golang)}}}
+(mainly working on [[https://github.com/cloudoperators/heureka][Heureka]]) and Python (mostly dealing with [[https://docs.openstack.org/barbican/latest/][OpenStack Barbican]]).
+Beyond that, I had the chance to not only work in a {{{zk_topic(kubernetes,Kubernetes)}}}
+environment but also deploy things on my own, debug, fix issues, and
+deepen my {{{zk_topic(kubernetes,Kubernetes)}}} skills. At some point, I
+wanted to pursue the [[https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/][CKS (Certified Kubernetes Security Specialist)]]
+certification, but due to lack of time, I didn't manage to do so.
+
+Apart from work I'm pretty grateful for all the things I managed to experience
+and all the new people I've met. Since January, I'm playing the *Bongos* regularly
+together with [[https://www.instagram.com/barrio.latino.band][Barrio Latino]] playing Salsa, Cumbia, ChaChaCha and Bolero. Not
+only this: I also managed to get more serious about *House* music production after
+purchasing my first /groovebox/. I also have to think of the great time my family
+and I had in Peloponnese, Greece. I enjoyed the food, the olive oil, the people
+and of course the ☀️.
+
+Now let's first start with the goals I had for this year.
+
+#+html: {{< gbox src="/posts/img/2025/2025-review/workspace-setup-2025.jpg" title="2025 Review workspace (AI generated)" caption="My workspace while writing the 2025 review: laptop with org-mode and the blog post, bongos from my music journey, cycling helmet representing my new commuting habits, productivity books including 'Slow Productivity', and handwritten planning notebooks - a visual summary of the year's key themes." pos="left" >}}
+
+* Goals for 2025
+Looking back at the goals I set for myself in [[/2024/12/19/my-2024-review/#goals-for-2025][2024]], it's time to reflect a little bit on these:
+
+#+caption: My initial goals for this year
+#+begin_quote
+*Kubernetes exploration*
+
+K8s remains a knowledge gap I'm more than determined to address. I'll again follow a "slow
+productivity" approach:
+- Start with small-scale experiments using [[https://k3s.io/][k3s]]/[[https://k3d.io/stable/][k3d]]
+- Work towards deploying my own little cluster, either on a VPS or locally
+- Build practical experience through hands-on projects
+
+And I still need to finish [[https://www.goodreads.com/book/show/34013922-kubernetes-in-action][Kubernetes in Action]] which is really a great book if you want to learn about Kubernetes.
+
+*Golang deep dive*
+
+With my recent transition towards more /Software Engineering/-focused tasks, I'm planning to
+strengthen my {{{zk_topic(golang,Golang)}}} expertise. There are 2 specific areas I'd like to
+know more about:
+- /Generics/: This remains somewhat of a black box that I need to illuminate more
+- /Concurrency/: Beyond basic understanding, I want to explore and implement common patterns
+  that can be applied across different problems
+
+*Security tooling*
+
+The GitHub repository security checker is still on my radar. With the rise of LLMs, I
+believe much of the /foundational work/ (authentication, API interactions) can be
+implemented easily. The key focus will be on defining comprehensive /security and compliance
+checks/ that provide real value to the users.
+
+*Music*
+
+My percussion journey continues with a focus on /Congas/. I've already invested in some
+"Compact Congas" (Giovanni Hidalgo model) that fit perfectly in my space. I believe Congas
+offer more "flexibility" than Bongos for song accompaniment (and solos!), and I'm
+particularly excited to explore /Salsa/ music, though I'm keeping my options open for other
+styles.
+
+The /acoustic guitar/ hasn't been forgotten - I still pick it up regularly. However, I'm
+considering taking formal lessons to improve, especially in finger-style playing. But who
+knows if I'll ever get the chance to do this at all 🤷
+#+end_quote
+
+To be honest, I must admit that I really made impressive progress only in the
+*music* area. But let's start with the technical topics first.
+
+** Kubernetes 
+
+Nowadays, {{{zk_topic(kubernetes,Kubernetes)}}} has become the leading orchestration
+platform. While at [[/2024/07/11/bye-bye-cashlink/][Cashlink]] I used to set up a completely new environment (using
+EKS) from scratch (which was rather a simple configuration), at SAP I already
+found complex clusters that required me to learn new things. I learned a lot by
+just having a service/application ([[https://github.com/cloudoperators/heureka][Heureka]]) and being forced to take care of the
+full deployment. I definitely learned a lot about Helm charts, and I for sure
+made my mistakes along the way. On this journey, I also discovered [[https://github.com/abrochard/kubel][kubel]], which
+became my main tool for interacting with the various clusters (from
+{{{zk_topic(emacs,Emacs)}}} of course). I'm still lacking knowledge in some more
+advanced topics, which is why I initially planned to at least pursue the CKS.
+Due to time constraints, I didn't have the time or mental capacity to address
+this.
+
+** Golang
+
+I came to SAP partly because I wanted to dive deeper into
+{{{zk_topic(golang,Golang)}}}. Last year (at least for the second half) I went into
+gopher-mode for quite a long time. During that time, I realized I lacked deep
+knowledge in *Generics* and *concurrency*. Looking back at this year, I think I've
+learned a lot more about concurrency than Generics. I even started to document
+some [[https://defersec.com/go/concurrency/][best practices]] but at some point I gave it up (mostly because these days,
+with the use of LLMs, you already have access to lots of information; what's the
+point of having these kinds of resources available on personal blogs/sites?).
+
+What made this year particularly interesting was getting to architect and
+develop a completely new service in the area of *HSM* (Hardware Security Module)
+devices. This was fascinating territory (dealing with cryptographic hardware),
+*PKCS#11* interfaces, and the inherent complexities of multi-tenancy in
+security-critical environments. The challenge wasn't just about understanding
+the [[https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/csd01/pkcs11-spec-v3.1-csd01.html][PKCS#11 standard]], but making the whole system work reliably under concurrent
+load while maintaining strict security boundaries between tenants. That again
+made the whole team think deeply about concurrent operations against PKCS11
+tokens. It's one thing to read about thread safety in cryptographic operations,
+but implementing it in production is a different beast entirely.
+
+Besides the HSM work and continuing with [[https://github.com/cloudoperators/heureka][Heureka]], I also had the chance to
+refactor a Golang project to a software architecture similar to
+{{{zk_topic(hexagonal-architecture,Hexagonal Architecture)}}} (check out [[https://brainfck.org/j/2025-04-08/][my notes]] from
+a podcast which described really well what this is about). What I particularly
+enjoyed about Go this year was how well it handles the kind of systems
+programming we do: Building robust, concurrent services that need to handle
+complex orchestration and high loads while maintaining clean, readable code.
+
+Looking back, I feel incredibly grateful for being able to work on such exciting
+and technically challenging projects. Not every developer gets the opportunity
+to dive deep into cryptographic hardware and security-critical systems. It's
+been both humbling and energizing to tackle these complex problems.
+
+** Python & OpenStack
+
+On the Python side, I spent considerable time extending OpenStack Barbican's
+crypto plugin ecosystem, specifically developing a new plugin that further
+expands the available PKCS#11 capabilities. You can check out my [[https://github.com/sapcc/barbican/pulls?q=is%3Apr+author%3Adorneanu+][contributions
+to the SAP Barbican fork]] if you're curious about the technical details.
+
+What struck me most this year was how Python and Go serve such different
+purposes in our infrastructure. While Go excels at building robust, concurrent
+services that need to handle high loads and complex orchestration, Python shines
+in the OpenStack ecosystem where flexibility and rapid iteration matter more
+than raw performance. The plugin architecture in Barbican, for example, makes it
+relatively straightforward to extend functionality. Both languages taught me
+different lessons about software architecture and the trade-offs we make in
+distributed systems.
+
+I'm particularly proud that I managed to contribute meaningfully to one of
+OpenStack's core services (well our changes are still not in upstream...yet).
+Barbican is used by thousands of deployments worldwide, so knowing that my work
+helps secure cryptographic operations at that scale feels quite rewarding. It's
+one thing to write code, but contributing to critical infrastructure that others
+depend on adds a different level of responsibility and satisfaction.
+
+** Security Tooling
+
+Back in 2024, I mentioned wanting to build a GitHub repository security checker:
+A tool that would audit repositories for security and compliance issues. This
+year, I finally started working on this idea, which evolved into *reposhield*.
+
+I kicked off the project in April, and true to my "slow productivity" approach,
+I spent considerable time on the architectural foundation rather than rushing
+into feature implementation. The project follows
+{{{zk_topic(hexagonal-architecture,Hexagonal Architecture)}}} principles with a clean
+separation of concerns.
+
+The current state is what I'd call *"architecturally complete but functionally incomplete."*
+I've established:
+- Core domain models (Finding, ScanResult, Severity levels)
+- A well-defined ~Scanner~ interface for extensibility
+- GitHub API abstraction layer with proper rate limiting
+- Configuration management through environment variables
+- Mock implementations for testing (using [[https://github.com/vektra/mockery][mockery]])
+- GitHub Action integration structure
+- Documentation outlining the complete architecture
+
+What's missing? The actual scanner implementations 🙈. I've designed the system
+to support multiple scanners (branch protection, secret detection, MFA
+enforcement, workflow security, etc.), but I haven't implemented them yet. Part
+of this was intentional. I wanted to get the architecture right before diving
+into the individual features. The other part was simply running out of time and
+mental capacity, similar to what happened with the CKS certification.
+
+Looking back, I'm satisfied with taking this measured approach. Having a solid
+architectural foundation means that when I do continue working on this project,
+adding new scanners will be straightforward. The clean architecture also makes
+the codebase easier to test and maintain, lessons I've internalized from working
+on larger open-source projects this year.
+
+** Music
+Last year I was very excited about buying my new pair of *Congas*. Although I was
+practicing a lot, I soon realized it's not that much fun to play alone (same applies,
+I guess, for every instrument). Music is meant to bind people, to create some
+sort of community, to transfer a message. That's why soon (I guess it was
+January or so) I started looking for bands/musicians on [[https://www.berlinmusiker.de/start.html][berlinmusiker.de]],
+especially in the area of *Latin music* (I was mostly interested in *Salsa*). To my
+surprise I've found a band nearby which was actually looking for a percussionist.
+
+Me playing the LP compact congas I bought last year:
+
+#+html: {{< youtube MGEmAI-qhrs >}}
+
+I was indeed very excited and soon I found myself rehearsing with the rest of
+the band (at the beginning we were only 4 people: one keyboardist, one conguero,
+one guitarist and a singer). Although I thought they were looking for some
+conguero, I then ended up playing again the *bongos*. This was/is not per se bad
+as I re-discovered this instrument and found out new ways to play it. In
+retrospect, however, I wish I would have played more congas! I haven't used the
+pair of congas I bought for a while, mostly because I don't have time to
+/practice bongos AND congas/. And if that wasn't enough: Also this year I've found
+myself making more and more electronic music using my [[https://www.roland.com/de/products/mc-101/][MC-101]].
+
+#+html: {{< youtube z8f6MDXfK2o >}}
+
+I think I'm pretty grateful for finding these lovely people and playing together
+with them. Meanwhile the overall band size grew to 10-13 people and we already
+had several concerts this year. Make sure to check out [[https://www.instagram.com/barrio.latino.band][Barrio Latino Band on
+Instagram]].
+
+Our first concert at the Fete de la Musique 2025:
+#+html: {{< youtube CfFiTeDogX8 >}}
+
+I'm playing the bongos (right side in the video):
+#+html: {{< youtube HqLVfZNyqeM >}}
+
+Some other concert at the [[https://www.ysyberlin.de/about][isy bar]] in Berlin:
+
+#+html: {{< youtube WmgJBtqctO4 >}}
+
+Looking back at this musical journey, I feel incredibly grateful for being able
+to play in a band and managing to have concerts with a full ensemble after just
+a few months of rehearsing together. The experience taught me so much about music
+arrangement, how different instruments need to complement each other, when to
+step back and let others shine, and when to drive the rhythm forward. I definitely
+improved my bongo skills significantly, discovering techniques and patterns I
+never would have learned playing alone.
+
+But what I enjoyed most was playing in front of people and feeling that direct
+energy exchange with the audience. There's something magical about *live
+performance* you can literally feel when the crowd is with you, when they're
+dancing, when they're truly engaged. It's a completely different experience from
+making music in isolation or even just rehearsing with the band.
+
+Oh, and speaking of live performance energy - this year I also experienced it from
+the audience side when I went to my first *Robbie Williams* concert in Berlin. Man,
+it was absolutely awesome! I mean, being in that massive crowd, everyone singing
+along, you really feel that connection I've been discovering through playing with
+the band. Watching how Robbie just owned that stage and had everyone completely
+captivated... it definitely gave me some perspective on what we're trying to
+achieve when we're up there playing ourselves.
+
+* Productivity
+Compared to my last year's statement:
+#+begin_quote
+After years of experimenting with various productivity systems, 2024 was the year where
+things finally clicked into place. Countless hours of listening to [[https://calnewport.com/podcasts/][Cal Newport's podcast]]
+on [[https://www.goodreads.com/book/show/197773418-slow-productivity][slow productivity]] helped me internalize key concepts like *multi-scale planning*, *time
+blocking*, and {{{zk_topic(deep-work,deep work)}}}. This evolution in my approach has
+fundamentally changed how I structure my days and manage my projects.
+#+end_quote
+
+... this year I have no revelation to write about. I guess I've incorporated
+those practices well while [[/2025/06/05/analogue-and-digital-balance-works-for-me/][keeping the balance between digital and analogue
+tools]]. I'm still using paper to actually plan my day:
+
+#+html: {{< gbox src="/posts/img/2025/digital-analogue-productivity/notebook-daily-planning.jpeg" title="Daily planning" caption="Daily planning with time-blocking: Visual representation of scheduled time slots (boxed blocks) for deep work, rest, physical activity, and creative pursuits. This approach prioritizes mental capacity over rigid schedules, allowing flexibility to adapt to unexpected tasks while maintaining focus on high-impact activities. The boxes symbolize intentional time allocations, balancing structured productivity with recovery, in line with Cal Newport’s emphasis on deep work and mindful time management." pos="left" >}}
+
+I was, of course, tempted to add some AI sauce everywhere in order to /optimize
+all the things/, but I'm glad I haven't done so. I'm still using ORG mode files
+to structure projects and keep track of notes, tasks, meeting notes, etc. I use
+my (analogue, paper-based) notebook to plan my day and capture spontaneous ideas
+and meeting notes.
+
+One thing I stopped doing was meticulously tracking my time in ORG agenda. I
+found myself feeling blocked every time I wanted to keep track of my activities
+since it implied creating a new task, refiling it to the right ORG subtree,
+clocking in, etc. I'm also not keeping track of project tasks in ORG mode
+anymore, as I'm currently working on three projects max. Most of the time, I use
+GitHub issues for this purpose.
+
+Overall, I think the year started with good intentions: I've done my
+{{{zk_topic(multi-scale-planning,multi-scale planning)}}}, I've had my quarters filled
+in with goals, and of course I'd written down my year's goals. However, I feel I
+neglected focusing on just a few projects at a time (and also finishing them).
+Instead, I was more in an *on-demand* mode where I couldn't have a clear picture
+of what I was heading toward. I guess I'll have to review my habits again and
+return to a mode where I have a clear picture of what I want to achieve.
+* Habits
+** Reading
+In terms of tooling, not much has changed since last year. I'm still using
+Goodreads as a source for book inspiration, and my Pocketbook Inkpad 3 still
+serves me best. Here is my reading list for [[https://brainfck.org/books/#2025][2025]]:
+
+- [[https://brainfck.org/book/j%C3%A4ger-hirten-kritiker/][Jäger, Hirten, Kritiker]]
+- [[https://brainfck.org/book/tyranny-of-the-minority/][Tyranny of the Minority]]
+- [[https://brainfck.org/book/brave-new-world/][Brave New World]]
+- [[https://brainfck.org/book/slow-productivity/][Slow Productivity]]
+- [[https://brainfck.org/book/baustellen-der-nation/][Baustellen der Nation]]
+- [[https://brainfck.org/book/kleine-freiheit-garten/][Kleine Freiheit Garten]]
+- [[https://brainfck.org/book/brief-answers-to-the-big-questions/][Brief Answers to the Big Questions]]
+- [[https://brainfck.org/book/nexus/][Nexus]]
+- [[https://brainfck.org/book/becoming-supernatural/][Becoming Supernatural]]
+- [[https://brainfck.org/book/the-anxious-generation/][The Anxious Generation]]
+- [[https://brainfck.org/book/the-righteous-mind/][The Righteous Mind]]
+- [[https://brainfck.org/book/the-stoic-mindset-living-the-ten-principles-of-stoicism/][The Stoic Mindset: Living the Ten Principles of Stoicism]]
+- [[https://brainfck.org/book/the-little-book-of-stoicism/][The Little Book of Stoicism]]
+
+#+caption: Reading habit tracker
+#+begin_export hugo
+{{< habit-tracker-single csv="/data/habits-2025.csv" year="2025" habit="reading" >}}
+#+end_export
+
+I feel that for this year I've slightly neglected reading and started doing
+something else as my /default activity/ for the evenings. Whereas the previous
+years I was trying to read *daily* now I tend to make music rather than reading
+something. I think this is OK and I'm also trying to tell myself it's OK for not
+reading for whole weeks. I don't know why but sometimes I do feel this pressure
+of making sure I'm hitting my targets (which only myself I've put on me).
+
+Despite feeling "distracted" by music making, looking at my reading list above,
+I realize I still managed to read quite a lot this year! Several books covering
+diverse topics, from [[https://brainfck.org/tags/stoicism/][stoicism]] and [[https://brainfck.org/tags/philosophy/][philosophy]] to [[https://brainfck.org/tags/politics/][politics]], [[https://brainfck.org/tags/science/][science]], and
+[[https://brainfck.org/tags/productivity/][productivity]]. I hope to keep this pace and continue deep-diving into new topics
+that challenge my thinking and expand my worldview.
+
+💡 I've already shared detailed thoughts on some of these books in my quarterly
+book summary post: [[/2025/01/16/book-summaries-october-december-2024/][October-December 2024]]. More book summaries for 2025 will
+follow.
+
+** Sports
+I've started the year with the initial goal of doing sports at least /twice a
+week/. For me, *cycling/commuting* to work doesn't necessarily count as a sports
+activity, although it surely has its benefits. I guess for most of the time I
+didn't have the right discipline (when should I train? during lunch break? on
+which days?) and /routine/. I also began working out early in the morning, without
+breakfast, after cycling from home to work. Initially that felt very hard, but I
+could observe well how my body started to adapt to this rhythm. So for a longer
+period of time I used to work out on the same days I used to go to the office
+(twice a week). Meanwhile I've switched that and I try to complete my training
+routine on the days I'm working from home (mostly during the lunch break). As
+for discipline/routine, I think I'm on the right track incorporating sports into
+my day-to-day life. I also learned that I *actively* need to make time for that.
+
+As for the type of workout, I'm still mostly doing *calisthenics*. For a while now
+I've also started training with *kettlebells*, as they allow me to adapt the
+overall intensity of the training to my mood (especially in the morning I didn't
+feel like doing pull-ups at all). I definitely miss my *rope flow* routine,
+something I haven't done this year at all.
+#+begin_sidenote
+I might have an excuse: I gave my rope to a friend (who also hasn't done much with it). Right, Alex?
+#+end_sidenote
+Besides kettlebells, I also started training with weights again (something I
+stopped doing ever since I got into calisthenics and especially ring training).
+
+Overall I'm happy I'm back on track, and I can definitely feel the changes
+already (I can do more pull-ups, my spine has become more straight, I feel more
+energized). Most importantly, I'm proud that I finally managed to incorporate
+sports into my day-to-day life and make it an essential part of my routine. It's
+no longer something I have to convince myself to do. It's become part of my DNA,
+something I actually look forward to and feel off without.
+
+*** Cycling
+
+Since I got a new bike this year, I was more than motivated to cycle not only
+from home to the office but also to use it for general commuting instead of
+public transportation. This shift made cycling a natural part of my daily
+routine rather than just a form of exercise. The convenience and enjoyment of
+having a reliable bike transformed how I move around the city.
+
+#+caption: Cycling Activities
+#+begin_export hugo
+{{< garmin-tracker csv="/data/garmin-activities-2025.csv" year="2025" activities="Cycling" >}}
+#+end_export
+
+*** Strength Training
+
+For *strength training* specifically, I aimed to train twice a week with sessions
+adapted to my location: quick 20-minute workouts when training in the office
+versus more comprehensive 40-minute sessions when I had access to a proper gym.
+Looking at my actual Garmin data, this flexible approach helped me maintain
+consistency throughout the year.
+
+#+caption: Strength Training Sessions & Weekly Time
+#+begin_export hugo
+{{< garmin-tracker csv="/data/garmin-activities-2025.csv" year="2025" activities="Strength Training" summary="weekly" >}}
+#+end_export
+
+#+caption: Sports habit tracker
+#+begin_export hugo
+{{< habit-tracker-single csv="/data/habits-2025.csv" year="2025" habit="sport" >}}
+#+end_export
+
+** Meditation
+At the end of last year, I purchased a one-year subscription to the [[https://www.wakingup.com/][Waking Up
+App]], which was not quite cheap (around $100 for a year). I thought that paying
+that much money would definitely keep me motivated to meditate regularly. Small
+spoiler: It actually did, and I really liked the sessions, which all had a
+different focus. I heard about this app from *Andrew Huberman*, who uses it for
+non-sleep deep rest (NSDR) protocols. I found all sessions to be quite good, and
+they were definitely quite different from what I expected. But as my
+subscription neared its end, I didn't want to pay that much money again.
+
+#+caption: Meditation habit tracker
+#+begin_export hugo
+{{< habit-tracker-single csv="/data/habits-2025.csv" year="2025" habit="meditation" >}}
+#+end_export
+
+I also came across this [[https://dynamic.wakingup.com/pack/PK7REQC][stoic meditation]] pack from William B. Irvine, which
+sparked my interest in more [[https://brainfck.org/tags/stoicism/][stoic literature]]. I think this is also the reason
+I've read so many books on [[https://brainfck.org/tags/stoicism/][stoicism]] this year. Will I ever go back to Waking Up?
+Who knows?
+
+As an "alternative" to meditation, I've started doing regular [[https://brainfck.org/tags/breathing/][breathing]]
+exercises again (something I'd also completely neglected for a long time). While
+practicing again, I came across the [[https://www.youtube.com/c/breathewithsandy][Breathe with Sandy sessions]], which turned
+out to be the most enjoyable and diverse breathing exercises I've ever
+experienced. If you're interested in breathing exercises, you should definitely
+check out this channel. I can already hear the "/Aaaaaaaallrighhhhtt..../" voice
+sounding in my head, which every time made me feel more relaxed.
+
+* Software I use
+I'd like to continue with the same scheme I've started last year and describe
+the tools/services I use on a day-to-day basis.
+** Daily drivers
+:PROPERTIES:
+:ID:       0D566A0E-4E47-400F-89CD-89A07D9018D9
+:END:
+It's funny to see that not much has changed (maybe just the ordering a little bit).
+- *Claude* (Code / Desktop)
+
+  Well, I need to be honest on this: I cannot imagine professional (but also
+  private) life without Claude. It's literally everywhere serving me as a
+  digital assistant. Whether I need to understand a huge code base, analyze
+  multiple documents... Ever since I started using [[https://github.com/anthropics/claude-code][Claude Code]], I feel that the
+  whole tooling and workflow has become even more integrated into my personal
+  workflow (everything happens within the terminal) (or within
+  [[https://github.com/stevemolitor/claude-code.el][stevemolitor/claude-code.el]] if you're using {{{zk_topic(emacs,Emacs)}}}).
+
+  #+html: {{< gbox src="/posts/img/2025/2025-review/claude-code-mcp-screenshot-server.png" title="Claude Code MCP Screenshot Server Documentation" caption="Claude Code's MCP screenshot server enables seamless visual debugging workflows for Hugo blog development, allowing direct screenshot capture and CSS verification from the terminal" pos="left" >}}
+
+  #+html: {{< gbox src="/posts/img/2025/2025-review/claude-code-image-analysis-css-fix.png" title="Claude Code Visual Problem Solving" caption="Simply paste a screenshot showing a CSS layout issue, and Claude Code instantly analyzes the problem, understands the context, and provides comprehensive solutions - from HTML structure fixes to CSS positioning, complete with implementation tasks. This seamless image-to-solution workflow exemplifies how AI transforms debugging from hours of investigation into minutes of focused fixes." pos="right" >}}
+
+- *Emacs*
+  
+  No surprises here. It still does its job at almost every task and is the
+  perfect companion to Claude. At some point this year, I again refactored my
+  whole [[https://github.com/dorneanu/dotemacs][dotemacs]] to use https://github.com/jamescherti/minimal-emacs.d as a
+  basis.
+  #+begin_sidenote
+  It was last year that I [[/2024/02/22/from-doom-to-vanilla-emacs/][migrated from Doom Emacs to vanilla Emacs]].
+  #+end_sidenote
+
+  
+  #+html: {{< gbox src="/posts/img/2025/2025-review/claude-code-emacs-integration.png" title="Claude Code Emacs Integration" caption="The claude-code.el package brings Claude's capabilities directly into Emacs with commands for starting conversations, sending code contexts, and managing multiple Claude instances" pos="right" >}}
+  
+** Services
+:PROPERTIES:
+:ID:       0931C859-9DE7-4EEE-B249-628BF83534FB
+:END:
+- *Claude Pro*
+
+  For more than a year, I've been using Claude Pro (whereas sometimes I'm
+  hitting the limit multiple times a day 🙈). I didn't purchase Max 'cause I
+  still think that's a lot of money for a service. Overall, I'm still very
+  satisfied (with both: Claude Desktop and Claude Code, which obviously serve
+  different purposes).
+  
+- [[https://www.overdrive.com/][Overdrive]] / [[https://libbyapp.com/][Libbyapp]]
+
+  I still have my account and use it quite regularly.
+
+  #+html: {{< gbox src="/posts/img/2025/2025-review/libby-best-books-2024.png" title="Libby - Best Books 2024" caption="Libby's curated collection 'Die besten Bücher 2024' showcasing top German books available for digital borrowing, including fiction, non-fiction, and contemporary literature - demonstrating the rich selection available through library partnerships" pos="right" >}}
+
+- *Goodreads*
+
+  Check out my [[https://www.goodreads.com/user/show/121423977-victor-dorneanu][profile]].
+
+  #+html: {{< gbox src="/posts/img/2025/2025-review/goodreads-profile-2024.png" title="Goodreads Profile" caption="My Goodreads profile showing the 2024 reading challenge progress, favorite books collection, active bookshelves, and recent reading activity - a testament to another year of diverse literary exploration" pos="left" >}}
+  
+- *Blinkist*
+
+  I use it quite rarely but I still find it useful to get like a sneak peek
+  whats inside a book. It's still a great format to listen to content while
+  commuting for example. Check out https://www.blinkist.com/ (they're Berlin
+  based 😎).
+
+  #+html: {{< gbox src="/posts/img/2025/2025-review/blinkist-trending-categories.png" title="Blinkist Trending and Categories" caption="Blinkist's trending section showcasing popular books and comprehensive category system, making it easy to discover book summaries across diverse topics from entrepreneurship to psychology - perfect for quick insights during commutes" pos="right" >}}
+  
+* Goals for 2026
+I don't quite know what will happen in 2026 given the overall geopolitical
+instability around the world. Also, AI has already had quite a big impact on the
+industry so it's not really foreseeable what exactly will happen. I can really
+recommend this video (in general [[https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw][The Diary of a CEO]] has already had really good
+guests).
+
+#+html: {{< youtube S9a1nLw70p0 >}}
+
+Looking forward to 2026, I think I already have some list of things I'd like to
+achieve:
+
+- *Kubernetes*
+  
+  This is definitely one of my weakest points. I definitely need to get more
+  hands-on on more advanced topics. I still haven't finished [[https://www.goodreads.com/book/show/34013922-kubernetes-in-action][Kubernetes
+  in Action]] which is definitely a really good and practicable book. I still
+  hope to set some time aside to setup a local cluster and maybe host some
+  services.
+
+- *Music*
+
+  I'd like to focus even more on /live performance/. That's also the reason I've
+  purchased a [[https://www.roland.com/global/products/sp-404mk2/][SP404 MK2 sampler]] which I guess will be a quite good companion to
+  my MC-101. It's one thing to play a track (with all the layers: drums, bass
+  line, synths, FX etc.) live compared to playing multiple tracks. For the
+  latter, one needs like a structure and good preparation for the live set. I
+  hope that the SP404 MK2 will somehow take over the role of the "master brain" in
+  my setup.
+
+  Of course I will definitely continue to play /percussion/ and try to get better
+  at congas. It has still been my biggest dream to incorporate percussion into a
+  live DJ like performance. Hopefully I can do both at the same time. As playing in
+  a band, trying to get better at performing live, and having other responsibilities
+  privately and professionally is quite demanding, I kind of fear I will have to
+  reduce something from my weekly "workload". 
+
+- *Books* / *Topics*
+
+  I guess I'll continue my *Stoicism* journey by going even deeper into the
+  available resources (and/or maybe go to the source and read Marcus Aurelius'
+  Meditations). As this year I had to deal a lot with
+  {{{zk_topic(software-architecture,software architecture)}}}, also for the next year
+  I foresee more and more work in this field where services will have to be
+  designed from scratch or refactored.
+
+  Knowing more about *Leadership* is something I had on my agenda for this year. I
+  definitely want to improve the way I communicate to people (to my colleagues,
+  to my managers, to my family). Staying calm and mindful when all around so
+  many things happen is indeed challenging.
+
+* Config                                                           :noexport:
+# Local variables:
+# org-download-image-dir: "~/repos/priv/blog/static/posts/img/2025/2025-review/"
+# org-download-screenshot-basename: ".png"
+# org-download-heading-lvl: nil
+# org-agenda-files: nil
+# org-export-babel-evaluate: t
+# end:
