@@ -3,6 +3,7 @@
 :END:
 #+title: How to think like Socrates
 #+filetags: :todo:history:philosophy:
+#+date: 2026-01-28
 
 
 https://www.goodreads.com/book/show/203578835-how-to-think-like-socrates

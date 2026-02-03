@@ -3,5 +3,6 @@
 :END:
 #+title: How to think like a Roman Emperor
 #+filetags: :todo:history:philosophy:
+#+date: 2025-12-18
 
 https://www.goodreads.com/book/show/39863499-how-to-think-like-a-roman-emperor

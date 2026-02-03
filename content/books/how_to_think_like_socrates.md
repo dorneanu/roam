@@ -1,6 +1,7 @@
 +++
 title = "How to think like Socrates"
 author = ["Dorneanu"]
+date = 2026-01-28
 tags = ["todo", "history", "philosophy"]
 draft = false
 +++
