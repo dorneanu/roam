@@ -13,12 +13,23 @@ draft = false
 -   2024-04-16 ◦ [Daily Drum - Drum challenges every week](https://daily-drum.com/)
 
 
+### Drum machines {#drum-machines}
+
+-   2026-01-30 ◦
+
+
 ### Patterns {#patterns}
 
 General guide:
 
 -   2025-10-23 ◦ [Drum Patterns: The Ultimate Guide to Drum Programming](https://www.edmprod.com/drums-guide/)
 -   2025-10-23 ◦ [Beat Dissected - Attack Magazine](https://www.attackmagazine.com/technique/beat-dissected/)
+
+
+#### AI {#ai}
+
+-   2026-01-30 ◦ [AI Drums - DrumGPT - Fadr](https://fadr.com/drumgpt)
+    Create drum kits using words. Then you can download the whole drum kit!
 
 
 #### House {#house}
