@@ -2,6 +2,7 @@
 :ID:       D24BEF7A-CD6D-4642-8858-127AD84E3CCD
 :END:
 #+SETUPFILE: setup.org
+#+filetags: :review:
 #+TITLE: My 2025 review
 #+CREATED: 2026-01-05
 #+HUGO_DRAFT: false
