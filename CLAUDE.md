@@ -93,6 +93,22 @@ basename2
 basename3.md    # Extensions are stripped automatically
 ```
 
+## Book Summary Posts
+
+For creating quarterly book summary posts, use the specialized agent:
+
+**Agent:** `.claude/agents/book-summary-post.md`
+
+The agent handles the complete workflow from finding books by date to formatting entries with proper Hugo-compatible links.
+
+## EPUB Processing
+
+For EPUB processing workflows, use the specialized agent:
+
+**Agent:** `.claude/agents/epub-processor.md`
+
+The agent handles the complete workflow from EPUB conversion to text file splitting with proper naming conventions.
+
 ## Common Tasks
 
 ### Adding New Topic Files
