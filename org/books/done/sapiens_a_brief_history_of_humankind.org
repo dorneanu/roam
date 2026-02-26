@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2a8e5f3c-9b12-4d1a-a854-7c9e4f6b8a2d
+:END:
+#+title: Sapiens: A Brief History of Humankind
+#+filetags: :anthropology:philosophy:history:book:
+#+date: 2024-04-16
+
+👉 [[https://www.goodreads.com/book/show/23692271-sapiens][Sapiens - A Brief History of Humankind by Yuval Noah Harari]]
+
