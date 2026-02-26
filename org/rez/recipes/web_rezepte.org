@@ -1,0 +1,251 @@
+#+TITLE: Online-Rezepte
+#+FILETAGS: :rezepte:online:web:
+
+Sammlung von Rezepten aus verschiedenen Online-Quellen.
+
+* Gnocchi-Brokkoli-Auflauf
+
+Ein schneller, cremiger Auflauf aus der deutschen Alltagsküche, der mit vorgekochten Gnocchi besonders unkompliziert zubereitet werden kann - perfekt für Feierabende.
+
+** Einkaufsliste
+
+*** Gemüse & Obst
+- [ ] 1 Brokkoli (ca. 500-600g)
+
+*** Fleisch & Fisch
+- [ ] 100g gekochter Schinken (alternativ: geräucherter Tofu für vegetarisch)
+
+*** Hülsenfrüchte & Konserven
+- [ ] 600g Gnocchi aus dem Kühlregal (alternativ: selbstgemachte Gnocchi)
+
+*** Milchprodukte
+- [ ] 250g Sahne (Schlagsahne 30% oder Sahne zum Kochen 15%)
+- [ ] 150g Frischkäse mit Kräutern
+- [ ] 150g geriebener Käse (z.B. Gouda, Emmentaler oder Cheddar)
+
+*** Gewürze & Sonstiges
+- [ ] 1 TL Senf
+- [ ] Salz
+- [ ] Pfeffer
+- [ ] Muskat
+
+** Zeitangaben
+
+- Vorbereitungszeit: 15 Minuten
+- Backzeit: 20 Minuten
+- Gesamtzeit: 35 Minuten
+- Portionen: 4 Personen
+
+** Zubereitung - Mise en Place
+
+*** Schritt 1: Vorbereitung und Ofen vorheizen
+
+*Benötigte Zutaten für diesen Schritt:*
+- 1 Brokkoli
+- 100g gekochter Schinken
+
+*Anweisungen:*
+1. Backofen auf 180°C Ober- und Unterhitze vorheizen
+2. Brokkoli waschen und in mundgerechte Röschen teilen
+3. Brokkolistiel schälen und in dünne Scheiben schneiden (kann mit verwendet werden)
+4. Schinken in ca. 1cm große Würfel schneiden
+5. Auflaufform (ca. 20x30 cm) bereitstellen
+
+*** Schritt 2: Brokkoli und Gnocchi vorkochen
+
+*Benötigte Zutaten für diesen Schritt:*
+- Brokkoliröschen und -stiele vom vorherigen Schritt
+- 600g Gnocchi
+- Salz für das Kochwasser
+- 100g Schinken-Würfel vom vorherigen Schritt
+
+*Anweisungen:*
+1. Großen Topf mit Wasser zum Kochen bringen und kräftig salzen
+2. Brokkoli und Gnocchi gleichzeitig ins kochende Wasser geben
+3. Genau 3 Minuten kochen lassen
+4. In einem Sieb abgießen und kurz abtropfen lassen
+5. Brokkoli, Gnocchi und Schinken-Würfel in die Auflaufform geben
+
+*** Schritt 3: Sauce zubereiten
+
+*Benötigte Zutaten für diesen Schritt:*
+- 250g Sahne
+- 150g Frischkäse mit Kräutern
+- 1 TL Senf
+- Salz
+- Pfeffer
+- Muskat
+
+*Anweisungen:*
+1. Sahne, Frischkäse und Senf in einer Schüssel mit einem Schneebesen gut verrühren, bis die Masse glatt ist
+2. Mit Salz, Pfeffer und frisch geriebener Muskatnuss abschmecken
+3. Die Sauce sollte gut gewürzt sein, da sie die Gnocchi und den Brokkoli mit würzt
+
+*** Schritt 4: Auflauf fertigstellen und backen
+
+*Benötigte Zutaten für diesen Schritt:*
+- Sauce vom vorherigen Schritt
+- Brokkoli-Gnocchi-Schinken-Mischung in der Auflaufform
+- 150g geriebener Käse
+
+*Anweisungen:*
+1. Sauce gleichmäßig über die Gnocchi-Brokkoli-Mischung gießen
+2. Mit einem Löffel alles vorsichtig vermischen, sodass alle Zutaten von der Sauce umhüllt sind
+3. Geriebenen Käse gleichmäßig über den Auflauf streuen
+4. Auflaufform auf der mittleren Schiene im vorgeheizten Ofen 20 Minuten backen
+5. Der Käse sollte goldbraun und leicht gebräunt sein
+6. Kurz abkühlen lassen und servieren
+
+** Tipps und Variationen
+
+*** Vorbereitung
+- Der Auflauf kann bis zu Schritt 3 vorbereitet und bis zu 4 Stunden im Kühlschrank aufbewahrt werden
+- Vor dem Backen dann 5 Minuten länger im Ofen lassen
+
+*** Vegetarische Variante
+- Schinken weglassen oder durch 100g geräucherter Tofu-Würfel ersetzen
+- Für mehr Proteine: 1 Dose Kichererbsen (abgetropft) untermischen
+
+*** Gemüsevariationen
+- Zusätzliches Gemüse: Erbsen, Paprika-Würfel oder Kirschtomaten
+- Brokkoli durch Blumenkohl ersetzen (gleiche Zubereitungsweise)
+- Mix aus Brokkoli und Blumenkohl verwenden
+
+*** Käsevariationen
+- Für intensiveren Geschmack: Teil des Goudas durch Parmesan ersetzen
+- Für Knusprigkeit: 2 EL Semmelbrösel mit dem Käse vermischen
+
+*** Sauce-Variationen
+- Für mehr Würze: 1-2 zerdrückte Knoblauchzehen zur Sauce geben
+- Für Schärfe: 1 TL Chilliflocken oder etwas Cayennepfeffer
+- Statt Frischkäse mit Kräutern: neutraler Frischkäse + 2 EL frische gehackte Kräuter (Petersilie, Schnittlauch)
+
+*** Aufbewahrung und Reste
+- Reste im Kühlschrank bis zu 3 Tage haltbar
+- Aufwärmen: Bei 160°C ca. 15 Minuten im Ofen oder in der Mikrowelle
+- Einfrieren möglich: In Portionen einfrieren, innerhalb von 2 Monaten verbrauchen
+
+*** Nährwerte pro Portion
+- Kalorien: 722 kcal
+- Kohlenhydrate: 58g
+- Eiweiß: 24g
+- Fett: 44g
+
+** Quelle
+- URL: https://www.gaumenfreundin.de/gnocchi-brokkoli-auflauf/
+
+* Kaiserschmarrn ganz klassisch
+
+Ein traditioneller österreichischer Pfannkuchen, der in Stücke gerissen und mit Puderzucker und Zwetschgenröster serviert wird - ein beliebtes Dessert oder süße Hauptspeise.
+
+** Einkaufsliste
+- Milchprodukte
+  - [ ] 4 Eier (Größe M)
+  - [ ] 300ml Vollmilch (3,5% oder 3,8%)
+- Mehl & Backzutaten
+  - [ ] 125g Mehl (Type 405)
+  - [ ] 60g Zucker
+  - [ ] 1 Päckchen Bourbon Vanillezucker
+  - [ ] 1 Prise Salz
+- Getränke
+  - [ ] 75ml Mineralwasser mit Kohlensäure
+- Fett & Sonstiges
+  - [ ] 40g Butter
+  - [ ] Puderzucker zum Bestäuben
+- Optional
+  - [ ] 40g getrocknete Rosinen
+  - [ ] 2 EL Obstsaft zum Einweichen der Rosinen
+- Beilage
+  - [ ] Zwetschgenröster oder Apfelmus
+
+** Zeitangaben
+- Vorbereitungszeit: 10 Minuten
+- Zubereitungszeit: 10 Minuten
+- Gesamtzeit: 20 Minuten
+- Portionen: 4 Personen
+
+** Zubereitung - Mise en Place
+*** Schritt 1: Rosinen vorbereiten (optional)
+
+*Benötigte Zutaten für diesen Schritt:*
+- 40g getrocknete Rosinen
+- 2 EL Obstsaft
+
+*Anweisungen:*
+1. Rosinen in Obstsaft einweichen und 15 Minuten quellen lassen
+
+*** Schritt 2: Teig vorbereiten
+
+*Benötigte Zutaten für diesen Schritt:*
+- 4 Eier (Größe M)
+- 60g Zucker
+- 1 Päckchen Bourbon Vanillezucker
+- 1 Prise Salz
+- 300ml Vollmilch
+- 125g Mehl (Type 405)
+- 75ml Mineralwasser mit Kohlensäure
+- Eingeweichte Rosinen (optional)
+
+*Anweisungen:*
+1. Eier trennen - Eigelb und Eiweiß in separate Schüsseln geben
+2. Eiweiß steif schlagen (Überkopf-Test - Eischnee sollte beim Umdrehen der Schüssel nicht herausfallen)
+3. Eigelb mit Zucker, Vanillezucker und Salz cremig verrühren
+4. Mehl und Milch abwechselnd unter die Eigelb-Masse rühren zu einem glatten Teig
+5. Mineralwasser hinzufügen und unterrühren
+6. Eischnee vorsichtig unterheben
+7. Optional: Rosinen unterheben
+
+*** Schritt 3: Kaiserschmarrn braten
+
+*Benötigte Zutaten für diesen Schritt:*
+- Teig vom vorherigen Schritt
+- 40g Butter
+
+*Anweisungen:*
+1. Butter in einer großen Pfanne (32cm Durchmesser) erhitzen
+2. Teig in die Pfanne gießen und bei mittlerer Hitze ca. 5 Minuten goldbraun backen
+3. Kaiserschmarrn in Viertel teilen (mit Pfannenwender)
+4. Weitere ca. 5 Minuten von der anderen Seite backen
+5. Mit zwei Pfannenwendern in mundgerechte Stücke reißen
+
+*** Schritt 4: Servieren
+
+*Benötigte Zutaten für diesen Schritt:*
+- Kaiserschmarrn-Stücke
+- Puderzucker zum Bestäuben
+
+*Anweisungen:*
+1. Kaiserschmarrn sofort auf Teller verteilen
+2. Großzügig mit Puderzucker bestäuben
+3. Warm servieren
+
+** Tipps und Variationen
+
+*** Teig-Tipps
+- Der Teig sollte nicht zu dickflüssig sein - bei Bedarf etwas mehr Milch hinzufügen
+- Eischnee macht den Kaiserschmarrn besonders luftig
+- Den Teig nicht zu lange stehen lassen, da der Eischnee zusammenfällt
+
+*** Variationen
+- Mit Rosinen für den klassischen Geschmack
+- Mit Äpfeln: Apfelwürfel mitbraten
+- Mit Mandeln: Gehobelte Mandeln hinzufügen
+- Alkohol-Variante: 1 Schuss Rum in den Teig
+
+*** Beilagen
+- Klassisch: Zwetschgenröster
+- Alternativ: Apfelmus, Preiselbeeren oder frische Beeren
+- Winter-Variante: Heißer Glühwein als Getränk dazu
+
+*** Aufbewahrung
+- Am besten frisch servieren
+- Reste können kurz aufgewärmt werden, verlieren aber an Luftigkeit
+
+*** Nährwerte pro Portion
+- Kalorien: 430 kcal
+- Kohlenhydrate: 54g
+- Eiweiß: 12g
+- Fett: 18g
+
+** Quelle
+- URL: https://emmikochteinfach.de/kaiserschmarrn-ganz-klassisch/
