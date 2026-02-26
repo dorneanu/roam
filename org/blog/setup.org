@@ -8,6 +8,7 @@
 #+macro: zk [[https://tw5.brainfck.org/#$1][$2]]
 #+macro: zk_topic [[https://brainfck.org/t/$1][$2]]
 #+macro: zk_book [[https://brainfck.org/book/$1][$2]]
+#+macro: zk_tag [[https://brainfck.org/tags/$1][$2]]
 #+macro: bib [[https://tw5.brainfck.org/bib.html#$1][$2]]
 #+macro: relref @@hugo:[@@ $1 @@hugo:]({{< relref "$2" >}})@@
 #+macro: titleref @@hugo:{{< titleref "$1" "@@ $2 @@hugo:" >}}@@

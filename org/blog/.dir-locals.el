@@ -6,6 +6,7 @@
                       (setq-local
                        org-confirm-babel-evaluate t
                        org-agenda-files nil
+                       fill-column 100
                        ;; org-id-extra-files (directory-files-recursively org-roam-directory "\.org$")
                        )
                       ;; https://github.com/kaushalmodi/ox-hugo/issues/500#issuecomment-1006674469
