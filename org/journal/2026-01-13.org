@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       58950E85-BFA7-4437-BA6C-A0651976B62F
+:END:
+#+TITLE: 2026-01-13
+#+DATE: 2026-01-13
+#+FILETAGS: journal
+
+- [[https://www.youtube.com/watch?v=_aFd7ROyrsU][What If AI Makes Us Less Productive? (The Study Sam Altman Doesn’t Want You to See)]]
+  - Cal presents results from the meter organization

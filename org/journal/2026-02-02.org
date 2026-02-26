@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       523168E8-42DF-453D-9F4A-2C1BEE598262
+:END:
+#+TITLE: 2026-02-02
+#+DATE: 2026-02-02
+#+FILETAGS: journal
+
+- https://www.reddit.com/r/emacs/comments/1qpkbv6/post_your_favorite_dwim_commands_packages_or_own/
+
+  #+begin_quote
+  - oantolin
+    I really like capitalize-dwim, downcase-dwim, and upcase-dwim and think they should be bound to M-c, M-l and M-u by default (instead of capitalize-word, downcase-word, and upcase-word). 
+  - minadmacs
+    One can even do all this in a single command, bound to, e.g., `M-c`:
+
+    (defun +case-cycle ()
+      "Cycle case of current word."
+      (interactive)
+      (save-mark-and-excursion
+        (let (deactivate-mark)
+          (when-let* ((b (or (bounds-of-thing-at-point 'region)
+                             (bounds-of-thing-at-point 'word)))
+                      (w (buffer-substring (car b) (cdr b))))
+            (goto-char (car b))
+            (funcall (cond
+                      ((equal (upcase w) w) #'downcase-region)
+                      ((equal (downcase w) w) #'capitalize-region)
+                      (t #'upcase-region))
+                     (car b) (cdr b))))))
+  #+end_quote
+
