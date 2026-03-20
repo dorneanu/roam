@@ -28,6 +28,8 @@ draft = false
 
 ## Aggregated News {#aggregated-news}
 
+-   [deadstack.net](https://deadstack.net/recent)
+    -   Tech news aggregator using o3-mini for clustering; also includes data from HN
 -   2023-01-02 ◦ [HandlR](https://handlr.sapico.me/)
 -   2023-01-02 ◦ [DistilHN](https://www.distilhn.com/)
 -   <http://serializer.io>

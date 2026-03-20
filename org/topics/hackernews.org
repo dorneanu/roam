@@ -17,6 +17,8 @@
 - [[http://hnapp.com]]
 - [[http://hnpaper.forge.partlab.io]]
 * Aggregated News
+- [[https://deadstack.net/recent][deadstack.net]]
+  - Tech news aggregator using o3-mini for clustering; also includes data from HN
 - 2023-01-02 ◦ [[https://handlr.sapico.me/][HandlR]]
 - 2023-01-02 ◦ [[https://www.distilhn.com/][DistilHN]]
 - [[http://serializer.io]]
