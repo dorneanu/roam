@@ -3,9 +3,6 @@
 :END:
 #+created: 20201005081209082
 #+filetags: :swe:
-#+modified: 20210622082008964
-#+origin: [[<<. bibliography "The Clean Architecture">>]]
-#+revision: 0
 #+tags: Topics
 #+title: Software Engineering
 #+tmap.id: 9718439e-0cae-48e4-a3bc-d01c7b2b0856
@@ -44,3 +41,5 @@
 :CUSTOM_ID: other-requirements
 :END:
  - To fulfill its purpose, software must be soft---that is, it must be easy to change. When the stakeholders change their minds about a feature, that change should be simple and easy to make
+* Resources
+- 2026-04-23 ◦ [[https://lawsofsoftwareengineering.com/][Laws of Software Engineering]]
