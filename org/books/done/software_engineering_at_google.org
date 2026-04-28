@@ -2,9 +2,11 @@
 :ID:       01D3CE3B-5CC3-4F55-BA54-A2C16BADFB1C
 :END:
 #+title: Software Engineering at Google
-#+filetags: :book:todo:softwareengineering:google:
+#+filetags: :book:softwareengineering:google:
 #+date: 2026-04-28
 #+author: Titus Winters, Tom Manshreck, Hyrum Wright
+
+👉 https://www.goodreads.com/book/show/48816586-software-engineering-at-google
 
 * Part I: Thesis
 ** Ch 1: What Is Software Engineering?

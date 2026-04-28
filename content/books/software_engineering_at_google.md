@@ -2,9 +2,12 @@
 title = "Software Engineering at Google"
 author = ["Titus Winters", "Tom Manshreck", "Hyrum Wright"]
 date = 2026-04-28
-tags = ["book", "todo", "softwareengineering", "google"]
+tags = ["book", "softwareengineering", "google"]
 draft = false
 +++
+
+👉 <https://www.goodreads.com/book/show/48816586-software-engineering-at-google>
+
 
 ## Part I: Thesis {#part-i-thesis}
 
