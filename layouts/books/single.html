@@ -14,6 +14,7 @@
 		{{ end }}
 	</p>
 	<div class="lh-copy post-content">{{ .Content }}</div>
+    {{ partial "outgoing-links.html" (dict "page" .) }}
     {{ partial "backlinks.html" (dict "page" .) }}
 </main>
 {{ partial "table-of-contents" . }}

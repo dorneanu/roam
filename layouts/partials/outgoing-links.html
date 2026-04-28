@@ -1,0 +1,235 @@
+{{/* Extract all unique topic slugs linked from this page via relref */}}
+{{ $slugRe := `topics/([a-z0-9_]+)\.md` }}
+{{ $matches := findRE $slugRe .page.RawContent }}
+
+{{ $seen := dict }}
+{{ $links := slice }}
+
+{{ range $matches }}
+  {{ $slug := index (findRESubmatch $slugRe .) 0 1 }}
+  {{ if not (index $seen $slug) }}
+    {{ $seen = merge $seen (dict $slug true) }}
+    {{ $path := printf "/topics/%s" $slug }}
+    {{ $page := site.GetPage $path }}
+    {{ if $page }}
+      {{ $links = $links | append $page }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $links) 0 }}
+<div class="outgoing-links-section mt5 pt4 bt b--black-10">
+	<h3 class="f4 fw5 near-black mb3">
+		<span class="mr2">→</span>
+		Topics mentioned in this note
+		<span class="f6 fw4 gray ml2">({{ len $links }})</span>
+	</h3>
+
+	<div class="outgoing-links-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem;">
+		{{ range $links }}
+			<div class="outgoing-link-card bg-white br2 pa3" data-outgoing-url="{{ .RelPermalink }}" data-outgoing-title="{{ .Title }}">
+				<div class="outgoing-link-card-wrapper relative">
+					<a class="link near-black no-underline db" href="{{ .RelPermalink }}">
+						<div class="f5 fw5 mb2">{{ .Title }}</div>
+					</a>
+					<button class="outgoing-preview-btn bn bg-transparent pointer absolute top-0 right-0 pa2"
+							title="Preview content"
+							style="opacity: 0.5; transition: opacity 0.2s;"
+							onmouseover="this.style.opacity='1'"
+							onmouseout="this.style.opacity='0.5'">
+						<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2">
+							<path d="M1 8s3-5 7-5 7 5 7 5-3 5-7 5-7-5-7-5z"/>
+							<circle cx="8" cy="8" r="2"/>
+						</svg>
+					</button>
+				</div>
+			</div>
+		{{ end }}
+	</div>
+</div>
+
+<style>
+	.outgoing-links-section {
+		max-width: 100%;
+	}
+
+	.outgoing-link-card-wrapper {
+		position: relative;
+	}
+
+	.outgoing-link-card {
+		border: 1px solid rgba(0, 0, 0, 0.06);
+		transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+		box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+	}
+
+	.outgoing-link-card:hover {
+		transform: translateY(-2px);
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+		border-color: rgba(0, 0, 0, 0.1);
+	}
+
+	.outgoing-preview-btn {
+		color: #999;
+	}
+
+	.outgoing-preview-btn:hover {
+		color: #3498db;
+	}
+
+	/* Loading spinner */
+	.outgoing-spinner {
+		border: 3px solid #f3f3f3;
+		border-top: 3px solid #3498db;
+		border-radius: 50%;
+		width: 40px;
+		height: 40px;
+		animation: outgoing-spin 1s linear infinite;
+	}
+
+	@keyframes outgoing-spin {
+		0% { transform: rotate(0deg); }
+		100% { transform: rotate(360deg); }
+	}
+
+	/* Preview content styling */
+	#outgoing-preview-content {
+		line-height: 1.6;
+	}
+
+	#outgoing-preview-content h1,
+	#outgoing-preview-content h2,
+	#outgoing-preview-content h3 {
+		margin-top: 1.5rem;
+		margin-bottom: 0.75rem;
+	}
+
+	#outgoing-preview-content p {
+		margin-bottom: 1rem;
+	}
+
+	#outgoing-preview-content ul,
+	#outgoing-preview-content ol {
+		margin-bottom: 1rem;
+		padding-left: 2rem;
+	}
+
+	#outgoing-preview-content code {
+		background-color: #f5f5f5;
+		padding: 0.125rem 0.25rem;
+		border-radius: 0.25rem;
+		font-size: 0.9em;
+	}
+
+	#outgoing-preview-content pre {
+		background-color: #f5f5f5;
+		padding: 1rem;
+		border-radius: 0.25rem;
+		overflow-x: auto;
+		margin-bottom: 1rem;
+	}
+</style>
+
+<!-- Preview Modal for Outgoing Links -->
+<div id="outgoing-preview-modal" class="fixed top-0 left-0 w-100 h-100 flex items-center justify-center" style="display: none; z-index: 9999; background-color: rgba(0, 0, 0, 0.7);">
+	<div class="bg-white br3 shadow-5 relative" style="width: 90%; max-width: 900px; max-height: 90vh; display: flex; flex-direction: column;">
+		<!-- Modal Header -->
+		<div class="flex items-center justify-between pa3 bb b--black-10">
+			<h3 id="outgoing-preview-title" class="f4 fw5 near-black ma0"></h3>
+			<button id="close-outgoing-modal" class="bn bg-transparent pointer f3 gray lh-solid" style="line-height: 1;">&times;</button>
+		</div>
+
+		<!-- Modal Content -->
+		<div id="outgoing-preview-content" class="pa4 overflow-y-auto flex-auto" style="max-height: calc(90vh - 150px);">
+			<div class="flex items-center justify-center pv5">
+				<div class="outgoing-spinner"></div>
+			</div>
+		</div>
+
+		<!-- Modal Footer -->
+		<div class="flex items-center justify-end pa3 bt b--black-10">
+			<a id="visit-outgoing-link" href="#" target="_blank" class="button-reset bn ph3 pv2 br2 bg-near-black white f6 fw5 pointer dim no-underline">
+				Visit Page →
+			</a>
+		</div>
+	</div>
+</div>
+
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+		const outgoingPreviewModal = document.getElementById('outgoing-preview-modal');
+		const outgoingPreviewTitle = document.getElementById('outgoing-preview-title');
+		const outgoingPreviewContent = document.getElementById('outgoing-preview-content');
+		const closeOutgoingModalBtn = document.getElementById('close-outgoing-modal');
+		const visitOutgoingBtn = document.getElementById('visit-outgoing-link');
+
+		if (!outgoingPreviewModal || !outgoingPreviewTitle || !outgoingPreviewContent || !closeOutgoingModalBtn || !visitOutgoingBtn) {
+			console.error('Outgoing links preview modal elements not found');
+			return;
+		}
+
+		async function openOutgoingPreview(card) {
+			const title = card.getAttribute('data-outgoing-title');
+			const url = card.getAttribute('data-outgoing-url');
+
+			outgoingPreviewTitle.textContent = title;
+			visitOutgoingBtn.href = url;
+
+			outgoingPreviewModal.style.display = 'flex';
+			outgoingPreviewContent.innerHTML = '<div class="flex items-center justify-center pv5"><div class="outgoing-spinner"></div></div>';
+
+			try {
+				const response = await fetch(url);
+
+				if (!response.ok) {
+					throw new Error(`HTTP error! status: ${response.status}`);
+				}
+
+				const html = await response.text();
+				const parser = new DOMParser();
+				const doc = parser.parseFromString(html, 'text/html');
+				const mainContent = doc.querySelector('main') || doc.querySelector('.post-content') || doc.querySelector('article');
+
+				if (mainContent) {
+					outgoingPreviewContent.innerHTML = mainContent.innerHTML;
+				} else {
+					outgoingPreviewContent.innerHTML = '<p class="gray">Could not load preview content.</p>';
+				}
+			} catch (error) {
+				console.error('Error loading outgoing link preview:', error);
+				outgoingPreviewContent.innerHTML = '<p class="red">Error loading content. Please try visiting the page directly.</p>';
+			}
+		}
+
+		function closeOutgoingPreview() {
+			outgoingPreviewModal.style.display = 'none';
+		}
+
+		document.querySelectorAll('.outgoing-preview-btn').forEach(button => {
+			button.addEventListener('click', function(e) {
+				e.preventDefault();
+				e.stopPropagation();
+				const card = this.closest('.outgoing-link-card');
+				if (card) {
+					openOutgoingPreview(card);
+				}
+			});
+		});
+
+		closeOutgoingModalBtn.addEventListener('click', closeOutgoingPreview);
+
+		outgoingPreviewModal.addEventListener('click', function(e) {
+			if (e.target === outgoingPreviewModal) {
+				closeOutgoingPreview();
+			}
+		});
+
+		document.addEventListener('keydown', function(e) {
+			if (e.key === 'Escape' && outgoingPreviewModal.style.display === 'flex') {
+				closeOutgoingPreview();
+			}
+		});
+	});
+</script>
+
+{{ end }}
