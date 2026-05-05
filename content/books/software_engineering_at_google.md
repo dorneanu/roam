@@ -61,28 +61,35 @@ draft = false
     -   Bus factor: the number of people who need to be hit by a bus before the project is doomed — raise it by sharing
         knowledge
     -   Feedback loops apply at project level too: many eyes keep the project relevant, not just bug-free
+    -   "**Fail early, fail fast, fail often**" — early sharing lowers risk and strengthens bus factor
 -   The Three Pillars: **Humility, Respect, Trust**
-
     -   Almost any social conflict traces back to a failure of one of these three
     -   _Lose the ego_ — aim for collective pride, not personal glory
     -   Frame critique as confusion ("I'm confused by this") not accusation ("you're wrong")
+    -   Criticism is almost never personal — understand the difference between critiquing someone's _creative output_ vs.
+        assaulting their _character_
+
+        > A manager loses $10M, dejectedly goes to clean out his desk, and tells the CEO "I
+        > assume you called me in here to fire me." The CEO responds: "Fire you? Why would I
+        > fire you? I just spent $10 million training you!"
     -   "**The more open you are to influence, the more you are able to influence**"
     -   Admitting "I don't know" increases long-term credibility
 
-    > If you chose to assert your ego in any number of ways, "I am going to do it my way," you pay a small steady price
-    > throughout the whole of your professional career. And this, over a whole lifetime, adds up to an enormous amount of
-    > needless trouble. — Richard Hamming
+        > If you chose to assert your ego in any number of ways, "I am going to do it my way," you
+        > pay a small steady price throughout the whole of your professional career. And this,
+        > over a whole lifetime, adds up to an enormous amount of needless trouble. — Richard
+        > Hamming
 -   Blameless Post-Mortems (see [DevOps]({{< relref "../../topics/devops.md" >}}))
     -   Root-cause analysis, timeline, impact, action items with owners, lessons learned
     -   Goal: light up the runway for those who follow, not assign blame
 -   "Googleyness"
-
     -   Thrives in ambiguity, values feedback, challenges status quo, puts user first, cares about team, does the right
         thing
     -   "Culture fit" easily becomes unconscious [bias]({{< relref "../../topics/bias.md" >}}) for "is just like me" — watch out
 
-    > An interviewer's personal desire to have a beer with a candidate should never be considered a valid signal about
-    > somebody else's performance or ability to thrive at Google.
+        > An interviewer's personal desire to have a beer with a candidate should never be
+        > considered a valid signal about somebody else's performance or ability to thrive at
+        > Google.
 
 
 ### Ch 3: Knowledge Sharing {#ch-3-knowledge-sharing}
@@ -120,15 +127,15 @@ draft = false
     -   Office hours: good for ambiguous problems where you don't even know what to ask yet
     -   Tech talks vs. classes: classes better when topic is complex, stable, benefits from Q&amp;A
 -   Scaling Organization's Knowledge
-
     -   Culture first: focus on environment before output (code)
     -   "Brilliant jerks" are harmful to knowledge sharing — expertise and kindness are not mutually exclusive
 
-    > Although a measure of technical leadership is expected at higher levels, not all leadership is directed at technical
-    > problems. Leaders improve the quality of the people around them, improve the team's psychological safety, create a
-    > culture of teamwork and collaboration, defuse tensions within the team, set an example of Google's culture and values,
-    > and make Google a more vibrant and exciting place to work. Jerks are not good leaders.
-
+        > Although a measure of technical leadership is expected at higher levels, not all
+        > leadership is directed at technical problems. Leaders improve the quality of the people
+        > around them, improve the team's psychological safety, create a culture of teamwork and
+        > collaboration, defuse tensions within the team, set an example of Google's culture and
+        > values, and make Google a more vibrant and exciting place to work. Jerks are not good
+        > leaders.
     -   Incentives matter: peer bonuses and kudos (peer-driven, not management-driven) powerfully reinforce
         knowledge-sharing behavior
     -   Canonical sources: centralized, vetted, with explicit owners; go/ links make them discoverable and shareable
@@ -203,6 +210,8 @@ draft = false
 
     -   Scaling yourself is the main reason to lead: one great engineer can write limited code; a team of great engineers
         can write much more
+    -   Google avoids the **Peter Principle** ("in a hierarchy every employee rises to their level of incompetence") by
+        requiring engineers to already perform at the level above before being promoted to it
     -   **Servant leadership**: the leader's job is to serve the team — remove obstacles, build consensus, fill cracks — not to
         "manage" in the traditional sense
     -   Best advice from a Google engineering director: _Above all, resist the urge to manage_
@@ -225,8 +234,12 @@ draft = false
 
     -   **Lose the ego**: cultivate collective team ego, not personal glory; apologize sincerely when wrong — it earns respect,
         not vulnerability
-    -   **Be a Zen master**: you are always on stage; your calm (or panic) spreads infectiously through the chain of gears; ask
-        questions instead of jumping to solutions
+    -   **Be a Zen master**: you are _always on stage_ — not just in meetings, but sitting at your desk, reacting to small
+        talk, eating lunch; peers read confidence or fear in your body language; your visible attitude about even trivial
+        things spreads infectiously to your team
+    -   Ask questions instead of jumping to solutions — the [Socratic method]({{< relref "how_to_think_like_socrates.md" >}}) as a management technique: help the person
+        find _their own_ answer by refining and exploring the problem; this creates ownership, and they'll think you had
+        the answer the whole time
     -   **Be a catalyst**: build consensus; direct authority is less effective than earned agreement
     -   **Remove roadblocks**: knowing the right person is often more valuable than knowing the right answer
     -   **Be a teacher and mentor**: resist the urge to solve it yourself; gauge how much help the mentee actually needs —
@@ -246,8 +259,10 @@ draft = false
     -   **Know when to make waves**: problems rarely self-resolve; act quickly before damage spreads
     -   **Shield your team from chaos**: the organizational chaos above you is invisible to ICs; your job is to absorb it
     -   **Give air cover**: share relevant context; protect the team from frivolous demands
-    -   **It's easy to say yes to something undoable**: reversibility is the key criterion for how much deliberation a
-        decision needs
+    -   **Let your team know when they're doing well**: new leads focus on shortcomings and forget positive feedback; be sure
+        to call out when someone knocks one out of the park — publicly
+    -   **It's easy to say yes to something easy to undo**: reversibility is the key criterion for how much deliberation a
+        decision needs; the harder something is to reverse, the more deliberation it warrants
 -   People Are Like Plants
     -   Different people need different amounts of motivation and direction; equal treatment ≠ equitable outcomes
     -   Intrinsic motivation (Dan Pink's _Drive_): autonomy, mastery, purpose — far more powerful than extrinsic rewards
@@ -301,12 +316,16 @@ draft = false
     -   **Learn to drop balls deliberately**: identify the top 20% critical things only you can do; give yourself permission to
         drop the other 80% (see [attention economy]({{< relref "../../topics/attention_economy.md" >}}))
         -   The middle 60% either gets picked up by sub-leaders or floats back up if truly critical
+    -   Reactive mode trap: as you rise, you become the `finally` clause in a long list of code blocks — email, chat,
+        meetings become a DoS attack on your time and attention; if not mindful, you end up 100% reactive, jumping from
+        ball to ball, letting important work never get done
     -   **Protect your energy** (see [deep work]({{< relref "../../topics/deep_work.md" >}})):
         -   Take real vacations (≥1 week, truly disconnected — checking email ruins the recharge)
         -   Make disconnecting trivial (leave laptop at office, use work profile on phone)
         -   Take real weekends — sign out Friday night, sign in Monday
         -   Take breaks during the day (brain works in ~90-minute cycles)
-        -   Give yourself permission for mental health days — a bad mood in a leader sets the tone for everyone
+        -   Give yourself permission for mental health days — a bad mood in a leader sets the tone for everyone; better to
+            get nothing done that day than to do active damage (harsh emails, poor judgements)
 
 
 ### Ch 7: Measuring Engineering Productivity {#ch-7-measuring-engineering-productivity}
