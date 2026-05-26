@@ -9,6 +9,14 @@ This is my personal book TODO list, along with the year in which I added the boo
 
 ## 2026 {#2026}
 
+-   Management/Leadership
+    -   2026-05-26 ◦ [The Speed of Trust: The One Thing that Changes Everything by Stephen M.R. Covey](https://www.goodreads.com/book/show/36076.The_Speed_of_Trust?from_search=true&from_srp=true&qid=a7Sdswj4Oe&rank=1)
+    -   2026-05-26 ◦ [Leaders Eat Last: Why Some Teams Pull Together and Others Don't by Simon Sinek](https://www.goodreads.com/book/show/16144853-leaders-eat-last?from_search=true&from_srp=true&qid=UdQvoH3kbr&rank=1)
+    -   2026-05-26 ◦ [Leadership Strategy and Tactics: Field Manual by Jocko Willink](https://www.goodreads.com/book/show/53113287-leadership-strategy-and-tactics?from_search=true&from_srp=true&qid=PkUzSaAgxD&rank=1)
+    -   2026-05-26 ◦ [Hal Moore on Leadership: Winning When Outgunned and Outmanned by Harold G. Moore](https://www.goodreads.com/book/show/35582919-hal-moore-on-leadership?from_search=true&from_srp=true&qid=j7qF8xpqwc&rank=1)
+    -   2026-05-26 ◦ [Execution: The Discipline of Getting Things Done by Larry Bossidy](https://www.goodreads.com/book/show/1635.Execution)
+-   2026-04-27 ◦ [What We Owe Each Other: A New Social Contract for a Better Society by Minouche Shafik](https://www.goodreads.com/book/show/56213211-what-we-owe-each-other)
+-   2026-03-12 ◦ [Beyond Belief: The Science-Backed Way to Stop Limiting Yourself and Achieve Breakthrough Results by Nir Eyal](https://www.goodreads.com/book/show/242764852-beyond-belief)
 -   2026-01-20 ◦ [Breaking Through: My Life in Science by Katalin Karikó](https://www.goodreads.com/book/show/123025953-breaking-through)
 -   2026-01-13 ◦ [Walden or, Life in the Woods by Henry David Thoreau](https://www.goodreads.com/book/show/16902.Walden_or_Life_in_the_Woods)
 -   2026-01-13 ◦ [Lincoln's Virtues: An Ethical Biography by William Lee Miller](https://www.goodreads.com/book/show/216570.Lincoln_s_Virtues)
