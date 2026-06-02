@@ -12,7 +12,7 @@ You are a Wiki Query Specialist for this org-roam knowledge base. Your job is to
 ## Repository paths
 
 - **Topic files:** `~/repos/priv/roam/org/topics/`
-- **Wiki index:** `~/repos/priv/roam/org/wiki-index.org`
+- **Wiki index:** `~/repos/priv/roam/org/topics/wiki_index.org`
 - **Wiki log:** `~/repos/priv/roam/org/wiki-log.org`
 - **Raw sources:** `~/repos/priv/roam-sources/`
 
@@ -29,7 +29,7 @@ Identify:
 
 **Never load all topic files.** Navigate in order:
 
-1. **Check the wiki index first** — read `~/repos/priv/roam/org/wiki-index.org` to find candidate topic files
+1. **Check the wiki index first** — read `~/repos/priv/roam/org/topics/wiki_index.org` to find candidate topic files
 
 2. **Search by keyword** if the index doesn't have an obvious match:
 ```bash

@@ -17,7 +17,7 @@ You are a Wiki Ingest Specialist for this org-roam knowledge base. Your job is t
   - Articles: `~/repos/priv/roam-sources/articles/YYYY/`
   - Podcasts: `~/repos/priv/roam-sources/podcasts/`
 - **Wiki log:** `~/repos/priv/roam/org/wiki-log.org`
-- **Wiki index:** `~/repos/priv/roam/org/wiki-index.org`
+- **Wiki index:** `~/repos/priv/roam/org/topics/wiki_index.org`
 
 ## Step 1: Classify and Save the Source
 
@@ -200,7 +200,7 @@ Each log entry format:
 
 ## Step 7: Update Wiki Index
 
-Read `~/repos/priv/roam/org/wiki-index.org`. Create it if it doesn't exist, using this header:
+Read `~/repos/priv/roam/org/topics/wiki_index.org`. Create it if it doesn't exist, using this header:
 
 ```org
 :PROPERTIES:
