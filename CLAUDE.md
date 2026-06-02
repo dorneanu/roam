@@ -93,6 +93,36 @@ basename2
 basename3.md    # Extensions are stripped automatically
 ```
 
+## Wiki Ingest
+
+For ingesting sources (articles, book chapters, podcast transcripts) into the wiki, use the specialized agent:
+
+**Agent:** `.claude/agents/wiki-ingest.md`
+
+The agent autonomously:
+1. Saves the source to the private `roam-sources` repo (`~/repos/priv/roam-sources/`)
+2. Extracts 5–15 key concepts from the source
+3. Creates new org-roam topic files or updates existing ones in `org/topics/`
+4. Wires up cross-links between related topics using `[[id:UUID][Text]]` syntax
+5. Appends an entry to `org/wiki-log.org`
+6. Updates `org/wiki-index.org` for new topics
+
+**Two-repo structure:**
+- `~/repos/priv/roam` (public) — org-roam topics, wiki log, wiki index
+- `~/repos/priv/roam-sources` (private) — raw sources; never published
+
+**Usage:** Pass the source to ingest — a URL, pasted article text, file path, or book chapter. The agent handles the rest.
+
+## Wiki Query
+
+For asking questions against the wiki, use the query agent:
+
+**Agent:** `.claude/agents/wiki-query.md`
+
+The agent navigates the wiki by index and cross-links (never loading all files), synthesises an answer with citations, notes gaps, and optionally saves novel synthesis back into the relevant topic file.
+
+**Usage:** Ask any question. The agent finds relevant topic files, follows cross-links, and returns a grounded answer. Cite requests ("what does the wiki say about X") and synthesis requests ("how do safetyism and social comparison relate") both work.
+
 ## Book Summary Posts
 
 For creating quarterly book summary posts, use the specialized agent:

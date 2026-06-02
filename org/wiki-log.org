@@ -1,0 +1,47 @@
+#+title: Wiki Log
+#+filetags: :wiki:log:
+
+Append-only log of all wiki ingest, query, and lint operations.
+
+* 2026-06-02: Ingest — The Cost of Safetyism
+:PROPERTIES:
+:DATE:     2026-06-02
+:TYPE:     ingest
+:SOURCE:   https://stevemagness.substack.com/p/the-cost-of-safetyism
+:END:
+- *Source type:* article
+- *Topics updated:* boredom.org, attention_economy.org
+- *Topics created:* safetyism.org, mean_world_syndrome.org, free_range_parenting.org, overparenting.org, autonomy_supportive_coaching.org, learned_helplessness.org, unstructured_play.org
+- *Summary:* Ingested Steve Magness's article on the cultural costs of overprotective parenting, creating seven new topic files covering safetyism, mean world syndrome, free-range parenting, overparenting, autonomy-supportive coaching, learned helplessness, and unstructured play, with cross-links woven throughout.
+
+* 2026-06-02: Ingest — The Anxious Generation (Jonathan Haidt, 2024)
+:PROPERTIES:
+:DATE:     2026-06-02
+:TYPE:     ingest
+:SOURCE:   ~/repos/priv/roam-sources/books/2025/haidt_jonathan_anxious-generation.md
+:END:
+- *Source type:* book
+- *Topics updated:* safetyism.org, free_range_parenting.org, overparenting.org, unstructured_play.org, learned_helplessness.org, mean_world_syndrome.org, attention_economy.org
+- *Topics created:* phone_based_childhood.org, great_rewiring.org, antifragility.org, discover_mode.org, social_comparison.org, rites_of_passage.org
+- *Summary:* Ingested Jonathan Haidt's The Anxious Generation, creating six new topic files (phone-based childhood, great rewiring, antifragility, discover/defend mode, social comparison, rites of passage) and enriching seven existing topics from the safetyism ingest with Haidt's reinforcing evidence, data, and frameworks; bidirectional cross-links woven throughout.
+
+* 2026-06-02: Query — Why are girls more affected than boys by phone-based childhood and social media?
+:PROPERTIES:
+:DATE:     2026-06-02
+:TYPE:     query
+:END:
+- *Topics consulted:* phone_based_childhood.org, social_comparison.org
+- *Raw source:* haidt_jonathan_anxious-generation.md (Chapter 6, lines 5601–6824)
+- *Answer saved:* no
+- *Gaps identified:* discover_mode.org exists per wiki log but is not in wiki index; sociogenic illness mechanism (emotional contagion, prestige bias, audience capture) deserves a dedicated section; boys' harms (gaming, pornography) not yet covered in depth
+
+* 2026-06-02: Ingest — Software Engineering at Google (Winters, Manshreck, Wright, 2020)
+:PROPERTIES:
+:DATE:     2026-06-02
+:TYPE:     ingest
+:SOURCE:   ~/repos/priv/roam-sources/books/2026/winters_titus_software-engineering-at-google.md
+:END:
+- *Source type:* book
+- *Topics updated:* software_engineering.org, engineering_management.org, tddtest_doubles.org, continuous_integration.org
+- *Topics created:* hyrum_law.org, psychological_safety.org, trunk_based_development.org
+- *Summary:* Ingested Software Engineering at Google, creating three new topic files (Hyrum's Law, psychological safety, trunk-based development) and enriching four existing topics with QUANTS/GSM framework, servant leadership and "always be" principles, Google's test double hierarchy (prefer fakes over mocks), and CI at scale with the Beyoncé Rule and TAP architecture; cross-links woven throughout.
