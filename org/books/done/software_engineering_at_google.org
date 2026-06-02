@@ -474,3 +474,12 @@
   (see [[id:d60b855b-8109-4c7c-9aab-5eea26844524][Docker]], [[id:adce7f16-ab79-4935-b73e-71f3740a071f][microservices]])
 - Design software for managed compute: expect to be moved, restarted, killed at any time —
   stateless where possible
+
+* See also
+- [[id:faf7f182-c5cf-45da-960e-b6e200f56da7][Hyrum's Law]] — with enough users, all observable behaviors become implicit contracts
+- [[id:27fc80ff-3162-43aa-9e83-22c6c36e1793][Psychological safety]] — single most important factor in effective team performance (Project Aristotle)
+- [[id:dc5addcc-67a1-4f64-99f0-7e708849d828][Trunk-based development]] — single-branch strategy; long-lived branches as anti-pattern; key DORA metric
+- [[id:9d08f7e9-61d1-454d-9e0f-79a5f2b94a11][Software Engineering]] — broader principles; SE@Google as primary source
+- [[id:5a26ed6a-80d8-4fe8-b9db-0c1956ec8c2e][Software Architecture]] — component design, goals, and the cost of deferring decisions
+- [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]] — Ch. 25 on Borg/Kubernetes as the origin of modern container orchestration
+- [[id:8e702808-9c1b-4770-9a88-fa2e24bdcd14][Git]] — version control practices; branching strategies discussed in the context of trunk-based dev

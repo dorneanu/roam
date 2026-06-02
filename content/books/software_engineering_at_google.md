@@ -552,3 +552,14 @@ draft = false
     (see [Docker]({{< relref "../../topics/docker.md" >}}), [microservices]({{< relref "../../topics/microservices.md" >}}))
 -   Design software for managed compute: expect to be moved, restarted, killed at any time —
     stateless where possible
+
+
+## See also {#see-also}
+
+-   [Hyrum's Law]({{< relref "../../topics/hyrum_law.md" >}}) — with enough users, all observable behaviors become implicit contracts
+-   [Psychological safety]({{< relref "../../topics/psychological_safety.md" >}}) — single most important factor in effective team performance (Project Aristotle)
+-   [Trunk-based development]({{< relref "../../topics/trunk_based_development.md" >}}) — single-branch strategy; long-lived branches as anti-pattern; key DORA metric
+-   [Software Engineering]({{< relref "../../topics/software_engineering.md" >}}) — broader principles; SE@Google as primary source
+-   [Software Architecture]({{< relref "../../topics/software_architecture.md" >}}) — component design, goals, and the cost of deferring decisions
+-   [Microservices]({{< relref "../../topics/microservices.md" >}}) — Ch. 25 on Borg/Kubernetes as the origin of modern container orchestration
+-   [Git]({{< relref "../../topics/git.md" >}}) — version control practices; branching strategies discussed in the context of trunk-based dev

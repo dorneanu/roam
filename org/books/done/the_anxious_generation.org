@@ -354,9 +354,7 @@ three core developmental experiences: **free play, attunement, and social
 learning**. The phone-based childhood directly blocks these essential activities,
 depriving children of the experiences their brains "expect" during sensitive
 developmental periods, particularly ages 9-15.
-
 *** Key arguments
-
 1) why human childhood is uniquely long
    
    The Growth Paradox:
@@ -489,8 +487,8 @@ developmental periods, particularly ages 9-15.
    "Is it any wonder that so many teens found themselves lonely and starved for connection
    starting in early 2010s?"
    #+end_quote
-
-2) social learning: choosing who to copy
+   
+2) social learning: choosing whom to copy
    
    Why not just copy parents?
    - No reason to assume own parents are most skilled in community
@@ -518,7 +516,7 @@ developmental periods, particularly ages 9-15.
       
       - Parents struggle for years; they "don't get to use the power of conformity bias"
 
-   b. prestige bias
+   b. Prestige bias
       - Copy the prestigious (those with achieved excellence)
       - Alternative to dominance hierarchy (based on violence)
       - Humans confer prestige willingly to those with excellence in valued domains
@@ -591,15 +589,12 @@ The Deprivation:
 
 5. **Sensitive period for cultural learning**: roughly **ages 9-15**. Lessons and identities formed in these years likely to **imprint/stick** more than other ages. These are crucial years of puberty—unfortunately, also when most adolescents in developed countries **get their own phones** and move social lives online.
 * Chapter 3: discover mode and the need for risky play
-
-
-*** Main thesis
+** Main thesis
 
 Western societies made **two contradictory safety mistakes**: (1) overprotecting children in the real world despite declining actual dangers, and (2) underprotecting them in the virtual world where threats abound. **Risky play** and childhood autonomy are essential for setting children's brains to "**discover mode**" (openness, exploration, learning) rather than "**defend mode**" (anxiety, threat-detection, avoidance). The loss of unsupervised play beginning in the 1990s, combined with smartphone adoption in the 2010s, created a generation stuck in defend mode.
 
-*** Key arguments
-
-**** 1. the core principle: overprotection here, underprotection there
+** Key arguments
+*** 1. the core principle: overprotection here, underprotection there
 
 **Example 1: Sexual Predators**
 - Parents fear children falling into hands of predators in real world
@@ -612,7 +607,7 @@ Western societies made **two contradictory safety mistakes**: (1) overprotecting
 
 **Key Insight**: We're monitoring vegetables while children access hardcore pornography freely
 
-**** 2. discover mode vs. defend mode: two brain systems
+*** 2. discover mode vs. defend mode: two brain systems
 
 **Behavioral Activation System (BAS) = "Discover Mode"**
 - Turns on when opportunities detected (tree full of ripe cherries)
@@ -631,7 +626,7 @@ Western societies made **two contradictory safety mistakes**: (1) overprotecting
 - **Defend mode people**: Defensive, anxious, rare moments of safety; see new situations as threats rather than opportunities
 - Being stuck in defend mode = **obstacle to learning and growth**
 
-**** 3. evidence on college campuses (2014 change)
+*** 3. evidence on college campuses (2014 change)
 
 **What Changed:**
 - 2014: First Gen Z members arrive on campus
@@ -641,7 +636,7 @@ Western societies made **two contradictory safety mistakes**: (1) overprotecting
 
 **Quote about campus change**: Professors reported students suddenly seeming more **fragile**, **defensive**, treating words and ideas as dangerous
 
-**** 4. antifragility: the inoculation principle
+*** 4. antifragility: the inoculation principle
 
 **Nassim Taleb's Concept:**
 - Some things **gain from disorder and stressors**
@@ -666,7 +661,7 @@ Western societies made **two contradictory safety mistakes**: (1) overprotecting
 
 **Quote**: "If you give children the message that they should never feel uncomfortable, they will be left at the mercy of those who make them feel uncomfortable"
 
-**** 5. the decline of childhood independence (1980s-1990s)
+*** 5. the decline of childhood independence (1980s-1990s)
 
 **"Age of Liberation" Demonstration:**
 - Haidt asks audiences: What age could you go outside to play unsupervised?
@@ -685,9 +680,9 @@ Western societies made **two contradictory safety mistakes**: (1) overprotecting
 - **Less time playing** or watching TV
 - More time with time-starved parents but less free play
 
-**** 6. causes of fearful parenting
+*** 6. causes of fearful parenting
 
-***** A. "concerted cultivation" vs. "natural growth"
+**** A. "concerted cultivation" vs. "natural growth"
 
 **Annette Lareau's Study (1990s):**
 
@@ -706,7 +701,7 @@ Western societies made **two contradictory safety mistakes**: (1) overprotecting
 - Parents saw children as "precious and delicate race cars"
 - Parents = pit crew working frantically to help win race to top college
 
-***** B. frank furedi's analysis: "paranoid parenting" (2001)
+**** B. frank furedi's analysis: "paranoid parenting" (2001)
 
 **Key Factors:**
 - Rise of **cable TV and 24/7 news cycles** spreading frightening stories
@@ -729,7 +724,7 @@ Western societies made **two contradictory safety mistakes**: (1) overprotecting
 - Children taught to fear unknown adults, particularly men
 - Adults stopped helping each other raise children
 
-***** C. anglo-american phenomenon
+**** C. anglo-american phenomenon
 
 **Furedi's Important Qualification:**
 - "The idea that responsible parenting means continual supervision of children is a **peculiarly Anglo-American** one"
@@ -745,7 +740,7 @@ Western societies made **two contradictory safety mistakes**: (1) overprotecting
 
 **Gen Z Context**: "This is the world in which Gen Z was raised. It was a world in which adults, schools, and other institutions worked together to **teach children that the world is dangerous**, and to prevent them from experiencing the **risks, conflicts, and thrills that their experience-expectant brains needed** to overcome anxiety and set their default mental state to discover mode."
 
-**** 7. safetyism and concept creep
+*** 7. safetyism and concept creep
 
 **Nick Haslam's "Concept Creep":**
 - Expansion of psychological concepts in two directions:
@@ -767,7 +762,7 @@ Western societies made **two contradictory safety mistakes**: (1) overprotecting
 - Eliminates the **challenges children need** to become antifragile
 - Results in more fragile, anxious children
 
-**** 8. puberty: maximum vulnerability, maximum plasticity
+*** 8. puberty: maximum vulnerability, maximum plasticity
 
 **Brain Development During Puberty:**
 - Accelerated **pruning** (removing unused neural connections)
@@ -786,7 +781,7 @@ Western societies made **two contradictory safety mistakes**: (1) overprotecting
 
 **Implication**: "We should be **particularly concerned about what our children are experiencing**" during first few years of puberty
 
-**** 9. two experience blockers
+*** 9. two experience blockers
 
 **Safetyism:**
 - Prevents children from getting **quantity and variety of real-world experiences**
@@ -811,7 +806,7 @@ Western societies made **two contradictory safety mistakes**: (1) overprotecting
 - Lack embodiment, synchrony, real-world consequences
 - Provide **chronic stressors** (social comparison, cyberbullying, FOMO) rather than acute challenges that build strength
 
-*** Chapter summary
+** Chapter summary
 
 **The Perfect Storm:**
 1. **1980s-1990s**: Fearful parenting removes childhood independence
@@ -826,8 +821,6 @@ Western societies made **two contradictory safety mistakes**: (1) overprotecting
 
 **The Irony**: By trying to keep children safe, we made them more **fragile** and **anxious**—exactly the opposite of what we intended.
 * Chapter 4: puberty and the blocked transition to adulthood
-
-
 *** Main thesis
 
 Puberty is a period of **maximum brain plasticity and vulnerability**—the second most critical period after early childhood. This "cement hardening" phase requires **age-appropriate, sequential experiences** guided by adult-led **rites of passage** to help adolescents transition to adulthood. Modern society has **blocked this transition** through two experience blockers (safetyism and smartphones) and eliminated traditional rites of passage, leaving adolescents in an **extended, undefined limbo** without clear steps toward adulthood.
@@ -1472,8 +1465,6 @@ Social media harms girls **more than boys** because it exploits girls' greater n
 - During most sensitive developmental period (early puberty)
 - With profit-maximizing algorithms targeting these vulnerabilities
 * Chapters 7-8: what is happening to boys? + spiritual degradation
-
-
 *** Main thesis
 
 Boys follow a **different path** through the Great Rewiring than girls. Their decline is **more gradual** (starting 1970s-1980s), **more diffuse**, and shows up less in mental illness rates and more in **disengagement from real world** and **declining success**. The story is **"push-pull"**: real world became less hospitable to boys (push), while virtual world offered more appealing agency-building activities (pull)—video games, pornography, online communities. Result: boys increasingly **invest time and talents in virtual world** instead of developing real-world competencies.
@@ -1615,7 +1606,13 @@ Unlike girls (where evidence clearly points to social media), boys' story more c
 
 *** Main thesis
 
-The Great Rewiring **reversed** humanity's ancient **upward vector** toward spiritual/moral elevation. Religious and philosophical traditions across cultures developed practices to **bind communities, elevate individuals, and create meaning**. The phone-based childhood systematically **undermines** six key features of spiritual practice: **(1) Shared sacred objects/times, (2) Embodiment, (3) Stillness/silence/focus, (4) Self-transcendence, (5) Slowing down, (6) Reverence**. Result: generation growing up in **spiritual wasteland** characterized by **constant distraction, social fragmentation, anomie**.
+The Great Rewiring **reversed** humanity's ancient **upward vector** toward spiritual/moral
+elevation. Religious and philosophical traditions across cultures developed practices to
+**bind communities, elevate individuals, and create meaning**. The phone-based childhood
+systematically **undermines** six key features of spiritual practice: **(1) Shared sacred
+objects/times, (2) Embodiment, (3) Stillness/silence/focus, (4) Self-transcendence, (5)
+Slowing down, (6) Reverence**. Result: generation growing up in **spiritual wasteland**
+characterized by **constant distraction, social fragmentation, anomie**.
 
 *** The six ways we degraded childhood
 
@@ -1788,9 +1785,11 @@ The Great Rewiring **reversed** humanity's ancient **upward vector** toward spir
 * Part 4: collective action for healthier childhood (solutions)
 ** Part 4: collective action for healthier childhood
 *** Chapter 9: preparing for collective action
-
 **** Main thesis
-Individual parents **cannot solve** the phone-based childhood problem alone—it requires **collective action**. When trapped in coordination problems (everyone worse off, but no one can improve alone), we need **coordinated changes** in norms and rules. **Four foundational reforms** form the basis for collective action.
+Individual parents **cannot solve** the phone-based childhood problem alone—it requires
+**collective action**. When trapped in coordination problems (everyone worse off, but no one
+can improve alone), we need **coordinated changes** in norms and rules. **Four foundational
+reforms** form the basis for collective action.
 
 **** The four foundational reforms
 
@@ -2156,3 +2155,19 @@ Even without collective action, individual parents can make significant improvem
 > It's not too late. We can do this. We must do this. For our children, and for the future of our society.
 
 **We are all in this together.** The anxious generation needs us to act—now.
+
+* See also
+- [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] — the Great Rewiring (2010–2015) and its four foundational harms
+- [[id:edd91108-4d43-49a7-8687-ebc5c790eb4d][Safetyism]] — overprotection in the real world as the first experience blocker; discover vs defend mode
+- [[id:a0f60e35-b0dd-4812-a411-929084639817][Overparenting]] — Furedi's "breakdown of adult solidarity" as root cause; cross-cultural evidence
+- [[id:7511f2b6-65d5-4790-9cbe-4ae51e36f7c8][Social comparison]] — appearance-based harm for girls; agency/communion motivational split
+- [[id:895edc56-fd63-4e8e-9a34-4920047e2da8][Antifragility]] — children need manageable challenge to grow; protection produces fragility
+- [[id:e5fa4d72-6f73-4473-a71b-62fc8f81facf][Unstructured play]] — play-based childhood as the developmental baseline being displaced
+- [[id:bd01cb63-9d9b-4a2a-8b17-e9fd21ab59cd][Free-range parenting]] — granting age-appropriate independence; rites of passage
+- [[id:97ef1d25-ed11-4392-8d64-ba2ecf0ff146][Learned helplessness]] — outcome of overprotection; passivity when effort doesn't matter
+- [[id:31b5edde-c545-4e72-8129-fd82a627cfaf][Autonomy-supportive coaching]] — leadership that transfers control gradually; antidote to helplessness
+- [[id:47a37eb7-e4c7-4cfc-894d-f90aa5f34c97][Mean world syndrome]] — media-inflated perception of danger driving overparenting
+- [[id:5488582c-198a-478f-b18b-6baafbc9cf9b][Gaming addiction]] — boys' primary technology harm vector; ~7% of adolescent boys affected
+- [[id:a6fa9275-b20b-48bb-afc0-c138f1295700][Pornography and adolescent harm]] — boys' analog of girls' appearance-based social comparison
+- [[id:16cd9b80-319c-4eb3-86bc-46c659e28f0c][Sociogenic illness]] — social media amplifying mass psychogenic illness among adolescent girls
+- [[id:a2d9211c-7512-4ae5-8d70-c4b3bf6e2ff2][Anomie]] — Durkheim's normlessness as the shared endpoint for boys and girls after the Great Rewiring

@@ -530,7 +530,7 @@ developmental periods, particularly ages 9-15.
     > "Is it any wonder that so many teens found themselves lonely and starved for connection
     > starting in early 2010s?"
 
-2.  social learning: choosing who to copy
+2.  social learning: choosing whom to copy
 
     Why not just copy parents?
 
@@ -559,7 +559,7 @@ developmental periods, particularly ages 9-15.
 
         -   Parents struggle for years; they "don't get to use the power of conformity bias"
 
-    2.  prestige bias
+    2.  Prestige bias
 
         -   Copy the prestigious (those with achieved excellence)
         -   Alternative to dominance hierarchy (based on violence)
@@ -645,281 +645,272 @@ The Deprivation:
 ## Chapter 3: discover mode and the need for risky play {#chapter-3-discover-mode-and-the-need-for-risky-play}
 
 
-#### Main thesis {#main-thesis}
+### Main thesis {#main-thesis}
 
 Western societies made ****two contradictory safety mistakes****: (1) overprotecting children in the real world despite declining actual dangers, and (2) underprotecting them in the virtual world where threats abound. ****Risky play**** and childhood autonomy are essential for setting children's brains to "****discover mode****" (openness, exploration, learning) rather than "****defend mode****" (anxiety, threat-detection, avoidance). The loss of unsupervised play beginning in the 1990s, combined with smartphone adoption in the 2010s, created a generation stuck in defend mode.
 
 
-#### Key arguments {#key-arguments}
+### Key arguments {#key-arguments}
+
+
+#### 1. the core principle: overprotection here, underprotection there {#1-dot-the-core-principle-overprotection-here-underprotection-there}
+
+****Example 1: Sexual Predators****
+
+-   Parents fear children falling into hands of predators in real world
+-   ****Reality****: Sex criminals now spend most time in ****virtual world****
+-   2019 NYT: "****45 million illegal images**** flagged" in one year
+-   2023 WSJ: "Instagram connects pedophiles" via recommendation systems
+
+****Example 2: Isabel Hogben (14-year-old girl's essay)****
+&gt; "I was ****ten years old**** when I watched porn for the first time...Pornhub...has ****no age verification****, no ID requirement, not even a prompt asking if I was over 18. The site is easy to find, impossible to avoid...Where was my mother? In the next room, making sure I was eating ****nine differently colored fruits and vegetables**** daily. She was attentive, nearly a helicopter parent, but I found online porn anyway."
+
+****Key Insight****: We're monitoring vegetables while children access hardcore pornography freely
+
+
+#### 2. discover mode vs. defend mode: two brain systems {#2-dot-discover-mode-vs-dot-defend-mode-two-brain-systems}
+
+****Behavioral Activation System (BAS) = "Discover Mode"****
+
+-   Turns on when opportunities detected (tree full of ripe cherries)
+-   Positive emotions, shared excitement, ready to explore
+-   ****Default setting of top predators**** and species with little risk
+
+****Behavioral Inhibition System (BIS) = "Defend Mode"****
+
+-   Turns on when threats detected (leopard roars)
+-   Appetite suppressed, stress hormones flood, focus on escape
+-   ****For people with chronic anxiety, defend mode is chronically activated****
+-   Default setting of prey animals (rabbits, deer—skittish, quick to bolt)
+
+****In Humans:****
+
+-   Default setting = ****major contributor to personality****
+-   ****Discover mode people****: Happier, more sociable, eager for new experiences
+-   ****Defend mode people****: Defensive, anxious, rare moments of safety; see new situations as threats rather than opportunities
+-   Being stuck in defend mode = ****obstacle to learning and growth****
+
+
+#### 3. evidence on college campuses (2014 change) {#3-dot-evidence-on-college-campuses--2014-change}
+
+****What Changed:****
+
+-   2014: First Gen Z members arrive on campus
+-   Only disorders that rose rapidly: ****psychological disorders**** (overwhelmingly anxiety and depression)
+-   Students in discover mode: "profit and grow rapidly from bountiful intellectual and social opportunities"
+-   Students in defend mode: "learn less and grow less"
+
+****Quote about campus change****: Professors reported students suddenly seeming more ****fragile****, ****defensive****, treating words and ideas as dangerous
+
+
+#### 4. antifragility: the inoculation principle {#4-dot-antifragility-the-inoculation-principle}
+
+****Nassim Taleb's Concept:****
+
+-   Some things ****gain from disorder and stressors****
+-   Not just "resilient" (able to withstand shocks)
+-   ****Antifragile**** = actually get stronger from challenges
+
+****The Immune System Analogy:****
+
+-   Body needs exposure to pathogens to develop immunity
+-   ****"Hygiene hypothesis"****: Overly clean environments lead to allergies, autoimmune disorders
+-   Children raised on farms (exposed to dirt, animals): ****lower rates of allergies and asthma****
+
+****Psychological Application:****
+
+-   Children need ****exposure to challenges, conflicts, risks**** to develop mental immunity
+-   Small doses of fear, exclusion, conflict = ****psychological inoculation****
+-   Without these: remain fragile, develop anxiety when facing normal life challenges
+
+****CBT Connection:****
+
+-   ****Exposure therapy**** = gold standard for anxiety treatment
+-   Principle: Only way to overcome fear is to ****face it in graduated steps****
+-   Can't learn to handle exclusion without experiencing exclusion
+-   Can't learn to handle conflict without experiencing conflict
+
+****Quote****: "If you give children the message that they should never feel uncomfortable, they will be left at the mercy of those who make them feel uncomfortable"
+
+
+#### 5. the decline of childhood independence (1980s-1990s) {#5-dot-the-decline-of-childhood-independence--1980s-1990s}
+
+****"Age of Liberation" Demonstration:****
+
+-   Haidt asks audiences: What age could you go outside to play unsupervised?
+-   ****Gen X and Boomers**** (born before 1981): Shout "6," "7," "8" (fondly recounting neighborhood adventures)
+-   ****Gen Z**** (born 1996+): Majority say ****10-12 years old****
+-   Millennials: Wide range, fall in between
+
+****Time Spent with Children (Figure 3.8):****
+
+-   Women entering workforce since 1970s = less time at home
+-   Yet suddenly in ****mid-1990s****: Parents report spending ****much more time**** with children
+-   Mothers' time with children: steady/declining until 1995, then ****jumps up****
+-   Fathers similar pattern: ~4 hours/week until 1995, then ~8 hours/week by 2000
+
+****Children's Time Allocation (1981-1997):****
+
+-   More time in school and structured (adult-supervised) activities
+-   ****Less time playing**** or watching TV
+-   More time with time-starved parents but less free play
+
+
+#### 6. causes of fearful parenting {#6-dot-causes-of-fearful-parenting}
 
 <!--list-separator-->
 
--  1. the core principle: overprotection here, underprotection there
+-  A. "concerted cultivation" vs. "natural growth"
 
-    ****Example 1: Sexual Predators****
+    ****Annette Lareau's Study (1990s):****
 
-    -   Parents fear children falling into hands of predators in real world
-    -   ****Reality****: Sex criminals now spend most time in ****virtual world****
-    -   2019 NYT: "****45 million illegal images**** flagged" in one year
-    -   2023 WSJ: "Instagram connects pedophiles" via recommendation systems
+    ****Concerted Cultivation**** (middle/upper class):
 
-    ****Example 2: Isabel Hogben (14-year-old girl's essay)****
-    &gt; "I was ****ten years old**** when I watched porn for the first time...Pornhub...has ****no age verification****, no ID requirement, not even a prompt asking if I was over 18. The site is easy to find, impossible to avoid...Where was my mother? In the next room, making sure I was eating ****nine differently colored fruits and vegetables**** daily. She was attentive, nearly a helicopter parent, but I found online porn anyway."
+    -   Children require extraordinary degree of care and training by adults
+    -   Buy **Baby Einstein** videos (later shown worthless)
+    -   Fill calendars with parent-chosen enriching activities (Mandarin, extra math)
+    -   Reduces autonomy, leaves less room for free play
 
-    ****Key Insight****: We're monitoring vegetables while children access hardcore pornography freely
+    ****Natural Growth Parenting**** (working class/poor):
 
-<!--list-separator-->
+    -   Kids will be kids
+    -   If you let them be, they'll become competent adults without hand-holding
+    -   ****By 2010s****: Many working-class parents also adopted concerted cultivation
 
--  2. discover mode vs. defend mode: two brain systems
+    ****Trigger****: Increasing focus on ****competitiveness of college admissions**** in 1990s
 
-    ****Behavioral Activation System (BAS) = "Discover Mode"****
-
-    -   Turns on when opportunities detected (tree full of ripe cherries)
-    -   Positive emotions, shared excitement, ready to explore
-    -   ****Default setting of top predators**** and species with little risk
-
-    ****Behavioral Inhibition System (BIS) = "Defend Mode"****
-
-    -   Turns on when threats detected (leopard roars)
-    -   Appetite suppressed, stress hormones flood, focus on escape
-    -   ****For people with chronic anxiety, defend mode is chronically activated****
-    -   Default setting of prey animals (rabbits, deer—skittish, quick to bolt)
-
-    ****In Humans:****
-
-    -   Default setting = ****major contributor to personality****
-    -   ****Discover mode people****: Happier, more sociable, eager for new experiences
-    -   ****Defend mode people****: Defensive, anxious, rare moments of safety; see new situations as threats rather than opportunities
-    -   Being stuck in defend mode = ****obstacle to learning and growth****
+    -   Parents saw children as "precious and delicate race cars"
+    -   Parents = pit crew working frantically to help win race to top college
 
 <!--list-separator-->
 
--  3. evidence on college campuses (2014 change)
+-  B. frank furedi's analysis: "paranoid parenting" (2001)
 
-    ****What Changed:****
+    ****Key Factors:****
 
-    -   2014: First Gen Z members arrive on campus
-    -   Only disorders that rose rapidly: ****psychological disorders**** (overwhelmingly anxiety and depression)
-    -   Students in discover mode: "profit and grow rapidly from bountiful intellectual and social opportunities"
-    -   Students in defend mode: "learn less and grow less"
+    -   Rise of ****cable TV and 24/7 news cycles**** spreading frightening stories
+    -   Rising number of women working → more day care/after-school programs
+    -   Increasing influence of parenting "experts" (advice reflected their views more than science)
 
-    ****Quote about campus change****: Professors reported students suddenly seeming more ****fragile****, ****defensive****, treating words and ideas as dangerous
+    ****Most Important Factor: "Breakdown of Adult Solidarity"****
+    &gt; "Across cultures and throughout history, mothers and fathers have acted on the assumption that if their children got into trouble, ****other adults—often strangers—would help out****."
 
-<!--list-separator-->
+    ****What Happened:****
 
--  4. antifragility: the inoculation principle
+    -   1980s-1990s: Repeated news stories about adults abusing children (day care centers, sports leagues, Boy Scouts, Catholic Church)
+    -   Some true horror stories; some fabrications/moral panics
+    -   Result: ****Generalized sense that no adults could be trusted**** alone with children
+    -   ****"Stranger danger"**** term appeared in early 1980s, rose rapidly mid-1990s
+    -   Reciprocal message internalized: "****Stay away from other people's children****"
 
-    ****Nassim Taleb's Concept:****
+    ****Consequences:****
 
-    -   Some things ****gain from disorder and stressors****
-    -   Not just "resilient" (able to withstand shocks)
-    -   ****Antifragile**** = actually get stronger from challenges
-
-    ****The Immune System Analogy:****
-
-    -   Body needs exposure to pathogens to develop immunity
-    -   ****"Hygiene hypothesis"****: Overly clean environments lead to allergies, autoimmune disorders
-    -   Children raised on farms (exposed to dirt, animals): ****lower rates of allergies and asthma****
-
-    ****Psychological Application:****
-
-    -   Children need ****exposure to challenges, conflicts, risks**** to develop mental immunity
-    -   Small doses of fear, exclusion, conflict = ****psychological inoculation****
-    -   Without these: remain fragile, develop anxiety when facing normal life challenges
-
-    ****CBT Connection:****
-
-    -   ****Exposure therapy**** = gold standard for anxiety treatment
-    -   Principle: Only way to overcome fear is to ****face it in graduated steps****
-    -   Can't learn to handle exclusion without experiencing exclusion
-    -   Can't learn to handle conflict without experiencing conflict
-
-    ****Quote****: "If you give children the message that they should never feel uncomfortable, they will be left at the mercy of those who make them feel uncomfortable"
+    -   Parents find themselves ****on their own****
+    -   Parenting becomes "harder, more fear-ridden, more time consuming, especially for women"
+    -   Children taught to fear unknown adults, particularly men
+    -   Adults stopped helping each other raise children
 
 <!--list-separator-->
 
--  5. the decline of childhood independence (1980s-1990s)
+-  C. anglo-american phenomenon
 
-    ****"Age of Liberation" Demonstration:****
+    ****Furedi's Important Qualification:****
 
-    -   Haidt asks audiences: What age could you go outside to play unsupervised?
-    -   ****Gen X and Boomers**** (born before 1981): Shout "6," "7," "8" (fondly recounting neighborhood adventures)
-    -   ****Gen Z**** (born 1996+): Majority say ****10-12 years old****
-    -   Millennials: Wide range, fall in between
+    -   "The idea that responsible parenting means continual supervision of children is a ****peculiarly Anglo-American**** one"
+    -   Children in Europe (Italy to Scandinavia) enjoyed ****far greater freedom****
+    -   German/Scandinavian parents: more likely to let young children walk to school
+    -   U.K./U.S. parents: felt compelled to drive children even short distances
 
-    ****Time Spent with Children (Figure 3.8):****
+    ****Result by 2000:****
 
-    -   Women entering workforce since 1970s = less time at home
-    -   Yet suddenly in ****mid-1990s****: Parents report spending ****much more time**** with children
-    -   Mothers' time with children: steady/declining until 1995, then ****jumps up****
-    -   Fathers similar pattern: ~4 hours/week until 1995, then ~8 hours/week by 2000
+    -   ****Evaporation of unsupervised children**** from public spaces in Anglosphere
+    -   By almost any measure, children were ****safer in public**** than in very long time (crime, sex offenders, drunk drivers all at much lower levels)
+    -   Occasional sighting of unsupervised child: neighbors call 911
+    -   Parents giving independence risk police, Child Protective Services, jail time
 
-    ****Children's Time Allocation (1981-1997):****
-
-    -   More time in school and structured (adult-supervised) activities
-    -   ****Less time playing**** or watching TV
-    -   More time with time-starved parents but less free play
-
-<!--list-separator-->
-
--  6. causes of fearful parenting
-
-    <!--list-separator-->
-
-    -  A. "concerted cultivation" vs. "natural growth"
-
-        ****Annette Lareau's Study (1990s):****
-
-        ****Concerted Cultivation**** (middle/upper class):
-
-        -   Children require extraordinary degree of care and training by adults
-        -   Buy **Baby Einstein** videos (later shown worthless)
-        -   Fill calendars with parent-chosen enriching activities (Mandarin, extra math)
-        -   Reduces autonomy, leaves less room for free play
-
-        ****Natural Growth Parenting**** (working class/poor):
-
-        -   Kids will be kids
-        -   If you let them be, they'll become competent adults without hand-holding
-        -   ****By 2010s****: Many working-class parents also adopted concerted cultivation
-
-        ****Trigger****: Increasing focus on ****competitiveness of college admissions**** in 1990s
-
-        -   Parents saw children as "precious and delicate race cars"
-        -   Parents = pit crew working frantically to help win race to top college
-
-    <!--list-separator-->
-
-    -  B. frank furedi's analysis: "paranoid parenting" (2001)
-
-        ****Key Factors:****
-
-        -   Rise of ****cable TV and 24/7 news cycles**** spreading frightening stories
-        -   Rising number of women working → more day care/after-school programs
-        -   Increasing influence of parenting "experts" (advice reflected their views more than science)
-
-        ****Most Important Factor: "Breakdown of Adult Solidarity"****
-        &gt; "Across cultures and throughout history, mothers and fathers have acted on the assumption that if their children got into trouble, ****other adults—often strangers—would help out****."
-
-        ****What Happened:****
-
-        -   1980s-1990s: Repeated news stories about adults abusing children (day care centers, sports leagues, Boy Scouts, Catholic Church)
-        -   Some true horror stories; some fabrications/moral panics
-        -   Result: ****Generalized sense that no adults could be trusted**** alone with children
-        -   ****"Stranger danger"**** term appeared in early 1980s, rose rapidly mid-1990s
-        -   Reciprocal message internalized: "****Stay away from other people's children****"
-
-        ****Consequences:****
-
-        -   Parents find themselves ****on their own****
-        -   Parenting becomes "harder, more fear-ridden, more time consuming, especially for women"
-        -   Children taught to fear unknown adults, particularly men
-        -   Adults stopped helping each other raise children
-
-    <!--list-separator-->
-
-    -  C. anglo-american phenomenon
-
-        ****Furedi's Important Qualification:****
-
-        -   "The idea that responsible parenting means continual supervision of children is a ****peculiarly Anglo-American**** one"
-        -   Children in Europe (Italy to Scandinavia) enjoyed ****far greater freedom****
-        -   German/Scandinavian parents: more likely to let young children walk to school
-        -   U.K./U.S. parents: felt compelled to drive children even short distances
-
-        ****Result by 2000:****
-
-        -   ****Evaporation of unsupervised children**** from public spaces in Anglosphere
-        -   By almost any measure, children were ****safer in public**** than in very long time (crime, sex offenders, drunk drivers all at much lower levels)
-        -   Occasional sighting of unsupervised child: neighbors call 911
-        -   Parents giving independence risk police, Child Protective Services, jail time
-
-        ****Gen Z Context****: "This is the world in which Gen Z was raised. It was a world in which adults, schools, and other institutions worked together to ****teach children that the world is dangerous****, and to prevent them from experiencing the ****risks, conflicts, and thrills that their experience-expectant brains needed**** to overcome anxiety and set their default mental state to discover mode."
-
-<!--list-separator-->
-
--  7. safetyism and concept creep
-
-    ****Nick Haslam's "Concept Creep":****
-
-    -   Expansion of psychological concepts in two directions:
-        -   ****Downward****: Apply to smaller/trivial cases
-        -   ****Outward****: Encompass new unrelated phenomena
-
-    ****Examples:****
-
-    -   ****"Safety"****: For most of 20th century = physical safety only
-    -   Late 1980s: ****"Emotional safety"**** appears
-    -   1985-2010: Rapid rise in usage
-    -   By 2010s: Dominant meaning on campuses = protection from ****words and ideas**** that might cause discomfort
-
-    ****Safetyism Defined**** (Greg Lukianoff, **Coddling of American Mind**):
-
-    -   "A culture or belief system in which ****safety has become a sacred value****, which means that people become unwilling to make trade-offs demanded by other practical and moral concerns"
-    -   Classic example: Banning peanuts from entire schools to protect few allergic children (vs. peanut-free tables)
-
-    ****The Trap:****
-
-    -   Trying to create perfectly safe environments
-    -   Eliminates the ****challenges children need**** to become antifragile
-    -   Results in more fragile, anxious children
-
-<!--list-separator-->
-
--  8. puberty: maximum vulnerability, maximum plasticity
-
-    ****Brain Development During Puberty:****
-
-    -   Accelerated ****pruning**** (removing unused neural connections)
-    -   Accelerated ****myelination**** (insulating neurons for faster transmission)
-    -   ****"Neurons that fire together, wire together"****
-    -   Activities during puberty cause ****lasting structural brain changes**** (especially if rewarding)
-
-    ****The Great Trade-off:****
-
-    -   Young child's brain: Enormous ****potential**** (can develop many ways), lower ****ability****
-    -   As pruning/myelination proceed: Brain becomes more ****efficient****, locks into adult configuration
-    -   Each lockdown = potentially end of sensitive period
-    -   ****Like cement hardening****: catch it in transition between wet and dry, mark lasts forever
-
-    ****Laurence Steinberg (developmental psychologist):****
-    &gt; "Adolescence is not necessarily an especially ****stressful**** time. Rather, it is a time when the brain is ****more vulnerable**** to the effects of sustained stressors...Puberty makes the brain more ****malleable, or 'plastic.'**** This makes adolescence both a ****time of risk**** (because plasticity increases chances that exposure to stressful experience will cause harm) but also a ****window of opportunity**** (because same plasticity makes interventions to improve mental health more effective)."
-
-    ****Implication****: "We should be ****particularly concerned about what our children are experiencing****" during first few years of puberty
-
-<!--list-separator-->
-
--  9. two experience blockers
-
-    ****Safetyism:****
-
-    -   Prevents children from getting ****quantity and variety of real-world experiences****
-    -   Humans need ****wide variety of social experiences**** to develop (like needing variety of foods)
-    -   Children are antifragile: ****need some fear, conflict, exclusion**** (though not too much)
-
-    ****Chronic vs. Acute Stress (Steinberg):****
-
-    -   ****Acute stress****: Comes on quickly, doesn't last long (ordinary playground conflict) = ****beneficial****
-    -   ****Chronic stress****: Lasts days, weeks, years = ****detrimental****
-    -   "Much harder to adapt, recover, and get stronger from the challenge"
-    -   ****Inverted U-shaped pattern****: Little stress = beneficial; lot of stress = detrimental
-
-    ****What Anglosphere Did:****
-
-    -   Starting 1980s: Tried to remove stressors and rough spots
-    -   Banned activities with **any** risk of physical injury OR emotional pain
-    -   Outdoor activities without adult referees banned (could lead to "bruised bodies and bruised feelings")
-
-    ****Smartphones (Second Experience Blocker):****
-
-    -   While safetyism blocked real-world experiences...
-    -   Smartphones provided unlimited virtual experiences
-    -   But these are the ****wrong kind of experiences**** for brain development
-    -   Lack embodiment, synchrony, real-world consequences
-    -   Provide ****chronic stressors**** (social comparison, cyberbullying, FOMO) rather than acute challenges that build strength
+    ****Gen Z Context****: "This is the world in which Gen Z was raised. It was a world in which adults, schools, and other institutions worked together to ****teach children that the world is dangerous****, and to prevent them from experiencing the ****risks, conflicts, and thrills that their experience-expectant brains needed**** to overcome anxiety and set their default mental state to discover mode."
 
 
-#### Chapter summary {#chapter-summary}
+#### 7. safetyism and concept creep {#7-dot-safetyism-and-concept-creep}
+
+****Nick Haslam's "Concept Creep":****
+
+-   Expansion of psychological concepts in two directions:
+    -   ****Downward****: Apply to smaller/trivial cases
+    -   ****Outward****: Encompass new unrelated phenomena
+
+****Examples:****
+
+-   ****"Safety"****: For most of 20th century = physical safety only
+-   Late 1980s: ****"Emotional safety"**** appears
+-   1985-2010: Rapid rise in usage
+-   By 2010s: Dominant meaning on campuses = protection from ****words and ideas**** that might cause discomfort
+
+****Safetyism Defined**** (Greg Lukianoff, **Coddling of American Mind**):
+
+-   "A culture or belief system in which ****safety has become a sacred value****, which means that people become unwilling to make trade-offs demanded by other practical and moral concerns"
+-   Classic example: Banning peanuts from entire schools to protect few allergic children (vs. peanut-free tables)
+
+****The Trap:****
+
+-   Trying to create perfectly safe environments
+-   Eliminates the ****challenges children need**** to become antifragile
+-   Results in more fragile, anxious children
+
+
+#### 8. puberty: maximum vulnerability, maximum plasticity {#8-dot-puberty-maximum-vulnerability-maximum-plasticity}
+
+****Brain Development During Puberty:****
+
+-   Accelerated ****pruning**** (removing unused neural connections)
+-   Accelerated ****myelination**** (insulating neurons for faster transmission)
+-   ****"Neurons that fire together, wire together"****
+-   Activities during puberty cause ****lasting structural brain changes**** (especially if rewarding)
+
+****The Great Trade-off:****
+
+-   Young child's brain: Enormous ****potential**** (can develop many ways), lower ****ability****
+-   As pruning/myelination proceed: Brain becomes more ****efficient****, locks into adult configuration
+-   Each lockdown = potentially end of sensitive period
+-   ****Like cement hardening****: catch it in transition between wet and dry, mark lasts forever
+
+****Laurence Steinberg (developmental psychologist):****
+&gt; "Adolescence is not necessarily an especially ****stressful**** time. Rather, it is a time when the brain is ****more vulnerable**** to the effects of sustained stressors...Puberty makes the brain more ****malleable, or 'plastic.'**** This makes adolescence both a ****time of risk**** (because plasticity increases chances that exposure to stressful experience will cause harm) but also a ****window of opportunity**** (because same plasticity makes interventions to improve mental health more effective)."
+
+****Implication****: "We should be ****particularly concerned about what our children are experiencing****" during first few years of puberty
+
+
+#### 9. two experience blockers {#9-dot-two-experience-blockers}
+
+****Safetyism:****
+
+-   Prevents children from getting ****quantity and variety of real-world experiences****
+-   Humans need ****wide variety of social experiences**** to develop (like needing variety of foods)
+-   Children are antifragile: ****need some fear, conflict, exclusion**** (though not too much)
+
+****Chronic vs. Acute Stress (Steinberg):****
+
+-   ****Acute stress****: Comes on quickly, doesn't last long (ordinary playground conflict) = ****beneficial****
+-   ****Chronic stress****: Lasts days, weeks, years = ****detrimental****
+-   "Much harder to adapt, recover, and get stronger from the challenge"
+-   ****Inverted U-shaped pattern****: Little stress = beneficial; lot of stress = detrimental
+
+****What Anglosphere Did:****
+
+-   Starting 1980s: Tried to remove stressors and rough spots
+-   Banned activities with **any** risk of physical injury OR emotional pain
+-   Outdoor activities without adult referees banned (could lead to "bruised bodies and bruised feelings")
+
+****Smartphones (Second Experience Blocker):****
+
+-   While safetyism blocked real-world experiences...
+-   Smartphones provided unlimited virtual experiences
+-   But these are the ****wrong kind of experiences**** for brain development
+-   Lack embodiment, synchrony, real-world consequences
+-   Provide ****chronic stressors**** (social comparison, cyberbullying, FOMO) rather than acute challenges that build strength
+
+
+### Chapter summary {#chapter-summary}
 
 ****The Perfect Storm:****
 
@@ -1916,7 +1907,13 @@ Unlike girls (where evidence clearly points to social media), boys' story more c
 
 #### Main thesis {#main-thesis}
 
-The Great Rewiring ****reversed**** humanity's ancient ****upward vector**** toward spiritual/moral elevation. Religious and philosophical traditions across cultures developed practices to ****bind communities, elevate individuals, and create meaning****. The phone-based childhood systematically ****undermines**** six key features of spiritual practice: ****(1) Shared sacred objects/times, (2) Embodiment, (3) Stillness/silence/focus, (4) Self-transcendence, (5) Slowing down, (6) Reverence****. Result: generation growing up in ****spiritual wasteland**** characterized by ****constant distraction, social fragmentation, anomie****.
+The Great Rewiring ****reversed**** humanity's ancient ****upward vector**** toward spiritual/moral
+elevation. Religious and philosophical traditions across cultures developed practices to
+****bind communities, elevate individuals, and create meaning****. The phone-based childhood
+systematically ****undermines**** six key features of spiritual practice: ****(1) Shared sacred
+objects/times, (2) Embodiment, (3) Stillness/silence/focus, (4) Self-transcendence, (5)
+Slowing down, (6) Reverence****. Result: generation growing up in ****spiritual wasteland****
+characterized by ****constant distraction, social fragmentation, anomie****.
 
 
 #### The six ways we degraded childhood {#the-six-ways-we-degraded-childhood}
@@ -2136,7 +2133,10 @@ The Great Rewiring ****reversed**** humanity's ancient ****upward vector**** tow
 
 -  Main thesis
 
-    Individual parents ****cannot solve**** the phone-based childhood problem alone—it requires ****collective action****. When trapped in coordination problems (everyone worse off, but no one can improve alone), we need ****coordinated changes**** in norms and rules. ****Four foundational reforms**** form the basis for collective action.
+    Individual parents ****cannot solve**** the phone-based childhood problem alone—it requires
+    ****collective action****. When trapped in coordination problems (everyone worse off, but no one
+    can improve alone), we need ****coordinated changes**** in norms and rules. ****Four foundational
+    reforms**** form the basis for collective action.
 
 <!--list-separator-->
 
@@ -2598,3 +2598,21 @@ The Great Rewiring ****reversed**** humanity's ancient ****upward vector**** tow
     &gt; It's not too late. We can do this. We must do this. For our children, and for the future of our society.
 
     ****We are all in this together.**** The anxious generation needs us to act—now.
+
+
+## See also {#see-also}
+
+-   [Phone-based childhood]({{< relref "../../topics/phone_based_childhood.md" >}}) — the Great Rewiring (2010–2015) and its four foundational harms
+-   [Safetyism]({{< relref "../../topics/safetyism.md" >}}) — overprotection in the real world as the first experience blocker; discover vs defend mode
+-   [Overparenting]({{< relref "../../topics/overparenting.md" >}}) — Furedi's "breakdown of adult solidarity" as root cause; cross-cultural evidence
+-   [Social comparison]({{< relref "../../topics/social_comparison.md" >}}) — appearance-based harm for girls; agency/communion motivational split
+-   [Antifragility]({{< relref "../../topics/antifragility.md" >}}) — children need manageable challenge to grow; protection produces fragility
+-   [Unstructured play]({{< relref "../../topics/unstructured_play.md" >}}) — play-based childhood as the developmental baseline being displaced
+-   [Free-range parenting]({{< relref "../../topics/free_range_parenting.md" >}}) — granting age-appropriate independence; rites of passage
+-   [Learned helplessness]({{< relref "../../topics/learned_helplessness.md" >}}) — outcome of overprotection; passivity when effort doesn't matter
+-   [Autonomy-supportive coaching]({{< relref "../../topics/autonomy_supportive_coaching.md" >}}) — leadership that transfers control gradually; antidote to helplessness
+-   [Mean world syndrome]({{< relref "../../topics/mean_world_syndrome.md" >}}) — media-inflated perception of danger driving overparenting
+-   [Gaming addiction]({{< relref "../../topics/gaming_addiction.md" >}}) — boys' primary technology harm vector; ~7% of adolescent boys affected
+-   [Pornography and adolescent harm]({{< relref "../../topics/pornography_adolescent_harm.md" >}}) — boys' analog of girls' appearance-based social comparison
+-   [Sociogenic illness]({{< relref "../../topics/sociogenic_illness.md" >}}) — social media amplifying mass psychogenic illness among adolescent girls
+-   [Anomie]({{< relref "../../topics/anomie.md" >}}) — Durkheim's normlessness as the shared endpoint for boys and girls after the Great Rewiring
