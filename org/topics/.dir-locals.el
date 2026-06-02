@@ -9,7 +9,8 @@
                       org-hugo-section "topics"
                       org-export-with-tags nil
                       org-export-with-broken-links t
-                      org-id-extra-files (directory-files-recursively org-roam-directory "\.org$"))
+                      org-id-extra-files nil
+                      )
                      ;; https://github.com/kaushalmodi/ox-hugo/issues/500#issuecomment-1006674469
                      (defun replace-in-string (what with in)
                        (replace-regexp-in-string (regexp-quote what) with in nil 'literal))
@@ -23,4 +24,12 @@
 
                      ;; Make sure we get the right ids
                      (advice-add 'org-export-resolve-id-link :filter-return #'zeeros/fix-doc-path)
+
+                     ;; Fix: org-roam sets org-id-locations to an alist but ox-hugo
+                     ;; expects a hash table; reset it before each export
+                     (advice-add 'org-hugo-export-wim-to-md :before
+                                 (lambda (&rest _)
+                                   (when (listp org-id-locations)
+                                     (setq org-id-locations (make-hash-table :test 'equal))))
+                                 '((name . "fix-org-id-locations-for-hugo")))
                      )))))
