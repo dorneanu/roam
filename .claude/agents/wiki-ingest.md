@@ -108,6 +108,7 @@ grep -m1 "^:ID:" ~/repos/priv/roam/org/topics/TOPIC.org
 - If no appropriate heading exists, add a new `* Sources` or `* Resources` heading at the bottom
 - Preserve all existing formatting, indentation, and link styles
 - Keep bullets concise — one source should add at most 3–5 bullets per topic file
+- **No duplicate concept bullets**: if a concept (e.g. LLM wiki) is already referenced in a file from a prior source, do not add a second bullet about the same concept from a different source — add a new bullet only if the new source adds genuinely distinct content
 
 ## Step 4: Create New Topic Files
 

@@ -12,3 +12,6 @@
 tbd
 
 - siehe [[id:dfdf5744-7a98-44f8-9dc8-acb56e114527][Das Zettelkasten-Prinzip]]
+
+* Resources
+- 2026-06-02 ◦ [[https://blog.starmorph.com/blog/karpathy-llm-wiki-knowledge-base-guide][How to build Karpathy's LLM wiki]] — the [[id:2e0c582e-2cf0-4e2c-a1bd-378b6041a3ce][LLM wiki]] pattern automates the linking and cross-referencing work central to Zettelkasten; atomic concept pages are generated and updated by the LLM on each ingest, realising Bush's Memex vision of effortless associative trails

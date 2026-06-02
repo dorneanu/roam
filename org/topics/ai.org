@@ -4,6 +4,7 @@
 #+title: AI
 
 * LLM
+- 2026-06-02 ◦ [[https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f][LLM wiki gist (Karpathy)]] — pattern for an LLM-maintained [[id:2e0c582e-2cf0-4e2c-a1bd-378b6041a3ce][LLM wiki]]: immutable raw sources, LLM-generated wiki pages, and a schema file (CLAUDE.md) that encodes structure and workflow; three operations: ingest, query, lint; stateful compounding alternative to RAG at personal/team scale
 - 2025-01-30  [[https://arxiv.org/pdf/2501.09223][Foundations of Large Language Models]]
 * Tools
 ** For writing

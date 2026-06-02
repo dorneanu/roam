@@ -35,6 +35,17 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Answer saved:* no
 - *Gaps identified:* discover_mode.org exists per wiki log but is not in wiki index; sociogenic illness mechanism (emotional contagion, prestige bias, audience capture) deserves a dedicated section; boys' harms (gaming, pornography) not yet covered in depth
 
+* 2026-06-02: Ingest — The Anxious Generation, Chs. 6–7 (boys-specific material)
+:PROPERTIES:
+:DATE:     2026-06-02
+:TYPE:     ingest
+:SOURCE:   ~/repos/priv/roam-sources/books/2025/haidt_jonathan_anxious-generation.md (lines 5599–8705)
+:END:
+- *Source type:* book
+- *Topics updated:* social_comparison.org, anomie.org, wiki_index.org
+- *Topics created:* sociogenic_illness.org
+- *Summary:* Ingested boys-specific chapters (Ch. 7) and gender-comparative chapter (Ch. 6) from The Anxious Generation; created sociogenic_illness.org covering emotional contagion, prestige bias, and audience capture as social media disease vectors; added agency/communion motivational split and extreme masculinity influencer section to social_comparison.org; added sociogenic_illness cross-link to anomie.org; added four previously created but un-indexed health topics to wiki_index.org.
+
 * 2026-06-02: Ingest — Software Engineering at Google (Winters, Manshreck, Wright, 2020)
 :PROPERTIES:
 :DATE:     2026-06-02
@@ -45,3 +56,25 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* software_engineering.org, engineering_management.org, tddtest_doubles.org, continuous_integration.org
 - *Topics created:* hyrum_law.org, psychological_safety.org, trunk_based_development.org
 - *Summary:* Ingested Software Engineering at Google, creating three new topic files (Hyrum's Law, psychological safety, trunk-based development) and enriching four existing topics with QUANTS/GSM framework, servant leadership and "always be" principles, Google's test double hierarchy (prefer fakes over mocks), and CI at scale with the Beyoncé Rule and TAP architecture; cross-links woven throughout.
+
+* 2026-06-02: Ingest — How to build Karpathy's LLM wiki
+:PROPERTIES:
+:DATE:     2026-06-02
+:TYPE:     ingest
+:SOURCE:   https://blog.starmorph.com/blog/karpathy-llm-wiki-knowledge-base-guide
+:END:
+- *Source type:* article
+- *Topics updated:* second_brain.org, zettelkasten.org, org_roam.org, ai.org
+- *Topics created:* llm_wiki.org
+- *Summary:* Ingested Dylan Boudro's comprehensive guide to Karpathy's LLM wiki pattern; created llm_wiki.org covering the three-layer architecture (raw/wiki/schema), ingest/query/lint operations, LLM wiki vs RAG comparison, and intellectual lineage back to Vannevar Bush's Memex; enriched second_brain, zettelkasten, org-roam, and AI topics with cross-links to the new file.
+
+* 2026-06-02: Ingest — LLM Wiki (Karpathy gist)
+:PROPERTIES:
+:DATE:     2026-06-02
+:TYPE:     ingest
+:SOURCE:   https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+:END:
+- *Source type:* article
+- *Topics updated:* llm_wiki.org, ai.org, second_brain.org
+- *Topics created:* (none — llm_wiki.org created by parallel Starmorph ingest)
+- *Summary:* Ingested Karpathy's original gist; enriched llm_wiki.org with Karpathy's exact framing ("Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase"), concrete use cases (personal/research/book/business), and specific tooling notes (Obsidian Web Clipper, qmd, Marp, Dataview); added gist entry to ai.org LLM section and second_brain.org with the key maintenance-cost insight.

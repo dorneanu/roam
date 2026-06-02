@@ -12,3 +12,7 @@ About building a braindump, second brain, digital garden...
 
 * Resources
 - 2022-10-04 ◦ [[https://yoan-thirion.gitbook.io/knowledge-base/][Home - Knowledge-base]]
+- 2026-06-02 ◦ [[https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f][LLM wiki gist (Karpathy)]] — the [[id:2e0c582e-2cf0-4e2c-a1bd-378b6041a3ce][LLM wiki]] pattern addresses the classic failure mode of second-brain systems (maintenance cost unsustainability) by delegating all organisational work to an LLM
+  #+begin_quote
+  Humans abandon wikis because the maintenance burden grows faster than the value. LLMs don't get bored and can touch 15 files in one pass.
+  #+end_quote

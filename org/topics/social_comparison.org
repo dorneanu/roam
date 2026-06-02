@@ -37,9 +37,25 @@ Sean Parker (early Facebook leader, 2017): the goal was to create "a social-vali
 * Connection to conformity pressure
 Social media platforms are also the "most efficient conformity engines ever invented" — adolescents can scroll through a thousand data points in an hour to calibrate what counts as normal. This combines with prestige bias to make platforms extraordinarily powerful shapers of adolescent identity.
 
+* Agency and communion: the motivational split
+Social media exploits a well-documented gender difference in motivation. Research on agency and communion identifies two fundamental human strivings:
+- *Agency*: individuating and expanding the self through efficiency, competence, and assertiveness
+- *Communion*: integrating the self into a larger social unit through caring, cooperativeness, and empathy
+ This difference appears early in children's play and cross-culturally, suggesting both cultural and biological contributions. Social media *appears* to satisfy communion needs (connecting with others, sharing, belonging), but it frustrates them structurally by replacing close, stable friendships with vast networks of shallow, transient ties.
+
+This helps explain the gender asymmetry in harm: social media attacks girls' core motivational orientation (communion) by simulating connection while delivering its opposite. Boys' core motivational orientation (agency) is more effectively exploited by video games and pornography, which offer simulated mastery, competition, and dominance.
+
+* Boys and extreme masculinity influencers
+While girls' prestige-based social learning systems were hijacked by beauty and lifestyle influencers, boys' systems were hijacked by a different kind of extreme content: male influencers offering visions of masculinity that are extreme and often inapplicable to ordinary life. Haidt describes how, beginning in the early 2010s, many Gen Z boys aimed their social learning systems at popular male influencers who modeled aggressive dominance, hypermasculine bravado, and contempt for vulnerability.
+
+This is the boys' analog of girls' beauty comparison: just as girls compare themselves to digitally perfected beauty, boys compare themselves to exaggerated visions of masculine dominance. Both experiences shift the prestige reference point away from the attainable (a respected person in one's actual community) to the extreme (a globally viral performer of a single trait).
+
+The mechanism is the same as for sociogenic illness (see [[id:16cd9b80-319c-4eb3-86bc-46c659e28f0c][Sociogenic illness]]): audience capture trains influencers to become ever more extreme because extreme content rises faster. Boys who lock onto these influencers during the sensitive period for cultural learning (roughly ages 9–15) may absorb behavioral norms — dismissiveness toward women, glorification of aggression, contempt for introspection — that make it harder for them to form real-world relationships and succeed in workplaces and families.
+
 * Related topics
-- [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-Based Childhood]] — social comparison is one of the central harms of the phone-based childhood
+- [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] — social comparison is one of the central harms of the phone-based childhood
 - [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] — platforms monetize social comparison by maximizing engagement
+- [[id:16cd9b80-319c-4eb3-86bc-46c659e28f0c][Sociogenic illness]] — prestige bias is the shared mechanism behind both social comparison harm and the sociogenic spread of disorders via social media
 
 * Resources
-- 2026-06-02 ◦ [[https://www.anxiousgeneration.com][The Anxious Generation — Jonathan Haidt (2024)]] — presents evidence that social media-driven social comparison is a causal driver of the depression and anxiety epidemic among Gen Z, especially girls going through puberty
+- 2026-06-02 ◦ [[https://www.anxiousgeneration.com][The Anxious Generation — Jonathan Haidt (2024)]] — social comparison as a causal driver of the Gen Z depression epidemic; Ch. 5 on appearance-based harm for girls; Ch. 6 on the agency/communion motivational split and boys' analog harm via extreme masculinity influencers

@@ -30,3 +30,6 @@
 * Examples
 - 2022-12-12 ◦ [[https://github.com/bphenriques/knowledge-base][github.com/bphenriques/knowledge-base: Personal Wiki]]
 - 2022-08-30 ◦ [[https://notes.alexkehayias.com/][Alex's Notes]]
+
+* LLM-assisted wiki maintenance
+- 2026-06-02 ◦ [[https://blog.starmorph.com/blog/karpathy-llm-wiki-knowledge-base-guide][How to build Karpathy's LLM wiki]] — the [[id:2e0c582e-2cf0-4e2c-a1bd-378b6041a3ce][LLM wiki]] pattern uses a schema file (analogous to CLAUDE.md) to encode structural rules, naming conventions, and workflow procedures — the same role org-roam's capture templates play, but expressed for a general LLM agent rather than Emacs; community implementations like [[https://github.com/kfchou/wiki-skills][wiki-skills]] provide ready-made Claude Code slash-commands for ingest, query, and lint operations

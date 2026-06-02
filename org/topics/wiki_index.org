@@ -31,6 +31,7 @@ Updated automatically on every ingest.
 
 * AI / Machine Learning
 - [[id:8f1e78cd-fefa-4a2f-9db9-0e1e396a0448][AI]] — collected resources and notes on artificial intelligence, LLMs, and AI tooling
+- [[id:2e0c582e-2cf0-4e2c-a1bd-378b6041a3ce][LLM wiki]] — Karpathy's pattern for an LLM-maintained knowledge base: immutable raw sources, LLM-generated wiki pages, and a schema file; ingest/query/lint operations; stateful alternative to RAG at personal/small-team scale
 
 * Productivity
 - [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] — cognitively demanding work performed in distraction-free states; essential for acquiring new skills and producing rare, valuable output (Cal Newport)
@@ -55,4 +56,8 @@ Updated automatically on every ingest.
 - [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] — the 2010–2015 transition from play-based to screen-based adolescent life and its four foundational harms: social deprivation, sleep deprivation, attention fragmentation, and addiction
 - [[id:895edc56-fd63-4e8e-9a34-4920047e2da8][Antifragility]] — Taleb's concept applied to child development: children need exposure to manageable challenge, risk, and failure to grow strong; protection from all difficulty produces fragility, not safety
 - [[id:7511f2b6-65d5-4790-9cbe-4ae51e36f7c8][Social comparison]] — chronic upward comparison fueled by social media; the primary mechanism by which Instagram and TikTok harm girls' mental health during puberty
+- [[id:5488582c-198a-478f-b18b-6baafbc9cf9b][Gaming addiction]] — internet gaming disorder affecting ~7% of adolescent boys (1 in 13); four-group taxonomy (addicted, problematic, engaged, casual); opportunity cost and friendship recession as harms for non-addicted heavy users
+- [[id:a6fa9275-b20b-48bb-afc0-c138f1295700][Pornography and adolescent harm]] — online pornography as a prestige-hijacking harm for boys during the sensitive period for sexual development; Swedish prevalence data, 5:1–10:1 male addiction ratio, interpersonal satisfaction decline
+- [[id:a2d9211c-7512-4ae5-8d70-c4b3bf6e2ff2][Anomie]] — Durkheim's normlessness concept applied to Gen Z: departure from stable real-world communities into anonymous shifting networks produces purposelessness, despair, and suicide; hikikomori and NEET as downstream outcomes
+- [[id:16cd9b80-319c-4eb3-86bc-46c659e28f0c][Sociogenic illness]] — illness spread by social transmission rather than pathogens; social media amplifies this via emotional contagion, prestige bias, and audience capture; explains rapid spread of tic disorders, DID, and anxiety among adolescent girls
 
