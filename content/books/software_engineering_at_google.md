@@ -6,7 +6,33 @@ tags = ["book", "softwareengineering", "google"]
 draft = false
 +++
 
-👉 <https://www.goodreads.com/book/show/48816586-software-engineering-at-google>
+goodreads
+: <https://www.goodreads.com/book/show/48816586-software-engineering-at-google>
+
+author
+: Titus Winters, Tom Manshreck, Hyrum Wright
+
+date
+: 2020
+
+
+## About this book {#about-this-book}
+
+Software engineering is programming integrated over time — the book's core thesis. Where programming produces code, software engineering adds sustainability, team scale, and the ability to react to change over a codebase's lifetime. Drawing on Google's internal practices, the book covers culture ([psychological safety]({{< relref "../../topics/psychological_safety.md" >}}), knowledge sharing, leadership), processes (code review, testing, CI/CD), and tools (version control, static analysis, dependency management) at a scale most organizations never reach but can learn from.
+
+
+## Key concepts {#key-concepts}
+
+-   [Software Engineering]({{< relref "../../topics/software_engineering.md" >}}) — "programming integrated over time"; sustainability, scale, and change as the defining dimensions
+-   [Hyrum's Law]({{< relref "../../topics/hyrum_law.md" >}}) — with enough API users, all observable behaviors become implicit contracts regardless of the documented spec
+-   [Psychological safety]({{< relref "../../topics/psychological_safety.md" >}}) — the single most important factor in effective team performance; backed by Google's Project Aristotle
+-   [Trunk-based development]({{< relref "../../topics/trunk_based_development.md" >}}) — no long-lived branches; a key DORA predictor of high-performing engineering organizations
+-   [Software Architecture]({{< relref "../../topics/software_architecture.md" >}}) — leave options open as long as possible; minimize lifetime cost; support the full system lifecycle
+-   [Microservices]({{< relref "../../topics/microservices.md" >}}) — Ch. 25 on Borg/Kubernetes as the origin of modern container orchestration
+-   [Git]({{< relref "../../topics/git.md" >}}) — version control practices; One-Version Rule; monorepo tradeoffs
+
+
+## Chapter notes {#chapter-notes}
 
 
 ## Part I: Thesis {#part-i-thesis}
@@ -15,26 +41,20 @@ draft = false
 ### Ch 1: What Is Software Engineering? {#ch-1-what-is-software-engineering}
 
 -   The core distinction
-    -   "**Software engineering is programming integrated over time**" — programming produces code; [software engineering]({{< relref "../../topics/software_engineering.md" >}}) adds
-        maintenance, modification, and sustainability over a lifespan
+    -   "**Software engineering is programming integrated over time**" — programming produces code; [software engineering]({{< relref "../../topics/software_engineering.md" >}}) adds maintenance, modification, and sustainability over a lifespan
     -   The multiperson, multiversion nature adds team/scale complexity on top
 -   Time and Change
     -   Code lifespan varies by ~100,000x (hours to decades) — best practices differ radically at each end
     -   A project is sustainable if it can react to change for its expected lifetime; you don't have to change, but you need
         to be capable of it
-    -   Hyrum's Law: with enough users, all observable behaviors of an API will be depended on by somebody — regardless of
-        what the contract says
-    -   First upgrades (e.g. compiler) are always the most painful; regular upgrades build expertise and make future ones
-        cheaper
+    -   [Hyrum's Law]({{< relref "../../topics/hyrum_law.md" >}}): with enough users, all observable behaviors of an API will be depended on by somebody — regardless of what the contract says
+    -   First upgrades (e.g. compiler) are always the most painful; regular upgrades build expertise and make future ones cheaper
     -   "It's programming if 'clever' is a compliment, but software engineering if 'clever' is an accusation"
 -   Scale and Efficiency
-    -   Policies that don't scale: pushing migration work to consumers ("upgrade by Aug 15th") — the Churn Rule inverts
-        this: infra teams own migrations
-    -   **The Beyoncé Rule**: "If you liked it, you should have put a [CI]({{< relref "../../topics/continuous_integration.md" >}}) test on it" — outages from infra changes not caught by
-        [CI]({{< relref "../../topics/continuous_integration.md" >}}) are not the infra team's fault
+    -   Policies that don't scale: pushing migration work to consumers ("upgrade by Aug 15th") — the Churn Rule inverts this: infra teams own migrations
+    -   **The Beyoncé Rule**: "If you liked it, you should have put a [CI]({{< relref "../../topics/continuous_integration.md" >}}) test on it" — outages from infra changes not caught by [CI]({{< relref "../../topics/continuous_integration.md" >}}) are not the infra team's fault
     -   Expertise is viral; one good expert in a shared forum raises the whole organization
-    -   Distributed builds example: solving one scaling problem created a new one (Jevons Paradox — consumption rises with
-        efficiency)
+    -   Distributed builds example: solving one scaling problem created a new one (Jevons Paradox — consumption rises with efficiency)
 -   Trade-offs and Costs
     -   "Cost" = financial + resource + personnel + transaction + opportunity + societal
     -   Decisions should be: "we must" (legal/customer) or "best option given evidence" — never "because I said so"
@@ -51,6 +71,8 @@ draft = false
 
 
 ### Ch 2: How to Work Well on Teams {#ch-2-how-to-work-well-on-teams}
+
+See [Psychological safety]({{< relref "../../topics/psychological_safety.md" >}}).
 
 -   The **Genius Myth**
     -   We romanticize lone geniuses (Linus, Guido, Gates) but success is always a team effort
@@ -94,8 +116,10 @@ draft = false
 
 ### Ch 3: Knowledge Sharing {#ch-3-knowledge-sharing}
 
+See [Psychological safety]({{< relref "../../topics/psychological_safety.md" >}}), [Zettelkasten]({{< relref "../../topics/zettelkasten.md" >}}).
+
 -   Challenges to Learning
-    -   **Lack of psychological safety** — fear of making mistakes leads to avoiding transparency
+    -   **Lack of [psychological safety]({{< relref "../../topics/psychological_safety.md" >}})** — fear of making mistakes leads to avoiding transparency
     -   **Information islands** — fragmented knowledge across teams leads to duplication, skew, and incomplete pictures
     -   **Single Point of Failure (SPOF)** — "Let me take care of that for you" optimizes short-term at the cost of long-term
         scalability
@@ -106,8 +130,8 @@ draft = false
     -   Tribal knowledge (unwritten expert knowledge) and documented knowledge are complementary, not competing
     -   One-to-one help is high-bandwidth but doesn't scale; documentation scales but is more generic
     -   The goal: document tribal knowledge so it's available beyond the expert's direct reach (see [BASB]({{< relref "../../topics/basb.md" >}}), [Zettelkasten]({{< relref "../../topics/zettelkasten.md" >}}))
--   Psychological Safety
-    -   Psychological safety is the most critical factor for an effective team (backed by Google's own research)
+-   [psychological safety]({{< relref "../../topics/psychological_safety.md" >}})
+    -   [psychological safety]({{< relref "../../topics/psychological_safety.md" >}}) is the most critical factor for an effective team (backed by Google's own research)
     -   Nooglers get a dedicated mentor (not their own team member) to lower the barrier for asking questions
     -   The _Recurse Center's social rules_ as anti-pattern guidelines:
         -   No feigned surprise ("You don't know what X is?!")
@@ -132,7 +156,7 @@ draft = false
 
         > Although a measure of technical leadership is expected at higher levels, not all
         > leadership is directed at technical problems. Leaders improve the quality of the people
-        > around them, improve the team's psychological safety, create a culture of teamwork and
+        > around them, improve the team's [psychological safety]({{< relref "../../topics/psychological_safety.md" >}}), create a culture of teamwork and
         > collaboration, defuse tensions within the team, set an example of Google's culture and
         > values, and make Google a more vibrant and exciting place to work. Jerks are not good
         > leaders.
@@ -210,10 +234,8 @@ draft = false
 
     -   Scaling yourself is the main reason to lead: one great engineer can write limited code; a team of great engineers
         can write much more
-    -   Google avoids the **Peter Principle** ("in a hierarchy every employee rises to their level of incompetence") by
-        requiring engineers to already perform at the level above before being promoted to it
-    -   **Servant leadership**: the leader's job is to serve the team — remove obstacles, build consensus, fill cracks — not to
-        "manage" in the traditional sense
+    -   Google avoids the **Peter Principle** ("in a hierarchy every employee rises to their level of incompetence") by requiring engineers to already perform at the level above before being promoted to it
+    -   **Servant leadership**: the leader's job is to serve the team — remove obstacles, build consensus, fill cracks — not to "manage" in the traditional sense
     -   Best advice from a Google engineering director: _Above all, resist the urge to manage_
 
     > Traditional managers worry about how to get things done, whereas great managers worry about what things get done (and
@@ -466,6 +488,8 @@ draft = false
 
 ### Ch 16: Version Control and Branch Management {#ch-16-version-control-and-branch-management}
 
+See [Trunk-based development]({{< relref "../../topics/trunk_based_development.md" >}}), [Git]({{< relref "../../topics/git.md" >}}).
+
 -   **The One-Version Rule**: developers must never have a choice of "which version of this component
     should I depend on?" — choice violations lead to diamond dependencies, merge hell, and wasted effort
 -   **Benefits of a monorepo**:
@@ -477,7 +501,7 @@ draft = false
     -   Microsoft, Facebook, Netflix, Uber all use it; DORA/Accelerate research supports it
 -   Monorepo is not the only answer — the **principle** (One Version) matters more than the
     implementation; virtual monorepos (VMRs) can approximate it with fine-grained repos
--   Trunk-based development (no long-lived branches) is a predictive factor in high-performing
+-   [trunk-based development]({{< relref "../../topics/trunk_based_development.md" >}}) (no long-lived branches) is a predictive factor in high-performing
     orgs (DORA/Accelerate); long-lived dev branches are an anti-pattern (see [git]({{< relref "../../topics/git.md" >}}))
 
 
@@ -514,7 +538,7 @@ draft = false
 -   SemVer is a lossy human estimate elevated to an absolute by package managers → dependency hell
     or silent incompatibility
 -   [CI]({{< relref "../../topics/continuous_integration.md" >}}) + testing is the actual evidence of compatibility, not version numbers
--   Adding a dependency has ongoing costs: maintenance, Hyrum's Law exposure, [supply chain security]({{< relref "../../topics/supply_chain_security.md" >}}) risk
+-   Adding a dependency has ongoing costs: maintenance, [Hyrum's Law]({{< relref "../../topics/hyrum_law.md" >}}) exposure, [supply chain security]({{< relref "../../topics/supply_chain_security.md" >}}) risk
 
 
 ### Ch 22: Large-Scale Changes {#ch-22-large-scale-changes}
@@ -552,14 +576,3 @@ draft = false
     (see [Docker]({{< relref "../../topics/docker.md" >}}), [microservices]({{< relref "../../topics/microservices.md" >}}))
 -   Design software for managed compute: expect to be moved, restarted, killed at any time —
     stateless where possible
-
-
-## See also {#see-also}
-
--   [Hyrum's Law]({{< relref "../../topics/hyrum_law.md" >}}) — with enough users, all observable behaviors become implicit contracts
--   [Psychological safety]({{< relref "../../topics/psychological_safety.md" >}}) — single most important factor in effective team performance (Project Aristotle)
--   [Trunk-based development]({{< relref "../../topics/trunk_based_development.md" >}}) — single-branch strategy; long-lived branches as anti-pattern; key DORA metric
--   [Software Engineering]({{< relref "../../topics/software_engineering.md" >}}) — broader principles; SE@Google as primary source
--   [Software Architecture]({{< relref "../../topics/software_architecture.md" >}}) — component design, goals, and the cost of deferring decisions
--   [Microservices]({{< relref "../../topics/microservices.md" >}}) — Ch. 25 on Borg/Kubernetes as the origin of modern container orchestration
--   [Git]({{< relref "../../topics/git.md" >}}) — version control practices; branching strategies discussed in the context of trunk-based dev
