@@ -22,5 +22,18 @@
       - isolate news consumption
         - try to ritualize it by chosing a location that will support you in giving your full attention to the reading
         - download articles in advance (learn to [[https://blog.dornea.nu/2021/09/01/inbox-zero-using-getpocket/][use getpocket wisely]])
+* Attention Fragmentation as Foundational Harm
+Jonathan Haidt identifies attention fragmentation as one of four foundational harms of the [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-Based Childhood]]:
+- The average teen receives ~192 notifications per day from social and communication apps alone — one every 5 minutes while awake
+- Heavy users (older teen girls) may receive one interruption per minute
+- Even when teens appear present in the real world (in class, at meals), a substantial portion of their attention is monitoring the social metaverse — a state Sherry Turkle calls being "forever elsewhere"
+- The competitive race among app developers for adolescent attention means the tools are not neutral; they are designed to maximize interruption and re-engagement
+
+Haidt uses Kurt Vonnegut’s "Harrison Bergeron" (1961) as a metaphor: a dystopian government forces high-IQ citizens to wear earpieces that buzz every 20 seconds to disrupt sustained thought. The attention economy has created this exact system voluntarily for adolescents.
+
+Sean Parker (early Facebook, 2017): the goal was to create "a social-validation feedback loop . . . exactly the kind of thing that a hacker like myself would come up with, because you’re exploiting a vulnerability in human psychology."
+
 * Resources
 - 2023-05-16 ◦ [[https://amp.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media][Your attention didn’t collapse. It was stolen | Psychology | The Guardian]]
+- 2026-05-19 ◦ [[https://stevemagness.substack.com/p/the-cost-of-safetyism][The Cost of Safetyism — Steve Magness]] — social media and neighborhood alert apps amplify [[id:47a37eb7-e4c7-4cfc-894d-f90aa5f34c97][Mean World Syndrome]], creating a perception-reality gap in crime and danger that drives risk-averse parenting well beyond what the data supports
+- 2026-06-02 ◦ [[https://www.anxiousgeneration.com][The Anxious Generation — Jonathan Haidt (2024)]] — documents attention fragmentation as one of four foundational harms of the phone-based childhood, with data on notification frequency, "almost constantly online" rates among teens, and the mechanism by which competition for adolescent attention produced an ever-more-disruptive notification ecosystem

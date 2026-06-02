@@ -12,3 +12,12 @@
     - Mocks: Partial implementations for which you can define expectations on how their methods will be called.
     - Spies: Partial implementations on which you can assert that specific methods have been called.
     - *Fakes*: Full, lightweight implementations such as in-memory databases.
+
+* Google's test double hierarchy (prefer in this order)
+- 2026-06-02 ◦ [[https://www.goodreads.com/book/show/48816586-software-engineering-at-google][Software Engineering at Google (Winters, Manshreck, Wright, 2020)]] — Chapter 13 distills Google's hard-won experience with test doubles after suffering badly from mock abuse across a large codebase
+  - Prefer *real implementations* over any test double when feasible
+  - *Fakes* are often the ideal double: lightweight real implementations (e.g. in-memory database) that behave correctly without full infrastructure
+  - *Stubs* (canned return values) are acceptable for simple cases
+  - *Mocks* (interaction verification) are dangerous: they couple tests to implementation details, producing brittle tests that resist change
+  - Overuse of stubs → unclear tests; overuse of mocks → tests that break on every refactor without catching real bugs
+  - The key question: does this test verify *state* or *interactions*? Prefer state-based tests; interaction tests are a last resort

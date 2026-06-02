@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       faf7f182-c5cf-45da-960e-b6e200f56da7
+:END:
+#+title: Hyrum's Law
+#+filetags: :software:
+
+* Overview
+Hyrum's Law states that with a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of the system will be depended on by somebody. Named after Hyrum Wright (Google), it is the practical engineering equivalent of entropy — it can be mitigated but never eradicated. The implication for API and library maintainers is that /any/ change, however small, will eventually break some user, because observable behavior and documented contract are not the same thing.
+
+#+begin_quote
+With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody.
+#+end_quote
+
+* Consequences for software maintenance
+- Even the most innocuous behavioral change will break something given enough users and time
+- The practical difficulty of a change depends not just on the contract but on what users /find useful/ about the current behavior
+- Hash iteration order, error message wording, response field ordering — all of these become implicit contracts over time
+- Randomizing hash iteration order between versions (as Python and Go do) is a direct mitigation strategy
+
+* Relationship to API design
+- Clear interface contracts give /some/ freedom to change, but do not eliminate Hyrum's Law pressure
+- Short-lived code ("programming") can safely depend on observable but undocumented behaviors; long-lived code ("software engineering") cannot
+- Library authors should design for ignorability: make undocumented behaviors actively unobservable or randomly varying so users cannot accidentally depend on them
+
+* Resources
+- 2026-06-02 ◦ [[https://www.hyrumslaw.com/][hyrumslaw.com]] — canonical one-sentence statement of the law
+- 2026-06-02 ◦ [[https://www.goodreads.com/book/show/48816586-software-engineering-at-google][Software Engineering at Google (Winters, Manshreck, Wright, 2020)]] — introduced and extensively analyzed in Chapter 1 as a dominant factor in any discussion of long-term software maintenance; treated as analogous to entropy in thermodynamics

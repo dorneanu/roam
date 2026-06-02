@@ -6,3 +6,11 @@
 - The combination of [[id:92250527-2f19-44ca-b84d-7b77b3f91af8][Continuous Deployment]] and automated testing
 - State of the code repository is constantly monitored and if there is a change, the artifact will be automatically be built and tested
 - The artifact will be then released to your environment
+
+* CI at scale (Google TAP)
+- 2026-06-02 ◦ [[https://www.goodreads.com/book/show/48816586-software-engineering-at-google][Software Engineering at Google (Winters, Manshreck, Wright, 2020)]] — Chapter 23 describes Google's TAP (Test Automation Platform) and the key principles that make CI effective at scale
+  - CI decides *which* tests to run and *when*: fast/reliable tests on presubmit; slower tests post-submit
+  - Actionable, accessible failure feedback is what makes CI actually improve velocity — not just having tests
+  - The Beyoncé Rule: "If you liked it, you should have put a CI test on it" — outages from infrastructure changes not caught by CI are not the infrastructure team's fault
+  - [[id:dc5addcc-67a1-4f64-99f0-7e708849d828][Trunk-based development]] is a prerequisite for CI to work at scale; long-lived branches defeat the purpose
+  - Test pyramid target: 80% unit tests, 15% integration, 5% end-to-end; antipatterns are the ice cream cone (too many E2E) and the hourglass (E2E + unit but no integration)

@@ -41,5 +41,15 @@
 :CUSTOM_ID: other-requirements
 :END:
  - To fulfill its purpose, software must be soft---that is, it must be easy to change. When the stakeholders change their minds about a feature, that change should be simple and easy to make
+* QUANTS — measuring engineering productivity
+- Google's five-dimension productivity framework: balance all five or you will sub-optimize
+  - *Qu*ality of the code — test coverage, architecture quality
+  - *A*ttention from engineers — flow state, distractions, context switching
+  - I*n*tellectual complexity — cognitive load, unnecessary complexity
+  - *T*empo and velocity — task throughput, release speed
+  - *S*atisfaction — tool happiness, sense of purpose, burnout
+- Accompanied by the GSM (Goals / Signals / Metrics) framework: every metric must trace back to a signal, every signal to a goal — prevents the "streetlight effect" of measuring what is easy rather than what matters
+
 * Resources
 - 2026-04-23 ◦ [[https://lawsofsoftwareengineering.com/][Laws of Software Engineering]]
+- 2026-06-02 ◦ [[https://www.goodreads.com/book/show/48816586-software-engineering-at-google][Software Engineering at Google (Winters, Manshreck, Wright, 2020)]] — defines software engineering as "programming integrated over time"; introduces [[id:faf7f182-c5cf-45da-960e-b6e200f56da7][Hyrum's Law]], the Churn Rule, the Beyoncé Rule, QUANTS, GSM, and the One-Version Rule across 25 chapters covering culture, processes, and tooling at Google scale

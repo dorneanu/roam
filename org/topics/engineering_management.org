@@ -3,5 +3,19 @@
 :END:
 #+title: Engineering Management
 
+* Servant leadership
+- The leader's job is to serve the team: remove obstacles, build consensus, fill cracks — not to "manage" in the traditional sense
+- Best advice from a Google engineering director: /Above all, resist the urge to manage/
+#+begin_quote
+Traditional managers worry about how to get things done, whereas great managers worry about what things get done (and trust their team to figure out how to do it).
+#+end_quote
+- Google avoids the Peter Principle ("in a hierarchy every employee rises to their level of incompetence") by requiring engineers to already perform at the level above before being promoted to it
+
+* Leading at scale: always be deciding, leaving, scaling
+- *Always be deciding*: at scale, the job is finding right trade-offs, not solving specific engineering tasks; identify blinders, identify key trade-offs, decide and iterate; avoid analysis paralysis by framing decisions as revisitable
+- *Always be leaving*: build a self-driving team so the problem is solved without you present; anchor teams to *problems* not *solutions* ("we own version control" not "we own the Git repos"); if you can't take a week off without checking email, you are the single point of failure
+- *Always be scaling*: the cycle of success brings harder problems with no new people; distinguish important vs. urgent (Eisenhower); learn to drop balls deliberately — only the top 20% critical things truly require you; protect energy (real vacations ≥1 week, true disconnection)
+- 2026-06-02 ◦ [[https://www.goodreads.com/book/show/48816586-software-engineering-at-google][Software Engineering at Google (Winters, Manshreck, Wright, 2020)]] — Chapters 5–6 cover leadership antipatterns, servant leadership, and the three "always be" principles for leading at scale; strong emphasis on [[id:27fc80ff-3162-43aa-9e83-22c6c36e1793][psychological safety]] and intrinsic motivation
+
 * Articles
 - 2023-10-31 ◦ [[https://juraj.hashnode.dev/good-engineers-train-their-skills-great-engineers-train-their-mindset][Good engineers train their skills - great engineers improve their mindset]]
