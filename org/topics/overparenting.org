@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       a0f60e35-b0dd-4812-a411-929084639817
+:END:
+#+title: Overparenting
+#+filetags: :psychology:health:
+
+* Overview
+Overparenting (also called helicopter parenting or intensive parenting) refers to excessive parental supervision, intervention, and psychological control that exceeds what is developmentally appropriate. Despite being motivated by care and protection, overparenting consistently produces worse outcomes in children — higher anxiety, depression, lower resilience, and reduced capacity for self-direction. A 2024 meta-analysis of 52 studies confirmed the pattern across cultures and income levels: overparenting predicts higher rates of depression, anxiety, and internalizing symptoms in offspring.
+
+* Why it happens
+- [[id:47a37eb7-e4c7-4cfc-894d-f90aa5f34c97][Mean World Syndrome]]: media creates inflated perception of danger
+- Social enforcement: 25% of parents have criticized another parent for insufficient supervision
+- Legal environment: fear of CPS involvement (~38% of US children investigated before age 18)
+- "Intensive parenting attitude" produces stress, guilt, and anxiety in parents themselves (2024 research), creating a feedback loop toward more control
+- 80% of surveyed parents agreed unsupervised free time is good for kids — but couldn't follow through in practice
+
+* Consequences for children
+- A 2020 longitudinal study (500 adolescents, ages 12-19) found that persistent parental psychological control predicted measurably worse depression and anxiety trajectories
+- 2024 meta-analysis of 52 overparenting studies: depression, anxiety, and internalizing symptoms elevated across cultures
+- Children never develop conflict resolution, risk assessment, or internal locus of control
+- Systematic production of [[id:97ef1d25-ed11-4392-8d64-ba2ecf0ff146][Learned Helplessness]]
+- 40% of US high school students reported persistent sadness or hopelessness (CDC, 2023)
+
+* Connection to safetyism
+Overparenting is both a product and driver of safetyism culture — the belief that all discomfort and risk must be pre-emptively eliminated, even at the cost of children's development.
+
+* The breakdown of adult solidarity (Furedi)
+British sociologist Frank Furedi (*Paranoid Parenting*, 2001) identifies the root cause of the 1990s turn to paranoid parenting: "the breakdown of adult solidarity." Across history, parents assumed that if their children got into trouble, other adults would help. But repeated news stories about adult abuse of children in the 1980s/90s — some real, some moral panics — produced a generalized distrust: no adult outside the family could be trusted with children. "Stay away from other people's children" became the norm. The consequence: parents found themselves raising children entirely alone, without community support, making fearful and time-consuming parenting more likely.
+
+Furedi noted that intensive parenting was "a peculiarly Anglo-American" phenomenon — children in Europe (Germany, Scandinavia, Italy) enjoyed far greater freedom at the same time.
+
+* Fearful parenting and the age of liberation
+Haidt's informal audience research consistently shows a sharp generational shift: people born before 1981 report gaining independent outdoor freedom at ages 6–8; members of Gen Z report gaining such freedom at 10–12 (or never). A 2015 Pew Research survey found parents believe children should be at least 10 to play unsupervised in their own front yard, 12 to be home alone for one hour, and 14 to go to a public park unsupervised — ages that Gen X parents themselves were given decades earlier.
+
+See also: [[id:47a37eb7-e4c7-4cfc-894d-f90aa5f34c97][Mean World Syndrome]], [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-Based Childhood]], [[id:895edc56-fd63-4e8e-9a34-4920047e2da8][Antifragility]], [[id:edd91108-4d43-49a7-8687-ebc5c790eb4d][Safetyism]]
+
+* Resources
+- 2026-05-19 ◦ [[https://stevemagness.substack.com/p/the-cost-of-safetyism][The Cost of Safetyism — Steve Magness]] — documents how intensive parenting, despite parental awareness that it is counterproductive, produces anxiety and prevents children from developing resilience
+- 2026-06-02 ◦ [[https://www.anxiousgeneration.com][The Anxious Generation — Jonathan Haidt (2024)]] — presents Furedi's "breakdown of adult solidarity" as the root cause of the overparenting shift; documents cross-national evidence that fearful parenting intensified in the 1990s across the Anglosphere; frames overprotection as blocking children from [[id:895edc56-fd63-4e8e-9a34-4920047e2da8][Antifragility]] development

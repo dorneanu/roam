@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       97ef1d25-ed11-4392-8d64-ba2ecf0ff146
+:END:
+#+title: Learned helplessness
+#+filetags: :psychology:
+
+* Overview
+Learned helplessness is a psychological state in which a person (or animal) stops attempting to change or escape a situation, having learned — through repeated experience — that their actions do not affect outcomes. Originally described by Martin Seligman through experiments with animals, the concept has broad application to human behavior: when people are consistently rescued from difficulty, never allowed to fail, or have all obstacles removed for them, they lose the belief that their efforts matter. The result is passivity, reduced motivation, and an inability to cope with adversity.
+
+* Mechanisms
+- Repeated experience that effort does not change outcomes → belief that effort is futile
+- External rescue prevents learning that effort does lead to success
+- Parental over-intervention: always solving hard math problems, mediating all conflicts, eliminating all discomforts
+- When the brain concludes that all situations are risky or uncontrollable, it defaults to "why try mode"
+- Contrast: exposure to *just manageable* challenges builds the opposite — efficacy and resilience
+
+* Learned helplessness in children and overparenting
+By systematically eliminating minor discomforts and risks, overprotective parenting engineers learned helplessness in children. Children never build the capacity to navigate conflict, assess risk, or persist through difficulty. Steve Magness: "By stepping in to eliminate all minor discomforts and physical risks, parents disrupt the child's capacity to learn through physical trial and error. In many ways, we've systematically engineered learned helplessness."
+
+* Contrast with autonomy and agency
+Children who experience unsupervised play, navigational freedom, and appropriate risk develop an internal locus of control — the belief that their actions have consequences and that they can handle what comes. This is the opposite of learned helplessness.
+
+See also: [[id:edd91108-4d43-49a7-8687-ebc5c790eb4d][Safetyism]], [[id:bd01cb63-9d9b-4a2a-8b17-e9fd21ab59cd][Free-Range Parenting]], [[id:31b5edde-c545-4e72-8129-fd82a627cfaf][Autonomy-Supportive Coaching]]
+
+* Connection to antifragility
+Haidt's concept of [[id:895edc56-fd63-4e8e-9a34-4920047e2da8][Antifragility]] is the positive complement to learned helplessness: antifragile systems grow stronger from challenge. The experience that produces learned helplessness (rescue from all difficulty, no experience of effort leading to success) is the mirror image of the experience that builds antifragility (graduated challenge, failure followed by self-repair, accumulating evidence that effort matters). Both the [[id:edd91108-4d43-49a7-8687-ebc5c790eb4d][Safetyism]] culture and the [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-Based Childhood]] act as experience blockers that prevent the antifragility-building loop from running.
+
+* Connection to defend mode
+Children who develop learned helplessness are more likely to remain in a defend-mode default — they have little confidence that action leads to success, so challenges register as threats rather than opportunities (see [[id:edd91108-4d43-49a7-8687-ebc5c790eb4d][Safetyism]]).
+
+* Resources
+- 2026-05-19 ◦ [[https://stevemagness.substack.com/p/the-cost-of-safetyism][The Cost of Safetyism — Steve Magness]] — argues that modern overparenting systematically produces learned helplessness by removing the developmental experiences that build efficacy and resilience
+- 2026-06-02 ◦ [[https://www.anxiousgeneration.com][The Anxious Generation — Jonathan Haidt (2024)]] — frames learned helplessness as the outcome of two overlapping experience blockers (safetyism + smartphones), both of which prevent children from discovering that effort leads to mastery

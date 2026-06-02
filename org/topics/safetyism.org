@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       edd91108-4d43-49a7-8687-ebc5c790eb4d
+:END:
+#+title: Safetyism
+#+filetags: :psychology:health:
+
+* Overview
+Safetyism is a cultural tendency — especially prevalent in English-speaking countries — to prevent every possible discomfort, risk, or adversity for children and others. It is the impulse to remove monkey bars from playgrounds, issue trigger warnings, and ensure that children are always within sight. Safetyism provides the *illusion* of security while actually producing the opposite: it prevents the small exposures to difficulty that build resilience, emotional regulation, and genuine confidence. It is distinct from actual security, which gives people a safe base from which to explore rather than walls that prevent exploration.
+
+* Key distinctions
+- *Safety vs. Security*: Safety is preventative — building walls to keep harm out. Security is relational — knowing that if you fall, someone you trust will help you get back up. Security gives a base to explore from; safety eliminates the chance to explore at all.
+- *Safetyism as avoidance*: The appearance of care without actual protection. Over time, removing small discomforts leads to greater anxiety, not less, because children never develop the capacity to handle difficulty.
+- *Cross-cultural dimension*: Safetyism is largely an English-speaking phenomenon. Finnish, Japanese, German, and Scandinavian parents grant children independence far earlier. In Finland, the majority of 7-year-olds walk or bike alone; by 8, most cross main roads unaccompanied.
+
+* Consequences
+- Increased youth mental health problems (anxiety, depression, hopelessness)
+- Systematic production of [[id:97ef1d25-ed11-4392-8d64-ba2ecf0ff146][Learned Helplessness]]
+- Failure to develop self-regulation, conflict resolution, and internal locus of control
+- Children never learn to make appropriate risk assessments
+
+* Safetyism as experience blocker (Haidt)
+Jonathan Haidt distinguishes two types of experience blockers working in tandem: safetyism blocks real-world challenge, while smartphones block the real-world engagement that was meant to replace it. Safetyism was imposed on millennials from the 1980s onward — but the mental health crisis hit Gen Z, not millennials. This suggests that safetyism alone was harmful but not catastrophic; it was the addition of the smartphone as a second experience blocker that produced the tidal wave of adolescent anxiety and depression after 2010.
+
+#+begin_quote
+The worship of "safety" above all else is called safetyism. It is dangerous because it makes it harder for children to learn to care for themselves and to deal with risk, conflict, and frustration.
+#+end_quote
+
+The term "concept creep" (coined by psychologist Nick Haslam) describes how the word "safety" expanded from its original physical meaning to encompass emotional and psychological safety. "Emotional safety" barely existed as a phrase before the late 1980s; from 1985 to 2010, its frequency in English books rose by 600%. What emerged on campuses was a still broader concept: "I should not have to experience negative emotions because of what someone else said or did. I have a right not to be triggered."
+
+See also: [[id:895edc56-fd63-4e8e-9a34-4920047e2da8][Antifragility]], [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-Based Childhood]]
+
+** Discover mode vs defend mode
+The brain's behavioral activation system (BAS) and behavioral inhibition system (BIS) describe two fundamental orientations:
+- *Discover mode (BAS)*: default orientation toward opportunity and exploration — curiosity, positive emotions, openness, willingness to engage. Children in discover mode learn more, form more friendships, and grow faster.
+- *Defend mode (BIS)*: default orientation toward threat scanning — vigilance, anxiety, scarcity thinking, pull toward in-group safety. Children in defend mode learn less, form fewer friendships, and experience more pain from ordinary conflict.
+
+Play-based childhoods wire children toward discover mode by giving them repeated exposure to manageable challenge. Phone-based childhoods combined with safetyism wire children toward chronic defend mode — they are denied the real-world challenges needed to overcome childhood anxieties.
+
+#+begin_quote
+Overprotected children are more likely to become adolescents who are stuck in defend mode. In defend mode, they're likely to learn less, have fewer close friends, be more anxious, and experience more pain from ordinary conversations and conflicts.
+#+end_quote
+
+The shift from a campus culture of discover mode (millennials) to defend mode (Gen Z) became visible around 2014–2015. The same books, speakers, and ideas that millennials engaged with eagerly were described by Gen Z as harmful or traumatizing. The disorders that rose most rapidly were anxiety and depression — consistent with chronic defend-mode activation. See also [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-Based Childhood]], [[id:895edc56-fd63-4e8e-9a34-4920047e2da8][Antifragility]].
+
+* Resources
+- 2026-05-19 ◦ [[https://stevemagness.substack.com/p/the-cost-of-safetyism][The Cost of Safetyism — Steve Magness]] — argues that the culture of safetyism in English-speaking countries, driven by fear and social pressure, is producing more anxious and less resilient children, not safer ones
+- 2026-06-02 ◦ [[https://www.anxiousgeneration.com][The Anxious Generation — Jonathan Haidt (2024)]] — identifies safetyism as the first of two "experience blockers" (alongside smartphones) that together produced the Gen Z mental health crisis; coins the complementary framing "overprotection in the real world and underprotection in the virtual world"
