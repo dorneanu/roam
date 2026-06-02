@@ -1,0 +1,171 @@
+:PROPERTIES:
+:ID:       F3A1B2C4-D5E6-7890-ABCD-EF1234567891
+:END:
+#+title: Building a personal book library with NotebookLM and Claude Code
+#+filetags: :ai:books:notebooklm:claudecode:
+#+author: Victor Dorneanu
+#+date: 2026-06-02
+#+setupfile: setup.org
+#+draft: false
+
+Ever since I started highlighting text on my Kindle, then my PocketBook, and also the [[/2021/06/13/note-taking-in-2021/][old-fashioned way with pen and paper]], I have been trying to store those highlights in my [[https://brainfck.org][digital garden]] — which serves as a *second brain* for recalling insights from books I have read. I built [[https://brainfck.org][brainfck.org]] to keep my collection of notes available online, not only for myself but also for others. I even added a [[https://brainfck.org/books/][search feature]] (first introduced in [[https://github.com/dorneanu/roam/commit/ce365029a143dad9b8bdb11f8484c0a8ba97b017][ce36502]] and later improved in [[https://github.com/dorneanu/roam/commit/9a23b40][9a23b40]]) that lets you search across the entire collection. Whenever I want to look something up, I go to [[https://brainfck.org][brainfck.org]], type in a keyword, and it shows me the books and journal entries where that word appears.
+
+Recently I built a workflow that allows to expand all this. I now have all my /e-books/ loaded into [[https://notebooklm.google.com][NotebookLM]] notebooks, organised year by year, so I can ask questions across everything I have read in a given period. The process is to convert EPUBs and
+PDFs to Markdown, upload them into the relevant notebook, and start asking questions. A particularly useful feature is that you can select a single source and have a focused conversation about just that one book.
+
+This post describes how I built it using Claude Code with the NotebookLM MCP server and the Dropbox (where I usually store my EPUB files).
+
+* The goal
+
+The end state is simple: one NotebookLM notebook per year (Books 2020, Books 2021, …, Books 2026), each containing the
+full text of every book I read that year. With that in place I can do things like:
+
+#+begin_quote
+"What did these books say about motivation and focus?"
+
+"Summarise each book in three bullet points"
+
+"Which books overlap on the topic of climate change?"
+#+end_quote
+
+#+html: {{< gbox src="/posts/img/2026/building-personal-book-library-notebooklm/notebooklm-notebooks-overview.png" title="NotebookLM notebooks overview" caption="One notebook per year — Books 2020 through Books 2026 — each populated with the full text of every book read that year." pos="left" >}}
+
+* The tools
+
+I used three MCP servers inside Claude Code:
+
+- [[https://github.com/jacob-bd/notebooklm-mcp-cli][notebooklm-mcp]] — create notebooks, add sources, query them
+- [[https://mcp.dropbox.com][DropboxMCP]] — search and download EPUBs/PDFs from my PocketBook library synced to Dropbox
+- *WebFetch* — scrape [[https://brainfck.org/books/][brainfck.org/books]] to get the canonical list of books per year
+
+To keep MCP servers scoped per repository, add them to your project's =.claude.json= under =mcpServers=:
+
+#+begin_src json
+{
+  "mcpServers": {
+    "notebooklm-mcp": {
+      "type": "stdio",
+      "command": "notebooklm-mcp"
+    },
+    "DropboxMCP": {
+      "type": "http",
+      "url": "https://mcp.dropbox.com/mcp"
+    }
+  }
+}
+#+end_src
+
+Install the NotebookLM CLI once globally with:
+
+#+begin_src bash
+uv tool install notebooklm-mcp-cli
+#+end_src
+
+The Dropbox MCP is a hosted HTTP server — no local install needed, just authenticate once via ~claude mcp auth DropboxMCP~ in the project directory.
+
+* The workflow
+
+** Step 1: Get the book list for a year
+
+The [[https://brainfck.org/books][brainfck books page]] lists the books I have read, sorted by year. Starting with only two notebooks ("Books 2026" and "Books 2025"), I wanted to create notebooks for earlier years but I did not know which books I actually had as EPUBs in Dropbox.
+
+#+html: {{< gbox src="/posts/img/2026/building-personal-book-library-notebooklm/brainfck-books-page.png" title="brainfck.org/books" caption="The books page on brainfck.org — books grouped by year with read dates and tags. This served as the ground truth for which books belong in which notebook." pos="left" >}}
+
+#+caption: Use claude-code to WebFetch the list of books
+#+begin_src mcp
+WebFetch https://brainfck.org/books/
+→ returns books grouped by year with their read dates
+#+end_src
+
+With the book list in hand, I also asked Claude to list the existing NotebookLM notebooks so I could see which years were already covered and how many sources each had:
+
+#+html: {{< gbox src="/posts/img/2026/building-personal-book-library-notebooklm/claude-code-listing-notebooks.png" title="Claude Code listing NotebookLM notebooks" caption="Claude Code querying all notebooks via the notebooklm-mcp tool. The response is structured as a table — books by year, plus other notebooks I use for music and programming topics." pos="left" >}}
+
+** Step 2: Search Dropbox for the files
+
+For each book I ran a parallel Dropbox search:
+
+I asked Claude to search for each book title using the ~DropboxMCP~ MCP tool. Under the hood, Claude Code calls the tool directly:
+
+#+begin_src mcp
+# Claude Code MCP tool call (one per book, all run in parallel)
+mcp__DropboxMCP__search
+  query: "Book Title"
+  file_extensions: ["epub", "pdf"]
+  filename_only: true
+#+end_src
+
+Claude ran all searches in parallel, then cross-referenced the results against the book list. Many books lived in year-based folders (=E-Books/2024/=, =E-Books/2025/=, etc.), while older ones were in the root =E-Books/= folder or the =Golang/= subfolder.
+
+** Step 3: Extract text content
+
+For files under 5MB, the Dropbox MCP can extract text directly:
+
+#+begin_src mcp
+mcp__DropboxMCP__get_file_content
+  path_or_file_id: "id:aTF8BX-..."
+#+end_src
+
+For larger files (5–15MB EPUBs, oversized PDFs), I had to generate shared download link:
+
+#+begin_src mcp
+mcp__DropboxMCP__create_shared_link
+  path_or_file_id: "id:aTF8BX-..."
+  allow_download: true
+#+end_src
+
+Then downloaded locally and converted with ~pandoc~:
+
+#+begin_src bash
+pandoc -t markdown book.epub -o book_full.md
+#+end_src
+
+For PDFs, ~pdftotext~ worked better:
+
+#+begin_src bash
+pdftotext book.pdf book_full.md
+#+end_src
+
+** Step 4: Create the notebook and upload
+
+With the converted Markdown files in hand, I first created a new notebook for the year, then added each book as a source. The ~notebook_create~ call returns a notebook ID which is then passed to every subsequent ~source_add~ call:
+
+#+begin_src mcp
+# 1. Create the notebook for the year (returns a notebook_id)
+mcp__notebooklm-mcp__notebook_create title: "Books 2024"
+
+# 2. For each book: upload the converted Markdown file as a source
+mcp__notebooklm-mcp__source_add
+  notebook_id: "..."          # ID returned from step 1
+  source_type: file
+  file_path: "/path/to/book_full.md"
+  title: "The Effective Executive"
+#+end_src
+
+All ~source_add~ calls for a given year ran in parallel — typically 6–8 at once — so populating a full year's notebook took only a minute or two.
+
+* Querying across years
+
+With all notebooks populated, I can now query a year's reading. But even simpler — I can just ask Claude Code in plain English:
+
+#+html: {{< gbox src="/posts/img/2026/building-personal-book-library-notebooklm/claude-code-querying-books-2026.png" title="Asking Claude Code about Books 2026" caption="A plain-English query to Claude Code: \"which books are in 2026?\" — Claude calls the notebooklm-mcp tool and returns a clean list of the 5 books in that notebook." pos="left" >}}
+
+Or go deeper with a structured query:
+
+#+begin_src
+mcp__notebooklm-mcp__notebook_query
+  notebook_id: "Books 2026"
+  query: "Give me a short summary of each book — main argument and key takeaways"
+#+end_src
+
+The answers are grounded in the source material and surprisingly detailed. Here's an example querying the main concepts from /Earth for All/:
+
+#+html: {{< gbox src="/posts/img/2026/building-personal-book-library-notebooklm/claude-code-earth-for-all-query.png" title="Querying Earth for All via Claude Code" caption="Asking Claude Code for the main concepts from \"Earth for All\" — it queries the notebooklm-mcp tool and returns a structured breakdown of the book's core premise, five turnarounds, and key ideas." pos="left" >}}
+
+This is particularly useful for rediscovering insights from books I read years ago and for finding thematic threads across multiple books in the same period.
+
+#+html: {{< gbox src="/posts/img/2026/building-personal-book-library-notebooklm/notebooklm-books-2025-detail.png" title="Inside the Books 2025 notebook" caption="The Books 2025 notebook with 9 sources loaded. The Studio panel on the right offers audio overviews, slide decks, mind maps, and more — all generated from the book content." pos="left" >}}
+
+The whole setup took a few hours across multiple sessions — most of that was handling edge
+cases (DRM, oversized files, misplacements). The actual notebook creation and uploading
+per year takes about 5 minutes once the files are in order.
