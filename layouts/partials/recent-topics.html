@@ -1,0 +1,9 @@
+{{ $maxTopics := .Site.Params.maxRecentTopics | default 15 }}
+{{ $topics := where .Site.RegularPages "Type" "topics" }}
+{{ $recent := $topics.ByLastmod.Reverse }}
+<div class="tr" id="recent-topics">
+    recently changed <br>
+    {{ range first $maxTopics $recent }}
+    <a class="silver no-underline" href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
+</div>

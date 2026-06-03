@@ -554,6 +554,7 @@ pre .language-yaml::before {
   max-width: 250px;
 }
 
+
 @media (min-width: 1200px) {
   #sidebar {
     display: block;
@@ -561,8 +562,19 @@ pre .language-yaml::before {
   }
 
   #contents-list > .toc-list,
-  #tag-cloud {
+  #tag-cloud,
+  #recent-topics {
     display: block;
+  }
+
+  #recent-topics {
+    max-width: 250px;
+    margin-bottom: 1rem;
+  }
+
+  #recent-topics a:hover {
+    border-bottom: 1px solid var(--body-text-color);
+    color: var(--body-text-color);
   }
 
   #contents-list > .toc-list {

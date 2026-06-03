@@ -6,6 +6,8 @@ Theme =  "er"
 MetaDataFormat =  "yaml"
 CanonifyUrls =  true
 BuildDrafts =  true
+enableGitInfo = true
+
 # Updated pagination settings for Hugo v0.128.0+
 [pagination]
 path = "page"
