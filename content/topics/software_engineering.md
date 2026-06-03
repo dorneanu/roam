@@ -1,5 +1,6 @@
 +++
 title = "Software Engineering"
+author = ["Dorneanu"]
 tags = ["swe"]
 draft = false
 +++
@@ -26,3 +27,8 @@ draft = false
 ## Other requirements {#other-requirements}
 
 -   To fulfill its purpose, software must be soft---that is, it must be easy to change. When the stakeholders change their minds about a feature, that change should be simple and easy to make
+
+
+## Resources {#resources}
+
+-   2026-04-23 ◦ [Laws of Software Engineering](https://lawsofsoftwareengineering.com/)
