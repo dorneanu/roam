@@ -2,6 +2,7 @@
 :ID:       FA905FCE-FDC7-4E39-AEA1-97DEAB4509E5
 :END:
 #+title: Reclaiming Conversation
+#+filetags: :todo:book:
 #+date: 2026-06-03
 
 - goodreads :: [[https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation]]
