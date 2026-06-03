@@ -78,3 +78,14 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* llm_wiki.org, ai.org, second_brain.org
 - *Topics created:* (none — llm_wiki.org created by parallel Starmorph ingest)
 - *Summary:* Ingested Karpathy's original gist; enriched llm_wiki.org with Karpathy's exact framing ("Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase"), concrete use cases (personal/research/book/business), and specific tooling notes (Obsidian Web Clipper, qmd, Marp, Dataview); added gist entry to ai.org LLM section and second_brain.org with the key maintenance-cost insight.
+
+* 2026-06-03: Ingest — Claude Code: Team Infrastructure and Agentic Patterns (talk slides)
+:PROPERTIES:
+:DATE:     2026-06-03
+:TYPE:     ingest
+:SOURCE:   roam-sources/articles/2026/2026-06-03_claude-code-team-infrastructure-agentic-patterns.md
+:END:
+- *Source type:* article
+- *Topics updated:* ai.org, llm_wiki.org
+- *Topics created:* claude_code.org, planner_generator_evaluator.org
+- *Summary:* Ingested two presentation slides from an Amazon/AWS internal talk covering Claude Code's .claude/ directory as version-controlled team infrastructure (CLAUDE.md, shared commands, settings hooks) and the Planner-Generator-Evaluator agentic design pattern (plan-mode spec, sprint-by-sprint generation, live-app evaluation); created two new topic files and added cross-links from ai.org and llm_wiki.org.

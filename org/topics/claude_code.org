@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       1d69111a-a3c1-4c18-af2a-b6a2ad6c04c8
+:END:
+#+title: Claude Code
+#+filetags: :ai:llm:software:
+
+* Overview
+
+Claude Code is Anthropic's AI coding assistant delivered as a CLI tool. It operates
+within a project-scoped configuration directory (~.claude/~) that the team checks into
+version control. The central design philosophy is that the ~.claude/~ directory is
+team infrastructure — treated like code, reviewed like code, and shared on clone.
+
+* .claude/ as team infrastructure
+
+The ~.claude/~ directory contains three key artefacts:
+
+- ~CLAUDE.md~ — the project constitution: shared conventions, domain glossary,
+  constraints, rules, and module-specific context. Every team member and every
+  Claude session reads this file first.
+- ~.claude/commands/~ — reusable team skills stored as slash-command definitions.
+  Examples: design interviews, test patterns, architecture checks. Available to all
+  contributors automatically on ~git clone~.
+- ~.claude/settings.json~ — team guardrails enforced via hooks: linting, blocking
+  destructive operations, audit logging, and peer-reviewed policies. Hooks run
+  automatically without the user needing to remember them.
+
+The practical effect is that team conventions, quality gates, and AI interaction
+patterns are codified and version-controlled alongside the application code itself,
+rather than living in individual heads or onboarding documents.
+
+* Plan mode
+
+Claude Code has a dedicated plan mode in which it produces a full specification from
+a brief without generating any implementation code. This is used as the Planner role
+in the [[id:acdec8f0-ba96-4098-bf19-42cd7ff6a95d][Planner-Generator-Evaluator pattern]].
+
+* Related topics
+
+- [[id:acdec8f0-ba96-4098-bf19-42cd7ff6a95d][Planner-Generator-Evaluator pattern]] — the primary agentic design pattern for Claude Code workflows
+- [[id:2e0c582e-2cf0-4e2c-a1bd-378b6041a3ce][LLM wiki]] — CLAUDE.md as schema file parallels the LLM wiki schema file pattern
+- [[id:9d08f7e9-61d1-454d-9e0f-79a5f2b94a11][Software Engineering]] — team conventions, quality gates, and shared context
+- [[id:8f1e78cd-fefa-4a2f-9db9-0e1e396a0448][AI]] — Claude Code as an LLM-powered development tool
+
+* Resources
+- 2026-06-03 ◦ [[file:~/repos/priv/roam-sources/articles/2026/2026-06-03_claude-code-team-infrastructure-agentic-patterns.md][Claude Code: Team Infrastructure and Agentic Patterns (talk slides)]] — presentation slides on .claude/ as team infrastructure and the Planner-Generator-Evaluator agentic pattern

@@ -6,6 +6,7 @@
 * LLM
 - 2026-06-02 ◦ [[https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f][LLM wiki gist (Karpathy)]] — pattern for an LLM-maintained [[id:2e0c582e-2cf0-4e2c-a1bd-378b6041a3ce][LLM wiki]]: immutable raw sources, LLM-generated wiki pages, and a schema file (CLAUDE.md) that encodes structure and workflow; three operations: ingest, query, lint; stateful compounding alternative to RAG at personal/team scale
 - 2025-01-30  [[https://arxiv.org/pdf/2501.09223][Foundations of Large Language Models]]
+- 2026-06-03 ◦ [[id:1d69111a-a3c1-4c18-af2a-b6a2ad6c04c8][Claude Code]] — Anthropic's AI coding CLI; .claude/ directory as team infrastructure (CLAUDE.md conventions, shared slash commands, settings hooks); [[id:acdec8f0-ba96-4098-bf19-42cd7ff6a95d][Planner-Generator-Evaluator pattern]] as primary agentic workflow pattern
 * Tools
 ** For writing
 - [[https://jenni.ai/][Jenni Al]]
