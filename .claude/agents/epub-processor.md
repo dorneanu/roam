@@ -20,6 +20,7 @@ First, verify pandoc installation:
 - Work in `/tmp` or user-specified directory
 - Convert: `pandoc "Book_Title.epub" -t markdown -o book_full.md`
 - This creates one large markdown file with entire book content
+- **Always use `-t markdown`** (never `-t plain` or other formats)
 
 ### 3. Section Boundary Identification
 Find structure using these patterns:
@@ -54,7 +55,8 @@ Use descriptive, consistent naming:
 
 ### 6. Verification and Cleanup
 - Check file sizes: `ls -lh book_*.txt` (target 200-500K per file)
-- Remove intermediate file: `rm book_full.md`
+- **Always keep the full converted file** (e.g. `book_full.txt`) — do NOT delete it. It is used as a source for NotebookLM and future re-processing.
+- Rename the intermediate file from `.md` to `.txt` for consistency: `mv book_full.md book_full.txt`
 
 ### 7. Alternative: Chapter-by-Chapter
 For more granular access:
@@ -70,6 +72,7 @@ sed -n 'start_line,end_line p' book_full.md > book_chapter_N.txt
 4. Keep related chapters together in logical parts
 5. Include notes/references in epilogue files
 6. Target 200-500K per file for optimal readability
+7. **Always preserve `book_full.txt`** — never delete it. The user uploads it to NotebookLM for AI-assisted study.
 
 ## Your Process
 When the user asks you to process an EPUB:
