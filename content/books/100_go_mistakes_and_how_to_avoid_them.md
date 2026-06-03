@@ -1,6 +1,6 @@
 +++
 title = "100 Go Mistakes and how to avoid them"
-author = ["Victor Dorneanu"]
+author = ["Dorneanu"]
 date = 2022-11-01
 tags = ["book", "todo", "golang"]
 draft = false
@@ -14,11 +14,11 @@ draft = false
 
 ### catch panics {#catch-panics}
 
-Simple example how catch a `panic`:
+**Simple** example how catch a `panic`:
 
 ```go
 import (
-	"fmt"
+    "fmt"
 )
 
 func main() {
@@ -152,4 +152,9 @@ defer func() {
     }
     err = closeErr
 }()
+#+end_#+begin_src
+
 ```
+
+
+## <span class="org-todo todo TODO">TODO</span> Concurrency {#concurrency}

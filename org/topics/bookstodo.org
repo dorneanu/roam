@@ -28,7 +28,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 - 2025-08-07 ◦ [[https://www.goodreads.com/book/show/210943348-patriot][Patriot: A Memoir by Alexei Navalny]]
 - 2025-08-07 ◦ [[https://www.goodreads.com/book/show/217217007-war][War by Bob Woodward]]
 - 2025-06-24 ◦ [[https://www.goodreads.com/book/show/54938047-mind-management-not-time-management][Mind Management, Not Time Management: Productivity When Creativity Matters by David Kadavy]]
-- 2025-06-24 ◦ [[https://www.goodreads.com/book/show/24612127-reclaiming-conversation][Reclaiming Conversation: The Power of Talk in a Digital Age by Sherry Turkle]]
+- ✅ 2025-06-24 ◦ [[https://www.goodreads.com/book/show/24612127-reclaiming-conversation][Reclaiming Conversation: The Power of Talk in a Digital Age by Sherry Turkle]]
 - 2025-06-24 ◦ [[https://www.goodreads.com/book/show/45892276-you-re-not-listening][You're Not Listening: What You're Missing and Why It Matters by Kate Murphy]]
 - 2025-05-14 ◦ [[https://www.goodreads.com/book/show/43726564-the-stoic-challenge][The Stoic Challenge: A Philosopher's Guide to Becoming Tougher, Calmer, and More Resilient by William B. Irvine]]
 - 2025-05-07 ◦ [[https://www.goodreads.com/book/show/55900397][Coridorul îngust. State, societăți și soarta libertății by Daron Acemoğlu]]
@@ -117,7 +117,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 - [[https://www.goodreads.com/book/show/22107280-blueprint-for-revolution][Blueprint for Revolution, Popovic]]
 - [[https://www.goodreads.com/book/show/18770267-make-it-stick][Make it sick]]
 - [[https://www.goodreads.com/book/show/76865.Good_to_Great][Good to great]]
-- [[https://www.goodreads.com/book/show/24612127-reclaiming-conversation][Reclaiming conversations]]
+- [[https://www.goodreads.com/book/show/24612127-reclaiming-conversation][✅ Reclaiming conversations]]
 ** Tech
 - [[https://dataintensive.net/][Designing Data-Intensive Applications]]
 - [[https://www.goodreads.com/work/best_book/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software][Domain-Driven Design: Tackling Complexity in the Heart of Software]] ([[id:7c4e66f6-ce2d-441b-8c33-51ba6aec412c][DDD]])

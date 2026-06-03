@@ -9,7 +9,7 @@
 
 * TODO Error Handling
 ** catch panics
-Simple example how catch a ~panic~:
+*Simple* example how catch a ~panic~:
 
 #+begin_src go
 import (
@@ -139,5 +139,7 @@ defer func() {
     }
     err = closeErr
 }()
+#+end_#+begin_src 
+
 #+end_src
 * TODO Concurrency

@@ -31,7 +31,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   2025-08-07 ◦ [Patriot: A Memoir by Alexei Navalny](https://www.goodreads.com/book/show/210943348-patriot)
 -   2025-08-07 ◦ [War by Bob Woodward](https://www.goodreads.com/book/show/217217007-war)
 -   2025-06-24 ◦ [Mind Management, Not Time Management: Productivity When Creativity Matters by David Kadavy](https://www.goodreads.com/book/show/54938047-mind-management-not-time-management)
--   2025-06-24 ◦ [Reclaiming Conversation: The Power of Talk in a Digital Age by Sherry Turkle](https://www.goodreads.com/book/show/24612127-reclaiming-conversation)
+-   ✅ 2025-06-24 ◦ [Reclaiming Conversation: The Power of Talk in a Digital Age by Sherry Turkle](https://www.goodreads.com/book/show/24612127-reclaiming-conversation)
 -   2025-06-24 ◦ [You're Not Listening: What You're Missing and Why It Matters by Kate Murphy](https://www.goodreads.com/book/show/45892276-you-re-not-listening)
 -   2025-05-14 ◦ [The Stoic Challenge: A Philosopher's Guide to Becoming Tougher, Calmer, and More Resilient by William B. Irvine](https://www.goodreads.com/book/show/43726564-the-stoic-challenge)
 -   2025-05-07 ◦ [Coridorul îngust. State, societăți și soarta libertății by Daron Acemoğlu](https://www.goodreads.com/book/show/55900397)
@@ -132,7 +132,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   [Blueprint for Revolution, Popovic](https://www.goodreads.com/book/show/22107280-blueprint-for-revolution)
 -   [Make it sick](https://www.goodreads.com/book/show/18770267-make-it-stick)
 -   [Good to great](https://www.goodreads.com/book/show/76865.Good_to_Great)
--   [Reclaiming conversations](https://www.goodreads.com/book/show/24612127-reclaiming-conversation)
+-   [✅ Reclaiming conversations](https://www.goodreads.com/book/show/24612127-reclaiming-conversation)
 
 
 ### Tech {#tech}
