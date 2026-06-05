@@ -25,10 +25,5 @@ I send you an idea and you comment on it and send it back is a different process
 #+end_quote
 (Turkle, Reclaiming Conversation, p. 220)
 
-** Phubbing
-"Phubbing" (phone snubbing) is maintaining apparent eye contact while texting — dividing attention so thoroughly that the other person receives neither genuine eye contact nor genuine listening. Turkle notes the word appeared in the dictionary as a cultural marker of how normalised divided attention has become. Even without active phubbing, the mere visible presence of a phone on the table degrades conversation: people self-censor to keep topics light, knowing they may be interrupted. The phone's potential to interrupt is sufficient to prevent the vulnerability that deep conversation requires.
-
-This "ambient phone effect" — documented empirically — means that conversation quality is degraded by the phone even when it is silent, face-down, and unused. See [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] for the mechanism.
-
 * Resources
 - 2026-06-05 ◦ [[https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation][Reclaiming Conversation — Sherry Turkle (2015)]] — the neurological case (Siegel, Senju) for eye contact as irreplaceable; phubbing and the ambient phone effect; Von Kleist on ideas emerging in conversation; "breathing the same air matters" as the irreducible case for co-presence. Related: [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]], [[id:8a2f1c4e-9b7d-4f3e-8c1a-6d5e2f7b9c3a][Phubbing]]

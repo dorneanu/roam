@@ -27,6 +27,9 @@ Sherry Turkle argues that the always-on, device-mediated life is eroding our cap
 * Highlights
 
 ** Introduction: The Flight from Conversation
+:PROPERTIES:
+:LINKS: [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] [[id:f47320bd-27eb-427d-b769-249fa52a90f2][Boredom]] [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]]
+:END:
 
 *Topics:* [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] · [[id:f47320bd-27eb-427d-b769-249fa52a90f2][Boredom]] · [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]]
 
@@ -225,6 +228,9 @@ And, more than a symptom, constant connection is changing the way people think o
 *Context:* A central formulation of the book: a new ontology has emerged. For earlier generations, sharing followed experience. Now sharing has become constitutive of experience — the inner life is not processed privately and then communicated; it is performed in order to exist at all.
 
 ** Part I: One Chair — Solitude
+:PROPERTIES:
+:LINKS: [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]] [[id:f47320bd-27eb-427d-b769-249fa52a90f2][Boredom]] [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] [[id:7511f2b6-65d5-4790-9cbe-4ae51e36f7c8][Social comparison]] [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]]
+:END:
 
 *Topics:* [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]] · [[id:f47320bd-27eb-427d-b769-249fa52a90f2][Boredom]] · [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] · [[id:7511f2b6-65d5-4790-9cbe-4ae51e36f7c8][Social comparison]] · [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]]
 
@@ -373,6 +379,9 @@ Why the conflict? Melissa needs social support. Her college plans disappoint her
 *Context:* Melissa's case study is striking because she has complete self-awareness — she knows what she needs (journalling, real conversation, solitude) and she knows Facebook is not it — yet cannot stop. This is not ignorance or addiction in a simple sense; it is a failure of the capacity for solitude so thorough that the void can only be filled by the platform's endless scroll.
 
 ** Part II: Two Chairs — Family and Friendship
+:PROPERTIES:
+:LINKS: [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]] [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] [[id:7511f2b6-65d5-4790-9cbe-4ae51e36f7c8][Social comparison]] [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]]
+:END:
 
 *Topics:* [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]] · [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] · [[id:7511f2b6-65d5-4790-9cbe-4ae51e36f7c8][Social comparison]] · [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]]
 
@@ -572,6 +581,9 @@ Online, we do not become different selves. Our online identities are facets of o
 *Context:* A nuanced moment in which Turkle resists her own apparent direction. Online identity is not false — it is a facet of the real self. Digital space can be a genuine site of self-exploration and growth. The problem is not online identity per se, but when the curated online self substitutes for rather than supplements the full, imperfect, embodied self.
 
 ** Part III: Three Chairs — Education and Work
+:PROPERTIES:
+:LINKS: [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] [[id:f47320bd-27eb-427d-b769-249fa52a90f2][Boredom]] [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]]
+:END:
 
 *Topics:* [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] · [[id:f47320bd-27eb-427d-b769-249fa52a90f2][Boredom]] · [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] · [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]]
 
@@ -784,6 +796,9 @@ Hammond sees a generational issue in play. "People who are over forty-five or fi
 *Context:* A specific and telling deficit: the capacity to apologise face-to-face — which requires tolerating shame, making eye contact, and accepting the other person's unedited response — is a skill that email culture simply never requires or trains. Hammond's driving metaphor captures the seriousness: it is not a preference gap but a competence gap.
 
 ** Part IV: The Path Forward and the Fourth Chair
+:PROPERTIES:
+:LINKS: [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]] [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]] [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]]
+:END:
 
 *Topics:* [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]] · [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]] · [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] · [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]]
 
