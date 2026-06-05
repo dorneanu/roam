@@ -27,6 +27,9 @@ Sherry Turkle argues that the always-on, device-mediated life is eroding our cap
 * Highlights
 
 ** Introduction: The Flight from Conversation
+:PROPERTIES:
+:LINKS: [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] [[id:f47320bd-27eb-427d-b769-249fa52a90f2][Boredom]] [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]]
+:END:
 
 #+begin_quote
 We say we turn to our phones when we're "bored." And we often find ourselves bored because we have become accustomed to a constant feed of connection, information, and entertainment. We are forever elsewhere. At class or at church or business meetings, we pay attention to what interests us and then when it doesn't, we look to our devices to find something that does. There is now a word in the dictionary called "phubbing." It means maintaining eye contact while texting. My students tell me they do it all the time and that it's not that hard.
@@ -113,6 +116,9 @@ And, more than a symptom, constant connection is changing the way people think o
 *Context:* A central formulation of the book: a new ontology has emerged. For earlier generations, sharing followed experience. Now sharing has become constitutive of experience — the inner life is not processed privately and then communicated; it is performed in order to exist at all.
 
 ** Part I: One Chair — Solitude
+:PROPERTIES:
+:LINKS: [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]] [[id:f47320bd-27eb-427d-b769-249fa52a90f2][Boredom]] [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] [[id:7511f2b6-65d5-4790-9cbe-4ae51e36f7c8][Social comparison]] [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]]
+:END:
 
 #+begin_quote
 These days, we may mistake time on the net for solitude. It isn't. In fact, solitude is challenged by our habit of turning to our screens rather than inward. And it is challenged by our culture of continual sharing. People who grew up with social media will often say that they don't feel like themselves; indeed, they sometimes can't feel themselves, unless they are posting, messaging, or texting. Sometimes people say that they need to share a thought or feeling in order to think it, feel it. This is the sensibility of "I share, therefore I am." Or otherwise put: "I want to have a feeling; I need to send a text."
@@ -179,6 +185,9 @@ Why the conflict? Melissa needs social support. Her college plans disappoint her
 *Context:* Melissa's case study is striking because she has complete self-awareness — she knows what she needs (journalling, real conversation, solitude) and she knows Facebook is not it — yet cannot stop. This is not ignorance or addiction in a simple sense; it is a failure of the capacity for solitude so thorough that the void can only be filled by the platform's endless scroll.
 
 ** Part II: Two Chairs — Family and Friendship
+:PROPERTIES:
+:LINKS: [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]] [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] [[id:7511f2b6-65d5-4790-9cbe-4ae51e36f7c8][Social comparison]] [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]]
+:END:
 
 #+begin_quote
 So my mom is always on her email, always on her phone, she always has it next to her at the dinner table. . . . And if there's the slightest little buzz or anything, she'll look at it. She always has some excuse. When we are out to dinner she'll pretend to put it away—she'll have it on her lap. She'll be looking down but it will be so obvious. Me and my dad and my sister will all tell her to get off her phone.
@@ -268,6 +277,9 @@ Online, we do not become different selves. Our online identities are facets of o
 *Context:* A nuanced moment in which Turkle resists her own apparent direction. Online identity is not false — it is a facet of the real self. Digital space can be a genuine site of self-exploration and growth. The problem is not online identity per se, but when the curated online self substitutes for rather than supplements the full, imperfect, embodied self.
 
 ** Part III: Three Chairs — Education and Work
+:PROPERTIES:
+:LINKS: [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] [[id:f47320bd-27eb-427d-b769-249fa52a90f2][Boredom]] [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]]
+:END:
 
 #+begin_quote
 We decide to try a device-free class with a short break to check phones. For me, something shifts. Conversations become more relaxed and cohesive. Students finish their thoughts, unrushed. What the students tell me is that they feel relief: When they are not tempted by their phones, they feel more in control of their attention. An irony emerges. For of course, on one level, we all see our phones as instruments for giving us greater control, not less.
@@ -361,6 +373,9 @@ Hammond sees a generational issue in play. "People who are over forty-five or fi
 *Context:* A specific and telling deficit: the capacity to apologise face-to-face — which requires tolerating shame, making eye contact, and accepting the other person's unedited response — is a skill that email culture simply never requires or trains. Hammond's driving metaphor captures the seriousness: it is not a preference gap but a competence gap.
 
 ** Part IV: The Path Forward and the Fourth Chair
+:PROPERTIES:
+:LINKS: [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]] [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]] [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]]
+:END:
 
 #+begin_quote
 Remember the power of your phone. It's not an accessory. It's a psychologically potent device that changes not just what you do but who you are. Don't automatically walk into every situation with a device in hand: When going to our phones is an option, we find it hard to turn back to each other, even when efficiency or politeness would suggest we do just that.
