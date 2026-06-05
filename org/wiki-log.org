@@ -89,3 +89,14 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* ai.org, llm_wiki.org
 - *Topics created:* claude_code.org, planner_generator_evaluator.org
 - *Summary:* Ingested two presentation slides from an Amazon/AWS internal talk covering Claude Code's .claude/ directory as version-controlled team infrastructure (CLAUDE.md, shared commands, settings hooks) and the Planner-Generator-Evaluator agentic design pattern (plan-mode spec, sprint-by-sprint generation, live-app evaluation); created two new topic files and added cross-links from ai.org and llm_wiki.org.
+
+* 2026-06-05: Ingest — Reclaiming Conversation (Sherry Turkle, 2015)
+:PROPERTIES:
+:DATE:     2026-06-05
+:TYPE:     ingest
+:SOURCE:   ~/repos/priv/roam-sources/books/2026/turkle_sherry_reclaiming-conversation.md
+:END:
+- *Source type:* book
+- *Topics updated:* solitude.org, boredom.org, conversation-centric_communication.org, phone_based_childhood.org, social_comparison.org, attention_economy.org
+- *Topics created:* eliza_effect.org
+- *Summary:* Ingested Sherry Turkle's Reclaiming Conversation; created eliza_effect.org covering the projection of empathy onto machines from Weizenbaum's 1966 ELIZA to contemporary AI companions; enriched six existing topics with Turkle's Tillich/Winnicott solitude-vs-loneliness distinction and virtuous circle of conversation (solitude.org), Winnicott/Erikson developmental boredom as invitation (boredom.org), Siegel/Senju neurological case for eye contact and phubbing as sub-concept (conversation-centric_communication.org), the "missing chip" hypothesis for caregiver phone use (phone_based_childhood.org), "I share, therefore I am" as new ontological mode (social_comparison.org), and Goldilocks effect + Maryanne Wolf deep reading/brain plasticity + ambient phone effect (attention_economy.org).
