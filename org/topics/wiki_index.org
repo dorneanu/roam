@@ -66,3 +66,10 @@ Updated automatically on every ingest.
 - [[id:a2d9211c-7512-4ae5-8d70-c4b3bf6e2ff2][Anomie]] — Durkheim's normlessness concept applied to Gen Z: departure from stable real-world communities into anonymous shifting networks produces purposelessness, despair, and suicide; hikikomori and NEET as downstream outcomes
 - [[id:16cd9b80-319c-4eb3-86bc-46c659e28f0c][Sociogenic illness]] — illness spread by social transmission rather than pathogens; social media amplifies this via emotional contagion, prestige bias, and audience capture; explains rapid spread of tic disorders, DID, and anxiety among adolescent girls
 
+* Sustainability / Political economy
+- [[id:ce1041c3-1f76-42ea-b2de-0016f61b8240][Planetary boundaries]] — nine Earth-system processes defining a safe operating space; six of nine transgressed as of 2023; scientific grounding for the Anthropocene as a civilisational risk
+- [[id:08470b4c-4b45-4650-a6a9-067f801f94bb][Earth4All model]] — Club of Rome system-dynamics model (2022) exploring two futures to 2100: Too Little Too Late (collapse trajectory) vs Giant Leaps (transformation scenario)
+- [[id:d112fb80-8110-47c9-a1eb-01415d3eed34][Wellbeing economy]] — economic system designed to deliver human and ecological wellbeing rather than maximise GDP; doughnut economics, GPI, and post-growth frameworks
+- [[id:5fe6c15f-e11a-48a2-94f7-f028c0e02c9e][Social tipping points]] — thresholds where self-reinforcing feedback loops drive rapid social transformation; Chenoweth's 3.5% rule; Donella Meadows' leverage-point hierarchy
+- [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]] — five interdependent policy packages (end poverty, tackle inequality, empower women, transform food, accelerate clean energy) from Earth for All; the transformation scenario for a stable 21st century
+- [[id:6e4777bb-f039-4040-971c-2444c2552160][Limits to Growth]] — Club of Rome's 1972 system-dynamics model; BAU scenario has proven accurate; Earth4All is its 21st-century successor

@@ -14,3 +14,11 @@
   - Powerful vasodilator
     - The dilation of the smooth muscle in the walls of the airways and blood vessels
   - The regulation of blood pH.
+
+* CO₂ as a planetary boundary metric
+Atmospheric CO₂ concentration is the primary metric for the climate change [[id:ce1041c3-1f76-42ea-b2de-0016f61b8240][Planetary boundaries]] indicator. The safe boundary is approximately 350 ppm (pre-industrial levels ~280 ppm); as of 2024, atmospheric CO₂ has exceeded 420 ppm — the highest in at least 3 million years.
+
+"Earth for All" (Club of Rome, 2022) identifies the clean energy transition — stopping the addition of new CO₂ to the atmosphere — as one of its five [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]]. The carbon budget for 1.5°C of warming was approximately 420 GtCO₂ remaining as of 2023; at current rates (~40 GtCO₂/year), this budget will be exhausted by ~2033.
+
+* Resources
+- 2026-06-05 ◦ [[https://www.goodreads.com/book/show/60321399-earth-for-all][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — atmospheric CO₂ as the central climate boundary metric; clean energy Giant Leap modelled to limit warming to ~2°C; fossil fuel subsidies at $5–7 trillion/year are the primary political obstacle

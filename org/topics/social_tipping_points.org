@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       5fe6c15f-e11a-48a2-94f7-f028c0e02c9e
+:END:
+#+title: Social tipping points
+#+filetags: :science:economics:philosophy:
+
+* Overview
+Social tipping points are thresholds in social systems beyond which self-reinforcing feedback loops drive rapid, large-scale change. Analogous to physical tipping points in the climate system (e.g. ice-sheet collapse, Amazon dieback), social tipping points involve dynamics where a minority reaches critical mass, norms shift suddenly, and institutions restructure in ways that become hard to reverse.
+
+The concept is central to transformation thinking: rather than assuming that large-scale change requires persuading every individual or waiting for political consensus, social tipping-point analysis identifies the specific leverage points — early-adopter communities, key institutions, financial flows, social norms — where targeted action can trigger cascade effects far exceeding the initial intervention.
+
+* Earth for All and social tipping points
+"Earth for All" (Club of Rome, 2022) argues that the [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]] scenario is achievable because social tipping dynamics have already been observed in clean energy, food systems, and social norms around gender equality. Key examples cited:
+- Solar PV costs fell 90%+ between 2010 and 2020, driven partly by tipping-point adoption dynamics in China and Germany
+- Divestment from fossil fuels has reached >$40 trillion in commitments — approaching a potential financial tipping point
+- Female education and empowerment has historically triggered rapid demographic transitions within a generation
+- COVID-19 demonstrated that societies can restructure economically with speed that standard models consider impossible
+
+The authors identify six interconnected social tipping points required for the Giant Leaps:
+1. Divestment from fossil fuels reaching sufficient scale to shift capital allocation globally
+2. Cities and subnational governments committing to rapid decarbonisation
+3. The removal of fossil fuel subsidies and their redirection to clean energy
+4. Sufficient market share for zero-emission technology triggering cost collapse for remaining sectors
+5. Social norms around women's empowerment reaching levels that self-reinforce through education and political participation
+6. Food system norms shifting, particularly in high-income countries, toward plant-rich diets
+
+* Social tipping points vs physical tipping points
+[[id:ce1041c3-1f76-42ea-b2de-0016f61b8240][Planetary boundaries]] research has identified dangerous physical tipping points (West Antarctic ice sheet, Atlantic circulation, permafrost carbon). Social tipping points are the mirror image: while physical tipping points represent catastrophic risks to avoid, social tipping points represent opportunities to exploit for rapid beneficial change. The task is to trigger the beneficial social tipping cascade faster than the physical tipping risks materialise.
+
+* The 3.5% rule
+Political scientist Erica Chenoweth's research on nonviolent social movements found that no movement engaging at least 3.5% of the population in sustained active participation has ever failed to achieve major political change. This "3.5% rule" is frequently cited in social tipping-point discourse as evidence that transformative change does not require majority support — only a committed, strategically placed minority reaching a threshold.
+
+* Leverage points (Donella Meadows)
+Donella Meadows' leverage-points framework is a foundational tool for social tipping-point thinking. Her hierarchy, from least to most powerful:
+- Constants and parameters (subsidies, tax rates) — weakest
+- Feedback loops (market signals, regulations)
+- Information flows (transparency, reporting)
+- Rules and institutional structure
+- Goals of the system
+- Paradigms and mental models — most powerful: changing what people believe about how the world works
+
+Earth for All's [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]] operate across all levels, but the authors emphasise that paradigm change — abandoning GDP-growth-as-success, embracing [[id:d112fb80-8110-47c9-a1eb-01415d3eed34][Wellbeing economy]] thinking — is the deepest leverage point.
+
+* Resources
+- 2026-06-05 ◦ [[https://www.goodreads.com/book/show/60321399-earth-for-all][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — Chapter on social tipping points identifies six cascades needed for Giant Leaps; connects to clean energy, divestment, and women's empowerment dynamics; cites Chenoweth's 3.5% threshold
