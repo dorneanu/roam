@@ -89,3 +89,14 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* ai.org, llm_wiki.org
 - *Topics created:* claude_code.org, planner_generator_evaluator.org
 - *Summary:* Ingested two presentation slides from an Amazon/AWS internal talk covering Claude Code's .claude/ directory as version-controlled team infrastructure (CLAUDE.md, shared commands, settings hooks) and the Planner-Generator-Evaluator agentic design pattern (plan-mode spec, sprint-by-sprint generation, live-app evaluation); created two new topic files and added cross-links from ai.org and llm_wiki.org.
+
+* 2026-06-07: Ingest — House Music: Melody, Bass Lines, and Harmony
+:PROPERTIES:
+:DATE:     2026-06-07
+:TYPE:     ingest
+:SOURCE:   roam-sources/articles/2026/2026-06-07_house-music-theory-melody-bass-harmony.md
+:END:
+- *Source type:* article
+- *Topics updated:* (none — all concepts are new to the wiki)
+- *Topics created:* house_music.org, circle_of_fifths.org, harmonic_mixing.org, dorian_mode.org, relative_major_minor.org, dj_set_arc.org
+- *Summary:* Ingested synthesized notes on composing a 3-track deep/soulful house set; created six new topic files covering house music genre and bass line techniques, the circle of fifths and three-neighbours chord derivation rule, harmonic mixing and the Camelot wheel, the Dorian mode and its characteristic lift (i → IV), the relative major/minor relationship with enharmonic pivot analysis, and DJ set arc design; all six files are cross-linked bidirectionally.
