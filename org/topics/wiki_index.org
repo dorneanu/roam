@@ -63,3 +63,11 @@ Updated automatically on every ingest.
 - [[id:a2d9211c-7512-4ae5-8d70-c4b3bf6e2ff2][Anomie]] — Durkheim's normlessness concept applied to Gen Z: departure from stable real-world communities into anonymous shifting networks produces purposelessness, despair, and suicide; hikikomori and NEET as downstream outcomes
 - [[id:16cd9b80-319c-4eb3-86bc-46c659e28f0c][Sociogenic illness]] — illness spread by social transmission rather than pathogens; social media amplifies this via emotional contagion, prestige bias, and audience capture; explains rapid spread of tic disorders, DID, and anxiety among adolescent girls
 
+
+* Music
+- [[id:6e0ab159-bc6d-440c-8a9c-0b21faa5bfca][House music]] — Chicago-rooted electronic dance genre (deep, soulful, minimal subgenres); four-on-the-floor kick, syncopated bass lines, 122–124 BPM; four bass line techniques and harmonic set structure
+- [[id:41e190c8-6318-411f-8feb-25980c8cd2ce][Circle of fifths]] — arrangement of the 12 pitch classes by perfect fifths; the "three neighbours" rule derives all six diatonic chords of any key; clockwise movement = resolution, counterclockwise = tension
+- [[id:1359feec-95d9-4a01-b943-da059ba8d0be][Harmonic mixing]] — sequencing DJ tracks by compatible key signatures using the Camelot wheel; same or adjacent Camelot positions share enough pitches to prevent clashes and produce tonal coherence
+- [[id:992d4ca1-af98-4f18-8f0b-9d0c4bd4b63f][Dorian mode]] — second mode of the major scale; minor with a raised 6th; characteristic Dorian lift (i → IV) produces a soulful, hopeful sound; used as emotional bridge between minor darkness and major resolution
+- [[id:dd597031-9051-4c63-8a34-6661b6148e4d][Relative major and minor]] — key pairs sharing identical pitch sets but different tonal centres; enharmonic pivots between them carry compositional tension across to resolution
+- [[id:860c0d92-2eb4-4205-9bc4-28676d547a25][DJ set arc]] — intentional emotional and energy trajectory across a DJ set; harmonic and modal choices (minor → Dorian → major) map onto tension → opening → release narrative
