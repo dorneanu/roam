@@ -28,7 +28,7 @@ Earth for All is the Club of Rome's 21st-century answer to The Limits to Growth 
 
 *** From The Limits to Growth to Planetary Boundaries
 
-*Context:* The book opens by situating itself within the Anthropocene paradigm — the recognition that human civilisation is now the dominant force shaping the Earth system. This framing elevates the stakes: the question is not incremental policy but civilisational trajectory.
+*Context:* The book opens by situating itself within the [[id:5d80a36d-b497-4db9-a0f8-77b3b95de166][Anthropocene]] paradigm — the recognition that human civilisation is now the dominant force shaping the Earth system. This framing elevates the stakes: the question is not incremental policy but civilisational trajectory.
 
 #+begin_quote
 Since the publication of The Limits to Growth in 1972, one scientific conclusion has eclipsed all other scientific insights in the last fifty years. Earth has entered a new geological epoch: the Anthropocene. This paradigm shift in our understanding of both civilization and the Earth system is as profound as Copernicus's conclusion that Earth orbits the sun or Darwin's theory of natural selection.
@@ -37,7 +37,7 @@ Since the publication of The Limits to Growth in 1972, one scientific conclusion
 
 *** The Five Turnarounds: Policy Overview
 
-*Context:* The book's central prescription, stated succinctly. The five turnarounds are not aspirational goals but quantified policy packages modelled in the Earth4All system-dynamics simulation. Each comes with specific targets and mechanisms.
+*Context:* The book's central prescription, stated succinctly. The five turnarounds are not aspirational goals but quantified policy packages modelled in the [[id:08470b4c-4b45-4650-a6a9-067f801f94bb][Earth4All]] system-dynamics simulation. Each comes with specific targets and mechanisms.
 
 #+begin_quote
 Our foresight analysis for this century strongly indicates that the Giant Leap's five extraordinary turnarounds can be achieved by implementing key policy goals.
@@ -48,6 +48,13 @@ Food. To transform agriculture, diets, food access, and food waste; by 2050 the 
 Energy. We must transform energy systems to increase efficiency, accelerate the rollout of wind and solar electricity, halve emissions of greenhouse gases every decade, and provide clean energy to those without. Key policy goal: Halve emissions approximately every decade to reach net-zero emissions by 2050.
 #+end_quote
 /(p. 93)/
+
+*The five turnarounds at a glance* — each a quantified policy package in the [[id:08470b4c-4b45-4650-a6a9-067f801f94bb][Earth4All model]]:
+- *Poverty* — rapid, fairer growth for low-income nations: ≥5%/yr GDP growth until >$15,000 per person; reform the international financial system; new wellbeing indicators.
+- *Inequality* — the richest 10% take less than 40% of national income, via progressive and wealth taxes, stronger labour, and dividends from a Citizens Fund.
+- *Empowerment of women* — gender equity plus investment in education and health, helping stabilise global population below 9 billion by 2050.
+- *Food* — a regenerative, nature-positive food system by 2050: healthy diets for all, no net cropland expansion, drastically reduced food waste.
+- *Energy* — halve greenhouse-gas emissions roughly every decade to net-zero by 2050, via efficiency and a rapid wind/solar rollout.
 
 *** The Crisis of Legitimacy
 
@@ -71,7 +78,7 @@ We explored many scenarios but present just two in this book. Too Little Too Lat
 
 *** Giant Leap
 
-*Context:* The transformational scenario is not utopian — it acknowledges system inertia. Actions taken today will not be felt for years in the economy, decades in the climate. This is precisely why the authors argue that nothing less than a giant leap now is sufficient: incremental reform in the 2020s produces TLTL outcomes.
+*Context:* The transformational scenario is not utopian — it acknowledges system inertia. Actions taken today will not be felt for years in the economy, decades in the climate. This is precisely why the authors argue that nothing less than a [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][giant leap]] now is sufficient: incremental reform in the 2020s produces TLTL outcomes.
 
 #+begin_quote
 As our second scenario, we chose Giant Leap, which illustrates the effects of the powerful and immediate implementation of the five extraordinary policy turnarounds. Its passage through the century is driven not by tinkering at the fringes but by fundamentally reconfiguring economies, energy systems, and food systems. It's a major upgrade. A reset. An essential reboot of civilization's guiding rules before the system crashes. Due to inertia in economies and in the climate, the main impacts of any action taken today are often not seen for years in economies and decades or centuries in the climate. We believe that nothing less than a "giant leap" now is needed if humanity is serious about turning around from the current trajectory and getting on a new track to a sustainable world by 2050.
@@ -103,6 +110,13 @@ Participation: Citizens are actively engaged in their communities and locally ro
 #+end_quote
 /(p. 115)/
 
+*The five dimensions of wellbeing* (WEAll) — proposed in place of GDP as the measure of success in a [[id:d112fb80-8110-47c9-a1eb-01415d3eed34][wellbeing economy]]:
+- *Dignity* — everyone has enough to live in comfort, health, safety, and happiness.
+- *Nature* — a restored and safe natural world for all life.
+- *Connection* — a sense of belonging and institutions that serve the common good.
+- *Fairness* — justice across all dimensions; the gap between richest and poorest greatly reduced.
+- *Participation* — citizens actively engaged in their communities and locally rooted economies.
+
 *** The GDP Threshold
 
 *Context:* One of the book's empirical anchors: beyond ~$15,000 per person per year (PPP), additional GDP growth does not increase life satisfaction. This finding justifies the Giant Leaps poverty floor target and the "post-growth" framing for wealthy nations.
@@ -123,6 +137,9 @@ This principle evolves into Citizens Funds that pay a universal basic dividend (
 #+end_quote
 /(p. 151)/
 
+- *Difficulty:* wealth flows to the owners of assets and of the commons (land, IP, fossil fuels, the right to pollute) rather than to the workers and citizens who collectively own them.
+- *Solution:* Citizens Funds — industries pay fees for using the commons; the revenue is returned to every citizen equally as a universal basic dividend (the inequality lever of the [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]]).
+
 *** Carbon Accounting and Consumption Emissions
 
 *Context:* A structural injustice in current climate policy: emissions are counted at the point of production, not consumption. High-income countries outsource manufacturing and thus outsource emissions accounting — a form of carbon laundering that places the burden on low-income producers.
@@ -137,6 +154,9 @@ This lack of distinction between consumption-based emissions and production-base
 #+end_quote
 /(p. 179)/
 
+- *Problem:* [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][CO₂]] emissions are counted where goods are produced, not consumed, so rich countries outsource both the factory and the blame to low-income producers.
+- *Solution:* move to consumption-based carbon accounting so responsibility — and any tariffs or financing — follows the consumer, paired with knowledge and finance transfer to measure and cut emissions.
+
 *** Green Industrial Policy and the Infant Industry Model
 
 *Context:* The authors rehabilitate protectionist industrial policy as a legitimate tool for green transition. The historical success of South Korea and China in escaping the middle-income trap via protected infant industries is the model. Green industries in developing nations need the same protection from premature international competition.
@@ -145,6 +165,9 @@ This lack of distinction between consumption-based emissions and production-base
 In a similar manner, there is a need to revive the concept of the "infant industry model"—shielding new industries in a country from global competition—with import restrictions. This model was so successful in helping economies like South Korea and China escape the middle-income trap. By recognizing the need to protect green industries from competing prematurely with larger established international players, countries are more likely to develop local green investments that are sustainable in the long term.
 #+end_quote
 /(p. 192)/
+
+- *Difficulty:* nascent green industries in developing nations cannot compete with established international players if exposed to open markets too early.
+- *Solution:* revive the "infant industry" model — temporary import protection (as used by South Korea and China to escape the middle-income trap) to let local green investment mature.
 
 *** The 10:40 Inequality Ratio
 
@@ -155,6 +178,9 @@ A key goal of the inequality turnaround is to ensure the richest 10% in societie
 #+end_quote
 /(p. 208)/
 
+- *Problem:* beyond the 10:40 income ratio, social and health problems worsen, cohesion frays, and governments lose the ability to make long-term decisions.
+- *Target:* cap the richest 10% at no more than the combined income of the poorest 40% — a "tolerable" ceiling on inequality.
+
 *** Why Inequality Is Destructive
 
 *Context:* The meritocracy narrative — that inequality is justified as an incentive structure — is directly challenged. The evidence shows the opposite: extreme inequality is not a motivational spur but a destructive force, degrading the social fabric that enables collective action.
@@ -164,6 +190,9 @@ Why is inequality so bad for societies? The argument goes that high inequality p
 #+end_quote
 /(p. 214)/
 
+- *Myth:* inequality is a necessary incentive that makes people work harder.
+- *Evidence:* unsupported — extreme inequality is a destructive force that erodes the social fabric collective action depends on.
+
 *** Turnaround 3: Empower Women — Education and Critical Thinking
 
 *Context:* The education section addresses a systems-level threat: the industrialisation of misinformation via social media. The authors argue that critical thinking and systems thinking are not optional extras but foundational survival skills for democratic societies facing civilisational challenges.
@@ -172,6 +201,9 @@ Why is inequality so bad for societies? The argument goes that high inequality p
 The overhaul of education everywhere should build on two foundations: critical thinking and complex systems thinking. Arguably the biggest challenge in the world today is not climate change, biodiversity loss, or even a pandemic. It is our collective inability to tell fact from fiction. Social media smashed this model apart. It has industrialized the spread of misinformation and disinformation in the world, polarizing societies, reducing trust, and contributing to our shocking inability to cooperate around common challenges, or even agree on the interpretation of basic facts.
 #+end_quote
 /(p. 263)/
+
+- *Difficulties:* persistent gender power imbalances; and an information ecosystem in which social media has industrialised misinformation, polarising societies and eroding the shared facts cooperation requires.
+- *Solutions:* invest in education and health for all and empower women (helping stabilise population below 9 billion by 2050); rebuild curricula on two foundations — critical thinking and complex systems thinking.
 
 *** Turnaround 4: Transform Food — The Planetary Health Diet
 
@@ -187,6 +219,9 @@ The only way to lock in a turnaround of the food system is through active govern
 #+end_quote
 /(p. 315)/
 
+- *Difficulties:* the Western diet drives ~10 million premature deaths a year, while hundreds of millions still suffer undernutrition; markets place no value on sustainable or regenerative farming.
+- *Solutions:* shift to a planetary health diet (far more fruit, vegetables, legumes, nuts, seeds) tackling over- and under-consumption; make agriculture regenerative and nature-positive; use active government to price in sustainable practice.
+
 *** Turnaround 5: Clean Energy — Busting the Myths
 
 *Context:* Five persistent myths about clean energy transition are dismantled. The pattern: what appears as a technical or behavioural barrier is in reality a political economy problem — incumbent interests, stranded assets, and subsidies to fossil fuels, not physics or human nature.
@@ -199,6 +234,13 @@ Myth 4: Electric vehicles are not as good as internal combustion engines. Electr
 Myth 5: Intermittency means clean energy is unreliable. Many studies have shown that fluctuations in the availability of sun or wind can be offset by building more power generation capacity than needed, using energy storage systems, and creating super grids.
 #+end_quote
 /(p. 328)/
+
+- *The apparent difficulties are myths, not physics:*
+  - "Transitions are slow" → we are 30 years in; renewables are now at cost parity or cheaper.
+  - "Some sectors can't be electrified" → new solutions decarbonise trucking, shipping, cement, steel.
+  - "Behaviour won't change" → the pandemic showed behaviour and business models can shift fast.
+  - "EVs are inferior" → EVs out-perform on speed/acceleration with ~20 moving parts vs up to 2,000.
+  - "Intermittency makes it unreliable" → offset with overcapacity, storage, and super grids.
 
 *** Systemic Efficiency: Demand-Side Energy
 
@@ -219,6 +261,12 @@ Solution 3: Exponential Growth in New Renewables. Renewable energy technologies 
 #+end_quote
 /(p. 339)/
 
+- *Solutions for the energy turnaround:*
+  - Systemic efficiency — meeting needs with services rather than raw energy can cut final energy demand ~40% by 2050.
+  - Electrify (almost) everything — replace burning coal, oil, gas and trees with electrons.
+  - Scale new renewables — wind and solar get ~20–25% cheaper per doubling of capacity (learning curves fossil fuels lack).
+  - Halve [[id:73226fcb-1702-4d6b-a4ba-b66bbae65c2a][CO₂]] and other greenhouse-gas emissions roughly every decade to net-zero by 2050.
+
 ** Part 5: A New Economic Model
 
 *** Five Economic Levers
@@ -234,6 +282,14 @@ De-risking investments in low-income countries and cancel debt.
 Investment in efficient, regenerative food and renewable energy systems.
 #+end_quote
 /(p. 359)/
+
+- *Problem:* the lever to change the system sits in one place — the economy — yet it stays unpulled.
+- *Solutions (the five levers):*
+  - Citizens Funds to share the wealth of the global commons fairly.
+  - Active government — subsidies, incentives, regulation — to accelerate the turnarounds.
+  - Transform the international financial system to fund poverty alleviation in "Most of the World".
+  - De-risk investment in low-income countries and cancel unfair debt.
+  - Invest in efficient, regenerative food and renewable energy systems.
 
 *** Three Economic Narratives
 
@@ -259,6 +315,11 @@ Narrative three, then, has been the steady rise of a parasitic rentier economy i
 #+end_quote
 /(p. 368)/
 
+- *Narrative 1 — postwar Keynesian (1945–1975):* a business/labour/government split aiming at full employment and safety nets; brought stability and greater equality.
+- *Narrative 2 — market liberalisation (~1980–2008):* globalisation for efficiency; finance deregulated and dominant; new problems — private debt, weakened infrastructure, short-termism, rising inequality.
+- *Narrative 3 — the rentier economy (post-2008):* money made on money and asset values rather than production; concentrates wealth and undermines democratic governance.
+- *Implication:* the rentier turn is the structural root the turnarounds must reverse.
+
 *** Reviving the Commons
 
 *Context:* The Ankerwycke Yew and the Magna Carta anniversary are used as historical anchors for the commons tradition. The argument is not nostalgic but systemic: if shared resources are the ultimate source of all wealth, their governance determines who benefits.
@@ -267,6 +328,9 @@ Narrative three, then, has been the steady rise of a parasitic rentier economy i
 The challenge now is to rebuild an economic operating system that values the commons and operates in a twenty-first-century context. "There is a need to become Indigenous again with community-based economic systems based on local production and consumption needs. Reciprocal exchanges of surpluses with neighboring communities to ensure wellbeing for all and protection of ecosystems need to be revived."
 #+end_quote
 /(p. 376)/
+
+- *Problem:* the commons — the ultimate source of all wealth — is unpriced, so it is easy to ignore and to destroy.
+- *Solution:* rebuild an economic operating system that values the commons — community-based production and reciprocal exchange of surpluses ("become Indigenous again").
 
 *** The Economic Gameboard
 
@@ -292,6 +356,12 @@ The third lever—the cancellation of unfair debt—upends the gameboard dramati
 #+end_quote
 /(p. 386)/
 
+- *Problem:* in a rentier economy money "trickles up" from producers and households through finance to asset owners, while a weakened government looks on.
+- *Solutions (three levers redirect the flows):*
+  - Citizens Fund — adds nature as a money tree; dividends shift wealth back to workers and households.
+  - Regulate finance — channel lending away from fossil fuels and unsustainable agriculture toward clean energy and regenerative practice.
+  - Cancel unfair debt — writing off ~$900bn frees nearly a billion people's spending for poverty relief and resource renewal.
+
 *** Wellbeing Economy as Destination
 
 *Context:* The final convergence: a wellbeing economy measures success by changes in the total stock of capital (produced, human, natural) rather than annual GDP flows. This reframing makes ecosystem restoration and social investment visible as wealth creation rather than cost.
@@ -300,3 +370,6 @@ The third lever—the cancellation of unfair debt—upends the gameboard dramati
 In a healthy economy, what many refer to as a wellbeing economy, future prosperity relies not as much on the annual ups or downs of economic activities, which is what GDP per year measures, but on how well those activities build and maintain the commons—in other words, all of its broad capital stocks—over time.
 #+end_quote
 /(p. 390)/
+
+- *Reframing:* measure success by the total stock of capital (produced, human, natural) maintained over time, not annual GDP flows.
+- *Effect:* ecosystem restoration and social investment become visible as wealth creation rather than cost — the [[id:d112fb80-8110-47c9-a1eb-01415d3eed34][wellbeing economy]] as the destination of the Giant Leap.
