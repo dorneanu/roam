@@ -7,7 +7,7 @@ draft = false
 
 ## Overview {#overview}
 
-The Giant Leaps is the transformational scenario in "Earth for All: A Survival Guide for Humanity" (Club of Rome, 2022). It consists of five interconnected policy packages that, if implemented together with urgency in the 2020s, the [Earth4All model]({{< relref "earth4all_model.md" >}}) projects can stabilise climate, eliminate extreme poverty, reduce inequality, and deliver a [Wellbeing economy]({{< relref "wellbeing_economy.md" >}}) — all within the safe operating space defined by [Planetary boundaries]({{< relref "planetary_boundaries.md" >}}).
+The Giant Leaps is the transformational scenario in "Earth for All: A Survival Guide for Humanity" (Club of Rome, 2022). It consists of five interconnected policy packages that, if implemented together with urgency in the 2020s, the [Earth4All model]({{< relref "earth4all_model.md" >}}) projects can stabilise climate, eliminate extreme poverty, reduce inequality, and deliver a [Wellbeing economy]({{< relref "wellbeing_economy.md" >}}) — all within the safe operating space defined by .
 
 The five leaps are explicitly not incremental reforms. The authors argue that half-measures — the "Too Little Too Late" (TLTL) trajectory — will produce societal turbulence and eventual collapse dynamics. Only a rapid, simultaneous transformation across all five domains can navigate the "decisive decade" of the 2020s toward a stable, equitable civilisation.
 
@@ -49,7 +49,7 @@ The five leaps are explicitly not incremental reforms. The authors argue that ha
     -   Produces enough calories for 10 billion people but distributes them unequally
     -   Is responsible for ~30% of global greenhouse gas emissions
     -   Drives ~80% of terrestrial biodiversity loss through land conversion
-    -   Relies on nitrogen and phosphorus loading that has crossed [Planetary boundaries]({{< relref "planetary_boundaries.md" >}})
+    -   Relies on nitrogen and phosphorus loading that has crossed
     -   Produces chronic disease epidemics through ultra-processed, meat-heavy diets
 -   Mechanisms:
     -   Dietary shift in high-income countries toward plant-rich, lower-meat diets (not necessarily fully vegetarian; halving meat consumption in rich nations would free vast land areas)
@@ -74,6 +74,13 @@ The five leaps are explicitly not incremental reforms. The authors argue that ha
     -   Massive public investment in grid infrastructure, storage, and demand-side efficiency
     -   Just transition support for communities dependent on fossil fuel industries
 -   The [Earth4All model]({{< relref "earth4all_model.md" >}}) projects that the energy leap alone, without the other four, is insufficient to prevent dangerous climate change — all five are needed simultaneously because the other four affect both emissions and the social stability required to enact climate policy
+
+
+## Political legitimacy: the Triggerpunkte problem {#political-legitimacy-the-triggerpunkte-problem}
+
+[Triggerpunkte](https://www.goodreads.com/book/show/199211943-triggerpunkte) (Mau, Lux, Westheuser, 2023) documents the sociological obstacle the five leaps must overcome: climate policy reliably triggers backlash along class lines. The "Heute-Morgen" arena analysis finds that in all classes, a majority accepts ecological crisis — but class divisions sharpen sharply once the conversation shifts to **who bears the transformation costs**. The key insight: the academic middle class frames climate action through individual lifestyle and footprint reduction; the working class frames it through structural necessity and limited financial agency. This mismatch produces Reaktanz rather than coalition.
+
+The Giant Leaps design implicitly addresses this: structural measures (wealth taxes on top 10%, fossil fuel subsidy redirection, just transition funds) front-load the burden on high emitters — consistent with Triggerpunkte's empirical finding that cross-class consensus exists around the principle "die, die mehr haben, dürfen auch mehr beitragen." The emissions data aligns: in Europe, the top 10% emit ~27 tonnes CO₂/year per capita vs ~5 tonnes for the bottom 50% — meaning the structural leaps targeting the top are both fairer and more impactful than individual behaviour campaigns aimed at the majority.
 
 
 ## The interdependence argument {#the-interdependence-argument}

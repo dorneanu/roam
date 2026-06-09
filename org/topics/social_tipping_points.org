@@ -41,5 +41,14 @@ Donella Meadows' leverage-points framework is a foundational tool for social tip
 
 Earth for All's [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]] operate across all levels, but the authors emphasise that paradigm change — abandoning GDP-growth-as-success, embracing [[id:d112fb80-8110-47c9-a1eb-01415d3eed34][Wellbeing economy]] thinking — is the deepest leverage point.
 
+* Political friction: why tipping points are hard to trigger
+[[https://www.goodreads.com/book/show/199211943-triggerpunkte][Triggerpunkte]] (Mau, Lux, Westheuser, 2023) provides the sociological complement to tipping-point theory: an empirical account of *why* social transformation triggers political backlash rather than cascade. Their "Heute-Morgen" arena analysis identifies four types of trigger reactions that climate policy reliably activates:
+- *Verhaltenszumutungen* — perceived impositions on individual lifestyle (dietary change, mobility restrictions, heating bans)
+- *Entgrenzungsbefürchtungen* — fear that transformation will dissolve familiar boundaries (economic security, national competitiveness)
+- *Transformationslasten* — the class-specific distribution of transition costs: rural workers and low-income groups face structural constraints (no EV alternative, no public transport) that the academic middle class, focused on individual footprint reduction, systematically underestimates
+- *Ökologische Distinction* — the middle-class "moralische Ökologie" (reflexive consumption, "listen to the science") speaks past working-class ecology (structural necessity, limited agency), generating Reaktanz rather than coalition
+
+The implication for tipping-point strategy: the six tipping points identified by Earth4All are achievable only if the structural policy packages ([[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]]) address distribution of costs upfront. A tipping point triggered by elite norm-change without working-class buy-in risks producing a counter-tipping-point of political backlash (gilets jaunes dynamics).
+
 * Resources
 - 2026-06-05 ◦ [[https://www.goodreads.com/book/show/60321399-earth-for-all][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — Chapter on social tipping points identifies six cascades needed for Giant Leaps; connects to clean energy, divestment, and women's empowerment dynamics; cites Chenoweth's 3.5% threshold

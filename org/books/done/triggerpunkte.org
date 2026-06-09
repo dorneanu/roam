@@ -878,6 +878,9 @@ vorgeschrieben und quasi befohlen wird, dagegen wehre ich mich!
     - bedrohte Wahlfreiheit
       - Freiheit als Nichteinmischung und Ermöglichung von gutem Leben und legitimem Luxus
       - nicht müssen, dürfen
+
+*Related:* [[id:5fe6c15f-e11a-48a2-94f7-f028c0e02c9e][Social tipping points]] — the micro-level trigger dynamics (Verhaltenszumutungen, Entgrenzungsbefürchtungen) described here are the political friction that social tipping points must overcome to cascade; [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]] — Earth4All's structural policy packages (wealth taxes, redirected subsidies, just transition) are designed precisely to address the class-specific Transformationslasten and Ökologische Distinction gaps identified here
+
 * Triggerpunkte
 - /Konzept der "Triggerpunkte"/:
   - Stellen, an denen Meinungsverschiedenheiten eskalieren
