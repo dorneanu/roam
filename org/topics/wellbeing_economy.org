@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       d112fb80-8110-47c9-a1eb-01415d3eed34
+:END:
+#+title: Wellbeing economy
+#+filetags: :economics:philosophy:
+
+* Overview
+A wellbeing economy is an economic system explicitly designed to deliver human and ecological wellbeing rather than to maximise GDP growth. The term encompasses several related frameworks — the Wellbeing Economy Alliance (WEAll), New Zealand's Living Standards Framework, Scotland and Iceland's Wellbeing Economy Governments partnership, and Kate Raworth's doughnut economics — all of which redefine success by measuring what actually matters to people and to the biosphere.
+
+The core critique: GDP measures the volume of monetised transactions, not whether those transactions increase flourishing. GDP rises when people get sick and need treatment; it rises when forests are cleared for agriculture; it does not capture inequality, leisure, unpaid care work, or ecological health. A wellbeing economy substitutes richer metrics covering income security, health, education, environmental quality, and social connection.
+
+* Earth for All and the wellbeing economy
+"Earth for All" (Club of Rome, 2022) treats the wellbeing economy as the destination that the [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]] are designed to reach. The book argues:
+- Developed economies approaching or past "peak wellbeing" — additional GDP growth adds little to life satisfaction but significant environmental damage
+- Emerging economies still need real improvements in material living standards, but through clean technology pathways, not fossil-fuel replication
+- The goal is to decouple human flourishing from physical throughput — more wellbeing, less material consumption
+
+The Earth4All model (see [[id:08470b4c-4b45-4650-a6a9-067f801f94bb][Earth4All model]]) uses wellbeing indicators alongside GDP to evaluate scenarios: the Giant Leaps scenario produces markedly better wellbeing outcomes while keeping resource consumption closer to [[id:ce1041c3-1f76-42ea-b2de-0016f61b8240][Planetary boundaries]].
+
+* Relation to doughnut economics
+Kate Raworth's doughnut economics framework (2017) is a close relative: the doughnut's inner ring (social foundation) corresponds to the wellbeing floor, while its outer ring (ecological ceiling) maps directly onto planetary boundaries. Earth for All can be read as a quantitative, policy-operational version of the doughnut — specifying which interventions cross the social floor without breaching the ecological ceiling.
+
+* GDP beyond GDP
+Key alternative metrics proposed within wellbeing economy frameworks:
+- *Genuine Progress Indicator (GPI)* — adjusts GDP for inequality, unpaid work, environmental costs, and defensive expenditures
+- *Human Development Index (HDI)* — UN composite of income, health, and education
+- *Wellbeing scores* — Cantril ladder, subjective life satisfaction surveys
+- *Planetary health check* — dashboard of [[id:ce1041c3-1f76-42ea-b2de-0016f61b8240][Planetary boundaries]] indicators
+- *Inclusive Wealth Index* — World Bank; values produced capital, human capital, and natural capital
+
+* Degrowth vs green growth
+The wellbeing economy sits at the contested border between degrowth and green growth. Degrowth advocates argue GDP must shrink in rich nations to stay within planetary limits; green growth advocates argue decoupling — producing more value with less material throughput — is achievable at scale. Earth for All takes a pragmatic middle position: rich nations should prioritise wellbeing and allow GDP to plateau or decline if necessary; developing nations need growth but through clean technology. The authors call this "post-growth" rather than degrowth, reserving degrowth for contexts where material throughput must fall.
+
+* Resources
+- 2026-06-05 ◦ [[https://www.goodreads.com/book/show/60321399-earth-for-all][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — wellbeing economy as the explicit goal of the Giant Leaps; argues developed nations are past peak wellbeing-GDP return; discusses decoupling and post-growth framing

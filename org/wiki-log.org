@@ -112,3 +112,13 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics created:* ai_engineering.org
 - *Summary:* Ingested the AI Engineering from Scratch website — a 503-lesson, 20-phase open-source curriculum (MIT license, maintainer Rohit Ghumare) covering math-first AI engineering from linear algebra through autonomous swarms in Python, TypeScript, Rust, and Julia. Created ai_engineering.org covering the math-first methodology (derive→code→test→keep artifact), core topics, and the open-source curriculum; enriched ai.org with a new AI Engineering section, and added reference links to python.org and rust.org; added ai_engineering.org to wiki_index.org under AI/Machine Learning.
 
+* 2026-06-05: Ingest — Earth for All (Club of Rome, 2022)
+:PROPERTIES:
+:DATE:     2026-06-05
+:TYPE:     ingest
+:SOURCE:   ~/projects/roam-sources/books/2022/dixson-decleve_earth-for-all.md
+:END:
+- *Source type:* book
+- *Topics updated:* anthropozan.org, doughnut_economics.org, carbon_dioxide.org
+- *Topics created:* planetary_boundaries.org, earth4all_model.org, wellbeing_economy.org, social_tipping_points.org, giant_leaps.org, limits_to_growth.org
+- *Summary:* Ingested Earth for All by Dixson-Declève, Gaffney, Ghosh, Randers, Rockström, and Stoknes (Club of Rome, 2022); created six new topic files covering the planetary boundaries framework, the Earth4All system-dynamics model and its two scenarios (Too Little Too Late vs Giant Leaps), the wellbeing economy paradigm, social tipping points and leverage-point analysis, the five Giant Leaps policy packages, and the Limits to Growth legacy; enriched three existing topics (Anthropozän, Doughnut Economics, Carbon Dioxide) with cross-links to the new files.

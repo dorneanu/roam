@@ -6,3 +6,17 @@
 #+type: text/vnd.tiddlywiki
 
 by Kate Raworth
+
+* Overview
+Doughnut Economics (Kate Raworth, 2017) redefines the goal of economics: instead of maximising GDP growth, the aim is to meet the needs of all people within the means of the living planet. The metaphor of a doughnut captures this:
+- *Inner ring (social foundation)*: a set of minimum social standards — food, water, health, education, income, political voice — below which no one should fall
+- *Outer ring (ecological ceiling)*: the [[id:ce1041c3-1f76-42ea-b2de-0016f61b8240][Planetary boundaries]] beyond which human pressure destabilises Earth systems
+- *The doughnut itself (safe and just space)*: the region between the two rings where humanity can thrive
+
+The framework is a visual synthesis of two bodies of work: the UN Sustainable Development Goals (social floor) and Rockström's planetary boundaries (ecological ceiling). The doughnut has been adopted as a planning framework by the City of Amsterdam, and influenced the [[id:d112fb80-8110-47c9-a1eb-01415d3eed34][Wellbeing economy]] movement.
+
+* Connection to Earth for All
+"Earth for All" (Club of Rome, 2022) can be read as a quantitative, policy-operational version of doughnut economics: the [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]] are five policy packages specifically designed to lift humanity above the social floor while staying below the ecological ceiling. The [[id:08470b4c-4b45-4650-a6a9-067f801f94bb][Earth4All model]] provides the system-dynamics modelling that doughnut economics lacks — quantifying which interventions are necessary and in what order.
+
+* Resources
+- 2026-06-05 ◦ [[https://www.goodreads.com/book/show/60321399-earth-for-all][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — positions Giant Leaps as the operational counterpart to doughnut economics; doughnut's social foundation and ecological ceiling both appear in Earth4All's model architecture
