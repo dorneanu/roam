@@ -1,0 +1,59 @@
++++
+title = "Earth4All model"
+author = ["Dorneanu"]
+tags = ["science", "economics"]
+draft = false
++++
+
+## Overview {#overview}
+
+The Earth4All model is a system-dynamics simulation of global society and economy developed by the Club of Rome team (Sandrine Dixson-Declève, Owen Gaffney, Jayati Ghosh, Jørgen Randers, Johan Rockström, Per Espen Stoknes) as the technical backbone of "Earth for All" (2022). Building on the legacy of the original Limits to Growth model (Club of Rome, 1972), Earth4All integrates energy, food, population, inequality, and Earth-system feedbacks into a single coupled model, then explores two contrasting futures to 2100.
+
+The model differs from its 1972 predecessor by explicitly modelling inequality at global and regional levels, including the physical dimensions of [Planetary boundaries]({{< relref "planetary_boundaries.md" >}}), and distinguishing between economic activity and human wellbeing — treating GDP as an inadequate proxy for social progress.
+
+
+## The two scenarios {#the-two-scenarios}
+
+
+### Too Little Too Late (TLTL) {#too-little-too-late--tltl}
+
+The baseline extrapolation. Governments and institutions continue current policies with incremental improvements but no structural transformation. Outcomes by 2050–2100:
+
+-   Global average income stagnates or rises modestly, but inequality keeps growing
+-   Several billion people remain in poverty; social frustration builds
+-   Multiple [Planetary boundaries]({{< relref "planetary_boundaries.md" >}}) are crossed; climate destabilisation worsens
+-   Societies face increasing turbulence, erosion of trust, and potential collapse dynamics
+-   The model shows this trajectory is consistent with the Limits to Growth "business as usual" overshoot-and-collapse path
+
+
+### Giant Leaps {#giant-leaps}
+
+A transformation scenario in which five major policy packages are implemented in the 2020s with urgency. If enacted together and quickly enough, the model projects:
+
+-   Extreme poverty eliminated by 2060
+-   Inequality reduced to 1980 levels by mid-century
+-   Global warming limited to ~2°C with strong probability of staying below
+-   Improved food security and land restoration
+-   Population growth slowing sooner due to women's empowerment and education
+-   Human wellbeing indicators rising even as material throughput is constrained
+
+The five packages are the [Giant Leaps]({{< relref "giant_leaps.md" >}}) framework. The key insight is that timing matters: the same five leaps enacted in the 2030s produce far worse outcomes than in the 2020s, because tipping-point dynamics amplify early action.
+
+
+## Turnover time and system inertia {#turnover-time-and-system-inertia}
+
+A core finding of the Earth4All model is that social and economic systems have long inertia (turnover times of 10–40 years). This means:
+
+-   Policies enacted today will not fully manifest for a generation
+-   Delay is irreversible from a trajectory standpoint — not just "slower progress" but a permanently worse attractor
+-   The 2020s are identified as the "decisive decade" in which the fork between TLTL and Giant Leaps is still navigable
+
+
+## Legacy of the Limits to Growth {#legacy-of-the-limits-to-growth}
+
+The 1972 Limits to Growth (Club of Rome) was among the first quantitative models to show that exponential growth on a finite planet would lead to overshoot and collapse without systemic change. The Earth4All model updates this with five decades of additional data, finds the 1972 business-as-usual projections broadly accurate, and extends the analysis with inequality, wellbeing, and tipping-point dynamics.
+
+
+## Resources {#resources}
+
+-   2026-06-05 ◦ [Earth for All — Dixson-Declève et al. (Club of Rome, 2022)](https://www.goodreads.com/book/show/60321399-earth-for-all) — describes the model architecture, two scenarios, and policy implications in detail; technical model documentation available at earth4all.life
