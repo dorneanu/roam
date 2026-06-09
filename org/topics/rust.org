@@ -12,3 +12,4 @@
 
 * Articles
 - 2022-09-13 ◦ [[https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust][GitHub - joaocarvalhoopen/How_to_learn_modern_Rust: A guide to the adventurer.]]
+- 2026-06-04 ◦ [[https://aiengineeringfromscratch.com/][AI Engineering from Scratch]] — Rust is one of the four implementation languages (alongside Python, TypeScript, Julia) in this open-source [[id:6fd25cac-046f-48cf-9e6e-6fbd1077996f][AI engineering]] curriculum; algorithms implemented in Rust to illustrate performance-critical foundations

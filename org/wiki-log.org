@@ -100,3 +100,15 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* solitude.org, boredom.org, conversation-centric_communication.org, phone_based_childhood.org, social_comparison.org, attention_economy.org
 - *Topics created:* eliza_effect.org
 - *Summary:* Ingested Sherry Turkle's Reclaiming Conversation; created eliza_effect.org covering the projection of empathy onto machines from Weizenbaum's 1966 ELIZA to contemporary AI companions; enriched six existing topics with Turkle's Tillich/Winnicott solitude-vs-loneliness distinction and virtuous circle of conversation (solitude.org), Winnicott/Erikson developmental boredom as invitation (boredom.org), Siegel/Senju neurological case for eye contact and phubbing as sub-concept (conversation-centric_communication.org), the "missing chip" hypothesis for caregiver phone use (phone_based_childhood.org), "I share, therefore I am" as new ontological mode (social_comparison.org), and Goldilocks effect + Maryanne Wolf deep reading/brain plasticity + ambient phone effect (attention_economy.org).
+
+* 2026-06-04: Ingest — AI Engineering from Scratch (curriculum website)
+:PROPERTIES:
+:DATE:     2026-06-04
+:TYPE:     ingest
+:SOURCE:   https://aiengineeringfromscratch.com/
+:END:
+- *Source type:* website / open-source curriculum
+- *Topics updated:* ai.org, python.org, rust.org, wiki_index.org
+- *Topics created:* ai_engineering.org
+- *Summary:* Ingested the AI Engineering from Scratch website — a 503-lesson, 20-phase open-source curriculum (MIT license, maintainer Rohit Ghumare) covering math-first AI engineering from linear algebra through autonomous swarms in Python, TypeScript, Rust, and Julia. Created ai_engineering.org covering the math-first methodology (derive→code→test→keep artifact), core topics, and the open-source curriculum; enriched ai.org with a new AI Engineering section, and added reference links to python.org and rust.org; added ai_engineering.org to wiki_index.org under AI/Machine Learning.
+
