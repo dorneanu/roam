@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       6fd25cac-046f-48cf-9e6e-6fbd1077996f
+:END:
+#+title: AI Engineering
+#+filetags: :ai:engineering:
+
+* Overview
+
+AI engineering is the discipline of building AI systems from first principles —
+deriving algorithms from mathematics before introducing any framework. This
+contrasts with the prevalent tutorial-first approach of learning ML through
+frameworks (PyTorch, TensorFlow) without understanding underlying foundations.
+
+The field spans from linear algebra foundations through neural network
+architectures, tokenization, attention mechanisms, and ultimately autonomous
+agent systems.
+
+* Math-first methodology
+
+The core pedagogical principle: every algorithm is derived from raw math before
+a single framework is imported. Each lesson follows the pattern:
+1. Read the problem
+2. Derive the math
+3. Write the code
+4. Run the test
+5. Keep the artifact (runnable, multi-language implementation)
+
+This approach is contrasted against fragmented AI education (scattered tutorials,
+framework-first shortcuts) to produce engineers who understand why algorithms
+work, not just how to call them.
+
+* Core topics
+
+- *Foundations*: linear algebra, calculus, probability
+- *Core ML*: backpropagation, gradient descent, supervised/unsupervised learning
+- *Deep learning*: neural networks, tokenizers, attention mechanisms, transformers
+- *Applied*: [[id:e4dd5a6c-5c20-48d4-9d9a-408893dc8ce6][Python]], TypeScript, Rust, Julia implementations
+- *Advanced*: autonomous agent loops, swarm architectures
+
+* Open source curricula
+
+** AI Engineering from Scratch
+- *Maintainer*: Rohit Ghumare (github.com/rohitg00)
+- *Scale*: 503 lessons across 20 phases, MIT licensed, free
+- *Scope*: "Linear algebra at one end, autonomous swarms at the other"
+- *Access*: github.com/rohitg00/ai-engineering-from-scratch; runs locally, no paywall
+- *Languages*: [[id:e4dd5a6c-5c20-48d4-9d9a-408893dc8ce6][Python]], TypeScript, [[id:cdf2a03e-f080-4e6f-8636-7c0f582d91fc][Rust]], Julia
+
+* Relationship to AI tooling
+
+AI engineering is a prerequisite for understanding and effectively using
+higher-level tools like [[id:8f1e78cd-fefa-4a2f-9db9-0e1e396a0448][AI]] assistants, [[id:2e0c582e-2cf0-4e2c-a1bd-378b6041a3ce][LLM wikis]], and [[id:1d69111a-a3c1-4c18-af2a-b6a2ad6c04c8][Claude Code]].
+Understanding backpropagation and attention mechanisms from scratch enables
+informed decisions about model selection, fine-tuning, and system architecture.
+
+* Resources
+- 2026-06-04 ◦ [[https://aiengineeringfromscratch.com/][AI Engineering from Scratch]] — 503-lesson open-source curriculum, math-first approach, 20 phases from linear algebra to autonomous swarms, MIT license, [[id:e4dd5a6c-5c20-48d4-9d9a-408893dc8ce6][Python]]/TypeScript/[[id:cdf2a03e-f080-4e6f-8636-7c0f582d91fc][Rust]]/Julia
