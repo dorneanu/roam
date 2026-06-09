@@ -38,6 +38,9 @@ Updated automatically on every ingest.
 ## AI / Machine Learning {#ai-machine-learning}
 
 -   [AI]({{< relref "ai.md" >}}) — collected resources and notes on artificial intelligence, LLMs, and AI tooling
+-   [LLM wiki]({{< relref "llm_wiki.md" >}}) — Karpathy's pattern for an LLM-maintained knowledge base: immutable raw sources, LLM-generated wiki pages, and a schema file; ingest/query/lint operations; stateful alternative to RAG at personal/small-team scale
+-   [Claude Code]({{< relref "claude_code.md" >}}) — Anthropic's AI coding CLI; .claude/ as version-controlled team infrastructure (CLAUDE.md conventions, shared slash commands, settings hooks); home of the Planner-Generator-Evaluator pattern
+-   [Planner-Generator-Evaluator pattern]({{< relref "planner_generator_evaluator.md" >}}) — agentic design pattern decomposing LLM coding workflows into Planner (brief→spec), Generator (sprint-by-sprint implementation), and Evaluator (live-app grading against hard thresholds)
 
 
 ## Productivity {#productivity}
@@ -54,6 +57,8 @@ Updated automatically on every ingest.
 
 ## Psychology {#psychology}
 
+-   [ELIZA effect]({{< relref "eliza_effect.md" >}}) — the tendency to project emotional depth onto machines that simulate listening; foundational case study in human-AI interaction from Weizenbaum's 1966 chatbot to contemporary AI companions (Turkle)
+-   [Phubbing]({{< relref "phubbing.md" >}}) — "phone snubbing": maintaining eye contact while texting; the ambient phone effect degrades conversation quality even when the phone is silent and face-down; dictionary-recognised cultural marker of normalised divided attention (Turkle)
 -   [Safetyism]({{< relref "safetyism.md" >}}) — cultural tendency to prevent all discomfort and risk for children, producing more anxiety and less resilience
 -   [Mean world syndrome]({{< relref "mean_world_syndrome.md" >}}) — Gerbner's concept: heavy media consumption inflates perceived danger far beyond actual risk levels
 -   [Overparenting]({{< relref "overparenting.md" >}}) — excessive parental supervision and control that produces higher anxiety, depression, and learned helplessness
@@ -68,3 +73,7 @@ Updated automatically on every ingest.
 -   [Phone-based childhood]({{< relref "phone_based_childhood.md" >}}) — the 2010–2015 transition from play-based to screen-based adolescent life and its four foundational harms: social deprivation, sleep deprivation, attention fragmentation, and addiction
 -   [Antifragility]({{< relref "antifragility.md" >}}) — Taleb's concept applied to child development: children need exposure to manageable challenge, risk, and failure to grow strong; protection from all difficulty produces fragility, not safety
 -   [Social comparison]({{< relref "social_comparison.md" >}}) — chronic upward comparison fueled by social media; the primary mechanism by which Instagram and TikTok harm girls' mental health during puberty
+-   [Gaming addiction]({{< relref "gaming_addiction.md" >}}) — internet gaming disorder affecting ~7% of adolescent boys (1 in 13); four-group taxonomy (addicted, problematic, engaged, casual); opportunity cost and friendship recession as harms for non-addicted heavy users
+-   [Pornography and adolescent harm]({{< relref "pornography_adolescent_harm.md" >}}) — online pornography as a prestige-hijacking harm for boys during the sensitive period for sexual development; Swedish prevalence data, 5:1–10:1 male addiction ratio, interpersonal satisfaction decline
+-   [Anomie]({{< relref "anomie.md" >}}) — Durkheim's normlessness concept applied to Gen Z: departure from stable real-world communities into anonymous shifting networks produces purposelessness, despair, and suicide; hikikomori and NEET as downstream outcomes
+-   [Sociogenic illness]({{< relref "sociogenic_illness.md" >}}) — illness spread by social transmission rather than pathogens; social media amplifies this via emotional contagion, prestige bias, and audience capture; explains rapid spread of tic disorders, DID, and anxiety among adolescent girls
