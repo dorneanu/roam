@@ -89,3 +89,14 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* ai.org, llm_wiki.org
 - *Topics created:* claude_code.org, planner_generator_evaluator.org
 - *Summary:* Ingested two presentation slides from an Amazon/AWS internal talk covering Claude Code's .claude/ directory as version-controlled team infrastructure (CLAUDE.md, shared commands, settings hooks) and the Planner-Generator-Evaluator agentic design pattern (plan-mode spec, sprint-by-sprint generation, live-app evaluation); created two new topic files and added cross-links from ai.org and llm_wiki.org.
+
+* 2026-06-04: Ingest — AI Engineering from Scratch (curriculum website)
+:PROPERTIES:
+:DATE:     2026-06-04
+:TYPE:     ingest
+:SOURCE:   https://aiengineeringfromscratch.com/
+:END:
+- *Source type:* website / open-source curriculum
+- *Topics updated:* ai.org, python.org, rust.org, wiki_index.org
+- *Topics created:* ai_engineering.org
+- *Summary:* Ingested the AI Engineering from Scratch website — a 503-lesson, 20-phase open-source curriculum (MIT license, maintainer Rohit Ghumare) covering math-first AI engineering from linear algebra through autonomous swarms in Python, TypeScript, Rust, and Julia. Created ai_engineering.org covering the math-first methodology (derive→code→test→keep artifact), core topics, and the open-source curriculum; enriched ai.org with a new AI Engineering section, and added reference links to python.org and rust.org; added ai_engineering.org to wiki_index.org under AI/Machine Learning.

@@ -4,6 +4,12 @@ author = ["Dorneanu"]
 draft = false
 +++
 
+## AI Engineering {#ai-engineering}
+
+-   2026-06-04 ◦ [AI Engineering]({{< relref "ai_engineering.md" >}}) — the discipline of building AI systems from mathematical first principles; see [ai_engineering.org]({{< relref "ai_engineering.md" >}}) for the math-first methodology and open-source curricula
+-   2026-06-04 ◦ [AI Engineering from Scratch](https://aiengineeringfromscratch.com/) — 503-lesson open-source curriculum (MIT), 20 phases from linear algebra to autonomous swarms; Python, TypeScript, Rust, Julia; maintainer: Rohit Ghumare
+
+
 ## LLM {#llm}
 
 -   2026-06-02 ◦ [LLM wiki gist (Karpathy)](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) — pattern for an LLM-maintained [LLM wiki]({{< relref "llm_wiki.md" >}}): immutable raw sources, LLM-generated wiki pages, and a schema file (CLAUDE.md) that encodes structure and workflow; three operations: ingest, query, lint; stateful compounding alternative to RAG at personal/team scale
