@@ -1,6 +1,6 @@
 +++
 title = "Boredom"
-author = ["Cyneox"]
+author = ["Dorneanu"]
 draft = false
 +++
 
@@ -29,6 +29,25 @@ How can you train boredom:
     -   Performing tasks using non-digital methods (like writing on paper).
     -   Reduces the temptation of digital distractions.
     -   Encourages deeper, more focused thought processes.
+
+
+## Developmental boredom {#developmental-boredom}
+
+Sherry Turkle draws on Winnicott and Erikson to argue that childhood boredom is not a deficit but a developmental driver. For Winnicott, a child's capacity to be bored — closely linked to the capacity to play contentedly alone while in the quiet presence of a parent — is a critical sign of psychological health. Erik Erikson likewise argued that children thrive when given time and stillness; the "shiny objects" of today's childhood demand time and interrupt stillness, leaving no space for the child's own imagination to fill.
+
+Physical materials (clay, blocks, finger paints) impose natural resistance and slow children down. Digital media eliminate that friction — always responsive, always stimulating — substituting stimulus-response loops for the creative void that boredom opens.
+
+> To reclaim solitude we have to learn to experience a moment of boredom as a reason to turn inward, to defer going "elsewhere" at least some of the time.
+
+(Turkle, Reclaiming Conversation, p. 62)
+
+In the classroom, Turkle argues boredom is an invitation, not a problem: "a moment of boredom can be an opportunity to go inward to your imagination, an opportunity for new thinking." This is the pedagogical version of [Solitude]({{< relref "solitude.md" >}}): the teacher who rescues students from every moment of disengagement is preventing the inward turn that genuine learning requires.
+
+
+## Resources {#resources}
+
+-   2026-05-19 ◦ [The Cost of Safetyism — Steve Magness](https://stevemagness.substack.com/p/the-cost-of-safetyism) — argues that children must be allowed to feel bored and navigate discomfort; preventing boredom through constant supervision denies them the raw material for emotional regulation and resilience. See [Safetyism]({{< relref "safetyism.md" >}}), [Unstructured Play]({{< relref "unstructured_play.md" >}})
+-   2026-06-05 ◦ [Reclaiming Conversation — Sherry Turkle (2015)](https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation) — Winnicott on boredom as developmental achievement; Erikson on stillness; digital media as boredom-eliminating frictionlessness; classroom boredom as an invitation to turn inward rather than to the phone
 
 On boredom and [Deliberate Practice]({{< relref "deliberate_practice.md" >}}):
 
