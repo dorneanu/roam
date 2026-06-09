@@ -19,9 +19,9 @@ Sherry Turkle argues that the always-on, device-mediated life is eroding our cap
 - [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] — children without face-to-face practice lack empathy circuitry ("missing chip" hypothesis)
 - [[id:7511f2b6-65d5-4790-9cbe-4ae51e36f7c8][Social comparison]] — social media shifts focus from authenticity to performance; "I share, therefore I am"
 - [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] — deep reading threatened by a screen-trained brain; recoverable with deliberate effort (Maryanne Wolf)
-- Goldilocks effect — digital distance feels "not too close, not too far, just right"
-- ELIZA effect — people project emotional depth onto machines that simulate listening
-- Virtuous circle of conversation — solitude → self-knowledge → empathy → richer conversation → deeper solitude
+- [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Goldilocks effect]] — digital distance feels "not too close, not too far, just right"
+- [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]] — people project emotional depth onto machines that simulate listening
+- [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Virtuous circle of conversation]] — solitude → self-knowledge → empathy → richer conversation → deeper solitude
 - Fourth chair — Thoreau's three plus ours: who do we become when we talk to machines?
 
 * Highlights
