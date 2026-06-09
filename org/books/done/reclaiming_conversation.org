@@ -10,7 +10,7 @@
 - date :: 2015
 
 * About this book
-Sherry Turkle argues that the always-on, device-mediated life is eroding our capacity for face-to-face conversation — and with it, empathy, creativity, and genuine intimacy. Drawing on years of interviews across families, schools, and workplaces, she shows how the flight from conversation to connection has left people lonelier, less self-aware, and less capable of the kind of sustained, vulnerable talk that builds real relationships. The book is organised around Thoreau's three chairs. Thoreau wrote that in his Walden cabin he kept only three chairs, used depending on the company he needed: one for solitude (sitting alone, thinking), two for friendship (intimate conversation with one other person), and three for society (larger social engagement). Turkle uses this as a map for what phones are eroding at each level — first our inner life, then our closest relationships, then our public life. She adds a fourth chair of her own: the philosophical space opened when we talk to machines, the frontier Thoreau could not have anticipated.
+Sherry Turkle argues that the always-on, device-mediated life is eroding our capacity for face-to-face conversation — and with it, empathy, creativity, and genuine intimacy. Drawing on years of interviews across families, schools, and workplaces, she shows how the flight from conversation to connection has left people lonelier, less self-aware, and less capable of the kind of sustained, vulnerable talk that builds real relationships. The book is organised around Thoreau's three chairs. Thoreau wrote that in his Walden cabin he kept only three chairs, used depending on the company he needed: one for [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][solitude]] (sitting alone, thinking), two for friendship (intimate conversation with one other person), and three for society (larger social engagement). Turkle uses this as a map for what phones are eroding at each level — first our inner life, then our closest relationships, then our public life. She adds a fourth chair of her own: the philosophical space opened when we talk to machines, the frontier Thoreau could not have anticipated.
 
 * Key concepts
 - [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]] — the first chair; prerequisite for empathy and self-knowledge; eroded by constant connectivity
@@ -31,7 +31,7 @@ Sherry Turkle argues that the always-on, device-mediated life is eroding our cap
 :LINKS: [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] [[id:f47320bd-27eb-427d-b769-249fa52a90f2][Boredom]] [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]]
 :END:
 
-*Context:* Turkle opens by reframing "boredom" — not as a neutral state we escape, but as something we have actively manufactured through habituation to constant stimulation. The word "phubbing" is a cultural marker: the very fact that it now exists in the dictionary shows how normalised divided attention has become.
+*Context:* Turkle opens by reframing "[[id:f47320bd-27eb-427d-b769-249fa52a90f2][boredom]]" — not as a neutral state we escape, but as something we have actively manufactured through habituation to constant stimulation. The word "phubbing" is a cultural marker: the very fact that it now exists in the dictionary shows how normalised divided attention has become.
 
 
 #+begin_quote
@@ -40,7 +40,7 @@ We say we turn to our phones when we're "bored." And we often find ourselves bor
 /(p. 8)/
 
 
-*Context:* One of Turkle's key empirical anchors: the "iPhone effect" research showing that the mere presence of a phone — even face-down, even switched off — degrades conversation quality and reported empathy. The phone does not have to interrupt; its potential to do so is enough.
+*Context:* One of Turkle's key empirical anchors: the "iPhone effect" research showing that the [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][mere presence of a phone]] — even face-down, even switched off — degrades conversation quality and reported empathy. The phone does not have to interrupt; its potential to do so is enough.
 
 
 #+begin_quote
@@ -67,7 +67,7 @@ I begin my case by turning to someone many people think of—mistakenly—as a h
 /(p. 13)/
 
 
-*Context:* Refers to the Wilson et al. (2014) "just thinking" studies, in which a significant proportion of participants preferred administering mild electric shocks to themselves over sitting quietly with their own thoughts. Turkle uses this as evidence of how atrophied our capacity for solitude has become.
+*Context:* Refers to the Wilson et al. (2014) "just thinking" studies, in which a significant proportion of participants preferred administering mild electric shocks to themselves over sitting quietly with their own thoughts. Turkle uses this as evidence of how atrophied our capacity for [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][solitude]] has become.
 
 
 #+begin_quote
@@ -144,7 +144,7 @@ And, more than a symptom, constant connection is changing the way people think o
 :LINKS: [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]] [[id:f47320bd-27eb-427d-b769-249fa52a90f2][Boredom]] [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] [[id:7511f2b6-65d5-4790-9cbe-4ae51e36f7c8][Social comparison]] [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]]
 :END:
 
-*Context:* The screen is not a neutral surface — even when used alone, it pulls us outward rather than inward. Time on the net is companionship, not solitude: we are always performing for an imagined audience. The formulation "I want to have a feeling; I need to send a text" captures something genuinely new about how inner life is now processed.
+*Context:* The screen is not a neutral surface — even when used alone, it pulls us outward rather than inward. Time on the net is companionship, not [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][solitude]]: we are always performing for an imagined audience. The formulation "I want to have a feeling; I need to send a text" captures something genuinely new about how inner life is now processed.
 
 
 #+begin_quote
@@ -162,7 +162,7 @@ Screens serve up all kinds of educational, emotional, artistic, and erotic exper
 /(p. 57)/
 
 
-*Context:* A developmental argument drawn from Erikson: physical materials impose their own pace and resistance, creating the friction that makes imagination possible. Digital media eliminates that friction — it is always responsive, always stimulating — leaving no space for the child's own creative boredom to fill.
+*Context:* A developmental argument drawn from Erikson: physical materials impose their own pace and resistance, creating the friction that makes imagination possible. Digital media eliminates that friction — it is always responsive, always stimulating — leaving no space for the child's own creative [[id:f47320bd-27eb-427d-b769-249fa52a90f2][boredom]] to fill.
 
 
 #+begin_quote
@@ -199,7 +199,7 @@ To reclaim solitude we have to learn to experience a moment of boredom as a reas
 /(p. 62)/
 
 
-*Context:* Winnicott's concept of "being alone in the presence of another" — the developmental foundation of healthy solitude. A child who can tolerate and use boredom has internalised the parent's presence sufficiently to be comfortable without constant stimulation. This is being systematically undermined by device-mediated childhoods.
+*Context:* Winnicott's concept of "being alone in the presence of another" — the developmental foundation of healthy solitude. A child who can tolerate and use boredom has internalised the parent's presence sufficiently to be comfortable without constant stimulation. This is being systematically undermined by [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][device-mediated childhoods]].
 
 
 #+begin_quote
@@ -242,7 +242,7 @@ It's a chain reaction. Only one person has to start. Only one person has to stop
 /(p. 94)/
 
 
-*Context:* Leslie's case distils Turkle's argument about social media's developmental costs. The platform trains the opposite of what real relationships require: performance instead of authenticity, broadcast skill instead of listening, metrics instead of empathy. Leslie is becoming more effective at managing impressions precisely as her capacity for genuine connection atrophies.
+*Context:* Leslie's case distils Turkle's argument about social media's developmental costs. The platform trains the opposite of what real relationships require: [[id:7511f2b6-65d5-4790-9cbe-4ae51e36f7c8][performance instead of authenticity]], broadcast skill instead of listening, metrics instead of empathy. Leslie is becoming more effective at managing impressions precisely as her capacity for genuine connection atrophies.
 
 
 #+begin_quote
@@ -251,7 +251,7 @@ She tells me that "right now," the place she feels "most important" is on social
 /(p. 95)/
 
 
-*Context:* Turkle moves from the psychological to the neurological. Conversation with an attentive caregiver in early childhood literally builds the brain circuits for empathy and emotional regulation. This is not a metaphor — the neuroscience (Siegel, Senju) supports it. Children raised in screen-mediated environments may begin life with different wiring.
+*Context:* Turkle moves from the psychological to the neurological. Conversation with an attentive caregiver in early childhood literally builds the brain circuits for empathy and emotional regulation. This is not a metaphor — the neuroscience (Siegel, Senju) supports it. [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Children raised in screen-mediated environments]] may begin life with different wiring.
 
 
 #+begin_quote
@@ -260,7 +260,7 @@ If you don't use certain parts of the brain, they will fail to develop, or be co
 /(p. 96)/
 
 
-*Context:* Hillary's account makes explicit the link between attention and trust. Divided attention does not feel merely rude — it communicates, at a deep level, that the child is not worth full presence. The accumulated experience of being half-listened-to undermines the child's confidence that they matter.
+*Context:* Hillary's account makes explicit the link between [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][attention]] and trust. Divided attention does not feel merely rude — it communicates, at a deep level, that the child is not worth full presence. The accumulated experience of being half-listened-to undermines the child's confidence that they matter.
 
 
 #+begin_quote
@@ -347,7 +347,7 @@ Online, we do not become different selves. Our online identities are facets of o
 :LINKS: [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] [[id:f47320bd-27eb-427d-b769-249fa52a90f2][Boredom]] [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]]
 :END:
 
-*Context:* The device-free classroom experiment reveals the central irony: the instrument we use to feel in control of our lives is precisely what has taken control of our attention. Students report relief, not deprivation — they experience the phone-free space as freedom rather than restriction.
+*Context:* The device-free classroom experiment reveals the central irony: the instrument we use to feel in control of our lives is precisely what has taken control of our [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][attention]]. Students report relief, not deprivation — they experience the phone-free space as freedom rather than restriction.
 
 
 #+begin_quote
@@ -356,7 +356,7 @@ We decide to try a device-free class with a short break to check phones. For me,
 /(p. 177)/
 
 
-*Context:* The "circuit of apps" — variable reward loops, social notifications, infinite scroll — is architecturally designed to sustain attention once captured. The entry point can be trivially small (a moment of boredom, a glance to check if anyone wants you) but exit is structurally difficult.
+*Context:* The "circuit of apps" — variable reward loops, social notifications, infinite scroll — is architecturally designed to sustain attention once captured. The entry point can be trivially small (a moment of [[id:f47320bd-27eb-427d-b769-249fa52a90f2][boredom]], a glance to check if anyone wants you) but exit is structurally difficult.
 
 
 #+begin_quote
@@ -374,7 +374,7 @@ But there is another way to respond to students who complain that they need more
 /(p. 182)/
 
 
-*Context:* Wolf's personal crisis — a leading cognitive neuroscientist unable to finish a favourite novel — makes the abstract neuroplasticity argument viscerally concrete. The brain rewires itself around its habitual patterns of attention: a life of skimming and scanning produces a brain less capable of the sustained, deep attention that both serious reading and genuine conversation require.
+*Context:* Wolf's personal crisis — a leading cognitive neuroscientist unable to finish a favourite novel — makes the abstract neuroplasticity argument viscerally concrete. The brain rewires itself around its habitual patterns of attention: a life of skimming and scanning produces a brain less capable of the sustained, [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][deep attention]] that both serious reading and genuine conversation require.
 
 
 #+begin_quote
@@ -520,7 +520,7 @@ What do we forget when we talk to machines—and what can we remember?
 /(p. 282)/
 
 
-*Context:* ELIZA is the foundational case study of what Turkle calls the ELIZA effect: we project emotional depth onto machines even when we know they have none. Weizenbaum — who built ELIZA — was alarmed by this finding and spent the rest of his career warning against it. The effect he documented in 1966 with a primitive pattern-matching program is now operating at civilisational scale with LLMs capable of far more convincing simulation.
+*Context:* ELIZA is the foundational case study of what Turkle calls the [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]]: we project emotional depth onto machines even when we know they have none. Weizenbaum — who built ELIZA — was alarmed by this finding and spent the rest of his career warning against it. The effect he documented in 1966 with a primitive pattern-matching program is now operating at civilisational scale with LLMs capable of far more convincing simulation.
 
 
 #+begin_quote
