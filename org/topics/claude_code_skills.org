@@ -1,0 +1,142 @@
+:PROPERTIES:
+:ID:       f2b593c9-52ec-41ca-b376-b95d227d782c
+:END:
+#+title: Claude Code skills
+#+filetags: :ai:llm:software:
+
+* Overview
+
+Claude Code skills are reusable prompt definitions stored as markdown files in
+~.claude/commands/~, making them available as slash commands in any Claude Code
+session. The community has converged on a library of shared skills covering
+everything from project scaffolding to end-of-session retrospectives. Skills are
+plain text; they can be version-controlled, shared, installed from GitHub, and
+composed into multi-skill workflows.
+
+The two most widely adopted community skills are GSD (Get-Shit-Done) for large
+iterative projects and Superpowers for small-to-medium, well-defined work.
+Beyond these, a growing ecosystem covers specialised domains: security auditing,
+multi-agent orchestration, session context management, credential handling, and
+domain-specific workflows.
+
+* Project-scope skill frameworks
+
+** GSD (Get-Shit-Done)
+- Repo: https://github.com/gsd-build/get-shit-done
+- Install locally to a project: ~npx --yes get-shit-done-cc@latest --claude --local~
+- Best for large projects with many iterations, safety checkpoints, and evolving scope
+- Phases-based workflow; maps existing codebases with ~/gsd:map-codebase~
+- Slower than Superpowers but more thorough; re-checks and safety nets built in
+- Community verdict: "far more thorough — with a lot of safety nets and re-checks it produces far better results"
+
+** Superpowers
+- Repo: https://github.com/obra/superpowers
+- Best for small-to-medium, well-defined projects where the final result is known upfront
+- Fast, efficient; brainstorming mode is a fan favourite
+- Multi-model: plans with Opus, dispatches execution agents with Sonnet
+- Can be used for non-coding tasks (presentations, documents)
+
+** When to choose which
+| Criterion | GSD | Superpowers |
+|-------------------+-------------------------------+-------------------------------|
+| Project size | Large, many iterations | Small-medium, well-defined |
+| End state | Unknown at start | Known from the start |
+| Speed | Slower, methodical | Faster |
+| Safety | Many checkpoints | Fewer, more efficient |
+| Brainstorming | Adequate | Excellent |
+
+* Multi-agent team skill (tonone)
+
+tonone ships 23 specialist agents as a team, each owning a domain:
+- Apex — engineering lead
+- Forge — infrastructure
+- Spine — backend
+- Warden — security
+- Helm — head of product
+
+Skills become agent-specific slash commands rather than one-size-fits-all:
+~/spine-review~ (API surface, performance, distributed systems), ~/warden-audit~
+(IAM, secrets, compliance), ~/proof-strategy~ (test coverage, E2E plan). Each
+agent runs in its own git worktree so parallel work does not conflict.
+
+Repo: https://github.com/tonone-ai/tonone (MIT licensed)
+
+Key principle: domain ownership beats task-based parallelism. Agent context is
+scoped to its domain so it does not dilute across unrelated concerns.
+
+* Credential management skill
+
+authsome manages credentials for GitHub, Google, OpenAI, Anthropic, Linear,
+Slack, Notion, Resend, SendGrid, and others. Claude can make authenticated API
+calls without raw secrets ever entering the chat; the agent never holds the raw
+secret.
+
+Setup: ~alias authsome="uvx authsome@latest"~. After that, Claude picks up the
+skill and runs the list → login → run workflow on its own.
+
+Repo: https://github.com/agentrhq/authsome
+
+* Security and auditing skills
+
+- *Supabase Sentinel* — audits entire projects for Supabase-related security
+  flaws; produces detailed fix plans.
+  Repo: https://github.com/Farenhytee/supabase-sentinel
+- *Aegis* — audit, fix, and harden any codebase for security vulnerabilities.
+  https://www.myclaude.sh/p/aegis
+- *Cabinet* — curated operator workflows; includes ~repo-audit~ (conservative
+  trust assessment of unfamiliar repos) and ~handoff~/~resume-from-handoff~
+  (continuation-grade context transfer).
+  Repo: https://github.com/nikkogibler/cabinet
+
+* Skill design patterns
+
+** Validators and hard stops over natural language
+The most useful parts of a skill are not the natural language instructions — they
+are the validators, hard stops, and accompanying scripts. One practitioner
+reports a narrated video production skill that is 60% validation, gates, and
+encoding scripts, and 40% actual prompting.
+
+** Cross-runtime peer review
+Claude builds, Codex reviews. Different model, different context, different
+failure modes. The creative friction between the two catches things neither would
+catch alone. Especially effective for document writing and code development.
+
+** Write your own
+If you know exactly what you want from a workflow, writing a custom skill
+outperforms adopting a 200-line community skill. Community skills are good
+sources of patterns to steal — not necessarily things to copy wholesale.
+
+** Pre-flight principle
+Before declaring a skill output done, re-read the skill's own rules and check
+the output against them. Makes explicit what is usually implicit, catching
+"skill says no comments, generated skill has comments" class of failure.
+
+** Socratic design-review skill (grill-me)
+Matt Pocock's grill-me skill implements [[id:fc8c75c5-0f1e-4590-a40d-6c181b63b215][Socratic questioning]] as a slash command:
+the model interviews the user relentlessly about a plan, walks every branch of
+the decision tree one question at a time, and provides its own recommended answer
+to each question. Terminates at "shared understanding" rather than a fixed
+question count. If any question can be resolved by inspecting the codebase, the
+model does so rather than burdening the user with recall.
+
+Repo: https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md
+
+Key design choices:
+- Serial interrogation (one question at a time) — prevents overload; forces
+  commitment before proceeding.
+- Model provides its own answer — reduces interrogation pressure; surfaces the
+  model's priors for the user to accept or correct.
+- Codebase exploration as a first-class fallback — grounds questions in evidence
+  rather than memory.
+
+* Related topics
+- [[id:1d69111a-a3c1-4c18-af2a-b6a2ad6c04c8][Claude Code]] — the tool these skills run in; .claude/ directory structure
+- [[id:a668171b-86dd-4fc9-8020-8bffdd1605c6][Self-improving agents]] — the meta-skill pattern for autonomous skill improvement
+- [[id:c1afc3ce-c6d3-40a8-ae84-eab987fd2571][Session context persistence]] — /close pattern and memory management between sessions
+- [[id:acdec8f0-ba96-4098-bf19-42cd7ff6a95d][Planner-Generator-Evaluator pattern]] — agentic design pattern implemented by GSD and Superpowers
+- [[id:fc8c75c5-0f1e-4590-a40d-6c181b63b215][Socratic questioning]] — the interrogation methodology behind grill-me
+- [[id:8f1e78cd-fefa-4a2f-9db9-0e1e396a0448][AI]] — broader context of LLM-powered tooling
+
+* Resources
+- 2026-06-12 ◦ [[https://www.reddit.com/r/ClaudeAI/comments/1sx44bc/drop_your_best_claude_skills_in_here/][Drop your best Claude skills in here! (Reddit r/ClaudeAI)]] — community thread collecting the most-used Claude Code skills; consensus top picks are GSD (large iterative projects) and Superpowers (small-medium well-defined work); also covers meta-skills, /close pattern, multi-agent orchestration, and credential management
+- 2026-06-12 ◦ [[https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md][grill-me SKILL.md (Matt Pocock)]] — Socratic design-review skill: relentless one-at-a-time interrogation of a plan, walking the decision tree with recommended answers; triggers on "grill me"
