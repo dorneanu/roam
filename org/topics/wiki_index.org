@@ -35,6 +35,9 @@ Updated automatically on every ingest.
 - [[id:2e0c582e-2cf0-4e2c-a1bd-378b6041a3ce][LLM wiki]] — Karpathy's pattern for an LLM-maintained knowledge base: immutable raw sources, LLM-generated wiki pages, and a schema file; ingest/query/lint operations; stateful alternative to RAG at personal/small-team scale
 - [[id:1d69111a-a3c1-4c18-af2a-b6a2ad6c04c8][Claude Code]] — Anthropic's AI coding CLI; .claude/ as version-controlled team infrastructure (CLAUDE.md conventions, shared slash commands, settings hooks); home of the Planner-Generator-Evaluator pattern
 - [[id:acdec8f0-ba96-4098-bf19-42cd7ff6a95d][Planner-Generator-Evaluator pattern]] — agentic design pattern decomposing LLM coding workflows into Planner (brief→spec), Generator (sprint-by-sprint implementation), and Evaluator (live-app grading against hard thresholds)
+- [[id:f2b593c9-52ec-41ca-b376-b95d227d782c][Claude Code skills]] — community-shared reusable prompt definitions stored as slash commands; dominant frameworks: GSD (large iterative projects) and Superpowers (small-medium well-defined); also covers multi-agent orchestration (tonone), credential management, and skill design patterns
+- [[id:a668171b-86dd-4fc9-8020-8bffdd1605c6][Self-improving agents]] — AI agents that observe their own sessions, log improvement opportunities, and apply those improvements on a schedule; the "meta-skill" pattern; 600+ improvements applied across ~40 skills in the wild
+- [[id:c1afc3ce-c6d3-40a8-ae84-eab987fd2571][Session context persistence]] — pattern for systematically saving decisions, state, and context at the end of each AI session so the next session can resume coherently; the /close skill pattern; memory file taxonomy
 
 * Productivity
 - [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] — cognitively demanding work performed in distraction-free states; essential for acquiring new skills and producing rare, valuable output (Cal Newport)
@@ -73,3 +76,6 @@ Updated automatically on every ingest.
 - [[id:5fe6c15f-e11a-48a2-94f7-f028c0e02c9e][Social tipping points]] — thresholds where self-reinforcing feedback loops drive rapid social transformation; Chenoweth's 3.5% rule; Donella Meadows' leverage-point hierarchy
 - [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]] — five interdependent policy packages (end poverty, tackle inequality, empower women, transform food, accelerate clean energy) from Earth for All; the transformation scenario for a stable 21st century
 - [[id:6e4777bb-f039-4040-971c-2444c2552160][Limits to Growth]] — Club of Rome's 1972 system-dynamics model; BAU scenario has proven accurate; Earth4All is its 21st-century successor
+
+* Philosophy
+- [[id:fc8c75c5-0f1e-4590-a40d-6c181b63b215][Socratic questioning]] — interrogative method where probing questions surface hidden assumptions and drive the respondent to construct understanding; applied to software design review via the grill-me Claude Code skill

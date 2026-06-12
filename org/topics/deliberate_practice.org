@@ -23,8 +23,16 @@ relevantneurons, allowing the corresponding circuit to fire more effortlessly an
 effectively. To be great at something is to be well myelinated.
 #+end_quote
 
+** Application to knowledge work
+[[id:fc8c75c5-0f1e-4590-a40d-6c181b63b215][Socratic questioning]] is a form of deliberate practice applied to conceptual
+understanding: the question itself is the feedback mechanism (it signals a gap
+or ambiguity), and serial one-question-at-a-time discipline enforces the focused
+attention requirement. AI implementations such as the grill-me Claude Code skill
+operationalise this as on-demand design review.
+
 * Resources
 - 2023-11-21 ◦ [[https://www.goodreads.com/book/show/1315382.Toward_a_General_Theory_of_Expertise][Toward a General Theory of Expertise: Prospects and Limits by K. Anders Ericsson | Goodreads]]
 - 2023-11-21 ◦ [[https://graphics8.nytimes.com/images/blogs/freakonomics/pdf/DeliberatePractice(PsychologicalReview).pdf][The Role of Deliberate Practice in the Acquisition of Expert Performance]]
 - 2023-11-21 ◦ [[https://www.goodreads.com/book/show/26312997-peak][Peak: Secrets from the New Science of Expertise by K. Anders Ericsson | Goodreads]]
 - [[id:abd6a1c6-fad0-4396-94f8-edc87fe19a0d][Deep Work: Rules for Focused Success in a Distracted World]]
+- 2026-06-12 ◦ [[https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md][grill-me SKILL.md (Matt Pocock)]] — Socratic questioning as deliberate practice for design knowledge; one-at-a-time interrogation of a plan provides the focused attention and corrective feedback that Ericsson identifies as the two requirements for deliberate practice
