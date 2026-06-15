@@ -122,3 +122,25 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* anthropozan.org, doughnut_economics.org, carbon_dioxide.org
 - *Topics created:* planetary_boundaries.org, earth4all_model.org, wellbeing_economy.org, social_tipping_points.org, giant_leaps.org, limits_to_growth.org
 - *Summary:* Ingested Earth for All by Dixson-Declève, Gaffney, Ghosh, Randers, Rockström, and Stoknes (Club of Rome, 2022); created six new topic files covering the planetary boundaries framework, the Earth4All system-dynamics model and its two scenarios (Too Little Too Late vs Giant Leaps), the wellbeing economy paradigm, social tipping points and leverage-point analysis, the five Giant Leaps policy packages, and the Limits to Growth legacy; enriched three existing topics (Anthropozän, Doughnut Economics, Carbon Dioxide) with cross-links to the new files.
+
+* 2026-06-12: Ingest — Drop your best Claude skills in here! (Reddit r/ClaudeAI)
+:PROPERTIES:
+:DATE:     2026-06-12
+:TYPE:     ingest
+:SOURCE:   https://www.reddit.com/r/ClaudeAI/comments/1sx44bc/drop_your_best_claude_skills_in_here/
+:END:
+- *Source type:* article
+- *Topics updated:* claude_code.org, llm_wiki.org, ai.org
+- *Topics created:* claude_code_skills.org, self_improving_agents.org, session_context_persistence.org
+- *Summary:* Ingested a Reddit r/ClaudeAI community thread collecting the most-used Claude Code skills; created three new topic files covering the community skill ecosystem (GSD, Superpowers, tonone multi-agent, credential management, design patterns), the meta-skill pattern for autonomous self-improvement (observe → log → scheduled apply), and the /close session context persistence pattern (retrospective → housekeeping → close); enriched claude_code.org with a community skills section, llm_wiki.org with a community implementation entry, and ai.org with LLM Council and new skill topic links.
+
+* 2026-06-12: Ingest — grill-me SKILL.md (Matt Pocock)
+:PROPERTIES:
+:DATE:     2026-06-12
+:TYPE:     ingest
+:SOURCE:   https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md
+:END:
+- *Source type:* article
+- *Topics updated:* claude_code_skills.org, deliberate_practice.org
+- *Topics created:* socratic_questioning.org
+- *Summary:* Ingested Matt Pocock's grill-me Claude Code skill — a five-line Socratic design-review slash command that relentlessly interviews the user about a plan one question at a time, walking the decision tree and providing recommended answers; created socratic_questioning.org covering the methodology, its application to design review, and the grill-me implementation; enriched claude_code_skills.org with a "Socratic design-review skill" sub-heading under Skill design patterns, and added a Socratic questioning cross-link to deliberate_practice.org.

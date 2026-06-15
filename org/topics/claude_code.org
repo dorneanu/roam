@@ -35,12 +35,29 @@ Claude Code has a dedicated plan mode in which it produces a full specification 
 a brief without generating any implementation code. This is used as the Planner role
 in the [[id:acdec8f0-ba96-4098-bf19-42cd7ff6a95d][Planner-Generator-Evaluator pattern]].
 
+* Community skill ecosystem
+
+A large community of practitioners shares reusable Claude Code skills as open-source
+markdown files. Skills are plain text, version-controllable, and composable. The two
+dominant community skill frameworks are GSD (for large, iterative projects) and
+Superpowers (for small-to-medium, well-defined work). Beyond these, skills exist for
+session context management, multi-agent orchestration, security auditing, credential
+handling, and self-improvement of the skills themselves.
+
+See [[id:f2b593c9-52ec-41ca-b376-b95d227d782c][Claude Code skills]] for the full taxonomy, design patterns, and key community
+frameworks. See [[id:c1afc3ce-c6d3-40a8-ae84-eab987fd2571][Session context persistence]] for the /close pattern and memory
+management. See [[id:a668171b-86dd-4fc9-8020-8bffdd1605c6][Self-improving agents]] for the meta-skill pattern.
+
 * Related topics
 
 - [[id:acdec8f0-ba96-4098-bf19-42cd7ff6a95d][Planner-Generator-Evaluator pattern]] — the primary agentic design pattern for Claude Code workflows
+- [[id:f2b593c9-52ec-41ca-b376-b95d227d782c][Claude Code skills]] — community-shared reusable prompt definitions; GSD, Superpowers, /close, and more
+- [[id:c1afc3ce-c6d3-40a8-ae84-eab987fd2571][Session context persistence]] — /close pattern for persisting decisions and state across sessions
+- [[id:a668171b-86dd-4fc9-8020-8bffdd1605c6][Self-improving agents]] — meta-skill pattern for autonomous skill improvement
 - [[id:2e0c582e-2cf0-4e2c-a1bd-378b6041a3ce][LLM wiki]] — CLAUDE.md as schema file parallels the LLM wiki schema file pattern
 - [[id:9d08f7e9-61d1-454d-9e0f-79a5f2b94a11][Software Engineering]] — team conventions, quality gates, and shared context
 - [[id:8f1e78cd-fefa-4a2f-9db9-0e1e396a0448][AI]] — Claude Code as an LLM-powered development tool
 
 * Resources
 - 2026-06-03 ◦ [[file:~/repos/priv/roam-sources/articles/2026/2026-06-03_claude-code-team-infrastructure-agentic-patterns.md][Claude Code: Team Infrastructure and Agentic Patterns (talk slides)]] — presentation slides on .claude/ as team infrastructure and the Planner-Generator-Evaluator agentic pattern
+- 2026-06-12 ◦ [[https://www.reddit.com/r/ClaudeAI/comments/1sx44bc/drop_your_best_claude_skills_in_here/][Drop your best Claude skills in here! (Reddit r/ClaudeAI)]] — community survey of the most-used Claude Code skills; validators and hard stops matter more than natural language; CLAUDE.md quality degrades over time and requires active maintenance
