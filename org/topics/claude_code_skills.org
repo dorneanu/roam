@@ -88,6 +88,30 @@ Repo: https://github.com/agentrhq/authsome
   (continuation-grade context transfer).
   Repo: https://github.com/nikkogibler/cabinet
 
+* Session management skill (/close)
+
+The /close skill is a session-ending command that mechanises [[id:c1afc3ce-c6d3-40a8-ae84-eab987fd2571][context persistence]]
+in three phases:
+
+1. *Retrospective* — scans session context for decisions, learnings, open tasks,
+   and references; writes typed memory files (~user_*.md~, ~feedback_*.md~,
+   ~project_*.md~, ~reference_*.md~) and updates ~MEMORY.md~.
+2. *Housekeeping* — checks ~git status~, generates a commit message, asks before
+   committing, and prepends a new entry to ~SESSION_LOG.md~.
+3. *Close* — prints a rename suggestion for the session tab and a one-line
+   summary of counters (thoughts captured, memory files updated, commits made).
+
+Community verdict: "context persistence across sessions is the real unlock
+before you start chasing autonomous skill tuning." Foundational and simpler to
+get right than [[id:a668171b-86dd-4fc9-8020-8bffdd1605c6][self-improving agents]].
+
+A simpler variant: maintain a ~decisions.md~ file updated at the end of each
+session with what changed and why — especially valuable when picking up a
+project after weeks away.
+
+See [[id:c1afc3ce-c6d3-40a8-ae84-eab987fd2571][Session context persistence]] for the full three-phase implementation and memory
+file taxonomy.
+
 * Skill design patterns
 
 ** Validators and hard stops over natural language
