@@ -53,7 +53,7 @@ file_list="$file_list)"
 
 cat > "$ELISP_FILE" <<ENDOFSCRIPT
 ;; org-roam is deferred in the init; set the directory explicitly for batch mode.
-(setq org-roam-directory (expand-file-name "~/repos/priv/roam/"))
+(setq org-roam-directory "$REPO_ROOT/")
 
 ;; Disable autosync so the existing DB is used as-is without re-scanning.
 ;; Prevents stale worktree directories from polluting link resolution.

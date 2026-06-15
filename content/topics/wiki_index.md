@@ -1,6 +1,6 @@
 +++
 title = "Wiki Index"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["wiki", "index"]
 draft = false
 +++
@@ -38,9 +38,13 @@ Updated automatically on every ingest.
 ## AI / Machine Learning {#ai-machine-learning}
 
 -   [AI]({{< relref "ai.md" >}}) — collected resources and notes on artificial intelligence, LLMs, and AI tooling
+-   — the discipline of building AI systems from mathematical first principles; math-first methodology (derive → code → test → keep artifact); open-source curricula (503-lesson, 20-phase); covers backprop, tokenizers, attention, agent loops
 -   [LLM wiki]({{< relref "llm_wiki.md" >}}) — Karpathy's pattern for an LLM-maintained knowledge base: immutable raw sources, LLM-generated wiki pages, and a schema file; ingest/query/lint operations; stateful alternative to RAG at personal/small-team scale
 -   [Claude Code]({{< relref "claude_code.md" >}}) — Anthropic's AI coding CLI; .claude/ as version-controlled team infrastructure (CLAUDE.md conventions, shared slash commands, settings hooks); home of the Planner-Generator-Evaluator pattern
 -   [Planner-Generator-Evaluator pattern]({{< relref "planner_generator_evaluator.md" >}}) — agentic design pattern decomposing LLM coding workflows into Planner (brief→spec), Generator (sprint-by-sprint implementation), and Evaluator (live-app grading against hard thresholds)
+-   [Claude Code skills]({{< relref "claude_code_skills.md" >}}) — community-shared reusable prompt definitions stored as slash commands; dominant frameworks: GSD (large iterative projects) and Superpowers (small-medium well-defined); also covers multi-agent orchestration (tonone), credential management, and skill design patterns
+-   [Self-improving agents]({{< relref "self_improving_agents.md" >}}) — AI agents that observe their own sessions, log improvement opportunities, and apply those improvements on a schedule; the "meta-skill" pattern; 600+ improvements applied across ~40 skills in the wild
+-   [Session context persistence]({{< relref "session_context_persistence.md" >}}) — pattern for systematically saving decisions, state, and context at the end of each AI session so the next session can resume coherently; the /close skill pattern; memory file taxonomy
 
 
 ## Productivity {#productivity}
@@ -57,8 +61,8 @@ Updated automatically on every ingest.
 
 ## Psychology {#psychology}
 
--   [ELIZA effect]({{< relref "eliza_effect.md" >}}) — the tendency to project emotional depth onto machines that simulate listening; foundational case study in human-AI interaction from Weizenbaum's 1966 chatbot to contemporary AI companions (Turkle)
--   [Phubbing]({{< relref "phubbing.md" >}}) — "phone snubbing": maintaining eye contact while texting; the ambient phone effect degrades conversation quality even when the phone is silent and face-down; dictionary-recognised cultural marker of normalised divided attention (Turkle)
+-   — the tendency to project emotional depth onto machines that simulate listening; foundational case study in human-AI interaction from Weizenbaum's 1966 chatbot to contemporary AI companions (Turkle)
+-   — "phone snubbing": maintaining eye contact while texting; the ambient phone effect degrades conversation quality even when the phone is silent and face-down; dictionary-recognised cultural marker of normalised divided attention (Turkle)
 -   [Safetyism]({{< relref "safetyism.md" >}}) — cultural tendency to prevent all discomfort and risk for children, producing more anxiety and less resilience
 -   [Mean world syndrome]({{< relref "mean_world_syndrome.md" >}}) — Gerbner's concept: heavy media consumption inflates perceived danger far beyond actual risk levels
 -   [Overparenting]({{< relref "overparenting.md" >}}) — excessive parental supervision and control that produces higher anxiety, depression, and learned helplessness
@@ -77,3 +81,18 @@ Updated automatically on every ingest.
 -   [Pornography and adolescent harm]({{< relref "pornography_adolescent_harm.md" >}}) — online pornography as a prestige-hijacking harm for boys during the sensitive period for sexual development; Swedish prevalence data, 5:1–10:1 male addiction ratio, interpersonal satisfaction decline
 -   [Anomie]({{< relref "anomie.md" >}}) — Durkheim's normlessness concept applied to Gen Z: departure from stable real-world communities into anonymous shifting networks produces purposelessness, despair, and suicide; hikikomori and NEET as downstream outcomes
 -   [Sociogenic illness]({{< relref "sociogenic_illness.md" >}}) — illness spread by social transmission rather than pathogens; social media amplifies this via emotional contagion, prestige bias, and audience capture; explains rapid spread of tic disorders, DID, and anxiety among adolescent girls
+
+
+## Sustainability / Political economy {#sustainability-political-economy}
+
+-   — nine Earth-system processes defining a safe operating space; six of nine transgressed as of 2023; scientific grounding for the Anthropocene as a civilisational risk
+-   — Club of Rome system-dynamics model (2022) exploring two futures to 2100: Too Little Too Late (collapse trajectory) vs Giant Leaps (transformation scenario)
+-   — economic system designed to deliver human and ecological wellbeing rather than maximise GDP; doughnut economics, GPI, and post-growth frameworks
+-   — thresholds where self-reinforcing feedback loops drive rapid social transformation; Chenoweth's 3.5% rule; Donella Meadows' leverage-point hierarchy
+-   — five interdependent policy packages (end poverty, tackle inequality, empower women, transform food, accelerate clean energy) from Earth for All; the transformation scenario for a stable 21st century
+-   — Club of Rome's 1972 system-dynamics model; BAU scenario has proven accurate; Earth4All is its 21st-century successor
+
+
+## Philosophy {#philosophy}
+
+-   [Socratic questioning]({{< relref "socratic_questioning.md" >}}) — interrogative method where probing questions surface hidden assumptions and drive the respondent to construct understanding; applied to software design review via the grill-me Claude Code skill
