@@ -19,6 +19,23 @@ Beyond these, a growing ecosystem covers specialised domains: security auditing,
 multi-agent orchestration, session context management, credential handling, and
 domain-specific workflows.
 
+* Top community picks
+
+Ranked by upvotes in the r/ClaudeAI community thread (most voted first):
+
+| # | Skill | Best for | Repo |
+|---+-------+----------+------|
+| 1 | [[https://github.com/gsd-build/get-shit-done][GSD (Get-Shit-Done)]] | Large, iterative projects with many phases | github.com/gsd-build/get-shit-done |
+| 2 | [[https://github.com/obra/superpowers][Superpowers]] | Small-medium, well-defined projects; brainstorming | github.com/obra/superpowers |
+| 3 | [[https://github.com/rebelytics/one-skill-to-rule-them-all][Meta-skill (self-improving)]] | Autonomously improves your other skills over time | github.com/rebelytics/one-skill-to-rule-them-all |
+| 4 | /close | End-of-session context persistence; memory + git | (prompt-only, see below) |
+| 5 | [[https://github.com/tonone-ai/tonone][tonone]] | Multi-agent team with 23 specialist agents | github.com/tonone-ai/tonone |
+| 6 | [[https://github.com/6eanut/llm-wiki][LLM wiki]] | Karpathy wiki pattern as a Claude Code skill | github.com/6eanut/llm-wiki |
+| 7 | [[https://github.com/karpathy/llm-council][LLM Council]] | Multi-model decisions; creative friction | github.com/karpathy/llm-council |
+| 8 | [[https://github.com/agentrhq/authsome][authsome]] | Credential management; authenticated API calls | github.com/agentrhq/authsome |
+
+Notable also-rans: OpenSpec (quick iteration), grill-me (Socratic design review), Supabase Sentinel (security audit), Cabinet (repo-audit + handoff), Session 0 (project bootstrapping), Dendrite (biomimetic debugging), interactive-educator, PraxisKit (kanban for multi-agent workflows).
+
 * Project-scope skill frameworks
 
 ** GSD (Get-Shit-Done)
