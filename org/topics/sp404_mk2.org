@@ -53,6 +53,24 @@ Experimental chain for complex loops (bells, textures) — adds movement and lay
 |   3 | SBF (Side Band Filter)   | Adds a layer of complexity and sustains the loop            |
 |   4 | Ha-Dou                   | Reverb + pitch-shift combination; "Mudap" setting for pitch; use sparingly |
 
+* Organic house drum FX
+
+Source: [[https://www.youtube.com/watch?v=67W9Eb-Lm5M][SP-404MK2 FX Tricks for Organic HOUSE Drums (ElectroNoir)]]
+
+Philosophy: warmth and texture over punch; house drums should support melodic
+parts from the background. Apply reverb to everything with HP+LP filters on the
+return to avoid doubling sub-bass or adding harshness. Skip heavy EQ and
+compression at this stage — save frequency carving for the final mix.
+
+| Element     | Effects & key settings                                                                                          |
+|-------------+-----------------------------------------------------------------------------------------------------------------|
+| Kick        | Cassette Simulator — Drive param (page 2); subtle grittiness without full distortion                           |
+| Hi-Hats     | Tremolo (Pan mode, vary waveform per hat); Modulation (subtle pitch, vary rate/wave per hat); light Noise; Flanger; Reverb (longer if hits are sparse) |
+| Snare/Clap  | Lo-fi (~50/50 blend, Cutoff max, experiment with pre-filter type); Compression; Reverb (non-negotiable)        |
+| Percussion  | Tremolo (Pan mode); Noise (slightly more than hats); Flanger; Reverb; Delay only when rhythmic breathing room exists |
+| Low Tom     | Compression first (bring out transient + tail); Chromatic Shifter (±1 octave for melodic tone); long Reverb tail |
+| Textures    | Crusher (alternative to Cassette Sim); Chorus (static width, no movement); long filtered Reverb; prefer reverb over delay on busy samples |
+
 * SP-404 MK2 specific effects glossary
 - *Lo-fi* — introduces digital degradation (bit-crush, sample-rate reduction, drive) to add warmth and grit
 - *Crusher* — reduces bit-depth and sample rate aggressively; creates organic, lo-fi texture
@@ -62,3 +80,4 @@ Experimental chain for complex loops (bells, textures) — adds movement and lay
 
 * Resources
 - 2026-06-15 ◦ [[4 ESSENTIAL FX RACKS for SP404mk2 (YouTube tutorial)]] — four serial-bus FX rack presets for kick, hats/top loops, bass, and creative loops; resampling workflow for baking in multi-bus chains
+- 2026-06-15 ◦ [[https://www.youtube.com/watch?v=67W9Eb-Lm5M][SP-404MK2 FX Tricks for Organic HOUSE Drums (ElectroNoir)]] — per-element FX guide for organic house: cassette sim on kick, tremolo/noise/flanger on hats, lo-fi on snare, chromatic shifter on low tom
