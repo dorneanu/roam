@@ -4,7 +4,7 @@
 #+created: 20210525185508434
 #+filetags: :architecture:
 #+modified: 20210826085916927
-#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]] [[<<. bibliography "The Clean Architecture">>]] 
+#+origin: [[<<. bibliography "Hands-On Software Architecture with Golang">>]] [[<<. bibliography "The Clean Architecture">>]]
 #+revision: 0
 #+tags: Definition
 #+title: Software Architecture
@@ -28,9 +28,31 @@
 - details
 * Roles
 - [[id:ef58fefe-68ae-4e56-8996-202139c6d27d][Role of the Software Architect]]
+
+* Four dimensions (Richards & Ford)
+Richards and Ford define software architecture along four interlocking dimensions:
+1. *Architecture style* — the named topology chosen as a starting point (e.g. layered, microservices, event-driven)
+2. *[[id:f9912f2f-5861-469f-816e-0765a78687b1][Architectural characteristics]]* — the "-ilities" the system must support (scalability, availability, maintainability, …)
+3. *Logical components* — the building blocks implementing the system's behavior (domains, entities, workflows)
+4. *Architecture decisions* — the rules that constrain how the system is constructed; they form the constraints and direct development teams
+
+* Three laws of software architecture
+These three universal truths cut across all architecture work (Richards & Ford, FSA 2E):
+
+1. *Everything in software architecture is a trade-off.* — corollary: if you think you've found something that isn't a trade-off, you just haven't identified it yet.
+2. *Why is more important than how.* — decisions made in context; the rationale (including trade-offs considered) matters more than the mechanism.
+3. *Most architecture decisions aren't binary but rather exist on a spectrum between extremes.*
+
+#+begin_quote
+There are no right or wrong answers in architecture — only trade-offs.
+
+Neal Ford
+#+end_quote
+
 * Additional literature
 - [[https://www.goodreads.com/book/show/296981.Object_Oriented_Software_Engineering][Object-Oriented Software Engineering by Ivar Jacobson]]
 * Resource
+- 2026-06-16 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 1–4: four-dimensional definition, three laws, eight architect expectations, [[id:4b4d8324-afd8-49ff-9f19-b5bde5b02022][modularity]], [[id:f9912f2f-5861-469f-816e-0765a78687b1][architectural characteristics]] taxonomy, trade-offs and least-worst-architecture principle
 - 2024-11-21 ◦ [[https://architecture-antipatterns.tech/][Architecture Antipatterns]]
 - 2022-11-07 ◦ [[https://github.com/mehdihadeli/awesome-software-architecture][GitHub - mehdihadeli/awesome-software-architecture: A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.]]
   - Also check out [[https://awesome-architecture.com/][awesome-architecture.com]]

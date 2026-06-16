@@ -1,0 +1,77 @@
++++
+title = "Modularity"
+author = ["hermes"]
+tags = ["software", "architecture"]
+draft = false
++++
+
+## Overview {#overview}
+
+Modularity is an organizing principle in software architecture: a logical grouping of related code (classes, functions, or any other grouping) that doesn't necessarily imply physical separation. Modularity is distinct from granularity — modularity is about breaking systems apart into smaller pieces; granularity is about the size of those pieces. Architects focus on modularity because software systems, like physical systems, tend toward entropy — structural soundness requires constant deliberate effort. As Glenford J. Myers observed in 1978: "95% of the words written about software architecture are spent extolling the benefits of 'modularity' and little, if anything, is said about how to achieve it."
+
+> Embrace modularity, but beware of granularity.
+>
+> Mark Richards
+
+Excessive granularity (over-splitting into too-small components) leads to antipatterns: Spaghetti Architecture, Distributed Monoliths, Big Ball of Distributed Mud. Modularity is itself an implicit [architectural characteristic]({{< relref "architectural_characteristics.md" >}}) — rarely specified in requirements yet essential for sustainable codebases.
+
+
+## Modularity vs granularity {#modularity-vs-granularity}
+
+-   **Modularity**: breaking systems into smaller pieces (e.g. monolith → microservices)
+-   **Granularity**: the size of those pieces — how large or small a service or component should be
+
+The trouble arises from over-granularity: services that are too small become coupled to one another, recreating the very coupling they were supposed to eliminate.
+
+
+## Measuring modularity {#measuring-modularity}
+
+Architects use three key concepts to measure modularity:
+
+
+### Cohesion {#cohesion}
+
+How related the parts of a module are to one another. An ideal cohesive module packages everything it needs; splitting it would require cross-module calls. Seven types, from best to worst:
+
+1.  **Functional** — every part is related and the module contains everything it needs
+2.  **Sequential** — one module's output is another's input
+3.  **Communicational** — modules share data or contribute to the same output
+4.  **Procedural** — modules must execute in a particular order
+5.  **Temporal** — modules are related by timing (e.g. startup initialization tasks)
+6.  **Logical** — data within the module is related logically but not functionally (e.g. `StringUtils`)
+7.  **Coincidental** — elements are unrelated; they just happen to live in the same file
+
+The LCOM (Lack of Cohesion in Methods) metric measures structural cohesion. A high LCOM score indicates that a class could be split without loss. LCOM cannot detect logical cohesion — only structural patterns. See [architectural characteristics]({{< relref "architectural_characteristics.md" >}}) note on why metrics require interpretation.
+
+
+### Coupling {#coupling}
+
+How many incoming and outgoing dependencies a component has:
+
+-   **Afferent coupling (Ca)**: incoming connections — how many things depend on this component
+-   **Efferent coupling (Ce)**: outgoing connections — how many things this component depends on
+
+Derived metrics (Robert C. Martin):
+
+-   **Abstractness (A)** = abstract artifacts / (concrete + abstract artifacts) — ratio of abstractions to implementations
+-   **Instability (I)** = Ce / (Ce + Ca) — volatility; high instability means easy breakage on change
+-   **Distance from Main Sequence (D)** = |A + I − 1| — how well-balanced a component is between abstraction and stability
+    -   Zone of Uselessness: too abstract, hard to use
+    -   Zone of Pain: too concrete, brittle and hard to maintain
+
+See also .
+
+
+### Connascence {#connascence}
+
+A more precise vocabulary for describing coupling in object-oriented systems — see [connascence]({{< relref "connascence.md" >}}).
+
+
+## Historical context {#historical-context}
+
+Modular languages (Modula, Ada) appeared in the mid-1980s as structured programming evolved, before object-oriented languages eclipsed them. Java's package mechanism, .NET namespaces, and similar constructs are the modern descendants of module systems. The concept predates OOP and remains relevant across all paradigms.
+
+
+## Resources {#resources}
+
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 3: full treatment of modularity, granularity vs modularity, cohesion types, coupling metrics (afferent/efferent, abstractness, instability, distance from main sequence), and connascence as the three measurement tools; quotes Myers 1978 and Constantine on cohesion
