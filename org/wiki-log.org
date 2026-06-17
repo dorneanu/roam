@@ -100,3 +100,36 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* (none — all concepts are new to the wiki)
 - *Topics created:* house_music.org, circle_of_fifths.org, harmonic_mixing.org, dorian_mode.org, relative_major_minor.org, dj_set_arc.org
 - *Summary:* Ingested synthesized notes on composing a 3-track deep/soulful house set; created six new topic files covering house music genre and bass line techniques, the circle of fifths and three-neighbours chord derivation rule, harmonic mixing and the Camelot wheel, the Dorian mode and its characteristic lift (i → IV), the relative major/minor relationship with enharmonic pivot analysis, and DJ set arc design; all six files are cross-linked bidirectionally.
+
+* 2026-06-12: Ingest — grill-me SKILL.md (Matt Pocock)
+:PROPERTIES:
+:DATE:     2026-06-12
+:TYPE:     ingest
+:SOURCE:   https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md
+:END:
+- *Source type:* article
+- *Topics updated:* claude_code_skills.org, deliberate_practice.org
+- *Topics created:* socratic_questioning.org
+- *Summary:* Ingested Matt Pocock's grill-me Claude Code skill — a five-line Socratic design-review slash command that relentlessly interviews the user about a plan one question at a time, walking the decision tree and providing recommended answers; created socratic_questioning.org covering the methodology, its application to design review, and the grill-me implementation; enriched claude_code_skills.org with a "Socratic design-review skill" sub-heading under Skill design patterns, and added a Socratic questioning cross-link to deliberate_practice.org.
+
+* 2026-06-16: Ingest — Fundamentals of Software Architecture, 2E — Chapters 1–4 (Richards & Ford)
+:PROPERTIES:
+:DATE:     2026-06-16
+:TYPE:     ingest
+:SOURCE:   /Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub
+:END:
+- *Source type:* book
+- *Topics updated:* software_architecture.org, software_architect.org, component_cohesion.org, component_cohesionccp.org
+- *Topics created:* connascence.org, architectural_characteristics.org, modularity.org, architectural_thinking.org, knowledge_pyramid.org, coupling.org
+- *Summary:* Ingested Chapters 1–4 of Fundamentals of Software Architecture (2nd ed.) by Mark Richards and Neal Ford, plus user's PocketBook reading notes; updated four existing topics with the three laws of software architecture, four-dimension definition, and eight architect expectations; created six new topics covering connascence (full static/dynamic taxonomy + Weirich rules), architectural characteristics (criteria, categories, least-worst principle), modularity (cohesion types, LCOM metric, coupling metrics, connascence), architectural thinking (architecture vs design spectrum, trade-off analysis, Frozen Caveman antipattern, hands-on coding balance), the knowledge pyramid (breadth vs depth model), and coupling (afferent/efferent, abstractness, instability, distance from main sequence). User-annotated "ci: llm ingest" tags for cohesion, coupling, connascence honoured as dedicated files.
+
+* 2026-06-17: Ingest — 4 Levels of Drum Groove: From Beginner to Pro (Leo Loretti)
+:PROPERTIES:
+:DATE:     2026-06-17
+:TYPE:     ingest
+:SOURCE:   https://youtu.be/uoktpoQzsdw
+:END:
+- *Source type:* article (YouTube video summary)
+- *Topics updated:* drums.org, roland_mc_101.org
+- *Topics created:* house_drum_groove.org, sidechain_compression.org
+- *Summary:* Ingested Leo Loretti's 4-level house groove framework (Abstract Music Lab) covering four-on-the-floor foundation, 16th-note syncopation/toms-from-kicks, velocity/stereo swing, and ear-candy details (melodic gating, track delay humanisation, reversed transients); created two new topic files (house drum groove with the full 4-level framework, sidechain compression as a domain-portable concept); enriched drums.org with a House section bullet and roland_mc_101.org with cross-links to both new topics; four cross-links wired.
