@@ -1,0 +1,110 @@
+:PROPERTIES:
+:ID:       c1afc3ce-c6d3-40a8-ae84-eab987fd2571
+:END:
+#+title: Session context persistence
+#+filetags: :ai:llm:productivity:
+
+* Overview
+
+Session context persistence is the practice of systematically saving the
+knowledge, decisions, and state from one AI session so that the next session can
+resume from a coherent starting point rather than rebuilding context from scratch.
+
+The core problem: most AI tools (including [[id:1d69111a-a3c1-4c18-af2a-b6a2ad6c04c8][Claude Code]]) do not automatically
+persist what was decided, why it was decided, or what remains to be done.
+Every new session starts cold. Without explicit persistence, the practitioner
+must re-explain context, re-discover architectural decisions, and re-derive
+conclusions already reached in prior sessions.
+
+#+begin_quote
+The actual win is not the commit message — it is forcing the session to leave
+breadcrumbs for tomorrow. Claude feels way less magical when it has to rebuild
+context from vibes every morning.
+#+end_quote
+
+* The /close pattern
+
+The /close pattern is a session-ending [[id:f2b593c9-52ec-41ca-b376-b95d227d782c][Claude Code skill]] that mechanises context
+persistence in three phases:
+
+** Phase 1 — Retrospective
+1. Scan the session context for: decisions, learnings/inefficiencies, open tasks, references
+2. Determine the namespace by browsing recent memory (last 30 days) and matching to an existing project
+3. Capture thoughts via a memory tool for each relevant point (typed as ~decision~ / ~insight~ / ~task~ / ~reference~ / ~general~)
+4. Update memory files in ~~~/.claude/projects/.../memory/~:
+   - User preferences → ~user_*.md~
+   - Workflow feedback → ~feedback_*.md~
+   - Project state/deadlines → ~project_*.md~
+   - External references → ~reference_*.md~
+   - New files get an entry in ~MEMORY.md~
+
+** Phase 2 — Housekeeping
+1. Check the git repo (~git rev-parse --show-toplevel~)
+2. Show git changes (~git status --short~, ~git diff --stat HEAD~)
+3. Generate an English imperative commit message (~feat: add /close skill~) and ask before committing
+4. Write ~SESSION_LOG.md~ — prepend a new entry at the top with date, title, 1–2 sentence summary, and a pointer to the main artifact
+
+** Phase 3 — Close
+1. Print a rename suggestion in the format ~[YYYY-MM-DD] <project-or-topic> - <what-was-done>~ for copying as the session name
+2. Print a closing line summarising counters: ~<N> thoughts → open-brain · <N> memory updates · <N> commits · SESSION_LOG updated~
+
+* Memory file taxonomy
+
+A recurring pattern in the community is a typed memory file taxonomy stored
+alongside the project or in a global Claude directory:
+
+| File pattern | Contents |
+|-----------------------+------------------------------------------------|
+| ~user_*.md~ | User preferences, working style, personal rules |
+| ~feedback_*.md~ | Workflow corrections and non-obvious confirmations |
+| ~project_*.md~ | Project state, deadlines, architectural decisions |
+| ~reference_*.md~ | External references, links, third-party docs |
+| ~MEMORY.md~ | Index of all memory files; LLM reads this first |
+
+The "why" layer is the most valuable: capturing not just what changed but
+why it was changed is what saves time when picking up a project after two
+weeks away.
+
+* decisions.md pattern
+
+A simpler variant used on client projects: maintain a ~decisions.md~ file that
+is updated at the end of each session with what changed and why — not just what.
+
+#+begin_quote
+The "why" part is what saves you when you pick it back up two weeks later and
+have no memory of why you made a weird architectural choice.
+#+end_quote
+
+* Session 0 / project bootstrapping
+
+The Session 0 skill creates project scaffolding files at the start of a new
+project:
+- ~CLAUDE.md~ — project constitution for the AI
+- ~PROGRESS.md~ — current state and what remains
+- ~CHANGELOG.md~ — history of changes
+
+These serve as the initial context seed that the /close pattern then keeps
+updated throughout the project's life.
+
+* Context persistence vs meta-skills
+
+The community consensus: get context persistence working first before chasing
+autonomous [[id:a668171b-86dd-4fc9-8020-8bffdd1605c6][self-improving agents]].
+
+#+begin_quote
+Context persistence across sessions is the real unlock before you start chasing
+autonomous skill tuning.
+#+end_quote
+
+Self-improving agents are cool to watch but add complexity. Reliable session
+handoffs are foundational and simpler to implement correctly.
+
+* Related topics
+- [[id:1d69111a-a3c1-4c18-af2a-b6a2ad6c04c8][Claude Code]] — the tool this pattern applies to
+- [[id:f2b593c9-52ec-41ca-b376-b95d227d782c][Claude Code skills]] — the skill ecosystem; /close is one skill within it
+- [[id:a668171b-86dd-4fc9-8020-8bffdd1605c6][Self-improving agents]] — the meta-skill layer that builds on top of context persistence
+- [[id:8c713807-89e7-42cb-bdf4-cb3f53d620f2][Second Brain]] — broader knowledge management philosophy; session context persistence is a specialised application
+- [[id:2e0c582e-2cf0-4e2c-a1bd-378b6041a3ce][LLM wiki]] — related pattern for persisting knowledge across LLM sessions
+
+* Resources
+- 2026-06-12 ◦ [[https://www.reddit.com/r/ClaudeAI/comments/1sx44bc/drop_your_best_claude_skills_in_here/][Drop your best Claude skills in here! (Reddit r/ClaudeAI)]] — community discussion on the /close pattern; SYSWAVE shares a three-phase implementation (retrospective → housekeeping → close); multiple practitioners report it as underrated and foundational

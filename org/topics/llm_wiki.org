@@ -103,6 +103,7 @@ Karpathy frames this as the third step in a progression:
 - [[id:ea3192d3-7186-4e4a-8c98-454d318d532b][Zettelkasten]] — atomic-note linking philosophy; LLM wiki automates the linking
 - [[id:5329cb10-9f3e-4311-bc69-542775991244][org-roam]] — Emacs-based Zettelkasten; org-roam wikis share the index+backlink navigation pattern
 - [[id:8f1e78cd-fefa-4a2f-9db9-0e1e396a0448][AI]] — language models as the engine behind the pattern
+- [[id:f2b593c9-52ec-41ca-b376-b95d227d782c][Claude Code skills]] — the LLM wiki pattern has been implemented as a Claude Code skill (github.com/6eanut/llm-wiki)
 
 * Karpathy's own framing
 Karpathy describes the working setup as: "Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase." The human browses in real time; the LLM makes edits.
@@ -123,6 +124,10 @@ Key use cases from the gist:
 - *Marp* — markdown-based slide deck format; useful for generating presentations directly from wiki content via Obsidian plugin.
 - *Dataview* — Obsidian plugin that runs queries over page frontmatter; enables dynamic tables and lists if the LLM adds YAML metadata.
 - The wiki is just a git repo of markdown files — version history, branching, and collaboration come for free.
+
+* Community implementations
+
+- 2026-06-12 ◦ [[https://github.com/6eanut/llm-wiki][llm-wiki (GitHub)]] — open-source Claude Code skill implementing the Karpathy pattern; workflow: drop notes into ~.raw/~ → agent ingests, extracts concepts, writes linked markdown pages; proactive querying (agent checks wiki before falling back to training data); includes slash commands (~ingest~, ~query~, ~lint~) and a D3 knowledge graph; the project itself is markdown files and bash scripts, so the agent can read its own schema and follow its own procedures
 
 * Resources
 - 2026-06-02 ◦ [[https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f][LLM wiki gist (Karpathy)]] — original specification by Andrej Karpathy; intentionally abstract and designed to be shared with an LLM agent to instantiate a concrete version

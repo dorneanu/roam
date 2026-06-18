@@ -6,3 +6,4 @@
 * Resources
 - 2023-04-18 ◦ [[https://www.cosmicpython.com/][cosmic_python]]
   - simple patterns for building complex applications
+- 2026-06-04 ◦ [[https://aiengineeringfromscratch.com/][AI Engineering from Scratch]] — Python is the primary language in this 503-lesson open-source [[id:6fd25cac-046f-48cf-9e6e-6fbd1077996f][AI engineering]] curriculum; every algorithm derived from raw math then implemented in Python (+ TypeScript, Rust, Julia)

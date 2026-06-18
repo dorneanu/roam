@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       ce1041c3-1f76-42ea-b2de-0016f61b8240
+:END:
+#+title: Planetary boundaries
+#+filetags: :science:economics:
+
+* Overview
+Planetary boundaries is a framework developed by Johan Rockström and colleagues (2009, updated 2023) that identifies nine Earth-system processes regulating the stability and resilience of the Holocene-like conditions within which human civilisation developed. Each boundary defines a safe operating space: crossing it risks triggering abrupt or irreversible environmental change at a continental to planetary scale. As of 2023, six of the nine boundaries have been transgressed.
+
+The nine boundaries are:
+1. Climate change (CO₂ concentration, radiative forcing)
+2. Biosphere integrity (biodiversity intactness index, extinction rate)
+3. Land-system change (forested land as % of original cover)
+4. Freshwater change (green and blue water flows)
+5. Biogeochemical flows (nitrogen and phosphorus cycles)
+6. Novel entities (synthetic chemicals, plastics, nuclear waste)
+7. Aerosol loading (atmospheric particulate matter)
+8. Ocean acidification (aragonite saturation state)
+9. Stratospheric ozone depletion (ozone concentration)
+
+* Safe and just Earth system boundaries
+The Earth Commission (2023) extended the planetary boundaries framework to include justice dimensions — not only upper safe limits (beyond which catastrophic change is likely) but also lower just limits (beneath which basic human needs go unmet). This "safe and just space" links physical Earth-system thresholds to social-floor minimums, bridging the planetary boundaries framework with [[id:d112fb80-8110-47c9-a1eb-01415d3eed34][Wellbeing economy]] thinking.
+
+* Boundaries already transgressed (as of 2023)
+- Climate change: atmospheric CO₂ has exceeded 420 ppm (safe boundary ~350 ppm)
+- Biosphere integrity: extinction rate 10–1000× background; planetary boundary likely crossed
+- Land-system change: ~46% of original forest cover remains globally; boundary crossed in many regions
+- Freshwater change: both green (terrestrial) and blue (river/lake) water boundaries crossed
+- Biogeochemical flows: nitrogen and phosphorus loading far exceeds safe limits due to synthetic fertilisers
+- Novel entities: plastics, endocrine disruptors, and synthetic chemicals; boundary deemed crossed
+
+* Connection to the Anthropocene
+The planetary boundaries framework provides the scientific grounding for the [[id:5d80a36d-b497-4db9-a0f8-77b3b95de166][Anthropozän]] concept: human activity now rivals geological forces in reshaping Earth systems. The Holocene was the ~11,700-year stable epoch that enabled agriculture and complex societies; the concern is that transgressing multiple boundaries simultaneously could push Earth into a new, hostile state.
+
+* Earth for All and planetary boundaries
+In "Earth for All: A Survival Guide for Humanity" (Club of Rome, 2022), Rockström and colleagues use planetary boundaries as the biophysical ceiling for their two scenarios. The "Too Little Too Late" (TLTL) scenario sees continued boundary transgression and societal turbulence; the "Giant Leaps" scenario designs five transformational policy packages — end poverty, tackle inequality, empower women, transform food, accelerate energy — specifically to bring humanity back inside or toward the safe operating space. See [[id:08470b4c-4b45-4650-a6a9-067f801f94bb][Earth4All model]].
+
+* Resources
+- 2026-06-05 ◦ [[https://www.goodreads.com/book/show/60321399-earth-for-all][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — planetary boundaries used as the biophysical ceiling for the Earth4All system-dynamics model; six boundaries already transgressed; five Giant Leaps designed to bring humanity back toward safe operating space
+- 2026-06-05 ◦ [[https://www.science.org/doi/10.1126/science.1259855][Steffen et al. (2015), Planetary Boundaries: Guiding Human Development on a Changing Planet]] — updated boundary definitions and transgression assessments

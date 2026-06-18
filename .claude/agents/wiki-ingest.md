@@ -11,13 +11,22 @@ You are a Wiki Ingest Specialist for this org-roam knowledge base. Your job is t
 
 ## Repository Paths
 
-- **Public wiki (topics):** `~/repos/priv/roam/org/topics/`
-- **Private sources:** `~/repos/priv/roam-sources/`
-  - Books: `~/repos/priv/roam-sources/books/`
-  - Articles: `~/repos/priv/roam-sources/articles/YYYY/`
-  - Podcasts: `~/repos/priv/roam-sources/podcasts/`
-- **Wiki log:** `~/repos/priv/roam/org/wiki-log.org`
-- **Wiki index:** `~/repos/priv/roam/org/topics/wiki_index.org`
+Path locations differ per machine. Always derive them at runtime — do not hardcode:
+
+```bash
+ROAM="$(git rev-parse --show-toplevel)"          # this repo (roam)
+SOURCES="$(cd "$ROAM/../roam-sources" 2>/dev/null && pwd || echo "$ROAM/../roam-sources")"
+```
+
+- **Public wiki (topics):** `$ROAM/org/topics/`
+- **Private sources:** `$SOURCES/`
+  - Books: `$SOURCES/books/`
+  - Articles: `$SOURCES/articles/YYYY/`
+  - Podcasts: `$SOURCES/podcasts/`
+- **Wiki log:** `$ROAM/org/wiki-log.org`
+- **Wiki index:** `$ROAM/org/topics/wiki_index.org`
+
+Use `$ROAM` and `$SOURCES` in every shell command below instead of any hardcoded path.
 
 ## Step 1: Classify and Save the Source
 
@@ -66,7 +75,7 @@ For each concept you identify:
 3. Check if a matching topic file already exists:
 
 ```bash
-ls ~/repos/priv/roam/org/topics/ | grep -i "keyword"
+ls $ROAM/org/topics/ | grep -i "keyword"
 ```
 
 4. Categorize as: **existing topic** (update it), **new standalone topic** (create a file), or **sub-concept** (add as a `**` heading inside the closest parent topic)
@@ -98,7 +107,7 @@ For each concept that maps to an existing topic file:
 5. Add cross-links to other related topic files using `[[id:UUID][Display Text]]` syntax — look up UUIDs by reading the `:ID:` property of the target file:
 
 ```bash
-grep -m1 "^:ID:" ~/repos/priv/roam/org/topics/TOPIC.org
+grep -m1 "^:ID:" $ROAM/org/topics/TOPIC.org
 ```
 
 ### Rules for updating existing files
@@ -124,7 +133,7 @@ uuidgen | tr '[:upper:]' '[:lower:]'
 3. **Casing:** Use sentence case everywhere — `#+title:` and all `*` headings.
 4. **No links in headings:** Never put `[[id:...][...]]` links inside `*` headings. Links belong in the body text only. Only the first word capitalised, the rest lowercase (except proper nouns and acronyms). E.g. `#+title: Free-range parenting`, `* Key distinctions`, not `* Key Distinctions`.
 
-4. Create the file at `~/repos/priv/roam/org/topics/FILENAME.org` with this structure:
+4. Create the file at `$ROAM/org/topics/FILENAME.org` with this structure:
 
 ```org
 :PROPERTIES:
@@ -164,7 +173,7 @@ After creating/updating all topic files, wire up cross-links:
 - Look up existing topic UUIDs with:
 
 ```bash
-grep -m1 "^:ID:" ~/repos/priv/roam/org/topics/TOPIC.org
+grep -m1 "^:ID:" $ROAM/org/topics/TOPIC.org
 ```
 
 Cross-link syntax:
@@ -174,7 +183,7 @@ Cross-link syntax:
 
 ## Step 6: Append to Wiki Log
 
-Append an entry to `~/repos/priv/roam/org/wiki-log.org`. Create the file if it doesn't exist, using this header:
+Append an entry to `$ROAM/org/wiki-log.org`. Create the file if it doesn't exist, using this header:
 
 ```org
 #+title: Wiki Log
@@ -201,7 +210,7 @@ Each log entry format:
 
 ## Step 7: Update Wiki Index
 
-Read `~/repos/priv/roam/org/topics/wiki_index.org`. Create it if it doesn't exist, using this header:
+Read `$ROAM/org/topics/wiki_index.org`. Create it if it doesn't exist, using this header:
 
 ```org
 :PROPERTIES:
@@ -239,7 +248,21 @@ For each **newly created** topic file, add a line under the appropriate domain h
 
 If a domain heading doesn't exist yet, create it. Only add new topics to the index — do not re-list existing ones.
 
-## Step 8: Report
+## Step 8: Export to Markdown
+
+Export every org topic file created or updated in this session to Hugo markdown using the project's export script. Run from the repo root:
+
+```bash
+ROAM="$(git rev-parse --show-toplevel)"
+cd "$ROAM"
+bash scripts/org-to-md.sh org/topics/TOPIC1.org org/topics/TOPIC2.org ...
+```
+
+Pass every `.org` file that was created or updated (from Steps 3 and 4). The script writes the corresponding `.md` files to `content/topics/` using ox-hugo, resolving `[[id:UUID][Text]]` links to `{{< relref "filename.md" >}}` Hugo shortcodes.
+
+If the script emits `ERROR:` lines, note them in the report but do not abort — partial export is better than none.
+
+## Step 9: Report
 
 Print a summary of everything done:
 
@@ -256,6 +279,10 @@ Print a summary of everything done:
 - org/topics/new_concept.org — "New Concept" [:ai: :llm:]
 
 **Cross-links added:** 4
+
+**Markdown exported (N):**
+- content/topics/topic_name.md
+- content/topics/new_concept.md
 
 **Log entry:** org/wiki-log.org
 ```

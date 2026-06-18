@@ -50,12 +50,45 @@ Sean Parker (early Facebook leader, 2017): the goal was to create "a social-vali
 Social media platforms are also the "most efficient conformity engines ever invented" — adolescents can scroll through a thousand data points in an hour to calibrate what counts as normal. This combines with prestige bias to make platforms extraordinarily powerful shapers of adolescent identity.
 
 
+## Agency and communion: the motivational split {#agency-and-communion-the-motivational-split}
+
+Social media exploits a well-documented gender difference in motivation. Research on agency and communion identifies two fundamental human strivings:
+
+-   **Agency**: individuating and expanding the self through efficiency, competence, and assertiveness
+-   **Communion**: integrating the self into a larger social unit through caring, cooperativeness, and empathy
+    This difference appears early in children's play and cross-culturally, suggesting both cultural and biological contributions. Social media **appears** to satisfy communion needs (connecting with others, sharing, belonging), but it frustrates them structurally by replacing close, stable friendships with vast networks of shallow, transient ties.
+
+This helps explain the gender asymmetry in harm: social media attacks girls' core motivational orientation (communion) by simulating connection while delivering its opposite. Boys' core motivational orientation (agency) is more effectively exploited by video games and pornography, which offer simulated mastery, competition, and dominance.
+
+
+## Boys and extreme masculinity influencers {#boys-and-extreme-masculinity-influencers}
+
+While girls' prestige-based social learning systems were hijacked by beauty and lifestyle influencers, boys' systems were hijacked by a different kind of extreme content: male influencers offering visions of masculinity that are extreme and often inapplicable to ordinary life. Haidt describes how, beginning in the early 2010s, many Gen Z boys aimed their social learning systems at popular male influencers who modeled aggressive dominance, hypermasculine bravado, and contempt for vulnerability.
+
+This is the boys' analog of girls' beauty comparison: just as girls compare themselves to digitally perfected beauty, boys compare themselves to exaggerated visions of masculine dominance. Both experiences shift the prestige reference point away from the attainable (a respected person in one's actual community) to the extreme (a globally viral performer of a single trait).
+
+The mechanism is the same as for sociogenic illness (see [Sociogenic illness]({{< relref "sociogenic_illness.md" >}})): audience capture trains influencers to become ever more extreme because extreme content rises faster. Boys who lock onto these influencers during the sensitive period for cultural learning (roughly ages 9–15) may absorb behavioral norms — dismissiveness toward women, glorification of aggression, contempt for introspection — that make it harder for them to form real-world relationships and succeed in workplaces and families.
+
+
 ## Related topics {#related-topics}
 
--   [Phone-Based Childhood]({{< relref "phone_based_childhood.md" >}}) — social comparison is one of the central harms of the phone-based childhood
+-   [Phone-based childhood]({{< relref "phone_based_childhood.md" >}}) — social comparison is one of the central harms of the phone-based childhood
 -   [Attention Economy]({{< relref "attention_economy.md" >}}) — platforms monetize social comparison by maximizing engagement
+-   [Sociogenic illness]({{< relref "sociogenic_illness.md" >}}) — prestige bias is the shared mechanism behind both social comparison harm and the sociogenic spread of disorders via social media
+
+
+## "I share, therefore I am" {#i-share-therefore-i-am}
+
+Sherry Turkle identifies a new ontological shift in how people — particularly younger generations — relate to their own experience. Where earlier generations processed experience privately and then communicated it, the new mode performs experience in order for it to exist at all. The platform's basic grammar is outward-facing: sharing has become constitutive of experience, not merely expressive of it.
+
+> Constant connection is changing the way people think of themselves. It is shaping a new way of being. I call it "I share, therefore I am." We share our thoughts and feelings in order to feel whole.
+
+(Turkle, Reclaiming Conversation, p. 44)
+
+This produces a specific developmental failure: people who grew up with social media often say they don't feel themselves, or can't feel themselves, unless they are posting, messaging, or texting. The inner life is not processed privately and then communicated; it must be performed publicly to register as real. This is structurally incompatible with [Solitude]({{< relref "solitude.md" >}}): time on the net is always outward-facing, always performing for an imagined audience, never genuinely alone. Experience becomes instrumentalised as content: friendship is not the end; the shareable image of friendship is.
 
 
 ## Resources {#resources}
 
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — presents evidence that social media-driven social comparison is a causal driver of the depression and anxiety epidemic among Gen Z, especially girls going through puberty
+-   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — social comparison as a causal driver of the Gen Z depression epidemic; Ch. 5 on appearance-based harm for girls; Ch. 6 on the agency/communion motivational split and boys' analog harm via extreme masculinity influencers
+-   2026-06-05 ◦ [Reclaiming Conversation — Sherry Turkle (2015)](https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation) — "I share, therefore I am" as a new ontological mode; social media as performance engine rather than authenticity space; Leslie case study showing how broadcast skill (getting likes) replaces listening and empathy; friendship instrumentalised as content-production

@@ -1,6 +1,6 @@
 +++
 title = "Triggerpunkte"
-author = ["Victor Dorneanu"]
+author = ["Dorneanu"]
 date = 2024-07-25
 tags = ["sociology", "politics", "book"]
 draft = false
@@ -14,7 +14,7 @@ Hier sind meine Notizen, teilweise Zitate aus dem Buch, aber auch größere Absc
 ## Einleitung {#einleitung}
 
 
-### Cleavages {#cleavages}
+### Cleavages <span class="tag"><span class="cleavage">cleavage</span></span> {#cleavages}
 
 Cleavages (Konfliktlinien) sind historisch bedingte soziale oder kulturelle Trennlinien, die Bürger innerhalb einer Gesellschaft in Gruppen mit **unterschiedlichen politischen Interessen** teilen. Dies führt zu politischen Konflikten zwischen diesen Gruppen. Die Cleavage-Theorie argumentiert, dass politische Konfliktlinien hauptsächlich das Parteiensystem eines Landes sowie das individuelle Wahlverhalten der Bürger bestimmen und sie in Wählerblöcke aufteilen.
 
@@ -152,7 +152,7 @@ Cleavages können sowohl eine Quelle von Konflikten als auch von Zusammenarbeit 
     -   Oesch, Daniel (2005): Die Klassengesellschaft im 21. Jahrhundert. Suhrkamp Verlag, Frankfurt am Main.
 
 
-### Oben-Unten-Ungleichheiten {#oben-unten-ungleichheiten}
+### Oben-Unten-Ungleichheiten <span class="tag"><span class="arena">arena</span></span> {#oben-unten-ungleichheiten}
 
 
 #### Notiz 1 {#notiz-1}
@@ -187,85 +187,89 @@ Nicht imstande Widerstand zu leisten:
 
 #### Märkte und Klassen {#märkte-und-klassen}
 
+<!--list-separator-->
 
-##### Notiz 3 {#notiz-3}
+-  Notiz 3
 
-Rendite aus Kapital vs Einkommen aus Erwerbsarbeit:
+    Rendite aus Kapital vs Einkommen aus Erwerbsarbeit:
 
-> Die Verteilung dieser Ressourcen hängt primär an Märkten und Besitzverhältnissen. Trotz
-> aller Veränderungen seit Marx' oder Webers Tagen bleibt die von ihnen beschriebene Logik
-> des Kapitalismus gültig, nach der das Eigentum an Firmen, Land und Rohstoffen in wenigen
-> privaten Händen liegt, während die Mehrheit die eigene Arbeitskraft möglichst
-> einträglich auf den Markt bringen muss." Nur wer über Kapital verfügt, wird zum
-> Markteilhaber und kann von der Arbeit anderer profitieren, der Rest muss sich als
-> Markteilnehmer durchsetzen. Spätestens mit Thomas Pikettys Bestseller Das Kapital im 21.
-> Jahrhundert wurde diese Form der Ungleichheit wieder ins öffentliche Bewusstsein
-> katapultiert." Piketty zeigt, dass Renditen auf Kapital schneller wachsen als die
-> Wirtschaft als Ganzes und damit schneller als Einkommen aus Erwerbsarbeit.
-
-
-#### Tücken der Meritokratie {#tücken-der-meritokratie}
+    > Die Verteilung dieser Ressourcen hängt primär an Märkten und Besitzverhältnissen. Trotz
+    > aller Veränderungen seit Marx' oder Webers Tagen bleibt die von ihnen beschriebene Logik
+    > des Kapitalismus gültig, nach der das Eigentum an Firmen, Land und Rohstoffen in wenigen
+    > privaten Händen liegt, während die Mehrheit die eigene Arbeitskraft möglichst
+    > einträglich auf den Markt bringen muss." Nur wer über Kapital verfügt, wird zum
+    > Markteilhaber und kann von der Arbeit anderer profitieren, der Rest muss sich als
+    > Markteilnehmer durchsetzen. Spätestens mit Thomas Pikettys Bestseller Das Kapital im 21.
+    > Jahrhundert wurde diese Form der Ungleichheit wieder ins öffentliche Bewusstsein
+    > katapultiert." Piketty zeigt, dass Renditen auf Kapital schneller wachsen als die
+    > Wirtschaft als Ganzes und damit schneller als Einkommen aus Erwerbsarbeit.
 
 
-##### Notiz 4 {#notiz-4}
+#### Tücken der Meritokratie <span class="tag"><span class="meritokratie">meritokratie</span></span> {#tücken-der-meritokratie}
 
-Kernthese: Meritokratie, das Prinzip der Belohnung nach Leistung, ist eine verbreitete
-Legitimation von Ungleichheit. Sie suggeriert, dass Erfolg durch individuelle Anstrengung
-und Talent verdient wird, und soziale Ungleichheiten daher gerechtfertigt sind. Probleme
-der Meritokratie:
+<!--list-separator-->
 
--   Vernachlässigung struktureller Faktoren: Meritokratie ignoriert die **Rolle von sozialen
-    und wirtschaftlichen Vorteilen**, die den Zugang zu Bildung, Qualifikationen und guten
-    Positionen begünstigen.
--   Verengung des Erfolgsbegriffs: _Erfolg wird auf Leistung und Einkommen reduziert_, andere
-    wichtige Lebensbereiche wie soziale Beziehungen, Gesundheit und Glück werden
-    ausgeblendet.
--   Entmutigung von Solidarität: Meritokratie **fördert den Wettbewerb** und die **Fokussierung
-    auf den eigenen Erfolg**, was Solidarität und kollektives Handeln erschweren kann.
--   Legitimation von Ausgrenzung: Meritokratie kann die Abwertung und **Ausgrenzung von
-    Menschen legitimieren, die als weniger leistungsfähig** oder talentiert angesehen werden.
+-  Notiz 4
 
-Fazit: Meritokratie ist ein komplexes Konzept mit fragwürdigen Implikationen. Es ist
-wichtig, die Grenzen der Meritokratie zu erkennen und ihre negativen Auswirkungen auf
-soziale Gerechtigkeit und gesellschaftlichen Zusammenhalt kritisch zu hinterfragen.
-Zusätzliche Punkte:
+    Kernthese: Meritokratie, das Prinzip der Belohnung nach Leistung, ist eine verbreitete
+    Legitimation von Ungleichheit. Sie suggeriert, dass Erfolg durch individuelle Anstrengung
+    und Talent verdient wird, und soziale Ungleichheiten daher gerechtfertigt sind. Probleme
+    der Meritokratie:
 
--   Der Autor des Textes, Wolfgang Lauterbach, plädiert für eine "radikale Umverteilung der
-    Lebenschancen", um die negativen Folgen der Meritokratie zu bekämpfen.
--   Er verweist auf die Notwendigkeit einer "neuen Erzählung" von Gerechtigkeit, die nicht
-    auf Leistung und Wettbewerb, sondern auf Kooperation und Solidarität basiert.
+    -   Vernachlässigung struktureller Faktoren: Meritokratie ignoriert die **Rolle von sozialen
+        und wirtschaftlichen Vorteilen**, die den Zugang zu Bildung, Qualifikationen und guten
+        Positionen begünstigen.
+    -   Verengung des Erfolgsbegriffs: _Erfolg wird auf Leistung und Einkommen reduziert_, andere
+        wichtige Lebensbereiche wie soziale Beziehungen, Gesundheit und Glück werden
+        ausgeblendet.
+    -   Entmutigung von Solidarität: Meritokratie **fördert den Wettbewerb** und die **Fokussierung
+        auf den eigenen Erfolg**, was Solidarität und kollektives Handeln erschweren kann.
+    -   Legitimation von Ausgrenzung: Meritokratie kann die Abwertung und **Ausgrenzung von
+        Menschen legitimieren, die als weniger leistungsfähig** oder talentiert angesehen werden.
 
+    Fazit: Meritokratie ist ein komplexes Konzept mit fragwürdigen Implikationen. Es ist
+    wichtig, die Grenzen der Meritokratie zu erkennen und ihre negativen Auswirkungen auf
+    soziale Gerechtigkeit und gesellschaftlichen Zusammenhalt kritisch zu hinterfragen.
+    Zusätzliche Punkte:
 
-##### Das Paradox {#das-paradox}
+    -   Der Autor des Textes, Wolfgang Lauterbach, plädiert für eine "radikale Umverteilung der
+        Lebenschancen", um die negativen Folgen der Meritokratie zu bekämpfen.
+    -   Er verweist auf die Notwendigkeit einer "neuen Erzählung" von Gerechtigkeit, die nicht
+        auf Leistung und Wettbewerb, sondern auf Kooperation und Solidarität basiert.
 
-Meritokratie als Hemmschuh politischer Mobilisierung für mehr Gleichheit:
+<!--list-separator-->
 
-> Da wir es mit einer Legitimationsideologie ungleicher Verteilung zu tun haben, würde man
-> bei dieser Frage einen starken sozialen Gradienten erwarten, bei dem Personen in höheren
-> Positionen die Vorstellung des verdienten Aufstiegs am meisten verinnerlicht haben. Dies
-> ist aber mitnichten so: **Das meritokratische Prinzip findet in den unteren Klassen die
-> stärkste Unterstützung, insbesondere bei den Produktionsarbeitern, den
-> Dienstleistungsarbeitern und den kleinen Gewerbetreibenden ohne Angestellten (also etwa
-> Kioskbesitzern).**
->
-> Erwa die Hälfte der Produktionsarbeiter und der Geringgebildeten ist der
-> ungleichheitskritischen Meinung, die Einkommens- und Vermögensunterschiede seien zu
-> groß, und stimmt gleichzeitig der ungleichheitlegitimierenden Aussage zu, dass es &gt;auf die
-> eigene Anstrengung ankommt, ob man im Leben etwas erreicht«, **Diese Akzeptanz der
-> Leistungsgesellschaft ist zweifellos einer der wichtigsten Hemmschuhe politischer
-> Mobilisierung für mehr Gleichheit**
+-  Das Paradox
 
+    Meritokratie als Hemmschuh politischer Mobilisierung für mehr Gleichheit:
 
-##### Schmarotzer {#schmarotzer}
+    > Da wir es mit einer Legitimationsideologie ungleicher Verteilung zu tun haben, würde man
+    > bei dieser Frage einen starken sozialen Gradienten erwarten, bei dem Personen in höheren
+    > Positionen die Vorstellung des verdienten Aufstiegs am meisten verinnerlicht haben. Dies
+    > ist aber mitnichten so: **Das meritokratische Prinzip findet in den unteren Klassen die
+    > stärkste Unterstützung, insbesondere bei den Produktionsarbeitern, den
+    > Dienstleistungsarbeitern und den kleinen Gewerbetreibenden ohne Angestellten (also etwa
+    > Kioskbesitzern).**
+    >
+    > Erwa die Hälfte der Produktionsarbeiter und der Geringgebildeten ist der
+    > ungleichheitskritischen Meinung, die Einkommens- und Vermögensunterschiede seien zu
+    > groß, und stimmt gleichzeitig der ungleichheitlegitimierenden Aussage zu, dass es &gt;auf die
+    > eigene Anstrengung ankommt, ob man im Leben etwas erreicht«, **Diese Akzeptanz der
+    > Leistungsgesellschaft ist zweifellos einer der wichtigsten Hemmschuhe politischer
+    > Mobilisierung für mehr Gleichheit**
 
-> Man kann vermuten, dass sich oft diejenigen am eifrigsten nach unten abgrenzen, die sich
-> in ihrer Anerkennung am unsichersten fühlen. Hier geht es eher um kulturelle und
-> normative Fragen von Respekt und Sozialprestige, weniger um »gerechte Einkommen im
-> engeren Sinne um die Reklamation eines Status innerhalb einer moralisch aufgeladenen
-> Anerkennungshierarchie. **In diesem Kontext scheinen leistungslose Transfereinkommen in
-> den Augen derjenigen besonders skandalös, die für geringen Verdienst viel leisten müssen.
-> Die Disziplinierung realer oder vermeintlicher Schmarotzer dient so auch der
-> Hervorhebung der eigenen, allzu oft unerkannt und nicht honoriert bleibenden Mühen.**
+<!--list-separator-->
+
+-  Schmarotzer
+
+    > Man kann vermuten, dass sich oft diejenigen am eifrigsten nach unten abgrenzen, die sich
+    > in ihrer Anerkennung am unsichersten fühlen. Hier geht es eher um kulturelle und
+    > normative Fragen von Respekt und Sozialprestige, weniger um »gerechte Einkommen im
+    > engeren Sinne um die Reklamation eines Status innerhalb einer moralisch aufgeladenen
+    > Anerkennungshierarchie. **In diesem Kontext scheinen leistungslose Transfereinkommen in
+    > den Augen derjenigen besonders skandalös, die für geringen Verdienst viel leisten müssen.
+    > Die Disziplinierung realer oder vermeintlicher Schmarotzer dient so auch der
+    > Hervorhebung der eigenen, allzu oft unerkannt und nicht honoriert bleibenden Mühen.**
 
 
 #### Demobilisierte Klassengesellschaft {#demobilisierte-klassengesellschaft}
@@ -360,7 +364,7 @@ Gewerkschaften verlieren an Macht:
                     Erbschaften mehr, Arbeit weniger besteuern
 
 
-### Innen-Außen-Ungleichheiten {#innen-außen-ungleichheiten}
+### Innen-Außen-Ungleichheiten <span class="tag"><span class="arena">arena</span></span> {#innen-außen-ungleichheiten}
 
 
 #### Kampf um Grenzen {#kampf-um-grenzen}
@@ -464,7 +468,7 @@ Kritik immer nach "unten":
                 -   &gt;&gt;Wir dürfen uns nicht abschotten&lt;&lt;; Scheitern durch Rassismus und Exklusion
 
 
-### Wir-Sie-Ungleichheiten {#wir-sie-ungleichheiten}
+### Wir-Sie-Ungleichheiten <span class="tag"><span class="arena">arena</span></span> {#wir-sie-ungleichheiten}
 
 
 #### Exklusive Inklusivität? {#exklusive-inklusivität}
@@ -571,7 +575,7 @@ Durch Sprache ausschließen:
                 Veränderung
 
 
-### Heute-Morgen-Ungleichheiten {#heute-morgen-ungleichheiten}
+### Heute-Morgen-Ungleichheiten <span class="tag"><span class="arena">arena</span></span> {#heute-morgen-ungleichheiten}
 
 -   Landbewohner betonen die Notwendigkeit des Autofahrens
 -   Forderungen nach Verhaltensänderungen werden oft mit begrenzten finanziellen
@@ -883,6 +887,8 @@ Leitfragen:
             -   Freiheit als Nichteinmischung und Ermöglichung von gutem Leben und legitimem Luxus
             -   nicht müssen, dürfen
 
+**Related:** — the micro-level trigger dynamics (Verhaltenszumutungen, Entgrenzungsbefürchtungen) described here are the political friction that social tipping points must overcome to cascade; — Earth4All's structural policy packages (wealth taxes, redirected subsidies, just transition) are designed precisely to address the class-specific Transformationslasten and Ökologische Distinction gaps identified here
+
 
 ## Triggerpunkte {#triggerpunkte}
 
@@ -974,7 +980,7 @@ Moralische Panik:
 > damit auch zur perfekten Identifikationsfigur**.
 
 
-### Reaktanz {#reaktanz}
+### Reaktanz <span class="tag"><span class="reaktanz">reaktanz</span></span> {#reaktanz}
 
 > Sven: Stichwort E-Mobilität. [...] Wir werden dazu gezwungen genau wie mit dem Impfen.
 > Also, ich bin kein Impfgegner, ich bin geimpft. Aber wir werden indirekt sozusagen
@@ -1369,7 +1375,7 @@ Vier verschiedene Gruppierungen basierend auf kulturellem und ökonomischem Kapi
 ### Alte und neue Medien {#alte-und-neue-medien}
 
 
-#### Echokammerthese {#echokammerthese}
+#### Echokammerthese <span class="tag"><span class="echokammer">echokammer</span></span> {#echokammerthese}
 
 -   _Echokammerthese und ihre Revision_:
     -   Ursprüngliche These: Existenz abgeschotteter Teilöffentlichkeiten, die
@@ -1469,12 +1475,12 @@ Nutzung von sozialen Medien:
 > bei der Rechten**
 
 
-### Verortung in der Parteilandschaft {#verortung-in-der-parteilandschaft}
+### Verortung in der Parteilandschaft <span class="tag"><span class="2share">2share</span></span> {#verortung-in-der-parteilandschaft}
 
 {{< gbox src="/img/triggerpunkte/triggerpunkte_abb_10.1.jpg" title="Abb 10.1" caption="" pos="left" >}}
 
 
-### Affektpolitik {#affektpolitik}
+### Affektpolitik <span class="tag"><span class="2share">2share</span></span> {#affektpolitik}
 
 -   _Ausweitung politischer Themen_:
     -   Das Spektrum politisch verhandelbarer Themen hat sich stark erweitert
@@ -1541,7 +1547,7 @@ Nutzung von sozialen Medien:
 </details>
 
 
-### Polarisierungsunternehmer {#polarisierungsunternehmer}
+### Polarisierungsunternehmer <span class="tag"><span class="2share">2share</span></span> {#polarisierungsunternehmer}
 
 -   _Definition und Strategien von Polarisierungsunternehmern_
     -   Politische Akteure, die sich durch Erzeugung und Nutzung polarisierter
@@ -1650,7 +1656,7 @@ Nutzung von sozialen Medien:
 </details>
 
 
-## Politisierung und Konflikt in der Gegenwartsgesellschaft {#politisierung-und-konflikt-in-der-gegenwartsgesellschaft}
+## Politisierung und Konflikt in der Gegenwartsgesellschaft <span class="tag"><span class="2share">2share</span></span> {#politisierung-und-konflikt-in-der-gegenwartsgesellschaft}
 
 Zusammenfassung der aktuellen Lage:
 
@@ -1670,7 +1676,7 @@ Zusammenfassung der aktuellen Lage:
 > Konfliktdynamik wesentlich bestimmt
 
 
-### Nicht Kamel, sondern Dromedar {#nicht-kamel-sondern-dromedar}
+### Nicht Kamel, sondern Dromedar <span class="tag"><span class="analyse">analyse</span></span> {#nicht-kamel-sondern-dromedar}
 
 -   _Sozialstrukturelle Merkmale_
     -   Mittelschichtsdominierte Gesellschaft
@@ -1730,7 +1736,7 @@ Zusammenfassung der aktuellen Lage:
 </details>
 
 
-### Politisierung ohne Polarisierung {#politisierung-ohne-polarisierung}
+### Politisierung ohne Polarisierung <span class="tag"><span class="analyse">analyse</span></span> {#politisierung-ohne-polarisierung}
 
 -   _Radikalisierte Diskursakteure und ihre Wirkung_
     -   Fähigkeit, Themen so zu rahmen, dass sie breite Resonanz finden
@@ -1808,7 +1814,7 @@ Zusammenfassung der aktuellen Lage:
 </details>
 
 
-### Klassenunterschiede {#klassenunterschiede}
+### Klassenunterschiede <span class="tag"><span class="zusammenfassung">zusammenfassung</span></span> {#klassenunterschiede}
 
 -   _Allgemeine Beobachtung_
     -   Studie plädiert für differenzierte Analyse in Klassenfragen

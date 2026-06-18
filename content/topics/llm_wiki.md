@@ -1,6 +1,6 @@
 +++
 title = "LLM wiki"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["ai", "llm", "productivity"]
 draft = false
 +++
@@ -117,6 +117,7 @@ Karpathy frames this as the third step in a progression:
 -   [Zettelkasten]({{< relref "zettelkasten.md" >}}) — atomic-note linking philosophy; LLM wiki automates the linking
 -   [org-roam]({{< relref "org_roam.md" >}}) — Emacs-based Zettelkasten; org-roam wikis share the index+backlink navigation pattern
 -   [AI]({{< relref "ai.md" >}}) — language models as the engine behind the pattern
+-   [Claude Code skills]({{< relref "claude_code_skills.md" >}}) — the LLM wiki pattern has been implemented as a Claude Code skill (github.com/6eanut/llm-wiki)
 
 
 ## Karpathy's own framing {#karpathy-s-own-framing}
@@ -142,7 +143,13 @@ Key use cases from the gist:
 -   The wiki is just a git repo of markdown files — version history, branching, and collaboration come for free.
 
 
+## Community implementations {#community-implementations}
+
+-   2026-06-12 ◦ [llm-wiki (GitHub)](https://github.com/6eanut/llm-wiki) — open-source Claude Code skill implementing the Karpathy pattern; workflow: drop notes into `.raw/` → agent ingests, extracts concepts, writes linked markdown pages; proactive querying (agent checks wiki before falling back to training data); includes slash commands (`ingest`, `query`, `lint`) and a D3 knowledge graph; the project itself is markdown files and bash scripts, so the agent can read its own schema and follow its own procedures
+
+
 ## Resources {#resources}
 
 -   2026-06-02 ◦ [LLM wiki gist (Karpathy)](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) — original specification by Andrej Karpathy; intentionally abstract and designed to be shared with an LLM agent to instantiate a concrete version
 -   2026-06-02 ◦ [How to build Karpathy's LLM wiki](https://blog.starmorph.com/blog/karpathy-llm-wiki-knowledge-base-guide) — comprehensive guide covering three-layer architecture, ingest/query/lint operations, LLM wiki vs RAG comparison, and community implementations
+-   2026-06-03 ◦ CLAUDE.md as team infrastructure — [Claude Code]({{< relref "claude_code.md" >}}) extends the CLAUDE.md-as-schema-file concept into shared team conventions, domain glossary, and guardrails; the same schema-as-code philosophy applied to a multi-developer context

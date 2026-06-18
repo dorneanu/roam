@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8a2f1c4e-9b7d-4f3e-8c1a-6d5e2f7b9c3a
+:END:
+#+title: Phubbing
+#+filetags: :psychology:attention:
+
+* Definition
+"Phubbing" (phone snubbing) is maintaining apparent eye contact while texting — dividing attention so thoroughly that the other person receives neither genuine eye contact nor genuine listening. The word appeared in the dictionary as a cultural marker of how normalised divided attention has become.
+
+* The ambient phone effect
+Even without active phubbing, the mere visible presence of a phone on the table degrades conversation: people self-censor to keep topics light, knowing they may be interrupted. The phone's potential to interrupt is sufficient to prevent the vulnerability that deep conversation requires.
+
+This "ambient phone effect" — documented empirically — means that conversation quality is degraded by the phone even when it is silent, face-down, and unused. See [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] for the mechanism.
+
+* Connection to other topics
+- [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] — the ambient phone effect as a mechanism of attention capture
+- [[id:72c05f50-33e7-4f9a-91f1-526bd031702a][Solitude]] — phubbing as a flight from the capacity to be alone with another person
+- [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]] — phubbing as preferring machine-mediated connection over human presence
+- [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] — caregiver phubbing as a vector of the "missing chip" hypothesis
+
+* Resources
+- 2026-06-05 ◦ [[https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation][Reclaiming Conversation — Sherry Turkle (2015)]] — phubbing as dictionary-recognised cultural marker; ambient phone effect degrades conversation quality even when phone is silent and face-down; connection to the Goldilocks effect and the flight from vulnerability

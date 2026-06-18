@@ -90,6 +90,39 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics created:* claude_code.org, planner_generator_evaluator.org
 - *Summary:* Ingested two presentation slides from an Amazon/AWS internal talk covering Claude Code's .claude/ directory as version-controlled team infrastructure (CLAUDE.md, shared commands, settings hooks) and the Planner-Generator-Evaluator agentic design pattern (plan-mode spec, sprint-by-sprint generation, live-app evaluation); created two new topic files and added cross-links from ai.org and llm_wiki.org.
 
+* 2026-06-04: Ingest — AI Engineering from Scratch (curriculum website)
+:PROPERTIES:
+:DATE:     2026-06-04
+:TYPE:     ingest
+:SOURCE:   https://aiengineeringfromscratch.com/
+:END:
+- *Source type:* website / open-source curriculum
+- *Topics updated:* ai.org, python.org, rust.org, wiki_index.org
+- *Topics created:* ai_engineering.org
+- *Summary:* Ingested the AI Engineering from Scratch website — a 503-lesson, 20-phase open-source curriculum (MIT license, maintainer Rohit Ghumare) covering math-first AI engineering from linear algebra through autonomous swarms in Python, TypeScript, Rust, and Julia. Created ai_engineering.org covering the math-first methodology (derive→code→test→keep artifact), core topics, and the open-source curriculum; enriched ai.org with a new AI Engineering section, and added reference links to python.org and rust.org; added ai_engineering.org to wiki_index.org under AI/Machine Learning.
+
+* 2026-06-05: Ingest — Reclaiming Conversation (Sherry Turkle, 2015)
+:PROPERTIES:
+:DATE:     2026-06-05
+:TYPE:     ingest
+:SOURCE:   ~/repos/priv/roam-sources/books/2026/turkle_sherry_reclaiming-conversation.md
+:END:
+- *Source type:* book
+- *Topics updated:* solitude.org, boredom.org, conversation-centric_communication.org, phone_based_childhood.org, social_comparison.org, attention_economy.org
+- *Topics created:* eliza_effect.org
+- *Summary:* Ingested Sherry Turkle's Reclaiming Conversation; created eliza_effect.org covering the projection of empathy onto machines from Weizenbaum's 1966 ELIZA to contemporary AI companions; enriched six existing topics with Turkle's Tillich/Winnicott solitude-vs-loneliness distinction and virtuous circle of conversation (solitude.org), Winnicott/Erikson developmental boredom as invitation (boredom.org), Siegel/Senju neurological case for eye contact and phubbing as sub-concept (conversation-centric_communication.org), the "missing chip" hypothesis for caregiver phone use (phone_based_childhood.org), "I share, therefore I am" as new ontological mode (social_comparison.org), and Goldilocks effect + Maryanne Wolf deep reading/brain plasticity + ambient phone effect (attention_economy.org).
+
+* 2026-06-05: Ingest — Earth for All (Club of Rome, 2022)
+:PROPERTIES:
+:DATE:     2026-06-05
+:TYPE:     ingest
+:SOURCE:   ~/projects/roam-sources/books/2022/dixson-decleve_earth-for-all.md
+:END:
+- *Source type:* book
+- *Topics updated:* anthropozan.org, doughnut_economics.org, carbon_dioxide.org
+- *Topics created:* planetary_boundaries.org, earth4all_model.org, wellbeing_economy.org, social_tipping_points.org, giant_leaps.org, limits_to_growth.org
+- *Summary:* Ingested Earth for All by Dixson-Declève, Gaffney, Ghosh, Randers, Rockström, and Stoknes (Club of Rome, 2022); created six new topic files covering the planetary boundaries framework, the Earth4All system-dynamics model and its two scenarios (Too Little Too Late vs Giant Leaps), the wellbeing economy paradigm, social tipping points and leverage-point analysis, the five Giant Leaps policy packages, and the Limits to Growth legacy; enriched three existing topics (Anthropozän, Doughnut Economics, Carbon Dioxide) with cross-links to the new files.
+
 * 2026-06-07: Ingest — House Music: Melody, Bass Lines, and Harmony
 :PROPERTIES:
 :DATE:     2026-06-07
@@ -100,6 +133,17 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* (none — all concepts are new to the wiki)
 - *Topics created:* house_music.org, circle_of_fifths.org, harmonic_mixing.org, dorian_mode.org, relative_major_minor.org, dj_set_arc.org
 - *Summary:* Ingested synthesized notes on composing a 3-track deep/soulful house set; created six new topic files covering house music genre and bass line techniques, the circle of fifths and three-neighbours chord derivation rule, harmonic mixing and the Camelot wheel, the Dorian mode and its characteristic lift (i → IV), the relative major/minor relationship with enharmonic pivot analysis, and DJ set arc design; all six files are cross-linked bidirectionally.
+
+* 2026-06-12: Ingest — Drop your best Claude skills in here! (Reddit r/ClaudeAI)
+:PROPERTIES:
+:DATE:     2026-06-12
+:TYPE:     ingest
+:SOURCE:   https://www.reddit.com/r/ClaudeAI/comments/1sx44bc/drop_your_best_claude_skills_in_here/
+:END:
+- *Source type:* article
+- *Topics updated:* claude_code.org, llm_wiki.org, ai.org
+- *Topics created:* claude_code_skills.org, self_improving_agents.org, session_context_persistence.org
+- *Summary:* Ingested a Reddit r/ClaudeAI community thread collecting the most-used Claude Code skills; created three new topic files covering the community skill ecosystem (GSD, Superpowers, tonone multi-agent, credential management, design patterns), the meta-skill pattern for autonomous self-improvement (observe → log → scheduled apply), and the /close session context persistence pattern (retrospective → housekeeping → close); enriched claude_code.org with a community skills section, llm_wiki.org with a community implementation entry, and ai.org with LLM Council and new skill topic links.
 
 * 2026-06-12: Ingest — grill-me SKILL.md (Matt Pocock)
 :PROPERTIES:
