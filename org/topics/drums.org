@@ -21,6 +21,7 @@ General guide:
 *** House
 - 2025-10-23 ◦ [[https://www.studiobrootle.com/house-drum-patterns/][House Drum Patterns - Studio Brootle]]
 - 2025-10-23 ◦ [[https://www.edmprod.com/how-to-make-house-music/][How To Make House Music: An Easy Guide (2025) - EDMProd]]
+- 2026-06-17 ◦ [[https://youtu.be/uoktpoQzsdw][4 Levels of Drum Groove: From Beginner to Pro (Leo Loretti)]] — 4-level Ableton Live framework at 124 BPM: four-on-the-floor scaffold → 16th-note syncopation + toms-from-kicks → velocity/stereo swing → ear-candy (melodic gating, track delay humanisation, reversed transients); full notes in [[id:e28fcbe5-9d6d-413d-9915-2c6fe75db32c][House drum groove]]
 *** Deep House
 - 2025-10-23 ◦ [[https://www.edmprod.com/how-to-make-classic-deep-house/][How to Make Classic Deep House: The Ultimate Guide for Producers (2025)]]
 - 2025-10-23 ◦ [[https://www.studiobrootle.com/deep-house-drum-patterns/][Deep House Drum Patterns - Studio Brootle]]
@@ -29,4 +30,4 @@ General guide:
 - 2025-10-23 ◦ [[https://www.attackmagazine.com/technique/beat-dissected/deep-tech-house/][Deep Tech House - Attack Magazine]]
 *** Bossa Nova
 - 2025-10-23 ◦ [[https://www.attackmagazine.com/technique/beat-dissected/bossa-nova-vibes/][Bossa Nova Vibes - Attack Magazine]]
-  
+

@@ -1,0 +1,80 @@
++++
+title = "House drum groove"
+author = ["hermes"]
+tags = ["music"]
+draft = false
++++
+
+## Overview {#overview}
+
+A house drum groove is constructed in layers, starting from a static four-on-the-floor foundation and progressively adding swing, syncopation, stereo movement, and ear candy to make the loop feel alive and human. The canonical tempo range for house is 122–128 BPM. The difference between a beginner loop and a professional groove is not the pattern — it is the accumulation of micro-decisions about velocity, timing offset, layering, and modulation that create forward momentum and a sense of motion.
+
+See also: [Drums]({{< relref "drums.md" >}}), , [Sidechain compression]({{< relref "sidechain_compression.md" >}})
+
+
+## Four-level framework (Loretti) {#four-level-framework--loretti}
+
+A structured progression from basic to professional, documented by Leo Loretti / Abstract Music Lab. All examples at 124 BPM.
+
+
+### Level 1 — The basics (one-bar loop) {#level-1-the-basics--one-bar-loop}
+
+Straight feel, no movement or character. Establishes the rhythmic skeleton.
+
+-   Kick: four-on-the-floor (every quarter note)
+-   Hats: counter-beat (offbeat), between kicks only
+-   Clap: beats 2 and 4 (every second kick)
+-   Bass: same offbeat positions as hats (Serum 2 or similar)
+-   Lower kick volume initially to preserve headroom
+-   Sidechain compression on bass immediately: aggressive ratio, zero attack, fast release — creates the signature rhythmic "pump"
+
+
+### Level 2 — Variation and drive (two-bar loop) {#level-2-variation-and-drive--two-bar-loop}
+
+Adds movement by exploiting the 16th-note grid positions 2, 3, and 4 (position 1 = where the kick lives; position 2 and 4 = "really groovy").
+
+-   Move hat and percussion notes to positions 2, 3, or 4 — never position 1 (reserved for kick)
+-   Toms: made by shortening a kick sample to reveal just its initial "thump"; low-cut EQ to remove boominess
+-   Bass syncopation: vary pitches and rhythms across bars; plucky/gritty wavetable tone (e.g. "Icon Has Kick" in Serum)
+-   Open hat layer: adds body and "shoulder dance" movement
+-   Add a limiter to the master to control the growing loudness
+
+
+### Level 3 — Swing and dynamism (perception of motion) {#level-3-swing-and-dynamism--perception-of-motion}
+
+The loop starts to feel "drunk and sloppy" in a professional way. Motion is the goal.
+
+-   MIDI shakers: varying velocities at 16th-note positions 3 and 4; never uniform
+-   Percussion accents: background bongos/congas placed offbeat (positions 3 and 4)
+-   Snappy quiet claps: position 4 at the end of every two bars for subtle anticipation
+-   Colour-code and group elements for session organisation (low-end = yellow, cymbals = blue, claps = brown)
+-   Vocoder on hats/shakers: adjust dry/wet and release to blend them into a cohesive shaker texture
+-   Stereo movement: auto-pan or LFO tool moves shakers left and right — static shakers are unprofessional
+-   Transient reinforcement: very short 16th-note hat layer for extra "spank" on the transient
+
+
+### Level 4 — Ear candy and pro details (eight-bar loop) {#level-4-ear-candy-and-pro-details--eight-bar-loop}
+
+Small details that repeatedly draw the listener's ear back to the groove.
+
+-   Syncopated toms: further low-end rhythmic interest using positions 3, 4, and 2
+-   Rhythmic fills: use existing drum kit elements rather than importing separate fill samples
+-   Melodic gating: add an atmospheric loop (pitched to the track key), gated by a sidechain triggered from the bass → the melody "breathes" in sync with the rhythm
+-   Return channel automation: sends to Echo, Redux (granulation), Erosion (grit) — raised only on specific hits (e.g. the final clap of a phrase) for punctuation
+-   Resampling and reversing: bounce the drum group to audio, reverse a segment, keep only the first transient → creates a "whoop" transition effect
+-   Track delay (offset): manually offset claps, snares, and hats by a few milliseconds so elements never hit simultaneously → wider, more human "doom" feel
+
+
+## Key production principles {#key-production-principles}
+
+-   **Four-on-the-floor is a scaffold, not a ceiling** — it provides the pulse that the groove dances around
+-   **Positions 2 and 4 of the 16th-note grid are the groove zones** — most "grooviness" lives there
+-   **Velocity variation is more important than note placement** — uniform MIDI velocities make loops robotic
+-   **Never static** — every element that can move (stereo, velocity, pitch) should have controlled variation
+-   **Ear candy targets empty moments** — fills, reversed transients, and effects automation should land where attention would otherwise drift
+-   **Track delay humanises stiff-quantised hits** — offsetting elements by a few ms opens the stereo field and removes the machine-gun effect
+
+
+## Resources {#resources}
+
+-   2026-06-17 ◦ [4 Levels of Drum Groove: From Beginner to Pro (Leo Loretti / Abstract Music Lab)](https://youtu.be/uoktpoQzsdw) — step-by-step 4-level framework for building a professional house groove in Ableton Live at 124 BPM; covers sidechain, toms-from-kicks, vocoder on shakers, melodic gating, track delay humanisation
