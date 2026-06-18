@@ -42,6 +42,34 @@ Never strive for the best architecture; aim for the least worst architecture.
 
 Trying to support too many characteristics produces unwieldy generic solutions. Prefer iterative architecture designs that are easy to change.
 
+* Identifying characteristics from domain concerns
+Architects and domain stakeholders speak different languages: architects talk about scalability and fault tolerance; stakeholders talk about mergers, user satisfaction, and time to market. The key skill is translation.
+
+| Domain concern            | Architectural characteristics                                      |
+|---------------------------+--------------------------------------------------------------------|
+| Mergers and acquisitions  | Interoperability, scalability, adaptability, extensibility         |
+| Time to market            | Agility, testability, deployability                                |
+| User satisfaction         | Performance, availability, fault tolerance, testability, agility   |
+| Competitive advantage     | Agility, testability, deployability, scalability, availability     |
+| Time and budget           | Simplicity, feasibility                                            |
+
+This translation is practiced through [[id:b51a2811-2fe3-4f03-a8c0-ff4199376e17][architecture katas]].
+
+* Composite characteristics
+Some characteristics have no single objective definition — they are compositions of other measurable things. /Agility/ is the canonical example: it decomposes into deployability, modularity, and testability. A common antipattern is focusing on just one component of a composite (e.g. optimising only performance when a stakeholder says "the system must complete end-of-day processing on time," missing availability, scalability, reliability, and recoverability).
+
+Decomposing composite characteristics into measurable parts is prerequisite to making them governable via [[id:953cf8e0-8716-4288-a304-08be0f5c6931][fitness functions]].
+
+* Measuring and governing characteristics
+Making characteristics operational — giving them concrete, measurable definitions — is necessary before they can be governed. Operational characteristics have direct metrics (response time, error rate). Structural characteristics require code-level tools (Cyclomatic Complexity, LCOM, [[id:e3ea3021-3adb-4611-abca-ce0cce3cb27c][coupling]] metrics). Process characteristics (testability, deployability) are measured through code coverage, deployment frequency, and failure rates.
+
+Once defined and measured, characteristics are enforced through [[id:953cf8e0-8716-4288-a304-08be0f5c6931][fitness functions]] — see [[id:575d9629-d5b9-41c4-9868-2e864400fa0c][architectural governance]].
+
+* Limiting and prioritising
+Working with stakeholders to reduce the final list is essential. Each supported characteristic adds design complexity before addressing the domain problem. A practical technique: ask stakeholders to select the top three most important characteristics from the candidate list (rather than ranking all of them). This easier consensus-finding exercise drives the most important trade-off discussions.
+
+The Vasa antipattern: the Swedish warship built in 1628 was specified to satisfy too many competing requirements (troops + guns + two gun decks) and sank on its maiden voyage. Overspecification of architectural characteristics has the same effect.
+
 * Terminology note
 "Non-functional requirements" is the legacy term (appearing since the late 1970s alongside function-point analysis). "Quality attributes" is another common alternative. Richards and Ford argue both terms are self-denigrating or misleading, and recommend "architectural characteristics" as the more precise and appropriately weighted term.
 
@@ -49,6 +77,10 @@ Trying to support too many characteristics produces unwieldy generic solutions. 
 - [[id:5a26ed6a-80d8-4fe8-b9db-0c1956ec8c2e][Software architecture]] — the broader context; characteristics are one of four defining dimensions
 - [[id:4b4d8324-afd8-49ff-9f19-b5bde5b02022][Modularity]] — itself an implicit structural architectural characteristic
 - [[id:c02a0524-7970-43bb-b19c-49994bdf612b][Architectural thinking]] — translating business drivers into architectural characteristics is a core part of thinking like an architect
+- [[id:953cf8e0-8716-4288-a304-08be0f5c6931][Fitness functions]] — the enforcement mechanism for making characteristics operational
+- [[id:575d9629-d5b9-41c4-9868-2e864400fa0c][Architectural governance]] — how architects automate adherence to chosen characteristics
+- [[id:b51a2811-2fe3-4f03-a8c0-ff4199376e17][Architecture katas]] — deliberate practice for deriving characteristics from domain descriptions
 
 * Resources
 - 2026-06-16 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 4: full definition, three criteria, four categories (operational/structural/cloud/cross-cutting), implicit vs explicit, and trade-off / least-worst-architecture discussion; user highlight (p. 170): prefers "architectural characteristics" over "non-functional requirements"
+- 2026-06-18 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 5: domain-concern translation table, composite characteristics (agility = deployability + modularity + testability), Silicon Sandwiches and GGG katas, limiting to top-three prioritisation, Vasa antipattern; Ch. 6: making characteristics operational (Cyclomatic Complexity, code coverage, deployment metrics), governing via fitness functions

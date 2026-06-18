@@ -26,6 +26,9 @@ Updated automatically on every ingest.
 - [[id:f9912f2f-5861-469f-816e-0765a78687b1][Architectural characteristics]] — capabilities a system must support independent of the domain (the "-ilities"); three criteria, four categories (operational, structural, cloud, cross-cutting); least-worst-architecture principle
 - [[id:c02a0524-7970-43bb-b19c-49994bdf612b][Architectural thinking]] — seeing systems from an architect's perspective; architecture vs design spectrum, trade-off analysis, Frozen Caveman antipattern, balancing hands-on coding
 - [[id:949cb083-5154-42e4-95e7-f6feb29bfb12][Component cohesion]] — cohesion measurement (REP, CCP, CRP principles) and seven cohesion types; LCOM metric; coupling vs cohesion relationship
+- [[id:953cf8e0-8716-4288-a304-08be0f5c6931][Fitness functions]] — any mechanism providing objective integrity assessment of an architectural characteristic; automated/triggered checks wired into CI (JDepend, ArchUnit, NetArchTest, chaos engineering); the enforcement arm of evolutionary architecture
+- [[id:575d9629-d5b9-41c4-9868-2e864400fa0c][Architectural governance]] — ensuring architectural decisions are respected over time via automated fitness functions rather than manual reviews; ArchUnit, NetArchTest, chaos engineering; checklist manifesto framing
+- [[id:b51a2811-2fe3-4f03-a8c0-ff4199376e17][Architecture katas]] — structured practice exercises for deriving architectural characteristics from domain descriptions; Silicon Sandwiches and Going-Going-Gone worked examples; domain-concern translation table
 
 * Security
 - [[id:41423943-a291-4118-84e2-c18141afce41][Zero Trust]] — security model that eliminates implicit network trust; every request verified regardless of origin; replaces perimeter-based defenses

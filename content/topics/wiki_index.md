@@ -15,14 +15,23 @@ Updated automatically on every ingest.
 -   [Psychological safety]({{< relref "psychological_safety.md" >}}) — the shared belief that the team is safe for interpersonal risk-taking; the single most important factor in effective team performance (Google Project Aristotle)
 -   [Trunk-based development]({{< relref "trunk_based_development.md" >}}) — single-branch version control strategy where all commits go to trunk continuously; long-lived branches are an anti-pattern; key DORA predictor of high-performing engineering organizations
 -   [Software Engineering]({{< relref "software_engineering.md" >}}) — collected principles, practices, and insights on building software well; includes SE@Google and other canonical sources
--   [Software Architecture]({{< relref "software_architecture.md" >}}) — shape given to a system through component division and arrangement; goals: leave options open, minimize cost, maximize maintainability
+-   [Software Architecture]({{< relref "software_architecture.md" >}}) — shape given to a system through component division and arrangement; four dimensions: style, characteristics, components, decisions; three laws (trade-offs, why &gt; how, spectrum)
 -   [Software System]({{< relref "software_system.md" >}}) — notes on system design patterns, boundaries, and composition strategies
--   [Software Architect]({{< relref "software_architect.md" >}}) — role, responsibilities, and skills of the software architect; contrast with developer
+-   [Software Architect]({{< relref "software_architect.md" >}}) — role, responsibilities, and skills of the software architect; eight expectations from Richards &amp; Ford
 -   [SOLID]({{< relref "solid.md" >}}) — five object-oriented design principles (SRP, OCP, LSP, ISP, DIP) for arranging functions and data structures into cohesive, decoupled units
 -   [DDD]({{< relref "ddd.md" >}}) — Domain-Driven Design: ubiquitous language, bounded contexts, aggregates, and entities as tools for aligning code with the business domain
 -   [Microservices]({{< relref "microservices.md" >}}) — architectural style decomposing applications into small, independently deployable services; each does one thing and communicates over the network
 -   [Git]({{< relref "git.md" >}}) — distributed version control; branching strategies, workflows, and internals
 -   [Terraform]({{< relref "terraform.md" >}}) — infrastructure-as-code tool for provisioning cloud resources declaratively; state management and module patterns
+-   [Modularity]({{< relref "modularity.md" >}}) — logical grouping of related code as an organizing principle; measured via cohesion (7 types), coupling (afferent/efferent, instability, main sequence), and connascence
+-   [Coupling]({{< relref "coupling.md" >}}) — degree to which components depend on one another; afferent (incoming) and efferent (outgoing) coupling; abstractness, instability, distance from main sequence metrics
+-   [Connascence]({{< relref "connascence.md" >}}) — precise vocabulary for coupling types in OO systems; static (Name, Type, Meaning, Position, Algorithm) and dynamic (Execution, Timing, Values, Identity); strength, locality, degree properties
+-   [Architectural characteristics]({{< relref "architectural_characteristics.md" >}}) — capabilities a system must support independent of the domain (the "-ilities"); three criteria, four categories (operational, structural, cloud, cross-cutting); least-worst-architecture principle
+-   [Architectural thinking]({{< relref "architectural_thinking.md" >}}) — seeing systems from an architect's perspective; architecture vs design spectrum, trade-off analysis, Frozen Caveman antipattern, balancing hands-on coding
+-   [Component cohesion]({{< relref "component_cohesion.md" >}}) — cohesion measurement (REP, CCP, CRP principles) and seven cohesion types; LCOM metric; coupling vs cohesion relationship
+-   [Fitness functions]({{< relref "fitness_functions.md" >}}) — any mechanism providing objective integrity assessment of an architectural characteristic; automated/triggered checks wired into CI (JDepend, ArchUnit, NetArchTest, chaos engineering); the enforcement arm of evolutionary architecture
+-   [Architectural governance]({{< relref "architectural_governance.md" >}}) — ensuring architectural decisions are respected over time via automated fitness functions rather than manual reviews; ArchUnit, NetArchTest, chaos engineering; checklist manifesto framing
+-   [Architecture katas]({{< relref "architecture_katas.md" >}}) — structured practice exercises for deriving architectural characteristics from domain descriptions; Silicon Sandwiches and Going-Going-Gone worked examples; domain-concern translation table
 
 
 ## Security {#security}
@@ -61,6 +70,7 @@ Updated automatically on every ingest.
 -   [Second Brain]({{< relref "second_brain.md" >}}) — externalizing knowledge and ideas into a trusted digital system to reduce cognitive load and enable creative connections
 -   [Zettelkasten]({{< relref "zettelkasten.md" >}}) — slip-box note-taking method; atomic notes linked by ideas rather than hierarchy; foundation of the second brain approach
 -   [org-roam]({{< relref "org_roam.md" >}}) — Emacs package implementing a Zettelkasten over org-mode files; ID-based bidirectional links and backlinks
+-   [Knowledge pyramid]({{< relref "knowledge_pyramid.md" >}}) — three-level model (stuff you know / know you don't know / don't know you don't know); architects need breadth (middle), developers need depth (top); techniques: 20-minute rule, personal technology radar
 
 
 ## Psychology {#psychology}

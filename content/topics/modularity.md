@@ -59,12 +59,50 @@ Derived metrics (Robert C. Martin):
     -   Zone of Uselessness: too abstract, hard to use
     -   Zone of Pain: too concrete, brittle and hard to maintain
 
-See also .
+See also [coupling]({{< relref "coupling.md" >}}).
 
 
 ### Connascence {#connascence}
 
 A more precise vocabulary for describing coupling in object-oriented systems — see [connascence]({{< relref "connascence.md" >}}).
+
+
+## Governing modularity with fitness functions {#governing-modularity-with-fitness-functions}
+
+Modularity is important but not urgent — the first casualty under schedule pressure. IDE auto-import features make it trivially easy for developers to create unintended cross-component dependencies without thinking about it. [Fitness functions]({{< relref "fitness_functions.md" >}}) provide automated governance:
+
+
+### Cyclic dependency fitness function {#cyclic-dependency-fitness-function}
+
+Cyclic dependencies (component A depends on B, B depends on C, C depends on A) are a particularly damaging antipattern: no component in the cycle can be reused without dragging in the others, pulling the codebase toward Big Ball of Mud. A JDepend-based fitness function wired into CI detects cycles automatically:
+
+```java
+@Test
+void testAllPackages() {
+  Collection packages = jdepend.analyze();
+  assertEquals("Cycles exist", false, jdepend.containsCycles());
+}
+```
+
+This turns a "review it and hope" concern into a hard build failure on every commit.
+
+
+### ArchUnit layer governance {#archunit-layer-governance}
+
+For layered architectures, ArchUnit (Java) or NetArchTest (.NET) can enforce that components only call their permitted neighbours (e.g. Controller → Service → Persistence, never skipping). This prevents architectural erosion where developers shortcut layers for local performance reasons.
+
+See [architectural governance]({{< relref "architectural_governance.md" >}}) for the broader tool landscape and governance philosophy.
+
+
+## Cyclomatic Complexity {#cyclomatic-complexity}
+
+Beyond coupling and cohesion, code complexity itself threatens modularity. Cyclomatic Complexity (CC), defined by Thomas McCabe Sr. in 1976, measures decision-point density: CC = E − N + 2 (edges minus nodes plus 2). Guidelines:
+
+-   CC &lt; 5: cohesive, well-factored (preferred threshold)
+-   CC &lt; 10: generally acceptable
+-   CC &gt; 50: no amount of test coverage compensates for the structural problems
+
+Overly complex code harms modularity, testability, deployability, and every other desirable characteristic. Test-driven development (TDD) has the beneficial side effect of generating smaller, less complex methods.
 
 
 ## Historical context {#historical-context}
@@ -75,3 +113,4 @@ Modular languages (Modula, Ada) appeared in the mid-1980s as structured programm
 ## Resources {#resources}
 
 -   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 3: full treatment of modularity, granularity vs modularity, cohesion types, coupling metrics (afferent/efferent, abstractness, instability, distance from main sequence), and connascence as the three measurement tools; quotes Myers 1978 and Constantine on cohesion
+-   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 6: cyclic dependency antipattern and JDepend fitness function; ArchUnit / NetArchTest for layer governance; Cyclomatic Complexity metric (CC = E − N + 2); TDD's side effect of lower CC; importance of governing modularity since it is important-but-not-urgent

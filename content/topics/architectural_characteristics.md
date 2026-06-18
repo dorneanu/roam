@@ -59,6 +59,42 @@ Architectural characteristics are synergistic — improving one often degrades a
 Trying to support too many characteristics produces unwieldy generic solutions. Prefer iterative architecture designs that are easy to change.
 
 
+## Identifying characteristics from domain concerns {#identifying-characteristics-from-domain-concerns}
+
+Architects and domain stakeholders speak different languages: architects talk about scalability and fault tolerance; stakeholders talk about mergers, user satisfaction, and time to market. The key skill is translation.
+
+| Domain concern           | Architectural characteristics                                    |
+|--------------------------|------------------------------------------------------------------|
+| Mergers and acquisitions | Interoperability, scalability, adaptability, extensibility       |
+| Time to market           | Agility, testability, deployability                              |
+| User satisfaction        | Performance, availability, fault tolerance, testability, agility |
+| Competitive advantage    | Agility, testability, deployability, scalability, availability   |
+| Time and budget          | Simplicity, feasibility                                          |
+
+This translation is practiced through [architecture katas]({{< relref "architecture_katas.md" >}}).
+
+
+## Composite characteristics {#composite-characteristics}
+
+Some characteristics have no single objective definition — they are compositions of other measurable things. _Agility_ is the canonical example: it decomposes into deployability, modularity, and testability. A common antipattern is focusing on just one component of a composite (e.g. optimising only performance when a stakeholder says "the system must complete end-of-day processing on time," missing availability, scalability, reliability, and recoverability).
+
+Decomposing composite characteristics into measurable parts is prerequisite to making them governable via [fitness functions]({{< relref "fitness_functions.md" >}}).
+
+
+## Measuring and governing characteristics {#measuring-and-governing-characteristics}
+
+Making characteristics operational — giving them concrete, measurable definitions — is necessary before they can be governed. Operational characteristics have direct metrics (response time, error rate). Structural characteristics require code-level tools (Cyclomatic Complexity, LCOM, [coupling]({{< relref "coupling.md" >}}) metrics). Process characteristics (testability, deployability) are measured through code coverage, deployment frequency, and failure rates.
+
+Once defined and measured, characteristics are enforced through [fitness functions]({{< relref "fitness_functions.md" >}}) — see [architectural governance]({{< relref "architectural_governance.md" >}}).
+
+
+## Limiting and prioritising {#limiting-and-prioritising}
+
+Working with stakeholders to reduce the final list is essential. Each supported characteristic adds design complexity before addressing the domain problem. A practical technique: ask stakeholders to select the top three most important characteristics from the candidate list (rather than ranking all of them). This easier consensus-finding exercise drives the most important trade-off discussions.
+
+The Vasa antipattern: the Swedish warship built in 1628 was specified to satisfy too many competing requirements (troops + guns + two gun decks) and sank on its maiden voyage. Overspecification of architectural characteristics has the same effect.
+
+
 ## Terminology note {#terminology-note}
 
 "Non-functional requirements" is the legacy term (appearing since the late 1970s alongside function-point analysis). "Quality attributes" is another common alternative. Richards and Ford argue both terms are self-denigrating or misleading, and recommend "architectural characteristics" as the more precise and appropriately weighted term.
@@ -67,10 +103,14 @@ Trying to support too many characteristics produces unwieldy generic solutions. 
 ## Related topics {#related-topics}
 
 -   [Software architecture]({{< relref "software_architecture.md" >}}) — the broader context; characteristics are one of four defining dimensions
--   — itself an implicit structural architectural characteristic
--   — translating business drivers into architectural characteristics is a core part of thinking like an architect
+-   [Modularity]({{< relref "modularity.md" >}}) — itself an implicit structural architectural characteristic
+-   [Architectural thinking]({{< relref "architectural_thinking.md" >}}) — translating business drivers into architectural characteristics is a core part of thinking like an architect
+-   [Fitness functions]({{< relref "fitness_functions.md" >}}) — the enforcement mechanism for making characteristics operational
+-   [Architectural governance]({{< relref "architectural_governance.md" >}}) — how architects automate adherence to chosen characteristics
+-   [Architecture katas]({{< relref "architecture_katas.md" >}}) — deliberate practice for deriving characteristics from domain descriptions
 
 
 ## Resources {#resources}
 
 -   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 4: full definition, three criteria, four categories (operational/structural/cloud/cross-cutting), implicit vs explicit, and trade-off / least-worst-architecture discussion; user highlight (p. 170): prefers "architectural characteristics" over "non-functional requirements"
+-   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 5: domain-concern translation table, composite characteristics (agility = deployability + modularity + testability), Silicon Sandwiches and GGG katas, limiting to top-three prioritisation, Vasa antipattern; Ch. 6: making characteristics operational (Cyclomatic Complexity, code coverage, deployment metrics), governing via fitness functions

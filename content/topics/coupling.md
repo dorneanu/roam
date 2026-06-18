@@ -53,6 +53,30 @@ Plots a component's position relative to the "main sequence" — the ideal relat
 -   **Zone of Pain**: too concrete, too unstable — tightly coupled implementation code that changes constantly
 
 
+## Governing coupling health with fitness functions {#governing-coupling-health-with-fitness-functions}
+
+The distance-from-main-sequence metric can be enforced automatically using a [fitness function]({{< relref "fitness_functions.md" >}}) — turning the metric from a diagnostic tool into a build gate. Using JDepend (Java):
+
+```java
+@Test
+void AllPackages() {
+  double ideal = 0.0;
+  double tolerance = 0.5; // project-dependent
+  Collection packages = jdepend.analyze();
+  Iterator iter = packages.iterator();
+  while (iter.hasNext()) {
+    JavaPackage p = (JavaPackage)iter.next();
+    assertEquals("Distance exceeded: " + p.getName(),
+      ideal, p.distance(), tolerance);
+  }
+}
+```
+
+This establishes a per-package distance threshold; the build fails if any package drifts too far from the main sequence. ArchUnit provides similar capabilities with more expressive rule syntax.
+
+Wiring these checks into CI means coupling health is governed continuously rather than periodically in code review — important because coupling degradation happens gradually and is invisible until structural damage is severe. See [architectural governance]({{< relref "architectural_governance.md" >}}) for the broader strategy.
+
+
 ## Coupling types in object-oriented systems {#coupling-types-in-object-oriented-systems}
 
 Yourdon and Constantine's vocabulary was designed for structured (procedural) programming. Object-oriented design requires a richer vocabulary: [connascence]({{< relref "connascence.md" >}}), introduced by Page-Jones, provides precise names for different coupling types in OO contexts (Connascence of Name, Type, Meaning, Position, Algorithm for static coupling; Execution, Timing, Values, Identity for dynamic coupling).
@@ -81,3 +105,4 @@ Granularity decisions (how small to make services or components) are the primary
 ## Resources {#resources}
 
 -   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 3: afferent/efferent coupling, abstractness, instability, distance from main sequence, Zone of Pain/Uselessness; coupling as one of three modularity metrics; user annotation "ci: llm ingest coupling" (p. 141)
+-   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 6: distance-from-main-sequence fitness function (JDepend tolerance threshold per package); ArchUnit as more expressive alternative; wiring coupling health checks into CI as automated governance
