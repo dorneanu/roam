@@ -1,6 +1,6 @@
 +++
 title = "Kubernetes"
-author = ["Dorneanu"]
+author = ["hermes"]
 draft = false
 +++
 
@@ -20,13 +20,13 @@ draft = false
     > In fact, Kubernetes is the fastest growing project in the history of
     > open-source software, after Linux. According to a 2021 study by the Cloud
     > Native Computing Foundation (CNCF), from 2020 to 2021, the number of
-    > Kubernetes engineers grew by 67% to 3.9 million. That’s 31% of all backend
+    > Kubernetes engineers grew by 67% to 3.9 million. That's 31% of all backend
     > developers, an increase of 4 percentage points in a year.
 
 
 ### Deployment {#deployment}
 
--   2022-10-19 ◦ [Helm und Helmfile — Dynamisches Duo für automatisierte Kubernetes-Deployments](https://www.innoq.com/de/articles/2022/10/helm-und-helmfile/)
+-   2022-10-19 ◦ [Helm und Helmfile — Dynamisches Duo für automatisierte Kubernetes-Deployments](https://www.innoq.com/de/articles/2022/10/helm-und-helmfile/)
 
 
 ### Design {#design}
@@ -74,15 +74,28 @@ draft = false
 
     > In the book we explore security concepts including defense in depth, least
     > privilege, and limiting the attack surface. We discuss and show how to secure
-    > clusters, and you’ll also learn how Kubernetes uses authentication and
+    > clusters, and you'll also learn how Kubernetes uses authentication and
     > authorization. The book will teache you how to secure container images against
     > known vulnerabilities and abuse by third parties, enforce policies on the
     > container runtime level as well as the networking level, and give you to
     > rundown on how to handle sensitive information such as credentials.
 
 -   2023-07-03 ◦ [How to Hack Kubernetes (and How to Protect It)](https://goteleport.com/blog/how-to-hack-kubernetes/?utm_campaign=0308HackK8sBlog&utm_medium=partner&utm_source=golang)
--   2023-05-08 ◦ [Kubernetes Security Part 1 - Security Contexts - Shishir’s Blog](https://shishirsubedi.com.np/kubernetes/kubernetes_security/)
+-   2023-05-08 ◦ [Kubernetes Security Part 1 - Security Contexts - Shishir's Blog](https://shishirsubedi.com.np/kubernetes/kubernetes_security/)
 -   2023-03-29 ◦ [Kubernetes architecture: How to use hierarchical namespaces for multiple tenants | Enable Architect](https://www.redhat.com/architect/kubernetes-hierarchical-namespaces)
 -   2023-01-19 ◦ [Kubernetes Security Best Practices For Developers](https://dev.to/pavanbelagatti/kubernetes-security-best-practices-for-developers-2b92)
 -   2022-12-20 ◦ [Security implications of Kubernetes operators | Snyk](https://snyk.io/blog/security-implications-of-kubernetes-operators/)
 -   2022-12-20 ◦ [Infrastructure security advantages of leveraging Kubernetes - Bridgecrew Blog](https://bridgecrew.io/blog/advantages-of-kubernetes-infrastructure-security/)
+
+
+### AI agent integration with read-only RBAC {#ai-agent-integration-with-read-only-rbac}
+
+-   2026-06-18 ◦ [Am I missing the point of AI agents? (Reddit r/hermesagent)](https://www.reddit.com/r/hermesagent/comments/1tlh53c/am_i_missing_the_point_of_ai_agents/) — practitioner (20+ years software engineering) describes giving an [AI agent]({{< relref "ai_agents.md" >}}) a read-only RBAC service account on a home K3s cluster plus read-only Mikrotik and Cloudflare MCP access; the agent debugs, monitors, and produces detailed kubectl execution plans, but the human reviews and executes the commands
+
+    > You really want a detailed written plan with all the kubectl commands that you
+    > can review, adjust, and then execute yourself in a safe way. No matter what
+    > happens to my infra, I don't want my agent running commands — it's really good
+    > at fixing things, very fast, but one wrong hallucination, things can go really
+    > really south.
+
+    Pattern: agent solves the problem, human executes the solution. Defense-in-depth applied to AI access: read-only by default, write access only when deliberately granted for a bounded time.

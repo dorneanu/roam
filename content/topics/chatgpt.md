@@ -67,6 +67,7 @@ draft = false
 ### How does it work {#how-does-it-work}
 
 -   2023-05-08 ◦ [How ChatGPT Works Technically | ChatGPT Architecture - YouTube](https://www.youtube.com/watch?v=bSvTVREwSNw&ab_channel=ByteByteGo)
+-   2026-06-23 ◦ [Transformer Explainer (Polo Club, Georgia Tech)](https://poloclub.github.io/transformer-explainer/) — interactive GPT-2 walkthrough explaining the [Transformer architecture]({{< relref "transformer_architecture.md" >}}) from [tokenisation]({{< relref "tokenisation.md" >}}) through [attention mechanism]({{< relref "attention_mechanism.md" >}}) to sampling; connects the "word guessing" framing above to the Q/K/V machinery underneath
 -   2023-05-08 ◦ [Ep. 244: Cal Newport’s Thoughts on ChatGPT - YouTube](https://www.youtube.com/watch?v=OVm2IoUUxdo)
     -   Idea #1: Word guessing
 

@@ -47,6 +47,7 @@
 - 2023-05-03 ◦ [[https://www.scotthyoung.com/blog/2023/05/02/chatgpt-learning-tips/][10 Ways You Can Use ChatGPT to Learn Better - Scott H Young]]
 ** How does it work
 - 2023-05-08 ◦ [[https://www.youtube.com/watch?v=bSvTVREwSNw&ab_channel=ByteByteGo][How ChatGPT Works Technically | ChatGPT Architecture - YouTube]]
+- 2026-06-23 ◦ [[https://poloclub.github.io/transformer-explainer/][Transformer Explainer (Polo Club, Georgia Tech)]] — interactive GPT-2 walkthrough explaining the [[id:14d57cf0-b635-475a-9584-89a5dedffcfd][Transformer architecture]] from [[id:fed0553c-d773-49a8-b7f3-5167bc6fb37c][tokenisation]] through [[id:5865d0b5-c58b-4061-8656-f70207418928][attention mechanism]] to sampling; connects the "word guessing" framing above to the Q/K/V machinery underneath
 - 2023-05-08 ◦ [[https://www.youtube.com/watch?v=OVm2IoUUxdo][Ep. 244: Cal Newport’s Thoughts on ChatGPT - YouTube]]
   - Idea #1: Word guessing
     #+begin_quote
