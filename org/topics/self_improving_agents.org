@@ -95,10 +95,7 @@ across all projects and devices, not just the current working directory.
 - [[id:f2b593c9-52ec-41ca-b376-b95d227d782c][Claude Code skills]] — the skill ecosystem the meta-skill operates on
 - [[id:c1afc3ce-c6d3-40a8-ae84-eab987fd2571][Session context persistence]] — complementary pattern for persisting user context
 - [[id:acdec8f0-ba96-4098-bf19-42cd7ff6a95d][Planner-Generator-Evaluator pattern]] — self-improvement is a form of meta-evaluation
-- [[id:c4cdacbd-1bde-4ddd-866b-c8762e56e0b4][AI agents]] — broader category of personal and professional AI agents; self-improvement is the meta-layer above task execution
-- [[id:9fbf5e70-7cbb-4d4f-a985-107d8cf36232][Agent memory]] — the memory substrate that self-improving agents write to and read from
 
 * Resources
 - 2026-06-12 ◦ [[https://www.reddit.com/r/ClaudeAI/comments/1sx44bc/drop_your_best_claude_skills_in_here/][Drop your best Claude skills in here! (Reddit r/ClaudeAI)]] — community discussion on meta-skill pattern; rebelytics describes 600+ improvements applied across ~40 skills; dataviz1000 describes self-tuning via benchmark and rewrite loop
 - 2026-06-12 ◦ [[https://github.com/rebelytics/one-skill-to-rule-them-all][one-skill-to-rule-them-all (GitHub)]] — canonical open-source meta-skill implementation; observe → log → scheduled apply → approve workflow
-- 2026-06-18 ◦ [[https://www.reddit.com/r/hermesagent/comments/1tlh53c/am_i_missing_the_point_of_ai_agents/][Am I missing the point of AI agents? (Reddit r/hermesagent)]] — community discussion on co-evolution as the highest-value personal agent use case; the agent "learns the shape of your life over time" and "stale stuff decays, important stuff sticks"

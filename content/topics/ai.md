@@ -17,7 +17,6 @@ draft = false
 -   2026-06-03 ◦ [Claude Code]({{< relref "claude_code.md" >}}) — Anthropic's AI coding CLI; .claude/ directory as team infrastructure (CLAUDE.md conventions, shared slash commands, settings hooks); [Planner-Generator-Evaluator pattern]({{< relref "planner_generator_evaluator.md" >}}) as primary agentic workflow pattern
 -   2026-06-12 ◦ [Claude Code skills]({{< relref "claude_code_skills.md" >}}) — community-shared reusable prompt definitions (GSD, Superpowers, /close, tonone multi-agent team, credential management); see also [Self-improving agents]({{< relref "self_improving_agents.md" >}}) and [Session context persistence]({{< relref "session_context_persistence.md" >}})
 -   2026-06-12 ◦ [LLM Council (Karpathy)](https://github.com/karpathy/llm-council) — multi-LLM decision framework for high-consequence choices; different models, different contexts, different failure modes; creative friction catches what a single model would miss
--   2026-06-18 ◦ [AI agents]({{< relref "ai_agents.md" >}}) — personal AI agent use cases from the wild: reverse-engineering APIs, medical claims automation (Playwright + vision LLM), contractor voice outreach (VAPI + ElevenLabs), estate sale deal alerts, ADHD accountability, family knowledge bases, and co-evolution as the long-term value proposition; see also [Agent memory]({{< relref "agent_memory.md" >}}) for the living-graph memory pattern
 
 
 ## LLM safety / guardrails {#llm-safety-guardrails}

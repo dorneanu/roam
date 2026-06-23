@@ -16,4 +16,3 @@ About building a braindump, second brain, digital garden...
   #+begin_quote
   Humans abandon wikis because the maintenance burden grows faster than the value. LLMs don't get bored and can touch 15 files in one pass.
   #+end_quote
-- 2026-06-18 ◦ [[https://www.reddit.com/r/hermesagent/comments/1tlh53c/am_i_missing_the_point_of_ai_agents/][Am I missing the point of AI agents? (Reddit r/hermesagent)]] — a practitioner fed mail archives, browser bookmarks, and watch history to a personal [[id:c4cdacbd-1bde-4ddd-866b-c8762e56e0b4][AI agent]] and received an IKIGAI brief (purpose/passion/vocation/profession intersections) plus strategic personal development plans; treating the second brain as an active analysis engine rather than passive storage
