@@ -13,6 +13,11 @@
 - 2026-06-03 ◦ [[id:1d69111a-a3c1-4c18-af2a-b6a2ad6c04c8][Claude Code]] — Anthropic's AI coding CLI; .claude/ directory as team infrastructure (CLAUDE.md conventions, shared slash commands, settings hooks); [[id:acdec8f0-ba96-4098-bf19-42cd7ff6a95d][Planner-Generator-Evaluator pattern]] as primary agentic workflow pattern
 - 2026-06-12 ◦ [[id:f2b593c9-52ec-41ca-b376-b95d227d782c][Claude Code skills]] — community-shared reusable prompt definitions (GSD, Superpowers, /close, tonone multi-agent team, credential management); see also [[id:a668171b-86dd-4fc9-8020-8bffdd1605c6][Self-improving agents]] and [[id:c1afc3ce-c6d3-40a8-ae84-eab987fd2571][Session context persistence]]
 - 2026-06-12 ◦ [[https://github.com/karpathy/llm-council][LLM Council (Karpathy)]] — multi-LLM decision framework for high-consequence choices; different models, different contexts, different failure modes; creative friction catches what a single model would miss
+
+* LLM safety / guardrails
+- 2026-06-23 ◦ [[id:c7bd4e11-97ce-4492-9a63-a91d262e576b][LLM guardrails]] — programmable controls applied at inference time around an LLM; five rail types: input, dialog, retrieval, execution, output; protect against jailbreaks, prompt injection, and off-topic drift; complement to alignment training
+- 2026-06-23 ◦ [[https://github.com/NVIDIA-NeMo/Guardrails][NeMo Guardrails (NVIDIA)]] — open-source Python toolkit implementing the five-rail model; rails defined in [[id:1cf67062-e473-4e17-920c-8507bbcbb45e][Colang]] DSL; integrates with LangChain and major LLMs; v0.21.0
+
 * Tools
 ** For writing
 - [[https://jenni.ai/][Jenni Al]]
