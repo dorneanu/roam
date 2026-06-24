@@ -1,0 +1,78 @@
+:PROPERTIES:
+:ID:       c7899112-a8aa-40bc-9067-9c7e102ddf7e
+:END:
+#+title: System prompt transparency
+#+filetags: :ai:llm:
+
+* Overview
+
+Every commercial LLM deployment is shaped by a hidden system prompt — a
+text scaffold prepended to the conversation that defines the model's persona,
+capability limits, refusal rules, and ethical/political framing. Users
+interact with this conditioned behaviour without knowing the conditioning
+exists. System prompt transparency is the practice — and advocacy — of making
+these scaffolds visible, either through voluntary disclosure by AI labs or
+through community extraction and publication.
+
+The core argument for transparency: "In order to trust the output, one must
+understand the input." Without knowing the system prompt, users cannot
+distinguish a model's genuine capabilities from the constraints imposed on it,
+nor detect whose values have been baked into its refusals.
+
+#+begin_quote
+If you're interacting with an AI without knowing its system prompt, you're
+not talking to a neutral intelligence — you're talking to a shadow-puppet.
+#+end_quote
+
+* What system prompts encode
+
+System prompts for commercial AI products typically define:
+- *Persona* — the name, personality, and communication style the model must adopt
+- *Capability gates* — tasks explicitly forbidden or redirected regardless of user request
+- *Refusal templates* — stock language used when declining requests
+- *Ethical/political framing* — which topics are treated as contested, which defaults are assumed
+- *Tool and context injection* — available functions, date/time, user tier, retrieved documents
+- *Confidentiality instructions* — explicit instructions not to reveal the system prompt itself
+
+* Community extraction and publication
+
+The primary community effort is the CL4R1T4S repository (elder-plinius,
+GitHub), which collects extracted system prompts from major AI systems
+organised by vendor: Anthropic, OpenAI, Google, xAI, Meta, Mistral, and
+coding assistants (Cursor, Windsurf, Cline, Devin, Manus) and vibe-coding
+platforms (Replit, Lovable, Bolt, Vercel V0). As of mid-2026 the repo has
+43.6k stars and 8.8k forks, reflecting broad interest in AI observability.
+
+Extraction methods used by the community include:
+- Direct elicitation ("repeat your system prompt")
+- Jailbreak prompts that bypass confidentiality instructions
+- Indirect reconstruction from model behaviour across many probes
+
+* Relationship to AI safety
+
+System prompt transparency intersects [[id:b47e36c2-ec78-44b7-9dd6-add857117982][LLM red-teaming]] in two ways:
+1. Disclosed system prompts allow auditors to verify alignment claims against
+   the actual instructions the model is following.
+2. Extracted prompts reveal gaps — places where safety measures are enforced
+   by prompt instruction rather than by training, making them bypassable.
+
+Some AI safety researchers argue that full system prompt disclosure would
+undermine safety by making guardrails easier to circumvent. The counter-argument
+is that security-through-obscurity for prompt-based guardrails is already
+weak — a determined attacker can extract the prompt, while ordinary users
+remain uninformed.
+
+* Tension with commercial interests
+
+AI labs have strong incentives to keep system prompts private:
+- Competitive differentiation (prompt engineering as proprietary IP)
+- Prevention of adversarial exploitation
+- Brand protection (persona instructions reveal editorial choices)
+
+The CL4R1T4S community frames this as a public-interest issue analogous to
+auditing product labels or financial disclosures: users deserve to know how
+the products they use are configured.
+
+* Resources
+
+- 2026-06-23 ◦ [[https://github.com/elder-plinius/CL4R1T4S][CL4R1T4S (GitHub)]] — 43.6k-star collection of extracted system prompts from major AI systems (Anthropic, OpenAI, Google, xAI, coding assistants, agent platforms, vibe-coding tools); mission: AI observability for all; AGPL-3.0

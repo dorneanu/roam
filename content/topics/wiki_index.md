@@ -45,6 +45,10 @@ Updated automatically on every ingest.
 -   [Claude Code skills]({{< relref "claude_code_skills.md" >}}) — community-shared reusable prompt definitions stored as slash commands; dominant frameworks: GSD (large iterative projects) and Superpowers (small-medium well-defined); also covers multi-agent orchestration (tonone), credential management, and skill design patterns
 -   [Self-improving agents]({{< relref "self_improving_agents.md" >}}) — AI agents that observe their own sessions, log improvement opportunities, and apply those improvements on a schedule; the "meta-skill" pattern; 600+ improvements applied across ~40 skills in the wild
 -   [Session context persistence]({{< relref "session_context_persistence.md" >}}) — pattern for systematically saving decisions, state, and context at the end of each AI session so the next session can resume coherently; the /close skill pattern; memory file taxonomy
+-   [System prompt transparency]({{< relref "system_prompt_transparency.md" >}}) — what AI system prompts encode (persona, capability gates, refusal rules, ethical framing), community extraction via CL4R1T4S, tension between observability and commercial secrecy
+-   [LLM red-teaming]({{< relref "llm_red_teaming.md" >}}) — adversarial probing of LLMs: jailbreaking, prompt injection, system prompt extraction, capability elicitation, and amplified risks in agentic systems
+-   [LLM guardrails]({{< relref "llm_guardrails.md" >}}) — programmable runtime controls around LLMs; five rail types (input, dialog, retrieval, execution, output); protect against jailbreaks, prompt injection, unsafe outputs; complement to alignment training; implemented in NVIDIA NeMo Guardrails
+-   [Colang]({{< relref "colang.md" >}}) — NVIDIA's event-based DSL for conversational AI flows; mixes natural language and Python syntax; 2.0 adds UMIM multimodal events, parallel actions, and hierarchical flows; used to define NeMo Guardrails rails
 
 
 ## Productivity {#productivity}
