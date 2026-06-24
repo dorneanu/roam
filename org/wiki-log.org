@@ -144,3 +144,15 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* claude_code_skills.org, deliberate_practice.org
 - *Topics created:* socratic_questioning.org
 - *Summary:* Ingested Matt Pocock's grill-me Claude Code skill — a five-line Socratic design-review slash command that relentlessly interviews the user about a plan one question at a time, walking the decision tree and providing recommended answers; created socratic_questioning.org covering the methodology, its application to design review, and the grill-me implementation; enriched claude_code_skills.org with a "Socratic design-review skill" sub-heading under Skill design patterns, and added a Socratic questioning cross-link to deliberate_practice.org.
+
+* 2026-06-24: Ingest — The worthlessness of Vitamin D is mildly exaggerated (HN discussion)
+:PROPERTIES:
+:DATE:     2026-06-24
+:TYPE:     ingest
+:SOURCE:   https://news.ycombinator.com/item?id=48647486
+:END:
+- *Source type:* article (HN discussion thread of dynomight.net/vitamin-d/)
+- *Raw source saved:* ~/projects/roam-sources/articles/2026/2026-06-24_vitamin-d-worthlessness-mildly-exaggerated.md
+- *Topics updated:* vitamin_d.org, magnesium.org, omega-3.org
+- *Topics created:* confounding_in_observational_studies.org, sunlight_exposure.org
+- *Summary:* Ingested HN discussion of dynomight's Vitamin D essay; substantively rewrote vitamin_d.org (D as secosteroid hormone, dosing/monitoring, D3+K2+Mg synergy, RCT vs observational discrepancy, latitude effects, TARGET-D trial); enriched magnesium.org with vitamin D co-factor dependency and cardiac arrhythmia case; updated omega-3.org with hype-cycle parallel and Lebertran note; created confounding_in_observational_studies.org (structural confounding mechanics, grip-strength analogy, Bradford-Hill criteria, supplement industry incentives); created sunlight_exposure.org (NO pathway, circadian rhythm, serotonin, mortality data from Southern Sweden study, geographic/latitude factors, supplement-vs-sunlight gap); cross-links woven throughout all five files.

@@ -2,16 +2,12 @@
 :ID:       a0eaa6ba-8a7d-4bc0-95a2-7a0bdf1a37ef
 :END:
 #+created: 20200727110131596
+#+modified: 20260624
+#+filetags: :nutrition:health:
 #+lang: de
-#+modified: 20210518184431720
-#+origin: [[<<. bibliography "Der Ernährungskompass" "Der Ernährungskompass">>]] https://www.jedes-essen-zaehlt.de/
-#+revision: 0
-#+tags: Fette
 #+title: Omega-3
-#+tmap.id: e352d9e9-5809-4435-a274-9ffd9a431af1
-#+type: text/vnd.tiddlywiki
 
-- auch als Alpha-Linolensäure
+- auch als Alpha-Linolensäure (ALA) bekannt
 - Gute Quellen
   - *Leinöl*
   - Lachs
@@ -20,11 +16,24 @@
   - Forelle
   - Sardine
   - Makrele
+  - Lebertran (historisch: hauptsächlich für Vitamin D eingesetzt, nicht primär für Omega-3)
 - Mehrere Unterkategorien
-  - [[#EPA][EPA]]
-  - [[#DPA][DPA]]
-  - [[#DHA][DHA]]
+  - EPA (Eicosapentaensäure)
+  - DPA (Docosapentaensäure)
+  - DHA (Docosahexaensäure)
 - Wichtig fürs Auge
 - Wichtig für diverse Funktionen im Gehirn
 - Wirkt entzündungshemmend
-- Veganer nehmen zu wenig Omega-3 zu sich auf
+- Veganer nehmen zu wenig Omega-3 zu sich auf (ALA aus Pflanzquellen wird schlecht zu EPA/DHA umgewandelt)
+
+- Hype-Enttäuschungs-Zyklus (Parallele zu [[id:b331244a-19e4-4f88-ba9f-e8b6d70c2871][Vitamin D]])
+  - Frühe Beobachtungsstudien: sehr positive Ergebnisse (Herzgesundheit, Entzündung, Mortalität)
+  - Nachfolgende RCTs mit höherer Teststärke: deutlich schwächere oder keine Effekte
+  - Ähnliche Erklärung wie bei Vitamin D: [[id:cc9c5bd7-fa40-4ec5-b9a8-cd69445d793b][Confounding in Observational Studies]] — hohe Omega-3-Spiegel als Proxy für Fischkonsum und mediterrane Ernährung insgesamt, nicht als isolierter Kausalfaktor
+  - Baby-Aspirin hatte denselben Zyklus
+  - Mediterranes Ernährungsmuster (Olivenöl, Fisch, Gemüse) ist als Ganzes schwer durch Einzelsupplements zu replizieren
+
+- Supplementierung
+  - Fischöl-Kapseln: häufig empfohlen, wissenschaftliche Evidenz für isolierten Nutzen begrenzt
+  - Qualität schwankend (Oxidation, Reinheit)
+  - Algenöl: vegane DHA/EPA-Quelle direkt aus der Primärquelle (Mikroalgen)
