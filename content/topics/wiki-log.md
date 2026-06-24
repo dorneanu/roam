@@ -1,0 +1,112 @@
++++
+title = "Wiki Log"
+author = ["hermes"]
+tags = ["wiki", "log"]
+draft = false
++++
+
+Append-only log of all wiki ingest, query, and lint operations.
+
+
+## 2026-06-02: Ingest — The Cost of Safetyism {#2026-06-02-ingest-the-cost-of-safetyism}
+
+-   **Source type:** article
+-   **Topics updated:** boredom.org, attention_economy.org
+-   **Topics created:** safetyism.org, mean_world_syndrome.org, free_range_parenting.org, overparenting.org, autonomy_supportive_coaching.org, learned_helplessness.org, unstructured_play.org
+-   **Summary:** Ingested Steve Magness's article on the cultural costs of overprotective parenting, creating seven new topic files covering safetyism, mean world syndrome, free-range parenting, overparenting, autonomy-supportive coaching, learned helplessness, and unstructured play, with cross-links woven throughout.
+
+
+## 2026-06-02: Ingest — The Anxious Generation (Jonathan Haidt, 2024) {#2026-06-02-ingest-the-anxious-generation--jonathan-haidt-2024}
+
+-   **Source type:** book
+-   **Topics updated:** safetyism.org, free_range_parenting.org, overparenting.org, unstructured_play.org, learned_helplessness.org, mean_world_syndrome.org, attention_economy.org
+-   **Topics created:** phone_based_childhood.org, great_rewiring.org, antifragility.org, discover_mode.org, social_comparison.org, rites_of_passage.org
+-   **Summary:** Ingested Jonathan Haidt's The Anxious Generation, creating six new topic files (phone-based childhood, great rewiring, antifragility, discover/defend mode, social comparison, rites of passage) and enriching seven existing topics from the safetyism ingest with Haidt's reinforcing evidence, data, and frameworks; bidirectional cross-links woven throughout.
+
+
+## 2026-06-02: Query — Why are girls more affected than boys by phone-based childhood and social media? {#2026-06-02-query-why-are-girls-more-affected-than-boys-by-phone-based-childhood-and-social-media}
+
+-   **Topics consulted:** phone_based_childhood.org, social_comparison.org
+-   **Raw source:** haidt_jonathan_anxious-generation.md (Chapter 6, lines 5601–6824)
+-   **Answer saved:** no
+-   **Gaps identified:** discover_mode.org exists per wiki log but is not in wiki index; sociogenic illness mechanism (emotional contagion, prestige bias, audience capture) deserves a dedicated section; boys' harms (gaming, pornography) not yet covered in depth
+
+
+## 2026-06-02: Ingest — The Anxious Generation, Chs. 6–7 (boys-specific material) {#2026-06-02-ingest-the-anxious-generation-chs-dot-6-7--boys-specific-material}
+
+-   **Source type:** book
+-   **Topics updated:** social_comparison.org, anomie.org, wiki_index.org
+-   **Topics created:** sociogenic_illness.org
+-   **Summary:** Ingested boys-specific chapters (Ch. 7) and gender-comparative chapter (Ch. 6) from The Anxious Generation; created sociogenic_illness.org covering emotional contagion, prestige bias, and audience capture as social media disease vectors; added agency/communion motivational split and extreme masculinity influencer section to social_comparison.org; added sociogenic_illness cross-link to anomie.org; added four previously created but un-indexed health topics to wiki_index.org.
+
+
+## 2026-06-02: Ingest — Software Engineering at Google (Winters, Manshreck, Wright, 2020) {#2026-06-02-ingest-software-engineering-at-google--winters-manshreck-wright-2020}
+
+-   **Source type:** book
+-   **Topics updated:** software_engineering.org, engineering_management.org, tddtest_doubles.org, continuous_integration.org
+-   **Topics created:** hyrum_law.org, psychological_safety.org, trunk_based_development.org
+-   **Summary:** Ingested Software Engineering at Google, creating three new topic files (Hyrum's Law, psychological safety, trunk-based development) and enriching four existing topics with QUANTS/GSM framework, servant leadership and "always be" principles, Google's test double hierarchy (prefer fakes over mocks), and CI at scale with the Beyoncé Rule and TAP architecture; cross-links woven throughout.
+
+
+## 2026-06-02: Ingest — How to build Karpathy's LLM wiki {#2026-06-02-ingest-how-to-build-karpathy-s-llm-wiki}
+
+-   **Source type:** article
+-   **Topics updated:** second_brain.org, zettelkasten.org, org_roam.org, ai.org
+-   **Topics created:** llm_wiki.org
+-   **Summary:** Ingested Dylan Boudro's comprehensive guide to Karpathy's LLM wiki pattern; created llm_wiki.org covering the three-layer architecture (raw/wiki/schema), ingest/query/lint operations, LLM wiki vs RAG comparison, and intellectual lineage back to Vannevar Bush's Memex; enriched second_brain, zettelkasten, org-roam, and AI topics with cross-links to the new file.
+
+
+## 2026-06-02: Ingest — LLM Wiki (Karpathy gist) {#2026-06-02-ingest-llm-wiki--karpathy-gist}
+
+-   **Source type:** article
+-   **Topics updated:** llm_wiki.org, ai.org, second_brain.org
+-   **Topics created:** (none — llm_wiki.org created by parallel Starmorph ingest)
+-   **Summary:** Ingested Karpathy's original gist; enriched llm_wiki.org with Karpathy's exact framing ("Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase"), concrete use cases (personal/research/book/business), and specific tooling notes (Obsidian Web Clipper, qmd, Marp, Dataview); added gist entry to ai.org LLM section and second_brain.org with the key maintenance-cost insight.
+
+
+## 2026-06-03: Ingest — Claude Code: Team Infrastructure and Agentic Patterns (talk slides) {#2026-06-03-ingest-claude-code-team-infrastructure-and-agentic-patterns--talk-slides}
+
+-   **Source type:** article
+-   **Topics updated:** ai.org, llm_wiki.org
+-   **Topics created:** claude_code.org, planner_generator_evaluator.org
+-   **Summary:** Ingested two presentation slides from an Amazon/AWS internal talk covering Claude Code's .claude/ directory as version-controlled team infrastructure (CLAUDE.md, shared commands, settings hooks) and the Planner-Generator-Evaluator agentic design pattern (plan-mode spec, sprint-by-sprint generation, live-app evaluation); created two new topic files and added cross-links from ai.org and llm_wiki.org.
+
+
+## 2026-06-05: Ingest — Reclaiming Conversation (Sherry Turkle, 2015) {#2026-06-05-ingest-reclaiming-conversation--sherry-turkle-2015}
+
+-   **Source type:** book
+-   **Topics updated:** solitude.org, boredom.org, conversation-centric_communication.org, phone_based_childhood.org, social_comparison.org, attention_economy.org
+-   **Topics created:** eliza_effect.org
+-   **Summary:** Ingested Sherry Turkle's Reclaiming Conversation; created eliza_effect.org covering the projection of empathy onto machines from Weizenbaum's 1966 ELIZA to contemporary AI companions; enriched six existing topics with Turkle's Tillich/Winnicott solitude-vs-loneliness distinction and virtuous circle of conversation (solitude.org), Winnicott/Erikson developmental boredom as invitation (boredom.org), Siegel/Senju neurological case for eye contact and phubbing as sub-concept (conversation-centric_communication.org), the "missing chip" hypothesis for caregiver phone use (phone_based_childhood.org), "I share, therefore I am" as new ontological mode (social_comparison.org), and Goldilocks effect + Maryanne Wolf deep reading/brain plasticity + ambient phone effect (attention_economy.org).
+
+
+## 2026-06-04: Ingest — AI Engineering from Scratch (curriculum website) {#2026-06-04-ingest-ai-engineering-from-scratch--curriculum-website}
+
+-   **Source type:** website / open-source curriculum
+-   **Topics updated:** ai.org, python.org, rust.org, wiki_index.org
+-   **Topics created:** ai_engineering.org
+-   **Summary:** Ingested the AI Engineering from Scratch website — a 503-lesson, 20-phase open-source curriculum (MIT license, maintainer Rohit Ghumare) covering math-first AI engineering from linear algebra through autonomous swarms in Python, TypeScript, Rust, and Julia. Created ai_engineering.org covering the math-first methodology (derive→code→test→keep artifact), core topics, and the open-source curriculum; enriched ai.org with a new AI Engineering section, and added reference links to python.org and rust.org; added ai_engineering.org to wiki_index.org under AI/Machine Learning.
+
+
+## 2026-06-05: Ingest — Earth for All (Club of Rome, 2022) {#2026-06-05-ingest-earth-for-all--club-of-rome-2022}
+
+-   **Source type:** book
+-   **Topics updated:** anthropozan.org, doughnut_economics.org, carbon_dioxide.org
+-   **Topics created:** planetary_boundaries.org, earth4all_model.org, wellbeing_economy.org, social_tipping_points.org, giant_leaps.org, limits_to_growth.org
+-   **Summary:** Ingested Earth for All by Dixson-Declève, Gaffney, Ghosh, Randers, Rockström, and Stoknes (Club of Rome, 2022); created six new topic files covering the planetary boundaries framework, the Earth4All system-dynamics model and its two scenarios (Too Little Too Late vs Giant Leaps), the wellbeing economy paradigm, social tipping points and leverage-point analysis, the five Giant Leaps policy packages, and the Limits to Growth legacy; enriched three existing topics (Anthropozän, Doughnut Economics, Carbon Dioxide) with cross-links to the new files.
+
+
+## 2026-06-12: Ingest — Drop your best Claude skills in here! (Reddit r/ClaudeAI) {#2026-06-12-ingest-drop-your-best-claude-skills-in-here--reddit-r-claudeai}
+
+-   **Source type:** article
+-   **Topics updated:** claude_code.org, llm_wiki.org, ai.org
+-   **Topics created:** claude_code_skills.org, self_improving_agents.org, session_context_persistence.org
+-   **Summary:** Ingested a Reddit r/ClaudeAI community thread collecting the most-used Claude Code skills; created three new topic files covering the community skill ecosystem (GSD, Superpowers, tonone multi-agent, credential management, design patterns), the meta-skill pattern for autonomous self-improvement (observe → log → scheduled apply), and the /close session context persistence pattern (retrospective → housekeeping → close); enriched claude_code.org with a community skills section, llm_wiki.org with a community implementation entry, and ai.org with LLM Council and new skill topic links.
+
+
+## 2026-06-12: Ingest — grill-me SKILL.md (Matt Pocock) {#2026-06-12-ingest-grill-me-skill-dot-md--matt-pocock}
+
+-   **Source type:** article
+-   **Topics updated:** claude_code_skills.org, deliberate_practice.org
+-   **Topics created:** socratic_questioning.org
+-   **Summary:** Ingested Matt Pocock's grill-me Claude Code skill — a five-line Socratic design-review slash command that relentlessly interviews the user about a plan one question at a time, walking the decision tree and providing recommended answers; created socratic_questioning.org covering the methodology, its application to design review, and the grill-me implementation; enriched claude_code_skills.org with a "Socratic design-review skill" sub-heading under Skill design patterns, and added a Socratic questioning cross-link to deliberate_practice.org.

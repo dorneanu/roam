@@ -1,0 +1,82 @@
+:PROPERTIES:
+:ID:       953cf8e0-8716-4288-a304-08be0f5c6931
+:END:
+#+title: Fitness functions
+#+filetags: :software:architecture:
+
+* Overview
+An architectural fitness function is any mechanism that provides an objective integrity assessment of some [[id:f9912f2f-5861-469f-816e-0765a78687b1][architectural characteristic]] or combination of architectural characteristics. The term borrows from evolutionary computing (genetic algorithms), where a fitness function guides an algorithm toward its goal by measuring how close the output comes to the desired outcome.
+
+Fitness functions are not a new framework to download. They offer a new perspective on many existing tools — unit testing libraries, metrics monitors, chaos engineering tools, and code analysis frameworks all qualify as fitness function implementations. The key shift is framing: architects declare what architectural properties matter and wire automated checks into the build/deployment pipeline to enforce them continuously.
+
+#+begin_quote
+Fitness functions are not a heavyweight governance mechanism, but a mechanism for architects to express and automatically verify important architectural principles.
+
+Richards & Ford, Fundamentals of Software Architecture, 2E
+#+end_quote
+
+* Classification
+Fitness functions can be classified along two axes:
+
+** Automated vs manual
+- *Automated*: executed by machines — unit tests, CI checks, metrics dashboards, chaos experiments
+- *Manual*: human review processes — architectural reviews, threat model reviews, design sign-offs
+
+** Continuous vs triggered
+- *Continuous*: run constantly in production (e.g. monitors, chaos experiments that simulate load)
+- *Triggered*: run on demand or on a schedule — typically tied to the build pipeline (every commit or every deploy)
+
+The most powerful governance comes from *automated + triggered* fitness functions wired into CI: they guard important but non-urgent architectural properties that would otherwise erode under schedule pressure.
+
+* Examples
+** Cyclic dependencies (modularity)
+Cyclic dependencies between components are a damaging antipattern: impossible to reuse one component without dragging in its cycle partners, pulling codebases toward Big Ball of Mud. A fitness function using JDepend (Java) can be wired into CI:
+
+#+begin_src java
+@Test
+void testAllPackages() {
+  Collection packages = jdepend.analyze();
+  assertEquals("Cycles exist", false, jdepend.containsCycles());
+}
+#+end_src
+
+** Distance from the Main Sequence (coupling health)
+The [[id:e3ea3021-3adb-4611-abca-ce0cce3cb27c][coupling]] metric D = |A + I − 1| measures how far a component is from the ideal balance of abstractness and instability. A fitness function can enforce a tolerance threshold per package:
+
+#+begin_src java
+@Test
+void AllPackages() {
+  double ideal = 0.0;
+  double tolerance = 0.5; // project-dependent
+  // fails if any package exceeds distance threshold
+}
+#+end_src
+
+** Layer dependency governance (ArchUnit)
+ArchUnit (Java) encodes layer dependency rules as unit tests, preventing e.g. Presentation from calling Data directly in a layered architecture. NetArchTest provides equivalent functionality for .NET/C#.
+
+** Chaos engineering (Netflix Simian Army)
+Netflix's Chaos Monkey and Simian Army are production fitness functions simulating infrastructure failures:
+- *Chaos Monkey*: random instance termination to test resilience
+- *Latency Monkey*: simulates high latency on AWS instances
+- *Chaos Kong*: simulates full Amazon datacenter failure
+- *Conformity Monkey*: enforces governance rules (e.g. every service must respond without errors)
+- *Security Monkey*: scans for well-known security defects (open ports, configuration errors)
+- *Janitor Monkey*: removes orphan services with no active callers — keeping the system clean as services evolve
+
+* Fitness functions vs unit tests
+Unit tests verify domain behavior (does the code do what it should?). Fitness functions verify architectural properties (does the structure satisfy the architectural characteristics?). Both use the same execution infrastructure (JUnit, NUnit, pytest), but they target different concerns.
+
+Unit tests are often written by developers; fitness functions are authored collaboratively by architects and developers. Architects must ensure developers understand the purpose of a fitness function before imposing it — otherwise developers may code to the metric rather than to the intent.
+
+* Relation to evolutionary architecture
+Fitness functions are the governance mechanism inside an evolutionary architecture (see /Building Evolutionary Architectures/, Neal Ford et al., O'Reilly 2022). An evolutionary architecture supports guided, incremental change across multiple dimensions simultaneously; fitness functions are what makes the guidance objective and automated rather than ad hoc.
+
+* Related topics
+- [[id:f9912f2f-5861-469f-816e-0765a78687b1][Architectural characteristics]] — fitness functions are the enforcement mechanism for characteristics
+- [[id:575d9629-d5b9-41c4-9868-2e864400fa0c][Architectural governance]] — fitness functions are the primary tool for automated governance
+- [[id:4b4d8324-afd8-49ff-9f19-b5bde5b02022][Modularity]] — cyclic dependency and cohesion checks are classic fitness function targets
+- [[id:e3ea3021-3adb-4611-abca-ce0cce3cb27c][Coupling]] — distance from main sequence fitness function guards coupling health
+
+* Resources
+- 2026-06-18 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 6: fitness function definition (borrowed from evolutionary computing), automated vs manual / continuous vs triggered taxonomy, cyclic dependency JDepend example, distance-from-main-sequence JDepend example, ArchUnit/NetArchTest layer governance examples, Netflix Simian Army as production fitness functions, relationship to evolutionary architecture

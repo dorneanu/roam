@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       e3ea3021-3adb-4611-abca-ce0cce3cb27c
+:END:
+#+title: Coupling
+#+filetags: :software:architecture:
+
+* Overview
+Coupling measures the degree to which components in a software system depend on one another. High coupling means a change in one component is likely to require changes in others — making systems brittle and expensive to maintain. Coupling is one of the three key metrics for measuring [[id:4b4d8324-afd8-49ff-9f19-b5bde5b02022][modularity]], alongside cohesion and [[id:bd8e9470-33d5-4c7d-a9ba-31adc7bf1e18][connascence]]. The concept originates in Edward Yourdon and Larry Constantine's /Structured Design/ (1979) and was extended for object-oriented systems by Meilir Page-Jones.
+
+* Afferent and efferent coupling
+The two primary coupling directions (both terms from /Structured Design/):
+
+- *Afferent coupling (Ca)*: the number of incoming connections to a code artifact — how many other components depend on this one. High afferent coupling makes a component influential but risky to change.
+- *Efferent coupling (Ce)*: the number of outgoing connections from a code artifact — how many components this one depends on. High efferent coupling makes a component fragile: if any dependency changes, this component may break.
+
+Mnemonic: "a" comes before "e" in the alphabet, just as incoming comes before outgoing. "e" for efferent matches "e" for exit.
+
+* Derived metrics (Robert C. Martin)
+
+** Abstractness
+Ratio of abstract artifacts (interfaces, abstract classes) to all artifacts (abstract + concrete):
+
+  A = Σ abstract / (Σ concrete + Σ abstract)
+
+A score near 0 = almost no abstractions (brittle); near 1 = all abstraction, no implementation (hard to use).
+
+** Instability
+Ratio of efferent to total coupling:
+
+  I = Ce / (Ce + Ca)
+
+High instability means the component is volatile — heavily dependent on others and thus easy to break when they change. Low instability (stable) means many things depend on this component, so it should change rarely.
+
+** Distance from the Main Sequence
+A holistic health metric:
+
+  D = |A + I − 1|
+
+Plots a component's position relative to the "main sequence" — the ideal relationship between abstractness and instability. Components far from the line fall into:
+- *Zone of Uselessness*: too abstract, too stable — no one uses these abstractions
+- *Zone of Pain*: too concrete, too unstable — tightly coupled implementation code that changes constantly
+
+* Governing coupling health with fitness functions
+The distance-from-main-sequence metric can be enforced automatically using a [[id:953cf8e0-8716-4288-a304-08be0f5c6931][fitness function]] — turning the metric from a diagnostic tool into a build gate. Using JDepend (Java):
+
+#+begin_src java
+@Test
+void AllPackages() {
+  double ideal = 0.0;
+  double tolerance = 0.5; // project-dependent
+  Collection packages = jdepend.analyze();
+  Iterator iter = packages.iterator();
+  while (iter.hasNext()) {
+    JavaPackage p = (JavaPackage)iter.next();
+    assertEquals("Distance exceeded: " + p.getName(),
+      ideal, p.distance(), tolerance);
+  }
+}
+#+end_src
+
+This establishes a per-package distance threshold; the build fails if any package drifts too far from the main sequence. ArchUnit provides similar capabilities with more expressive rule syntax.
+
+Wiring these checks into CI means coupling health is governed continuously rather than periodically in code review — important because coupling degradation happens gradually and is invisible until structural damage is severe. See [[id:575d9629-d5b9-41c4-9868-2e864400fa0c][architectural governance]] for the broader strategy.
+
+* Coupling types in object-oriented systems
+Yourdon and Constantine's vocabulary was designed for structured (procedural) programming. Object-oriented design requires a richer vocabulary: [[id:bd8e9470-33d5-4c7d-a9ba-31adc7bf1e18][connascence]], introduced by Page-Jones, provides precise names for different coupling types in OO contexts (Connascence of Name, Type, Meaning, Position, Algorithm for static coupling; Execution, Timing, Values, Identity for dynamic coupling).
+
+* Coupling and cohesion
+Coupling and cohesion are inversely related in practice: poorly cohesive modules that should be together but are split will require more inter-module calls, increasing coupling. As Larry Constantine observed:
+
+#+begin_quote
+Attempting to divide a cohesive module would only result in increased coupling and decreased readability.
+#+end_quote
+
+The goal is high cohesion within modules and low coupling between them.
+
+* Coupling in architecture
+At the architectural level, excessive coupling between services or components produces antipatterns:
+- Spaghetti Architecture
+- Distributed Monoliths
+- Big Ball of Distributed Mud
+
+Granularity decisions (how small to make services or components) are the primary coupling driver at the architecture level. See [[id:4b4d8324-afd8-49ff-9f19-b5bde5b02022][modularity]] for the full picture.
+
+* Resources
+- 2026-06-16 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 3: afferent/efferent coupling, abstractness, instability, distance from main sequence, Zone of Pain/Uselessness; coupling as one of three modularity metrics; user annotation "ci: llm ingest coupling" (p. 141)
+- 2026-06-18 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 6: distance-from-main-sequence fitness function (JDepend tolerance threshold per package); ArchUnit as more expressive alternative; wiring coupling health checks into CI as automated governance
