@@ -9,23 +9,68 @@ Apply Karpathy's 3-pass reading method to a book chapter: structured summarize �
 
 ## Input
 
-The user invokes `/deep-read <path>` where `<path>` is:
-- A `.txt` or `.md` file containing an already-extracted chapter
-- An EPUB file path (optionally followed by a chapter number or title)
+The user invokes `/deep-read <path> [chapter]` where `<path>` is:
+- A full book `.txt` or `.md` file (most common — the user keeps whole books, not splits)
+- An EPUB file
+- A pre-extracted chapter file
 - Pasted text (if no path is given)
 
-If the input is an EPUB, extract the chapter first using the epub-processor workflow (pandoc to markdown, grep for chapter boundaries, sed to split). Work in `/tmp`.
+An optional `[chapter]` hint can be a chapter number (`5`), a title keyword (`"hexagonal"`), or a range (`"ch 3-4"`).
 
-## Step 1: Read the Chapter
+## Step 1: Detect file type and size
 
-Read the file and hold the full text in context. Note:
-- Book title and author (from filename, frontmatter, or ask)
+```bash
+wc -w <file>
+```
+
+- **< 8 000 words** → treat as a single chapter, proceed to Step 2 directly.
+- **≥ 8 000 words** → treat as a full book file; proceed to Step 1a to pick a chapter.
+
+If the input is an EPUB, convert it first:
+```bash
+pandoc "<file>.epub" -t markdown -o /tmp/book_full.md
+```
+Then treat `/tmp/book_full.md` as the full book file.
+
+## Step 1a: Chapter selection (full book files only)
+
+Scan for chapter boundaries:
+```bash
+grep -n "^## \|^# Chapter\|^Chapter [0-9]" <file> | head -60
+```
+
+If that finds nothing, try:
+```bash
+grep -n "^#" <file> | head -60
+```
+
+Print the chapter list to the user:
+```
+Found chapters:
+  1. Chapter 1: Foundations (line 12)
+  2. Chapter 2: Architecture (line 287)
+  ...
+Which chapter do you want to deep-read?
+```
+
+If the user already gave a chapter hint in the invocation, match it automatically (by number or keyword) and confirm:
+> "Deep-reading Chapter 3: Modularity (lines 412–689). Proceed?"
+
+Once confirmed, extract the chapter with sed:
+```bash
+sed -n 'START,ENDp' <file> > /tmp/deep_read_chapter.txt
+```
+
+Work from `/tmp/deep_read_chapter.txt` for all subsequent steps.
+
+## Step 2: Note chapter metadata
+
+Before analysis, note:
+- Book title and author (from filename, frontmatter, or ask if unclear)
 - Chapter number and title
-- Approximate word count (`wc -w <file>`)
+- Word count of the extracted chapter (`wc -w /tmp/deep_read_chapter.txt`)
 
-If the chapter is very long (>8000 words), work section by section but produce one unified output at the end.
-
-## Step 2: Pass 2 — Structured Summarize
+## Step 3: Pass 2 — Structured Summarize
 
 Analyze the chapter text and produce:
 
@@ -46,7 +91,7 @@ grep -i "keyword" "$ROAM/org/topics/wiki_index.org"
 ```
 Try 3–5 keywords from the key concepts. List matching wiki topics that this chapter relates to or enriches.
 
-## Step 3: Pass 3 — Socratic Q&A
+## Step 4: Pass 3 — Socratic Q&A
 
 Generate **5 Socratic questions** — questions that test genuine understanding, not surface recall. Each question should require the reader to explain, apply, or connect a concept.
 
@@ -58,7 +103,7 @@ Format each as:
 
 Flag any question that points to a gap or contradiction in the chapter worth pursuing further with `⚠️ worth exploring`.
 
-## Step 4: Save to roam-sources
+## Step 5: Save to roam-sources
 
 Derive paths:
 ```bash
@@ -66,7 +111,9 @@ ROAM="$(git -C ~/projects/roam rev-parse --show-toplevel 2>/dev/null || echo ~/p
 SOURCES="$(cd "$ROAM/../roam-sources" 2>/dev/null && pwd || echo "$ROAM/../roam-sources")"
 ```
 
-Save the chapter text to:
+**If the input was a full book file already in `$SOURCES`:** the source is already saved — skip saving the extracted chapter separately. Just note the source path and chapter line range.
+
+**If the input was an EPUB or a file outside `$SOURCES`:** save the extracted chapter to:
 ```
 $SOURCES/books/YYYY/author-lastname_book-title-slug/chapter-NN_chapter-title.md
 ```
@@ -81,12 +128,12 @@ date: YYYY-MM-DD
 tags: [book, chapter]
 ---
 
-[full chapter text]
+[extracted chapter text]
 ```
 
 Skip if the file already exists at that path.
 
-## Step 5: Ask about wiki ingest
+## Step 6: Ask about wiki ingest
 
 After completing the analysis, ask the user:
 
@@ -94,7 +141,7 @@ After completing the analysis, ask the user:
 
 If yes, spawn the `wiki-ingest` agent and pass the chapter text plus the key concepts identified in Pass 2 as context.
 
-## Step 6: Print Reading Digest
+## Step 7: Print Reading Digest
 
 At the end, print a compact digest the user can reference:
 
