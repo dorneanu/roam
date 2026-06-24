@@ -149,7 +149,7 @@ Append-only log of all wiki ingest, query, and lint operations.
 :PROPERTIES:
 :DATE:     2026-06-16
 :TYPE:     ingest
-:SOURCE:   /Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub
+:SOURCE:   Fundamentals of Software Architecture, 2E — Chapters 1–4 (Richards & Ford)
 :END:
 - *Source type:* book
 - *Topics updated:* software_architecture.org, software_architect.org, component_cohesion.org, component_cohesionccp.org
