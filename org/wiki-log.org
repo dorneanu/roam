@@ -144,3 +144,69 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* claude_code_skills.org, deliberate_practice.org
 - *Topics created:* socratic_questioning.org
 - *Summary:* Ingested Matt Pocock's grill-me Claude Code skill — a five-line Socratic design-review slash command that relentlessly interviews the user about a plan one question at a time, walking the decision tree and providing recommended answers; created socratic_questioning.org covering the methodology, its application to design review, and the grill-me implementation; enriched claude_code_skills.org with a "Socratic design-review skill" sub-heading under Skill design patterns, and added a Socratic questioning cross-link to deliberate_practice.org.
+
+* 2026-06-16: Ingest — Fundamentals of Software Architecture, 2E — Chapters 1–4 (Richards & Ford)
+:PROPERTIES:
+:DATE:     2026-06-16
+:TYPE:     ingest
+:SOURCE:   /Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub
+:END:
+- *Source type:* book
+- *Topics updated:* software_architecture.org, software_architect.org, component_cohesion.org, component_cohesionccp.org
+- *Topics created:* connascence.org, architectural_characteristics.org, modularity.org, architectural_thinking.org, knowledge_pyramid.org, coupling.org
+- *Summary:* Ingested Chapters 1–4 of Fundamentals of Software Architecture (2nd ed.) by Mark Richards and Neal Ford, plus user's PocketBook reading notes; updated four existing topics with the three laws of software architecture, four-dimension definition, and eight architect expectations; created six new topics covering connascence (full static/dynamic taxonomy + Weirich rules), architectural characteristics (criteria, categories, least-worst principle), modularity (cohesion types, LCOM metric, coupling metrics, connascence), architectural thinking (architecture vs design spectrum, trade-off analysis, Frozen Caveman antipattern, hands-on coding balance), the knowledge pyramid (breadth vs depth model), and coupling (afferent/efferent, abstractness, instability, distance from main sequence). User-annotated "ci: llm ingest" tags for cohesion, coupling, connascence honoured as dedicated files.
+
+* 2026-06-18: Ingest — Fundamentals of Software Architecture, 2E — Chapters 4–6 (Richards & Ford)
+:PROPERTIES:
+:DATE:     2026-06-18
+:TYPE:     ingest
+:SOURCE:   /home/hermes/projects/roam-sources/books/2026/richards-ford_fundamentals-software-architecture-2e/chapters-4-6.md
+:END:
+- *Source type:* book
+- *Topics updated:* architectural_characteristics.org, modularity.org, coupling.org
+- *Topics created:* fitness_functions.org, architectural_governance.org, architecture_katas.org
+- *Summary:* Ingested Chapters 4–6 of Fundamentals of Software Architecture (2nd ed.); enriched architectural_characteristics.org with domain-concern translation table, composite characteristics, measurement/governance pointers, and Vasa antipattern; enriched modularity.org with cyclic dependency fitness function, ArchUnit layer governance, and Cyclomatic Complexity guidance; enriched coupling.org with distance-from-main-sequence fitness function and JDepend tolerance code; created fitness_functions.org (full taxonomy: automated/manual/continuous/triggered, JDepend/ArchUnit/chaos engineering examples, Netflix Simian Army); created architectural_governance.org (governance philosophy, tool landscape, checklist manifesto framing, developer-trust principle); created architecture_katas.org (kata structure, Silicon Sandwiches and GGG worked examples, domain-concern translation table, composite characteristics).
+
+* 2026-06-23: Ingest — CL4R1T4S: AI Systems Transparency and Observability
+:PROPERTIES:
+:DATE:     2026-06-23
+:TYPE:     ingest
+:SOURCE:   https://github.com/elder-plinius/CL4R1T4S
+:END:
+- *Source type:* article
+- *Topics updated:* chatgpt.org, ai_agents.org
+- *Topics created:* system_prompt_transparency.org, llm_red_teaming.org
+- *Summary:* Ingested CL4R1T4S (43.6k-star community repository of extracted AI system prompts); created system_prompt_transparency.org covering what system prompts encode, community extraction methods, the shadow-puppet framing, and tension with commercial interests; created llm_red_teaming.org covering jailbreaking, prompt injection, system prompt extraction, capability elicitation, and agentic risk amplification; updated chatgpt.org with CL4R1T4S bullets in Security and System Prompts sections; updated ai_agents.org with note on agentic system prompt exposure (Devin, Manus, MultiOn).
+
+* 2026-06-23: Ingest — NeMo Guardrails + Colang (NVIDIA)
+:PROPERTIES:
+:DATE:     2026-06-23
+:TYPE:     ingest
+:SOURCE:   https://github.com/NVIDIA-NeMo/Guardrails https://archive.docs.nvidia.com/ace/ace-agent/4.1/user/colang.html
+:END:
+- *Source type:* article
+- *Topics updated:* ai.org, ai_agents.org, llm_red_teaming.org
+- *Topics created:* llm_guardrails.org, colang.org
+- *Summary:* Ingested two closely-related NVIDIA sources — the NeMo Guardrails GitHub README and the Colang language documentation; created llm_guardrails.org covering the five-rail model (input, dialog, retrieval, execution, output), what guardrails protect against (jailbreaks, prompt injection, off-topic drift, unsafe outputs), and guardrails vs fine-tuning; created colang.org covering the event-based DSL, 1.0 vs 2.0 differences (UMIM, parallel actions, hierarchical flows), and use in NVIDIA ACE Agent; updated ai.org with a new "LLM safety / guardrails" section; updated ai_agents.org with a "Guardrails for agents" section on execution and retrieval rails; updated llm_red_teaming.org with a "Defensive countermeasures" section mapping each attack category to its guardrail type.
+
+* 2026-06-24: Ingest — garak: LLM vulnerability scanner (NVIDIA)
+:PROPERTIES:
+:DATE:     2026-06-24
+:TYPE:     ingest
+:SOURCE:   https://github.com/NVIDIA/garak
+:END:
+- *Source type:* article
+- *Topics updated:* red_teaming_llms.org, llm_jailbreaking.org, prompt_injection.org
+- *Topics created:* llm_vulnerability_scanning.org, package_hallucination.org
+- *Summary:* Ingested the garak GitHub README (NVIDIA's open-source LLM vulnerability scanner); created llm_vulnerability_scanning.org covering the probe/detector/generator/harness architecture, probe taxonomy (DAN attacks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens, etc.), and the relationship between automated scanning and human red-teaming; created package_hallucination.org covering the slopsquatting supply-chain attack; updated red_teaming_llms.org with an "Automated vulnerability scanning" sub-section; updated llm_jailbreaking.org with GCG adversarial suffix and glitch token attack entries; updated prompt_injection.org with an encoding-based injection variant and scanner-derived finding.
+
+* 2026-06-24: Ingest — promptfoo (GitHub) + Giskard OSS (GitHub)
+:PROPERTIES:
+:DATE:     2026-06-24
+:TYPE:     ingest
+:SOURCE:   https://github.com/promptfoo/promptfoo https://github.com/Giskard-AI/giskard-oss
+:END:
+- *Source type:* article
+- *Topics updated:* red_teaming_llms.org, llm_vulnerability_scanning.org
+- *Topics created:* llm_evaluation.org
+- *Summary:* Ingested the GitHub READMEs for promptfoo (MIT, acquired by OpenAI; CLI+library for LLM evals and automated red-teaming; CI/CD integration; model comparison) and Giskard OSS (Apache 2.0; Python library for agentic system testing; Scenario API with LLM-as-judge; giskard-scan covers OWASP LLM Top-10); created llm_evaluation.org covering eval frameworks, assertion types (regex/semantic/LLM-as-judge), regression testing, multi-turn agentic evaluation, and both tools; updated red_teaming_llms.org to mention promptfoo and Giskard in the automated scanning section; updated llm_vulnerability_scanning.org to add promptfoo and Giskard Scan as dedicated tool entries alongside garak.
