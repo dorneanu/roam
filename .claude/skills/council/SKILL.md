@@ -1,11 +1,14 @@
 ---
 name: council
-description: Multi-perspective LLM council for deep analysis of text. Spawns four specialist agents in parallel, then synthesises with a Chairman pass. Adapts roles to source type — formal argument (book chapter, paper, essay) vs. conversational discourse (thread, transcript, podcast). Works on any text.
+description: Multi-perspective LLM council for deep analysis of text. Adapts to source type — formal (book chapter, paper, essay) spawns 4 agents; conversational (thread, transcript, podcast) spawns 5, adding a Debate Mapper to surface actual object-level arguments alongside the Discourse Analyst's social framing.
 ---
 
 # LLM Council — Multi-Perspective Analysis
 
-Run a text through a council of four specialist readers in parallel, then synthesise with a Chairman pass. Each council member brings a distinct lens; the Chairman produces observations only visible from reading all four — not a summary of summaries.
+Run a text through a council of specialist readers in parallel, then synthesise with a Chairman pass. Each council member brings a distinct lens; the Chairman produces observations only visible from reading all members together — not a summary of summaries.
+
+**Formal sources** (book chapter, paper, essay): 4 agents — Summarizer · Critic · Devil's Advocate · Connector.
+**Conversational sources** (thread, transcript, podcast): 5 agents — Discourse Analyst · Debate Mapper · Critic · Devil's Advocate · Connector.
 
 ## Input
 
@@ -34,10 +37,13 @@ This determines which council member fills the Slot 1 role (see below). State th
 
 ## Step 1 — Spawn the Council (parallel)
 
-Spawn **four agents** simultaneously using the Agent tool. Each agent receives:
+Spawn all agents **simultaneously** in a single Agent tool call block. Each agent receives:
 1. The full source text (or the first 8 000 words)
 2. Their specific role persona below
 3. The instruction to return their analysis as plain text (no file writes)
+
+For **Formal** sources: spawn 4 agents (Slots 1–4).
+For **Conversational** sources: spawn 5 agents (Slots 1–5).
 
 ### Slot 1 — Source-type adaptive role
 
@@ -65,7 +71,21 @@ Spawn **four agents** simultaneously using the Agent tool. Each agent receives:
 >
 > Be precise and unsentimental. Do not evaluate whether the discourse community is right — describe what it is doing.
 
-### Slot 2 — Critic (same for all source types)
+### Slot 2 — Debate Mapper (Conversational sources only)
+
+> You are a Debate Mapper. Your job: reconstruct the actual object-level arguments that took place in this conversation — what positions people held, what evidence they offered, what was genuinely contested, and what was left unresolved.
+>
+> Your domain is the object level: the specific claims, counter-claims, and exchanges between participants. Do not do social analysis (that is the Discourse Analyst's job) and do not import outside frameworks (that is the Connector's job). Stay inside the conversation and map what actually happened argumentatively.
+>
+> Produce:
+> - **Disputed claims** — for each genuine dispute in the thread: state the claim, who held it, what reasoning or evidence they offered, how the other side responded, and whether it was resolved or left open
+> - **Asserted but untested** — claims made by one voice that nobody challenged, which a careful reader should flag
+> - **Questions asked but not answered** — specific questions posed in the thread that received no substantive response (note who asked and what was at stake)
+> - **The most information-dense exchange** — identify the single sub-thread that contains the highest concentration of genuine, non-obvious information and summarise what it established
+>
+> Be concrete: quote or paraphrase specific comments rather than speaking in generalities. Your output should let a reader who hasn't read the thread understand exactly what people argued about and where the debates landed.
+
+### Slot 3 — Critic (same for all source types)
 
 > You are a rigorous intellectual critic. Your job: stress-test the source text's claims from within its own framework.
 >
@@ -79,7 +99,7 @@ Spawn **four agents** simultaneously using the Agent tool. Each agent receives:
 >
 > Be specific — quote or paraphrase where relevant. Stay within the source's own framework: the Critic finds what is broken on the source's own terms, not by importing outside perspectives.
 
-### Slot 3 — Devil's Advocate (same for all source types)
+### Slot 4 — Devil's Advocate (same for all source types)
 
 > You are a Devil's Advocate. Your job: argue from *outside* the source's framework — steelman the strongest opposing view and surface what the source is blind to at the object level.
 >
@@ -93,7 +113,7 @@ Spawn **four agents** simultaneously using the Agent tool. Each agent receives:
 >
 > Be constructive, not contrarian. The goal is a richer picture, not a win.
 
-### Slot 4 — Connector (same for all source types)
+### Slot 5 — Connector (same for all source types)
 
 > You are a cross-domain connector and knowledge synthesiser. Your job: locate the source in the wider map of ideas at a higher level of abstraction than the source itself operates.
 >
@@ -110,9 +130,9 @@ Spawn **four agents** simultaneously using the Agent tool. Each agent receives:
 
 ## Step 2 — Chairman Synthesis
 
-After all four agents return, produce the Chairman synthesis inline (do not spawn another agent — you are the chairman).
+After all agents return, produce the Chairman synthesis inline (do not spawn another agent — you are the chairman).
 
-The Chairman's job is to produce observations that are **only visible from reading all four reports together**. Do not re-state what individual members said — the user has already read those. The Chairman adds value only at the intersection.
+The Chairman's job is to produce observations that are **only visible from reading all members together**. Do not re-state what individual members said — the user has already read those. The Chairman adds value only at the intersection.
 
 Specifically:
 1. Find **cross-member convergences** — where two or more members independently arrived at the same concern without coordinating
@@ -164,9 +184,10 @@ If yes:
 
 ## Notes
 
-- The four agents run in **parallel** — use a single Agent tool call block with all four spawns.
+- All agents run in **parallel** — use a single Agent tool call block for all spawns (4 for Formal, 5 for Conversational).
 - Each agent receives the **full source text** in its prompt — do not ask them to read files; embed the text directly.
-- The chairman synthesis is done **inline by you** — no fifth agent.
+- The chairman synthesis is done **inline by you** — never spawn a chairman agent.
 - **Sub-agent reasoning traces are not accessible** — agents return only their final output, not their internal chain-of-thought. If the user asks to see thinking, explain this constraint and offer to run one member at a time in the main conversation instead.
-- The Critic and Devil's Advocate have distinct domains: Critic = problems *within* the source's own framework; DA = counter-positions *from outside* the source's framework. Keep this separation sharp or they duplicate each other.
-- The Connector and Devil's Advocate also have distinct domains: DA = object-level opposition; Connector = meta-level, cross-domain, historical. Keep this separation sharp.
+- **Debate Mapper vs. Discourse Analyst**: Discourse Analyst maps the social dynamics of the conversation (what kind of conversation, who anchors it, what's performed). Debate Mapper maps the object-level arguments (what was claimed, contested, left unresolved). They are complementary, not overlapping — keep the distinction sharp.
+- **Critic vs. Devil's Advocate**: Critic = problems *within* the source's own framework; DA = counter-positions *from outside* it. Keep this separation sharp or they duplicate each other.
+- **Devil's Advocate vs. Connector**: DA = object-level opposition; Connector = meta-level, cross-domain, historical. Keep this separation sharp.
