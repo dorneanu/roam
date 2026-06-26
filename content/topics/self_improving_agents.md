@@ -109,6 +109,7 @@ across all projects and devices, not just the current working directory.
 -   [Claude Code skills]({{< relref "claude_code_skills.md" >}}) — the skill ecosystem the meta-skill operates on
 -   [Session context persistence]({{< relref "session_context_persistence.md" >}}) — complementary pattern for persisting user context
 -   [Planner-Generator-Evaluator pattern]({{< relref "planner_generator_evaluator.md" >}}) — self-improvement is a form of meta-evaluation
+-   [Multi-agent communication]({{< relref "multi_agent_communication.md" >}}) — file-based channels allow self-improving agents to coordinate with peer agents or reviewer agents across sessions
 
 
 ## Resources {#resources}

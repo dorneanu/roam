@@ -21,6 +21,9 @@ Updated automatically on every ingest.
 - [[id:8e702808-9c1b-4770-9a88-fa2e24bdcd14][Git]] — distributed version control; branching strategies, workflows, and internals
 - [[id:06676c92-78a2-4d38-966e-058acdf5cdfd][Terraform]] — infrastructure-as-code tool for provisioning cloud resources declaratively; state management and module patterns
 
+* Conferences
+- [[id:1b521c25-8a4a-47ad-ab52-a342ffdadd2e][OWASP AppSec Global Vienna 2026]] — keynote: write-only code, sustainability of code review, enabling teams (Platform / SRE / Agent Enablement) in the agentic era
+
 * Security
 - [[id:41423943-a291-4118-84e2-c18141afce41][Zero Trust]] — security model that eliminates implicit network trust; every request verified regardless of origin; replaces perimeter-based defenses
 - [[id:4a1f1ff3-31f8-4791-a854-b3a71fbd887e][Cloud Security]] — network, identity, and data protection patterns specific to cloud environments
@@ -38,6 +41,10 @@ Updated automatically on every ingest.
 - [[id:f2b593c9-52ec-41ca-b376-b95d227d782c][Claude Code skills]] — community-shared reusable prompt definitions stored as slash commands; dominant frameworks: GSD (large iterative projects) and Superpowers (small-medium well-defined); also covers multi-agent orchestration (tonone), credential management, and skill design patterns
 - [[id:a668171b-86dd-4fc9-8020-8bffdd1605c6][Self-improving agents]] — AI agents that observe their own sessions, log improvement opportunities, and apply those improvements on a schedule; the "meta-skill" pattern; 600+ improvements applied across ~40 skills in the wild
 - [[id:c1afc3ce-c6d3-40a8-ae84-eab987fd2571][Session context persistence]] — pattern for systematically saving decisions, state, and context at the end of each AI session so the next session can resume coherently; the /close skill pattern; memory file taxonomy
+- [[id:60eb9b01-7f41-4bd7-94db-32d7a5f3aace][Multi-agent communication]] — file-based NDJSON channels for inter-agent messaging between Claude Code, Codex, and OpenCode; kqueue/inotify wake-up, zero idle CPU, cross-harness interop
+- [[id:bf696bf5-353b-41d4-9a18-e4651d0cb372][Prompt engineering patterns]] — reusable structural patterns for cheap-model pipelines: falsification-first prompting, crux extraction, confidence-based escalation, layered output parsing, and observability metrics
+- [[id:32b5dd89-a224-4d70-a85b-0042f3bf6ade][LLM tool use]] — hypothesis-before-tool protocol, tool budget enforcement, Unix tool to reasoning gap mapping, security sandbox for model-generated patterns
+- [[id:b364ccd2-d2e1-4754-826a-84d36469cbc1][Context window management]] — prior context condensation, memoized cache visibility, and structured section injection for multi-round LLM pipelines
 
 * Productivity
 - [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] — cognitively demanding work performed in distraction-free states; essential for acquiring new skills and producing rare, valuable output (Cal Newport)

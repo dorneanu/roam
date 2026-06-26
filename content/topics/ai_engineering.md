@@ -1,6 +1,6 @@
 +++
 title = "AI Engineering"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["ai", "engineering"]
 draft = false
 +++
@@ -65,3 +65,4 @@ informed decisions about model selection, fine-tuning, and system architecture.
 ## Resources {#resources}
 
 -   2026-06-04 ◦ [AI Engineering from Scratch](https://aiengineeringfromscratch.com/) — 503-lesson open-source curriculum, math-first approach, 20 phases from linear algebra to autonomous swarms, MIT license, [Python]({{< relref "python.md" >}})/TypeScript/[Rust]({{< relref "rust.md" >}})/Julia
+-   2026-06-26 ◦ [nano-analyzer (GitHub, weareaisle)](https://github.com/weareaisle/nano-analyzer) — applied AI engineering: cheap-model + Unix-tool pipeline for zero-day vulnerability scanning; demonstrates 13 architectural patterns for running 2–13B parameter models reliably via [prompt engineering patterns]({{< relref "prompt_engineering_patterns.md" >}}) and [LLM tool use]({{< relref "llm_tool_use.md" >}})
