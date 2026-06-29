@@ -13,6 +13,48 @@ Two days at OWASP AppSec Global EU in Vienna, 25–26 June 2026. The conference 
 field it covers has never moved faster. Almost every talk I attended circled the same central question: what
 does AI-speed vulnerability discovery mean for the way we build, test, and ship software? These are my notes.
 
+* Pre-Conference: AI SecureOps Training
+
+Before the main conference days I attended a two-day hands-on training titled *Attacking & Defending AI
+Applications and Services*, run by Abhinav Bom (security researcher, trainer at Blackhat/RSA/DEF CON, author
+of the Metasploit Penetration Testing Cookbook). Labs ran on a CTF platform; notebooks on Google Colab.
+
+The curriculum moved through seven modules:
+
+1. *LLM fundamentals* — transformer architecture, attention, pre-training. Four inherent LLM traits that
+   create systemic risk: imaginative but unreliable, suggestible and literal-minded, persuadable and
+   exploitable, knowledgeable yet impractical.
+
+2. *AI security frameworks* — OWASP LLM Top 10 and NIST AI-RMF. The key split: /Security of AI/ (protecting
+   AI systems) vs /AI for Security/ (using AI as a tool). Both matter; confusing them leads to blind spots.
+
+3. *Prompt injection* (OWASP LLM-01) — direct injection (system prompt override: jailbreaks, payload
+   splitting, adversarial suffixes) and indirect injection (malicious content in external sources processed
+   by RAG). A memorable demo: asking an enterprise LLM for a fictional character's social security number,
+   watching RAG surface a real record from the private vector index. Classic confused-deputy problem.
+
+4. *Defense guardrails* — layered safety split between model producers and model consumers. Hands-on with
+   NVIDIA's NeMo Guardrails (Colang-based declarative rail system).
+
+5. *Responsible AI & jailbreaks* — testing for fairness (demographic parity, equalized odds, LIME/SHAP),
+   transparency (model cards, data sheets), and accountability (audit logs, governance structures). Jailbreaks
+   framed not just as an attacker technique but as an organisational risk: what does it mean for your brand
+   when your deployed model is jailbroken in production?
+
+6. *Red teaming* — application-level (grey-box, similar to prompt injection) and base-model-level. AI red
+   teaming differs from classical pentesting: non-deterministic outputs, failure modes from both malicious
+   and benign personas, point-in-time assessments decay as models update, and defence-in-depth is required
+   because no single fix works.
+
+7. *AI agents + agentic threat modelling* — the OWASP Agentic Security Initiative published "Agentic AI
+   Threats and Mitigations v1.0" (Feb 2025): a reference architecture, threat taxonomy, mitigation playbooks,
+   and four worked example threat models. This document is the theoretical grounding for what Fujitsu
+   demonstrated practically in their Thursday talk — the 5-stage agentic red-teaming pipeline is a direct
+   implementation of the threat model approach described there.
+
+The training landed well: by the time the main conference started, the OWASP LLM Top 10 references, agentic
+threat taxonomy, and RAG attack patterns that speakers dropped casually already had context.
+
 * The End of Mandatory Code Review?
 
 The Thursday keynote opened with a quote from Joseph Ruscio of Heavy Bit:

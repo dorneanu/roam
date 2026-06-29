@@ -15,6 +15,131 @@ Priority watches: Friday keynote ("We Live in the Future"), Fujitsu agentic red-
 Map of Artificial Treasures, "Infrastructure Doesn't Lie" (Fri 11:30).
 #+end_note
 
+* Pre-Conference Training: AI SecureOps
+:PROPERTIES:
+:DATE:     2026-06-23/2026-06-24
+:TRAINER:  Abhinav Bom
+:PLATFORM: https://ctf.midfield.ai
+:END:
+
+Two-day hands-on training preceding the main conference.
+Title: *Attacking & Defending AI Applications and Services*
+Trainer: Abhinav Bom — security researcher, trainer at Blackhat/RSA/DEF CON,
+author of the Metasploit Penetration Testing Cookbook (1st–3rd Ed.).
+Labs and CTF hosted at https://ctf.midfield.ai; notebooks on Google Colab.
+Materials: =~/projects/roam-sources/AI-SecureOps-Training/=
+
+** Module 01 — Introduction
+
+Foundations of GenAI and LLMs: transformer architecture, pre-training,
+tokenisation, attention mechanism. Sets up vocabulary for the rest of the course.
+
+Key framing — four inherent LLM traits that create risk:
+| Trait                          | Risk implication                                          |
+|--------------------------------+-----------------------------------------------------------|
+| Imaginative but unreliable     | Hallucination; factual errors in high-stakes contexts     |
+| Suggestible and literal-minded | Easily redirected; interprets prompts at face value       |
+| Persuadable and exploitable    | Safeguards can be bypassed via crafted inputs             |
+| Knowledgeable yet impractical  | Vast training data ≠ real-world judgement                 |
+
+** Module 02 — AI Security
+
+Two orthogonal concerns kept separate throughout the course:
+- *Security of AI* — protecting AI systems from attack
+- *AI for Security* — using AI as a security tool
+
+Frameworks covered:
+- *OWASP LLM Top 10* — the canonical risk list for LLM applications
+- *NIST AI-RMF* — AI Risk Management Framework
+
+** Module 03 — Injection Attacks (OWASP LLM-01)
+
+*Direct Prompt Injection* — attacker manipulates the system prompt directly:
+- Jailbreaking, role play, obfuscation, payload splitting, adversarial suffix
+
+*Indirect Prompt Injection* — malicious content in external sources processed by the LLM:
+- Goal: prompt leakage, instruction manipulation
+
+Seven documented impacts: data integrity breaches, unauthorized disclosure,
+operational disruption, resource drain, loss of credibility, compliance violations,
+amplification of existing biases.
+
+Enterprise/RAG attack: attacker asks an enterprise LLM for a fictional character's SSN;
+RAG retriever surfaces a real record from private data if the vector index is not
+access-controlled. Classic confused-deputy problem applied to RAG.
+
+** Module 04 — Defense Guardrails
+
+Layered safety architecture — responsibility split between:
+- *Model producers* (AI labs / cloud providers)
+- *Model consumers* (builders deploying LLMs in products)
+
+Practical tools: *NeMo Guardrails* (NVIDIA) — Colang-based declarative rail
+system for constraining LLM behaviour.
+
+Enterprise data questions addressed:
+- Free/Plus plan chats may be used for training; API inputs are not
+- Input/output ownership: users retain rights to inputs and rightfully received outputs
+
+** Module 05 — Responsible AI & Jailbreaks
+
+Responsible AI testing across three axes:
+
+*Fairness testing:*
+- Bias detection via disparate impact analysis
+- Metrics: demographic parity, equalized odds, fairness through unawareness
+- Mitigation: dataset rebalancing, adversarial debiasing, post-processing
+
+*Transparency testing:*
+- Explainability tools: LIME, SHAP
+- Documentation: model cards, data sheets
+
+*Accountability:*
+- Auditability — decision logs
+- Ethical AI frameworks in the SDLC
+- Governance structures with defined roles
+
+Jailbreak techniques: same attack patterns as module 03 but from a
+responsible-AI governance framing (what does it mean for an org when their
+model is jailbroken in production?).
+
+** Module 06 — Red Teaming
+
+AI red teaming operates at two levels:
+- *Application level* — similar to prompt injection / jailbreak exercises; grey-box
+- *Base model level* — testing the foundation model itself
+
+Differs from classical red teaming in four ways:
+1. More expansive scope (model behaviour is non-deterministic)
+2. Covers both malicious and benign-but-harmful failure modes
+3. AI systems are constantly evolving — point-in-time assessments decay
+4. Generative AI requires multiple attempts; single-pass testing insufficient
+5. Mitigating AI failures requires defence in depth, not a single fix
+
+Red teaming tactics: jailbreak prompting, human-guided strategies,
+automated LLM-assisted red teaming at scale.
+
+** Module 07 — AI Agents
+
+Agent architecture: abilities + goals + prior knowledge + past experiences → actions
+in an environment, forming an observe-reason-act loop.
+
+Agent types: simple reflex → model-based reflex → goal-based → utility-based → learning
+
+Bundled reference document: *OWASP Agentic Security Initiative — Agentic AI Threats
+and Mitigations v1.0* (Feb 2025):
+- Agentic AI reference architecture
+- Full threat model for agentic systems
+- Agentic Threats Taxonomy Navigator
+- Mitigation strategies and playbooks
+- Four worked example threat models
+
+This document directly underpins the risk framing in the Fujitsu agentic
+red-teaming talk on Thursday — the 5-stage pipeline is a practical implementation
+of the threat model approach described here.
+
+Source: =~/projects/roam-sources/AI-SecureOps-Training/07-AI Agents/Agentic-AI-Threats-and-Mitigations_v1.0.1.pdf=
+
 * Thursday, 2026-06-25
 ** Keynote: The Reinvention of Software Engineering
 :PROPERTIES:
