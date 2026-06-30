@@ -1,0 +1,83 @@
++++
+title = "Attention mechanism"
+author = ["hermes"]
+tags = ["ai", "llm"]
+draft = false
++++
+
+## Overview {#overview}
+
+The attention mechanism is the core innovation of the [Transformer architecture]({{< relref "transformer_architecture.md" >}}), introduced in "Attention is All You Need" (Vaswani et al., 2017). It allows each token in a sequence to dynamically attend to every other token, weighting how much information to pull from each depending on context. This replaces the fixed-window or recurrent processing of earlier architectures and enables capturing long-range dependencies across entire sequences in a single operation.
+
+
+## Query, Key, Value (Q/K/V) {#query-key-value--q-k-v}
+
+For each token embedding, three vectors are computed by multiplying with learned weight matrices:
+
+-   **Query (Q)**: "what am I looking for?" — the current token's question to the rest of the sequence
+-   **Key (K)**: "what do I contain?" — what each other token offers to be matched against
+-   **Value (V)**: "what do I contribute?" — the actual information extracted once a match is scored
+
+Web-search analogy: Q is the search query you type; K is the page title in results; V is the page content you read once you click.
+
+Attention scores are computed as:
+
+> Attention(Q, K, V) = softmax(QK^T / sqrt(d_k)) · V
+
+The scaling by sqrt(d_k) prevents dot products from growing too large in high dimensions, which would push softmax into saturation.
+
+
+## Masked (causal) self-attention {#masked--causal--self-attention}
+
+In decoder-only models (GPT family), a causal mask is applied: the upper triangle of the attention score matrix is set to −∞ before softmax, so each position can only attend to itself and earlier positions. This enforces the autoregressive property — the model cannot "peek" at future tokens during training.
+
+Steps inside one attention head:
+
+1.  Compute QK^T dot-product matrix (token × token attention scores)
+2.  Scale by 1/sqrt(d_k)
+3.  Apply upper-triangle mask (set future positions to −∞)
+4.  Softmax over each row → probability weights summing to 1
+5.  Multiply by V matrix → weighted sum of value vectors per token
+6.  Optional dropout on the attention weights
+
+
+## Multi-head attention {#multi-head-attention}
+
+Instead of one attention operation, the model runs h parallel heads, each with independent Q/K/V weight matrices:
+
+-   GPT-2 (small): 12 heads; each head operates on a 64-dimensional slice of the 768-dimensional embedding
+-   Different heads specialise: one may capture subject–verb agreement, another long-range coreference, another syntactic structure
+-   Head outputs are concatenated and linearly projected back to d_model
+
+Multi-head attention allows the model to simultaneously attend to information from different representational subspaces at different positions.
+
+
+## Cross-attention vs self-attention {#cross-attention-vs-self-attention}
+
+-   **Self-attention**: Q, K, V all come from the same sequence (used in encoder and decoder self-attention layers)
+-   **Cross-attention**: Q comes from the decoder, K and V come from the encoder — used in encoder-decoder Transformers (e.g. T5, BART) to condition generation on an encoded input
+
+GPT-2 and other decoder-only models use only self-attention (masked).
+
+
+## Computational complexity {#computational-complexity}
+
+Standard self-attention is O(n²·d) in sequence length n and dimension d. This quadratic cost in n becomes a bottleneck for very long sequences and has motivated approximations:
+
+-   Sparse attention (Longformer, BigBird)
+-   Linear attention approximations
+-   Flash Attention (IO-aware exact attention via tiling)
+
+
+## Related topics {#related-topics}
+
+-   [Transformer architecture]({{< relref "transformer_architecture.md" >}}) — the full architecture in which attention is embedded
+-   — the input vectors that Q/K/V projections are applied to
+-   — how text is split before embeddings and attention are applied
+-   — mathematical derivation of attention from first principles
+
+
+## Resources {#resources}
+
+-   2026-06-23 ◦ [Transformer Explainer (Polo Club, Georgia Tech)](https://poloclub.github.io/transformer-explainer/) — interactive step-by-step Q/K/V walkthrough with live GPT-2; visualises 12-head splitting, masked attention matrix, and output concatenation
+-   2026-06-23 ◦ [How generative AI works (FT interactive)](https://ig.ft.com/generative-ai/) — visual treatment of attention in the context of generative AI; paywalled, to read

@@ -90,17 +90,6 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics created:* claude_code.org, planner_generator_evaluator.org
 - *Summary:* Ingested two presentation slides from an Amazon/AWS internal talk covering Claude Code's .claude/ directory as version-controlled team infrastructure (CLAUDE.md, shared commands, settings hooks) and the Planner-Generator-Evaluator agentic design pattern (plan-mode spec, sprint-by-sprint generation, live-app evaluation); created two new topic files and added cross-links from ai.org and llm_wiki.org.
 
-* 2026-06-05: Ingest — Reclaiming Conversation (Sherry Turkle, 2015)
-:PROPERTIES:
-:DATE:     2026-06-05
-:TYPE:     ingest
-:SOURCE:   ~/repos/priv/roam-sources/books/2026/turkle_sherry_reclaiming-conversation.md
-:END:
-- *Source type:* book
-- *Topics updated:* solitude.org, boredom.org, conversation-centric_communication.org, phone_based_childhood.org, social_comparison.org, attention_economy.org
-- *Topics created:* eliza_effect.org
-- *Summary:* Ingested Sherry Turkle's Reclaiming Conversation; created eliza_effect.org covering the projection of empathy onto machines from Weizenbaum's 1966 ELIZA to contemporary AI companions; enriched six existing topics with Turkle's Tillich/Winnicott solitude-vs-loneliness distinction and virtuous circle of conversation (solitude.org), Winnicott/Erikson developmental boredom as invitation (boredom.org), Siegel/Senju neurological case for eye contact and phubbing as sub-concept (conversation-centric_communication.org), the "missing chip" hypothesis for caregiver phone use (phone_based_childhood.org), "I share, therefore I am" as new ontological mode (social_comparison.org), and Goldilocks effect + Maryanne Wolf deep reading/brain plasticity + ambient phone effect (attention_economy.org).
-
 * 2026-06-04: Ingest — AI Engineering from Scratch (curriculum website)
 :PROPERTIES:
 :DATE:     2026-06-04
@@ -112,6 +101,17 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics created:* ai_engineering.org
 - *Summary:* Ingested the AI Engineering from Scratch website — a 503-lesson, 20-phase open-source curriculum (MIT license, maintainer Rohit Ghumare) covering math-first AI engineering from linear algebra through autonomous swarms in Python, TypeScript, Rust, and Julia. Created ai_engineering.org covering the math-first methodology (derive→code→test→keep artifact), core topics, and the open-source curriculum; enriched ai.org with a new AI Engineering section, and added reference links to python.org and rust.org; added ai_engineering.org to wiki_index.org under AI/Machine Learning.
 
+* 2026-06-05: Ingest — Reclaiming Conversation (Sherry Turkle, 2015)
+:PROPERTIES:
+:DATE:     2026-06-05
+:TYPE:     ingest
+:SOURCE:   ~/repos/priv/roam-sources/books/2026/turkle_sherry_reclaiming-conversation.md
+:END:
+- *Source type:* book
+- *Topics updated:* solitude.org, boredom.org, conversation-centric_communication.org, phone_based_childhood.org, social_comparison.org, attention_economy.org
+- *Topics created:* eliza_effect.org
+- *Summary:* Ingested Sherry Turkle's Reclaiming Conversation; created eliza_effect.org covering the projection of empathy onto machines from Weizenbaum's 1966 ELIZA to contemporary AI companions; enriched six existing topics with Turkle's Tillich/Winnicott solitude-vs-loneliness distinction and virtuous circle of conversation (solitude.org), Winnicott/Erikson developmental boredom as invitation (boredom.org), Siegel/Senju neurological case for eye contact and phubbing as sub-concept (conversation-centric_communication.org), the "missing chip" hypothesis for caregiver phone use (phone_based_childhood.org), "I share, therefore I am" as new ontological mode (social_comparison.org), and Goldilocks effect + Maryanne Wolf deep reading/brain plasticity + ambient phone effect (attention_economy.org).
+
 * 2026-06-05: Ingest — Earth for All (Club of Rome, 2022)
 :PROPERTIES:
 :DATE:     2026-06-05
@@ -122,6 +122,17 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* anthropozan.org, doughnut_economics.org, carbon_dioxide.org
 - *Topics created:* planetary_boundaries.org, earth4all_model.org, wellbeing_economy.org, social_tipping_points.org, giant_leaps.org, limits_to_growth.org
 - *Summary:* Ingested Earth for All by Dixson-Declève, Gaffney, Ghosh, Randers, Rockström, and Stoknes (Club of Rome, 2022); created six new topic files covering the planetary boundaries framework, the Earth4All system-dynamics model and its two scenarios (Too Little Too Late vs Giant Leaps), the wellbeing economy paradigm, social tipping points and leverage-point analysis, the five Giant Leaps policy packages, and the Limits to Growth legacy; enriched three existing topics (Anthropozän, Doughnut Economics, Carbon Dioxide) with cross-links to the new files.
+
+* 2026-06-07: Ingest — House Music: Melody, Bass Lines, and Harmony
+:PROPERTIES:
+:DATE:     2026-06-07
+:TYPE:     ingest
+:SOURCE:   roam-sources/articles/2026/2026-06-07_house-music-theory-melody-bass-harmony.md
+:END:
+- *Source type:* article
+- *Topics updated:* (none — all concepts are new to the wiki)
+- *Topics created:* house_music.org, circle_of_fifths.org, harmonic_mixing.org, dorian_mode.org, relative_major_minor.org, dj_set_arc.org
+- *Summary:* Ingested synthesized notes on composing a 3-track deep/soulful house set; created six new topic files covering house music genre and bass line techniques, the circle of fifths and three-neighbours chord derivation rule, harmonic mixing and the Camelot wheel, the Dorian mode and its characteristic lift (i → IV), the relative major/minor relationship with enharmonic pivot analysis, and DJ set arc design; all six files are cross-linked bidirectionally.
 
 * 2026-06-12: Ingest — Drop your best Claude skills in here! (Reddit r/ClaudeAI)
 :PROPERTIES:
@@ -152,7 +163,116 @@ Append-only log of all wiki ingest, query, and lint operations.
 :SOURCE:   https://news.ycombinator.com/item?id=48647486
 :END:
 - *Source type:* article (HN discussion thread of dynomight.net/vitamin-d/)
-- *Raw source saved:* ~/projects/roam-sources/articles/2026/2026-06-24_vitamin-d-worthlessness-mildly-exaggerated.md
 - *Topics updated:* vitamin_d.org, magnesium.org, omega-3.org
 - *Topics created:* confounding_in_observational_studies.org, sunlight_exposure.org
 - *Summary:* Ingested HN discussion of dynomight's Vitamin D essay; substantively rewrote vitamin_d.org (D as secosteroid hormone, dosing/monitoring, D3+K2+Mg synergy, RCT vs observational discrepancy, latitude effects, TARGET-D trial); enriched magnesium.org with vitamin D co-factor dependency and cardiac arrhythmia case; updated omega-3.org with hype-cycle parallel and Lebertran note; created confounding_in_observational_studies.org (structural confounding mechanics, grip-strength analogy, Bradford-Hill criteria, supplement industry incentives); created sunlight_exposure.org (NO pathway, circadian rhythm, serotonin, mortality data from Southern Sweden study, geographic/latitude factors, supplement-vs-sunlight gap); cross-links woven throughout all five files.
+
+* 2026-06-16: Ingest — Fundamentals of Software Architecture, 2E — Chapters 1–4 (Richards & Ford)
+:PROPERTIES:
+:DATE:     2026-06-16
+:TYPE:     ingest
+:SOURCE:   Fundamentals of Software Architecture, 2E — Chapters 1–4 (Richards & Ford)
+:END:
+- *Source type:* book
+- *Topics updated:* software_architecture.org, software_architect.org, component_cohesion.org, component_cohesionccp.org
+- *Topics created:* connascence.org, architectural_characteristics.org, modularity.org, architectural_thinking.org, knowledge_pyramid.org, coupling.org
+- *Summary:* Ingested Chapters 1–4 of Fundamentals of Software Architecture (2nd ed.) by Mark Richards and Neal Ford, plus user's PocketBook reading notes; updated four existing topics with the three laws of software architecture, four-dimension definition, and eight architect expectations; created six new topics covering connascence (full static/dynamic taxonomy + Weirich rules), architectural characteristics (criteria, categories, least-worst principle), modularity (cohesion types, LCOM metric, coupling metrics, connascence), architectural thinking (architecture vs design spectrum, trade-off analysis, Frozen Caveman antipattern, hands-on coding balance), the knowledge pyramid (breadth vs depth model), and coupling (afferent/efferent, abstractness, instability, distance from main sequence). User-annotated "ci: llm ingest" tags for cohesion, coupling, connascence honoured as dedicated files.
+
+* 2026-06-17: Ingest — 4 Levels of Drum Groove: From Beginner to Pro (Leo Loretti)
+:PROPERTIES:
+:DATE:     2026-06-17
+:TYPE:     ingest
+:SOURCE:   https://youtu.be/uoktpoQzsdw
+:END:
+- *Source type:* article (YouTube video summary)
+- *Topics updated:* drums.org, roland_mc_101.org
+- *Topics created:* house_drum_groove.org, sidechain_compression.org
+- *Summary:* Ingested Leo Loretti's 4-level house groove framework (Abstract Music Lab) covering four-on-the-floor foundation, 16th-note syncopation/toms-from-kicks, velocity/stereo swing, and ear-candy details (melodic gating, track delay humanisation, reversed transients); created two new topic files (house drum groove with the full 4-level framework, sidechain compression as a domain-portable concept); enriched drums.org with a House section bullet and roland_mc_101.org with cross-links to both new topics; four cross-links wired.
+
+* 2026-06-18: Ingest — Fundamentals of Software Architecture, 2E — Chapters 4–6 (Richards & Ford)
+:PROPERTIES:
+:DATE:     2026-06-18
+:TYPE:     ingest
+:SOURCE:   Fundamentals of Software Architecture, 2E — Chapters 4–6 (Richards & Ford)
+:END:
+- *Source type:* book
+- *Topics updated:* architectural_characteristics.org, modularity.org, coupling.org
+- *Topics created:* fitness_functions.org, architectural_governance.org, architecture_katas.org
+- *Summary:* Ingested Chapters 4–6 of Fundamentals of Software Architecture (2nd ed.); enriched architectural_characteristics.org with domain-concern translation table, composite characteristics, measurement/governance pointers, and Vasa antipattern; enriched modularity.org with cyclic dependency fitness function, ArchUnit layer governance, and Cyclomatic Complexity guidance; enriched coupling.org with distance-from-main-sequence fitness function and JDepend tolerance code; created fitness_functions.org (full taxonomy: automated/manual/continuous/triggered, JDepend/ArchUnit/chaos engineering examples, Netflix Simian Army); created architectural_governance.org (governance philosophy, tool landscape, checklist manifesto framing, developer-trust principle); created architecture_katas.org (kata structure, Silicon Sandwiches and GGG worked examples, domain-concern translation table, composite characteristics).
+
+* 2026-06-18: Ingest — Am I missing the point of AI agents? (Reddit r/hermesagent)
+:PROPERTIES:
+:DATE:     2026-06-18
+:TYPE:     ingest
+:SOURCE:   https://www.reddit.com/r/hermesagent/comments/1tlh53c/am_i_missing_the_point_of_ai_agents/
+:END:
+- *Source type:* article
+- *Topics updated:* self_improving_agents.org, kubernetes.org, llm_wiki.org, second_brain.org, ai.org
+- *Topics created:* ai_agents.org, agent_memory.org, browser_automation.org
+- *Summary:* Ingested a 19-contributor Reddit thread collecting real-world personal AI agent use cases (Hermes Agent community); created three new topics covering AI agents as a personal productivity tool (15 use cases: reverse-engineering APIs, medical claims, voice contractor outreach, grocery automation, ADHD accountability, estate sale arbitrage, travel planning, family knowledge bases, and co-evolution), agent memory design patterns (living graph vs flat retrieval, decay/reinforcement, Constellation Engine), and browser automation (Playwright patterns, OCR pipeline, human-in-the-loop approval flows); enriched five existing topics with cross-links and new resource bullets.
+
+* 2026-06-19: Ingest — SPTool — Web-based MIDI Controller for Roland SP-404 MK2
+:PROPERTIES:
+:DATE:     2026-06-19
+:TYPE:     ingest
+:SOURCE:   https://sptool.dev-zoo.net/
+:END:
+- *Source type:* article
+- *Topics updated:* sp404_mk2.org
+- *Topics created:* web_midi_api.org
+- *Summary:* Ingested SPTool, a browser-based PWA MIDI controller for the Roland SP-404 MK2; created web_midi_api.org covering the W3C Web MIDI API standard, browser support matrix, one-way vs bidirectional device patterns, and the PWA offline pattern for live performance tools; added a new "MIDI control and live performance tools" section to sp404_mk2.org describing SPTool, USB-only receive-only MIDI behaviour, and cross-linking to the new Web MIDI API topic.
+
+* 2026-06-23: Ingest — Transformer Explainer (Polo Club, Georgia Tech) + FT Generative AI
+:PROPERTIES:
+:DATE:     2026-06-23
+:TYPE:     ingest
+:SOURCE:   https://poloclub.github.io/transformer-explainer/
+:END:
+- *Source type:* article (interactive visual explainer)
+- *Topics updated:* ai_engineering.org, chatgpt.org
+- *Topics created:* transformer_architecture.org, attention_mechanism.org, tokenisation.org, word_embeddings.org
+- *Summary:* Ingested the Polo Club Transformer Explainer (full GPT-2 interactive walkthrough) and logged the FT generative AI visual explainer (paywalled, to read); created four new foundational AI topic files covering the Transformer architecture, attention mechanism (Q/K/V, masking, multi-head), tokenisation (BPE, positional encoding), and word embeddings (token vs contextual, embedding matrix geometry); updated ai_engineering.org and chatgpt.org with cross-linked resource bullets; wired cross-links between all four new topics.
+
+* 2026-06-23: Ingest — CL4R1T4S: AI Systems Transparency and Observability
+:PROPERTIES:
+:DATE:     2026-06-23
+:TYPE:     ingest
+:SOURCE:   https://github.com/elder-plinius/CL4R1T4S
+:END:
+- *Source type:* article
+- *Topics updated:* chatgpt.org, ai_agents.org
+- *Topics created:* system_prompt_transparency.org, llm_red_teaming.org
+- *Summary:* Ingested CL4R1T4S (43.6k-star community repository of extracted AI system prompts); created system_prompt_transparency.org covering what system prompts encode, community extraction methods, the shadow-puppet framing, and tension with commercial interests; created llm_red_teaming.org covering jailbreaking, prompt injection, system prompt extraction, capability elicitation, and agentic risk amplification; updated chatgpt.org with CL4R1T4S bullets in Security and System Prompts sections; updated ai_agents.org with note on agentic system prompt exposure (Devin, Manus, MultiOn).
+
+* 2026-06-23: Ingest — NeMo Guardrails + Colang (NVIDIA)
+:PROPERTIES:
+:DATE:     2026-06-23
+:TYPE:     ingest
+:SOURCE:   https://github.com/NVIDIA-NeMo/Guardrails https://archive.docs.nvidia.com/ace/ace-agent/4.1/user/colang.html
+:END:
+- *Source type:* article
+- *Topics updated:* ai.org, ai_agents.org, llm_red_teaming.org
+- *Topics created:* llm_guardrails.org, colang.org
+- *Summary:* Ingested two closely-related NVIDIA sources — the NeMo Guardrails GitHub README and the Colang language documentation; created llm_guardrails.org covering the five-rail model (input, dialog, retrieval, execution, output), what guardrails protect against (jailbreaks, prompt injection, off-topic drift, unsafe outputs), and guardrails vs fine-tuning; created colang.org covering the event-based DSL, 1.0 vs 2.0 differences (UMIM, parallel actions, hierarchical flows), and use in NVIDIA ACE Agent; updated ai.org with a new "LLM safety / guardrails" section; updated ai_agents.org with a "Guardrails for agents" section on execution and retrieval rails; updated llm_red_teaming.org with a "Defensive countermeasures" section mapping each attack category to its guardrail type.
+
+* 2026-06-24: Ingest — garak: LLM vulnerability scanner (NVIDIA)
+:PROPERTIES:
+:DATE:     2026-06-24
+:TYPE:     ingest
+:SOURCE:   https://github.com/NVIDIA/garak
+:END:
+- *Source type:* article
+- *Topics updated:* red_teaming_llms.org, llm_jailbreaking.org, prompt_injection.org
+- *Topics created:* llm_vulnerability_scanning.org, package_hallucination.org
+- *Summary:* Ingested the garak GitHub README (NVIDIA's open-source LLM vulnerability scanner); created llm_vulnerability_scanning.org covering the probe/detector/generator/harness architecture, probe taxonomy (DAN attacks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens, etc.), and the relationship between automated scanning and human red-teaming; created package_hallucination.org covering the slopsquatting supply-chain attack; updated red_teaming_llms.org with an "Automated vulnerability scanning" sub-section; updated llm_jailbreaking.org with GCG adversarial suffix and glitch token attack entries; updated prompt_injection.org with an encoding-based injection variant and scanner-derived finding.
+
+* 2026-06-24: Ingest — promptfoo (GitHub) + Giskard OSS (GitHub)
+:PROPERTIES:
+:DATE:     2026-06-24
+:TYPE:     ingest
+:SOURCE:   https://github.com/promptfoo/promptfoo https://github.com/Giskard-AI/giskard-oss
+:END:
+- *Source type:* article
+- *Topics updated:* red_teaming_llms.org, llm_vulnerability_scanning.org
+- *Topics created:* llm_evaluation.org
+- *Summary:* Ingested the GitHub READMEs for promptfoo (MIT, acquired by OpenAI; CLI+library for LLM evals and automated red-teaming; CI/CD integration; model comparison) and Giskard OSS (Apache 2.0; Python library for agentic system testing; Scenario API with LLM-as-judge; giskard-scan covers OWASP LLM Top-10); created llm_evaluation.org covering eval frameworks, assertion types (regex/semantic/LLM-as-judge), regression testing, multi-turn agentic evaluation, and both tools; updated red_teaming_llms.org to mention promptfoo and Giskard in the automated scanning section; updated llm_vulnerability_scanning.org to add promptfoo and Giskard Scan as dedicated tool entries alongside garak.

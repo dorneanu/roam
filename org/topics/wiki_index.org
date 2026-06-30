@@ -12,14 +12,24 @@ Updated automatically on every ingest.
 - [[id:27fc80ff-3162-43aa-9e83-22c6c36e1793][Psychological safety]] — the shared belief that the team is safe for interpersonal risk-taking; the single most important factor in effective team performance (Google Project Aristotle)
 - [[id:dc5addcc-67a1-4f64-99f0-7e708849d828][Trunk-based development]] — single-branch version control strategy where all commits go to trunk continuously; long-lived branches are an anti-pattern; key DORA predictor of high-performing engineering organizations
 - [[id:9d08f7e9-61d1-454d-9e0f-79a5f2b94a11][Software Engineering]] — collected principles, practices, and insights on building software well; includes SE@Google and other canonical sources
-- [[id:5a26ed6a-80d8-4fe8-b9db-0c1956ec8c2e][Software Architecture]] — shape given to a system through component division and arrangement; goals: leave options open, minimize cost, maximize maintainability
+- [[id:5a26ed6a-80d8-4fe8-b9db-0c1956ec8c2e][Software Architecture]] — shape given to a system through component division and arrangement; four dimensions: style, characteristics, components, decisions; three laws (trade-offs, why > how, spectrum)
 - [[id:5d1db4fd-d8b7-4660-a706-8254efd6249d][Software System]] — notes on system design patterns, boundaries, and composition strategies
-- [[id:ef58fefe-68ae-4e56-8996-202139c6d27d][Software Architect]] — role, responsibilities, and skills of the software architect; contrast with developer
+- [[id:ef58fefe-68ae-4e56-8996-202139c6d27d][Software Architect]] — role, responsibilities, and skills of the software architect; eight expectations from Richards & Ford
 - [[id:41c6818e-50b1-44a9-8396-e56894cc3777][SOLID]] — five object-oriented design principles (SRP, OCP, LSP, ISP, DIP) for arranging functions and data structures into cohesive, decoupled units
 - [[id:7c4e66f6-ce2d-441b-8c33-51ba6aec412c][DDD]] — Domain-Driven Design: ubiquitous language, bounded contexts, aggregates, and entities as tools for aligning code with the business domain
 - [[id:adce7f16-ab79-4935-b73e-71f3740a071f][Microservices]] — architectural style decomposing applications into small, independently deployable services; each does one thing and communicates over the network
 - [[id:8e702808-9c1b-4770-9a88-fa2e24bdcd14][Git]] — distributed version control; branching strategies, workflows, and internals
 - [[id:06676c92-78a2-4d38-966e-058acdf5cdfd][Terraform]] — infrastructure-as-code tool for provisioning cloud resources declaratively; state management and module patterns
+- [[id:4b4d8324-afd8-49ff-9f19-b5bde5b02022][Modularity]] — logical grouping of related code as an organizing principle; measured via cohesion (7 types), coupling (afferent/efferent, instability, main sequence), and connascence
+- [[id:e3ea3021-3adb-4611-abca-ce0cce3cb27c][Coupling]] — degree to which components depend on one another; afferent (incoming) and efferent (outgoing) coupling; abstractness, instability, distance from main sequence metrics
+- [[id:bd8e9470-33d5-4c7d-a9ba-31adc7bf1e18][Connascence]] — precise vocabulary for coupling types in OO systems; static (Name, Type, Meaning, Position, Algorithm) and dynamic (Execution, Timing, Values, Identity); strength, locality, degree properties
+- [[id:f9912f2f-5861-469f-816e-0765a78687b1][Architectural characteristics]] — capabilities a system must support independent of the domain (the "-ilities"); three criteria, four categories (operational, structural, cloud, cross-cutting); least-worst-architecture principle
+- [[id:c02a0524-7970-43bb-b19c-49994bdf612b][Architectural thinking]] — seeing systems from an architect's perspective; architecture vs design spectrum, trade-off analysis, Frozen Caveman antipattern, balancing hands-on coding
+- [[id:949cb083-5154-42e4-95e7-f6feb29bfb12][Component cohesion]] — cohesion measurement (REP, CCP, CRP principles) and seven cohesion types; LCOM metric; coupling vs cohesion relationship
+- [[id:953cf8e0-8716-4288-a304-08be0f5c6931][Fitness functions]] — any mechanism providing objective integrity assessment of an architectural characteristic; automated/triggered checks wired into CI (JDepend, ArchUnit, NetArchTest, chaos engineering); the enforcement arm of evolutionary architecture
+- [[id:575d9629-d5b9-41c4-9868-2e864400fa0c][Architectural governance]] — ensuring architectural decisions are respected over time via automated fitness functions rather than manual reviews; ArchUnit, NetArchTest, chaos engineering; checklist manifesto framing
+- [[id:b51a2811-2fe3-4f03-a8c0-ff4199376e17][Architecture katas]] — structured practice exercises for deriving architectural characteristics from domain descriptions; Silicon Sandwiches and Going-Going-Gone worked examples; domain-concern translation table
+- [[id:8fd21c64-2e57-41ae-b962-02f256b1e80c][Browser automation]] — programmatic browser control (Playwright, Puppeteer, Selenium) for AI agents; Playwright codegen, OCR pipeline (PDF→PNG→vision LLM→JSON), human-in-the-loop approval flows, secret management, and internal API discovery
 
 * Security
 - [[id:41423943-a291-4118-84e2-c18141afce41][Zero Trust]] — security model that eliminates implicit network trust; every request verified regardless of origin; replaces perimeter-based defenses
@@ -38,6 +48,19 @@ Updated automatically on every ingest.
 - [[id:f2b593c9-52ec-41ca-b376-b95d227d782c][Claude Code skills]] — community-shared reusable prompt definitions stored as slash commands; dominant frameworks: GSD (large iterative projects) and Superpowers (small-medium well-defined); also covers multi-agent orchestration (tonone), credential management, and skill design patterns
 - [[id:a668171b-86dd-4fc9-8020-8bffdd1605c6][Self-improving agents]] — AI agents that observe their own sessions, log improvement opportunities, and apply those improvements on a schedule; the "meta-skill" pattern; 600+ improvements applied across ~40 skills in the wild
 - [[id:c1afc3ce-c6d3-40a8-ae84-eab987fd2571][Session context persistence]] — pattern for systematically saving decisions, state, and context at the end of each AI session so the next session can resume coherently; the /close skill pattern; memory file taxonomy
+- [[id:c7899112-a8aa-40bc-9067-9c7e102ddf7e][System prompt transparency]] — what AI system prompts encode (persona, capability gates, refusal rules, ethical framing), community extraction via CL4R1T4S, tension between observability and commercial secrecy
+- [[id:b47e36c2-ec78-44b7-9dd6-add857117982][LLM red-teaming]] — adversarial probing of LLMs: jailbreaking, prompt injection, system prompt extraction, capability elicitation, and amplified risks in agentic systems
+- [[id:c7bd4e11-97ce-4492-9a63-a91d262e576b][LLM guardrails]] — programmable runtime controls around LLMs; five rail types (input, dialog, retrieval, execution, output); protect against jailbreaks, prompt injection, unsafe outputs; complement to alignment training; implemented in NVIDIA NeMo Guardrails
+- [[id:1cf67062-e473-4e17-920c-8507bbcbb45e][Colang]] — NVIDIA's event-based DSL for conversational AI flows; mixes natural language and Python syntax; 2.0 adds UMIM multimodal events, parallel actions, and hierarchical flows; used to define NeMo Guardrails rails
+- [[id:c4cdacbd-1bde-4ddd-866b-c8762e56e0b4][AI agents]] — personal and professional AI agent use cases; reverse-engineering APIs, medical claims automation, voice contractor outreach, grocery shopping, ADHD accountability, estate sale arbitrage, family knowledge bases, and co-evolution as the long-term value proposition
+- [[id:9fbf5e70-7cbb-4d4f-a985-107d8cf36232][Agent memory]] — persistence layer for AI agents; living-graph semantics (decay, reinforcement, authority) vs naive flat retrieval; Constellation Engine as open-source implementation; file-system and typed memory-file patterns
+- [[id:14d57cf0-b635-475a-9584-89a5dedffcfd][Transformer architecture]] — the neural network architecture behind GPT, Llama, and Gemini; next-token prediction via stacked blocks of multi-head self-attention + MLP; covers residual connections, layer normalisation, dropout, and temperature/top-k/top-p sampling
+- [[id:5865d0b5-c58b-4061-8656-f70207418928][Attention mechanism]] — Query/Key/Value self-attention; masked (causal) attention for decoder-only models; multi-head splitting; O(n²) complexity and sparse alternatives
+- [[id:fed0553c-d773-49a8-b7f3-5167bc6fb37c][Tokenisation]] — splitting text into sub-word tokens before model input; BPE (GPT-2), WordPiece (BERT), SentencePiece; positional encoding; token-to-word ratio implications for context windows
+- [[id:06952755-85f6-4751-ae16-14de10db7731][Word embeddings]] — dense vector representations of tokens in high-dimensional space; embedding matrix lookup; token vs contextual embeddings; positional encoding summation; generalisation to images, proteins, and sentences
+- [[id:93ac6603-1d50-4782-b8ef-595f5c2c78e0][LLM vulnerability scanning]] — systematic automated probing of LLMs for failure modes and safety gaps; probe/detector/generator/harness architecture; covers jailbreaks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens; garak, promptfoo, and Giskard Scan are leading open-source tools
+- [[id:12edc324-e7bf-4713-b3c1-2424539f9ad3][Package hallucination]] — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
+- [[id:2fb5620d-bdce-4400-861d-dd1dc91e8f13][LLM evaluation]] — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
 
 * Productivity
 - [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] — cognitively demanding work performed in distraction-free states; essential for acquiring new skills and producing rare, valuable output (Cal Newport)
@@ -48,6 +71,7 @@ Updated automatically on every ingest.
 - [[id:8c713807-89e7-42cb-bdf4-cb3f53d620f2][Second Brain]] — externalizing knowledge and ideas into a trusted digital system to reduce cognitive load and enable creative connections
 - [[id:ea3192d3-7186-4e4a-8c98-454d318d532b][Zettelkasten]] — slip-box note-taking method; atomic notes linked by ideas rather than hierarchy; foundation of the second brain approach
 - [[id:5329cb10-9f3e-4311-bc69-542775991244][org-roam]] — Emacs package implementing a Zettelkasten over org-mode files; ID-based bidirectional links and backlinks
+- [[id:9d0894b3-9a94-4b21-bba9-ca0489604329][Knowledge pyramid]] — three-level model (stuff you know / know you don't know / don't know you don't know); architects need breadth (middle), developers need depth (top); techniques: 20-minute rule, personal technology radar
 
 * Psychology
 - [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]] — the tendency to project emotional depth onto machines that simulate listening; foundational case study in human-AI interaction from Weizenbaum's 1966 chatbot to contemporary AI companions (Turkle)
@@ -74,6 +98,7 @@ Updated automatically on every ingest.
 - [[id:a2d9211c-7512-4ae5-8d70-c4b3bf6e2ff2][Anomie]] — Durkheim's normlessness concept applied to Gen Z: departure from stable real-world communities into anonymous shifting networks produces purposelessness, despair, and suicide; hikikomori and NEET as downstream outcomes
 - [[id:16cd9b80-319c-4eb3-86bc-46c659e28f0c][Sociogenic illness]] — illness spread by social transmission rather than pathogens; social media amplifies this via emotional contagion, prestige bias, and audience capture; explains rapid spread of tic disorders, DID, and anxiety among adolescent girls
 
+
 * Sustainability / Political economy
 - [[id:ce1041c3-1f76-42ea-b2de-0016f61b8240][Planetary boundaries]] — nine Earth-system processes defining a safe operating space; six of nine transgressed as of 2023; scientific grounding for the Anthropocene as a civilisational risk
 - [[id:08470b4c-4b45-4650-a6a9-067f801f94bb][Earth4All model]] — Club of Rome system-dynamics model (2022) exploring two futures to 2100: Too Little Too Late (collapse trajectory) vs Giant Leaps (transformation scenario)
@@ -84,3 +109,14 @@ Updated automatically on every ingest.
 
 * Philosophy
 - [[id:fc8c75c5-0f1e-4590-a40d-6c181b63b215][Socratic questioning]] — interrogative method where probing questions surface hidden assumptions and drive the respondent to construct understanding; applied to software design review via the grill-me Claude Code skill
+
+* Music / Audio production
+- [[id:6e0ab159-bc6d-440c-8a9c-0b21faa5bfca][House music]] — Chicago-rooted electronic dance genre (deep, soulful, minimal subgenres); four-on-the-floor kick, syncopated bass lines, 122–124 BPM; four bass line techniques and harmonic set structure
+- [[id:41e190c8-6318-411f-8feb-25980c8cd2ce][Circle of fifths]] — arrangement of the 12 pitch classes by perfect fifths; the "three neighbours" rule derives all six diatonic chords of any key; clockwise movement = resolution, counterclockwise = tension
+- [[id:1359feec-95d9-4a01-b943-da059ba8d0be][Harmonic mixing]] — sequencing DJ tracks by compatible key signatures using the Camelot wheel; same or adjacent Camelot positions share enough pitches to prevent clashes and produce tonal coherence
+- [[id:992d4ca1-af98-4f18-8f0b-9d0c4bd4b63f][Dorian mode]] — second mode of the major scale; minor with a raised 6th; characteristic Dorian lift (i → IV) produces a soulful, hopeful sound; used as emotional bridge between minor darkness and major resolution
+- [[id:dd597031-9051-4c63-8a34-6661b6148e4d][Relative major and minor]] — key pairs sharing identical pitch sets but different tonal centres; enharmonic pivots between them carry compositional tension across to resolution
+- [[id:860c0d92-2eb4-4205-9bc4-28676d547a25][DJ set arc]] — intentional emotional and energy trajectory across a DJ set; harmonic and modal choices (minor → Dorian → major) map onto tension → opening → release narrative
+- [[id:e28fcbe5-9d6d-413d-9915-2c6fe75db32c][House drum groove]] — 4-level Ableton Live framework for building a professional house groove: four-on-the-floor foundation → 16th-note syncopation → swing/stereo movement → ear-candy polish (melodic gating, track delay humanisation, reversed transients); all at 124 BPM
+- [[id:7cf1bf73-59cd-4938-8440-9ad1fea98ab4][Sidechain compression]] — compression keyed from an external signal (typically kick drum) to create rhythmic pump or melodic gating; core technique in house, techno, and electronic music production
+- [[id:31480106-2e84-4f23-8f34-291126f87b64][Web MIDI API]] — W3C browser standard for communicating with MIDI hardware (synthesizers, samplers, controllers) over USB/Bluetooth; Chrome/Edge/Brave/Opera support, no Safari; enables browser-based live performance tools and PWA controllers

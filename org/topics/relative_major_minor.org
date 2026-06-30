@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       dd597031-9051-4c63-8a34-6661b6148e4d
+:END:
+#+title: Relative major and minor
+#+filetags: :music:
+
+* Overview
+Every major key has a *relative minor* — a minor key that shares exactly the same set of seven pitches (and therefore the same key signature) but has a different tonal centre. The relative minor is found by descending three semitones (a minor third) from the major root, or equivalently by starting the major scale on its sixth degree.
+
+Conversely, every minor key has a relative major found three semitones above its root.
+
+* The relationship
+- Ab major → relative minor: Fm (start Ab scale on 6th degree = F; or Ab − 3 semitones = F).
+- F minor → relative major: Ab major.
+- Bb minor → relative major: Db major.
+- Key signature of Ab major and F minor is identical: four flats (Bb, Eb, Ab, Db).
+
+* Why it matters in practice
+Because relative pairs share all pitches, they are maximally compatible for mixing and modulation. On the [[id:41e190c8-6318-411f-8feb-25980c8cd2ce][Circle of fifths]], the relative minor sits on the inner ring directly adjacent to its major counterpart. On the Camelot wheel used in [[id:1359feec-95d9-4a01-b943-da059ba8d0be][Harmonic mixing]], switching between a key's A (minor) and B (major) position is one of the smoothest possible transitions — same number, different letter.
+
+* Emotional contrast
+Despite sharing all pitches, major and relative minor sound and feel very different because of the tonal centre:
+- Major: bright, stable, resolved.
+- Natural minor: dark, introspective, melancholic.
+- The same melodic material recontextualised over different tonal centres produces the emotional journey from tension to release — a structural device in DJ sets (see [[id:860c0d92-2eb4-4205-9bc4-28676d547a25][DJ set arc]]).
+
+* Enharmonic pivots
+When a note functions differently in its minor context vs its major context, it becomes a compositional pivot. In the F minor → Ab major transition: the note G# (a tense chromatic note in F minor's melodic vocabulary) is enharmonically identical to Ab, the root of the resolution key. The same pitch resolves its own tension by becoming the new tonal centre.
+
+See also: [[id:992d4ca1-af98-4f18-8f0b-9d0c4bd4b63f][Dorian mode]], [[id:41e190c8-6318-411f-8feb-25980c8cd2ce][Circle of fifths]], [[id:6e0ab159-bc6d-440c-8a9c-0b21faa5bfca][House music]].
+
+* Resources
+- 2026-06-07 ◦ [[file:~/repos/priv/roam-sources/articles/2026/2026-06-07_house-music-theory-melody-bass-harmony.md][House Music: Melody, Bass Lines, and Harmony]] — used F minor / Ab major as a relative pair to structure a 3-track set; the enharmonic G#/Ab pivot between Track 1 and Track 3 closes the emotional loop from chromatic tension to tonal resolution

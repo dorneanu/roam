@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       1cf67062-e473-4e17-920c-8507bbcbb45e
+:END:
+#+title: Colang
+#+filetags: :ai:llm:
+
+* Overview
+
+Colang is an event-based domain-specific language for designing conversational interactions between humans and bots. Developed by NVIDIA as part of the NeMo Guardrails toolkit, it is designed to feel like a mix of natural language and Python: flows are described in near-plain-English, while action invocations and control flow use Python-like syntax. Files carry the `.co` extension and are interpreted by a Python runtime embedded in NeMo Guardrails.
+
+Colang's primary purpose is to define the "rails" that govern how an [[id:8f1e78cd-fefa-4a2f-9db9-0e1e396a0448][AI]]-powered bot responds — which topics it may engage with, what actions it may take, how it handles disallowed input, and what dialog paths it must follow. It is the declarative layer on top of the imperative Python action handlers in [[id:c7bd4e11-97ce-4492-9a63-a91d262e576b][LLM guardrails]].
+
+* Colang 1.0 vs 2.0
+
+| Dimension | Colang 1.0 | Colang 2.0 |
+|-----------|-----------|-----------|
+| Status | Deprecated | Current |
+| Actions | Sequential only | Parallel actions supported |
+| Flows | Flat | Hierarchical flows |
+| Modality | Text | Multimodal (text + other signals) |
+| Event model | Basic | UMIM (Unified Multimodal Interaction Model) actions/events |
+
+Colang 2.0 introduces UMIM — a standardised event/action vocabulary for multimodal interactions — allowing flows to react to speech, gestures, and other input channels, not just text messages.
+
+* Core concepts
+
+** Flows
+
+The fundamental unit of a Colang program. A flow describes a sequence (or branching set) of conversational steps: user utterances, bot responses, and action invocations. In Colang 2.0, flows can run in parallel and be composed hierarchically.
+
+** Events
+
+Colang 2.0 models the conversation as a stream of events (user spoke, bot responded, action completed). Rails are triggered by matching event patterns — making the system reactive rather than polling.
+
+** Actions
+
+Callable units that invoke external logic — an LLM call, a tool, a Python function, or a prebuilt pipeline. In NVIDIA ACE Agent, Colang actions can call:
+- Non-LLM models: Joint Intent & Slot detection, Named Entity Recognition, Extractive QA
+- Custom business logic plugins
+- Prebuilt RAG pipelines
+
+* Colang in NeMo Guardrails
+
+In the NeMo Guardrails toolkit, each rail type (input, dialog, retrieval, execution, output) is configured via `.co` files. The Python `LLMRails` class loads the Colang configuration at startup and routes each incoming message through the relevant rails before and after the LLM call.
+
+A minimal Colang flow for blocking a disallowed topic looks like:
+
+#+begin_quote
+define user ask about competitor
+  "Tell me about your competitor"
+  "How does CompetitorX compare?"
+
+define flow competitor block
+  user ask about competitor
+  bot refuse to discuss competitors
+#+end_quote
+
+* Use in NVIDIA ACE Agent
+
+ACE Agent is NVIDIA's conversational AI platform for real-time avatar interactions. Colang is the primary orchestration language: it sequences speech recognition, intent detection, LLM reasoning, and speech synthesis within a single `.co` file. The multimodal event model in Colang 2.0 was developed specifically to support avatar interactions where timing, gesture, and speech must be coordinated.
+
+* Related topics
+
+- [[id:c7bd4e11-97ce-4492-9a63-a91d262e576b][LLM guardrails]] — the NeMo Guardrails toolkit that uses Colang as its configuration language
+- [[id:c4cdacbd-1bde-4ddd-866b-c8762e56e0b4][AI agents]] — agentic pipelines where Colang execution rails control tool I/O
+
+* Resources
+
+- 2026-06-23 ◦ [[https://archive.docs.nvidia.com/ace/ace-agent/4.1/user/colang.html][Colang documentation (NVIDIA ACE Agent 4.1)]] — event-based modeling language for conversational AI; 1.0 vs 2.0 comparison; UMIM multimodal event model; parallel actions and hierarchical flows; use in ACE Agent for avatar interactions
+- 2026-06-23 ◦ [[https://github.com/NVIDIA-NeMo/Guardrails][NeMo Guardrails (GitHub)]] — Colang is the DSL bundled with this toolkit; `.co` files define rails; `LLMRails` interprets them at runtime

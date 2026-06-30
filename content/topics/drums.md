@@ -1,6 +1,6 @@
 +++
 title = "Drums"
-author = ["Dorneanu"]
+author = ["hermes"]
 draft = false
 +++
 
@@ -36,6 +36,7 @@ General guide:
 
 -   2025-10-23 ◦ [House Drum Patterns - Studio Brootle](https://www.studiobrootle.com/house-drum-patterns/)
 -   2025-10-23 ◦ [How To Make House Music: An Easy Guide (2025) - EDMProd](https://www.edmprod.com/how-to-make-house-music/)
+-   2026-06-17 ◦ [4 Levels of Drum Groove: From Beginner to Pro (Leo Loretti)](https://youtu.be/uoktpoQzsdw) — 4-level Ableton Live framework at 124 BPM: four-on-the-floor scaffold → 16th-note syncopation + toms-from-kicks → velocity/stereo swing → ear-candy (melodic gating, track delay humanisation, reversed transients); full notes in [House drum groove]({{< relref "house_drum_groove.md" >}})
 
 
 #### Deep House {#deep-house}

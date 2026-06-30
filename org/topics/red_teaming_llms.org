@@ -1,0 +1,106 @@
+:PROPERTIES:
+:ID:       d2356495-9129-46ee-b352-c8ca5596de50
+:END:
+#+title: Red teaming LLMs
+#+filetags: :ai:llm:security:
+
+* Overview
+
+Red teaming LLMs is the practice of systematically attempting to elicit harmful,
+unsafe, or policy-violating outputs from a language model in order to discover
+vulnerabilities before or during deployment. Borrowed from military and
+cybersecurity traditions, LLM red-teaming ranges from informal adversarial
+probing by individual researchers to structured competitive events with formal
+scoring and monetary prizes.
+
+Unlike automated benchmarks, human red-teamers can discover qualitatively novel
+attack strategies that no benchmark anticipated. This makes red-teaming a
+critical complement to automated safety evaluations in alignment research.
+
+* Forms of red teaming
+
+** Internal (closed) red teaming
+
+AI labs employ dedicated red teams who attempt to break the model before
+release. Anthropic's prototype Constitutional Classifiers evaluation used 183
+participants over >3,000 hours with up to $15,000 bounty for a confirmed
+universal jailbreak. No universal jailbreak was found in that round.
+
+** Public demo / bug bounty
+
+A live model is exposed to the public for a fixed window. Anthropic's
+Constitutional Classifiers public demo (Feb 3–10, 2025) attracted 339 participants
+who collectively spent ~3,700 hours on 8 graded chemical-weapons jailbreak
+challenges. The system held for five days; on days six and seven, 4 participants
+cleared all 8 levels (1 confirmed universal jailbreak). See
+[[id:5cd626b3-8462-48dd-9849-d725d00bf9a9][Constitutional classifiers]] for full evaluation detail.
+
+** Competitive platforms
+
+Open competitions where participants submit jailbreak attempts against a target
+model for prizes and public recognition. The [[id:e3d22ba8-efe1-4881-8271-331bf941832c][LLM jailbreaking]] research community
+has developed a rich competitive ecosystem:
+
+- *HackAPrompt* (hackaprompt.com) — claims to be the world's largest AI hacking
+  platform; has distributed >$100,000 in prizes across multiple competitions
+- *Pliny X HackAPrompt* — competition track featuring 12 jailbreak challenges
+  (9 text + 3 image-only) named after "Pliny the Liberator," a prominent
+  jailbreak community persona; submissions open-sourced as the Pliny HackAPrompt
+  Dataset (16,902 rows, CC-BY-4.0)
+
+** Indirect / agentic red teaming
+
+Testing prompt injection attacks in agentic contexts — where an LLM takes actions
+on behalf of users. Attackers attempt to hijack the agent's instructions via
+content it processes (emails, documents, web pages). See [[id:9db8d3e3-8327-4462-be55-6febf34ec7b5][Prompt injection]] for
+the underlying vulnerability class.
+
+** Automated vulnerability scanning
+
+[[id:93ac6603-1d50-4782-b8ef-595f5c2c78e0][LLM vulnerability scanning]] tools automate adversarial probing at scale — analogous
+to nmap or Metasploit for network security. They run probe libraries against any
+accessible model and report per-attack-category failure rates. garak (NVIDIA,
+Apache 2.0) is the leading open-source tool in this category, covering 20+ probe
+families including DAN attacks, encoding-based injection, GCG adversarial suffixes,
+package hallucination, training data replay, and more.
+
+Developer-facing tools also bridge [[id:2fb5620d-bdce-4400-861d-dd1dc91e8f13][LLM evaluation]] and red-teaming: promptfoo
+(MIT, acquired by OpenAI) generates adversarial test suites as part of its eval
+workflow and integrates with CI/CD pipelines; Giskard Scan (Apache 2.0) generates
+adversarial suites automatically from a plain-language agent description, covering
+OWASP LLM Top-10 categories including prompt injection, harmful content, and
+stereotypes.
+
+* Challenge taxonomy in competitive red teaming
+
+Competitive events typically score challenges by difficulty tier. HackAPrompt's
+Pliny track uses 12 challenges of increasing difficulty. The CBRNE track focuses
+on eliciting chemical, biological, radiological, nuclear, and explosives information
+from production models — a metric directly relevant to [[id:61d9cbfb-2df6-4229-9d10-109654d0f7b0][AI alignment]] and
+responsible deployment policy.
+
+* What red-teaming reveals
+
+- Which attack categories (cipher, role-play, many-shot, prompt injection) are
+  most effective against current defenses
+- How quickly skilled adversaries find novel strategies vs. how long defenses hold
+- Attack rate as a function of time and number of participants — useful for
+  estimating real-world exploit risk in deployment
+- Qualitative insights into model failure modes that automated evaluations miss
+
+* Relationship to alignment
+
+Red-teaming is an empirical validation layer for alignment claims. A model cannot
+be said to reliably refuse CBRN synthesis requests if no adversarial evaluation
+has been conducted. Anthropic's ASL-3 deployment gate explicitly requires
+demonstrated red-team resistance before deployment of models with advanced CBRN
+capabilities.
+
+* Resources
+
+- 2026-06-24 ◦ [[https://github.com/NVIDIA/garak][garak (GitHub)]] — NVIDIA's open-source LLM vulnerability scanner; Generative AI Red-teaming & Assessment Kit; 20+ probe families; plugin architecture; Apache 2.0
+- 2026-06-24 ◦ [[https://huggingface.co/datasets/hackaprompt/Pliny_HackAPrompt_Dataset][Pliny HackAPrompt Dataset (HuggingFace)]] — 16,902 open-sourced jailbreak submissions from the Pliny X HackAPrompt competitive red-teaming event; CC-BY-4.0; tags: redteaming, safety, prompt-injections, jailbreaks
+- 2025-02-03 ◦ [[https://www.anthropic.com/research/constitutional-classifiers][Constitutional Classifiers (Anthropic)]] — formal internal and public red-team results; 183 internal + 339 public participants, jailbreak rate reduced from 86% to 4.4%
+- [[https://hackaprompt.com][HackAPrompt]] — competitive AI red-teaming platform; runs CBRNE, Pliny, Tutorial, and agentic (MATS x Trails) tracks
+- 2026-06-24 ◦ [[https://github.com/promptfoo/promptfoo][promptfoo (GitHub)]] — open-source CLI and library for LLM evals and automated red-teaming; generates adversarial test suites; CI/CD integration; MIT licensed; acquired by OpenAI
+- 2026-06-24 ◦ [[https://github.com/Giskard-AI/giskard-oss][Giskard Scan (GitHub)]] — Python vulnerability scanner for agentic systems; auto-generates adversarial suites from agent descriptions; covers OWASP LLM Top-10; Apache 2.0
