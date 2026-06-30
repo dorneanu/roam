@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       860c0d92-2eb4-4205-9bc4-28676d547a25
+:END:
+#+title: DJ set arc
+#+filetags: :music:
+
+* Overview
+A DJ set arc is the intentional emotional and energy trajectory designed across a set or mix. Rather than simply sequencing tracks by tempo or label, a DJ constructs a narrative journey — tension, development, climax, and resolution — that listeners experience as a coherent whole. The arc is both harmonic (key journey) and energetic (intensity, density, BPM).
+
+* Common arc shapes
+- *Deep → soulful/hopeful → peak/release*: the most common house arc. Opens with introspective, dark material; builds emotional warmth through soulful mid-section; resolves in a euphoric peak.
+- *Build and hold*: sustained tension with delayed release; effective for long sets (2+ hours).
+- *Peak-first*: opens at maximum energy (suitable for festival main stages); less narrative structure.
+
+* Harmonic arc
+A harmonically planned arc uses the [[id:41e190c8-6318-411f-8feb-25980c8cd2ce][Circle of fifths]] and [[id:1359feec-95d9-4a01-b943-da059ba8d0be][Harmonic mixing]] to map keys to emotional states:
+- Minor keys (especially chromatic minor) → tension and introspection.
+- Modal keys (Dorian) → emotional opening, yearning.
+- Major keys → resolution, euphoria, release.
+
+Moving from a relative minor to its major counterpart (e.g. F minor → Ab major) is a particularly powerful arc-closing device because the keys share all pitches; the tonal centre shift alone delivers the emotional shift.
+
+* Example: 3-track harmonic arc in house
+A set structured around the 4-flat key signature:
+- Track 1 (F minor, chromatic): dark, tense, introspective.
+- Track 2 (Bb Dorian): soulful, opening, hopeful. The Dorian lift (Bbm → Eb) is the emotional turning point.
+- Track 3 (Ab major): bright, euphoric, released.
+
+The G#/Ab enharmonic pivot — G# appears as a chromatic tension note in Track 1's melody; Ab is the root of Track 3 — closes the narrative loop. See [[id:6e0ab159-bc6d-440c-8a9c-0b21faa5bfca][House music]] for the full worked example.
+
+* Structural devices
+- *Enharmonic pivots*: a note that creates tension in one key resolves it by becoming the tonal centre of the next key.
+- *Dorian bridge*: insert a Dorian-mode track between a minor and major track to smooth the transition and add emotional warmth (see [[id:992d4ca1-af98-4f18-8f0b-9d0c4bd4b63f][Dorian mode]]).
+- *BPM consistency*: keeping tempo stable (e.g. 122–124 BPM throughout) allows the harmonic arc to do the narrative work without rhythmic disruption.
+- *Camelot adjacency*: plan transitions to move one step at a time on the Camelot wheel, maintaining tonal coherence across the full set.
+
+See also: [[id:1359feec-95d9-4a01-b943-da059ba8d0be][Harmonic mixing]], [[id:41e190c8-6318-411f-8feb-25980c8cd2ce][Circle of fifths]], [[id:dd597031-9051-4c63-8a34-6661b6148e4d][Relative major and minor]].
+
+* Resources
+- 2026-06-07 ◦ [[file:~/repos/priv/roam-sources/articles/2026/2026-06-07_house-music-theory-melody-bass-harmony.md][House Music: Melody, Bass Lines, and Harmony]] — detailed a 3-track deep/soulful house arc (tension → opening → release) and explained how harmonic, modal, and enharmonic devices work together to produce a coherent emotional journey
