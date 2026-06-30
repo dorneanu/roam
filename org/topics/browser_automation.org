@@ -1,0 +1,95 @@
+:PROPERTIES:
+:ID:       8fd21c64-2e57-41ae-b962-02f256b1e80c
+:END:
+#+title: Browser automation
+#+filetags: :software:ai:
+
+* Overview
+
+Browser automation is programmatic control of a web browser to navigate pages,
+fill forms, click buttons, take screenshots, and extract data — without human
+input. Modern frameworks (Playwright, Puppeteer, Selenium) can drive real
+browsers (Chromium, Firefox, WebKit), making them indistinguishable from human
+users for most purposes.
+
+AI agents use browser automation as a primary tool for interacting with services
+that have no API: filing insurance claims, checking auction bids, submitting web
+forms, scraping prices, and navigating legacy portals.
+
+Related: [[id:c4cdacbd-1bde-4ddd-866b-c8762e56e0b4][AI agents]], [[id:8fd21c64-2e57-41ae-b962-02f256b1e80c][Browser automation]]
+
+* Core frameworks
+
+** Playwright (Microsoft)
+The current consensus best choice for AI agent use:
+- Supports Chromium, Firefox, and WebKit with a single API
+- Built-in ~codegen~ command records browser interactions and outputs selectors;
+  fastest way to bootstrap form-submission scripts
+- Screenshot API included (essential for human-in-the-loop approval flows)
+- Good handling of SPAs and dynamic content via auto-waiting
+
+** Puppeteer (Google)
+Chromium-only; was the dominant tool before Playwright; still widely used.
+Playwright is generally preferred for new projects.
+
+** Selenium
+The original; cross-browser; slower and more verbose than modern alternatives;
+still used in enterprise test suites.
+
+* AI agent patterns
+
+** Discovering internal APIs
+Agents (and Playwright itself) can intercept network requests to find the
+internal JSON APIs a site uses to render its pages. Once discovered, calling
+the API directly is faster and more stable than DOM scraping.
+
+#+begin_quote
+In a couple of cases, it found the internal (unpublished) API that the site
+used to render the page and did some scripting to leverage it directly.
+— PracticlySpeaking, r/hermesagent, 2026-06-18
+#+end_quote
+
+** Human-in-the-loop claim submission (medical claims example)
+1. Agent parses bill (PDF/image → vision LLM → structured JSON)
+2. Playwright fills the insurance portal form
+3. Agent takes a screenshot of the pre-filled form
+4. Human reviews the screenshot and approves
+5. Agent clicks submit only after explicit confirmation
+6. Agent archives the bill and creates a follow-up reminder
+
+State machine: draft → dry_run → submitted (with --confirm flag required for live-submit)
+
+** Secret management
+Never hardcode credentials in Playwright scripts used by agents:
+- Use a password manager (1Password, Bitwarden) via CLI or env vars
+- Time-box sensitive access: grant write permissions for one hour,
+  revoke after the task completes
+- For personal-data portals that use PII (DOB, name) instead of passwords:
+  store PII in a vault, not in plain-text config files
+
+** Handling fragile portals
+Medical and government portals are particularly problematic:
+- Slow page loads: use Playwright's auto-wait rather than fixed sleeps
+- Session timeouts: build reconnect logic
+- CAPTCHAs: alert the human rather than attempting to solve
+- Rate limits: add random delays and respect robots.txt where appropriate
+
+* OCR pipeline for browser-submitted documents
+
+For submitting scanned documents via browser:
+
+1. Input: image or PDF
+2. PDF handling: PyMuPDF renders pages to PNG
+3. OCR: vision LLM receives base64 PNG with a strict system prompt specifying
+   the output JSON schema (provider, date, line items, total, patient identifier)
+4. Validation: sum of line items vs declared total as a confidence heuristic
+5. Output: structured JSON ready for Playwright form-fill
+
+For non-English documents: PaddleOCR handles Chinese, Japanese, Korean, and
+other scripts well; the structured JSON intermediate step is language-agnostic
+and can be passed to the same Playwright form-fill code.
+
+* Resources
+
+- 2026-06-18 ◦ [[https://www.reddit.com/r/hermesagent/comments/1tlh53c/am_i_missing_the_point_of_ai_agents/][Am I missing the point of AI agents? (Reddit r/hermesagent)]] — dontyasay describes a complete medical claims automation pipeline using Playwright + vision LLM OCR + dry-run mode + HSA ledger; PracticlySpeaking describes using Playwright's codegen and internal API discovery for email pipeline automation
+- [[https://playwright.dev/][Playwright documentation]] — official docs; codegen, screenshot API, browser contexts
