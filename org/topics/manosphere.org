@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       f72c240f-21c1-41a2-b820-a836ad10917b
+:END:
+#+title: Manosphere
+#+filetags: :psychology:
+
+* Overview
+The manosphere is a loosely affiliated network of online communities, websites, forums, podcasts, and social media accounts organized around masculinity, male identity, and opposition to feminism. It encompasses a wide ideological spectrum — from relatively mainstream men's rights advocacy and self-improvement communities to deeply misogynistic incel forums and white-nationalist-adjacent spaces. The manosphere is not a monolithic movement but a decentralized ecosystem with porous boundaries, shared language, and a shared critique of mainstream gender norms. Its reach has expanded dramatically since 2015, accelerated by YouTube, TikTok, and podcast culture.
+
+* Ideological spectrum
+The manosphere spans from relatively mainstream to extremist:
+- *Men's rights activism* (MRA): advocacy for issues disproportionately affecting men (custody, false rape accusations, male suicide)
+- *MGTOW* (Men Going Their Own Way): men withdrawing from relationships with women entirely
+- *Pick-up artistry* (PUA): techniques for manipulating women into sex; red pill framing of intersexual dynamics
+- *Red pill*: the belief that feminism deceives men about the nature of women and sexual dynamics; matrix metaphor of "waking up" to the truth
+- *Incel* (involuntary celibate): men who believe they cannot attract partners; often combines with blackpill nihilism and misogyny
+- *Blackpill*: deterministic extension of red pill — looks and genetics are destiny; "it's over" fatalism
+- *Looksmaxxing community*: the subset focused on physical appearance optimization, overlapping significantly with incel and blackpill
+
+** Looksmaxxing as a manosphere sub-movement
+[[id:4b1a2b65-37ad-4dab-bea5-401429a6e12f][Looksmaxxing]] emerged from the earliest manosphere forums (PUAHate.com, Sluthate.com, Lookism.net — "PSL Forums") and represents the movement's aestheticized branch:
+- Looksmaxxing accepts the manosphere premise (looks determine outcomes) and responds with optimization rather than withdrawal or rage
+- It functions as an on-ramp: mainstream wellness content → softmaxxing → looks hierarchy → blackpill
+- The "self-improvement" framing makes looksmaxxing communities more accessible than openly misogynistic forums
+- By the mid-2020s, looksmaxxing had the broadest mainstream reach of any manosphere-adjacent community, driven by TikTok algorithms
+- Key figure in the mid-2020s: Clavicular (Braden Peters), a Kick livestreamer who combined looksmaxxing with explicit blackpill ideology
+
+* Platform dynamics
+The manosphere has migrated across platforms as mainstream services deplatformed the most extreme content:
+- Early 2010s: Reddit (/r/TheRedPill, /r/Incels before banning), 4chan
+- Late 2010s: YouTube (Andrew Tate, Jordan Peterson, and adjacent creators)
+- 2020s: TikTok for entry-level content; Telegram/Discord/Kick for extreme content
+
+* Influence
+- The manosphere's vocabulary ("red pill," "based," "mogging," "Chad," "Stacy," "maxxing") has migrated into broader internet culture and even mainstream media and politics
+- The Pentagon reportedly used "lethalitymaxxing" in 2026 communications (The Guardian)
+- Academic literature on the manosphere has grown substantially since 2020
+
+* Related topics
+- [[id:4b1a2b65-37ad-4dab-bea5-401429a6e12f][Looksmaxxing]] — aestheticized sub-movement focused on appearance optimization
+- [[id:5278d2ad-085d-4be8-97b1-559f2057b3c8][Black pill]] — deterministic ideology undergirding much of the manosphere's incel wing
+- [[id:fef03126-496d-4174-bde4-58c98d09b67c][Lookism]] — the discrimination looksmaxxing both responds to and reinforces
+- [[id:7511f2b6-65d5-4790-9cbe-4ae51e36f7c8][Social comparison]] — mechanism by which manosphere content drives harm
+
+* Resources
+- 2026-06-06 ◦ [[https://en.wikipedia.org/wiki/Looksmaxxing][Looksmaxxing — Wikipedia]] — history of PSL forums as manosphere origin sites; TikTok popularization arc
+- 2026-06-06 ◦ [[https://www.dw.com/en/looksmaxxing-the-manosphere-beauty-cult/a-72078882][Looksmaxxing — the manosphere beauty cult (DW, 2026)]] — Braun; frames looksmaxxing explicitly as a manosphere beauty cult
+- 2026-06-06 ◦ [[https://pmc.ncbi.nlm.nih.gov/articles/PMC11896937/][When Help Is Harm (Sociology of Health & Illness, 2025)]] — Halpin et al.; the manosphere self-improvement pipeline as radicalization vector
+- 2026-06-06 ◦ [[https://www.bbc.com/culture/article/20240326-inside-looksmaxxing-the-extreme-cosmetic-social-media-trend][Inside looksmaxxing (BBC Culture, 2024)]] — Farrell; context on manosphere origins and TikTok popularization

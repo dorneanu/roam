@@ -19,6 +19,12 @@ draft = false
 -   2026-06-12 ◦ [LLM Council (Karpathy)](https://github.com/karpathy/llm-council) — multi-LLM decision framework for high-consequence choices; different models, different contexts, different failure modes; creative friction catches what a single model would miss
 
 
+## LLM safety / guardrails {#llm-safety-guardrails}
+
+-   2026-06-23 ◦ [LLM guardrails]({{< relref "llm_guardrails.md" >}}) — programmable controls applied at inference time around an LLM; five rail types: input, dialog, retrieval, execution, output; protect against jailbreaks, prompt injection, and off-topic drift; complement to alignment training
+-   2026-06-23 ◦ [NeMo Guardrails (NVIDIA)](https://github.com/NVIDIA-NeMo/Guardrails) — open-source Python toolkit implementing the five-rail model; rails defined in [Colang]({{< relref "colang.md" >}}) DSL; integrates with LangChain and major LLMs; v0.21.0
+
+
 ## Tools {#tools}
 
 

@@ -160,7 +160,7 @@ Append-only log of all wiki ingest, query, and lint operations.
 :PROPERTIES:
 :DATE:     2026-06-16
 :TYPE:     ingest
-:SOURCE:   /Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub
+:SOURCE:   Fundamentals of Software Architecture, 2E — Chapters 1–4 (Richards & Ford)
 :END:
 - *Source type:* book
 - *Topics updated:* software_architecture.org, software_architect.org, component_cohesion.org, component_cohesionccp.org
@@ -177,3 +177,91 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* drums.org, roland_mc_101.org
 - *Topics created:* house_drum_groove.org, sidechain_compression.org
 - *Summary:* Ingested Leo Loretti's 4-level house groove framework (Abstract Music Lab) covering four-on-the-floor foundation, 16th-note syncopation/toms-from-kicks, velocity/stereo swing, and ear-candy details (melodic gating, track delay humanisation, reversed transients); created two new topic files (house drum groove with the full 4-level framework, sidechain compression as a domain-portable concept); enriched drums.org with a House section bullet and roland_mc_101.org with cross-links to both new topics; four cross-links wired.
+
+* 2026-06-18: Ingest — Fundamentals of Software Architecture, 2E — Chapters 4–6 (Richards & Ford)
+:PROPERTIES:
+:DATE:     2026-06-18
+:TYPE:     ingest
+:SOURCE:   Fundamentals of Software Architecture, 2E — Chapters 4–6 (Richards & Ford)
+:END:
+- *Source type:* book
+- *Topics updated:* architectural_characteristics.org, modularity.org, coupling.org
+- *Topics created:* fitness_functions.org, architectural_governance.org, architecture_katas.org
+- *Summary:* Ingested Chapters 4–6 of Fundamentals of Software Architecture (2nd ed.); enriched architectural_characteristics.org with domain-concern translation table, composite characteristics, measurement/governance pointers, and Vasa antipattern; enriched modularity.org with cyclic dependency fitness function, ArchUnit layer governance, and Cyclomatic Complexity guidance; enriched coupling.org with distance-from-main-sequence fitness function and JDepend tolerance code; created fitness_functions.org (full taxonomy: automated/manual/continuous/triggered, JDepend/ArchUnit/chaos engineering examples, Netflix Simian Army); created architectural_governance.org (governance philosophy, tool landscape, checklist manifesto framing, developer-trust principle); created architecture_katas.org (kata structure, Silicon Sandwiches and GGG worked examples, domain-concern translation table, composite characteristics).
+
+* 2026-06-18: Ingest — Am I missing the point of AI agents? (Reddit r/hermesagent)
+:PROPERTIES:
+:DATE:     2026-06-18
+:TYPE:     ingest
+:SOURCE:   https://www.reddit.com/r/hermesagent/comments/1tlh53c/am_i_missing_the_point_of_ai_agents/
+:END:
+- *Source type:* article
+- *Topics updated:* self_improving_agents.org, kubernetes.org, llm_wiki.org, second_brain.org, ai.org
+- *Topics created:* ai_agents.org, agent_memory.org, browser_automation.org
+- *Summary:* Ingested a 19-contributor Reddit thread collecting real-world personal AI agent use cases (Hermes Agent community); created three new topics covering AI agents as a personal productivity tool (15 use cases: reverse-engineering APIs, medical claims, voice contractor outreach, grocery automation, ADHD accountability, estate sale arbitrage, travel planning, family knowledge bases, and co-evolution), agent memory design patterns (living graph vs flat retrieval, decay/reinforcement, Constellation Engine), and browser automation (Playwright patterns, OCR pipeline, human-in-the-loop approval flows); enriched five existing topics with cross-links and new resource bullets.
+
+* 2026-06-19: Ingest — SPTool — Web-based MIDI Controller for Roland SP-404 MK2
+:PROPERTIES:
+:DATE:     2026-06-19
+:TYPE:     ingest
+:SOURCE:   https://sptool.dev-zoo.net/
+:END:
+- *Source type:* article
+- *Topics updated:* sp404_mk2.org
+- *Topics created:* web_midi_api.org
+- *Summary:* Ingested SPTool, a browser-based PWA MIDI controller for the Roland SP-404 MK2; created web_midi_api.org covering the W3C Web MIDI API standard, browser support matrix, one-way vs bidirectional device patterns, and the PWA offline pattern for live performance tools; added a new "MIDI control and live performance tools" section to sp404_mk2.org describing SPTool, USB-only receive-only MIDI behaviour, and cross-linking to the new Web MIDI API topic.
+
+* 2026-06-23: Ingest — Transformer Explainer (Polo Club, Georgia Tech) + FT Generative AI
+:PROPERTIES:
+:DATE:     2026-06-23
+:TYPE:     ingest
+:SOURCE:   https://poloclub.github.io/transformer-explainer/
+:END:
+- *Source type:* article (interactive visual explainer)
+- *Topics updated:* ai_engineering.org, chatgpt.org
+- *Topics created:* transformer_architecture.org, attention_mechanism.org, tokenisation.org, word_embeddings.org
+- *Summary:* Ingested the Polo Club Transformer Explainer (full GPT-2 interactive walkthrough) and logged the FT generative AI visual explainer (paywalled, to read); created four new foundational AI topic files covering the Transformer architecture, attention mechanism (Q/K/V, masking, multi-head), tokenisation (BPE, positional encoding), and word embeddings (token vs contextual, embedding matrix geometry); updated ai_engineering.org and chatgpt.org with cross-linked resource bullets; wired cross-links between all four new topics.
+
+* 2026-06-23: Ingest — CL4R1T4S: AI Systems Transparency and Observability
+:PROPERTIES:
+:DATE:     2026-06-23
+:TYPE:     ingest
+:SOURCE:   https://github.com/elder-plinius/CL4R1T4S
+:END:
+- *Source type:* article
+- *Topics updated:* chatgpt.org, ai_agents.org
+- *Topics created:* system_prompt_transparency.org, llm_red_teaming.org
+- *Summary:* Ingested CL4R1T4S (43.6k-star community repository of extracted AI system prompts); created system_prompt_transparency.org covering what system prompts encode, community extraction methods, the shadow-puppet framing, and tension with commercial interests; created llm_red_teaming.org covering jailbreaking, prompt injection, system prompt extraction, capability elicitation, and agentic risk amplification; updated chatgpt.org with CL4R1T4S bullets in Security and System Prompts sections; updated ai_agents.org with note on agentic system prompt exposure (Devin, Manus, MultiOn).
+
+* 2026-06-23: Ingest — NeMo Guardrails + Colang (NVIDIA)
+:PROPERTIES:
+:DATE:     2026-06-23
+:TYPE:     ingest
+:SOURCE:   https://github.com/NVIDIA-NeMo/Guardrails https://archive.docs.nvidia.com/ace/ace-agent/4.1/user/colang.html
+:END:
+- *Source type:* article
+- *Topics updated:* ai.org, ai_agents.org, llm_red_teaming.org
+- *Topics created:* llm_guardrails.org, colang.org
+- *Summary:* Ingested two closely-related NVIDIA sources — the NeMo Guardrails GitHub README and the Colang language documentation; created llm_guardrails.org covering the five-rail model (input, dialog, retrieval, execution, output), what guardrails protect against (jailbreaks, prompt injection, off-topic drift, unsafe outputs), and guardrails vs fine-tuning; created colang.org covering the event-based DSL, 1.0 vs 2.0 differences (UMIM, parallel actions, hierarchical flows), and use in NVIDIA ACE Agent; updated ai.org with a new "LLM safety / guardrails" section; updated ai_agents.org with a "Guardrails for agents" section on execution and retrieval rails; updated llm_red_teaming.org with a "Defensive countermeasures" section mapping each attack category to its guardrail type.
+
+* 2026-06-24: Ingest — garak: LLM vulnerability scanner (NVIDIA)
+:PROPERTIES:
+:DATE:     2026-06-24
+:TYPE:     ingest
+:SOURCE:   https://github.com/NVIDIA/garak
+:END:
+- *Source type:* article
+- *Topics updated:* red_teaming_llms.org, llm_jailbreaking.org, prompt_injection.org
+- *Topics created:* llm_vulnerability_scanning.org, package_hallucination.org
+- *Summary:* Ingested the garak GitHub README (NVIDIA's open-source LLM vulnerability scanner); created llm_vulnerability_scanning.org covering the probe/detector/generator/harness architecture, probe taxonomy (DAN attacks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens, etc.), and the relationship between automated scanning and human red-teaming; created package_hallucination.org covering the slopsquatting supply-chain attack; updated red_teaming_llms.org with an "Automated vulnerability scanning" sub-section; updated llm_jailbreaking.org with GCG adversarial suffix and glitch token attack entries; updated prompt_injection.org with an encoding-based injection variant and scanner-derived finding.
+
+* 2026-06-24: Ingest — promptfoo (GitHub) + Giskard OSS (GitHub)
+:PROPERTIES:
+:DATE:     2026-06-24
+:TYPE:     ingest
+:SOURCE:   https://github.com/promptfoo/promptfoo https://github.com/Giskard-AI/giskard-oss
+:END:
+- *Source type:* article
+- *Topics updated:* red_teaming_llms.org, llm_vulnerability_scanning.org
+- *Topics created:* llm_evaluation.org
+- *Summary:* Ingested the GitHub READMEs for promptfoo (MIT, acquired by OpenAI; CLI+library for LLM evals and automated red-teaming; CI/CD integration; model comparison) and Giskard OSS (Apache 2.0; Python library for agentic system testing; Scenario API with LLM-as-judge; giskard-scan covers OWASP LLM Top-10); created llm_evaluation.org covering eval frameworks, assertion types (regex/semantic/LLM-as-judge), regression testing, multi-turn agentic evaluation, and both tools; updated red_teaming_llms.org to mention promptfoo and Giskard in the automated scanning section; updated llm_vulnerability_scanning.org to add promptfoo and Giskard Scan as dedicated tool entries alongside garak.

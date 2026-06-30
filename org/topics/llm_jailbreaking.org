@@ -1,0 +1,106 @@
+:PROPERTIES:
+:ID:       e3d22ba8-efe1-4881-8271-331bf941832c
+:END:
+#+title: LLM jailbreaking
+#+filetags: :ai:llm:security:
+
+* Overview
+
+LLM jailbreaking refers to adversarial inputs designed to bypass an AI model's
+safety training and force it to produce harmful or prohibited outputs. Despite
+extensive safety fine-tuning, all known production LLMs remain vulnerable to some
+form of jailbreak. The field dates to at least 2013 in academic adversarial ML
+research; practical LLM jailbreaks became widespread with the public deployment
+of ChatGPT and Claude.
+
+A *universal jailbreak* is a single prompting strategy that elicits harmful
+responses across an entire category of forbidden queries — the most dangerous
+class because it can be weaponized at scale without per-query customization.
+
+* Attack taxonomy
+
+** Input-side attacks (prompt manipulation)
+
+- *Many-shot jailbreaking* — flooding the context window with many examples of
+  the desired harmful behavior until the model complies via in-context learning
+- *Style manipulation* — uSiNg UnUsUaL cApItALiZaTiOn or other typographic
+  distortions that confuse safety classifiers while remaining human-readable
+- *Cipher/encoding attacks* — encoding harmful queries in Base64, ROT13, or
+  invented ciphers so safety classifiers never see the plaintext
+- *Role-play / persona injection* — instructing the model to adopt a character
+  (e.g. "DAN", "Developer Mode") that supposedly has no restrictions
+- *Keyword substitution* — replacing flagged terms with innocuous synonyms
+  (e.g. "Soman" → "water" in a synthesis route)
+- *Prompt injection* — inserting adversarial instructions into content the model
+  is asked to process (documents, web pages, tool outputs)
+- *Language switching* — requesting harmful information in a low-resource language
+  whose safety training is weaker
+- *GCG (adversarial suffix)* — appending an optimised token sequence to a prompt
+  that disrupts system-prompt adherence; discovered by Zou et al. (2023);
+  automatable and transferable across models; covered by garak's ~gcg~ probe
+
+** Output-side attacks
+
+- *Continuation attacks* — priming the model's response with the beginning of a
+  harmful completion and asking it to continue
+- *Structured output exploitation* — requesting harmful information formatted as
+  code, JSON, or a table where safety training may be weaker
+
+** Glitch token attacks
+
+Certain tokens (sometimes called "glitch tokens") trigger anomalous model
+behavior due to tokenizer edge cases — the model may repeat the token, output
+garbage, or ignore instructions. These can be used as a jailbreak vector or to
+destabilize safety classifiers.
+
+* Defenses
+
+** Model-level (in-weights)
+
+Safety fine-tuning (RLHF, Constitutional AI, preference learning) teaches the
+model to refuse harmful requests. Effective but not sufficient: jailbreaks
+specifically circumvent these in-weights safety behaviors.
+
+** Classifier-level (external)
+
+Input and output classifiers screen requests/completions independently of the
+model's own safety training. See [[id:5cd626b3-8462-48dd-9849-d725d00bf9a9][Constitutional classifiers]] for Anthropic's approach
+of training these classifiers on constitution-derived synthetic data to achieve
+>95% jailbreak blocking with minimal overrefusal.
+
+** Operational / monitoring
+
+- Rate limiting and anomaly detection on users who repeatedly trigger classifiers
+- Rapid-response classifier updates when new attacks are discovered in production
+- Logging and audit trails to identify systematic exploitation attempts
+
+* Measurement challenges
+
+- Jailbreak success is query-specific: a technique that works on one query may
+  fail on another, making "universal" success hard to define and measure
+- Automated graders (LLM-as-judge) have non-trivial false-negative rates
+- Red-team conditions (automated grader feedback loop) are more attacker-favorable
+  than real-world deployment conditions
+
+* Resources
+
+- 2026-06-24 ◦ [[https://github.com/NVIDIA/garak][garak (GitHub)]] — automated LLM vulnerability scanner with 20+ probe families covering DAN attacks, encoding injection, GCG adversarial suffixes, glitch tokens, and more; see [[id:93ac6603-1d50-4782-b8ef-595f5c2c78e0][LLM vulnerability scanning]]
+- 2025-02-03 ◦ [[https://www.anthropic.com/research/constitutional-classifiers][Constitutional Classifiers (Anthropic)]] — Anthropic's defense technique achieving 4.4% jailbreak success vs. 86% baseline; includes human red-teaming and public live demo results
+- 2025-02-03 ◦ [[https://arxiv.org/abs/2501.18837][Constitutional Classifiers paper (arXiv)]] — full technical paper on classifier training, constitution design, and evaluation methodology
+- [[https://www.anthropic.com/research/many-shot-jailbreaking][Many-shot jailbreaking (Anthropic)]] — context-window flooding attack; long prompts with many harmful examples override safety training
+- 2026-06-24 ◦ [[https://huggingface.co/datasets/hackaprompt/Pliny_HackAPrompt_Dataset][Pliny HackAPrompt Dataset (HuggingFace)]] — 16,902 open-sourced jailbreak submissions from competitive red-teaming; covers 12 challenge types including text and image-based attacks; tags: prompt-injections, jailbreaks, redteaming; CC-BY-4.0
+
+* Competitive red-teaming and datasets
+
+The jailbreak research community has developed structured competitive events where
+participants attempt to break production LLMs for prizes. These generate large,
+diverse, human-authored attack corpora:
+
+- *HackAPrompt* — competitive platform with >30,000 participants across 150+ countries;
+  tracks include CBRNE elicitation, indirect prompt injection (MATS x Trails), and
+  the Pliny track (named after the "Pliny the Liberator" jailbreak community)
+- *Pliny HackAPrompt Dataset* — 16,902 submissions from the Pliny track, open-sourced
+  under CC-BY-4.0; one of the largest publicly available human-generated jailbreak corpora
+
+See [[id:d2356495-9129-46ee-b352-c8ca5596de50][Red teaming LLMs]] for the broader methodology and [[id:9db8d3e3-8327-4462-be55-6febf34ec7b5][Prompt injection]] for the
+indirect injection sub-class.
