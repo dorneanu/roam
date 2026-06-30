@@ -167,6 +167,33 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics created:* confounding_in_observational_studies.org, sunlight_exposure.org
 - *Summary:* Ingested HN discussion of dynomight's Vitamin D essay; substantively rewrote vitamin_d.org (D as secosteroid hormone, dosing/monitoring, D3+K2+Mg synergy, RCT vs observational discrepancy, latitude effects, TARGET-D trial); enriched magnesium.org with vitamin D co-factor dependency and cardiac arrhythmia case; updated omega-3.org with hype-cycle parallel and Lebertran note; created confounding_in_observational_studies.org (structural confounding mechanics, grip-strength analogy, Bradford-Hill criteria, supplement industry incentives); created sunlight_exposure.org (NO pathway, circadian rhythm, serotonin, mortality data from Southern Sweden study, geographic/latitude factors, supplement-vs-sunlight gap); cross-links woven throughout all five files.
 
+* 2026-06-25 — OWASP AppSec Global Vienna 2026 (keynote slides)
+- *Source type:* conference slides (photos)
+- *Topics created:* owasp_appsec_vienna_2026.org
+- *Summary:* Created conference notes file from keynote slide photos. Three slides captured: (1) Joseph Ruscio quote on write-only code and the unsustainability of mandatory code review; (2) "The future is here, it's just not evenly distributed" framing; (3) Enabling Teams framework with Platform Teams, SRE, and emerging Agent Enablement function (context engineering, rules & standards, token efficiency, internal tools, education). Cross-links to ai.org, ai_engineering.org, scaling_static_analyses_at_facebook.org.
+
+* 2026-06-25: Ingest — agent-channel (fl4p)
+:PROPERTIES:
+:DATE:     2026-06-25
+:TYPE:     ingest
+:SOURCE:   https://github.com/fl4p/agent-channel
+:END:
+- *Source type:* article (GitHub repository README)
+- *Topics updated:* claude_code_skills.org, claude_code.org, self_improving_agents.org, event-driven_architecture.org
+- *Topics created:* multi_agent_communication.org
+- *Summary:* Ingested the agent-channel GitHub repo — a file-based named channel system for inter-agent messaging between Claude Code, Codex, and OpenCode; covers NDJSON append-only protocol, kqueue/inotify zero-CPU wake-up, background injection, and cross-harness interop.
+
+* 2026-06-26: Ingest — Architectural Patterns for Prompt Engineering in Cheap-Model + Unix-Tool Pipelines
+:PROPERTIES:
+:DATE:     2026-06-26
+:TYPE:     ingest
+:SOURCE:   https://github.com/weareaisle/nano-analyzer
+:END:
+- *Source type:* article (synthesized from multi-agent discussion: Claude + Gemini + DeepSeek)
+- *Topics updated:* planner_generator_evaluator.org, ai_engineering.org
+- *Topics created:* prompt_engineering_patterns.org, llm_tool_use.org, context_window_management.org
+- *Summary:* Ingested a synthesis of 13 architectural patterns derived from analyzing the weareaisle/nano-analyzer codebase; created three new topic files covering prompt engineering patterns (falsification-first prompting, crux extraction, confidence-based escalation, layered output parsing, observability), LLM tool use (hypothesis-before-tool, tool budget enforcement, Unix tool gap mapping, security sandbox), and context window management (prior context condensation, cache visibility, structured section injection); enriched planner_generator_evaluator.org with the multi-stage context injection instance and ai_engineering.org with cheap-model pipeline reference.
+
 * 2026-06-16: Ingest — Fundamentals of Software Architecture, 2E — Chapters 1–4 (Richards & Ford)
 :PROPERTIES:
 :DATE:     2026-06-16

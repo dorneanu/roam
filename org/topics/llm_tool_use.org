@@ -1,0 +1,112 @@
+:PROPERTIES:
+:ID:       32b5dd89-a224-4d70-a85b-0042f3bf6ade
+:END:
+#+title: LLM tool use
+#+filetags: :ai:llm:software:
+
+* Overview
+
+LLM tool use is the pattern by which a language model invokes external,
+deterministic processes — Unix tools (grep, ripgrep, ctags, awk, find, nm,
+objdump), APIs, code execution environments — to augment its own probabilistic
+recall with ground-truth evidence. The fundamental motivation: replace the model's
+unreliable memory with a reliable external lookup.
+
+#+begin_quote
+Unix tools are not a search engine bolted on — they are the model's only reliable
+contact with reality.
+#+end_quote
+
+This page focuses on cheap-model + Unix-tool pipelines. For general agentic tool
+use in multi-agent settings, see [[id:60eb9b01-7f41-4bd7-94db-32d7a5f3aace][Multi-agent communication]].
+
+* Hypothesis-before-tool
+
+Before any tool call, the model must emit a structured hypothesis:
+
+#+begin_example
+HYPOTHESIS: <one-sentence claim about what to expect>
+EXPECT: <what a match or no-match would mean for the hypothesis>
+GREP: <pattern>
+#+end_example
+
+This transforms tool calls from fishing expeditions into targeted hypothesis tests.
+The key insight: *a tool call should change the model's belief state, not just fill
+context*. If the grep output doesn't change what the model believes, the grep
+shouldn't have been run.
+
+Without this pattern: cheap models over-grep (using tools as a crutch to avoid
+reasoning) or under-grep (concluding without verification).
+
+* Tool budget enforcement
+
+Assign a maximum number of tool calls per round (e.g. 3 greps/round for a 7B
+model, 1–2 for smaller models). The budget must be enforced by the orchestrator,
+not just stated in the prompt:
+
+#+begin_example
+[SYSTEM]: Tool budget exhausted for this round. Reflect on the evidence collected
+and reach a conclusion.
+#+end_example
+
+Budget enforcement:
+- Prevents context bloat from excessive tool output
+- Forces the model to prioritize: "Which single grep gives me the most evidence?"
+- Creates natural pressure toward decisive, targeted searches
+
+* Unix tool to reasoning gap mapping
+
+| Reasoning gap in cheap LLM | Best Unix tool |
+|-----------------------------+----------------|
+| Precise recall of specific values (buffer sizes, constants) | ~grep -n~, ~ripgrep~ |
+| Function call graph, callers/callees | ~ctags -x~, ~cscope~ |
+| All occurrences of a pattern across codebase | ~ripgrep~, ~csearch~ |
+| Binary symbols, function signatures | ~nm~, ~objdump~ |
+| File structure and metadata | ~find~, ~stat~ |
+| Structured data (JSON/YAML config) | ~jq~, ~yq~ |
+| Integer arithmetic verification | ~awk~ |
+
+Principle: replace probabilistic recall with deterministic search. If the model
+might misremember a code pattern, grep for it.
+
+* Security sandbox for tool execution
+
+Any pipeline executing model-generated patterns against a real filesystem must
+treat the model as potentially adversarial:
+
+- *Never ~shell=True~* — always pass arguments as a list to ~subprocess.run()~
+- *Validate patterns before execution*: whitelist alphanumeric + safe regex chars; block ~;|$()~ and path traversals
+- *Run inside a read-only container* (Docker/nsjail): codebase mounted read-only, no network, non-root user
+- *Timeout every tool call* (e.g. 10s) and cap output size (e.g. 2000 tokens)
+- *Log all tool invocations* with validated pattern and result for audit
+
+Cheap models are more dangerous here than strong models — weaker instruction
+following makes them more likely to emit malformed or adversarial patterns
+accidentally.
+
+* Cache visibility
+
+Tool results should be cached and the cache status should be *visible to the
+model*. A cached result should include a marker:
+
+#+begin_example
+[CACHED (round 1, 3 matches)]
+#+end_example
+
+This prevents the model from treating old data as new evidence in later rounds —
+which would allow it to claim "new confirmation" from information already processed.
+
+Cache key: ~(tool_name, sha256(args), sha256(file_scope), codebase_version_hash)~
+
+Any tool taking >100ms should be pre-executed and indexed (ctags, csearch) before
+the pipeline starts, then cached for the session.
+
+* Related topics
+
+- [[id:bf696bf5-353b-41d4-9a18-e4651d0cb372][Prompt engineering patterns]] — broader patterns for structuring cheap-model pipelines
+- [[id:b364ccd2-d2e1-4754-826a-84d36469cbc1][Context window management]] — managing context across rounds of tool calls
+- [[id:60eb9b01-7f41-4bd7-94db-32d7a5f3aace][Multi-agent communication]] — multi-agent tool coordination
+- [[id:8f1e78cd-fefa-4a2f-9db9-0e1e396a0448][AI]] — underlying language model capabilities and limitations
+
+* Resources
+- 2026-06-26 ◦ [[https://github.com/weareaisle/nano-analyzer][nano-analyzer (GitHub, weareaisle)]] — LLM-powered zero-day vulnerability scanner; source for hypothesis-before-tool, tool budget enforcement, Unix tool gap mapping, and security sandbox patterns

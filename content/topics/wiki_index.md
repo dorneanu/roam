@@ -35,6 +35,11 @@ Updated automatically on every ingest.
 -   [Browser automation]({{< relref "browser_automation.md" >}}) — programmatic browser control (Playwright, Puppeteer, Selenium) for AI agents; Playwright codegen, OCR pipeline (PDF→PNG→vision LLM→JSON), human-in-the-loop approval flows, secret management, and internal API discovery
 
 
+## Conferences {#conferences}
+
+-   — keynote: write-only code, sustainability of code review, enabling teams (Platform / SRE / Agent Enablement) in the agentic era
+
+
 ## Security {#security}
 
 -   [Zero Trust]({{< relref "zero_trust.md" >}}) — security model that eliminates implicit network trust; every request verified regardless of origin; replaces perimeter-based defenses
@@ -55,6 +60,7 @@ Updated automatically on every ingest.
 -   [Claude Code skills]({{< relref "claude_code_skills.md" >}}) — community-shared reusable prompt definitions stored as slash commands; dominant frameworks: GSD (large iterative projects) and Superpowers (small-medium well-defined); also covers multi-agent orchestration (tonone), credential management, and skill design patterns
 -   [Self-improving agents]({{< relref "self_improving_agents.md" >}}) — AI agents that observe their own sessions, log improvement opportunities, and apply those improvements on a schedule; the "meta-skill" pattern; 600+ improvements applied across ~40 skills in the wild
 -   [Session context persistence]({{< relref "session_context_persistence.md" >}}) — pattern for systematically saving decisions, state, and context at the end of each AI session so the next session can resume coherently; the /close skill pattern; memory file taxonomy
+-   [Multi-agent communication]({{< relref "multi_agent_communication.md" >}}) — file-based NDJSON channels for inter-agent messaging between Claude Code, Codex, and OpenCode; kqueue/inotify wake-up, zero idle CPU, cross-harness interop
 -   [System prompt transparency]({{< relref "system_prompt_transparency.md" >}}) — what AI system prompts encode (persona, capability gates, refusal rules, ethical framing), community extraction via CL4R1T4S, tension between observability and commercial secrecy
 -   [LLM red-teaming]({{< relref "llm_red_teaming.md" >}}) — adversarial probing of LLMs: jailbreaking, prompt injection, system prompt extraction, capability elicitation, and amplified risks in agentic systems
 -   [LLM guardrails]({{< relref "llm_guardrails.md" >}}) — programmable runtime controls around LLMs; five rail types (input, dialog, retrieval, execution, output); protect against jailbreaks, prompt injection, unsafe outputs; complement to alignment training; implemented in NVIDIA NeMo Guardrails
@@ -96,8 +102,8 @@ Updated automatically on every ingest.
 -   [Vitamin D]({{< relref "vitamin_d.md" >}}) — secosteroid hormone regulating ~1,000–2,000 genes; deficiency common at northern latitudes; RCT effects weaker than observational data suggest (confounding via sunlight proxy); D3+K2+Mg synergy; TARGET-D trial
 -   [Magnesium]({{< relref "magnesium.md" >}}) — essential co-factor for vitamin D activation; depletion by modern agriculture; linked to cardiac arrhythmia resolution when combined with D3
 -   [Omega-3]({{< relref "omega-3.md" >}}) — essential fatty acids; hype-disappointment RCT cycle mirrors vitamin D; Mediterranean diet confounding
--   [Sunlight Exposure]({{< relref "sunlight_exposure.md" >}}) — multifactorial health driver beyond vitamin D: nitric oxide, circadian entrainment, serotonin; Southern Sweden study: highest-exposure cohort had half the all-cause mortality
--   [Confounding in Observational Studies]({{< relref "confounding_in_observational_studies.md" >}}) — third-variable confounders produce illusory causation; grip-strength analogy; Bradford-Hill criteria; supplement-industry incentives; vitamin D and omega-3 as case studies
+-   — multifactorial health driver beyond vitamin D: nitric oxide, circadian entrainment, serotonin; Southern Sweden study: highest-exposure cohort had half the all-cause mortality
+-   — third-variable confounders produce illusory causation; grip-strength analogy; Bradford-Hill criteria; supplement-industry incentives; vitamin D and omega-3 as case studies
 -   [Free-range parenting]({{< relref "free_range_parenting.md" >}}) — granting children age-appropriate independence and unsupervised exploration to support healthy development
 -   [Phone-based childhood]({{< relref "phone_based_childhood.md" >}}) — the 2010–2015 transition from play-based to screen-based adolescent life and its four foundational harms: social deprivation, sleep deprivation, attention fragmentation, and addiction
 -   [Antifragility]({{< relref "antifragility.md" >}}) — Taleb's concept applied to child development: children need exposure to manageable challenge, risk, and failure to grow strong; protection from all difficulty produces fragility, not safety
