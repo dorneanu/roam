@@ -58,6 +58,9 @@ Updated automatically on every ingest.
 - [[id:5865d0b5-c58b-4061-8656-f70207418928][Attention mechanism]] — Query/Key/Value self-attention; masked (causal) attention for decoder-only models; multi-head splitting; O(n²) complexity and sparse alternatives
 - [[id:fed0553c-d773-49a8-b7f3-5167bc6fb37c][Tokenisation]] — splitting text into sub-word tokens before model input; BPE (GPT-2), WordPiece (BERT), SentencePiece; positional encoding; token-to-word ratio implications for context windows
 - [[id:06952755-85f6-4751-ae16-14de10db7731][Word embeddings]] — dense vector representations of tokens in high-dimensional space; embedding matrix lookup; token vs contextual embeddings; positional encoding summation; generalisation to images, proteins, and sentences
+- [[id:93ac6603-1d50-4782-b8ef-595f5c2c78e0][LLM vulnerability scanning]] — systematic automated probing of LLMs for failure modes and safety gaps; probe/detector/generator/harness architecture; covers jailbreaks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens; garak, promptfoo, and Giskard Scan are leading open-source tools
+- [[id:12edc324-e7bf-4713-b3c1-2424539f9ad3][Package hallucination]] — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
+- [[id:2fb5620d-bdce-4400-861d-dd1dc91e8f13][LLM evaluation]] — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
 
 * Productivity
 - [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] — cognitively demanding work performed in distraction-free states; essential for acquiring new skills and producing rare, valuable output (Cal Newport)

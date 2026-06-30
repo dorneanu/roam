@@ -61,6 +61,9 @@ Updated automatically on every ingest.
 -   [Colang]({{< relref "colang.md" >}}) — NVIDIA's event-based DSL for conversational AI flows; mixes natural language and Python syntax; 2.0 adds UMIM multimodal events, parallel actions, and hierarchical flows; used to define NeMo Guardrails rails
 -   [AI agents]({{< relref "ai_agents.md" >}}) — personal and professional AI agent use cases; reverse-engineering APIs, medical claims automation, voice contractor outreach, grocery shopping, ADHD accountability, estate sale arbitrage, family knowledge bases, and co-evolution as the long-term value proposition
 -   [Agent memory]({{< relref "agent_memory.md" >}}) — persistence layer for AI agents; living-graph semantics (decay, reinforcement, authority) vs naive flat retrieval; Constellation Engine as open-source implementation; file-system and typed memory-file patterns
+-   [LLM vulnerability scanning]({{< relref "llm_vulnerability_scanning.md" >}}) — systematic automated probing of LLMs for failure modes and safety gaps; probe/detector/generator/harness architecture; covers jailbreaks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens; garak, promptfoo, and Giskard Scan are leading open-source tools
+-   [Package hallucination]({{< relref "package_hallucination.md" >}}) — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
+-   [LLM evaluation]({{< relref "llm_evaluation.md" >}}) — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
 
 
 ## Productivity {#productivity}
