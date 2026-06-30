@@ -1,6 +1,6 @@
 +++
 title = "AI Engineering"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["ai", "engineering"]
 draft = false
 +++
@@ -65,3 +65,4 @@ informed decisions about model selection, fine-tuning, and system architecture.
 ## Resources {#resources}
 
 -   2026-06-04 ◦ [AI Engineering from Scratch](https://aiengineeringfromscratch.com/) — 503-lesson open-source curriculum, math-first approach, 20 phases from linear algebra to autonomous swarms, MIT license, [Python]({{< relref "python.md" >}})/TypeScript/[Rust]({{< relref "rust.md" >}})/Julia
+-   2026-06-23 ◦ [Transformer Explainer (Polo Club, Georgia Tech)](https://poloclub.github.io/transformer-explainer/) — interactive GPT-2 walkthrough covering the core AI engineering stack: [tokenisation]({{< relref "tokenisation.md" >}}), [word embeddings]({{< relref "word_embeddings.md" >}}), [attention mechanism]({{< relref "attention_mechanism.md" >}}) (Q/K/V, masking, 12-head splitting), MLP layers, layer norm, residual connections, and temperature/top-k/top-p sampling; see also [Transformer architecture]({{< relref "transformer_architecture.md" >}})

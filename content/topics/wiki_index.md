@@ -32,6 +32,7 @@ Updated automatically on every ingest.
 -   [Fitness functions]({{< relref "fitness_functions.md" >}}) — any mechanism providing objective integrity assessment of an architectural characteristic; automated/triggered checks wired into CI (JDepend, ArchUnit, NetArchTest, chaos engineering); the enforcement arm of evolutionary architecture
 -   [Architectural governance]({{< relref "architectural_governance.md" >}}) — ensuring architectural decisions are respected over time via automated fitness functions rather than manual reviews; ArchUnit, NetArchTest, chaos engineering; checklist manifesto framing
 -   [Architecture katas]({{< relref "architecture_katas.md" >}}) — structured practice exercises for deriving architectural characteristics from domain descriptions; Silicon Sandwiches and Going-Going-Gone worked examples; domain-concern translation table
+-   [Browser automation]({{< relref "browser_automation.md" >}}) — programmatic browser control (Playwright, Puppeteer, Selenium) for AI agents; Playwright codegen, OCR pipeline (PDF→PNG→vision LLM→JSON), human-in-the-loop approval flows, secret management, and internal API discovery
 
 
 ## Security {#security}
@@ -54,12 +55,14 @@ Updated automatically on every ingest.
 -   [Claude Code skills]({{< relref "claude_code_skills.md" >}}) — community-shared reusable prompt definitions stored as slash commands; dominant frameworks: GSD (large iterative projects) and Superpowers (small-medium well-defined); also covers multi-agent orchestration (tonone), credential management, and skill design patterns
 -   [Self-improving agents]({{< relref "self_improving_agents.md" >}}) — AI agents that observe their own sessions, log improvement opportunities, and apply those improvements on a schedule; the "meta-skill" pattern; 600+ improvements applied across ~40 skills in the wild
 -   [Session context persistence]({{< relref "session_context_persistence.md" >}}) — pattern for systematically saving decisions, state, and context at the end of each AI session so the next session can resume coherently; the /close skill pattern; memory file taxonomy
--   — what AI system prompts encode (persona, capability gates, refusal rules, ethical framing), community extraction via CL4R1T4S, tension between observability and commercial secrecy
--   — adversarial probing of LLMs: jailbreaking, prompt injection, system prompt extraction, capability elicitation, and amplified risks in agentic systems
--   — programmable runtime controls around LLMs; five rail types (input, dialog, retrieval, execution, output); protect against jailbreaks, prompt injection, unsafe outputs; complement to alignment training; implemented in NVIDIA NeMo Guardrails
--   — NVIDIA's event-based DSL for conversational AI flows; mixes natural language and Python syntax; 2.0 adds UMIM multimodal events, parallel actions, and hierarchical flows; used to define NeMo Guardrails rails
+-   [System prompt transparency]({{< relref "system_prompt_transparency.md" >}}) — what AI system prompts encode (persona, capability gates, refusal rules, ethical framing), community extraction via CL4R1T4S, tension between observability and commercial secrecy
+-   [LLM red-teaming]({{< relref "llm_red_teaming.md" >}}) — adversarial probing of LLMs: jailbreaking, prompt injection, system prompt extraction, capability elicitation, and amplified risks in agentic systems
+-   [LLM guardrails]({{< relref "llm_guardrails.md" >}}) — programmable runtime controls around LLMs; five rail types (input, dialog, retrieval, execution, output); protect against jailbreaks, prompt injection, unsafe outputs; complement to alignment training; implemented in NVIDIA NeMo Guardrails
+-   [Colang]({{< relref "colang.md" >}}) — NVIDIA's event-based DSL for conversational AI flows; mixes natural language and Python syntax; 2.0 adds UMIM multimodal events, parallel actions, and hierarchical flows; used to define NeMo Guardrails rails
+-   [AI agents]({{< relref "ai_agents.md" >}}) — personal and professional AI agent use cases; reverse-engineering APIs, medical claims automation, voice contractor outreach, grocery shopping, ADHD accountability, estate sale arbitrage, family knowledge bases, and co-evolution as the long-term value proposition
+-   [Agent memory]({{< relref "agent_memory.md" >}}) — persistence layer for AI agents; living-graph semantics (decay, reinforcement, authority) vs naive flat retrieval; Constellation Engine as open-source implementation; file-system and typed memory-file patterns
 -   [LLM vulnerability scanning]({{< relref "llm_vulnerability_scanning.md" >}}) — systematic automated probing of LLMs for failure modes and safety gaps; probe/detector/generator/harness architecture; covers jailbreaks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens; garak, promptfoo, and Giskard Scan are leading open-source tools
--   — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
+-   [Package hallucination]({{< relref "package_hallucination.md" >}}) — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
 -   [LLM evaluation]({{< relref "llm_evaluation.md" >}}) — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
 
 
@@ -113,3 +116,8 @@ Updated automatically on every ingest.
 ## Philosophy {#philosophy}
 
 -   [Socratic questioning]({{< relref "socratic_questioning.md" >}}) — interrogative method where probing questions surface hidden assumptions and drive the respondent to construct understanding; applied to software design review via the grill-me Claude Code skill
+
+
+## Music {#music}
+
+-   [Web MIDI API]({{< relref "web_midi_api.md" >}}) — W3C browser standard for communicating with MIDI hardware (synthesizers, samplers, controllers) over USB/Bluetooth; Chrome/Edge/Brave/Opera support, no Safari; enables browser-based live performance tools and PWA controllers
