@@ -93,6 +93,11 @@ Updated automatically on every ingest.
 
 ## Health {#health}
 
+-   [Vitamin D]({{< relref "vitamin_d.md" >}}) — secosteroid hormone regulating ~1,000–2,000 genes; deficiency common at northern latitudes; RCT effects weaker than observational data suggest (confounding via sunlight proxy); D3+K2+Mg synergy; TARGET-D trial
+-   [Magnesium]({{< relref "magnesium.md" >}}) — essential co-factor for vitamin D activation; depletion by modern agriculture; linked to cardiac arrhythmia resolution when combined with D3
+-   [Omega-3]({{< relref "omega-3.md" >}}) — essential fatty acids; hype-disappointment RCT cycle mirrors vitamin D; Mediterranean diet confounding
+-   [Sunlight Exposure]({{< relref "sunlight_exposure.md" >}}) — multifactorial health driver beyond vitamin D: nitric oxide, circadian entrainment, serotonin; Southern Sweden study: highest-exposure cohort had half the all-cause mortality
+-   [Confounding in Observational Studies]({{< relref "confounding_in_observational_studies.md" >}}) — third-variable confounders produce illusory causation; grip-strength analogy; Bradford-Hill criteria; supplement-industry incentives; vitamin D and omega-3 as case studies
 -   [Free-range parenting]({{< relref "free_range_parenting.md" >}}) — granting children age-appropriate independence and unsupervised exploration to support healthy development
 -   [Phone-based childhood]({{< relref "phone_based_childhood.md" >}}) — the 2010–2015 transition from play-based to screen-based adolescent life and its four foundational harms: social deprivation, sleep deprivation, attention fragmentation, and addiction
 -   [Antifragility]({{< relref "antifragility.md" >}}) — Taleb's concept applied to child development: children need exposure to manageable challenge, risk, and failure to grow strong; protection from all difficulty produces fragility, not safety

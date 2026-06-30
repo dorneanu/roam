@@ -2,13 +2,31 @@
 :ID:       0a702990-5059-489c-9462-a5d928ccd019
 :END:
 #+created: 20210814195315667
-#+modified: 20210814195418518
-#+revision: 0
-#+tags: Stub
+#+modified: 20260624
+#+filetags: :nutrition:health:
 #+title: Magnesium
-#+type: text/vnd.tiddlywiki
 
+- Essentielles Mineral; an über 300 enzymatischen Reaktionen beteiligt
 - Magnesiumcholorid Hexahydrat
   - Informationen: [[https://www.sunday.de/magnesium-flakes-zechstein-magnesiumchlorid-hexahydrat.html]]
   - Entweder als Bad oder zum Trinken
     - [[https://www.eurapon.de/magnesiumchlorid-zum-einnehmen-trinken-pulver-15190615][6 Messlöffel Magnesiumchlorid Pulver (33 g) in 1 Liter Wasser oder Saft lösen. 2x täglich 20 ml (1 Schnapsglas) der Lösung vor einer Mahlzeit trinken.]]
+
+- Co-Faktor für [[id:b331244a-19e4-4f88-ba9f-e8b6d70c2871][Vitamin D]]
+  - Magnesium ist für die Aktivierung von Vitamin D unabdingbar
+  - Ein Magnesiummangel kann dazu führen, dass Vitamin-D-Supplementierung nicht anschlägt (kein messbarer Anstieg des 25-OH-D-Spiegels)
+  - Referenz: "Role of Magnesium in Vitamin D Activation and Function" — pubmed.ncbi.nlm.nih.gov/29480918/
+  - Viele Vitamin-D-Studien berücksichtigen den Magnesiumstatus nicht → mögliche Quelle für widersprüchliche Studienergebnisse
+
+- Defizienz
+  - Starke Verwendung von Kunstdüngern verringert den Mineraliengehalt im Boden und damit in der Nahrungskette
+  - Magnesiummangel ist weit verbreitet und oft unerkannt
+  - Mögliche Symptome: Muskelkrämpfe, Herzrhythmusstörungen (z. B. ventrikuläre Extrasystolen), Erschöpfung, Stimmungsschwankungen
+
+- Herz-Kreislauf
+  - Fallbericht aus HN-Diskurs: Kombination D3 + Magnesium beseitigte ventrikuläre Extrasystolen nach Jahren der erfolglosen Behandlung
+  - Gegenseitige Abhängigkeit: D ohne Mg und Mg ohne D zeigten jeweils keine konsistente Wirkung; erst die Kombination half
+
+- Wechselwirkungen
+  - [[id:b331244a-19e4-4f88-ba9f-e8b6d70c2871][Vitamin D]] (D3 + K2 + Mg als sinnvolle Dreier-Kombination)
+  - Kalium: oft gemeinsam defizient
