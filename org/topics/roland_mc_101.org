@@ -3,7 +3,7 @@
 :END:
 #+title: Roland MC-101
 
-Also check [[id:a7dec13a-1eba-476e-8cb0-36baa9ad7fc7][Drums]]. 
+Also check [[id:a7dec13a-1eba-476e-8cb0-36baa9ad7fc7][Drums]], [[id:7cf1bf73-59cd-4938-8440-9ad1fea98ab4][Sidechain compression]]. 
 
 * Compressor
 Mostly from [[https://www.youtube.com/watch?v=lgCYjek5_JY&ab_channel=AudioUniversity][How To Use A Compressor | Threshold, Ratio, Attack, Release & More]]. 
@@ -223,3 +223,4 @@ Quick reference:
   - C4 Max Value: 90
 - 2025-07-23 ◦ [[https://www.youtube.com/watch?v=AzYv0_dDOf0&list=WL&index=89&ab_channel=MyLittleSynths][Roland MC101 generative rhythm trick. Mc707 Zen-core glitch style.]]
   Using Motion designer
+- 2026-06-17 ◦ [[https://youtu.be/uoktpoQzsdw][4 Levels of Drum Groove: From Beginner to Pro (Leo Loretti)]] — Ableton Live sidechain applied at groove Level 1: aggressive ratio, zero attack, fast release on bass; see [[id:e28fcbe5-9d6d-413d-9915-2c6fe75db32c][House drum groove]] for the full framework

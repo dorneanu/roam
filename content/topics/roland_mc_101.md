@@ -1,10 +1,10 @@
 +++
 title = "Roland MC-101"
-author = ["Dorneanu"]
+author = ["hermes"]
 draft = false
 +++
 
-Also check [Drums]({{< relref "drums.md" >}}).
+Also check [Drums]({{< relref "drums.md" >}}), [Sidechain compression]({{< relref "sidechain_compression.md" >}}).
 
 
 ## Compressor {#compressor}
@@ -263,3 +263,4 @@ Quick reference:
     -   C4 Max Value: 90
 -   2025-07-23 ◦ [Roland MC101 generative rhythm trick. Mc707 Zen-core glitch style.](https://www.youtube.com/watch?v=AzYv0_dDOf0&list=WL&index=89&ab_channel=MyLittleSynths)
     Using Motion designer
+-   2026-06-17 ◦ [4 Levels of Drum Groove: From Beginner to Pro (Leo Loretti)](https://youtu.be/uoktpoQzsdw) — Ableton Live sidechain applied at groove Level 1: aggressive ratio, zero attack, fast release on bass; see [House drum groove]({{< relref "house_drum_groove.md" >}}) for the full framework
