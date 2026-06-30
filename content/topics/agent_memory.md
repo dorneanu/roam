@@ -1,6 +1,6 @@
 +++
 title = "Agent memory"
-author = ["hermes"]
+author = ["Dorneanu"]
 tags = ["ai", "llm"]
 draft = false
 +++
@@ -18,8 +18,8 @@ more useful mental model is a **living graph** where memories have authority
 that can decay, reinforce, or be superseded — rather than a flat store where
 everything is equally "remembered" forever.
 
-Related: [AI agents]({{< relref "ai_agents.md" >}}), [Self-improving agents]({{< relref "self_improving_agents.md" >}}),
-[Session context persistence]({{< relref "session_context_persistence.md" >}}), [LLM wiki]({{< relref "llm_wiki.md" >}})
+Related: , ,
+, [LLM wiki]({{< relref "llm_wiki.md" >}})
 
 
 ## Memory storage patterns {#memory-storage-patterns}
@@ -62,7 +62,7 @@ the current session.
 
 ### Memory files taxonomy (Claude Code pattern) {#memory-files-taxonomy--claude-code-pattern}
 
-The [Session context persistence]({{< relref "session_context_persistence.md" >}}) pattern uses three typed memory files:
+The pattern uses three typed memory files:
 
 -   `feedback_*.md` — corrections and non-obvious confirmations
 -   `user_*.md` — preferences, working style, stated goals

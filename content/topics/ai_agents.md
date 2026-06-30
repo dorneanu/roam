@@ -1,6 +1,6 @@
 +++
 title = "AI agents"
-author = ["hermes"]
+author = ["Dorneanu"]
 tags = ["ai", "llm"]
 draft = false
 +++
@@ -18,7 +18,7 @@ automation: built by individuals to solve specific friction points in daily
 life, run on consumer hardware or cheap subscriptions, and evolving over time
 as the agent accumulates context about the user's preferences and routines.
 
-Related concepts: [Agent memory]({{< relref "agent_memory.md" >}}), [Browser automation]({{< relref "browser_automation.md" >}}), [Self-improving agents]({{< relref "self_improving_agents.md" >}}),
+Related concepts: [Agent memory]({{< relref "agent_memory.md" >}}), , ,
 [Planner-Generator-Evaluator pattern]({{< relref "planner_generator_evaluator.md" >}})
 
 
@@ -224,6 +224,6 @@ reinforce, or lose authority, not simply accumulate forever.
 ## Resources {#resources}
 
 -   2026-06-18 ◦ [Am I missing the point of AI agents? (Reddit r/hermesagent)](https://www.reddit.com/r/hermesagent/comments/1tlh53c/am_i_missing_the_point_of_ai_agents/) — 19-contributor thread of real-world personal AI agent use cases; covers reverse-engineering APIs, medical claims automation, contractor voice outreach, grocery shopping, ADHD accountability, estate sale arbitrage, personal data self-analysis, family knowledge base, and conversational travel planning
--   2026-06-23 ◦ [NeMo Guardrails (GitHub)](https://github.com/NVIDIA-NeMo/Guardrails) — execution and retrieval rails are the [LLM guardrails]({{< relref "llm_guardrails.md" >}}) mechanisms most relevant to agentic pipelines; defined in [Colang]({{< relref "colang.md" >}}) \`.co\` files
+-   2026-06-23 ◦ [NeMo Guardrails (GitHub)](https://github.com/NVIDIA-NeMo/Guardrails) — execution and retrieval rails are the [LLM guardrails]({{< relref "llm_guardrails.md" >}}) mechanisms most relevant to agentic pipelines; defined in \`.co\` files
 
--   2026-06-23 ◦ [CL4R1T4S (GitHub)](https://github.com/elder-plinius/CL4R1T4S) — extracted system prompts from agent platforms (Devin, Manus, MultiOn) expose how agentic scaffolds encode tool permissions, goal-pursuit behaviours, and refusal boundaries; see [System prompt transparency]({{< relref "system_prompt_transparency.md" >}}) and [LLM red-teaming]({{< relref "llm_red_teaming.md" >}})
+-   2026-06-23 ◦ [CL4R1T4S (GitHub)](https://github.com/elder-plinius/CL4R1T4S) — extracted system prompts from agent platforms (Devin, Manus, MultiOn) expose how agentic scaffolds encode tool permissions, goal-pursuit behaviours, and refusal boundaries; see and

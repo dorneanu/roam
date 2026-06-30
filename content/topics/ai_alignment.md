@@ -1,6 +1,6 @@
 +++
 title = "AI alignment"
-author = ["hermes"]
+author = ["Dorneanu"]
 tags = ["ai", "philosophy"]
 draft = false
 +++
@@ -29,7 +29,7 @@ principles it should embody — and trained through a cycle of self-critique and
 revision. The model is prompted to evaluate its own outputs against constitutional
 principles and to rewrite responses that violate them. This produces a model that
 is both helpful and harmless without requiring human labelers to evaluate every
-output. Constitutional AI is the conceptual ancestor of [Constitutional classifiers]({{< relref "constitutional_classifiers.md" >}}).
+output. Constitutional AI is the conceptual ancestor of .
 
 > The key idea is to use a set of principles, rather than human labelers, to
 > provide the model with feedback on its own outputs.
@@ -56,7 +56,7 @@ AI-assisted decomposition), and recursive reward modeling.
 
 Anthropic's applied safety technique: separate input/output classifiers trained
 on constitution-derived synthetic data to detect and block jailbreaks at inference
-time. See [Constitutional classifiers]({{< relref "constitutional_classifiers.md" >}}) for full detail. Reduces jailbreak success
+time. See for full detail. Reduces jailbreak success
 from 86% to 4.4% with minimal overrefusal.
 
 
@@ -102,4 +102,4 @@ teams (183 participants, &gt;3,000 hours) and a public demo (339 participants,
 -   2025-02-03 ◦ [Constitutional Classifiers (Anthropic)](https://www.anthropic.com/research/constitutional-classifiers) — applied alignment: classifier-based jailbreak defense; results from human red-teaming and public demo
 -   2022-12-15 ◦ [Constitutional AI (Anthropic arXiv)](https://arxiv.org/abs/2212.08073) — original Constitutional AI paper introducing the constitution + self-critique training loop
 -   [Responsible Scaling Policy (Anthropic)](https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy) — formal policy defining ASL deployment gates and required safeguards per capability tier
--   2026-06-24 ◦ [Pliny HackAPrompt Dataset (HuggingFace)](https://huggingface.co/datasets/hackaprompt/Pliny_HackAPrompt_Dataset) — competitive red-teaming corpus of 16,902 jailbreak submissions; demonstrates the scale and diversity of adversarial pressure that alignment defenses must withstand; see [Red teaming LLMs]({{< relref "red_teaming_llms.md" >}}) for methodology
+-   2026-06-24 ◦ [Pliny HackAPrompt Dataset (HuggingFace)](https://huggingface.co/datasets/hackaprompt/Pliny_HackAPrompt_Dataset) — competitive red-teaming corpus of 16,902 jailbreak submissions; demonstrates the scale and diversity of adversarial pressure that alignment defenses must withstand; see for methodology

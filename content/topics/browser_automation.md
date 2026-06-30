@@ -1,6 +1,6 @@
 +++
 title = "Browser automation"
-author = ["hermes"]
+author = ["Dorneanu"]
 tags = ["software", "ai"]
 draft = false
 +++

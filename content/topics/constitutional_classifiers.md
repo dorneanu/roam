@@ -1,6 +1,6 @@
 +++
 title = "Constitutional classifiers"
-author = ["hermes"]
+author = ["Dorneanu"]
 tags = ["ai", "llm", "security"]
 draft = false
 +++
@@ -108,7 +108,7 @@ deployed; Constitutional Classifiers provides a measurable, evolvable safeguard.
 
 ## Conceptual connections {#conceptual-connections}
 
--   [LLM jailbreaking]({{< relref "llm_jailbreaking.md" >}}) — the attack class Constitutional Classifiers is designed to defeat
+-   — the attack class Constitutional Classifiers is designed to defeat
 -   [AI alignment]({{< relref "ai_alignment.md" >}}) — broader program; Constitutional AI and Constitutional Classifiers are Anthropic's two primary alignment techniques
 -   [AI]({{< relref "ai.md" >}}) — language model foundations
 
@@ -133,5 +133,5 @@ Constitutional Classifiers:
     researcher illustrates the career pipeline from competitive jailbreaking into
     formal AI safety work
 
-See [Red teaming LLMs]({{< relref "red_teaming_llms.md" >}}) for the broader competitive red-teaming methodology and
-[Prompt injection]({{< relref "prompt_injection.md" >}}) for the injection sub-class.
+See for the broader competitive red-teaming methodology and
+for the injection sub-class.
