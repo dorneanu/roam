@@ -1,6 +1,6 @@
 +++
 title = "ChatGPT"
-author = ["Victor Dorneanu"]
+author = ["hermes"]
 draft = false
 +++
 
@@ -27,6 +27,7 @@ draft = false
 
 -   2024-02-01 ◦ [StrideGPT](https://stridegpt.streamlit.app/)
 -   2023-08-21 ◦ [Don’t you (forget NLP): Prompt injection with control characters in ChatGPT - Dropbox](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm)
+-   2026-06-23 ◦ [CL4R1T4S (GitHub)](https://github.com/elder-plinius/CL4R1T4S) — community-extracted system prompts revealing prompt injection vectors and jailbreak surfaces across major AI platforms; see [LLM red-teaming]({{< relref "llm_red_teaming.md" >}})
 
 
 ### System Prompts {#system-prompts}
@@ -35,6 +36,7 @@ draft = false
 -   2023-10-25 ◦ [ChatGPT / GPT-4 System Prompt Engineering - Ultimate Guide - YouTube](https://www.youtube.com/watch?v=zNACfPuaqaI&ab_channel=AllAboutAI)
 -   2023-10-24 ◦ [GitHub - spdustin/ChatGPT-AutoExpert: 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding)](https://github.com/spdustin/ChatGPT-AutoExpert)
 -   2023-10-24 ◦ [GitHub - mustvlad/ChatGPT-System-Prompts: This repository contains a collection of the best system prompts for ChatGPT](https://github.com/mustvlad/ChatGPT-System-Prompts)
+-   2026-06-23 ◦ [CL4R1T4S (GitHub)](https://github.com/elder-plinius/CL4R1T4S) — leaked/extracted system prompts from OpenAI (ChatGPT) and 25+ other AI platforms; reveals how personas, refusal rules, and capability gates are encoded; see [System prompt transparency]({{< relref "system_prompt_transparency.md" >}})
 
 
 ### Alternatives {#alternatives}
@@ -65,6 +67,7 @@ draft = false
 ### How does it work {#how-does-it-work}
 
 -   2023-05-08 ◦ [How ChatGPT Works Technically | ChatGPT Architecture - YouTube](https://www.youtube.com/watch?v=bSvTVREwSNw&ab_channel=ByteByteGo)
+-   2026-06-23 ◦ [Transformer Explainer (Polo Club, Georgia Tech)](https://poloclub.github.io/transformer-explainer/) — interactive GPT-2 walkthrough explaining the [Transformer architecture]({{< relref "transformer_architecture.md" >}}) from [tokenisation]({{< relref "tokenisation.md" >}}) through [attention mechanism]({{< relref "attention_mechanism.md" >}}) to sampling; connects the "word guessing" framing above to the Q/K/V machinery underneath
 -   2023-05-08 ◦ [Ep. 244: Cal Newport’s Thoughts on ChatGPT - YouTube](https://www.youtube.com/watch?v=OVm2IoUUxdo)
     -   Idea #1: Word guessing
 

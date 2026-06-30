@@ -200,13 +200,21 @@ Each log entry format:
 :PROPERTIES:
 :DATE:     YYYY-MM-DD
 :TYPE:     ingest
-:SOURCE:   source_url_or_path
+:SOURCE:   source_url_or_citation
 :END:
 - *Source type:* article|book|podcast
 - *Topics updated:* topic1.org, topic2.org
 - *Topics created:* new_topic.org
 - *Summary:* one sentence describing what was ingested and what was added
 ```
+
+### Rules for the `:SOURCE:` field
+
+The wiki log is **public**. The `:SOURCE:` value must be safe to publish.
+
+- **Articles / podcasts:** use the canonical public URL.
+- **Books:** use a human-readable citation only — `Book Title (Author, Year)` or `Book Title — Chapters X–Y (Author)`. **Never** include a local file path, Dropbox/iCloud/Drive path, or the name of any provider, store, or retailer the file came from (legitimate or otherwise). Provenance of the raw file belongs in the private `roam-sources` repo, not the public log.
+- If only a private path is available, derive a citation from the book's metadata instead — do not paste the path.
 
 ## Step 7: Update Wiki Index
 
@@ -330,4 +338,5 @@ Exact quote from the source.
 - Do not add `#+SETUPFILE:` to topic files — only blog org files use that
 - Do not delete existing bullets, headings, or content
 - Do not store sources in the public roam repo — always save to roam-sources
+- Do not put local file paths, Dropbox/iCloud/Drive paths, or retailer/provider names (legitimate or otherwise) into the public wiki log's `:SOURCE:` field — books get a human-readable citation only
 - Do not create topic files for proper nouns (people, companies, books) unless they are genuinely conceptual (e.g. "Nassim Taleb" is ok as a concept node; "Amazon" as a company is not)
