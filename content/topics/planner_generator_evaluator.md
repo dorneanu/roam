@@ -1,6 +1,6 @@
 +++
 title = "Planner-Generator-Evaluator pattern"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["ai", "llm", "software"]
 draft = false
 +++
@@ -77,3 +77,4 @@ The pattern mirrors human engineering team structure: architect (Planner), engin
 ## Resources {#resources}
 
 -   2026-06-03 ◦ [Claude Code: Team Infrastructure and Agentic Patterns (talk slides)](~/repos/priv/roam-sources/articles/2026/2026-06-03_claude-code-team-infrastructure-agentic-patterns.md) — slide introducing the pattern with Planner (brief → spec), Generator (sprint-by-sprint), and Evaluator (live-app grading) roles
+-   2026-06-26 ◦ [nano-analyzer (GitHub, weareaisle)](https://github.com/weareaisle/nano-analyzer) — LLM-powered vulnerability scanner illustrating multi-stage context injection: Stage 1 (context generation) → Stage 2 (analysis) → Stage 3 (triage/verification), with confidence-based escalation to stronger models for ambiguous cases; see [Prompt engineering patterns]({{< relref "prompt_engineering_patterns.md" >}})

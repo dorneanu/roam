@@ -31,6 +31,9 @@ Updated automatically on every ingest.
 - [[id:b51a2811-2fe3-4f03-a8c0-ff4199376e17][Architecture katas]] — structured practice exercises for deriving architectural characteristics from domain descriptions; Silicon Sandwiches and Going-Going-Gone worked examples; domain-concern translation table
 - [[id:8fd21c64-2e57-41ae-b962-02f256b1e80c][Browser automation]] — programmatic browser control (Playwright, Puppeteer, Selenium) for AI agents; Playwright codegen, OCR pipeline (PDF→PNG→vision LLM→JSON), human-in-the-loop approval flows, secret management, and internal API discovery
 
+* Conferences
+- [[id:1b521c25-8a4a-47ad-ab52-a342ffdadd2e][OWASP AppSec Global Vienna 2026]] — keynote: write-only code, sustainability of code review, enabling teams (Platform / SRE / Agent Enablement) in the agentic era
+
 * Security
 - [[id:42edaa15-2e34-44c7-aa0e-e4fe32d68067][Prompt injection]] — attack class where adversaries embed malicious instructions in content processed by LLMs; exploits role confusion to bypass instruction hierarchy defenses; includes CoT Forgery (60% ASR against frontier models)
 - [[id:ba94d644-46d1-42b3-bb38-15b0b5cb50ec][Instruction hierarchy]] — privilege separation system for LLMs using role tags (system/user/tool); fails in practice because models perceive roles by text style rather than structural tags
@@ -51,6 +54,10 @@ Updated automatically on every ingest.
 - [[id:f2b593c9-52ec-41ca-b376-b95d227d782c][Claude Code skills]] — community-shared reusable prompt definitions stored as slash commands; dominant frameworks: GSD (large iterative projects) and Superpowers (small-medium well-defined); also covers multi-agent orchestration (tonone), credential management, and skill design patterns
 - [[id:a668171b-86dd-4fc9-8020-8bffdd1605c6][Self-improving agents]] — AI agents that observe their own sessions, log improvement opportunities, and apply those improvements on a schedule; the "meta-skill" pattern; 600+ improvements applied across ~40 skills in the wild
 - [[id:c1afc3ce-c6d3-40a8-ae84-eab987fd2571][Session context persistence]] — pattern for systematically saving decisions, state, and context at the end of each AI session so the next session can resume coherently; the /close skill pattern; memory file taxonomy
+- [[id:60eb9b01-7f41-4bd7-94db-32d7a5f3aace][Multi-agent communication]] — file-based NDJSON channels for inter-agent messaging between Claude Code, Codex, and OpenCode; kqueue/inotify wake-up, zero idle CPU, cross-harness interop
+- [[id:bf696bf5-353b-41d4-9a18-e4651d0cb372][Prompt engineering patterns]] — reusable structural patterns for cheap-model pipelines: falsification-first prompting, crux extraction, confidence-based escalation, layered output parsing, and observability metrics
+- [[id:32b5dd89-a224-4d70-a85b-0042f3bf6ade][LLM tool use]] — hypothesis-before-tool protocol, tool budget enforcement, Unix tool to reasoning gap mapping, security sandbox for model-generated patterns
+- [[id:b364ccd2-d2e1-4754-826a-84d36469cbc1][Context window management]] — prior context condensation, memoized cache visibility, and structured section injection for multi-round LLM pipelines
 - [[id:c7899112-a8aa-40bc-9067-9c7e102ddf7e][System prompt transparency]] — what AI system prompts encode (persona, capability gates, refusal rules, ethical framing), community extraction via CL4R1T4S, tension between observability and commercial secrecy
 - [[id:b47e36c2-ec78-44b7-9dd6-add857117982][LLM red-teaming]] — adversarial probing of LLMs: jailbreaking, prompt injection, system prompt extraction, capability elicitation, and amplified risks in agentic systems
 - [[id:c7bd4e11-97ce-4492-9a63-a91d262e576b][LLM guardrails]] — programmable runtime controls around LLMs; five rail types (input, dialog, retrieval, execution, output); protect against jailbreaks, prompt injection, unsafe outputs; complement to alignment training; implemented in NVIDIA NeMo Guardrails

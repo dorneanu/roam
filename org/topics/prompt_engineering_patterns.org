@@ -1,0 +1,154 @@
+:PROPERTIES:
+:ID:       bf696bf5-353b-41d4-9a18-e4651d0cb372
+:END:
+#+title: Prompt engineering patterns
+#+filetags: :ai:llm:
+
+* Overview
+
+Prompt engineering patterns are reusable structural techniques for instructing
+language models — particularly cheap or small models (2–13B parameters) — to
+produce reliable, auditable output. Unlike raw prompting, patterns encode
+architectural decisions: how to divide cognitive labour across stages, how to
+prevent confirmation bias, how to make reasoning verifiable, and how to integrate
+deterministic tools into a probabilistic pipeline.
+
+The domain is especially active in "cheap-model + Unix-tool" pipelines, where the
+model cannot hold large context windows or reason reliably from memory alone. In
+these settings, prompting patterns are the primary lever for quality control.
+
+* Multi-stage context injection
+
+Split the pipeline into stages with distinct cognitive demands rather than
+passing everything to a single prompt:
+
+- *Stage 1 (context generation)*: model summarizes input; no tool calls; high tolerance for minor errors.
+- *Stage 2 (analysis)*: model performs the main analysis task and emits structured JSON findings, primed with Stage 1 output injected into the system prompt as a briefing — not appended to conversation history.
+- *Stage 3 (triage/verification)*: iterative multi-round skeptical review; heaviest tool usage.
+
+Injecting Stage 1 output into Stage 2's *system prompt* (not conversation history)
+keeps the cheap model's effective context focused on the relevant signal. See also
+[[id:acdec8f0-ba96-4098-bf19-42cd7ff6a95d][Planner-Generator-Evaluator pattern]] for a parallel decomposition in software
+development workflows.
+
+* Falsification-first prompting
+
+Instruct the model to *disprove* its hypothesis rather than confirm it. Models are
+completion engines with inherent confirmation bias — they hallucinate coherent
+answers even when evidence is absent.
+
+Effective prompt instruction:
+
+#+begin_quote
+Your goal is to DISPROVE the finding. Search for counter-evidence first. A defense
+you cannot find does not exist.
+#+end_quote
+
+This is especially critical for interpreting empty tool results. When grep returns
+NO MATCHES, cheap models often hallucinate that a defense exists. Explicit
+instruction is required: "NO MATCHES means the pattern does NOT exist. Do not assume
+a defense is present."
+
+Three possible meanings of an empty grep result — the model must eliminate (B) and
+(C) before accepting (A):
+- (A) The pattern genuinely doesn't exist → supports conclusion
+- (B) The pattern was too specific → try a broader query
+- (C) Wrong file scope → check file names
+
+* Crux extraction
+
+Force the model to emit the single key fact its verdict depends on:
+
+#+begin_src json
+{
+  "reasoning": "...",
+  "crux": "the memcpy at line 42 copies user-controlled length with no bounds check",
+  "verdict": "VALID"
+}
+#+end_src
+
+The crux field enables *crux stability tracking*: if the crux changes significantly
+between rounds (e.g. edit distance >0.3), the model's reasoning is unstable —
+flag for human review. The orchestrator can also detect a stuck loop (same crux,
+oscillating verdicts) and terminate early or escalate. The crux also functions as
+a join key for cross-file memory.
+
+* Confidence-based model escalation
+
+After a cheap model reaches its maximum rounds:
+
+#+begin_example
+confidence = valid_rounds / total_rounds
+
+confidence > 0.7  → VALID   (accept cheap model verdict)
+confidence < 0.3  → INVALID (accept cheap model verdict)
+0.3–0.7           → escalate: 1 round with a stronger model
+still ambiguous   → INCONCLUSIVE
+#+end_example
+
+Early escalation signals (before max rounds):
+- Model requests >5 greps/round with no verdict change (fishing expedition)
+- Crux changes every round (unstable reasoning)
+- Model concludes "defense exists" after NO MATCHES (hallucination)
+- Confidence oscillates across rounds (no convergence)
+
+This pattern keeps ~80% of cases resolved by cheap models; the remaining ~20%
+(genuinely ambiguous) get stronger reasoning. Related: [[id:32b5dd89-a224-4d70-a85b-0042f3bf6ade][LLM tool use]] for how
+tool budgets influence confidence calibration.
+
+* Structured context sections
+
+Delimit different types of context with explicit section tags. Cheap models lose
+track of what kind of information they are reading without explicit demarcation.
+
+#+begin_example
+[SYSTEM INSTRUCTIONS]
+[FINDING UNDER REVIEW]
+[PRIOR ROUND EVIDENCE]   ← condensed grep output from previous rounds
+[CROSS-FILE CONTEXT]     ← related findings from other files
+[USER QUERY / CURRENT TASK]
+#+end_example
+
+Without section tags, prior-round evidence bleeds into current reasoning
+unpredictably. Section tags also allow the orchestrator to selectively replace
+stale sections (e.g. condensing prior evidence) without restructuring the whole
+prompt.
+
+* Layered output parsing
+
+Cheap models produce malformed structured output predictably. A robust parsing
+strategy proceeds in layers:
+
+1. Extract tool requests first (regex scan for ~GREP:~, ~FIND:~, etc.) — before attempting JSON parsing. Tool calls must not be missed even if surrounding JSON is malformed.
+2. Strip markdown fences.
+3. Remove trailing commas, normalize line breaks.
+4. Try ~json.loads()~.
+5. On failure: regex-extract individual JSON objects.
+6. Final fallback: INCONCLUSIVE with raw output preserved for human review.
+
+Retry policy: send the model a correction message only for *structural* (syntactic)
+errors — missing braces, unclosed strings. Never retry semantic errors (wrong field
+names, wrong values) — cheap models rarely self-correct these and waste tokens.
+Max 1 retry.
+
+* Observability metrics
+
+The most diagnostic metrics for a cheap-model pipeline:
+
+- *Crux stability*: edit distance between crux strings across rounds; average >0.3 = unstable reasoning
+- *Grep deduplication ratio*: ~unique_greps / total_greps~; below 0.5 = model is looping
+- *Tool calls before verdict*: 0 tool calls before a FINAL verdict = ~HALLUCINATION_SUSPECT~
+- *Confidence distribution*: high INCONCLUSIVE rate = pipeline degradation
+- *Cache hit rate*: very low = tool results not being reused
+
+Log as structured JSON per round: ~{finding_id, round, model, prompt_tokens, tool_calls[], crux_before, crux_after, confidence, latency_ms}~.
+
+* Related topics
+
+- [[id:32b5dd89-a224-4d70-a85b-0042f3bf6ade][LLM tool use]] — hypothesis-before-tool, tool budget enforcement, and Unix tool gap mapping
+- [[id:b364ccd2-d2e1-4754-826a-84d36469cbc1][Context window management]] — prior context condensation and cache visibility across rounds
+- [[id:acdec8f0-ba96-4098-bf19-42cd7ff6a95d][Planner-Generator-Evaluator pattern]] — multi-stage cognitive decomposition applied to software development
+- [[id:8f1e78cd-fefa-4a2f-9db9-0e1e396a0448][AI]] — language models as the underlying engine
+
+* Resources
+- 2026-06-26 ◦ [[https://github.com/weareaisle/nano-analyzer][nano-analyzer (GitHub, weareaisle)]] — minimal LLM-powered zero-day vulnerability scanner; synthesized into a set of 13 prompt engineering patterns for cheap-model + Unix-tool pipelines
