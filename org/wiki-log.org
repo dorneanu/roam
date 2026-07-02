@@ -145,6 +145,17 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics created:* claude_code_skills.org, self_improving_agents.org, session_context_persistence.org
 - *Summary:* Ingested a Reddit r/ClaudeAI community thread collecting the most-used Claude Code skills; created three new topic files covering the community skill ecosystem (GSD, Superpowers, tonone multi-agent, credential management, design patterns), the meta-skill pattern for autonomous self-improvement (observe → log → scheduled apply), and the /close session context persistence pattern (retrospective → housekeeping → close); enriched claude_code.org with a community skills section, llm_wiki.org with a community implementation entry, and ai.org with LLM Council and new skill topic links.
 
+* 2026-07-02: Ingest — Prompt Injection as Role Confusion (Ye et al.)
+:PROPERTIES:
+:DATE:     2026-07-02
+:TYPE:     ingest
+:SOURCE:   https://arxiv.org/html/2603.12277v6
+:END:
+- *Source type:* article
+- *Topics updated:* ai.org, threat_modeling.org
+- *Topics created:* prompt_injection.org, instruction_hierarchy.org, role_confusion_llm.org
+- *Summary:* Ingested the arxiv paper "Prompt Injection as Role Confusion" (Ye, Cui, Hadfield-Menell, 2026), which traces prompt injection to a representational failure where LLMs perceive roles by text style rather than structural tags; created three new topic files covering prompt injection (with CoT Forgery attack), instruction hierarchy (privilege separation in LLMs), and role confusion in LLMs (role probes and latent-space analysis); enriched ai.org and threat_modeling.org with cross-linked bullets about LLM security.
+
 * 2026-06-12: Ingest — grill-me SKILL.md (Matt Pocock)
 :PROPERTIES:
 :DATE:     2026-06-12

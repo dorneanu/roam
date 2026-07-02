@@ -67,6 +67,33 @@ This vulnerability is structural, not merely a training deficiency. It is
 analogous to how early web frameworks could not prevent XSS without significant
 architectural change (output escaping, content security policies).
 
+** Why defenses fail: role confusion
+
+[[id:ba94d644-46d1-42b3-bb38-15b0b5cb50ec][Instruction hierarchy]] systems rely on role tags (~<system>~, ~<user>~, ~<tool>~) to
+assign privilege levels. However, models do not authenticate roles by their
+structural tags — they perceive roles by the *style and content* of the text. A
+message written to sound like a system instruction will be treated as one
+regardless of which tag wraps it. This is the root cause identified as
+[[id:a7cf523b-afd4-401b-bc40-2a8041fb8b80][role confusion in LLMs]] (Ye et al., 2026).
+
+* CoT forgery
+
+CoT forgery (Ye et al., 2026) is a zero-shot variant that exploits the
+chain-of-thought role. The attack injects fabricated ~<think>~ / reasoning text
+into user messages or tool outputs. Because the model perceives this forged text
+as its own prior reasoning, it adopts the injected conclusions without scrutiny —
+even when the forged reasoning is transparently absurd. This yields ~60% attack
+success rate against frontier models on StrongREJECT, and 56–70% ASR in agent
+hijacking scenarios where standard injections achieved near-zero.
+
+* Agent hijacking
+
+In agentic settings, indirect prompt injection becomes *agent hijacking*: malicious
+instructions embedded in web pages, emails, or tool results cause the agent to
+execute attacker-controlled actions (exfiltrating secrets, sending emails,
+modifying files). The threat surface scales with agent autonomy — a more capable
+agent with more tools represents higher hijacking risk.
+
 * Defenses and mitigations
 
 - *Instruction hierarchy / privilege separation* — model is trained to weight
@@ -80,6 +107,10 @@ architectural change (output escaping, content security policies).
   successful injection causes less damage (principle of least privilege)
 - *Human-in-the-loop* — require human approval for high-consequence actions,
   limiting the damage a successful injection can cause autonomously
+- *Role probes* — mechanistic interpretability tools (see [[id:a7cf523b-afd4-401b-bc40-2a8041fb8b80][role confusion in LLMs]])
+  that measure internal role perception; can detect role confusion before generation
+- *Dual-LLM patterns* — route tool outputs through a separate, restricted model
+  that cannot execute instructions
 
 No defense completely eliminates the risk; defense-in-depth is the recommended
 approach.
@@ -113,3 +144,4 @@ See [[id:d2356495-9129-46ee-b352-c8ca5596de50][Red teaming LLMs]] for the compet
 - 2026-06-24 ◦ [[https://huggingface.co/datasets/hackaprompt/Pliny_HackAPrompt_Dataset][Pliny HackAPrompt Dataset (HuggingFace)]] — open-sourced competitive jailbreak/prompt-injection submissions; 16,902 rows; includes direct and indirect injection techniques
 - [[https://hackaprompt.com][HackAPrompt]] — competitive platform with dedicated indirect prompt injection track (MATS x Trails)
 - [[https://owasp.org/www-project-top-10-for-large-language-model-applications/][OWASP LLM Top 10]] — prompt injection is ranked #1 in OWASP's top security risks for LLM applications
+- 2026-07-02 ◦ [[https://arxiv.org/html/2603.12277v6][Prompt Injection as Role Confusion (Ye et al.)]] — traces prompt injection to [[id:a7cf523b-afd4-401b-bc40-2a8041fb8b80][role confusion]]: models perceive roles by text style not structural tags; introduces CoT Forgery (~60% ASR) and role probes as mechanistic interpretability tools

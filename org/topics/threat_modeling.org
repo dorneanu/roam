@@ -28,3 +28,5 @@
 - 2022-11-21 ◦ [[https://www.howardposton.com/blog/threat-modeling-for-the-blockchain][Threat Modeling for the Blockchain — Howard Poston]]
 ** Docker
 - 2023-01-11 ◦ [[https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/][Docker Threat Model - CloudSecDocs]]
+** LLM systems
+- 2026-07-02 ◦ [[https://arxiv.org/html/2603.12277v6][Prompt Injection as Role Confusion (Ye et al.)]] — [[id:42edaa15-2e34-44c7-aa0e-e4fe32d68067][Prompt injection]] as a threat class for LLM-based systems: adversaries embed malicious instructions in low-privilege content (web pages, emails, tool outputs); the root mechanism is [[id:a7cf523b-afd4-401b-bc40-2a8041fb8b80][role confusion]] — models perceive roles by text style rather than structural tags, defeating [[id:ba94d644-46d1-42b3-bb38-15b0b5cb50ec][instruction hierarchy]] defenses; role probes can detect the attack before generation

@@ -12,11 +12,12 @@ draft = false
 
 ## LLM {#llm}
 
--   2026-06-02 ◦ [LLM wiki gist (Karpathy)](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) — pattern for an LLM-maintained [LLM wiki]({{< relref "llm_wiki.md" >}}): immutable raw sources, LLM-generated wiki pages, and a schema file (CLAUDE.md) that encodes structure and workflow; three operations: ingest, query, lint; stateful compounding alternative to RAG at personal/team scale
+-   2026-06-02 ◦ [LLM wiki gist (Karpathy)](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) — pattern for an LLM-maintained [LLM wiki]({{< relref "../../../../roam/org/topics/llm_wiki.md" >}}): immutable raw sources, LLM-generated wiki pages, and a schema file (CLAUDE.md) that encodes structure and workflow; three operations: ingest, query, lint; stateful compounding alternative to RAG at personal/team scale
 -   2025-01-30  [Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223)
--   2026-06-03 ◦ [Claude Code]({{< relref "claude_code.md" >}}) — Anthropic's AI coding CLI; .claude/ directory as team infrastructure (CLAUDE.md conventions, shared slash commands, settings hooks); [Planner-Generator-Evaluator pattern]({{< relref "planner_generator_evaluator.md" >}}) as primary agentic workflow pattern
--   2026-06-12 ◦ [Claude Code skills]({{< relref "claude_code_skills.md" >}}) — community-shared reusable prompt definitions (GSD, Superpowers, /close, tonone multi-agent team, credential management); see also [Self-improving agents]({{< relref "self_improving_agents.md" >}}) and [Session context persistence]({{< relref "session_context_persistence.md" >}})
+-   2026-06-03 ◦ [Claude Code]({{< relref "../../../../roam/org/topics/claude_code.md" >}}) — Anthropic's AI coding CLI; .claude/ directory as team infrastructure (CLAUDE.md conventions, shared slash commands, settings hooks); [Planner-Generator-Evaluator pattern]({{< relref "../../../../roam/org/topics/planner_generator_evaluator.md" >}}) as primary agentic workflow pattern
+-   2026-06-12 ◦ [Claude Code skills]({{< relref "../../../../roam/org/topics/claude_code_skills.md" >}}) — community-shared reusable prompt definitions (GSD, Superpowers, /close, tonone multi-agent team, credential management); see also [Self-improving agents]({{< relref "../../../../roam/org/topics/self_improving_agents.md" >}}) and [Session context persistence]({{< relref "../../../../roam/org/topics/session_context_persistence.md" >}})
 -   2026-06-12 ◦ [LLM Council (Karpathy)](https://github.com/karpathy/llm-council) — multi-LLM decision framework for high-consequence choices; different models, different contexts, different failure modes; creative friction catches what a single model would miss
+-   2026-07-02 ◦ [Prompt Injection as Role Confusion (Ye et al.)](https://arxiv.org/html/2603.12277v6) — traces [prompt injection]({{< relref "prompt_injection.md" >}}) to [role confusion]({{< relref "role_confusion_llm.md" >}}): LLMs perceive roles by text style rather than structural tags; introduces role probes (mechanistic interpretability tools) and CoT Forgery attack achieving 60% ASR against frontier models
 
 
 ## LLM safety / guardrails {#llm-safety-guardrails}
@@ -140,7 +141,7 @@ draft = false
 
     Khoj is a desktop application to search and chat with your notes, documents
     and images. It is an offline-first, open source AI personal assistant
-    accessible from your [Emacs]({{< relref "emacs.md" >}}), Obsidian or Web browser. It works with jpeg,
+    accessible from your [Emacs]({{< relref "../../../../roam/org/topics/emacs.md" >}}), Obsidian or Web browser. It works with jpeg,
     markdown, notion, org-mode, pdf files and github repositories
 
 
