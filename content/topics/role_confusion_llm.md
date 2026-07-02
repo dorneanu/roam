@@ -92,8 +92,8 @@ Defenses that operate at the behavioral level (refusal training, RLHF) cannot fi
 
 -   [Prompt injection]({{< relref "prompt_injection.md" >}}) — the attack class that role confusion enables
 -   [Instruction hierarchy]({{< relref "instruction_hierarchy.md" >}}) — the privilege system undermined by role confusion
--   [Threat modeling]({{< relref "../../../../roam/org/topics/threat_modeling.md" >}}) — role confusion as a threat model dimension for LLM systems
--   [AI]({{< relref "../../../../roam/org/topics/ai.md" >}}) — broader context in AI security research
+-   [Threat modeling]({{< relref "threat_modeling.md" >}}) — role confusion as a threat model dimension for LLM systems
+-   [AI]({{< relref "ai.md" >}}) — broader context in AI security research
 
 
 ## Resources {#resources}
