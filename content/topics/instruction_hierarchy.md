@@ -35,8 +35,8 @@ In agentic deployments, the instruction hierarchy is the primary defense against
 
 -   — the representational failure that undermines the hierarchy
 -   [Prompt injection]({{< relref "prompt_injection.md" >}}) — the attack class that exploits hierarchy failures
--   [Threat modeling]({{< relref "../../../../roam/org/topics/threat_modeling.md" >}}) — hierarchy assumptions as a threat model dimension
--   [AI]({{< relref "../../../../roam/org/topics/ai.md" >}}) — LLM security context
+-   [Threat modeling]({{< relref "threat_modeling.md" >}}) — hierarchy assumptions as a threat model dimension
+-   [AI]({{< relref "ai.md" >}}) — LLM security context
 
 
 ## Resources {#resources}
