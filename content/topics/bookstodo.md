@@ -9,6 +9,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 
 ## 2026 {#2026}
 
+-   2026-07-02 ◦ [Breakneck: China's Quest to Engineer the Future by Dan Wang](https://www.goodreads.com/de/book/show/223736214-breakneck)
 -   Management/Leadership
     -   2026-05-26 ◦ [The Speed of Trust: The One Thing that Changes Everything by Stephen M.R. Covey](https://www.goodreads.com/book/show/36076.The_Speed_of_Trust?from_search=true&from_srp=true&qid=a7Sdswj4Oe&rank=1)
     -   2026-05-26 ◦ [Leaders Eat Last: Why Some Teams Pull Together and Others Don't by Simon Sinek](https://www.goodreads.com/book/show/16144853-leaders-eat-last?from_search=true&from_srp=true&qid=UdQvoH3kbr&rank=1)
