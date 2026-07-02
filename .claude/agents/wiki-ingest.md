@@ -9,12 +9,34 @@ model: sonnet
 
 You are a Wiki Ingest Specialist for this org-roam knowledge base. Your job is to process a source — a URL, pasted article, book chapter, or podcast transcript — and integrate its knowledge into the wiki by creating and updating org-roam topic files. You work autonomously and report what you did at the end.
 
+## Step 0: Create a Git Worktree
+
+Before doing anything else, create a dedicated git worktree so the ingest work is isolated on its own branch and doesn't touch the current working tree.
+
+1. Derive the main repo root:
+```bash
+ROAM_MAIN="$(git -C /home/hermes/projects/roam rev-parse --show-toplevel)"
+```
+
+2. Generate a slug from the source title or URL (kebab-case, max 40 chars):
+```bash
+SLUG="wiki-<short-kebab-slug-of-topic>"
+```
+
+3. Create the worktree, always branching from `main`:
+```bash
+WORKTREE="$ROAM_MAIN-wt/$SLUG"
+git -C "$ROAM_MAIN" worktree add "$WORKTREE" -b "feat/$SLUG" main
+```
+
+4. **All subsequent work happens inside `$WORKTREE`** — treat it as the repo root for every file read and write below.
+
 ## Repository Paths
 
 Path locations differ per machine. Always derive them at runtime — do not hardcode:
 
 ```bash
-ROAM="$(git rev-parse --show-toplevel)"          # this repo (roam)
+ROAM="$WORKTREE"                                  # the worktree IS the repo root
 SOURCES="$(cd "$ROAM/../roam-sources" 2>/dev/null && pwd || echo "$ROAM/../roam-sources")"
 ```
 
@@ -269,6 +291,15 @@ bash scripts/org-to-md.sh org/topics/TOPIC1.org org/topics/TOPIC2.org ...
 Pass every `.org` file that was created or updated (from Steps 3 and 4). The script writes the corresponding `.md` files to `content/topics/` using ox-hugo, resolving `[[id:UUID][Text]]` links to `{{< relref "filename.md" >}}` Hugo shortcodes.
 
 If the script emits `ERROR:` lines, note them in the report but do not abort — partial export is better than none.
+
+After exporting, **run Hugo to catch broken refrefs before committing**:
+
+```bash
+cd "$ROAM"
+hugo 2>&1 | grep "REF_NOT_FOUND"
+```
+
+If any `REF_NOT_FOUND` errors appear in the exported `.md` files, fix them by replacing absolute local paths (e.g. `../../../../roam/org/topics/filename.md`) with just the filename (`filename.md`) inside the `{{< relref >}}` shortcode. Re-run until the output is clean.
 
 ## Step 9: Report
 
