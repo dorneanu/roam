@@ -1,5 +1,6 @@
 +++
 title = "Threat Modeling"
+author = ["hermes"]
 draft = false
 +++
 
@@ -32,3 +33,8 @@ draft = false
 ### Docker {#docker}
 
 -   2023-01-11 ◦ [Docker Threat Model - CloudSecDocs](https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/)
+
+
+### LLM systems {#llm-systems}
+
+-   2026-07-02 ◦ [Prompt Injection as Role Confusion (Ye et al.)](https://arxiv.org/html/2603.12277v6) — [Prompt injection]({{< relref "prompt_injection.md" >}}) as a threat class for LLM-based systems: adversaries embed malicious instructions in low-privilege content (web pages, emails, tool outputs); the root mechanism is [role confusion]({{< relref "role_confusion_llm.md" >}}) — models perceive roles by text style rather than structural tags, defeating [instruction hierarchy]({{< relref "instruction_hierarchy.md" >}}) defenses; role probes can detect the attack before generation

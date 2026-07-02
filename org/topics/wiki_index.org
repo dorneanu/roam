@@ -32,6 +32,9 @@ Updated automatically on every ingest.
 - [[id:8fd21c64-2e57-41ae-b962-02f256b1e80c][Browser automation]] — programmatic browser control (Playwright, Puppeteer, Selenium) for AI agents; Playwright codegen, OCR pipeline (PDF→PNG→vision LLM→JSON), human-in-the-loop approval flows, secret management, and internal API discovery
 
 * Security
+- [[id:42edaa15-2e34-44c7-aa0e-e4fe32d68067][Prompt injection]] — attack class where adversaries embed malicious instructions in content processed by LLMs; exploits role confusion to bypass instruction hierarchy defenses; includes CoT Forgery (60% ASR against frontier models)
+- [[id:ba94d644-46d1-42b3-bb38-15b0b5cb50ec][Instruction hierarchy]] — privilege separation system for LLMs using role tags (system/user/tool); fails in practice because models perceive roles by text style rather than structural tags
+- [[id:a7cf523b-afd4-401b-bc40-2a8041fb8b80][Role confusion in LLMs]] — representational failure where LLMs identify "who is speaking" by text style rather than role tags; root cause of prompt injection; measurable via role probes in latent space
 - [[id:41423943-a291-4118-84e2-c18141afce41][Zero Trust]] — security model that eliminates implicit network trust; every request verified regardless of origin; replaces perimeter-based defenses
 - [[id:4a1f1ff3-31f8-4791-a854-b3a71fbd887e][Cloud Security]] — network, identity, and data protection patterns specific to cloud environments
 - [[id:cf5f68a0-d550-414f-8a29-dcfc4a1d82f5][XSS]] — Cross-Site Scripting: attacker injects scripts into trusted pages that execute in victims' browsers; impact, types, and prevention techniques
