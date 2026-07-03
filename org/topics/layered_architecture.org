@@ -9,6 +9,8 @@ The *layered* architecture style (also known as *n-tiered*) is one of the most c
 
 Risk: because it is familiar and requires no deliberate choice, developers who "just start coding" often end up implementing layered architecture by default — the *Architecture by Implication* antipattern.
 
+#+html: {{< gbox src="/img/fundamentals-software-architecture/layered-architecture.png" title="Layered Architecture topology" caption="4-layer stack (Presentation → Business → Persistence → DB), open/closed layers, Architecture Sinkhole antipattern bypass. Source: Richards & Ford, FSA 2E Ch.10" pos="left" >}}
+
 * Topology
 Four standard layers (though 3-layer and 5+-layer variants exist):
 

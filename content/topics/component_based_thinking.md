@@ -19,6 +19,8 @@ Logical components are manifested through **namespace or directory structures**.
 
 Bypassing the logical architecture to go directly to physical is a common mistake: it obscures where functionality lives and gives developers no guidance for structuring code.
 
+{{< gbox src="/img/fundamentals-software-architecture/component-identification.png" title="Component identification approaches" caption="Workflow vs Actor/Action approach vs Entity Trap antipattern decision flow. Source: Richards & Ford, FSA 2E Ch.8" pos="left" >}}
+
 
 ## Creating a logical architecture {#creating-a-logical-architecture}
 

@@ -9,6 +9,8 @@ The *pipeline* architecture (also known as *pipes and filters*) is one of the fu
 
 Isomorphic shape: *a single deployment unit with functionality contained within filters connected by unidirectional pipes.*
 
+#+html: {{< gbox src="/img/fundamentals-software-architecture/pipeline-architecture.png" title="Pipeline Architecture topology" caption="Producer → Transformer → Tester → Consumer with reject path. Source: Richards & Ford, FSA 2E Ch.12" pos="left" >}}
+
 While most implementations are monolithic, individual filters can be deployed as separate services (e.g. AWS Lambda functions), creating a distributed variant — at the cost of increased complexity.
 
 * Topology

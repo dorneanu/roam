@@ -9,6 +9,8 @@ The *modular monolith* architectural style is a *domain-partitioned* monolithic 
 
 Gained popularity after the first edition of /Fundamentals of Software Architecture/ (2020) due to widespread adoption of DDD and increased focus on domain partitioning. Added as a new chapter in the 2nd edition (2025).
 
+#+html: {{< gbox src="/img/fundamentals-software-architecture/modular-monolith.png" title="Modular Monolith Architecture topology" caption="Domain modules with isolated data stores inside one deployment unit, peer-to-peer inter-module communication. Source: Richards & Ford, FSA 2E Ch.11" pos="left" >}}
+
 In the layered architecture, a customer profile component lives at ~com.app.presentation.customer.profile~ — the third namespace node is a *technical* concern. In the modular monolith, it lives at ~com.app.customer.profile~ — the third node is a *domain* concern. Technical concerns (presentation, business) may still exist as nested sub-namespaces under the domain.
 
 * Structural options

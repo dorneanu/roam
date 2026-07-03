@@ -9,7 +9,11 @@ draft = false
 
 The **modular monolith** architectural style is a _domain-partitioned_ monolithic architecture: a single deployment unit where functionality is grouped by domain rather than technical capability. Its isomorphic shape: _a single deployment unit with functionality grouped by domain area._
 
-Added to _Fundamentals of Software Architecture_ 2nd edition (2025) due to the surge in popularity driven by DDD adoption. In the layered architecture, a customer profile component lives at `com.app.presentation.customer.profile` (third node = technical concern). In the modular monolith, it lives at `com.app.customer.profile` (third node = domain concern).
+Added to _Fundamentals of Software Architecture_ 2nd edition (2025) due to the surge in popularity driven by DDD adoption.
+
+{{< gbox src="/img/fundamentals-software-architecture/modular-monolith.png" title="Modular Monolith Architecture topology" caption="Domain modules with isolated data stores inside one deployment unit, peer-to-peer inter-module communication. Source: Richards & Ford, FSA 2E Ch.11" pos="left" >}}
+
+In the layered architecture, a customer profile component lives at `com.app.presentation.customer.profile` (third node = technical concern). In the modular monolith, it lives at `com.app.customer.profile` (third node = domain concern).
 
 
 ## Structural options {#structural-options}

@@ -1,0 +1,134 @@
+:PROPERTIES:
+:ID:       bb492553-035c-432c-9118-f38a8ae05c02
+:END:
+#+created: 20260703
+#+filetags: :software:architecture:
+#+title: Microkernel Architecture
+
+* Overview
+
+The *microkernel* architecture style (also called *plug-in architecture*) is a monolithic style built around two components: a **core system** and independent **plug-in components**. Its defining strength is isolating volatile, customisable behaviour into plug-ins while keeping the core stable.
+
+Natural fit for: product-based software installed on customer sites, any domain requiring per-client or per-jurisdiction customisation.
+
+#+html: {{< gbox src="/img/fundamentals-software-architecture/microkernel-architecture.png" title="Microkernel Architecture topology — core system + plugin registry + plugins" caption="Core system (layered internally) + plugin registry + compile-based and runtime-based plugins. Source: Richards & Ford, FSA 2E Ch.13" pos="left" >}}
+
+
+* Core System
+
+Formally: the *minimal functionality* required to run the system, or equivalently the *happy path* — the general processing flow with little or no custom logic.
+
+- Cyclomatic complexity is deliberately removed from the core and delegated to plug-ins
+- Internally the core can be structured as a [[id:76d25ba9-9b76-43dc-b4aa-f9798664eb8a][Layered Architecture]] or a [[id:be34e778-5ba2-4d85-a34e-be2437b639e7][Modular Monolith Architecture]]
+- The Presentation layer can be embedded in the core or implemented as a separate UI
+
+*Going Green example* (from [[id:0419266b-0144-463a-9bed-6666a95bdd41][Architecture Quantum]] chapter): ~assessDevice()~ replaces a sprawling if/else chain with a registry lookup that generically invokes the right plug-in.
+
+
+* Plug-in Components
+
+Standalone, independent components with **no inter-plugin dependencies** (ideally). Two deployment modes:
+
+| Mode | Description | Frameworks |
+|---|---|---|
+| Compile-based | JAR / DLL / Gem; redeployment required to add/remove | none needed |
+| Runtime-based | added/removed without redeploying core | OSGi, Jigsaw (Java); Prism (.NET) |
+
+Implementation forms:
+- Shared library (JAR, DLL, Gem) — point-to-point method invocation
+- Package / namespace (~app.plug-in.<domain>.<context>~) — same codebase
+- Remote service (REST/messaging) — better decoupling, turns system distributed
+
+
+* Registry
+
+The core maintains a *plug-in registry* mapping plugin name → implementation reference (class name, queue name, or REST URL).
+
+#+begin_src java
+registry.put("iPhone6s", "Iphone6sPlugin");        // point-to-point
+registry.put("iPhone6s", "iphone6s.queue");        // messaging
+registry.put("iPhone6s", "https://atlas/assess");  // REST
+#+end_src
+
+Can be a simple in-memory ~HashMap~, or an external tool (Apache ZooKeeper, Consul).
+
+
+* Contracts
+
+Standard Java interface (or JSON/XML schema) defines expected behaviour and data:
+
+#+begin_src java
+public interface AssessmentPlugin {
+    AssessmentOutput assess();
+    String register();
+    String deregister();
+}
+#+end_src
+
+Third-party plug-ins that can't conform to the standard contract get an *adapter* so the core remains contract-uniform.
+
+
+* "Microkern-ality" Spectrum
+
+Not all systems with plug-ins are true microkernels. The spectrum runs from *pure* (Eclipse IDE: core is just a text editor, all value in plug-ins) to *plug-in-supporting* (web browser: fully functional without plug-ins). Volatility of the core is the key indicator.
+
+
+* Data Topology
+
+- Core owns the shared relational database; plug-ins receive data via the core, not direct DB access
+- Plug-ins may own their own private data stores (embedded DB, rules engine) — decouples schema changes from plug-in logic
+
+
+* Common Risks
+
+1. *Volatile core* — if the core changes frequently, the main benefit (stable core, volatile plug-ins) is lost; requires refactoring
+2. *Plug-in dependencies* — plug-ins that depend on each other create transitive dependency management hell; avoid inter-plugin coupling
+3. *Remote plug-ins* — REST/messaging plug-ins add latency on every invocation; high-frequency plug-in calls accumulate unacceptable overhead if distributed
+
+
+* Governance
+
+Fitness functions to monitor:
+- Churn rate of the core (version-control check) — core should be near-static
+- Contract tests across plug-in versions
+- Structural topology checks (no direct inter-plugin calls)
+
+
+* Team Topology
+
+| Team type | Role |
+|---|---|
+| Stream-aligned | builds core + domain-owned plug-ins |
+| Enabling | A/B tests and experiments live in plug-ins — ideal fit |
+| Complicated-subsystem | analytics / specialised plug-ins |
+| Platform | operational concerns for the monolithic deployment |
+
+
+* Characteristics Scorecard
+
+Shared with [[id:76d25ba9-9b76-43dc-b4aa-f9798664eb8a][Layered Architecture]] in cost / simplicity strengths and scalability / fault-tolerance weaknesses (always 1 architecture quantum — all requests route through core).
+
+Unique strengths above layered: testability ★★★, deployability ★★★, modularity ★★★, evolvability ★★★ — because plug-ins are independently testable and addable/removable.
+
+Unique property: the *only* architecture style that can be simultaneously technically partitioned AND domain partitioned.
+
+
+* When to Use
+
+- Product software requiring per-client customisation (tax prep, insurance claims, IDE tools)
+- Domains with many jurisdictional rule variations (US states, international shipping)
+- Any domain where adding / removing features is more common than changing core flow
+
+Real-world examples: Eclipse IDE, JetBrains IDEs, PMD, Jira, Jenkins, Chrome/Firefox (browser plug-ins), WildFly application server, US tax-preparation software, insurance claims processing.
+
+
+* When Not to Use
+
+- High scalability, elasticity, or fault-tolerance requirements (monolithic deployment)
+- Workflows needing asynchronous, non-deterministic processing → prefer [[id:babd38a4-b1a5-4b3c-a504-9534db93ef0a][Event-Driven Architecture]]
+- Frequent core changes — defeats the main value proposition
+
+
+* Resources
+
+- 2026-06-30 ◦ [[file:~/repos/priv/roam-sources/books/2026/richards-ford_fundamentals-software-architecture-2e/full-book.md][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 13: core system (minimal functionality / happy path), plug-in components (compile vs runtime, point-to-point vs remote), plug-in registry, contracts & adapters, "microkern-ality" spectrum, data topology, three common risks (volatile core / plug-in deps / remote latency), governance fitness functions, team topologies, characteristics scorecard, Eclipse IDE and insurance-claims real-world examples

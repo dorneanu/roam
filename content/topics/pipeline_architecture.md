@@ -11,6 +11,8 @@ The **pipeline** architecture (also known as **pipes and filters**) is one of th
 
 Isomorphic shape: _a single deployment unit with functionality contained within filters connected by unidirectional pipes._
 
+{{< gbox src="/img/fundamentals-software-architecture/pipeline-architecture.png" title="Pipeline Architecture topology" caption="Producer → Transformer → Tester → Consumer with reject path. Source: Richards & Ford, FSA 2E Ch.12" pos="left" >}}
+
 
 ## Topology {#topology}
 

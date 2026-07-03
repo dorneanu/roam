@@ -9,6 +9,10 @@ draft = false
 
 An **architecture quantum** is the smallest part of a system that can run independently — establishing the scope for a set of architectural characteristics. The concept was introduced in _Building Evolutionary Architectures_ and elaborated in _Fundamentals of Software Architecture, 2E_ to provide a measure of structural evolvability.
 
+{{< gbox src="/img/fundamentals-software-architecture/arch-quantum-properties.png" title="Architecture Quantum — four defining properties" caption="Independent deployability, high functional cohesion, low static coupling, synchronous communication. Source: Richards & Ford, FSA 2E Ch.7" pos="left" >}}
+
+{{< gbox src="/img/fundamentals-software-architecture/arch-quantum-coupling.png" title="Architecture Quantum — coupling taxonomy" caption="Static / dynamic / implementation / semantic coupling and how they manifest. Source: Richards & Ford, FSA 2E Ch.7" pos="left" >}}
+
 An architecture quantum has four defining properties:
 
 1.  **Independent deployment** — includes all necessary components to function without other quanta; a shared database means a quantum of one.

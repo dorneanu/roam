@@ -35,6 +35,7 @@ Updated automatically on every ingest.
 - [[id:76d25ba9-9b76-43dc-b4aa-f9798664eb8a][Layered Architecture]] — technically partitioned monolith; 4 layers (Presentation/Business/Persistence/Database); layers of isolation (open/closed); Architecture Sinkhole antipattern; ArchUnit governance; best for small/simple systems
 - [[id:be34e778-5ba2-4d85-a34e-be2437b639e7][Modular Monolith Architecture]] — domain-partitioned monolith; monolithic vs modular structure options; peer-to-peer vs mediator module communication; ArchUnit module governance; good starting point before distributed migration
 - [[id:b4df8c80-87f0-4b85-9a07-c3e6eb7def87][Pipeline Architecture]] — pipes and filters; 4 filter types (Producer/Transformer/Tester/Consumer); unidirectional pipes; AWS Step Functions cloud deployment; Knuth vs McIlroy story; ETL/EDI/orchestration use cases
+- [[id:bb492553-035c-432c-9118-f38a8ae05c02][Microkernel Architecture]] — core system (happy path) + independent plug-in components; plug-in registry; compile-based (JAR/DLL) vs runtime-based (OSGi) plugins; contracts &amp; adapters; "microkern-ality" spectrum; Eclipse IDE / Jira / Jenkins / insurance claims use cases
 - [[id:8fd21c64-2e57-41ae-b962-02f256b1e80c][Browser automation]] — programmatic browser control (Playwright, Puppeteer, Selenium) for AI agents; Playwright codegen, OCR pipeline (PDF→PNG→vision LLM→JSON), human-in-the-loop approval flows, secret management, and internal API discovery
 
 * Security

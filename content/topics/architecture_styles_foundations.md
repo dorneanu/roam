@@ -11,6 +11,8 @@ An **architectural style** describes a named set of characteristics that define 
 
 Architecture styles emerge bottom-up from the ecosystem. Microservices is the canonical example — it named an emergent approach, not a specification.
 
+{{< gbox src="/img/fundamentals-software-architecture/arch-styles-partitioning.png" title="Technical vs Domain Partitioning" caption="Technical partitioning (layers) vs domain partitioning (components per domain). Source: Richards & Ford, FSA 2E Ch.9" pos="left" >}}
+
 
 ## Fundamental patterns {#fundamental-patterns}
 
