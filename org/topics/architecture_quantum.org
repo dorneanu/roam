@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       0419266b-0144-463a-9bed-6666a95bdd41
+:END:
+#+title: Architecture Quantum
+#+filetags: :software:architecture:
+
+* Overview
+An *architecture quantum* is the smallest part of a system that can run independently — establishing the scope for a set of architectural characteristics. The concept was introduced in /Building Evolutionary Architectures/ (Ford, Richards, Parsons) and elaborated in /Fundamentals of Software Architecture, 2E/ to provide a measure of structural evolvability.
+
+The informal definition: "the smallest part of the system that runs independently." Microservices often form architecture quanta because each service can run independently with its own data and dependencies.
+
+An architecture quantum has four defining properties:
+
+1. *Independent deployment* — it includes all necessary components to function without other quanta; a shared database means a quantum of one.
+2. *High functional cohesion* — it does something purposeful; each quantum typically maps to a bounded context.
+3. *Low external implementation static coupling* — quanta should have few dependencies on one another; tight coupling is acceptable within a quantum, but broad-scope coupling should be loose.
+4. *Synchronous communication* — quanta communicate synchronously when calling each other; async (via message queues) has less operational impact because the queue acts as a buffer.
+
+The rule of thumb: *higher coupling is allowed for narrower scopes; the broader the scope, the looser the coupling should be.*
+
+* Types of coupling
+
+** Semantic coupling
+The natural coupling of the problem domain — changes to the domain requirements ripple through the architecture regardless of how it's structured. No architecture pattern can prevent domain changes from having some impact.
+
+** Implementation coupling
+How the team decides to implement dependencies — single database vs split data, monolith vs distributed. This has little effect on semantic coupling but greatly affects architectural decisions.
+
+** Static coupling
+The structural "wiring" of an architecture: which services depend on which others. Two services are part of the same quantum if they share a static dependency (e.g. the same relational database). Changing one statically coupled component might break the other.
+
+** Dynamic coupling
+The forces involved when quanta communicate at runtime. Synchronous calls (REST, RPC) create tighter dynamic coupling than asynchronous calls (message queues, event buses). Covered in depth in event-driven architecture.
+
+* Bounded contexts and DDD
+The architecture quantum concept aligns with Eric Evans's /Domain-Driven Design/ concept of the *bounded context*: everything related to a domain portion is visible internally but opaque externally. DDD discourages shared entities across bounded contexts — each context owns its own ~Customer~ class and reconciles at communication points.
+
+Quantum boundaries often map to bounded contexts. This is why the DDD philosophy drives microservices architecture: each service is its own quantum with its own database, maximising per-service operational characteristics.
+
+* Using quanta to choose an architecture style
+The "Going Green" kata illustrates quantum-based style selection. Analysing the domain yields three clusters of architectural characteristics:
+- *Public-facing* (kiosks/website): scalability, availability, agility
+- *Back-office*: security, data integrity, auditability
+- *Assessment engine*: maintainability, deployability, testability (fast update cycle for high-value device resale)
+
+These three clusters map to three separate quanta — each with different characteristics that would be difficult to satisfy in a single architecture. The quantum scope guides the service boundary decision: *use clusters of architectural characteristics as a guide for separating quanta.*
+
+Decision flow for choosing architecture style:
+1. Does the system need multiple groups of characteristics? → Yes: distributed; No: monolithic
+2. If distributed: determine quantum boundaries from characteristic clusters
+3. Choose persistence topology (shared database vs per-service)
+4. Choose communication style: synchronous or asynchronous (affects quantum boundaries)
+
+* Cloud considerations
+Cloud resources complicate quantum scoping because they encapsulate many operational characteristics. Two scenarios:
+- *Cloud as container host*: architects must consider the characteristics of the containers plus the constraints of the orchestration tool (e.g. Kubernetes)
+- *Cloud-provider resources as components*: architects look at the capabilities the cloud provider advertises for building-block services (functions, databases, etc.)
+
+* Related topics
+- [[id:f9912f2f-5861-469f-816e-0765a78687b1][Architectural characteristics]] — quanta establish the scope for which characteristics apply
+- [[id:7c4e66f6-ce2d-441b-8c33-51ba6aec412c][DDD]] — bounded context is the domain-modelling analogue of the architecture quantum
+- [[id:e3ea3021-3adb-4611-abca-ce0cce3cb27c][Coupling]] — static and dynamic coupling directly determine quantum boundaries
+- [[id:4b4d8324-afd8-49ff-9f19-b5bde5b02022][Modularity]] — quanta operate one level of abstraction above components
+
+* Resources
+- 2026-06-30 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 7: architecture quantum definition (four properties), DDD bounded context sidebar, semantic/implementation/static/dynamic coupling taxonomy, quantum-based decision tree for architecture style, Going Green kata (three quanta from three characteristic clusters), cloud scoping considerations

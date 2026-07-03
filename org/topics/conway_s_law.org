@@ -2,10 +2,32 @@
 :ID:       63fda29f-26cb-4518-9336-10e7c24807cb
 :END:
 #+title: Conway's Law
+#+filetags: :software:architecture:
 
-  #+begin_quote
-  "Organizations which design systems are constrained to produce designs which are copies of the communication structures of the organization" - Melvin Conway
-  #+end_quote
+#+begin_quote
+Organizations which design systems are constrained to produce designs which are copies of the communication structures of those organizations.
+— Melvin Conway, 1968
+#+end_quote
+
+* Overview
+Conway's Law is the observation that technical artifacts reflect the communication structures of the teams that build them. A layered architecture naturally emerges from organisations where UI, backend, and database teams sit in separate departments — because that's how those teams communicate.
+
+The law works in both directions: architecture choice reinforces team structure (layered → technical silos) and team structure reinforces architecture choice. This feedback loop is why changing one without changing the other rarely works.
+
+* Inverse Conway Maneuver
+Coined by Jonny Leroy of Thoughtworks: *deliberately evolve team structures to promote the desired architecture.* If you want microservices, form small cross-functional teams aligned to services before you split the system. If you form the teams right, the architecture will follow.
+
+This insight is now commonly known as *team topologies* — the study of how team communication patterns and system architectures co-evolve. The book /Team Topologies/ (Skelton & Pais, 2019) formalises this into four team types: stream-aligned, enabling, complicated-subsystem, and platform.
+
+* Implications for architecture partitioning
+- *Technical partitioning* (layered architecture) naturally pairs with technically-organised teams (UI team, backend team, DBA team). Conway's Law reinforces this: teams communicate across technical boundaries, so the architecture mirrors those boundaries.
+- *Domain partitioning* (modular monolith, microservices) requires and reinforces cross-functional teams aligned to business domains. The Inverse Conway Maneuver says: if you want domain-partitioned architecture, form domain-aligned teams first.
 
 * Articles
-- [[https://www.innoq.com/de/articles/2022/08/conway-hat-immer-recht/][Conway hat immer Recht]] (german)
+- [[https://www.innoq.com/de/articles/2022/08/conway-hat-immer-recht/][Conway hat immer Recht]] (German)
+
+* Related topics
+- [[id:babd38a4-b1a5-4b3c-a504-9534db93ef0a][Architecture Styles — Foundations]] — technical vs domain partitioning and Conway's Law implications
+
+* Resources
+- 2026-06-30 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 9: Conway's Law sidebar with Inverse Conway Maneuver (Jonny Leroy) and team topologies link

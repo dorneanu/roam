@@ -2,8 +2,104 @@
 :ID:       76d25ba9-9b76-43dc-b4aa-f9798664eb8a
 :END:
 #+title: Layered Architecture
+#+filetags: :software:architecture:
 
-* closely related to
-** [[id:80e941ee-afde-4aa9-b431-2df4e58a8cec][Hexagonal Architecture]]
-** and Uncle Bob's [[id:99c0a83f-1de0-42b1-9c19-384d93154d14][Clean Architecture]]
-* defines an application composed of *horizontal layers*
+* Overview
+The *layered* architecture style (also known as *n-tiered*) is one of the most common architecture styles — the de facto standard for many legacy applications due to its simplicity, familiarity, and low cost. It is a *technically partitioned* architecture: components are separated by technical role (Presentation, Business, Persistence, Database) rather than domain.
+
+Risk: because it is familiar and requires no deliberate choice, developers who "just start coding" often end up implementing layered architecture by default — the *Architecture by Implication* antipattern.
+
+* Topology
+Four standard layers (though 3-layer and 5+-layer variants exist):
+
+1. *Presentation* — handles UI and browser communication logic
+2. *Business* — executes business rules against data from the Persistence layer
+3. *Persistence* — maps object hierarchies to/from the database (ORM, SQL)
+4. *Database* — the database server itself
+
+Physical deployment variants:
+- Presentation + Business + Persistence in one deployment unit; Database separate (most common)
+- Presentation in its own deployment unit; Business + Persistence in another; Database separate
+- All four layers in one deployment unit (embedded database; mobile apps, on-prem products)
+
+* Layers of isolation
+Each layer can be *open* or *closed*:
+- *Closed layer*: requests must pass through this layer; cannot be skipped
+- *Open layer*: requests may bypass this layer
+
+The *layers of isolation* principle: changes in one layer don't impact others, as long as contracts between layers are unchanged. This requires the main request-handling layers to be *closed* — otherwise Presentation → Persistence shortcuts couple them directly, making the architecture brittle.
+
+Adding a layer: if shared objects in the Business layer need to be accessible to Services but not to Presentation, add an open *Services layer* beneath Business. Marking it open allows Business to either use it or bypass it.
+
+Failure to document which layers are open/closed (and why) results in tightly coupled, brittle architectures.
+
+** Architecture Sinkhole antipattern
+Occurs when requests are simply passed from layer to layer with no business logic performed — just object instantiation and SQL passthrough. Some sinkholes are normal; the 80-20 rule applies. If >80% of requests are sinkholes, layered architecture may not be the right style. One solution: open all layers (sacrificing isolation).
+
+* Data topology
+Traditionally pairs with a single monolithic database. The Persistence layer handles ORM mapping.
+
+* Cloud considerations
+Limited cloud benefit: layered architectures are monolithic and technically partitioned. Layers can be deployed via cloud providers, but communication latency between on-premises and cloud can be problematic since workflows traverse most layers.
+
+* Common risks
+- *No fault tolerance*: one out-of-memory failure crashes the entire deployment unit
+- *High MTTR*: startup times range from 2 to 15+ minutes for large monoliths
+- *Holistic agility degrades with size*: as the monolith grows, deployability, testability, and maintainability all worsen
+
+* Governance
+Well-supported by structural testing tools. ArchUnit (Java) example:
+
+#+begin_src java
+layeredArchitecture()
+    .layer("Controller").definedBy("..controller..")
+    .layer("Service").definedBy("..service..")
+    .layer("Persistence").definedBy("..persistence..")
+    .whereLayer("Controller").mayNotBeAccessedByAnyLayer()
+    .whereLayer("Service").mayOnlyBeAccessedByLayers("Controller")
+    .whereLayer("Persistence").mayOnlyBeAccessedByLayers("Service")
+#+end_src
+
+Equivalent tools: NetArchTest (.NET).
+
+* Characteristics scorecard (1-5 stars)
+| Characteristic   | Rating |
+|------------------+--------|
+| Cost             | ★★★★★  |
+| Simplicity       | ★★★★★  |
+| Deployability    | ★      |
+| Testability      | ★★     |
+| Scalability      | ★      |
+| Elasticity       | ★      |
+| Fault tolerance  | ★      |
+| Responsiveness   | ★★★    |
+
+Lowest cost and simplest of all styles. Ratings degrade as the monolith grows. Deployability is one-star because even a three-line change requires a full redeployment. Testability is two-star because layer mocking is possible. Scalability/elasticity one-star because the monolith can't scale parts independently (quantum = always 1).
+
+* When to use
+- Small, simple applications or websites
+- Very tight budget and time constraints
+- Starting point when architects are still evaluating more complex styles
+- Teams that need to deliver something quickly and can accept technical debt
+
+Keep code reuse minimal and inheritance hierarchies shallow to make future migration easier.
+
+* When not to use
+- Large applications where maintainability, agility, testability, and deployability are important
+- Anything requiring high scalability, elasticity, or fault tolerance
+
+* Examples
+- Operating system layer models (hardware → kernel → syscall interface → user layer)
+- OSI / TCP-IP networking model (physical → data link → network → transport → application)
+- Any organisation trying to ship quickly with available resources (feasibility-driven)
+
+* Related topics
+- [[id:babd38a4-b1a5-4b3c-a504-9534db93ef0a][Architecture Styles — Foundations]] — technical partitioning as the organising principle
+- [[id:be34e778-5ba2-4d85-a34e-be2437b639e7][Modular Monolith Architecture]] — the domain-partitioned alternative monolith
+- [[id:b4df8c80-87f0-4b85-9a07-c3e6eb7def87][Pipeline Architecture]] — another technically partitioned monolith
+- [[id:953cf8e0-8716-4288-a304-08be0f5c6931][Fitness functions]] — ArchUnit layered architecture fitness function is the canonical example
+- [[id:80e941ee-afde-4aa9-b431-2df4e58a8cec][Hexagonal Architecture]] — ports & adapters alternative to layering
+- [[id:99c0a83f-1de0-42b1-9c19-384d93154d14][Clean Architecture]] — Uncle Bob's variant of layered thinking
+
+* Resources
+- 2026-06-30 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 10: four-layer topology, physical deployment variants, layers of isolation (open vs closed), Architecture Sinkhole antipattern (80-20 rule), ArchUnit governance example, characteristics scorecard (1-5 stars), when to use/not use, OS and OSI model as real-world examples

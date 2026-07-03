@@ -1,0 +1,115 @@
+:PROPERTIES:
+:ID:       b4df8c80-87f0-4b85-9a07-c3e6eb7def87
+:END:
+#+title: Pipeline Architecture
+#+filetags: :software:architecture:
+
+* Overview
+The *pipeline* architecture (also known as *pipes and filters*) is one of the fundamental monolithic architecture styles. Most developers know it as the underlying principle behind Unix shell languages (Bash, Zsh). Functional programmers recognize it in map/reduce abstractions. ETL tools, EDI transformations, and workflow orchestrators all use this pattern.
+
+Isomorphic shape: *a single deployment unit with functionality contained within filters connected by unidirectional pipes.*
+
+While most implementations are monolithic, individual filters can be deployed as separate services (e.g. AWS Lambda functions), creating a distributed variant — at the cost of increased complexity.
+
+* Topology
+
+** Filters
+Filters are self-contained, stateless components that perform *one specific function* on the data. Each filter is a component (possibly multiple class files). Four types:
+
+- *Producer*: the starting point, outbound only (also called "source"). Examples: UI, external request receiver, Kafka subscriber.
+- *Transformer*: accepts input, optionally transforms some or all data, forwards to next pipe. Functional equivalent: map. Examples: data enrichment, format conversion, calculation.
+- *Tester*: accepts input, tests against criteria, conditionally forwards output. Functional equivalent: reduce/filter. Examples: data validation, conditional routing ("don't forward if order < $5").
+- *Consumer*: the termination point. Examples: persist result to database, display on UI.
+
+Compositional power — the Knuth/McIlroy story:
+Donald Knuth wrote 10+ pages of Pascal to find the /n/ most frequent words in a file. Doug McIlroy solved the same problem with a Unix shell pipeline that fits in a tweet:
+#+begin_src sh
+tr -cs A-Za-z '\n' | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q
+#+end_src
+
+** Pipes
+Pipes form the communication channel between filters. Properties:
+- Unidirectional and point-to-point
+- Payload can be any format; prefer smaller payloads for performance
+- In distributed deployments: REST, messaging, streaming, or RPC calls
+- Can be synchronous or asynchronous (threads or embedded messaging in monolithic deployments)
+
+* Data topologies
+Most implementations use a single monolithic database, but data topology varies widely — each filter can have its own database. Example: a continuous fitness function pipeline with separate databases for raw data, configuration, analytics, and output.
+
+* Cloud deployments
+Well suited for cloud due to high modularity. Options:
+- Deploy all filters in one deployment unit (simplest)
+- AWS Step Functions: each filter as a separate Lambda; Standard (exactly-once) or Express (at-least-once) workflows
+- Filters as serverless functions, containerized services, or a mix
+
+* Common risks
+1. *Overloaded filters*: filters accumulate too much responsibility, violating the one-task rule and turning the architecture into an unstructured monolith
+2. *Bidirectional pipes*: pipes must be unidirectional; if back-and-forth communication is needed, consider event-driven architecture instead
+3. *Error handling*: hard to recover from mid-pipeline errors; define all fatal error conditions before finalising the architecture
+4. *Contract drift*: each pipe has a contract (data format + types); changing a contract requires strict governance and regression testing of downstream filters
+
+* Governance
+Governance for structural compliance uses *tags* (Java annotations, C# custom attributes):
+
+#+begin_src java
+// Tag definition
+public @interface Filter {
+    public FilterType[] value();
+    public enum FilterType { PRODUCER, TESTER, TRANSFORMER, CONSUMER }
+}
+
+// Usage on filter entry point
+@FilterEntrypoint
+@Filter(FilterType.TRANSFORMER)
+public class TrendAnalyzerFilter { ... }
+#+end_src
+
+Tags don't enforce behaviour but provide metadata that:
+- Communicates intent to developers
+- Can be queried by automated governance tools
+- Helps prevent developers from adding wrong-type behaviour to a filter
+
+* Characteristics scorecard (1-5 stars)
+| Characteristic   | Rating |
+|------------------+--------|
+| Cost             | ★★★★★  |
+| Simplicity       | ★★★★★  |
+| Modularity       | ★★★★   |
+| Deployability    | ★★★    |
+| Testability      | ★★★    |
+| Scalability      | ★      |
+| Elasticity       | ★      |
+| Fault tolerance  | ★      |
+
+Primary strengths: cost and simplicity (monolithic, no distributed overhead), good modularity (filters are interchangeable). Deployability and testability rate slightly higher than layered architecture because filters are independently modifiable. Operational characteristics (scalability, elasticity, fault tolerance) are one-star due to monolithic deployment — but can be significantly improved by distributing filters asynchronously (at the cost of simplicity and cost).
+
+Technical partitioning (filter types). Architecture quantum is always 1 (monolithic deployment).
+
+* When to use
+- Systems with distinct, ordered, deterministic one-way processing steps
+- ETL (extract, transform, load) pipelines
+- EDI (electronic data interchange) transformations
+- Workflow orchestration (Apache Camel)
+- Tight time/budget constraints
+- Service telemetry ingestion and analysis
+
+* When not to use
+- High scalability, elasticity, or fault tolerance requirements (unless willing to pay distributed architecture costs)
+- Non-deterministic workflows or scenarios requiring bidirectional filter communication → use event-driven architecture instead
+- Overuse of tester filters for branching makes the pipeline overly complex and hurts maintainability
+
+* Team topology fit
+Works with any team configuration. Best pairings:
+- *Stream-aligned teams*: own the full flow end-to-end
+- *Enabling teams*: can inject new filters without disrupting existing flow
+- *Complicated-subsystem teams*: each filter's narrow scope lets specialists focus independently
+
+* Related topics
+- [[id:babd38a4-b1a5-4b3c-a504-9534db93ef0a][Architecture Styles — Foundations]] — technical partitioning, monolithic family
+- [[id:76d25ba9-9b76-43dc-b4aa-f9798664eb8a][Layered Architecture]] — the other common technically-partitioned monolith
+- [[id:be34e778-5ba2-4d85-a34e-be2437b639e7][Modular Monolith Architecture]] — domain-partitioned monolith; contrasts with pipeline's technical partitioning
+- [[id:953cf8e0-8716-4288-a304-08be0f5c6931][Fitness functions]] — continuous fitness function pipeline is a canonical pipeline architecture example
+
+* Resources
+- 2026-06-30 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 12: four filter types (producer/transformer/tester/consumer), Knuth vs McIlroy story, unidirectional pipes, data topology variants, AWS Step Functions cloud deployment, four common risks (overloaded filters, bidirectional pipes, error handling, contract drift), tags/annotations for governance, characteristics scorecard, Kafka telemetry pipeline example, when to use/not use
