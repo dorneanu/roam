@@ -45,7 +45,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 - 2025-01-06 ◦ [[https://www.goodreads.com/book/show/67896.Tao_Te_Ching][Tao Te Ching by Lao Tzu ]]
 - 2025-01-06 ◦ [[https://www.goodreads.com/book/show/32336635-the-enigma-of-reason][The Enigma of Reason by Hugo Mercier ]]
 * 2024
-- 2024-11-22 ◦ [[https://www.goodreads.com/book/show/60878390-earth-for-all?from_search=true&from_srp=true&qid=Iy5nhrUUux&rank=1][Earth for All: A Survival Guide for Humanity by Sandrine Dixson-Decleve ]]
+- ✅ 2024-11-22 ◦ [[https://www.goodreads.com/book/show/60878390-earth-for-all?from_search=true&from_srp=true&qid=Iy5nhrUUux&rank=1][Earth for All: A Survival Guide for Humanity by Sandrine Dixson-Decleve ]]([[id:30A94450-8170-45B0-B3A7-4BEA7DF7A4AD][notes]])
 - 2024-10-08 ◦ [[https://www.goodreads.com/book/show/60690050-engineering-in-plain-sight][Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment by Grady Hillhouse ]]
 - 2024-06-19 ◦ [[https://www.goodreads.com/book/show/37901578-26-marathons][26 Marathons: What I Learned About Faith, Identity, Running, and Life from My Marathon Career by Meb Keflezighi ]]
 - 2024-06-19 ◦ [[https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running][What I Talk About When I Talk About Running by Haruki Murakami ]]
@@ -56,14 +56,14 @@ This is my personal book TODO list, along with the year in which I added the boo
 - 2023-01-24 ◦ [[https://www.goodreads.com/book/show/396931.The_Origins_of_Totalitarianism][The Origins of Totalitarianism by Hannah Arendt]]
 - ✅ 2023-01-25 ◦ [[https://www.goodreads.com/en/book/show/50998056-the-ministry-for-the-future][The Ministry for the Future by Kim Stanley Robinson]]
 - 2023-02-02 ◦ [[https://www.goodreads.com/book/show/13542827-words-can-change-your-brain][Words Can Change Your Brain: 12 Conversation Strategies to Build Trust, Resolve Conflict, and Increase Intimacy by Andrew B. Newberg ]]
-- 2023-02-02 ◦ [[https://www.goodreads.com/book/show/11324722-the-righteous-mind][The Righteous Mind: Why Good People Are Divided by Politics and Religion by Jonathan Haidt ]]
+- ✅ 2023-02-02 ◦ [[https://www.goodreads.com/book/show/11324722-the-righteous-mind][The Righteous Mind: Why Good People Are Divided by Politics and Religion by Jonathan Haidt ]] ([[id:0BA37850-60E5-4A36-A074-5BAA2C1FB7C5][notes]])
 - 2023-10-31 ◦ [[https://www.goodreads.com/en/book/show/35804366][Jaws: The Story of a Hidden Epidemic by Sandra Kahn ]]
 - 2023-10-31 ◦ [[https://www.impromptubook.com/][Impromptu :: Amplifying Our Humanity Through AI]]
 * 2022
 - 2022-09-07 ◦ [[https://www.goodreads.com/book/show/26312997-peak][Peak: Secrets from the New Science of Expertise by K. Anders Ericsson]]
 - 2022-09-12 ◦ [[https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/][Learning Domain-Driven Design [Book]]] ([[id:7c4e66f6-ce2d-441b-8c33-51ba6aec412c][DDD]])
 - 2022-09-12 ◦ [[https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture][Fundamentals of Software Architecture: An Engineering Approach by Mark Richards]]
-- 2022-09-12 ◦ [[https://teamtopologies.com/][Team Topologies]]
+- ✅ 2022-09-12 ◦ [[https://teamtopologies.com/][Team Topologies]] ([[id:0ED70037-0B89-4EDB-8C29-9CA0A09FD365][notes]])
 - 2022-09-12 ◦ [[https://www.thisisservicedesigndoing.com/][This is Service Design Doing — Book / School / Methods]]
 - 2022-09-12 ◦ [[https://itrevolution.com/the-unicorn-project/][The Unicorn Project | by Gene Kim (author of The Phoenix Project)]]
 - 2022-09-12 ◦ [[https://hookpoint.com/the-book/][The Book | HOOKPOINT]]
@@ -90,8 +90,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 - TODO Der alte König in seinem Exil
 - TODO Die Klimaschmutzlobby
 - TODO Nichts ist wie es scheint
-- ✅ how demcrocacies die
-  - [[https://www.goodreads.com/book/show/35356384-how-democracies-die]]
+- ✅ [[https://www.goodreads.com/book/show/35356384-how-democracies-die\]\]][how demcrocacies die]] ([[id:36A60737-A2B9-4FA5-BCD9-1FF2D6E35568][notes]])
 - [[https://www.goodreads.com/book/show/6667514-the-checklist-manifesto][The Checklist Manifesto: How to Get Things Right]]
 - [[https://www.amazon.com/Sursa-Romanian-Tara-Swart/dp/6067223929][Sursa]]
 - [[https://www.goodreads.com/book/show/7015635-food-rules][Food Rules]]
@@ -115,11 +114,11 @@ This is my personal book TODO list, along with the year in which I added the boo
 - [[https://www.goodreads.com/book/show/20518872-the-three-body-problem][The Three-Body Problem]]
 - [[https://www.goodreads.com/book/show/4191136-business-adventures][Business Adventures]] (recommened by Bill Gates)
 - [[https://www.goodreads.com/ro/book/show/85697.The_Art_of_Possibility][The Art of possibility]]
-- [[https://www.goodreads.com/book/show/22107280-blueprint-for-revolution][Blueprint for Revolution, Popovic]]
+- [[https://www.goodreads.com/book/show/22107280-blueprint-for-revolution][✅ Blueprint for Revolution, Popovic (]][[id:F91D720D-3DB2-4E6A-8E89-4113EB8F9E0A][notes]])
 - [[https://www.goodreads.com/book/show/18770267-make-it-stick][Make it sick]]
 - [[https://www.goodreads.com/book/show/76865.Good_to_Great][Good to great]]
 - [[https://www.goodreads.com/book/show/24612127-reclaiming-conversation][✅ Reclaiming conversations]]
 ** Tech
 - [[https://dataintensive.net/][Designing Data-Intensive Applications]]
 - [[https://www.goodreads.com/work/best_book/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software][Domain-Driven Design: Tackling Complexity in the Heart of Software]] ([[id:7c4e66f6-ce2d-441b-8c33-51ba6aec412c][DDD]])
-- [[https://abseil.io/resources/swe-book][Software Engineering at Google]]
+- ✅ [[https://abseil.io/resources/swe-book][Software Engineering at Google]] ([[id:01D3CE3B-5CC3-4F55-BA54-A2C16BADFB1C][notes]])
