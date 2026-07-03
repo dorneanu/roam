@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       be34e778-5ba2-4d85-a34e-be2437b639e7
+:END:
+#+title: Modular Monolith Architecture
+#+filetags: :software:architecture:
+
+* Overview
+The *modular monolith* architectural style is a *domain-partitioned* monolithic architecture: a single deployment unit where functionality is grouped by domain rather than technical capability. Its isomorphic shape: *a single deployment unit with functionality grouped by domain area*.
+
+Gained popularity after the first edition of /Fundamentals of Software Architecture/ (2020) due to widespread adoption of DDD and increased focus on domain partitioning. Added as a new chapter in the 2nd edition (2025).
+
+In the layered architecture, a customer profile component lives at ~com.app.presentation.customer.profile~ — the third namespace node is a *technical* concern. In the modular monolith, it lives at ~com.app.customer.profile~ — the third node is a *domain* concern. Technical concerns (presentation, business) may still exist as nested sub-namespaces under the domain.
+
+* Structural options
+Domains are called *modules* in this style. Two structural implementations:
+
+** Monolithic structure
+All modules are in a single source-code repository, deployed as one unit. Simplest option. Requires strict governance: developers tend to reuse too much code across modules and allow too much inter-module communication, which can degrade the architecture toward a Big Ball of Mud.
+
+** Modular structure
+Each module is a self-contained artifact (JAR, DLL, etc.), combined into a single deployment at build time. Each module can live in its own repository and be owned by a separate team.
+
+Advantage: cleaner boundaries, less tendency toward leaky abstraction between modules.
+
+Disadvantage: when modules are interdependent, compile-time dependencies create DLL Hell / JAR Hell. Less effective than the monolithic structure when modules must communicate frequently.
+
+* Module communication
+Inter-module communication should be minimised — modules should ideally be independent. Two options:
+
+** Peer-to-peer
+One module directly instantiates classes from another module. Simple but dangerous: in a monolithic structure, it's too easy for developers to call anything anywhere, eroding boundaries. In a modular structure, this creates explicit compile-time dependencies that, in excess, cause JAR/DLL Hell.
+
+** Mediator approach
+A mediator component acts as an orchestrator between modules, accepting requests and routing them to the appropriate module. Modules don't know about each other — they only know about the mediator. The mediator holds the inter-module knowledge. Trade-off: every module is now coupled to the mediator.
+
+* Data topologies
+Two main options:
+- *Shared monolithic database*: simpler, reduces inter-module communication since data is shared
+- *Per-module databases*: modules own their data; increases independence but requires inter-module communication for shared data access
+
+* Governance
+Automated governance uses tools like ArchUnit (Java), ArchUnitNet / NetArchTest (.NET), PyTestArch (Python), TSArch (TypeScript):
+
+1. *Module compliance*: ensure all source code falls under a declared module namespace; alert on any code outside defined namespaces
+2. *Coupling limits*: limit the total number of inter-module dependency points (e.g. max 5 incoming + outgoing per module)
+3. *Restricted dependencies*: prohibit specific module-to-module communication (e.g. OrderPlacement must not call Shipping directly)
+
+The monolithic structure is easier to govern this way; modular structure requires per-artifact checks since code is in separate repos.
+
+* Characteristics scorecard (1-5 stars)
+| Characteristic   | Rating |
+|------------------+--------|
+| Cost             | ★★★★★  |
+| Simplicity       | ★★★★   |
+| Modularity       | ★★★★   |
+| Deployability    | ★★     |
+| Testability      | ★★     |
+| Scalability      | ★      |
+| Elasticity       | ★      |
+| Fault tolerance  | ★      |
+
+Primary strengths: cost, simplicity, modularity. Being monolithic avoids distributed-architecture complexity. Deployability and testability rate slightly higher than layered architecture because of domain modularity, but are still limited by the monolithic deployment. Elasticity/scalability are one-star because the monolith cannot scale individual modules independently.
+
+* When to use
+- Tight budget and time constraints (low cost, low complexity)
+- New systems where the architectural direction is unclear — start here, migrate to service-based or microservices when needed
+- Domain-focused, cross-functional teams
+- Systems where most changes are domain-based (e.g. adding expiration dates to wishlist items)
+- Teams practicing DDD
+
+* When not to use
+- High operational characteristics requirements (scalability, elasticity, availability, fault tolerance, performance)
+- Majority of changes are technically oriented (changing the UI framework or database technology impacts every module)
+- In those cases, prefer layered architecture (for technically-driven changes) or distributed styles (for operational needs)
+
+* Team topology fit
+Best with *stream-aligned teams* organized by domain (cross-functional with specialisation). Technically-organized teams (UI/backend/DB silos) do not fit well with this domain-partitioned style.
+
+* Related topics
+- [[id:babd38a4-b1a5-4b3c-a504-9534db93ef0a][Architecture Styles — Foundations]] — domain partitioning as the conceptual basis
+- [[id:76d25ba9-9b76-43dc-b4aa-f9798664eb8a][Layered Architecture]] — the technically-partitioned alternative
+- [[id:7c4e66f6-ce2d-441b-8c33-51ba6aec412c][DDD]] — bounded context is the domain modelling origin of this style
+- [[id:f9912f2f-5861-469f-816e-0765a78687b1][Architectural characteristics]] — monolithic constraints limit operational characteristics
+- [[id:953cf8e0-8716-4288-a304-08be0f5c6931][Fitness functions]] — ArchUnit/NetArchTest used for module governance
+
+* Resources
+- 2026-06-30 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 11: topology (domain namespace convention), monolithic vs modular structure trade-offs, module communication (peer-to-peer vs mediator), DLL/JAR Hell, data topologies, governance pseudocode and ArchUnit examples, characteristics scorecard, EasyMeals worked example, when to use/not use

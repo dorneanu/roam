@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       b1e15bf6-67fb-4109-8825-608d7ea30700
+:END:
+#+title: Component-Based Thinking
+#+filetags: :software:architecture:
+
+* Overview
+*Component-based thinking* is the architectural practice of seeing a system as a set of logical components — the building blocks at the level above individual classes. This is the level at which an architect "sees" the system. Components represent the major business functions of the system; each component contains the source code implementing that function.
+
+Logical components are manifested through *namespace or directory structures*. The leaf nodes of the directory tree containing source code are the components; higher-level nodes represent domains and subdomains.
+
+** Logical vs physical architecture
+- *Logical architecture*: shows components and their interactions, actors, and data flows — independent of physical structure. Does not show databases, services, or UIs.
+- *Physical architecture*: shows deployment artifacts — services, databases, UIs, containers. Should map to one of the standard architecture styles (microservices, layered, etc.).
+
+Bypassing the logical architecture and jumping directly to physical is a common mistake: it obscures where functionality lives and gives developers no guidance for structuring the code.
+
+* Creating a logical architecture
+Component identification is an iterative feedback loop:
+
+1. *Identify initial core components* — a best guess based on major workflows or user actions
+2. *Assign user stories/requirements* to components — fill the empty buckets
+3. *Analyse roles and responsibilities* — check cohesion; if the role statement needs "and/also/in addition", the component is doing too much
+4. *Analyse architectural characteristics* — scalability, elasticity, fault tolerance, etc. can force components to be split
+5. *Restructure* — iterate; expect this to happen continuously
+
+** Identifying initial core components
+
+Three approaches:
+
+*Workflow approach*
+Map each step of the major happy-path workflow to a component. Not every step needs its own component — steps that share functionality reuse the same one. Good starting point when the general flow is known before requirements are finalised.
+
+*Actor/Action approach*
+Identify the major actors (customer, admin, system) and the main actions each can perform. Assign each action to a component. Generates more granular components than the Workflow approach. Useful when the system has multiple distinct actor types.
+
+*Entity Trap (antipattern)*
+Creating components from domain entities (CustomerManager, OrderManager, ItemManager). Avoid this approach because:
+- Names like ~Manager~, ~Supervisor~, ~Controller~, ~Handler~ don't describe the component's actual role
+- Entity-named components become dumping grounds for all entity-related functionality
+- They violate single-responsibility and become too coarse-grained to maintain, test, or deploy
+
+If a system truly is entity-based CRUD with no business logic, it doesn't need an architecture — use a CRUD framework or no-code tool instead.
+
+* Component coupling
+When components communicate or when a change to one might break another, they are *coupled*. Higher coupling = harder to maintain and test.
+
+** Static coupling
+Occurs when components communicate synchronously. Two types:
+- *Afferent coupling (CA / fan-in)*: the degree to which other components depend on this component (incoming dependencies). High afferent coupling = this component is heavily used.
+- *Efferent coupling (CE / fan-out)*: the degree to which this component depends on others (outgoing dependencies). High efferent coupling = fragile, hard to change.
+
+** Temporal coupling
+Non-static dependencies based on timing or transaction order — e.g. Order Placement must execute before Order Shipment. Hard to detect from tooling alone; usually identified through design documents or runtime errors.
+
+** Law of Demeter (Principle of Least Knowledge)
+A component should have *limited knowledge* of other components. Reducing what a component knows about the system reduces its coupling.
+
+The key distinction: a component may need to *perform* an action, but it doesn't need to have *knowledge* that another action must happen downstream. That downstream knowledge can be delegated to another component, reducing the originator's coupling level.
+
+Important caveat: applying the Law of Demeter does not necessarily reduce *system-wide* coupling — it redistributes coupling to different components (e.g. from Order Placement to Inventory Management). The goal is to move knowledge closer to where it is naturally owned.
+
+* Case study: Going, Going, Gone (GGG)
+Applying the Actor/Action approach to the GGG auction system:
+- *Bidder*: view video stream, view bid stream, place bid
+- *Auctioneer*: enter bids, receive bids, mark item sold
+- *System*: start auction, make payment, track bidder activity
+
+Initial components: Video Streamer, Bid Streamer, Bid Capture, Bid Tracker, Auction Session, Payment.
+
+After analysing architectural characteristics: the Bid Capture component must be split because auctioneers need higher reliability/availability (a dropped auctioneer connection is catastrophic) while bidders need higher scalability (potentially thousands). Result: separate ~Bid Capture~ and ~Auctioneer Capture~ components.
+
+Key lesson: *there is no single correct component design.* Assess trade-offs and choose the "least worst" set.
+
+* Related topics
+- [[id:4b4d8324-afd8-49ff-9f19-b5bde5b02022][Modularity]] — components are the concrete manifestation of modularity
+- [[id:e3ea3021-3adb-4611-abca-ce0cce3cb27c][Coupling]] — static, temporal, and dynamic coupling measure component interdependence
+- [[id:f9912f2f-5861-469f-816e-0765a78687b1][Architectural characteristics]] — characteristics analysis is the final step that may force component redesign
+- [[id:0419266b-0144-463a-9bed-6666a95bdd41][Architecture quantum]] — quanta operate one level above components
+- [[id:76d25ba9-9b76-43dc-b4aa-f9798664eb8a][Layered Architecture]] — technically partitioned style where components map to layers
+
+* Resources
+- 2026-06-30 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 8: logical vs physical architecture distinction, component identification cycle, Workflow/Actor-Action approaches, Entity Trap antipattern, assigning user stories, role/responsibility analysis (the "and/also" heuristic), analyzing architectural characteristics, static/temporal/Law of Demeter coupling, GGG case study with Bid Capture split for differential reliability/scalability

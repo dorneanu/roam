@@ -1,0 +1,119 @@
+:PROPERTIES:
+:ID:       babd38a4-b1a5-4b3c-a504-9534db93ef0a
+:END:
+#+title: Architecture Styles — Foundations
+#+filetags: :software:architecture:
+
+* Overview
+An *architectural style* describes a named set of characteristics that define an architecture's component topology, physical structure, deployment strategy, communication style, and data topology. Naming a style communicates a rich set of understood trade-offs in a single term. Unlike a *pattern* (a contextualized solution to a problem), an architectural style describes the assumed and default characteristics — both beneficial and detrimental.
+
+Architecture styles emerge bottom-up from the ecosystem: a clever architect combines new capabilities with old ones to solve a nagging problem, others copy the solution, it gets a name. Microservices is a canonical example — it named an emergent approach, not a specification.
+
+* Fundamental patterns
+
+** Big Ball of Mud (antipattern)
+Defined by Foote and Yoder (1997): a haphazardly structured system where information is shared promiscuously and the overall structure has never been well defined or has eroded beyond recognition.
+
+Symptoms: any change causes unpredictable rippling side effects; developers spend all time chasing bugs rather than building features.
+
+Cause: usually a lack of governance around code quality and structure — the architecture never starts deliberately, it just grows.
+
+Consequence: change becomes increasingly expensive; deployment, testability, scalability, and performance all suffer.
+
+** Unitary architecture
+The original form: software and hardware as one entity. Mainframes started here. Still exists in embedded systems and highly constrained environments.
+
+** Client/Server (two-tier)
+Separates frontend (thin/rich client) from backend. Variants:
+- Desktop + database server (Windows era)
+- Browser + web server (internet era, still two-tier in practice)
+- Single-page applications (rich JavaScript client + API backend)
+
+** Three-tier
+Added a middle application tier (application servers, CORBA/DCOM era). Made backend processing independent from both presentation and data. Still architecturally relevant as a historical model; its protocol-level plumbing (CORBA) is gone but the separation of concerns lives on in modern patterns.
+
+Historical note: Java's serialization mechanism was baked into the language core because 1990s designers assumed three-tier would exist forever. It didn't — yet Java still carries the legacy.
+
+* Architecture partitioning
+The *First Law of Software Architecture* applies to partitioning: everything is a trade-off. The most impactful component arrangement is the *top-level partitioning* choice.
+
+** Technical partitioning
+Organises top-level components by technical capability: Presentation, Business Rules, Services, Persistence. This maps to the layered architecture style.
+
+Advantages:
+- Easy to find code by technical category
+- Natural separation of technical concerns
+- Aligns with MVC pattern; familiar to most developers
+
+Disadvantages:
+- Domains are "smeared" across all layers — changing a domain requires touching every layer
+- Does not fit well with DDD
+- Conway's Law pushes teams toward technical silos, which reinforces the partitioning (feedback loop)
+
+** Domain partitioning
+Organises top-level components by domain/workflow: CatalogCheckout, Ordering, Shipping, etc. This maps to the modular monolith and microservices styles. Inspired by DDD bounded contexts.
+
+Advantages:
+- Models business functions directly
+- Enables cross-functional teams aligned by domain
+- Domain changes stay within a single component
+- Easier to migrate to a distributed architecture later
+
+Disadvantage:
+- Customisation code (common/local variants) appears in multiple places
+
+Industry trend: domain partitioning has become the dominant preference for both monolithic and distributed architectures.
+
+* Conway's Law
+#+begin_quote
+Organizations which design systems are constrained to produce designs which are copies of the communication structures of those organizations.
+— Melvin Conway, 1968
+#+end_quote
+
+The *Inverse Conway Maneuver* (Jonny Leroy, Thoughtworks): evolve team structures intentionally toward the desired architecture. This insight is now known as *team topologies* — the idea that team communication structures and system architecture co-evolve.
+
+* Monolithic vs distributed
+Architecture styles divide into two families:
+
+*Monolithic* (single deployment unit): layered, modular monolith, pipeline, microkernel.
+*Distributed* (multiple deployment units): service-based, event-driven, space-based, SOA, microservices.
+
+Distributed architectures are more powerful for scalability, availability, and performance — but they carry the *fallacies of distributed computing*.
+
+* Fallacies of distributed computing
+Originally listed by L. Peter Deutsch and colleagues at Sun Microsystems (1994). All eight apply to modern distributed systems. Richards & Ford add three extensions.
+
+** The original eight
+1. *The network is reliable* — networks still fail unpredictably; timeouts and circuit breakers exist because of this fallacy
+2. *Latency is zero* — remote calls (REST, RPC, messaging) are measured in milliseconds vs nanoseconds for local calls; the 95th-percentile "long tail" kills performance in fine-grained distributed architectures
+3. *Bandwidth is infinite* — stamp coupling (passing full objects when only a few fields are needed) can consume gigabits; always transmit only necessary data
+4. *The network is secure* — every endpoint must be secured; attack surface grows by magnitudes when moving from monolith to distributed
+5. *The topology never changes* — network upgrades, router changes, and firewall rules change all the time; architects must stay in sync with operations
+6. *There is only one administrator* — large companies have dozens of network admins; coordinating distributed architecture requires navigating all of them
+7. *Transport cost is zero* — distributed architecture requires new hardware, servers, gateways, proxies, and subnets; the monetary cost is significant
+8. *The network is homogeneous* — networks contain hardware from multiple vendors that don't always interoperate perfectly, creating reliability and latency edge cases
+
+** Three extensions (Richards & Ford)
+9. *Versioning is easy* — evolving service contracts requires versioning; teams often end up honoring dozens of versions, raising difficult questions about scope, deprecation, and system-vs-service versioning
+10. *Compensating updates always work* — orchestrator-based rollback ("saga" pattern) can fail if the compensating update itself fails; architects must design for the failure of the failure handler
+11. *Observability is optional* — logging is useful in monoliths but *critical* in distributed architectures; the many communication failure modes are nearly impossible to debug without comprehensive interaction logs
+
+* Team topologies
+Matthew Skelton and Manuel Pais (2019) define four team types that interact with architecture:
+
+- *Stream-aligned teams*: focused narrowly on a business domain/capability; goal is maximum delivery velocity
+- *Enabling teams*: bridge capability gaps, supply specialised knowledge; support stream-aligned teams without owning deliverables
+- *Complicated-subsystem teams*: deep expertise in a complex technical or domain subsystem; reduce cognitive load for stream-aligned teams
+- *Platform teams*: provide internal self-service APIs, tools, and governance; reduce friction for all other team types
+
+Architecture style selection affects which team topology fits best (covered per-style in Part II of FSA 2E).
+
+* Related topics
+- [[id:76d25ba9-9b76-43dc-b4aa-f9798664eb8a][Layered Architecture]] — technically partitioned monolithic style
+- [[id:be34e778-5ba2-4d85-a34e-be2437b639e7][Modular Monolith Architecture]] — domain-partitioned monolithic style
+- [[id:b4df8c80-87f0-4b85-9a07-c3e6eb7def87][Pipeline Architecture]] — technically partitioned monolithic style (pipes and filters)
+- [[id:63fda29f-26cb-4518-9336-10e7c24807cb][Conway's Law]] — the organisational communication constraint that shapes architecture
+- [[id:7c4e66f6-ce2d-441b-8c33-51ba6aec412c][DDD]] — domain partitioning is inspired by DDD bounded contexts
+
+* Resources
+- 2026-06-30 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 9: styles vs patterns distinction, Big Ball of Mud antipattern, unitary/client-server/three-tier historical arc (with Java serialization as cautionary tale), technical vs domain partitioning trade-offs, Silicon Sandwiches kata, Conway's Law sidebar with Inverse Conway Maneuver, monolithic vs distributed taxonomy, all 11 fallacies of distributed computing, Team Topologies (Skelton & Pais) four team types
