@@ -1,6 +1,6 @@
 ---
 name: media-ingest
-description: Ingests a podcast or YouTube video into the wiki. If given a YouTube URL, fetches the transcript automatically via youtube-transcript-api. Saves the raw transcript to roam-sources, writes ONE synthesis org file (in the transcript's language) covering all major topic clusters, runs a coverage check, and updates any existing wiki topics the source touches.
+description: Ingests a podcast or YouTube video into the wiki. If given a YouTube URL, adds it as a NotebookLM source and retrieves the raw transcript via `nlm source content`. Saves the raw transcript to roam-sources, writes ONE synthesis org file (in the transcript's language) covering all major topic clusters, runs a coverage check, and updates any existing wiki topics the source touches.
 tools: Bash, Read, Write, Grep
 model: sonnet
 ---
@@ -51,50 +51,38 @@ TOPIC_SLUG="russland_putins_system"   # lowercase, underscores (org filename con
 
 Detect a YouTube URL by checking for `youtube.com/watch?v=` or `youtu.be/` in the input.
 
-Extract the video ID:
+Use NotebookLM to add the video as a source and retrieve its raw transcript:
+
 ```bash
-# From https://www.youtube.com/watch?v=VIDEO_ID or https://youtu.be/VIDEO_ID
-VIDEO_ID=$(python3 -c "
-import sys, re
-url = sys.argv[1]
-m = re.search(r'(?:v=|youtu\.be/)([A-Za-z0-9_-]{11})', url)
-print(m.group(1) if m else '')
-" "<URL>")
+NOTEBOOK_ID="3095aa5c-35d3-4f25-91e8-d0891a9fd2bc"
+YT_URL="<the YouTube URL>"
+
+# Add the video as a source and wait for processing
+SOURCE_OUTPUT=$(nlm source add "$NOTEBOOK_ID" --youtube "$YT_URL" --wait 2>&1)
+echo "$SOURCE_OUTPUT"
+
+# Extract the source ID
+SOURCE_ID=$(echo "$SOURCE_OUTPUT" | grep -oP 'Source ID:\s+\K[a-f0-9-]+')
+
+if [ -z "$SOURCE_ID" ]; then
+    echo "ERROR: Could not add YouTube source to NotebookLM. NotebookLM may not be able to process this video."
+    exit 1
+fi
+
+# Fetch raw transcript (no AI processing)
+nlm source content "$SOURCE_ID" --output "$SOURCES/podcasts/<SHOW_SLUG>/<EPISODE_ID>.txt"
+
+# Clean up the source
+nlm source delete "$SOURCE_ID" --confirm
 ```
 
-Fetch the transcript:
-```bash
-python3 - <<'EOF'
-from youtube_transcript_api import YouTubeTranscriptApi
-import sys, json
+This is Step 1 (save raw transcript) rolled in — skip the separate Step 1 for YouTube inputs.
 
-video_id = "<VIDEO_ID>"
-api = YouTubeTranscriptApi()
+If `nlm source add` fails (private video, geo-blocked, no captions), stop and report the error to the user.
 
-try:
-    # Try user's preferred languages first, then fall back to any available
-    transcript = api.fetch(video_id)
-except Exception:
-    # List available transcripts and pick the first
-    listing = api.list(video_id)
-    t = next(iter(listing), None)
-    if t is None:
-        print("ERROR: No captions available for this video.", file=sys.stderr)
-        sys.exit(1)
-    transcript = t.fetch()
-
-text = "\n".join(s.text for s in transcript)
-print(text)
-EOF
-```
-
-Save the output as the transcript and continue from Step 0 (metadata extraction).
-
-If the script exits non-zero (no captions available), stop and report the error to the user — do not proceed without a transcript.
-
-For YouTube videos, derive the metadata:
-- **Show name**: channel name (fetch from `yt-dlp --dump-json` if available, otherwise ask user or infer from URL)
-- **Episode ID**: the video ID (e.g. `yt_Lo1ueQECnJw`)
+For YouTube videos, derive metadata from the video title/channel returned by `nlm source add` output or `nlm source get SOURCE_ID`:
+- **Show name**: channel name
+- **Episode ID**: the YouTube video ID (e.g. `Lo1ueQECnJw`)
 - **SHOW_SLUG**: `youtube/<channel-slug>` (e.g. `youtube/cal-newport`)
 - Raw transcript saved to: `$SOURCES/podcasts/youtube/<channel-slug>/<video-id>.txt`
 
