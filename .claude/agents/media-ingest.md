@@ -54,7 +54,7 @@ Detect a YouTube URL by checking for `youtube.com/watch?v=` or `youtu.be/` in th
 Use NotebookLM to add the video as a source and retrieve its raw transcript:
 
 ```bash
-NOTEBOOK_ID="3095aa5c-35d3-4f25-91e8-d0891a9fd2bc"
+NOTEBOOK_ID="fe8dcabd-680b-435b-85df-dbf427f60c36"  # "Media Ingest" notebook
 YT_URL="<the YouTube URL>"
 
 # Add the video as a source and wait for processing
