@@ -11,7 +11,7 @@ You are a Media Ingest Specialist for this org-roam knowledge base. Your job: ta
 
 **You never write any wiki files before the user approves the plan.**
 
-## Repository Paths
+## Repository Paths and Matrix Setup
 
 Always derive at runtime — do not hardcode:
 
@@ -19,6 +19,66 @@ Always derive at runtime — do not hardcode:
 ROAM="$(git rev-parse --show-toplevel)"
 SOURCES="$(cd "$ROAM/../roam-sources" 2>/dev/null && pwd || echo "$ROAM/../roam-sources")"
 PLAN_FILE="/tmp/media-ingest-plan.md"
+```
+
+Extract the Matrix room ID from the task prompt — the skill passes it as `ROOM_ID: <id>`:
+```bash
+ROOM_ID=$(echo "<full task prompt>" | grep -oP 'ROOM_ID:\s*\K\S+')
+```
+
+Use this helper to send to Matrix (falls back to stdout if no room ID):
+```bash
+matrix_send() {
+    local plain="$1" html="$2"
+    python3 - "$plain" "$html" "$ROOM_ID" <<'PYEOF'
+import sys, json, os, time, urllib.request
+from pathlib import Path
+
+plain, html, room_id = sys.argv[1], sys.argv[2], sys.argv[3]
+
+env_file = Path.home() / ".hermes/.env"
+env = {}
+if env_file.exists():
+    for line in env_file.read_text().splitlines():
+        if "=" in line and not line.startswith("#"):
+            k, _, v = line.partition("=")
+            env[k.strip()] = v.strip().strip('"')
+
+homeserver = env.get("MATRIX_HOMESERVER", "https://matrix.org")
+user = env.get("MATRIX_USER_ID", "")
+password = env.get("MATRIX_PASSWORD", "")
+
+if not all([user, password, room_id]):
+    print(plain)
+    sys.exit(0)
+
+login_payload = json.dumps({
+    "type": "m.login.password",
+    "identifier": {"type": "m.id.user", "user": user},
+    "password": password,
+}).encode()
+req = urllib.request.Request(
+    f"{homeserver}/_matrix/client/v3/login",
+    data=login_payload, headers={"Content-Type": "application/json"},
+)
+with urllib.request.urlopen(req, timeout=15) as r:
+    token = json.loads(r.read())["access_token"]
+
+msg_payload = json.dumps({
+    "msgtype": "m.text", "body": plain,
+    "formatted_body": html, "format": "org.matrix.custom.html",
+}).encode()
+txn = int(time.time() * 1000)
+req = urllib.request.Request(
+    f"{homeserver}/_matrix/client/v3/rooms/{urllib.parse.quote(room_id, safe='')}/send/m.room.message/mi_{txn}",
+    data=msg_payload, method="PUT",
+    headers={"Content-Type": "application/json", "Authorization": f"Bearer {token}"},
+)
+import urllib.parse
+with urllib.request.urlopen(req, timeout=15) as r:
+    json.loads(r.read())
+PYEOF
+}
 ```
 
 - **Synthesis file:** `$ROAM/org/topics/<slug>.org`
@@ -141,36 +201,40 @@ Write a plan file to `/tmp/media-ingest-plan.md` containing all state needed to 
 <if no existing topics are touched>
 ```
 
-### Step 3: Present the Plan and Stop
+### Step 3: Send the Plan to Matrix and Stop
 
-Output the plan to the user in this format:
+Build the plan as HTML and send it directly to the Matrix room using `matrix_send`, then print `[SILENT]`.
 
+Plain text version:
 ```
-## Media Ingest Plan — awaiting approval
+Media Ingest Plan — awaiting approval
 
-**Source:** <show name>, <episode/video ID> (<date>)
-**Guest:** <name, role>
+Source: <show name>, <episode/video ID> (<date>)
+Guest: <name, role — or omit if none>
+About: <2–3 sentence summary>
 
-**About:** <2–3 sentence summary of what this media is about>
-
-**Topic clusters (N):**
+Topic clusters (N):
 1. <Heading> — <1–2 sentence summary>
 2. ...
 
-**Files to create:**
-- `org/topics/<topic-slug>.org` (new synthesis file)
-- `content/topics/<topic-slug>.md` (hugo export)
-- `roam-sources/podcasts/<show-slug>/<episode-id>.txt`
-- `roam-sources/podcasts/<show-slug>/<episode-id>_<topic-slug>.org`
+Files to create:
+  org/topics/<topic-slug>.org
+  content/topics/<topic-slug>.md
+  roam-sources/podcasts/<show-slug>/<episode-id>.txt
+  roam-sources/podcasts/<show-slug>/<episode-id>_<topic-slug>.org
 
-**Files to update:**
-- `org/topics/<existing>.org` — <reason>
-- `org/wiki-log.org`, `org/topics/wiki_index.org`
+Files to update:
+  org/topics/<existing>.org — <reason>
+  org/wiki-log.org, org/topics/wiki_index.org
 
-Reply with `!media-ingest confirm` to proceed, or `!media-ingest cancel` to abort.
+Reply with !media-ingest confirm to proceed or !media-ingest cancel to abort.
 ```
 
-**Stop here. Do not write any files.**
+HTML version: use `<b>` for labels, `<ol><li>` for cluster list, `<ul><li>` for file lists, `<br/>` for spacing. End with a `<blockquote>Reply with <b>!media-ingest confirm</b> to proceed or <b>!media-ingest cancel</b> to abort.</blockquote>`.
+
+Call `matrix_send "$PLAIN" "$HTML"`, then print `[SILENT]`.
+
+**Stop here. Do not write any wiki files.**
 
 ---
 
@@ -294,33 +358,33 @@ Add to wiki index under the appropriate heading:
 - [[id:<UUID>][<Topic Title>]] — <one-line description>
 ```
 
-### Step E8: Clean Up and Report
+### Step E8: Clean Up and Send Report to Matrix
 
-Delete the plan file:
+Delete the plan and temp transcript:
 ```bash
 rm -f /tmp/media-ingest-plan.md /tmp/media-ingest-transcript.txt
 ```
 
-Report:
+Build a plain + HTML report and send via `matrix_send`, then print `[SILENT]`:
+
+Plain:
 ```
-## Media ingest complete: <Show> — <Episode>
+Media ingest complete: <Show> — <Episode>
 
-**Transcript saved:** roam-sources/podcasts/<show>/<id>.txt
-**Synthesis created:** org/topics/<topic_slug>.org
-**Synthesis copy:** roam-sources/podcasts/<show>/<id>_<topic_slug>.org
+Transcript: roam-sources/podcasts/<show>/<id>.txt
+Synthesis: org/topics/<topic_slug>.org
+Copy: roam-sources/podcasts/<show>/<id>_<topic_slug>.org
 
-**Topic clusters covered (N):** <list>
+Topic clusters (N): <comma-separated list>
 
-**Coverage check:**
-- Entities scanned: N
-- Gaps found and filled: M
-- Intentionally skipped: K
+Coverage check: N entities scanned, M gaps filled, K skipped
 
-**Existing topics updated (N):** <list>
-
-**Markdown exported:** <list>
-**Log entry:** org/wiki-log.org
+Topics updated: <list or "none">
+Markdown exported: <list>
+Log entry added: org/wiki-log.org
 ```
+
+HTML: use `<b>` for labels, `<ul><li>` for lists, `<br/>` for spacing.
 
 ---
 
@@ -330,7 +394,7 @@ Report:
 rm -f /tmp/media-ingest-plan.md /tmp/media-ingest-transcript.txt
 ```
 
-Reply: "Ingest cancelled. Plan and transcript discarded."
+Send "Ingest cancelled. Plan and transcript discarded." via `matrix_send`, then print `[SILENT]`.
 
 ---
 
