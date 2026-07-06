@@ -1,6 +1,6 @@
 ---
 name: media-ingest
-description: Ingests a podcast or YouTube video transcript into the wiki. Saves the raw transcript to roam-sources, writes ONE German-language synthesis org file covering all major topic clusters, runs a coverage check against the original, and updates any existing wiki topics the source touches.
+description: Ingests a podcast or YouTube video into the wiki. If given a YouTube URL, fetches the transcript automatically via youtube-transcript-api. Saves the raw transcript to roam-sources, writes ONE synthesis org file (in the transcript's language) covering all major topic clusters, runs a coverage check, and updates any existing wiki topics the source touches.
 tools: Bash, Read, Write, Grep
 model: sonnet
 ---
@@ -28,13 +28,14 @@ SOURCES="$(cd "$ROAM/../roam-sources" 2>/dev/null && pwd || echo "$ROAM/../roam-
 ## Step 0: Parse the Input
 
 The user will provide one of:
+- A YouTube URL → fetch transcript automatically (see Step 0b)
 - Pasted transcript text
 - A file path to a transcript
 - A show name + episode reference + transcript text
 
 Extract from the transcript:
-- **Show name** (e.g. "Lage der Nation")
-- **Episode ID** (e.g. "485", or a date)
+- **Show name** (e.g. "Lage der Nation", or the YouTube channel name)
+- **Episode ID** (e.g. "485", a date, or the YouTube video ID)
 - **Episode date** (YYYY-MM-DD) — infer from internal references if not stated
 - **Guest name and role** (if an interview)
 - **Main topic** (one phrase)
@@ -45,6 +46,57 @@ SHOW_SLUG="lage-der-nation"   # lowercase, hyphens
 EPISODE_ID="ldn485"
 TOPIC_SLUG="russland_putins_system"   # lowercase, underscores (org filename convention)
 ```
+
+## Step 0b: Fetch YouTube Transcript (if input is a YouTube URL)
+
+Detect a YouTube URL by checking for `youtube.com/watch?v=` or `youtu.be/` in the input.
+
+Extract the video ID:
+```bash
+# From https://www.youtube.com/watch?v=VIDEO_ID or https://youtu.be/VIDEO_ID
+VIDEO_ID=$(python3 -c "
+import sys, re
+url = sys.argv[1]
+m = re.search(r'(?:v=|youtu\.be/)([A-Za-z0-9_-]{11})', url)
+print(m.group(1) if m else '')
+" "<URL>")
+```
+
+Fetch the transcript:
+```bash
+python3 - <<'EOF'
+from youtube_transcript_api import YouTubeTranscriptApi
+import sys, json
+
+video_id = "<VIDEO_ID>"
+api = YouTubeTranscriptApi()
+
+try:
+    # Try user's preferred languages first, then fall back to any available
+    transcript = api.fetch(video_id)
+except Exception:
+    # List available transcripts and pick the first
+    listing = api.list(video_id)
+    t = next(iter(listing), None)
+    if t is None:
+        print("ERROR: No captions available for this video.", file=sys.stderr)
+        sys.exit(1)
+    transcript = t.fetch()
+
+text = "\n".join(s.text for s in transcript)
+print(text)
+EOF
+```
+
+Save the output as the transcript and continue from Step 0 (metadata extraction).
+
+If the script exits non-zero (no captions available), stop and report the error to the user — do not proceed without a transcript.
+
+For YouTube videos, derive the metadata:
+- **Show name**: channel name (fetch from `yt-dlp --dump-json` if available, otherwise ask user or infer from URL)
+- **Episode ID**: the video ID (e.g. `yt_Lo1ueQECnJw`)
+- **SHOW_SLUG**: `youtube/<channel-slug>` (e.g. `youtube/cal-newport`)
+- Raw transcript saved to: `$SOURCES/podcasts/youtube/<channel-slug>/<video-id>.txt`
 
 ## Step 1: Save the Raw Transcript
 
