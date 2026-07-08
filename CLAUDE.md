@@ -123,6 +123,23 @@ The agent navigates the wiki by index and cross-links (never loading all files),
 
 **Usage:** Ask any question. The agent finds relevant topic files, follows cross-links, and returns a grounded answer. Cite requests ("what does the wiki say about X") and synthesis requests ("how do safetyism and social comparison relate") both work.
 
+## Wiki Lint
+
+For auditing the wiki for health issues, use the lint agent:
+
+**Agent:** `.claude/agents/wiki-lint.md`
+
+The agent scans all `org/topics/*.org` files and reports:
+- Broken org-roam ID links (`[[id:UUID]]` references with no matching `:ID:`)
+- Local/Dropbox filesystem paths in Resources (should be `[[id:UUID][Book Title]]`)
+- Plain Goodreads/author-site URLs that should be org-roam ID links
+- Orphan pages (no incoming links from other topic files)
+- Missing Resources sections on substantial topic files
+- Missing per-section source attribution lines
+- Potential duplicate content across topic files
+
+**Usage:** Run the agent to get a prioritised list of suggestions. The agent is read-only — it never edits files. Review the report and approve which items to act on.
+
 ## Book Summary Posts
 
 For creating quarterly book summary posts, use the specialized agent:
