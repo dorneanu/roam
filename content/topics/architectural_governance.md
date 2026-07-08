@@ -71,4 +71,4 @@ The intent is never to catch developers out; it is to automate the structural hy
 
 ## Resources {#resources}
 
--   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 6: governance as CI→DevOps→architectural-governance evolution; ArchUnit, NetArchTest, JDepend as tooling; Netflix Simian Army as production governance; checklist manifesto framing; developer-trust principle
+-   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/fundamentals_of_software_architecture.md" >}}) — Ch. 6: governance as CI→DevOps→architectural-governance evolution; ArchUnit, NetArchTest, JDepend as tooling; Netflix Simian Army as production governance; checklist manifesto framing; developer-trust principle

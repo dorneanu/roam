@@ -15,9 +15,9 @@ draft = false
 
 The CCP reflects the spirit of high cohesion: modules that change together belong together. It operationalises temporal and communicational cohesion at the component level — grouping code that responds to the same change forces, rather than just code that is structurally similar.
 
-In the framework of _Fundamentals of Software Architecture_, CCP is a design-level expression of the same principle captured by metrics: high cohesion (code that belongs together stays together) and low [coupling]({{< relref "coupling.md" >}}) (code that changes independently stays separate).
+In the [modularity]({{< relref "modularity.md" >}}) framework of _Fundamentals of Software Architecture_, CCP is a design-level expression of the same principle captured by [component cohesion]({{< relref "component_cohesion.md" >}}) metrics: high cohesion (code that belongs together stays together) and low [coupling]({{< relref "coupling.md" >}}) (code that changes independently stays separate).
 
 
 ## Resources {#resources}
 
--   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 3: cohesion as a modularity metric; the CCP principle is implicitly applied in the discussion of why splitting cohesive modules increases coupling; cross-linked to FSA's cohesion types (especially temporal and communicational cohesion)
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/fundamentals_of_software_architecture.md" >}}) — Ch. 3: cohesion as a modularity metric; the CCP principle is implicitly applied in the discussion of why splitting cohesive modules increases coupling; cross-linked to FSA's cohesion types (especially temporal and communicational cohesion)

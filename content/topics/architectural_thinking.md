@@ -89,4 +89,4 @@ Architects must stay hands-on to avoid losing credibility and to avoid the Bottl
 
 ## Resources {#resources}
 
--   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 2: architecture vs design spectrum, knowledge pyramid, technical breadth, 20-minute rule, personal radar, Frozen Caveman antipattern, trade-off analysis (topics vs queues case study), balancing hands-on coding; key quotes from Ford and Hickey on trade-offs
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/fundamentals_of_software_architecture.md" >}}) — Ch. 2: architecture vs design spectrum, knowledge pyramid, technical breadth, 20-minute rule, personal radar, Frozen Caveman antipattern, trade-off analysis (topics vs queues case study), balancing hands-on coding; key quotes from Ford and Hickey on trade-offs

@@ -85,6 +85,15 @@ cat > "$ELISP_FILE" <<ENDOFSCRIPT
 (require 'ox-hugo)
 (setq org-export-with-broken-links t)
 
+;; Mirror the zeeros/fix-doc-path advice from org/topics/.dir-locals.el.
+;; Batch mode never loads .dir-locals.el, so we apply it globally here.
+(defun zeeros/fix-doc-path (path)
+  (let ((p path))
+    (setq p (replace-regexp-in-string (regexp-quote "../books/done/") "../books/" p nil 'literal))
+    (setq p (replace-regexp-in-string (regexp-quote "books/done/")    "books/"    p nil 'literal))
+    p))
+(advice-add 'org-export-resolve-id-link :filter-return #'zeeros/fix-doc-path)
+
 (let ((files (quote ${file_list})))
   (dolist (abs files)
     (if (not (file-exists-p abs))

@@ -89,4 +89,4 @@ Many business goals map to composite architectural characteristics — ones with
 
 ## Resources {#resources}
 
--   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 5: full kata methodology, Silicon Sandwiches worked example (explicit vs implicit characteristics, trade-off analysis, customizability as architecture vs design question), domain-concern translation table, composite characteristics, limiting architectural characteristics to top three
+-   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/fundamentals_of_software_architecture.md" >}}) — Ch. 5: full kata methodology, Silicon Sandwiches worked example (explicit vs implicit characteristics, trade-off analysis, customizability as architecture vs design question), domain-concern translation table, composite characteristics, limiting architectural characteristics to top three

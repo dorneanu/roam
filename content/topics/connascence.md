@@ -12,7 +12,7 @@ Connascence is a precise vocabulary for describing types of [coupling]({{< relre
 
 ## Types of connascence {#types-of-connascence}
 
-_([Fundamentals of Software Architecture, 2E]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}), Ch. 3)_
+_([Fundamentals of Software Architecture, 2E]({{< relref "../books/fundamentals_of_software_architecture.md" >}}), Ch. 3)_
 
 
 ### Static connascence {#static-connascence}
@@ -38,7 +38,7 @@ Dynamic connascence is execution-time coupling, harder to detect and generally m
 
 ## Properties {#properties}
 
-_([Fundamentals of Software Architecture, 2E]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}), Ch. 3)_
+_([Fundamentals of Software Architecture, 2E]({{< relref "../books/fundamentals_of_software_architecture.md" >}}), Ch. 3)_
 
 
 ### Strength {#strength}
@@ -58,9 +58,9 @@ Degree relates to the scope of impact: does a change affect a few classes or man
 
 ## Rules and guidelines {#rules-and-guidelines}
 
-_([Fundamentals of Software Architecture, 2E]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}), Ch. 3)_
+_([Fundamentals of Software Architecture, 2E]({{< relref "../books/fundamentals_of_software_architecture.md" >}}), Ch. 3)_
 
-Page-Jones' three guidelines for using connascence to improve :
+Page-Jones' three guidelines for using connascence to improve [modularity]({{< relref "modularity.md" >}}):
 
 1.  Minimise overall connascence by breaking the system into encapsulated elements.
 2.  Minimise any remaining connascence that crosses encapsulation boundaries.
@@ -74,13 +74,13 @@ Jim Weirich's two rules (from "Connascence Examined", 2012):
 
 ## Practical use {#practical-use}
 
-_([Fundamentals of Software Architecture, 2E]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}), Ch. 3)_
+_([Fundamentals of Software Architecture, 2E]({{< relref "../books/fundamentals_of_software_architecture.md" >}}), Ch. 3)_
 
 Connascence gives architects and reviewers a shared vocabulary. Instead of saying "don't use magic strings," an architect can say "you have Connascence of Meaning — refactor to Connascence of Name by extracting a named constant." This precision speeds up code review and makes refactoring intent explicit.
 
-Connascence relates directly to [coupling]({{< relref "coupling.md" >}}) metrics: it extends Yourdon and Constantine's afferent/efferent coupling for object-oriented contexts and is one of the three key tools for measuring (alongside cohesion and coupling).
+Connascence relates directly to [coupling]({{< relref "coupling.md" >}}) metrics: it extends Yourdon and Constantine's afferent/efferent coupling for object-oriented contexts and is one of the three key tools for measuring [modularity]({{< relref "modularity.md" >}}) (alongside cohesion and coupling).
 
 
 ## Resources {#resources}
 
--   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 3: full taxonomy of static and dynamic connascence, properties (strength, locality, degree), and Weirich's rules; connascence positioned as a vocabulary for coupling conversations (user annotation: "ci: llm ingest connascence", p. 152)
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/fundamentals_of_software_architecture.md" >}}) — Ch. 3: full taxonomy of static and dynamic connascence, properties (strength, locality, degree), and Weirich's rules; connascence positioned as a vocabulary for coupling conversations (user annotation: "ci: llm ingest connascence", p. 152)

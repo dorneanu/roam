@@ -32,14 +32,14 @@ A comprehensive, practical guide to software architecture covering the architect
 
 -   [Software Architecture]({{< relref "../../topics/software_architecture.md" >}}) — four dimensions: style, characteristics, components, decisions; architecture is about leaving options open and minimising lifetime cost
 -   [Software Architect]({{< relref "../../topics/software_architect.md" >}}) — eight core expectations: make decisions, continually analyse, stay current, ensure compliance, understand technology, know the domain, lead, navigate politics
--   — architecture vs design spectrum; trade-off analysis; Frozen Caveman antipattern; the 20-minute breadth rule
--   — stuff you know / stuff you know you don't know / stuff you don't know you don't know; architects optimise for breadth over depth
--   — cohesion types (1–7), LCOM metric, abstractness/instability/distance from main sequence; connascence as a richer coupling vocabulary
--   — afferent vs efferent; Zone of Pain (concrete + stable) and Zone of Uselessness (abstract + unstable)
+-   [Architectural thinking]({{< relref "../../topics/architectural_thinking.md" >}}) — architecture vs design spectrum; trade-off analysis; Frozen Caveman antipattern; the 20-minute breadth rule
+-   [Knowledge pyramid]({{< relref "../../topics/knowledge_pyramid.md" >}}) — stuff you know / stuff you know you don't know / stuff you don't know you don't know; architects optimise for breadth over depth
+-   [Modularity]({{< relref "../../topics/modularity.md" >}}) — cohesion types (1–7), LCOM metric, abstractness/instability/distance from main sequence; connascence as a richer coupling vocabulary
+-   [Coupling]({{< relref "../../topics/coupling.md" >}}) — afferent vs efferent; Zone of Pain (concrete + stable) and Zone of Uselessness (abstract + unstable)
 -   [Connascence]({{< relref "../../topics/connascence.md" >}}) — static (Name, Type, Meaning, Position, Algorithm) and dynamic (Execution, Timing, Values, Identity); strength, locality, degree properties; Weirich's two rules
 -   [Architectural characteristics]({{< relref "../../topics/architectural_characteristics.md" >}}) — the "-ilities"; three criteria; four categories (operational, structural, cloud, cross-cutting); implicit vs explicit; Vasa antipattern; least-worst architecture principle
--   — structured practice exercises; Silicon Sandwiches and Going-Going-Gone worked examples; domain-concern translation table
--   — automated/manual × continuous/triggered; JDepend, ArchUnit, NetArchTest, chaos engineering; the enforcement arm of evolutionary architecture
+-   [Architecture katas]({{< relref "../../topics/architecture_katas.md" >}}) — structured practice exercises; Silicon Sandwiches and Going-Going-Gone worked examples; domain-concern translation table
+-   [Fitness functions]({{< relref "../../topics/fitness_functions.md" >}}) — automated/manual × continuous/triggered; JDepend, ArchUnit, NetArchTest, chaos engineering; the enforcement arm of evolutionary architecture
 -   — governing decisions through automated checks rather than manual reviews; checklist manifesto framing
 
 

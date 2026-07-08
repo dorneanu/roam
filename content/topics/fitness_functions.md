@@ -104,4 +104,4 @@ Fitness functions are the governance mechanism inside an evolutionary architectu
 
 ## Resources {#resources}
 
--   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 6: fitness function definition (borrowed from evolutionary computing), automated vs manual / continuous vs triggered taxonomy, cyclic dependency JDepend example, distance-from-main-sequence JDepend example, ArchUnit/NetArchTest layer governance examples, Netflix Simian Army as production fitness functions, relationship to evolutionary architecture
+-   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/fundamentals_of_software_architecture.md" >}}) — Ch. 6: fitness function definition (borrowed from evolutionary computing), automated vs manual / continuous vs triggered taxonomy, cyclic dependency JDepend example, distance-from-main-sequence JDepend example, ArchUnit/NetArchTest layer governance examples, Netflix Simian Army as production fitness functions, relationship to evolutionary architecture
