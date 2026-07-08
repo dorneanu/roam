@@ -27,13 +27,13 @@ For architects, the wise course of action is to periodically sacrifice some hard
 ## Dysfunctions {#dysfunctions}
 
 -   **Stale expertise**: top-layer knowledge that hasn't been maintained, but the holder still treats it as current. Common in long-tenured leads who have moved into architecture roles.
--   **Frozen Caveman antipattern**: a past traumatic experience creates a disproportionate fixation on one narrow risk, crowding out balanced architectural judgment (see [architectural thinking]({{< relref "architectural_thinking.md" >}})).
+-   **Frozen Caveman antipattern**: a past traumatic experience creates a disproportionate fixation on one narrow risk, crowding out balanced architectural judgment (see ).
 -   **Breadth overreach**: trying to maintain expertise across too many areas, succeeding in none.
 
 
 ## Growing the middle {#growing-the-middle}
 
-Techniques for expanding "stuff you know you don't know" (see [architectural thinking]({{< relref "architectural_thinking.md" >}}) for details):
+Techniques for expanding "stuff you know you don't know" (see for details):
 
 -   The 20-minute rule: 20 minutes each morning on something new, before email
 -   The personal technology radar: a structured living document tracking what to adopt, trial, assess, or hold
@@ -46,4 +46,4 @@ The pyramid applies beyond software: in any knowledge-intensive discipline, prac
 
 ## Resources {#resources}
 
--   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 2: the knowledge pyramid model (pp. 72ff.); user annotation "ci: elaborate on this" at p. 72; architect breadth vs developer depth; stale expertise and Frozen Caveman as failure modes
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 2: the knowledge pyramid model (pp. 72ff.); user annotation "ci: elaborate on this" at p. 72; architect breadth vs developer depth; stale expertise and Frozen Caveman as failure modes

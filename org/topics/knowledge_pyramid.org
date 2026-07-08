@@ -33,4 +33,4 @@ Techniques for expanding "stuff you know you don't know" (see [[id:c02a0524-7970
 The pyramid applies beyond software: in any knowledge-intensive discipline, practitioners must decide how to allocate learning time between deepening existing expertise and broadening into adjacent domains. The same tension appears in [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][deep work]] (depth) vs the breadth needed for synthesis and creative cross-pollination.
 
 * Resources
-- 2026-06-16 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 2: the knowledge pyramid model (pp. 72ff.); user annotation "ci: elaborate on this" at p. 72; architect breadth vs developer depth; stale expertise and Frozen Caveman as failure modes
+- 2026-06-16 ◦ [[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 2: the knowledge pyramid model (pp. 72ff.); user annotation "ci: elaborate on this" at p. 72; architect breadth vs developer depth; stale expertise and Frozen Caveman as failure modes

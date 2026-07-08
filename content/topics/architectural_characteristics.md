@@ -97,7 +97,7 @@ Decomposing composite characteristics into measurable parts is prerequisite to m
 
 _([Fundamentals of Software Architecture, 2E]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}), Ch. 6)_
 
-Making characteristics operational — giving them concrete, measurable definitions — is necessary before they can be governed. Operational characteristics have direct metrics (response time, error rate). Structural characteristics require code-level tools (Cyclomatic Complexity, LCOM, metrics). Process characteristics (testability, deployability) are measured through code coverage, deployment frequency, and failure rates.
+Making characteristics operational — giving them concrete, measurable definitions — is necessary before they can be governed. Operational characteristics have direct metrics (response time, error rate). Structural characteristics require code-level tools (Cyclomatic Complexity, LCOM, [coupling]({{< relref "coupling.md" >}}) metrics). Process characteristics (testability, deployability) are measured through code coverage, deployment frequency, and failure rates.
 
 Once defined and measured, characteristics are enforced through — see .
 
@@ -130,5 +130,5 @@ _([Fundamentals of Software Architecture, 2E]({{< relref "../books/done/fundamen
 
 ## Resources {#resources}
 
--   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 4: full definition, three criteria, four categories (operational/structural/cloud/cross-cutting), implicit vs explicit, and trade-off / least-worst-architecture discussion; user highlight (p. 170): prefers "architectural characteristics" over "non-functional requirements"
--   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 5: domain-concern translation table, composite characteristics (agility = deployability + modularity + testability), Silicon Sandwiches and GGG katas, limiting to top-three prioritisation, Vasa antipattern; Ch. 6: making characteristics operational (Cyclomatic Complexity, code coverage, deployment metrics), governing via fitness functions
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 4: full definition, three criteria, four categories (operational/structural/cloud/cross-cutting), implicit vs explicit, and trade-off / least-worst-architecture discussion; user highlight (p. 170): prefers "architectural characteristics" over "non-functional requirements"
+-   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 5: domain-concern translation table, composite characteristics (agility = deployability + modularity + testability), Silicon Sandwiches and GGG katas, limiting to top-three prioritisation, Vasa antipattern; Ch. 6: making characteristics operational (Cyclomatic Complexity, code coverage, deployment metrics), governing via fitness functions

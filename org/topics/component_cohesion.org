@@ -44,4 +44,4 @@ The Chidamber and Kemerer metric measures structural cohesion. LCOM = "the sum o
 Limitation: LCOM can only find structural lack of cohesion. It cannot determine whether pieces fit together logically. This reflects the Second Law of Software Architecture: why is more important than how.
 
 * Resources
-- 2026-06-16 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 3: cohesion as modularity metric; seven cohesion types from functional (best) to coincidental (worst); LCOM metric and its limitations; Constantine's quote; user annotation "ci: llm ingest cohesion" (p. 130)
+- 2026-06-16 ◦ [[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 3: cohesion as modularity metric; seven cohesion types from functional (best) to coincidental (worst); LCOM metric and its limitations; Constantine's quote; user annotation "ci: llm ingest cohesion" (p. 130)

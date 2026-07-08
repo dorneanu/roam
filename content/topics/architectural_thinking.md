@@ -25,7 +25,7 @@ Architecture and design exist on a spectrum, not in separate buckets. Three crit
 
 ## Technical breadth vs depth {#technical-breadth-vs-depth}
 
-Developers must have deep expertise (technical depth). Architects must have wide exposure (technical breadth). The captures this:
+Developers must have deep expertise (technical depth). Architects must have wide exposure (technical breadth). The [knowledge pyramid]({{< relref "knowledge_pyramid.md" >}}) captures this:
 
 -   Top (small): stuff you know — your expertise, requiring maintenance
 -   Middle (large): stuff you know you don't know — your breadth, the most valuable architect asset
@@ -82,11 +82,11 @@ Architects must stay hands-on to avoid losing credibility and to avoid the Bottl
 ## Related topics {#related-topics}
 
 -   [Software architect]({{< relref "software_architect.md" >}}) — the role that exercises architectural thinking
--   — the mental model underlying technical breadth/depth
+-   [Knowledge pyramid]({{< relref "knowledge_pyramid.md" >}}) — the mental model underlying technical breadth/depth
 -   [Architectural characteristics]({{< relref "architectural_characteristics.md" >}}) — translating business drivers into characteristics is a core part of architectural thinking
 -   [Software architecture]({{< relref "software_architecture.md" >}}) — the laws that underpin all architectural thinking
 
 
 ## Resources {#resources}
 
--   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 2: architecture vs design spectrum, knowledge pyramid, technical breadth, 20-minute rule, personal radar, Frozen Caveman antipattern, trade-off analysis (topics vs queues case study), balancing hands-on coding; key quotes from Ford and Hickey on trade-offs
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 2: architecture vs design spectrum, knowledge pyramid, technical breadth, 20-minute rule, personal radar, Frozen Caveman antipattern, trade-off analysis (topics vs queues case study), balancing hands-on coding; key quotes from Ford and Hickey on trade-offs

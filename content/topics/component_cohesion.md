@@ -22,7 +22,7 @@ Cohesion refers to the extent to which a module's parts should be contained with
 >
 > Larry Constantine
 
-This is part of the broader [modularity]({{< relref "modularity.md" >}}) measurement toolkit, alongside [coupling]({{< relref "coupling.md" >}}) and [connascence]({{< relref "connascence.md" >}}).
+This is part of the broader measurement toolkit, alongside [coupling]({{< relref "coupling.md" >}}) and [connascence]({{< relref "connascence.md" >}}).
 
 
 ### Seven types of cohesion (best to worst) {#seven-types-of-cohesion--best-to-worst}
@@ -45,4 +45,4 @@ Limitation: LCOM can only find structural lack of cohesion. It cannot determine 
 
 ## Resources {#resources}
 
--   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 3: cohesion as modularity metric; seven cohesion types from functional (best) to coincidental (worst); LCOM metric and its limitations; Constantine's quote; user annotation "ci: llm ingest cohesion" (p. 130)
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 3: cohesion as modularity metric; seven cohesion types from functional (best) to coincidental (worst); LCOM metric and its limitations; Constantine's quote; user annotation "ci: llm ingest cohesion" (p. 130)

@@ -65,7 +65,7 @@ These three universal truths cut across all architecture work (Richards &amp; Fo
 
 ## Resource {#resource}
 
--   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 1–4: four-dimensional definition, three laws, eight architect expectations, [modularity]({{< relref "modularity.md" >}}), [architectural characteristics]({{< relref "architectural_characteristics.md" >}}) taxonomy, trade-offs and least-worst-architecture principle
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 1–4: four-dimensional definition, three laws, eight architect expectations, [modularity]({{< relref "modularity.md" >}}), [architectural characteristics]({{< relref "architectural_characteristics.md" >}}) taxonomy, trade-offs and least-worst-architecture principle
 -   2024-11-21 ◦ [Architecture Antipatterns](https://architecture-antipatterns.tech/)
 -   2022-11-07 ◦ [GitHub - mehdihadeli/awesome-software-architecture: A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.](https://github.com/mehdihadeli/awesome-software-architecture)
     -   Also check out [awesome-architecture.com](https://awesome-architecture.com/)

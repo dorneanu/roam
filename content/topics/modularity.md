@@ -69,7 +69,7 @@ A more precise vocabulary for describing coupling in object-oriented systems —
 
 ## Governing modularity with fitness functions {#governing-modularity-with-fitness-functions}
 
-Modularity is important but not urgent — the first casualty under schedule pressure. IDE auto-import features make it trivially easy for developers to create unintended cross-component dependencies without thinking about it. [Fitness functions]({{< relref "fitness_functions.md" >}}) provide automated governance:
+Modularity is important but not urgent — the first casualty under schedule pressure. IDE auto-import features make it trivially easy for developers to create unintended cross-component dependencies without thinking about it. provide automated governance:
 
 
 ### Cyclic dependency fitness function {#cyclic-dependency-fitness-function}
@@ -91,7 +91,7 @@ This turns a "review it and hope" concern into a hard build failure on every com
 
 For layered architectures, ArchUnit (Java) or NetArchTest (.NET) can enforce that components only call their permitted neighbours (e.g. Controller → Service → Persistence, never skipping). This prevents architectural erosion where developers shortcut layers for local performance reasons.
 
-See [architectural governance]({{< relref "architectural_governance.md" >}}) for the broader tool landscape and governance philosophy.
+See for the broader tool landscape and governance philosophy.
 
 
 ## Cyclomatic Complexity {#cyclomatic-complexity}
@@ -112,5 +112,5 @@ Modular languages (Modula, Ada) appeared in the mid-1980s as structured programm
 
 ## Resources {#resources}
 
--   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 3: full treatment of modularity, granularity vs modularity, cohesion types, coupling metrics (afferent/efferent, abstractness, instability, distance from main sequence), and connascence as the three measurement tools; quotes Myers 1978 and Constantine on cohesion
--   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 6: cyclic dependency antipattern and JDepend fitness function; ArchUnit / NetArchTest for layer governance; Cyclomatic Complexity metric (CC = E − N + 2); TDD's side effect of lower CC; importance of governing modularity since it is important-but-not-urgent
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 3: full treatment of modularity, granularity vs modularity, cohesion types, coupling metrics (afferent/efferent, abstractness, instability, distance from main sequence), and connascence as the three measurement tools; quotes Myers 1978 and Constantine on cohesion
+-   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 6: cyclic dependency antipattern and JDepend fitness function; ArchUnit / NetArchTest for layer governance; Cyclomatic Complexity metric (CC = E − N + 2); TDD's side effect of lower CC; importance of governing modularity since it is important-but-not-urgent

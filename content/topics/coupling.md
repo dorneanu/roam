@@ -7,7 +7,7 @@ draft = false
 
 ## Overview {#overview}
 
-Coupling measures the degree to which components in a software system depend on one another. High coupling means a change in one component is likely to require changes in others — making systems brittle and expensive to maintain. Coupling is one of the three key metrics for measuring [modularity]({{< relref "modularity.md" >}}), alongside cohesion and [connascence]({{< relref "connascence.md" >}}). The concept originates in Edward Yourdon and Larry Constantine's _Structured Design_ (1979) and was extended for object-oriented systems by Meilir Page-Jones.
+Coupling measures the degree to which components in a software system depend on one another. High coupling means a change in one component is likely to require changes in others — making systems brittle and expensive to maintain. Coupling is one of the three key metrics for measuring , alongside cohesion and [connascence]({{< relref "connascence.md" >}}). The concept originates in Edward Yourdon and Larry Constantine's _Structured Design_ (1979) and was extended for object-oriented systems by Meilir Page-Jones.
 
 
 ## Afferent and efferent coupling {#afferent-and-efferent-coupling}
@@ -55,7 +55,7 @@ Plots a component's position relative to the "main sequence" — the ideal relat
 
 ## Governing coupling health with fitness functions {#governing-coupling-health-with-fitness-functions}
 
-The distance-from-main-sequence metric can be enforced automatically using a [fitness function]({{< relref "fitness_functions.md" >}}) — turning the metric from a diagnostic tool into a build gate. Using JDepend (Java):
+The distance-from-main-sequence metric can be enforced automatically using a — turning the metric from a diagnostic tool into a build gate. Using JDepend (Java):
 
 ```java
 @Test
@@ -74,7 +74,7 @@ void AllPackages() {
 
 This establishes a per-package distance threshold; the build fails if any package drifts too far from the main sequence. ArchUnit provides similar capabilities with more expressive rule syntax.
 
-Wiring these checks into CI means coupling health is governed continuously rather than periodically in code review — important because coupling degradation happens gradually and is invisible until structural damage is severe. See [architectural governance]({{< relref "architectural_governance.md" >}}) for the broader strategy.
+Wiring these checks into CI means coupling health is governed continuously rather than periodically in code review — important because coupling degradation happens gradually and is invisible until structural damage is severe. See for the broader strategy.
 
 
 ## Coupling types in object-oriented systems {#coupling-types-in-object-oriented-systems}
@@ -99,10 +99,10 @@ At the architectural level, excessive coupling between services or components pr
 -   Distributed Monoliths
 -   Big Ball of Distributed Mud
 
-Granularity decisions (how small to make services or components) are the primary coupling driver at the architecture level. See [modularity]({{< relref "modularity.md" >}}) for the full picture.
+Granularity decisions (how small to make services or components) are the primary coupling driver at the architecture level. See for the full picture.
 
 
 ## Resources {#resources}
 
--   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 3: afferent/efferent coupling, abstractness, instability, distance from main sequence, Zone of Pain/Uselessness; coupling as one of three modularity metrics; user annotation "ci: llm ingest coupling" (p. 141)
--   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 6: distance-from-main-sequence fitness function (JDepend tolerance threshold per package); ArchUnit as more expressive alternative; wiring coupling health checks into CI as automated governance
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 3: afferent/efferent coupling, abstractness, instability, distance from main sequence, Zone of Pain/Uselessness; coupling as one of three modularity metrics; user annotation "ci: llm ingest coupling" (p. 141)
+-   2026-06-18 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 6: distance-from-main-sequence fitness function (JDepend tolerance threshold per package); ArchUnit as more expressive alternative; wiring coupling health checks into CI as automated governance

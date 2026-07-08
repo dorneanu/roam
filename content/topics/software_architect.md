@@ -47,4 +47,4 @@ See [architectural thinking]({{< relref "architectural_thinking.md" >}}) for the
 
 ## Resources {#resources}
 
--   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 1–2: eight expectations in full detail (pp. 41–58); leadership as "at least half" the role; organizational politics as a core architect competency; all eight expectations quoted from user's reading notes
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 1–2: eight expectations in full detail (pp. 41–58); leadership as "at least half" the role; organizational politics as a core architect competency; all eight expectations quoted from user's reading notes

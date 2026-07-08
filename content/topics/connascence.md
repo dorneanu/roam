@@ -7,7 +7,7 @@ draft = false
 
 ## Overview {#overview}
 
-Connascence is a precise vocabulary for describing types of between components in object-oriented systems. Coined by Meilir Page-Jones in _What Every Programmer Should Know about Object-Oriented Design_ (1996), it goes beyond the blunt afferent/efferent coupling metrics by naming and categorising the specific reasons two components must change together. Two components are connascent if a change in one would require the other to be modified to maintain overall correctness. Unlike coupling metrics, connascence is a language for conversations about code quality, not just a measurement.
+Connascence is a precise vocabulary for describing types of [coupling]({{< relref "coupling.md" >}}) between components in object-oriented systems. Coined by Meilir Page-Jones in _What Every Programmer Should Know about Object-Oriented Design_ (1996), it goes beyond the blunt afferent/efferent coupling metrics by naming and categorising the specific reasons two components must change together. Two components are connascent if a change in one would require the other to be modified to maintain overall correctness. Unlike coupling metrics, connascence is a language for conversations about code quality, not just a measurement.
 
 
 ## Types of connascence {#types-of-connascence}
@@ -78,9 +78,9 @@ _([Fundamentals of Software Architecture, 2E]({{< relref "../books/done/fundamen
 
 Connascence gives architects and reviewers a shared vocabulary. Instead of saying "don't use magic strings," an architect can say "you have Connascence of Meaning — refactor to Connascence of Name by extracting a named constant." This precision speeds up code review and makes refactoring intent explicit.
 
-Connascence relates directly to metrics: it extends Yourdon and Constantine's afferent/efferent coupling for object-oriented contexts and is one of the three key tools for measuring (alongside cohesion and coupling).
+Connascence relates directly to [coupling]({{< relref "coupling.md" >}}) metrics: it extends Yourdon and Constantine's afferent/efferent coupling for object-oriented contexts and is one of the three key tools for measuring (alongside cohesion and coupling).
 
 
 ## Resources {#resources}
 
--   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford](</Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub>) — Ch. 3: full taxonomy of static and dynamic connascence, properties (strength, locality, degree), and Weirich's rules; connascence positioned as a vocabulary for coupling conversations (user annotation: "ci: llm ingest connascence", p. 152)
+-   2026-06-16 ◦ [Fundamentals of Software Architecture, 2E — Richards &amp; Ford]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}) — Ch. 3: full taxonomy of static and dynamic connascence, properties (strength, locality, degree), and Weirich's rules; connascence positioned as a vocabulary for coupling conversations (user annotation: "ci: llm ingest connascence", p. 152)

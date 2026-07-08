@@ -48,4 +48,4 @@ The intent is never to catch developers out; it is to automate the structural hy
 - [[id:5a26ed6a-80d8-4fe8-b9db-0c1956ec8c2e][Software architecture]] — governance as one of the architect's core responsibilities
 
 * Resources
-- 2026-06-18 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 6: governance as CI→DevOps→architectural-governance evolution; ArchUnit, NetArchTest, JDepend as tooling; Netflix Simian Army as production governance; checklist manifesto framing; developer-trust principle
+- 2026-06-18 ◦ [[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 6: governance as CI→DevOps→architectural-governance evolution; ArchUnit, NetArchTest, JDepend as tooling; Netflix Simian Army as production governance; checklist manifesto framing; developer-trust principle

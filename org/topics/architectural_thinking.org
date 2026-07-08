@@ -71,4 +71,4 @@ Architects must stay hands-on to avoid losing credibility and to avoid the Bottl
 - [[id:5a26ed6a-80d8-4fe8-b9db-0c1956ec8c2e][Software architecture]] — the laws that underpin all architectural thinking
 
 * Resources
-- 2026-06-16 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 2: architecture vs design spectrum, knowledge pyramid, technical breadth, 20-minute rule, personal radar, Frozen Caveman antipattern, trade-off analysis (topics vs queues case study), balancing hands-on coding; key quotes from Ford and Hickey on trade-offs
+- 2026-06-16 ◦ [[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 2: architecture vs design spectrum, knowledge pyramid, technical breadth, 20-minute rule, personal radar, Frozen Caveman antipattern, trade-off analysis (topics vs queues case study), balancing hands-on coding; key quotes from Ford and Hickey on trade-offs

@@ -52,7 +52,7 @@ Neal Ford
 * Additional literature
 - [[https://www.goodreads.com/book/show/296981.Object_Oriented_Software_Engineering][Object-Oriented Software Engineering by Ivar Jacobson]]
 * Resource
-- 2026-06-16 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 1–4: four-dimensional definition, three laws, eight architect expectations, [[id:4b4d8324-afd8-49ff-9f19-b5bde5b02022][modularity]], [[id:f9912f2f-5861-469f-816e-0765a78687b1][architectural characteristics]] taxonomy, trade-offs and least-worst-architecture principle
+- 2026-06-16 ◦ [[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 1–4: four-dimensional definition, three laws, eight architect expectations, [[id:4b4d8324-afd8-49ff-9f19-b5bde5b02022][modularity]], [[id:f9912f2f-5861-469f-816e-0765a78687b1][architectural characteristics]] taxonomy, trade-offs and least-worst-architecture principle
 - 2024-11-21 ◦ [[https://architecture-antipatterns.tech/][Architecture Antipatterns]]
 - 2022-11-07 ◦ [[https://github.com/mehdihadeli/awesome-software-architecture][GitHub - mehdihadeli/awesome-software-architecture: A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.]]
   - Also check out [[https://awesome-architecture.com/][awesome-architecture.com]]

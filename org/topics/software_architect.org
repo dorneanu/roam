@@ -46,4 +46,4 @@ Richards and Ford identify eight core expectations for any software architect, r
 See [[id:c02a0524-7970-43bb-b19c-49994bdf612b][architectural thinking]] for the full treatment of: architecture vs design spectrum, technical breadth vs depth, trade-off analysis, Frozen Caveman antipattern, and balancing hands-on coding.
 
 * Resources
-- 2026-06-16 ◦ [[/Apps/Dropbox PocketBook/E-Books/2026/OceanofPDF.com-Fundamentals_of_Software_Architecture_2E_-_Mark_Richards.epub][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 1–2: eight expectations in full detail (pp. 41–58); leadership as "at least half" the role; organizational politics as a core architect competency; all eight expectations quoted from user's reading notes
+- 2026-06-16 ◦ [[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E — Richards & Ford]] — Ch. 1–2: eight expectations in full detail (pp. 41–58); leadership as "at least half" the role; organizational politics as a core architect competency; all eight expectations quoted from user's reading notes
