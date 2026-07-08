@@ -138,7 +138,7 @@ The agent scans all `org/topics/*.org` files and reports:
 - Missing per-section source attribution lines
 - Potential duplicate content across topic files
 
-**Usage:** Run the agent to get a prioritised list of suggestions. The agent is read-only — it never edits files. Review the report and approve which items to act on.
+**Usage:** Run the agent to get a prioritised list of suggestions. The agent delegates to the Go tool at `/home/hermes/projects/ai-tools/wiki-lint/wiki-lint` (~90ms for a full scan). The agent is read-only — it never edits files. Review the report and approve which items to act on.
 
 ## Book Summary Posts
 
