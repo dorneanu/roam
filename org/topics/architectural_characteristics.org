@@ -8,6 +8,8 @@
 Architectural characteristics are the capabilities a system must support to be successful — independent of the problem domain (the business behavior). They are what Richards and Ford call the "-ilities": scalability, availability, maintainability, security, and so on. The preferred term in /Fundamentals of Software Architecture/ (over "non-functional requirements" or "quality attributes") because it names concerns that are critical to architectural success rather than dismissing them as "non-functional." In the authors' framing: domain requirements describe what the system does; architectural characteristics describe how the system does it.
 
 * Three criteria for an architectural characteristic
+/([[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E]], Ch. 4)/
+
 A requirement qualifies as an architectural characteristic only if all three of the following are true:
 1. *Specifies a nondomain design consideration* — it is about capabilities (how), not behavior (what).
 2. *Influences some structural aspect of the design* — it cannot be fully handled by clever coding alone; it may require special structure.
@@ -16,10 +18,13 @@ A requirement qualifies as an architectural characteristic only if all three of 
 Adding architectural characteristics adds complexity. Architects should choose the fewest possible, not the most.
 
 * Implicit vs explicit
+/([[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E]], Ch. 4)/
+
 - *Implicit characteristics* rarely appear in requirements documents but are necessary for success. Availability, reliability, and security underpin virtually all systems.
 - *Explicit characteristics* appear directly in requirements documents or specific instructions from stakeholders.
 
 * Categories
+/([[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E]], Ch. 4)/
 
 ** Operational
 Cover runtime capabilities: availability, continuity (disaster recovery), performance, recoverability, reliability/safety, robustness, scalability. These overlap heavily with DevOps concerns and most often require special structural support.
@@ -34,6 +39,8 @@ Introduced in the 2nd edition: on-demand scalability, on-demand elasticity, zone
 Characteristics that defy single-category classification: accessibility, archivability, authentication, authorization, legal/compliance, privacy, security, supportability, usability/achievability.
 
 * Trade-offs and the least-worst principle
+/([[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E]], Ch. 4)/
+
 Architectural characteristics are synergistic — improving one often degrades another (e.g. adding encryption for security degrades performance). Because of this interaction, architects can rarely maximise every characteristic simultaneously. The guiding principle:
 
 #+begin_quote
@@ -43,6 +50,8 @@ Never strive for the best architecture; aim for the least worst architecture.
 Trying to support too many characteristics produces unwieldy generic solutions. Prefer iterative architecture designs that are easy to change.
 
 * Identifying characteristics from domain concerns
+/([[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E]], Ch. 5)/
+
 Architects and domain stakeholders speak different languages: architects talk about scalability and fault tolerance; stakeholders talk about mergers, user satisfaction, and time to market. The key skill is translation.
 
 | Domain concern            | Architectural characteristics                                      |
@@ -56,21 +65,29 @@ Architects and domain stakeholders speak different languages: architects talk ab
 This translation is practiced through [[id:b51a2811-2fe3-4f03-a8c0-ff4199376e17][architecture katas]].
 
 * Composite characteristics
+/([[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E]], Ch. 5)/
+
 Some characteristics have no single objective definition — they are compositions of other measurable things. /Agility/ is the canonical example: it decomposes into deployability, modularity, and testability. A common antipattern is focusing on just one component of a composite (e.g. optimising only performance when a stakeholder says "the system must complete end-of-day processing on time," missing availability, scalability, reliability, and recoverability).
 
 Decomposing composite characteristics into measurable parts is prerequisite to making them governable via [[id:953cf8e0-8716-4288-a304-08be0f5c6931][fitness functions]].
 
 * Measuring and governing characteristics
+/([[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E]], Ch. 6)/
+
 Making characteristics operational — giving them concrete, measurable definitions — is necessary before they can be governed. Operational characteristics have direct metrics (response time, error rate). Structural characteristics require code-level tools (Cyclomatic Complexity, LCOM, [[id:e3ea3021-3adb-4611-abca-ce0cce3cb27c][coupling]] metrics). Process characteristics (testability, deployability) are measured through code coverage, deployment frequency, and failure rates.
 
 Once defined and measured, characteristics are enforced through [[id:953cf8e0-8716-4288-a304-08be0f5c6931][fitness functions]] — see [[id:575d9629-d5b9-41c4-9868-2e864400fa0c][architectural governance]].
 
 * Limiting and prioritising
+/([[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E]], Ch. 5)/
+
 Working with stakeholders to reduce the final list is essential. Each supported characteristic adds design complexity before addressing the domain problem. A practical technique: ask stakeholders to select the top three most important characteristics from the candidate list (rather than ranking all of them). This easier consensus-finding exercise drives the most important trade-off discussions.
 
 The Vasa antipattern: the Swedish warship built in 1628 was specified to satisfy too many competing requirements (troops + guns + two gun decks) and sank on its maiden voyage. Overspecification of architectural characteristics has the same effect.
 
 * Terminology note
+/([[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture, 2E]], Ch. 4)/
+
 "Non-functional requirements" is the legacy term (appearing since the late 1970s alongside function-point analysis). "Quality attributes" is another common alternative. Richards and Ford argue both terms are self-denigrating or misleading, and recommend "architectural characteristics" as the more precise and appropriately weighted term.
 
 * Related topics

@@ -12,6 +12,8 @@ Connascence is a precise vocabulary for describing types of between components i
 
 ## Types of connascence {#types-of-connascence}
 
+_([Fundamentals of Software Architecture, 2E]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}), Ch. 3)_
+
 
 ### Static connascence {#static-connascence}
 
@@ -36,6 +38,8 @@ Dynamic connascence is execution-time coupling, harder to detect and generally m
 
 ## Properties {#properties}
 
+_([Fundamentals of Software Architecture, 2E]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}), Ch. 3)_
+
 
 ### Strength {#strength}
 
@@ -54,6 +58,8 @@ Degree relates to the scope of impact: does a change affect a few classes or man
 
 ## Rules and guidelines {#rules-and-guidelines}
 
+_([Fundamentals of Software Architecture, 2E]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}), Ch. 3)_
+
 Page-Jones' three guidelines for using connascence to improve :
 
 1.  Minimise overall connascence by breaking the system into encapsulated elements.
@@ -67,6 +73,8 @@ Jim Weirich's two rules (from "Connascence Examined", 2012):
 
 
 ## Practical use {#practical-use}
+
+_([Fundamentals of Software Architecture, 2E]({{< relref "../books/done/fundamentals_of_software_architecture.md" >}}), Ch. 3)_
 
 Connascence gives architects and reviewers a shared vocabulary. Instead of saying "don't use magic strings," an architect can say "you have Connascence of Meaning — refactor to Connascence of Name by extracting a named constant." This precision speeds up code review and makes refactoring intent explicit.
 
