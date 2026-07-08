@@ -1,6 +1,6 @@
 +++
 title = "Pornography and adolescent harm"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology", "health"]
 draft = false
 +++
@@ -40,4 +40,4 @@ Haidt warns that the harms from pornography are likely to intensify with the met
 
 ## Resources {#resources}
 
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — presents Swedish prevalence data, the 5:1–10:1 addiction gender ratio, the meta-analytic evidence on interpersonal satisfaction, and the pornography-as-prestige-hijack framing within the broader push-pull analysis of boys' disengagement from the real world
+-   2026-06-02 ◦ — presents Swedish prevalence data, the 5:1–10:1 addiction gender ratio, the meta-analytic evidence on interpersonal satisfaction, and the pornography-as-prestige-hijack framing within the broader push-pull analysis of boys' disengagement from the real world

@@ -1,6 +1,6 @@
 +++
 title = "Overparenting"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology", "health"]
 draft = false
 +++
@@ -50,4 +50,4 @@ See also: [Mean World Syndrome]({{< relref "mean_world_syndrome.md" >}}), [Phone
 ## Resources {#resources}
 
 -   2026-05-19 ◦ [The Cost of Safetyism — Steve Magness](https://stevemagness.substack.com/p/the-cost-of-safetyism) — documents how intensive parenting, despite parental awareness that it is counterproductive, produces anxiety and prevents children from developing resilience
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — presents Furedi's "breakdown of adult solidarity" as the root cause of the overparenting shift; documents cross-national evidence that fearful parenting intensified in the 1990s across the Anglosphere; frames overprotection as blocking children from [Antifragility]({{< relref "antifragility.md" >}}) development
+-   2026-06-02 ◦ — presents Furedi's "breakdown of adult solidarity" as the root cause of the overparenting shift; documents cross-national evidence that fearful parenting intensified in the 1990s across the Anglosphere; frames overprotection as blocking children from [Antifragility]({{< relref "antifragility.md" >}}) development

@@ -1,6 +1,6 @@
 +++
 title = "Social comparison"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology", "health"]
 draft = false
 +++
@@ -90,5 +90,5 @@ This produces a specific developmental failure: people who grew up with social m
 
 ## Resources {#resources}
 
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — social comparison as a causal driver of the Gen Z depression epidemic; Ch. 5 on appearance-based harm for girls; Ch. 6 on the agency/communion motivational split and boys' analog harm via extreme masculinity influencers
--   2026-06-05 ◦ [Reclaiming Conversation — Sherry Turkle (2015)](https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation) — "I share, therefore I am" as a new ontological mode; social media as performance engine rather than authenticity space; Leslie case study showing how broadcast skill (getting likes) replaces listening and empathy; friendship instrumentalised as content-production
+-   2026-06-02 ◦ — social comparison as a causal driver of the Gen Z depression epidemic; Ch. 5 on appearance-based harm for girls; Ch. 6 on the agency/communion motivational split and boys' analog harm via extreme masculinity influencers
+-   2026-06-05 ◦ — "I share, therefore I am" as a new ontological mode; social media as performance engine rather than authenticity space; Leslie case study showing how broadcast skill (getting likes) replaces listening and empathy; friendship instrumentalised as content-production

@@ -1,6 +1,6 @@
 +++
 title = "Gaming addiction"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology", "health"]
 draft = false
 +++
@@ -51,4 +51,4 @@ Gaming is one half of the "pull" side of the push-pull dynamic Haidt describes f
 
 ## Resources {#resources}
 
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — presents prevalence data (7% of adolescent boys), the four-group taxonomy, the opportunity-cost argument, and gaming's role in the push-pull dynamic driving boys out of real-world engagement
+-   2026-06-02 ◦ — presents prevalence data (7% of adolescent boys), the four-group taxonomy, the opportunity-cost argument, and gaming's role in the push-pull dynamic driving boys out of real-world engagement

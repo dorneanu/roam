@@ -1,6 +1,6 @@
 +++
 title = "Phone-based childhood"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology", "health"]
 draft = false
 +++
@@ -90,11 +90,11 @@ Sherry Turkle extends the neurodevelopmental argument with what she calls the "m
 
 (Turkle, Reclaiming Conversation, p. 96)
 
-The parallel to Haidt's "social deprivation" harm is direct: both argue that face-to-face interaction is not a preference but a developmental necessity. Turkle's framing adds the caregiver side — it is not only children's own device use that matters, but the phone-divided attention of adults around them. See [ELIZA effect]({{< relref "eliza_effect.md" >}}) for the machine-companion risk when this deficit meets AI.
+The parallel to Haidt's "social deprivation" harm is direct: both argue that face-to-face interaction is not a preference but a developmental necessity. Turkle's framing adds the caregiver side — it is not only children's own device use that matters, but the phone-divided attention of adults around them. See for the machine-companion risk when this deficit meets AI.
 
 
 ## Resources {#resources}
 
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — central argument that the transition from play-based to phone-based childhood (2010–2015) is the primary driver of the Gen Z mental health crisis
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024), Ch. 7](https://www.anxiousgeneration.com) — push-pull analysis for boys: real-world decline in boys' status + digital pull of gaming and pornography; externalizing→internalizing behavioral convergence after 2010; hikikomori and NEET as downstream outcomes; [Anomie]({{< relref "anomie.md" >}}) as the shared endpoint for boys and girls despite their divergent digital paths
--   2026-06-05 ◦ [Reclaiming Conversation — Sherry Turkle (2015)](https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation) — the "missing chip" hypothesis: face-to-face conversation in early childhood builds empathy circuitry; caregiver phone use as a neglected harm vector; children who grow up without conversation practice may not register the deficit because they have no baseline
+-   2026-06-02 ◦ — central argument that the transition from play-based to phone-based childhood (2010–2015) is the primary driver of the Gen Z mental health crisis
+-   2026-06-02 ◦ — push-pull analysis for boys: real-world decline in boys' status + digital pull of gaming and pornography; externalizing→internalizing behavioral convergence after 2010; hikikomori and NEET as downstream outcomes; [Anomie]({{< relref "anomie.md" >}}) as the shared endpoint for boys and girls despite their divergent digital paths
+-   2026-06-05 ◦ — the "missing chip" hypothesis: face-to-face conversation in early childhood builds empathy circuitry; caregiver phone use as a neglected harm vector; children who grow up without conversation practice may not register the deficit because they have no baseline

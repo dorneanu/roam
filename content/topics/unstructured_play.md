@@ -1,6 +1,6 @@
 +++
 title = "Unstructured play"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology", "health"]
 draft = false
 +++
@@ -62,4 +62,4 @@ Haidt contrasts a play-based childhood (embodied, synchronous, local, real-world
 ## Resources {#resources}
 
 -   2026-05-19 ◦ [The Cost of Safetyism — Steve Magness](https://stevemagness.substack.com/p/the-cost-of-safetyism) — argues that the replacement of unstructured play and neighborhood exploration with structured activities and supervised time has produced a generation of more anxious, less resilient children
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — documents the decline of friend time data, the loss of risky play, and the anti-phobic effects of unsupervised physical play; frames play-based childhood as the developmental environment human brains evolved to require
+-   2026-06-02 ◦ — documents the decline of friend time data, the loss of risky play, and the anti-phobic effects of unsupervised physical play; frames play-based childhood as the developmental environment human brains evolved to require

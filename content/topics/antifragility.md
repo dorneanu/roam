@@ -1,6 +1,6 @@
 +++
 title = "Antifragility"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology", "health"]
 draft = false
 +++
@@ -45,4 +45,4 @@ When children are prevented from experiencing challenge, they do not develop the
 
 ## Resources {#resources}
 
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — argues that children are antifragile by nature and that overprotection, particularly the combination of safetyism and the phone-based childhood, systematically undermines children's antifragile development
+-   2026-06-02 ◦ — argues that children are antifragile by nature and that overprotection, particularly the combination of safetyism and the phone-based childhood, systematically undermines children's antifragile development

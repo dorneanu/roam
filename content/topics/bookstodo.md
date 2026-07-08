@@ -1,6 +1,6 @@
 +++
 title = "Books/TODO"
-author = ["Dorneanu"]
+author = ["hermes"]
 draft = false
 +++
 
@@ -32,7 +32,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   2025-08-07 ◦ [Patriot: A Memoir by Alexei Navalny](https://www.goodreads.com/book/show/210943348-patriot)
 -   2025-08-07 ◦ [War by Bob Woodward](https://www.goodreads.com/book/show/217217007-war)
 -   2025-06-24 ◦ [Mind Management, Not Time Management: Productivity When Creativity Matters by David Kadavy](https://www.goodreads.com/book/show/54938047-mind-management-not-time-management)
--   ✅ 2025-06-24 ◦ [Reclaiming Conversation: The Power of Talk in a Digital Age by Sherry Turkle](https://www.goodreads.com/book/show/24612127-reclaiming-conversation)
+-   ✅ 2025-06-24 ◦
 -   2025-06-24 ◦ [You're Not Listening: What You're Missing and Why It Matters by Kate Murphy](https://www.goodreads.com/book/show/45892276-you-re-not-listening)
 -   2025-05-14 ◦ [The Stoic Challenge: A Philosopher's Guide to Becoming Tougher, Calmer, and More Resilient by William B. Irvine](https://www.goodreads.com/book/show/43726564-the-stoic-challenge)
 -   2025-05-07 ◦ [Coridorul îngust. State, societăți și soarta libertății by Daron Acemoğlu](https://www.goodreads.com/book/show/55900397)
@@ -51,13 +51,13 @@ This is my personal book TODO list, along with the year in which I added the boo
 
 ## 2024 {#2024}
 
--   ✅ 2024-11-22 ◦ [Earth for All: A Survival Guide for Humanity by Sandrine Dixson-Decleve ](https://www.goodreads.com/book/show/60878390-earth-for-all?from_search=true&from_srp=true&qid=Iy5nhrUUux&rank=1)([notes]({{< relref "../books/earth4all.md" >}}))
+-   ✅ 2024-11-22 ◦ [Earth for All: A Survival Guide for Humanity by Sandrine Dixson-Decleve ](https://www.goodreads.com/book/show/60878390-earth-for-all?from_search=true&from_srp=true&qid=Iy5nhrUUux&rank=1)()
 -   2024-10-08 ◦ [Engineering in Plain Sight: An Illustrated Field Guide to the Constructed Environment by Grady Hillhouse ](https://www.goodreads.com/book/show/60690050-engineering-in-plain-sight)
 -   2024-06-19 ◦ [26 Marathons: What I Learned About Faith, Identity, Running, and Life from My Marathon Career by Meb Keflezighi ](https://www.goodreads.com/book/show/37901578-26-marathons)
 -   2024-06-19 ◦ [What I Talk About When I Talk About Running by Haruki Murakami ](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
 -   2024-06-19 ◦ [How to Do Nothing: Resisting the Attention Economy by Jenny Odell ](https://www.goodreads.com/book/show/42771901-how-to-do-nothing)
 -   2024-05-23 ◦ [Get Better at Anything - Scott H Young](https://www.scotthyoung.com/blog/getbetter/)
--   ✅ 2024-04-02 ◦ [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat ](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat) ([Notes of Salz.Fett.Säure.Hitze]({{< relref "../books/salz_fett_saeure_hitze.md" >}}))
+-   ✅ 2024-04-02 ◦ [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat ](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat) ()
 
 
 ## 2023 {#2023}
@@ -65,7 +65,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   2023-01-24 ◦ [The Origins of Totalitarianism by Hannah Arendt](https://www.goodreads.com/book/show/396931.The_Origins_of_Totalitarianism)
 -   ✅ 2023-01-25 ◦ [The Ministry for the Future by Kim Stanley Robinson](https://www.goodreads.com/en/book/show/50998056-the-ministry-for-the-future)
 -   2023-02-02 ◦ [Words Can Change Your Brain: 12 Conversation Strategies to Build Trust, Resolve Conflict, and Increase Intimacy by Andrew B. Newberg ](https://www.goodreads.com/book/show/13542827-words-can-change-your-brain)
--   ✅ 2023-02-02 ◦ [The Righteous Mind: Why Good People Are Divided by Politics and Religion by Jonathan Haidt ](https://www.goodreads.com/book/show/11324722-the-righteous-mind) ([notes]({{< relref "../books/the_righteous_mind.md" >}}))
+-   ✅ 2023-02-02 ◦ [The Righteous Mind: Why Good People Are Divided by Politics and Religion by Jonathan Haidt ](https://www.goodreads.com/book/show/11324722-the-righteous-mind) ()
 -   2023-10-31 ◦ [Jaws: The Story of a Hidden Epidemic by Sandra Kahn ](https://www.goodreads.com/en/book/show/35804366)
 -   Amplifying Our Humanity Through AI]]
 
@@ -75,14 +75,14 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   2022-09-07 ◦ [Peak: Secrets from the New Science of Expertise by K. Anders Ericsson](https://www.goodreads.com/book/show/26312997-peak)
 -   2022-09-12 ◦ [Learning Domain-Driven Design [Book](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)] ([DDD]({{< relref "ddd.md" >}}))
 -   2022-09-12 ◦ [Fundamentals of Software Architecture: An Engineering Approach by Mark Richards](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture)
--   ✅ 2022-09-12 ◦ [Team Topologies](https://teamtopologies.com/) ([notes]({{< relref "../books/team_topologies.md" >}}))
+-   ✅ 2022-09-12 ◦ [Team Topologies](https://teamtopologies.com/) ()
 -   2022-09-12 ◦ [This is Service Design Doing — Book / School / Methods](https://www.thisisservicedesigndoing.com/)
 -   2022-09-12 ◦ [The Unicorn Project | by Gene Kim (author of The Phoenix Project)](https://itrevolution.com/the-unicorn-project/)
 -   2022-09-12 ◦ [The Book | HOOKPOINT](https://hookpoint.com/the-book/)
 -   2022-11-03 ◦ [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence by Michael Pollan](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind)
 -   2022-11-29 ◦ [The Future Is Analog: How to Create a More Human World by David Sax](https://www.goodreads.com/book/show/60568520-the-future-is-analog)
 -   2022-12-08 ◦ [Nu tot ei! : România în ghearele imposturii by Valeriu Nicolae](https://www.goodreads.com/book/show/55853540-nu-tot-ei)
--   ✅ 2022-12-14 ◦ [Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions) ([notes]({{< relref "../books/brief_answers_to_the_big_questions.md" >}}))
+-   ✅ 2022-12-14 ◦ [Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions) ()
 -   2023-01-02 ◦ [Why We Sleep: Unlocking the Power of Sleep and Dreams by Matthew Walker](https://www.goodreads.com/book/show/34466963-why-we-sleep)
 -   2023-01-02 ◦ [Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling by Matthew Dicks](https://www.goodreads.com/en/book/show/37786022-storyworthy)
 -   ✅ 2023-01-02 ◦ [The Minimalist Entrepreneur: How Great Founders Do More with Less by Sahil Lavingia](https://www.goodreads.com/en/book/show/56913172-the-minimalist-entrepreneur)
@@ -105,7 +105,7 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   TODO Der alte König in seinem Exil
 -   TODO Die Klimaschmutzlobby
 -   TODO Nichts ist wie es scheint
--   ✅ [how demcrocacies die](https://www.goodreads.com/book/show/35356384-how-democracies-die%5D%5D) ([notes]({{< relref "../books/how_democracies_die.md" >}}))
+-   ✅ [how demcrocacies die](https://www.goodreads.com/book/show/35356384-how-democracies-die%5D%5D) ()
 -   [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/book/show/6667514-the-checklist-manifesto)
 -   [Sursa](https://www.amazon.com/Sursa-Romanian-Tara-Swart/dp/6067223929)
 -   [Food Rules](https://www.goodreads.com/book/show/7015635-food-rules)
@@ -125,18 +125,18 @@ This is my personal book TODO list, along with the year in which I added the boo
 -   [The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA](https://www.goodreads.com/book/show/995029.The_Challenger_Launch_Decision)
 -   [Civilized to Death: What Was Lost on the Way to Modernity](https://www.goodreads.com/book/show/28596619-civilized-to-death)
 -   [Keep Sharp: Build a Better Brain at Any Age](https://www.goodreads.com/en/book/show/52754076-keep-sharp)
--   ✅ [Company of one - Paul Jarvis]({{< relref "../books/company_of_one.md" >}})
+-   ✅
 -   [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
 -   [Business Adventures](https://www.goodreads.com/book/show/4191136-business-adventures) (recommened by Bill Gates)
 -   [The Art of possibility](https://www.goodreads.com/ro/book/show/85697.The_Art_of_Possibility)
--   [✅ Blueprint for Revolution, Popovic (](https://www.goodreads.com/book/show/22107280-blueprint-for-revolution)[notes]({{< relref "../books/blueprint_for_revolution.md" >}}))
+-   [✅ Blueprint for Revolution, Popovic (](https://www.goodreads.com/book/show/22107280-blueprint-for-revolution))
 -   [Make it sick](https://www.goodreads.com/book/show/18770267-make-it-stick)
 -   [Good to great](https://www.goodreads.com/book/show/76865.Good_to_Great)
--   [✅ Reclaiming conversations](https://www.goodreads.com/book/show/24612127-reclaiming-conversation)
+-
 
 
 ### Tech {#tech}
 
 -   [Designing Data-Intensive Applications](https://dataintensive.net/)
 -   [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/work/best_book/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software) ([DDD]({{< relref "ddd.md" >}}))
--   ✅ [Software Engineering at Google](https://abseil.io/resources/swe-book) ([notes]({{< relref "../books/software_engineering_at_google.md" >}}))
+-   ✅ [Software Engineering at Google](https://abseil.io/resources/swe-book) ()

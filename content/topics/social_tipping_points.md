@@ -1,6 +1,6 @@
 +++
 title = "Social tipping points"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["science", "economics", "philosophy"]
 draft = false
 +++
@@ -14,7 +14,7 @@ The concept is central to transformation thinking: rather than assuming that lar
 
 ## Earth for All and social tipping points {#earth-for-all-and-social-tipping-points}
 
-"Earth for All" (Club of Rome, 2022) argues that the [Giant Leaps]({{< relref "giant_leaps.md" >}}) scenario is achievable because social tipping dynamics have already been observed in clean energy, food systems, and social norms around gender equality. Key examples cited:
+"Earth for All" (Club of Rome, 2022) argues that the scenario is achievable because social tipping dynamics have already been observed in clean energy, food systems, and social norms around gender equality. Key examples cited:
 
 -   Solar PV costs fell 90%+ between 2010 and 2020, driven partly by tipping-point adoption dynamics in China and Germany
 -   Divestment from fossil fuels has reached &gt;$40 trillion in commitments — approaching a potential financial tipping point
@@ -52,7 +52,7 @@ Donella Meadows' leverage-points framework is a foundational tool for social tip
 -   Goals of the system
 -   Paradigms and mental models — most powerful: changing what people believe about how the world works
 
-Earth for All's [Giant Leaps]({{< relref "giant_leaps.md" >}}) operate across all levels, but the authors emphasise that paradigm change — abandoning GDP-growth-as-success, embracing [Wellbeing economy]({{< relref "wellbeing_economy.md" >}}) thinking — is the deepest leverage point.
+Earth for All's operate across all levels, but the authors emphasise that paradigm change — abandoning GDP-growth-as-success, embracing thinking — is the deepest leverage point.
 
 
 ## Political friction: why tipping points are hard to trigger {#political-friction-why-tipping-points-are-hard-to-trigger}
@@ -64,9 +64,9 @@ Earth for All's [Giant Leaps]({{< relref "giant_leaps.md" >}}) operate across al
 -   **Transformationslasten** (transformation burdens) — the class-specific distribution of transition costs: rural workers and low-income groups face structural constraints (no EV alternative, no public transport) that the academic middle class, focused on individual footprint reduction, systematically underestimates
 -   **Ökologische Distinction** (ecological distinction) — the middle-class "moralische Ökologie" (reflexive consumption, "listen to the science") speaks past working-class ecology (structural necessity, limited agency), generating **Reaktanz** (reactance) rather than coalition
 
-The implication for tipping-point strategy: the six tipping points identified by Earth4All are achievable only if the structural policy packages ([Giant Leaps]({{< relref "giant_leaps.md" >}})) address distribution of costs upfront. A tipping point triggered by elite norm-change without working-class buy-in risks producing a counter-tipping-point of political backlash (gilets jaunes dynamics).
+The implication for tipping-point strategy: the six tipping points identified by Earth4All are achievable only if the structural policy packages () address distribution of costs upfront. A tipping point triggered by elite norm-change without working-class buy-in risks producing a counter-tipping-point of political backlash (gilets jaunes dynamics).
 
 
 ## Resources {#resources}
 
--   2026-06-05 ◦ [Earth for All — Dixson-Declève et al. (Club of Rome, 2022)](https://www.goodreads.com/book/show/60321399-earth-for-all) — Chapter on social tipping points identifies six cascades needed for Giant Leaps; connects to clean energy, divestment, and women's empowerment dynamics; cites Chenoweth's 3.5% threshold
+-   2026-06-05 ◦ — Chapter on social tipping points identifies six cascades needed for Giant Leaps; connects to clean energy, divestment, and women's empowerment dynamics; cites Chenoweth's 3.5% threshold

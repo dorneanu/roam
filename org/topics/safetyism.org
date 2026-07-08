@@ -44,4 +44,4 @@ The shift from a campus culture of discover mode (millennials) to defend mode (G
 
 * Resources
 - 2026-05-19 ◦ [[https://stevemagness.substack.com/p/the-cost-of-safetyism][The Cost of Safetyism — Steve Magness]] — argues that the culture of safetyism in English-speaking countries, driven by fear and social pressure, is producing more anxious and less resilient children, not safer ones
-- 2026-06-02 ◦ [[https://www.anxiousgeneration.com][The Anxious Generation — Jonathan Haidt (2024)]] — identifies safetyism as the first of two "experience blockers" (alongside smartphones) that together produced the Gen Z mental health crisis; coins the complementary framing "overprotection in the real world and underprotection in the virtual world"
+- 2026-06-02 ◦ [[id:655F1C17-A841-4B1B-8D0D-7E46D5CFE5B0][The Anxious Generation — Jonathan Haidt (2024)]] — identifies safetyism as the first of two "experience blockers" (alongside smartphones) that together produced the Gen Z mental health crisis; coins the complementary framing "overprotection in the real world and underprotection in the virtual world"

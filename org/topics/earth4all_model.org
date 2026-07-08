@@ -40,4 +40,4 @@ A core finding of the Earth4All model is that social and economic systems have l
 The 1972 Limits to Growth (Club of Rome) was among the first quantitative models to show that exponential growth on a finite planet would lead to overshoot and collapse without systemic change. The Earth4All model updates this with five decades of additional data, finds the 1972 business-as-usual projections broadly accurate, and extends the analysis with inequality, wellbeing, and tipping-point dynamics.
 
 * Resources
-- 2026-06-05 ◦ [[https://www.goodreads.com/book/show/60321399-earth-for-all][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — describes the model architecture, two scenarios, and policy implications in detail; technical model documentation available at earth4all.life
+- 2026-06-05 ◦ [[id:30A94450-8170-45B0-B3A7-4BEA7DF7A4AD][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — describes the model architecture, two scenarios, and policy implications in detail; technical model documentation available at earth4all.life

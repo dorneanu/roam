@@ -26,4 +26,4 @@ The Anthropocene is the scientific context in which the [[id:ce1041c3-1f76-42ea-
 "Earth for All" (Club of Rome, 2022) uses the Anthropocene framing to argue that the question for the 21st century is not whether humans are reshaping planetary systems (they are), but whether that reshaping leads to collapse or to a stable, equitable civilisation. The [[id:08470b4c-4b45-4650-a6a9-067f801f94bb][Earth4All model]] and its [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]] scenario represent an attempt to answer that question with a quantitative transformation roadmap.
 
 * Resources
-- 2026-06-05 ◦ [[https://www.goodreads.com/book/show/60321399-earth-for-all][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — the Anthropocene is the framing context; Earth4All operationalises the question of whether humanity can navigate the Anthropocene toward stability
+- 2026-06-05 ◦ [[id:30A94450-8170-45B0-B3A7-4BEA7DF7A4AD][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — the Anthropocene is the framing context; Earth4All operationalises the question of whether humanity can navigate the Anthropocene toward stability

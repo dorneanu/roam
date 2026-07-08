@@ -1,6 +1,6 @@
 +++
 title = "Mean world syndrome"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology"]
 draft = false
 +++
@@ -36,4 +36,4 @@ See also: [Overparenting]({{< relref "overparenting.md" >}}), [Phone-Based Child
 ## Resources {#resources}
 
 -   2026-05-19 ◦ [The Cost of Safetyism — Steve Magness](https://stevemagness.substack.com/p/the-cost-of-safetyism) — uses Mean World Syndrome to explain why parents restrict children's independence despite declining real-world danger
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — documents how 24/7 cable news cycles and later neighborhood apps amplified mean world syndrome in the 1990s and 2000s, driving the fearful parenting that preceded the Great Rewiring; specifically links this to Furedi's "breakdown of adult solidarity"
+-   2026-06-02 ◦ — documents how 24/7 cable news cycles and later neighborhood apps amplified mean world syndrome in the 1990s and 2000s, driving the fearful parenting that preceded the Great Rewiring; specifically links this to Furedi's "breakdown of adult solidarity"

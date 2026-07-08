@@ -1,6 +1,6 @@
 +++
 title = "Anomie"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology", "philosophy"]
 draft = false
 +++
@@ -57,4 +57,4 @@ The NEET category (Not in Education, Employment, or Training) represents a milde
 
 ## Resources {#resources}
 
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — applies Durkheim's anomie concept to explain the convergent endpoint (meaninglessness) for boys and girls following very different digital paths; introduces the community/network distinction and the hikikomori phenomenon as an extreme case
+-   2026-06-02 ◦ — applies Durkheim's anomie concept to explain the convergent endpoint (meaninglessness) for boys and girls following very different digital paths; introduces the community/network distinction and the hikikomori phenomenon as an extreme case

@@ -1,6 +1,6 @@
 +++
 title = "ELIZA effect"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology", "ai"]
 draft = false
 +++
@@ -44,4 +44,4 @@ The ELIZA effect helps explain why [Phone-based childhood]({{< relref "phone_bas
 
 ## Resources {#resources}
 
--   2026-06-05 ◦ [Reclaiming Conversation — Sherry Turkle (2015)](https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation) — coined the term and traced it from Weizenbaum's 1966 shock to contemporary caring robots; central to Turkle's "fourth chair" argument about who we become when we talk to machines
+-   2026-06-05 ◦ — coined the term and traced it from Weizenbaum's 1966 shock to contemporary caring robots; central to Turkle's "fourth chair" argument about who we become when we talk to machines

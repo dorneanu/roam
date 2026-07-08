@@ -1,6 +1,6 @@
 +++
 title = "Free-range parenting"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology", "health"]
 draft = false
 +++
@@ -71,4 +71,4 @@ See also: [Antifragility]({{< relref "antifragility.md" >}}), [Phone-Based Child
 ## Resources {#resources}
 
 -   2026-05-19 ◦ [The Cost of Safetyism — Steve Magness](https://stevemagness.substack.com/p/the-cost-of-safetyism) — presents data on the decline of children's independence and argues for gradually lengthening the leash to build developmental resilience
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — documents the decline of childhood independence since the 1980s/90s with cross-national data; frames "far more unsupervised play and childhood independence" as one of four essential reforms to reverse the adolescent mental health crisis
+-   2026-06-02 ◦ — documents the decline of childhood independence since the 1980s/90s with cross-national data; frames "far more unsupervised play and childhood independence" as one of four essential reforms to reverse the adolescent mental health crisis

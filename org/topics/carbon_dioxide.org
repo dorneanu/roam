@@ -21,4 +21,4 @@ Atmospheric CO₂ concentration is the primary metric for the climate change [[i
 "Earth for All" (Club of Rome, 2022) identifies the clean energy transition — stopping the addition of new CO₂ to the atmosphere — as one of its five [[id:0d4ac54d-ec52-4c0f-b947-cc9d6e80c052][Giant Leaps]]. The carbon budget for 1.5°C of warming was approximately 420 GtCO₂ remaining as of 2023; at current rates (~40 GtCO₂/year), this budget will be exhausted by ~2033.
 
 * Resources
-- 2026-06-05 ◦ [[https://www.goodreads.com/book/show/60321399-earth-for-all][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — atmospheric CO₂ as the central climate boundary metric; clean energy Giant Leap modelled to limit warming to ~2°C; fossil fuel subsidies at $5–7 trillion/year are the primary political obstacle
+- 2026-06-05 ◦ [[id:30A94450-8170-45B0-B3A7-4BEA7DF7A4AD][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — atmospheric CO₂ as the central climate boundary metric; clean energy Giant Leap modelled to limit warming to ~2°C; fossil fuel subsidies at $5–7 trillion/year are the primary political obstacle

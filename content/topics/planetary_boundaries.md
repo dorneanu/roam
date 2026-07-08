@@ -1,6 +1,6 @@
 +++
 title = "Planetary boundaries"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["science", "economics"]
 draft = false
 +++
@@ -49,5 +49,5 @@ In "Earth for All: A Survival Guide for Humanity" (Club of Rome, 2022), Rockstr�
 
 ## Resources {#resources}
 
--   2026-06-05 ◦ [Earth for All — Dixson-Declève et al. (Club of Rome, 2022)](https://www.goodreads.com/book/show/60321399-earth-for-all) — planetary boundaries used as the biophysical ceiling for the Earth4All system-dynamics model; six boundaries already transgressed; five Giant Leaps designed to bring humanity back toward safe operating space
+-   2026-06-05 ◦ — planetary boundaries used as the biophysical ceiling for the Earth4All system-dynamics model; six boundaries already transgressed; five Giant Leaps designed to bring humanity back toward safe operating space
 -   2026-06-05 ◦ [Steffen et al. (2015), Planetary Boundaries: Guiding Human Development on a Changing Planet](https://www.science.org/doi/10.1126/science.1259855) — updated boundary definitions and transgression assessments

@@ -1,13 +1,13 @@
 +++
 title = "Giant Leaps"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["economics", "philosophy"]
 draft = false
 +++
 
 ## Overview {#overview}
 
-The Giant Leaps is the transformational scenario in "Earth for All: A Survival Guide for Humanity" (Club of Rome, 2022). It consists of five interconnected policy packages that, if implemented together with urgency in the 2020s, the [Earth4All model]({{< relref "earth4all_model.md" >}}) projects can stabilise climate, eliminate extreme poverty, reduce inequality, and deliver a [Wellbeing economy]({{< relref "wellbeing_economy.md" >}}) — all within the safe operating space defined by .
+The Giant Leaps is the transformational scenario in "Earth for All: A Survival Guide for Humanity" (Club of Rome, 2022). It consists of five interconnected policy packages that, if implemented together with urgency in the 2020s, the [Earth4All model]({{< relref "earth4all_model.md" >}}) projects can stabilise climate, eliminate extreme poverty, reduce inequality, and deliver a — all within the safe operating space defined by .
 
 The five leaps are explicitly not incremental reforms. The authors argue that half-measures — the "Too Little Too Late" (TLTL) trajectory — will produce societal turbulence and eventual collapse dynamics. Only a rapid, simultaneous transformation across all five domains can navigate the "decisive decade" of the 2020s toward a stable, equitable civilisation.
 
@@ -95,4 +95,4 @@ The authors argue the five leaps are achievable not because they are politically
 
 ## Resources {#resources}
 
--   2026-06-05 ◦ [Earth for All — Dixson-Declève et al. (Club of Rome, 2022)](https://www.goodreads.com/book/show/60321399-earth-for-all) — the Giant Leaps are the central proposal of the book; five chapters describe each leap's rationale, mechanisms, and modelled outcomes; the leaps are explicitly contrasted with the Too Little Too Late scenario throughout
+-   2026-06-05 ◦ — the Giant Leaps are the central proposal of the book; five chapters describe each leap's rationale, mechanisms, and modelled outcomes; the leaps are explicitly contrasted with the Too Little Too Late scenario throughout

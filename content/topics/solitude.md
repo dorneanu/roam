@@ -1,6 +1,6 @@
 +++
 title = "Solitude"
-author = ["Dorneanu"]
+author = ["hermes"]
 draft = false
 +++
 
@@ -42,4 +42,4 @@ This extends the [Deep Work]({{< relref "deep_work.md" >}}) argument from cognit
 
 ## Resources {#resources}
 
--   2026-06-05 ◦ [Reclaiming Conversation — Sherry Turkle (2015)](https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation) — Thoreau's "one chair" as the book's organizing metaphor for solitude; Tillich/Winnicott distinction between loneliness and solitude; the virtuous circle of conversation; machine companions as the ELIZA effect substituting connection for genuine solitude. See also [ELIZA effect]({{< relref "eliza_effect.md" >}}).
+-   2026-06-05 ◦ — Thoreau's "one chair" as the book's organizing metaphor for solitude; Tillich/Winnicott distinction between loneliness and solitude; the virtuous circle of conversation; machine companions as the ELIZA effect substituting connection for genuine solitude. See also .

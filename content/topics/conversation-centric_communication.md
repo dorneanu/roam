@@ -1,6 +1,6 @@
 +++
 title = "Conversation-Centric Communication"
-author = ["Dorneanu"]
+author = ["hermes"]
 draft = false
 +++
 
@@ -27,4 +27,4 @@ Von Kleist's "gradual completion of thoughts while speaking" makes the epistemic
 
 ## Resources {#resources}
 
--   2026-06-05 ◦ [Reclaiming Conversation — Sherry Turkle (2015)](https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation) — the neurological case (Siegel, Senju) for eye contact as irreplaceable; phubbing and the ambient phone effect; Von Kleist on ideas emerging in conversation; "breathing the same air matters" as the irreducible case for co-presence. Related: [ELIZA effect]({{< relref "eliza_effect.md" >}}), [Phubbing]({{< relref "phubbing.md" >}})
+-   2026-06-05 ◦ — the neurological case (Siegel, Senju) for eye contact as irreplaceable; phubbing and the ambient phone effect; Von Kleist on ideas emerging in conversation; "breathing the same air matters" as the irreducible case for co-presence. Related: [ELIZA effect]({{< relref "eliza_effect.md" >}}), [Phubbing]({{< relref "phubbing.md" >}})

@@ -44,4 +44,4 @@ The NEET category (Not in Education, Employment, or Training) represents a milde
 - [[id:16cd9b80-319c-4eb3-86bc-46c659e28f0c][Sociogenic illness]] — structural normlessness (anomie) leaves adolescents without stable identity anchors, making them more susceptible to online identity models and sociogenic transmission of disorders
 
 * Resources
-- 2026-06-02 ◦ [[https://www.anxiousgeneration.com][The Anxious Generation — Jonathan Haidt (2024)]] — applies Durkheim's anomie concept to explain the convergent endpoint (meaninglessness) for boys and girls following very different digital paths; introduces the community/network distinction and the hikikomori phenomenon as an extreme case
+- 2026-06-02 ◦ [[id:655F1C17-A841-4B1B-8D0D-7E46D5CFE5B0][The Anxious Generation — Jonathan Haidt (2024)]] — applies Durkheim's anomie concept to explain the convergent endpoint (meaninglessness) for boys and girls following very different digital paths; introduces the community/network distinction and the hikikomori phenomenon as an extreme case

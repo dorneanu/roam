@@ -59,4 +59,4 @@ See also: [[id:895edc56-fd63-4e8e-9a34-4920047e2da8][Antifragility]], [[id:3ad45
 
 * Resources
 - 2026-05-19 ◦ [[https://stevemagness.substack.com/p/the-cost-of-safetyism][The Cost of Safetyism — Steve Magness]] — presents data on the decline of children's independence and argues for gradually lengthening the leash to build developmental resilience
-- 2026-06-02 ◦ [[https://www.anxiousgeneration.com][The Anxious Generation — Jonathan Haidt (2024)]] — documents the decline of childhood independence since the 1980s/90s with cross-national data; frames "far more unsupervised play and childhood independence" as one of four essential reforms to reverse the adolescent mental health crisis
+- 2026-06-02 ◦ [[id:655F1C17-A841-4B1B-8D0D-7E46D5CFE5B0][The Anxious Generation — Jonathan Haidt (2024)]] — documents the decline of childhood independence since the 1980s/90s with cross-national data; frames "far more unsupervised play and childhood independence" as one of four essential reforms to reverse the adolescent mental health crisis

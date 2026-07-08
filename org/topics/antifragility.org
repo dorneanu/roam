@@ -34,4 +34,4 @@ Key finding from play research: "The risk of injury per hour of physical play is
 When children are prevented from experiencing challenge, they do not develop the experience that their actions have consequences and that they can handle difficulty. This is the mechanism by which overprotection produces [[id:97ef1d25-ed11-4392-8d64-ba2ecf0ff146][Learned Helplessness]] — a belief that effort is futile because children never had the chance to discover that effort works.
 
 * Resources
-- 2026-06-02 ◦ [[https://www.anxiousgeneration.com][The Anxious Generation — Jonathan Haidt (2024)]] — argues that children are antifragile by nature and that overprotection, particularly the combination of safetyism and the phone-based childhood, systematically undermines children's antifragile development
+- 2026-06-02 ◦ [[id:655F1C17-A841-4B1B-8D0D-7E46D5CFE5B0][The Anxious Generation — Jonathan Haidt (2024)]] — argues that children are antifragile by nature and that overprotection, particularly the combination of safetyism and the phone-based childhood, systematically undermines children's antifragile development

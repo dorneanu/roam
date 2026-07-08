@@ -38,5 +38,5 @@ The Limits to Growth has thus graduated from "controversial prediction" to "surp
 The "Too Little Too Late" scenario in Earth4All is effectively the Limits to Growth BAU scenario updated for 2022 data; the "Giant Leaps" scenario is the 21st-century equivalent of the stabilised-world scenario.
 
 * Resources
-- 2026-06-05 ◦ [[https://www.goodreads.com/book/show/60321399-earth-for-all][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — positions itself explicitly as the successor to Limits to Growth; notes that the original BAU scenario has proven accurate; describes how Earth4All builds on and extends the World3 legacy
+- 2026-06-05 ◦ [[id:30A94450-8170-45B0-B3A7-4BEA7DF7A4AD][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — positions itself explicitly as the successor to Limits to Growth; notes that the original BAU scenario has proven accurate; describes how Earth4All builds on and extends the World3 legacy
 - 2026-06-05 ◦ [[https://www.donellameadows.org/archives/a-synopsis-limits-to-growth-how-to-avoid-collapse/][Meadows et al. (1972/2004), The Limits to Growth]] — original Club of Rome report and 30-year update

@@ -19,4 +19,4 @@ This "ambient phone effect" — documented empirically — means that conversati
 - [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] — caregiver phubbing as a vector of the "missing chip" hypothesis
 
 * Resources
-- 2026-06-05 ◦ [[https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation][Reclaiming Conversation — Sherry Turkle (2015)]] — phubbing as dictionary-recognised cultural marker; ambient phone effect degrades conversation quality even when phone is silent and face-down; connection to the Goldilocks effect and the flight from vulnerability
+- 2026-06-05 ◦ [[id:FA905FCE-FDC7-4E39-AEA1-97DEAB4509E5][Reclaiming Conversation — Sherry Turkle (2015)]] — phubbing as dictionary-recognised cultural marker; ambient phone effect degrades conversation quality even when phone is silent and face-down; connection to the Goldilocks effect and the flight from vulnerability

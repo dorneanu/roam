@@ -1,6 +1,6 @@
 +++
 title = "Phubbing"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology", "attention"]
 draft = false
 +++
@@ -21,10 +21,10 @@ This "ambient phone effect" — documented empirically — means that conversati
 
 -   [Attention Economy]({{< relref "attention_economy.md" >}}) — the ambient phone effect as a mechanism of attention capture
 -   [Solitude]({{< relref "solitude.md" >}}) — phubbing as a flight from the capacity to be alone with another person
--   [ELIZA effect]({{< relref "eliza_effect.md" >}}) — phubbing as preferring machine-mediated connection over human presence
+-   — phubbing as preferring machine-mediated connection over human presence
 -   [Phone-based childhood]({{< relref "phone_based_childhood.md" >}}) — caregiver phubbing as a vector of the "missing chip" hypothesis
 
 
 ## Resources {#resources}
 
--   2026-06-05 ◦ [Reclaiming Conversation — Sherry Turkle (2015)](https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation) — phubbing as dictionary-recognised cultural marker; ambient phone effect degrades conversation quality even when phone is silent and face-down; connection to the Goldilocks effect and the flight from vulnerability
+-   2026-06-05 ◦ — phubbing as dictionary-recognised cultural marker; ambient phone effect degrades conversation quality even when phone is silent and face-down; connection to the Goldilocks effect and the flight from vulnerability

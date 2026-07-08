@@ -1,6 +1,6 @@
 +++
 title = "Sociogenic illness"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology", "health"]
 draft = false
 +++
@@ -67,4 +67,4 @@ Sociogenic illness has always struck adolescent girls at higher rates than any o
 
 ## Resources {#resources}
 
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024), Ch. 6](https://www.anxiousgeneration.com) — presents the sociogenic illness mechanism (emotional contagion + prestige bias + audience capture) to explain why depression, anxiety, DID, and tic disorders spread rapidly among girls after social media adoption; discusses the German psychiatrists' "mass social media-induced illness" concept; draws on Boss (1997) for historical context
+-   2026-06-02 ◦ — presents the sociogenic illness mechanism (emotional contagion + prestige bias + audience capture) to explain why depression, anxiety, DID, and tic disorders spread rapidly among girls after social media adoption; discusses the German psychiatrists' "mass social media-induced illness" concept; draws on Boss (1997) for historical context

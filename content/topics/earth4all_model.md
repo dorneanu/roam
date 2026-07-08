@@ -1,6 +1,6 @@
 +++
 title = "Earth4All model"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["science", "economics"]
 draft = false
 +++
@@ -9,7 +9,7 @@ draft = false
 
 The Earth4All model is a system-dynamics simulation of global society and economy developed by the Club of Rome team (Sandrine Dixson-Declève, Owen Gaffney, Jayati Ghosh, Jørgen Randers, Johan Rockström, Per Espen Stoknes) as the technical backbone of "Earth for All" (2022). Building on the legacy of the original Limits to Growth model (Club of Rome, 1972), Earth4All integrates energy, food, population, inequality, and Earth-system feedbacks into a single coupled model, then explores two contrasting futures to 2100.
 
-The model differs from its 1972 predecessor by explicitly modelling inequality at global and regional levels, including the physical dimensions of [Planetary boundaries]({{< relref "planetary_boundaries.md" >}}), and distinguishing between economic activity and human wellbeing — treating GDP as an inadequate proxy for social progress.
+The model differs from its 1972 predecessor by explicitly modelling inequality at global and regional levels, including the physical dimensions of , and distinguishing between economic activity and human wellbeing — treating GDP as an inadequate proxy for social progress.
 
 
 ## The two scenarios {#the-two-scenarios}
@@ -21,7 +21,7 @@ The baseline extrapolation. Governments and institutions continue current polici
 
 -   Global average income stagnates or rises modestly, but inequality keeps growing
 -   Several billion people remain in poverty; social frustration builds
--   Multiple [Planetary boundaries]({{< relref "planetary_boundaries.md" >}}) are crossed; climate destabilisation worsens
+-   Multiple are crossed; climate destabilisation worsens
 -   Societies face increasing turbulence, erosion of trust, and potential collapse dynamics
 -   The model shows this trajectory is consistent with the Limits to Growth "business as usual" overshoot-and-collapse path
 
@@ -37,7 +37,7 @@ A transformation scenario in which five major policy packages are implemented in
 -   Population growth slowing sooner due to women's empowerment and education
 -   Human wellbeing indicators rising even as material throughput is constrained
 
-The five packages are the [Giant Leaps]({{< relref "giant_leaps.md" >}}) framework. The key insight is that timing matters: the same five leaps enacted in the 2030s produce far worse outcomes than in the 2020s, because tipping-point dynamics amplify early action.
+The five packages are the framework. The key insight is that timing matters: the same five leaps enacted in the 2030s produce far worse outcomes than in the 2020s, because tipping-point dynamics amplify early action.
 
 
 ## Turnover time and system inertia {#turnover-time-and-system-inertia}
@@ -56,4 +56,4 @@ The 1972 Limits to Growth (Club of Rome) was among the first quantitative models
 
 ## Resources {#resources}
 
--   2026-06-05 ◦ [Earth for All — Dixson-Declève et al. (Club of Rome, 2022)](https://www.goodreads.com/book/show/60321399-earth-for-all) — describes the model architecture, two scenarios, and policy implications in detail; technical model documentation available at earth4all.life
+-   2026-06-05 ◦ — describes the model architecture, two scenarios, and policy implications in detail; technical model documentation available at earth4all.life

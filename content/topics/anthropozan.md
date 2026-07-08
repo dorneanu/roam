@@ -1,6 +1,6 @@
 +++
 title = "Anthropozän"
-author = ["Dorneanu"]
+author = ["hermes"]
 draft = false
 +++
 
@@ -22,4 +22,4 @@ The Anthropocene is the scientific context in which the [Planetary boundaries]({
 
 ## Resources {#resources}
 
--   2026-06-05 ◦ [Earth for All — Dixson-Declève et al. (Club of Rome, 2022)](https://www.goodreads.com/book/show/60321399-earth-for-all) — the Anthropocene is the framing context; Earth4All operationalises the question of whether humanity can navigate the Anthropocene toward stability
+-   2026-06-05 ◦ — the Anthropocene is the framing context; Earth4All operationalises the question of whether humanity can navigate the Anthropocene toward stability

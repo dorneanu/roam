@@ -1,6 +1,6 @@
 +++
 title = "Limits to Growth"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["science", "economics"]
 draft = false
 +++
@@ -43,7 +43,7 @@ The Limits to Growth has thus graduated from "controversial prediction" to "surp
 "Earth for All" (Club of Rome, 2022) is the spiritual and methodological successor to Limits to Growth. The [Earth4All model]({{< relref "earth4all_model.md" >}}) updates World3 with:
 
 -   Explicit inequality modelling
--   [Planetary boundaries]({{< relref "planetary_boundaries.md" >}}) as biophysical limits
+-   as biophysical limits
 -   Wellbeing indicators beyond GDP
 -   Social tipping dynamics
 
@@ -52,5 +52,5 @@ The "Too Little Too Late" scenario in Earth4All is effectively the Limits to Gro
 
 ## Resources {#resources}
 
--   2026-06-05 ◦ [Earth for All — Dixson-Declève et al. (Club of Rome, 2022)](https://www.goodreads.com/book/show/60321399-earth-for-all) — positions itself explicitly as the successor to Limits to Growth; notes that the original BAU scenario has proven accurate; describes how Earth4All builds on and extends the World3 legacy
+-   2026-06-05 ◦ — positions itself explicitly as the successor to Limits to Growth; notes that the original BAU scenario has proven accurate; describes how Earth4All builds on and extends the World3 legacy
 -   2026-06-05 ◦ [Meadows et al. (1972/2004), The Limits to Growth](https://www.donellameadows.org/archives/a-synopsis-limits-to-growth-how-to-avoid-collapse/) — original Club of Rome report and 30-year update

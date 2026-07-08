@@ -1,6 +1,6 @@
 +++
 title = "Learned helplessness"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["psychology"]
 draft = false
 +++
@@ -44,4 +44,4 @@ Children who develop learned helplessness are more likely to remain in a defend-
 ## Resources {#resources}
 
 -   2026-05-19 ◦ [The Cost of Safetyism — Steve Magness](https://stevemagness.substack.com/p/the-cost-of-safetyism) — argues that modern overparenting systematically produces learned helplessness by removing the developmental experiences that build efficacy and resilience
--   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)](https://www.anxiousgeneration.com) — frames learned helplessness as the outcome of two overlapping experience blockers (safetyism + smartphones), both of which prevent children from discovering that effort leads to mastery
+-   2026-06-02 ◦ — frames learned helplessness as the outcome of two overlapping experience blockers (safetyism + smartphones), both of which prevent children from discovering that effort leads to mastery

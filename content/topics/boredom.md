@@ -1,6 +1,6 @@
 +++
 title = "Boredom"
-author = ["Dorneanu"]
+author = ["hermes"]
 draft = false
 +++
 
@@ -47,7 +47,7 @@ In the classroom, Turkle argues boredom is an invitation, not a problem: "a mome
 ## Resources {#resources}
 
 -   2026-05-19 ◦ [The Cost of Safetyism — Steve Magness](https://stevemagness.substack.com/p/the-cost-of-safetyism) — argues that children must be allowed to feel bored and navigate discomfort; preventing boredom through constant supervision denies them the raw material for emotional regulation and resilience. See [Safetyism]({{< relref "safetyism.md" >}}), [Unstructured Play]({{< relref "unstructured_play.md" >}})
--   2026-06-05 ◦ [Reclaiming Conversation — Sherry Turkle (2015)](https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation) — Winnicott on boredom as developmental achievement; Erikson on stillness; digital media as boredom-eliminating frictionlessness; classroom boredom as an invitation to turn inward rather than to the phone
+-   2026-06-05 ◦ — Winnicott on boredom as developmental achievement; Erikson on stillness; digital media as boredom-eliminating frictionlessness; classroom boredom as an invitation to turn inward rather than to the phone
 
 On boredom and [Deliberate Practice]({{< relref "deliberate_practice.md" >}}):
 
