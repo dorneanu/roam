@@ -5,6 +5,9 @@
 #+filetags: :page:index:
 
 This is my list.
+* 2026
+- 06
+  - [[id:0BCC1F82-AD8B-48CF-BE5D-43086448C026][Fundamentals of Software Architecture]] (Mark Richards, Neal Ford) — reading
 * 2022
 - 01
   - [[id:a51180bc-619e-4d89-b5e9-b63ce0b9355d][Thinking, Fast and Slow]]

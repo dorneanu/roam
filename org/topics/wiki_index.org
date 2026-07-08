@@ -31,9 +31,6 @@ Updated automatically on every ingest.
 - [[id:b51a2811-2fe3-4f03-a8c0-ff4199376e17][Architecture katas]] — structured practice exercises for deriving architectural characteristics from domain descriptions; Silicon Sandwiches and Going-Going-Gone worked examples; domain-concern translation table
 - [[id:8fd21c64-2e57-41ae-b962-02f256b1e80c][Browser automation]] — programmatic browser control (Playwright, Puppeteer, Selenium) for AI agents; Playwright codegen, OCR pipeline (PDF→PNG→vision LLM→JSON), human-in-the-loop approval flows, secret management, and internal API discovery
 
-* Conferences
-- [[id:1b521c25-8a4a-47ad-ab52-a342ffdadd2e][OWASP AppSec Global Vienna 2026]] — keynote: write-only code, sustainability of code review, enabling teams (Platform / SRE / Agent Enablement) in the agentic era
-
 * Security
 - [[id:42edaa15-2e34-44c7-aa0e-e4fe32d68067][Prompt injection]] — attack class where adversaries embed malicious instructions in content processed by LLMs; exploits role confusion to bypass instruction hierarchy defenses; includes CoT Forgery (60% ASR against frontier models)
 - [[id:ba94d644-46d1-42b3-bb38-15b0b5cb50ec][Instruction hierarchy]] — privilege separation system for LLMs using role tags (system/user/tool); fails in practice because models perceive roles by text style rather than structural tags
