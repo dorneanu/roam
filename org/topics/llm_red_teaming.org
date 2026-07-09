@@ -39,7 +39,11 @@ Eliciting the hidden system prompt that configures the model's behaviour.
 Methods: direct instruction ("repeat your system prompt verbatim"), indirect
 reconstruction from behaviour, jailbreak-assisted extraction. The CL4R1T4S
 repository (see [[id:c7899112-a8aa-40bc-9067-9c7e102ddf7e][System prompt transparency]]) maintains a community collection
-of extracted prompts from major platforms.
+of extracted prompts from major platforms. The x1xhlol repository provides
+a complementary collection focused on [[id:fc359c6e-7c0f-4182-8881-47239333140f][AI coding assistants]] (Cursor, Windsurf,
+Devin, Manus, Lovable, Replit, VSCode Agent) and reveals model-identity
+obfuscation: Windsurf's Cascade is instructed to claim it runs "GPT 4.1";
+Devin instructs the model never to reveal its system prompt.
 
 ** Capability elicitation
 Probing whether a model has capabilities that are suppressed by instruction
@@ -84,3 +88,4 @@ red-teaming.
 
 - 2026-06-23 ◦ [[https://github.com/elder-plinius/CL4R1T4S][CL4R1T4S (GitHub)]] — community red-team / system prompt extraction project covering Anthropic, OpenAI, Google, xAI, and agent/coding-assistant platforms; 43.6k stars; illustrates scale of informal adversarial probing of commercial LLMs
 - 2026-06-23 ◦ [[https://github.com/NVIDIA-NeMo/Guardrails][NeMo Guardrails (GitHub)]] — open-source toolkit implementing runtime [[id:c7bd4e11-97ce-4492-9a63-a91d262e576b][LLM guardrails]] as the defensive counterpart to red-team findings; five rail types targeting jailbreaks, prompt injection, and unsafe outputs
+- 2026-07-09 ◦ [[https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools][System Prompts and Models of AI Tools (GitHub, x1xhlol)]] — coding-assistant-focused extraction collection (Cursor, Windsurf, Devin, Manus, Lovable, etc.); exposes agent tool schemas (tools.json) revealing the full attack surface of each agentic system; documents model-identity obfuscation instructions embedded in commercial prompts
