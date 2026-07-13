@@ -15,3 +15,4 @@ tbd
 
 * Resources
 - 2026-06-02 ◦ [[https://blog.starmorph.com/blog/karpathy-llm-wiki-knowledge-base-guide][How to build Karpathy's LLM wiki]] — the [[id:2e0c582e-2cf0-4e2c-a1bd-378b6041a3ce][LLM wiki]] pattern automates the linking and cross-referencing work central to Zettelkasten; atomic concept pages are generated and updated by the LLM on each ingest, realising Bush's Memex vision of effortless associative trails
+- 2026-07-13 ◦ [[https://news.ycombinator.com/item?id=48882056][HN discussion: "How to read more books"]] — readers credit reviewing highlights/notes in a Zettelkasten-style system (or tools like Obsidian, Zettlr) as what actually makes a book stick, more so than the initial highlighting itself; see [[id:9f7402c5-6916-4116-96a5-bec931d8da4f][Reading habits]]

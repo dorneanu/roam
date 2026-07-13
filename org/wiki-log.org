@@ -314,3 +314,14 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* red_teaming_llms.org, llm_vulnerability_scanning.org
 - *Topics created:* llm_evaluation.org
 - *Summary:* Ingested the GitHub READMEs for promptfoo (MIT, acquired by OpenAI; CLI+library for LLM evals and automated red-teaming; CI/CD integration; model comparison) and Giskard OSS (Apache 2.0; Python library for agentic system testing; Scenario API with LLM-as-judge; giskard-scan covers OWASP LLM Top-10); created llm_evaluation.org covering eval frameworks, assertion types (regex/semantic/LLM-as-judge), regression testing, multi-turn agentic evaluation, and both tools; updated red_teaming_llms.org to mention promptfoo and Giskard in the automated scanning section; updated llm_vulnerability_scanning.org to add promptfoo and Giskard Scan as dedicated tool entries alongside garak.
+
+* 2026-07-13: Ingest — How to read more books
+:PROPERTIES:
+:DATE:     2026-07-13
+:TYPE:     ingest
+:SOURCE:   https://scotto.me/blog/2026-07-12-how-to-read-more-books/
+:END:
+- *Source type:* article
+- *Topics updated:* nassim_taleb.org, attention_economy.org, zettelkasten.org
+- *Topics created:* reading_habits.org, antilibrary.org
+- *Summary:* Ingested Elia Scotto's "How to read more books" and its HN discussion (503 points, 262 comments); created reading_habits.org covering phone-replacement as a reading strategy, parallel reading, abandoning books without guilt, ebook vs. physical books, reading goals vs. pleasure, the audiobook/reading modality debate, RSVP/speed reading, and note-taking for retention; created antilibrary.org as a standalone concept page for Taleb's unread-books-as-research-tool idea; updated nassim_taleb.org, attention_economy.org (phone-replacement lever), and zettelkasten.org (review vs. highlighting for retention) with cross-linked resource bullets.
