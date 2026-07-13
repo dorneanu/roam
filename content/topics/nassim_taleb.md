@@ -1,6 +1,6 @@
 +++
 title = "Nassim Taleb"
-author = ["Victor Dorneanu"]
+author = ["hermes"]
 draft = false
 +++
 
@@ -95,3 +95,8 @@ Nassim Taleb spends 30 hours every week reading books.
 >
 > 3.  A novel you like resembles a friend. You read it and reread it, getting to know it
 >     better. Like a friend, you accept it the way it is; you do not judge it.
+
+
+## Resources {#resources}
+
+-   2026-07-13 ◦ [HN discussion: "How to read more books"](https://news.ycombinator.com/item?id=48882056) — Taleb's antilibrary aphorism (items 7, 19, 22 above) surfaced repeatedly as the standard reframing for buying more books than one will read; see [Antilibrary]({{< relref "antilibrary.md" >}}) for the concept in its own right and [Reading habits]({{< relref "reading_habits.md" >}}) for the broader practice of parallel and abandoned reading that Taleb's items 1–2 and 11 anticipate

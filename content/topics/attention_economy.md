@@ -53,6 +53,7 @@ The hopeful corollary: plasticity works in both directions. Just as skimming rew
 
 ## Resources {#resources}
 
+-   2026-07-13 ◦ [HN discussion: "How to read more books"](https://news.ycombinator.com/item?id=48882056) — replacing phone-scrolling with a book during idle moments (removing social apps, wearing an analog watch) is described as the single most effective lever for reading volume; see [Reading habits]({{< relref "reading_habits.md" >}}) for the full strategy
 -   2023-05-16 ◦ [Your attention didn’t collapse. It was stolen | Psychology | The Guardian](https://amp.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
 -   2026-05-19 ◦ [The Cost of Safetyism — Steve Magness](https://stevemagness.substack.com/p/the-cost-of-safetyism) — social media and neighborhood alert apps amplify [Mean World Syndrome]({{< relref "mean_world_syndrome.md" >}}), creating a perception-reality gap in crime and danger that drives risk-averse parenting well beyond what the data supports
 -   2026-06-02 ◦ — documents attention fragmentation as one of four foundational harms of the phone-based childhood, with data on notification frequency, "almost constantly online" rates among teens, and the mechanism by which competition for adolescent attention produced an ever-more-disruptive notification ecosystem

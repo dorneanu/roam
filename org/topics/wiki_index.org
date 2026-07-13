@@ -79,6 +79,7 @@ Updated automatically on every ingest.
 - [[id:ea3192d3-7186-4e4a-8c98-454d318d532b][Zettelkasten]] — slip-box note-taking method; atomic notes linked by ideas rather than hierarchy; foundation of the second brain approach
 - [[id:5329cb10-9f3e-4311-bc69-542775991244][org-roam]] — Emacs package implementing a Zettelkasten over org-mode files; ID-based bidirectional links and backlinks
 - [[id:9d0894b3-9a94-4b21-bba9-ca0489604329][Knowledge pyramid]] — three-level model (stuff you know / know you don't know / don't know you don't know); architects need breadth (middle), developers need depth (top); techniques: 20-minute rule, personal technology radar
+- [[id:9f7402c5-6916-4116-96a5-bec931d8da4f][Reading habits]] — deliberate practices for reading far more: phone-replacement during idle time, parallel reading, abandoning books without guilt, ebook vs. physical books, and reading goals vs. pleasure
 
 * Psychology
 - [[id:7531d4d8-72e4-4828-891e-e370f9187caf][ELIZA effect]] — the tendency to project emotional depth onto machines that simulate listening; foundational case study in human-AI interaction from Weizenbaum's 1966 chatbot to contemporary AI companions (Turkle)
@@ -116,6 +117,7 @@ Updated automatically on every ingest.
 
 * Philosophy
 - [[id:fc8c75c5-0f1e-4590-a40d-6c181b63b215][Socratic questioning]] — interrogative method where probing questions surface hidden assumptions and drive the respondent to construct understanding; applied to software design review via the grill-me Claude Code skill
+- [[id:6d483e73-31fd-415f-9247-953fab75d82e][Antilibrary]] — Taleb's concept of unread books as a research tool and reservoir of curiosity, valued precisely for what they represent about one's unknowns rather than for having been read
 
 * Music / Audio production
 - [[id:6e0ab159-bc6d-440c-8a9c-0b21faa5bfca][House music]] — Chicago-rooted electronic dance genre (deep, soulful, minimal subgenres); four-on-the-floor kick, syncopated bass lines, 122–124 BPM; four bass line techniques and harmonic set structure
