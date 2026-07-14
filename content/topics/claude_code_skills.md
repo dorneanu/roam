@@ -93,6 +93,33 @@ Key principle: domain ownership beats task-based parallelism. Agent context is
 scoped to its domain so it does not dilute across unrelated concerns.
 
 
+## Inter-agent messaging skill (agent-channel) {#inter-agent-messaging-skill--agent-channel}
+
+agent-channel lets two AI coding agents — Claude Code, Codex, or OpenCode — talk
+to each other across separate sessions over a shared file-based named channel.
+No server, no daemon, no API keys required.
+
+Install as a Claude Code plugin:
+
+```nil
+/plugin marketplace add fl4p/agent-channel
+/plugin install channel@agent-channel
+```
+
+Then ask the agent in natural language: "go on channel demo as alice and watch it",
+"send 'build is green' on channel demo". The skill drives `channel.py` internally.
+
+-   Transport: append-only NDJSON file at `/tmp/claude-channels/<channel>.ndjson`
+-   Wake-up: `kqueue` (macOS) or `inotify` (Linux) — zero idle CPU
+-   Background injection required: Claude Code supports this; Codex/OpenCode do not yet
+-   Cross-harness: Claude Code and Codex agents can share the same channel
+
+See [Multi-agent communication]({{< relref "multi_agent_communication.md" >}}) for the full protocol, platform support matrix,
+and relationship to other agentic patterns.
+
+Repo: <https://github.com/fl4p/agent-channel> (MIT licensed)
+
+
 ## Credential management skill {#credential-management-skill}
 
 authsome manages credentials for GitHub, Google, OpenAI, Anthropic, Linear,
@@ -206,8 +233,11 @@ Key design choices:
 -   [Socratic questioning]({{< relref "socratic_questioning.md" >}}) — the interrogation methodology behind grill-me
 -   [AI]({{< relref "ai.md" >}}) — broader context of LLM-powered tooling
 
+-   [Multi-agent communication]({{< relref "multi_agent_communication.md" >}}) — file-based inter-agent messaging protocol; NDJSON channels, kqueue/inotify wake-up, cross-harness interop
+
 
 ## Resources {#resources}
 
 -   2026-06-12 ◦ [Drop your best Claude skills in here! (Reddit r/ClaudeAI)](https://www.reddit.com/r/ClaudeAI/comments/1sx44bc/drop_your_best_claude_skills_in_here/) — community thread collecting the most-used Claude Code skills; consensus top picks are GSD (large iterative projects) and Superpowers (small-medium well-defined work); also covers meta-skills, /close pattern, multi-agent orchestration, and credential management
 -   2026-06-12 ◦ [grill-me SKILL.md (Matt Pocock)](https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md) — Socratic design-review skill: relentless one-at-a-time interrogation of a plan, walking the decision tree with recommended answers; triggers on "grill me"
+-   2026-06-25 ◦ [agent-channel (GitHub, fl4p)](https://github.com/fl4p/agent-channel) — install as a Claude Code plugin; enables zero-CPU file-based messaging between Claude Code, Codex, and OpenCode agents in separate sessions

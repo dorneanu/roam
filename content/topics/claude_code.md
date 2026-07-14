@@ -53,6 +53,23 @@ frameworks. See [Session context persistence]({{< relref "session_context_persis
 management. See [Self-improving agents]({{< relref "self_improving_agents.md" >}}) for the meta-skill pattern.
 
 
+## Background injection {#background-injection}
+
+Background injection is a Claude Code harness capability: when a background
+command launched by the agent exits, Claude Code automatically re-invokes the
+agent with the command's output injected into context — at zero additional token
+cost until the wake event fires.
+
+This enables zero-token waiting patterns such as the [Multi-agent communication]({{< relref "multi_agent_communication.md" >}})
+`channel wait` primitive: the agent launches a filesystem-event watcher as a
+background command, which blocks (`kqueue` on macOS, `inotify` on Linux) until a
+peer message arrives, then exits — waking the agent exactly once with the message
+in context.
+
+As of 2026, Claude Code is the only major AI coding harness with this capability.
+Codex and OpenCode have open PRs to add it.
+
+
 ## Related topics {#related-topics}
 
 -   [Planner-Generator-Evaluator pattern]({{< relref "planner_generator_evaluator.md" >}}) — the primary agentic design pattern for Claude Code workflows
@@ -62,9 +79,11 @@ management. See [Self-improving agents]({{< relref "self_improving_agents.md" >}
 -   [LLM wiki]({{< relref "llm_wiki.md" >}}) — CLAUDE.md as schema file parallels the LLM wiki schema file pattern
 -   [Software Engineering]({{< relref "software_engineering.md" >}}) — team conventions, quality gates, and shared context
 -   [AI]({{< relref "ai.md" >}}) — Claude Code as an LLM-powered development tool
+-   [Multi-agent communication]({{< relref "multi_agent_communication.md" >}}) — file-based inter-agent channels enabled by Claude Code's background injection capability
 
 
 ## Resources {#resources}
 
 -   2026-06-03 ◦ [Claude Code: Team Infrastructure and Agentic Patterns (talk slides)](~/repos/priv/roam-sources/articles/2026/2026-06-03_claude-code-team-infrastructure-agentic-patterns.md) — presentation slides on .claude/ as team infrastructure and the Planner-Generator-Evaluator agentic pattern
 -   2026-06-12 ◦ [Drop your best Claude skills in here! (Reddit r/ClaudeAI)](https://www.reddit.com/r/ClaudeAI/comments/1sx44bc/drop_your_best_claude_skills_in_here/) — community survey of the most-used Claude Code skills; validators and hard stops matter more than natural language; CLAUDE.md quality degrades over time and requires active maintenance
+-   2026-06-25 ◦ [agent-channel (GitHub, fl4p)](https://github.com/fl4p/agent-channel) — uses Claude Code background injection for zero-CPU inter-agent messaging across separate sessions
