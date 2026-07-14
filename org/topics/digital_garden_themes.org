@@ -1,0 +1,93 @@
+#+title: Digital Garden Themes
+#+hugo_weight: 9999
+
+:PROPERTIES:
+:ID:       284b3e6e-1f42-4ec6-b8dc-a3e71210d117
+:ROAM_ALIASES: "Hugo Themes" "Wiki Themes" "Digital Garden Themes"
+:END:
+* Digital Garden Themes — Kandidaten für brainfck.org
+
+Stand: 2026-07-14 — Recherche für Relaunch von [[id:6f2e3e3e-42c0-4ec6-b8dc-a3e71210d116][brainfck.org]] mit besserem Theme.
+
+** Hugo Themes (Weiterhin bei Hugo bleiben)
+*** Hextra ⭐ 2.264
+- [[https://github.com/imfing/hextra][GitHub]]
+- [[https://imfing.github.io/hextra/][Demo]]
+- Modern, Tailwind, batteries-included, Docs/Wiki-optimiert
+- Volltextsuche, Sidebar, Mermaid, Dark Mode
+- Leichtgewichtig, kein JS-Build-Schritt
+- Bester Trade-off für Migration
+
+*** Blowfish ⭐ 2.838
+- [[https://github.com/nunocoracao/blowfish][GitHub]]
+- [[https://blowfish.page/][Demo]]
+- Tailwind CSS, sehr flexibel
+- Blog + Wiki Hybrid, Tags, Suche, Multi-Language
+- Große Community, viele Beispiel-Seiten
+
+*** Hugo-Book ⭐ 4.068
+- [[https://github.com/alex-shpak/hugo-book][GitHub]]
+- [[https://hugo-book-demo.netlify.app/][Demo]]
+- Minimal, Buch-Layout, TOC, eingebaute Suche
+- Sehr einfach, wenig Overhead
+
+*** Lotus Docs ⭐ 692
+- [[https://github.com/colinwilson/lotusdocs][GitHub]]
+- [[https://lotusdocs.dev/][Demo]]
+- Leichtgewichtig, modern, Tailwind
+- Docs-optimiert, Dark Mode
+
+*** Geekdoc ⭐ 545
+- [[https://github.com/thegeeklab/hugo-geekdoc][GitHub]]
+- [[https://geekdocs.de/][Demo]]
+- Clean, Docs-Fokus, Suche, Tags, Dark Mode
+
+*** Docsy ⭐ 2.950
+- [[https://github.com/google/docsy][GitHub]]
+- [[https://docsy.dev/][Demo]]
+- Google-grade Documentation Theme
+- Mega flexibel, aber Heavy — Overkill für Wiki
+
+*** Digital Garden (apvarun) ⭐ 296
+- [[https://github.com/apvarun/digital-garden-hugo-theme][GitHub]]
+- [[https://digital-garden-hugo-theme.vercel.app/][Demo]]
+- Multi-Column Layout, Pflanzen-Metapher
+- Einfach, schnell
+
+*** Vitis ⭐ 250+
+- [[https://github.com/mohamedelhefni/vitis][GitHub]]
+- Keine öffentliche Demo gefunden
+- Obsidian-kompatibel: Wiki-Links, Knowledge Graph, Backlinks
+- Clean, minimal
+
+*** Kavu (stultus) — neu
+- [[https://github.com/stultus/kavu][GitHub]]
+- Monospace, terminal-inspiriert
+- Note Maturity Stages, Network Graph, Backlinks
+
+*** HugoBlox Kit ⭐ 9.571
+- [[https://github.com/HugoBlox/kit][GitHub]]
+- AI-gestützt: "Describe your site, AI builds it"
+- Tailwind Blocks, viele Layouts (Blog, Docs, Gallery, Landing)
+
+** Vue-basiert
+*** VitePress ⭐ 14k+
+- [[https://github.com/vuejs/vitepress][GitHub]]
+- [[https://vitepress.dev/][Demo]]
+- Vite + Vue 3, ultra-schnell, SPA nach erstem Laden
+- Eigene Themes möglich, große Community
+
+*** VuePress ⭐ 22k+
+- [[https://github.com/vuejs/vuepress][GitHub]]
+- [[https://vuepress.vuejs.org/][Demo]]
+- Vue 2, stabil, viele Plugins
+- Älter, aber bewährt
+
+** Notes
+- Switch zu Vue/Astro wäre mehr Aufwand (Org → Markdown Pipeline müsste neu)
+- Hextra oder Blowfish sind pragmatischste Upgrades innerhalb Hugo
+- Vitis wenn Obsidian-Integration gewünscht
+- Kein Deployment-Change nötig: Hugo + Netlify bleibt
+
+* Related
+- [[id:6f2e3e3e-42c0-4ec6-b8dc-a3e71210d116][brainfck.org]]
