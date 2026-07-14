@@ -1,0 +1,155 @@
+:PROPERTIES:
+:ID:       E163D3A9-3FE4-44A4-9EC6-9E548DA6797A
+:END:
+#+created: 20260627120000000
+#+modified: 20260627120000000
+#+title: MC-101 Drum Kits
+#+type: text/vnd.tiddlywiki
+
+All 130 drum kit presets on the [[id:E0696062-6C03-42BB-9C88-EBB2DBF3F057][Roland MC-101]], organized by bank.
+
+* Drum Kit Bank A
+
+|-----+-----------------|
+| No. | Name            |
+|-----+-----------------|
+| 1   | TR-909 3        |
+| 2   | TR-808 2        |
+| 3   | Future Bass Kit |
+| 4   | EDM Kit 5       |
+| 5   | Trap Kit        |
+| 6   | Reggaeton Kit   |
+| 7   | TR-727          |
+| 8   | Perc. Kit 3     |
+| 9   | CR-78 1         |
+| 10  | TR-606 1        |
+| 11  | 80's Kit 2      |
+| 12  | EDM Kit 10      |
+| 13  | Trance Kit      |
+| 14  | Drum&Bass Kit 1 |
+| 15  | HipHop Kit 2    |
+| 16  | R&B Kit 1       |
+| 17  | TR-707&727 2    |
+| 18  | TR-626 2        |
+| 19  | Techno Kit 2    |
+| 20  | House Kit 1     |
+| 21  | TR-909 1        |
+| 22  | TR-909 2        |
+| 23  | TR-909 4        |
+| 24  | TR-808 1        |
+| 25  | TR-808 3        |
+| 26  | TR-808 4        |
+| 27  | TR-707&727 1    |
+| 28  | CR-78 2         |
+| 29  | TR-606 2        |
+| 30  | TR-626 1        |
+| 31  | TR-626 3        |
+| 32  | EDM Kit 1       |
+| 33  | EDM Kit 2       |
+| 34  | EDM Kit 3       |
+| 35  | EDM Kit 4       |
+| 36  | EDM Kit 6       |
+| 37  | EDM Kit 7       |
+| 38  | EDM Kit 8       |
+| 39  | EDM Kit 9       |
+| 40  | EDM Kit 11      |
+| 41  | EDM Kit 12      |
+| 42  | Drum&Bass Kit 2 |
+| 43  | Techno Kit 1    |
+| 44  | House Kit 2     |
+| 45  | HipHop Kit 1    |
+| 46  | R&B Kit 2       |
+| 47  | 80's Kit 1      |
+| 48  | 90's Kit 1      |
+| 49  | 90's Kit 2      |
+| 50  | Pop Kit 1       |
+| 51  | Pop Kit 2       |
+| 52  | Studio Kit 1    |
+| 53  | Studio Kit 2    |
+| 54  | Perc. Kit 1     |
+| 55  | Perc. Kit 2     |
+| 56  | SFX Kit 1       |
+| 57  | SFX Kit 2       |
+| 58  | SFX Kit 3       |
+|-----+-----------------|
+
+* Drum Kit Bank B
+
+|-----+------------------|
+| No. | Name             |
+|-----+------------------|
+| 1   | Standard Kit     |
+| 2   | Room Kit         |
+| 3   | Power Kit        |
+| 4   | Electric Kit     |
+| 5   | Analog Kit       |
+| 6   | Jazz Kit         |
+| 7   | Brush Kit        |
+| 8   | Orchestra Kit    |
+| 9   | SFX Kit          |
+| 10  | Standard Kit w   |
+| 11  | Room Kit w       |
+| 12  | Power Kit w      |
+| 13  | Electric Kit w   |
+| 14  | Analog Kit w     |
+| 15  | Jazz Kit w       |
+| 16  | Brush Kit w      |
+| 17  | Orchestra Kit w  |
+| 18  | SFX Kit w        |
+| 19  | Studio Kit       |
+| 20  | Studio Kit w     |
+| 21  | Pop Kit          |
+| 22  | Pop Kit w        |
+| 23  | Pop Kit Lim      |
+| 24  | 90's Kit         |
+| 25  | 90's Kit comp    |
+| 26  | 90's Kit w comp  |
+| 27  | 80's Kit         |
+| 28  | 80's Kit comp    |
+| 29  | 80's Kit w comp  |
+| 30  | EDM Kit          |
+| 31  | EDM Kit w        |
+| 32  | EDM Kit Lim      |
+| 33  | Drum&Bass Kit    |
+| 34  | Drum&Bass Kit w  |
+| 35  | Drum&Bass KitLim |
+| 36  | Techno Kit       |
+| 37  | Techno Kit w     |
+| 38  | House Kit        |
+| 39  | House Kit w      |
+| 40  | HipHop Kit       |
+| 41  | HipHop Kit comp  |
+| 42  | HipHop Kit w cmp |
+| 43  | R&B Kit          |
+| 44  | R&B Kit w        |
+| 45  | TR-909           |
+| 46  | TR-909 comp      |
+| 47  | TR-909 w comp    |
+| 48  | TR-808           |
+| 49  | TR-808 comp      |
+| 50  | TR-808 w comp    |
+| 51  | TR-707&727       |
+| 52  | TR-707&727 comp  |
+| 53  | TR-707&727 w cmp |
+| 54  | CR-78            |
+| 55  | CR-78 comp       |
+| 56  | CR-78 w comp     |
+| 57  | TR-606           |
+| 58  | TR-606 comp      |
+| 59  | TR-606 w comp    |
+| 60  | TR-626           |
+| 61  | TR-626 comp      |
+| 62  | TR-626 w comp    |
+| 63  | Kick             |
+| 64  | Kick w           |
+| 65  | Snare            |
+| 66  | Snare w          |
+| 67  | RimStickClapTom  |
+| 68  | RimStickClapTm w |
+| 69  | HiHat Cymbol     |
+| 70  | HiHat Cymbal w   |
+| 71  | Other Perc 1     |
+| 72  | Other Perc 1 w   |
+| 73  | Other Perc 2     |
+| 74  | Other Perc 2 w   |
+|-----+------------------|
