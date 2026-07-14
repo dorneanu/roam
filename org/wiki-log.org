@@ -325,3 +325,14 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* system_prompt_transparency.org, llm_red_teaming.org, ai_agents.org
 - *Topics created:* coding_assistants.org
 - *Summary:* Ingested the x1xhlol system-prompts-and-models-of-ai-tools repository — a community collection of extracted prompts and tool schemas for AI coding assistants (Cursor, Windsurf, Devin, Manus, Lovable, VSCode Agent, Augment Code, Replit, Kiro, Trae, Warp, Xcode, and ~20 more); created coding_assistants.org covering the tool landscape, shared architectural patterns, model-identity obfuscation (Windsurf claiming GPT 4.1, Devin refusing to disclose prompt), and agentic tool schemas; updated system_prompt_transparency.org with the x1xhlol collection as a coding-assistant complement to CL4R1T4S; updated llm_red_teaming.org system-prompt-extraction section with obfuscation details; updated ai_agents.org with Devin and Manus prompt architecture findings.
+
+* 2026-07-13: Ingest — How to read more books
+:PROPERTIES:
+:DATE:     2026-07-13
+:TYPE:     ingest
+:SOURCE:   https://scotto.me/blog/2026-07-12-how-to-read-more-books/
+:END:
+- *Source type:* article
+- *Topics updated:* nassim_taleb.org, attention_economy.org, zettelkasten.org
+- *Topics created:* reading_habits.org, antilibrary.org
+- *Summary:* Ingested Elia Scotto's "How to read more books" and its HN discussion (503 points, 262 comments); created reading_habits.org covering phone-replacement as a reading strategy, parallel reading, abandoning books without guilt, ebook vs. physical books, reading goals vs. pleasure, the audiobook/reading modality debate, RSVP/speed reading, and note-taking for retention; created antilibrary.org as a standalone concept page for Taleb's unread-books-as-research-tool idea; updated nassim_taleb.org, attention_economy.org (phone-replacement lever), and zettelkasten.org (review vs. highlighting for retention) with cross-linked resource bullets.

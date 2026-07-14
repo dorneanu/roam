@@ -94,3 +94,6 @@ The more the summaries diverge, the higher the dimensionality of the book.
 27) A novel you like resembles a friend. You read it and reread it, getting to know it
     better. Like a friend, you accept it the way it is; you do not judge it.
 #+end_quote
+
+* Resources
+- 2026-07-13 ◦ [[https://news.ycombinator.com/item?id=48882056][HN discussion: "How to read more books"]] — Taleb's antilibrary aphorism (items 7, 19, 22 above) surfaced repeatedly as the standard reframing for buying more books than one will read; see [[id:6d483e73-31fd-415f-9247-953fab75d82e][Antilibrary]] for the concept in its own right and [[id:9f7402c5-6916-4116-96a5-bec931d8da4f][Reading habits]] for the broader practice of parallel and abandoned reading that Taleb's items 1–2 and 11 anticipate
