@@ -17,3 +17,16 @@ https://blog.dornea.nu/notes/software-engineering-golang/eda-messaging.png
 - 2022-08-25 ◦ [[https://dev.to/elva_group/introduction-to-event-driven-architecture-6ki][Introduction to Event-Driven Architecture - DEV Community]]
 * Videos
 - 2023-03-13 ◦ [[https://www.youtube.com/watch?v=k8snG4mDc0c&ab_channel=WixEngineeringTechTalks][Lessons Learned From Working With 2,000 Event-Driven Microservices - Natan Silnitsky - YouTube]]
+* Filesystem event-driven patterns
+
+Filesystem watchers (=kqueue= on macOS/BSD, =inotify= on Linux) expose native
+OS-level event streams on file or directory changes. They are a minimal
+implementation of the EDA pattern for local processes: producers append to a
+file; consumers block on the watcher fd and wake exactly once per event, with
+zero idle CPU.
+
+This is the mechanism behind the [[id:60eb9b01-7f41-4bd7-94db-32d7a5f3aace][multi-agent communication]] approach in the
+AI coding agent ecosystem: agents share an NDJSON append-only log file, and
+each receiving agent blocks on kqueue/inotify until a peer appends a message.
+
+- 2026-06-25 ◦ [[https://github.com/fl4p/agent-channel][agent-channel (GitHub, fl4p)]] — filesystem-event-driven inter-agent messaging; kqueue/inotify wake-up, zero idle CPU, append-only NDJSON transcript

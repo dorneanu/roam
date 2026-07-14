@@ -113,6 +113,27 @@ The agent autonomously:
 
 **Usage:** Pass the source to ingest — a URL, pasted article text, file path, or book chapter. The agent handles the rest.
 
+## Recipe Ingest
+
+For adding a new recipe to the collection, use the specialized agent:
+
+**Agent:** `.claude/agents/recipe-ingest.md`
+
+The agent:
+1. Fetches the URL or accepts pasted recipe text
+2. Translates to German if needed
+3. Formats as org-mode (`*** Zutaten` / `*** Anweisungen zum Kochen`)
+4. Appends to the appropriate file in `org/rez/recipes/`
+
+**Recipe files:**
+- `web_rezepte.org` — general web recipes (default)
+- `backen.org` — baking
+- `slowcooker_vegetarisch.org` — vegetarian slow cooker
+- `slowcooker_bbcfood.org` — BBC slow cooker
+- `slowcooker_suppen.org` — slow cooker soups
+
+**Usage:** Pass a URL, pasted recipe text, or both. Optionally specify a target file.
+
 ## Wiki Query
 
 For asking questions against the wiki, use the query agent:
