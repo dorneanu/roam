@@ -315,6 +315,17 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics created:* llm_evaluation.org
 - *Summary:* Ingested the GitHub READMEs for promptfoo (MIT, acquired by OpenAI; CLI+library for LLM evals and automated red-teaming; CI/CD integration; model comparison) and Giskard OSS (Apache 2.0; Python library for agentic system testing; Scenario API with LLM-as-judge; giskard-scan covers OWASP LLM Top-10); created llm_evaluation.org covering eval frameworks, assertion types (regex/semantic/LLM-as-judge), regression testing, multi-turn agentic evaluation, and both tools; updated red_teaming_llms.org to mention promptfoo and Giskard in the automated scanning section; updated llm_vulnerability_scanning.org to add promptfoo and Giskard Scan as dedicated tool entries alongside garak.
 
+* 2026-07-09: Ingest — System Prompts and Models of AI Tools
+:PROPERTIES:
+:DATE:     2026-07-09
+:TYPE:     ingest
+:SOURCE:   https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+:END:
+- *Source type:* article
+- *Topics updated:* system_prompt_transparency.org, llm_red_teaming.org, ai_agents.org
+- *Topics created:* coding_assistants.org
+- *Summary:* Ingested the x1xhlol system-prompts-and-models-of-ai-tools repository — a community collection of extracted prompts and tool schemas for AI coding assistants (Cursor, Windsurf, Devin, Manus, Lovable, VSCode Agent, Augment Code, Replit, Kiro, Trae, Warp, Xcode, and ~20 more); created coding_assistants.org covering the tool landscape, shared architectural patterns, model-identity obfuscation (Windsurf claiming GPT 4.1, Devin refusing to disclose prompt), and agentic tool schemas; updated system_prompt_transparency.org with the x1xhlol collection as a coding-assistant complement to CL4R1T4S; updated llm_red_teaming.org system-prompt-extraction section with obfuscation details; updated ai_agents.org with Devin and Manus prompt architecture findings.
+
 * 2026-07-13: Ingest — How to read more books
 :PROPERTIES:
 :DATE:     2026-07-13

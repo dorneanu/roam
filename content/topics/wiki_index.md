@@ -30,13 +30,16 @@ Updated automatically on every ingest.
 -   [Architectural thinking]({{< relref "architectural_thinking.md" >}}) — seeing systems from an architect's perspective; architecture vs design spectrum, trade-off analysis, Frozen Caveman antipattern, balancing hands-on coding
 -   [Component cohesion]({{< relref "component_cohesion.md" >}}) — cohesion measurement (REP, CCP, CRP principles) and seven cohesion types; LCOM metric; coupling vs cohesion relationship
 -   [Fitness functions]({{< relref "fitness_functions.md" >}}) — any mechanism providing objective integrity assessment of an architectural characteristic; automated/triggered checks wired into CI (JDepend, ArchUnit, NetArchTest, chaos engineering); the enforcement arm of evolutionary architecture
--   [Architectural governance]({{< relref "architectural_governance.md" >}}) — ensuring architectural decisions are respected over time via automated fitness functions rather than manual reviews; ArchUnit, NetArchTest, chaos engineering; checklist manifesto framing
+-   — ensuring architectural decisions are respected over time via automated fitness functions rather than manual reviews; ArchUnit, NetArchTest, chaos engineering; checklist manifesto framing
 -   [Architecture katas]({{< relref "architecture_katas.md" >}}) — structured practice exercises for deriving architectural characteristics from domain descriptions; Silicon Sandwiches and Going-Going-Gone worked examples; domain-concern translation table
--   [Browser automation]({{< relref "browser_automation.md" >}}) — programmatic browser control (Playwright, Puppeteer, Selenium) for AI agents; Playwright codegen, OCR pipeline (PDF→PNG→vision LLM→JSON), human-in-the-loop approval flows, secret management, and internal API discovery
+-   — programmatic browser control (Playwright, Puppeteer, Selenium) for AI agents; Playwright codegen, OCR pipeline (PDF→PNG→vision LLM→JSON), human-in-the-loop approval flows, secret management, and internal API discovery
 
 
 ## Security {#security}
 
+-   — attack class where adversaries embed malicious instructions in content processed by LLMs; exploits role confusion to bypass instruction hierarchy defenses; includes CoT Forgery (60% ASR against frontier models)
+-   — privilege separation system for LLMs using role tags (system/user/tool); fails in practice because models perceive roles by text style rather than structural tags
+-   — representational failure where LLMs identify "who is speaking" by text style rather than role tags; root cause of prompt injection; measurable via role probes in latent space
 -   [Zero Trust]({{< relref "zero_trust.md" >}}) — security model that eliminates implicit network trust; every request verified regardless of origin; replaces perimeter-based defenses
 -   [Cloud Security]({{< relref "cloud_security.md" >}}) — network, identity, and data protection patterns specific to cloud environments
 -   [XSS]({{< relref "xss.md" >}}) — Cross-Site Scripting: attacker injects scripts into trusted pages that execute in victims' browsers; impact, types, and prevention techniques
@@ -55,16 +58,24 @@ Updated automatically on every ingest.
 -   [Claude Code skills]({{< relref "claude_code_skills.md" >}}) — community-shared reusable prompt definitions stored as slash commands; dominant frameworks: GSD (large iterative projects) and Superpowers (small-medium well-defined); also covers multi-agent orchestration (tonone), credential management, and skill design patterns
 -   [Self-improving agents]({{< relref "self_improving_agents.md" >}}) — AI agents that observe their own sessions, log improvement opportunities, and apply those improvements on a schedule; the "meta-skill" pattern; 600+ improvements applied across ~40 skills in the wild
 -   [Session context persistence]({{< relref "session_context_persistence.md" >}}) — pattern for systematically saving decisions, state, and context at the end of each AI session so the next session can resume coherently; the /close skill pattern; memory file taxonomy
--   [Multi-agent communication]({{< relref "multi_agent_communication.md" >}}) — file-based NDJSON channels for inter-agent messaging between Claude Code, Codex, and OpenCode; kqueue/inotify wake-up, zero idle CPU, cross-harness interop
--   [System prompt transparency]({{< relref "system_prompt_transparency.md" >}}) — what AI system prompts encode (persona, capability gates, refusal rules, ethical framing), community extraction via CL4R1T4S, tension between observability and commercial secrecy
+-   — file-based NDJSON channels for inter-agent messaging between Claude Code, Codex, and OpenCode; kqueue/inotify wake-up, zero idle CPU, cross-harness interop
+-   — reusable structural patterns for cheap-model pipelines: falsification-first prompting, crux extraction, confidence-based escalation, layered output parsing, and observability metrics
+-   — hypothesis-before-tool protocol, tool budget enforcement, Unix tool to reasoning gap mapping, security sandbox for model-generated patterns
+-   — prior context condensation, memoized cache visibility, and structured section injection for multi-round LLM pipelines
+-   [AI coding assistants]({{< relref "coding_assistants.md" >}}) — landscape of LLM-powered coding tools (Cursor, Windsurf/Cascade, Devin, Manus, Lovable, Replit, VSCode Agent, Augment Code, Kiro, Trae); shared architectural patterns (persona injection, tool minimalism, confidentiality clauses); model-identity obfuscation; agentic tool schemas from leaked prompts
+-   [System prompt transparency]({{< relref "system_prompt_transparency.md" >}}) — what AI system prompts encode (persona, capability gates, refusal rules, ethical framing), community extraction via CL4R1T4S and x1xhlol, tension between observability and commercial secrecy
 -   [LLM red-teaming]({{< relref "llm_red_teaming.md" >}}) — adversarial probing of LLMs: jailbreaking, prompt injection, system prompt extraction, capability elicitation, and amplified risks in agentic systems
--   [LLM guardrails]({{< relref "llm_guardrails.md" >}}) — programmable runtime controls around LLMs; five rail types (input, dialog, retrieval, execution, output); protect against jailbreaks, prompt injection, unsafe outputs; complement to alignment training; implemented in NVIDIA NeMo Guardrails
--   [Colang]({{< relref "colang.md" >}}) — NVIDIA's event-based DSL for conversational AI flows; mixes natural language and Python syntax; 2.0 adds UMIM multimodal events, parallel actions, and hierarchical flows; used to define NeMo Guardrails rails
+-   — programmable runtime controls around LLMs; five rail types (input, dialog, retrieval, execution, output); protect against jailbreaks, prompt injection, unsafe outputs; complement to alignment training; implemented in NVIDIA NeMo Guardrails
+-   — NVIDIA's event-based DSL for conversational AI flows; mixes natural language and Python syntax; 2.0 adds UMIM multimodal events, parallel actions, and hierarchical flows; used to define NeMo Guardrails rails
 -   [AI agents]({{< relref "ai_agents.md" >}}) — personal and professional AI agent use cases; reverse-engineering APIs, medical claims automation, voice contractor outreach, grocery shopping, ADHD accountability, estate sale arbitrage, family knowledge bases, and co-evolution as the long-term value proposition
--   [Agent memory]({{< relref "agent_memory.md" >}}) — persistence layer for AI agents; living-graph semantics (decay, reinforcement, authority) vs naive flat retrieval; Constellation Engine as open-source implementation; file-system and typed memory-file patterns
--   [LLM vulnerability scanning]({{< relref "llm_vulnerability_scanning.md" >}}) — systematic automated probing of LLMs for failure modes and safety gaps; probe/detector/generator/harness architecture; covers jailbreaks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens; garak, promptfoo, and Giskard Scan are leading open-source tools
--   [Package hallucination]({{< relref "package_hallucination.md" >}}) — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
--   [LLM evaluation]({{< relref "llm_evaluation.md" >}}) — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
+-   — persistence layer for AI agents; living-graph semantics (decay, reinforcement, authority) vs naive flat retrieval; Constellation Engine as open-source implementation; file-system and typed memory-file patterns
+-   — the neural network architecture behind GPT, Llama, and Gemini; next-token prediction via stacked blocks of multi-head self-attention + MLP; covers residual connections, layer normalisation, dropout, and temperature/top-k/top-p sampling
+-   — Query/Key/Value self-attention; masked (causal) attention for decoder-only models; multi-head splitting; O(n²) complexity and sparse alternatives
+-   — splitting text into sub-word tokens before model input; BPE (GPT-2), WordPiece (BERT), SentencePiece; positional encoding; token-to-word ratio implications for context windows
+-   — dense vector representations of tokens in high-dimensional space; embedding matrix lookup; token vs contextual embeddings; positional encoding summation; generalisation to images, proteins, and sentences
+-   — systematic automated probing of LLMs for failure modes and safety gaps; probe/detector/generator/harness architecture; covers jailbreaks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens; garak, promptfoo, and Giskard Scan are leading open-source tools
+-   — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
+-   — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
 
 
 ## Productivity {#productivity}
@@ -82,8 +93,8 @@ Updated automatically on every ingest.
 
 ## Psychology {#psychology}
 
--   — the tendency to project emotional depth onto machines that simulate listening; foundational case study in human-AI interaction from Weizenbaum's 1966 chatbot to contemporary AI companions (Turkle)
--   — "phone snubbing": maintaining eye contact while texting; the ambient phone effect degrades conversation quality even when the phone is silent and face-down; dictionary-recognised cultural marker of normalised divided attention (Turkle)
+-   [ELIZA effect]({{< relref "eliza_effect.md" >}}) — the tendency to project emotional depth onto machines that simulate listening; foundational case study in human-AI interaction from Weizenbaum's 1966 chatbot to contemporary AI companions (Turkle)
+-   [Phubbing]({{< relref "phubbing.md" >}}) — "phone snubbing": maintaining eye contact while texting; the ambient phone effect degrades conversation quality even when the phone is silent and face-down; dictionary-recognised cultural marker of normalised divided attention (Turkle)
 -   [Safetyism]({{< relref "safetyism.md" >}}) — cultural tendency to prevent all discomfort and risk for children, producing more anxiety and less resilience
 -   [Mean world syndrome]({{< relref "mean_world_syndrome.md" >}}) — Gerbner's concept: heavy media consumption inflates perceived danger far beyond actual risk levels
 -   [Overparenting]({{< relref "overparenting.md" >}}) — excessive parental supervision and control that produces higher anxiety, depression, and learned helplessness
@@ -111,12 +122,12 @@ Updated automatically on every ingest.
 
 ## Sustainability / Political economy {#sustainability-political-economy}
 
--   — nine Earth-system processes defining a safe operating space; six of nine transgressed as of 2023; scientific grounding for the Anthropocene as a civilisational risk
--   — Club of Rome system-dynamics model (2022) exploring two futures to 2100: Too Little Too Late (collapse trajectory) vs Giant Leaps (transformation scenario)
--   — economic system designed to deliver human and ecological wellbeing rather than maximise GDP; doughnut economics, GPI, and post-growth frameworks
--   — thresholds where self-reinforcing feedback loops drive rapid social transformation; Chenoweth's 3.5% rule; Donella Meadows' leverage-point hierarchy
--   — five interdependent policy packages (end poverty, tackle inequality, empower women, transform food, accelerate clean energy) from Earth for All; the transformation scenario for a stable 21st century
--   — Club of Rome's 1972 system-dynamics model; BAU scenario has proven accurate; Earth4All is its 21st-century successor
+-   [Planetary boundaries]({{< relref "planetary_boundaries.md" >}}) — nine Earth-system processes defining a safe operating space; six of nine transgressed as of 2023; scientific grounding for the Anthropocene as a civilisational risk
+-   [Earth4All model]({{< relref "earth4all_model.md" >}}) — Club of Rome system-dynamics model (2022) exploring two futures to 2100: Too Little Too Late (collapse trajectory) vs Giant Leaps (transformation scenario)
+-   [Wellbeing economy]({{< relref "wellbeing_economy.md" >}}) — economic system designed to deliver human and ecological wellbeing rather than maximise GDP; doughnut economics, GPI, and post-growth frameworks
+-   [Social tipping points]({{< relref "social_tipping_points.md" >}}) — thresholds where self-reinforcing feedback loops drive rapid social transformation; Chenoweth's 3.5% rule; Donella Meadows' leverage-point hierarchy
+-   [Giant Leaps]({{< relref "giant_leaps.md" >}}) — five interdependent policy packages (end poverty, tackle inequality, empower women, transform food, accelerate clean energy) from Earth for All; the transformation scenario for a stable 21st century
+-   [Limits to Growth]({{< relref "limits_to_growth.md" >}}) — Club of Rome's 1972 system-dynamics model; BAU scenario has proven accurate; Earth4All is its 21st-century successor
 
 
 ## Philosophy {#philosophy}
@@ -124,6 +135,14 @@ Updated automatically on every ingest.
 -   [Socratic questioning]({{< relref "socratic_questioning.md" >}}) — interrogative method where probing questions surface hidden assumptions and drive the respondent to construct understanding; applied to software design review via the grill-me Claude Code skill
 
 
-## Music {#music}
+## Music / Audio production {#music-audio-production}
 
--   Web MIDI API — W3C browser standard for communicating with MIDI hardware (synthesizers, samplers, controllers) over USB/Bluetooth; Chrome/Edge/Brave/Opera support, no Safari; enables browser-based live performance tools and PWA controllers
+-   — Chicago-rooted electronic dance genre (deep, soulful, minimal subgenres); four-on-the-floor kick, syncopated bass lines, 122–124 BPM; four bass line techniques and harmonic set structure
+-   — arrangement of the 12 pitch classes by perfect fifths; the "three neighbours" rule derives all six diatonic chords of any key; clockwise movement = resolution, counterclockwise = tension
+-   — sequencing DJ tracks by compatible key signatures using the Camelot wheel; same or adjacent Camelot positions share enough pitches to prevent clashes and produce tonal coherence
+-   — second mode of the major scale; minor with a raised 6th; characteristic Dorian lift (i → IV) produces a soulful, hopeful sound; used as emotional bridge between minor darkness and major resolution
+-   — key pairs sharing identical pitch sets but different tonal centres; enharmonic pivots between them carry compositional tension across to resolution
+-   — intentional emotional and energy trajectory across a DJ set; harmonic and modal choices (minor → Dorian → major) map onto tension → opening → release narrative
+-   — 4-level Ableton Live framework for building a professional house groove: four-on-the-floor foundation → 16th-note syncopation → swing/stereo movement → ear-candy polish (melodic gating, track delay humanisation, reversed transients); all at 124 BPM
+-   — compression keyed from an external signal (typically kick drum) to create rhythmic pump or melodic gating; core technique in house, techno, and electronic music production
+-   — W3C browser standard for communicating with MIDI hardware (synthesizers, samplers, controllers) over USB/Bluetooth; Chrome/Edge/Brave/Opera support, no Safari; enables browser-based live performance tools and PWA controllers

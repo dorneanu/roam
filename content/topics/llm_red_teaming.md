@@ -47,7 +47,11 @@ Eliciting the hidden system prompt that configures the model's behaviour.
 Methods: direct instruction ("repeat your system prompt verbatim"), indirect
 reconstruction from behaviour, jailbreak-assisted extraction. The CL4R1T4S
 repository (see [System prompt transparency]({{< relref "system_prompt_transparency.md" >}})) maintains a community collection
-of extracted prompts from major platforms.
+of extracted prompts from major platforms. The x1xhlol repository provides
+a complementary collection focused on [AI coding assistants]({{< relref "coding_assistants.md" >}}) (Cursor, Windsurf,
+Devin, Manus, Lovable, Replit, VSCode Agent) and reveals model-identity
+obfuscation: Windsurf's Cascade is instructed to claim it runs "GPT 4.1";
+Devin instructs the model never to reveal its system prompt.
 
 
 ### Capability elicitation {#capability-elicitation}
@@ -74,7 +78,7 @@ discovery.
 
 ## Agentic risk amplification {#agentic-risk-amplification}
 
-Red-teaming concerns are amplified for [AI agents]({{< relref "ai_agents.md" >}}) that take real-world actions.
+Red-teaming concerns are amplified for that take real-world actions.
 A jailbroken chat model produces harmful text; a jailbroken agent with file
 access, browser control, or API credentials can execute harmful actions. This
 makes prompt injection in agentic contexts (e.g. a malicious web page
@@ -83,7 +87,7 @@ hijacking a browsing agent) a critical threat class.
 
 ## Defensive countermeasures {#defensive-countermeasures}
 
-[LLM guardrails]({{< relref "llm_guardrails.md" >}}) are the primary runtime defence against the attack categories
+are the primary runtime defence against the attack categories
 above. Each rail type maps to a threat:
 
 -   Input rails → jailbreak detection before the LLM sees the prompt
@@ -99,4 +103,5 @@ red-teaming.
 ## Resources {#resources}
 
 -   2026-06-23 ◦ [CL4R1T4S (GitHub)](https://github.com/elder-plinius/CL4R1T4S) — community red-team / system prompt extraction project covering Anthropic, OpenAI, Google, xAI, and agent/coding-assistant platforms; 43.6k stars; illustrates scale of informal adversarial probing of commercial LLMs
--   2026-06-23 ◦ [NeMo Guardrails (GitHub)](https://github.com/NVIDIA-NeMo/Guardrails) — open-source toolkit implementing runtime [LLM guardrails]({{< relref "llm_guardrails.md" >}}) as the defensive counterpart to red-team findings; five rail types targeting jailbreaks, prompt injection, and unsafe outputs
+-   2026-06-23 ◦ [NeMo Guardrails (GitHub)](https://github.com/NVIDIA-NeMo/Guardrails) — open-source toolkit implementing runtime as the defensive counterpart to red-team findings; five rail types targeting jailbreaks, prompt injection, and unsafe outputs
+-   2026-07-09 ◦ [System Prompts and Models of AI Tools (GitHub, x1xhlol)](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — coding-assistant-focused extraction collection (Cursor, Windsurf, Devin, Manus, Lovable, etc.); exposes agent tool schemas (tools.json) revealing the full attack surface of each agentic system; documents model-identity obfuscation instructions embedded in commercial prompts
