@@ -336,3 +336,14 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* nassim_taleb.org, attention_economy.org, zettelkasten.org
 - *Topics created:* reading_habits.org, antilibrary.org
 - *Summary:* Ingested Elia Scotto's "How to read more books" and its HN discussion (503 points, 262 comments); created reading_habits.org covering phone-replacement as a reading strategy, parallel reading, abandoning books without guilt, ebook vs. physical books, reading goals vs. pleasure, the audiobook/reading modality debate, RSVP/speed reading, and note-taking for retention; created antilibrary.org as a standalone concept page for Taleb's unread-books-as-research-tool idea; updated nassim_taleb.org, attention_economy.org (phone-replacement lever), and zettelkasten.org (review vs. highlighting for retention) with cross-linked resource bullets.
+
+* 2026-07-15: Ingest — Are we offloading too much of our thinking to AI?
+:PROPERTIES:
+:DATE:     2026-07-15
+:TYPE:     ingest
+:SOURCE:   https://news.ycombinator.com/item?id=48908178
+:END:
+- *Source type:* discussion
+- *Topics updated:* coding_assistants.org, ai_agents.org, learned_helplessness.org
+- *Topics created:* cognitive_offloading.org, ai_assisted_learning.org
+- *Summary:* Ingested the 420-comment HN discussion of yenniejun111's "Are we offloading too much of our thinking to AI?" (score 456); created cognitive_offloading.org as a hub page covering the Whispering Earring parable, the calculator/mastery debate (capability vs. mastery, "number sense"), procedural vs. declarative knowledge and comprehension debt, and accountability/decision-ownership arguments, cross-linked to learned_helplessness.org; created ai_assisted_learning.org covering the "get the information then put it into practice" pattern (contractor, gardening, cocktail anecdotes) and the RevEng debug/review/implement/suggest framework; updated coding_assistants.org with an "Agency-preserving usage patterns" section (gptel-as-search-engine discipline, familiar-vs-unfamiliar-territory rule); updated ai_agents.org with an agent-driven-groupthink failure mode (the nsxwolf production-fix standoff anecdote); updated learned_helplessness.org with a reverse cross-link framing AI cognitive offloading as a contemporary instance of the rescue-from-effort mechanism.

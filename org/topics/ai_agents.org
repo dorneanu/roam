@@ -183,9 +183,14 @@ missed, and gradually needs less re-explanation. This requires [[id:9fbf5e70-7cb
 that goes beyond simple retrieval — old context should be able to decay,
 reinforce, or lose authority, not simply accumulate forever.
 
+* Failure mode: agent-driven groupthink
+
+Not all agent use is human-in-the-loop by default. In a 2026 HN discussion of [[id:faffc96d-bac0-4b98-9691-62ead0171129][cognitive offloading]], user nsxwolf described a "dangerous AI standoff at work" where engineers debated a production connection-pooling/threading fix purely by citing "what their agent said" — nobody able to adjudicate between contradictory agent recommendations, and admitting "I don't know enough to have an opinion" carrying social cost even though it was the honest position. This is the human-in-the-loop pattern above failing in practice: the agent's output displaced the team's own technical judgment rather than informing it.
+
 * Resources
 
 - 2026-06-18 ◦ [[https://www.reddit.com/r/hermesagent/comments/1tlh53c/am_i_missing_the_point_of_ai_agents/][Am I missing the point of AI agents? (Reddit r/hermesagent)]] — 19-contributor thread of real-world personal AI agent use cases; covers reverse-engineering APIs, medical claims automation, contractor voice outreach, grocery shopping, ADHD accountability, estate sale arbitrage, personal data self-analysis, family knowledge base, and conversational travel planning
+- 2026-07-15 ◦ [[https://news.ycombinator.com/item?id=48908178][Are we offloading too much of our thinking to AI? (HN discussion)]] — source of the agent-driven groupthink anecdote above
 - 2026-06-23 ◦ [[https://github.com/NVIDIA-NeMo/Guardrails][NeMo Guardrails (GitHub)]] — execution and retrieval rails are the [[id:c7bd4e11-97ce-4492-9a63-a91d262e576b][LLM guardrails]] mechanisms most relevant to agentic pipelines; defined in [[id:1cf67062-e473-4e17-920c-8507bbcbb45e][Colang]] `.co` files
 
 - 2026-06-23 ◦ [[https://github.com/elder-plinius/CL4R1T4S][CL4R1T4S (GitHub)]] — extracted system prompts from agent platforms (Devin, Manus, MultiOn) expose how agentic scaffolds encode tool permissions, goal-pursuit behaviours, and refusal boundaries; see [[id:c7899112-a8aa-40bc-9067-9c7e102ddf7e][System prompt transparency]] and [[id:b47e36c2-ec78-44b7-9dd6-add857117982][LLM red-teaming]]

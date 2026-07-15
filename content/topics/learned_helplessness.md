@@ -41,7 +41,13 @@ Haidt's concept of [Antifragility]({{< relref "antifragility.md" >}}) is the pos
 Children who develop learned helplessness are more likely to remain in a defend-mode default — they have little confidence that action leads to success, so challenges register as threats rather than opportunities (see [Safetyism]({{< relref "safetyism.md" >}})).
 
 
+## Connection to cognitive offloading {#connection-to-cognitive-offloading}
+
+The AI-cognitive-offloading debate is a contemporary, adult-professional instance of the same rescue-from-effort mechanism documented above: when an AI reliably supplies the answer, the belief that one's own effort matters — and eventually the underlying skill itself — can atrophy the same way it does under overparenting. See [Cognitive offloading]({{< relref "cognitive_offloading.md" >}}) for the calculator/mastery, procedural-knowledge, and accountability arguments from a 2026 HN discussion applying this pattern to programming, math, and decision-making.
+
+
 ## Resources {#resources}
 
 -   2026-05-19 ◦ [The Cost of Safetyism — Steve Magness](https://stevemagness.substack.com/p/the-cost-of-safetyism) — argues that modern overparenting systematically produces learned helplessness by removing the developmental experiences that build efficacy and resilience
 -   2026-06-02 ◦ — frames learned helplessness as the outcome of two overlapping experience blockers (safetyism + smartphones), both of which prevent children from discovering that effort leads to mastery
+-   2026-07-15 ◦ [Are we offloading too much of our thinking to AI? (HN discussion)](https://news.ycombinator.com/item?id=48908178) — contemporary application of the same rescue-from-effort mechanism to AI-assisted work; see [Cognitive offloading]({{< relref "cognitive_offloading.md" >}})

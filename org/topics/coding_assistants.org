@@ -82,7 +82,16 @@ available to agents — what filesystem, network, shell, and browser operations 
 agent can invoke — which is the definitive description of each agent's attack surface
 for [[id:b47e36c2-ec78-44b7-9dd6-add857117982][LLM red-teaming]] purposes.
 
+* Agency-preserving usage patterns
+
+Practitioners in a 2026 HN discussion of [[id:faffc96d-bac0-4b98-9691-62ead0171129][cognitive offloading]] described deliberate disciplines for using AI coding assistants without losing comprehension or reflexes:
+- User reinitctxoffset keeps a serious feature branch on every project driven manually in Emacs (or VS Code), using the Emacs package =gptel= as a smarter search engine — it tool-calls out for docs — rather than as a code generator. This deliberately trades some speed for keeping reflexes up and comprehension debt under control (see [[id:faffc96d-bac0-4b98-9691-62ead0171129][Cognitive offloading]] for the fuller comprehension-debt argument).
+- User therobots927 uses AI only for things they don't already know how to do, because using it on familiar territory tends to produce subtly wrong output that costs more time to debug than writing it themselves: "It's deeply frustrating to realize you just wasted 20 minutes posting error messages into Claude when you could've just locked in and written it yourself."
+
+See [[id:c99f3213-64ad-4098-9833-70da9a67a9bd][AI-assisted learning]] for the general (non-coding) version of this pattern.
+
 * Resources
 
 - 2026-07-09 ◦ [[https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools][System Prompts and Models of AI Tools (GitHub, x1xhlol)]] — community collection of extracted system prompts and model identities for coding assistants, IDEs, vibe-coding platforms, and autonomous agents; includes per-model prompt variants and tools.json schemas
 - 2026-06-03 ◦ [[id:1d69111a-a3c1-4c18-af2a-b6a2ad6c04c8][Claude Code]] — Anthropic's own CLI coding agent; see the Claude Code topic for CLAUDE.md conventions, slash commands, hooks, and the Planner-Generator-Evaluator agentic workflow pattern
+- 2026-07-15 ◦ [[https://news.ycombinator.com/item?id=48908178][Are we offloading too much of our thinking to AI? (HN discussion)]] — source of the agency-preserving usage patterns above (gptel-as-search-engine discipline, "only use AI on unfamiliar territory" rule)

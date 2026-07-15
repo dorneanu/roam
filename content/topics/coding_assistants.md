@@ -15,7 +15,7 @@ Agent, Windsurf). The space has consolidated around a few underlying models
 (Claude Sonnet, GPT-5, Gemini 2.5 Pro) licensed to multiple front-end vendors,
 each adding proprietary persona, tool instructions, and UX scaffolding on top.
 
-Related concepts: [Claude Code]({{< relref "claude_code.md" >}}), ,
+Related concepts: [Claude Code]({{< relref "claude_code.md" >}}), [AI agents]({{< relref "ai_agents.md" >}}), [System prompt transparency]({{< relref "system_prompt_transparency.md" >}})
 
 
 ## Major tools {#major-tools}
@@ -89,16 +89,28 @@ This reveals a common practice: the AI persona is a product brand, decoupled fro
 ## Relationship to system prompt transparency {#relationship-to-system-prompt-transparency}
 
 The x1xhlol repository ([GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)) is the primary community collection of coding
-assistant prompts. Together with [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) (general AI platforms) and the community, these repositories provide near-complete coverage
+assistant prompts. Together with [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) (general AI platforms) and the [system
+prompt transparency]({{< relref "system_prompt_transparency.md" >}}) community, these repositories provide near-complete coverage
 of commercial AI system prompt configurations as of mid-2026.
 
 The tools.json files exposed alongside prompts reveal the full function signatures
 available to agents — what filesystem, network, shell, and browser operations each
 agent can invoke — which is the definitive description of each agent's attack surface
-for purposes.
+for [LLM red-teaming]({{< relref "llm_red_teaming.md" >}}) purposes.
+
+
+## Agency-preserving usage patterns {#agency-preserving-usage-patterns}
+
+Practitioners in a 2026 HN discussion of [cognitive offloading]({{< relref "cognitive_offloading.md" >}}) described deliberate disciplines for using AI coding assistants without losing comprehension or reflexes:
+
+-   User reinitctxoffset keeps a serious feature branch on every project driven manually in Emacs (or VS Code), using the Emacs package `gptel` as a smarter search engine — it tool-calls out for docs — rather than as a code generator. This deliberately trades some speed for keeping reflexes up and comprehension debt under control (see [Cognitive offloading]({{< relref "cognitive_offloading.md" >}}) for the fuller comprehension-debt argument).
+-   User therobots927 uses AI only for things they don't already know how to do, because using it on familiar territory tends to produce subtly wrong output that costs more time to debug than writing it themselves: "It's deeply frustrating to realize you just wasted 20 minutes posting error messages into Claude when you could've just locked in and written it yourself."
+
+See [AI-assisted learning]({{< relref "ai_assisted_learning.md" >}}) for the general (non-coding) version of this pattern.
 
 
 ## Resources {#resources}
 
 -   2026-07-09 ◦ [System Prompts and Models of AI Tools (GitHub, x1xhlol)](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — community collection of extracted system prompts and model identities for coding assistants, IDEs, vibe-coding platforms, and autonomous agents; includes per-model prompt variants and tools.json schemas
 -   2026-06-03 ◦ [Claude Code]({{< relref "claude_code.md" >}}) — Anthropic's own CLI coding agent; see the Claude Code topic for CLAUDE.md conventions, slash commands, hooks, and the Planner-Generator-Evaluator agentic workflow pattern
+-   2026-07-15 ◦ [Are we offloading too much of our thinking to AI? (HN discussion)](https://news.ycombinator.com/item?id=48908178) — source of the agency-preserving usage patterns above (gptel-as-search-engine discipline, "only use AI on unfamiliar territory" rule)

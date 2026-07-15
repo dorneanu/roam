@@ -76,6 +76,7 @@ Updated automatically on every ingest.
 -   — systematic automated probing of LLMs for failure modes and safety gaps; probe/detector/generator/harness architecture; covers jailbreaks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens; garak, promptfoo, and Giskard Scan are leading open-source tools
 -   — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
 -   — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
+-   [AI-assisted learning]({{< relref "ai_assisted_learning.md" >}}) — practical pattern for learning with AI without losing retention: get the information, then put it into practice; RevEng's debug/review/implement/suggest framework for agency-preserving AI use
 
 
 ## Productivity {#productivity}
@@ -89,6 +90,7 @@ Updated automatically on every ingest.
 -   [Zettelkasten]({{< relref "zettelkasten.md" >}}) — slip-box note-taking method; atomic notes linked by ideas rather than hierarchy; foundation of the second brain approach
 -   [org-roam]({{< relref "org_roam.md" >}}) — Emacs package implementing a Zettelkasten over org-mode files; ID-based bidirectional links and backlinks
 -   [Knowledge pyramid]({{< relref "knowledge_pyramid.md" >}}) — three-level model (stuff you know / know you don't know / don't know you don't know); architects need breadth (middle), developers need depth (top); techniques: 20-minute rule, personal technology radar
+-   [Reading habits]({{< relref "reading_habits.md" >}}) — deliberate practices for reading far more: phone-replacement during idle time, parallel reading, abandoning books without guilt, ebook vs. physical books, and reading goals vs. pleasure
 
 
 ## Psychology {#psychology}
@@ -99,6 +101,7 @@ Updated automatically on every ingest.
 -   [Mean world syndrome]({{< relref "mean_world_syndrome.md" >}}) — Gerbner's concept: heavy media consumption inflates perceived danger far beyond actual risk levels
 -   [Overparenting]({{< relref "overparenting.md" >}}) — excessive parental supervision and control that produces higher anxiety, depression, and learned helplessness
 -   [Learned helplessness]({{< relref "learned_helplessness.md" >}}) — passivity and loss of agency produced when effort is repeatedly shown not to matter
+-   [Cognitive offloading]({{< relref "cognitive_offloading.md" >}}) — transferring thinking, decision-making, or skill practice onto AI; the Whispering Earring parable, the calculator/mastery debate, procedural vs. declarative knowledge and comprehension debt, and accountability/decision-ownership arguments from a 2026 HN discussion
 -   [Autonomy-supportive coaching]({{< relref "autonomy_supportive_coaching.md" >}}) — leadership style that gradually transfers control to the learner, building intrinsic motivation and resilience
 -   [Unstructured play]({{< relref "unstructured_play.md" >}}) — child-directed unsupervised play essential for conflict resolution, risk assessment, and emotional regulation
 
@@ -133,6 +136,7 @@ Updated automatically on every ingest.
 ## Philosophy {#philosophy}
 
 -   [Socratic questioning]({{< relref "socratic_questioning.md" >}}) — interrogative method where probing questions surface hidden assumptions and drive the respondent to construct understanding; applied to software design review via the grill-me Claude Code skill
+-   [Antilibrary]({{< relref "antilibrary.md" >}}) — Taleb's concept of unread books as a research tool and reservoir of curiosity, valued precisely for what they represent about one's unknowns rather than for having been read
 
 
 ## Music / Audio production {#music-audio-production}

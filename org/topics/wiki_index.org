@@ -69,6 +69,7 @@ Updated automatically on every ingest.
 - [[id:93ac6603-1d50-4782-b8ef-595f5c2c78e0][LLM vulnerability scanning]] — systematic automated probing of LLMs for failure modes and safety gaps; probe/detector/generator/harness architecture; covers jailbreaks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens; garak, promptfoo, and Giskard Scan are leading open-source tools
 - [[id:12edc324-e7bf-4713-b3c1-2424539f9ad3][Package hallucination]] — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
 - [[id:2fb5620d-bdce-4400-861d-dd1dc91e8f13][LLM evaluation]] — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
+- [[id:c99f3213-64ad-4098-9833-70da9a67a9bd][AI-assisted learning]] — practical pattern for learning with AI without losing retention: get the information, then put it into practice; RevEng's debug/review/implement/suggest framework for agency-preserving AI use
 
 * Productivity
 - [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] — cognitively demanding work performed in distraction-free states; essential for acquiring new skills and producing rare, valuable output (Cal Newport)
@@ -89,6 +90,7 @@ Updated automatically on every ingest.
 - [[id:47a37eb7-e4c7-4cfc-894d-f90aa5f34c97][Mean world syndrome]] — Gerbner's concept: heavy media consumption inflates perceived danger far beyond actual risk levels
 - [[id:a0f60e35-b0dd-4812-a411-929084639817][Overparenting]] — excessive parental supervision and control that produces higher anxiety, depression, and learned helplessness
 - [[id:97ef1d25-ed11-4392-8d64-ba2ecf0ff146][Learned helplessness]] — passivity and loss of agency produced when effort is repeatedly shown not to matter
+- [[id:faffc96d-bac0-4b98-9691-62ead0171129][Cognitive offloading]] — transferring thinking, decision-making, or skill practice onto AI; the Whispering Earring parable, the calculator/mastery debate, procedural vs. declarative knowledge and comprehension debt, and accountability/decision-ownership arguments from a 2026 HN discussion
 - [[id:31b5edde-c545-4e72-8129-fd82a627cfaf][Autonomy-supportive coaching]] — leadership style that gradually transfers control to the learner, building intrinsic motivation and resilience
 - [[id:e5fa4d72-6f73-4473-a71b-62fc8f81facf][Unstructured play]] — child-directed unsupervised play essential for conflict resolution, risk assessment, and emotional regulation
 
