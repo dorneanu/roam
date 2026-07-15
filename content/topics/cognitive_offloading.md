@@ -7,31 +7,56 @@ draft = false
 
 ## Overview {#overview}
 
-Cognitive offloading is the transfer of thinking, decision-making, or skill practice onto an external tool — a calculator, a search engine, or, increasingly, an AI. A 2026 HN discussion of the article "Are we offloading too much of our thinking to AI?" (yenniejun111) opens with a widely-cited framing device: the "Whispering Earring," a magic item from a fantasy short story that always tells its wearer the objectively best decision to make. Commenters used the earring as a lens for AI assistants — treat AI as a whispering earring ("what should we do now?") and you outsource judgment itself; treat it as an exoskeleton (execute an already-decided plan) and you outsource only labor. As one commenter put it: "the whispering earring is atrophy."
+Cognitive offloading is the transfer of thinking, decision-making, or skill practice onto an external tool — a calculator, a search engine, or, increasingly, an AI. A 2026 [HN discussion](https://news.ycombinator.com/item?id=48908178) (420 comments, score 456) of the article [Are we offloading too much of our thinking to AI?](https://www.artfish.ai/p/offloading-thinking-to-ai) (yenniejun111) opens with a widely-cited framing device: the "Whispering Earring," a magic item from a fantasy short story that always tells its wearer the objectively best decision to make. Commenters used the earring as a lens for AI assistants — treat AI as a whispering earring ("what should we do now?") and you outsource judgment itself; treat it as an exoskeleton (execute an already-decided plan) and you outsource only labor.
+
+> The whispering earring is atrophy.
 
 
 ## The calculator/GPS analogy {#the-calculator-gps-analogy}
 
 The single most-argued sub-thread in the discussion turned on whether LLMs are like calculators — a supposedly settled case of beneficial cognitive offloading.
 
--   One commenter drew a capability/mastery distinction: "If you have a calculator, you are capable of doing basic arithmetic... If you can do fairly complex arithmetic in your head, that's mastery... mastery of basic arithmetic, calculus, algebra... are necessary stepping stones" to advanced work. Relying on AI for things you merely need as capabilities is fine, but it forecloses the mastery required to progress further.
+-   One commenter drew a capability/mastery distinction:
+
+> If you have a calculator, you are capable of doing basic arithmetic... If you can do fairly complex arithmetic in your head, that's mastery... mastery of basic arithmetic, calculus, algebra... are necessary stepping stones to advanced work.
+
+Relying on AI for things you merely need as capabilities is fine, but it forecloses the mastery required to progress further.
+
 -   Another commenter pushed back on the "you won't always have a calculator" cliché by pointing at unconscious "quick maths" — recipe scaling, grocery shopping — that only works because the underlying skill was learned first:
 
 > The argument "we don't need math, we have a calculator" assumes you always get a textbook question that lays it out for you.
 
--   Several commenters noted LLMs differ from calculators in a load-bearing way: calculators are deterministic, LLMs are not — so "you still need to know what to put in" applies even more strongly to LLMs than to calculators, because you also need the judgment to evaluate a probabilistic answer.
+-   Several commenters noted LLMs differ from calculators in a load-bearing way: calculators are deterministic, LLMs are not — so _you still need to know what to put in_ applies even more strongly to LLMs than to calculators, because you also need the judgment to evaluate a probabilistic answer.
 
 
 ## Procedural vs. declarative knowledge and comprehension debt {#procedural-vs-dot-declarative-knowledge-and-comprehension-debt}
 
--   One commenter distinguished procedural knowledge (actually being able to write a for-loop) from declarative knowledge (knowing you need one): "I believe its 'too much' as soon as we trade procedural knowledge against declarative knowledge so much you can only remember the what and not be able to do the how anymore." They compared this to pilots needing real simulation hours, not just autopilot time.
--   Another commenter described the atrophy as a debt that compounds silently: "even 6-12 months off the keyboard is brutal to come back from... The comprehension and skill debt becomes really hard to pay down in as little as a week or two for the really high complexity stuff." They compared this explicitly to an engineering-manager role — "it's so easy to lose track of the details... the costs of letting the skills slip is all but invisible for a while. But before you know it you're rubber stamping stuff you don't really grasp."
+-   One commenter distinguished procedural knowledge (actually being able to write a for-loop) from declarative knowledge (knowing you need one):
+
+> I believe its 'too much' as soon as we trade procedural knowledge against declarative knowledge so much you can only remember the what and not be able to do the how anymore.
+
+They compared this to pilots needing real simulation hours, not just autopilot time.
+
+-   Another commenter described the atrophy as a debt that compounds silently:
+
+> Even 6-12 months off the keyboard is brutal to come back from... The comprehension and skill debt becomes really hard to pay down in as little as a week or two for the really high complexity stuff.
+
+They compared this explicitly to an engineering-manager role:
+
+> It's so easy to lose track of the details... the costs of letting the skills slip is all but invisible for a while. But before you know it you're rubber stamping stuff you don't really grasp.
 
 
 ## Accountability and decision ownership {#accountability-and-decision-ownership}
 
--   One commenter framed decision-making as inherently tied to feedback: "a person (or entity) making decisions is somehow impacted or otherwise getting feedback on the repercussions of those decisions. When you cognitively surrender to AI... you are asking for trouble."
--   Another commenter gave a concrete workplace anecdote: engineers debating a production connection-pooling/threading fix purely by citing "what their agent said," with nobody able to adjudicate between contradictory AI recommendations. Admitting "I don't know enough to have an opinion" felt socially costly even though it was the honest position — a case where AI-mediated argument displaced actual technical judgment rather than augmenting it.
+-   One commenter framed decision-making as inherently tied to feedback:
+
+> A person (or entity) making decisions is somehow impacted or otherwise getting feedback on the repercussions of those decisions. When you cognitively surrender to AI... you are asking for trouble.
+
+-   Another commenter gave a concrete workplace anecdote: engineers debating a production connection-pooling/threading fix purely by citing "what their agent said," with nobody able to adjudicate between contradictory AI recommendations.
+
+> I don't know enough to have an opinion.
+
+Admitting this felt socially costly even though it was the honest position — a case where AI-mediated argument displaced actual technical judgment rather than augmenting it.
 
 
 ## Connection to learned helplessness {#connection-to-learned-helplessness}
