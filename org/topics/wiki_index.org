@@ -69,7 +69,7 @@ Updated automatically on every ingest.
 - [[id:93ac6603-1d50-4782-b8ef-595f5c2c78e0][LLM vulnerability scanning]] — systematic automated probing of LLMs for failure modes and safety gaps; probe/detector/generator/harness architecture; covers jailbreaks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens; garak, promptfoo, and Giskard Scan are leading open-source tools
 - [[id:12edc324-e7bf-4713-b3c1-2424539f9ad3][Package hallucination]] — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
 - [[id:2fb5620d-bdce-4400-861d-dd1dc91e8f13][LLM evaluation]] — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
-- [[id:c99f3213-64ad-4098-9833-70da9a67a9bd][AI-assisted learning]] — practical pattern for learning with AI without losing retention: get the information, then put it into practice; RevEng's debug/review/implement/suggest framework for agency-preserving AI use
+- [[id:c99f3213-64ad-4098-9833-70da9a67a9bd][AI-assisted learning]] — practical pattern for learning with AI without losing retention: get the information, then put it into practice; a debug/review/implement/suggest framework for agency-preserving AI use
 
 * Productivity
 - [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] — cognitively demanding work performed in distraction-free states; essential for acquiring new skills and producing rare, valuable output (Cal Newport)

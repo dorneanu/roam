@@ -85,8 +85,8 @@ for [[id:b47e36c2-ec78-44b7-9dd6-add857117982][LLM red-teaming]] purposes.
 * Agency-preserving usage patterns
 
 Practitioners in a 2026 HN discussion of [[id:faffc96d-bac0-4b98-9691-62ead0171129][cognitive offloading]] described deliberate disciplines for using AI coding assistants without losing comprehension or reflexes:
-- User reinitctxoffset keeps a serious feature branch on every project driven manually in Emacs (or VS Code), using the Emacs package =gptel= as a smarter search engine — it tool-calls out for docs — rather than as a code generator. This deliberately trades some speed for keeping reflexes up and comprehension debt under control (see [[id:faffc96d-bac0-4b98-9691-62ead0171129][Cognitive offloading]] for the fuller comprehension-debt argument).
-- User therobots927 uses AI only for things they don't already know how to do, because using it on familiar territory tends to produce subtly wrong output that costs more time to debug than writing it themselves: "It's deeply frustrating to realize you just wasted 20 minutes posting error messages into Claude when you could've just locked in and written it yourself."
+- One commenter keeps a serious feature branch on every project driven manually in Emacs (or VS Code), using the Emacs package =gptel= as a smarter search engine — it tool-calls out for docs — rather than as a code generator. This deliberately trades some speed for keeping reflexes up and comprehension debt under control (see [[id:faffc96d-bac0-4b98-9691-62ead0171129][Cognitive offloading]] for the fuller comprehension-debt argument).
+- Another commenter uses AI only for things they don't already know how to do, because using it on familiar territory tends to produce subtly wrong output that costs more time to debug than writing it themselves: "It's deeply frustrating to realize you just wasted 20 minutes posting error messages into Claude when you could've just locked in and written it yourself."
 
 See [[id:c99f3213-64ad-4098-9833-70da9a67a9bd][AI-assisted learning]] for the general (non-coding) version of this pattern.
 

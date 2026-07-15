@@ -76,7 +76,7 @@ Updated automatically on every ingest.
 -   — systematic automated probing of LLMs for failure modes and safety gaps; probe/detector/generator/harness architecture; covers jailbreaks, encoding injection, GCG adversarial suffixes, package hallucination, glitch tokens; garak, promptfoo, and Giskard Scan are leading open-source tools
 -   — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
 -   — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
--   [AI-assisted learning]({{< relref "ai_assisted_learning.md" >}}) — practical pattern for learning with AI without losing retention: get the information, then put it into practice; RevEng's debug/review/implement/suggest framework for agency-preserving AI use
+-   [AI-assisted learning]({{< relref "ai_assisted_learning.md" >}}) — practical pattern for learning with AI without losing retention: get the information, then put it into practice; a debug/review/implement/suggest framework for agency-preserving AI use
 
 
 ## Productivity {#productivity}

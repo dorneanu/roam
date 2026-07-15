@@ -103,8 +103,8 @@ for [LLM red-teaming]({{< relref "llm_red_teaming.md" >}}) purposes.
 
 Practitioners in a 2026 HN discussion of [cognitive offloading]({{< relref "cognitive_offloading.md" >}}) described deliberate disciplines for using AI coding assistants without losing comprehension or reflexes:
 
--   User reinitctxoffset keeps a serious feature branch on every project driven manually in Emacs (or VS Code), using the Emacs package `gptel` as a smarter search engine — it tool-calls out for docs — rather than as a code generator. This deliberately trades some speed for keeping reflexes up and comprehension debt under control (see [Cognitive offloading]({{< relref "cognitive_offloading.md" >}}) for the fuller comprehension-debt argument).
--   User therobots927 uses AI only for things they don't already know how to do, because using it on familiar territory tends to produce subtly wrong output that costs more time to debug than writing it themselves: "It's deeply frustrating to realize you just wasted 20 minutes posting error messages into Claude when you could've just locked in and written it yourself."
+-   One commenter keeps a serious feature branch on every project driven manually in Emacs (or VS Code), using the Emacs package `gptel` as a smarter search engine — it tool-calls out for docs — rather than as a code generator. This deliberately trades some speed for keeping reflexes up and comprehension debt under control (see [Cognitive offloading]({{< relref "cognitive_offloading.md" >}}) for the fuller comprehension-debt argument).
+-   Another commenter uses AI only for things they don't already know how to do, because using it on familiar territory tends to produce subtly wrong output that costs more time to debug than writing it themselves: "It's deeply frustrating to realize you just wasted 20 minutes posting error messages into Claude when you could've just locked in and written it yourself."
 
 See [AI-assisted learning]({{< relref "ai_assisted_learning.md" >}}) for the general (non-coding) version of this pattern.
 

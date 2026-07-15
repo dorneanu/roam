@@ -185,7 +185,7 @@ reinforce, or lose authority, not simply accumulate forever.
 
 * Failure mode: agent-driven groupthink
 
-Not all agent use is human-in-the-loop by default. In a 2026 HN discussion of [[id:faffc96d-bac0-4b98-9691-62ead0171129][cognitive offloading]], user nsxwolf described a "dangerous AI standoff at work" where engineers debated a production connection-pooling/threading fix purely by citing "what their agent said" — nobody able to adjudicate between contradictory agent recommendations, and admitting "I don't know enough to have an opinion" carrying social cost even though it was the honest position. This is the human-in-the-loop pattern above failing in practice: the agent's output displaced the team's own technical judgment rather than informing it.
+Not all agent use is human-in-the-loop by default. In a 2026 HN discussion of [[id:faffc96d-bac0-4b98-9691-62ead0171129][cognitive offloading]], one commenter described a "dangerous AI standoff at work" where engineers debated a production connection-pooling/threading fix purely by citing "what their agent said" — nobody able to adjudicate between contradictory agent recommendations, and admitting "I don't know enough to have an opinion" carrying social cost even though it was the honest position. This is the human-in-the-loop pattern above failing in practice: the agent's output displaced the team's own technical judgment rather than informing it.
 
 * Resources
 
