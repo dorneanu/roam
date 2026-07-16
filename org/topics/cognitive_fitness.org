@@ -1,0 +1,99 @@
+:PROPERTIES:
+:ID:       29cc3fa3-2765-4922-8001-61423058129b
+:END:
+#+title: Cognitive Fitness
+#+filetags: :psychology:health:technology:
+
+The idea that mental faculties — concentration, critical thinking, contemplation — require
+deliberate exercise and protection, just as physical fitness does. Coined as a cultural
+frame by Cal Newport in a 2026 NYT essay, drawing an explicit parallel to the physical
+fitness revolution sparked by Eisenhower's 1955 heart attack and Dr. Kenneth Cooper's
+/Aerobics/ (1968).
+
+* Core argument
+
+We are in a cognitive health crisis analogous to the physical health crisis of the mid-20th
+century. Digital technology — especially short-form content and AI tools — is degrading
+our capacity to think deeply. A cultural revolution, similar to the one that transformed how
+we think about diet and exercise, is both necessary and possible.
+
+* Evidence of decline
+
+- Gloria Mark (UC Irvine): attention spans are ~1/3 of what they were in 2004; biggest
+  drops around 2012, coinciding with smartphone ubiquity
+- Rising share of US adults struggling with basic reading/math over the past decade
+- 18-year-olds reporting difficulty thinking and concentrating increased in the same period
+- Meta-analysis (2025): short-form video (TikTok, Instagram) associated with poorer
+  cognition and reduced attention
+- 2023 experiment: mere presence of a smartphone in the room significantly reduced
+  concentration ability
+- AI study (2026, 600+ participants): significant negative correlation between frequent AI
+  tool usage and critical thinking abilities
+- Brain activity study: "brain connectivity systematically scaled down with the amount of
+  external support" (LLM-assisted writing)
+
+* The ultraprocessed content analogy
+
+Just as ultraprocessed food (Doritos, Pop-Tarts) is engineered to be irresistible at the
+cost of nutrition, ultraprocessed content (TikTok, Instagram, X) is algorithmically
+recombined user-generated content designed to be irresistible at the cost of cognition.
+
+/What is a TikTok video if not a digital Dorito?/
+
+Recommendation: avoid ultraprocessed content as strongly as ultraprocessed food — not
+most of the time, but most people, most of the time.
+
+* The contemplation = cardio analogy
+
+| Physical fitness        | Cognitive fitness                         |
+|-------------------------+-------------------------------------------|
+| Ultraprocessed food     | Short-form algorithmic content            |
+| Aerobic exercise        | Contemplation (sustained focused thought) |
+| Sedentary lifestyle     | Constant companion phone use              |
+| Diet guidelines         | "Digital nutrition" norms                 |
+| School PE requirements  | School phone bans                         |
+
+* Practical prescriptions
+
+** Avoid ultraprocessed content
+No TikTok, Instagram, X as regular habits. The sugar-high benefits don't outweigh the
+cognitive cost.
+
+** Reading as cognitive cardio
+Maryanne Wolf: "deep reading processes" rewire neuronal regions toward greater
+complexity and nuance. /Deep reading is our species' bridge to insight and novel thought./
+Proposed heuristic: a few dozen book pages/day = the new 10,000 daily steps.
+
+** Reject the constant companion model
+Keeping a phone within reach causes motivational neurons (trained to expect a reward
+from checking) to fire constantly, making sustained contemplation a battle of willpower.
+Simple rule: charge your phone in the kitchen, not your pocket.
+
+** Institutional interventions
+- School phone bans: NBER 2025 working paper found "significant improvements" in test
+  scores; Dutch study (317 high schools): 75% reported improved focus, 67% improved
+  social climate
+- Meeting phone bans (Skift pre-pandemic experiment): increased communication,
+  reduced hiding behind screens
+- Workplace: reduce hyperactive email/Slack loops (→ [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]])
+
+** AI use: preserve cognitive load
+- Good AI use: automating routine/repetitive tasks → reduces burnout
+- Bad AI use: offloading core thinking tasks → "brain fry" (Boston Consulting Group
+  study) + "workslop" (HBR term for AI-generated work masquerading as good work)
+- Rule: /your writing should be your own/. The strain of crafting a memo is a mental
+  gym workout, not an annoyance to eliminate.
+
+* Related concepts
+
+- [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] — Newport's earlier framework; cognitive fitness is the 2026 update/extension
+- [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention Economy]] — the structural forces degrading attention
+- [[id:faffc96d-bac0-4b98-9691-62ead0171129][Cognitive offloading]] — the AI-specific dimension of cognitive degradation
+- [[id:3ad45122-fe46-4e8d-9236-be150daaf1f8][Phone-based childhood]] — Haidt's adjacent argument about youth and smartphones
+- [[id:9f7402c5-6916-4116-96a5-bec931d8da4f][Reading habits]] — reading as the primary cognitive exercise
+
+* Source
+
+- /[[https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html][Technology Weakens Our Minds. It's Time to Resist.]]/ — Cal Newport, NYT Opinion, 2026-03-27
+  - Print headline: /Stop Filling Your Mind With Digital Doritos/
+  - Newport is also the author of [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]], /Digital Minimalism/, /A World Without Email/, /Slow Productivity/
