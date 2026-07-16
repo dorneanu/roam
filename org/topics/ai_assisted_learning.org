@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       c99f3213-64ad-4098-9833-70da9a67a9bd
+:END:
+#+title: AI-assisted learning
+#+filetags: :ai:llm:learning:
+
+* Overview
+A recurring, cross-domain pattern emerged from a 2026 HN discussion of [[id:faffc96d-bac0-4b98-9691-62ead0171129][cognitive offloading]] for how to use AI to actually learn something rather than merely produce an output that looks learned: get the information from the AI, then put it into practice yourself. Commenters converged on this rule independently across programming, gardening, cocktail-making, and general skill acquisition.
+
+* The practice-after pattern
+- One commenter described contractors renovating an old house who hit an unusual problem outside their experience. They consulted ChatGPT for a solution and code-compliant materials, verified the claims against material specs, and only then did the work themselves. "This is the right way to benefit from LLMs in learning something: Get the information then put it into practice so you learn it... It's like skimming a math textbook but then skipping the exercises and never doing any quizzes."
+- Another commenter described learning gardening the same way: "I definitely retain it. In the case of the gardening — I pretty much immediately go outside and practice it... how I get the info doesn't matter (book, video, llm) because I'm locking in the skill by doing the thing in the garden."
+- A third commenter used an LLM to improve an old fashioned cocktail recipe, verified the result by taste ("skimping on the orange oil/zest makes a huge difference"), and considered the knowledge locked in after one practical test — a low-stakes case where the learning loop closes almost immediately.
+
+* A framework for using AI without ceding thinking
+One commenter laid out a discipline for using AI to "extend my capabilities" rather than "remove my agency":
+- *Debug* — let the AI hunt for things you'd miss.
+- *Review* — ask it to critique finished work for an outside perspective.
+- *Implement an already-decided design* — "I have already gone through the thoughtful engineering to decide what to do and how to do it. The rest amounts to translating pseudocode... Let it type what I would have typed anyway."
+- *Suggest ideas* — treat suggestions as one more input, not the verdict: "I don't take the AI at its word and let it decide what is best for me."
+Their summary maxim: "I am not replacing learning, thinking, or deciding."
+
+A related, more compressed maxim from another commenter: "If you offload any of your thinking to AI, you're offloading too much of your thinking to AI. Offload your execution, not your thinking."
+
+* Resources
+- 2026-07-15 ◦ [[https://news.ycombinator.com/item?id=48908178][Are we offloading too much of our thinking to AI? (HN discussion)]] — source of the practice-after pattern (contractor, gardening, cocktail anecdotes) and the debug/review/implement/suggest framework and offload-execution maxim above
+- 2026-07-15 ◦ [[id:faffc96d-bac0-4b98-9691-62ead0171129][Cognitive offloading]] — the hub topic covering the broader debate this practical framework responds to
+- 2026-07-15 ◦ [[id:fc359c6e-7c0f-4182-8881-47239333140f][AI coding assistants]] — see "Agency-preserving usage patterns" for the programming-specific application of these ideas

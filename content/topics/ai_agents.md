@@ -221,9 +221,15 @@ that goes beyond simple retrieval — old context should be able to decay,
 reinforce, or lose authority, not simply accumulate forever.
 
 
+## Failure mode: agent-driven groupthink {#failure-mode-agent-driven-groupthink}
+
+Not all agent use is human-in-the-loop by default. In a 2026 HN discussion of [cognitive offloading]({{< relref "cognitive_offloading.md" >}}), one commenter described a "dangerous AI standoff at work" where engineers debated a production connection-pooling/threading fix purely by citing "what their agent said" — nobody able to adjudicate between contradictory agent recommendations, and admitting "I don't know enough to have an opinion" carrying social cost even though it was the honest position. This is the human-in-the-loop pattern above failing in practice: the agent's output displaced the team's own technical judgment rather than informing it.
+
+
 ## Resources {#resources}
 
 -   2026-06-18 ◦ [Am I missing the point of AI agents? (Reddit r/hermesagent)](https://www.reddit.com/r/hermesagent/comments/1tlh53c/am_i_missing_the_point_of_ai_agents/) — 19-contributor thread of real-world personal AI agent use cases; covers reverse-engineering APIs, medical claims automation, contractor voice outreach, grocery shopping, ADHD accountability, estate sale arbitrage, personal data self-analysis, family knowledge base, and conversational travel planning
+-   2026-07-15 ◦ [Are we offloading too much of our thinking to AI? (HN discussion)](https://news.ycombinator.com/item?id=48908178) — source of the agent-driven groupthink anecdote above
 -   2026-06-23 ◦ [NeMo Guardrails (GitHub)](https://github.com/NVIDIA-NeMo/Guardrails) — execution and retrieval rails are the mechanisms most relevant to agentic pipelines; defined in \`.co\` files
 
 -   2026-06-23 ◦ [CL4R1T4S (GitHub)](https://github.com/elder-plinius/CL4R1T4S) — extracted system prompts from agent platforms (Devin, Manus, MultiOn) expose how agentic scaffolds encode tool permissions, goal-pursuit behaviours, and refusal boundaries; see [System prompt transparency]({{< relref "system_prompt_transparency.md" >}}) and [LLM red-teaming]({{< relref "llm_red_teaming.md" >}})
