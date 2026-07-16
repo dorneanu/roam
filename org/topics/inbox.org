@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       C1A8AECB-4E08-4653-AB62-CDBA39C95520
+:END:
+#+title: Inbox
+#+filetags: :page:index:
+
+Capture buffer for articles, links, and resources added via =!roam add=.
+
+* 2026
