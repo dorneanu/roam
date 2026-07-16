@@ -7,3 +7,4 @@
 Capture buffer for articles, links, and resources added via =!roam add=.
 
 * 2026
+- 2026-07-16 ◦ [[https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html][https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html]]
