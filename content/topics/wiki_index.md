@@ -150,3 +150,8 @@ Updated automatically on every ingest.
 -   — 4-level Ableton Live framework for building a professional house groove: four-on-the-floor foundation → 16th-note syncopation → swing/stereo movement → ear-candy polish (melodic gating, track delay humanisation, reversed transients); all at 124 BPM
 -   — compression keyed from an external signal (typically kick drum) to create rhythmic pump or melodic gating; core technique in house, techno, and electronic music production
 -   — W3C browser standard for communicating with MIDI hardware (synthesizers, samplers, controllers) over USB/Bluetooth; Chrome/Edge/Brave/Opera support, no Safari; enables browser-based live performance tools and PWA controllers
+
+
+## Travel / Outdoor {#travel-outdoor}
+
+-   [Cycle touring]({{< relref "cycle_touring.md" >}}) — multi-day, self-guided cycling travel on signed long-distance routes; staged itineraries, cyclist-friendly accommodation, rental/repair infrastructure

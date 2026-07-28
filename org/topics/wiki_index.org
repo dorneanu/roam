@@ -132,3 +132,6 @@ Updated automatically on every ingest.
 - [[id:e28fcbe5-9d6d-413d-9915-2c6fe75db32c][House drum groove]] — 4-level Ableton Live framework for building a professional house groove: four-on-the-floor foundation → 16th-note syncopation → swing/stereo movement → ear-candy polish (melodic gating, track delay humanisation, reversed transients); all at 124 BPM
 - [[id:7cf1bf73-59cd-4938-8440-9ad1fea98ab4][Sidechain compression]] — compression keyed from an external signal (typically kick drum) to create rhythmic pump or melodic gating; core technique in house, techno, and electronic music production
 - [[id:31480106-2e84-4f23-8f34-291126f87b64][Web MIDI API]] — W3C browser standard for communicating with MIDI hardware (synthesizers, samplers, controllers) over USB/Bluetooth; Chrome/Edge/Brave/Opera support, no Safari; enables browser-based live performance tools and PWA controllers
+
+* Travel / Outdoor
+- [[id:973ab441-b119-41e2-96c9-996fa1004a69][Cycle touring]] — multi-day, self-guided cycling travel on signed long-distance routes; staged itineraries, cyclist-friendly accommodation, rental/repair infrastructure
