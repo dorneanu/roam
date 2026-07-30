@@ -357,3 +357,14 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Source type:* article
 - *Topics created:* cycle_touring.org
 - *Summary:* Ingested the official Drauradweg site (Kärnten Tourismus) as a worked example under a new Cycle touring topic covering multi-day, self-guided cycling travel: staged itineraries, cyclist-friendly accommodation, and rental/repair infrastructure. Added a new Travel / Outdoor domain to the wiki index.
+
+* 2026-07-30: Ingest — ego lite (GitHub, citrolabs)
+:PROPERTIES:
+:DATE:     2026-07-30
+:TYPE:     ingest
+:SOURCE:   https://github.com/citrolabs/ego-lite
+:END:
+- *Source type:* article
+- *Topics updated:* browser_automation.org, claude_code_skills.org, ai_agents.org
+- *Topics created:* ego_lite.org
+- *Summary:* Ingested the ego-lite README (citrolabs) as a new reference/tooling topic — a macOS browser sharing one window between a human and their AI agents via isolated per-agent "Spaces" and the MIT-licensed `ego-browser` connector; cross-linked into Browser automation (new framework entry contrasting it with Playwright/Puppeteer/Selenium and headless automation libraries), Claude Code skills (new install-as-skill section), and AI agents (shared-workspace alternative to human-in-the-loop).

@@ -120,6 +120,24 @@ and relationship to other agentic patterns.
 Repo: <https://github.com/fl4p/agent-channel> (MIT licensed)
 
 
+## Browser automation skill (ego-browser) {#browser-automation-skill--ego-browser}
+
+\`ego-browser\` connects any agent CLI (Claude Code, Codex, Cursor) to
+[ego lite]({{< relref "ego_lite.md" >}}), a macOS browser designed to be shared between a human and their
+agents. Installs the same way as other community skills:
+
+```bash
+npx skills add citrolabs/ego-lite
+```
+
+Once installed, invoking `/ego-browser` followed by a plain-language task
+(e.g. "follow @ego_agent on x.com") drives the browser via in-page JS tools
+(snapshot, fill, click, wait, navigate, capture) inside the agent's own
+isolated Space, without touching the human's own tabs.
+
+Repo: <https://github.com/citrolabs/ego-lite> (MIT licensed)
+
+
 ## Credential management skill {#credential-management-skill}
 
 authsome manages credentials for GitHub, Google, OpenAI, Anthropic, Linear,
@@ -234,6 +252,8 @@ Key design choices:
 -   [AI]({{< relref "ai.md" >}}) — broader context of LLM-powered tooling
 
 -   [Multi-agent communication]({{< relref "multi_agent_communication.md" >}}) — file-based inter-agent messaging protocol; NDJSON channels, kqueue/inotify wake-up, cross-harness interop
+-   [ego lite]({{< relref "ego_lite.md" >}}) — browser automation skill; shared human+agent browser with isolated per-agent Spaces
+-   [Browser automation]({{< relref "browser_automation.md" >}}) — broader landscape of programmatic browser control tools
 
 
 ## Resources {#resources}
@@ -241,3 +261,4 @@ Key design choices:
 -   2026-06-12 ◦ [Drop your best Claude skills in here! (Reddit r/ClaudeAI)](https://www.reddit.com/r/ClaudeAI/comments/1sx44bc/drop_your_best_claude_skills_in_here/) — community thread collecting the most-used Claude Code skills; consensus top picks are GSD (large iterative projects) and Superpowers (small-medium well-defined work); also covers meta-skills, /close pattern, multi-agent orchestration, and credential management
 -   2026-06-12 ◦ [grill-me SKILL.md (Matt Pocock)](https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md) — Socratic design-review skill: relentless one-at-a-time interrogation of a plan, walking the decision tree with recommended answers; triggers on "grill me"
 -   2026-06-25 ◦ [agent-channel (GitHub, fl4p)](https://github.com/fl4p/agent-channel) — install as a Claude Code plugin; enables zero-CPU file-based messaging between Claude Code, Codex, and OpenCode agents in separate sessions
+-   2026-07-30 ◦ [ego-lite (GitHub, citrolabs)](https://github.com/citrolabs/ego-lite) — \`ego-browser\` skill connects Claude Code and other agent CLIs to a shared human+agent browser; see [ego lite]({{< relref "ego_lite.md" >}})

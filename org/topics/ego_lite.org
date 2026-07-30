@@ -1,0 +1,84 @@
+:PROPERTIES:
+:ID:       e65ed367-0759-4149-840f-b80e463afe5a
+:END:
+#+title: ego lite
+#+filetags: :ai:software:
+
+* Overview
+
+ego lite (citrolabs) is a macOS desktop browser designed from the ground up
+for a human and their AI agents to share, rather than fight over. Instead of
+spinning up a separate headless browser for [[id:8fd21c64-2e57-41ae-b962-02f256b1e80c][browser automation]], each agent
+gets its own isolated "Space" — a parallel workspace inside the same browser
+window — so agent tasks never collide with the user's own open tabs. Agents
+can still reach the user's real logins, cookies, extensions, and bookmarks
+via an optional one-time Chrome data migration on first launch. The app is a
+free download; the connector code (`ego-browser`) is MIT-licensed and open
+source. Windows and Linux support is on the roadmap; macOS only as of this
+writing.
+
+* ego-browser: the agent connector
+
+`ego-browser` is the layer between any agent CLI ([[id:1d69111a-a3c1-4c18-af2a-b6a2ad6c04c8][Claude Code]], Codex, Cursor,
+or a custom harness) and the ego lite browser. It exposes the browser as
+in-page JavaScript tools — snapshot, fill, click, wait, navigate, capture —
+and the agent writes a single JavaScript snippet that calls those tools and
+runs on the page in one pass. It installs as a skill:
+
+#+begin_src bash
+npx skills add citrolabs/ego-lite
+#+end_src
+
+** "Code base, not CLI base"
+The core design bet: wrap browser capabilities as JavaScript functions the
+agent calls directly, so a multi-step task compiles into a single output
+instead of the usual call → look at result → call loop. citrolabs claims
+complex workflows finish up to 2.5x faster with fewer tokens and fewer tool
+calls, benchmarked against Vercel's agent-browser across four tasks.
+
+** Snapshot quality
+The "Snapshot" is the compressed semantic text view models use to "see" and
+act on a page. citrolabs describes kernel-level customization to keep
+Snapshot quality high on hard cases — deeply nested iframes in particular,
+where other automation approaches tend to break down.
+
+* Positioning vs. adjacent categories
+
+#+begin_quote
+Two other categories try to solve the same problem. Browser automation
+frameworks like Browser-Use and Vercel's agent-browser are libraries the
+agent calls; they ship no browser of their own, so they need a separate one
+to drive and your logins rarely carry cleanly. AI browsers like ChatGPT
+Atlas and Perplexity Comet ship a built-in agent, and only that agent can
+drive the browser. ego lite is one browser, designed from the start for you
+and any agent you bring to share.
+#+end_quote
+
+- *Browser automation frameworks* (browser-use, Vercel's agent-browser) —
+  libraries an agent drives; need a separate browser instance; logins rarely
+  carry over cleanly. See [[id:8fd21c64-2e57-41ae-b962-02f256b1e80c][Browser automation]] for the Playwright/Puppeteer/
+  Selenium side of this comparison.
+- *AI browsers* (ChatGPT Atlas, Perplexity Comet) — ship a built-in agent;
+  only that agent can drive the browser, so external agent CLIs can't plug in.
+- *ego lite* — one daily-use browser, shared: the human's tabs stay theirs,
+  any external agent (via `ego-browser`) gets its own Space with real
+  session data.
+
+* Privacy and data model
+
+Data is stored locally on the device. ego lite only records whether the user
+opted into the Chrome data migration during setup — it does not otherwise
+phone home browsing data.
+
+* Resources
+
+- 2026-07-30 ◦ [[https://github.com/citrolabs/ego-lite][ego-lite (GitHub, citrolabs)]] — README: parallel Spaces model, ego-browser connector and JS tool set, benchmark claims (up to 2.5x faster than Vercel's agent-browser), Snapshot/iframe handling, MIT license, local-only data storage
+- [[https://lite.ego.app/document/][ego lite docs (lite.ego.app)]] — tutorials, full tool reference, integration guides
+
+* Related topics
+
+- [[id:8fd21c64-2e57-41ae-b962-02f256b1e80c][Browser automation]] — the broader space of programmatic browser control (Playwright, Puppeteer, Selenium) that ego lite positions itself against
+- [[id:1d69111a-a3c1-4c18-af2a-b6a2ad6c04c8][Claude Code]] — one of the agent CLIs `ego-browser` connects to
+- [[id:f2b593c9-52ec-41ca-b376-b95d227d782c][Claude Code skills]] — `ego-browser` installs the same way as other community skills (~npx skills add~)
+- [[id:c4cdacbd-1bde-4ddd-866b-c8762e56e0b4][AI agents]] — the shared human+agent workspace model is a variant of the human-in-the-loop pattern discussed there
+- [[id:60eb9b01-7f41-4bd7-94db-32d7a5f3aace][Multi-agent communication]] — isolated parallel Spaces address the same "agents colliding" problem from a different angle (workspace isolation vs. inter-agent messaging)

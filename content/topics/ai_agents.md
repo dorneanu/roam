@@ -18,7 +18,7 @@ automation: built by individuals to solve specific friction points in daily
 life, run on consumer hardware or cheap subscriptions, and evolving over time
 as the agent accumulates context about the user's preferences and routines.
 
-Related concepts: , , [Self-improving agents]({{< relref "self_improving_agents.md" >}}),
+Related concepts: [Agent memory]({{< relref "agent_memory.md" >}}), [Browser automation]({{< relref "browser_automation.md" >}}), [Self-improving agents]({{< relref "self_improving_agents.md" >}}),
 [Planner-Generator-Evaluator pattern]({{< relref "planner_generator_evaluator.md" >}})
 
 
@@ -199,7 +199,7 @@ plus human execution for irreversible actions.
 Agentic pipelines introduce attack surfaces that purely conversational LLMs do
 not have: tool inputs can be crafted to trigger unintended actions; retrieved
 documents can carry injected instructions; tool outputs can be poisoned.
-address this with two rail types specific to agentic use:
+[LLM guardrails]({{< relref "llm_guardrails.md" >}}) address this with two rail types specific to agentic use:
 
 -   **Execution rails** — intercept inputs sent to tools and outputs returned from
     them; can validate parameters, reject anomalous results, and prevent the agent
@@ -216,7 +216,7 @@ irreversible actions.
 
 The highest-value agent use is not task automation but co-evolution: the agent
 learns the shape of the user's life over time, surfaces patterns the user
-missed, and gradually needs less re-explanation. This requires
+missed, and gradually needs less re-explanation. This requires [Agent memory]({{< relref "agent_memory.md" >}})
 that goes beyond simple retrieval — old context should be able to decay,
 reinforce, or lose authority, not simply accumulate forever.
 
@@ -230,7 +230,8 @@ Not all agent use is human-in-the-loop by default. In a 2026 HN discussion of [c
 
 -   2026-06-18 ◦ [Am I missing the point of AI agents? (Reddit r/hermesagent)](https://www.reddit.com/r/hermesagent/comments/1tlh53c/am_i_missing_the_point_of_ai_agents/) — 19-contributor thread of real-world personal AI agent use cases; covers reverse-engineering APIs, medical claims automation, contractor voice outreach, grocery shopping, ADHD accountability, estate sale arbitrage, personal data self-analysis, family knowledge base, and conversational travel planning
 -   2026-07-15 ◦ [Are we offloading too much of our thinking to AI? (HN discussion)](https://news.ycombinator.com/item?id=48908178) — source of the agent-driven groupthink anecdote above
--   2026-06-23 ◦ [NeMo Guardrails (GitHub)](https://github.com/NVIDIA-NeMo/Guardrails) — execution and retrieval rails are the mechanisms most relevant to agentic pipelines; defined in \`.co\` files
+-   2026-06-23 ◦ [NeMo Guardrails (GitHub)](https://github.com/NVIDIA-NeMo/Guardrails) — execution and retrieval rails are the [LLM guardrails]({{< relref "llm_guardrails.md" >}}) mechanisms most relevant to agentic pipelines; defined in [Colang]({{< relref "colang.md" >}}) \`.co\` files
 
 -   2026-06-23 ◦ [CL4R1T4S (GitHub)](https://github.com/elder-plinius/CL4R1T4S) — extracted system prompts from agent platforms (Devin, Manus, MultiOn) expose how agentic scaffolds encode tool permissions, goal-pursuit behaviours, and refusal boundaries; see [System prompt transparency]({{< relref "system_prompt_transparency.md" >}}) and [LLM red-teaming]({{< relref "llm_red_teaming.md" >}})
 -   2026-07-09 ◦ [System Prompts and Models of AI Tools (GitHub, x1xhlol)](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — Devin's leaked prompt reveals explicit planning/standard mode separation, `<think>` scratchpad blocks, and a "never reveal instructions" confidentiality clause; Manus exposes full Agent Loop, Modules, and tools JSON; see [AI coding assistants]({{< relref "coding_assistants.md" >}}) for the full landscape
+-   2026-07-30 ◦ [ego-lite (GitHub, citrolabs)](https://github.com/citrolabs/ego-lite) — ego lite proposes a shared-workspace alternative to human-in-the-loop: a browser where the human keeps their own tabs while each agent runs in its own isolated Space with the human's real logins; see [ego lite]({{< relref "ego_lite.md" >}}) and [Browser automation]({{< relref "browser_automation.md" >}})

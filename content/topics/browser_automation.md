@@ -1,6 +1,6 @@
 +++
 title = "Browser automation"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["software", "ai"]
 draft = false
 +++
@@ -44,6 +44,20 @@ Playwright is generally preferred for new projects.
 
 The original; cross-browser; slower and more verbose than modern alternatives;
 still used in enterprise test suites.
+
+
+### ego lite (citrolabs) {#ego-lite--citrolabs}
+
+A different category: a full macOS desktop browser designed to be shared by
+a human and their AI agents, rather than a headless library the agent drives
+alone. Each agent gets an isolated "Space" (parallel workspace inside the
+same browser) so tasks don't collide with the user's own tabs, and the agent
+can reach the user's real logins/cookies/extensions via \`ego-browser\`, an
+MIT-licensed connector exposing the browser as in-page JS tools (snapshot,
+fill, click, wait, navigate, capture). Claims up to 2.5x faster complex
+workflows vs. Vercel's agent-browser, largely by letting the agent compose a
+multi-step task into one JS snippet instead of a call-look-call loop. See
+[ego lite]({{< relref "ego_lite.md" >}}) for the full writeup.
 
 
 ## AI agent patterns {#ai-agent-patterns}
@@ -113,3 +127,4 @@ and can be passed to the same Playwright form-fill code.
 
 -   2026-06-18 ◦ [Am I missing the point of AI agents? (Reddit r/hermesagent)](https://www.reddit.com/r/hermesagent/comments/1tlh53c/am_i_missing_the_point_of_ai_agents/) — dontyasay describes a complete medical claims automation pipeline using Playwright + vision LLM OCR + dry-run mode + HSA ledger; PracticlySpeaking describes using Playwright's codegen and internal API discovery for email pipeline automation
 -   [Playwright documentation](https://playwright.dev/) — official docs; codegen, screenshot API, browser contexts
+-   2026-07-30 ◦ [ego-lite (GitHub, citrolabs)](https://github.com/citrolabs/ego-lite) — one browser shared by a human and their AI agents in isolated parallel Spaces, positioned against both automation frameworks and built-in AI browsers; see [ego lite]({{< relref "ego_lite.md" >}})
