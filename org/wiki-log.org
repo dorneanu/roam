@@ -357,3 +357,15 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Source type:* article
 - *Topics created:* cycle_touring.org
 - *Summary:* Ingested the official Drauradweg site (Kärnten Tourismus) as a worked example under a new Cycle touring topic covering multi-day, self-guided cycling travel: staged itineraries, cyclist-friendly accommodation, and rental/repair infrastructure. Added a new Travel / Outdoor domain to the wiki index.
+
+* 2026-07-30: Ingest — The Visual Philosopher: How Different Cultures Defined a Life Well Spent
+:PROPERTIES:
+:DATE:     2026-07-30
+:TYPE:     ingest
+:SOURCE:   https://youtu.be/9-PbzIuo78s
+:END:
+- *Source type:* youtube
+- *Topics created:* life_well_spent_across_cultures.org
+- *Topics updated:* none
+- *Coverage check:* transcript is single lowercase auto-caption block (no capitalized named-entity extraction possible); manually verified all named entities, quotes, and argument beats present in synthesis — 1 gap found and filled (the "recharging"/audited-holidays/stranger-job-question passage in the Thesis section).
+- *Summary:* Ingested a YouTube video essay arguing that modern productivity-as-sole-measure of a life well spent is one local, historically recent verdict among at least five other civilizational answers — forager sufficiency (Sahlins's "original affluent society"), Greek leisure (schole/banausos, Xenophon/Aristotle), Confucian self-cultivation (junzi/xiushen/xiaoren), the Hindu four aims of life (purusharthas), and Ubuntu relational personhood (botho/unhu/utu) — with the commodification of time under wage labor as the mechanism of the collapse; created life_well_spent_across_cultures.org with a one-directional cross-link to cognitive_fitness.org.

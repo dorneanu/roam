@@ -121,6 +121,7 @@ Updated automatically on every ingest.
 * Philosophy
 - [[id:fc8c75c5-0f1e-4590-a40d-6c181b63b215][Socratic questioning]] — interrogative method where probing questions surface hidden assumptions and drive the respondent to construct understanding; applied to software design review via the grill-me Claude Code skill
 - [[id:6d483e73-31fd-415f-9247-953fab75d82e][Antilibrary]] — Taleb's concept of unread books as a research tool and reservoir of curiosity, valued precisely for what they represent about one's unknowns rather than for having been read
+- [[id:2efd991f-076e-4523-a12c-93e72d91878e][Life Well Spent Across Cultures]] — five civilizational answers (forager sufficiency, Greek leisure, Confucian self-cultivation, Hindu proportion, Ubuntu relational personhood) to what makes a day well spent, contrasted with modern productivity-as-sole-measure
 
 * Music / Audio production
 - [[id:6e0ab159-bc6d-440c-8a9c-0b21faa5bfca][House music]] — Chicago-rooted electronic dance genre (deep, soulful, minimal subgenres); four-on-the-floor kick, syncopated bass lines, 122–124 BPM; four bass line techniques and harmonic set structure
