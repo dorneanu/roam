@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       578c7aed-51f4-441e-af3a-ce123e662166
+:END:
+#+title: AI-driven job displacement
+#+filetags: :ai:economics:
+
+* Overview
+AI-driven job displacement is the structural, economy-wide loss of jobs caused by AI systems that can substitute for human cognition rather than merely augment it. Unlike past technology transitions (e.g. the shift from agriculture to office work), which unfolded over several generations and created new categories of work requiring human cognition, AI can see, listen, speak, and reason — and is expected to eventually do physical work as smoothly as a human. Because it substitutes for cognition itself rather than one narrow task, the disruption is expected to hit many sectors simultaneously (law, customer service, medicine, software, manufacturing) over the course of a decade rather than a few generations, leaving fewer new jobs created than are displaced without deliberate policy intervention.
+
+* Why this transition differs from past ones
+- Past technology (e.g. the PC) took ~20 years to change how people worked because software had to be built, prices had to fall, and workers had to learn new tools and integrate them into business processes
+- AI runs on devices people already have and uses natural language — it adapts to us rather than requiring us to adapt to it, and can learn from the same training material used to train human workers
+- Entry- and mid-level jobs are at the most immediate risk; the new jobs being created mostly require skills that take years to learn, creating a gap for young workers entering the labor market
+- Blue-collar disruption lags AI but is coming: dexterous robots are advancing fast (much of the frontier work is happening in China), and "smart" robots are expected to begin competing with people on physical tasks (construction, hospitality) by the end of the decade
+- Market dynamics amplify the speed: once one company adopts AI/robots and lowers prices, competitors face immense pressure to follow, and if incumbents don't adopt, start-ups will — an accelerating, self-reinforcing cycle
+- The biggest structural shift arrives once AI reaches near-error-free work: at that point it can operate without a human checking in, and companies gain a strong economic incentive to remove humans from the loop entirely
+
+* Human reserved — jobs kept for people
+Bill Gates proposes a domain he calls *Human Reserved*: work that is deliberately set aside for people even where AI or robots are technically capable of performing it, by analogy to nature reserves — places where building is possible but is deliberately foregone because the loss would be too great.
+
+Two distinct rationales for reserving a role:
+- *Economic*: displacing a role would harm workers who cannot easily retrain or relocate (e.g. a 55-year-old construction worker cannot simply be told to work in elder care)
+- *Normative*: some tasks are wrong to hand to a machine regardless of technical feasibility — e.g. delivering a terminal diagnosis. Gates draws on his own father's Alzheimer's care, where the human presence of paid caregivers was, in his words, "irreplaceably human"
+
+Human Reserved boundaries are expected to be culturally contingent and to evolve over time — a country with a shrinking workforce (e.g. Japan) may welcome caregiving robots that another country would reject. Open questions Gates raises without resolving: who decides what is reserved, what criteria apply, how to prevent companies from quietly automating reserved roles anyway, and how reserved-role policy interacts with international trade when countries draw the line differently.
+
+* Rebalancing taxes on labor and capital
+As AI and robots displace workers, income-tax revenue falls just as demand for retraining and safety-net spending rises. Gates argues for taxing AI tokens and robots directly: current tax codes let a business write off a robot purchase immediately as a capital expense, while payroll taxes apply to human hires — an active policy nudge toward replacing people with machines.
+
+A targeted robot/AI tax would:
+- slow (not stop) the substitution of capital for labor
+- raise revenue for retraining and a stronger safety net
+- need careful targeting so it doesn't tax away purely beneficial uses of AI, such as cheaper medicine or education
+
+Gates has proposed this idea since the mid-2010s and acknowledges economists' standard objection (it is not allocatively efficient), but argues the broader social value of work — dignity, social connection, stability — justifies some inefficiency, especially given the accelerated growth AI is also expected to unlock.
+
+Richard David Precht makes an earlier, structurally similar argument in [[id:170C9918-4149-4CA2-8CE2-A9BE767480D6][Jäger, Hirten, Kritiker]] (2018) while arguing for unconditional basic income: "Computer und Roboter kosten keine Sozialabgaben, beziehen keine Rente, kein Urlaubs- oder Müttergeld" ("Computers and robots pay no social security contributions, draw no pension, no vacation or maternity pay") — i.e. automation quietly erodes the payroll-tax base that funds the welfare state, so the tax base needs to shift from labor to the machines replacing it.
+
+* Related concepts
+- [[id:a45c32ff-02c2-4276-bece-6b03f4dc8e55][AI governance]] — the institutional framework needed to manage this transition at national and international level
+- [[id:a4aff7c3-ee85-481f-96ed-8b070c4d6f60][AI equity]] — whether AI's benefits reach the same people who bear the cost of job displacement
+
+* Resources
+- 2026-08-25 ◦ [[https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make][The turbulent AI era is here — Bill Gates]] — argues this AI transition is structurally different from past technology shifts because it substitutes for cognition itself; introduces "Human Reserved" as a category of work deliberately kept for humans, and argues for taxing AI tokens and robots to fund retraining and the safety net as employment-based tax revenue falls
+- [[id:170C9918-4149-4CA2-8CE2-A9BE767480D6][Jäger, Hirten, Kritiker — Richard David Precht]] — earlier (2018) statement of the robot/AI-taxation logic, made while arguing for unconditional basic income (S.129)

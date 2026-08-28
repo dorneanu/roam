@@ -357,3 +357,14 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Source type:* article
 - *Topics created:* cycle_touring.org
 - *Summary:* Ingested the official Drauradweg site (Kärnten Tourismus) as a worked example under a new Cycle touring topic covering multi-day, self-guided cycling travel: staged itineraries, cyclist-friendly accommodation, and rental/repair infrastructure. Added a new Travel / Outdoor domain to the wiki index.
+
+* 2026-08-27: Ingest — The turbulent AI era is here. The choices we make now are critical.
+:PROPERTIES:
+:DATE:     2026-08-27
+:TYPE:     ingest
+:SOURCE:   https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make
+:END:
+- *Source type:* article
+- *Topics updated:* eliza_effect.org, cognitive_fitness.org
+- *Topics created:* ai_driven_job_displacement.org, ai_governance.org, ai_equity.org
+- *Summary:* Ingested Bill Gates's Gatesnotes essay on AI's turbulent transition; created ai_driven_job_displacement.org (structural labor substitution, "Human Reserved" jobs, robot/AI taxation), ai_governance.org (domestic/international institutional framework, nuclear/aviation/ozone-treaty precedents), and ai_equity.org (the "greatest equalizer or worst injustice" framing, Gates Foundation applications in agriculture/healthcare/government services), all cross-linked; updated eliza_effect.org with Gates's "greenhouse" framing of AI companions and a Stanford/Carnegie Mellon companion-use study, and cognitive_fitness.org with Gates's deepfake-era stakes framing for critical thinking decline.

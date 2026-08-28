@@ -35,6 +35,15 @@ Weizenbaum documented the ELIZA effect in 1966 with a primitive pattern-matching
 The ELIZA effect helps explain why [Phone-based childhood]({{< relref "phone_based_childhood.md" >}}) youth, who grew up with attenuated face-to-face conversation skills, may be especially susceptible: having received less practice at real conversation, they may find the frictionless simulation of being heard more appealing by comparison.
 
 
+### The greenhouse framing (Gates, 2026) {#the-greenhouse-framing--gates-2026}
+
+Bill Gates extends Haidt's "greenhouse" metaphor from [Antifragility]({{< relref "antifragility.md" >}}) to AI companions specifically: an AI companion that never pushes back, is always available, and never gets mad is "a big, protected greenhouse." He argues this removes exactly the friction that builds social skill, drawing on his own childhood experience of needing hard-won practice to relate to people unlike himself.
+
+> They talk to you in ways you're already comfortable with. They don't push you outside your comfort zone. They are always available and never get mad at you. This gives them the potential to become highly addictive and to rob us of the lessons we learn from connecting with other people.
+
+— Bill Gates, "The turbulent AI era is here" (2026)
+
+
 ## Connection to other topics {#connection-to-other-topics}
 
 -   [Solitude]({{< relref "solitude.md" >}}) — machine companions offer the illusion of companionship without the demands of genuine relationship; they are, in Turkle's phrase, "companionship without the demands of friendship"
@@ -45,3 +54,4 @@ The ELIZA effect helps explain why [Phone-based childhood]({{< relref "phone_bas
 ## Resources {#resources}
 
 -   2026-06-05 ◦ — coined the term and traced it from Weizenbaum's 1966 shock to contemporary caring robots; central to Turkle's "fourth chair" argument about who we become when we talk to machines
+-   2026-08-25 ◦ [The turbulent AI era is here — Bill Gates](https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make) — cites a Stanford/Carnegie Mellon study of 1,100+ AI companion users: people with smaller social networks were most likely to turn to a chatbot for companionship, and the heavier and more emotionally personal that use became, the worse they felt; frames the risk via the "greenhouse" metaphor and warns children could be affected for their entire lives

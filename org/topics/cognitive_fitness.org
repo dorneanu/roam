@@ -83,6 +83,7 @@ Simple rule: charge your phone in the kitchen, not your pocket.
   study) + "workslop" (HBR term for AI-generated work masquerading as good work)
 - Rule: /your writing should be your own/. The strain of crafting a memo is a mental
   gym workout, not an annoyance to eliminate.
+- 2026-08-25 ◦ [[https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make][The turbulent AI era is here — Bill Gates]] — frames the stakes explicitly: in an era of AI-generated deepfakes and individually tailored misinformation, telling true from false is becoming an essential life skill, making this "the worst possible time" for critical thinking to decline
 
 * Related concepts
 

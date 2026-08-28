@@ -70,6 +70,9 @@ Updated automatically on every ingest.
 - [[id:12edc324-e7bf-4713-b3c1-2424539f9ad3][Package hallucination]] — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
 - [[id:2fb5620d-bdce-4400-861d-dd1dc91e8f13][LLM evaluation]] — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
 - [[id:c99f3213-64ad-4098-9833-70da9a67a9bd][AI-assisted learning]] — practical pattern for learning with AI without losing retention: get the information, then put it into practice; a debug/review/implement/suggest framework for agency-preserving AI use
+- [[id:578c7aed-51f4-441e-af3a-ce123e662166][AI-driven job displacement]] — structural, economy-wide labor substitution driven by AI's ability to replace human cognition rather than augment it; Gates's "Human Reserved" jobs concept and robot/AI taxation as policy responses
+- [[id:a45c32ff-02c2-4276-bece-6b03f4dc8e55][AI governance]] — domestic and international institutional design for managing an economy-wide, borderless technology transition; nuclear inspections, aviation regulation, and ozone-treaty precedents
+- [[id:a4aff7c3-ee85-481f-96ed-8b070c4d6f60][AI equity]] — whether AI's benefits and harms are distributed fairly across income levels and countries; "greatest equalizer or worst injustice" framing; agriculture, healthcare, and government-services applications in low-income countries
 
 * Productivity
 - [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] — cognitively demanding work performed in distraction-free states; essential for acquiring new skills and producing rare, valuable output (Cal Newport)
