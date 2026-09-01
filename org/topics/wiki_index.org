@@ -30,6 +30,8 @@ Updated automatically on every ingest.
 - [[id:575d9629-d5b9-41c4-9868-2e864400fa0c][Architectural governance]] — ensuring architectural decisions are respected over time via automated fitness functions rather than manual reviews; ArchUnit, NetArchTest, chaos engineering; checklist manifesto framing
 - [[id:b51a2811-2fe3-4f03-a8c0-ff4199376e17][Architecture katas]] — structured practice exercises for deriving architectural characteristics from domain descriptions; Silicon Sandwiches and Going-Going-Gone worked examples; domain-concern translation table
 - [[id:8fd21c64-2e57-41ae-b962-02f256b1e80c][Browser automation]] — programmatic browser control (Playwright, Puppeteer, Selenium) for AI agents; Playwright codegen, OCR pipeline (PDF→PNG→vision LLM→JSON), human-in-the-loop approval flows, secret management, and internal API discovery
+- [[id:43afe901-3840-473d-832b-00f4d84c8af7][Language server protocol]] — JSON-RPC protocol decoupling editor tooling (completion, diagnostics, code actions) from language analysis; optional negotiated capabilities let clients trade functionality for responsiveness
+- [[id:1b07729a-20ce-491b-a8cf-72e3e514592e][Tree-sitter]] — incremental parsing library for syntax-aware fontification; frees the main thread from regex font-locking so it competes less with LSP message processing in single-threaded editors
 
 * Security
 - [[id:42edaa15-2e34-44c7-aa0e-e4fe32d68067][Prompt injection]] — attack class where adversaries embed malicious instructions in content processed by LLMs; exploits role confusion to bypass instruction hierarchy defenses; includes CoT Forgery (60% ASR against frontier models)

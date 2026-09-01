@@ -154,6 +154,14 @@ When you are collecting text using append-to-register and prepend-to-register, y
 ** Performance
 - 2024-12-18 ◦ [[https://www.reddit.com/r/emacs/comments/1gv556t/is_there_a_way_to_allow_gnu_emacs_294_to_be_more/][Is there a way to allow GNU emacs (29.4) to be more performant?]]
 - 2024-01-04 ◦ [[https://discourse.doomemacs.org/t/why-is-emacs-doom-slow/83/6][Why is Emacs/Doom slow? - #6 by hlissner - Performance - Doom Emacs Discourse]]
+*** Eglot / LSP performance tuning
+- 2026-09-01 ◦ [[https://www.jamescherti.com/emacs-eglot-performance/][Configuring Emacs Eglot for Better Performance and Latency]] — tuning checklist for keeping Eglot responsive on large codebases: enable =eglot-autoshutdown= to kill idle LSP servers, set =eglot-sync-connect= to nil so connection setup doesn't block the UI, disable the events buffer (=eglot-events-buffer-config= / =:size 0=), cap =eglot-max-file-watches=, and disable idle code-action probing (=eglot-code-action-indications=) and mode-line progress reports (=eglot-report-progress=).
+  - Add capabilities you don't use to =eglot-ignored-server-capabilities= (e.g. =:documentOnTypeFormattingProvider=, =:inlayHintProvider=, =:documentHighlightProvider=, =:semanticTokensProvider=) to skip the per-keystroke evaluation and background RPC traffic those features cost — see [[id:43afe901-3840-473d-832b-00f4d84c8af7][Language server protocol]].
+  - Raise =gc-cons-threshold= (or use the =gcmh= package) and =read-process-output-max= to reduce GC pauses and subprocess-read overhead from JSON-RPC bursts; ensure Emacs is built with native compilation for faster Elisp execution.
+  #+begin_quote
+  Emacs executes Lisp, handles asynchronous process output, and updates the UI on a single main thread. [...] If the main thread is busy computing regexes, Eglot is forced to wait in the queue, resulting in input lag even if the external language server responds instantly.
+  #+end_quote
+  - Enabling a Tree-sitter-backed major mode (=*-ts-mode=, e.g. =python-ts-mode=, =rust-ts-mode=) frees the main thread from regex-based font-locking so it competes less with Eglot's JSON-RPC processing — see [[id:1b07729a-20ce-491b-a8cf-72e3e514592e][Tree-sitter]].
 ** Reports
 - 2023-01-05 ◦ [[https://www.adventuresinwhy.com/post/org-mode-timekeeping/][Timekeeping with Emacs and Org-Mode | Adventures in Why]]
 ** Searching

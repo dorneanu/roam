@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       43afe901-3840-473d-832b-00f4d84c8af7
+:END:
+#+title: Language server protocol
+#+filetags: :software:
+
+* Overview
+- The Language Server Protocol (LSP) is a JSON-RPC based protocol that decouples editor tooling (completion, diagnostics, go-to-definition, code actions, formatting) from language-specific analysis. A single language server implementing LSP can serve any editor with a compliant client (VS Code, Neovim, Emacs's Eglot/lsp-mode, Sublime, Helix), avoiding the N-editors × M-languages integration problem.
+- Language servers expose optional *capabilities* (on-type formatting, inlay hints, document highlighting, semantic tokens, progress reporting, code actions) that clients can query and selectively use. Because capabilities are optional and negotiated, clients can trade functionality for responsiveness by ignoring capabilities they don't need.
+
+* Performance characteristics
+- Every LSP feature that runs automatically (progress notifications, on-type formatting checks, idle code-action probing, semantic-token requests) adds background JSON-RPC traffic and client-side processing (deserialization, fontification, mode-line redraws) on top of the editor's own work. On large codebases this background chatter — not just the server's own analysis — is often the dominant source of perceived latency.
+- Editors that run on a single main thread for both UI and LSP message handling (e.g. Emacs) are especially sensitive: any CPU-bound client-side work (such as regex-based syntax highlighting) competes directly with LSP payload processing for the same thread, causing input lag even when the server itself responds instantly. See [[id:1b07729a-20ce-491b-a8cf-72e3e514592e][Tree-sitter]] for one way editors offload that competing work.
+- Filesystem watching (so the server can track workspace changes) can consume large numbers of OS file descriptors and add startup delay on big repositories; clients typically expose a watch-limit setting and rely on per-server workspace configuration to exclude generated directories (`node_modules`, `.git`, build output).
+
+* Resources
+- 2026-09-01 ◦ [[https://www.jamescherti.com/emacs-eglot-performance/][Configuring Emacs Eglot for Better Performance and Latency]] — practical tuning of Eglot (Emacs's built-in LSP client): disabling idle code-action probing, ignoring unneeded server capabilities (on-type formatting, inlay hints, semantic tokens), limiting file watchers, and disabling event logging to reduce background LSP traffic. See [[id:f9f5fffd-d536-45c5-95ee-532d0b756766][Emacs]] for the full set of Eglot-specific settings.

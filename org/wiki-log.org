@@ -357,3 +357,14 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Source type:* article
 - *Topics created:* cycle_touring.org
 - *Summary:* Ingested the official Drauradweg site (Kärnten Tourismus) as a worked example under a new Cycle touring topic covering multi-day, self-guided cycling travel: staged itineraries, cyclist-friendly accommodation, and rental/repair infrastructure. Added a new Travel / Outdoor domain to the wiki index.
+
+* 2026-09-01: Ingest — Configuring Emacs Eglot for Better Performance and Latency
+:PROPERTIES:
+:DATE:     2026-09-01
+:TYPE:     ingest
+:SOURCE:   https://www.jamescherti.com/emacs-eglot-performance/
+:END:
+- *Source type:* article
+- *Topics updated:* emacs.org
+- *Topics created:* language_server_protocol.org, tree_sitter.org
+- *Summary:* Ingested James Cherti's Eglot performance-tuning article; added an "Eglot / LSP performance tuning" sub-section to emacs.org covering autoshutdown, non-blocking connection, event-log/file-watch limits, ignored server capabilities, GC/native-compilation/read-process-output-max tuning, and Tree-sitter major modes; created language_server_protocol.org (LSP capability negotiation and background-traffic performance characteristics) and tree_sitter.org (incremental parsing and the single-main-thread contention argument), cross-linked to each other and to emacs.org.

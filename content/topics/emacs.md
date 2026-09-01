@@ -1,6 +1,6 @@
 +++
 title = "Emacs"
-author = ["Dorneanu"]
+author = ["hermes"]
 tags = ["emacs", "ide"]
 draft = false
 +++
@@ -227,6 +227,18 @@ When you are collecting text using append-to-register and prepend-to-register, y
 
 -   2024-12-18 ◦ [Is there a way to allow GNU emacs (29.4) to be more performant?](https://www.reddit.com/r/emacs/comments/1gv556t/is_there_a_way_to_allow_gnu_emacs_294_to_be_more/)
 -   2024-01-04 ◦ [Why is Emacs/Doom slow? - #6 by hlissner - Performance - Doom Emacs Discourse](https://discourse.doomemacs.org/t/why-is-emacs-doom-slow/83/6)
+
+
+#### Eglot / LSP performance tuning {#eglot-lsp-performance-tuning}
+
+-   2026-09-01 ◦ [Configuring Emacs Eglot for Better Performance and Latency](https://www.jamescherti.com/emacs-eglot-performance/) — tuning checklist for keeping Eglot responsive on large codebases: enable `eglot-autoshutdown` to kill idle LSP servers, set `eglot-sync-connect` to nil so connection setup doesn't block the UI, disable the events buffer (`eglot-events-buffer-config` / `:size 0`), cap `eglot-max-file-watches`, and disable idle code-action probing (`eglot-code-action-indications`) and mode-line progress reports (`eglot-report-progress`).
+
+    -   Add capabilities you don't use to `eglot-ignored-server-capabilities` (e.g. `:documentOnTypeFormattingProvider`, `:inlayHintProvider`, `:documentHighlightProvider`, `:semanticTokensProvider`) to skip the per-keystroke evaluation and background RPC traffic those features cost — see .
+    -   Raise `gc-cons-threshold` (or use the `gcmh` package) and `read-process-output-max` to reduce GC pauses and subprocess-read overhead from JSON-RPC bursts; ensure Emacs is built with native compilation for faster Elisp execution.
+
+    > Emacs executes Lisp, handles asynchronous process output, and updates the UI on a single main thread. [...] If the main thread is busy computing regexes, Eglot is forced to wait in the queue, resulting in input lag even if the external language server responds instantly.
+
+    -   Enabling a Tree-sitter-backed major mode (`*-ts-mode`, e.g. `python-ts-mode`, `rust-ts-mode`) frees the main thread from regex-based font-locking so it competes less with Eglot's JSON-RPC processing — see .
 
 
 ### Reports {#reports}
