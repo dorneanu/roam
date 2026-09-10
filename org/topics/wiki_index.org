@@ -119,6 +119,7 @@ Updated automatically on every ingest.
 - [[id:6e4777bb-f039-4040-971c-2444c2552160][Limits to Growth]] — Club of Rome's 1972 system-dynamics model; BAU scenario has proven accurate; Earth4All is its 21st-century successor
 
 * Philosophy
+- [[id:cce4a91c-8d1c-4c95-ac53-3048da6ca5bb][Pazifismus]] — absolute vs. relative pacifism (Olaf L. Müller); applied to the Ukraine war via the Slawutytsch nonviolent-resistance case, nuclear-war risk, the 1938 Munich appeasement debate, and the failed spring-2022 negotiations
 - [[id:fc8c75c5-0f1e-4590-a40d-6c181b63b215][Socratic questioning]] — interrogative method where probing questions surface hidden assumptions and drive the respondent to construct understanding; applied to software design review via the grill-me Claude Code skill
 - [[id:6d483e73-31fd-415f-9247-953fab75d82e][Antilibrary]] — Taleb's concept of unread books as a research tool and reservoir of curiosity, valued precisely for what they represent about one's unknowns rather than for having been read
 - [[id:2efd991f-076e-4523-a12c-93e72d91878e][Life Well Spent Across Cultures]] — five civilizational answers (forager sufficiency, Greek leisure, Confucian self-cultivation, Hindu proportion, Ubuntu relational personhood) to what makes a day well spent, contrasted with modern productivity-as-sole-measure

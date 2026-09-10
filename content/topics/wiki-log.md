@@ -239,10 +239,41 @@ Append-only log of all wiki ingest, query, and lint operations.
 -   **Summary:** Ingested the GitHub READMEs for promptfoo (MIT, acquired by OpenAI; CLI+library for LLM evals and automated red-teaming; CI/CD integration; model comparison) and Giskard OSS (Apache 2.0; Python library for agentic system testing; Scenario API with LLM-as-judge; giskard-scan covers OWASP LLM Top-10); created llm_evaluation.org covering eval frameworks, assertion types (regex/semantic/LLM-as-judge), regression testing, multi-turn agentic evaluation, and both tools; updated red_teaming_llms.org to mention promptfoo and Giskard in the automated scanning section; updated llm_vulnerability_scanning.org to add promptfoo and Giskard Scan as dedicated tool entries alongside garak.
 
 
-## 2026-07-06: Ingest — Cal Newport, Deep Questions: "Meet The Family Living Like It's The 90s" (w/ Chris Moody) {#2026-07-06-ingest-cal-newport-deep-questions-meet-the-family-living-like-it-s-the-90s--w-chris-moody}
+## 2026-07-09: Ingest — System Prompts and Models of AI Tools {#2026-07-09-ingest-system-prompts-and-models-of-ai-tools}
 
--   **Source type:** youtube
--   **Topics created:** living_without_internet_chris_moody.org
--   **Topics updated:** deep_life.org, attention_economy.org
--   **Coverage check:** ~40 named entities verified; 1 gap filled (Atlantic article by Moody added to Sources); sponsor mentions (Shopify, BetterHelp, PipeDrive, Caldera Lab) intentionally skipped
--   **Summary:** Ingested Cal Newport's Deep Questions interview with Chris Moody, a former CNN Politics correspondent who has lived without home internet in a log cabin in Boone NC for three years; synthesis covers his career arc, two years of van life, the decision to cancel the internet, work systems, entertainment (DVD projector with friction-by-design), the detox experience, child-rearing without screens, the sabbath space principle, and lifestyle-centric planning; two existing topics enriched with resource bullets.
+-   **Source type:** article
+-   **Topics updated:** system_prompt_transparency.org, llm_red_teaming.org, ai_agents.org
+-   **Topics created:** coding_assistants.org
+-   **Summary:** Ingested the x1xhlol system-prompts-and-models-of-ai-tools repository — a community collection of extracted prompts and tool schemas for AI coding assistants (Cursor, Windsurf, Devin, Manus, Lovable, VSCode Agent, Augment Code, Replit, Kiro, Trae, Warp, Xcode, and ~20 more); created coding_assistants.org covering the tool landscape, shared architectural patterns, model-identity obfuscation (Windsurf claiming GPT 4.1, Devin refusing to disclose prompt), and agentic tool schemas; updated system_prompt_transparency.org with the x1xhlol collection as a coding-assistant complement to CL4R1T4S; updated llm_red_teaming.org system-prompt-extraction section with obfuscation details; updated ai_agents.org with Devin and Manus prompt architecture findings.
+
+
+## 2026-07-13: Ingest — How to read more books {#2026-07-13-ingest-how-to-read-more-books}
+
+-   **Source type:** article
+-   **Topics updated:** nassim_taleb.org, attention_economy.org, zettelkasten.org
+-   **Topics created:** reading_habits.org, antilibrary.org
+-   **Summary:** Ingested Elia Scotto's "How to read more books" and its HN discussion (503 points, 262 comments); created reading_habits.org covering phone-replacement as a reading strategy, parallel reading, abandoning books without guilt, ebook vs. physical books, reading goals vs. pleasure, the audiobook/reading modality debate, RSVP/speed reading, and note-taking for retention; created antilibrary.org as a standalone concept page for Taleb's unread-books-as-research-tool idea; updated nassim_taleb.org, attention_economy.org (phone-replacement lever), and zettelkasten.org (review vs. highlighting for retention) with cross-linked resource bullets.
+
+
+## 2026-07-15: Ingest — Are we offloading too much of our thinking to AI? {#2026-07-15-ingest-are-we-offloading-too-much-of-our-thinking-to-ai}
+
+-   **Source type:** discussion
+-   **Topics updated:** coding_assistants.org, ai_agents.org, learned_helplessness.org
+-   **Topics created:** cognitive_offloading.org, ai_assisted_learning.org
+-   **Summary:** Ingested the 420-comment HN discussion of yenniejun111's "Are we offloading too much of our thinking to AI?" (score 456); created cognitive_offloading.org as a hub page covering the Whispering Earring parable, the calculator/mastery debate (capability vs. mastery, "number sense"), procedural vs. declarative knowledge and comprehension debt, and accountability/decision-ownership arguments, cross-linked to learned_helplessness.org; created ai_assisted_learning.org covering the "get the information then put it into practice" pattern (contractor, gardening, cocktail anecdotes) and the RevEng debug/review/implement/suggest framework; updated coding_assistants.org with an "Agency-preserving usage patterns" section (gptel-as-search-engine discipline, familiar-vs-unfamiliar-territory rule); updated ai_agents.org with an agent-driven-groupthink failure mode (the nsxwolf production-fix standoff anecdote); updated learned_helplessness.org with a reverse cross-link framing AI cognitive offloading as a contemporary instance of the rescue-from-effort mechanism.
+
+
+## 2026-07-28: Ingest — Drauradweg (official site) {#2026-07-28-ingest-drauradweg--official-site}
+
+-   **Source type:** article
+-   **Topics created:** cycle_touring.org
+-   **Summary:** Ingested the official Drauradweg site (Kärnten Tourismus) as a worked example under a new Cycle touring topic covering multi-day, self-guided cycling travel: staged itineraries, cyclist-friendly accommodation, and rental/repair infrastructure. Added a new Travel / Outdoor domain to the wiki index.
+
+
+## 2026-09-10: Ingest — Lage der Nation Plus LdN490: Pazifismus {#2026-09-10-ingest-lage-der-nation-plus-ldn490-pazifismus}
+
+-   **Source type:** podcast
+-   **Topics created:** pazifismus.org
+-   **Topics updated:** lage_der_nation.org
+-   **Coverage check:** ~60 named-entity candidates scanned, 4 substantive gaps filled (NATO-Doppelbeschluss/Friedensbewegung-der-80er debate, "Team Vorsicht" risk-analogy, Operation Barbarossa reference, Olaf Scholz mention)
+-   **Summary:** Ingested LdN490, Philip Banse and Ulf Buermeyer's interview with philosopher Olaf L. Müller on absolute vs. relative pacifism, applying the framework throughout to the Russian invasion of Ukraine — nonviolent resistance in Slawutytsch, the peaceful collapse of the USSR, nuclear-war risk (Cuban Missile Crisis, Stanislav Petrov), the Munich 1938 appeasement debate, the failed spring-2022 negotiations, the precedent argument, and Müller's own moral guilt toward Ukraine.
