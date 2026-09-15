@@ -369,3 +369,15 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* none
 - *Coverage check:* transcript is single lowercase auto-caption block (no capitalized named-entity extraction possible); manually verified all named entities, quotes, and argument beats present in synthesis — 1 gap found and filled (the "recharging"/audited-holidays/stranger-job-question passage in the Thesis section).
 - *Summary:* Ingested a YouTube video essay arguing that modern productivity-as-sole-measure of a life well spent is one local, historically recent verdict among at least five other civilizational answers — forager sufficiency (Sahlins's "original affluent society"), Greek leisure (schole/banausos, Xenophon/Aristotle), Confucian self-cultivation (junzi/xiushen/xiaoren), the Hindu four aims of life (purusharthas), and Ubuntu relational personhood (botho/unhu/utu) — with the commodification of time under wage labor as the mechanism of the collapse; created life_well_spent_across_cultures.org with a one-directional cross-link to cognitive_fitness.org.
+
+* 2026-09-10: Ingest — Lage der Nation Plus LdN490: Pazifismus
+:PROPERTIES:
+:DATE:     2026-09-10
+:TYPE:     ingest
+:SOURCE:   https://plus.lagedernation.org/2026/08/26/ldn490-pazifismus-lasst-sich-putin-wirklich-mit-gesang-aus-der-ukraine-vertreiben-olaf-l-muller-professor-fur-philosophie/
+:END:
+- *Source type:* podcast
+- *Topics created:* pazifismus.org
+- *Topics updated:* lage_der_nation.org
+- *Coverage check:* ~60 named-entity candidates scanned, 4 substantive gaps filled (NATO-Doppelbeschluss/Friedensbewegung-der-80er debate, "Team Vorsicht" risk-analogy, Operation Barbarossa reference, Olaf Scholz mention)
+- *Summary:* Ingested LdN490, Philip Banse and Ulf Buermeyer's interview with philosopher Olaf L. Müller on absolute vs. relative pacifism, applying the framework throughout to the Russian invasion of Ukraine — nonviolent resistance in Slawutytsch, the peaceful collapse of the USSR, nuclear-war risk (Cuban Missile Crisis, Stanislav Petrov), the Munich 1938 appeasement debate, the failed spring-2022 negotiations, the precedent argument, and Müller's own moral guilt toward Ukraine.

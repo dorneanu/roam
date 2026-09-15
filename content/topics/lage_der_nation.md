@@ -1,8 +1,15 @@
 +++
 title = "Lage der Nation"
-author = ["Cyneox"]
+author = ["hermes"]
 draft = false
 +++
+
+## LdN 490 {#ldn-490}
+
+-   2026-08-26 ◦ [LdN490 Pazifismus: Lässt sich Putin wirklich mit Gesang aus der Ukraine vertreiben? (Olaf L. Müller, Professor für Philosophie) – Lage der Nation Plus](https://plus.lagedernation.org/2026/08/26/ldn490-pazifismus-lasst-sich-putin-wirklich-mit-gesang-aus-der-ukraine-vertreiben-olaf-l-muller-professor-fur-philosophie/)
+
+Interview mit dem Philosophen Olaf L. Müller über absoluten vs. relativen Pazifismus, gewaltfreien Widerstand (Slawutytsch), Atomkriegsgefahr und die gescheiterten Verhandlungen von 2022 im Ukrainekrieg. Ausführliche Synthese: [Pazifismus]({{< relref "pazifismus.md" >}}).
+
 
 ## LdN 344 {#ldn-344}
 
