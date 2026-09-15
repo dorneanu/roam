@@ -137,67 +137,67 @@ Er benennt das Dilemma explizit: Eine kleinere Bundeswehr mit größerem Fokus a
 
 * Schlüsselpersonen / Key People
 
-| Name | Rolle | Anmerkungen |
-|---|---|---|
-| Olaf L. Müller | Philosophieprofessor, Humboldt-Universität Berlin | Gast; Autor von "Pazifismus. Eine Verteidigung" und "Atomkrieg. Eine Warnung"; vertritt relativen Pazifismus |
-| Philip Banse | Journalist, Co-Host Lage der Nation | Interviewt Müller, bringt Gegenargumente |
-| Ulf Buermeyer | Jurist, Co-Host Lage der Nation | Interviewt Müller, juristische/völkerrechtliche Perspektive |
-| Bertrand Russell | Philosoph, Pazifist | Zitiert zur Grausamkeit des Tötens Wehrloser; Vorbild für Müllers relativen Pazifismus |
-| Albert Einstein | Physiker, Pazifist | Vorbild für Müllers relativen (nicht absoluten) Pazifismus angesichts der Nazi-Barbarei |
-| Wladimir Putin | Präsident Russlands | Initiator des Angriffskriegs gegen die Ukraine 2022; Analyse seiner Kalkulation/Verkalkulation diskutiert |
-| Wolodymyr Selenskyj | Präsident der Ukraine | Hielt laut Müller trotz Beraterwiderstand an Verhandlungen bis Mai 2022 fest |
-| Michail Gorbatschow | Letzter Staats- und Parteichef der UdSSR | Entschied sich gegen Panzereinsatz in Osteuropa 1989; ermöglichte friedlichen Zusammenbruch der Sowjetunion |
-| Juri Andropow | Sowjetischer Generalsekretär vor Gorbatschow | War überzeugt von unmittelbarem US-Atomangriff; Kontrastfigur zu Gorbatschow |
-| Stanislaw Petrow | Sowjetischer Oberst, Frühwarnsysteme | Verhinderte 1983 fälschlichen Alarmauslösung eines Nuklearangriffs |
-| Neville Chamberlain | Britischer Premierminister 1937–1940 | Schloss 1938 das Münchner Abkommen mit Hitler ("Peace in our Time") |
-| Naftali Bennett | Israelischer Premierminister 2021–2022 | Vermittler bei den Verhandlungen Frühjahr 2022; bestätigte Nähe zum Abschluss |
-| Boris Johnson | Britischer Premierminister 2019–2022 | Populäre (laut Müller falsche) Erzählung, er habe Kiew von Verhandlungen abgehalten |
-| Robert Kennedy | US-Justizminister während der Kubakrise | Schätzte Eskalationswahrscheinlichkeit auf 50:50 |
-| Donald Trump | US-Präsident | Verweigert laut Müller bis heute robuste Sicherheitsgarantien für die Ukraine |
-| Christian Goeschel / Daniel Hedinger | Historiker | Autoren des Buchs "München 38" über die Chamberlain-Hitler-Verhandlungen |
-| Slobodan Milošević | Serbischer Präsident während des Kosovo-Kriegs | Drohte mit Massakern am Boden während der NATO-Luftangriffe |
-| Olaf Scholz | Deutscher Bundeskanzler | Erwähnt im Kontext eines Konzerts einer ukrainischen Sängerin im Kanzleramt kurz nach Kriegsbeginn |
+| Name                                 | Rolle                                             | Anmerkungen                                                                                                  |
+|--------------------------------------+---------------------------------------------------+--------------------------------------------------------------------------------------------------------------|
+| Olaf L. Müller                       | Philosophieprofessor, Humboldt-Universität Berlin | Gast; Autor von "Pazifismus. Eine Verteidigung" und "Atomkrieg. Eine Warnung"; vertritt relativen Pazifismus |
+| Philip Banse                         | Journalist, Co-Host Lage der Nation               | Interviewt Müller, bringt Gegenargumente                                                                     |
+| Ulf Buermeyer                        | Jurist, Co-Host Lage der Nation                   | Interviewt Müller, juristische/völkerrechtliche Perspektive                                                  |
+| Bertrand Russell                     | Philosoph, Pazifist                               | Zitiert zur Grausamkeit des Tötens Wehrloser; Vorbild für Müllers relativen Pazifismus                       |
+| Albert Einstein                      | Physiker, Pazifist                                | Vorbild für Müllers relativen (nicht absoluten) Pazifismus angesichts der Nazi-Barbarei                      |
+| Wladimir Putin                       | Präsident Russlands                               | Initiator des Angriffskriegs gegen die Ukraine 2022; Analyse seiner Kalkulation/Verkalkulation diskutiert    |
+| Wolodymyr Selenskyj                  | Präsident der Ukraine                             | Hielt laut Müller trotz Beraterwiderstand an Verhandlungen bis Mai 2022 fest                                 |
+| Michail Gorbatschow                  | Letzter Staats- und Parteichef der UdSSR          | Entschied sich gegen Panzereinsatz in Osteuropa 1989; ermöglichte friedlichen Zusammenbruch der Sowjetunion  |
+| Juri Andropow                        | Sowjetischer Generalsekretär vor Gorbatschow      | War überzeugt von unmittelbarem US-Atomangriff; Kontrastfigur zu Gorbatschow                                 |
+| Stanislaw Petrow                     | Sowjetischer Oberst, Frühwarnsysteme              | Verhinderte 1983 fälschlichen Alarmauslösung eines Nuklearangriffs                                           |
+| Neville Chamberlain                  | Britischer Premierminister 1937–1940              | Schloss 1938 das Münchner Abkommen mit Hitler ("Peace in our Time")                                          |
+| Naftali Bennett                      | Israelischer Premierminister 2021–2022            | Vermittler bei den Verhandlungen Frühjahr 2022; bestätigte Nähe zum Abschluss                                |
+| Boris Johnson                        | Britischer Premierminister 2019–2022              | Populäre (laut Müller falsche) Erzählung, er habe Kiew von Verhandlungen abgehalten                          |
+| Robert Kennedy                       | US-Justizminister während der Kubakrise           | Schätzte Eskalationswahrscheinlichkeit auf 50:50                                                             |
+| Donald Trump                         | US-Präsident                                      | Verweigert laut Müller bis heute robuste Sicherheitsgarantien für die Ukraine                                |
+| Christian Goeschel / Daniel Hedinger | Historiker                                        | Autoren des Buchs "München 38" über die Chamberlain-Hitler-Verhandlungen                                     |
+| Slobodan Milošević                   | Serbischer Präsident während des Kosovo-Kriegs    | Drohte mit Massakern am Boden während der NATO-Luftangriffe                                                  |
+| Olaf Scholz                          | Deutscher Bundeskanzler                           | Erwähnt im Kontext eines Konzerts einer ukrainischen Sängerin im Kanzleramt kurz nach Kriegsbeginn           |
 
 * Schlüsselbegriffe / Key Terms
 
-| Begriff | Bedeutung |
-|---|---|
-| Absoluter / gesinnungsethischer Pazifismus | Kategorische Ablehnung jeder kriegerischen Handlung unabhängig von der Situation |
-| Relativer Pazifismus | Aktive, situationsabhängige Suche nach friedlicheren Alternativen, ohne Gewalt kategorisch auszuschließen ("Suchscheinwerfer") |
-| Gewaltfreier Widerstand | Aktiver, ziviler, symbolischer Widerstand gegen Besatzung ohne Waffeneinsatz (Beispiel Slawutytsch) |
-| Abnutzungskrieg | Kriegsform, in der beide Seiten durch fortgesetzten Kampf/Waffenlieferungen ausgezehrt werden, ohne klares Kriegsende |
-| Sicherheitsgarantien | Zusagen dritter Staaten, im Angriffsfall militärisch einzugreifen; zentrales Streitthema der Verhandlungen 2022 |
-| Budapester Memorandum | 1994er Abkommen, in dem die Ukraine gegen Abgabe ihrer Atomwaffen (wertlose) Grenzgarantien erhielt |
-| Appeasement | Politik des Nachgebens gegenüber einem Aggressor zur Vermeidung eines größeren Konflikts; historisch mit München 1938 verbunden |
-| Nukleares Tabu | Ungeschriebene, seit Hiroshima/Nagasaki bestehende Norm gegen den Einsatz von Atomwaffen im Krieg |
-| NATO-Doppelbeschluss / NATO-Bündnisfall | NATO-Nachrüstungsbeschluss von 1979 gegen sowjetische SS-20-Raketen; Art. 5 NATO-Vertrag würde Deutschland laut Müller zum militärischen Aufmarschgebiet und Angriffsziel machen |
-| Präzedenzfall-Argument | Sorge, dass ein "belohnter" Gewalteinsatz Nachahmer wie China/Taiwan ermutigen könnte |
-| "Team Vorsicht" | Müllers Analogie (Elternvorsicht, AKW-Ingenieurin) für konsequentes Risikodenken angesichts der Atomkriegsgefahr |
+| Begriff                                    | Bedeutung                                                                                                                                                                        |
+|--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Absoluter / gesinnungsethischer Pazifismus | Kategorische Ablehnung jeder kriegerischen Handlung unabhängig von der Situation                                                                                                 |
+| Relativer Pazifismus                       | Aktive, situationsabhängige Suche nach friedlicheren Alternativen, ohne Gewalt kategorisch auszuschließen ("Suchscheinwerfer")                                                   |
+| Gewaltfreier Widerstand                    | Aktiver, ziviler, symbolischer Widerstand gegen Besatzung ohne Waffeneinsatz (Beispiel Slawutytsch)                                                                              |
+| Abnutzungskrieg                            | Kriegsform, in der beide Seiten durch fortgesetzten Kampf/Waffenlieferungen ausgezehrt werden, ohne klares Kriegsende                                                            |
+| Sicherheitsgarantien                       | Zusagen dritter Staaten, im Angriffsfall militärisch einzugreifen; zentrales Streitthema der Verhandlungen 2022                                                                  |
+| Budapester Memorandum                      | 1994er Abkommen, in dem die Ukraine gegen Abgabe ihrer Atomwaffen (wertlose) Grenzgarantien erhielt                                                                              |
+| Appeasement                                | Politik des Nachgebens gegenüber einem Aggressor zur Vermeidung eines größeren Konflikts; historisch mit München 1938 verbunden                                                  |
+| Nukleares Tabu                             | Ungeschriebene, seit Hiroshima/Nagasaki bestehende Norm gegen den Einsatz von Atomwaffen im Krieg                                                                                |
+| NATO-Doppelbeschluss / NATO-Bündnisfall    | NATO-Nachrüstungsbeschluss von 1979 gegen sowjetische SS-20-Raketen; Art. 5 NATO-Vertrag würde Deutschland laut Müller zum militärischen Aufmarschgebiet und Angriffsziel machen |
+| Präzedenzfall-Argument                     | Sorge, dass ein "belohnter" Gewalteinsatz Nachahmer wie China/Taiwan ermutigen könnte                                                                                            |
+| "Team Vorsicht"                            | Müllers Analogie (Elternvorsicht, AKW-Ingenieurin) für konsequentes Risikodenken angesichts der Atomkriegsgefahr                                                                 |
 
 * Zeitleiste / Timeline
 
-| Zeitpunkt | Ereignis |
-|---|---|
-| 1938 | Münchner Abkommen: Chamberlain überlässt Hitler die Tschechoslowakei |
-| 1939 | Deutscher Überfall auf Polen, Beginn des Zweiten Weltkriegs |
-| 1941 | Operation Barbarossa, deutscher Überfall auf die Sowjetunion |
-| 1956 | Sowjetische Panzer schlagen Aufstand in Ungarn nieder |
-| 1962 | Kubakrise, Eskalationsrisiko laut Robert Kennedy bei 50:50 |
-| 1968 | Sowjetischer Einmarsch in Prag (Ende des Prager Frühlings) |
-| 1979 | NATO-Doppelbeschluss als Reaktion auf sowjetische SS-20-Mittelstreckenraketen |
-| 1983 | Stanislaw Petrow verhindert fälschlichen Nuklearalarm; KAL-007-Abschuss über Südkorea |
-| Ende 1980er | Friedlicher Zusammenbruch der Sowjetherrschaft in Polen, DDR, Baltikum unter Gorbatschow |
-| 1990er | De-facto-russische Besetzung Südossetiens (Georgien) |
-| 1999 | Kosovo-Krieg: NATO-Luftangriffe, rund 10.000 Tote am Boden, Befreiung von 2 Mio. Kosovo-Albanern |
-| 2008 | Georgienkrieg, formalisierte russische Kontrolle über Südossetien |
-| 2014 | Annexion der Krim durch Russland; Beginn des Minsk-Prozesses in der Ostukraine |
-| 24. Februar 2022 | Russische Vollinvasion der Ukraine |
-| Ende März 2022 | Russische Besetzung von Slawutytsch; gewaltfreier Widerstand der Bevölkerung |
-| März–Mai 2022 | Verhandlungen zwischen Russland und Ukraine (u.a. vermittelt durch Naftali Bennett) über Sicherheitsgarantien |
-| Anfang April 2022 | Entdeckung der Kriegsverbrechen von Butscha |
-| Herbst 2022 | Ukrainische Gegenoffensive; laut US-Geheimdiensten Erwägung taktischer Atomwaffen durch Russland |
-| 25. Juni 2026 | Aufzeichnung des Interviews mit Olaf L. Müller |
-| 26. August 2026 | Veröffentlichung von LdN490 |
+|         Zeitpunkt | Ereignis                                                                                                      |
+|-------------------+---------------------------------------------------------------------------------------------------------------|
+|              1938 | Münchner Abkommen: Chamberlain überlässt Hitler die Tschechoslowakei                                          |
+|              1939 | Deutscher Überfall auf Polen, Beginn des Zweiten Weltkriegs                                                   |
+|              1941 | Operation Barbarossa, deutscher Überfall auf die Sowjetunion                                                  |
+|              1956 | Sowjetische Panzer schlagen Aufstand in Ungarn nieder                                                         |
+|              1962 | Kubakrise, Eskalationsrisiko laut Robert Kennedy bei 50:50                                                    |
+|              1968 | Sowjetischer Einmarsch in Prag (Ende des Prager Frühlings)                                                    |
+|              1979 | NATO-Doppelbeschluss als Reaktion auf sowjetische SS-20-Mittelstreckenraketen                                 |
+|              1983 | Stanislaw Petrow verhindert fälschlichen Nuklearalarm; KAL-007-Abschuss über Südkorea                         |
+|       Ende 1980er | Friedlicher Zusammenbruch der Sowjetherrschaft in Polen, DDR, Baltikum unter Gorbatschow                      |
+|            1990er | De-facto-russische Besetzung Südossetiens (Georgien)                                                          |
+|              1999 | Kosovo-Krieg: NATO-Luftangriffe, rund 10.000 Tote am Boden, Befreiung von 2 Mio. Kosovo-Albanern              |
+|              2008 | Georgienkrieg, formalisierte russische Kontrolle über Südossetien                                             |
+|              2014 | Annexion der Krim durch Russland; Beginn des Minsk-Prozesses in der Ostukraine                                |
+|  24. Februar 2022 | Russische Vollinvasion der Ukraine                                                                            |
+|    Ende März 2022 | Russische Besetzung von Slawutytsch; gewaltfreier Widerstand der Bevölkerung                                  |
+|     März–Mai 2022 | Verhandlungen zwischen Russland und Ukraine (u.a. vermittelt durch Naftali Bennett) über Sicherheitsgarantien |
+| Anfang April 2022 | Entdeckung der Kriegsverbrechen von Butscha                                                                   |
+|       Herbst 2022 | Ukrainische Gegenoffensive; laut US-Geheimdiensten Erwägung taktischer Atomwaffen durch Russland              |
+|     25. Juni 2026 | Aufzeichnung des Interviews mit Olaf L. Müller                                                                |
+|   26. August 2026 | Veröffentlichung von LdN490                                                                                   |
 
 * Quellen / Sources
 
