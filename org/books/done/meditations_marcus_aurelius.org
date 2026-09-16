@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6C8CDA8F-241D-453E-B46C-1B8CD2B8BAB3
+:END:
+#+title: Meditations
+#+filetags: :stoicism:book:
+#+date: 2026-09-15
+
+https://www.goodreads.com/book/show/233411514-meditations
+
