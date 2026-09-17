@@ -61,7 +61,11 @@ cat > "$ELISP_FILE" <<ENDOFSCRIPT
   (org-roam-db-autosync-mode -1))
 
 (require 'org-id)
-(setq org-id-extra-files nil)
+;; The org-roam DB only indexes org/topics and org/blog, so [[id:...]] links to
+;; book notes resolve to nothing and are silently dropped (org-export-with-broken-links).
+;; Feed the book files in explicitly so those links survive the export.
+(setq org-id-extra-files
+      (directory-files-recursively "$REPO_ROOT/org/books/" "\\\\.org\\\\'"))
 ;; org-id-locations may be an alist (org-roam stores it that way).
 ;; Convert to a hash table and strip any worktree paths so the canonical
 ;; path wins when the same ID appears twice.
@@ -75,6 +79,11 @@ cat > "$ELISP_FILE" <<ENDOFSCRIPT
                  (puthash id abs clean))))
            org-id-locations)
   (setq org-id-locations clean))
+
+;; org-id-locations-load replaced the table above, so scan the book files into
+;; it now. Without this, book [[id:...]] links export as empty "()".
+(when org-id-extra-files
+  (org-id-update-id-locations org-id-extra-files t))
 
 ;; straight.el doesn't add build dirs to load-path in batch mode.
 ;; Add every package build dir so ox-hugo and its deps can be required.
