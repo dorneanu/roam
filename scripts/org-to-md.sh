@@ -61,11 +61,14 @@ cat > "$ELISP_FILE" <<ENDOFSCRIPT
   (org-roam-db-autosync-mode -1))
 
 (require 'org-id)
-;; The org-roam DB only indexes org/topics and org/blog, so [[id:...]] links to
-;; book notes resolve to nothing and are silently dropped (org-export-with-broken-links).
-;; Feed the book files in explicitly so those links survive the export.
+;; Don't trust the org-roam DB for link resolution: it omits org/books entirely
+;; and its topic index goes stale as new files are added. Unresolved [[id:...]]
+;; links are dropped silently (org-export-with-broken-links) — no error, just a
+;; missing link. Scan the source dirs directly so every target is resolvable.
 (setq org-id-extra-files
-      (directory-files-recursively "$REPO_ROOT/org/books/" "\\\\.org\\\\'"))
+      (append (directory-files-recursively "$REPO_ROOT/org/books/"  "\\\\.org\\\\'")
+              (directory-files-recursively "$REPO_ROOT/org/topics/" "\\\\.org\\\\'")
+              (directory-files-recursively "$REPO_ROOT/org/blog/"   "\\\\.org\\\\'")))
 ;; org-id-locations may be an alist (org-roam stores it that way).
 ;; Convert to a hash table and strip any worktree paths so the canonical
 ;; path wins when the same ID appears twice.
@@ -80,8 +83,8 @@ cat > "$ELISP_FILE" <<ENDOFSCRIPT
            org-id-locations)
   (setq org-id-locations clean))
 
-;; org-id-locations-load replaced the table above, so scan the book files into
-;; it now. Without this, book [[id:...]] links export as empty "()".
+;; org-id-locations-load replaced the table above, so scan the source files into
+;; it now. Without this, [[id:...]] links export as empty "()".
 (when org-id-extra-files
   (org-id-update-id-locations org-id-extra-files t))
 
