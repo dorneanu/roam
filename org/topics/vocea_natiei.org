@@ -3,6 +3,9 @@
 :END:
 #+title: Vocea Natiei
 
+* #313
+[[id:d4a8c68a-4c23-4163-bf56-47d6050d1f07][Cea mai proastă idee: corelarea educației cu piața muncii]]
+
 * #192
 - 2023-08-31 ◦ [[https://www.youtube.com/watch?v=uwZL6WTGhgc][Cum ajungi prim-ministru? | Vocea Nației #192 - YouTube]]
 
