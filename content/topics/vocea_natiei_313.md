@@ -1,5 +1,5 @@
 +++
-title = "Cea mai proastă idee: corelarea educației cu piața muncii"
+title = "Vocea Natiei #313"
 author = ["Dorneanu"]
 tags = ["podcast", "youtube", "educatie", "munca", "ai"]
 draft = false
