@@ -3,6 +3,9 @@
 :END:
 #+title: Vocea Natiei
 
+* #332
+[[id:518a287c-2aaf-44fd-9ccc-5fd31e4e92cc][Mogulii din tehnologie nu știu ce fac. Problema de aliniere]]
+
 * #313
 [[id:d4a8c68a-4c23-4163-bf56-47d6050d1f07][Cea mai proastă idee: corelarea educației cu piața muncii]]
 

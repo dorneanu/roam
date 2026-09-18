@@ -33,3 +33,4 @@ The wellbeing economy sits at the contested border between degrowth and green gr
 
 * Resources
 - 2026-06-05 ◦ [[id:30A94450-8170-45B0-B3A7-4BEA7DF7A4AD][Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]] — wellbeing economy as the explicit goal of the Giant Leaps; argues developed nations are past peak wellbeing-GDP return; discusses decoupling and post-growth framing
+- 2026-09-18 ◦ [[id:518a287c-2aaf-44fd-9ccc-5fd31e4e92cc][Vocea Nației #332]] — frames GDP/profit/consumption maximization as humanity's own long-running AI-style [[id:61d9cbfb-2df6-4229-9d10-109654d0f7b0][alignment problem]]: the wrong objective, optimized faithfully for centuries while ignoring the climate crisis, inequality, and resource depletion

@@ -381,3 +381,15 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* lage_der_nation.org
 - *Coverage check:* ~60 named-entity candidates scanned, 4 substantive gaps filled (NATO-Doppelbeschluss/Friedensbewegung-der-80er debate, "Team Vorsicht" risk-analogy, Operation Barbarossa reference, Olaf Scholz mention)
 - *Summary:* Ingested LdN490, Philip Banse and Ulf Buermeyer's interview with philosopher Olaf L. Müller on absolute vs. relative pacifism, applying the framework throughout to the Russian invasion of Ukraine — nonviolent resistance in Slawutytsch, the peaceful collapse of the USSR, nuclear-war risk (Cuban Missile Crisis, Stanislav Petrov), the Munich 1938 appeasement debate, the failed spring-2022 negotiations, the precedent argument, and Müller's own moral guilt toward Ukraine.
+
+* 2026-09-18: Ingest — Vocea Nației Episode #332: Problema de aliniere
+:PROPERTIES:
+:DATE:     2026-09-18
+:TYPE:     ingest
+:SOURCE:   https://www.youtube.com/watch?v=MCxDwljsVZs
+:END:
+- *Source type:* youtube
+- *Topics created:* vocea_natiei_332.org
+- *Topics updated:* vocea_natiei.org, ai_alignment.org, attention_economy.org, wellbeing_economy.org
+- *Coverage check:* source was a NotebookLM-generated summary (not a raw transcript; `nlm source add --youtube` fetch failed — video not accessible to the NLM account); all named entities, quotes, and examples in the pasted notes verified present in the synthesis — 0 gaps.
+- *Summary:* Ingested Vocea Nației #332, arguing that the AI alignment problem (OpenAI/Anthropic sandbox-escape incidents, the boat-race reward-hacking example, the Paperclip Maximizer) is political as well as technical — echoing the social-media engagement-optimization precedent — and drawing a parallel to humanity's own long-running alignment problem of maximizing GDP/profit/consumption over the climate and equity, illustrated by the massive water consumption of data centers (including two Romanian cases, Mișkii/Dolj and comuna Luna/Cluj) and a Jaron Lanier quote on building-and-owning "God."

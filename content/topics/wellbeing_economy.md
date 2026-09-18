@@ -20,7 +20,7 @@ The core critique: GDP measures the volume of monetised transactions, not whethe
 -   Emerging economies still need real improvements in material living standards, but through clean technology pathways, not fossil-fuel replication
 -   The goal is to decouple human flourishing from physical throughput — more wellbeing, less material consumption
 
-The Earth4All model (see [Earth4All model]({{< relref "earth4all_model.md" >}})) uses wellbeing indicators alongside GDP to evaluate scenarios: the Giant Leaps scenario produces markedly better wellbeing outcomes while keeping resource consumption closer to .
+The Earth4All model (see [Earth4All model]({{< relref "earth4all_model.md" >}})) uses wellbeing indicators alongside GDP to evaluate scenarios: the Giant Leaps scenario produces markedly better wellbeing outcomes while keeping resource consumption closer to [Planetary boundaries]({{< relref "planetary_boundaries.md" >}}).
 
 
 ## Relation to doughnut economics {#relation-to-doughnut-economics}
@@ -35,7 +35,7 @@ Key alternative metrics proposed within wellbeing economy frameworks:
 -   **Genuine Progress Indicator (GPI)** — adjusts GDP for inequality, unpaid work, environmental costs, and defensive expenditures
 -   **Human Development Index (HDI)** — UN composite of income, health, and education
 -   **Wellbeing scores** — Cantril ladder, subjective life satisfaction surveys
--   **Planetary health check** — dashboard of indicators
+-   **Planetary health check** — dashboard of [Planetary boundaries]({{< relref "planetary_boundaries.md" >}}) indicators
 -   **Inclusive Wealth Index** — World Bank; values produced capital, human capital, and natural capital
 
 
@@ -46,4 +46,5 @@ The wellbeing economy sits at the contested border between degrowth and green gr
 
 ## Resources {#resources}
 
--   2026-06-05 ◦ — wellbeing economy as the explicit goal of the Giant Leaps; argues developed nations are past peak wellbeing-GDP return; discusses decoupling and post-growth framing
+-   2026-06-05 ◦ [Earth for All — Dixson-Declève et al. (Club of Rome, 2022)]({{< relref "../books/earth4all.md" >}}) — wellbeing economy as the explicit goal of the Giant Leaps; argues developed nations are past peak wellbeing-GDP return; discusses decoupling and post-growth framing
+-   2026-09-18 ◦ [Vocea Nației #332]({{< relref "vocea_natiei_332.md" >}}) — frames GDP/profit/consumption maximization as humanity's own long-running AI-style [alignment problem]({{< relref "ai_alignment.md" >}}): the wrong objective, optimized faithfully for centuries while ignoring the climate crisis, inequality, and resource depletion

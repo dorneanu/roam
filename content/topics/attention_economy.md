@@ -1,6 +1,6 @@
 +++
 title = "Attention Economy"
-author = ["Dorneanu"]
+author = ["hermes"]
 draft = false
 +++
 
@@ -58,3 +58,4 @@ The hopeful corollary: plasticity works in both directions. Just as skimming rew
 -   2026-05-19 ◦ [The Cost of Safetyism — Steve Magness](https://stevemagness.substack.com/p/the-cost-of-safetyism) — social media and neighborhood alert apps amplify [Mean World Syndrome]({{< relref "mean_world_syndrome.md" >}}), creating a perception-reality gap in crime and danger that drives risk-averse parenting well beyond what the data supports
 -   2026-06-02 ◦ [The Anxious Generation — Jonathan Haidt (2024)]({{< relref "../books/the_anxious_generation.md" >}}) — documents attention fragmentation as one of four foundational harms of the phone-based childhood, with data on notification frequency, "almost constantly online" rates among teens, and the mechanism by which competition for adolescent attention produced an ever-more-disruptive notification ecosystem
 -   2026-06-05 ◦ [Reclaiming Conversation — Sherry Turkle (2015)]({{< relref "../books/reclaiming_conversation.md" >}}) — the ambient phone effect (even a silent, face-down phone degrades conversation and measured empathy); the Goldilocks effect (digital distance as "just right"); Maryanne Wolf on deep reading and brain plasticity; the circuit-of-apps as engineered re-engagement loop; interruption revalued as connection
+-   2026-09-18 ◦ [Vocea Nației #332]({{< relref "vocea_natiei_332.md" >}}) — frames the social-media engagement algorithm as an earlier real-world instance of the AI [alignment problem]({{< relref "ai_alignment.md" >}}): the algorithm doesn't hate democracy, it optimized the given metric (clicks, time-on-platform), turning outrage and disinformation into engagement "gold"
