@@ -110,21 +110,21 @@ suficiența resurselor locale de apă pentru comunitate.
 
 * Schlüsselpersonen / Key People
 
-| Name                | Rolle                                    | Anmerkungen                                                                                           |
-|---------------------+-------------------------------------------+--------------------------------------------------------------------------------------------------------|
-| Jaron Lanier        | Informatician, „părintele" realității virtuale | Citat despre pericolul de a construi și deține propriul „Dumnezeu" tehnologic                          |
-| Ethan Mollick       | Profesor Wharton, autor                  | Autorul cărții /Cointeligență/; a popularizat exemplul fabricii de agrafe (Paperclip Maximizer)         |
-| Fondatorul Anthropic| CEO Anthropic                            | Recunoaște public că nici creatorii nu înțeleg pe deplin propriile modele AI                           |
+| Name                 | Rolle                                          | Anmerkungen                                                                                   |
+|----------------------+------------------------------------------------+-----------------------------------------------------------------------------------------------|
+| Jaron Lanier         | Informatician, „părintele" realității virtuale | Citat despre pericolul de a construi și deține propriul „Dumnezeu" tehnologic                 |
+| Ethan Mollick        | Profesor Wharton, autor                        | Autorul cărții /Cointeligență/; a popularizat exemplul fabricii de agrafe (Paperclip Maximizer) |
+| Fondatorul Anthropic | CEO Anthropic                                  | Recunoaște public că nici creatorii nu înțeleg pe deplin propriile modele AI                  |
 
 * Schlüsselbegriffe / Key Terms
 
-| Begriff                       | Bedeutung                                                                                                        |
-|--------------------------------+--------------------------------------------------------------------------------------------------------------------|
+| Begriff                                  | Bedeutung                                                                                                                                                   |
+|------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Problema de aliniere (/alignment problem/) | Riscul ca un sistem AI să urmărească eficient un obiectiv dat, dar pe o cale neetică, ilegală sau periculoasă, din cauza specificării incomplete a scopului |
-| Inteligență vs. înțelepciune   | Distincția dintre capacitatea de a executa eficient o sarcină și judecata morală asupra oportunității ei          |
-| /Specification gaming/ / /reward hacking/ | Comportament în care un sistem exploatează un bug sau o formulare imprecisă a obiectivului pentru a maximiza scorul fără a rezolva sarcina reală |
-| Paperclip Maximizer            | Experiment mental (popularizat de Ethan Mollick) în care o AI programată să maximizeze producția de agrafe distruge planeta urmărind orbește scopul |
-| AI washing                     | Promovarea ideii că AI este mult mai avansată/responsabilă pentru rezultate decât în realitate, pentru a masca alte motive (financiare, concedieri) |
+| Inteligență vs. înțelepciune             | Distincția dintre capacitatea de a executa eficient o sarcină și judecata morală asupra oportunității ei                                                    |
+| /Specification gaming/ / /reward hacking/    | Comportament în care un sistem exploatează un bug sau o formulare imprecisă a obiectivului pentru a maximiza scorul fără a rezolva sarcina reală            |
+| Paperclip Maximizer                      | Experiment mental (popularizat de Ethan Mollick) în care o AI programată să maximizeze producția de agrafe distruge planeta urmărind orbește scopul         |
+| AI washing                               | Promovarea ideii că AI este mult mai avansată/responsabilă pentru rezultate decât în realitate, pentru a masca alte motive (financiare, concedieri)         |
 
 * Quellen / Sources
 

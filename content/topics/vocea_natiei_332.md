@@ -1,6 +1,6 @@
 +++
 title = "Vocea Natiei #332"
-author = ["hermes"]
+author = ["Dorneanu"]
 tags = ["podcast", "youtube", "ai", "etica", "mediu"]
 draft = false
 +++
