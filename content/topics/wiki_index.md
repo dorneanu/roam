@@ -77,6 +77,7 @@ Updated automatically on every ingest.
 -   [Package hallucination]({{< relref "package_hallucination.md" >}}) — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
 -   [LLM evaluation]({{< relref "llm_evaluation.md" >}}) — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
 -   [AI-assisted learning]({{< relref "ai_assisted_learning.md" >}}) — practical pattern for learning with AI without losing retention: get the information, then put it into practice; a debug/review/implement/suggest framework for agency-preserving AI use
+-   [Vocea Natiei #332]({{< relref "vocea_natiei_332.md" >}}) — the AI alignment problem as political, not just technical (sandbox-escape incidents, boat-race reward hacking, the Paperclip Maximizer); parallels social-media engagement optimization and humanity's own GDP-maximization alignment problem; data-center water consumption, incl. two Romanian cases
 
 
 ## Productivity {#productivity}
@@ -138,6 +139,7 @@ Updated automatically on every ingest.
 -   [Pazifismus]({{< relref "pazifismus.md" >}}) — absolute vs. relative pacifism (Olaf L. Müller); applied to the Ukraine war via the Slawutytsch nonviolent-resistance case, nuclear-war risk, the 1938 Munich appeasement debate, and the failed spring-2022 negotiations
 -   [Socratic questioning]({{< relref "socratic_questioning.md" >}}) — interrogative method where probing questions surface hidden assumptions and drive the respondent to construct understanding; applied to software design review via the grill-me Claude Code skill
 -   [Antilibrary]({{< relref "antilibrary.md" >}}) — Taleb's concept of unread books as a research tool and reservoir of curiosity, valued precisely for what they represent about one's unknowns rather than for having been read
+-   [Life Well Spent Across Cultures]({{< relref "life_well_spent_across_cultures.md" >}}) — five civilizational answers (forager sufficiency, Greek leisure, Confucian self-cultivation, Hindu proportion, Ubuntu relational personhood) to what makes a day well spent, contrasted with modern productivity-as-sole-measure
 
 
 ## Music / Audio production {#music-audio-production}

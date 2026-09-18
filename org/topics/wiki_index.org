@@ -70,6 +70,7 @@ Updated automatically on every ingest.
 - [[id:12edc324-e7bf-4713-b3c1-2424539f9ad3][Package hallucination]] — LLM code generation failure mode where the model recommends non-existent packages; enables supply-chain attacks ("slopsquatting") when attackers register the hallucinated names with malicious payloads
 - [[id:2fb5620d-bdce-4400-861d-dd1dc91e8f13][LLM evaluation]] — systematic measurement of LLM apps against test cases; assertion types (regex, semantic similarity, LLM-as-judge); regression testing, multi-turn agentic evaluation; promptfoo and Giskard are leading open-source frameworks
 - [[id:c99f3213-64ad-4098-9833-70da9a67a9bd][AI-assisted learning]] — practical pattern for learning with AI without losing retention: get the information, then put it into practice; a debug/review/implement/suggest framework for agency-preserving AI use
+- [[id:518a287c-2aaf-44fd-9ccc-5fd31e4e92cc][Vocea Natiei #332]] — the AI alignment problem as political, not just technical (sandbox-escape incidents, boat-race reward hacking, the Paperclip Maximizer); parallels social-media engagement optimization and humanity's own GDP-maximization alignment problem; data-center water consumption, incl. two Romanian cases
 
 * Productivity
 - [[id:3c7f407e-38f4-4a55-bfca-89e2e09f65a9][Deep Work]] — cognitively demanding work performed in distraction-free states; essential for acquiring new skills and producing rare, valuable output (Cal Newport)

@@ -1,8 +1,13 @@
 +++
 title = "Vocea Natiei"
-author = ["Dorneanu"]
+author = ["hermes"]
 draft = false
 +++
+
+## #332 {#332}
+
+[Mogulii din tehnologie nu știu ce fac. Problema de aliniere]({{< relref "vocea_natiei_332.md" >}})
+
 
 ## #313 {#313}
 

@@ -270,6 +270,15 @@ Append-only log of all wiki ingest, query, and lint operations.
 -   **Summary:** Ingested the official Drauradweg site (Kärnten Tourismus) as a worked example under a new Cycle touring topic covering multi-day, self-guided cycling travel: staged itineraries, cyclist-friendly accommodation, and rental/repair infrastructure. Added a new Travel / Outdoor domain to the wiki index.
 
 
+## 2026-07-30: Ingest — The Visual Philosopher: How Different Cultures Defined a Life Well Spent {#2026-07-30-ingest-the-visual-philosopher-how-different-cultures-defined-a-life-well-spent}
+
+-   **Source type:** youtube
+-   **Topics created:** life_well_spent_across_cultures.org
+-   **Topics updated:** none
+-   **Coverage check:** transcript is single lowercase auto-caption block (no capitalized named-entity extraction possible); manually verified all named entities, quotes, and argument beats present in synthesis — 1 gap found and filled (the "recharging"/audited-holidays/stranger-job-question passage in the Thesis section).
+-   **Summary:** Ingested a YouTube video essay arguing that modern productivity-as-sole-measure of a life well spent is one local, historically recent verdict among at least five other civilizational answers — forager sufficiency (Sahlins's "original affluent society"), Greek leisure (schole/banausos, Xenophon/Aristotle), Confucian self-cultivation (junzi/xiushen/xiaoren), the Hindu four aims of life (purusharthas), and Ubuntu relational personhood (botho/unhu/utu) — with the commodification of time under wage labor as the mechanism of the collapse; created life_well_spent_across_cultures.org with a one-directional cross-link to cognitive_fitness.org.
+
+
 ## 2026-09-10: Ingest — Lage der Nation Plus LdN490: Pazifismus {#2026-09-10-ingest-lage-der-nation-plus-ldn490-pazifismus}
 
 -   **Source type:** podcast
@@ -277,3 +286,12 @@ Append-only log of all wiki ingest, query, and lint operations.
 -   **Topics updated:** lage_der_nation.org
 -   **Coverage check:** ~60 named-entity candidates scanned, 4 substantive gaps filled (NATO-Doppelbeschluss/Friedensbewegung-der-80er debate, "Team Vorsicht" risk-analogy, Operation Barbarossa reference, Olaf Scholz mention)
 -   **Summary:** Ingested LdN490, Philip Banse and Ulf Buermeyer's interview with philosopher Olaf L. Müller on absolute vs. relative pacifism, applying the framework throughout to the Russian invasion of Ukraine — nonviolent resistance in Slawutytsch, the peaceful collapse of the USSR, nuclear-war risk (Cuban Missile Crisis, Stanislav Petrov), the Munich 1938 appeasement debate, the failed spring-2022 negotiations, the precedent argument, and Müller's own moral guilt toward Ukraine.
+
+
+## 2026-09-18: Ingest — Vocea Nației Episode #332: Problema de aliniere {#2026-09-18-ingest-vocea-nației-episode-332-problema-de-aliniere}
+
+-   **Source type:** youtube
+-   **Topics created:** vocea_natiei_332.org
+-   **Topics updated:** vocea_natiei.org, ai_alignment.org, attention_economy.org, wellbeing_economy.org
+-   **Coverage check:** source was a NotebookLM-generated summary (not a raw transcript; \`nlm source add --youtube\` fetch failed — video not accessible to the NLM account); all named entities, quotes, and examples in the pasted notes verified present in the synthesis — 0 gaps.
+-   **Summary:** Ingested Vocea Nației #332, arguing that the AI alignment problem (OpenAI/Anthropic sandbox-escape incidents, the boat-race reward-hacking example, the Paperclip Maximizer) is political as well as technical — echoing the social-media engagement-optimization precedent — and drawing a parallel to humanity's own long-running alignment problem of maximizing GDP/profit/consumption over the climate and equity, illustrated by the massive water consumption of data centers (including two Romanian cases, Mișkii/Dolj and comuna Luna/Cluj) and a Jaron Lanier quote on building-and-owning "God."
