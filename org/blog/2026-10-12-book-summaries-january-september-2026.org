@@ -1,0 +1,522 @@
+:PROPERTIES:
+:ID:       3E7A1C24-9B5D-4C0E-A8F1-5D2B7E416C93
+:END:
+#+title: Book Summaries: January-September 2026
+#+SETUPFILE: setup.org
+#+filetags: :summary:books:
+#+date: 2026-10-12
+
+As I sit here in the morning it feels so strange just to reflect on the books I've read this year already. It's not the
+fact that I'm doing it, it's a recurring pattern I observe nowadays more often: *Thinking* (on your own) is *hard*! I could
+just let some LLM summarize the whole books for you and write this blog post for you, right? But what's the point? I
+mean, what would I gain from this? Training your intellect is still hard, doing deep work, ditto. But I guarantee you
+it's for your own mental health.
+
+
+That being said, this is a collection of book summaries for the books I read during ~January-September 2026~ categorized
+by topic/genre.
+
+* Philosophy
+** 📚 How to think like Socrates
+/Donald J. Robertson/ — [[https://www.goodreads.com/book/show/203578835-how-to-think-like-socrates][Goodreads]]
+
+#+html: {{< gbox src="/posts/img/2026/book-summaries-january-september-2026/how-to-think-like-socrates-cover.png" title="How to think like Socrates" caption="" pos="left" >}}
+
+After {{{zk_book(how-to-think-like-a-roman-emperor,How to think like a Roman Emperor)}}} I basically became a Robertson fan.
+
+#+begin_quote
+I know that I know nothing (Sokrates)
+#+end_quote
+
+This is one of the quotes my [[https://madincea.herder-oberschule.de/person.htm][mathematics teacher]] used to repeat at school. At that time I didn't know anything about
+Socrates. A few years later, I finally understood where the *Socratic method* of asking questions comes from. He was known
+for "asking a lot of questions" during his conversations, taking someone's confident definition (of something) and
+testing it against cases until contradictions arose. The point was not to beat his opponent's arguments.
+#+begin_sidenote
+The Sophists, however, were known for doing everything to win a dispute. They were basically the "influencers" of Athens at that time.
+#+end_sidenote
+The point was that discovering you *don't know something* is indeed a virtue.
+
+#+html: {{< notice info >}}
+What is virtue? It comes from the Greek word /arete/. In our modern world people would translate it to "excellence" and refer to the qualities that make someone exceptionally good. 
+#+html: {{< /notice >}}
+
+
+Socrates was sentenced to death for /impiety/ (not recognizing the gods of the city and introducing new ones) and
+for /corrupting the youth/ of Athens (mainly because he taught them how to think and question everything). Long before
+that, Socrates' friend /Chaerephon/ had asked the /Oracle of Delphi/ whether anyone was wiser than Socrates. The answer was:
+"no one is wiser". Socrates couldn't believe it, so he treated the oracle's answer as something to be /tested/ and
+"interrogated" politicians, poets and craftsmen in order to find someone wiser. He came to the conclusion that the
+oracle was right: he was indeed the wisest person, but only in this narrow sense: /he alone did not think he knew what he
+did not know/.
+
+The link to {{{zk_tag(stoicism,Stoicism)}}} is direct: *Zeno of Citium* came to philosophy after reading about Socrates.
+
+** 📚 Meditations
+/Marcus Aurelius/ — [[https://www.goodreads.com/book/show/233411514-meditations][Goodreads]]
+
+#+html: {{< gbox src="/posts/img/2026/book-summaries-january-september-2026/meditations-marcus-aurelius.png" title="Meditații (Romanian edition)" caption="" pos="left" >}}
+
+I'd been circling this one for years already. I read {{{zk_book(how-to-think-like-a-roman-emperor,How to think like a Roman
+Emperor)}}} first, and back then I wrote that I still wanted to read the /Meditations/ itself. It took until September 2026.
+And it was a *huge disappointment*. Let me explain.
+
+
+Reading it after the secondary literature was the right thing for me. Robertson's book gave me the biographical
+background and made me curious to read more about Marcus Aurelius in the first place.
+#+begin_sidenote
+Read my notes about [[/2026/02/27/book-summaries-april-december-2025/#how-to-think-like-a-roman-emperor][How to think like a Roman emperor]]
+#+end_sidenote
+Afterwards, I thought, it would make sense to go back to the source (/Meditations/) and read more about his thoughts. I've
+found the book to be quite chaotic and not very easy to understand. When I showed some friends that I bought the book,
+all they said was: "I stopped when Marcus started to thank his ancestors". And that part was at the very
+beginning. Maybe I didn't put in enough mental energy to deep-dive, but I gave up reading the book after 3/4 of it. I
+plan to maybe listen to some Blink (in the Blinkist app) to get like the core ideas. But overall, I would *not* 
+recommend you start your Stoic journey by reading Meditations.
+
+* Politics
+** 📚 Blueprint for Revolution
+/Srdja Popović/ — [[https://www.goodreads.com/book/show/22609404-blueprint-for-revolution][Goodreads]]
+
+#+html: {{< gbox src="/posts/img/2026/book-summaries-january-september-2026/blueprint-for-revolution-cover.png" title="Blueprint for Revolution" caption="" pos="left" >}}
+
+Full subtitle: /"How to Use Rice Pudding, Lego Men, and Other Nonviolent Techniques to Galvanize Communities, Overthrow
+Dictators, and Save the World"/. Which was appealing enough.
+
+Popović was one of the founders of *Otpor!*, the Serbian student movement that played a central role in bringing
+down [[https://en.wikipedia.org/wiki/Milosevic][Milošević]] in 2000. He later went on to train activists elsewhere through CANVAS.
+
+The central claim is that successful *nonviolent* movements are *built, not spontaneous*, and that they follow certain
+patterns:
+
+- Every revolution has to be prepared (years!) in advance before taking place. Winning small fights first was just as
+  important as finding the right people.
+
+  #+begin_quote
+  Proper revolutions are not cataclysmic explosions; they are long, controlled burns.
+  #+end_quote
+
+- You don't fight the dictator! You have to shake his /pillars/. No regime is self-sufficient. You need ordinary people
+  who are loyal enough to execute the orders. Popović's strategy was to peel away those "pillars" (e.g. pressuring
+  foreign companies to pull their money out of the country, scaring tourists away from visiting the country) rather than confronting the
+  regime directly.
+
+- Make fun of the regime! Facing Milošević's secret police, activists painted his face on a *barrel*, put it on a busy
+  street with a bat, and let people take turns hitting it for a coin. When police showed up, they had two options:
+  arrest ordinary shoppers and look like thugs, or arrest a barrel and look ridiculous. They arrested the barrel. It
+  made front pages.
+
+- Unite the opposition. At that time Serbia's opposition parties had fought and fractured for years, which is exactly why
+  Milošević could stay in power for so long. Otpor's contribution before the 2000 election was to force the
+  opposition leaders to unite behind a single candidate, under one coalition. This way all parties (despite their
+  political programs and ideologies) had the same goal: Bring Milošević down! If the opposition hadn't agreed on
+  this, all the preparation and activism would have been wasted (because the vote would have split and the regime would have won
+  by default).
+
+  #+begin_quote
+  Parties are the guardians of democracy.
+  #+end_quote
+
+  (Quote from {{{zk_book(how-democracies-die,How Democracies Die)}}}, Levitsky & Ziblatt. Parties act as gatekeepers /before/ an
+  authoritarian takes power, screening out extremist candidates. Otpor showed the other half of that logic. /After/ an
+  authoritarian is already in power, opposition parties have to unite behind one candidate to remove him.)
+
+#+html: {{< notice info >}}
+*Where has CANVAS been active?* Popović's CANVAS has trained activists in more than 50 countries since 2004, including
+Iran, Zimbabwe, Burma, Venezuela, Ukraine, Georgia, Belarus, Azerbaijan, Tunisia and Egypt.
+#+html: {{< /notice >}}
+
+Hungary is a recent case. CANVAS published an analysis of Tisza's landslide win over Orbán in the April 2026
+parliamentary election, tracing Péter Magyar's path from inside Fidesz to leading the movement that ended Orbán's
+16-year rule (Tisza won 141 of 199 seats on 53.6% of the vote, a two-thirds supermajority). Check out [[https://canvasopedia.org/][canvasopedia.org]]
+for further details.
+** 📚 Earth4All
+/Sandrine Dixson-Declève, Owen Gaffney, Jayati Ghosh, Jørgen Randers, Johan Rockström & Per Espen Stoknes/ — [[https://www.goodreads.com/book/show/60878390-earth-for-all][Goodreads]]
+• {{{zk_book(earth4all,Notes)}}}
+
+#+html: {{< gbox src="/posts/img/2026/book-summaries-january-september-2026/earth4all-cover.png" title="Earth for All" caption="" pos="left" >}}
+
+
+The Earth4All model is the successor of World3, the model behind {{{zk_topic(limits-to-growth,The Limits to Growth)}}}
+(1972). Jørgen Randers worked on both. What the new model adds:
+
+- *Ten regions* instead of one global average, so growth in one part of the world no longer hides stagnation in another
+- *Inequality* is modelled explicitly, which World3 didn't do
+- Two new indicators, the *Average Wellbeing Index* and the *Social Tension Index*. When wellbeing declines, tension
+  rises, trust erodes and governments lose the ability to act
+- Calibrated against real data from 1980 to 2020, then run forward to 2100
+
+This book outlines 2 scenarios which, in the context of today's global crises (climate breakdown, rising
+inequality, eroding trust in institutions), might have a big impact on humanity:
+
+- *"Too Little Too Late"*
+
+  #+begin_quote
+  Scenario 1: Too Little Too Late. This scenario shows the potential consequences of continuing world development along
+  the same dynamics as 1980 to 2020. The overall global result is a somewhat slowing population growth and world economic
+  growth to 2050 and beyond, but also declining labor participation rates, declining trust in government, a steady
+  increase in the ecological footprint, and rising loss in biodiversity.
+  #+end_quote
+  
+  This is definitely not a do-nothing scenario. This scenario implies that the
+  world leaders don't take enough action to combat all the challenges humanity
+  is facing. There are some actions but these are slow:
+  
+  - /some/ climate action
+  - /some/ social spending
+  - people trust in /market self-regulation/
+    
+  The result: temperatures overshoot well past 1.5°C (heading toward 2.5°C by
+  2100), inequality keeps widening, and social tensions keep rising. All
+  this triggers more frequent economic and ecological /shocks/ that make
+  coordinated action even harder going forward.
+
+- *"Giant Leap"*
+
+  #+begin_quote
+  As our second scenario, we chose Giant Leap, which illustrates the effects of the powerful and immediate
+  implementation of the five extraordinary policy turnarounds. Its passage through the century is driven not by
+  tinkering at the fringes but by fundamentally reconfiguring economies, energy systems, and food systems. It's a major
+  upgrade. A reset. An essential reboot of civilization's guiding rules before the system crashes. Due to inertia in
+  economies and in the climate, the main impacts of any action taken today are often not seen for years in economies and
+  decades or centuries in the climate. We believe that nothing less than a "giant leap" now is needed if humanity is
+  serious about turning around from the current trajectory and getting on a new track to a sustainable world by 2050.
+  #+end_quote
+  
+  Five simultaneous policy turnarounds, each quantified rather than aspirational:
+
+  | Turnaround           | Target                                                                                                              |
+  |----------------------+---------------------------------------------------------------------------------------------------------------------|
+  | Poverty              | ≥5%/yr growth for low-income countries until >$15,000 per person, plus reform of the international financial system |
+  | Inequality           | the richest 10% take less than 40% of national income                                                               |
+  | Empowerment of women | gender equity plus education and health investment, stabilising global population below 9 billion by 2050           |
+  | Food                 | a regenerative, nature-positive food system; no net cropland expansion                                              |
+  | Energy               | halve emissions roughly every decade to net-zero by 2050                                                            |
+
+The part I keep thinking about is the *Citizens Fund* / *Universal Basic Dividend* (UBD) proposal:
+
+| Element   | What the book proposes                                                                                                                                                              |
+|-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Fee       | companies pay for extracting or using shared commons (fossil fuels, land, freshwater, the ocean, minerals, the atmosphere, even data and knowledge)                                 |
+| Fund      | the fees go into a national Citizens Fund                                                                                                                                           |
+| Dividend  | the revenue is paid out equally to every citizen. It is deliberately not limited to the poorest, because the authors argue the middle class only supports a policy it benefits from |
+| Purpose   | economic security during the transformation, which the authors call an "innovation net" rather than just a safety net                                                               |
+| Precedent | the Alaska Permanent Fund has paid every resident a share of the oil revenues since 1976, typically $1,000 to $2,000 per year                                                       |
+
+Is this the same as Universal Basic Income? Not quite. UBI describes the payout (a regular income regardless of working
+status) and leaves open who pays for it. The UBD is defined by its source: it is a share of what the commons earn, not a
+transfer financed by taxes. The book treats the two as close relatives and speaks of "providing universal basic income
+through a *Citizens Fund*".
+
+
+#+html: {{< notice info >}}
+My {{{zk_book(earth4all,Earth4All book notes)}}} go deeper into all five turnarounds, and into the topics I've only touched
+here: the {{{zk_topic(earth4all-model,Earth4All model)}}}, the {{{zk_topic(giant-leaps,Giant Leaps)}}},
+the {{{zk_topic(wellbeing-economy,wellbeing economy)}}}, {{{zk_topic(planetary-boundaries,planetary boundaries)}}}
+and {{{zk_topic(social-tipping-points,social tipping points)}}}.
+#+html: {{< /notice >}}
+
+
+* Psychology
+** 📚 Reclaiming Conversation
+Sherry Turkle — [[https://www.goodreads.com/en/book/show/24612127-reclaiming-conversation][Goodreads]] • {{{zk_book(reclaiming-conversation,Notes)}}}
+
+#+html: {{< gbox src="/posts/img/2026/book-summaries-january-september-2026/reclaiming-conversation-cover.png" title="Reclaiming Conversation" caption="" pos="left" >}}
+
+This is a book that is a combination of {{{zk_book(digital-minimalism,Digital Minimalism)}}}
+and {{{zk_book(the-anxious-generation,The Anxious Generation)}}}. I've found Haidt very empirical whereas Turkle was somehow
+ethnographic: years of interviews in families, schools and workplaces.
+
+The book is organised around *Thoreau's three chairs*. Thoreau kept exactly three chairs in his
+Walden cabin:
+- one for *solitude*
+- one for *friendship*
+- one for *society*
+
+Turkle uses this as a map of what smartphones destroy: first our inner life, then our closest relationships,
+then our public life. She adds a fourth chair of her own: what happens when we talk to machines.
+
+- Even a silent phone degrades the conversation.
+
+  Face-down, switched off, doesn't matter. The fact it's just /there/ lowers connection (in that moment) and empathy with
+  the conversation partners. By anticipating interruption (why did we put the phone there at all?) we prefer light
+  topics instead of /deep/, focused conversations.
+  
+- Solitude is a skill, not a state.
+
+  The definition I already knew comes from {{{zk_book(digital-minimalism,Digital Minimalism)}}}, where Cal Newport
+  borrows it from /Lead Yourself First/ (Kethledge & Erwin):
+
+  #+begin_quote
+  {{{zk_topic(solitude,solitude)}}} is a subjective state in which your mind is /free from input from other minds/. It's about
+  what happens in your brain, not about the environment around you. You can be in solitude in a crowded café and miss it
+  completely alone in your room, scrolling.
+  #+end_quote
+
+  Turkle separates two things we often mix up (the distinction comes from /Paul Tillich/):
+
+  - /Loneliness/ is the pain of being alone
+  - /Solitude/ is the "glory" of being alone
+
+  We learn solitude as children through good relationships with other people. If we never learn it, being alone
+  always feels like loneliness (so we reach for the phone). And that's exactly the mantra of the book: *constant connection makes
+  us lonelier*.
+  
+- Boredom is good.
+
+  We're bored because we're used to a constant influx of information. We need space and time for our mind to wander
+  and come up with new ideas. Johann Hari describes this in {{{zk_book(stolen-focus,Stolen Focus)}}}: when we seem to be
+  doing nothing, the brain's /default mode network/ becomes active. A wandering mind makes new connections between
+  things it already knows. And that's where new ideas come from.
+  
+- "I share, therefore I am."
+
+  #+begin_quote
+  And, more than a symptom, constant connection is changing the way people think of themselves. It is shaping a new way
+  of being. I call it "I share, therefore I am." We share our thoughts and feelings in order to feel whole.
+  #+end_quote
+  
+  I think this is nothing new and we all know it: Folks who have to share every single moment of their life as if the
+  whole world watches them.
+
+  But Turkle means something deeper than showing off:
+
+  - /Before/: you have a feeling, you deal with it on your own, and then (maybe) you tell someone about it
+  - /Now/: you have to share the feeling in order to feel it at all
+
+  Turkle puts it like this:
+
+  #+begin_quote
+  /"I want to have a feeling; I need to send a text."/
+  #+end_quote
+
+  People who grew up with social media told her they can't feel like themselves unless they are posting or messaging.
+  Sharing is no longer what you do /after/ an experience. It has become part of the experience: without the post, it
+  doesn't feel real.
+  
+- We are vulnerable, not addicted.
+
+  Turkle doesn't like calling our phone use an "addiction". The word matters, because it decides what the solution
+  looks like:
+
+  
+  | Word       | What it means for the solution                                                                                                                                    |
+  |------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | Addicted   | the only way out is to quit completely. But nobody can realistically live without a phone.                                                                        |
+  | Vulnerable | the phone is built to exploit our weak spots (boredom, loneliness, the fear of missing out). Once we know where these are, we can protect them and keep the phone |
+
+  #+begin_quote
+  If you are addicted, you have to get off your drug. If you are vulnerable, you can work to be less vulnerable.
+  #+end_quote
+
+  I find this much more useful in practice.
+
+The virtuous circle she describes is the thesis in one line:
+
+#+begin_example
+solitude → self-knowledge → empathy → richer conversation → deeper solitude
+#+end_example
+
+Break it at any point and the whole thing degrades.
+
+* Technology
+** 📚 Software Engineering at Google
+Titus Winters, Tom Manshreck & Hyrum Wright — [[https://www.goodreads.com/book/show/48816586-software-engineering-at-google][Goodreads]] • {{{zk_book(software-engineering-at-google,Notes)}}}
+
+#+html: {{< gbox src="/posts/img/2026/book-summaries-january-september-2026/software-engineering-at-google-cover.png" title="Software Engineering at Google" caption="" pos="left" >}}
+
+What is Software Engineering about nowadays? It used to be a discipline which took years (decades!) to master, where more
+and more sophisticated software was "engineered" to deal with complex topics. But what about today? Every dev is now a
+senior, every dev is now a (software) architect.
+
+From the book (definition of "coding"):
+
+#+begin_quote
+Programming is certainly a significant part of software engineering: after all, programming is how you generate new
+software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate
+between programming tasks (development) and software engineering tasks (development, modification, maintenance). The
+addition of time adds an important new dimension to programming. Cubes aren't squares, distance isn't velocity. Software
+engineering isn't programming.
+#+end_quote
+
+Definition of "software engineering":
+
+#+begin_quote
+We propose that "software engineering" encompasses not just the act of writing code, but all of the tools and processes
+an organization uses to build and maintain that code over time.
+#+end_quote
+
+So, software engineering is way more than just ... writing code. Writing the actual code is just one step. Thinking
+about the problem, modeling it, thinking about different solutions/aspects, coming up with a PoC, implementing, testing,
+deploying it, maintaining it, incorporating customer feedback. All this is what software engineering is about.
+
+From a technical point of view, Google has standardized quite a lot for its teams:
+
+
+| Area                                                                                  | What every team at Google uses                                                                                                                                  |
+|---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Version control                                                                       | one monorepo and {{{zk_topic(trunk-based-development,trunk-based development)}}}: no long-lived branches, all commits go to head                                |
+| Dependencies                                                                          | the One-Version Rule: nobody gets to choose "which version of this component should I depend on?"                                                               |
+| Build system                                                                          | one artifact-based build system (Blaze, open-sourced as Bazel), external dependencies pinned in source control                                                  |
+| Style                                                                                 | one style guide per language, enforced by formatters and linters wherever possible                                                                              |
+| Code review                                                                           | every change needs three approvals: correctness (any engineer), readability (language-certified) and owner (OWNERS file)                                        |
+| Testing and CI                                                                        | a test pyramid of roughly 80% unit, 15% integration and 5% end-to-end tests, one {{{zk_topic(continuous-integration,CI)}}} system (TAP) validating every commit |
+| {{{zk_topic(lessons-from-building-static-analysis-tools-at-google,Static analysis)}}} | runs inside the code review tool (Critique), not only in CI                                                                                                     |
+| Code Search                                                                           | one fast search over all the code                                                                                                                               |
+| Large-scale changes                                                                   | automated tooling for changes touching thousands of files, such as an API rename across the whole codebase                                                      |
+| Compute                                                                               | Borg, the ancestor of {{{zk_topic(kubernetes,Kubernetes)}}}: declare the desired state and the scheduler places the job                                         |
+
+
+Apart from the technical aspects, I've enjoyed the /cultural/ ones even more. What is leadership about? How to deal with
+superstars and geniuses? How to lead a team?
+
+- The /Genius Myth/.
+
+  We romanticize lone geniuses (Linus, Guido, Gates), but success is always a team effort. Working alone in your "cave"
+  only delays the moment somebody spots your design mistakes. It also keeps the /bus factor/ low: the number of people
+  who need to be hit by a bus before the project is doomed.
+
+- {{{zk_topic(psychological-safety,Psychological safety)}}} comes first.
+
+  It's the most critical factor for an effective team, backed by Google's own research. If people are afraid of making
+  mistakes, they stop asking questions and stop being transparent. The result: /information islands/, /single points of
+  failure/ and /haunted graveyards/ (code nobody dares to touch).
+
+- Jerks are not good leaders.
+
+  This is the answer to the superstar question. Expertise and kindness are not mutually exclusive, and a "brilliant jerk"
+  is harmful to knowledge sharing no matter how good the code is.
+
+  #+begin_quote
+  Leaders improve the quality of the people around them, improve the team's psychological safety, create a culture of
+  teamwork and collaboration, defuse tensions within the team, set an example of Google's culture and values, and make
+  Google a more vibrant and exciting place to work. Jerks are not good leaders.
+  #+end_quote
+
+- Resist the urge to manage.
+
+  Leadership here means /servant leadership/: remove obstacles, build consensus, shield the team from the chaos above.
+  See also {{{zk_topic(engineering-management,engineering management)}}}.
+
+  #+begin_quote
+  Traditional managers worry about how to get things done, whereas great managers worry about what things get done (and
+  trust their team to figure out how to do it).
+  #+end_quote
+
+- /Always be leaving/.
+
+  The goal is a team that solves the problem by itself, without you. If you can't take a week off without checking
+  email, you've made yourself a single point of failure.
+
+I would definitely recommend reading this book, not necessarily for the practical /technical/ advice it includes. I think
+the cultural aspects are something every big corp should incorporate.
+
+** 📚 Team Topologies
+Matthew Skelton & Manuel Pais — [[https://www.goodreads.com/book/show/44135420-team-topologies][Goodreads]]
+
+#+html: {{< gbox src="/posts/img/2026/book-summaries-january-september-2026/team-topologies-cover.png" title="Team Topologies" caption="" pos="left" >}}
+
+After reading {{{zk_book(accelerate,Accelerate)}}} I definitely wanted to read more about this topic. However, it took more
+than 4 years to finally read this book.
+
+The starting point is *{{{zk_topic(conways-law,Conway's Law)}}}*: organisations produce designs that mirror their own
+communication structures. Skelton and Pais come up with the "inverse Conway manoeuvre", where you deliberately shape
+teams to produce the architecture you want.
+
+From there: four team types (*stream-aligned*, *enabling*, *complicated-subsystem*, *platform*) and
+three interaction modes (*collaboration*, *X-as-a-Service*, *facilitating*). Most teams should be
+stream-aligned; everything else exists to reduce the *cognitive load* on those teams.
+
+Team types:
+
+- Stream-aligned
+
+  #+begin_quote
+  A stream-aligned team is a team aligned to a single, valuable stream of work; this might be a single product or
+  service, a single set of features, a single user journey, or a single user persona.
+  #+end_quote
+
+- Enabling
+
+  #+begin_quote
+  The end goal of an enabling team is to increase the autonomy of stream-aligned teams by growing their capabilities
+  with a focus on their problems first, not the solutions per se.
+  #+end_quote
+
+- Complicated-subsystem
+
+  #+begin_quote
+  A complicated-subsystem team is responsible for building and maintaining a part of the system that depends heavily on
+  specialist knowledge, to the extent that most team members must be specialists in that area of knowledge in order to
+  understand and make changes to the subsystem.
+  #+end_quote
+
+- Platform
+
+  #+begin_quote
+  The purpose of a platform team is to enable stream-aligned teams to deliver work with substantial autonomy. The
+  stream-aligned team maintains full ownership of building, running, and fixing their application in production.
+  #+end_quote
+
+Interaction modes:
+- Collaboration: working closely together with another team
+- X-as-a-Service: consuming or providing something with minimal collaboration (to another team)
+- Facilitating: helping (or being helped by) another team to clear impediments
+
+
+Besides Conway's Law I've found the concept of /cognitive load/ something that most organizations don't think about.
+Whenever you put individuals into teams, you should draw clear team boundaries as well: What is within the
+team's responsibility and what is not. That should not be decided from above or according to some org chart. When a team owns
+more than it can hold in its /collective/ head, symptoms such as slow delivery, poor software quality and long processes
+should not be ignored. Reorganising the people won't fix it if you don't reduce the cognitive load that team has to handle.
+
+It reads well alongside {{{zk_book(software-engineering-at-google,Software Engineering at Google)}}}. Google's answer to
+cognitive load is enormous investment in tooling and platform teams, which is essentially the Team Topologies platform
+pattern with a very large budget behind it.
+
+* Biographies
+** 📚 26 Marathons
+Meb Keflezighi & Scott Douglas — [[https://www.goodreads.com/book/show/37901578-26-marathons][Goodreads]]
+
+#+html: {{< gbox src="/posts/img/2026/book-summaries-january-september-2026/26-marathons-cover.png" title="26 Marathons" caption="" pos="left" >}}
+
+I have never ran a marathon in my life. I barely managed to run 10km but that's it. Some colleague from Cashlink (Thanks Anca!) recommended me this book which I've found very inspiring. 
+
+* Fiction
+** 📚 88 Names
+Matt Ruff — [[https://www.goodreads.com/book/show/44148558-88-names][Goodreads]]
+
+#+html: {{< gbox src="/posts/img/2026/book-summaries-january-september-2026/88-names-cover.png" title="88 Namen (German edition)" caption="" pos="left" >}}
+
+My one piece of fiction this year, which I got as a gift. I was told:
+
+#+begin_quote
+Well, you should know about Matt Ruff. He's a famous SciFi author.
+#+end_quote
+
+So, what is the story about? John Chu is a *"sherpa"*, a paid guide who walks rich clients through online role-playing
+games, supplying top-tier characters and gear for their adventures. Then he takes on a mysterious client claiming to be
+a North Korean prince, and the job drags him into real-world political intrigue.
+
+It's part cyberthriller, part fairly twisted romantic comedy. My main takeaway: *Identity is fluid online and nothing can
+be taken at face value*. As the story ends, I definitely didn't expect THOSE real people behind the characters.
+
+Not a profound book but somehow an entertaining one.
+
+* Le Fin
+
+As I'm writing this last chapter I realize I've spent more than 3 hours putting down thoughts
+#+begin_sidenote
+Yes, of course, I use LLMs to search through my notes and sources just to make sure I got it right.
+#+end_sidenote
+about the books I've read. The year is not yet over and till December I will definitely read 1-3 more books. Writing
+this post has been some sort of "technical debt" which I've postponed way too long. Now, I'm kind of proud of myself that I
+have finally done it.
+
+
+#+html: {{< notice info >}}
+You can check out all the books I've rated on [[https://www.goodreads.com/user/show/121423977-victor-dorneanu][my Goodreads profile]]. I also maintain a {{{zk_topic(books/todo/,to-read list)}}}
+with books that I plan to read in the future.
+#+html: {{< /notice >}}
+
+
