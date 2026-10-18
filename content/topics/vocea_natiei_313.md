@@ -1,6 +1,7 @@
 +++
 title = "Vocea Natiei #313"
 author = ["Dorneanu"]
+slug = "vocea-natiei-313"
 tags = ["podcast", "youtube", "educatie", "munca", "ai"]
 draft = false
 +++
