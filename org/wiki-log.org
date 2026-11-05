@@ -393,3 +393,15 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* vocea_natiei.org, ai_alignment.org, attention_economy.org, wellbeing_economy.org
 - *Coverage check:* source was a NotebookLM-generated summary (not a raw transcript; `nlm source add --youtube` fetch failed — video not accessible to the NLM account); all named entities, quotes, and examples in the pasted notes verified present in the synthesis — 0 gaps.
 - *Summary:* Ingested Vocea Nației #332, arguing that the AI alignment problem (OpenAI/Anthropic sandbox-escape incidents, the boat-race reward-hacking example, the Paperclip Maximizer) is political as well as technical — echoing the social-media engagement-optimization precedent — and drawing a parallel to humanity's own long-running alignment problem of maximizing GDP/profit/consumption over the climate and equity, illustrated by the massive water consumption of data centers (including two Romanian cases, Mișkii/Dolj and comuna Luna/Cluj) and a Jaron Lanier quote on building-and-owning "God."
+
+* 2026-11-05: Ingest — Leaders Eat Last (Simon Sinek)
+:PROPERTIES:
+:DATE:     2026-11-05
+:TYPE:     ingest
+:SOURCE:   Leaders Eat Last: Why Some Teams Pull Together and Others Don't (Simon Sinek, 2014)
+:END:
+- *Source type:* book
+- *Topics created:* leadership.org, dopamine.org, cortisol.org, endorphins.org (plus book page org/books/done/leaders_eat_last.org)
+- *Topics updated:* oxytocin.org, serotonin.org, attention_economy.org, psychological_safety.org
+- *Focus:* (1) the chemicals — endorphins, dopamine, serotonin, oxytocin, cortisol; (2) leadership beyond management and work — parenting, friendship, adolescence, addiction recovery, shared struggle. Management-specific material (incentive schemes, Boomer/Gen Y history, Glass-Steagall, corporate case studies) was deliberately left out apart from examples that illustrate the above.
+- *Summary:* Ingested Sinek's book chapter-by-chapter around the E.D.S.O. chemicals (Ch. 6–8), cortisol and work-life balance (Ch. 7), dopamine addiction and AA's Step Twelve (Ch. 22, 25), phones and social media (Ch. 24), and shared struggle (Ch. 26–27); filled the empty oxytocin stub and extended serotonin.

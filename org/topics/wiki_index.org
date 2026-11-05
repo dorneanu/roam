@@ -94,6 +94,10 @@ Updated automatically on every ingest.
 - [[id:faffc96d-bac0-4b98-9691-62ead0171129][Cognitive offloading]] — transferring thinking, decision-making, or skill practice onto AI; the Whispering Earring parable, the calculator/mastery debate, procedural vs. declarative knowledge and comprehension debt, and accountability/decision-ownership arguments from a 2026 HN discussion
 - [[id:31b5edde-c545-4e72-8129-fd82a627cfaf][Autonomy-supportive coaching]] — leadership style that gradually transfers control to the learner, building intrinsic motivation and resilience
 - [[id:e5fa4d72-6f73-4473-a71b-62fc8f81facf][Unstructured play]] — child-directed unsupervised play essential for conflict resolution, risk assessment, and emotional regulation
+- [[id:41898058-fd6b-48c5-bbbd-513625f4e3b2][Leadership]] — leadership as a choice to look after the people in your care, at home, in friendships and recovery as well as at work; the cost of leadership, leadership as parenting (Sinek)
+- [[id:b561773c-b424-4366-97ff-a08da298f90f][Dopamine]] — the reward chemical of progress and instant gratification; goals must be tangible, and the same mechanism drives addiction to alcohol, gambling, phones and social media
+- [[id:b57f02f1-5f51-4426-a6e4-c3cf721c9cd5][Cortisol]] — the early-warning stress chemical; chronic low-grade cortisol damages health and trust, and oxytocin from supportive relationships counters it
+- [[id:c14c7068-96d8-41be-8033-67cbe15cb448][Endorphins]] — the body's own opiates: masking pain to enable endurance, runner's high, laughter
 
 * Health
 - [[id:b331244a-19e4-4f88-ba9f-e8b6d70c2871][Vitamin D]] — secosteroid hormone regulating ~1,000–2,000 genes; deficiency common at northern latitudes; RCT effects weaker than observational data suggest (confounding via sunlight proxy); D3+K2+Mg synergy; TARGET-D trial
