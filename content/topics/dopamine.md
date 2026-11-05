@@ -1,4 +1,54 @@
 +++
 title = "Dopamine"
+author = ["hermes"]
+tags = ["science", "psychology"]
 draft = false
 +++
+
+## Overview {#overview}
+
+Dopamine is the reward chemical of _progress_: it fires when we find something we were looking for, hit a milestone or finish a task. It is fast, short-lived and goal-driven — the "selfish" chemical (with [endorphins]({{< relref "endorphins.md" >}})) that got our ancestors to hunt, gather and build. Its limit is that the feeling does not last: to feel it again we need the next goal, the next hit.
+
+
+## How it works {#how-it-works}
+
+_([Leaders Eat Last: Why Some Teams Pull Together and Others Don't]({{< relref "../books/leaders_eat_last.md" >}}), Ch. 6)_
+
+-   Each visible step toward a goal releases a little dopamine, with a bigger burst on arrival — like seeing a fruit tree grow larger as you walk toward it
+-   Goals therefore have to be **tangible**: written down, measurable, or clearly imaginable. A vague aim ("more", "the best") gives dopamine nothing to latch on to
+-   Bigger, harder goals give a bigger reward; there is no biological incentive to do nothing
+-   Contrast with [oxytocin]({{< relref "oxytocin.md" >}}): dopamine is instant gratification and excitement, oxytocin is slow, calm and long-lasting. A new relationship or job starts as dopamine and only becomes stable once trust (oxytocin) has built up
+
+
+## Dopamine and addiction {#dopamine-and-addiction}
+
+_([Leaders Eat Last: Why Some Teams Pull Together and Others Don't]({{< relref "../books/leaders_eat_last.md" >}}), Ch. 22)_
+
+-   Alcohol, nicotine, gambling, bingeing and shopping all release dopamine; the addictions differ only in the behaviour that gets reinforced
+-   Alcohol works as a shortcut for the courage and relief that people would otherwise get from other people. Sinek's point about adolescence: the way we learn to cope with insecurity as teenagers tends to become our default coping strategy for life — hence the value of supportive parents, family dinners, team sports and hobbies
+-   Dopamine works for everyone **alone and immediately**, which is what makes it so easy to substitute for relationships that take time and effort
+
+
+## Phones and social media {#phones-and-social-media}
+
+_([Leaders Eat Last: Why Some Teams Pull Together and Others Don't]({{< relref "../books/leaders_eat_last.md" >}}), Ch. 6 and Ch. 24)_
+
+-   The ding, buzz or flash of a notification, and the like count, are dopamine triggers; many people check their phone before they get out of bed
+-   Sinek's (speculative) claim: part of the rise in attention problems among young people is an addiction to distraction rather than "ADHD" proper
+-   Impatience ("see it and get it") follows: commitment, grit and service need sustained effort over months, which dopamine alone does not reward
+-   Symbolic gestures (sharing a campaign, wearing a coloured wristband for a cause) give the dopamine hit of "doing good" without the sacrifice that triggers [serotonin]({{< relref "serotonin.md" >}}) or [oxytocin]({{< relref "oxytocin.md" >}})
+-   Related: [Attention economy]({{< relref "attention_economy.md" >}})
+
+
+## Balance {#balance}
+
+_([Leaders Eat Last: Why Some Teams Pull Together and Others Don't]({{< relref "../books/leaders_eat_last.md" >}}), Ch. 8)_
+
+-   Dopamine on its own produces achievement without fulfilment: "we live lives of quick hits, in search of the next rush", however rich or powerful we get
+-   The opposite failure also exists: all oxytocin and no goals leaves you loved but feeling like a failure. The aim is balance between the progress chemicals and the bonding chemicals
+-   Lasting happiness and loyalty need other people: we rarely reminisce about a goal reached a decade ago, but we talk about the friends we made while struggling towards it
+
+
+## Resources {#resources}
+
+-   2026-11-05 ◦ [Leaders Eat Last: Why Some Teams Pull Together and Others Don't]({{< relref "../books/leaders_eat_last.md" >}}) (Simon Sinek, 2014) — Chapters 6, 22 and 24: dopamine as the chemical of progress and of modern addictions, including phones and social media

@@ -105,6 +105,10 @@ Updated automatically on every ingest.
 -   [Cognitive offloading]({{< relref "cognitive_offloading.md" >}}) — transferring thinking, decision-making, or skill practice onto AI; the Whispering Earring parable, the calculator/mastery debate, procedural vs. declarative knowledge and comprehension debt, and accountability/decision-ownership arguments from a 2026 HN discussion
 -   [Autonomy-supportive coaching]({{< relref "autonomy_supportive_coaching.md" >}}) — leadership style that gradually transfers control to the learner, building intrinsic motivation and resilience
 -   [Unstructured play]({{< relref "unstructured_play.md" >}}) — child-directed unsupervised play essential for conflict resolution, risk assessment, and emotional regulation
+-   [Leadership]({{< relref "leadership.md" >}}) — leadership as a choice to look after the people in your care, at home, in friendships and recovery as well as at work; the cost of leadership, leadership as parenting (Sinek)
+-   [Dopamine]({{< relref "dopamine.md" >}}) — the reward chemical of progress and instant gratification; goals must be tangible, and the same mechanism drives addiction to alcohol, gambling, phones and social media
+-   [Cortisol]({{< relref "cortisol.md" >}}) — the early-warning stress chemical; chronic low-grade cortisol damages health and trust, and oxytocin from supportive relationships counters it
+-   [Endorphins]({{< relref "endorphins.md" >}}) — the body's own opiates: masking pain to enable endurance, runner's high, laughter
 
 
 ## Health {#health}

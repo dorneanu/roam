@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e343fcec-6ed1-4e30-91c0-66c6c0a79da8
+:END:
+#+title: Leaders Eat Last: Why Some Teams Pull Together and Others Don't
+#+filetags: :book:
+#+date: 2026-10-19
+
+* Leaders Eat Last: Why Some Teams Pull Together and Others Don't
+  :PROPERTIES:
+  :FINISHED: 2026-10
+  :END:
+** Description
+Simon Sinek (2014) argues that humans are social animals whose behaviour is steered by a handful of chemicals — endorphins, dopamine, serotonin, oxytocin and cortisol — and that leaders, in any group, are the people who create (or destroy) the conditions in which those chemicals reward cooperation. His central image is the *Circle of Safety*: a perimeter of trust that leaders build by taking responsibility for the people in their care ("leaders eat last"). Topic notes derived from the book are linked from [[id:41898058-fd6b-48c5-bbbd-513625f4e3b2][Leadership]], [[id:b561773c-b424-4366-97ff-a08da298f90f][Dopamine]], [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][Serotonin]], [[id:cacce695-0420-4ecb-8ea4-77d8fa31de28][Oxytocin]], [[id:b57f02f1-5f51-4426-a6e4-c3cf721c9cd5][Cortisol]] and [[id:c14c7068-96d8-41be-8033-67cbe15cb448][Endorphins]].

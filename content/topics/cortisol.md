@@ -1,4 +1,42 @@
 +++
 title = "Cortisol"
+author = ["hermes"]
+tags = ["science", "health", "psychology"]
 draft = false
 +++
+
+## Overview {#overview}
+
+Cortisol is the early-warning chemical: the anxiety and unease we feel when something might be wrong. It is meant to fire when a threat appears and leave when the threat has passed (adrenaline then supplies the energy to fight or flee if the threat is real). Problems begin when it stays in the system — and in modern life the "threat" is often social: feeling alone, unsupported or unsafe among the people around us.
+
+
+## How it works {#how-it-works}
+
+_([Leaders Eat Last: Why Some Teams Pull Together and Others Don't]({{< relref "../books/leaders_eat_last.md" >}}), Ch. 7)_
+
+-   In social mammals one individual's alarm spreads to the whole herd (gazelles lifting their heads) — Sinek's analogy for rumours of layoffs spreading through an office
+-   The body doesn't judge whether the danger is real; the thinking brain then hunts for a cause, which is how cortisol turns into paranoia, blame and rumination
+-   Cortisol is released when we feel vulnerable and alone, [oxytocin]({{< relref "oxytocin.md" >}}) when we are with our tribe. Cortisol also **inhibits** oxytocin, so chronic stress makes us more selfish and less empathic, and the vicious cycle feeds itself
+
+
+## Health costs {#health-costs}
+
+_([Leaders Eat Last: Why Some Teams Pull Together and Others Don't]({{< relref "../books/leaders_eat_last.md" >}}), Ch. 7)_
+
+-   Chronic low-grade cortisol disturbs glucose metabolism, raises blood pressure and inflammation, impairs concentration, increases aggression and suppresses sex drive
+-   The body shuts down "non-essential" functions during a threat — including the immune system — so a low-trust environment means more illness. Sinek links this to rates of heart disease and cancer (he is explicit that stress is not the sole cause)
+-   We adapt to chronic stress like climbers at Everest base camp — it feels normal, but the body still pays
+
+
+## Where we feel safe {#where-we-feel-safe}
+
+_([Leaders Eat Last: Why Some Teams Pull Together and Others Don't]({{< relref "../books/leaders_eat_last.md" >}}), Ch. 7 and Ch. 25)_
+
+-   Sinek's definition of work-life balance has nothing to do with hours: it is about **where we feel safe**. If we are safe at home but not at work (or the reverse) we experience imbalance; strong relationships in both let oxytocin dampen cortisol
+-   "Cortisol can't work its black magic when we have someone by our side" — everyone who got through depression, loneliness, failure, a death or an addiction names a person who helped
+-   Those who are outside the group (the sick gazelle pushed to the edge of the herd) feel out of control and abandoned; Sinek ties severe isolation to antisocial behaviour, bullying victims and suicide among middle-aged men — a polemical argument, offered without strong evidence
+
+
+## Resources {#resources}
+
+-   2026-11-05 ◦ [Leaders Eat Last: Why Some Teams Pull Together and Others Don't]({{< relref "../books/leaders_eat_last.md" >}}) (Simon Sinek, 2014) — Chapter 7 ("The Big C"): cortisol as the chemical of stress and its effect on trust, health and work-life balance
