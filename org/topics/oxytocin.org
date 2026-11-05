@@ -12,27 +12,21 @@
 Oxytocin is the chemical of trust, love and friendship — the "warm and fuzzies". It makes us generous, empathic and social, and it works as a *social compass*: it tells us how vulnerable we can afford to be around someone. Unlike [[id:b561773c-b424-4366-97ff-a08da298f90f][dopamine]] it is slow and long-lasting; it builds with time spent together and leaves calm and safety rather than excitement. Sinek groups it with [[id:2b6e8820-a254-4138-ad80-dc71c97a8082][serotonin]] as the "selfless" chemicals.
 
 * How it is released
-/([[id:e343fcec-6ed1-4e30-91c0-66c6c0a79da8][Leaders Eat Last: Why Some Teams Pull Together and Others Don't]], Ch. 6)/
-
 - Doing something kind for someone, receiving kindness, or *merely witnessing* an act of generosity. This is why helping a stranger feels good and why stories of selfless acts inspire us ("paying it forward")
 - Physical contact: hugs, holding hands, handshakes, high-fives. Children deprived of touch have trouble forming trusting relationships later in life. A refused handshake at a deal signing makes both sides more nervous even if the contract is perfect
 - Time and shared vulnerability: the longer we know someone and the more trust is earned in both directions, the more it flows. Sinek's definition of love: giving someone the power to destroy us and trusting they won't use it
 - Belonging: the brain releases oxytocin in the presence of our tribe and [[id:b57f02f1-5f51-4426-a6e4-c3cf721c9cd5][cortisol]] when we feel vulnerable and alone. Seeing a photo of people who love us is enough to feel less alone
 
 * Effects
-/([[id:e343fcec-6ed1-4e30-91c0-66c6c0a79da8][Leaders Eat Last: Why Some Teams Pull Together and Others Don't]], Ch. 6 and Ch. 7)/
-
 - Boosts the immune system, lowers blood pressure, relieves stress and counters cortisol — which in turn inhibits oxytocin
 - Improves problem solving and opens the mind; it makes us more resistant to the addictive pull of dopamine
 - Sinek cites a 2011 PNAS study (3,800 people aged 52–79) in which the happiest participants were far less likely to die in the following five years, and a 2012 Duke study finding that people who never marry are more than twice as likely to die in midlife
 
 * Beyond work: relationships, addiction and hardship
-/([[id:e343fcec-6ed1-4e30-91c0-66c6c0a79da8][Leaders Eat Last: Why Some Teams Pull Together and Others Don't]], Ch. 25 and Ch. 26)/
-
 - Preliminary 2012 findings (UNC Chapel Hill) suggest oxytocin reduces withdrawal symptoms in alcoholics and heroin addicts. Sinek's example is Alcoholics Anonymous: meetings are held in person, people phone their sponsor rather than e-mail, and the final step is serving another alcoholic. Recovery works because the group is a real Circle of Safety, not a virtual one
 - Shared hardship bonds people: our fondest memories of work (or of school, a deployment, a bad trip) are the nights things went wrong and we got through it together, because struggle shared releases oxytocin. Soldiers often say they were "grateful" for a deployment they hated
 - Abundance has a cost: with less shared hardship there is less need to cooperate and so less oxytocin. We rarely help neighbours before the disaster, only after
 - Virtual relationships cannot substitute: likes and followers give a [[id:b561773c-b424-4366-97ff-a08da298f90f][dopamine]] hit with no sacrifice involved, whereas oxytocin requires time, presence and giving something up
 
 * Resources
-- 2026-11-05 ◦ [[id:e343fcec-6ed1-4e30-91c0-66c6c0a79da8][Leaders Eat Last: Why Some Teams Pull Together and Others Don't]] (Simon Sinek, 2014) — Chapters 6, 7, 25 and 26: oxytocin as the chemical of trust and belonging, and its role in stress, immunity, addiction recovery and shared hardship
+- 2026-11-05 ◦ [[id:e343fcec-6ed1-4e30-91c0-66c6c0a79da8][Leaders Eat Last: Why Some Teams Pull Together and Others Don't]] (Simon Sinek, 2014) — oxytocin as the chemical of trust and belonging, and its role in stress, immunity, addiction recovery and shared hardship
