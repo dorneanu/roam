@@ -90,7 +90,7 @@ As much as we all like the idea of being equal, the fact is we are not and never
 #+begin_quote
 It is a leader’s job instead to take responsibility for the success of each member of his crew. It is the leader’s job to ensure that they are well trained and feel confident to perform their duties.
 #+end_quote
-- Ch. 18 (So Goes the Leader, so Goes the Culture). About Captain David Marquet, who took over the submarine USS Santa Fe
+- Ch. 18 (So Goes the Leader, so Goes the Culture). About [[https://www.goodreads.com/book/show/16158601-turn-the-ship-around][Captain David Marquet]], who took over the submarine USS Santa Fe
 - Contrasts the leader as order-giver with the leader as the person responsible for his people's success
 
 #+begin_quote
@@ -108,7 +108,7 @@ It is a leader’s job instead to take responsibility for the success of each me
 #+begin_quote
 In his book, Turn the Ship Around!, Captain Marquet goes through all the specific steps he took—that any organization can take—to develop an environment in which those who know more, the people who are actually doing the work, are empowered to make decisions.
 #+end_quote
-- Ch. 18. Pointer to Marquet's own book (/Turn the Ship Around!/) for the practical steps
+- Ch. 18. Pointer to Marquet's own book ([[https://www.goodreads.com/book/show/16158601-turn-the-ship-around][/Turn the Ship Around!]]/) for the practical steps
 
 ** Purpose, struggle and abundance
 #+begin_quote
