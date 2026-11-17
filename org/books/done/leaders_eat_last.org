@@ -27,6 +27,7 @@ The wiki ingest follows two threads: the chemicals themselves, and what leadersh
 - [[id:b57f02f1-5f51-4426-a6e4-c3cf721c9cd5][Cortisol]] — stress and the early-warning system; health costs; work-life balance as "where we feel safe"
 - [[id:27fc80ff-3162-43aa-9e83-22c6c36e1793][Psychological safety]] — the team-level counterpart of the Circle of Safety
 - [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention economy]] — notifications and likes as dopamine triggers
+- [[id:426abdde-bd6f-4c40-9c09-15d625e918c6][Milgram's obedience experiment]] — obedience, distance and abstraction; why a higher purpose lets people refuse harmful orders
 
 * Where each topic comes from
 
@@ -36,6 +37,7 @@ The wiki ingest follows two threads: the chemicals themselves, and what leadersh
 | Part 2, Ch. 6 E.D.S.O.               | Endorphins, dopamine, serotonin, oxytocin          |
 | Part 2, Ch. 7 The Big C              | Cortisol, work-life balance                        |
 | Part 2, Ch. 8 Why We Have Leaders    | Leadership (eating last), serotonin (status)       |
+| Ch. 13 Abstraction Kills, Ch. 14 Modern Abstraction | Milgram's obedience experiment, cortisol (fear), leadership |
 | Part 7, Ch. 22 and 24                | Dopamine (addiction, phones and social media)      |
 | Part 8, Ch. 25 Step 12               | Oxytocin (addiction recovery), leadership          |
 | Part 8, Ch. 26 Shared Struggle       | Oxytocin (shared hardship), leadership             |

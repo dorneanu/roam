@@ -33,7 +33,7 @@ Leadership, in Sinek's account, is not rank or management technique but a *choic
 /Source: [[id:e343fcec-6ed1-4e30-91c0-66c6c0a79da8][Leaders Eat Last: Why Some Teams Pull Together and Others Don't]]/
 - Hardship that is shared bonds people; in abundance there is less reason to cooperate. Leaders need to frame a challenge larger than the resources at hand (a "vision of a world that does not yet exist") so that people have something to commit to
 - The "best days" we remember are the shared hardships, not the smooth ones; so a culture of cooperation is also what makes memories worth keeping
-- Purpose that serves others, not the self (Milgram: those with a higher purpose resisted harmful orders), outlasts profit or status as a motivator: "Human beings have thrived for fifty thousand years not because we are driven to serve ourselves, but because we are inspired to serve others"
+- Purpose that serves others, not the self ([[id:426abdde-bd6f-4c40-9c09-15d625e918c6][Milgram's obedience experiment]]: those with a higher purpose resisted harmful orders), outlasts profit or status as a motivator: "Human beings have thrived for fifty thousand years not because we are driven to serve ourselves, but because we are inspired to serve others"
 
 * Caveats
 - Sinek's biology is popular-science simplification (the chemicals do not map one-to-one onto feelings), and several claims — the ADHD "addiction" idea, school-shooting and suicide statistics tied to loneliness — are polemical rather than established. Treat the framework as a useful lens, not as settled neuroscience

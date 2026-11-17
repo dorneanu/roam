@@ -405,3 +405,14 @@ Append-only log of all wiki ingest, query, and lint operations.
 - *Topics updated:* oxytocin.org, serotonin.org, attention_economy.org, psychological_safety.org
 - *Focus:* (1) the chemicals — endorphins, dopamine, serotonin, oxytocin, cortisol; (2) leadership beyond management and work — parenting, friendship, adolescence, addiction recovery, shared struggle. Management-specific material (incentive schemes, Boomer/Gen Y history, Glass-Steagall, corporate case studies) was deliberately left out apart from examples that illustrate the above.
 - *Summary:* Ingested Sinek's book chapter-by-chapter around the E.D.S.O. chemicals (Ch. 6–8), cortisol and work-life balance (Ch. 7), dopamine addiction and AA's Step Twelve (Ch. 22, 25), phones and social media (Ch. 24), and shared struggle (Ch. 26–27); filled the empty oxytocin stub and extended serotonin.
+
+* 2026-11-17: Ingest — Leaders Eat Last (Simon Sinek), Milgram follow-up
+:PROPERTIES:
+:DATE:     2026-11-17
+:TYPE:     ingest
+:SOURCE:   Leaders Eat Last: Why Some Teams Pull Together and Others Don't (Simon Sinek, 2014)
+:END:
+- *Source type:* book
+- *Topics created:* milgram_obedience_experiment.org
+- *Topics updated:* leadership.org, wiki_index.org
+- *Summary:* Added a topic on Milgram's obedience experiment as Sinek retells it (setup, proximity findings, abstraction, higher authority), with caveats from the wider literature, and linked it from the leadership topic and the book page.
