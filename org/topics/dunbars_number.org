@@ -15,12 +15,14 @@ Dunbar's number is the anthropologist Robin Dunbar's estimate of how many stable
 
 * Use in team design
 /Source: [[id:0ED70037-0B89-4EDB-8C29-9CA0A09FD365][Team Topologies]]/
-- Team Topologies cites Dunbar's work as a limit on how much one team can know and trust: a team works best at around 5–9 people, and a group of teams that must collaborate closely at about 15, with trust stretched at 50 and 150
-- That is why the book treats *cognitive load* and team size as design constraints: split the software so that each team owns a domain it can understand, and keep the number of teams a team must interact with small
+- Team Topologies treats Dunbar's number as a limit on trust and recommends *scaling by Dunbar*: size team groupings to the natural limits of relationships, which it lists as about 5 people for close relationships and working memory, about 15 for deep trust, about 50 for mutual trust and about 150 for people whose capabilities we can remember (500 and 1,500 are suggested as further limits)
+- Recommended sizes: a single team of about 5–8 people (up to 15 in high-trust organisations), a "tribe" (group of teams) of no more than 50 (150 in high-trust organisations), and divisions or business lines of no more than 150 or 500
+- Growing past these limits makes trust break down. When a limit is reached, split off a semi-independent unit and realign the software architecture to the new team boundaries
+- The same limits on team size cap the *cognitive load* a team can carry, so each team should own only as much software and domain complexity as it can understand
 
 * Caveats
 - The 150 is a statistical estimate with a wide range of uncertainty, and its link to the neocortex has been disputed. Treat it as a rule of thumb, not a law
-- The Team Topologies details above are from my recollection of the book and should be checked against it
+- The Team Topologies figures follow the book's chapter on scaling teams using Dunbar's number; it takes the rings from Dave Snowden's "rule of 5, 15 & 150" and Dunbar's 1992 paper on neocortex size and group size
 
 * Resources
 - 2026-11-17 ◦ [[id:e343fcec-6ed1-4e30-91c0-66c6c0a79da8][Leaders Eat Last: Why Some Teams Pull Together and Others Don't]] (Simon Sinek, 2014) — Gore's 150-person plants and Dunbar's number

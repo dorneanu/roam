@@ -36,8 +36,9 @@ In 1961, a few months after Adolf Eichmann's trial began, the Yale psychologist 
 - The same applies outside work: parents, teachers, coaches and friends who anchor their choices in values rather than in whoever is applying pressure at the time are more likely to hold the line
 
 * Caveats
-- The numbers in this page follow Sinek's retelling, which is simplified. Milgram ran many more variations than the four described (about 20 in total), and obedience rates varied widely, from under 10 % to over 90 %, with details such as the setting, the authority's presence and the presence of other defiant participants
-- Later work has questioned the experiment: debriefing and ethical problems (the study is a reason for modern ethics review), doubts about how convinced the participants really were that the shocks were real, and the point that obedience may be *identification with the experimenter's cause* (science) rather than blind following. Partial replications (stopping at 150 volts for ethical reasons) found rates similar to Milgram's
+- The numbers in this page follow Sinek's retelling, which is simplified. Milgram ran about 20 variations, not four, and obedience varied from 0 % to 92.5 % depending on factors such as proximity, the setting and the authority's legitimacy. A 2014 meta-analysis (Haslam, Loughnan and Perry) put the average across conditions at about 43 %
+- Later work has questioned the experiment: Gina Perry's research in the Yale archives argues that many participants suspected the deception and that the experimenter often went off script. Harder to settle is what the results show: obedience as such, or willing identification with the experimenter's cause (science)
+- The study is a standard example of ethics problems, and a full replication would not be approved today. A partial replication by Jerry Burger (2009) stopped at 150 volts and found a rate of continuing similar to Milgram's at that point
 - Applying the findings to firms (Sinek estimates 650 of the Fortune 1000 leaders could ignore the human impact of their decisions) is an extrapolation, not a result
 
 * Resources
