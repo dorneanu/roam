@@ -2,6 +2,7 @@
 :ID:       d4a8c68a-4c23-4163-bf56-47d6050d1f07
 :END:
 #+title: Vocea Natiei #313
+#+hugo_slug: vocea-natiei-313
 #+filetags: :podcast:youtube:educatie:munca:ai:
 #+created: 20260917
 

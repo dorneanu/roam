@@ -58,7 +58,7 @@ ignoreFiles = ["org/blog/.*"]
 posts = "/posts/:title"
 notes = "/notes/:title"
 gists = "/gists/:title"
-topics = "/t/:title"
+topics = "/t/:slug"
 journal = "/j/:title"
 books = "/book/:title"
 

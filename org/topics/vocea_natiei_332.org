@@ -2,6 +2,7 @@
 :ID:       518a287c-2aaf-44fd-9ccc-5fd31e4e92cc
 :END:
 #+title: Vocea Natiei #332
+#+hugo_slug: vocea-natiei-332
 #+filetags: :podcast:youtube:ai:etica:mediu:
 #+created: 20260918
 
