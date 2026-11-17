@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e343fcec-6ed1-4e30-91c0-66c6c0a79da8
 :END:
-#+title: Leaders Eat Last: Why Some Teams Pull Together and Others Don't
+#+title: Leaders Eat Last
 #+filetags: :book:leadership:psychology:
 #+date: 2026-10-19
 #+author: Simon Sinek
@@ -9,7 +9,6 @@
 - goodreads :: [[https://www.goodreads.com/book/show/18040472-leaders-eat-last]]
 - author :: Simon Sinek
 - edition :: 2014 (Portfolio)
-- status :: ingested (chemicals and leadership beyond work; management material left out)
 
 * About this book
 
