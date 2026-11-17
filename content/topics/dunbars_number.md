@@ -1,6 +1,6 @@
 +++
 title = "Dunbar's number"
-author = ["hermes"]
+author = ["Dorneanu"]
 tags = ["psychology", "leadership", "organisations"]
 draft = false
 +++

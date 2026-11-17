@@ -1,6 +1,6 @@
 +++
 title = "Milgram's obedience experiment"
-author = ["hermes"]
+author = ["Dorneanu"]
 tags = ["psychology", "science", "ethics"]
 draft = false
 +++
