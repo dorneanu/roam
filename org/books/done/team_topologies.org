@@ -6,3 +6,6 @@
 #+date: 2026-02-10
 
 👉 https://www.goodreads.com/book/show/44135420-team-topologies
+
+* Related topics
+- [[id:1c239f18-d849-4307-a48d-8785497b3d1d][Dunbar's number]] — limits on how many people a team can know and trust

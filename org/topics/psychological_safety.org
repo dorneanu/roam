@@ -24,3 +24,4 @@ Psychological safety is the shared belief within a team that the environment is 
 
 * Resources
 - 2026-06-02 ◦ [[https://www.goodreads.com/book/show/48816586-software-engineering-at-google][Software Engineering at Google (Winters, Manshreck, Wright, 2020)]] — Chapter 3 identifies psychological safety as the most critical factor for effective teams, backed by Google's internal research; gives concrete examples and mitigation tactics
+- 2026-11-05 ◦ [[id:e343fcec-6ed1-4e30-91c0-66c6c0a79da8][Leaders Eat Last: Why Some Teams Pull Together and Others Don't]] (Simon Sinek, 2014) — the "Circle of Safety": a biological account of why safety matters — [[id:b57f02f1-5f51-4426-a6e4-c3cf721c9cd5][cortisol]] makes us guard ourselves, [[id:cacce695-0420-4ecb-8ea4-77d8fa31de28][oxytocin]] makes us look after each other — and an argument that the same applies at home and in friendships, not just in teams; see [[id:41898058-fd6b-48c5-bbbd-513625f4e3b2][Leadership]]
