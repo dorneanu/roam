@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       F0C494B0-688D-4F2C-8B21-A86BC99BF735
+:END:
+#+title: 26 Marathons
+#+filetags: :running:sport:biography:book:done:
+#+date: 2026-06-14
+
+- goodreads :: [[https://www.goodreads.com/book/show/37901578-26-marathons][26 Marathons]]
+- author :: Meb Keflezighi, Scott Douglas
+- date :: 2019
