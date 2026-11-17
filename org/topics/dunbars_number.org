@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       1c239f18-d849-4307-a48d-8785497b3d1d
+:END:
+#+title: Dunbar's number
+#+filetags: :psychology:leadership:organisations:
+
+* Overview
+Dunbar's number is the anthropologist Robin Dunbar's estimate of how many stable relationships a person can maintain: about 150 people, those you would not feel awkward joining for a drink if you met them in a bar. It comes from his work on primate group size and brain size (the neocortex). The number is usually described in rings (roughly 5, 15, 50, 150), where closeness and time spent together drop off with each ring. It is used in organisation design as an argument for capping the size of units where people must trust one another.
+
+* Why it matters for organisations
+/Source: [[id:e343fcec-6ed1-4e30-91c0-66c6c0a79da8][Leaders Eat Last: Why Some Teams Pull Together and Others Don't]]/
+- Our ancestors lived in groups of about 100–150, where everyone was known and could be trusted to help the group. Our brains still expect that scale
+- W. L. Gore & Associates caps its plants at about 150 people and builds a new one, sometimes next door, once a site grows past it. Bill Gore arrived at the figure by observation, when he walked the floor and no longer knew who worked for him
+- Beyond that size people become abstractions to each other, which weakens trust and cooperation (see [[id:426abdde-bd6f-4c40-9c09-15d625e918c6][Milgram's obedience experiment]] on distance and harm). A [[id:41898058-fd6b-48c5-bbbd-513625f4e3b2][leader]] looking after a Circle of Safety can only do so for a group they can know
+
+* Use in team design
+/Source: [[id:0ED70037-0B89-4EDB-8C29-9CA0A09FD365][Team Topologies]]/
+- Team Topologies cites Dunbar's work as a limit on how much one team can know and trust: a team works best at around 5–9 people, and a group of teams that must collaborate closely at about 15, with trust stretched at 50 and 150
+- That is why the book treats *cognitive load* and team size as design constraints: split the software so that each team owns a domain it can understand, and keep the number of teams a team must interact with small
+
+* Caveats
+- The 150 is a statistical estimate with a wide range of uncertainty, and its link to the neocortex has been disputed. Treat it as a rule of thumb, not a law
+- The Team Topologies details above are from my recollection of the book and should be checked against it
+
+* Resources
+- 2026-11-17 ◦ [[id:e343fcec-6ed1-4e30-91c0-66c6c0a79da8][Leaders Eat Last: Why Some Teams Pull Together and Others Don't]] (Simon Sinek, 2014) — Gore's 150-person plants and Dunbar's number
+- [[id:0ED70037-0B89-4EDB-8C29-9CA0A09FD365][Team Topologies]] — team size and trust limits in software team design

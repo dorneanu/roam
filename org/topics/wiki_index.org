@@ -98,6 +98,7 @@ Updated automatically on every ingest.
 - [[id:b561773c-b424-4366-97ff-a08da298f90f][Dopamine]] — the reward chemical of progress and instant gratification; goals must be tangible, and the same mechanism drives addiction to alcohol, gambling, phones and social media
 - [[id:b57f02f1-5f51-4426-a6e4-c3cf721c9cd5][Cortisol]] — the early-warning stress chemical; chronic low-grade cortisol damages health and trust, and oxytocin from supportive relationships counters it
 - [[id:426abdde-bd6f-4c40-9c09-15d625e918c6][Milgram's obedience experiment]] — 1961 Yale study of obedience to authority; how distance from those we harm and accountability to a higher purpose shape moral behaviour
+- [[id:1c239f18-d849-4307-a48d-8785497b3d1d][Dunbar's number]] — Robin Dunbar's limit of about 150 stable relationships; Gore's 150-person plants and team size in Team Topologies
 - [[id:c14c7068-96d8-41be-8033-67cbe15cb448][Endorphins]] — the body's own opiates: masking pain to enable endurance, runner's high, laughter
 
 * Health

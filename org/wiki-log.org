@@ -413,6 +413,6 @@ Append-only log of all wiki ingest, query, and lint operations.
 :SOURCE:   Leaders Eat Last: Why Some Teams Pull Together and Others Don't (Simon Sinek, 2014)
 :END:
 - *Source type:* book
-- *Topics created:* milgram_obedience_experiment.org
+- *Topics created:* milgram_obedience_experiment.org, dunbars_number.org
 - *Topics updated:* leadership.org, wiki_index.org
 - *Summary:* Added a topic on Milgram's obedience experiment as Sinek retells it (setup, proximity findings, abstraction, higher authority), with caveats from the wider literature, and linked it from the leadership topic and the book page.

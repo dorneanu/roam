@@ -27,6 +27,7 @@ The wiki ingest follows two threads: the chemicals themselves, and what leadersh
 - [[id:b57f02f1-5f51-4426-a6e4-c3cf721c9cd5][Cortisol]] — stress and the early-warning system; health costs; work-life balance as "where we feel safe"
 - [[id:27fc80ff-3162-43aa-9e83-22c6c36e1793][Psychological safety]] — the team-level counterpart of the Circle of Safety
 - [[id:5df3ff79-9b51-4bcc-8315-3c8efcff565f][Attention economy]] — notifications and likes as dopamine triggers
+- [[id:1c239f18-d849-4307-a48d-8785497b3d1d][Dunbar's number]] — about 150 stable relationships; Gore's 150-person plants; see also Team Topologies
 - [[id:426abdde-bd6f-4c40-9c09-15d625e918c6][Milgram's obedience experiment]] — obedience, distance and abstraction; why a higher purpose lets people refuse harmful orders
 
 * Where each topic comes from
@@ -167,7 +168,7 @@ It is not the demands of the job that cause the most stress, but the degree of c
 Though Bill Gore was trusting his gut based on his own observations, it’s no coincidence that he arrived at the 150 person limit. Robin Dunbar, British anthropologist and a professor in the Department of Experimental Psychology at Oxford University, arrived at this same conclusion. Professor Dunbar figured out that people simply cannot maintain more than about 150 close relationships. “Putting it another way,” he likes to say, “it’s the number of people you would not feel embarrassed about joining uninvited for a drink if you happened to bump into them in a bar.
 #+end_quote
 - Ch. 15 (Managing the Abstraction). W. L. Gore & Associates, founded by Bill and Vieve Gore, organises its plants and offices into working groups of about 150 people
-- Dunbar's number as the human limit for trusting relationships; see also Sinek's point that scale makes people abstractions
+- [[id:1c239f18-d849-4307-a48d-8785497b3d1d][Dunbar's number]] as the human limit for trusting relationships; see also Sinek's point that scale makes people abstractions
 
 ** Shareholder value
 #+begin_quote
